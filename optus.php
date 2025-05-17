@@ -1,6 +1,3 @@
-    <programme start="20250517045500 +0000" stop="20250517071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Vissel Kobe v Gamba</title>
-    </programme>
     <programme start="20250517055500 +0000" stop="20250517081000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Shonan v Yokohama FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
+    </programme>
+    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Albania v Serbia</title>
     </programme>

@@ -2868,19 +2868,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517143000 +0000" stop="20250517145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - LASK, 31. Runde</title>
 </programme>
 <programme start="20250517143000 +0000" stop="20250517145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Cashpoint SCR Altach - SK Austria Klagenfurt, 31. Runde</title>
 </programme>
 <programme start="20250517143000 +0000" stop="20250517145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - WSG Tirol, 31. Runde</title>
 </programme>
 <programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3036,7 +3036,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20250517131500 +0000" stop="20250517160000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+<programme start="20250517131500 +0000" stop="20250517163000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Live BL: FC St. Pauli - VfL Bochum, 34. Spieltag</title>
 </programme>
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
