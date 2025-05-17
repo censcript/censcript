@@ -912,25 +912,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517060000 +0000" stop="20250517080000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Real Madrid - RCD Mallorca</title>
 </programme>
-<programme start="20250517080000 +0000" stop="20250517081500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250517080000 +0000" stop="20250517082500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250517081500 +0000" stop="20250517100500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250517082500 +0000" stop="20250517101500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: VFB Stuttgart - FC Augsburg</title>
 </programme>
-<programme start="20250517100500 +0000" stop="20250517102000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250517101500 +0000" stop="20250517104500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250517102000 +0000" stop="20250517115500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250517104500 +0000" stop="20250517122000 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
 </programme>
-<programme start="20250517115500 +0000" stop="20250517124000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250517122000 +0000" stop="20250517130500 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
 </programme>
-<programme start="20250517124000 +0000" stop="20250517131500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250517131500 +0000" stop="20250517151000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250517130500 +0000" stop="20250517151000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
 <programme start="20250517151000 +0000" stop="20250517153000 +0000" channel="DAZN 1 HD.skyde">
@@ -985,19 +982,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Ligue 2: TBC - TBC</title>
+    <title>Ligue 2: FC Metz - US Dunkerque</title>
 </programme>
-<programme start="20250517170000 +0000" stop="20250517175000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250517170000 +0000" stop="20250517180000 +0000" channel="DAZN 2 HD.skyde">
     <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
 </programme>
-<programme start="20250517175000 +0000" stop="20250517185000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
+<programme start="20250517180000 +0000" stop="20250517185000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250517185000 +0000" stop="20250517210500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250517185000 +0000" stop="20250517210000 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1: Racing Straßburg - AC Le Havre</title>
 </programme>
-<programme start="20250517210500 +0000" stop="20250517220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
+<programme start="20250517210000 +0000" stop="20250517220000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen</title>
 </programme>
 <programme start="20250516220500 +0000" stop="20250516225000 +0000" channel="Discovery HD.skyde">
     <title>Das Survival-Duo: Zwei Männer, ein Ziel</title>
@@ -2877,19 +2874,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517143000 +0000" stop="20250517145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - LASK, 31. Runde</title>
 </programme>
 <programme start="20250517143000 +0000" stop="20250517145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Cashpoint SCR Altach - SK Austria Klagenfurt, 31. Runde</title>
 </programme>
 <programme start="20250517143000 +0000" stop="20250517145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250517145000 +0000" stop="20250517170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - WSG Tirol, 31. Runde</title>
 </programme>
 <programme start="20250516220000 +0000" stop="20250516230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3021,13 +3018,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20250517131500 +0000" stop="20250517160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250517131500 +0000" stop="20250517163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
 </programme>
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20250517131500 +0000" stop="20250517160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250517131500 +0000" stop="20250517163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Bayer Leverkusen, 34. Spieltag</title>
 </programme>
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -3039,7 +3036,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
-<programme start="20250517131500 +0000" stop="20250517160000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20250517131500 +0000" stop="20250517163000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - Werder Bremen, 34. Spieltag</title>
 </programme>
 <programme start="20250517125500 +0000" stop="20250517131500 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
@@ -3402,37 +3399,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250517213000 +0000" stop="20250517233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Aston Villa - Tottenham Hotspur, 37. Spieltag</title>
 </programme>
-<programme start="20250516223000 +0000" stop="20250517003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250516224000 +0000" stop="20250517004000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
-<programme start="20250517003000 +0000" stop="20250517010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517004000 +0000" stop="20250517010500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250517010000 +0000" stop="20250517030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517010500 +0000" stop="20250517030500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20250517030000 +0000" stop="20250517050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517030500 +0000" stop="20250517052000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20250517050000 +0000" stop="20250517060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517052000 +0000" stop="20250517061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Wimbledons Tennisgötter - Björn Borg und John McEnroe</title>
 </programme>
-<programme start="20250517060000 +0000" stop="20250517080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517061500 +0000" stop="20250517081500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
-<programme start="20250517080000 +0000" stop="20250517100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517081500 +0000" stop="20250517101000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20250517100000 +0000" stop="20250517103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517101000 +0000" stop="20250517104000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250517103000 +0000" stop="20250517123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517104000 +0000" stop="20250517123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - P. Stearns (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
-<programme start="20250517123000 +0000" stop="20250517125000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517123000 +0000" stop="20250517124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20250517125000 +0000" stop="20250517145000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250517124500 +0000" stop="20250517145000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20250517145000 +0000" stop="20250517173000 +0000" channel="Sky Sport Tennis HD.skyde">
