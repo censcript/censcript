@@ -1,6 +1,3 @@
-    <programme start="20250517170000 +0000" stop="20250517193000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Racing Louisville FC v Seattle Reign</title>
-    </programme>
     <programme start="20250517210000 +0000" stop="20250517233000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - North Carolina Courage v Chicago Stars</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Faroe Islands v Gibraltar</title>
+    </programme>
+    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Belgium v Wales</title>
     </programme>

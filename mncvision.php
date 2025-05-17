@@ -1321,7 +1321,87 @@
 <programme start="20250518150000 +0000" stop="20250518153000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 1000 2025: Rome (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250517180000 +0000" stop="20250517190000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FIA World Rally C&#039;ship 2025 (L)</title>
+</programme>
+<programme start="20250517190000 +0000" stop="20250517193000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20250517193000 +0000" stop="20250517195000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250517195000 +0000" stop="20250517202000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Magazine Show &#039;24/25</title>
+</programme>
+<programme start="20250517202000 +0000" stop="20250517205000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Best 11: Joan Capdevila</title>
+</programme>
+<programme start="20250517205000 +0000" stop="20250517212000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Nastro Rosa Tour 2024</title>
+</programme>
+<programme start="20250517212000 +0000" stop="20250517231000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: VLD Vs GIR</title>
+</programme>
+<programme start="20250517231000 +0000" stop="20250518010000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: RSO Vs CEL</title>
+</programme>
+<programme start="20250518010000 +0000" stop="20250518012000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250518012000 +0000" stop="20250518015000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2025: May</title>
+</programme>
+<programme start="20250518015000 +0000" stop="20250518035000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: SEV Vs LPM</title>
+</programme>
+<programme start="20250518035000 +0000" stop="20250518041000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250518041000 +0000" stop="20250518060000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Confederation: RSB Vs SIM</title>
+</programme>
+<programme start="20250518060000 +0000" stop="20250518063000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20250518063000 +0000" stop="20250518073000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FIA World Rally C&#039;ship 2025</title>
+</programme>
+<programme start="20250518073000 +0000" stop="20250518083000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FIA World Rally C&#039;ship 2025 (L)</title>
+</programme>
+<programme start="20250518083000 +0000" stop="20250518090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Talking Football 2024/25</title>
+</programme>
+<programme start="20250518090000 +0000" stop="20250518110000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Emirates FA Cup: CRY Vs MCI</title>
+</programme>
+<programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Best 11: Joan Capdevila</title>
+</programme>
+<programme start="20250518113000 +0000" stop="20250518120000 +0000" channel="beIN Sports 3.mncvision">
+    <title>This Is Paris 2024/25, Ep 35</title>
+</programme>
+<programme start="20250518120000 +0000" stop="20250518133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FIA World Rally C&#039;ship 2025 (L)</title>
+</programme>
+<programme start="20250518133000 +0000" stop="20250518135800 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Sports Rundown 2025: May</title>
+</programme>
+<programme start="20250518135800 +0000" stop="20250518140800 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Match HL 2024</title>
+</programme>
+<programme start="20250518140800 +0000" stop="20250518161500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 &#039;24/25: OVI Vs ZAR (L)</title>
+</programme>
+<programme start="20250518161500 +0000" stop="20250518163500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Zap 2024/25, Ep 9</title>
+</programme>
+<programme start="20250518163500 +0000" stop="20250518165500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Show 2024/25</title>
+</programme>
+<programme start="20250518165500 +0000" stop="20250517172500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: SEV Vs RMA (L)</title>
+</programme>
 <programme start="20250517180000 +0000" stop="20250517190000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>FIA World Rally C&#039;ship 2025 (L)</title>
 </programme>
