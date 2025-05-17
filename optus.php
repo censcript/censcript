@@ -1,6 +1,3 @@
-    <programme start="20250517095000 +0000" stop="20250517121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gangwon v Ulsan</title>
-    </programme>
     <programme start="20250517143000 +0000" stop="20250517184000 +0000" channel="Optus Sport 2.optus">
         <title>FA Cup - Crystal Palace v Manchester City</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Croatia v Czechia</title>
+    </programme>
+    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Italy v Moldova</title>
     </programme>
