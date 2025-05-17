@@ -1,6 +1,3 @@
-    <programme start="20250517143000 +0000" stop="20250517184000 +0000" channel="Optus Sport 2.optus">
-        <title>FA Cup - Crystal Palace v Manchester City</title>
-    </programme>
     <programme start="20250517170000 +0000" stop="20250517193000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Racing Louisville FC v Seattle Reign</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Italy v Moldova</title>
+    </programme>
+    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - Faroe Islands v Gibraltar</title>
     </programme>
