@@ -9625,42 +9625,7 @@
 <programme start="20250518155000 +0000" stop="20250518162000 +0000" channel="tvN HD.mncvision">
     <title>Second Shot At Love, Ep 2</title>
 </programme>
-<programme start="20250517174000 +0000" stop="20250517193500 +0000" channel="tvN Movies.mncvision">
-    <title>Fatal Intuition</title>
-</programme>
-<programme start="20250517193500 +0000" stop="20250517213500 +0000" channel="tvN Movies.mncvision">
-    <title>Honeysweet</title>
-</programme>
-<programme start="20250517213500 +0000" stop="20250517234500 +0000" channel="tvN Movies.mncvision">
-    <title>Steel Rain: Summit</title>
-</programme>
-<programme start="20250517234500 +0000" stop="20250518013500 +0000" channel="tvN Movies.mncvision">
-    <title>On The Line</title>
-</programme>
-<programme start="20250518013500 +0000" stop="20250518033500 +0000" channel="tvN Movies.mncvision">
-    <title>Meet The In-Laws</title>
-</programme>
-<programme start="20250518033500 +0000" stop="20250518054000 +0000" channel="tvN Movies.mncvision">
-    <title>The Man From Nowhere</title>
-</programme>
-<programme start="20250518054000 +0000" stop="20250518075500 +0000" channel="tvN Movies.mncvision">
-    <title>Exhuma</title>
-</programme>
-<programme start="20250518075500 +0000" stop="20250518100000 +0000" channel="tvN Movies.mncvision">
-    <title>Gyeong-ah&#039;s Daughter</title>
-</programme>
-<programme start="20250518100000 +0000" stop="20250518120000 +0000" channel="tvN Movies.mncvision">
-    <title>The Devil&#039;s Deal</title>
-</programme>
-<programme start="20250518120000 +0000" stop="20250518140000 +0000" channel="tvN Movies.mncvision">
-    <title>The Bad Guys: Reign Of Chaos</title>
-</programme>
-<programme start="20250518140000 +0000" stop="20250518160000 +0000" channel="tvN Movies.mncvision">
-    <title>I, The Executioner</title>
-</programme>
-<programme start="20250518160000 +0000" stop="20250518163000 +0000" channel="tvN Movies.mncvision">
-    <title>Officer Of The Year</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250517174000 +0000" stop="20250517193500 +0000" channel="tvN Movies HD.mncvision">
     <title>Fatal Intuition</title>
 </programme>

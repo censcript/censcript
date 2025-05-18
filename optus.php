@@ -1,9 +1,3 @@
-    <programme start="20250517210000 +0000" stop="20250517233000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - North Carolina Courage v Chicago Stars</title>
-    </programme>
-    <programme start="20250517233000 +0000" stop="20250518020000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Washington Spirit v Utah Royals FC</title>
-    </programme>
     <programme start="20250518020000 +0000" stop="20250518043000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Bay FC v Angel City FC</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Belgium v Wales</title>
+    </programme>
+    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Estonia v Norway</title>
+    </programme>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
     </programme>

@@ -2852,7 +2852,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518142500 +0000" stop="20250518144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250518144500 +0000" stop="20250518170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250518144500 +0000" stop="20250518173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - FK Austria Wien, 31. Runde</title>
 </programme>
 <programme start="20250518142500 +0000" stop="20250518144500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2993,7 +2993,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - Jahn Regensburg, 34. Spieltag</title>
 </programme>
 <programme start="20250517220000 +0000" stop="20250517221500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3438,10 +3438,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WRC: Rally de Portugal - SS21 Fafe 1</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
+    <title>F1: Top 10 Onboards: Michael Schumacher</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Top 10 Onboards: Michael Schumacher</title>
+    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
 </programme>
 <programme start="20250518113000 +0000" stop="20250518125500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Vorberichte - GP Emilia Romagna</title>
