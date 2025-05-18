@@ -1,9 +1,3 @@
-    <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Daegu v Seoul</title>
-    </programme>
-    <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Gwangju</title>
-    </programme>
     <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Southampton</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
+    </programme>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 5.optus">
+        <title>UEFA World Cup Qualifiers - San Marino v Austria</title>
+    </programme>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 4.optus">
+        <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
     </programme>

@@ -3103,10 +3103,10 @@
 <programme start="20250517230000 +0000" stop="20250518000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20250518000000 +0000" stop="20250518030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250518000000 +0000" stop="20250518033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Dallas Stars - Winnipeg Jets, Playoffs, 2. Runde, Spiel 6</title>
 </programme>
-<programme start="20250518030000 +0000" stop="20250518040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250518033000 +0000" stop="20250518040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20250518040000 +0000" stop="20250518050000 +0000" channel="Sky Sport Mix HD.skyde">
