@@ -988,6 +988,108 @@
 <programme start="20250518210000 +0000" stop="20250518220500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
 </programme>
+<programme start="20250517220500 +0000" stop="20250517223000 +0000" channel="Discovery HD.skyde">
+    <title>Caught! - Die Kamera sieht alles</title>
+</programme>
+<programme start="20250517223000 +0000" stop="20250517225000 +0000" channel="Discovery HD.skyde">
+    <title>Caught! - Die Kamera sieht alles</title>
+</programme>
+<programme start="20250517225000 +0000" stop="20250518002000 +0000" channel="Discovery HD.skyde">
+    <title>Naked Survival XXL</title>
+</programme>
+<programme start="20250518002000 +0000" stop="20250518010500 +0000" channel="Discovery HD.skyde">
+    <title>Shark Week: Die ultimativen Hai-lights</title>
+</programme>
+<programme start="20250518010500 +0000" stop="20250518014500 +0000" channel="Discovery HD.skyde">
+    <title>Sommer, Sonne, Strand ¿ und Haie!</title>
+</programme>
+<programme start="20250518014500 +0000" stop="20250518023000 +0000" channel="Discovery HD.skyde">
+    <title>Die größten Konstruktionsfehler der Welt</title>
+</programme>
+<programme start="20250518023000 +0000" stop="20250518025500 +0000" channel="Discovery HD.skyde">
+    <title>Smart Science - Gewusst wie</title>
+</programme>
+<programme start="20250518025500 +0000" stop="20250518031500 +0000" channel="Discovery HD.skyde">
+    <title>Hardcore Pawn - Das härteste Pfandhaus Detroits</title>
+</programme>
+<programme start="20250518031500 +0000" stop="20250518033500 +0000" channel="Discovery HD.skyde">
+    <title>Caught! - Die Kamera sieht alles</title>
+</programme>
+<programme start="20250518033500 +0000" stop="20250518035500 +0000" channel="Discovery HD.skyde">
+    <title>Caught! - Die Kamera sieht alles</title>
+</programme>
+<programme start="20250518035500 +0000" stop="20250518042000 +0000" channel="Discovery HD.skyde">
+    <title>Border Control - Spaniens Grenzschützer</title>
+</programme>
+<programme start="20250518042000 +0000" stop="20250518050500 +0000" channel="Discovery HD.skyde">
+    <title>Dodo Heroes - Aus Liebe zu Tieren</title>
+</programme>
+<programme start="20250518050500 +0000" stop="20250518055000 +0000" channel="Discovery HD.skyde">
+    <title>Dodo Heroes - Aus Liebe zu Tieren</title>
+</programme>
+<programme start="20250518055000 +0000" stop="20250518063500 +0000" channel="Discovery HD.skyde">
+    <title>Dodo Heroes - Aus Liebe zu Tieren</title>
+</programme>
+<programme start="20250518063500 +0000" stop="20250518072000 +0000" channel="Discovery HD.skyde">
+    <title>Dodo Heroes - Aus Liebe zu Tieren</title>
+</programme>
+<programme start="20250518072000 +0000" stop="20250518081000 +0000" channel="Discovery HD.skyde">
+    <title>Dodo Heroes - Aus Liebe zu Tieren</title>
+</programme>
+<programme start="20250518081000 +0000" stop="20250518085500 +0000" channel="Discovery HD.skyde">
+    <title>Der Germinator - Ein deutscher Cop in Texas</title>
+</programme>
+<programme start="20250518085500 +0000" stop="20250518094500 +0000" channel="Discovery HD.skyde">
+    <title>Der Germinator - Ein deutscher Cop in Texas</title>
+</programme>
+<programme start="20250518094500 +0000" stop="20250518103000 +0000" channel="Discovery HD.skyde">
+    <title>Der Germinator - Ein deutscher Cop in Texas</title>
+</programme>
+<programme start="20250518103000 +0000" stop="20250518111500 +0000" channel="Discovery HD.skyde">
+    <title>Der Germinator - Ein deutscher Cop in Texas</title>
+</programme>
+<programme start="20250518111500 +0000" stop="20250518120500 +0000" channel="Discovery HD.skyde">
+    <title>Jared From Subway - Catching A Monster</title>
+</programme>
+<programme start="20250518120500 +0000" stop="20250518125000 +0000" channel="Discovery HD.skyde">
+    <title>Jared From Subway - Catching A Monster</title>
+</programme>
+<programme start="20250518125000 +0000" stop="20250518133500 +0000" channel="Discovery HD.skyde">
+    <title>Jared From Subway - Catching A Monster</title>
+</programme>
+<programme start="20250518133500 +0000" stop="20250518142000 +0000" channel="Discovery HD.skyde">
+    <title>Gold, Lies &amp; Videotape</title>
+</programme>
+<programme start="20250518142000 +0000" stop="20250518151000 +0000" channel="Discovery HD.skyde">
+    <title>Gold, Lies &amp; Videotape</title>
+</programme>
+<programme start="20250518151000 +0000" stop="20250518155500 +0000" channel="Discovery HD.skyde">
+    <title>Gold, Lies &amp; Videotape</title>
+</programme>
+<programme start="20250518155500 +0000" stop="20250518164000 +0000" channel="Discovery HD.skyde">
+    <title>Gold, Lies &amp; Videotape</title>
+</programme>
+<programme start="20250518164000 +0000" stop="20250518172500 +0000" channel="Discovery HD.skyde">
+    <title>Gold, Lies &amp; Videotape</title>
+</programme>
+<programme start="20250518172500 +0000" stop="20250518181500 +0000" channel="Discovery HD.skyde">
+    <title>Gold, Lies &amp; Videotape</title>
+</programme>
+<programme start="20250518181500 +0000" stop="20250518190000 +0000" channel="Discovery HD.skyde">
+    <title>Expedition Unknown - Mythen auf der Spur</title>
+</programme>
+<programme start="20250518190000 +0000" stop="20250518195000 +0000" channel="Discovery HD.skyde">
+    <title>Alte Baukunst neu entschlüsselt</title>
+</programme>
+<programme start="20250518195000 +0000" stop="20250518203500 +0000" channel="Discovery HD.skyde">
+    <title>Expedition Files - Der Wahrheit auf der Spur</title>
+</programme>
+<programme start="20250518203500 +0000" stop="20250518212000 +0000" channel="Discovery HD.skyde">
+    <title>Die Retter vom Mount Everest</title>
+</programme>
+<programme start="20250518212000 +0000" stop="20250518220500 +0000" channel="Discovery HD.skyde">
+    <title>Die Retter vom Mount Everest</title>
+</programme>
 <programme start="20250517230000 +0000" stop="20250518003000 +0000" channel="Heimatkanal.skyde">
     <title>Verlobung am Wolfgangsee</title>
 </programme>
@@ -3001,10 +3103,10 @@
 <programme start="20250517230000 +0000" stop="20250518000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20250518000000 +0000" stop="20250518030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250518000000 +0000" stop="20250518033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Dallas Stars - Winnipeg Jets, Playoffs, 2. Runde, Spiel 6</title>
 </programme>
-<programme start="20250518030000 +0000" stop="20250518040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250518033000 +0000" stop="20250518040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20250518040000 +0000" stop="20250518050000 +0000" channel="Sky Sport Mix HD.skyde">

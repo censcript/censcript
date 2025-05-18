@@ -1,7 +1,7 @@
     <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Everton v Southampton</title>
     </programme>
-    <programme start="20250518122000 +0000" stop="20250518154000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250518121500 +0000" stop="20250518154000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Chelsea v Manchester United</title>
     </programme>
     <programme start="20250518130500 +0000" stop="20250518152000 +0000" channel="Optus Sport 1.optus">
