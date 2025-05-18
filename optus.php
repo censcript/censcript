@@ -1,6 +1,3 @@
-    <programme start="20250518152000 +0000" stop="20250518183000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Arsenal v Newcastle United</title>
-    </programme>
     <programme start="20250518193000 +0000" stop="20250518210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Suwon FC</title>
+    </programme>
+    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Seoul v Gangwon</title>
     </programme>
