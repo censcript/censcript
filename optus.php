@@ -1,12 +1,3 @@
-    <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - West Ham United v Nottingham Forest</title>
-    </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Leicester City v Ipswich</title>
-    </programme>
-    <programme start="20250518135000 +0000" stop="20250518161000 +0000" channel="Optus Sport 5.optus">
-        <title>Premier League - Brentford v Fulham</title>
-    </programme>
     <programme start="20250518152000 +0000" stop="20250518183000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Arsenal v Newcastle United</title>
     </programme>
@@ -297,4 +288,13 @@
     </programme>
     <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Jeonbuk</title>
+    </programme>
+    <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Suwon FC v Anyang</title>
+    </programme>
+    <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeju v Daegu</title>
+    </programme>
+    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeonbuk v Suwon FC</title>
     </programme>
