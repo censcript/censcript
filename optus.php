@@ -1,6 +1,3 @@
-    <programme start="20250518055500 +0000" stop="20250518081000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kawasaki v Cerezo</title>
-    </programme>
     <programme start="20250518072000 +0000" stop="20250518094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daegu v Seoul</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
+    </programme>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 6.optus">
+        <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
     </programme>
