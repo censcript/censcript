@@ -1,6 +1,3 @@
-    <programme start="20250518100000 +0000" stop="20250518131000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Everton v Southampton</title>
-    </programme>
     <programme start="20250518121500 +0000" stop="20250518154000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Chelsea v Manchester United</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
+    </programme>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA World Cup Qualifiers - Finland v Poland</title>
     </programme>

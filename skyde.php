@@ -3103,10 +3103,10 @@
 <programme start="20250517230000 +0000" stop="20250518000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20250518000000 +0000" stop="20250518033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250518000000 +0000" stop="20250518030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Dallas Stars - Winnipeg Jets, Playoffs, 2. Runde, Spiel 6</title>
 </programme>
-<programme start="20250518033000 +0000" stop="20250518040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250518030000 +0000" stop="20250518040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20250518040000 +0000" stop="20250518050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3346,14 +3346,8 @@
 <programme start="20250517234000 +0000" stop="20250518000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 90in30: TSG - FCB, 34. Spieltag</title>
 </programme>
-<programme start="20250518000000 +0000" stop="20250518030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250518000000 +0000" stop="20250518033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars - Winnipeg Jets, Playoffs, 2. Runde, Spiel 6</title>
-</programme>
-<programme start="20250518030000 +0000" stop="20250518031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights TOR@FLA, Playoffs, 2. Runde, Spiel 6</title>
-</programme>
-<programme start="20250518031500 +0000" stop="20250518033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights EDM@VGK, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
 <programme start="20250518033000 +0000" stop="20250518040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: 90in30: CHE - MUN, 37. Spieltag</title>
@@ -3437,10 +3431,10 @@
     <title>WRC: Rally de Portugal - SS21 Fafe 1</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
+    <title>F1: Top 10 Onboards: Michael Schumacher</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Top 10 Onboards: Michael Schumacher</title>
+    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
 </programme>
 <programme start="20250518113000 +0000" stop="20250518125500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Vorberichte - GP Emilia Romagna</title>
