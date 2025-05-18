@@ -1,9 +1,3 @@
-    <programme start="20250518121500 +0000" stop="20250518154000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Chelsea v Manchester United</title>
-    </programme>
-    <programme start="20250518130500 +0000" stop="20250518152000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Overnight Sunday</title>
-    </programme>
     <programme start="20250518130500 +0000" stop="20250518152500 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - West Ham United v Nottingham Forest</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Finland v Poland</title>
+    </programme>
+    <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Gwangju v Seoul</title>
+    </programme>
+    <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Gangwon v Jeonbuk</title>
     </programme>

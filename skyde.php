@@ -3437,10 +3437,10 @@
     <title>WRC: Rally de Portugal - SS21 Fafe 1</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Top 10 Onboards: Michael Schumacher</title>
+    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
+    <title>F1: Top 10 Onboards: Michael Schumacher</title>
 </programme>
 <programme start="20250518113000 +0000" stop="20250518125500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Vorberichte - GP Emilia Romagna</title>
