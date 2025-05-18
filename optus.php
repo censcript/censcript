@@ -38,7 +38,7 @@
         <title>N/A - PL Stories: Goodbye Goodison</title>
     </programme>
     <programme start="20250522123000 +0000" stop="20250522130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview</title>
+        <title>N/A - The Big Interview: Morato</title>
     </programme>
     <programme start="20250523093000 +0000" stop="20250523100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
@@ -67,7 +67,7 @@
     <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Suwon FC</title>
     </programme>
-    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Nagoya v Urawa Red Diamonds</title>
     </programme>
     <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
@@ -109,10 +109,10 @@
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 3.optus">
         <title>Premier League - Nottingham Forest v Chelsea</title>
     </programme>
-    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 5.optus">
         <title>Premier League - Newcastle United v Everton</title>
     </programme>
-    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Manchester United v Aston Villa</title>
     </programme>
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 2.optus">
