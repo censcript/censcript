@@ -1,7 +1,3 @@
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20250517220500 +0000" stop="20250517225000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2846,7 +2842,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518142500 +0000" stop="20250518144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250518144500 +0000" stop="20250518170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250518144500 +0000" stop="20250518173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - SK Puntigamer Sturm Graz, 31. Spieltag</title>
 </programme>
 <programme start="20250518142500 +0000" stop="20250518144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2858,22 +2854,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518142500 +0000" stop="20250518144500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250518144500 +0000" stop="20250518170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250518144500 +0000" stop="20250518173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - FC Red Bull Salzburg, 31. Runde</title>
 </programme>
-<programme start="20250517223000 +0000" stop="20250518003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250517223500 +0000" stop="20250518003500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Samstags-Konferenz, 34. Spieltag</title>
 </programme>
-<programme start="20250518003000 +0000" stop="20250518013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250518003500 +0000" stop="20250518013500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
 </programme>
-<programme start="20250518013000 +0000" stop="20250518033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250518013500 +0000" stop="20250518033500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
 </programme>
-<programme start="20250518033000 +0000" stop="20250518043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250518033500 +0000" stop="20250518043500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
 </programme>
-<programme start="20250518043000 +0000" stop="20250518044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250518043500 +0000" stop="20250518044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Dein Spieltags-Sprint (34)</title>
 </programme>
 <programme start="20250518044500 +0000" stop="20250518064500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2939,55 +2935,55 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518123000 +0000" stop="20250518153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 34. Spieltag</title>
 </programme>
-<programme start="20250518153000 +0000" stop="20250518173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250518153000 +0000" stop="20250518180000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Winamax Highlightshow, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Köln - 1. FC Kaiserslautern, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Hamburger SV, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - SC Paderborn 07, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Fortuna Düsseldorf, 34. Spiletag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - 1. FC Nürnberg, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Live 2. BL: SSV Ulm 1846 - Preußen Münster, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250518132000 +0000" stop="20250518154500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20250518132000 +0000" stop="20250518163000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live 2. BL: Hertha BSC - Hannover 96, 34. Spieltag</title>
 </programme>
 <programme start="20250518130000 +0000" stop="20250518132000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
@@ -3068,7 +3064,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518200000 +0000" stop="20250518230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: Qualifying Indy 500 - Day 2</title>
 </programme>
-<programme start="20250517230000 +0000" stop="20250518000000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250517234000 +0000" stop="20250518000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2012 (Rory McIlroy)</title>
 </programme>
 <programme start="20250518000000 +0000" stop="20250518003000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3090,10 +3086,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PGA Championship: Official Film 2014 (Rory McIlroy)</title>
 </programme>
 <programme start="20250518110000 +0000" stop="20250518111500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title></title>
+    <title>Golf: Projekt 0 (3)</title>
 </programme>
 <programme start="20250518111500 +0000" stop="20250518120000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title></title>
+    <title>Golf: Tiger 2000</title>
 </programme>
 <programme start="20250518120000 +0000" stop="20250518170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live PGA Championship: 4. Tag (Early Coverage)</title>
@@ -3314,22 +3310,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250518020500 +0000" stop="20250518030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250518030000 +0000" stop="20250518053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250518030000 +0000" stop="20250518051000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20250518053000 +0000" stop="20250518073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250518051000 +0000" stop="20250518073500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
-<programme start="20250518073000 +0000" stop="20250518093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250518073500 +0000" stop="20250518095000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - T. Paul (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20250518093000 +0000" stop="20250518120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250518095000 +0000" stop="20250518101500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250518101500 +0000" stop="20250518123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20250518120000 +0000" stop="20250518143500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Internazionali BNL d&#039;Italia in Rom (Italien), Doppelfinale</title>
+<programme start="20250518123000 +0000" stop="20250518143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 500: D. Dedura (GER) - L. Darderi (ITA), Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
 </programme>
-<programme start="20250518143500 +0000" stop="20250518145000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250518143000 +0000" stop="20250518145000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20250518145000 +0000" stop="20250518173000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3342,19 +3341,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
 <programme start="20250518203000 +0000" stop="20250518223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
+    <title>ATP 500: D. Dedura (GER) - L. Darderi (ITA), Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
 </programme>
-<programme start="20250517230000 +0000" stop="20250518000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
+<programme start="20250517234000 +0000" stop="20250518000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: 90in30: TSG - FCB, 34. Spieltag</title>
 </programme>
-<programme start="20250518000000 +0000" stop="20250518030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250518000000 +0000" stop="20250518033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars - Winnipeg Jets, Playoffs, 2. Runde, Spiel 6</title>
-</programme>
-<programme start="20250518030000 +0000" stop="20250518031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights TOR@FLA, Playoffs, 2. Runde, Spiel 6</title>
-</programme>
-<programme start="20250518031500 +0000" stop="20250518033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights EDM@VGK, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
 <programme start="20250518033000 +0000" stop="20250518040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: 90in30: CHE - MUN, 37. Spieltag</title>
