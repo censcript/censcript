@@ -1,6 +1,3 @@
-    <programme start="20250518020000 +0000" stop="20250518043000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Bay FC v Angel City FC</title>
-    </programme>
     <programme start="20250518055500 +0000" stop="20250518081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kawasaki v Cerezo</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
+    </programme>
+    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
     </programme>
