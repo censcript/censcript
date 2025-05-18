@@ -406,10 +406,10 @@
     <programme start="20250517140001 +0000" stop="20250517170000 +0000" channel="Vasantham.mewatch">
         <title>August 16 1947</title>
     </programme>
-    <programme start="20250517170000 +0000" stop="20250517172957 +0000" channel="Vasantham.mewatch">
+    <programme start="20250517170002 +0000" stop="20250517173003 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250517172957 +0000" stop="20250518010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250517173003 +0000" stop="20250518010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250518010000 +0000" stop="20250518020000 +0000" channel="Vasantham.mewatch">

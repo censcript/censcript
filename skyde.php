@@ -3346,8 +3346,14 @@
 <programme start="20250517234000 +0000" stop="20250518000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 90in30: TSG - FCB, 34. Spieltag</title>
 </programme>
-<programme start="20250518000000 +0000" stop="20250518033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250518000000 +0000" stop="20250518030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars - Winnipeg Jets, Playoffs, 2. Runde, Spiel 6</title>
+</programme>
+<programme start="20250518030000 +0000" stop="20250518031500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights TOR@FLA, Playoffs, 2. Runde, Spiel 6</title>
+</programme>
+<programme start="20250518031500 +0000" stop="20250518033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights EDM@VGK, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
 <programme start="20250518033000 +0000" stop="20250518040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: 90in30: CHE - MUN, 37. Spieltag</title>

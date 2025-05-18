@@ -445,9 +445,6 @@
 <programme start="20250518043000 +0000" stop="20250518053000 +0000" channel="Trans TV.vision">
 <title>Spill DD Tea</title>
 </programme>
-<programme start="20250518053000 +0000" stop="20250518070000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
-</programme>
 <programme start="20250518070000 +0000" stop="20250518080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250519021500 +0000" stop="20250519030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250519030000 +0000" stop="20250519040000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
