@@ -2922,7 +2922,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250519183000 +0000" stop="20250519185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250519185000 +0000" stop="20250519210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250519185000 +0000" stop="20250519211500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - FC Liverpool, 37. Spieltag</title>
 </programme>
 <programme start="20250518220000 +0000" stop="20250518221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3274,7 +3274,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: PL Rewind: Slaven Bilic - My West Ham Years</title>
 </programme>
 <programme start="20250519090000 +0000" stop="20250519093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CRY - WOL, 37. Spieltag</title>
+    <title>PL: 90in30: ARS - NEW, 37. Spieltag</title>
 </programme>
 <programme start="20250519093000 +0000" stop="20250519100000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Peter Schmeichel</title>
@@ -3363,7 +3363,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250519213000 +0000" stop="20250519233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 2. Tag</title>
 </programme>
-<programme start="20250518230000 +0000" stop="20250518233000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250518231500 +0000" stop="20250518233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Highlights Sonntag, 37. Spieltag</title>
 </programme>
 <programme start="20250518233000 +0000" stop="20250519023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3388,7 +3388,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
 </programme>
 <programme start="20250519070000 +0000" stop="20250519093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Finale, Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
+    <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
 <programme start="20250519093000 +0000" stop="20250519100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Emilia Romagna</title>

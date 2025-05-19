@@ -8689,10 +8689,10 @@
 <programme start="20250519013000 +0000" stop="20250519020000 +0000" channel="SPOTV.mncvision">
     <title>SPOTV Encore: MLS 2025</title>
 </programme>
-<programme start="20250519020000 +0000" stop="20250519040000 +0000" channel="SPOTV.mncvision">
+<programme start="20250519020000 +0000" stop="20250519035000 +0000" channel="SPOTV.mncvision">
     <title>Isuzu UTE A-League Men</title>
 </programme>
-<programme start="20250519040000 +0000" stop="20250519060000 +0000" channel="SPOTV.mncvision">
+<programme start="20250519035000 +0000" stop="20250519060000 +0000" channel="SPOTV.mncvision">
     <title>Roshn Saudi League 2024/25</title>
 </programme>
 <programme start="20250519060000 +0000" stop="20250519080000 +0000" channel="SPOTV.mncvision">
@@ -8701,13 +8701,13 @@
 <programme start="20250519080000 +0000" stop="20250519090000 +0000" channel="SPOTV.mncvision">
     <title>WSL Replay: Gold Coast Pro</title>
 </programme>
-<programme start="20250519090000 +0000" stop="20250519110000 +0000" channel="SPOTV.mncvision">
+<programme start="20250519090000 +0000" stop="20250519111500 +0000" channel="SPOTV.mncvision">
     <title>Roshn Saudi League 2024/25</title>
 </programme>
-<programme start="20250519110000 +0000" stop="20250519130000 +0000" channel="SPOTV.mncvision">
+<programme start="20250519111500 +0000" stop="20250519130500 +0000" channel="SPOTV.mncvision">
     <title>Isuzu UTE A-League Men</title>
 </programme>
-<programme start="20250519130000 +0000" stop="20250519150000 +0000" channel="SPOTV.mncvision">
+<programme start="20250519130500 +0000" stop="20250519150000 +0000" channel="SPOTV.mncvision">
     <title>Isuzu UTE A-League Men</title>
 </programme>
 <programme start="20250519150000 +0000" stop="20250519153000 +0000" channel="SPOTV.mncvision">
@@ -8791,10 +8791,10 @@
 <programme start="20250519013000 +0000" stop="20250519020000 +0000" channel="SPOTV HD.mncvision">
     <title>SPOTV Encore: MLS 2025</title>
 </programme>
-<programme start="20250519020000 +0000" stop="20250519040000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250519020000 +0000" stop="20250519035000 +0000" channel="SPOTV HD.mncvision">
     <title>Isuzu UTE A-League Men</title>
 </programme>
-<programme start="20250519040000 +0000" stop="20250519060000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250519035000 +0000" stop="20250519060000 +0000" channel="SPOTV HD.mncvision">
     <title>Roshn Saudi League 2024/25</title>
 </programme>
 <programme start="20250519060000 +0000" stop="20250519080000 +0000" channel="SPOTV HD.mncvision">
@@ -8803,13 +8803,13 @@
 <programme start="20250519080000 +0000" stop="20250519090000 +0000" channel="SPOTV HD.mncvision">
     <title>WSL Replay: Gold Coast Pro</title>
 </programme>
-<programme start="20250519090000 +0000" stop="20250519110000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250519090000 +0000" stop="20250519111500 +0000" channel="SPOTV HD.mncvision">
     <title>Roshn Saudi League 2024/25</title>
 </programme>
-<programme start="20250519110000 +0000" stop="20250519130000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250519111500 +0000" stop="20250519130500 +0000" channel="SPOTV HD.mncvision">
     <title>Isuzu UTE A-League Men</title>
 </programme>
-<programme start="20250519130000 +0000" stop="20250519150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250519130500 +0000" stop="20250519150000 +0000" channel="SPOTV HD.mncvision">
     <title>Isuzu UTE A-League Men</title>
 </programme>
 <programme start="20250519150000 +0000" stop="20250519153000 +0000" channel="SPOTV HD.mncvision">
