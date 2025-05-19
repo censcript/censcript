@@ -8512,42 +8512,7 @@
 <programme start="20250520153000 +0000" stop="20250520160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20250519170000 +0000" stop="20250519190000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2: PKU Vs MDN</title>
-</programme>
-<programme start="20250519190000 +0000" stop="20250519210000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1: BOR Vs PBY</title>
-</programme>
-<programme start="20250519210000 +0000" stop="20250519230000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250519230000 +0000" stop="20250520010000 +0000" channel="Sportstars 3.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250520010000 +0000" stop="20250520030000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1: BOR Vs PBY</title>
-</programme>
-<programme start="20250520030000 +0000" stop="20250520050000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2: PKU Vs MDN</title>
-</programme>
-<programme start="20250520050000 +0000" stop="20250520070000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250520070000 +0000" stop="20250520090000 +0000" channel="Sportstars 3.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250520090000 +0000" stop="20250520110000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2: SFC Vs FBC</title>
-</programme>
-<programme start="20250520110000 +0000" stop="20250520130000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1: PSS Vs PSJ</title>
-</programme>
-<programme start="20250520130000 +0000" stop="20250520150000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250520150000 +0000" stop="20250520153000 +0000" channel="Sportstars 3.mncvision">
-    <title>Sportacular Match</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250519170000 +0000" stop="20250519190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2: PKU Vs MDN</title>
 </programme>
