@@ -2233,8 +2233,14 @@
     <programme start="20250519150000 +0000" stop="20250519160000 +0000" channel="CNN HD.starhub">
         <title>One World</title>
     </programme>
-    <programme start="20250518160000 +0000" stop="20250518220000 +0000" channel="KTV HD.starhub">
+    <programme start="20250518160000 +0000" stop="20250518170000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
+    </programme>
+    <programme start="20250518170000 +0000" stop="20250518200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thulluvatho Ilamai</title>
+    </programme>
+    <programme start="20250518200000 +0000" stop="20250518223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Crime File</title>
     </programme>
     <programme start="20250518223000 +0000" stop="20250519010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Agaya Gangai</title>
