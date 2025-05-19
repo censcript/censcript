@@ -1,6 +1,3 @@
-    <programme start="20250519183000 +0000" stop="20250519213000 +0000" channel="Optus Sport 1.optus">
-        <title>Premier League - Brighton v Liverpool</title>
-    </programme>
     <programme start="20250519213000 +0000" stop="20250519223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Final Word</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Jeonbuk</title>
+    </programme>
+    <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Suwon FC v Anyang</title>
     </programme>
