@@ -5521,8 +5521,168 @@
 <programme start="20250519163500 +0000" stop="20250518170500 +0000" channel="Lifetime.mncvision">
     <title>Buddy Valastro&#039;s Cake..., Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250518172500 +0000" stop="20250518182000 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 1</title>
+</programme>
+<programme start="20250518182000 +0000" stop="20250518191500 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 2</title>
+</programme>
+<programme start="20250518191500 +0000" stop="20250518201000 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20250518201000 +0000" stop="20250518210500 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20250518210500 +0000" stop="20250518220000 +0000" channel="Love Nature.mncvision">
+    <title>Woodpeckers: The Hole Story</title>
+</programme>
+<programme start="20250518220000 +0000" stop="20250518222500 +0000" channel="Love Nature.mncvision">
+    <title>Ol Pejeta Diaries S3, Ep 3</title>
+</programme>
+<programme start="20250518222500 +0000" stop="20250518232000 +0000" channel="Love Nature.mncvision">
+    <title>Cub Camp S1, Ep 5</title>
+</programme>
+<programme start="20250518232000 +0000" stop="20250519001500 +0000" channel="Love Nature.mncvision">
+    <title>Cub Camp S1, Ep 6</title>
+</programme>
+<programme start="20250519001500 +0000" stop="20250519011000 +0000" channel="Love Nature.mncvision">
+    <title>Wild Sky S1, Ep 3</title>
+</programme>
+<programme start="20250519011000 +0000" stop="20250519020500 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250519020500 +0000" stop="20250519030000 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250519030000 +0000" stop="20250519035000 +0000" channel="Love Nature.mncvision">
+    <title>Waterworld Africa S1, Ep 6</title>
+</programme>
+<programme start="20250519035000 +0000" stop="20250519044000 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 1</title>
+</programme>
+<programme start="20250519044000 +0000" stop="20250519053500 +0000" channel="Love Nature.mncvision">
+    <title>Cub Camp S1, Ep 5</title>
+</programme>
+<programme start="20250519053500 +0000" stop="20250519063000 +0000" channel="Love Nature.mncvision">
+    <title>Cub Camp S1, Ep 6</title>
+</programme>
+<programme start="20250519063000 +0000" stop="20250519072500 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 1</title>
+</programme>
+<programme start="20250519072500 +0000" stop="20250519082000 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250519082000 +0000" stop="20250519091500 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250519091500 +0000" stop="20250519101000 +0000" channel="Love Nature.mncvision">
+    <title>Waterworld Africa S1, Ep 6</title>
+</programme>
+<programme start="20250519101000 +0000" stop="20250519110500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 1</title>
+</programme>
+<programme start="20250519110500 +0000" stop="20250519120000 +0000" channel="Love Nature.mncvision">
+    <title>Cub Camp S1, Ep 5</title>
+</programme>
+<programme start="20250519120000 +0000" stop="20250519125500 +0000" channel="Love Nature.mncvision">
+    <title>Cub Camp S1, Ep 6</title>
+</programme>
+<programme start="20250519125500 +0000" stop="20250519135000 +0000" channel="Love Nature.mncvision">
+    <title>Wild Sky S1, Ep 3</title>
+</programme>
+<programme start="20250519135000 +0000" stop="20250519144500 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250519144500 +0000" stop="20250519154000 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250519154000 +0000" stop="20250519163500 +0000" channel="Love Nature.mncvision">
+    <title>Waterworld Africa S1, Ep 6</title>
+</programme>
+<programme start="20250519163500 +0000" stop="20250518170500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 1</title>
+</programme>
+<programme start="20250518172500 +0000" stop="20250518182000 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 1</title>
+</programme>
+<programme start="20250518182000 +0000" stop="20250518191500 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 2</title>
+</programme>
+<programme start="20250518191500 +0000" stop="20250518201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20250518201000 +0000" stop="20250518210500 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 4</title>
+</programme>
+<programme start="20250518210500 +0000" stop="20250518220000 +0000" channel="Love Nature HD.mncvision">
+    <title>Woodpeckers: The Hole Story</title>
+</programme>
+<programme start="20250518220000 +0000" stop="20250518222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Ol Pejeta Diaries S3, Ep 3</title>
+</programme>
+<programme start="20250518222500 +0000" stop="20250518232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Cub Camp S1, Ep 5</title>
+</programme>
+<programme start="20250518232000 +0000" stop="20250519001500 +0000" channel="Love Nature HD.mncvision">
+    <title>Cub Camp S1, Ep 6</title>
+</programme>
+<programme start="20250519001500 +0000" stop="20250519011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Sky S1, Ep 3</title>
+</programme>
+<programme start="20250519011000 +0000" stop="20250519020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250519020500 +0000" stop="20250519030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250519030000 +0000" stop="20250519035000 +0000" channel="Love Nature HD.mncvision">
+    <title>Waterworld Africa S1, Ep 6</title>
+</programme>
+<programme start="20250519035000 +0000" stop="20250519044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 1</title>
+</programme>
+<programme start="20250519044000 +0000" stop="20250519053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Cub Camp S1, Ep 5</title>
+</programme>
+<programme start="20250519053500 +0000" stop="20250519063000 +0000" channel="Love Nature HD.mncvision">
+    <title>Cub Camp S1, Ep 6</title>
+</programme>
+<programme start="20250519063000 +0000" stop="20250519072500 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 1</title>
+</programme>
+<programme start="20250519072500 +0000" stop="20250519082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250519082000 +0000" stop="20250519091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250519091500 +0000" stop="20250519101000 +0000" channel="Love Nature HD.mncvision">
+    <title>Waterworld Africa S1, Ep 6</title>
+</programme>
+<programme start="20250519101000 +0000" stop="20250519110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 1</title>
+</programme>
+<programme start="20250519110500 +0000" stop="20250519120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Cub Camp S1, Ep 5</title>
+</programme>
+<programme start="20250519120000 +0000" stop="20250519125500 +0000" channel="Love Nature HD.mncvision">
+    <title>Cub Camp S1, Ep 6</title>
+</programme>
+<programme start="20250519125500 +0000" stop="20250519135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Sky S1, Ep 3</title>
+</programme>
+<programme start="20250519135000 +0000" stop="20250519144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250519144500 +0000" stop="20250519154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250519154000 +0000" stop="20250519163500 +0000" channel="Love Nature HD.mncvision">
+    <title>Waterworld Africa S1, Ep 6</title>
+</programme>
+<programme start="20250519163500 +0000" stop="20250518170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 1</title>
+</programme>
 <programme start="20250518170000 +0000" stop="20250518190000 +0000" channel="MDTV.mncvision">
     <title>Sky Castle</title>
 </programme>
@@ -5583,8 +5743,228 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250519150000 +0000" stop="20250519153000 +0000" channel="MDTV.mncvision">
     <title>Progresnya Berapa Persen?</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250518170000 +0000" stop="20250518170500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518170500 +0000" stop="20250518173000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250518173000 +0000" stop="20250518180000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250518180000 +0000" stop="20250518180500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518180500 +0000" stop="20250518183000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250518183000 +0000" stop="20250518184500 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250518184500 +0000" stop="20250518190000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250518190000 +0000" stop="20250518190500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518190500 +0000" stop="20250518193000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250518193000 +0000" stop="20250518200000 +0000" channel="Metro TV.mncvision">
+    <title>Authentic Indonesia</title>
+</programme>
+<programme start="20250518200000 +0000" stop="20250518200500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518200500 +0000" stop="20250518203000 +0000" channel="Metro TV.mncvision">
+    <title>Metro This Week</title>
+</programme>
+<programme start="20250518203000 +0000" stop="20250518210000 +0000" channel="Metro TV.mncvision">
+    <title>Gaspoll</title>
+</programme>
+<programme start="20250518210000 +0000" stop="20250518210500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518210500 +0000" stop="20250518213000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250518213000 +0000" stop="20250518220000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250518220000 +0000" stop="20250518220500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518220500 +0000" stop="20250518223000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250518223000 +0000" stop="20250518225000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250518225000 +0000" stop="20250518230000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250518230000 +0000" stop="20250518230500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518230500 +0000" stop="20250518232000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250518232000 +0000" stop="20250518233000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250518233000 +0000" stop="20250519000000 +0000" channel="Metro TV.mncvision">
+    <title>Go Healthy</title>
+</programme>
+<programme start="20250519000000 +0000" stop="20250519000500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250519000500 +0000" stop="20250519003000 +0000" channel="Metro TV.mncvision">
+    <title>Editorial Media Indonesia</title>
+</programme>
+<programme start="20250519003000 +0000" stop="20250519010000 +0000" channel="Metro TV.mncvision">
+    <title>The One</title>
+</programme>
+<programme start="20250519010000 +0000" stop="20250519010500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250519010500 +0000" stop="20250519013000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20250519013000 +0000" stop="20250519014800 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519014800 +0000" stop="20250519015500 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519015500 +0000" stop="20250519020000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519020000 +0000" stop="20250519020500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250519020500 +0000" stop="20250519021800 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519021800 +0000" stop="20250519023000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519023000 +0000" stop="20250519024800 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519024800 +0000" stop="20250519030000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519030000 +0000" stop="20250519030500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250519030500 +0000" stop="20250519033000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250519033000 +0000" stop="20250519040000 +0000" channel="Metro TV.mncvision">
+    <title>Zona Bisnis</title>
+</programme>
+<programme start="20250519040000 +0000" stop="20250519040500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250519040500 +0000" stop="20250519043000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20250519043000 +0000" stop="20250519050000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250519050000 +0000" stop="20250519053000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250519053000 +0000" stop="20250519054800 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250519054800 +0000" stop="20250519060000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250519060000 +0000" stop="20250519061800 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250519061800 +0000" stop="20250519063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250519063000 +0000" stop="20250519070000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20250519070000 +0000" stop="20250519073000 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250518170000 +0000" stop="20250518173000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250518173000 +0000" stop="20250518190000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250518190000 +0000" stop="20250518203000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250518203000 +0000" stop="20250518213000 +0000" channel="MNCTV.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20250518213000 +0000" stop="20250518220000 +0000" channel="MNCTV.mncvision">
+    <title>Jurnal Lintas iNews Pagi</title>
+</programme>
+<programme start="20250518220000 +0000" stop="20250518230000 +0000" channel="MNCTV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250518230000 +0000" stop="20250518233000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250518233000 +0000" stop="20250519000000 +0000" channel="MNCTV.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20250519000000 +0000" stop="20250519001500 +0000" channel="MNCTV.mncvision">
+    <title>Cocomelon</title>
+</programme>
+<programme start="20250519001500 +0000" stop="20250519010000 +0000" channel="MNCTV.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20250519010000 +0000" stop="20250519023000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519023000 +0000" stop="20250519033000 +0000" channel="MNCTV.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20250519033000 +0000" stop="20250519040000 +0000" channel="MNCTV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20250519040000 +0000" stop="20250519060000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519060000 +0000" stop="20250519080000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519080000 +0000" stop="20250519093000 +0000" channel="MNCTV.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20250519093000 +0000" stop="20250519103000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519103000 +0000" stop="20250519120000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519120000 +0000" stop="20250519122500 +0000" channel="MNCTV.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250519122500 +0000" stop="20250519123000 +0000" channel="MNCTV.mncvision">
+    <title>Kuis Berhadiah Motion Bank</title>
+</programme>
+<programme start="20250519123000 +0000" stop="20250519130000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519130000 +0000" stop="20250519143000 +0000" channel="MNCTV.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250519143000 +0000" stop="20250519160000 +0000" channel="MNCTV.mncvision">
+    <title>DMD Panggung Rezeki (L)</title>
+</programme>
+<programme start="20250519160000 +0000" stop="20250519163000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
 <programme start="20250518170000 +0000" stop="20250518173000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
 </programme>
