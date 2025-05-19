@@ -1,6 +1,3 @@
-    <programme start="20250519213000 +0000" stop="20250519223000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Final Word</title>
-    </programme>
     <programme start="20250520080000 +0000" stop="20250520090000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL GOATs: American Stars</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Suwon FC v Anyang</title>
+    </programme>
+    <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeju v Daegu</title>
     </programme>
