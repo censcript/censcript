@@ -1,6 +1,3 @@
-    <programme start="20250519160000 +0000" stop="20250519170000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Generation xG</title>
-    </programme>
     <programme start="20250519183000 +0000" stop="20250519213000 +0000" channel="Optus Sport 1.optus">
         <title>Premier League - Brighton v Liverpool</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeju v Gwangju</title>
+    </programme>
+    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
     </programme>
