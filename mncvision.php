@@ -5953,7 +5953,10 @@
 <programme start="20250519122500 +0000" stop="20250519123000 +0000" channel="MNCTV.mncvision">
     <title>Kuis Berhadiah Motion Bank</title>
 </programme>
-<programme start="20250519123000 +0000" stop="20250519143000 +0000" channel="MNCTV.mncvision">
+<programme start="20250519123000 +0000" stop="20250519130000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519130000 +0000" stop="20250519143000 +0000" channel="MNCTV.mncvision">
     <title>Family 100</title>
 </programme>
 <programme start="20250519143000 +0000" stop="20250519160000 +0000" channel="MNCTV.mncvision">
@@ -6022,7 +6025,10 @@
 <programme start="20250519122500 +0000" stop="20250519123000 +0000" channel="MNCTV HD.mncvision">
     <title>Kuis Berhadiah Motion Bank</title>
 </programme>
-<programme start="20250519123000 +0000" stop="20250519143000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250519123000 +0000" stop="20250519130000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250519130000 +0000" stop="20250519143000 +0000" channel="MNCTV HD.mncvision">
     <title>Family 100</title>
 </programme>
 <programme start="20250519143000 +0000" stop="20250519160000 +0000" channel="MNCTV HD.mncvision">
