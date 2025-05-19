@@ -7727,7 +7727,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250518193000 +0000" stop="20250518200000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>US-China Tech War</title>
     </programme>
     <programme start="20250518200000 +0000" stop="20250518210000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -8281,13 +8281,13 @@
     <programme start="20250518133000 +0000" stop="20250518163000 +0000" channel="Asianet Movies.starhub">
         <title>Lucifer</title>
     </programme>
-    <programme start="20250518163000 +0000" stop="20250518190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250518163500 +0000" stop="20250518184000 +0000" channel="Asianet Movies.starhub">
         <title>Sunday Holiday</title>
     </programme>
-    <programme start="20250518190000 +0000" stop="20250518220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250518184000 +0000" stop="20250518211000 +0000" channel="Asianet Movies.starhub">
         <title>Poomaram</title>
     </programme>
-    <programme start="20250518220000 +0000" stop="20250518233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250518211000 +0000" stop="20250518233000 +0000" channel="Asianet Movies.starhub">
         <title>9 (Nine)</title>
     </programme>
     <programme start="20250518233000 +0000" stop="20250519013000 +0000" channel="Asianet Movies.starhub">
