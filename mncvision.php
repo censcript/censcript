@@ -5093,7 +5093,7 @@
     <title>Rat A Tat</title>
 </programme>
 <programme start="20250519123000 +0000" stop="20250519130000 +0000" channel="Kids TV.mncvision">
-    <title>Om Nom Stories</title>
+    <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20250519130000 +0000" stop="20250519133000 +0000" channel="Kids TV.mncvision">
     <title>Shaun The Sheep</title>
@@ -5216,7 +5216,7 @@
     <title>Rat A Tat</title>
 </programme>
 <programme start="20250519123000 +0000" stop="20250519130000 +0000" channel="Kids TV HD.mncvision">
-    <title>Om Nom Stories</title>
+    <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20250519130000 +0000" stop="20250519133000 +0000" channel="Kids TV HD.mncvision">
     <title>Shaun The Sheep</title>

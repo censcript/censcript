@@ -2898,23 +2898,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250519100000 +0000" stop="20250519180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Bitpanda Hamburg Open in Hamburg, 2. Tag</title>
 </programme>
-<programme start="20250519180000 +0000" stop="20250519183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250519180000 +0000" stop="20250519200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), 2. Tag</title>
+</programme>
+<programme start="20250519200000 +0000" stop="20250519203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - STU, 31. Runde</title>
 </programme>
-<programme start="20250519183000 +0000" stop="20250519194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250519203000 +0000" stop="20250519214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
-</programme>
-<programme start="20250519194500 +0000" stop="20250519201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
-</programme>
-<programme start="20250519201500 +0000" stop="20250519204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20250519204500 +0000" stop="20250519211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - STU, 31. Runde</title>
-</programme>
-<programme start="20250519211500 +0000" stop="20250519214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Final Preview</title>
 </programme>
 <programme start="20250519214500 +0000" stop="20250519234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: TSV Egger Glas Hartberg - WSG Tirol, 31. Runde</title>
@@ -2922,7 +2913,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250519183000 +0000" stop="20250519185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250519185000 +0000" stop="20250519211500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250519185000 +0000" stop="20250519210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - FC Liverpool, 37. Spieltag</title>
 </programme>
 <programme start="20250518220000 +0000" stop="20250518221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
