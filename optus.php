@@ -217,6 +217,12 @@
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
     </programme>
+    <programme start="20250606233000 +0000" stop="20250607020000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Racing Louisville FC v Utah Royals FC</title>
+    </programme>
+    <programme start="20250607020000 +0000" stop="20250607043000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - San Diego Wave FC v Seattle Reign</title>
+    </programme>
     <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
     </programme>
@@ -226,6 +232,9 @@
     <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Malta v Lithuania</title>
     </programme>
+    <programme start="20250607170000 +0000" stop="20250607193000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Gotham FC v Kansas City Current</title>
+    </programme>
     <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
     </programme>
@@ -234,6 +243,18 @@
     </programme>
     <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Austria v Romania</title>
+    </programme>
+    <programme start="20250607230000 +0000" stop="20250608013000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Orlando Pride v Houston Dash</title>
+    </programme>
+    <programme start="20250607233000 +0000" stop="20250608020000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Bay FC v Portland Thorns FC</title>
+    </programme>
+    <programme start="20250608020000 +0000" stop="20250608043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Angel City FC v Chicago Stars</title>
+    </programme>
+    <programme start="20250608200000 +0000" stop="20250608223000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Washington Spirit v North Carolina Courage</title>
     </programme>
     <programme start="20250609135000 +0000" stop="20250609161000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Kazakhstan v North Macedonia</title>
@@ -276,25 +297,4 @@
     </programme>
     <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Jeonbuk</title>
-    </programme>
-    <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Suwon FC v Anyang</title>
-    </programme>
-    <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Jeju v Daegu</title>
-    </programme>
-    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Jeonbuk v Suwon FC</title>
-    </programme>
-    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Seoul v Gangwon</title>
-    </programme>
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daejeon v Gimcheon</title>
-    </programme>
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeju v Gwangju</title>
-    </programme>
-    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
     </programme>
