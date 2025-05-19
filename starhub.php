@@ -4133,7 +4133,7 @@
         <title>Exercise for Everyone</title>
     </programme>
     <programme start="20250519010000 +0000" stop="20250519010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20250519010500 +0000" stop="20250519015300 +0000" channel="NHK World Premium HD.starhub">
         <title>Project X: The Challengers-New Beginnings &quot;Setouchi Triennale&quot; (R)</title>

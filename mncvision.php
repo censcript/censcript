@@ -7681,11 +7681,8 @@
 <programme start="20250519010000 +0000" stop="20250519013000 +0000" channel="RCTI.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20250519013000 +0000" stop="20250519033000 +0000" channel="RCTI.mncvision">
+<programme start="20250519013000 +0000" stop="20250519050000 +0000" channel="RCTI.mncvision">
     <title>Doraemon Series</title>
-</programme>
-<programme start="20250519033000 +0000" stop="20250519050000 +0000" channel="RCTI.mncvision">
-    <title>Untung Masih Ada Rudy</title>
 </programme>
 <programme start="20250519050000 +0000" stop="20250519053000 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
@@ -7735,11 +7732,8 @@
 <programme start="20250519010000 +0000" stop="20250519013000 +0000" channel="RCTI HD.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20250519013000 +0000" stop="20250519033000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250519013000 +0000" stop="20250519050000 +0000" channel="RCTI HD.mncvision">
     <title>Doraemon Series</title>
-</programme>
-<programme start="20250519033000 +0000" stop="20250519050000 +0000" channel="RCTI HD.mncvision">
-    <title>Untung Masih Ada Rudy</title>
 </programme>
 <programme start="20250519050000 +0000" stop="20250519053000 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
