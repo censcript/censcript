@@ -7753,38 +7753,26 @@
     <programme start="20250519000000 +0000" stop="20250519003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20250519003000 +0000" stop="20250519004500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250519004500 +0000" stop="20250519010000 +0000" channel="BBC World News HD.starhub">
-        <title>Sportsday</title>
+    <programme start="20250519003000 +0000" stop="20250519010000 +0000" channel="BBC World News HD.starhub">
+        <title>The Security Brief</title>
     </programme>
     <programme start="20250519010000 +0000" stop="20250519013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250519013000 +0000" stop="20250519014500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250519014500 +0000" stop="20250519020000 +0000" channel="BBC World News HD.starhub">
-        <title>Sportsday</title>
+    <programme start="20250519013000 +0000" stop="20250519020000 +0000" channel="BBC World News HD.starhub">
+        <title>AI Decoded</title>
     </programme>
     <programme start="20250519020000 +0000" stop="20250519023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250519023000 +0000" stop="20250519024500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250519024500 +0000" stop="20250519030000 +0000" channel="BBC World News HD.starhub">
-        <title>Sportsday</title>
+    <programme start="20250519023000 +0000" stop="20250519030000 +0000" channel="BBC World News HD.starhub">
+        <title>Tech Now</title>
     </programme>
     <programme start="20250519030000 +0000" stop="20250519033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250519033000 +0000" stop="20250519034500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20250519034500 +0000" stop="20250519040000 +0000" channel="BBC World News HD.starhub">
-        <title>Sportsday</title>
+    <programme start="20250519033000 +0000" stop="20250519040000 +0000" channel="BBC World News HD.starhub">
+        <title>Talking Business</title>
     </programme>
     <programme start="20250519040000 +0000" stop="20250519043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

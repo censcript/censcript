@@ -106,32 +106,29 @@
     <programme start="20250519093022 +0000" stop="20250519103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S7 - EP 8</title>
     </programme>
-    <programme start="20250519103000 +0000" stop="20250519110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519103000 +0000" stop="20250519110013 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 151</title>
     </programme>
-    <programme start="20250519110000 +0000" stop="20250519113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519110013 +0000" stop="20250519113013 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7979</title>
     </programme>
-    <programme start="20250519113000 +0000" stop="20250519123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519113013 +0000" stop="20250519122951 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 7</title>
     </programme>
-    <programme start="20250519123000 +0000" stop="20250519130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519122951 +0000" stop="20250519130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 68</title>
     </programme>
-    <programme start="20250519130000 +0000" stop="20250519133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519130000 +0000" stop="20250519132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250519133000 +0000" stop="20250519140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519132959 +0000" stop="20250519140022 +0000" channel="Channel 5.mewatch">
         <title>Kumar Vs The World - EP 3</title>
     </programme>
-    <programme start="20250519140000 +0000" stop="20250519150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519140022 +0000" stop="20250519150030 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 7</title>
     </programme>
-    <programme start="20250519150000 +0000" stop="20250519160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250519150030 +0000" stop="20250519160002 +0000" channel="Channel 5.mewatch">
         <title>Sullivan&#039;s Crossing - Series 2 - EP 9</title>
-    </programme>
-    <programme start="20250519160000 +0000" stop="20250519163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 68</title>
     </programme>
     <programme start="20250518153006 +0000" stop="20250518160015 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 5</title>

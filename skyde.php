@@ -3072,7 +3072,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250519200000 +0000" stop="20250519220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250518230000 +0000" stop="20250519000000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250518231500 +0000" stop="20250519000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2005 (Phil Mickelson)</title>
 </programme>
 <programme start="20250519000000 +0000" stop="20250519010000 +0000" channel="Sky Sport Golf HD.skyde">
