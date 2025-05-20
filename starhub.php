@@ -4486,11 +4486,17 @@
     <programme start="20250520040000 +0000" stop="20250520100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250520100000 +0000" stop="20250520130000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250520100000 +0000" stop="20250520123000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Regions Tradition Round 1</title>
     </programme>
-    <programme start="20250520130000 +0000" stop="20250520160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250520123000 +0000" stop="20250520150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Regions Tradition Round 2</title>
+    </programme>
+    <programme start="20250520150000 +0000" stop="20250520153000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Ep 1: All-Access Club Car Championship</title>
+    </programme>
+    <programme start="20250520153000 +0000" stop="20250520160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>PGA Tour: The Cut 2025</title>
     </programme>
     <programme start="20250519160000 +0000" stop="20250519161500 +0000" channel="France24.starhub">
         <title>News</title>
