@@ -59,7 +59,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20250521013000 +0000" stop="20250521050000 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>Dunia Anak</title>
 </programme>
 <programme start="20250521050000 +0000" stop="20250521053000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -540,6 +540,9 @@
 </programme>
 <programme start="20250520050000 +0000" stop="20250520054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
+</programme>
+<programme start="20250520054500 +0000" stop="20250520063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
 </programme>
 <programme start="20250520063000 +0000" stop="20250520071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250520223000 +0000" stop="20250520230000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
-</programme>
-<programme start="20250520230000 +0000" stop="20250520230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
 </programme>
