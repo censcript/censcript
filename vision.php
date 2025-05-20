@@ -59,7 +59,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20250521013000 +0000" stop="20250521050000 +0000" channel="RCTI.vision">
-<title>Dunia Anak</title>
+<title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250521050000 +0000" stop="20250521053000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
