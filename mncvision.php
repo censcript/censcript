@@ -4315,7 +4315,93 @@
 <programme start="20250520164000 +0000" stop="20250519171000 +0000" channel="History.mncvision">
     <title>Ancient Aliens S15, Ep 222</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250519170000 +0000" stop="20250519180000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 23</title>
+</programme>
+<programme start="20250519180000 +0000" stop="20250519190000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 15</title>
+</programme>
+<programme start="20250519190000 +0000" stop="20250519200000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 22</title>
+</programme>
+<programme start="20250519200000 +0000" stop="20250519210000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S1, Ep 18</title>
+</programme>
+<programme start="20250519210000 +0000" stop="20250519220000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 23</title>
+</programme>
+<programme start="20250519220000 +0000" stop="20250519230000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 15</title>
+</programme>
+<programme start="20250519230000 +0000" stop="20250520000000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S1, Ep 18</title>
+</programme>
+<programme start="20250520000000 +0000" stop="20250520010000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 23</title>
+</programme>
+<programme start="20250520010000 +0000" stop="20250520013000 +0000" channel="HITS.mncvision">
+    <title>Cheers S3, Ep 21</title>
+</programme>
+<programme start="20250520013000 +0000" stop="20250520023000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S2, Ep 1</title>
+</programme>
+<programme start="20250520023000 +0000" stop="20250520033000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S2, Ep 2</title>
+</programme>
+<programme start="20250520033000 +0000" stop="20250520040000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 16</title>
+</programme>
+<programme start="20250520040000 +0000" stop="20250520043000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 11</title>
+</programme>
+<programme start="20250520043000 +0000" stop="20250520053000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 15</title>
+</programme>
+<programme start="20250520053000 +0000" stop="20250520063000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 22</title>
+</programme>
+<programme start="20250520063000 +0000" stop="20250520070000 +0000" channel="HITS.mncvision">
+    <title>Cheers S3, Ep 22</title>
+</programme>
+<programme start="20250520070000 +0000" stop="20250520080000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S2, Ep 3</title>
+</programme>
+<programme start="20250520080000 +0000" stop="20250520090000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S2, Ep 4</title>
+</programme>
+<programme start="20250520090000 +0000" stop="20250520100000 +0000" channel="HITS.mncvision">
+    <title>CSI S3, Ep 23</title>
+</programme>
+<programme start="20250520100000 +0000" stop="20250520103000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 16</title>
+</programme>
+<programme start="20250520103000 +0000" stop="20250520110000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 11</title>
+</programme>
+<programme start="20250520110000 +0000" stop="20250520120000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S1, Ep 19</title>
+</programme>
+<programme start="20250520120000 +0000" stop="20250520123000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 17</title>
+</programme>
+<programme start="20250520123000 +0000" stop="20250520130000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 12</title>
+</programme>
+<programme start="20250520130000 +0000" stop="20250520140000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 1</title>
+</programme>
+<programme start="20250520140000 +0000" stop="20250520150000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S3, Ep 16</title>
+</programme>
+<programme start="20250520150000 +0000" stop="20250520160000 +0000" channel="HITS.mncvision">
+    <title>V: Original Miniseries, Ep 1</title>
+</programme>
+<programme start="20250520160000 +0000" stop="20250520163000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 17</title>
+</programme>
+<programme start="20250520163000 +0000" stop="20250519170000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 12</title>
+</programme>
 <programme start="20250519171500 +0000" stop="20250519191500 +0000" channel="HITS MOVIES.mncvision">
     <title>The Taking Of Pelham 1 2 3</title>
 </programme>
@@ -8234,7 +8320,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250520163000 +0000" stop="20250519170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga: LEV Vs BVB</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250519183000 +0000" stop="20250519203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>UEFA National League</title>
+</programme>
+<programme start="20250519203000 +0000" stop="20250519210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250519210000 +0000" stop="20250519213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250519213000 +0000" stop="20250519233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sportacular Match: IDN Vs TLS</title>
+</programme>
+<programme start="20250519233000 +0000" stop="20250520013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: BUR Vs ULS</title>
+</programme>
+<programme start="20250520013000 +0000" stop="20250520033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: FCB Vs BMG</title>
+</programme>
+<programme start="20250520033000 +0000" stop="20250520040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250520040000 +0000" stop="20250520060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250520060000 +0000" stop="20250520080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: PAK Vs SDD</title>
+</programme>
+<programme start="20250520080000 +0000" stop="20250520100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: LEV Vs BVB</title>
+</programme>
+<programme start="20250520100000 +0000" stop="20250520103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250520103000 +0000" stop="20250520123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>UEFA National League</title>
+</programme>
+<programme start="20250520123000 +0000" stop="20250520143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sportacular Match: VIE Vs IDN</title>
+</programme>
+<programme start="20250520143000 +0000" stop="20250520163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250520163000 +0000" stop="20250519170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: LEV Vs BVB</title>
+</programme>
 <programme start="20250519173000 +0000" stop="20250519200000 +0000" channel="Sportstars.mncvision">
     <title>Daihatsu Indonesia Masters 2025</title>
 </programme>
