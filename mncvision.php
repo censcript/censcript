@@ -2437,7 +2437,48 @@
 <programme start="20250521163300 +0000" stop="20250520170300 +0000" channel="CINEEDGE.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250520175100 +0000" stop="20250520192200 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Standoff</title>
+</programme>
+<programme start="20250520192200 +0000" stop="20250520210700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250520210700 +0000" stop="20250520224800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Security</title>
+</programme>
+<programme start="20250520224800 +0000" stop="20250521004500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250521004500 +0000" stop="20250521022700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>One Shot</title>
+</programme>
+<programme start="20250521022700 +0000" stop="20250521041100 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250521041100 +0000" stop="20250521055800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Control</title>
+</programme>
+<programme start="20250521055800 +0000" stop="20250521074500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250521074500 +0000" stop="20250521091900 +0000" channel="CINEEDGE HD.mncvision">
+    <title>The 2nd</title>
+</programme>
+<programme start="20250521091900 +0000" stop="20250521105700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250521105700 +0000" stop="20250521125900 +0000" channel="CINEEDGE HD.mncvision">
+    <title>The Siege Of Robin Hood</title>
+</programme>
+<programme start="20250521125900 +0000" stop="20250521144800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250521144800 +0000" stop="20250521163300 +0000" channel="CINEEDGE HD.mncvision">
+    <title>American Sicario</title>
+</programme>
+<programme start="20250521163300 +0000" stop="20250520170300 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20250520170000 +0000" stop="20250520180000 +0000" channel="CNBC.mncvision">
     <title>The Exchange</title>
 </programme>
@@ -5540,8 +5581,168 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250521163500 +0000" stop="20250520170500 +0000" channel="Lifetime.mncvision">
     <title>Buddy Valastro&#039;s Cake..., Ep 3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250520172500 +0000" stop="20250520182000 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250520182000 +0000" stop="20250520191500 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250520191500 +0000" stop="20250520201000 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 2</title>
+</programme>
+<programme start="20250520201000 +0000" stop="20250520210500 +0000" channel="Love Nature.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250520210500 +0000" stop="20250520220000 +0000" channel="Love Nature.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250520220000 +0000" stop="20250520222500 +0000" channel="Love Nature.mncvision">
+    <title>Ol Pejeta Diaries S3, Ep 5</title>
+</programme>
+<programme start="20250520222500 +0000" stop="20250520232000 +0000" channel="Love Nature.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250520232000 +0000" stop="20250521001500 +0000" channel="Love Nature.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250521001500 +0000" stop="20250521011000 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Wild Year S1, Ep 1</title>
+</programme>
+<programme start="20250521011000 +0000" stop="20250521020500 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 2</title>
+</programme>
+<programme start="20250521020500 +0000" stop="20250521030000 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 3</title>
+</programme>
+<programme start="20250521030000 +0000" stop="20250521035000 +0000" channel="Love Nature.mncvision">
+    <title>Waterworld Africa S1, Ep 8</title>
+</programme>
+<programme start="20250521035000 +0000" stop="20250521044000 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 3</title>
+</programme>
+<programme start="20250521044000 +0000" stop="20250521053500 +0000" channel="Love Nature.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250521053500 +0000" stop="20250521063000 +0000" channel="Love Nature.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250521063000 +0000" stop="20250521072500 +0000" channel="Love Nature.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20250521072500 +0000" stop="20250521082000 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 2</title>
+</programme>
+<programme start="20250521082000 +0000" stop="20250521091500 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 3</title>
+</programme>
+<programme start="20250521091500 +0000" stop="20250521101000 +0000" channel="Love Nature.mncvision">
+    <title>Waterworld Africa S1, Ep 8</title>
+</programme>
+<programme start="20250521101000 +0000" stop="20250521110500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 3</title>
+</programme>
+<programme start="20250521110500 +0000" stop="20250521120000 +0000" channel="Love Nature.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250521120000 +0000" stop="20250521125500 +0000" channel="Love Nature.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250521125500 +0000" stop="20250521135000 +0000" channel="Love Nature.mncvision">
+    <title>Africa&#039;s Wild Year S1, Ep 1</title>
+</programme>
+<programme start="20250521135000 +0000" stop="20250521144500 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 2</title>
+</programme>
+<programme start="20250521144500 +0000" stop="20250521154000 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 3</title>
+</programme>
+<programme start="20250521154000 +0000" stop="20250521163500 +0000" channel="Love Nature.mncvision">
+    <title>Waterworld Africa S1, Ep 8</title>
+</programme>
+<programme start="20250521163500 +0000" stop="20250520170500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 3</title>
+</programme>
+<programme start="20250520172500 +0000" stop="20250520182000 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 5</title>
+</programme>
+<programme start="20250520182000 +0000" stop="20250520191500 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Hunters S3, Ep 6</title>
+</programme>
+<programme start="20250520191500 +0000" stop="20250520201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 2</title>
+</programme>
+<programme start="20250520201000 +0000" stop="20250520210500 +0000" channel="Love Nature HD.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250520210500 +0000" stop="20250520220000 +0000" channel="Love Nature HD.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250520220000 +0000" stop="20250520222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Ol Pejeta Diaries S3, Ep 5</title>
+</programme>
+<programme start="20250520222500 +0000" stop="20250520232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250520232000 +0000" stop="20250521001500 +0000" channel="Love Nature HD.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250521001500 +0000" stop="20250521011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Wild Year S1, Ep 1</title>
+</programme>
+<programme start="20250521011000 +0000" stop="20250521020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 2</title>
+</programme>
+<programme start="20250521020500 +0000" stop="20250521030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 3</title>
+</programme>
+<programme start="20250521030000 +0000" stop="20250521035000 +0000" channel="Love Nature HD.mncvision">
+    <title>Waterworld Africa S1, Ep 8</title>
+</programme>
+<programme start="20250521035000 +0000" stop="20250521044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 3</title>
+</programme>
+<programme start="20250521044000 +0000" stop="20250521053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250521053500 +0000" stop="20250521063000 +0000" channel="Love Nature HD.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250521063000 +0000" stop="20250521072500 +0000" channel="Love Nature HD.mncvision">
+    <title>Gladiators S1, Ep 3</title>
+</programme>
+<programme start="20250521072500 +0000" stop="20250521082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 2</title>
+</programme>
+<programme start="20250521082000 +0000" stop="20250521091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 3</title>
+</programme>
+<programme start="20250521091500 +0000" stop="20250521101000 +0000" channel="Love Nature HD.mncvision">
+    <title>Waterworld Africa S1, Ep 8</title>
+</programme>
+<programme start="20250521101000 +0000" stop="20250521110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 3</title>
+</programme>
+<programme start="20250521110500 +0000" stop="20250521120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Surviving The Amazon S1, Ep 5</title>
+</programme>
+<programme start="20250521120000 +0000" stop="20250521125500 +0000" channel="Love Nature HD.mncvision">
+    <title>Secrets Of Enchanted..., Ep 1</title>
+</programme>
+<programme start="20250521125500 +0000" stop="20250521135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Africa&#039;s Wild Year S1, Ep 1</title>
+</programme>
+<programme start="20250521135000 +0000" stop="20250521144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 2</title>
+</programme>
+<programme start="20250521144500 +0000" stop="20250521154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 3</title>
+</programme>
+<programme start="20250521154000 +0000" stop="20250521163500 +0000" channel="Love Nature HD.mncvision">
+    <title>Waterworld Africa S1, Ep 8</title>
+</programme>
+<programme start="20250521163500 +0000" stop="20250520170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 3</title>
+</programme>
 <programme start="20250520170000 +0000" stop="20250520183000 +0000" channel="MDTV.mncvision">
     <title>Sky Castle</title>
 </programme>
@@ -6499,8 +6700,306 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250521124500 +0000" stop="20250521131500 +0000" channel="NHK World.mncvision">
     <title>Japan&#039;s Top Inventions</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250520170500 +0000" stop="20250520171000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250520171000 +0000" stop="20250520173000 +0000" channel="NHK World Premium.mncvision">
+    <title>German In A Happy Mood</title>
+</programme>
+<programme start="20250520173000 +0000" stop="20250520174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Real-Life Travel English</title>
+</programme>
+<programme start="20250520174000 +0000" stop="20250520174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250520174500 +0000" stop="20250520180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20250520180000 +0000" stop="20250520182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250520182500 +0000" stop="20250520183000 +0000" channel="NHK World Premium.mncvision">
+    <title>ANIPARA: Animation &amp; Para-Sport</title>
+</programme>
+<programme start="20250520183000 +0000" stop="20250520184500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 37</title>
+</programme>
+<programme start="20250520184500 +0000" stop="20250520191200 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250520191200 +0000" stop="20250520191500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250520191500 +0000" stop="20250520200000 +0000" channel="NHK World Premium.mncvision">
+    <title>Song Concert</title>
+</programme>
+<programme start="20250520200000 +0000" stop="20250520202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Grand Sumo Summer Tournament</title>
+</programme>
+<programme start="20250520202500 +0000" stop="20250520205200 +0000" channel="NHK World Premium.mncvision">
+    <title>Himu-Bus!</title>
+</programme>
+<programme start="20250520205200 +0000" stop="20250520205600 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250520205600 +0000" stop="20250520210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250520210000 +0000" stop="20250520220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250520220000 +0000" stop="20250520230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250520230000 +0000" stop="20250520231500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 38</title>
+</programme>
+<programme start="20250520231500 +0000" stop="20250521005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20250521005400 +0000" stop="20250521005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250521005500 +0000" stop="20250521010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20250521010000 +0000" stop="20250521010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250521010500 +0000" stop="20250521015000 +0000" channel="NHK World Premium.mncvision">
+    <title>Song Concert</title>
+</programme>
+<programme start="20250521015000 +0000" stop="20250521021700 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250521021700 +0000" stop="20250521022000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250521022000 +0000" stop="20250521025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Until My Days Become Words</title>
+</programme>
+<programme start="20250521025000 +0000" stop="20250521025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20250521025600 +0000" stop="20250521030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250521030000 +0000" stop="20250521032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250521032000 +0000" stop="20250521032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20250521032800 +0000" stop="20250521033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250521033000 +0000" stop="20250521034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Toto Nee-Chan, Ep 13</title>
+</programme>
+<programme start="20250521034500 +0000" stop="20250521040000 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 38</title>
+</programme>
+<programme start="20250521040000 +0000" stop="20250521040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250521040500 +0000" stop="20250521055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20250521055000 +0000" stop="20250521055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250521055500 +0000" stop="20250521060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20250521060000 +0000" stop="20250521061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250521061000 +0000" stop="20250521063500 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK World Premium</title>
+</programme>
+<programme start="20250521063500 +0000" stop="20250521064000 +0000" channel="NHK World Premium.mncvision">
+    <title>This World Is Filled With Wants</title>
+</programme>
+<programme start="20250521064000 +0000" stop="20250521065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Points At Issue</title>
+</programme>
+<programme start="20250521065000 +0000" stop="20250521065500 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20250521065500 +0000" stop="20250521090000 +0000" channel="NHK World Premium.mncvision">
+    <title>Grand Sumo Summer Tournament</title>
+</programme>
+<programme start="20250521090000 +0000" stop="20250521091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250521091000 +0000" stop="20250521092000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mix Bijutune!</title>
+</programme>
+<programme start="20250521092000 +0000" stop="20250521093500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20250521093500 +0000" stop="20250521100000 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250521100000 +0000" stop="20250521103000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News</title>
+</programme>
+<programme start="20250521103000 +0000" stop="20250521105700 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250521105700 +0000" stop="20250521112700 +0000" channel="NHK World Premium.mncvision">
+    <title>Eat Up! Ultimate Homemade...</title>
+</programme>
+<programme start="20250520170000 +0000" stop="20250520172500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250520172500 +0000" stop="20250520174500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250520174500 +0000" stop="20250520181000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250520181000 +0000" stop="20250520183000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250520183000 +0000" stop="20250520184000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250520184000 +0000" stop="20250520190500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250520190500 +0000" stop="20250520193000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250520193000 +0000" stop="20250520195000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250520195000 +0000" stop="20250520201000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250520201000 +0000" stop="20250520202000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250520202000 +0000" stop="20250520202500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250520202500 +0000" stop="20250520203500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250520203500 +0000" stop="20250520204000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520204000 +0000" stop="20250520204500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520204500 +0000" stop="20250520205000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520205000 +0000" stop="20250520205500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520205500 +0000" stop="20250520210000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520210000 +0000" stop="20250520210500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520210500 +0000" stop="20250520211000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520211000 +0000" stop="20250520211500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250520211500 +0000" stop="20250520214000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250520214000 +0000" stop="20250520215000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250520215000 +0000" stop="20250520220000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250520220000 +0000" stop="20250520221000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250520221000 +0000" stop="20250520222500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250520222500 +0000" stop="20250520224500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250520224500 +0000" stop="20250520231000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250520231000 +0000" stop="20250520233000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250520233000 +0000" stop="20250520235500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250520235500 +0000" stop="20250521001500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250521001500 +0000" stop="20250521004000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250521004000 +0000" stop="20250521010000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250521010000 +0000" stop="20250521012500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250521012500 +0000" stop="20250521014500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250521014500 +0000" stop="20250521020500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250521020500 +0000" stop="20250521021500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250521021500 +0000" stop="20250521022000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250521022000 +0000" stop="20250521023000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250521023000 +0000" stop="20250521025000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250521025000 +0000" stop="20250521030000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250521030000 +0000" stop="20250521032000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250521032000 +0000" stop="20250521033000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250521033000 +0000" stop="20250521035500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250521035500 +0000" stop="20250521040000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250521040000 +0000" stop="20250521042000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250521042000 +0000" stop="20250521043000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250521043000 +0000" stop="20250521044000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250521044000 +0000" stop="20250521045000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250521045000 +0000" stop="20250521050000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250521050000 +0000" stop="20250521053000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
 <programme start="20250520170500 +0000" stop="20250520173000 +0000" channel="Nickelodeon.mncvision">
     <title>Rock Island Mysteries</title>
 </programme>

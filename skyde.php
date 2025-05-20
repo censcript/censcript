@@ -1319,7 +1319,7 @@
     <title>Car History</title>
 </programme>
 <programme start="20250520040000 +0000" stop="20250520045500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Superbike Championship 2024</title>
+    <title>Australian Superbike Championship 2022</title>
 </programme>
 <programme start="20250520045500 +0000" stop="20250520052000 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
@@ -1327,25 +1327,25 @@
 <programme start="20250520052000 +0000" stop="20250520055000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20250520055000 +0000" stop="20250520063500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520055000 +0000" stop="20250520064000 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2024</title>
 </programme>
-<programme start="20250520063500 +0000" stop="20250520070000 +0000" channel="Motorvision+.skyde">
+<programme start="20250520064000 +0000" stop="20250520070500 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20250520070000 +0000" stop="20250520072500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520070500 +0000" stop="20250520073000 +0000" channel="Motorvision+.skyde">
     <title>Dumbest Stuff on Wheels</title>
 </programme>
-<programme start="20250520072500 +0000" stop="20250520082500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520073000 +0000" stop="20250520082500 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
 <programme start="20250520082500 +0000" stop="20250520085500 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20250520085500 +0000" stop="20250520092500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520085500 +0000" stop="20250520092000 +0000" channel="Motorvision+.skyde">
     <title>Nordschleife</title>
 </programme>
-<programme start="20250520092500 +0000" stop="20250520094500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520092000 +0000" stop="20250520094500 +0000" channel="Motorvision+.skyde">
     <title>On Tour</title>
 </programme>
 <programme start="20250520094500 +0000" stop="20250520102000 +0000" channel="Motorvision+.skyde">
@@ -1393,16 +1393,13 @@
 <programme start="20250520180000 +0000" stop="20250520185000 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2024</title>
 </programme>
-<programme start="20250520185000 +0000" stop="20250520191500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520185000 +0000" stop="20250520192500 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20250520191500 +0000" stop="20250520194500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520192500 +0000" stop="20250520195000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20250520194500 +0000" stop="20250520200000 +0000" channel="Motorvision+.skyde">
-    <title>NASCAR University</title>
-</programme>
-<programme start="20250520200000 +0000" stop="20250520222500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520195000 +0000" stop="20250520222500 +0000" channel="Motorvision+.skyde">
     <title>NTT Indycar Series 2025</title>
 </programme>
 <programme start="20250519220000 +0000" stop="20250519222500 +0000" channel="Nick Jr..skyde">
@@ -3179,7 +3176,7 @@
     <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), 3. Tag</title>
 </programme>
 <programme start="20250520200000 +0000" stop="20250520220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: D. Altmaier (GER) - F. Auger-Aliassime (CAN), Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
+    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
 </programme>
 <programme start="20250519233000 +0000" stop="20250520000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Rom</title>
@@ -3200,10 +3197,10 @@
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20250520080000 +0000" stop="20250520090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
+    <title>PL: Review, 37. Spieltag</title>
 </programme>
 <programme start="20250520090000 +0000" stop="20250520100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
+    <title>BL: Alle Spiele, alle Stimmen, 34. Spieltag</title>
 </programme>
 <programme start="20250520100000 +0000" stop="20250520180000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
