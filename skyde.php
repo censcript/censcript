@@ -2683,38 +2683,41 @@
 <programme start="20250520214000 +0000" stop="20250520223500 +0000" channel="Sky Showcase HD.skyde">
     <title>Verborgene Schätze der USA</title>
 </programme>
-<programme start="20250519234500 +0000" stop="20250520014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250519223500 +0000" stop="20250520003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: TSV Egger Glas Hartberg - WSG Tirol, 31. Runde</title>
+</programme>
+<programme start="20250520003000 +0000" stop="20250520022500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Cashpoint SCR Altach - SK Austria Klagenfurt, 31. Runde</title>
 </programme>
-<programme start="20250520014500 +0000" stop="20250520030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520022500 +0000" stop="20250520034000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250520030000 +0000" stop="20250520050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520034000 +0000" stop="20250520053500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FC Red Bull Salzburg, 31. Runde</title>
 </programme>
-<programme start="20250520050000 +0000" stop="20250520053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520053500 +0000" stop="20250520060500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - STU, 31. Runde</title>
 </programme>
-<programme start="20250520053000 +0000" stop="20250520060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Abseits: Mit Cheyenne Ochsenknecht und Nino Sifkovits</title>
-</programme>
-<programme start="20250520060000 +0000" stop="20250520063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520060500 +0000" stop="20250520063500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
 </programme>
-<programme start="20250520063000 +0000" stop="20250520070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520063500 +0000" stop="20250520070500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250520070000 +0000" stop="20250520073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520070500 +0000" stop="20250520073500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - STU, 31. Runde</title>
 </programme>
-<programme start="20250520073000 +0000" stop="20250520080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520073500 +0000" stop="20250520080500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 25-28)</title>
 </programme>
-<programme start="20250520080000 +0000" stop="20250520083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520080500 +0000" stop="20250520083500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
 </programme>
-<programme start="20250520083000 +0000" stop="20250520090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520083500 +0000" stop="20250520090500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
+</programme>
+<programme start="20250520090500 +0000" stop="20250520100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20250520100000 +0000" stop="20250520180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
@@ -2887,7 +2890,7 @@
 <programme start="20250520040000 +0000" stop="20250520070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 4. Tag in Augusta, GA (USA)</title>
 </programme>
-<programme start="20250520070000 +0000" stop="20250520093000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250520070000 +0000" stop="20250520100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: 4. Tag in Charlotte, NC (USA)</title>
 </programme>
 <programme start="20250520100000 +0000" stop="20250520120000 +0000" channel="Sky Sport Golf HD.skyde">
