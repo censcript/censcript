@@ -541,9 +541,6 @@
 <programme start="20250520050000 +0000" stop="20250520054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250520054500 +0000" stop="20250520063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20250520063000 +0000" stop="20250520071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250520223000 +0000" stop="20250520230000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
+</programme>
+<programme start="20250520230000 +0000" stop="20250520230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
 </programme>
