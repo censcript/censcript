@@ -4094,7 +4094,7 @@
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250520133000 +0000" stop="20250520150000 +0000" channel="GTV.mncvision">
-    <title>The Great Magician</title>
+    <title>Mega Crocodile 2</title>
 </programme>
 <programme start="20250520150000 +0000" stop="20250520153000 +0000" channel="GTV.mncvision">
     <title>S.W.A.T</title>
@@ -4145,7 +4145,7 @@
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250520133000 +0000" stop="20250520150000 +0000" channel="GTV HD.mncvision">
-    <title>The Great Magician</title>
+    <title>Mega Crocodile 2</title>
 </programme>
 <programme start="20250520150000 +0000" stop="20250520153000 +0000" channel="GTV HD.mncvision">
     <title>S.W.A.T</title>

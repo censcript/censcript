@@ -139,10 +139,10 @@
     <programme start="20250520140007 +0000" stop="20250520143016 +0000" channel="Channel 5.mewatch">
         <title>Scene City: Dainta</title>
     </programme>
-    <programme start="20250520143016 +0000" stop="20250520153010 +0000" channel="Channel 5.mewatch">
+    <programme start="20250520143016 +0000" stop="20250520153009 +0000" channel="Channel 5.mewatch">
         <title>Red Eye (UK) - EP 3</title>
     </programme>
-    <programme start="20250520153010 +0000" stop="20250520162013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250520153009 +0000" stop="20250520162012 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S3 - EP 7</title>
     </programme>
     <programme start="20250519150021 +0000" stop="20250519160021 +0000" channel="Channel 8.mewatch">
@@ -475,10 +475,10 @@
     <programme start="20250520075956 +0000" stop="20250520110000 +0000" channel="Vasantham.mewatch">
         <title>Mouna Geethangal</title>
     </programme>
-    <programme start="20250520110000 +0000" stop="20250520120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250520110000 +0000" stop="20250520115957 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary Raja Kaiya Vecha - EP 3</title>
     </programme>
-    <programme start="20250520120000 +0000" stop="20250520123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250520115957 +0000" stop="20250520123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 5</title>
     </programme>
     <programme start="20250520123000 +0000" stop="20250520130000 +0000" channel="Vasantham.mewatch">
@@ -490,13 +490,13 @@
     <programme start="20250520133000 +0000" stop="20250520140000 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 6</title>
     </programme>
-    <programme start="20250520140000 +0000" stop="20250520143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250520140000 +0000" stop="20250520142957 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 20</title>
     </programme>
-    <programme start="20250520143000 +0000" stop="20250520150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250520142957 +0000" stop="20250520145957 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 10</title>
     </programme>
-    <programme start="20250520150000 +0000" stop="20250520153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250520145957 +0000" stop="20250520153000 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 7</title>
     </programme>
     <programme start="20250520153000 +0000" stop="20250520160000 +0000" channel="Vasantham.mewatch">
