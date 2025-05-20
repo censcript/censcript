@@ -1,6 +1,3 @@
-    <programme start="20250520180000 +0000" stop="20250520220000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - Wednesday Morning</title>
-    </programme>
     <programme start="20250520233000 +0000" stop="20250521003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Daejeon v Gimcheon</title>
+    </programme>
+    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Jeju v Gwangju</title>
     </programme>
