@@ -121,10 +121,10 @@
     <programme start="20250520103000 +0000" stop="20250520110001 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 152</title>
     </programme>
-    <programme start="20250520110001 +0000" stop="20250520113001 +0000" channel="Channel 5.mewatch">
+    <programme start="20250520110001 +0000" stop="20250520113006 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7980</title>
     </programme>
-    <programme start="20250520113001 +0000" stop="20250520122956 +0000" channel="Channel 5.mewatch">
+    <programme start="20250520113006 +0000" stop="20250520122956 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 2</title>
     </programme>
     <programme start="20250520122956 +0000" stop="20250520130000 +0000" channel="Channel 5.mewatch">
