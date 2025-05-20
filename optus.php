@@ -1,6 +1,3 @@
-    <programme start="20250520080000 +0000" stop="20250520090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL GOATs: American Stars</title>
-    </programme>
     <programme start="20250520180000 +0000" stop="20250520220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeju v Daegu</title>
+    </programme>
+    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeonbuk v Suwon FC</title>
     </programme>

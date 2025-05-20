@@ -241,32 +241,29 @@
     <programme start="20250520092943 +0000" stop="20250520103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 687</title>
     </programme>
-    <programme start="20250520103000 +0000" stop="20250520113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520103000 +0000" stop="20250520112954 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 36</title>
     </programme>
-    <programme start="20250520113000 +0000" stop="20250520120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520112954 +0000" stop="20250520115953 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 36</title>
     </programme>
-    <programme start="20250520120000 +0000" stop="20250520123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520115953 +0000" stop="20250520123004 +0000" channel="Channel 8.mewatch">
         <title>#MindOurBusiness - EP 5</title>
     </programme>
-    <programme start="20250520123000 +0000" stop="20250520130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520123004 +0000" stop="20250520130012 +0000" channel="Channel 8.mewatch">
         <title>HERE WE GO, Off The Beaten Roads - EP 4</title>
     </programme>
-    <programme start="20250520130000 +0000" stop="20250520140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520130012 +0000" stop="20250520140000 +0000" channel="Channel 8.mewatch">
         <title>Devil Behind The Gate - EP 14</title>
     </programme>
-    <programme start="20250520140000 +0000" stop="20250520143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520140000 +0000" stop="20250520143049 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250520143000 +0000" stop="20250520150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520143049 +0000" stop="20250520150023 +0000" channel="Channel 8.mewatch">
         <title>The Truth About Health - EP 14</title>
     </programme>
-    <programme start="20250520150000 +0000" stop="20250520160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250520150023 +0000" stop="20250520160043 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 29</title>
-    </programme>
-    <programme start="20250520160000 +0000" stop="20250520170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 16</title>
     </programme>
     <programme start="20250519153147 +0000" stop="20250519160242 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 17</title>
@@ -367,22 +364,22 @@
     <programme start="20250520100043 +0000" stop="20250520110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 11</title>
     </programme>
-    <programme start="20250520110000 +0000" stop="20250520120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250520110000 +0000" stop="20250520120030 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 1</title>
     </programme>
-    <programme start="20250520120000 +0000" stop="20250520130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250520120030 +0000" stop="20250520130043 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 2</title>
     </programme>
-    <programme start="20250520130000 +0000" stop="20250520140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250520130043 +0000" stop="20250520140016 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 4</title>
     </programme>
-    <programme start="20250520140000 +0000" stop="20250520150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250520140016 +0000" stop="20250520150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 9</title>
     </programme>
-    <programme start="20250520150000 +0000" stop="20250520153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250520150000 +0000" stop="20250520153009 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250520153000 +0000" stop="20250520163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250520153009 +0000" stop="20250520163011 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 4</title>
     </programme>
     <programme start="20250519155900 +0000" stop="20250520010000 +0000" channel="Suria.mewatch">
@@ -427,16 +424,16 @@
     <programme start="20250520110000 +0000" stop="20250520120000 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 13</title>
     </programme>
-    <programme start="20250520120000 +0000" stop="20250520123000 +0000" channel="Suria.mewatch">
+    <programme start="20250520120000 +0000" stop="20250520123014 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250520123000 +0000" stop="20250520133000 +0000" channel="Suria.mewatch">
+    <programme start="20250520123014 +0000" stop="20250520133005 +0000" channel="Suria.mewatch">
         <title>Tauke Pasar Malam - EP 6</title>
     </programme>
-    <programme start="20250520133000 +0000" stop="20250520143000 +0000" channel="Suria.mewatch">
+    <programme start="20250520133005 +0000" stop="20250520142958 +0000" channel="Suria.mewatch">
         <title>Mentua - EP 12</title>
     </programme>
-    <programme start="20250520143000 +0000" stop="20250520153000 +0000" channel="Suria.mewatch">
+    <programme start="20250520142958 +0000" stop="20250520153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 28</title>
     </programme>
     <programme start="20250520153000 +0000" stop="20250520155957 +0000" channel="Suria.mewatch">
@@ -559,23 +556,20 @@
     <programme start="20250520100002 +0000" stop="20250520110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250520110000 +0000" stop="20250520120000 +0000" channel="CNA.mewatch">
+    <programme start="20250520110000 +0000" stop="20250520115958 +0000" channel="CNA.mewatch">
         <title>The Peacemakers - EP 2</title>
     </programme>
-    <programme start="20250520120000 +0000" stop="20250520130000 +0000" channel="CNA.mewatch">
+    <programme start="20250520115958 +0000" stop="20250520125958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250520130000 +0000" stop="20250520140000 +0000" channel="CNA.mewatch">
+    <programme start="20250520125958 +0000" stop="20250520140001 +0000" channel="CNA.mewatch">
         <title>Secret Lives Of Livestreamers - EP 2</title>
     </programme>
-    <programme start="20250520140000 +0000" stop="20250520150000 +0000" channel="CNA.mewatch">
+    <programme start="20250520140001 +0000" stop="20250520150107 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250520150000 +0000" stop="20250520160000 +0000" channel="CNA.mewatch">
+    <programme start="20250520150107 +0000" stop="20250520160002 +0000" channel="CNA.mewatch">
         <title>Secret Lives Of Livestreamers - EP 1</title>
-    </programme>
-    <programme start="20250520160000 +0000" stop="20250520160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250519160000 +0000" stop="20250520160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 21st May, Wednesday 7.35pm. 2024/25 Singapore Cup: Brunei DPMM vs Lion City Sailors</title>
