@@ -1,12 +1,6 @@
     <programme start="20250520180000 +0000" stop="20250520220000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - Wednesday Morning</title>
     </programme>
-    <programme start="20250520185000 +0000" stop="20250520211000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Manchester City v Bournemouth</title>
-    </programme>
-    <programme start="20250520185000 +0000" stop="20250520211000 +0000" channel="Optus Sport 3.optus">
-        <title>Premier League - Crystal Palace v Wolverhampton Wanderers</title>
-    </programme>
     <programme start="20250520233000 +0000" stop="20250521003000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -79,7 +73,7 @@
     <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Gwangju v Gangwon</title>
     </programme>
-    <programme start="20250525134000 +0000" stop="20250525183000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250525133000 +0000" stop="20250525183000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - The Final Day</title>
     </programme>
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 10.optus">
@@ -184,10 +178,10 @@
     <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Gangwon</title>
     </programme>
-    <programme start="20250604183500 +0000" stop="20250604215500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
-    <programme start="20250605183500 +0000" stop="20250605215500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Suwon FC</title>
+    </programme>
+    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Seoul v Gangwon</title>
+    </programme>
+    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Daejeon v Gimcheon</title>
     </programme>
