@@ -1,6 +1,3 @@
-    <programme start="20250521140000 +0000" stop="20250521150000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Catch-Up Show</title>
-    </programme>
     <programme start="20250521170000 +0000" stop="20250521173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Goodbye Goodison</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250703155000 +0000" stop="20250703181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Belgium v Italy</title>
+    </programme>
+    <programme start="20250703185000 +0000" stop="20250703211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Spain v Portugal</title>
     </programme>
