@@ -1269,52 +1269,58 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521200000 +0000" stop="20250521220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
 </programme>
-<programme start="20250520222500 +0000" stop="20250520232000 +0000" channel="Motorvision+.skyde">
+<programme start="20250520222500 +0000" stop="20250520231000 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2024</title>
 </programme>
-<programme start="20250520232000 +0000" stop="20250520235000 +0000" channel="Motorvision+.skyde">
+<programme start="20250520231000 +0000" stop="20250520233500 +0000" channel="Motorvision+.skyde">
     <title>Nordschleife</title>
 </programme>
-<programme start="20250520235000 +0000" stop="20250521001500 +0000" channel="Motorvision+.skyde">
+<programme start="20250520233500 +0000" stop="20250521000000 +0000" channel="Motorvision+.skyde">
     <title>On Tour</title>
 </programme>
-<programme start="20250521001500 +0000" stop="20250521004500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521000000 +0000" stop="20250521002500 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20250521004500 +0000" stop="20250521011000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521002500 +0000" stop="20250521005000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250521011000 +0000" stop="20250521014000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521005000 +0000" stop="20250521011500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20250521014000 +0000" stop="20250521020500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521011500 +0000" stop="20250521014000 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20250521020500 +0000" stop="20250521023500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521014000 +0000" stop="20250521021500 +0000" channel="Motorvision+.skyde">
+    <title>Classic Races</title>
+</programme>
+<programme start="20250521021500 +0000" stop="20250521024000 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20250521023500 +0000" stop="20250521030000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521024000 +0000" stop="20250521030500 +0000" channel="Motorvision+.skyde">
     <title>Mission Mobility</title>
 </programme>
-<programme start="20250521030000 +0000" stop="20250521033000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521030500 +0000" stop="20250521033000 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
 <programme start="20250521033000 +0000" stop="20250521040000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20250521040000 +0000" stop="20250521045500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Superbike Championship 2022</title>
+<programme start="20250521040000 +0000" stop="20250521045000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Superbike Championship 2024</title>
 </programme>
-<programme start="20250521045500 +0000" stop="20250521052500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521045000 +0000" stop="20250521050500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
+<programme start="20250521050500 +0000" stop="20250521053500 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20250521052500 +0000" stop="20250521055000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521053500 +0000" stop="20250521060000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20250521055000 +0000" stop="20250521064500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521060000 +0000" stop="20250521065000 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2024</title>
 </programme>
-<programme start="20250521064500 +0000" stop="20250521071000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521065000 +0000" stop="20250521071000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
 <programme start="20250521071000 +0000" stop="20250521073500 +0000" channel="Motorvision+.skyde">
@@ -1326,10 +1332,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521080000 +0000" stop="20250521083000 +0000" channel="Motorvision+.skyde">
     <title>High Octane</title>
 </programme>
-<programme start="20250521083000 +0000" stop="20250521090000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521083000 +0000" stop="20250521085500 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20250521090000 +0000" stop="20250521093000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521085500 +0000" stop="20250521093000 +0000" channel="Motorvision+.skyde">
     <title>Nordschleife</title>
 </programme>
 <programme start="20250521093000 +0000" stop="20250521095500 +0000" channel="Motorvision+.skyde">
@@ -1356,49 +1362,52 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521124500 +0000" stop="20250521131000 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20250521131000 +0000" stop="20250521133500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521131000 +0000" stop="20250521134000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20250521133500 +0000" stop="20250521142000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521134000 +0000" stop="20250521142500 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
-<programme start="20250521142000 +0000" stop="20250521145000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521142500 +0000" stop="20250521143500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
+<programme start="20250521143500 +0000" stop="20250521150000 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20250521145000 +0000" stop="20250521152000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521150000 +0000" stop="20250521153000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20250521152000 +0000" stop="20250521155000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521153000 +0000" stop="20250521160000 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20250521155000 +0000" stop="20250521161500 +0000" channel="Motorvision+.skyde">
+<programme start="20250521160000 +0000" stop="20250521163000 +0000" channel="Motorvision+.skyde">
     <title>Alpen Marathon</title>
 </programme>
-<programme start="20250521161500 +0000" stop="20250521165000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521163000 +0000" stop="20250521170000 +0000" channel="Motorvision+.skyde">
     <title>Reportage</title>
 </programme>
-<programme start="20250521165000 +0000" stop="20250521172000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521170000 +0000" stop="20250521173000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250521172000 +0000" stop="20250521180000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521173000 +0000" stop="20250521180000 +0000" channel="Motorvision+.skyde">
     <title>RAAAW - Abenteuer, Allrad, Action</title>
 </programme>
 <programme start="20250521180000 +0000" stop="20250521185000 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2024</title>
 </programme>
-<programme start="20250521185000 +0000" stop="20250521194000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521185000 +0000" stop="20250521193500 +0000" channel="Motorvision+.skyde">
     <title>Australian V8 Superboat Championship 2024</title>
 </programme>
-<programme start="20250521194000 +0000" stop="20250521203000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521193500 +0000" stop="20250521202000 +0000" channel="Motorvision+.skyde">
     <title>Australian Circuit Boat Racing 2024</title>
 </programme>
-<programme start="20250521203000 +0000" stop="20250521210000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521202000 +0000" stop="20250521205000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2024</title>
 </programme>
-<programme start="20250521210000 +0000" stop="20250521213000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521205000 +0000" stop="20250521211500 +0000" channel="Motorvision+.skyde">
     <title>UIM Aquabike World Championship 2024</title>
 </programme>
-<programme start="20250521213000 +0000" stop="20250521220000 +0000" channel="Motorvision+.skyde">
+<programme start="20250521211500 +0000" stop="20250521220500 +0000" channel="Motorvision+.skyde">
     <title>P1 AquaX Championship 2024</title>
 </programme>
 <programme start="20250520220000 +0000" stop="20250520221000 +0000" channel="Nick Jr..skyde">
@@ -2718,7 +2727,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521213500 +0000" stop="20250521222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Cold Case Killers</title>
 </programme>
-<programme start="20250520233000 +0000" stop="20250521013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250520231000 +0000" stop="20250521013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - FC Red Bull Salzburg, 31. Runde</title>
 </programme>
 <programme start="20250521013000 +0000" stop="20250521020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3015,7 +3024,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250520230000 +0000" stop="20250520233000 +0000" channel="Sky Sport News HD.skyde">
     <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
 </programme>
-<programme start="20250520233000 +0000" stop="20250521040000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250520233000 +0000" stop="20250521000000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL: Friedhelm Funkel Exklusiv - Das Aufstiegsinterview</title>
+</programme>
+<programme start="20250521000000 +0000" stop="20250521040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
 <programme start="20250521040000 +0000" stop="20250521070000 +0000" channel="Sky Sport News HD.skyde">
@@ -3024,8 +3036,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521070000 +0000" stop="20250521073000 +0000" channel="Sky Sport News HD.skyde">
     <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
 </programme>
-<programme start="20250521073000 +0000" stop="20250521100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250521073000 +0000" stop="20250521093000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250521093000 +0000" stop="20250521100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL: Friedhelm Funkel Exklusiv - Das Aufstiegsinterview</title>
 </programme>
 <programme start="20250521100000 +0000" stop="20250521130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3036,16 +3051,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521160000 +0000" stop="20250521163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20250521163000 +0000" stop="20250521170000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250521163000 +0000" stop="20250521171500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
-<programme start="20250521170000 +0000" stop="20250521183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250521171500 +0000" stop="20250521173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20250521183000 +0000" stop="20250521203000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250521173000 +0000" stop="20250521183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250521183000 +0000" stop="20250521200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20250521203000 +0000" stop="20250521210000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250521200000 +0000" stop="20250521201500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20250521201500 +0000" stop="20250521210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
 <programme start="20250521210000 +0000" stop="20250521220000 +0000" channel="Sky Sport News HD.skyde">
@@ -3156,31 +3177,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521213000 +0000" stop="20250521223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Thierry Henry&#039;s Top 10</title>
 </programme>
-<programme start="20250520220000 +0000" stop="20250521000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Internationaux de Strasbourg in Straßburg (FRA), 3. Tag</title>
+<programme start="20250520223000 +0000" stop="20250521000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: D. Altmaier (GER) - F. Auger-Aliassime (CAN), Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
 </programme>
-<programme start="20250521000000 +0000" stop="20250521010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250521000000 +0000" stop="20250521012000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Rybakina (KAZ) - X. Wang (CHN), Internationaux de Strasbourg in Straßburg (FRA), 3. Tag</title>
+</programme>
+<programme start="20250521012000 +0000" stop="20250521021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250521010000 +0000" stop="20250521013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250521021500 +0000" stop="20250521024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Rom</title>
 </programme>
-<programme start="20250521013000 +0000" stop="20250521040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250521024500 +0000" stop="20250521050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20250521040000 +0000" stop="20250521060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Internationaux de Strasbourg in Straßburg (FRA), 3. Tag</title>
+<programme start="20250521050000 +0000" stop="20250521062000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Rybakina (KAZ) - X. Wang (CHN), Internationaux de Strasbourg in Straßburg (FRA), 3. Tag</title>
 </programme>
-<programme start="20250521060000 +0000" stop="20250521063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250521062000 +0000" stop="20250521064000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250521063000 +0000" stop="20250521073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250521064000 +0000" stop="20250521074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250521073000 +0000" stop="20250521093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
+<programme start="20250521074500 +0000" stop="20250521092500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: D. Altmaier (GER) - F. Auger-Aliassime (CAN), Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
 </programme>
-<programme start="20250521093000 +0000" stop="20250521100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250521092500 +0000" stop="20250521100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250521100000 +0000" stop="20250521180000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3190,7 +3214,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), 4. Tag</title>
 </programme>
 <programme start="20250521200000 +0000" stop="20250521220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - A. Muller (FRA), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20250520230000 +0000" stop="20250521000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: Qualifying Days Indy 500</title>
@@ -3270,7 +3294,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521084000 +0000" stop="20250521090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250521090000 +0000" stop="20250521173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250521090000 +0000" stop="20250521200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 4. Tag</title>
 </programme>
 <programme start="20250520223000 +0000" stop="20250520231500 +0000" channel="SYFY HD.skyde">
