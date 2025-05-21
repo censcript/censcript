@@ -121,10 +121,10 @@
     <programme start="20250521093007 +0000" stop="20250521103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S7 - EP 10</title>
     </programme>
-    <programme start="20250521103000 +0000" stop="20250521110005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250521103000 +0000" stop="20250521110010 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 153</title>
     </programme>
-    <programme start="20250521110005 +0000" stop="20250521113001 +0000" channel="Channel 5.mewatch">
+    <programme start="20250521110010 +0000" stop="20250521113001 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7992</title>
     </programme>
     <programme start="20250521113001 +0000" stop="20250521123002 +0000" channel="Channel 5.mewatch">
@@ -241,29 +241,26 @@
     <programme start="20250521092932 +0000" stop="20250521103000 +0000" channel="Channel 8.mewatch">
         <title>The Way to Happiness - EP 689</title>
     </programme>
-    <programme start="20250521103000 +0000" stop="20250521113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521103000 +0000" stop="20250521113025 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 37</title>
     </programme>
-    <programme start="20250521113000 +0000" stop="20250521120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521113025 +0000" stop="20250521120110 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 37</title>
     </programme>
-    <programme start="20250521120000 +0000" stop="20250521130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521120110 +0000" stop="20250521125937 +0000" channel="Channel 8.mewatch">
         <title>James&#039; Going Places S4 - EP 20</title>
     </programme>
-    <programme start="20250521130000 +0000" stop="20250521140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521125937 +0000" stop="20250521140000 +0000" channel="Channel 8.mewatch">
         <title>Devil Behind The Gate - EP 15</title>
     </programme>
-    <programme start="20250521140000 +0000" stop="20250521143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521140000 +0000" stop="20250521143214 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250521143000 +0000" stop="20250521150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521143214 +0000" stop="20250521150054 +0000" channel="Channel 8.mewatch">
         <title>Journey to Homeland S2 - EP 7</title>
     </programme>
-    <programme start="20250521150000 +0000" stop="20250521160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250521150054 +0000" stop="20250521160028 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 30</title>
-    </programme>
-    <programme start="20250521160000 +0000" stop="20250521170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 17</title>
     </programme>
     <programme start="20250520153009 +0000" stop="20250520163011 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 4</title>
@@ -361,22 +358,22 @@
     <programme start="20250521100059 +0000" stop="20250521110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 12</title>
     </programme>
-    <programme start="20250521110000 +0000" stop="20250521120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250521110000 +0000" stop="20250521115942 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 3</title>
     </programme>
-    <programme start="20250521120000 +0000" stop="20250521130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250521115942 +0000" stop="20250521125947 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 4</title>
     </programme>
-    <programme start="20250521130000 +0000" stop="20250521140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250521125947 +0000" stop="20250521140009 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 2</title>
     </programme>
-    <programme start="20250521140000 +0000" stop="20250521150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250521140009 +0000" stop="20250521150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 10</title>
     </programme>
-    <programme start="20250521150000 +0000" stop="20250521153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250521150000 +0000" stop="20250521153044 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250521153000 +0000" stop="20250521163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250521153044 +0000" stop="20250521163046 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 2</title>
     </programme>
     <programme start="20250520155957 +0000" stop="20250521010000 +0000" channel="Suria.mewatch">

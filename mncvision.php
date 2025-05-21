@@ -8299,10 +8299,7 @@
 <programme start="20250521080000 +0000" stop="20250521100000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Women&#039;s C&#039;ship League (L)</title>
 </programme>
-<programme start="20250521100000 +0000" stop="20250521103000 +0000" channel="Soccer Channel.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250521103000 +0000" stop="20250521120000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20250521100000 +0000" stop="20250521120000 +0000" channel="Soccer Channel.mncvision">
     <title>UEFA National League</title>
 </programme>
 <programme start="20250521120000 +0000" stop="20250521140000 +0000" channel="Soccer Channel.mncvision">
@@ -8347,10 +8344,7 @@
 <programme start="20250521080000 +0000" stop="20250521100000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Women&#039;s C&#039;ship League (L)</title>
 </programme>
-<programme start="20250521100000 +0000" stop="20250521103000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250521103000 +0000" stop="20250521120000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20250521100000 +0000" stop="20250521120000 +0000" channel="Soccer Channel HD.mncvision">
     <title>UEFA National League</title>
 </programme>
 <programme start="20250521120000 +0000" stop="20250521140000 +0000" channel="Soccer Channel HD.mncvision">
