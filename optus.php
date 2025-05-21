@@ -1,6 +1,3 @@
-    <programme start="20250521170000 +0000" stop="20250521173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Goodbye Goodison</title>
-    </programme>
     <programme start="20250522123000 +0000" stop="20250522130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Morato</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250703185000 +0000" stop="20250703211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Spain v Portugal</title>
+    </programme>
+    <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
     </programme>
