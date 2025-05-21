@@ -265,11 +265,29 @@
     <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Gangwon v Jeonbuk</title>
     </programme>
+    <programme start="20250614000000 +0000" stop="20250614023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Houston Dash v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250614013000 +0000" stop="20250614040000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Utah Royals FC v Gotham FC</title>
+    </programme>
+    <programme start="20250614020000 +0000" stop="20250614043000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Bay FC v Orlando Pride</title>
+    </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Suwon FC v Anyang</title>
     </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeju v Daegu</title>
+    </programme>
+    <programme start="20250614210000 +0000" stop="20250614233000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Chicago Stars v Seattle Reign</title>
+    </programme>
+    <programme start="20250614233000 +0000" stop="20250615020000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Kansas City Current v Racing Louisville FC</title>
+    </programme>
+    <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Portland Thorns FC v Washington Spirit</title>
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Suwon FC</title>
@@ -279,22 +297,4 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Daejeon v Gimcheon</title>
-    </programme>
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeju v Gwangju</title>
-    </programme>
-    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
-    </programme>
-    <programme start="20250702185000 +0000" stop="20250702211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
-    </programme>
-    <programme start="20250703155000 +0000" stop="20250703181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Belgium v Italy</title>
-    </programme>
-    <programme start="20250703185000 +0000" stop="20250703211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Spain v Portugal</title>
-    </programme>
-    <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
     </programme>
