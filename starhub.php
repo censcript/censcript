@@ -2336,28 +2336,28 @@
         <title>Rome</title>
     </programme>
     <programme start="20250521033000 +0000" stop="20250521050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 3 Match 3</title>
+        <title>Hamburg Day 3 Davidovich Fokina v Monfils</title>
     </programme>
     <programme start="20250521050000 +0000" stop="20250521063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva Day 3 Match 4</title>
+        <title>Hamburg Day 3 Cobolli v Sachko</title>
     </programme>
     <programme start="20250521063000 +0000" stop="20250521080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva Day 3 Match 5</title>
+        <title>Hamburg Day 3 Bu v Tiafoe</title>
     </programme>
     <programme start="20250521080000 +0000" stop="20250521083000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250521083000 +0000" stop="20250521100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 3 Match 4</title>
+        <title>Hamburg Day 3 Auger-Aliassime v Altmaier</title>
     </programme>
     <programme start="20250521100000 +0000" stop="20250521120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 4 Match 1</title>
+        <title>Hamburg Day 4 Tiafoe v Bautista Agut</title>
     </programme>
     <programme start="20250521120000 +0000" stop="20250521140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 4 Match 2</title>
+        <title>Hamburg Day 4 Rublev v Engel</title>
     </programme>
     <programme start="20250521140000 +0000" stop="20250521160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 4 Match 3</title>
+        <title>Hamburg Day 4 Zverev v Muller</title>
     </programme>
     <programme start="20250520160000 +0000" stop="20250520170000 +0000" channel="TVB Xing He.starhub">
         <title>Survivor&#039;s Law</title>

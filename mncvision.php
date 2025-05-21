@@ -1244,10 +1244,10 @@
     <title>ATP Tour 500 2025: Hamburg</title>
 </programme>
 <programme start="20250521050000 +0000" stop="20250521063000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Geneva</title>
+    <title>ATP Tour 500 2025: Hamburg</title>
 </programme>
 <programme start="20250521063000 +0000" stop="20250521080000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Geneva</title>
+    <title>ATP Tour 500 2025: Hamburg</title>
 </programme>
 <programme start="20250521080000 +0000" stop="20250521083000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour: This Week 2025, Ep 19</title>
@@ -1295,10 +1295,10 @@
     <title>ATP Tour 500 2025: Hamburg</title>
 </programme>
 <programme start="20250521050000 +0000" stop="20250521063000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Geneva</title>
+    <title>ATP Tour 500 2025: Hamburg</title>
 </programme>
 <programme start="20250521063000 +0000" stop="20250521080000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Geneva</title>
+    <title>ATP Tour 500 2025: Hamburg</title>
 </programme>
 <programme start="20250521080000 +0000" stop="20250521083000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour: This Week 2025, Ep 19</title>
@@ -4459,19 +4459,19 @@
 <programme start="20250521010000 +0000" stop="20250521030000 +0000" channel="HITS MOVIES.mncvision">
     <title>Norbit</title>
 </programme>
-<programme start="20250521030000 +0000" stop="20250521044500 +0000" channel="HITS MOVIES.mncvision">
+<programme start="20250521030000 +0000" stop="20250521050000 +0000" channel="HITS MOVIES.mncvision">
     <title>You Got Served</title>
 </programme>
-<programme start="20250521044500 +0000" stop="20250521064500 +0000" channel="HITS MOVIES.mncvision">
+<programme start="20250521050000 +0000" stop="20250521070000 +0000" channel="HITS MOVIES.mncvision">
     <title>Little Man Tate</title>
 </programme>
-<programme start="20250521064500 +0000" stop="20250521100000 +0000" channel="HITS MOVIES.mncvision">
+<programme start="20250521070000 +0000" stop="20250521101500 +0000" channel="HITS MOVIES.mncvision">
     <title>My Fair Lady</title>
 </programme>
-<programme start="20250521100000 +0000" stop="20250521114500 +0000" channel="HITS MOVIES.mncvision">
+<programme start="20250521101500 +0000" stop="20250521120000 +0000" channel="HITS MOVIES.mncvision">
     <title>Another 48 Hrs.</title>
 </programme>
-<programme start="20250521114500 +0000" stop="20250521141500 +0000" channel="HITS MOVIES.mncvision">
+<programme start="20250521120000 +0000" stop="20250521141500 +0000" channel="HITS MOVIES.mncvision">
     <title>Seven</title>
 </programme>
 <programme start="20250521141500 +0000" stop="20250521144500 +0000" channel="HITS MOVIES.mncvision">
@@ -4489,19 +4489,19 @@
 <programme start="20250521010000 +0000" stop="20250521030000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Norbit</title>
 </programme>
-<programme start="20250521030000 +0000" stop="20250521044500 +0000" channel="HITS MOVIES HD.mncvision">
+<programme start="20250521030000 +0000" stop="20250521050000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>You Got Served</title>
 </programme>
-<programme start="20250521044500 +0000" stop="20250521064500 +0000" channel="HITS MOVIES HD.mncvision">
+<programme start="20250521050000 +0000" stop="20250521070000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Little Man Tate</title>
 </programme>
-<programme start="20250521064500 +0000" stop="20250521100000 +0000" channel="HITS MOVIES HD.mncvision">
+<programme start="20250521070000 +0000" stop="20250521101500 +0000" channel="HITS MOVIES HD.mncvision">
     <title>My Fair Lady</title>
 </programme>
-<programme start="20250521100000 +0000" stop="20250521114500 +0000" channel="HITS MOVIES HD.mncvision">
+<programme start="20250521101500 +0000" stop="20250521120000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Another 48 Hrs.</title>
 </programme>
-<programme start="20250521114500 +0000" stop="20250521141500 +0000" channel="HITS MOVIES HD.mncvision">
+<programme start="20250521120000 +0000" stop="20250521141500 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Seven</title>
 </programme>
 <programme start="20250521141500 +0000" stop="20250521144500 +0000" channel="HITS MOVIES HD.mncvision">
