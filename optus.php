@@ -1,9 +1,3 @@
-    <programme start="20250520233000 +0000" stop="20250521003000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Highlights Show</title>
-    </programme>
-    <programme start="20250521010000 +0000" stop="20250521013000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Netbusters</title>
-    </programme>
     <programme start="20250521095500 +0000" stop="20250521121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Yokohama FM v Vissel Kobe</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeju v Gwangju</title>
+    </programme>
+    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
+    </programme>
+    <programme start="20250702185000 +0000" stop="20250702211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
     </programme>

@@ -3763,19 +3763,19 @@
     <programme start="20250521010000 +0000" stop="20250521030000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Norbit</title>
     </programme>
-    <programme start="20250521030000 +0000" stop="20250521044500 +0000" channel="HITS MOVIES HD.starhub">
+    <programme start="20250521030000 +0000" stop="20250521050000 +0000" channel="HITS MOVIES HD.starhub">
         <title>You Got Served</title>
     </programme>
-    <programme start="20250521044500 +0000" stop="20250521064500 +0000" channel="HITS MOVIES HD.starhub">
+    <programme start="20250521050000 +0000" stop="20250521070000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Little Man Tate</title>
     </programme>
-    <programme start="20250521064500 +0000" stop="20250521100000 +0000" channel="HITS MOVIES HD.starhub">
+    <programme start="20250521070000 +0000" stop="20250521101500 +0000" channel="HITS MOVIES HD.starhub">
         <title>My Fair Lady</title>
     </programme>
-    <programme start="20250521100000 +0000" stop="20250521114500 +0000" channel="HITS MOVIES HD.starhub">
+    <programme start="20250521101500 +0000" stop="20250521120000 +0000" channel="HITS MOVIES HD.starhub">
         <title>Another 48 Hrs.</title>
     </programme>
-    <programme start="20250521114500 +0000" stop="20250521141500 +0000" channel="HITS MOVIES HD.starhub">
+    <programme start="20250521120000 +0000" stop="20250521141500 +0000" channel="HITS MOVIES HD.starhub">
         <title>Seven</title>
     </programme>
     <programme start="20250521141500 +0000" stop="20250521173000 +0000" channel="HITS MOVIES HD.starhub">
