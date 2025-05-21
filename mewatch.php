@@ -421,19 +421,19 @@
     <programme start="20250521110000 +0000" stop="20250521120000 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 14</title>
     </programme>
-    <programme start="20250521120000 +0000" stop="20250521123000 +0000" channel="Suria.mewatch">
+    <programme start="20250521120000 +0000" stop="20250521122949 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250521123000 +0000" stop="20250521130000 +0000" channel="Suria.mewatch">
+    <programme start="20250521122949 +0000" stop="20250521125937 +0000" channel="Suria.mewatch">
         <title>Hard to Heart S4 - EP 8</title>
     </programme>
-    <programme start="20250521130000 +0000" stop="20250521133000 +0000" channel="Suria.mewatch">
+    <programme start="20250521125937 +0000" stop="20250521132942 +0000" channel="Suria.mewatch">
         <title>Sedapur Bersama Zara Zya - EP 5</title>
     </programme>
-    <programme start="20250521133000 +0000" stop="20250521143000 +0000" channel="Suria.mewatch">
+    <programme start="20250521132942 +0000" stop="20250521142932 +0000" channel="Suria.mewatch">
         <title>Mentua - EP 13</title>
     </programme>
-    <programme start="20250521143000 +0000" stop="20250521153000 +0000" channel="Suria.mewatch">
+    <programme start="20250521142932 +0000" stop="20250521153000 +0000" channel="Suria.mewatch">
         <title>Marina - EP 29</title>
     </programme>
     <programme start="20250521153000 +0000" stop="20250521155959 +0000" channel="Suria.mewatch">
@@ -496,16 +496,16 @@
     <programme start="20250521130000 +0000" stop="20250521133000 +0000" channel="Vasantham.mewatch">
         <title>Arya - EP 38</title>
     </programme>
-    <programme start="20250521133000 +0000" stop="20250521140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250521133000 +0000" stop="20250521140001 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 5</title>
     </programme>
-    <programme start="20250521140000 +0000" stop="20250521143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250521140001 +0000" stop="20250521142959 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 21</title>
     </programme>
-    <programme start="20250521143000 +0000" stop="20250521150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250521142959 +0000" stop="20250521145959 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 11</title>
     </programme>
-    <programme start="20250521150000 +0000" stop="20250521153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250521145959 +0000" stop="20250521153000 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 8</title>
     </programme>
     <programme start="20250521153000 +0000" stop="20250521155922 +0000" channel="Vasantham.mewatch">
@@ -568,22 +568,22 @@
     <programme start="20250521100001 +0000" stop="20250521110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250521110000 +0000" stop="20250521120000 +0000" channel="CNA.mewatch">
+    <programme start="20250521110000 +0000" stop="20250521115959 +0000" channel="CNA.mewatch">
         <title>The Peacemakers - EP 3</title>
     </programme>
-    <programme start="20250521120000 +0000" stop="20250521130000 +0000" channel="CNA.mewatch">
+    <programme start="20250521115959 +0000" stop="20250521125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250521130000 +0000" stop="20250521133000 +0000" channel="CNA.mewatch">
+    <programme start="20250521125959 +0000" stop="20250521133001 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 2</title>
     </programme>
-    <programme start="20250521133000 +0000" stop="20250521140000 +0000" channel="CNA.mewatch">
+    <programme start="20250521133001 +0000" stop="20250521140002 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 41</title>
     </programme>
-    <programme start="20250521140000 +0000" stop="20250521150000 +0000" channel="CNA.mewatch">
+    <programme start="20250521140002 +0000" stop="20250521150107 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250521150000 +0000" stop="20250521160000 +0000" channel="CNA.mewatch">
+    <programme start="20250521150107 +0000" stop="20250521160000 +0000" channel="CNA.mewatch">
         <title>Secret Lives Of Livestreamers - EP 2</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250521160300 +0000" channel="CNA.mewatch">
