@@ -7714,26 +7714,38 @@
     <programme start="20250522000000 +0000" stop="20250522003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20250522003000 +0000" stop="20250522010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Interview: Yungblud: My Generation</title>
+    <programme start="20250522003000 +0000" stop="20250522004500 +0000" channel="BBC World News HD.starhub">
+        <title>Business Today</title>
+    </programme>
+    <programme start="20250522004500 +0000" stop="20250522010000 +0000" channel="BBC World News HD.starhub">
+        <title>Sportsday</title>
     </programme>
     <programme start="20250522010000 +0000" stop="20250522013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250522013000 +0000" stop="20250522020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+    <programme start="20250522013000 +0000" stop="20250522014500 +0000" channel="BBC World News HD.starhub">
+        <title>Business Today</title>
+    </programme>
+    <programme start="20250522014500 +0000" stop="20250522020000 +0000" channel="BBC World News HD.starhub">
+        <title>Sportsday</title>
     </programme>
     <programme start="20250522020000 +0000" stop="20250522023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250522023000 +0000" stop="20250522030000 +0000" channel="BBC World News HD.starhub">
-        <title>Blood Parliament</title>
+    <programme start="20250522023000 +0000" stop="20250522024500 +0000" channel="BBC World News HD.starhub">
+        <title>Business Today</title>
+    </programme>
+    <programme start="20250522024500 +0000" stop="20250522030000 +0000" channel="BBC World News HD.starhub">
+        <title>Sportsday</title>
     </programme>
     <programme start="20250522030000 +0000" stop="20250522033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
-    <programme start="20250522033000 +0000" stop="20250522040000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+    <programme start="20250522033000 +0000" stop="20250522034500 +0000" channel="BBC World News HD.starhub">
+        <title>Business Today</title>
+    </programme>
+    <programme start="20250522034500 +0000" stop="20250522040000 +0000" channel="BBC World News HD.starhub">
+        <title>Sportsday</title>
     </programme>
     <programme start="20250522040000 +0000" stop="20250522043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
