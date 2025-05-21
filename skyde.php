@@ -2925,6 +2925,39 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250521213000 +0000" stop="20250521223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Qualifying Days Indy 500</title>
 </programme>
+<programme start="20250521000000 +0000" stop="20250521010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 1999 (Tiger Woods)</title>
+</programme>
+<programme start="20250521010000 +0000" stop="20250521020000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2000 (Tiger Woods)</title>
+</programme>
+<programme start="20250521020000 +0000" stop="20250521030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2006 (Tiger Woods)</title>
+</programme>
+<programme start="20250521030000 +0000" stop="20250521040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2007 (Tiger Woods)</title>
+</programme>
+<programme start="20250521040000 +0000" stop="20250521070000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Turkish Open, 4. Tag in Antalya (Türkei)</title>
+</programme>
+<programme start="20250521070000 +0000" stop="20250521100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Truist Championship, 4. Tag in Philadelphia, PA (USA)</title>
+</programme>
+<programme start="20250521100000 +0000" stop="20250521130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Soudal Open 2024, 4. Tag in Antwerpen (Belgien)</title>
+</programme>
+<programme start="20250521130000 +0000" stop="20250521160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Charles Schwab Challenge 2024, 4. Tag in Fort Worth, TX (USA)</title>
+</programme>
+<programme start="20250521160000 +0000" stop="20250521190000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: 4. Tag in Charlotte, NC (USA)</title>
+</programme>
+<programme start="20250521190000 +0000" stop="20250521200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Tour Champions: Highlights Regions Tradition</title>
+</programme>
+<programme start="20250521200000 +0000" stop="20250522000000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Aramco Korea Championship, 3. Tag in Seoul (Südkorea)</title>
+</programme>
 <programme start="20250520223000 +0000" stop="20250520233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
@@ -3221,6 +3254,42 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250521213000 +0000" stop="20250521220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20250521080000 +0000" stop="20250521100000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: FC Chelsea - Manchester United, Match of the Week, 37. Spieltag</title>
+</programme>
+<programme start="20250521100000 +0000" stop="20250521103000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: What a Strike! Highlight-Show, 37. Spieltag</title>
+</programme>
+<programme start="20250521103000 +0000" stop="20250521123000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20250521123000 +0000" stop="20250521133000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PMSC: Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20250521133000 +0000" stop="20250521143000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F2: 2. Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20250521143000 +0000" stop="20250521153000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F3: 2. Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20250521153000 +0000" stop="20250521173000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: FC Chelsea - Manchester United, Match of the Week, 37. Spieltag</title>
+</programme>
+<programme start="20250521173000 +0000" stop="20250521180000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: What a Strike! Highlight-Show, 37. Spieltag</title>
+</programme>
+<programme start="20250521180000 +0000" stop="20250521200000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Emilia Romagna</title>
+</programme>
+<programme start="20250521200000 +0000" stop="20250521203000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
+</programme>
+<programme start="20250521203000 +0000" stop="20250521210000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
+</programme>
+<programme start="20250521210000 +0000" stop="20250521230000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: Arminia Bielefeld - Bayer Leverkusen, Halbfinale</title>
 </programme>
 <programme start="20250521084000 +0000" stop="20250521090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
