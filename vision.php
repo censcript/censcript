@@ -511,6 +511,9 @@
 <programme start="20250521154500 +0000" stop="20250521163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20250521163000 +0000" stop="20250521171500 +0000" channel="Trans 7.vision">
+<title>Newstainment</title>
+</programme>
 <programme start="20250521171500 +0000" stop="20250521174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250521091000 +0000" stop="20250521104500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250521104500 +0000" stop="20250521122000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
