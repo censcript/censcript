@@ -286,6 +286,9 @@
     <programme start="20250614233000 +0000" stop="20250615020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Kansas City Current v Racing Louisville FC</title>
     </programme>
+    <programme start="20250615020000 +0000" stop="20250615043000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Angel City FC v North Carolina Courage</title>
+    </programme>
     <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Portland Thorns FC v Washington Spirit</title>
     </programme>
@@ -294,7 +297,4 @@
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Gangwon</title>
-    </programme>
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daejeon v Gimcheon</title>
     </programme>
