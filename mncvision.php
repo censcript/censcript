@@ -1438,39 +1438,7 @@
 <programme start="20250522150000 +0000" stop="20250522153000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Chelsea TV 2024/25: CHE Vs MUN</title>
 </programme>
-<programme start="20250521170000 +0000" stop="20250521200000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250521200000 +0000" stop="20250521220000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250521220000 +0000" stop="20250522010000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522010000 +0000" stop="20250522030000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522030000 +0000" stop="20250522050000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522050000 +0000" stop="20250522070000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522070000 +0000" stop="20250522090000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522090000 +0000" stop="20250522110000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522110000 +0000" stop="20250522130000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522130000 +0000" stop="20250522150000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250522150000 +0000" stop="20250522153000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250521170000 +0000" stop="20250521200000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -5005,129 +4973,7 @@
 <programme start="20250522160000 +0000" stop="20250522163000 +0000" channel="JAKTV.mncvision">
     <title>Power Of Soul</title>
 </programme>
-<programme start="20250521170000 +0000" stop="20250521173000 +0000" channel="Kids TV.mncvision">
-    <title>Entong Animasi</title>
-</programme>
-<programme start="20250521173000 +0000" stop="20250521180000 +0000" channel="Kids TV.mncvision">
-    <title>Om Nom Stories</title>
-</programme>
-<programme start="20250521180000 +0000" stop="20250521185000 +0000" channel="Kids TV.mncvision">
-    <title>Kun Anta Mendadak Santri</title>
-</programme>
-<programme start="20250521185000 +0000" stop="20250521190000 +0000" channel="Kids TV.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250521190000 +0000" stop="20250521193000 +0000" channel="Kids TV.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250521193000 +0000" stop="20250521200000 +0000" channel="Kids TV.mncvision">
-    <title>Sherazade</title>
-</programme>
-<programme start="20250521200000 +0000" stop="20250521203000 +0000" channel="Kids TV.mncvision">
-    <title>Rat A Tat</title>
-</programme>
-<programme start="20250521203000 +0000" stop="20250521210000 +0000" channel="Kids TV.mncvision">
-    <title>Shaun The Sheep</title>
-</programme>
-<programme start="20250521210000 +0000" stop="20250521213000 +0000" channel="Kids TV.mncvision">
-    <title>Backkom</title>
-</programme>
-<programme start="20250521213000 +0000" stop="20250521220000 +0000" channel="Kids TV.mncvision">
-    <title>Om Nom Stories</title>
-</programme>
-<programme start="20250521220000 +0000" stop="20250521223000 +0000" channel="Kids TV.mncvision">
-    <title>Entong Animasi</title>
-</programme>
-<programme start="20250521223000 +0000" stop="20250521230000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Wonders</title>
-</programme>
-<programme start="20250521230000 +0000" stop="20250521235000 +0000" channel="Kids TV.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250521235000 +0000" stop="20250522000000 +0000" channel="Kids TV.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250522000000 +0000" stop="20250522003000 +0000" channel="Kids TV.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250522003000 +0000" stop="20250522010000 +0000" channel="Kids TV.mncvision">
-    <title>Backkom</title>
-</programme>
-<programme start="20250522010000 +0000" stop="20250522030000 +0000" channel="Kids TV.mncvision">
-    <title>Sahabat Selamanya Upin &amp; Ipin</title>
-</programme>
-<programme start="20250522030000 +0000" stop="20250522033000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Wonders</title>
-</programme>
-<programme start="20250522033000 +0000" stop="20250522040000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Wonders</title>
-</programme>
-<programme start="20250522040000 +0000" stop="20250522043000 +0000" channel="Kids TV.mncvision">
-    <title>Shaun The Sheep</title>
-</programme>
-<programme start="20250522043000 +0000" stop="20250522050000 +0000" channel="Kids TV.mncvision">
-    <title>Backkom</title>
-</programme>
-<programme start="20250522050000 +0000" stop="20250522053000 +0000" channel="Kids TV.mncvision">
-    <title>Om Nom Stories</title>
-</programme>
-<programme start="20250522053000 +0000" stop="20250522060000 +0000" channel="Kids TV.mncvision">
-    <title>Rat A Tat</title>
-</programme>
-<programme start="20250522060000 +0000" stop="20250522063000 +0000" channel="Kids TV.mncvision">
-    <title>Entong Animasi</title>
-</programme>
-<programme start="20250522063000 +0000" stop="20250522070000 +0000" channel="Kids TV.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250522070000 +0000" stop="20250522073000 +0000" channel="Kids TV.mncvision">
-    <title>Sherazade</title>
-</programme>
-<programme start="20250522073000 +0000" stop="20250522082000 +0000" channel="Kids TV.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250522082000 +0000" stop="20250522083000 +0000" channel="Kids TV.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250522083000 +0000" stop="20250522092000 +0000" channel="Kids TV.mncvision">
-    <title>Kun Anta Mendadak Santri</title>
-</programme>
-<programme start="20250522092000 +0000" stop="20250522093000 +0000" channel="Kids TV.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250522093000 +0000" stop="20250522100000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Wonders</title>
-</programme>
-<programme start="20250522100000 +0000" stop="20250522101500 +0000" channel="Kids TV.mncvision">
-    <title>Entong Animasi</title>
-</programme>
-<programme start="20250522101500 +0000" stop="20250522120000 +0000" channel="Kids TV.mncvision">
-    <title>Upin &amp; Ipin Bermula</title>
-</programme>
-<programme start="20250522120000 +0000" stop="20250522123000 +0000" channel="Kids TV.mncvision">
-    <title>Rat A Tat</title>
-</programme>
-<programme start="20250522123000 +0000" stop="20250522130000 +0000" channel="Kids TV.mncvision">
-    <title>Om Nom Stories</title>
-</programme>
-<programme start="20250522130000 +0000" stop="20250522133000 +0000" channel="Kids TV.mncvision">
-    <title>Shaun The Sheep</title>
-</programme>
-<programme start="20250522133000 +0000" stop="20250522140000 +0000" channel="Kids TV.mncvision">
-    <title>Backkom</title>
-</programme>
-<programme start="20250522140000 +0000" stop="20250522143000 +0000" channel="Kids TV.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250522143000 +0000" stop="20250522160000 +0000" channel="Kids TV.mncvision">
-    <title>Kids Movie Special</title>
-</programme>
-<programme start="20250522160000 +0000" stop="20250522165000 +0000" channel="Kids TV.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250522165000 +0000" stop="20250521172000 +0000" channel="Kids TV.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250521170000 +0000" stop="20250521173000 +0000" channel="Kids TV HD.mncvision">
     <title>Entong Animasi</title>
 </programme>
@@ -8611,45 +8457,7 @@
 <programme start="20250522153000 +0000" stop="20250522160000 +0000" channel="Sportstars HD.mncvision">
     <title>Volleyball Nations League Men</title>
 </programme>
-<programme start="20250521180000 +0000" stop="20250521200000 +0000" channel="SPOTV.mncvision">
-    <title>Roshn Saudi League 2024/25 (L)</title>
-</programme>
-<programme start="20250521200000 +0000" stop="20250521210000 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSBK Championship</title>
-</programme>
-<programme start="20250521210000 +0000" stop="20250521234500 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSBK Championship</title>
-</programme>
-<programme start="20250521234500 +0000" stop="20250522002000 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSBK Championship</title>
-</programme>
-<programme start="20250522002000 +0000" stop="20250522010500 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSBK Championship</title>
-</programme>
-<programme start="20250522010500 +0000" stop="20250522042500 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSBK Championship</title>
-</programme>
-<programme start="20250522042500 +0000" stop="20250522045500 +0000" channel="SPOTV.mncvision">
-    <title>A-League Men 2024/25</title>
-</programme>
-<programme start="20250522045500 +0000" stop="20250522073500 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S11: Tokyo</title>
-</programme>
-<programme start="20250522073500 +0000" stop="20250522095500 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S11: Tokyo</title>
-</programme>
-<programme start="20250522095500 +0000" stop="20250522104500 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSBK Championship</title>
-</programme>
-<programme start="20250522104500 +0000" stop="20250522124500 +0000" channel="SPOTV.mncvision">
-    <title>Roshn Saudi League 2024/25</title>
-</programme>
-<programme start="20250522124500 +0000" stop="20250522144500 +0000" channel="SPOTV.mncvision">
-    <title>Roshn Saudi League 2024/25</title>
-</programme>
-<programme start="20250522144500 +0000" stop="20250522151500 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S11: Tokyo</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250521183000 +0000" stop="20250521203000 +0000" channel="SPOTV 2.mncvision">
     <title>GTour Women&#039;s 2nd Tournament</title>
 </programme>

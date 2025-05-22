@@ -8266,10 +8266,10 @@
     <programme start="20250522013000 +0000" stop="20250522043000 +0000" channel="Asianet Movies.starhub">
         <title>Philips and the Monkey Pen</title>
     </programme>
-    <programme start="20250522043000 +0000" stop="20250522073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250522043000 +0000" stop="20250522073500 +0000" channel="Asianet Movies.starhub">
         <title>Dhrona (2010)</title>
     </programme>
-    <programme start="20250522073000 +0000" stop="20250522103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250522073500 +0000" stop="20250522103000 +0000" channel="Asianet Movies.starhub">
         <title>Thanneer Mathan dinangal</title>
     </programme>
     <programme start="20250522103000 +0000" stop="20250522133000 +0000" channel="Asianet Movies.starhub">
