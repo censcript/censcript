@@ -311,16 +311,16 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20250522170000 +0000" stop="20250522173000 +0000" channel="iNews.vision">
+<title>Realita</title>
+</programme>
+<programme start="20250522173000 +0000" stop="20250522180000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250522173000 +0000" stop="20250522190000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250522180000 +0000" stop="20250522193000 +0000" channel="iNews.vision">
+<title>Special Timnas</title>
 </programme>
-<programme start="20250522190000 +0000" stop="20250522194500 +0000" channel="iNews.vision">
+<programme start="20250522193000 +0000" stop="20250522201500 +0000" channel="iNews.vision">
 <title>Air Mata Surga</title>
-</programme>
-<programme start="20250522194500 +0000" stop="20250522201500 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
 </programme>
 <programme start="20250522201500 +0000" stop="20250522210000 +0000" channel="iNews.vision">
 <title>AFC Qatar 2023: JOR Vs KOR (L)</title>
@@ -668,7 +668,7 @@
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250522153000 +0000" stop="20250522173000 +0000" channel="ANTV.vision">
-<title>Misteri 8 Pendekar</title>
+<title>Sengatan Kobra</title>
 </programme>
 <programme start="20250522173000 +0000" stop="20250522193000 +0000" channel="ANTV.vision">
 <title>Love Love Love</title>
@@ -686,7 +686,7 @@
 <title>Dragon Rescue Riders: Heroes...</title>
 </programme>
 <programme start="20250523000000 +0000" stop="20250523020000 +0000" channel="ANTV.vision">
-<title>Catatan Si Boy 1</title>
+<title>Catatan Si Boy</title>
 </programme>
 <programme start="20250523020000 +0000" stop="20250523053000 +0000" channel="ANTV.vision">
 <title>Awara Paagal Deewana</title>
