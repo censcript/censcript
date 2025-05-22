@@ -148,13 +148,13 @@
     <programme start="20250522130000 +0000" stop="20250522133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250522133000 +0000" stop="20250522143015 +0000" channel="Channel 5.mewatch">
+    <programme start="20250522133000 +0000" stop="20250522143013 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 2</title>
     </programme>
-    <programme start="20250522143015 +0000" stop="20250522152004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250522143013 +0000" stop="20250522152003 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 7</title>
     </programme>
-    <programme start="20250522152004 +0000" stop="20250522160502 +0000" channel="Channel 5.mewatch">
+    <programme start="20250522152003 +0000" stop="20250522160500 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 1</title>
     </programme>
     <programme start="20250521150054 +0000" stop="20250521160028 +0000" channel="Channel 8.mewatch">
@@ -583,20 +583,17 @@
     <programme start="20250522110000 +0000" stop="20250522120000 +0000" channel="CNA.mewatch">
         <title>Secret Lives Of Livestreamers - EP 1</title>
     </programme>
-    <programme start="20250522120000 +0000" stop="20250522130000 +0000" channel="CNA.mewatch">
+    <programme start="20250522120000 +0000" stop="20250522130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250522130000 +0000" stop="20250522140000 +0000" channel="CNA.mewatch">
+    <programme start="20250522130001 +0000" stop="20250522140003 +0000" channel="CNA.mewatch">
         <title>Insight - EP 5</title>
     </programme>
-    <programme start="20250522140000 +0000" stop="20250522150000 +0000" channel="CNA.mewatch">
+    <programme start="20250522140003 +0000" stop="20250522150003 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250522150000 +0000" stop="20250522160000 +0000" channel="CNA.mewatch">
+    <programme start="20250522150003 +0000" stop="20250522160001 +0000" channel="CNA.mewatch">
         <title>The Peacemakers - EP 1</title>
-    </programme>
-    <programme start="20250522160000 +0000" stop="20250522160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250522160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 24th May, Saturday 5.30pm. 2024 Singapore Premier League: BG Tampines Rovers vs Lion City Sailors</title>

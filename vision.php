@@ -25,10 +25,10 @@
 <programme start="20250522104500 +0000" stop="20250522121500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20250523121500 +0000" stop="20250523133000 +0000" channel="RCTI.vision">
+<programme start="20250522121500 +0000" stop="20250522133000 +0000" channel="RCTI.vision">
 <title>Tebaran Hati</title>
 </programme>
-<programme start="20250523133000 +0000" stop="20250523150000 +0000" channel="RCTI.vision">
+<programme start="20250522133000 +0000" stop="20250522150000 +0000" channel="RCTI.vision">
 <title>Mencintaimu Sekali Lagi</title>
 </programme>
 <programme start="20250522150000 +0000" stop="20250522161500 +0000" channel="RCTI.vision">
@@ -661,14 +661,11 @@
 <programme start="20250522103000 +0000" stop="20250522120000 +0000" channel="ANTV.vision">
 <title>Imlie</title>
 </programme>
-<programme start="20250522120000 +0000" stop="20250522140000 +0000" channel="ANTV.vision">
+<programme start="20250523120000 +0000" stop="20250523140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250522140000 +0000" stop="20250522153000 +0000" channel="ANTV.vision">
+<programme start="20250523140000 +0000" stop="20250523153000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
-</programme>
-<programme start="20250522153000 +0000" stop="20250522173000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
 </programme>
 <programme start="20250522173000 +0000" stop="20250522193000 +0000" channel="ANTV.vision">
 <title>Love Love Love</title>
@@ -676,17 +673,11 @@
 <programme start="20250522193000 +0000" stop="20250522210000 +0000" channel="ANTV.vision">
 <title>Kembalinya Anak Iblis</title>
 </programme>
-<programme start="20250522210000 +0000" stop="20250522220000 +0000" channel="ANTV.vision">
+<programme start="20250523210000 +0000" stop="20250523220000 +0000" channel="ANTV.vision">
 <title>Nadin</title>
 </programme>
-<programme start="20250522220000 +0000" stop="20250522230000 +0000" channel="ANTV.vision">
+<programme start="20250523220000 +0000" stop="20250523230000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
-</programme>
-<programme start="20250522230000 +0000" stop="20250523000000 +0000" channel="ANTV.vision">
-<title>Dragon Rescue Riders: Heroes...</title>
-</programme>
-<programme start="20250523000000 +0000" stop="20250523020000 +0000" channel="ANTV.vision">
-<title>Catatan Si Boy</title>
 </programme>
 <programme start="20250523020000 +0000" stop="20250523053000 +0000" channel="ANTV.vision">
 <title>Awara Paagal Deewana</title>
@@ -694,10 +685,10 @@
 <programme start="20250523053000 +0000" stop="20250523083000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250523083000 +0000" stop="20250523103000 +0000" channel="ANTV.vision">
+<programme start="20250524083000 +0000" stop="20250524103000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
 </programme>
-<programme start="20250523103000 +0000" stop="20250523120000 +0000" channel="ANTV.vision">
+<programme start="20250524103000 +0000" stop="20250524120000 +0000" channel="ANTV.vision">
 <title>Imlie</title>
 </programme>
 <programme start="20250522000000 +0000" stop="20250522010000 +0000" channel="RTV.vision">
