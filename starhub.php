@@ -2051,7 +2051,7 @@
         <title>The UEL Preview Show 2024/25 Tottenham vs Man United - Final (Live)</title>
     </programme>
     <programme start="20250521185500 +0000" stop="20250521210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2024/25 Tottenham vs Man United - Final (Live)</title>
+        <title>Tottenham vs Man United - Final (Live)</title>
     </programme>
     <programme start="20250521210000 +0000" stop="20250521220000 +0000" channel="beIN Sports 3.starhub">
         <title>The UEL Review Show 2024/25 Tottenham vs Man United - Final (Live)</title>

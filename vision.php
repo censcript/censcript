@@ -25,10 +25,10 @@
 <programme start="20250522104500 +0000" stop="20250522121500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20250522121500 +0000" stop="20250522133000 +0000" channel="RCTI.vision">
+<programme start="20250523121500 +0000" stop="20250523133000 +0000" channel="RCTI.vision">
 <title>Tebaran Hati</title>
 </programme>
-<programme start="20250522133000 +0000" stop="20250522150000 +0000" channel="RCTI.vision">
+<programme start="20250523133000 +0000" stop="20250523150000 +0000" channel="RCTI.vision">
 <title>Mencintaimu Sekali Lagi</title>
 </programme>
 <programme start="20250522150000 +0000" stop="20250522161500 +0000" channel="RCTI.vision">

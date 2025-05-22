@@ -520,7 +520,7 @@
     <programme start="20250522153000 +0000" stop="20250522160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 5</title>
     </programme>
-    <programme start="20250522160000 +0000" stop="20250522163055 +0000" channel="Vasantham.mewatch">
+    <programme start="20250522160000 +0000" stop="20250522162950 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250521160144 +0000" channel="CNA.mewatch">
