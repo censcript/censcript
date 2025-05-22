@@ -3772,8 +3772,93 @@
 <programme start="20250523040000 +0000" stop="20250523043000 +0000" channel="France 24 English.mncvision">
     <title>News (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250522171500 +0000" stop="20250522185000 +0000" channel="Galaxy.mncvision">
+    <title>Behaving Badly</title>
+</programme>
+<programme start="20250522185000 +0000" stop="20250522202000 +0000" channel="Galaxy.mncvision">
+    <title>Shut In</title>
+</programme>
+<programme start="20250522202000 +0000" stop="20250522215000 +0000" channel="Galaxy.mncvision">
+    <title>Clean</title>
+</programme>
+<programme start="20250522215000 +0000" stop="20250522232500 +0000" channel="Galaxy.mncvision">
+    <title>Never Let Go</title>
+</programme>
+<programme start="20250522232500 +0000" stop="20250523005500 +0000" channel="Galaxy.mncvision">
+    <title>Edge Of Fear</title>
+</programme>
+<programme start="20250523005500 +0000" stop="20250523022500 +0000" channel="Galaxy.mncvision">
+    <title>Road To Paloma</title>
+</programme>
+<programme start="20250523022500 +0000" stop="20250523040500 +0000" channel="Galaxy.mncvision">
+    <title>After We Fell</title>
+</programme>
+<programme start="20250523040500 +0000" stop="20250523054000 +0000" channel="Galaxy.mncvision">
+    <title>The Devil&#039;s Tomb</title>
+</programme>
+<programme start="20250523054000 +0000" stop="20250523071000 +0000" channel="Galaxy.mncvision">
+    <title>AfterDeath</title>
+</programme>
+<programme start="20250523071000 +0000" stop="20250523091000 +0000" channel="Galaxy.mncvision">
+    <title>The Last Champion</title>
+</programme>
+<programme start="20250523091000 +0000" stop="20250523103500 +0000" channel="Galaxy.mncvision">
+    <title>American Boogeywoman</title>
+</programme>
+<programme start="20250523103500 +0000" stop="20250523120000 +0000" channel="Galaxy.mncvision">
+    <title>Americons</title>
+</programme>
+<programme start="20250523120000 +0000" stop="20250523132500 +0000" channel="Galaxy.mncvision">
+    <title>Safer At Home</title>
+</programme>
+<programme start="20250523132500 +0000" stop="20250523150500 +0000" channel="Galaxy.mncvision">
+    <title>The Room</title>
+</programme>
+<programme start="20250523150500 +0000" stop="20250523164000 +0000" channel="Galaxy.mncvision">
+    <title>First Love</title>
+</programme>
+<programme start="20250523164000 +0000" stop="20250522171000 +0000" channel="Galaxy.mncvision">
+    <title>The Canyons</title>
+</programme>
+<programme start="20250522175000 +0000" stop="20250522194000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Italian Job</title>
+</programme>
+<programme start="20250522194000 +0000" stop="20250522211000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Zoolander</title>
+</programme>
+<programme start="20250522211000 +0000" stop="20250522223000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Brothers Grimsby</title>
+</programme>
+<programme start="20250522223000 +0000" stop="20250523002000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Insidious: Chapter 2</title>
+</programme>
+<programme start="20250523002000 +0000" stop="20250523023500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Lovely Bones</title>
+</programme>
+<programme start="20250523023500 +0000" stop="20250523042000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Insidious: The Last Key</title>
+</programme>
+<programme start="20250523042000 +0000" stop="20250523064500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Da Vinci Code</title>
+</programme>
+<programme start="20250523064500 +0000" stop="20250523081500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Hotel Transylvania 3</title>
+</programme>
+<programme start="20250523081500 +0000" stop="20250523102000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Shooter</title>
+</programme>
+<programme start="20250523102000 +0000" stop="20250523121500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Battle Los Angeles</title>
+</programme>
+<programme start="20250523121500 +0000" stop="20250523140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Elysium</title>
+</programme>
+<programme start="20250523140000 +0000" stop="20250523160500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Star Trek Beyond</title>
+</programme>
+<programme start="20250523160500 +0000" stop="20250523163500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Deliver Us From Evil</title>
+</programme>
 <programme start="20250522172500 +0000" stop="20250522182000 +0000" channel="Global Trekker.mncvision">
     <title>The Dinosaur Echo</title>
 </programme>
@@ -8208,7 +8293,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250523163000 +0000" stop="20250522170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga: SCF Vs LEV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250522183000 +0000" stop="20250522203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>UEFA National League</title>
+</programme>
+<programme start="20250522203000 +0000" stop="20250522210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250522210000 +0000" stop="20250522213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250522213000 +0000" stop="20250522233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs AUS</title>
+</programme>
+<programme start="20250522233000 +0000" stop="20250523013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: PRS Vs NSR</title>
+</programme>
+<programme start="20250523013000 +0000" stop="20250523033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: FCA Vs KSV</title>
+</programme>
+<programme start="20250523033000 +0000" stop="20250523040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250523040000 +0000" stop="20250523060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250523060000 +0000" stop="20250523080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: AHL Vs GFA</title>
+</programme>
+<programme start="20250523080000 +0000" stop="20250523100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: SCF Vs LEV</title>
+</programme>
+<programme start="20250523100000 +0000" stop="20250523103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Weekly</title>
+</programme>
+<programme start="20250523103000 +0000" stop="20250523123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>UEFA National League</title>
+</programme>
+<programme start="20250523123000 +0000" stop="20250523143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: JOR Vs IDN</title>
+</programme>
+<programme start="20250523143000 +0000" stop="20250523163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250523163000 +0000" stop="20250522170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: SCF Vs LEV</title>
+</programme>
 <programme start="20250522173000 +0000" stop="20250522200000 +0000" channel="Sportstars.mncvision">
     <title>Daihatsu Indonesia Masters 2025</title>
 </programme>
