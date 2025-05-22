@@ -1240,10 +1240,10 @@
 <programme start="20250522100000 +0000" stop="20250522120000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Hamburg (L)</title>
 </programme>
-<programme start="20250522120000 +0000" stop="20250522140000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250522120000 +0000" stop="20250522133000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Hamburg (L)</title>
 </programme>
-<programme start="20250522140000 +0000" stop="20250522160000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250522133000 +0000" stop="20250522160000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Hamburg (L)</title>
 </programme>
 <programme start="20250522160000 +0000" stop="20250522163000 +0000" channel="beIN Sports 2.mncvision">
@@ -1291,10 +1291,10 @@
 <programme start="20250522100000 +0000" stop="20250522120000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Hamburg (L)</title>
 </programme>
-<programme start="20250522120000 +0000" stop="20250522140000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250522120000 +0000" stop="20250522133000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Hamburg (L)</title>
 </programme>
-<programme start="20250522140000 +0000" stop="20250522160000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250522133000 +0000" stop="20250522160000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Hamburg (L)</title>
 </programme>
 <programme start="20250522160000 +0000" stop="20250522163000 +0000" channel="beIN Sports 2 HD.mncvision">

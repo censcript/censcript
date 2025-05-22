@@ -2312,31 +2312,31 @@
         <title>ATP Tour 250 2025: Geneva Day 4 Hurkacz v Rinderknech</title>
     </programme>
     <programme start="20250522023000 +0000" stop="20250522040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva Day 4 Djokovic v Fucsovics</title>
+        <title>Geneva Day 4 Djokovic v Fucsovics</title>
     </programme>
     <programme start="20250522040000 +0000" stop="20250522043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250522043000 +0000" stop="20250522060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 4 Zverev v Muller</title>
+        <title>Hamburg Day 4 Zverev v Muller</title>
     </programme>
     <programme start="20250522060000 +0000" stop="20250522070000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Rome</title>
     </programme>
     <programme start="20250522070000 +0000" stop="20250522083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva Day 4 Machac v Norrie</title>
+        <title>Geneva Day 4 Djokovic v Fucsovics</title>
     </programme>
     <programme start="20250522083000 +0000" stop="20250522100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Day 4 Auger-Aliassime v Mpetshi Perricard</title>
+        <title>Hamburg Day 4 Auger-Aliassime v Mpetshi Perricard</title>
     </programme>
     <programme start="20250522100000 +0000" stop="20250522120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 1</title>
+        <title>Hamburg QF 1 Lehecka v Etcheverry</title>
     </programme>
-    <programme start="20250522120000 +0000" stop="20250522140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 2</title>
+    <programme start="20250522120000 +0000" stop="20250522133000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Hamburg QF 2 Cobolli v Bautista Agut</title>
     </programme>
-    <programme start="20250522140000 +0000" stop="20250522160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 3</title>
+    <programme start="20250522133000 +0000" stop="20250522160000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Hamburg QF 3 Rublev v Darderi</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250521170000 +0000" channel="TVB Xing He.starhub">
         <title>Survivor&#039;s Law</title>
