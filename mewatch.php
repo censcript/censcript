@@ -1001,16 +1001,16 @@
         <title>No programme available now. Next broadcast on 23rd May, Friday 8.30pm. ONE Friday Fights 109</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250522160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025 </title>
+        <title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025: Round of 32</title>
     </programme>
     <programme start="20250522160000 +0000" stop="20250523160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025 </title>
+        <title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025: Round of 32</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250522160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025 </title>
+        <title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
     </programme>
     <programme start="20250522160000 +0000" stop="20250523160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025 </title>
+        <title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
     </programme>
     <programme start="20250521160000 +0000" stop="20250522160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

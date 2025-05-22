@@ -1564,6 +1564,90 @@
 <programme start="20250522160000 +0000" stop="20250522163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Markets</title>
 </programme>
+<programme start="20250521170000 +0000" stop="20250521180000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20250521180000 +0000" stop="20250521180300 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20250521180300 +0000" stop="20250521190000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20250521190000 +0000" stop="20250521200000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250521200000 +0000" stop="20250521210000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250521210000 +0000" stop="20250521213000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250521213000 +0000" stop="20250521223000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250521223000 +0000" stop="20250521230000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250521230000 +0000" stop="20250521230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250521230300 +0000" stop="20250522003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250522003000 +0000" stop="20250522011500 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20250522011500 +0000" stop="20250522021500 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250522021500 +0000" stop="20250522030000 +0000" channel="BTV.mncvision">
+    <title>Endeus</title>
+</programme>
+<programme start="20250522030000 +0000" stop="20250522040000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250522040000 +0000" stop="20250522050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250522050000 +0000" stop="20250522060000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20250522060000 +0000" stop="20250522064500 +0000" channel="BTV.mncvision">
+    <title>Kids Universe: Motu Patlu</title>
+</programme>
+<programme start="20250522064500 +0000" stop="20250522073000 +0000" channel="BTV.mncvision">
+    <title>Kids Universe: Didi &amp; Friends</title>
+</programme>
+<programme start="20250522073000 +0000" stop="20250522081500 +0000" channel="BTV.mncvision">
+    <title>Kids Universe: Boonie Bears</title>
+</programme>
+<programme start="20250522081500 +0000" stop="20250522091500 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250522091500 +0000" stop="20250522100000 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20250522100000 +0000" stop="20250522110000 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
+</programme>
+<programme start="20250522110000 +0000" stop="20250522120000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20250522120000 +0000" stop="20250522130000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250522130000 +0000" stop="20250522140000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250522140000 +0000" stop="20250522150000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250522150000 +0000" stop="20250522160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20250522160000 +0000" stop="20250522163000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
 <programme start="20250521170900 +0000" stop="20250521184200 +0000" channel="BUDDY STARS.mncvision">
     <title>Pil&#039;s Adventures</title>
 </programme>
@@ -7535,7 +7619,7 @@
     <title>Kiko</title>
 </programme>
 <programme start="20250522013000 +0000" stop="20250522050000 +0000" channel="RCTI.mncvision">
-    <title>Dunia Anak</title>
+    <title>Doraemon Series</title>
 </programme>
 <programme start="20250522050000 +0000" stop="20250522053000 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
@@ -7589,7 +7673,7 @@
     <title>Kiko</title>
 </programme>
 <programme start="20250522013000 +0000" stop="20250522050000 +0000" channel="RCTI HD.mncvision">
-    <title>Dunia Anak</title>
+    <title>Doraemon Series</title>
 </programme>
 <programme start="20250522050000 +0000" stop="20250522053000 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
