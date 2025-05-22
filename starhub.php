@@ -1604,7 +1604,7 @@
         <title>Kaakkum Deivam Kali</title>
     </programme>
     <programme start="20250521220000 +0000" stop="20250521223000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vetri Vinayakar</title>
+        <title>Vetri Vinayagar</title>
     </programme>
     <programme start="20250521223000 +0000" stop="20250521230000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
