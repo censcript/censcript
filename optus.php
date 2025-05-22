@@ -271,11 +271,17 @@
     <programme start="20250614020000 +0000" stop="20250614043000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Bay FC v Orlando Pride</title>
     </programme>
+    <programme start="20250614082500 +0000" stop="20250614104000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shonan v Machida</title>
+    </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Suwon FC v Anyang</title>
     </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeju v Daegu</title>
+    </programme>
+    <programme start="20250614095500 +0000" stop="20250614121000 +0000" channel="Optus Sport 10.optus">
+        <title>J1 League - FC Tokyo v Cerezo</title>
     </programme>
     <programme start="20250614210000 +0000" stop="20250614233000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Chicago Stars v Seattle Reign</title>
@@ -286,15 +292,9 @@
     <programme start="20250615020000 +0000" stop="20250615043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Angel City FC v North Carolina Courage</title>
     </programme>
-    <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Portland Thorns FC v Washington Spirit</title>
+    <programme start="20250615045500 +0000" stop="20250615071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Albirex v Yokohama FM</title>
     </programme>
-    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Jeonbuk v Suwon FC</title>
-    </programme>
-    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Seoul v Gangwon</title>
-    </programme>
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daejeon v Gimcheon</title>
+    <programme start="20250615085500 +0000" stop="20250615111000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Fagiano Okayama v Avispa</title>
     </programme>
