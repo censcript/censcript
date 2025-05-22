@@ -594,13 +594,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522062000 +0000" stop="20250522063000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522063000 +0000" stop="20250522064500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522063000 +0000" stop="20250522065000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522064500 +0000" stop="20250522065500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522065000 +0000" stop="20250522070000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522065500 +0000" stop="20250522071500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522070000 +0000" stop="20250522071500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250522071500 +0000" stop="20250522072500 +0000" channel="Cartoonito.skyde">
@@ -627,10 +627,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522085000 +0000" stop="20250522090500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522090500 +0000" stop="20250522091500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522090500 +0000" stop="20250522092000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522091500 +0000" stop="20250522093500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522092000 +0000" stop="20250522093500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250522093500 +0000" stop="20250522094500 +0000" channel="Cartoonito.skyde">
@@ -639,13 +639,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522094500 +0000" stop="20250522095500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522095500 +0000" stop="20250522101000 +0000" channel="Cartoonito.skyde">
+<programme start="20250522095500 +0000" stop="20250522101500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522101000 +0000" stop="20250522102000 +0000" channel="Cartoonito.skyde">
+<programme start="20250522101500 +0000" stop="20250522102500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522102000 +0000" stop="20250522104000 +0000" channel="Cartoonito.skyde">
+<programme start="20250522102500 +0000" stop="20250522104000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250522104000 +0000" stop="20250522105000 +0000" channel="Cartoonito.skyde">
@@ -723,10 +723,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522160000 +0000" stop="20250522161500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522161500 +0000" stop="20250522162500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522161500 +0000" stop="20250522163000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250522162500 +0000" stop="20250522164500 +0000" channel="Cartoonito.skyde">
+<programme start="20250522163000 +0000" stop="20250522164500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250522164500 +0000" stop="20250522165500 +0000" channel="Cartoonito.skyde">
@@ -2763,17 +2763,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522093500 +0000" stop="20250522100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: TOT - MUN, Finale 2025 in Bilbao (ESP)</title>
 </programme>
-<programme start="20250522100000 +0000" stop="20250522120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Viertelfinale, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+<programme start="20250522100000 +0000" stop="20250522113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 500: J. Lehecka (CZE) - T. M. Etcheverry (ARG), Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
-<programme start="20250522120000 +0000" stop="20250522140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Viertelfinale, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+<programme start="20250522113000 +0000" stop="20250522133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 250: S. Ofner (AUT) - K. Khachanov, Gonet Geneva Open in Genf (SUI), Viertelfinale</title>
+</programme>
+<programme start="20250522133000 +0000" stop="20250522140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 500: F. Cobolli  (ITA) - R. Bautista Agut (ESP), Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20250522140000 +0000" stop="20250522160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Viertelfinale, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: L. Darderi (ITA) - A. Rublev, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20250522160000 +0000" stop="20250522180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Viertelfinale, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: A. Muller (FRA) - F. Auger-Aliassime (CAN), Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20250522180000 +0000" stop="20250522182500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: TOT - MUN, Finale 2025 in Bilbao (ESP)</title>
@@ -3348,13 +3351,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522084000 +0000" stop="20250522090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20250522090000 +0000" stop="20250522173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250522090000 +0000" stop="20250522220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
 </programme>
 <programme start="20250522111000 +0000" stop="20250522113000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis ATP</title>
 </programme>
-<programme start="20250522113000 +0000" stop="20250522200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250522113000 +0000" stop="20250522220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
 </programme>
 <programme start="20250521223000 +0000" stop="20250521231500 +0000" channel="SYFY HD.skyde">
@@ -3798,19 +3801,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250522121500 +0000" stop="20250522140000 +0000" channel="Warner TV Film HD.skyde">
     <title>Universal Soldier</title>
 </programme>
-<programme start="20250522140000 +0000" stop="20250522161000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250522140000 +0000" stop="20250522160500 +0000" channel="Warner TV Film HD.skyde">
     <title>Real Steel</title>
 </programme>
-<programme start="20250522161000 +0000" stop="20250522181500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250522160500 +0000" stop="20250522181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Prometheus - Dunkle Zeichen</title>
 </programme>
 <programme start="20250522181500 +0000" stop="20250522195500 +0000" channel="Warner TV Film HD.skyde">
     <title>Resident Evil</title>
 </programme>
-<programme start="20250522195500 +0000" stop="20250522213500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250522195500 +0000" stop="20250522214000 +0000" channel="Warner TV Film HD.skyde">
     <title>Resident Evil: Apocalypse</title>
 </programme>
-<programme start="20250522213500 +0000" stop="20250522232000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250522214000 +0000" stop="20250522232000 +0000" channel="Warner TV Film HD.skyde">
     <title>Volcano</title>
 </programme>
 <programme start="20250521220500 +0000" stop="20250521225500 +0000" channel="Warner TV Serie HD.skyde">
