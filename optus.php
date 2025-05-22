@@ -1,6 +1,3 @@
-    <programme start="20250522123000 +0000" stop="20250522130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Morato</title>
-    </programme>
     <programme start="20250523093000 +0000" stop="20250523100000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Fantasy Premier League</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Gangwon</title>
+    </programme>
+    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Daejeon v Gimcheon</title>
     </programme>
