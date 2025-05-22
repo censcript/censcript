@@ -668,7 +668,7 @@
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250522153000 +0000" stop="20250522173000 +0000" channel="ANTV.vision">
-<title>Misteri 8 Pendekar</title>
+<title>Sengatan Kobra</title>
 </programme>
 <programme start="20250522173000 +0000" stop="20250522193000 +0000" channel="ANTV.vision">
 <title>Love Love Love</title>
@@ -686,7 +686,7 @@
 <title>Dragon Rescue Riders: Heroes...</title>
 </programme>
 <programme start="20250523000000 +0000" stop="20250523020000 +0000" channel="ANTV.vision">
-<title>Catatan Si Boy 1</title>
+<title>Catatan Si Boy</title>
 </programme>
 <programme start="20250523020000 +0000" stop="20250523053000 +0000" channel="ANTV.vision">
 <title>Awara Paagal Deewana</title>

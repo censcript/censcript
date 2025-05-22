@@ -1622,7 +1622,7 @@
         <title>Anu</title>
     </programme>
     <programme start="20250522010000 +0000" stop="20250522023000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Bigg Boss</title>
+        <title>Bigg Boss Tamil</title>
     </programme>
     <programme start="20250522023000 +0000" stop="20250522050000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Chathur Mukham</title>
@@ -1646,7 +1646,7 @@
         <title>Kaakkum Deivam Kali</title>
     </programme>
     <programme start="20250522100000 +0000" stop="20250522103000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vetri Vinayakar</title>
+        <title>Vetri Vinayagar</title>
     </programme>
     <programme start="20250522103000 +0000" stop="20250522110000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
@@ -1664,7 +1664,7 @@
         <title>Anu</title>
     </programme>
     <programme start="20250522130000 +0000" stop="20250522143000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Bigg Boss</title>
+        <title>Bigg Boss Tamil</title>
     </programme>
     <programme start="20250522143000 +0000" stop="20250522170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Dharma Chakra</title>
@@ -4103,7 +4103,7 @@
         <title>Transcending Happiness</title>
     </programme>
     <programme start="20250522064000 +0000" stop="20250522065000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mimicries--Natural Science for Kids</title>
+        <title>Points at Issue</title>
     </programme>
     <programme start="20250522065000 +0000" stop="20250522065500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone (R)</title>
