@@ -157,8 +157,14 @@
     <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Gangwon</title>
     </programme>
+    <programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories</title>
+    </programme>
     <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
+    </programme>
+    <programme start="20250605133000 +0000" stop="20250605143000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Originals: Masterclass Special</title>
     </programme>
     <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Nations League - Spain v France</title>
@@ -291,10 +297,4 @@
     </programme>
     <programme start="20250615020000 +0000" stop="20250615043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Angel City FC v North Carolina Courage</title>
-    </programme>
-    <programme start="20250615045500 +0000" stop="20250615071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Albirex v Yokohama FM</title>
-    </programme>
-    <programme start="20250615085500 +0000" stop="20250615111000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Fagiano Okayama v Avispa</title>
     </programme>

@@ -559,10 +559,10 @@
     <programme start="20250523100001 +0000" stop="20250523110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250523110000 +0000" stop="20250523114500 +0000" channel="CNA.mewatch">
+    <programme start="20250523110000 +0000" stop="20250523114459 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 2</title>
     </programme>
-    <programme start="20250523114500 +0000" stop="20250523120000 +0000" channel="CNA.mewatch">
+    <programme start="20250523114459 +0000" stop="20250523120000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
     <programme start="20250523120000 +0000" stop="20250523130000 +0000" channel="CNA.mewatch">
@@ -571,16 +571,16 @@
     <programme start="20250523130000 +0000" stop="20250523133000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250523133000 +0000" stop="20250523140000 +0000" channel="CNA.mewatch">
+    <programme start="20250523133000 +0000" stop="20250523140001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 41</title>
     </programme>
-    <programme start="20250523140000 +0000" stop="20250523150000 +0000" channel="CNA.mewatch">
+    <programme start="20250523140001 +0000" stop="20250523150106 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250523150000 +0000" stop="20250523160000 +0000" channel="CNA.mewatch">
+    <programme start="20250523150106 +0000" stop="20250523155958 +0000" channel="CNA.mewatch">
         <title>Insight - EP 5</title>
     </programme>
-    <programme start="20250523160000 +0000" stop="20250523160300 +0000" channel="CNA.mewatch">
+    <programme start="20250523155958 +0000" stop="20250523160258 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250522160000 +0000" stop="20250523160000 +0000" channel="spl01.mewatch">
