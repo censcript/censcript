@@ -1,6 +1,3 @@
-    <programme start="20250523093000 +0000" stop="20250523100000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250523102000 +0000" stop="20250523124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Anyang v Pohang</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250615020000 +0000" stop="20250615043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Angel City FC v North Carolina Courage</title>
+    </programme>
+    <programme start="20250615045500 +0000" stop="20250615071000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Albirex v Yokohama FM</title>
     </programme>

@@ -1547,7 +1547,10 @@
     <title>Bloomberg Technology</title>
 </programme>
 <programme start="20250523160000 +0000" stop="20250523163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Close</title>
+    <title>Bloomberg Real Yield</title>
+</programme>
+<programme start="20250523163000 +0000" stop="20250522170000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Markets</title>
 </programme>
 <programme start="20250522170000 +0000" stop="20250522180000 +0000" channel="BTV.mncvision">
     <title>ONE Vault</title>
@@ -8534,7 +8537,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20250523150000 +0000" stop="20250523153000 +0000" channel="Sportstars 3.mncvision">
-    <title>Sportacular Match</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20250522170000 +0000" stop="20250522190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2: TGL Vs JOG</title>
@@ -8585,7 +8588,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20250523150000 +0000" stop="20250523153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20250522170000 +0000" stop="20250522190000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: TGL Vs JOG</title>

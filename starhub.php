@@ -2321,7 +2321,7 @@
         <title>Geneva SF 2 Djokovic v Norrie</title>
     </programme>
     <programme start="20250523153000 +0000" stop="20250523173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Hamburg SF 2 Rublev v Auger-Aliassime</title>
+        <title>ATP Tour 500 2025: Hamburg SF 2 Rublev v Auger-Aliassime</title>
     </programme>
     <programme start="20250522160000 +0000" stop="20250522170000 +0000" channel="TVB Xing He.starhub">
         <title>Survivor&#039;s Law</title>
