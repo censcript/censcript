@@ -2004,6 +2004,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250523215500 +0000" stop="20250523234500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Die Frau des Zeitreisenden</title>
 </programme>
+<programme start="20250522233000 +0000" stop="20250523012500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Rogue Agent</title>
+</programme>
+<programme start="20250523012500 +0000" stop="20250523034500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Masquerade - Ein teuflischer Coup</title>
+</programme>
+<programme start="20250523034500 +0000" stop="20250523053000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Problemista</title>
+</programme>
+<programme start="20250523053000 +0000" stop="20250523082000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Wandering Earth II</title>
+</programme>
+<programme start="20250523082000 +0000" stop="20250523101000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Dumb Money - Schnelles Geld</title>
+</programme>
+<programme start="20250523101000 +0000" stop="20250523115000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Painter</title>
+</programme>
+<programme start="20250523115000 +0000" stop="20250523134000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Room Next Door</title>
+</programme>
+<programme start="20250523134000 +0000" stop="20250523151000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Mord in Saint-Tropez</title>
+</programme>
+<programme start="20250523151000 +0000" stop="20250523164500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Plattfuß - Ein Cop in Neapel: Schande</title>
+</programme>
+<programme start="20250523164500 +0000" stop="20250523181500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Drive-Away Dolls</title>
+</programme>
+<programme start="20250523181500 +0000" stop="20250523195500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Weekend in Taipei</title>
+</programme>
+<programme start="20250523195500 +0000" stop="20250523213500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Painter</title>
+</programme>
+<programme start="20250523213500 +0000" stop="20250523231500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Parenting</title>
+</programme>
 <programme start="20250522224000 +0000" stop="20250522233000 +0000" channel="Sky Crime HD.skyde">
     <title>Cold Case Killers</title>
 </programme>
