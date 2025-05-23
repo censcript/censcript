@@ -419,7 +419,7 @@
     <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250523153000 +0000" stop="20250523160000 +0000" channel="ANTV.mncvision">
-    <title>Arya Penangsang</title>
+    <title>Pertarungan Iblis Merah</title>
 </programme>
 <programme start="20250522170000 +0000" stop="20250522173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>

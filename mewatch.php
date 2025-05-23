@@ -490,13 +490,13 @@
     <programme start="20250523113000 +0000" stop="20250523120000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250523120000 +0000" stop="20250523130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250523120000 +0000" stop="20250523130015 +0000" channel="Vasantham.mewatch">
         <title>Swearing-In Ceremony: Singapore Prime Minister and Ministers</title>
     </programme>
-    <programme start="20250523130000 +0000" stop="20250523140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250523130015 +0000" stop="20250523140012 +0000" channel="Vasantham.mewatch">
         <title>Acham Yenbathu Madamaiyadaa S3 - EP 4</title>
     </programme>
-    <programme start="20250523140000 +0000" stop="20250523163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250523140012 +0000" stop="20250523163000 +0000" channel="Vasantham.mewatch">
         <title>Partner</title>
     </programme>
     <programme start="20250522150003 +0000" stop="20250522160001 +0000" channel="CNA.mewatch">
