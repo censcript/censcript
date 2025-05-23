@@ -1,9 +1,3 @@
-    <programme start="20250523102000 +0000" stop="20250523124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Anyang v Pohang</title>
-    </programme>
-    <programme start="20250523110000 +0000" stop="20250523120000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Welcome to the Weekend</title>
-    </programme>
     <programme start="20250523153000 +0000" stop="20250523160000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Preview</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250615045500 +0000" stop="20250615071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Albirex v Yokohama FM</title>
+    </programme>
+    <programme start="20250615085500 +0000" stop="20250615111000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Fagiano Okayama v Avispa</title>
+    </programme>
+    <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Portland Thorns FC v Washington Spirit</title>
     </programme>

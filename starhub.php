@@ -4007,7 +4007,7 @@
         <title>With Mother (R)</title>
     </programme>
     <programme start="20250522182500 +0000" stop="20250522183000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hello! NHK WORLD-JAPAN (R)</title>
+        <title>Fun with Okinawa Dialects (R)</title>
     </programme>
     <programme start="20250522183000 +0000" stop="20250522184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 39 (R)</title>
