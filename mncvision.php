@@ -161,7 +161,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250523083000 +0000" stop="20250523090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+    <title>101 East: Repressive Reach</title>
 </programme>
 <programme start="20250523090000 +0000" stop="20250523093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
