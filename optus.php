@@ -73,7 +73,7 @@
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 4.optus">
         <title>Premier League - Manchester United v Aston Villa</title>
     </programme>
-    <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250525145000 +0000" stop="20250525181000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Liverpool v Crystal Palace</title>
     </programme>
     <programme start="20250525145000 +0000" stop="20250525171000 +0000" channel="Optus Sport 9.optus">
