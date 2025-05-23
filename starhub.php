@@ -2215,11 +2215,23 @@
     <programme start="20250523223000 +0000" stop="20250524010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thoongatha Kannendru Ondru</title>
     </programme>
-    <programme start="20250524040000 +0000" stop="20250524100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250524010000 +0000" stop="20250524013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250524100000 +0000" stop="20250524160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250524013000 +0000" stop="20250524043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaadhal Konden</title>
+    </programme>
+    <programme start="20250524043000 +0000" stop="20250524073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaadhal Azhivathillai</title>
+    </programme>
+    <programme start="20250524073000 +0000" stop="20250524103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - MR.Bharath</title>
+    </programme>
+    <programme start="20250524103000 +0000" stop="20250524133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Jackson Durai</title>
+    </programme>
+    <programme start="20250524133000 +0000" stop="20250524170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Veeram</title>
     </programme>
     <programme start="20250523153000 +0000" stop="20250523173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Hamburg SF 2 Rublev v Auger-Aliassime</title>
