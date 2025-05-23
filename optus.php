@@ -1,6 +1,3 @@
-    <programme start="20250523153000 +0000" stop="20250523160000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Premier League Preview</title>
-    </programme>
     <programme start="20250523213000 +0000" stop="20250523223000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Team Talks</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Portland Thorns FC v Washington Spirit</title>
+    </programme>
+    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeonbuk v Suwon FC</title>
     </programme>
