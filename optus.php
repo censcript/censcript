@@ -1,6 +1,3 @@
-    <programme start="20250523213000 +0000" stop="20250523223000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Team Talks</title>
-    </programme>
     <programme start="20250524013000 +0000" stop="20250524040000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Utah Royals FC v Orlando Pride</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Suwon FC</title>
+    </programme>
+    <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Seoul v Gangwon</title>
     </programme>
