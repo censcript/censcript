@@ -142,7 +142,7 @@
     <programme start="20250523133005 +0000" stop="20250523140046 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 2</title>
     </programme>
-    <programme start="20250523140046 +0000" stop="20250523163059 +0000" channel="Channel 5.mewatch">
+    <programme start="20250523140046 +0000" stop="20250523163104 +0000" channel="Channel 5.mewatch">
         <title>Indiana Jones and the Kingdom of the Crystal Skull</title>
     </programme>
     <programme start="20250522150126 +0000" stop="20250522160149 +0000" channel="Channel 8.mewatch">
@@ -238,29 +238,26 @@
     <programme start="20250523093135 +0000" stop="20250523103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 2</title>
     </programme>
-    <programme start="20250523103000 +0000" stop="20250523113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523103000 +0000" stop="20250523112942 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 39</title>
     </programme>
-    <programme start="20250523113000 +0000" stop="20250523120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523112942 +0000" stop="20250523120000 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 39</title>
     </programme>
-    <programme start="20250523120000 +0000" stop="20250523130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523120000 +0000" stop="20250523130026 +0000" channel="Channel 8.mewatch">
         <title>Swearing-In Ceremony: Singapore Prime Minister and Ministers</title>
     </programme>
-    <programme start="20250523130000 +0000" stop="20250523140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523130026 +0000" stop="20250523140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 2</title>
     </programme>
-    <programme start="20250523140000 +0000" stop="20250523143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523140000 +0000" stop="20250523143131 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250523143000 +0000" stop="20250523150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523143131 +0000" stop="20250523150149 +0000" channel="Channel 8.mewatch">
         <title>Legendary Taste of Sichuan S4 - EP 3</title>
     </programme>
-    <programme start="20250523150000 +0000" stop="20250523160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250523150149 +0000" stop="20250523160027 +0000" channel="Channel 8.mewatch">
         <title>Love Game in Eastern Fantasy - EP 32</title>
-    </programme>
-    <programme start="20250523160000 +0000" stop="20250523170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 19</title>
     </programme>
     <programme start="20250522153140 +0000" stop="20250522163112 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 6</title>
@@ -364,19 +361,19 @@
     <programme start="20250523110000 +0000" stop="20250523120000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 7</title>
     </programme>
-    <programme start="20250523120000 +0000" stop="20250523130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250523120000 +0000" stop="20250523130026 +0000" channel="Channel U.mewatch">
         <title>Swearing-In Ceremony: Singapore Prime Minister and Ministers</title>
     </programme>
-    <programme start="20250523130000 +0000" stop="20250523140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250523130026 +0000" stop="20250523140036 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 12</title>
     </programme>
-    <programme start="20250523140000 +0000" stop="20250523150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250523140036 +0000" stop="20250523150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 12</title>
     </programme>
-    <programme start="20250523150000 +0000" stop="20250523153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250523150000 +0000" stop="20250523153049 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250523153000 +0000" stop="20250523163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250523153049 +0000" stop="20250523162958 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 12</title>
     </programme>
     <programme start="20250522155943 +0000" stop="20250523010000 +0000" channel="Suria.mewatch">
@@ -424,13 +421,13 @@
     <programme start="20250523113000 +0000" stop="20250523120000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250523120000 +0000" stop="20250523130000 +0000" channel="Suria.mewatch">
+    <programme start="20250523120000 +0000" stop="20250523130016 +0000" channel="Suria.mewatch">
         <title>Swearing-In Ceremony: Singapore Prime Minister and Ministers</title>
     </programme>
-    <programme start="20250523130000 +0000" stop="20250523150000 +0000" channel="Suria.mewatch">
+    <programme start="20250523130016 +0000" stop="20250523150013 +0000" channel="Suria.mewatch">
         <title>Doh</title>
     </programme>
-    <programme start="20250523150000 +0000" stop="20250523153000 +0000" channel="Suria.mewatch">
+    <programme start="20250523150013 +0000" stop="20250523153000 +0000" channel="Suria.mewatch">
         <title>Eat,Fun And Pray - EP 4</title>
     </programme>
     <programme start="20250523153000 +0000" stop="20250523155959 +0000" channel="Suria.mewatch">
