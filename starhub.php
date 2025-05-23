@@ -2291,37 +2291,37 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250523013000 +0000" stop="20250523030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva QF 4 Popyrin v Norrie</title>
+        <title>Geneva QF 4 Popyrin v Norrie</title>
     </programme>
     <programme start="20250523030000 +0000" stop="20250523040000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>The King’s Palace: Rafa Nadal &amp; Roland-Garros</title>
     </programme>
     <programme start="20250523040000 +0000" stop="20250523053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva QF 3 Djokovic v Arnaldi</title>
+        <title>Geneva QF 3 Djokovic v Arnaldi</title>
     </programme>
     <programme start="20250523053000 +0000" stop="20250523070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 1 Lehecka v Etcheverry</title>
+        <title>Hamburg QF 1 Lehecka v Etcheverry</title>
     </programme>
     <programme start="20250523070000 +0000" stop="20250523083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 2 Cobolli v Bautista Agut</title>
+        <title>Hamburg QF 2 Cobolli v Bautista Agut</title>
     </programme>
     <programme start="20250523083000 +0000" stop="20250523100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 3 Rublev v Darderi</title>
+        <title>Hamburg QF 3 Rublev v Darderi</title>
     </programme>
     <programme start="20250523100000 +0000" stop="20250523103000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250523103000 +0000" stop="20250523120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg QF 4 Auger-Aliassime v Muller</title>
+        <title>Hamburg QF 4 Auger-Aliassime v Muller</title>
     </programme>
-    <programme start="20250523120000 +0000" stop="20250523133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Geneva SF 1</title>
+    <programme start="20250523120000 +0000" stop="20250523140000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Geneva SF 1 Hurkacz v Ofner</title>
     </programme>
-    <programme start="20250523133000 +0000" stop="20250523153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg SF 1</title>
+    <programme start="20250523140000 +0000" stop="20250523153000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Geneva SF 2 Djokovic v Norrie</title>
     </programme>
     <programme start="20250523153000 +0000" stop="20250523173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg SF 2</title>
+        <title>Hamburg SF 2 Rublev v Auger-Aliassime</title>
     </programme>
     <programme start="20250522160000 +0000" stop="20250522170000 +0000" channel="TVB Xing He.starhub">
         <title>Survivor&#039;s Law</title>
@@ -5386,8 +5386,11 @@
     <programme start="20250523070000 +0000" stop="20250523080000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250523080000 +0000" stop="20250523113000 +0000" channel="SPOTV.starhub">
-        <title>Day 7 Session 1</title>
+    <programme start="20250523080000 +0000" stop="20250523084000 +0000" channel="SPOTV.starhub">
+        <title>Day 7 S1 - XD Semifinal</title>
+    </programme>
+    <programme start="20250523084000 +0000" stop="20250523113000 +0000" channel="SPOTV.starhub">
+        <title>Day 7 S1 - Quarterfinals</title>
     </programme>
     <programme start="20250523113000 +0000" stop="20250523120000 +0000" channel="SPOTV.starhub">
         <title>Highlights 2</title>
@@ -5399,7 +5402,7 @@
         <title>A-League Men 24/25 Mini Match SF 1st Leg: Western United vs Melbourne City</title>
     </programme>
     <programme start="20250523133000 +0000" stop="20250523163000 +0000" channel="SPOTV.starhub">
-        <title>Day 7 Session 2</title>
+        <title>Day 7 S2 - Quarterfinals</title>
     </programme>
     <programme start="20250522154000 +0000" stop="20250522165500 +0000" channel="KBS World HD.starhub">
         <title>Villains Everywhere</title>
@@ -8422,17 +8425,11 @@
     <programme start="20250522230000 +0000" stop="20250522233000 +0000" channel="SPOTV2.starhub">
         <title>Yamaha</title>
     </programme>
-    <programme start="20250522233000 +0000" stop="20250523040000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250522233000 +0000" stop="20250523042000 +0000" channel="SPOTV2.starhub">
         <title>Day 6 Session 1</title>
     </programme>
-    <programme start="20250523040000 +0000" stop="20250523073000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250523042000 +0000" stop="20250523085500 +0000" channel="SPOTV2.starhub">
         <title>Day 6 Session 2</title>
-    </programme>
-    <programme start="20250523073000 +0000" stop="20250523081500 +0000" channel="SPOTV2.starhub">
-        <title>Race 1</title>
-    </programme>
-    <programme start="20250523081500 +0000" stop="20250523085500 +0000" channel="SPOTV2.starhub">
-        <title>Race 2</title>
     </programme>
     <programme start="20250523085500 +0000" stop="20250523094000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 1 - Moto3</title>
