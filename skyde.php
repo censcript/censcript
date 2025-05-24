@@ -2673,7 +2673,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524140000 +0000" stop="20250524170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - SK Rapid, 32. Runde</title>
 </programme>
-<programme start="20250524170000 +0000" stop="20250524180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250524170000 +0000" stop="20250524181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
 </programme>
 <programme start="20250524094000 +0000" stop="20250524100000 +0000" channel="Sky Sport Austria 5 HD.skyde">

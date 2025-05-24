@@ -517,9 +517,6 @@
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250524050000 +0000" stop="20250524054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
 <programme start="20250524054500 +0000" stop="20250524063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang Explorer</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250524230300 +0000" stop="20250524233000 +0000" channel="BTV.vision">
 <title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250524233000 +0000" stop="20250525003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
