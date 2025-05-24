@@ -3225,17 +3225,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524124000 +0000" stop="20250524130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250524130000 +0000" stop="20250524173000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: H. Hurkacz (POL) - N. Djokovic (SRB), Gonet Geneva Open in Genf (SUI), Finale</title>
-</programme>
-<programme start="20250524094000 +0000" stop="20250524100000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>ATP World Tour: Es folgt</title>
+<programme start="20250524130000 +0000" stop="20250524153000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 250: Finale, Gonet Geneva Open in Genf (SUI), Finale</title>
 </programme>
 <programme start="20250524100000 +0000" stop="20250524123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: A. Molteni (ARG)/F. Romboli (BRA) - S. Bolelli (ITA)/A. Vavassori (ITA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
 </programme>
-<programme start="20250524123000 +0000" stop="20250524170000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
+<programme start="20250524123000 +0000" stop="20250524150000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20250523223000 +0000" stop="20250523231500 +0000" channel="SYFY HD.skyde">
     <title>Fact or Faked: Auf den Spuren des Paranormalen</title>

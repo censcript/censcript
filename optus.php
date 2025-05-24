@@ -1,6 +1,3 @@
-    <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Cerezo v Avispa</title>
-    </programme>
     <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Seoul v Suwon FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeju v Gwangju</title>
+    </programme>
+    <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Racing Louisville FC v Orlando Pride</title>
     </programme>

@@ -517,30 +517,6 @@
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250524013000 +0000" stop="20250524023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250524023000 +0000" stop="20250524033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250524033000 +0000" stop="20250524041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250524041500 +0000" stop="20250524050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20250524050000 +0000" stop="20250524054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250524054500 +0000" stop="20250524063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20250524063000 +0000" stop="20250524071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20250524071500 +0000" stop="20250524081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20250524081500 +0000" stop="20250524090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1497,4 +1473,28 @@
 </programme>
 <programme start="20250524210000 +0000" stop="20250524213000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20250524213000 +0000" stop="20250524223000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250524223000 +0000" stop="20250524230000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250524230000 +0000" stop="20250524230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20250524230300 +0000" stop="20250524233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250524233000 +0000" stop="20250525003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20250525003000 +0000" stop="20250525011500 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250525011500 +0000" stop="20250525021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250525021500 +0000" stop="20250525030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
 </programme>
