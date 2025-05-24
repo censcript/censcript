@@ -1977,6 +1977,87 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524214500 +0000" stop="20250524232000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Kinder des Zorns</title>
 </programme>
+<programme start="20250523222000 +0000" stop="20250523231000 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
+<programme start="20250523231000 +0000" stop="20250524001000 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
+<programme start="20250524001000 +0000" stop="20250524014000 +0000" channel="Sky Crime HD.skyde">
+    <title>Hollywood in Angst: Die Bling-Ring-Story</title>
+</programme>
+<programme start="20250524014000 +0000" stop="20250524022000 +0000" channel="Sky Crime HD.skyde">
+    <title>Disappeared</title>
+</programme>
+<programme start="20250524022000 +0000" stop="20250524030000 +0000" channel="Sky Crime HD.skyde">
+    <title>Hunde im Einsatz</title>
+</programme>
+<programme start="20250524030000 +0000" stop="20250524035500 +0000" channel="Sky Crime HD.skyde">
+    <title>Wrong Man</title>
+</programme>
+<programme start="20250524035500 +0000" stop="20250524045000 +0000" channel="Sky Crime HD.skyde">
+    <title>Wrong Man</title>
+</programme>
+<programme start="20250524045000 +0000" stop="20250524055000 +0000" channel="Sky Crime HD.skyde">
+    <title>Wrong Man</title>
+</programme>
+<programme start="20250524055000 +0000" stop="20250524064500 +0000" channel="Sky Crime HD.skyde">
+    <title>Wrong Man</title>
+</programme>
+<programme start="20250524064500 +0000" stop="20250524074500 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+</programme>
+<programme start="20250524074500 +0000" stop="20250524083500 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+</programme>
+<programme start="20250524083500 +0000" stop="20250524093500 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+</programme>
+<programme start="20250524093500 +0000" stop="20250524103500 +0000" channel="Sky Crime HD.skyde">
+    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
+</programme>
+<programme start="20250524103500 +0000" stop="20250524112500 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524112500 +0000" stop="20250524121000 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524121000 +0000" stop="20250524125500 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524125500 +0000" stop="20250524134000 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524134000 +0000" stop="20250524142500 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524142500 +0000" stop="20250524151000 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524151000 +0000" stop="20250524155500 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524155500 +0000" stop="20250524164000 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524164000 +0000" stop="20250524173000 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524173000 +0000" stop="20250524181500 +0000" channel="Sky Crime HD.skyde">
+    <title>New York Homicide</title>
+</programme>
+<programme start="20250524181500 +0000" stop="20250524191000 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
+<programme start="20250524191000 +0000" stop="20250524200500 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
+<programme start="20250524200500 +0000" stop="20250524210000 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
+<programme start="20250524210000 +0000" stop="20250524220000 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
 <programme start="20250523221500 +0000" stop="20250523230000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Motorway Cops - Verkehrssünder im Visier</title>
 </programme>
@@ -2574,7 +2655,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524140000 +0000" stop="20250524170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - RZ Pellets WAC, 32. Runde</title>
 </programme>
-<programme start="20250524170000 +0000" stop="20250524180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250524170000 +0000" stop="20250524181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
 </programme>
 <programme start="20250524134000 +0000" stop="20250524140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2592,7 +2673,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524140000 +0000" stop="20250524170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - SK Rapid, 32. Runde</title>
 </programme>
-<programme start="20250524170000 +0000" stop="20250524181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250524170000 +0000" stop="20250524180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
 </programme>
 <programme start="20250524094000 +0000" stop="20250524100000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2760,16 +2841,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524170000 +0000" stop="20250524220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Charles Schwab Challenge, 3. Tag in Fort Worth, TX (USA)</title>
 </programme>
-<programme start="20250523223000 +0000" stop="20250523233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250523223500 +0000" stop="20250523233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
 <programme start="20250523233000 +0000" stop="20250523234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights FLA@CAR, Eastern Conference Final, Spiel 2</title>
 </programme>
-<programme start="20250523234500 +0000" stop="20250524000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250523234500 +0000" stop="20250524000500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@DAL, Western Conference Final, Spiel 1</title>
 </programme>
-<programme start="20250524000000 +0000" stop="20250524030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250524000500 +0000" stop="20250524030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 2</title>
 </programme>
 <programme start="20250524030000 +0000" stop="20250524033000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3138,14 +3219,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524114000 +0000" stop="20250524120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250524120000 +0000" stop="20250524143000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+<programme start="20250524120000 +0000" stop="20250524163000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: L. Samsonova - E. Rybakina (KAZ), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20250524124000 +0000" stop="20250524130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250524130000 +0000" stop="20250524153000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: Finale, Gonet Geneva Open in Genf (SUI), Finale</title>
+<programme start="20250524130000 +0000" stop="20250524173000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 250: H. Hurkacz (POL) - N. Djokovic (SRB), Gonet Geneva Open in Genf (SUI), Finale</title>
+</programme>
+<programme start="20250524094000 +0000" stop="20250524100000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>ATP World Tour: Es folgt</title>
+</programme>
+<programme start="20250524100000 +0000" stop="20250524123000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: A. Molteni (ARG)/F. Romboli (BRA) - S. Bolelli (ITA)/A. Vavassori (ITA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+</programme>
+<programme start="20250524123000 +0000" stop="20250524170000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20250523223000 +0000" stop="20250523231500 +0000" channel="SYFY HD.skyde">
     <title>Fact or Faked: Auf den Spuren des Paranormalen</title>

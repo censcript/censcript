@@ -517,18 +517,6 @@
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250524013000 +0000" stop="20250524023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250524023000 +0000" stop="20250524033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250524033000 +0000" stop="20250524041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250524041500 +0000" stop="20250524050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
 <programme start="20250524050000 +0000" stop="20250524054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250524210000 +0000" stop="20250524213000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20250524213000 +0000" stop="20250524223000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250524223000 +0000" stop="20250524230000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250524230000 +0000" stop="20250524230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20250524230300 +0000" stop="20250524233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
 </programme>

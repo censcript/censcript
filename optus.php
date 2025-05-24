@@ -1,6 +1,3 @@
-    <programme start="20250524020000 +0000" stop="20250524043000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Seattle Reign v Washington Spirit</title>
-    </programme>
     <programme start="20250524055500 +0000" stop="20250524081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Avispa</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Daejeon v Gimcheon</title>
+    </programme>
+    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Jeju v Gwangju</title>
     </programme>
