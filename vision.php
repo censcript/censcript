@@ -59,7 +59,7 @@
 <title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250525023000 +0000" stop="20250525041500 +0000" channel="RCTI.vision">
-<title>Dahsyatnya Weekend</title>
+<title>Dahsyatnya Weekend (RCTI)</title>
 </programme>
 <programme start="20250525041500 +0000" stop="20250525060000 +0000" channel="RCTI.vision">
 <title>Shaolin Soccer</title>
@@ -516,9 +516,6 @@
 </programme>
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250524081500 +0000" stop="20250524090000 +0000" channel="Trans 7.vision">
-<title>Jejak Si Gundul</title>
 </programme>
 <programme start="20250524090000 +0000" stop="20250524100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250525021500 +0000" stop="20250525030000 +0000" channel="BTV.vision">
 <title>Endeus</title>
+</programme>
+<programme start="20250525030000 +0000" stop="20250525040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
