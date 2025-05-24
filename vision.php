@@ -517,6 +517,12 @@
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250524090000 +0000" stop="20250524100000 +0000" channel="Trans 7.vision">
+<title>Makan Receh</title>
+</programme>
+<programme start="20250524100000 +0000" stop="20250524110000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
 <programme start="20250524110000 +0000" stop="20250524120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250525030000 +0000" stop="20250525040000 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
-</programme>
-<programme start="20250525040000 +0000" stop="20250525050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250525050000 +0000" stop="20250525060000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
 </programme>

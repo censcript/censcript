@@ -8155,13 +8155,13 @@
     <programme start="20250525043000 +0000" stop="20250525073000 +0000" channel="Asianet Movies.starhub">
         <title>Pachakkuthira</title>
     </programme>
-    <programme start="20250525073000 +0000" stop="20250525103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250525073000 +0000" stop="20250525103500 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20250525103000 +0000" stop="20250525133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250525103500 +0000" stop="20250525133000 +0000" channel="Asianet Movies.starhub">
         <title>Love Action Drama</title>
     </programme>
-    <programme start="20250525133000 +0000" stop="20250525163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250525133000 +0000" stop="20250525164000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
     <programme start="20250524160000 +0000" stop="20250524163000 +0000" channel="Astro Warna HD.starhub">
