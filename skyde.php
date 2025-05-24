@@ -3202,7 +3202,7 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: FC Southampton - FC Arsenal, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 8 HD.skyde">
@@ -3214,7 +3214,7 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live PL: AFC Bournemouth - Leicester City, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 10 HD.skyde">
