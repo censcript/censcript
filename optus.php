@@ -1,6 +1,3 @@
-    <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Nagoya v Urawa Red Diamonds</title>
-    </programme>
     <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Gimcheon</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Kansas City Current v Angel City FC</title>
+    </programme>
+    <programme start="20250621065500 +0000" stop="20250621091000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Kashima</title>
     </programme>
