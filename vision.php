@@ -59,7 +59,7 @@
 <title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250525023000 +0000" stop="20250525041500 +0000" channel="RCTI.vision">
-<title>Dahsyatnya Weekend (RCTI)</title>
+<title>Dahsyatnya Weekend</title>
 </programme>
 <programme start="20250525041500 +0000" stop="20250525060000 +0000" channel="RCTI.vision">
 <title>Shaolin Soccer</title>
@@ -517,8 +517,50 @@
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250524050000 +0000" stop="20250524054500 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20250524054500 +0000" stop="20250524063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20250524063000 +0000" stop="20250524071500 +0000" channel="Trans 7.vision">
+<title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20250524071500 +0000" stop="20250524081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Akhir Pekan</title>
+</programme>
+<programme start="20250524081500 +0000" stop="20250524090000 +0000" channel="Trans 7.vision">
+<title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250524090000 +0000" stop="20250524100000 +0000" channel="Trans 7.vision">
+<title>Makan Receh</title>
+</programme>
+<programme start="20250524100000 +0000" stop="20250524110000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20250524110000 +0000" stop="20250524120000 +0000" channel="Trans 7.vision">
+<title>On The Spot</title>
+</programme>
+<programme start="20250524120000 +0000" stop="20250524123000 +0000" channel="Trans 7.vision">
+<title>Secret Story</title>
+</programme>
+<programme start="20250524123000 +0000" stop="20250524131500 +0000" channel="Trans 7.vision">
+<title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250524131500 +0000" stop="20250524143000 +0000" channel="Trans 7.vision">
+<title>Arisan</title>
+</programme>
 <programme start="20250524143000 +0000" stop="20250524154500 +0000" channel="Trans 7.vision">
 <title>BTS</title>
+</programme>
+<programme start="20250524154500 +0000" stop="20250524163000 +0000" channel="Trans 7.vision">
+<title>The Police</title>
+</programme>
+<programme start="20250524163000 +0000" stop="20250524171500 +0000" channel="Trans 7.vision">
+<title>Staring Grid MotoGP 2025: UK</title>
+</programme>
+<programme start="20250524171500 +0000" stop="20250524180000 +0000" channel="Trans 7.vision">
+<title>MotoGP Sprint Race 2025: UK</title>
 </programme>
 <programme start="20250524180000 +0000" stop="20250524190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -1455,46 +1497,4 @@
 </programme>
 <programme start="20250524230300 +0000" stop="20250524233000 +0000" channel="BTV.vision">
 <title>Saat Teduh Bersama GMS</title>
-</programme>
-<programme start="20250524233000 +0000" stop="20250525003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20250525003000 +0000" stop="20250525011500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20250525011500 +0000" stop="20250525021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250525021500 +0000" stop="20250525030000 +0000" channel="BTV.vision">
-<title>Endeus</title>
-</programme>
-<programme start="20250525030000 +0000" stop="20250525040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
-</programme>
-<programme start="20250525040000 +0000" stop="20250525050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250525050000 +0000" stop="20250525060000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
-</programme>
-<programme start="20250525060000 +0000" stop="20250525064500 +0000" channel="BTV.vision">
-<title>Kids Universe: Motu Patlu</title>
-</programme>
-<programme start="20250525064500 +0000" stop="20250525073000 +0000" channel="BTV.vision">
-<title>Kids Universe: Didi &amp; Friends</title>
-</programme>
-<programme start="20250525073000 +0000" stop="20250525081500 +0000" channel="BTV.vision">
-<title>Kids Universe: Boonie Bears</title>
-</programme>
-<programme start="20250525081500 +0000" stop="20250525091500 +0000" channel="BTV.vision">
-<title>Asal Usul</title>
-</programme>
-<programme start="20250525091500 +0000" stop="20250525100000 +0000" channel="BTV.vision">
-<title>FYI</title>
-</programme>
-<programme start="20250525100000 +0000" stop="20250525110000 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20250525110000 +0000" stop="20250525120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
 </programme>

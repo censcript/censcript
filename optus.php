@@ -1,11 +1,8 @@
-    <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
-        <title>DFB Pokal - Bielefeld v Stuttgart</title>
-    </programme>
-    <programme start="20250524210000 +0000" stop="20250524233000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Houston Dash v Bay FC</title>
-    </programme>
     <programme start="20250524233000 +0000" stop="20250525020000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Chicago Stars v Kansas City Current</title>
+    </programme>
+    <programme start="20250525000000 +0000" stop="20250525023000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Houston Dash v Bay FC</title>
     </programme>
     <programme start="20250525020000 +0000" stop="20250525043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Angel City FC v Racing Louisville FC</title>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621092500 +0000" stop="20250621114000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Tokyo Verdy</title>
+    </programme>
+    <programme start="20250621095500 +0000" stop="20250621121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kawasaki v Vissel Kobe</title>
     </programme>
