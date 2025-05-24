@@ -1,6 +1,3 @@
-    <programme start="20250524072000 +0000" stop="20250524094000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Seoul v Suwon FC</title>
-    </programme>
     <programme start="20250524082500 +0000" stop="20250524104000 +0000" channel="Optus Sport 9.optus">
         <title>J1 League - Nagoya v Urawa Red Diamonds</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Racing Louisville FC v Orlando Pride</title>
+    </programme>
+    <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Kansas City Current v Angel City FC</title>
     </programme>
