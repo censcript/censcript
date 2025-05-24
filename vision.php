@@ -517,12 +517,6 @@
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250524110000 +0000" stop="20250524120000 +0000" channel="Trans 7.vision">
-<title>On The Spot</title>
-</programme>
-<programme start="20250524120000 +0000" stop="20250524123000 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
-</programme>
 <programme start="20250524123000 +0000" stop="20250524131500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250525050000 +0000" stop="20250525060000 +0000" channel="BTV.vision">
 <title>Dunia RANS</title>
+</programme>
+<programme start="20250525060000 +0000" stop="20250525064500 +0000" channel="BTV.vision">
+<title>Kids Universe: Motu Patlu</title>
+</programme>
+<programme start="20250525064500 +0000" stop="20250525073000 +0000" channel="BTV.vision">
+<title>Kids Universe: Didi &amp; Friends</title>
 </programme>

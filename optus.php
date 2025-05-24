@@ -1,6 +1,3 @@
-    <programme start="20250524095000 +0000" stop="20250524121000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Ulsan v Gimcheon</title>
-    </programme>
     <programme start="20250524175000 +0000" stop="20250524211000 +0000" channel="Optus Sport 7.optus">
         <title>DFB Pokal - Bielefeld v Stuttgart</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621065500 +0000" stop="20250621091000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Kashima</title>
+    </programme>
+    <programme start="20250621092500 +0000" stop="20250621114000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Cerezo v Tokyo Verdy</title>
     </programme>
