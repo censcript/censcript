@@ -514,9 +514,6 @@
 <programme start="20250525114500 +0000" stop="20250525130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250524000000 +0000" stop="20250524003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250524003000 +0000" stop="20250524013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250524200000 +0000" stop="20250524210000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250524210000 +0000" stop="20250524213000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>

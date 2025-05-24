@@ -1977,87 +1977,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524214500 +0000" stop="20250524232000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Kinder des Zorns</title>
 </programme>
-<programme start="20250523222000 +0000" stop="20250523231000 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20250523231000 +0000" stop="20250524001000 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20250524001000 +0000" stop="20250524014000 +0000" channel="Sky Crime HD.skyde">
-    <title>Hollywood in Angst: Die Bling-Ring-Story</title>
-</programme>
-<programme start="20250524014000 +0000" stop="20250524022000 +0000" channel="Sky Crime HD.skyde">
-    <title>Disappeared</title>
-</programme>
-<programme start="20250524022000 +0000" stop="20250524030000 +0000" channel="Sky Crime HD.skyde">
-    <title>Hunde im Einsatz</title>
-</programme>
-<programme start="20250524030000 +0000" stop="20250524035500 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20250524035500 +0000" stop="20250524045000 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20250524045000 +0000" stop="20250524055000 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20250524055000 +0000" stop="20250524064500 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20250524064500 +0000" stop="20250524074500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
-</programme>
-<programme start="20250524074500 +0000" stop="20250524083500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
-</programme>
-<programme start="20250524083500 +0000" stop="20250524093500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
-</programme>
-<programme start="20250524093500 +0000" stop="20250524103500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Unglücksbringer: Das Leben und die Tode des Robert Durst</title>
-</programme>
-<programme start="20250524103500 +0000" stop="20250524112500 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524112500 +0000" stop="20250524121000 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524121000 +0000" stop="20250524125500 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524125500 +0000" stop="20250524134000 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524134000 +0000" stop="20250524142500 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524142500 +0000" stop="20250524151000 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524151000 +0000" stop="20250524155500 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524155500 +0000" stop="20250524164000 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524164000 +0000" stop="20250524173000 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524173000 +0000" stop="20250524181500 +0000" channel="Sky Crime HD.skyde">
-    <title>New York Homicide</title>
-</programme>
-<programme start="20250524181500 +0000" stop="20250524191000 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20250524191000 +0000" stop="20250524200500 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20250524200500 +0000" stop="20250524210000 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20250524210000 +0000" stop="20250524220000 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
 <programme start="20250523221500 +0000" stop="20250523230000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Motorway Cops - Verkehrssünder im Visier</title>
 </programme>
@@ -2664,7 +2583,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524140000 +0000" stop="20250524170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 32. Runde</title>
 </programme>
-<programme start="20250524170000 +0000" stop="20250524180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250524170000 +0000" stop="20250524181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
 </programme>
 <programme start="20250524134000 +0000" stop="20250524140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2673,17 +2592,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524140000 +0000" stop="20250524170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - SK Rapid, 32. Runde</title>
 </programme>
-<programme start="20250524170000 +0000" stop="20250524180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250524170000 +0000" stop="20250524181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
 </programme>
 <programme start="20250524094000 +0000" stop="20250524100000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250524100000 +0000" stop="20250524123000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
-</programme>
-<programme start="20250524123000 +0000" stop="20250524150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
+<programme start="20250524100000 +0000" stop="20250524173000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+    <title>Live ATP: Final-Konferenz Hamburg &amp; Genf</title>
 </programme>
 <programme start="20250523221500 +0000" stop="20250524001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 1. FC Saarbrücken - Eintracht Braunschweig, Relegation, Hinspiel</title>
@@ -3075,46 +2991,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250524203000 +0000" stop="20250524230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Fußball: Sheffield United - AFC Sunderland, EFL Championship Play-Off Finale</title>
 </programme>
-<programme start="20250523233000 +0000" stop="20250524013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Auger-Aliassime (CAN) - A. Rublev, Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
-</programme>
-<programme start="20250524013000 +0000" stop="20250524020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250524020000 +0000" stop="20250524040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Rybakina (KAZ) - B. Haddad Maia (BRA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
-</programme>
-<programme start="20250524040000 +0000" stop="20250524060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250523223000 +0000" stop="20250524001500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Collins (USA) - L. Samsonova, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
 </programme>
-<programme start="20250524060000 +0000" stop="20250524080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Cobolli (ITA) - T. M. Etcheverry (ARG), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
-</programme>
-<programme start="20250524080000 +0000" stop="20250524100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250524001500 +0000" stop="20250524020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Auger-Aliassime (CAN) - A. Rublev, Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
 </programme>
-<programme start="20250524100000 +0000" stop="20250524123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+<programme start="20250524020000 +0000" stop="20250524023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20250524123000 +0000" stop="20250524150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
+<programme start="20250524023000 +0000" stop="20250524043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Rybakina (KAZ) - B. Haddad Maia (BRA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
 </programme>
-<programme start="20250524150000 +0000" stop="20250524160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Rom</title>
+<programme start="20250524043000 +0000" stop="20250524062000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: D. Collins (USA) - L. Samsonova, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
+</programme>
+<programme start="20250524062000 +0000" stop="20250524082000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: F. Cobolli (ITA) - T. M. Etcheverry (ARG), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
+</programme>
+<programme start="20250524082000 +0000" stop="20250524100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: F. Auger-Aliassime (CAN) - A. Rublev, Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
+</programme>
+<programme start="20250524100000 +0000" stop="20250524153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP: Final-Konferenz Hamburg &amp; Genf</title>
+</programme>
+<programme start="20250524153000 +0000" stop="20250524160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250524160000 +0000" stop="20250524183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
+    <title>ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20250524183000 +0000" stop="20250524210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Gonet Geneva Open in Genf (SUI), Finale</title>
+    <title>ATP 250: H. Hurkacz (POL) - N. Djokovic (SRB), Gonet Geneva Open in Genf (SUI), Finale</title>
 </programme>
 <programme start="20250524210000 +0000" stop="20250524233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+    <title>WTA 500: L. Samsonova - E. Rybakina (KAZ), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20250523230000 +0000" stop="20250524000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250523230000 +0000" stop="20250524000500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
-<programme start="20250524000000 +0000" stop="20250524030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250524000500 +0000" stop="20250524030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 2</title>
 </programme>
 <programme start="20250524030000 +0000" stop="20250524033000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3230,15 +3146,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250524130000 +0000" stop="20250524153000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Finale, Gonet Geneva Open in Genf (SUI), Finale</title>
-</programme>
-<programme start="20250524094000 +0000" stop="20250524100000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>ATP World Tour: Es folgt</title>
-</programme>
-<programme start="20250524100000 +0000" stop="20250524123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: A. Molteni (ARG)/F. Romboli (BRA) - S. Bolelli (ITA)/A. Vavassori (ITA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
-</programme>
-<programme start="20250524123000 +0000" stop="20250524170000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20250523223000 +0000" stop="20250523231500 +0000" channel="SYFY HD.skyde">
     <title>Fact or Faked: Auf den Spuren des Paranormalen</title>

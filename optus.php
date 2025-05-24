@@ -1,6 +1,3 @@
-    <programme start="20250524013000 +0000" stop="20250524040000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Utah Royals FC v Orlando Pride</title>
-    </programme>
     <programme start="20250524020000 +0000" stop="20250524043000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Seattle Reign v Washington Spirit</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Seoul v Gangwon</title>
+    </programme>
+    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Daejeon v Gimcheon</title>
     </programme>
