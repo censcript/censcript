@@ -2273,13 +2273,13 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250524063000 +0000" stop="20250524070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros Classic: 2015 Men’s Singles Final Wawrinka v Djokovic</title>
+        <title>Roland Garros Classic: 2015 Men&#039;s Singles Final Wawrinka v Djokovic</title>
     </programme>
     <programme start="20250524070000 +0000" stop="20250524073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros Classic: 2021 Men’s Singles Final Djokovic v Tsitsipas</title>
+        <title>Roland Garros Classic: 2021 Men&#039;s Singles Final Djokovic v Tsitsipas</title>
     </programme>
     <programme start="20250524073000 +0000" stop="20250524080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros Classic: 2023 Women’s Singles Final Swiatek v Muchova</title>
+        <title>Roland Garros Classic: 2023 Women&#039;s Singles Final Swiatek v Muchova</title>
     </programme>
     <programme start="20250524080000 +0000" stop="20250524093000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Hamburg SF 1 Cobolli v Etcheverry</title>
@@ -2288,19 +2288,19 @@
         <title>ATP Tour 500 2025: Hamburg SF 2 Rublev v Auger-Aliassime</title>
     </programme>
     <programme start="20250524110000 +0000" stop="20250524120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>The King’s Palace: Rafa Nadal &amp; Roland-Garros</title>
+        <title>The King&#039;s Palace: Rafa Nadal &amp; Roland-Garros</title>
     </programme>
     <programme start="20250524120000 +0000" stop="20250524123000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Preview Show</title>
     </programme>
-    <programme start="20250524123000 +0000" stop="20250524143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Hamburg Final</title>
-    </programme>
-    <programme start="20250524143000 +0000" stop="20250524150000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250524123000 +0000" stop="20250524130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
+    <programme start="20250524130000 +0000" stop="20250524150000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour 250 2025: Geneva Final Djokovic v Hurkacz</title>
+    </programme>
     <programme start="20250524150000 +0000" stop="20250524160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>The King’s Palace: Rafa Nadal &amp; Roland-Garros</title>
+        <title>The King&#039;s Palace: Rafa Nadal &amp; Roland-Garros</title>
     </programme>
     <programme start="20250523160000 +0000" stop="20250523170000 +0000" channel="TVB Xing He.starhub">
         <title>Survivor&#039;s Law</title>
