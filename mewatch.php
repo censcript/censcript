@@ -451,31 +451,34 @@
     <programme start="20250524155958 +0000" stop="20250524160258 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250524160258 +0000" stop="20250524162959 +0000" channel="CNA.mewatch">
+    <programme start="20250524160000 +0000" stop="20250524160306 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250524160306 +0000" stop="20250524162957 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 41</title>
     </programme>
-    <programme start="20250524162959 +0000" stop="20250524170003 +0000" channel="CNA.mewatch">
+    <programme start="20250524162957 +0000" stop="20250524170001 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 6</title>
     </programme>
-    <programme start="20250524170003 +0000" stop="20250524173000 +0000" channel="CNA.mewatch">
+    <programme start="20250524170001 +0000" stop="20250524172958 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 2</title>
     </programme>
-    <programme start="20250524173000 +0000" stop="20250524180001 +0000" channel="CNA.mewatch">
+    <programme start="20250524172958 +0000" stop="20250524180000 +0000" channel="CNA.mewatch">
         <title>Tender Loving Food - EP 6</title>
     </programme>
-    <programme start="20250524180001 +0000" stop="20250524183001 +0000" channel="CNA.mewatch">
+    <programme start="20250524180000 +0000" stop="20250524182958 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250524183001 +0000" stop="20250524190002 +0000" channel="CNA.mewatch">
+    <programme start="20250524182958 +0000" stop="20250524185959 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 2</title>
     </programme>
-    <programme start="20250524190002 +0000" stop="20250524200002 +0000" channel="CNA.mewatch">
+    <programme start="20250524185959 +0000" stop="20250524200000 +0000" channel="CNA.mewatch">
         <title>Secret Lives Of Livestreamers - EP 2</title>
     </programme>
-    <programme start="20250524200002 +0000" stop="20250524203002 +0000" channel="CNA.mewatch">
+    <programme start="20250524200000 +0000" stop="20250524202959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250524203002 +0000" stop="20250524210000 +0000" channel="CNA.mewatch">
+    <programme start="20250524202959 +0000" stop="20250524210000 +0000" channel="CNA.mewatch">
         <title>Into the Vault S3 - EP 2</title>
     </programme>
     <programme start="20250524210000 +0000" stop="20250524220000 +0000" channel="CNA.mewatch">
