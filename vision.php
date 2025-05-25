@@ -451,9 +451,6 @@
 <programme start="20250525090000 +0000" stop="20250525100000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20250525100000 +0000" stop="20250525103000 +0000" channel="Trans TV.vision">
-<title>Sahabat Cantik</title>
-</programme>
 <programme start="20250525103000 +0000" stop="20250525114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper Weekend</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250526040000 +0000" stop="20250526050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250526050000 +0000" stop="20250526060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
