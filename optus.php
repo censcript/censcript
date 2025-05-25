@@ -1,6 +1,3 @@
-    <programme start="20250525193000 +0000" stop="20250525210000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Weekend Wrap</title>
-    </programme>
     <programme start="20250526020000 +0000" stop="20250526030000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - Premier League Highlights Show</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250705185000 +0000" stop="20250705211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - France v England</title>
+    </programme>
+    <programme start="20250706155000 +0000" stop="20250706181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Norway v Finland</title>
     </programme>

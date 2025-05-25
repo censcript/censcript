@@ -91,36 +91,6 @@
 <programme start="20250525211500 +0000" stop="20250525220000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250524224000 +0000" stop="20250524235500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Telefondates</title>
-</programme>
-<programme start="20250524235500 +0000" stop="20250525012000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Chaos</title>
-</programme>
-<programme start="20250525012000 +0000" stop="20250525022000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Der Klang der Karibik</title>
-</programme>
-<programme start="20250525022000 +0000" stop="20250525034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Das Stiefbiest</title>
-</programme>
-<programme start="20250525034500 +0000" stop="20250525181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20250525181500 +0000" stop="20250525195000 +0000" channel="Beate Uhse HD.skyde">
-    <title>ERASMUS ORGASMUS: PRAG</title>
-</programme>
-<programme start="20250525195000 +0000" stop="20250525201500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex School</title>
-</programme>
-<programme start="20250525201500 +0000" stop="20250525204500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rosetti Casting</title>
-</programme>
-<programme start="20250525204500 +0000" stop="20250525214500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Connys Top 5</title>
-</programme>
-<programme start="20250525214500 +0000" stop="20250525221000 +0000" channel="Beate Uhse HD.skyde">
-    <title>The White Boxxx</title>
-</programme>
 <programme start="20250524220000 +0000" stop="20250524222000 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
