@@ -37,7 +37,7 @@
     <programme start="20250528170000 +0000" stop="20250528173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Champions Story</title>
     </programme>
-    <programme start="20250529120000 +0000" stop="20250529130000 +0000" channel="Optus Sport 11.optus">
+    <programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Big Interview: Curtis Jones - Champions Special</title>
     </programme>
     <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="Optus Sport 11.optus">
