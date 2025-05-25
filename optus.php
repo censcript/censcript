@@ -1,26 +1,8 @@
     <programme start="20250525133000 +0000" stop="20250525183000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - The Final Day</title>
     </programme>
-    <programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Optus Sport 10.optus">
-        <title>Premier League - Wolverhampton Wanderers v Brentford</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525172000 +0000" channel="Optus Sport 8.optus">
-        <title>Premier League - Tottenham Hotspur v Brighton</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Optus Sport 4.optus">
-        <title>Premier League - Manchester United v Aston Villa</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525181000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250525145000 +0000" stop="20250525183000 +0000" channel="Optus Sport 2.optus">
         <title>Premier League - Liverpool v Crystal Palace</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525172000 +0000" channel="Optus Sport 9.optus">
-        <title>Premier League - Ipswich v West Ham United</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Optus Sport 7.optus">
-        <title>Premier League - Fulham v Manchester City</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Optus Sport 12.optus">
-        <title>Premier League - Bournemouth v Leicester City</title>
     </programme>
     <programme start="20250525193000 +0000" stop="20250525210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
@@ -297,4 +279,22 @@
     </programme>
     <programme start="20250629085500 +0000" stop="20250629111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Tokyo Verdy v Kawasaki</title>
+    </programme>
+    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
+    </programme>
+    <programme start="20250702185000 +0000" stop="20250702211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
+    </programme>
+    <programme start="20250703155000 +0000" stop="20250703181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Belgium v Italy</title>
+    </programme>
+    <programme start="20250703185000 +0000" stop="20250703211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Spain v Portugal</title>
+    </programme>
+    <programme start="20250704155000 +0000" stop="20250704181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Denmark v Sweden</title>
+    </programme>
+    <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Germany v Poland</title>
     </programme>
