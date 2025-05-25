@@ -2587,13 +2587,10 @@
 <programme start="20250525213500 +0000" stop="20250525222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Überlebenskampf der Wildtiere</title>
 </programme>
-<programme start="20250524220000 +0000" stop="20250524230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
-</programme>
-<programme start="20250524230000 +0000" stop="20250524233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250524220000 +0000" stop="20250524223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250524233000 +0000" stop="20250525003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250524223000 +0000" stop="20250525003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - SK Rapid, 32. Runde</title>
 </programme>
 <programme start="20250525003000 +0000" stop="20250525023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2605,10 +2602,10 @@
 <programme start="20250525030000 +0000" stop="20250525050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - RZ Pellets WAC, 32. Runde</title>
 </programme>
-<programme start="20250525050000 +0000" stop="20250525053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250525050000 +0000" stop="20250525053500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250525053000 +0000" stop="20250525060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250525053500 +0000" stop="20250525060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250525060000 +0000" stop="20250525063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2623,13 +2620,13 @@
 <programme start="20250525090000 +0000" stop="20250525093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250525093000 +0000" stop="20250525100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250525093000 +0000" stop="20250525100500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250525100000 +0000" stop="20250525120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250525100500 +0000" stop="20250525115500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - RZ Pellets WAC, 32. Runde</title>
 </programme>
-<programme start="20250525120000 +0000" stop="20250525123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250525115500 +0000" stop="20250525123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
 <programme start="20250525123000 +0000" stop="20250525130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2728,7 +2725,7 @@
 <programme start="20250525203000 +0000" stop="20250525223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FC Heidenheim - SV Elversberg, Relegation, Hinspiel</title>
 </programme>
-<programme start="20250524220000 +0000" stop="20250524230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250524220500 +0000" stop="20250524230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Qualifying Days Indy 500</title>
 </programme>
 <programme start="20250524230000 +0000" stop="20250525000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2800,7 +2797,7 @@
 <programme start="20250525200000 +0000" stop="20250525220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Monaco</title>
 </programme>
-<programme start="20250524220000 +0000" stop="20250525010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250524221000 +0000" stop="20250525010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Soudal Open, 3. Tag in Antwerpen (Belgien)</title>
 </programme>
 <programme start="20250525010000 +0000" stop="20250525040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3007,19 +3004,16 @@
 <programme start="20250525213000 +0000" stop="20250525233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Nottingham Forest - FC Chelsea, 38. Spieltag</title>
 </programme>
-<programme start="20250524233000 +0000" stop="20250525020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250525003000 +0000" stop="20250525030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
-</programme>
-<programme start="20250525020000 +0000" stop="20250525030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20250525030000 +0000" stop="20250525053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Samsonova - E. Rybakina (KAZ), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20250525053000 +0000" stop="20250525080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250525053000 +0000" stop="20250525074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
-<programme start="20250525080000 +0000" stop="20250525103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250525074500 +0000" stop="20250525103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: H. Hurkacz (POL) - N. Djokovic (SRB), Gonet Geneva Open in Genf (SUI), Finale</title>
 </programme>
 <programme start="20250525103000 +0000" stop="20250525124500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3037,13 +3031,13 @@
 <programme start="20250525143000 +0000" stop="20250525170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Samsonova - E. Rybakina (KAZ), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20250525170000 +0000" stop="20250525193000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250525170000 +0000" stop="20250525190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
-<programme start="20250525193000 +0000" stop="20250525220000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250525190000 +0000" stop="20250525220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: H. Hurkacz (POL) - N. Djokovic (SRB), Gonet Geneva Open in Genf (SUI), Finale</title>
 </programme>
-<programme start="20250524220000 +0000" stop="20250524230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250524221000 +0000" stop="20250524230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Qualifying - GP Großbritannien</title>
 </programme>
 <programme start="20250524230000 +0000" stop="20250525000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3181,7 +3175,7 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: Manchester United - Aston Villa, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3193,13 +3187,13 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Newcastle United - FC Everton, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Brighton &amp; Hove Albion, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 7 HD.skyde">

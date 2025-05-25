@@ -1,6 +1,3 @@
-    <programme start="20250525000000 +0000" stop="20250525023000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Houston Dash v Bay FC</title>
-    </programme>
     <programme start="20250525020000 +0000" stop="20250525043000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - Angel City FC v Racing Louisville FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621210000 +0000" stop="20250621233000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Utah Royals FC v Seattle Reign</title>
+    </programme>
+    <programme start="20250621233000 +0000" stop="20250622020000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - North Carolina Courage v Houston Dash</title>
     </programme>
