@@ -1,6 +1,3 @@
-    <programme start="20250525020000 +0000" stop="20250525043000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Angel City FC v Racing Louisville FC</title>
-    </programme>
     <programme start="20250525045500 +0000" stop="20250525071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shimizu v Vissel Kobe</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621233000 +0000" stop="20250622020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - North Carolina Courage v Houston Dash</title>
+    </programme>
+    <programme start="20250621233000 +0000" stop="20250622020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - Gotham FC v Bay FC</title>
     </programme>
