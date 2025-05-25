@@ -1,6 +1,3 @@
-    <programme start="20250525065500 +0000" stop="20250525091000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Kawasaki v Gamba</title>
-    </programme>
     <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Gwangju v Gangwon</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250622020000 +0000" stop="20250622043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Portland Thorns FC v Chicago Stars</title>
+    </programme>
+    <programme start="20250622092500 +0000" stop="20250622114000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Gamba v FC Tokyo</title>
     </programme>
