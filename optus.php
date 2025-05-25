@@ -1,9 +1,3 @@
-    <programme start="20250525133000 +0000" stop="20250525183000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Goal Rush - The Final Day</title>
-    </programme>
-    <programme start="20250525145000 +0000" stop="20250525183000 +0000" channel="Optus Sport 2.optus">
-        <title>Premier League - Liverpool v Crystal Palace</title>
-    </programme>
     <programme start="20250525193000 +0000" stop="20250525210000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Weekend Wrap</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Germany v Poland</title>
+    </programme>
+    <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
+    </programme>
+    <programme start="20250705185000 +0000" stop="20250705211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - France v England</title>
     </programme>
