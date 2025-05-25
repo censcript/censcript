@@ -1,6 +1,3 @@
-    <programme start="20250525072000 +0000" stop="20250525094000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Gwangju v Gangwon</title>
-    </programme>
     <programme start="20250525133000 +0000" stop="20250525183000 +0000" channel="Optus Sport 1.optus">
         <title>N/A - Goal Rush - The Final Day</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250622092500 +0000" stop="20250622114000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Gamba v FC Tokyo</title>
+    </programme>
+    <programme start="20250623020000 +0000" stop="20250623043000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - San Diego Wave FC v Washington Spirit</title>
     </programme>
