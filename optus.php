@@ -1,6 +1,3 @@
-    <programme start="20250524233000 +0000" stop="20250525020000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Chicago Stars v Kansas City Current</title>
-    </programme>
     <programme start="20250525000000 +0000" stop="20250525023000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Houston Dash v Bay FC</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250621095500 +0000" stop="20250621121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kawasaki v Vissel Kobe</title>
+    </programme>
+    <programme start="20250621210000 +0000" stop="20250621233000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Utah Royals FC v Seattle Reign</title>
     </programme>

@@ -6127,72 +6127,7 @@
 <programme start="20250525160000 +0000" stop="20250525163000 +0000" channel="MNCTV.mncvision">
     <title>Roy &amp; Marten Sahabat...</title>
 </programme>
-<programme start="20250524170000 +0000" stop="20250524173000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20250524173000 +0000" stop="20250524190000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20250524190000 +0000" stop="20250524200000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20250524200000 +0000" stop="20250524203000 +0000" channel="MNCTV HD.mncvision">
-    <title>Bimbingan Rohani Budha</title>
-</programme>
-<programme start="20250524203000 +0000" stop="20250524213000 +0000" channel="MNCTV HD.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20250524213000 +0000" stop="20250524220000 +0000" channel="MNCTV HD.mncvision">
-    <title>Jurnal Lintas iNews Pagi</title>
-</programme>
-<programme start="20250524220000 +0000" stop="20250524230000 +0000" channel="MNCTV HD.mncvision">
-    <title>Siraman Qolbu</title>
-</programme>
-<programme start="20250524230000 +0000" stop="20250524233000 +0000" channel="MNCTV HD.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20250524233000 +0000" stop="20250525000000 +0000" channel="MNCTV HD.mncvision">
-    <title>Zak Storm</title>
-</programme>
-<programme start="20250525000000 +0000" stop="20250525003000 +0000" channel="MNCTV HD.mncvision">
-    <title>Bima S</title>
-</programme>
-<programme start="20250525003000 +0000" stop="20250525040000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250525040000 +0000" stop="20250525060000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250525060000 +0000" stop="20250525080000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250525080000 +0000" stop="20250525093000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20250525093000 +0000" stop="20250525103000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250525103000 +0000" stop="20250525120000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250525120000 +0000" stop="20250525122500 +0000" channel="MNCTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20250525122500 +0000" stop="20250525123000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kuis Berhadiah Motion Bank</title>
-</programme>
-<programme start="20250525123000 +0000" stop="20250525130000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250525130000 +0000" stop="20250525143000 +0000" channel="MNCTV HD.mncvision">
-    <title>Family 100</title>
-</programme>
-<programme start="20250525143000 +0000" stop="20250525160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20250525160000 +0000" stop="20250525163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Roy &amp; Marten Sahabat...</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250524172400 +0000" stop="20250524175000 +0000" channel="Moonbug.mncvision">
     <title>Morphle</title>
 </programme>

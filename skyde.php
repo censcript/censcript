@@ -2587,10 +2587,13 @@
 <programme start="20250525213500 +0000" stop="20250525222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Überlebenskampf der Wildtiere</title>
 </programme>
-<programme start="20250524220000 +0000" stop="20250524223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250524220000 +0000" stop="20250524230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 32. Runde (Samstag)</title>
+</programme>
+<programme start="20250524230000 +0000" stop="20250524233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250524223000 +0000" stop="20250525003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250524233000 +0000" stop="20250525003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - SK Rapid, 32. Runde</title>
 </programme>
 <programme start="20250525003000 +0000" stop="20250525023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3166,13 +3169,13 @@
 <programme start="20250525140000 +0000" stop="20250525200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live IndyCar: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20250525200000 +0000" stop="20250525204500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250525200000 +0000" stop="20250525211500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>IndyCar: Anything to Win</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Chelsea, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3184,7 +3187,7 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: FC Fulham - Manchester City, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3208,7 +3211,7 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Wolverhampton Wanderers - FC Brentford, 38. Spieltag</title>
 </programme>
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 9 HD.skyde">
@@ -3220,7 +3223,7 @@
 <programme start="20250525143000 +0000" stop="20250525145000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250525145000 +0000" stop="20250525170000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20250525145000 +0000" stop="20250525173000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live PL: Ipswich Town - West Ham United, 38. Spieltag</title>
 </programme>
 <programme start="20250524220500 +0000" stop="20250524230500 +0000" channel="SYFY HD.skyde">
