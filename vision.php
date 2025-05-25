@@ -442,6 +442,15 @@
 <programme start="20250525043000 +0000" stop="20250525053000 +0000" channel="Trans TV.vision">
 <title>Spill DD Tea</title>
 </programme>
+<programme start="20250525053000 +0000" stop="20250525060000 +0000" channel="Trans TV.vision">
+<title>Cerita Dibalik Hijab</title>
+</programme>
+<programme start="20250525060000 +0000" stop="20250525063000 +0000" channel="Trans TV.vision">
+<title>Kuali Barbar</title>
+</programme>
+<programme start="20250525063000 +0000" stop="20250525070000 +0000" channel="Trans TV.vision">
+<title>Undercover</title>
+</programme>
 <programme start="20250525070000 +0000" stop="20250525080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
 </programme>
@@ -1487,14 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250526013000 +0000" stop="20250526021500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250526021500 +0000" stop="20250526030000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250526030000 +0000" stop="20250526040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250526040000 +0000" stop="20250526050000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
