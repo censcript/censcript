@@ -1320,132 +1320,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526200000 +0000" stop="20250526220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 25</title>
 </programme>
-<programme start="20250525222500 +0000" stop="20250525225500 +0000" channel="Motorvision+.skyde">
-    <title>Alpen Marathon</title>
-</programme>
-<programme start="20250525225500 +0000" stop="20250525232500 +0000" channel="Motorvision+.skyde">
-    <title>Alpen Marathon</title>
-</programme>
-<programme start="20250525232500 +0000" stop="20250526001500 +0000" channel="Motorvision+.skyde">
-    <title>British Truck Racing 2023</title>
-</programme>
-<programme start="20250526001500 +0000" stop="20250526011000 +0000" channel="Motorvision+.skyde">
-    <title>British Truck Racing 2023</title>
-</programme>
-<programme start="20250526011000 +0000" stop="20250526020000 +0000" channel="Motorvision+.skyde">
-    <title>British Truck Racing 2023</title>
-</programme>
-<programme start="20250526020000 +0000" stop="20250526021500 +0000" channel="Motorvision+.skyde">
-    <title>Crash</title>
-</programme>
-<programme start="20250526021500 +0000" stop="20250526030500 +0000" channel="Motorvision+.skyde">
-    <title>British Truck Racing 2023</title>
-</programme>
-<programme start="20250526030500 +0000" stop="20250526040000 +0000" channel="Motorvision+.skyde">
-    <title>British Truck Racing 2023</title>
-</programme>
-<programme start="20250526040000 +0000" stop="20250526045500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Superbike Championship 2024</title>
-</programme>
-<programme start="20250526045500 +0000" stop="20250526050500 +0000" channel="Motorvision+.skyde">
-    <title>Crash</title>
-</programme>
-<programme start="20250526050500 +0000" stop="20250526053000 +0000" channel="Motorvision+.skyde">
-    <title>4x4 - Das Allrad Magazin</title>
-</programme>
-<programme start="20250526053000 +0000" stop="20250526055500 +0000" channel="Motorvision+.skyde">
-    <title>Classic</title>
-</programme>
-<programme start="20250526055500 +0000" stop="20250526064000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Drag Racing Championship 2024</title>
-</programme>
-<programme start="20250526064000 +0000" stop="20250526071500 +0000" channel="Motorvision+.skyde">
-    <title>Abenteuer Allrad</title>
-</programme>
-<programme start="20250526071500 +0000" stop="20250526074000 +0000" channel="Motorvision+.skyde">
-    <title>Dumbest Stuff on Wheels</title>
-</programme>
-<programme start="20250526074000 +0000" stop="20250526080500 +0000" channel="Motorvision+.skyde">
-    <title>Grüne Welle</title>
-</programme>
-<programme start="20250526080500 +0000" stop="20250526083500 +0000" channel="Motorvision+.skyde">
-    <title>High Octane</title>
-</programme>
-<programme start="20250526083500 +0000" stop="20250526085500 +0000" channel="Motorvision+.skyde">
-    <title>Made in....</title>
-</programme>
-<programme start="20250526085500 +0000" stop="20250526091000 +0000" channel="Motorvision+.skyde">
-    <title>Crash</title>
-</programme>
-<programme start="20250526091000 +0000" stop="20250526094000 +0000" channel="Motorvision+.skyde">
-    <title>Nordschleife</title>
-</programme>
-<programme start="20250526094000 +0000" stop="20250526100000 +0000" channel="Motorvision+.skyde">
-    <title>On Tour</title>
-</programme>
-<programme start="20250526100000 +0000" stop="20250526103000 +0000" channel="Motorvision+.skyde">
-    <title>Stunt Heroes</title>
-</programme>
-<programme start="20250526103000 +0000" stop="20250526105500 +0000" channel="Motorvision+.skyde">
-    <title>Super Cars</title>
-</programme>
-<programme start="20250526105500 +0000" stop="20250526112000 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
-</programme>
-<programme start="20250526112000 +0000" stop="20250526113000 +0000" channel="Motorvision+.skyde">
-    <title>Crash</title>
-</programme>
-<programme start="20250526113000 +0000" stop="20250526120000 +0000" channel="Motorvision+.skyde">
-    <title>Perfect Ride</title>
-</programme>
-<programme start="20250526120000 +0000" stop="20250526122500 +0000" channel="Motorvision+.skyde">
-    <title>Motorcycles</title>
-</programme>
-<programme start="20250526122500 +0000" stop="20250526125500 +0000" channel="Motorvision+.skyde">
-    <title>Mission Mobility</title>
-</programme>
-<programme start="20250526125500 +0000" stop="20250526132500 +0000" channel="Motorvision+.skyde">
-    <title>Dream Cars</title>
-</programme>
-<programme start="20250526132500 +0000" stop="20250526141000 +0000" channel="Motorvision+.skyde">
-    <title>Road Wars Staffel 7</title>
-</programme>
-<programme start="20250526141000 +0000" stop="20250526144000 +0000" channel="Motorvision+.skyde">
-    <title>Tour European Rally Historic 2024</title>
-</programme>
-<programme start="20250526144000 +0000" stop="20250526151500 +0000" channel="Motorvision+.skyde">
-    <title>Rally 2024</title>
-</programme>
-<programme start="20250526151500 +0000" stop="20250526154000 +0000" channel="Motorvision+.skyde">
-    <title>Rally 2024</title>
-</programme>
-<programme start="20250526154000 +0000" stop="20250526163500 +0000" channel="Motorvision+.skyde">
-    <title>World Rally Raid Championship 2024</title>
-</programme>
-<programme start="20250526163500 +0000" stop="20250526170500 +0000" channel="Motorvision+.skyde">
-    <title>Rally 2024</title>
-</programme>
-<programme start="20250526170500 +0000" stop="20250526180000 +0000" channel="Motorvision+.skyde">
-    <title>BTRDA Rallycross 2024</title>
-</programme>
-<programme start="20250526180000 +0000" stop="20250526184500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Drag Racing Championship 2024</title>
-</programme>
-<programme start="20250526184500 +0000" stop="20250526191500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Enduro World Championship 2025</title>
-</programme>
-<programme start="20250526191500 +0000" stop="20250526200500 +0000" channel="Motorvision+.skyde">
-    <title>King of the Roads 2024</title>
-</programme>
-<programme start="20250526200500 +0000" stop="20250526210000 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2025</title>
-</programme>
-<programme start="20250526210000 +0000" stop="20250526214500 +0000" channel="Motorvision+.skyde">
-    <title>Isle of Man Tourist Trophy 2024</title>
-</programme>
-<programme start="20250526214500 +0000" stop="20250526224000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Superbike Championship 2024</title>
-</programme>
 <programme start="20250525220000 +0000" stop="20250525222500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
@@ -2731,7 +2605,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: SK Austria Klagenfurt - TSV Egger Glas Hartberg, 32. Runde</title>
 </programme>
 <programme start="20250526003000 +0000" stop="20250526010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: XXX - YYY, 32. Runde</title>
+    <title>Admiral BL: 90in30: STU - WAC, 32. Runde</title>
 </programme>
 <programme start="20250526010000 +0000" stop="20250526030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - SK Rapid, 32. Runde</title>
@@ -2740,7 +2614,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 32. Runde</title>
 </programme>
 <programme start="20250526050000 +0000" stop="20250526053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: XXX - YYY, 32. Runde</title>
+    <title>Admiral BL: 90in30: STU - WAC, 32. Runde</title>
 </programme>
 <programme start="20250526053000 +0000" stop="20250526060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
@@ -2752,7 +2626,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UEFA CL: Inter Mailand - FC Barcelona, Halbfinale, Rückspiel</title>
 </programme>
 <programme start="20250526083000 +0000" stop="20250526090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: XXX - YYY, 32. Runde</title>
+    <title>Admiral BL: 90in30: STU - WAC, 32. Runde</title>
 </programme>
 <programme start="20250526090000 +0000" stop="20250526093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2769,19 +2643,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526121500 +0000" stop="20250526124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250526124500 +0000" stop="20250526131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250526124500 +0000" stop="20250526132000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250526131500 +0000" stop="20250526151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250526132000 +0000" stop="20250526152000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Inter Mailand - FC Barcelona, Halbfinale, Rückspiel</title>
 </programme>
-<programme start="20250526151500 +0000" stop="20250526153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250526152000 +0000" stop="20250526153500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Highlights XXL: INT - BAR, Halbfinale, Rückspiel</title>
 </programme>
-<programme start="20250526153000 +0000" stop="20250526160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: XXX - YYY, 32. Runde</title>
+<programme start="20250526153500 +0000" stop="20250526160500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: STU - WAC, 32. Runde</title>
 </programme>
-<programme start="20250526160000 +0000" stop="20250526163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250526160500 +0000" stop="20250526163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: Final Preview</title>
 </programme>
 <programme start="20250526163000 +0000" stop="20250526193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3174,8 +3048,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526013000 +0000" stop="20250526033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Auger-Aliassime (CAN) - A. Rublev, Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
 </programme>
-<programme start="20250526033000 +0000" stop="20250526060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250526033000 +0000" stop="20250526053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
+</programme>
+<programme start="20250526053000 +0000" stop="20250526060000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20250526060000 +0000" stop="20250526080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: L. Musetti (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
@@ -3192,8 +3069,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526150000 +0000" stop="20250526160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250526160000 +0000" stop="20250526183000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250526160000 +0000" stop="20250526180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
+</programme>
+<programme start="20250526180000 +0000" stop="20250526183000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20250526183000 +0000" stop="20250526193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
@@ -3204,10 +3084,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526213000 +0000" stop="20250526233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Q. Zheng (CHN) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20250525220000 +0000" stop="20250525223000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250525220000 +0000" stop="20250525223500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Monaco</title>
 </programme>
-<programme start="20250525223000 +0000" stop="20250526003000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250525223500 +0000" stop="20250526003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: FC Liverpool - Crystal Palace, Match of the Week, 38. Spieltag</title>
 </programme>
 <programme start="20250526003000 +0000" stop="20250526013000 +0000" channel="Sky Sport Top Event HD.skyde">
