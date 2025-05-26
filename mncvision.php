@@ -8503,7 +8503,42 @@
 <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="Sportstars 4.mncvision">
     <title>Sportacular Match</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250526170000 +0000" stop="20250526190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: PRJ Vs DJN</title>
+</programme>
+<programme start="20250526190000 +0000" stop="20250526210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: KDR Vs BOR</title>
+</programme>
+<programme start="20250526210000 +0000" stop="20250526230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250526230000 +0000" stop="20250527010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20250527010000 +0000" stop="20250527030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: PRJ Vs DJN</title>
+</programme>
+<programme start="20250527030000 +0000" stop="20250527050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: KDR Vs BOR</title>
+</programme>
+<programme start="20250527050000 +0000" stop="20250527070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250527070000 +0000" stop="20250527090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20250527090000 +0000" stop="20250527110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: JOG Vs KDS</title>
+</programme>
+<programme start="20250527110000 +0000" stop="20250527130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PBY Vs BAL</title>
+</programme>
+<programme start="20250527130000 +0000" stop="20250527150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
 <programme start="20250526173000 +0000" stop="20250526200000 +0000" channel="Sportstars HD.mncvision">
     <title>Daihatsu Indonesia Masters 2025</title>
 </programme>
@@ -9572,7 +9607,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250527164800 +0000" stop="20250526171800 +0000" channel="UNIQUES.mncvision">
     <title>Drone</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250526180700 +0000" stop="20250526195000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gangster Land</title>
+</programme>
+<programme start="20250526195000 +0000" stop="20250526212200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250526212200 +0000" stop="20250526230700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Under The Stadium Lights</title>
+</programme>
+<programme start="20250526230700 +0000" stop="20250527004700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Blowback</title>
+</programme>
+<programme start="20250527004700 +0000" stop="20250527025200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250527025200 +0000" stop="20250527043100 +0000" channel="UNIQUES HD.mncvision">
+    <title>I Think We&#039;re Alone Now</title>
+</programme>
+<programme start="20250527043100 +0000" stop="20250527062100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250527062100 +0000" stop="20250527075400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Coda</title>
+</programme>
+<programme start="20250527075400 +0000" stop="20250527095100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Oranges And Sunshine</title>
+</programme>
+<programme start="20250527095100 +0000" stop="20250527114100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250527114100 +0000" stop="20250527133000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Mother, May I?</title>
+</programme>
+<programme start="20250527133000 +0000" stop="20250527151500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250527151500 +0000" stop="20250527164800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Honest Thief</title>
+</programme>
+<programme start="20250527164800 +0000" stop="20250526171800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Drone</title>
+</programme>
 <programme start="20250526173000 +0000" stop="20250526180000 +0000" channel="Vision Prime.mncvision">
     <title>OMG</title>
 </programme>
