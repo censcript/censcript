@@ -145,11 +145,8 @@
     <programme start="20250526140001 +0000" stop="20250526150002 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 8</title>
     </programme>
-    <programme start="20250526150002 +0000" stop="20250526160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526150002 +0000" stop="20250526160004 +0000" channel="Channel 5.mewatch">
         <title>Sullivan&#039;s Crossing - Series 2 - EP 10</title>
-    </programme>
-    <programme start="20250526160000 +0000" stop="20250526163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 72</title>
     </programme>
     <programme start="20250525153055 +0000" stop="20250525160006 +0000" channel="Channel 8.mewatch">
         <title>Let&#039;s Talk About Health - EP 26</title>

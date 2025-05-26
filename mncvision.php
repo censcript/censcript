@@ -8740,40 +8740,37 @@
 <programme start="20250525233000 +0000" stop="20250526003000 +0000" channel="SPOTV 2.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
-<programme start="20250526003000 +0000" stop="20250526014000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526003000 +0000" stop="20250526014500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526014000 +0000" stop="20250526025500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526014500 +0000" stop="20250526043000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526025500 +0000" stop="20250526050000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526043000 +0000" stop="20250526053500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526050000 +0000" stop="20250526070000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526053500 +0000" stop="20250526082000 +0000" channel="SPOTV 2.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
-<programme start="20250526070000 +0000" stop="20250526090000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526082000 +0000" stop="20250526100500 +0000" channel="SPOTV 2.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
-<programme start="20250526090000 +0000" stop="20250526100000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 Asian Tour: Int&#039;l Japan HL</title>
-</programme>
-<programme start="20250526100000 +0000" stop="20250526103000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526100500 +0000" stop="20250526103500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025 Rewind: France</title>
 </programme>
-<programme start="20250526103000 +0000" stop="20250526113000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526103500 +0000" stop="20250526113000 +0000" channel="SPOTV 2.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
 <programme start="20250526113000 +0000" stop="20250526123000 +0000" channel="SPOTV 2.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
-<programme start="20250526123000 +0000" stop="20250526134000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526123000 +0000" stop="20250526134500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526134000 +0000" stop="20250526145500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526134500 +0000" stop="20250526163000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526145500 +0000" stop="20250526152500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250526163000 +0000" stop="20250525170000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
 <programme start="20250525173000 +0000" stop="20250525180000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8794,40 +8791,37 @@
 <programme start="20250525233000 +0000" stop="20250526003000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
-<programme start="20250526003000 +0000" stop="20250526014000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526003000 +0000" stop="20250526014500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526014000 +0000" stop="20250526025500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526014500 +0000" stop="20250526043000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526025500 +0000" stop="20250526050000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526043000 +0000" stop="20250526053500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526050000 +0000" stop="20250526070000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526053500 +0000" stop="20250526082000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
-<programme start="20250526070000 +0000" stop="20250526090000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526082000 +0000" stop="20250526100500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
-<programme start="20250526090000 +0000" stop="20250526100000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 Asian Tour: Int&#039;l Japan HL</title>
-</programme>
-<programme start="20250526100000 +0000" stop="20250526103000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526100500 +0000" stop="20250526103500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025 Rewind: France</title>
 </programme>
-<programme start="20250526103000 +0000" stop="20250526113000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526103500 +0000" stop="20250526113000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
 <programme start="20250526113000 +0000" stop="20250526123000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
-<programme start="20250526123000 +0000" stop="20250526134000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526123000 +0000" stop="20250526134500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526134000 +0000" stop="20250526145500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526134500 +0000" stop="20250526163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
-<programme start="20250526145500 +0000" stop="20250526152500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250526163000 +0000" stop="20250525170000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
 <programme start="20250525170000 +0000" stop="20250525180000 +0000" channel="SPOTV HD.mncvision">
