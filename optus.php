@@ -1,6 +1,3 @@
-    <programme start="20250526100000 +0000" stop="20250526103000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Fantasy Premier League</title>
-    </programme>
     <programme start="20250526120000 +0000" stop="20250526130000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - The Kelly &amp; Wrighty Show</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250707155000 +0000" stop="20250707181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Spain v Belgium</title>
+    </programme>
+    <programme start="20250707185000 +0000" stop="20250707211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Portugal v Italy</title>
     </programme>
