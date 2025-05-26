@@ -1296,6 +1296,30 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526213500 +0000" stop="20250526222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Ungelöste Fälle der Archäologie</title>
 </programme>
+<programme start="20250525220000 +0000" stop="20250525230000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
+</programme>
+<programme start="20250525230000 +0000" stop="20250526040000 +0000" channel="Jukebox.skyde">
+    <title>NIGHTSHIFT</title>
+</programme>
+<programme start="20250526040000 +0000" stop="20250526100000 +0000" channel="Jukebox.skyde">
+    <title>MORNING GLORY</title>
+</programme>
+<programme start="20250526100000 +0000" stop="20250526120000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX NEWS</title>
+</programme>
+<programme start="20250526120000 +0000" stop="20250526160000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
+</programme>
+<programme start="20250526160000 +0000" stop="20250526180000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
+</programme>
+<programme start="20250526180000 +0000" stop="20250526200000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20250526200000 +0000" stop="20250526220000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 25</title>
+</programme>
 <programme start="20250525222500 +0000" stop="20250525225500 +0000" channel="Motorvision+.skyde">
     <title>Alpen Marathon</title>
 </programme>
