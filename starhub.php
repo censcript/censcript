@@ -746,10 +746,10 @@
         <title>New Day At Arirang</title>
     </programme>
     <programme start="20250526013000 +0000" stop="20250526020000 +0000" channel="Arirang TV HD.starhub">
-        <title>News Generation [L]</title>
+        <title>News Generation</title>
     </programme>
     <programme start="20250526020000 +0000" stop="20250526030000 +0000" channel="Arirang TV HD.starhub">
-        <title>Culture Crunch [L]</title>
+        <title>Culture Crunch</title>
     </programme>
     <programme start="20250526030000 +0000" stop="20250526033000 +0000" channel="Arirang TV HD.starhub">
         <title>Regional Tastes: Gangwon</title>

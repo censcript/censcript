@@ -1320,6 +1320,132 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526200000 +0000" stop="20250526220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 25</title>
 </programme>
+<programme start="20250525222500 +0000" stop="20250525225500 +0000" channel="Motorvision+.skyde">
+    <title>Alpen Marathon</title>
+</programme>
+<programme start="20250525225500 +0000" stop="20250525232500 +0000" channel="Motorvision+.skyde">
+    <title>Alpen Marathon</title>
+</programme>
+<programme start="20250525232500 +0000" stop="20250526001500 +0000" channel="Motorvision+.skyde">
+    <title>British Truck Racing 2023</title>
+</programme>
+<programme start="20250526001500 +0000" stop="20250526011000 +0000" channel="Motorvision+.skyde">
+    <title>British Truck Racing 2023</title>
+</programme>
+<programme start="20250526011000 +0000" stop="20250526020000 +0000" channel="Motorvision+.skyde">
+    <title>British Truck Racing 2023</title>
+</programme>
+<programme start="20250526020000 +0000" stop="20250526021500 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20250526021500 +0000" stop="20250526030500 +0000" channel="Motorvision+.skyde">
+    <title>British Truck Racing 2023</title>
+</programme>
+<programme start="20250526030500 +0000" stop="20250526040000 +0000" channel="Motorvision+.skyde">
+    <title>British Truck Racing 2023</title>
+</programme>
+<programme start="20250526040000 +0000" stop="20250526045500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Superbike Championship 2024</title>
+</programme>
+<programme start="20250526045500 +0000" stop="20250526050500 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20250526050500 +0000" stop="20250526053000 +0000" channel="Motorvision+.skyde">
+    <title>4x4 - Das Allrad Magazin</title>
+</programme>
+<programme start="20250526053000 +0000" stop="20250526055500 +0000" channel="Motorvision+.skyde">
+    <title>Classic</title>
+</programme>
+<programme start="20250526055500 +0000" stop="20250526064000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Drag Racing Championship 2024</title>
+</programme>
+<programme start="20250526064000 +0000" stop="20250526071500 +0000" channel="Motorvision+.skyde">
+    <title>Abenteuer Allrad</title>
+</programme>
+<programme start="20250526071500 +0000" stop="20250526074000 +0000" channel="Motorvision+.skyde">
+    <title>Dumbest Stuff on Wheels</title>
+</programme>
+<programme start="20250526074000 +0000" stop="20250526080500 +0000" channel="Motorvision+.skyde">
+    <title>Grüne Welle</title>
+</programme>
+<programme start="20250526080500 +0000" stop="20250526083500 +0000" channel="Motorvision+.skyde">
+    <title>High Octane</title>
+</programme>
+<programme start="20250526083500 +0000" stop="20250526085500 +0000" channel="Motorvision+.skyde">
+    <title>Made in....</title>
+</programme>
+<programme start="20250526085500 +0000" stop="20250526091000 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20250526091000 +0000" stop="20250526094000 +0000" channel="Motorvision+.skyde">
+    <title>Nordschleife</title>
+</programme>
+<programme start="20250526094000 +0000" stop="20250526100000 +0000" channel="Motorvision+.skyde">
+    <title>On Tour</title>
+</programme>
+<programme start="20250526100000 +0000" stop="20250526103000 +0000" channel="Motorvision+.skyde">
+    <title>Stunt Heroes</title>
+</programme>
+<programme start="20250526103000 +0000" stop="20250526105500 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
+</programme>
+<programme start="20250526105500 +0000" stop="20250526112000 +0000" channel="Motorvision+.skyde">
+    <title>Top Speed Classic</title>
+</programme>
+<programme start="20250526112000 +0000" stop="20250526113000 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20250526113000 +0000" stop="20250526120000 +0000" channel="Motorvision+.skyde">
+    <title>Perfect Ride</title>
+</programme>
+<programme start="20250526120000 +0000" stop="20250526122500 +0000" channel="Motorvision+.skyde">
+    <title>Motorcycles</title>
+</programme>
+<programme start="20250526122500 +0000" stop="20250526125500 +0000" channel="Motorvision+.skyde">
+    <title>Mission Mobility</title>
+</programme>
+<programme start="20250526125500 +0000" stop="20250526132500 +0000" channel="Motorvision+.skyde">
+    <title>Dream Cars</title>
+</programme>
+<programme start="20250526132500 +0000" stop="20250526141000 +0000" channel="Motorvision+.skyde">
+    <title>Road Wars Staffel 7</title>
+</programme>
+<programme start="20250526141000 +0000" stop="20250526144000 +0000" channel="Motorvision+.skyde">
+    <title>Tour European Rally Historic 2024</title>
+</programme>
+<programme start="20250526144000 +0000" stop="20250526151500 +0000" channel="Motorvision+.skyde">
+    <title>Rally 2024</title>
+</programme>
+<programme start="20250526151500 +0000" stop="20250526154000 +0000" channel="Motorvision+.skyde">
+    <title>Rally 2024</title>
+</programme>
+<programme start="20250526154000 +0000" stop="20250526163500 +0000" channel="Motorvision+.skyde">
+    <title>World Rally Raid Championship 2024</title>
+</programme>
+<programme start="20250526163500 +0000" stop="20250526170500 +0000" channel="Motorvision+.skyde">
+    <title>Rally 2024</title>
+</programme>
+<programme start="20250526170500 +0000" stop="20250526180000 +0000" channel="Motorvision+.skyde">
+    <title>BTRDA Rallycross 2024</title>
+</programme>
+<programme start="20250526180000 +0000" stop="20250526184500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Drag Racing Championship 2024</title>
+</programme>
+<programme start="20250526184500 +0000" stop="20250526191500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Enduro World Championship 2025</title>
+</programme>
+<programme start="20250526191500 +0000" stop="20250526200500 +0000" channel="Motorvision+.skyde">
+    <title>King of the Roads 2024</title>
+</programme>
+<programme start="20250526200500 +0000" stop="20250526210000 +0000" channel="Motorvision+.skyde">
+    <title>FIM X-Trial World Championship 2025</title>
+</programme>
+<programme start="20250526210000 +0000" stop="20250526214500 +0000" channel="Motorvision+.skyde">
+    <title>Isle of Man Tourist Trophy 2024</title>
+</programme>
+<programme start="20250526214500 +0000" stop="20250526224000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Superbike Championship 2024</title>
+</programme>
 <programme start="20250525220000 +0000" stop="20250525222500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
