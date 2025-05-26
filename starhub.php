@@ -8458,34 +8458,31 @@
     <programme start="20250525233000 +0000" stop="20250526003000 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250526003000 +0000" stop="20250526014000 +0000" channel="SPOTV2.starhub">
-        <title>Race - Moto3</title>
-    </programme>
-    <programme start="20250526014000 +0000" stop="20250526025500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250526003000 +0000" stop="20250526014500 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250526025500 +0000" stop="20250526050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250526014500 +0000" stop="20250526042000 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
     </programme>
-    <programme start="20250526050000 +0000" stop="20250526070000 +0000" channel="SPOTV2.starhub">
-        <title>Day 9 Session 1</title>
-    </programme>
-    <programme start="20250526070000 +0000" stop="20250526090000 +0000" channel="SPOTV2.starhub">
-        <title>Day 9 Session 2</title>
-    </programme>
-    <programme start="20250526090000 +0000" stop="20250526100000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250526100000 +0000" stop="20250526123000 +0000" channel="SPOTV2.starhub">
-        <title>MLB 2025: Regular season Washington Nationals vs San Francisco Giants</title>
-    </programme>
-    <programme start="20250526123000 +0000" stop="20250526134000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250526042000 +0000" stop="20250526053500 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto3</title>
     </programme>
-    <programme start="20250526134000 +0000" stop="20250526145500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250526053500 +0000" stop="20250526082000 +0000" channel="SPOTV2.starhub">
+        <title>Day 9 Session 1</title>
+    </programme>
+    <programme start="20250526082000 +0000" stop="20250526100500 +0000" channel="SPOTV2.starhub">
+        <title>Day 9 Session 2</title>
+    </programme>
+    <programme start="20250526100500 +0000" stop="20250526120000 +0000" channel="SPOTV2.starhub">
+        <title>MLB 2025: Regular season Washington Nationals vs San Francisco Giants</title>
+    </programme>
+    <programme start="20250526120000 +0000" stop="20250526123000 +0000" channel="SPOTV2.starhub">
+        <title>Johann Zarco</title>
+    </programme>
+    <programme start="20250526123000 +0000" stop="20250526134500 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250526145500 +0000" stop="20250526170000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250526134500 +0000" stop="20250526163000 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
     </programme>
     <programme start="20250525153000 +0000" stop="20250525163000 +0000" channel="Dragon TV.starhub">
