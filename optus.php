@@ -40,7 +40,7 @@
     <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kyoto v FC Tokyo</title>
     </programme>
-    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 8.optus">
+    <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Shimizu</title>
     </programme>
     <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 9.optus">
@@ -52,13 +52,13 @@
     <programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories</title>
     </programme>
-    <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
     <programme start="20250605133000 +0000" stop="20250605143000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Originals: Masterclass Special</title>
     </programme>
-    <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
     <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
