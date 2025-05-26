@@ -127,10 +127,10 @@
     <programme start="20250526103000 +0000" stop="20250526110042 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 155</title>
     </programme>
-    <programme start="20250526110042 +0000" stop="20250526113026 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526110042 +0000" stop="20250526113021 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7982</title>
     </programme>
-    <programme start="20250526113026 +0000" stop="20250526123008 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526113021 +0000" stop="20250526123008 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 8</title>
     </programme>
     <programme start="20250526123008 +0000" stop="20250526130000 +0000" channel="Channel 5.mewatch">
@@ -139,13 +139,13 @@
     <programme start="20250526130000 +0000" stop="20250526133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250526133000 +0000" stop="20250526140001 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526133000 +0000" stop="20250526140007 +0000" channel="Channel 5.mewatch">
         <title>Kumar Vs The World - EP 4</title>
     </programme>
-    <programme start="20250526140001 +0000" stop="20250526150002 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526140007 +0000" stop="20250526150013 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 8</title>
     </programme>
-    <programme start="20250526150002 +0000" stop="20250526160004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526150013 +0000" stop="20250526160004 +0000" channel="Channel 5.mewatch">
         <title>Sullivan&#039;s Crossing - Series 2 - EP 10</title>
     </programme>
     <programme start="20250525153055 +0000" stop="20250525160006 +0000" channel="Channel 8.mewatch">
@@ -235,29 +235,26 @@
     <programme start="20250526093027 +0000" stop="20250526103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 4</title>
     </programme>
-    <programme start="20250526103000 +0000" stop="20250526113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526103000 +0000" stop="20250526112935 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 40</title>
     </programme>
-    <programme start="20250526113000 +0000" stop="20250526120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526112935 +0000" stop="20250526120018 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 40</title>
     </programme>
-    <programme start="20250526120000 +0000" stop="20250526130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526120018 +0000" stop="20250526125959 +0000" channel="Channel 8.mewatch">
         <title>Forbidding No More S3 - EP 3</title>
     </programme>
-    <programme start="20250526130000 +0000" stop="20250526140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526125959 +0000" stop="20250526140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 3</title>
     </programme>
-    <programme start="20250526140000 +0000" stop="20250526143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526140000 +0000" stop="20250526143104 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250526143000 +0000" stop="20250526150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526143104 +0000" stop="20250526150117 +0000" channel="Channel 8.mewatch">
         <title>Connecting Earth and Sky - EP 4</title>
     </programme>
-    <programme start="20250526150000 +0000" stop="20250526160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250526150117 +0000" stop="20250526160019 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 1</title>
-    </programme>
-    <programme start="20250526160000 +0000" stop="20250526170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 20</title>
     </programme>
     <programme start="20250525153026 +0000" stop="20250525162932 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 18</title>
@@ -352,29 +349,26 @@
     <programme start="20250526100131 +0000" stop="20250526110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 15</title>
     </programme>
-    <programme start="20250526110000 +0000" stop="20250526120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526110000 +0000" stop="20250526115946 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 8</title>
     </programme>
-    <programme start="20250526120000 +0000" stop="20250526130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526115946 +0000" stop="20250526130010 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 9</title>
     </programme>
-    <programme start="20250526130000 +0000" stop="20250526133000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526130010 +0000" stop="20250526133040 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 18</title>
     </programme>
-    <programme start="20250526133000 +0000" stop="20250526140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526133040 +0000" stop="20250526140044 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 18</title>
     </programme>
-    <programme start="20250526140000 +0000" stop="20250526150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526140044 +0000" stop="20250526150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 13</title>
     </programme>
-    <programme start="20250526150000 +0000" stop="20250526153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526150000 +0000" stop="20250526153204 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250526153000 +0000" stop="20250526160000 +0000" channel="Channel U.mewatch">
+    <programme start="20250526153204 +0000" stop="20250526160145 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 18</title>
-    </programme>
-    <programme start="20250526160000 +0000" stop="20250526163000 +0000" channel="Channel U.mewatch">
-        <title>Happy Long Stay - EP 18</title>
     </programme>
     <programme start="20250525153000 +0000" stop="20250525160004 +0000" channel="Suria.mewatch">
         <title>Berita</title>
@@ -475,10 +469,10 @@
     <programme start="20250526080001 +0000" stop="20250526110000 +0000" channel="Vasantham.mewatch">
         <title>Chathurangam</title>
     </programme>
-    <programme start="20250526110000 +0000" stop="20250526120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250526110000 +0000" stop="20250526120001 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary Raja Kaiya Vecha - EP 6</title>
     </programme>
-    <programme start="20250526120000 +0000" stop="20250526123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250526120001 +0000" stop="20250526123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 8</title>
     </programme>
     <programme start="20250526123000 +0000" stop="20250526130000 +0000" channel="Vasantham.mewatch">
@@ -487,16 +481,16 @@
     <programme start="20250526130000 +0000" stop="20250526133000 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 2</title>
     </programme>
-    <programme start="20250526133000 +0000" stop="20250526140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250526133000 +0000" stop="20250526140001 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 6</title>
     </programme>
-    <programme start="20250526140000 +0000" stop="20250526143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250526140001 +0000" stop="20250526143000 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 23</title>
     </programme>
-    <programme start="20250526143000 +0000" stop="20250526150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250526143000 +0000" stop="20250526150001 +0000" channel="Vasantham.mewatch">
         <title>Maasigaiye - EP 13</title>
     </programme>
-    <programme start="20250526150000 +0000" stop="20250526153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250526150001 +0000" stop="20250526153000 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 10</title>
     </programme>
     <programme start="20250526153000 +0000" stop="20250526155850 +0000" channel="Vasantham.mewatch">
@@ -574,26 +568,23 @@
     <programme start="20250526100002 +0000" stop="20250526110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250526110000 +0000" stop="20250526113000 +0000" channel="CNA.mewatch">
+    <programme start="20250526110000 +0000" stop="20250526113001 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 6</title>
     </programme>
-    <programme start="20250526113000 +0000" stop="20250526120000 +0000" channel="CNA.mewatch">
+    <programme start="20250526113001 +0000" stop="20250526120002 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 2</title>
     </programme>
-    <programme start="20250526120000 +0000" stop="20250526130000 +0000" channel="CNA.mewatch">
+    <programme start="20250526120002 +0000" stop="20250526130002 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250526130000 +0000" stop="20250526140000 +0000" channel="CNA.mewatch">
+    <programme start="20250526130002 +0000" stop="20250526140003 +0000" channel="CNA.mewatch">
         <title>Addicted: The Cannabis Trap</title>
     </programme>
-    <programme start="20250526140000 +0000" stop="20250526150000 +0000" channel="CNA.mewatch">
+    <programme start="20250526140003 +0000" stop="20250526150003 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250526150000 +0000" stop="20250526160000 +0000" channel="CNA.mewatch">
+    <programme start="20250526150003 +0000" stop="20250526160003 +0000" channel="CNA.mewatch">
         <title>Addicted - EP 2</title>
-    </programme>
-    <programme start="20250526160000 +0000" stop="20250526160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250525160000 +0000" stop="20250526160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 27th May, Tuesday 7.35pm. 2024/25 Singapore Cup: BG Tampines Rovers vs BG Pathum United</title>
