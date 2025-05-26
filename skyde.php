@@ -2904,12 +2904,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526213000 +0000" stop="20250526233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: 1. FC Heidenheim - SV Elversberg, Relegation, Hinspiel</title>
 </programme>
-<programme start="20250525220000 +0000" stop="20250525223000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP Monaco</title>
-</programme>
-<programme start="20250525223000 +0000" stop="20250525230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen Kompakt - GP Monaco</title>
-</programme>
 <programme start="20250525230000 +0000" stop="20250526020000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 109th Indianapolis 500</title>
 </programme>
@@ -2952,7 +2946,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526200000 +0000" stop="20250526230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20250525220000 +0000" stop="20250526010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250525221500 +0000" stop="20250526010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Soudal Open, 4. Tag in Antwerpen (Belgien)</title>
 </programme>
 <programme start="20250526010000 +0000" stop="20250526040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2982,10 +2976,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250526203000 +0000" stop="20250526233000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 4. Tag in Augusta, GA (USA)</title>
 </programme>
-<programme start="20250525220000 +0000" stop="20250525230000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250525220000 +0000" stop="20250525230500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250525230000 +0000" stop="20250526013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250525230500 +0000" stop="20250526013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
 <programme start="20250526013000 +0000" stop="20250526033000 +0000" channel="Sky Sport Mix HD.skyde">

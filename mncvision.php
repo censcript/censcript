@@ -223,7 +223,42 @@
 <programme start="20250526163000 +0000" stop="20250525170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Counting The Cost</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250525170000 +0000" stop="20250525190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250525190000 +0000" stop="20250525210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250525210000 +0000" stop="20250525230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250525230000 +0000" stop="20250526010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526010000 +0000" stop="20250526030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526030000 +0000" stop="20250526050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526050000 +0000" stop="20250526070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526070000 +0000" stop="20250526090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526090000 +0000" stop="20250526110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526110000 +0000" stop="20250526130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526130000 +0000" stop="20250526150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250526150000 +0000" stop="20250526153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20250525170000 +0000" stop="20250525173000 +0000" channel="Animax.mncvision">
     <title>My Deer Friend Nokotan, Ep 5</title>
 </programme>
@@ -4638,43 +4673,46 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250525213000 +0000" stop="20250525230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250525230000 +0000" stop="20250526010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Magic 5 S4</title>
 </programme>
 <programme start="20250526010000 +0000" stop="20250526030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250526030000 +0000" stop="20250526040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250526040000 +0000" stop="20250526043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250526043000 +0000" stop="20250526050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250526050000 +0000" stop="20250526063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250526063000 +0000" stop="20250526080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250526080000 +0000" stop="20250526093000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20250526093000 +0000" stop="20250526113000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250526093000 +0000" stop="20250526110000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Sore Spesial</title>
 </programme>
-<programme start="20250526113000 +0000" stop="20250526140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250526110000 +0000" stop="20250526130000 +0000" channel="Indosiar.mncvision">
+    <title>Magic 5 S4</title>
 </programme>
-<programme start="20250526140000 +0000" stop="20250526163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250526130000 +0000" stop="20250526143000 +0000" channel="Indosiar.mncvision">
+    <title>Harga Diri</title>
+</programme>
+<programme start="20250526143000 +0000" stop="20250526163000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia Prime</title>
 </programme>
 <programme start="20250526163000 +0000" stop="20250525170000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250525180000 +0000" stop="20250525200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4683,43 +4721,46 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250525213000 +0000" stop="20250525230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250525230000 +0000" stop="20250526010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Magic 5 S4</title>
 </programme>
 <programme start="20250526010000 +0000" stop="20250526030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250526030000 +0000" stop="20250526040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250526040000 +0000" stop="20250526043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250526043000 +0000" stop="20250526050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250526050000 +0000" stop="20250526063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250526063000 +0000" stop="20250526080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250526080000 +0000" stop="20250526093000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20250526093000 +0000" stop="20250526113000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250526093000 +0000" stop="20250526110000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Sore Spesial</title>
 </programme>
-<programme start="20250526113000 +0000" stop="20250526140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250526110000 +0000" stop="20250526130000 +0000" channel="Indosiar HD.mncvision">
+    <title>Magic 5 S4</title>
 </programme>
-<programme start="20250526140000 +0000" stop="20250526163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250526130000 +0000" stop="20250526143000 +0000" channel="Indosiar HD.mncvision">
+    <title>Harga Diri</title>
+</programme>
+<programme start="20250526143000 +0000" stop="20250526163000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia Prime</title>
 </programme>
 <programme start="20250526163000 +0000" stop="20250525170000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250525173000 +0000" stop="20250525190000 +0000" channel="iNews.mncvision">
     <title>SEA Games 2023: IDN Vs VIE</title>
@@ -7832,53 +7873,50 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250525200000 +0000" stop="20250525210000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250525210000 +0000" stop="20250525213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250525210000 +0000" stop="20250525212900 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250525213000 +0000" stop="20250525230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250525212900 +0000" stop="20250525225400 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250525230000 +0000" stop="20250525233000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250525225400 +0000" stop="20250525235800 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250525233000 +0000" stop="20250526000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250525235800 +0000" stop="20250526013000 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250526000000 +0000" stop="20250526013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526013000 +0000" stop="20250526030700 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250526013000 +0000" stop="20250526030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526030700 +0000" stop="20250526050000 +0000" channel="SCTV.mncvision">
+    <title>Takdir Cinta</title>
 </programme>
-<programme start="20250526030000 +0000" stop="20250526050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526050000 +0000" stop="20250526053400 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250526050000 +0000" stop="20250526053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526053400 +0000" stop="20250526071500 +0000" channel="SCTV.mncvision">
+    <title>Guru Rock n Love</title>
 </programme>
-<programme start="20250526053000 +0000" stop="20250526071500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526071500 +0000" stop="20250526085000 +0000" channel="SCTV.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250526071500 +0000" stop="20250526081500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526085000 +0000" stop="20250526100000 +0000" channel="SCTV.mncvision">
+    <title>Mercury</title>
 </programme>
-<programme start="20250526081500 +0000" stop="20250526094500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526100000 +0000" stop="20250526112500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250526094500 +0000" stop="20250526111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526112500 +0000" stop="20250526130200 +0000" channel="SCTV.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250526111500 +0000" stop="20250526124500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526130200 +0000" stop="20250526142800 +0000" channel="SCTV.mncvision">
+    <title>Cinta Di Ujung Sajadah</title>
 </programme>
-<programme start="20250526124500 +0000" stop="20250526143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526142800 +0000" stop="20250526160300 +0000" channel="SCTV.mncvision">
+    <title>Luka Cinta</title>
 </programme>
-<programme start="20250526143000 +0000" stop="20250526160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250526160000 +0000" stop="20250526163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250526160300 +0000" stop="20250526163300 +0000" channel="SCTV.mncvision">
+    <title>Serigala Terakhir</title>
 </programme>
 <programme start="20250525170000 +0000" stop="20250525183000 +0000" channel="SCTV HD.mncvision">
     <title>Gadis Pantai Penjaring Cinta</title>
@@ -7889,53 +7927,50 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250525200000 +0000" stop="20250525210000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250525210000 +0000" stop="20250525213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250525210000 +0000" stop="20250525212900 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250525213000 +0000" stop="20250525230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250525212900 +0000" stop="20250525225400 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250525230000 +0000" stop="20250525233000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250525225400 +0000" stop="20250525235800 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250525233000 +0000" stop="20250526000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250525235800 +0000" stop="20250526013000 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250526000000 +0000" stop="20250526013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526013000 +0000" stop="20250526030700 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250526013000 +0000" stop="20250526030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526030700 +0000" stop="20250526050000 +0000" channel="SCTV HD.mncvision">
+    <title>Takdir Cinta</title>
 </programme>
-<programme start="20250526030000 +0000" stop="20250526050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526050000 +0000" stop="20250526053400 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250526050000 +0000" stop="20250526053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526053400 +0000" stop="20250526071500 +0000" channel="SCTV HD.mncvision">
+    <title>Guru Rock n Love</title>
 </programme>
-<programme start="20250526053000 +0000" stop="20250526071500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526071500 +0000" stop="20250526085000 +0000" channel="SCTV HD.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250526071500 +0000" stop="20250526081500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526085000 +0000" stop="20250526100000 +0000" channel="SCTV HD.mncvision">
+    <title>Mercury</title>
 </programme>
-<programme start="20250526081500 +0000" stop="20250526094500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526100000 +0000" stop="20250526112500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250526094500 +0000" stop="20250526111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526112500 +0000" stop="20250526130200 +0000" channel="SCTV HD.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250526111500 +0000" stop="20250526124500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526130200 +0000" stop="20250526142800 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Di Ujung Sajadah</title>
 </programme>
-<programme start="20250526124500 +0000" stop="20250526143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526142800 +0000" stop="20250526160300 +0000" channel="SCTV HD.mncvision">
+    <title>Luka Cinta</title>
 </programme>
-<programme start="20250526143000 +0000" stop="20250526160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250526160000 +0000" stop="20250526163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250526160300 +0000" stop="20250526163300 +0000" channel="SCTV HD.mncvision">
+    <title>Serigala Terakhir</title>
 </programme>
 <programme start="20250525170000 +0000" stop="20250525173000 +0000" channel="SEA TODAY.mncvision">
     <title>Super Octogenarians</title>
@@ -8217,7 +8252,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Bundesliga: SCF Vs LEV</title>
 </programme>
 <programme start="20250526030000 +0000" stop="20250526043000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFF: Hyundai Partnership... (L)</title>
+    <title>ASEAN C&#039;ship: Hyundai Cup (L)</title>
 </programme>
 <programme start="20250526043000 +0000" stop="20250526050000 +0000" channel="Soccer Channel.mncvision">
     <title>The Ultimate Goals</title>
@@ -8265,7 +8300,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Bundesliga: SCF Vs LEV</title>
 </programme>
 <programme start="20250526030000 +0000" stop="20250526043000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFF: Hyundai Partnership... (L)</title>
+    <title>ASEAN C&#039;ship: Hyundai Cup (L)</title>
 </programme>
 <programme start="20250526043000 +0000" stop="20250526050000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>
@@ -8541,7 +8576,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Sportacular Match</title>
 </programme>
 <programme start="20250526090000 +0000" stop="20250526110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2: JAP Vs AFC</title>
+    <title>Liga 2: PRJ Vs DJN</title>
 </programme>
 <programme start="20250526110000 +0000" stop="20250526130000 +0000" channel="Sportstars 4.mncvision">
     <title>BRI Liga 1: KDR Vs BOR</title>
@@ -8577,7 +8612,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Sportacular Match</title>
 </programme>
 <programme start="20250526090000 +0000" stop="20250526110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: JAP Vs AFC</title>
+    <title>Liga 2: PRJ Vs DJN</title>
 </programme>
 <programme start="20250526110000 +0000" stop="20250526130000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>BRI Liga 1: KDR Vs BOR</title>

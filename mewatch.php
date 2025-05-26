@@ -124,28 +124,28 @@
     <programme start="20250526093028 +0000" stop="20250526103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S8 - EP 2</title>
     </programme>
-    <programme start="20250526103000 +0000" stop="20250526110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526103000 +0000" stop="20250526110042 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 155</title>
     </programme>
-    <programme start="20250526110000 +0000" stop="20250526113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526110042 +0000" stop="20250526113026 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7982</title>
     </programme>
-    <programme start="20250526113000 +0000" stop="20250526123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526113026 +0000" stop="20250526123008 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 8</title>
     </programme>
-    <programme start="20250526123000 +0000" stop="20250526130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526123008 +0000" stop="20250526130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 72</title>
     </programme>
     <programme start="20250526130000 +0000" stop="20250526133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250526133000 +0000" stop="20250526140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526133000 +0000" stop="20250526140001 +0000" channel="Channel 5.mewatch">
         <title>Kumar Vs The World - EP 4</title>
     </programme>
-    <programme start="20250526140000 +0000" stop="20250526150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526140001 +0000" stop="20250526150002 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 8</title>
     </programme>
-    <programme start="20250526150000 +0000" stop="20250526160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250526150002 +0000" stop="20250526160000 +0000" channel="Channel 5.mewatch">
         <title>Sullivan&#039;s Crossing - Series 2 - EP 10</title>
     </programme>
     <programme start="20250526160000 +0000" stop="20250526163000 +0000" channel="Channel 5.mewatch">
@@ -381,9 +381,6 @@
     </programme>
     <programme start="20250525153000 +0000" stop="20250525160004 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250525160004 +0000" stop="20250526010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250526010000 +0000" stop="20250526013036 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 2</title>
