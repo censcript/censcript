@@ -7954,10 +7954,10 @@
     <programme start="20250527090000 +0000" stop="20250527100000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
     </programme>
-    <programme start="20250527100000 +0000" stop="20250527115000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250527100000 +0000" stop="20250527114000 +0000" channel="Premier Sports.starhub">
         <title>Super Rugby Chiefs v Moana Pasifika</title>
     </programme>
-    <programme start="20250527115000 +0000" stop="20250527134000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250527114000 +0000" stop="20250527134000 +0000" channel="Premier Sports.starhub">
         <title>Super Rugby Force v Waratahs</title>
     </programme>
     <programme start="20250527134000 +0000" stop="20250527141000 +0000" channel="Premier Sports.starhub">
@@ -8335,10 +8335,10 @@
     <programme start="20250526213000 +0000" stop="20250526233000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Black and White Kudumbam</title>
     </programme>
-    <programme start="20250526233000 +0000" stop="20250527013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250526233000 +0000" stop="20250527014000 +0000" channel="Asianet Movies.starhub">
         <title>IG</title>
     </programme>
-    <programme start="20250527013000 +0000" stop="20250527043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250527014000 +0000" stop="20250527043000 +0000" channel="Asianet Movies.starhub">
         <title>Sarkkar Dada</title>
     </programme>
     <programme start="20250527043000 +0000" stop="20250527073000 +0000" channel="Asianet Movies.starhub">
