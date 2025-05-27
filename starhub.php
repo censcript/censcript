@@ -8027,7 +8027,7 @@
         <title>REVIEW - MON 26 MAY</title>
     </programme>
     <programme start="20250527063000 +0000" stop="20250527073000 +0000" channel="Hub Premier 1.starhub">
-        <title>FANZONE - MON 26 MAY</title>
+        <title>PL MASTERCLASS</title>
     </programme>
     <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="Hub Premier 1.starhub">
         <title>NETBUSTERS</title>
@@ -8048,7 +8048,7 @@
         <title>REVIEW - MON 26 MAY</title>
     </programme>
     <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="Hub Premier 1.starhub">
-        <title>FANZONE - MON 26 MAY</title>
+        <title>PL MASTERCLASS</title>
     </programme>
     <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="Hub Premier 1.starhub">
         <title>NETBUSTERS</title>
@@ -8494,10 +8494,10 @@
     <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250527120000 +0000" stop="20250527140500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 2024-25 Matchday 34 Al Ittihad vs Damac</title>
     </programme>
-    <programme start="20250527140000 +0000" stop="20250527163000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250527140500 +0000" stop="20250527163000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025: Regular season Cleveland Guardians vs Los Angeles Dodgers</title>
     </programme>
     <programme start="20250526140000 +0000" stop="20250526163000 +0000" channel="Dragon TV.starhub">

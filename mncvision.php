@@ -7985,7 +7985,7 @@
     <title>The Travel Note</title>
 </programme>
 <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="SEA TODAY.mncvision">
-    <title>Duo Backpackers</title>
+    <title>Tough Boats</title>
 </programme>
 <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="SEA TODAY.mncvision">
     <title>Side Walk</title>
@@ -8656,7 +8656,10 @@
 <programme start="20250527010000 +0000" stop="20250527043000 +0000" channel="SPOTV 2.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
-<programme start="20250527043000 +0000" stop="20250527093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250527043000 +0000" stop="20250527073000 +0000" channel="SPOTV 2.mncvision">
+    <title>World Table Tennis C&#039;ships</title>
+</programme>
+<programme start="20250527073000 +0000" stop="20250527093000 +0000" channel="SPOTV 2.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
 <programme start="20250527093000 +0000" stop="20250527100000 +0000" channel="SPOTV 2.mncvision">
@@ -8668,10 +8671,10 @@
 <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="SPOTV 2.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
-<programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250527120000 +0000" stop="20250527140500 +0000" channel="SPOTV 2.mncvision">
     <title>Roshn Saudi League 2024-25</title>
 </programme>
-<programme start="20250527140000 +0000" stop="20250527163000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250527140500 +0000" stop="20250527163000 +0000" channel="SPOTV 2.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
 <programme start="20250527163000 +0000" stop="20250526170000 +0000" channel="SPOTV 2.mncvision">
@@ -8695,7 +8698,10 @@
 <programme start="20250527010000 +0000" stop="20250527043000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
-<programme start="20250527043000 +0000" stop="20250527093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250527043000 +0000" stop="20250527073000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>World Table Tennis C&#039;ships</title>
+</programme>
+<programme start="20250527073000 +0000" stop="20250527093000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
 <programme start="20250527093000 +0000" stop="20250527100000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8707,10 +8713,10 @@
 <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>R&amp;G British Talent Cup 2025</title>
 </programme>
-<programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250527120000 +0000" stop="20250527140500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Roshn Saudi League 2024-25</title>
 </programme>
-<programme start="20250527140000 +0000" stop="20250527163000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250527140500 +0000" stop="20250527163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Table Tennis C&#039;ships</title>
 </programme>
 <programme start="20250527163000 +0000" stop="20250526170000 +0000" channel="SPOTV 2 HD.mncvision">
