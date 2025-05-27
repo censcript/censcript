@@ -1,6 +1,3 @@
-    <programme start="20250527080000 +0000" stop="20250527090000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Moments: Steve McManaman</title>
-    </programme>
     <programme start="20250527102000 +0000" stop="20250527124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Daegu v Jeonbuk</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Netherlands</title>
+    </programme>
+    <programme start="20250709185000 +0000" stop="20250709211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - France v Wales</title>
     </programme>

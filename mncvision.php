@@ -206,7 +206,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Cultural Exchange</title>
 </programme>
 <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
