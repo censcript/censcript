@@ -1,9 +1,3 @@
-    <programme start="20250527102000 +0000" stop="20250527124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daegu v Jeonbuk</title>
-    </programme>
-    <programme start="20250527102000 +0000" stop="20250527124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Daejeon v Pohang</title>
-    </programme>
     <programme start="20250528102000 +0000" stop="20250528124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Gwangju v Ulsan</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250709185000 +0000" stop="20250709211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - France v Wales</title>
+    </programme>
+    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Norway v Iceland</title>
+    </programme>
+    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Finland v Switzerland</title>
     </programme>

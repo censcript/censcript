@@ -2050,10 +2050,16 @@
     <programme start="20250527070900 +0000" stop="20250527071500 +0000" channel="Cbeebies HD.starhub">
         <title>The Organising Badge</title>
     </programme>
-    <programme start="20250526095500 +0000" stop="20250526183000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250526095500 +0000" stop="20250526171500 +0000" channel="beIN Sports 3.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250526183000 +0000" stop="20250526203000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250526171500 +0000" stop="20250526175000 +0000" channel="beIN Sports 3.starhub">
+        <title>Roland Garros Classic 2012 Men’s Singles Final Nadal v Djokovic</title>
+    </programme>
+    <programme start="20250526175000 +0000" stop="20250526182700 +0000" channel="beIN Sports 3.starhub">
+        <title>Best of Kuerten</title>
+    </programme>
+    <programme start="20250526182700 +0000" stop="20250526203000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga 2024/25 Elversburg vs Heidenheim 1846 - Playoffs, 2nd Leg (Live)</title>
     </programme>
     <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beIN Sports 3.starhub">
@@ -6992,7 +6998,7 @@
         <title>YONEX German Open (Super 300): Finals</title>
     </programme>
     <programme start="20250526213000 +0000" stop="20250526220000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Zurich Marató Barcelona H/Ls</title>
+        <title>Zurich Marató Barcelona Highlights</title>
     </programme>
     <programme start="20250526220000 +0000" stop="20250527000000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d&#039;Italia (1000) SF2</title>
