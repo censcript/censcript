@@ -136,10 +136,10 @@
     <programme start="20250527110030 +0000" stop="20250527113016 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7983</title>
     </programme>
-    <programme start="20250527113016 +0000" stop="20250527122944 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527113016 +0000" stop="20250527123026 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 3</title>
     </programme>
-    <programme start="20250527122944 +0000" stop="20250527130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527123026 +0000" stop="20250527130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 73</title>
     </programme>
     <programme start="20250527130000 +0000" stop="20250527133004 +0000" channel="Channel 5.mewatch">
@@ -397,9 +397,6 @@
     <programme start="20250526153000 +0000" stop="20250526160057 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250526160057 +0000" stop="20250527010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250527010000 +0000" stop="20250527012956 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 3</title>
     </programme>
@@ -451,7 +448,7 @@
     <programme start="20250527143000 +0000" stop="20250527153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 2</title>
     </programme>
-    <programme start="20250527153000 +0000" stop="20250527160004 +0000" channel="Suria.mewatch">
+    <programme start="20250527153000 +0000" stop="20250527160034 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250526155850 +0000" stop="20250527010000 +0000" channel="Vasantham.mewatch">
