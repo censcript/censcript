@@ -593,10 +593,10 @@
         <title>2024/25 Singapore Cup: BG Tampines Rovers vs BG Pathum United</title>
     </programme>
     <programme start="20250527134500 +0000" stop="20250527160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup</title>
     </programme>
     <programme start="20250527160000 +0000" stop="20250528160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup</title>
     </programme>
     <programme start="20250526160000 +0000" stop="20250527113500 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 27th May, Tuesday 7.35pm. 2024/25 Singapore Cup: Lion City Sailors vs Brunei DPMM</title>
@@ -992,8 +992,8 @@
         <title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
     </programme>
     <programme start="20250526160000 +0000" stop="20250527160000 +0000" channel="Live 7.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 28th May, Wednesday 8.35pm. Manchester United 2025 Friendlies: Manchester United vs ASEAN All-Stars</title>
     </programme>
-    <programme start="20250527160000 +0000" stop="20250528160000 +0000" channel="Live 7.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+    <programme start="20250527160000 +0000" stop="20250528123500 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 28th May, Wednesday 8.35pm. Manchester United 2025 Friendlies: Manchester United vs ASEAN All-Stars</title>
     </programme>
