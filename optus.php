@@ -262,6 +262,15 @@
     <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Germany v Poland</title>
     </programme>
+    <programme start="20250705085500 +0000" stop="20250705111000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Machida v Shimizu</title>
+    </programme>
+    <programme start="20250705095500 +0000" stop="20250705121000 +0000" channel="Optus Sport 9.optus">
+        <title>J1 League - Cerezo v Gamba</title>
+    </programme>
+    <programme start="20250705095500 +0000" stop="20250705121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Yokohama FC v Yokohama FM</title>
+    </programme>
     <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
     </programme>
@@ -288,13 +297,4 @@
     </programme>
     <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Netherlands</title>
-    </programme>
-    <programme start="20250709185000 +0000" stop="20250709211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - France v Wales</title>
-    </programme>
-    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Norway v Iceland</title>
-    </programme>
-    <programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Finland v Switzerland</title>
     </programme>
