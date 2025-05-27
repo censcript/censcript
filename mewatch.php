@@ -448,8 +448,11 @@
     <programme start="20250527143000 +0000" stop="20250527153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 2</title>
     </programme>
-    <programme start="20250527153000 +0000" stop="20250527160034 +0000" channel="Suria.mewatch">
+    <programme start="20250527153000 +0000" stop="20250527155959 +0000" channel="Suria.mewatch">
         <title>Berita</title>
+    </programme>
+    <programme start="20250527155959 +0000" stop="20250528010000 +0000" channel="Suria.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250526155850 +0000" stop="20250527010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
