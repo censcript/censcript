@@ -2921,10 +2921,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250527050000 +0000" stop="20250527060000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell AM - 1. Rennen in Hockenheim</title>
 </programme>
-<programme start="20250527060000 +0000" stop="20250527070500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250527060000 +0000" stop="20250527070000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 1. Rennen in Hockenheim</title>
 </programme>
-<programme start="20250527070500 +0000" stop="20250527080000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250527070000 +0000" stop="20250527080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell &amp; 488 - 1. Rennen in Hockenheim</title>
 </programme>
 <programme start="20250527080000 +0000" stop="20250527100000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3020,6 +3020,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250527040000 +0000" stop="20250527050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Großbritannien</title>
 </programme>
+<programme start="20250527050000 +0000" stop="20250527070000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Florida Panthers - Carolina Hurricanes, Eastern Conference Final, Spiel 4</title>
+</programme>
 <programme start="20250527070000 +0000" stop="20250527080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Vodafone Rally de Portugal</title>
 </programme>
@@ -3034,6 +3037,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250527091500 +0000" stop="20250527100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Bonsoy Gold Coast Pro Finals Day</title>
+</programme>
+<programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Florida Panthers - Carolina Hurricanes, Eastern Conference Final, Spiel 4</title>
 </programme>
 <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
@@ -3052,6 +3058,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250527191500 +0000" stop="20250527201500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Großbritannien</title>
+</programme>
+<programme start="20250527201500 +0000" stop="20250527221500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Florida Panthers - Carolina Hurricanes, Eastern Conference Final, Spiel 4</title>
 </programme>
 <programme start="20250526220000 +0000" stop="20250526230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3312,10 +3321,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Mondo Duplantis: Immer höher</title>
 </programme>
 <programme start="20250527141500 +0000" stop="20250527151500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F2: 2. Rennen - GP Monaco</title>
+    <title>PMSC: Rennen - GP Monaco</title>
 </programme>
 <programme start="20250527141500 +0000" stop="20250527151500 +0000" channel="Sky Sport UHD.skyde">
-    <title>PMSC: Rennen - GP Monaco</title>
+    <title>F2: 2. Rennen - GP Monaco</title>
 </programme>
 <programme start="20250527151500 +0000" stop="20250527161500 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Monaco</title>
