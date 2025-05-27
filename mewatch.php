@@ -484,28 +484,28 @@
     <programme start="20250527080003 +0000" stop="20250527110000 +0000" channel="Vasantham.mewatch">
         <title>Thambathiyam</title>
     </programme>
-    <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527110000 +0000" stop="20250527120003 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary Raja Kaiya Vecha - EP 7</title>
     </programme>
-    <programme start="20250527120000 +0000" stop="20250527123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527120003 +0000" stop="20250527123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 9</title>
     </programme>
     <programme start="20250527123000 +0000" stop="20250527130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527130000 +0000" stop="20250527132958 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 3</title>
     </programme>
-    <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527132958 +0000" stop="20250527135957 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 7</title>
     </programme>
-    <programme start="20250527140000 +0000" stop="20250527143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527135957 +0000" stop="20250527142957 +0000" channel="Vasantham.mewatch">
         <title>Samhaaram - EP 24</title>
     </programme>
-    <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527142957 +0000" stop="20250527145956 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 1</title>
     </programme>
-    <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527145956 +0000" stop="20250527153000 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 11</title>
     </programme>
     <programme start="20250527153000 +0000" stop="20250527160052 +0000" channel="Vasantham.mewatch">

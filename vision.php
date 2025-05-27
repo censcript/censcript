@@ -124,59 +124,56 @@
 <programme start="20250527160000 +0000" stop="20250527170000 +0000" channel="MNCTV.vision">
 <title>Roy &amp; Marten Sahabat...</title>
 </programme>
-<programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
-</programme>
 <programme start="20250527173000 +0000" stop="20250527190000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250527190000 +0000" stop="20250527203000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250527203000 +0000" stop="20250527213000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Pagi</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250527213000 +0000" stop="20250527220000 +0000" channel="MNCTV.vision">
-<title>Jurnal Lintas iNews Pagi</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250527220000 +0000" stop="20250527230000 +0000" channel="MNCTV.vision">
-<title>Siraman Qolbu</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250527230000 +0000" stop="20250527233000 +0000" channel="MNCTV.vision">
-<title>Seleb On News</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250527233000 +0000" stop="20250528000000 +0000" channel="MNCTV.vision">
-<title>Sinema Spesial Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528000000 +0000" stop="20250528010000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528010000 +0000" stop="20250528030000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528030000 +0000" stop="20250528040000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Siang</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528040000 +0000" stop="20250528060000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528060000 +0000" stop="20250528080000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528080000 +0000" stop="20250528093000 +0000" channel="MNCTV.vision">
-<title>Petualangan Fantastis Kiko</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528093000 +0000" stop="20250528103000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528103000 +0000" stop="20250528110000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528110000 +0000" stop="20250528113000 +0000" channel="MNCTV.vision">
-<title>Entong</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250528113000 +0000" stop="20250528121500 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250526230000 +0000" stop="20250527001000 +0000" channel="GTV.vision">
 <title>Thomas &amp; Friends</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250527210000 +0000" stop="20250527213000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20250527213000 +0000" stop="20250527223000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
 </programme>

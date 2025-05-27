@@ -4492,8 +4492,11 @@
     <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250527100000 +0000" stop="20250527130000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250527100000 +0000" stop="20250527123000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Round 4</title>
+    </programme>
+    <programme start="20250527123000 +0000" stop="20250527130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Ep 1: All-Access Club Car Championship</title>
     </programme>
     <programme start="20250527130000 +0000" stop="20250527140000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>International Series Japan presented by Moutai</title>
@@ -4502,7 +4505,7 @@
         <title>Charles Schwab Challenge</title>
     </programme>
     <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PGA Tour: The Cut 2025</title>
+        <title>Episode 21</title>
     </programme>
     <programme start="20250527153000 +0000" stop="20250527160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Turkish Open</title>
@@ -7004,10 +7007,10 @@
         <title>Internazionali BNL d&#039;Italia (1000) Final</title>
     </programme>
     <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Sudirman Cup Review</title>
+        <title>Ibiza Marathon</title>
     </programme>
     <programme start="20250527110000 +0000" stop="20250527112000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI World Tour - Eschborn-Frankfurt H/Ls</title>
+        <title>UCI World Tour - Eschborn-Frankfurt Highlights</title>
     </programme>
     <programme start="20250527112000 +0000" stop="20250527113500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 110</title>
