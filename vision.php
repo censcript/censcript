@@ -644,7 +644,7 @@
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250528020000 +0000" stop="20250528050000 +0000" channel="ANTV.vision">
-<title>Sultan</title>
+<title>A Gentleman</title>
 </programme>
 <programme start="20250528050000 +0000" stop="20250528083000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -662,13 +662,13 @@
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250528153000 +0000" stop="20250528173000 +0000" channel="ANTV.vision">
-<title>Sinema Laga Klasik</title>
+<title>Misteri Gunung Merapi 3</title>
 </programme>
-<programme start="20250528173000 +0000" stop="20250528190000 +0000" channel="ANTV.vision">
-<title>Nenek Grondong</title>
-</programme>
-<programme start="20250528190000 +0000" stop="20250528210000 +0000" channel="ANTV.vision">
+<programme start="20250528173000 +0000" stop="20250528193000 +0000" channel="ANTV.vision">
 <title>Sonu Ke Titu Ki Sweety</title>
+</programme>
+<programme start="20250528193000 +0000" stop="20250528210000 +0000" channel="ANTV.vision">
+<title>Nenek Grondong</title>
 </programme>
 <programme start="20250528210000 +0000" stop="20250528220000 +0000" channel="ANTV.vision">
 <title>Nadin</title>

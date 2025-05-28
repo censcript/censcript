@@ -250,7 +250,150 @@
 <programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250528170000 +0000" stop="20250528173000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 17</title>
+</programme>
+<programme start="20250528173000 +0000" stop="20250528180000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250528180000 +0000" stop="20250528183000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 14</title>
+</programme>
+<programme start="20250528183000 +0000" stop="20250528190000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250528190000 +0000" stop="20250528193000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 8</title>
+</programme>
+<programme start="20250528193000 +0000" stop="20250528200000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 9</title>
+</programme>
+<programme start="20250528200000 +0000" stop="20250528203000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 5</title>
+</programme>
+<programme start="20250528203000 +0000" stop="20250528210000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 6</title>
+</programme>
+<programme start="20250528210000 +0000" stop="20250528213000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 17</title>
+</programme>
+<programme start="20250528213000 +0000" stop="20250528220000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250528220000 +0000" stop="20250528223000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 14</title>
+</programme>
+<programme start="20250528223000 +0000" stop="20250528230000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250528230000 +0000" stop="20250528233000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 5</title>
+</programme>
+<programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 6</title>
+</programme>
+<programme start="20250529000000 +0000" stop="20250529003000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 8</title>
+</programme>
+<programme start="20250529003000 +0000" stop="20250529010000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 9</title>
+</programme>
+<programme start="20250529010000 +0000" stop="20250529013000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 14</title>
+</programme>
+<programme start="20250529013000 +0000" stop="20250529020000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250529020000 +0000" stop="20250529023000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 17</title>
+</programme>
+<programme start="20250529023000 +0000" stop="20250529030000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250529030000 +0000" stop="20250529033000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 5</title>
+</programme>
+<programme start="20250529033000 +0000" stop="20250529040000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 6</title>
+</programme>
+<programme start="20250529040000 +0000" stop="20250529043000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 8</title>
+</programme>
+<programme start="20250529043000 +0000" stop="20250529050000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 9</title>
+</programme>
+<programme start="20250529050000 +0000" stop="20250529053000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 14</title>
+</programme>
+<programme start="20250529053000 +0000" stop="20250529060000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250529060000 +0000" stop="20250529063000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 17</title>
+</programme>
+<programme start="20250529063000 +0000" stop="20250529070000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250529070000 +0000" stop="20250529073000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 5</title>
+</programme>
+<programme start="20250529073000 +0000" stop="20250529080000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 6</title>
+</programme>
+<programme start="20250529080000 +0000" stop="20250529083000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 14</title>
+</programme>
+<programme start="20250529083000 +0000" stop="20250529090000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250529090000 +0000" stop="20250529093000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 17</title>
+</programme>
+<programme start="20250529093000 +0000" stop="20250529100000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250529100000 +0000" stop="20250529103000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250529103000 +0000" stop="20250529110000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250529110000 +0000" stop="20250529113000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250529113000 +0000" stop="20250529120000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250529120000 +0000" stop="20250529123000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 9</title>
+</programme>
+<programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 10</title>
+</programme>
+<programme start="20250529130000 +0000" stop="20250529133000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250529133000 +0000" stop="20250529140000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250529140000 +0000" stop="20250529143000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250529153000 +0000" stop="20250529160000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250529160000 +0000" stop="20250529163000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 9</title>
+</programme>
+<programme start="20250529163000 +0000" stop="20250528170000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 10</title>
+</programme>
 <programme start="20250528173000 +0000" stop="20250528190000 +0000" channel="ANTV.mncvision">
     <title>Nenek Grondong</title>
 </programme>
@@ -3083,8 +3226,252 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250529160000 +0000" stop="20250529163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Zulu Vs Hadley</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250528173000 +0000" stop="20250528180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250528180000 +0000" stop="20250528183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250528183000 +0000" stop="20250528193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250528193000 +0000" stop="20250528203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250528203000 +0000" stop="20250528210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Cooking With Queen</title>
+</programme>
+<programme start="20250528210000 +0000" stop="20250528213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250528213000 +0000" stop="20250528220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250528220000 +0000" stop="20250528223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Explorazi</title>
+</programme>
+<programme start="20250528223000 +0000" stop="20250528230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250528230000 +0000" stop="20250528233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250529000000 +0000" stop="20250529003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250529003000 +0000" stop="20250529010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529010000 +0000" stop="20250529013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529013000 +0000" stop="20250529020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kungfu Chef</title>
+</programme>
+<programme start="20250529020000 +0000" stop="20250529030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
+<programme start="20250529030000 +0000" stop="20250529033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250529033000 +0000" stop="20250529040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Siti Tour</title>
+</programme>
+<programme start="20250529040000 +0000" stop="20250529050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250529050000 +0000" stop="20250529060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250529060000 +0000" stop="20250529063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529063000 +0000" stop="20250529070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529070000 +0000" stop="20250529073000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250529073000 +0000" stop="20250529080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250529080000 +0000" stop="20250529083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250529083000 +0000" stop="20250529090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Siti Tour</title>
+</programme>
+<programme start="20250529090000 +0000" stop="20250529100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250529100000 +0000" stop="20250529103000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kitchen Beb Spesial Liburan</title>
+</programme>
+<programme start="20250529103000 +0000" stop="20250529110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Urban Street Food S2</title>
+</programme>
+<programme start="20250529110000 +0000" stop="20250529113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Spesial Liburan</title>
+</programme>
+<programme start="20250529113000 +0000" stop="20250529120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529120000 +0000" stop="20250529123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Demo Rudy S3</title>
+</programme>
+<programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Jejak KebesaranMu S2</title>
+</programme>
+<programme start="20250529130000 +0000" stop="20250529133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food Spesial Liburan</title>
+</programme>
+<programme start="20250529133000 +0000" stop="20250529140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip Spesial Liburan</title>
+</programme>
+<programme start="20250529140000 +0000" stop="20250529143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Siti Tour Spesial Liburan</title>
+</programme>
+<programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Cooking With Hot Mama</title>
+</programme>
+<programme start="20250529153000 +0000" stop="20250529160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250529160000 +0000" stop="20250529163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250529163000 +0000" stop="20250528170000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
+<programme start="20250528173000 +0000" stop="20250528180000 +0000" channel="Food Travel HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250528180000 +0000" stop="20250528183000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250528183000 +0000" stop="20250528193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250528193000 +0000" stop="20250528203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250528203000 +0000" stop="20250528210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Cooking With Queen</title>
+</programme>
+<programme start="20250528210000 +0000" stop="20250528213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250528213000 +0000" stop="20250528220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250528220000 +0000" stop="20250528223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Explorazi</title>
+</programme>
+<programme start="20250528223000 +0000" stop="20250528230000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250528230000 +0000" stop="20250528233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250529000000 +0000" stop="20250529003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250529003000 +0000" stop="20250529010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529010000 +0000" stop="20250529013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529013000 +0000" stop="20250529020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kungfu Chef</title>
+</programme>
+<programme start="20250529020000 +0000" stop="20250529030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
+<programme start="20250529030000 +0000" stop="20250529033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250529033000 +0000" stop="20250529040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Siti Tour</title>
+</programme>
+<programme start="20250529040000 +0000" stop="20250529050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250529050000 +0000" stop="20250529060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250529060000 +0000" stop="20250529063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529063000 +0000" stop="20250529070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529070000 +0000" stop="20250529073000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250529073000 +0000" stop="20250529080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250529080000 +0000" stop="20250529083000 +0000" channel="Food Travel HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250529083000 +0000" stop="20250529090000 +0000" channel="Food Travel HD.mncvision">
+    <title>Siti Tour</title>
+</programme>
+<programme start="20250529090000 +0000" stop="20250529100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250529100000 +0000" stop="20250529103000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kitchen Beb Spesial Liburan</title>
+</programme>
+<programme start="20250529103000 +0000" stop="20250529110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Urban Street Food S2</title>
+</programme>
+<programme start="20250529110000 +0000" stop="20250529113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Spesial Liburan</title>
+</programme>
+<programme start="20250529113000 +0000" stop="20250529120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250529120000 +0000" stop="20250529123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Demo Rudy S3</title>
+</programme>
+<programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Jejak KebesaranMu S2</title>
+</programme>
+<programme start="20250529130000 +0000" stop="20250529133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food Spesial Liburan</title>
+</programme>
+<programme start="20250529133000 +0000" stop="20250529140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip Spesial Liburan</title>
+</programme>
+<programme start="20250529140000 +0000" stop="20250529143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Siti Tour Spesial Liburan</title>
+</programme>
+<programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Cooking With Hot Mama</title>
+</programme>
+<programme start="20250529153000 +0000" stop="20250529160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wajah Indonesia</title>
+</programme>
+<programme start="20250529160000 +0000" stop="20250529163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250529163000 +0000" stop="20250528170000 +0000" channel="Food Travel HD.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
 <programme start="20250528170000 +0000" stop="20250528180000 +0000" channel="FOX News.mncvision">
     <title>America Reports</title>
 </programme>
