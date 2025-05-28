@@ -1,25 +1,25 @@
-    <programme start="20250527153048 +0000" stop="20250527162029 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527153142 +0000" stop="20250527162123 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S3 - EP 8</title>
     </programme>
-    <programme start="20250527162029 +0000" stop="20250527164530 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527162123 +0000" stop="20250527164624 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 73</title>
     </programme>
-    <programme start="20250527164530 +0000" stop="20250527173543 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527164624 +0000" stop="20250527173607 +0000" channel="Channel 5.mewatch">
         <title>The Good Karma Hospital S4 - EP 6</title>
     </programme>
-    <programme start="20250527173543 +0000" stop="20250527180027 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527173607 +0000" stop="20250527180051 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7983</title>
     </programme>
-    <programme start="20250527180027 +0000" stop="20250527190054 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527180051 +0000" stop="20250527190053 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 3</title>
     </programme>
-    <programme start="20250527190054 +0000" stop="20250527200042 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527190053 +0000" stop="20250527200041 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S8 - EP 3</title>
     </programme>
-    <programme start="20250527200042 +0000" stop="20250527203034 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527200041 +0000" stop="20250527203033 +0000" channel="Channel 5.mewatch">
         <title>Arts 21 - EP 400</title>
     </programme>
-    <programme start="20250527203034 +0000" stop="20250527210013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250527203033 +0000" stop="20250527210013 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 156</title>
     </programme>
     <programme start="20250527210013 +0000" stop="20250527220000 +0000" channel="Channel 5.mewatch">
@@ -112,22 +112,22 @@
     <programme start="20250527150141 +0000" stop="20250527160145 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 2</title>
     </programme>
-    <programme start="20250527160145 +0000" stop="20250527170139 +0000" channel="Channel 8.mewatch">
+    <programme start="20250527160148 +0000" stop="20250527170142 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 21</title>
     </programme>
-    <programme start="20250527170139 +0000" stop="20250527180136 +0000" channel="Channel 8.mewatch">
+    <programme start="20250527170142 +0000" stop="20250527180139 +0000" channel="Channel 8.mewatch">
         <title>Towkay, Take A Break - EP 5</title>
     </programme>
-    <programme start="20250527180136 +0000" stop="20250527190157 +0000" channel="Channel 8.mewatch">
+    <programme start="20250527180139 +0000" stop="20250527190200 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 15</title>
     </programme>
-    <programme start="20250527190157 +0000" stop="20250527200201 +0000" channel="Channel 8.mewatch">
+    <programme start="20250527190200 +0000" stop="20250527200203 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 16</title>
     </programme>
-    <programme start="20250527200201 +0000" stop="20250527210027 +0000" channel="Channel 8.mewatch">
+    <programme start="20250527200203 +0000" stop="20250527210030 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 5</title>
     </programme>
-    <programme start="20250527210027 +0000" stop="20250527220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250527210030 +0000" stop="20250527220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 6</title>
     </programme>
     <programme start="20250527220000 +0000" stop="20250527225951 +0000" channel="Channel 8.mewatch">
@@ -232,10 +232,10 @@
     <programme start="20250527152949 +0000" stop="20250527162952 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 5</title>
     </programme>
-    <programme start="20250527162952 +0000" stop="20250527172755 +0000" channel="Channel U.mewatch">
+    <programme start="20250527162954 +0000" stop="20250527172758 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 10</title>
     </programme>
-    <programme start="20250527172755 +0000" stop="20250527220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250527172758 +0000" stop="20250527220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 11</title>
     </programme>
     <programme start="20250527220000 +0000" stop="20250528025812 +0000" channel="Channel U.mewatch">
@@ -406,7 +406,7 @@
     <programme start="20250527153000 +0000" stop="20250527160052 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250527160052 +0000" stop="20250528010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250527160049 +0000" stop="20250528010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250528010000 +0000" stop="20250528012957 +0000" channel="Vasantham.mewatch">
@@ -481,25 +481,22 @@
     <programme start="20250528155855 +0000" stop="20250529010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250527160000 +0000" stop="20250527160325 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250527160325 +0000" stop="20250527170140 +0000" channel="CNA.mewatch">
+    <programme start="20250527160323 +0000" stop="20250527170208 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250527170140 +0000" stop="20250527180001 +0000" channel="CNA.mewatch">
+    <programme start="20250527170208 +0000" stop="20250527180000 +0000" channel="CNA.mewatch">
         <title>Addicted - EP 1</title>
     </programme>
-    <programme start="20250527180001 +0000" stop="20250527190000 +0000" channel="CNA.mewatch">
+    <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
     <programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="CNA.mewatch">
         <title>The Future Proofers - EP 1</title>
     </programme>
-    <programme start="20250527200000 +0000" stop="20250527210000 +0000" channel="CNA.mewatch">
+    <programme start="20250527200000 +0000" stop="20250527205958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250527210000 +0000" stop="20250527220000 +0000" channel="CNA.mewatch">
+    <programme start="20250527205958 +0000" stop="20250527220000 +0000" channel="CNA.mewatch">
         <title>When Titans Clash S8: The Trade War Is Not Over</title>
     </programme>
     <programme start="20250527220000 +0000" stop="20250527225959 +0000" channel="CNA.mewatch">
@@ -565,32 +562,53 @@
     <programme start="20250528160000 +0000" stop="20250529160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250527160000 +0000" stop="20250527210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250527160000 +0000" stop="20250527170000 +0000" channel="now-80s.mewatch">
+        <title>Eurythmics: Reminisce! - EP1</title>
     </programme>
-    <programme start="20250527210000 +0000" stop="20250527220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250527170000 +0000" stop="20250527180500 +0000" channel="now-80s.mewatch">
+        <title>Stuff For The Cool Kids! Top 40 - EP1</title>
     </programme>
-    <programme start="20250527220000 +0000" stop="20250527230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250527180500 +0000" stop="20250527190000 +0000" channel="now-80s.mewatch">
+        <title>Seven Inch Heroes! - EP1</title>
     </programme>
-    <programme start="20250527230000 +0000" stop="20250528000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250527190000 +0000" stop="20250527213500 +0000" channel="now-80s.mewatch">
+        <title>Timmy Mallett&#039;s Brilliant Bands! - EP1</title>
     </programme>
-    <programme start="20250528000000 +0000" stop="20250528040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250527213500 +0000" stop="20250527220000 +0000" channel="now-80s.mewatch">
+        <title>Seven Inch Heroes! - EP1</title>
     </programme>
-    <programme start="20250528040000 +0000" stop="20250528050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250527220000 +0000" stop="20250528000000 +0000" channel="now-80s.mewatch">
+        <title>Rick Astley&#039;s Hit Factory &amp; Beyond - EP1</title>
     </programme>
-    <programme start="20250528050000 +0000" stop="20250528100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250528000000 +0000" stop="20250528024500 +0000" channel="now-80s.mewatch">
+        <title>Colours Of The Rainbow...And More! - EP1</title>
     </programme>
-    <programme start="20250528100000 +0000" stop="20250528110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250528024500 +0000" stop="20250528030000 +0000" channel="now-80s.mewatch">
+        <title>How Rock Shook The World! - EP1</title>
     </programme>
-    <programme start="20250528110000 +0000" stop="20250528160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250528030000 +0000" stop="20250528051000 +0000" channel="now-80s.mewatch">
+        <title>25 Rock Guilty Pleasures! - EP1</title>
+    </programme>
+    <programme start="20250528051000 +0000" stop="20250528060000 +0000" channel="now-80s.mewatch">
+        <title>How Rock Shook The World! - EP1</title>
+    </programme>
+    <programme start="20250528060000 +0000" stop="20250528083000 +0000" channel="now-80s.mewatch">
+        <title>Carol Decker&#039;s 30 Rock Chicks! - EP1</title>
+    </programme>
+    <programme start="20250528083000 +0000" stop="20250528090000 +0000" channel="now-80s.mewatch">
+        <title>How Rock Shook The World! - EP1</title>
+    </programme>
+    <programme start="20250528090000 +0000" stop="20250528093000 +0000" channel="now-80s.mewatch">
+        <title>1980s Glastonbury Headliners! - EP1</title>
+    </programme>
+    <programme start="20250528093000 +0000" stop="20250528103000 +0000" channel="now-80s.mewatch">
+        <title>Stuff For The Cool Kids! Top 40 - EP1</title>
+    </programme>
+    <programme start="20250528103000 +0000" stop="20250528143500 +0000" channel="now-80s.mewatch">
+        <title>60 Summer Sizzlers! 1980-1989 - EP1</title>
+    </programme>
+    <programme start="20250528143500 +0000" stop="20250528160000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
     <programme start="20250528160000 +0000" stop="20250528210000 +0000" channel="now-80s.mewatch">
         <title>80s Rock Anthems Night!</title>
@@ -598,26 +616,50 @@
     <programme start="20250527100000 +0000" stop="20250527200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250527200000 +0000" stop="20250527210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250527160000 +0000" stop="20250527182500 +0000" channel="now-70s.mewatch">
+        <title>Cuddle On The Couch - The Love 40 - EP1</title>
     </programme>
-    <programme start="20250527210000 +0000" stop="20250527220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250527182500 +0000" stop="20250527192500 +0000" channel="now-70s.mewatch">
+        <title>Help Me Make It Through The Night! - EP1</title>
     </programme>
-    <programme start="20250527220000 +0000" stop="20250527230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250527192500 +0000" stop="20250527210000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates&#039; Rock Ballads! 1970-79 - EP1</title>
     </programme>
-    <programme start="20250527230000 +0000" stop="20250528000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250527210000 +0000" stop="20250528002500 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50 - EP1</title>
     </programme>
-    <programme start="20250528000000 +0000" stop="20250528090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250528002500 +0000" stop="20250528010000 +0000" channel="now-70s.mewatch">
+        <title>1970 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250528090000 +0000" stop="20250528100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250528010000 +0000" stop="20250528030000 +0000" channel="now-70s.mewatch">
+        <title>Blimey! Wasn&#039;t It Bigger? 1970-79 - EP1</title>
     </programme>
-    <programme start="20250528100000 +0000" stop="20250528200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250528030000 +0000" stop="20250528071500 +0000" channel="now-70s.mewatch">
+        <title>Timewarp Tv! 1977 - EP1</title>
+    </programme>
+    <programme start="20250528071500 +0000" stop="20250528080000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1977! - EP1</title>
+    </programme>
+    <programme start="20250528080000 +0000" stop="20250528090000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s Of 1977 - EP1</title>
+    </programme>
+    <programme start="20250528090000 +0000" stop="20250528093000 +0000" channel="now-70s.mewatch">
+        <title>Every Number 2 Of 1977 - EP1</title>
+    </programme>
+    <programme start="20250528093000 +0000" stop="20250528103000 +0000" channel="now-70s.mewatch">
+        <title>Cuddle On The Couch - The Love 40 - EP1</title>
+    </programme>
+    <programme start="20250528103000 +0000" stop="20250528110000 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot In 1977? - EP1</title>
+    </programme>
+    <programme start="20250528110000 +0000" stop="20250528120000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1977! - EP1</title>
+    </programme>
+    <programme start="20250528120000 +0000" stop="20250528145500 +0000" channel="now-70s.mewatch">
+        <title>The Now Yearbook 1977 - EP1</title>
+    </programme>
+    <programme start="20250528145500 +0000" stop="20250528200000 +0000" channel="now-70s.mewatch">
+        <title>All Day - It&#039;s 1977! - EP1</title>
     </programme>
     <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>

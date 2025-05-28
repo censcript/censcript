@@ -1177,147 +1177,9 @@
 <programme start="20250528130000 +0000" stop="20250528133000 +0000" channel="beIN Sports 2.mncvision">
     <title>Roland Garros 2025: Day 4 (L)</title>
 </programme>
-<programme start="20250527183000 +0000" stop="20250527203000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros 2025: Night 3 (L)</title>
-</programme>
-<programme start="20250527203000 +0000" stop="20250527220000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2025: Day 3 Match 1</title>
-</programme>
-<programme start="20250527220000 +0000" stop="20250528000000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2025: Day 3 Match 2</title>
-</programme>
-<programme start="20250528000000 +0000" stop="20250528013000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2025: Day 3 Match 3</title>
-</programme>
-<programme start="20250528013000 +0000" stop="20250528023000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros Highlights 2025</title>
-</programme>
-<programme start="20250528023000 +0000" stop="20250528043000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2025: Day 3 Match 2</title>
-</programme>
-<programme start="20250528043000 +0000" stop="20250528060000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2025: Day 3 Match 1</title>
-</programme>
-<programme start="20250528060000 +0000" stop="20250528080000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2025: Day 3 Match 4</title>
-</programme>
-<programme start="20250528080000 +0000" stop="20250528090000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros Highlights 2025</title>
-</programme>
-<programme start="20250528090000 +0000" stop="20250528130000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros 2025: Day 4 (L)</title>
-</programme>
-<programme start="20250528130000 +0000" stop="20250528133000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros 2025: Day 4 (L)</title>
-</programme>
-<programme start="20250527183000 +0000" stop="20250527190000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Sailing To The Games: LA 2025</title>
-</programme>
-<programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match LaLiga: ATH Vs BAR</title>
-</programme>
-<programme start="20250527203000 +0000" stop="20250527210000 +0000" channel="beIN Sports 3.mncvision">
-    <title>PSG TV Specials 2024/25, Ep 22</title>
-</programme>
-<programme start="20250527210000 +0000" stop="20250527213000 +0000" channel="beIN Sports 3.mncvision">
-    <title>This Is Paris 2024/25, Ep 37</title>
-</programme>
-<programme start="20250527213000 +0000" stop="20250527233000 +0000" channel="beIN Sports 3.mncvision">
-    <title>PSG TV 2024/25: PSG Vs SRM</title>
-</programme>
-<programme start="20250527233000 +0000" stop="20250528003000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250528003000 +0000" stop="20250528010000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Chelsea TV: Premier League</title>
-</programme>
-<programme start="20250528010000 +0000" stop="20250528013000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Chelsea TV Spc: Pat Nevin</title>
-</programme>
-<programme start="20250528013000 +0000" stop="20250528033000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Chelsea TV 2024/25: NFO Vs CHE</title>
-</programme>
-<programme start="20250528033000 +0000" stop="20250528043000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga Highlights 2024/25</title>
-</programme>
-<programme start="20250528043000 +0000" stop="20250528050000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV HL 2024/25: MUN Vs ATH</title>
-</programme>
-<programme start="20250528050000 +0000" stop="20250528070000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV 2024/25: MUN Vs AVL</title>
-</programme>
-<programme start="20250528070000 +0000" stop="20250528073000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Match Day: MUN Vs AVL</title>
-</programme>
-<programme start="20250528073000 +0000" stop="20250528092500 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 2024/25: ELC Vs MAL</title>
-</programme>
-<programme start="20250528092500 +0000" stop="20250528095500 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga World 2024/25, Ep 42</title>
-</programme>
-<programme start="20250528095500 +0000" stop="20250528140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Roland Garros 2025: Day 4 (L)</title>
-</programme>
-<programme start="20250528140000 +0000" stop="20250528143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Roland Garros 2025: Day 4 (L)</title>
-</programme>
-<programme start="20250527183000 +0000" stop="20250527190000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Sailing To The Games: LA 2025</title>
-</programme>
-<programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Mini Match LaLiga: ATH Vs BAR</title>
-</programme>
-<programme start="20250527203000 +0000" stop="20250527210000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>PSG TV Specials 2024/25, Ep 22</title>
-</programme>
-<programme start="20250527210000 +0000" stop="20250527213000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>This Is Paris 2024/25, Ep 37</title>
-</programme>
-<programme start="20250527213000 +0000" stop="20250527233000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>PSG TV 2024/25: PSG Vs SRM</title>
-</programme>
-<programme start="20250527233000 +0000" stop="20250528003000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250528003000 +0000" stop="20250528010000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Chelsea TV: Premier League</title>
-</programme>
-<programme start="20250528010000 +0000" stop="20250528013000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Chelsea TV Spc: Pat Nevin</title>
-</programme>
-<programme start="20250528013000 +0000" stop="20250528033000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Chelsea TV 2024/25: NFO Vs CHE</title>
-</programme>
-<programme start="20250528033000 +0000" stop="20250528043000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga Highlights 2024/25</title>
-</programme>
-<programme start="20250528043000 +0000" stop="20250528050000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV HL 2024/25: MUN Vs ATH</title>
-</programme>
-<programme start="20250528050000 +0000" stop="20250528070000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV 2024/25: MUN Vs AVL</title>
-</programme>
-<programme start="20250528070000 +0000" stop="20250528073000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Match Day: MUN Vs AVL</title>
-</programme>
-<programme start="20250528073000 +0000" stop="20250528092500 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga 2 2024/25: ELC Vs MAL</title>
-</programme>
-<programme start="20250528092500 +0000" stop="20250528095500 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga World 2024/25, Ep 42</title>
-</programme>
-<programme start="20250528095500 +0000" stop="20250528140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Roland Garros 2025: Day 4 (L)</title>
-</programme>
-<programme start="20250528140000 +0000" stop="20250528143000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Roland Garros 2025: Day 4 (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250527170000 +0000" stop="20250527190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
@@ -8797,45 +8659,7 @@
 <programme start="20250528165500 +0000" stop="20250527172500 +0000" channel="Studio Universal.mncvision">
     <title>The Bourne Supremacy</title>
 </programme>
-<programme start="20250527182000 +0000" stop="20250527201500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Junior</title>
-</programme>
-<programme start="20250527201500 +0000" stop="20250527214500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Good Boys</title>
-</programme>
-<programme start="20250527214500 +0000" stop="20250527230000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Balto</title>
-</programme>
-<programme start="20250527230000 +0000" stop="20250528005500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Identity Thief</title>
-</programme>
-<programme start="20250528005500 +0000" stop="20250528025500 +0000" channel="Studio Universal HD.mncvision">
-    <title>The Bourne Identity</title>
-</programme>
-<programme start="20250528025500 +0000" stop="20250528045000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Junior</title>
-</programme>
-<programme start="20250528045000 +0000" stop="20250528062500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Good Boys</title>
-</programme>
-<programme start="20250528062500 +0000" stop="20250528082500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Identity Thief</title>
-</programme>
-<programme start="20250528082500 +0000" stop="20250528101500 +0000" channel="Studio Universal HD.mncvision">
-    <title>The Bourne Supremacy</title>
-</programme>
-<programme start="20250528101500 +0000" stop="20250528122500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Downton Abbey</title>
-</programme>
-<programme start="20250528122500 +0000" stop="20250528151000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Scent Of A Woman</title>
-</programme>
-<programme start="20250528151000 +0000" stop="20250528165500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Pitch Perfect 3</title>
-</programme>
-<programme start="20250528165500 +0000" stop="20250527172500 +0000" channel="Studio Universal HD.mncvision">
-    <title>The Bourne Supremacy</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250527173400 +0000" stop="20250527193800 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
@@ -8875,45 +8699,7 @@
 <programme start="20250528164000 +0000" stop="20250527171000 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
-<programme start="20250527173400 +0000" stop="20250527193800 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250527193800 +0000" stop="20250527212400 +0000" channel="Superrix HD.mncvision">
-    <title>Poker Face</title>
-</programme>
-<programme start="20250527212400 +0000" stop="20250527233000 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250527233000 +0000" stop="20250528011400 +0000" channel="Superrix HD.mncvision">
-    <title>Shadow Of Fear</title>
-</programme>
-<programme start="20250528011400 +0000" stop="20250528031600 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250528031600 +0000" stop="20250528050200 +0000" channel="Superrix HD.mncvision">
-    <title>The System</title>
-</programme>
-<programme start="20250528050200 +0000" stop="20250528071300 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250528071300 +0000" stop="20250528085300 +0000" channel="Superrix HD.mncvision">
-    <title>Horizon Line</title>
-</programme>
-<programme start="20250528085300 +0000" stop="20250528110900 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250528110900 +0000" stop="20250528125300 +0000" channel="Superrix HD.mncvision">
-    <title>Apex</title>
-</programme>
-<programme start="20250528125300 +0000" stop="20250528145200 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250528145200 +0000" stop="20250528164000 +0000" channel="Superrix HD.mncvision">
-    <title>Mothers And Daughters</title>
-</programme>
-<programme start="20250528164000 +0000" stop="20250527171000 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>

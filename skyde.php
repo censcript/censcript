@@ -3064,16 +3064,16 @@
 <programme start="20250528173000 +0000" stop="20250528183000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
-<programme start="20250528183000 +0000" stop="20250528184500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights DAL@EDM, Western Conference Final, Spiel 4</title>
-</programme>
-<programme start="20250528184500 +0000" stop="20250528193000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250528183000 +0000" stop="20250528191500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2025 Rip Curl Pro Bells Beach</title>
 </programme>
-<programme start="20250528193000 +0000" stop="20250528200000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250528191500 +0000" stop="20250528194500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore - letzter Spieltag</title>
 </programme>
-<programme start="20250528200000 +0000" stop="20250528220000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250528194500 +0000" stop="20250528201500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20250528201500 +0000" stop="20250528221500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers - Dallas Stars, Western Conference Final, Spiel 4</title>
 </programme>
 <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="Sky Sport News HD.skyde">

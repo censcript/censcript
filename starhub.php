@@ -7879,20 +7879,26 @@
     <programme start="20250528053000 +0000" stop="20250528073000 +0000" channel="Premier Sports.starhub">
         <title>Champions Cup Northampton v Bordeaux</title>
     </programme>
-    <programme start="20250528073000 +0000" stop="20250528080000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250528073000 +0000" stop="20250528081000 +0000" channel="Premier Sports.starhub">
+        <title>NRL Try Time</title>
+    </programme>
+    <programme start="20250528081000 +0000" stop="20250528083000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Highlights Essendon v Richmond</title>
+    </programme>
+    <programme start="20250528083000 +0000" stop="20250528090000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2004 - Scotland v France</title>
     </programme>
-    <programme start="20250528080000 +0000" stop="20250528095000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Roosters v Sharks</title>
-    </programme>
-    <programme start="20250528095000 +0000" stop="20250528125000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250528090000 +0000" stop="20250528121000 +0000" channel="Premier Sports.starhub">
         <title>LIVE State Of Origin LIVE Queensland v New South Wales</title>
     </programme>
-    <programme start="20250528125000 +0000" stop="20250528131000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights Carlton v GWS Giants</title>
+    <programme start="20250528121000 +0000" stop="20250528123000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Highlights Geelong v Bulldogs</title>
     </programme>
-    <programme start="20250528131000 +0000" stop="20250528134000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250528123000 +0000" stop="20250528130000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2009 - Italy v Ireland</title>
+    </programme>
+    <programme start="20250528130000 +0000" stop="20250528134000 +0000" channel="Premier Sports.starhub">
+        <title>NRL Try Time</title>
     </programme>
     <programme start="20250528134000 +0000" stop="20250528152000 +0000" channel="Premier Sports.starhub">
         <title>Super League Warrington v Hull KR</title>
@@ -8284,13 +8290,13 @@
     <programme start="20250527210000 +0000" stop="20250527233000 +0000" channel="Asianet Movies.starhub">
         <title>Yugapurushan</title>
     </programme>
-    <programme start="20250527233000 +0000" stop="20250528013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250527233000 +0000" stop="20250528013500 +0000" channel="Asianet Movies.starhub">
         <title>Oridathoru Postman</title>
     </programme>
-    <programme start="20250528013000 +0000" stop="20250528043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250528013500 +0000" stop="20250528043500 +0000" channel="Asianet Movies.starhub">
         <title>Chandrolsavam</title>
     </programme>
-    <programme start="20250528043000 +0000" stop="20250528073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250528043500 +0000" stop="20250528073000 +0000" channel="Asianet Movies.starhub">
         <title>Kantara</title>
     </programme>
     <programme start="20250528073000 +0000" stop="20250528103000 +0000" channel="Asianet Movies.starhub">
