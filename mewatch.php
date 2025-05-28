@@ -970,10 +970,10 @@
     <programme start="20250527160000 +0000" stop="20250528020000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025: Round of 32</title>
     </programme>
-    <programme start="20250528020000 +0000" stop="20250528120000 +0000" channel="Live 5.mewatch">
+    <programme start="20250528020000 +0000" stop="20250528104000 +0000" channel="Live 5.mewatch">
         <title>KFF Singapore Badminton Open 2025: Round of 32</title>
     </programme>
-    <programme start="20250528120000 +0000" stop="20250528160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250528104000 +0000" stop="20250528160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
     </programme>
     <programme start="20250528160000 +0000" stop="20250529020000 +0000" channel="Live 5.mewatch">
