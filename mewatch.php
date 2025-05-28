@@ -205,29 +205,26 @@
     <programme start="20250528093022 +0000" stop="20250528103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 8</title>
     </programme>
-    <programme start="20250528103000 +0000" stop="20250528113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528103000 +0000" stop="20250528113001 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 42</title>
     </programme>
-    <programme start="20250528113000 +0000" stop="20250528120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528113001 +0000" stop="20250528120014 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 42</title>
     </programme>
-    <programme start="20250528120000 +0000" stop="20250528130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528120014 +0000" stop="20250528125940 +0000" channel="Channel 8.mewatch">
         <title>James&#039; Going Places V - EP 8</title>
     </programme>
-    <programme start="20250528130000 +0000" stop="20250528140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528125940 +0000" stop="20250528140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 5</title>
     </programme>
-    <programme start="20250528140000 +0000" stop="20250528143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528140000 +0000" stop="20250528143144 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250528143000 +0000" stop="20250528150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528143144 +0000" stop="20250528145955 +0000" channel="Channel 8.mewatch">
         <title>Journey to Homeland S2 - EP 8</title>
     </programme>
-    <programme start="20250528150000 +0000" stop="20250528160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250528145955 +0000" stop="20250528160013 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 3</title>
-    </programme>
-    <programme start="20250528160000 +0000" stop="20250528170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 22</title>
     </programme>
     <programme start="20250527152949 +0000" stop="20250527162952 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 5</title>
@@ -322,22 +319,22 @@
     <programme start="20250528095956 +0000" stop="20250528110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 17</title>
     </programme>
-    <programme start="20250528110000 +0000" stop="20250528120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250528110000 +0000" stop="20250528120012 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 12</title>
     </programme>
-    <programme start="20250528120000 +0000" stop="20250528130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250528120012 +0000" stop="20250528130006 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 13</title>
     </programme>
-    <programme start="20250528130000 +0000" stop="20250528140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250528130006 +0000" stop="20250528135933 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 3</title>
     </programme>
-    <programme start="20250528140000 +0000" stop="20250528150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250528135933 +0000" stop="20250528150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 15</title>
     </programme>
-    <programme start="20250528150000 +0000" stop="20250528153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250528150000 +0000" stop="20250528153005 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250528153000 +0000" stop="20250528163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250528153005 +0000" stop="20250528162956 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 3</title>
     </programme>
     <programme start="20250527155959 +0000" stop="20250528010000 +0000" channel="Suria.mewatch">
@@ -379,29 +376,26 @@
     <programme start="20250528102958 +0000" stop="20250528110000 +0000" channel="Suria.mewatch">
         <title>Indonesia Authentic Places - EP 12</title>
     </programme>
-    <programme start="20250528110000 +0000" stop="20250528120000 +0000" channel="Suria.mewatch">
+    <programme start="20250528110000 +0000" stop="20250528115958 +0000" channel="Suria.mewatch">
         <title>Chinta Wrong Direction - EP 18</title>
     </programme>
-    <programme start="20250528120000 +0000" stop="20250528123000 +0000" channel="Suria.mewatch">
+    <programme start="20250528115958 +0000" stop="20250528123008 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250528123000 +0000" stop="20250528130000 +0000" channel="Suria.mewatch">
+    <programme start="20250528123008 +0000" stop="20250528125949 +0000" channel="Suria.mewatch">
         <title>Hard to Heart S4 - EP 9</title>
     </programme>
-    <programme start="20250528130000 +0000" stop="20250528133000 +0000" channel="Suria.mewatch">
+    <programme start="20250528125949 +0000" stop="20250528132954 +0000" channel="Suria.mewatch">
         <title>Sedapur Bersama Zara Zya - EP 6</title>
     </programme>
-    <programme start="20250528133000 +0000" stop="20250528143000 +0000" channel="Suria.mewatch">
+    <programme start="20250528132954 +0000" stop="20250528143005 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 1</title>
     </programme>
-    <programme start="20250528143000 +0000" stop="20250528153000 +0000" channel="Suria.mewatch">
+    <programme start="20250528143005 +0000" stop="20250528153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 3</title>
     </programme>
-    <programme start="20250528153000 +0000" stop="20250528160000 +0000" channel="Suria.mewatch">
+    <programme start="20250528153000 +0000" stop="20250528160137 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250528160000 +0000" stop="20250529010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250527153000 +0000" stop="20250527160052 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
