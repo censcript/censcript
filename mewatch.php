@@ -451,28 +451,28 @@
     <programme start="20250528080002 +0000" stop="20250528110000 +0000" channel="Vasantham.mewatch">
         <title>Dumm Dumm Dumm</title>
     </programme>
-    <programme start="20250528110000 +0000" stop="20250528120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528110000 +0000" stop="20250528115959 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary Raja Kaiya Vecha - EP 8</title>
     </programme>
-    <programme start="20250528120000 +0000" stop="20250528123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528115959 +0000" stop="20250528123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 10</title>
     </programme>
-    <programme start="20250528123000 +0000" stop="20250528130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528123000 +0000" stop="20250528125957 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250528130000 +0000" stop="20250528133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528125957 +0000" stop="20250528132957 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 4</title>
     </programme>
-    <programme start="20250528133000 +0000" stop="20250528140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528132957 +0000" stop="20250528135957 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 6</title>
     </programme>
-    <programme start="20250528140000 +0000" stop="20250528143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528135957 +0000" stop="20250528142957 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 1</title>
     </programme>
-    <programme start="20250528143000 +0000" stop="20250528150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528142957 +0000" stop="20250528145956 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 2</title>
     </programme>
-    <programme start="20250528150000 +0000" stop="20250528153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250528145956 +0000" stop="20250528153000 +0000" channel="Vasantham.mewatch">
         <title>Thinna Thinna Aasai - EP 12</title>
     </programme>
     <programme start="20250528153000 +0000" stop="20250528155855 +0000" channel="Vasantham.mewatch">
@@ -529,26 +529,23 @@
     <programme start="20250528100001 +0000" stop="20250528110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250528110000 +0000" stop="20250528120000 +0000" channel="CNA.mewatch">
+    <programme start="20250528110000 +0000" stop="20250528120003 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 2</title>
     </programme>
-    <programme start="20250528120000 +0000" stop="20250528130000 +0000" channel="CNA.mewatch">
+    <programme start="20250528120003 +0000" stop="20250528130003 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250528130000 +0000" stop="20250528133000 +0000" channel="CNA.mewatch">
+    <programme start="20250528130003 +0000" stop="20250528133003 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 3</title>
     </programme>
-    <programme start="20250528133000 +0000" stop="20250528140000 +0000" channel="CNA.mewatch">
+    <programme start="20250528133003 +0000" stop="20250528140001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 10</title>
     </programme>
-    <programme start="20250528140000 +0000" stop="20250528150000 +0000" channel="CNA.mewatch">
+    <programme start="20250528140001 +0000" stop="20250528150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250528150000 +0000" stop="20250528160000 +0000" channel="CNA.mewatch">
+    <programme start="20250528150001 +0000" stop="20250528160001 +0000" channel="CNA.mewatch">
         <title>When Titans Clash S8: The Trade War Is Not Over</title>
-    </programme>
-    <programme start="20250528160000 +0000" stop="20250528160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250527160000 +0000" stop="20250528160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup</title>
