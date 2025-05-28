@@ -2833,16 +2833,16 @@
 <programme start="20250528214500 +0000" stop="20250528220500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: Highlights XXL: BET - CHE, Finale 2025 in Breslau (POL)</title>
 </programme>
-<programme start="20250527220000 +0000" stop="20250528000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250527220000 +0000" stop="20250528001000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - 1. FC Saarbrücken, Relegation, Rückspiel</title>
 </programme>
-<programme start="20250528000000 +0000" stop="20250528020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250528001000 +0000" stop="20250528021000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: SV Elversberg - 1. FC Heidenheim, Relegation, Rückspiel</title>
 </programme>
-<programme start="20250528020000 +0000" stop="20250528040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250528021000 +0000" stop="20250528041000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - 1. FC Saarbrücken, Relegation, Rückspiel</title>
 </programme>
-<programme start="20250528040000 +0000" stop="20250528050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250528041000 +0000" stop="20250528050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 34. Spieltag</title>
 </programme>
 <programme start="20250528050000 +0000" stop="20250528070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3298,14 +3298,11 @@
 <programme start="20250528213000 +0000" stop="20250529000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Samsonova - E. Rybakina (KAZ), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20250527220000 +0000" stop="20250527230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250527220000 +0000" stop="20250527231000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20250527230000 +0000" stop="20250527234500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250527231000 +0000" stop="20250528000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>World Surf League: Highlights 2025 Rip Curl Pro Bells Beach</title>
-</programme>
-<programme start="20250527234500 +0000" stop="20250528000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights CAR@FLA, Eastern Conference Final, Spiel 4</title>
 </programme>
 <programme start="20250528000000 +0000" stop="20250528030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers - Dallas Stars, Western Conference Final, Spiel 4</title>

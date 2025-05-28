@@ -1060,18 +1060,6 @@
     <programme start="20250528153000 +0000" stop="20250528160000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>News Talk (28/5/25)</title>
     </programme>
-    <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="Hub Premier 3.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250527160000 +0000" stop="20250527170000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
     </programme>
@@ -2991,18 +2979,6 @@
     </programme>
     <programme start="20250528153000 +0000" stop="20250528160000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
-    </programme>
-    <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="Hub Premier 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="Hub Premier 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="Hub Premier 6.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="Hub Premier 6.starhub">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250527160000 +0000" stop="20250527163000 +0000" channel="ANC.starhub">
         <title>The World Tonight</title>
@@ -5947,18 +5923,6 @@
     <programme start="20250528150000 +0000" stop="20250528171000 +0000" channel="HBO Hits HD.starhub">
         <title>Speed Racer</title>
     </programme>
-    <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="Hub Premier 4.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250527160000 +0000" stop="20250527170000 +0000" channel="CTI TV HD.starhub">
         <title>Anchor on Mission</title>
     </programme>
@@ -7216,30 +7180,6 @@
     <programme start="20250528085500 +0000" stop="20250528200000 +0000" channel="beIN Sports HD.starhub">
         <title>Roland Garros 2025 (3): Day 4 (Live)</title>
     </programme>
-    <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="Hub Premier 8.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="Hub Premier 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="Hub Premier 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="Hub Premier 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
-    <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="Hub Premier 5.starhub">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250527152000 +0000" stop="20250527161500 +0000" channel="TestChannel2.starhub">
         <title>Unchained Medley</title>
     </programme>
@@ -7751,7 +7691,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250528003000 +0000" stop="20250528010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Embryo Screening: Designing Life?</title>
     </programme>
     <programme start="20250528010000 +0000" stop="20250528013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7763,7 +7703,7 @@
         <title>Newsday</title>
     </programme>
     <programme start="20250528023000 +0000" stop="20250528030000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Full-time for Lineker at the BBC</title>
     </programme>
     <programme start="20250528030000 +0000" stop="20250528033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
