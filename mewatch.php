@@ -542,10 +542,10 @@
         <title>When Titans Clash S8: The Trade War Is Not Over</title>
     </programme>
     <programme start="20250527160000 +0000" stop="20250528160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup</title>
+        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup: BG Tampines Rovers vs Lion City Sailors</title>
     </programme>
     <programme start="20250528160000 +0000" stop="20250529160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup</title>
+        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup: BG Tampines Rovers vs Lion City Sailors</title>
     </programme>
     <programme start="20250527160000 +0000" stop="20250528160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
