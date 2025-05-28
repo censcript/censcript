@@ -1894,14 +1894,8 @@
 <programme start="20250528120000 +0000" stop="20250528123000 +0000" channel="Celebrities TV.mncvision">
     <title>Celebrity Top 10</title>
 </programme>
-<programme start="20250528123000 +0000" stop="20250528130000 +0000" channel="Celebrities TV.mncvision">
-    <title>Barista</title>
-</programme>
-<programme start="20250528130000 +0000" stop="20250528133000 +0000" channel="Celebrities TV.mncvision">
-    <title>Arjuna In Switzerland</title>
-</programme>
-<programme start="20250528133000 +0000" stop="20250528143000 +0000" channel="Celebrities TV.mncvision">
-    <title>Rumah Seleb With Sule</title>
+<programme start="20250528123000 +0000" stop="20250528143000 +0000" channel="Celebrities TV.mncvision">
+    <title>Indonesian Drama Series Awards</title>
 </programme>
 <programme start="20250528143000 +0000" stop="20250528160000 +0000" channel="Celebrities TV.mncvision">
     <title>Perang Dapur</title>
