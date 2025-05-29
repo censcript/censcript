@@ -647,10 +647,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529085500 +0000" stop="20250529090000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250529090000 +0000" stop="20250529091000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529090000 +0000" stop="20250529090500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250529091000 +0000" stop="20250529092000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529090500 +0000" stop="20250529092000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250529092000 +0000" stop="20250529093000 +0000" channel="Cartoonito.skyde">
@@ -665,10 +665,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529095500 +0000" stop="20250529100000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250529100000 +0000" stop="20250529101000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529100000 +0000" stop="20250529100500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250529101000 +0000" stop="20250529102000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529100500 +0000" stop="20250529102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250529102000 +0000" stop="20250529103000 +0000" channel="Cartoonito.skyde">
@@ -713,10 +713,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529124000 +0000" stop="20250529125500 +0000" channel="Cartoonito.skyde">
     <title>Sonias Sonntagsspaß</title>
 </programme>
-<programme start="20250529125500 +0000" stop="20250529130000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529125500 +0000" stop="20250529130500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250529130000 +0000" stop="20250529131000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529130500 +0000" stop="20250529131000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250529131000 +0000" stop="20250529131500 +0000" channel="Cartoonito.skyde">
@@ -731,13 +731,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529134000 +0000" stop="20250529140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250529140000 +0000" stop="20250529142800 +0000" channel="Cartoonito.skyde">
+<programme start="20250529140000 +0000" stop="20250529142500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250529142800 +0000" stop="20250529143200 +0000" channel="Cartoonito.skyde">
+<programme start="20250529142500 +0000" stop="20250529143000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250529143200 +0000" stop="20250529143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529143000 +0000" stop="20250529143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250529143500 +0000" stop="20250529144500 +0000" channel="Cartoonito.skyde">
@@ -779,16 +779,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529164500 +0000" stop="20250529170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20250529170000 +0000" stop="20250529172500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529170000 +0000" stop="20250529173000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250529172500 +0000" stop="20250529175500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529173000 +0000" stop="20250529175500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250529175500 +0000" stop="20250529180500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529175500 +0000" stop="20250529181000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250529180500 +0000" stop="20250529182500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529181000 +0000" stop="20250529182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250529182500 +0000" stop="20250529183500 +0000" channel="Cartoonito.skyde">
@@ -833,10 +833,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529203500 +0000" stop="20250529205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250529205000 +0000" stop="20250529210000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529205000 +0000" stop="20250529210500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250529210000 +0000" stop="20250529212000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529210500 +0000" stop="20250529212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20250529212000 +0000" stop="20250529213000 +0000" channel="Cartoonito.skyde">
@@ -845,10 +845,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529213000 +0000" stop="20250529214500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250529214500 +0000" stop="20250529215500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20250529215500 +0000" stop="20250529221500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529214500 +0000" stop="20250529220000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250528222000 +0000" stop="20250528225000 +0000" channel="Crime + Investigation.skyde">
@@ -3149,7 +3146,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529210000 +0000" stop="20250529230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250529000000 +0000" stop="20250529003000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Primetime Spezial - Trainer-Roulette: Wer übernimmt wen?</title>
+</programme>
+<programme start="20250529003000 +0000" stop="20250529010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250529010000 +0000" stop="20250529013000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
+</programme>
+<programme start="20250529013000 +0000" stop="20250529020000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250529020000 +0000" stop="20250529040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
 <programme start="20250529040000 +0000" stop="20250529090000 +0000" channel="Sky Sport News HD.skyde">
@@ -3176,10 +3185,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529160000 +0000" stop="20250529180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20250529180000 +0000" stop="20250529183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Fußball: Spielmacher - Der Fußball-Vodcast mit Sebastian Hellmann (Gast: Toni Kroos)</title>
-</programme>
-<programme start="20250529183000 +0000" stop="20250529190000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250529180000 +0000" stop="20250529190000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20250529190000 +0000" stop="20250529200000 +0000" channel="Sky Sport News HD.skyde">
@@ -3374,16 +3380,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529200000 +0000" stop="20250529220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - A. Eala (PHI), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250528223000 +0000" stop="20250528230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250528230000 +0000" stop="20250529000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-</programme>
-<programme start="20250529000000 +0000" stop="20250529030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250529000000 +0000" stop="20250529030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250529030000 +0000" stop="20250529040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250529030500 +0000" stop="20250529040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 1. Rennen in Hockenheim</title>
 </programme>
 <programme start="20250529040000 +0000" stop="20250529050500 +0000" channel="Sky Sport Top Event HD.skyde">
