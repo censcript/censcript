@@ -3380,10 +3380,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529200000 +0000" stop="20250529220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - A. Eala (PHI), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250529000000 +0000" stop="20250529030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250529000000 +0000" stop="20250529030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250529030000 +0000" stop="20250529040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250529030500 +0000" stop="20250529040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 1. Rennen in Hockenheim</title>
 </programme>
 <programme start="20250529040000 +0000" stop="20250529050500 +0000" channel="Sky Sport Top Event HD.skyde">
