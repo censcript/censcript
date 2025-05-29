@@ -244,7 +244,150 @@
 <programme start="20250530150000 +0000" stop="20250530153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250529170000 +0000" stop="20250529173000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250529173000 +0000" stop="20250529180000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250529180000 +0000" stop="20250529183000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250529183000 +0000" stop="20250529190000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250529190000 +0000" stop="20250529193000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 9</title>
+</programme>
+<programme start="20250529193000 +0000" stop="20250529200000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 10</title>
+</programme>
+<programme start="20250529200000 +0000" stop="20250529203000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250529210000 +0000" stop="20250529213000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250529213000 +0000" stop="20250529220000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250529220000 +0000" stop="20250529223000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250529223000 +0000" stop="20250529230000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250529230000 +0000" stop="20250529233000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250529233000 +0000" stop="20250530000000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250530000000 +0000" stop="20250530003000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 9</title>
+</programme>
+<programme start="20250530003000 +0000" stop="20250530010000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 10</title>
+</programme>
+<programme start="20250530010000 +0000" stop="20250530013000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250530013000 +0000" stop="20250530020000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250530020000 +0000" stop="20250530023000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250530023000 +0000" stop="20250530030000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250530030000 +0000" stop="20250530033000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250530033000 +0000" stop="20250530040000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250530040000 +0000" stop="20250530043000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 9</title>
+</programme>
+<programme start="20250530043000 +0000" stop="20250530050000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 10</title>
+</programme>
+<programme start="20250530050000 +0000" stop="20250530053000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250530053000 +0000" stop="20250530060000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250530060000 +0000" stop="20250530063000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250530063000 +0000" stop="20250530070000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250530070000 +0000" stop="20250530073000 +0000" channel="Animax.mncvision">
+    <title>Wind Breaker, Ep 13</title>
+</programme>
+<programme start="20250530073000 +0000" stop="20250530080000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250530080000 +0000" stop="20250530083000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 15</title>
+</programme>
+<programme start="20250530083000 +0000" stop="20250530090000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250530090000 +0000" stop="20250530093000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 18</title>
+</programme>
+<programme start="20250530093000 +0000" stop="20250530100000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250530100000 +0000" stop="20250530103000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 16</title>
+</programme>
+<programme start="20250530103000 +0000" stop="20250530110000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 17</title>
+</programme>
+<programme start="20250530110000 +0000" stop="20250530113000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250530113000 +0000" stop="20250530120000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 2</title>
+</programme>
+<programme start="20250530120000 +0000" stop="20250530123000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 1</title>
+</programme>
+<programme start="20250530123000 +0000" stop="20250530130000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 2</title>
+</programme>
+<programme start="20250530130000 +0000" stop="20250530133000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250530133000 +0000" stop="20250530140000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 2</title>
+</programme>
+<programme start="20250530140000 +0000" stop="20250530143000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 19</title>
+</programme>
+<programme start="20250530143000 +0000" stop="20250530150000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 20</title>
+</programme>
+<programme start="20250530150000 +0000" stop="20250530153000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 1</title>
+</programme>
+<programme start="20250530153000 +0000" stop="20250530160000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 2</title>
+</programme>
+<programme start="20250530160000 +0000" stop="20250530163000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 1</title>
+</programme>
+<programme start="20250530163000 +0000" stop="20250529170000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 2</title>
+</programme>
 <programme start="20250529173000 +0000" stop="20250529190000 +0000" channel="ANTV.mncvision">
     <title>Hantu Jeruk Purut</title>
 </programme>
@@ -284,8 +427,228 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250530153000 +0000" stop="20250530160000 +0000" channel="ANTV.mncvision">
     <title>Sinema Laga Klasik</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250529170000 +0000" stop="20250529173000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20250529173000 +0000" stop="20250529180000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame</title>
+</programme>
+<programme start="20250529180000 +0000" stop="20250529183000 +0000" channel="Arirang.mncvision">
+    <title>Home Explorers 2</title>
+</programme>
+<programme start="20250529183000 +0000" stop="20250529185000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20250529185000 +0000" stop="20250529190000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: Healing</title>
+</programme>
+<programme start="20250529190000 +0000" stop="20250529200000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20250529200000 +0000" stop="20250529203000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20250529203000 +0000" stop="20250529204500 +0000" channel="Arirang.mncvision">
+    <title>Arirang Land</title>
+</programme>
+<programme start="20250529204500 +0000" stop="20250529210000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature C</title>
+</programme>
+<programme start="20250529210000 +0000" stop="20250529213000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective</title>
+</programme>
+<programme start="20250529213000 +0000" stop="20250529214000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1Korea: K-Food</title>
+</programme>
+<programme start="20250529214000 +0000" stop="20250529215000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1Korea: K-Food</title>
+</programme>
+<programme start="20250529215000 +0000" stop="20250529220000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1Korea: K-Food</title>
+</programme>
+<programme start="20250529220000 +0000" stop="20250529223000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gyeonggi</title>
+</programme>
+<programme start="20250529223000 +0000" stop="20250529230000 +0000" channel="Arirang.mncvision">
+    <title>Extreme Job</title>
+</programme>
+<programme start="20250529230000 +0000" stop="20250529231000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Travel In Korea</title>
+</programme>
+<programme start="20250529231000 +0000" stop="20250529232000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20250529232000 +0000" stop="20250529233000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250529233000 +0000" stop="20250529235000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20250529235000 +0000" stop="20250530000000 +0000" channel="Arirang.mncvision">
+    <title>K-Biz 2025</title>
+</programme>
+<programme start="20250530000000 +0000" stop="20250530002000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20250530002000 +0000" stop="20250530003000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: Healing</title>
+</programme>
+<programme start="20250530003000 +0000" stop="20250530010000 +0000" channel="Arirang.mncvision">
+    <title>Danstargram 2</title>
+</programme>
+<programme start="20250530010000 +0000" stop="20250530013000 +0000" channel="Arirang.mncvision">
+    <title>New Day At Arirang</title>
+</programme>
+<programme start="20250530013000 +0000" stop="20250530020000 +0000" channel="Arirang.mncvision">
+    <title>News Generation (L)</title>
+</programme>
+<programme start="20250530020000 +0000" stop="20250530030000 +0000" channel="Arirang.mncvision">
+    <title>Culture Crunch (L)</title>
+</programme>
+<programme start="20250530030000 +0000" stop="20250530031000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators 2</title>
+</programme>
+<programme start="20250530031000 +0000" stop="20250530032000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators 2</title>
+</programme>
+<programme start="20250530032000 +0000" stop="20250530033000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators 2</title>
+</programme>
+<programme start="20250530033000 +0000" stop="20250530035000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20250530035000 +0000" stop="20250530040000 +0000" channel="Arirang.mncvision">
+    <title>K-Biz 2025</title>
+</programme>
+<programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop Gateway To Korea</title>
+</programme>
+<programme start="20250530050000 +0000" stop="20250530053000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave (L)</title>
+</programme>
+<programme start="20250530053000 +0000" stop="20250530060000 +0000" channel="Arirang.mncvision">
+    <title>News Generation</title>
+</programme>
+<programme start="20250530060000 +0000" stop="20250530063000 +0000" channel="Arirang.mncvision">
+    <title>Peace Insight</title>
+</programme>
+<programme start="20250530063000 +0000" stop="20250530065000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20250530065000 +0000" stop="20250530070000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20250530070000 +0000" stop="20250530072000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20250530072000 +0000" stop="20250530073000 +0000" channel="Arirang.mncvision">
+    <title>Heritage Walks, Little Friend</title>
+</programme>
+<programme start="20250530073000 +0000" stop="20250530075000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20250530075000 +0000" stop="20250530080000 +0000" channel="Arirang.mncvision">
+    <title>K-Biz 2025</title>
+</programme>
+<programme start="20250530080000 +0000" stop="20250530083000 +0000" channel="Arirang.mncvision">
+    <title>The Daily Report</title>
+</programme>
+<programme start="20250530083000 +0000" stop="20250530090000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective (L)</title>
+</programme>
+<programme start="20250530090000 +0000" stop="20250530100000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop Gateway To Korea</title>
+</programme>
+<programme start="20250530100000 +0000" stop="20250530103000 +0000" channel="Arirang.mncvision">
+    <title>Peace Insight</title>
+</programme>
+<programme start="20250530103000 +0000" stop="20250530110000 +0000" channel="Arirang.mncvision">
+    <title>Extreme Job</title>
+</programme>
+<programme start="20250530110000 +0000" stop="20250530113000 +0000" channel="Arirang.mncvision">
+    <title>NewsCenter</title>
+</programme>
+<programme start="20250530113000 +0000" stop="20250530120000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame</title>
+</programme>
+<programme start="20250530120000 +0000" stop="20250530123000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20250530123000 +0000" stop="20250530130000 +0000" channel="Arirang.mncvision">
+    <title>Taste Log</title>
+</programme>
+<programme start="20250529172500 +0000" stop="20250529182000 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 10</title>
+</programme>
+<programme start="20250529182000 +0000" stop="20250529191500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 11</title>
+</programme>
+<programme start="20250529191500 +0000" stop="20250529201000 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S1, Ep 7</title>
+</programme>
+<programme start="20250529201000 +0000" stop="20250529210500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 7</title>
+</programme>
+<programme start="20250529210500 +0000" stop="20250529220000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 17</title>
+</programme>
+<programme start="20250529220000 +0000" stop="20250529224500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 11</title>
+</programme>
+<programme start="20250529224500 +0000" stop="20250529233000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 7</title>
+</programme>
+<programme start="20250529233000 +0000" stop="20250530002000 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S1, Ep 7</title>
+</programme>
+<programme start="20250530002000 +0000" stop="20250530011500 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 18</title>
+</programme>
+<programme start="20250530011500 +0000" stop="20250530020500 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 10</title>
+</programme>
+<programme start="20250530020500 +0000" stop="20250530025500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 7</title>
+</programme>
+<programme start="20250530025500 +0000" stop="20250530035000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 3</title>
+</programme>
+<programme start="20250530035000 +0000" stop="20250530044500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S1, Ep 7</title>
+</programme>
+<programme start="20250530044500 +0000" stop="20250530053500 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 10</title>
+</programme>
+<programme start="20250530053500 +0000" stop="20250530063000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 18</title>
+</programme>
+<programme start="20250530063000 +0000" stop="20250530090000 +0000" channel="AXN.mncvision">
+    <title>Taiwan Professional Basketball</title>
+</programme>
+<programme start="20250530090000 +0000" stop="20250530092500 +0000" channel="AXN.mncvision">
+    <title>Whacked Out Sports S16, Ep 33</title>
+</programme>
+<programme start="20250530092500 +0000" stop="20250530101500 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 11</title>
+</programme>
+<programme start="20250530101500 +0000" stop="20250530110500 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S2, Ep 8</title>
+</programme>
+<programme start="20250530110500 +0000" stop="20250530115500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 12</title>
+</programme>
+<programme start="20250530115500 +0000" stop="20250530125000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 4</title>
+</programme>
+<programme start="20250530125000 +0000" stop="20250530134500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S1, Ep 8</title>
+</programme>
+<programme start="20250530134500 +0000" stop="20250530161000 +0000" channel="AXN.mncvision">
+    <title>Kraven The Hunter</title>
+</programme>
+<programme start="20250530161000 +0000" stop="20250530164000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 18</title>
+</programme>
 <programme start="20250529172500 +0000" stop="20250529182000 +0000" channel="AXN HD.mncvision">
     <title>Blue Bloods S14, Ep 10</title>
 </programme>
@@ -868,8 +1231,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250530130000 +0000" stop="20250530133000 +0000" channel="beIN Sports 2.mncvision">
     <title>Roland Garros 2025: Day 6 (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250529183000 +0000" stop="20250529203000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros 2025: Night 5 (L)</title>
+</programme>
+<programme start="20250529203000 +0000" stop="20250529220000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Match 1</title>
+</programme>
+<programme start="20250529220000 +0000" stop="20250530000000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Match 2</title>
+</programme>
+<programme start="20250530000000 +0000" stop="20250530013000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Match 3</title>
+</programme>
+<programme start="20250530013000 +0000" stop="20250530023000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros Highlights 2025</title>
+</programme>
+<programme start="20250530023000 +0000" stop="20250530043000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Match 2</title>
+</programme>
+<programme start="20250530043000 +0000" stop="20250530060000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Match 1</title>
+</programme>
+<programme start="20250530060000 +0000" stop="20250530080000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Match 4</title>
+</programme>
+<programme start="20250530080000 +0000" stop="20250530090000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros Highlights 2025</title>
+</programme>
+<programme start="20250530090000 +0000" stop="20250530130000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros 2025: Day 6 (L)</title>
+</programme>
+<programme start="20250530130000 +0000" stop="20250530133000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros 2025: Day 6 (L)</title>
+</programme>
+<programme start="20250529183000 +0000" stop="20250529193000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI World Cup Finals HL 2025</title>
+</programme>
+<programme start="20250529193000 +0000" stop="20250529200000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Talking Football 2024/25</title>
+</programme>
+<programme start="20250529200000 +0000" stop="20250529213000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Qatar</title>
+</programme>
+<programme start="20250529213000 +0000" stop="20250529220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2025: June</title>
+</programme>
+<programme start="20250529220000 +0000" stop="20250529223000 +0000" channel="beIN Sports 3.mncvision">
+    <title>World Sailing Show 2025: May</title>
+</programme>
+<programme start="20250529223000 +0000" stop="20250529230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match LaLiga: RMA Vs RSO</title>
+</programme>
+<programme start="20250529230000 +0000" stop="20250530005000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: ALA Vs OSA</title>
+</programme>
+<programme start="20250530005000 +0000" stop="20250530024000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: LEG Vs VLD</title>
+</programme>
+<programme start="20250530024000 +0000" stop="20250530043000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: VIL Vs SEV</title>
+</programme>
+<programme start="20250530043000 +0000" stop="20250530053000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250530053000 +0000" stop="20250530060000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UCL: INT Vs BAR</title>
+</programme>
+<programme start="20250530060000 +0000" stop="20250530063000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UCL: PSG Vs ARS</title>
+</programme>
+<programme start="20250530063000 +0000" stop="20250530073000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250530073000 +0000" stop="20250530092500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: RAY Vs MLL</title>
+</programme>
+<programme start="20250530092500 +0000" stop="20250530095500 +0000" channel="beIN Sports 3.mncvision">
+    <title>This Is Paris 2024/25, Ep 37</title>
+</programme>
+<programme start="20250530095500 +0000" stop="20250530140000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Roland Garros 2025: Day 6 (L)</title>
+</programme>
+<programme start="20250530140000 +0000" stop="20250530143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Roland Garros 2025: Day 6 (L)</title>
+</programme>
 <programme start="20250529183000 +0000" stop="20250529193000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>FEI World Cup Finals HL 2025</title>
 </programme>
@@ -5616,7 +6061,36 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250530163600 +0000" stop="20250529170600 +0000" channel="Moonbug.mncvision">
     <title>Blippi</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250529170000 +0000" stop="20250529200000 +0000" channel="MTV 90's.mncvision">
+    <title>YO MTV! 90s Rap &amp; R&#039;n&#039;B</title>
+</programme>
+<programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="MTV 90's.mncvision">
+    <title>Alternative Nation!</title>
+</programme>
+<programme start="20250529210000 +0000" stop="20250530000000 +0000" channel="MTV 90's.mncvision">
+    <title>Ultimate 90s Playlist!</title>
+</programme>
+<programme start="20250530000000 +0000" stop="20250530030000 +0000" channel="MTV 90's.mncvision">
+    <title>90s Mixtape!</title>
+</programme>
+<programme start="20250530030000 +0000" stop="20250530060000 +0000" channel="MTV 90's.mncvision">
+    <title>Ultimate 90s Playlist!</title>
+</programme>
+<programme start="20250530060000 +0000" stop="20250530070000 +0000" channel="MTV 90's.mncvision">
+    <title>Girl Power Hour!</title>
+</programme>
+<programme start="20250530070000 +0000" stop="20250530100000 +0000" channel="MTV 90's.mncvision">
+    <title>Saved By The 90s!</title>
+</programme>
+<programme start="20250530100000 +0000" stop="20250530130000 +0000" channel="MTV 90's.mncvision">
+    <title>YO MTV! 90s Rap &amp; R&#039;n&#039;B</title>
+</programme>
+<programme start="20250530130000 +0000" stop="20250530140000 +0000" channel="MTV 90's.mncvision">
+    <title>Alternative Nation!</title>
+</programme>
+<programme start="20250530140000 +0000" stop="20250530143000 +0000" channel="MTV 90's.mncvision">
+    <title>90s Mixtape!</title>
+</programme>
 <programme start="20250529170000 +0000" stop="20250529180000 +0000" channel="MTV LIVE.mncvision">
     <title>Rock.Alt.Indie</title>
 </programme>
