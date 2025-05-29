@@ -647,10 +647,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529085500 +0000" stop="20250529090000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250529090000 +0000" stop="20250529090500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529090000 +0000" stop="20250529091000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250529090500 +0000" stop="20250529092000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529091000 +0000" stop="20250529092000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250529092000 +0000" stop="20250529093000 +0000" channel="Cartoonito.skyde">
@@ -665,10 +665,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529095500 +0000" stop="20250529100000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250529100000 +0000" stop="20250529100500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529100000 +0000" stop="20250529101000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250529100500 +0000" stop="20250529102000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529101000 +0000" stop="20250529102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250529102000 +0000" stop="20250529103000 +0000" channel="Cartoonito.skyde">
@@ -713,10 +713,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529124000 +0000" stop="20250529125500 +0000" channel="Cartoonito.skyde">
     <title>Sonias Sonntagsspaß</title>
 </programme>
-<programme start="20250529125500 +0000" stop="20250529130500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529125500 +0000" stop="20250529130000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250529130500 +0000" stop="20250529131000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529130000 +0000" stop="20250529131000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250529131000 +0000" stop="20250529131500 +0000" channel="Cartoonito.skyde">
@@ -731,13 +731,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529134000 +0000" stop="20250529140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250529140000 +0000" stop="20250529142500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529140000 +0000" stop="20250529142800 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250529142500 +0000" stop="20250529143000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529142800 +0000" stop="20250529143200 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250529143000 +0000" stop="20250529143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529143200 +0000" stop="20250529143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250529143500 +0000" stop="20250529144500 +0000" channel="Cartoonito.skyde">
@@ -779,16 +779,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529164500 +0000" stop="20250529170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20250529170000 +0000" stop="20250529173000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529170000 +0000" stop="20250529172500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250529173000 +0000" stop="20250529175500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529172500 +0000" stop="20250529175500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250529175500 +0000" stop="20250529181000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529175500 +0000" stop="20250529180500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250529181000 +0000" stop="20250529182500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529180500 +0000" stop="20250529182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250529182500 +0000" stop="20250529183500 +0000" channel="Cartoonito.skyde">
@@ -833,10 +833,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529203500 +0000" stop="20250529205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250529205000 +0000" stop="20250529210500 +0000" channel="Cartoonito.skyde">
+<programme start="20250529205000 +0000" stop="20250529210000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250529210500 +0000" stop="20250529212000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529210000 +0000" stop="20250529212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20250529212000 +0000" stop="20250529213000 +0000" channel="Cartoonito.skyde">
@@ -845,7 +845,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529213000 +0000" stop="20250529214500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250529214500 +0000" stop="20250529220000 +0000" channel="Cartoonito.skyde">
+<programme start="20250529214500 +0000" stop="20250529215500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20250529215500 +0000" stop="20250529221500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250528222000 +0000" stop="20250528225000 +0000" channel="Crime + Investigation.skyde">
@@ -947,47 +950,41 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529060000 +0000" stop="20250529080000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A: SSC Neapel - Cagliari Calcio</title>
 </programme>
-<programme start="20250529080000 +0000" stop="20250529083000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250529080000 +0000" stop="20250529084000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250529083000 +0000" stop="20250529103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250529084000 +0000" stop="20250529103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Real Madrid - Real Sociedad San Sebastian</title>
 </programme>
-<programme start="20250529103000 +0000" stop="20250529110000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250529103000 +0000" stop="20250529111500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250529110000 +0000" stop="20250529125000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250529111500 +0000" stop="20250529131000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Women&#039;s Champions League: FC Arsenal - FC Barcelona</title>
 </programme>
-<programme start="20250529125000 +0000" stop="20250529130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250529130000 +0000" stop="20250529145000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A: AC Mailand - AC Monza</title>
-</programme>
-<programme start="20250529145000 +0000" stop="20250529152000 +0000" channel="DAZN 1 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-</programme>
-<programme start="20250529152000 +0000" stop="20250529155000 +0000" channel="DAZN 1 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-</programme>
-<programme start="20250529155000 +0000" stop="20250529160000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250529160000 +0000" stop="20250529175000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250529131000 +0000" stop="20250529150500 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Real Madrid - Real Sociedad San Sebastian</title>
 </programme>
+<programme start="20250529150500 +0000" stop="20250529170500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Primera División: Athletic Bilbao - FC Barcelona</title>
+</programme>
+<programme start="20250529170500 +0000" stop="20250529172500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250529172500 +0000" stop="20250529175000 +0000" channel="DAZN 1 HD.skyde">
+    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
+</programme>
 <programme start="20250529175000 +0000" stop="20250529182000 +0000" channel="DAZN 1 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
+    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
 </programme>
 <programme start="20250529182000 +0000" stop="20250529203000 +0000" channel="DAZN 1 HD.skyde">
     <title>Play-offs 1/2: Stade Reims - FC Metz</title>
 </programme>
-<programme start="20250529203000 +0000" stop="20250529211500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250529203000 +0000" stop="20250529212000 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
 </programme>
-<programme start="20250529211500 +0000" stop="20250529220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+<programme start="20250529212000 +0000" stop="20250529220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250528220000 +0000" stop="20250529060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -2864,11 +2861,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529202000 +0000" stop="20250529222000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SK Rapid, Europacup-Playoffs, Finale Hinspiel</title>
 </programme>
-<programme start="20250528234500 +0000" stop="20250529014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: SV Elversberg - 1. FC Heidenheim, Relegation, Rückspiel</title>
+<programme start="20250529000000 +0000" stop="20250529004000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: RB Leipzig - Saison 24-25</title>
 </programme>
-<programme start="20250529014500 +0000" stop="20250529024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 34. Spieltag</title>
+<programme start="20250529004000 +0000" stop="20250529024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: SV Elversberg - 1. FC Heidenheim, Relegation, Rückspiel</title>
 </programme>
 <programme start="20250529024500 +0000" stop="20250529044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - 1. FC Saarbrücken, Relegation, Rückspiel</title>
@@ -2892,7 +2889,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Eintracht Frankfurt - Saison 24-25</title>
 </programme>
 <programme start="20250529074000 +0000" stop="20250529094000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Eintracht Braunschweig - 1. FC Saarbrücken, Relegation, Rückspiel</title>
+    <title>Testspiel: FC Santos - RB Leipzig, Testspiel in Santos (Brasilien)</title>
 </programme>
 <programme start="20250529094000 +0000" stop="20250529102000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FSV Mainz 05 - Saison 24-25</title>
@@ -2916,7 +2913,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL: 1. FC Kaiserslautern - Saison 24-25</title>
 </programme>
 <programme start="20250529150000 +0000" stop="20250529170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: SV Elversberg - 1. FC Heidenheim, Relegation, Rückspiel</title>
+    <title>Testspiel: FC Santos - RB Leipzig, Testspiel in Santos (Brasilien)</title>
 </programme>
 <programme start="20250529170000 +0000" stop="20250529173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: TSG - FCB, 34. Spieltag</title>
@@ -2933,10 +2930,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529193000 +0000" stop="20250529201000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Fortuna Düsseldorf - Saison 24-25</title>
 </programme>
-<programme start="20250529201000 +0000" stop="20250529204000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Spielmacher - Der Fußball-Vodcast mit Sebastian Hellmann (Gast: Toni Kroos)</title>
+<programme start="20250529201000 +0000" stop="20250529204500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Thomas Müller - Die Bayern-Legende hautnah</title>
 </programme>
-<programme start="20250529204000 +0000" stop="20250529214000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250529204500 +0000" stop="20250529214000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
 <programme start="20250529214000 +0000" stop="20250529234000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3080,10 +3077,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-TOR (2. Runde)</title>
 </programme>
-<programme start="20250529000000 +0000" stop="20250529030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250529000000 +0000" stop="20250529030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250529030000 +0000" stop="20250529033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250529030500 +0000" stop="20250529033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore - letzter Spieltag</title>
 </programme>
 <programme start="20250529033000 +0000" stop="20250529041500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3446,7 +3443,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529154000 +0000" stop="20250529160000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250529160000 +0000" stop="20250530000000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250529160000 +0000" stop="20250530020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: US Women&#039;s Open, 1. Tag in Erin, WI (USA)</title>
 </programme>
 <programme start="20250528223000 +0000" stop="20250528231500 +0000" channel="SYFY HD.skyde">
