@@ -76,22 +76,19 @@
     <programme start="20250529014732 +0000" stop="20250529020000 +0000" channel="Channel 5.mewatch">
         <title>Hey Duggee: Sr3 - EP 14</title>
     </programme>
-    <programme start="20250529020000 +0000" stop="20250529090000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529020000 +0000" stop="20250529093028 +0000" channel="Channel 5.mewatch">
         <title>KFF Singapore Badminton Open 2025 - EP 11</title>
-    </programme>
-    <programme start="20250529090000 +0000" stop="20250529093028 +0000" channel="Channel 5.mewatch">
-        <title>Wheel Of Fortune S41 - EP 7984</title>
     </programme>
     <programme start="20250529093028 +0000" stop="20250529103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S8 - EP 5</title>
     </programme>
-    <programme start="20250529103000 +0000" stop="20250529104503 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529103000 +0000" stop="20250529104508 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 11</title>
     </programme>
-    <programme start="20250529104503 +0000" stop="20250529111507 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529104508 +0000" stop="20250529111512 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7985</title>
     </programme>
-    <programme start="20250529111507 +0000" stop="20250529123008 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529111512 +0000" stop="20250529123008 +0000" channel="Channel 5.mewatch">
         <title>Britain&#039;s Got Talent - Series 17 - EP 10</title>
     </programme>
     <programme start="20250529123008 +0000" stop="20250529130000 +0000" channel="Channel 5.mewatch">
