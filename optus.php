@@ -1,6 +1,3 @@
-    <programme start="20250529123000 +0000" stop="20250529130000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - The Big Interview: Curtis Jones - Champions Special</title>
-    </programme>
     <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Originals: Masterclass Special</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Portugal v Belgium</title>
+    </programme>
+    <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Italy v Spain</title>
     </programme>
