@@ -3020,51 +3020,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529210000 +0000" stop="20250529230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Spanien 2024</title>
 </programme>
-<programme start="20250528223000 +0000" stop="20250528230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Soudal Open</title>
-</programme>
-<programme start="20250528230000 +0000" stop="20250529000000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The G4D Open 2025</title>
-</programme>
-<programme start="20250529000000 +0000" stop="20250529020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Finale, Spiel 1</title>
-</programme>
-<programme start="20250529020000 +0000" stop="20250529040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Finale, Spiel 2</title>
-</programme>
-<programme start="20250529040000 +0000" stop="20250529050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: 13 Green Jackets</title>
-</programme>
-<programme start="20250529050000 +0000" stop="20250529060000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Spanish Inspiration</title>
-</programme>
-<programme start="20250529060000 +0000" stop="20250529070000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Look Back at 2019</title>
-</programme>
-<programme start="20250529070000 +0000" stop="20250529071500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Follow the Pros (3)</title>
-</programme>
-<programme start="20250529071500 +0000" stop="20250529083000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: Official Film 2023</title>
-</programme>
-<programme start="20250529083000 +0000" stop="20250529093000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Charles Schwab Challenge</title>
-</programme>
-<programme start="20250529093000 +0000" stop="20250529100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Cut</title>
-</programme>
-<programme start="20250529100000 +0000" stop="20250529103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Danish Golf Challenge</title>
-</programme>
-<programme start="20250529103000 +0000" stop="20250529153000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: Austrian Alpine Open presented by SalzburgerLand, 1. Tag in Salzburg (Österreich)</title>
-</programme>
-<programme start="20250529153000 +0000" stop="20250529180000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: The Memorial Tournament presented by Workday, 1. Tag (Early Coverage)</title>
-</programme>
-<programme start="20250529180000 +0000" stop="20250529220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: The Memorial Tournament presented by Workday, 1. Tag in Dublin, OH (USA)</title>
-</programme>
 <programme start="20250528221500 +0000" stop="20250528231500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
@@ -3074,10 +3029,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-TOR (2. Runde)</title>
 </programme>
-<programme start="20250529000000 +0000" stop="20250529030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250529000000 +0000" stop="20250529030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250529030000 +0000" stop="20250529033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250529030500 +0000" stop="20250529033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore - letzter Spieltag</title>
 </programme>
 <programme start="20250529033000 +0000" stop="20250529041500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3380,10 +3335,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250529200000 +0000" stop="20250529220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - A. Eala (PHI), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250529000000 +0000" stop="20250529030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250529000000 +0000" stop="20250529030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250529030000 +0000" stop="20250529040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250529030500 +0000" stop="20250529040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 1. Rennen in Hockenheim</title>
 </programme>
 <programme start="20250529040000 +0000" stop="20250529050500 +0000" channel="Sky Sport Top Event HD.skyde">
