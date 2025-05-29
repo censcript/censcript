@@ -2045,7 +2045,7 @@
         <title>The UECL Preview Show 2024/25 Real Betis vs Chelsea - Final (Live)</title>
     </programme>
     <programme start="20250528185500 +0000" stop="20250528210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2024/25 Real Betis vs Chelsea - Final (Live)</title>
+        <title>Real Betis vs Chelsea - Final (Live)</title>
     </programme>
     <programme start="20250528210000 +0000" stop="20250528220000 +0000" channel="beIN Sports 3.starhub">
         <title>The UECL Review Show 2024/25 Real Betis vs Chelsea - Final (Live)</title>
