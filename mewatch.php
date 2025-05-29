@@ -547,6 +547,12 @@
     <programme start="20250529155959 +0000" stop="20250529160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20250528160000 +0000" stop="20250529160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250529160000 +0000" stop="20250530040000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20250528160000 +0000" stop="20250529160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup: BG Tampines Rovers vs Lion City Sailors</title>
     </programme>
