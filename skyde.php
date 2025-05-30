@@ -3280,10 +3280,10 @@
 <programme start="20250529230000 +0000" stop="20250530000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
-<programme start="20250530000000 +0000" stop="20250530031000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250530000000 +0000" stop="20250530030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250530031000 +0000" stop="20250530040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250530030000 +0000" stop="20250530040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell &amp; 488 - 1. Rennen in Hockenheim</title>
 </programme>
 <programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="Sky Sport Top Event HD.skyde">

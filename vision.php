@@ -178,7 +178,7 @@
 <programme start="20250530043000 +0000" stop="20250530063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250530070000 +0000" stop="20250530083000 +0000" channel="GTV.vision">
+<programme start="20250530063000 +0000" stop="20250530080000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
 <programme start="20250530080000 +0000" stop="20250530093000 +0000" channel="GTV.vision">
@@ -235,7 +235,7 @@
 <programme start="20250531060000 +0000" stop="20250531063000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20250531070000 +0000" stop="20250531083000 +0000" channel="GTV.vision">
+<programme start="20250531063000 +0000" stop="20250531080000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
 <programme start="20250531080000 +0000" stop="20250531093000 +0000" channel="GTV.vision">
@@ -588,9 +588,6 @@
 </programme>
 <programme start="20250530054500 +0000" stop="20250530063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
-</programme>
-<programme start="20250530071500 +0000" stop="20250530081500 +0000" channel="Trans 7.vision">
-<title>Redaksi</title>
 </programme>
 <programme start="20250530081500 +0000" stop="20250530091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250530073000 +0000" stop="20250530081500 +0000" channel="BTV.vision">
 <title>Kids Universe: Boonie Bears</title>
+</programme>
+<programme start="20250530081500 +0000" stop="20250530091500 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
