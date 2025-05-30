@@ -118,22 +118,19 @@
     <programme start="20250529150138 +0000" stop="20250529160121 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 4</title>
     </programme>
-    <programme start="20250529160121 +0000" stop="20250529170054 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 23</title>
-    </programme>
-    <programme start="20250529170054 +0000" stop="20250529180044 +0000" channel="Channel 8.mewatch">
+    <programme start="20250529165939 +0000" stop="20250529175939 +0000" channel="Channel 8.mewatch">
         <title>The Star Athlete - EP 8</title>
     </programme>
-    <programme start="20250529180044 +0000" stop="20250529185958 +0000" channel="Channel 8.mewatch">
+    <programme start="20250529175939 +0000" stop="20250529185853 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 19</title>
     </programme>
-    <programme start="20250529185958 +0000" stop="20250529195949 +0000" channel="Channel 8.mewatch">
+    <programme start="20250529185853 +0000" stop="20250529195855 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 20</title>
     </programme>
-    <programme start="20250529195949 +0000" stop="20250529205958 +0000" channel="Channel 8.mewatch">
+    <programme start="20250529195855 +0000" stop="20250529205903 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 9</title>
     </programme>
-    <programme start="20250529205958 +0000" stop="20250529220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250529205903 +0000" stop="20250529220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 10</title>
     </programme>
     <programme start="20250529220000 +0000" stop="20250529230048 +0000" channel="Channel 8.mewatch">
@@ -238,10 +235,10 @@
     <programme start="20250529152956 +0000" stop="20250529162959 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 7</title>
     </programme>
-    <programme start="20250529162959 +0000" stop="20250529172743 +0000" channel="Channel U.mewatch">
+    <programme start="20250529163041 +0000" stop="20250529172826 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 14</title>
     </programme>
-    <programme start="20250529172743 +0000" stop="20250529220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250529172826 +0000" stop="20250529220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 15</title>
     </programme>
     <programme start="20250529220000 +0000" stop="20250530025814 +0000" channel="Channel U.mewatch">
@@ -352,9 +349,6 @@
     <programme start="20250529153000 +0000" stop="20250529160044 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250529160044 +0000" stop="20250530010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250530010000 +0000" stop="20250530013002 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 6</title>
     </programme>
@@ -412,10 +406,10 @@
     <programme start="20250530160000 +0000" stop="20250531010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250529160000 +0000" stop="20250529162652 +0000" channel="Vasantham.mewatch">
+    <programme start="20250529160000 +0000" stop="20250529162714 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250529162652 +0000" stop="20250530010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250529162714 +0000" stop="20250530010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250530010000 +0000" stop="20250530013005 +0000" channel="Vasantham.mewatch">
@@ -478,22 +472,25 @@
     <programme start="20250529155959 +0000" stop="20250529160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250529160314 +0000" stop="20250529170059 +0000" channel="CNA.mewatch">
+    <programme start="20250529160000 +0000" stop="20250529160316 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250529160316 +0000" stop="20250529170057 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250529170059 +0000" stop="20250529180002 +0000" channel="CNA.mewatch">
+    <programme start="20250529170057 +0000" stop="20250529180000 +0000" channel="CNA.mewatch">
         <title>Addicted: The Cannabis Trap</title>
     </programme>
-    <programme start="20250529180002 +0000" stop="20250529190002 +0000" channel="CNA.mewatch">
+    <programme start="20250529180000 +0000" stop="20250529185959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250529190002 +0000" stop="20250529200002 +0000" channel="CNA.mewatch">
+    <programme start="20250529185959 +0000" stop="20250529200000 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 2</title>
     </programme>
-    <programme start="20250529200002 +0000" stop="20250529210002 +0000" channel="CNA.mewatch">
+    <programme start="20250529200000 +0000" stop="20250529205959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250529210002 +0000" stop="20250529220000 +0000" channel="CNA.mewatch">
+    <programme start="20250529205959 +0000" stop="20250529220000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 6</title>
     </programme>
     <programme start="20250529220000 +0000" stop="20250529230000 +0000" channel="CNA.mewatch">
@@ -587,10 +584,10 @@
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
     </programme>
     <programme start="20250529160000 +0000" stop="20250530160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup: BG Tampines Rovers vs Lion City Sailors</title>
+        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup Final: BG Tampines Rovers vs Lion City Sailors</title>
     </programme>
     <programme start="20250530160000 +0000" stop="20250531093000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup: BG Tampines Rovers vs Lion City Sailors</title>
+        <title>No Programme available now. Next Broadcast on 31st May, Saturday 5.30pm. 2024/25 Singapore Cup Final: BG Tampines Rovers vs Lion City Sailors</title>
     </programme>
     <programme start="20250529160000 +0000" stop="20250530160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

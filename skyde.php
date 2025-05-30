@@ -2774,7 +2774,7 @@
     <title>Live F3: Qualifying - GP Spanien</title>
 </programme>
 <programme start="20250530134000 +0000" stop="20250530135500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Chasing the Dream: 5. Episode</title>
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250530135500 +0000" stop="20250530143500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F2: Qualifying - GP Spanien</title>
@@ -3371,7 +3371,7 @@
     <title>Live F3: Training - GP Spanien</title>
 </programme>
 <programme start="20250530085000 +0000" stop="20250530090500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: 5. Episode</title>
 </programme>
 <programme start="20250530090500 +0000" stop="20250530100000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Training - GP Spanien</title>
@@ -3389,7 +3389,7 @@
     <title>Live F3: Qualifying - GP Spanien</title>
 </programme>
 <programme start="20250530134000 +0000" stop="20250530135500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: 5. Episode</title>
 </programme>
 <programme start="20250530135500 +0000" stop="20250530143500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Qualifying - GP Spanien</title>
