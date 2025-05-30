@@ -110,7 +110,7 @@
 <title>Family 100</title>
 </programme>
 <programme start="20250530143000 +0000" stop="20250530160000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>DMD Panggung Rezeki (MNCTV)</title>
 </programme>
 <programme start="20250530160000 +0000" stop="20250530170000 +0000" channel="MNCTV.vision">
 <title>Roy &amp; Marten Sahabat...</title>
@@ -175,20 +175,17 @@
 <programme start="20250530013000 +0000" stop="20250530043000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250530043000 +0000" stop="20250530060000 +0000" channel="GTV.vision">
+<programme start="20250530043000 +0000" stop="20250530063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20250530060000 +0000" stop="20250530070000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
 </programme>
 <programme start="20250530070000 +0000" stop="20250530083000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250530083000 +0000" stop="20250530093000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
+<programme start="20250530080000 +0000" stop="20250530093000 +0000" channel="GTV.vision">
+<title>Snow Queen 5</title>
 </programme>
 <programme start="20250530093000 +0000" stop="20250530110000 +0000" channel="GTV.vision">
-<title>Snow Queen 5</title>
+<title>Nobita Dan Manusia Negeri Hijau</title>
 </programme>
 <programme start="20250530110000 +0000" stop="20250530113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -197,10 +194,10 @@
 <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250530133000 +0000" stop="20250530150000 +0000" channel="GTV.vision">
-<title>Crazy Beggar Suqier</title>
+<title>Alien Invasion</title>
 </programme>
 <programme start="20250530150000 +0000" stop="20250530170000 +0000" channel="GTV.vision">
-<title>Chocolate</title>
+<title>Hunting For Dragon</title>
 </programme>
 <programme start="20250530170000 +0000" stop="20250530180000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
@@ -235,17 +232,17 @@
 <programme start="20250531043000 +0000" stop="20250531060000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250531060000 +0000" stop="20250531070000 +0000" channel="GTV.vision">
+<programme start="20250531060000 +0000" stop="20250531063000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
 </programme>
 <programme start="20250531070000 +0000" stop="20250531083000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250531083000 +0000" stop="20250531093000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
+<programme start="20250531080000 +0000" stop="20250531093000 +0000" channel="GTV.vision">
+<title>Pororo Snow Fairy Village Adv.</title>
 </programme>
 <programme start="20250531093000 +0000" stop="20250531110000 +0000" channel="GTV.vision">
-<title>Pororo Snow Fairy Village Adv.</title>
+<title>Nobita Legenda Raja Matahari</title>
 </programme>
 <programme start="20250531110000 +0000" stop="20250531113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -591,9 +588,6 @@
 </programme>
 <programme start="20250530054500 +0000" stop="20250530063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
-</programme>
-<programme start="20250530063000 +0000" stop="20250530071500 +0000" channel="Trans 7.vision">
-<title>Para Pencari Cuan</title>
 </programme>
 <programme start="20250530071500 +0000" stop="20250530081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250530060000 +0000" stop="20250530064500 +0000" channel="BTV.vision">
 <title>Kids Universe: Motu Patlu</title>
+</programme>
+<programme start="20250530064500 +0000" stop="20250530073000 +0000" channel="BTV.vision">
+<title>Kids Universe: Didi &amp; Friends</title>
+</programme>
+<programme start="20250530073000 +0000" stop="20250530081500 +0000" channel="BTV.vision">
+<title>Kids Universe: Boonie Bears</title>
 </programme>

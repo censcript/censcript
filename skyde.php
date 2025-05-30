@@ -2974,10 +2974,10 @@
 <programme start="20250529230000 +0000" stop="20250530000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
-<programme start="20250530000000 +0000" stop="20250530031000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250530000000 +0000" stop="20250530030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
 </programme>
-<programme start="20250530031000 +0000" stop="20250530040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250530030000 +0000" stop="20250530040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Großbritannien</title>
 </programme>
 <programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="Sky Sport Mix HD.skyde">
