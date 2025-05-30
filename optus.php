@@ -1,6 +1,3 @@
-    <programme start="20250530200000 +0000" stop="20250530220000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - Review of the Season</title>
-    </programme>
     <programme start="20250531045500 +0000" stop="20250531071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Yokohama FM</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Italy v Spain</title>
+    </programme>
+    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
     </programme>
