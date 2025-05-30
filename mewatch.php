@@ -91,8 +91,11 @@
     <programme start="20250530033044 +0000" stop="20250530040000 +0000" channel="Channel 5.mewatch">
         <title>Agent Binky: Pets Of The Universe S2 - EP 1</title>
     </programme>
-    <programme start="20250530040000 +0000" stop="20250530130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250530040000 +0000" stop="20250530123000 +0000" channel="Channel 5.mewatch">
         <title>KFF Singapore Badminton Open 2025 - EP 29</title>
+    </programme>
+    <programme start="20250530123000 +0000" stop="20250530130000 +0000" channel="Channel 5.mewatch">
+        <title>Deal Or No Deal Australia S12 - EP 158</title>
     </programme>
     <programme start="20250530130000 +0000" stop="20250530133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>

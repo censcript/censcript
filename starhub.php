@@ -4616,7 +4616,7 @@
         <title>News</title>
     </programme>
     <programme start="20250530071600 +0000" stop="20250530073000 +0000" channel="France24.starhub">
-        <title>Tete a tete</title>
+        <title>Tete e tete</title>
     </programme>
     <programme start="20250530073000 +0000" stop="20250530074500 +0000" channel="France24.starhub">
         <title>News</title>

@@ -4030,8 +4030,11 @@
 <programme start="20250530133000 +0000" stop="20250530150000 +0000" channel="GTV.mncvision">
     <title>Alien Invasion</title>
 </programme>
-<programme start="20250530150000 +0000" stop="20250530153000 +0000" channel="GTV.mncvision">
+<programme start="20250530150000 +0000" stop="20250530163000 +0000" channel="GTV.mncvision">
     <title>Hunting For Dragon</title>
+</programme>
+<programme start="20250530163000 +0000" stop="20250529170000 +0000" channel="GTV.mncvision">
+    <title>Muland Legend</title>
 </programme>
 <programme start="20250529170000 +0000" stop="20250529180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4075,8 +4078,11 @@
 <programme start="20250530133000 +0000" stop="20250530150000 +0000" channel="GTV HD.mncvision">
     <title>Alien Invasion</title>
 </programme>
-<programme start="20250530150000 +0000" stop="20250530153000 +0000" channel="GTV HD.mncvision">
+<programme start="20250530150000 +0000" stop="20250530163000 +0000" channel="GTV HD.mncvision">
     <title>Hunting For Dragon</title>
+</programme>
+<programme start="20250530163000 +0000" stop="20250529170000 +0000" channel="GTV HD.mncvision">
+    <title>Muland Legend</title>
 </programme>
 <programme start="20250529180000 +0000" stop="20250529183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
@@ -8558,10 +8564,10 @@
     <title>A-League Men 2024/25</title>
 </programme>
 <programme start="20250529180000 +0000" stop="20250529203000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Hyundai Archery World Cup</title>
+    <title>Hyundai Archery World Cup</title>
 </programme>
 <programme start="20250529203000 +0000" stop="20250529230000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Hyundai Archery World Cup</title>
+    <title>Hyundai Archery World Cup</title>
 </programme>
 <programme start="20250529230000 +0000" stop="20250530000000 +0000" channel="SPOTV.mncvision">
     <title>RSL Recap M34 HL</title>
@@ -8657,10 +8663,10 @@
     <title>A-League Men 2024/25</title>
 </programme>
 <programme start="20250529180000 +0000" stop="20250529203000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 Hyundai Archery World Cup</title>
+    <title>Hyundai Archery World Cup</title>
 </programme>
 <programme start="20250529203000 +0000" stop="20250529230000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 Hyundai Archery World Cup</title>
+    <title>Hyundai Archery World Cup</title>
 </programme>
 <programme start="20250529230000 +0000" stop="20250530000000 +0000" channel="SPOTV HD.mncvision">
     <title>RSL Recap M34 HL</title>
