@@ -79,7 +79,7 @@
 <programme start="20250530010000 +0000" stop="20250530023000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20250530030000 +0000" stop="20250530040000 +0000" channel="MNCTV.vision">
+<programme start="20250530023000 +0000" stop="20250530030000 +0000" channel="MNCTV.vision">
 <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20250530030000 +0000" stop="20250530060000 +0000" channel="MNCTV.vision">
@@ -97,7 +97,7 @@
 <programme start="20250530103000 +0000" stop="20250530120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250530110000 +0000" stop="20250530113000 +0000" channel="MNCTV.vision">
+<programme start="20250530120000 +0000" stop="20250530122500 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
 <programme start="20250530122500 +0000" stop="20250530123000 +0000" channel="MNCTV.vision">

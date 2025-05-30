@@ -1,25 +1,25 @@
     <programme start="20250529152001 +0000" stop="20250529160507 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 2</title>
     </programme>
-    <programme start="20250529160510 +0000" stop="20250529163025 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529160507 +0000" stop="20250529163026 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 75</title>
     </programme>
-    <programme start="20250529163025 +0000" stop="20250529170006 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529163026 +0000" stop="20250529170007 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 2</title>
     </programme>
-    <programme start="20250529170006 +0000" stop="20250529175022 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529170007 +0000" stop="20250529175023 +0000" channel="Channel 5.mewatch">
         <title>Hoarders S12 - EP 8</title>
     </programme>
-    <programme start="20250529175022 +0000" stop="20250529181516 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529175023 +0000" stop="20250529181517 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7985</title>
     </programme>
-    <programme start="20250529181516 +0000" stop="20250529193001 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529181517 +0000" stop="20250529193002 +0000" channel="Channel 5.mewatch">
         <title>Britain&#039;s Got Talent - Series 17 - EP 10</title>
     </programme>
-    <programme start="20250529193001 +0000" stop="20250529203005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529193002 +0000" stop="20250529203006 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S8 - EP 5</title>
     </programme>
-    <programme start="20250529203005 +0000" stop="20250529210007 +0000" channel="Channel 5.mewatch">
+    <programme start="20250529203006 +0000" stop="20250529210007 +0000" channel="Channel 5.mewatch">
         <title>World&#039;s Wildest Weather S2 - EP 4</title>
     </programme>
     <programme start="20250529210007 +0000" stop="20250529220000 +0000" channel="Channel 5.mewatch">
@@ -91,28 +91,19 @@
     <programme start="20250530033044 +0000" stop="20250530040000 +0000" channel="Channel 5.mewatch">
         <title>Agent Binky: Pets Of The Universe S2 - EP 1</title>
     </programme>
-    <programme start="20250530040000 +0000" stop="20250530090000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250530040000 +0000" stop="20250530110000 +0000" channel="Channel 5.mewatch">
         <title>KFF Singapore Badminton Open 2025 - EP 29</title>
     </programme>
-    <programme start="20250530090000 +0000" stop="20250530093004 +0000" channel="Channel 5.mewatch">
-        <title>Wheel Of Fortune S41 - EP 7985</title>
-    </programme>
-    <programme start="20250530093004 +0000" stop="20250530103000 +0000" channel="Channel 5.mewatch">
-        <title>Celebrity Catch Phrase S8 - EP 6</title>
-    </programme>
-    <programme start="20250530103000 +0000" stop="20250530110011 +0000" channel="Channel 5.mewatch">
-        <title>Deal Or No Deal Australia S12 - EP 158</title>
-    </programme>
-    <programme start="20250530110011 +0000" stop="20250530130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250530110000 +0000" stop="20250530130000 +0000" channel="Channel 5.mewatch">
         <title>Rumble</title>
     </programme>
     <programme start="20250530130000 +0000" stop="20250530133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250530133000 +0000" stop="20250530140005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250530133000 +0000" stop="20250530140000 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 3</title>
     </programme>
-    <programme start="20250530140005 +0000" stop="20250530163005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250530140000 +0000" stop="20250530163000 +0000" channel="Channel 5.mewatch">
         <title>The King&#039;s Man</title>
     </programme>
     <programme start="20250529150138 +0000" stop="20250529160121 +0000" channel="Channel 8.mewatch">
