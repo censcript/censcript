@@ -499,6 +499,9 @@
 <programme start="20250530090000 +0000" stop="20250530093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
+<programme start="20250530093000 +0000" stop="20250530103000 +0000" channel="Trans TV.vision">
+<title>Dream Box Indonesia</title>
+</programme>
 <programme start="20250530103000 +0000" stop="20250530114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -585,6 +588,9 @@
 </programme>
 <programme start="20250530091500 +0000" stop="20250530101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
+</programme>
+<programme start="20250530101500 +0000" stop="20250530110000 +0000" channel="Trans 7.vision">
+<title>Xpose Uncensored</title>
 </programme>
 <programme start="20250530110000 +0000" stop="20250530120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250530100000 +0000" stop="20250530110000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
-</programme>
-<programme start="20250530110000 +0000" stop="20250530120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20250530120000 +0000" stop="20250530130000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
 </programme>

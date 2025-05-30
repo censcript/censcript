@@ -3986,7 +3986,7 @@
         <title>Drama Serial &quot;Anpan&quot; Eps. 44 (R)</title>
     </programme>
     <programme start="20250529184500 +0000" stop="20250529193000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Warawanai Sugaku--a Comedian Explains Advanced Math with No Laughs Special Editi</title>
+        <title>Warawanai Sugaku-a Comedian Explains Advanced Math with No Laughs Special Editio</title>
     </programme>
     <programme start="20250529193000 +0000" stop="20250529195800 +0000" channel="NHK World Premium HD.starhub">
         <title>Where We Call Home (B)</title>

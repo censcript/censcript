@@ -967,10 +967,10 @@
     <programme start="20250529160000 +0000" stop="20250530040000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 30th May, Friday 12pm. KFF Singapore Badminton Open 2025: Quarter-finals</title>
     </programme>
-    <programme start="20250530040000 +0000" stop="20250530120000 +0000" channel="Live 6.mewatch">
+    <programme start="20250530040000 +0000" stop="20250530123000 +0000" channel="Live 6.mewatch">
         <title>KFF Singapore Badminton Open 2025: Quarter-finals</title>
     </programme>
-    <programme start="20250530120000 +0000" stop="20250530160000 +0000" channel="Live 6.mewatch">
+    <programme start="20250530123000 +0000" stop="20250530160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250530160000 +0000" stop="20250531160000 +0000" channel="Live 6.mewatch">
