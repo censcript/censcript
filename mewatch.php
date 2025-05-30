@@ -991,10 +991,10 @@
     <programme start="20250530160000 +0000" stop="20250531160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250529160000 +0000" stop="20250530120000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 30th May, Friday 8pm. Manchester United 2025 Friendlies: Manchester United vs Hong Kong, China</title>
+    <programme start="20250529160000 +0000" stop="20250530115000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 30th May, Friday 07.50pm. Manchester United 2025 Friendlies: Manchester United vs Hong Kong, China</title>
     </programme>
-    <programme start="20250530120000 +0000" stop="20250530140000 +0000" channel="Live 7.mewatch">
+    <programme start="20250530115000 +0000" stop="20250530140000 +0000" channel="Live 7.mewatch">
         <title>Manchester United vs Hong Kong, China</title>
     </programme>
     <programme start="20250530140000 +0000" stop="20250530160000 +0000" channel="Live 7.mewatch">

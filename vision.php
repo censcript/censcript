@@ -1039,62 +1039,65 @@
 <programme start="20250530163000 +0000" stop="20250530170000 +0000" channel="Kompas TV.vision">
 <title>Kilas Kompas</title>
 </programme>
-<programme start="20250530170000 +0000" stop="20250530180000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250530180000 +0000" stop="20250530183000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250530170000 +0000" stop="20250530183000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
 </programme>
 <programme start="20250530183000 +0000" stop="20250530190000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berkas Kompas</title>
 </programme>
 <programme start="20250530190000 +0000" stop="20250530200000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berita Utama</title>
 </programme>
-<programme start="20250530200000 +0000" stop="20250530203000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250530203000 +0000" stop="20250530210000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250530200000 +0000" stop="20250530210000 +0000" channel="Kompas TV.vision">
+<title>Kompas Malam</title>
 </programme>
 <programme start="20250530210000 +0000" stop="20250530213000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kalam Hati</title>
 </programme>
 <programme start="20250530213000 +0000" stop="20250531000000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Pagi Akhir Pekan</title>
 </programme>
-<programme start="20250531000000 +0000" stop="20250531023000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250531000000 +0000" stop="20250531013000 +0000" channel="Kompas TV.vision">
+<title>Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20250531013000 +0000" stop="20250531020000 +0000" channel="Kompas TV.vision">
+<title>Just For Laughs Gags</title>
+</programme>
+<programme start="20250531020000 +0000" stop="20250531023000 +0000" channel="Kompas TV.vision">
+<title>Jalan-Jalan</title>
 </programme>
 <programme start="20250531023000 +0000" stop="20250531030000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Pop News</title>
 </programme>
 <programme start="20250531030000 +0000" stop="20250531033000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Sepekan</title>
 </programme>
 <programme start="20250531033000 +0000" stop="20250531040000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Cerita Rasa</title>
 </programme>
-<programme start="20250531040000 +0000" stop="20250531060000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250531040000 +0000" stop="20250531053000 +0000" channel="Kompas TV.vision">
+<title>Kompas Siang</title>
+</programme>
+<programme start="20250531053000 +0000" stop="20250531060000 +0000" channel="Kompas TV.vision">
+<title>News Or Hoax</title>
 </programme>
 <programme start="20250531060000 +0000" stop="20250531070000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Dipo Investigasi</title>
 </programme>
 <programme start="20250531070000 +0000" stop="20250531080000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berita Utama</title>
 </programme>
-<programme start="20250531080000 +0000" stop="20250531083000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250531080000 +0000" stop="20250531090000 +0000" channel="Kompas TV.vision">
+<title>Cerita Militer</title>
 </programme>
-<programme start="20250531083000 +0000" stop="20250531090000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250531090000 +0000" stop="20250531110000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
 </programme>
-<programme start="20250531090000 +0000" stop="20250531103000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250531110000 +0000" stop="20250531113000 +0000" channel="Kompas TV.vision">
+<title>Gelar Perkara</title>
 </programme>
-<programme start="20250531103000 +0000" stop="20250531123000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250531113000 +0000" stop="20250531120000 +0000" channel="Kompas TV.vision">
+<title>Presisi Melayani</title>
 </programme>
 <programme start="20250530000000 +0000" stop="20250530000500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
-</programme>
-<programme start="20250530050000 +0000" stop="20250530060000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
 </programme>
