@@ -376,9 +376,6 @@
     <programme start="20250531153000 +0000" stop="20250531160139 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250531160000 +0000" stop="20250601010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250530135955 +0000" stop="20250530170000 +0000" channel="Vasantham.mewatch">
         <title>Japan</title>
     </programme>
