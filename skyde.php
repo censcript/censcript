@@ -2758,7 +2758,7 @@
 <programme start="20250601144500 +0000" stop="20250601153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Spanien</title>
 </programme>
-<programme start="20250601153000 +0000" stop="20250601160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250601153000 +0000" stop="20250601163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Spanien</title>
 </programme>
 <programme start="20250531222000 +0000" stop="20250531223500 +0000" channel="Sky Sport Bundesliga HD.skyde">
