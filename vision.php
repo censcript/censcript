@@ -34,6 +34,45 @@
 <programme start="20250531160000 +0000" stop="20250531183000 +0000" channel="RCTI.vision">
 <title>Miss World 2025</title>
 </programme>
+<programme start="20250531183000 +0000" stop="20250531190000 +0000" channel="RCTI.vision">
+<title>Bukan Cinderella Biasa</title>
+</programme>
+<programme start="20250531190000 +0000" stop="20250531200000 +0000" channel="RCTI.vision">
+<title>Bukan Cinderella Biasa</title>
+</programme>
+<programme start="20250531200000 +0000" stop="20250531203000 +0000" channel="RCTI.vision">
+<title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20250531203000 +0000" stop="20250531213000 +0000" channel="RCTI.vision">
+<title>Paket Untuk Mengenang...</title>
+</programme>
+<programme start="20250531213000 +0000" stop="20250531231500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S6</title>
+</programme>
+<programme start="20250531231500 +0000" stop="20250601003000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
+</programme>
+<programme start="20250601003000 +0000" stop="20250601010000 +0000" channel="RCTI.vision">
+<title>Pacar Kontrakan</title>
+</programme>
+<programme start="20250601010000 +0000" stop="20250601013000 +0000" channel="RCTI.vision">
+<title>Kiko S4</title>
+</programme>
+<programme start="20250601013000 +0000" stop="20250601023000 +0000" channel="RCTI.vision">
+<title>Doraemon (RCTI)</title>
+</programme>
+<programme start="20250601023000 +0000" stop="20250601041500 +0000" channel="RCTI.vision">
+<title>Dahsyatnya Weekend (RCTI)</title>
+</programme>
+<programme start="20250601041500 +0000" stop="20250601100000 +0000" channel="RCTI.vision">
+<title>Penumpasan Pengkhianatan...</title>
+</programme>
+<programme start="20250601100000 +0000" stop="20250601111500 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250601111500 +0000" stop="20250601121500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun X</title>
+</programme>
 <programme start="20250531000000 +0000" stop="20250531010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
@@ -100,7 +139,7 @@
 <programme start="20250601003000 +0000" stop="20250601040000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250527010000 +0000" stop="20250527023000 +0000" channel="MNCTV.vision">
+<programme start="20250601040000 +0000" stop="20250601060000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20250601060000 +0000" stop="20250601080000 +0000" channel="MNCTV.vision">
@@ -450,30 +489,6 @@
 </programme>
 <programme start="20250531003000 +0000" stop="20250531013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250531100000 +0000" stop="20250531110000 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
-</programme>
-<programme start="20250531110000 +0000" stop="20250531120000 +0000" channel="Trans 7.vision">
-<title>On The Spot</title>
-</programme>
-<programme start="20250531120000 +0000" stop="20250531123000 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
-</programme>
-<programme start="20250531123000 +0000" stop="20250531131500 +0000" channel="Trans 7.vision">
-<title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20250531131500 +0000" stop="20250531143000 +0000" channel="Trans 7.vision">
-<title>Arisan</title>
-</programme>
-<programme start="20250531143000 +0000" stop="20250531154500 +0000" channel="Trans 7.vision">
-<title>BTS</title>
-</programme>
-<programme start="20250531154500 +0000" stop="20250531163000 +0000" channel="Trans 7.vision">
-<title>The Police</title>
-</programme>
-<programme start="20250531163000 +0000" stop="20250531181500 +0000" channel="Trans 7.vision">
-<title>Surga Yang Tak Dirindukan</title>
 </programme>
 <programme start="20250530230000 +0000" stop="20250531003000 +0000" channel="ANTV.vision">
 <title>Balada Cinta Angling Dharma</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20250531140000 +0000" stop="20250531143000 +0000" channel="Bandung TV.vision">
 <title>Bandung TV</title>
-</programme>
-<programme start="20250531143000 +0000" stop="20250531150000 +0000" channel="Bandung TV.vision">
-<title>Bandung TV</title>
-</programme>
-<programme start="20250531150000 +0000" stop="20250531160000 +0000" channel="Bandung TV.vision">
-<title>Bandung TV</title>
-</programme>
-<programme start="20250531160000 +0000" stop="20250531165959 +0000" channel="Bandung TV.vision">
-<title>Bandung TV</title>
-</programme>
-<programme start="20250531000000 +0000" stop="20250531010000 +0000" channel="TV 9.vision">
-<title>Shollu Alan Nabi Putri</title>
-</programme>
-<programme start="20250531010000 +0000" stop="20250531020000 +0000" channel="TV 9.vision">
-<title>Kiswah Female: Bunyai Afif</title>
 </programme>
