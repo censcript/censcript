@@ -2734,7 +2734,7 @@
 <programme start="20250531133000 +0000" stop="20250531153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20250531153000 +0000" stop="20250531163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250531153000 +0000" stop="20250531160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Spanien</title>
 </programme>
 <programme start="20250530222000 +0000" stop="20250530232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
