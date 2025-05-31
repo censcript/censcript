@@ -2645,42 +2645,45 @@
     <title>Die UEFA CL am Dienstag: Highlights XXL: INT - BAR, Halbfinale, Rückspiel</title>
 </programme>
 <programme start="20250531044500 +0000" stop="20250531051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Wr. Neustadt - Sturm (2014/2015)</title>
+</programme>
+<programme start="20250531051500 +0000" stop="20250531054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250531051500 +0000" stop="20250531061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531054500 +0000" stop="20250531064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20250531061500 +0000" stop="20250531081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531064500 +0000" stop="20250531084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Arsenal - Paris Saint-Germain, Halbfinale, Hinspiel</title>
 </programme>
-<programme start="20250531081500 +0000" stop="20250531101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531084500 +0000" stop="20250531104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Inter Mailand - FC Barcelona, Halbfinale, Rückspiel</title>
 </programme>
-<programme start="20250531101500 +0000" stop="20250531104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531104500 +0000" stop="20250531111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250531104500 +0000" stop="20250531111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531111500 +0000" stop="20250531114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 1. Spieltag</title>
 </programme>
-<programme start="20250531111500 +0000" stop="20250531114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531114500 +0000" stop="20250531121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20250531114500 +0000" stop="20250531121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531121500 +0000" stop="20250531124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20250531121500 +0000" stop="20250531124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531124500 +0000" stop="20250531131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 4. Spieltag</title>
 </programme>
-<programme start="20250531124500 +0000" stop="20250531131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531131500 +0000" stop="20250531134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20250531131500 +0000" stop="20250531134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531134500 +0000" stop="20250531141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20250531134500 +0000" stop="20250531141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531141500 +0000" stop="20250531144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 7. Spieltag</title>
 </programme>
-<programme start="20250531141500 +0000" stop="20250531151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531144500 +0000" stop="20250531151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250531151500 +0000" stop="20250531153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2734,7 +2737,7 @@
 <programme start="20250531133000 +0000" stop="20250531153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20250531153000 +0000" stop="20250531163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250531153000 +0000" stop="20250531160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Spanien</title>
 </programme>
 <programme start="20250530222000 +0000" stop="20250530232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2857,7 +2860,7 @@
 <programme start="20250531203000 +0000" stop="20250531220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20250530221000 +0000" stop="20250531010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250530220000 +0000" stop="20250531010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Austrian Alpine Open presented by SalzburgerLand, 2. Tag in Salzburg (Österreich)</title>
 </programme>
 <programme start="20250531010000 +0000" stop="20250531040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2872,38 +2875,11 @@
 <programme start="20250531071500 +0000" stop="20250531073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (2)</title>
 </programme>
-<programme start="20250531073000 +0000" stop="20250531074500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (3)</title>
+<programme start="20250531073000 +0000" stop="20250531080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Danish Golf Challenge</title>
 </programme>
-<programme start="20250531074500 +0000" stop="20250531084500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
-</programme>
-<programme start="20250531084500 +0000" stop="20250531090000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (1)</title>
-</programme>
-<programme start="20250531090000 +0000" stop="20250531091500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (2)</title>
-</programme>
-<programme start="20250531091500 +0000" stop="20250531093000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (3)</title>
-</programme>
-<programme start="20250531093000 +0000" stop="20250531094500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (4)</title>
-</programme>
-<programme start="20250531094500 +0000" stop="20250531100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (5)</title>
-</programme>
-<programme start="20250531100000 +0000" stop="20250531101500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (6)</title>
-</programme>
-<programme start="20250531101500 +0000" stop="20250531103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (7)</title>
-</programme>
-<programme start="20250531103000 +0000" stop="20250531104500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (8)</title>
-</programme>
-<programme start="20250531104500 +0000" stop="20250531110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (9)</title>
+<programme start="20250531080000 +0000" stop="20250531110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Memorial Tournament presented by Workday, 2. Tag in Dublin, OH (USA)</title>
 </programme>
 <programme start="20250531110000 +0000" stop="20250531153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Austrian Alpine Open presented by SalzburgerLand, 3. Tag in Salzburg (Österreich)</title>
@@ -2972,7 +2948,7 @@
     <title>DFB-Pokal: Arminia - von der Alm nach Berlin</title>
 </programme>
 <programme start="20250531210000 +0000" stop="20250531230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
+    <title>NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
 </programme>
 <programme start="20250530220000 +0000" stop="20250530223000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show</title>
