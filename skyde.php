@@ -2860,7 +2860,7 @@
 <programme start="20250531203000 +0000" stop="20250531220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20250530220000 +0000" stop="20250531010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250530221000 +0000" stop="20250531010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Austrian Alpine Open presented by SalzburgerLand, 2. Tag in Salzburg (Österreich)</title>
 </programme>
 <programme start="20250531010000 +0000" stop="20250531040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2875,11 +2875,38 @@
 <programme start="20250531071500 +0000" stop="20250531073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (2)</title>
 </programme>
-<programme start="20250531073000 +0000" stop="20250531080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Danish Golf Challenge</title>
+<programme start="20250531073000 +0000" stop="20250531074500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (3)</title>
 </programme>
-<programme start="20250531080000 +0000" stop="20250531110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Memorial Tournament presented by Workday, 2. Tag in Dublin, OH (USA)</title>
+<programme start="20250531074500 +0000" stop="20250531084500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
+</programme>
+<programme start="20250531084500 +0000" stop="20250531090000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (1)</title>
+</programme>
+<programme start="20250531090000 +0000" stop="20250531091500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (2)</title>
+</programme>
+<programme start="20250531091500 +0000" stop="20250531093000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (3)</title>
+</programme>
+<programme start="20250531093000 +0000" stop="20250531094500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (4)</title>
+</programme>
+<programme start="20250531094500 +0000" stop="20250531100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (5)</title>
+</programme>
+<programme start="20250531100000 +0000" stop="20250531101500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (6)</title>
+</programme>
+<programme start="20250531101500 +0000" stop="20250531103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (7)</title>
+</programme>
+<programme start="20250531103000 +0000" stop="20250531104500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (8)</title>
+</programme>
+<programme start="20250531104500 +0000" stop="20250531110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Auf 9 Loch mit ... Matthias Schwab (9)</title>
 </programme>
 <programme start="20250531110000 +0000" stop="20250531153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Austrian Alpine Open presented by SalzburgerLand, 3. Tag in Salzburg (Österreich)</title>
@@ -2948,7 +2975,7 @@
     <title>DFB-Pokal: Arminia - von der Alm nach Berlin</title>
 </programme>
 <programme start="20250531210000 +0000" stop="20250531230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
+    <title>NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
 </programme>
 <programme start="20250530220000 +0000" stop="20250530223000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show</title>
@@ -3184,7 +3211,7 @@
 <programme start="20250531213000 +0000" stop="20250531223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
 </programme>
-<programme start="20250530220000 +0000" stop="20250530221500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250530221000 +0000" stop="20250530221500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights EDM@DAL, Western Conference Final, Spiel 5</title>
 </programme>
 <programme start="20250530221500 +0000" stop="20250530230000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3301,7 +3328,7 @@
 <programme start="20250531164000 +0000" stop="20250531170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250531170000 +0000" stop="20250531220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250531170000 +0000" stop="20250601000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: US Women&#039;s Open, 3. Tag in Erin, WI (USA)</title>
 </programme>
 <programme start="20250530220000 +0000" stop="20250530224500 +0000" channel="SYFY HD.skyde">

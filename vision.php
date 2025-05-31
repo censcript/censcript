@@ -325,23 +325,8 @@
 <programme start="20250601114500 +0000" stop="20250601130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250531000000 +0000" stop="20250531003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250531003000 +0000" stop="20250531013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250531013000 +0000" stop="20250531023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250531023000 +0000" stop="20250531033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250531033000 +0000" stop="20250531041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250531041500 +0000" stop="20250531050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
 </programme>
 <programme start="20250531050000 +0000" stop="20250531054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
@@ -1496,5 +1481,20 @@
 <title>Tawaf TV</title>
 </programme>
 <programme start="20250531043000 +0000" stop="20250531050000 +0000" channel="Tawaf.vision">
+<title>Tawaf TV</title>
+</programme>
+<programme start="20250531050000 +0000" stop="20250531060000 +0000" channel="Tawaf.vision">
+<title>Tawaf TV</title>
+</programme>
+<programme start="20250531060000 +0000" stop="20250531070000 +0000" channel="Tawaf.vision">
+<title>Tawaf TV</title>
+</programme>
+<programme start="20250531070000 +0000" stop="20250531073000 +0000" channel="Tawaf.vision">
+<title>Tawaf TV</title>
+</programme>
+<programme start="20250531073000 +0000" stop="20250531083000 +0000" channel="Tawaf.vision">
+<title>Tawaf TV</title>
+</programme>
+<programme start="20250531083000 +0000" stop="20250531090000 +0000" channel="Tawaf.vision">
 <title>Tawaf TV</title>
 </programme>
