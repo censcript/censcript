@@ -325,9 +325,6 @@
 <programme start="20250601114500 +0000" stop="20250601130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250531000000 +0000" stop="20250531003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250531003000 +0000" stop="20250531013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Tawaf TV</title>
 </programme>
 <programme start="20250531043000 +0000" stop="20250531050000 +0000" channel="Tawaf.vision">
+<title>Tawaf TV</title>
+</programme>
+<programme start="20250531050000 +0000" stop="20250531060000 +0000" channel="Tawaf.vision">
 <title>Tawaf TV</title>
 </programme>

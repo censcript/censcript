@@ -226,13 +226,13 @@
     <programme start="20250531143206 +0000" stop="20250531170226 +0000" channel="Channel 8.mewatch">
         <title>Infernal Affairs III</title>
     </programme>
-    <programme start="20250530153004 +0000" stop="20250530163025 +0000" channel="Channel U.mewatch">
+    <programme start="20250530153034 +0000" stop="20250530163055 +0000" channel="Channel U.mewatch">
         <title>Tasty Taiwan 100 - EP 13</title>
     </programme>
-    <programme start="20250530163025 +0000" stop="20250530172820 +0000" channel="Channel U.mewatch">
+    <programme start="20250530163055 +0000" stop="20250530172850 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 16</title>
     </programme>
-    <programme start="20250530172820 +0000" stop="20250530220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250530172850 +0000" stop="20250530220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 17</title>
     </programme>
     <programme start="20250530220000 +0000" stop="20250531005807 +0000" channel="Channel U.mewatch">

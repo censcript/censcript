@@ -7628,7 +7628,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250530233000 +0000" stop="20250531000000 +0000" channel="BBC World News HD.starhub">
-        <title>Talking Business</title>
+        <title>The Interview: Tom Fletcher</title>
     </programme>
     <programme start="20250531000000 +0000" stop="20250531003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7721,7 +7721,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250531153000 +0000" stop="20250531160000 +0000" channel="BBC World News HD.starhub">
-        <title>Cyber Siege: From Russia to Redcar</title>
+        <title>The Interview: Tom Fletcher</title>
     </programme>
     <programme start="20250530154000 +0000" stop="20250530173000 +0000" channel="Premier Sports.starhub">
         <title>Super Rugby Brumbies v Crusaders</title>
@@ -8095,16 +8095,16 @@
     <programme start="20250530233000 +0000" stop="20250531013000 +0000" channel="Asianet Movies.starhub">
         <title>Dr. Patient</title>
     </programme>
-    <programme start="20250531013000 +0000" stop="20250531043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250531013000 +0000" stop="20250531043500 +0000" channel="Asianet Movies.starhub">
         <title>Kochi Rajavu</title>
     </programme>
-    <programme start="20250531043000 +0000" stop="20250531073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250531043500 +0000" stop="20250531073500 +0000" channel="Asianet Movies.starhub">
         <title>Ring Master</title>
     </programme>
-    <programme start="20250531073000 +0000" stop="20250531103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250531073500 +0000" stop="20250531104000 +0000" channel="Asianet Movies.starhub">
         <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
-    <programme start="20250531103000 +0000" stop="20250531133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250531104000 +0000" stop="20250531133000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
     <programme start="20250531133000 +0000" stop="20250531163000 +0000" channel="Asianet Movies.starhub">
