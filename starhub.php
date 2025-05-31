@@ -8095,13 +8095,13 @@
     <programme start="20250530133000 +0000" stop="20250530163000 +0000" channel="Asianet Movies.starhub">
         <title>Premalu</title>
     </programme>
-    <programme start="20250530163000 +0000" stop="20250530193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250530163000 +0000" stop="20250530190000 +0000" channel="Asianet Movies.starhub">
         <title>Avatharam</title>
     </programme>
-    <programme start="20250530193000 +0000" stop="20250530213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250530190000 +0000" stop="20250530220000 +0000" channel="Asianet Movies.starhub">
         <title>Unda</title>
     </programme>
-    <programme start="20250530213000 +0000" stop="20250530233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250530220000 +0000" stop="20250530233000 +0000" channel="Asianet Movies.starhub">
         <title>Onnum Mindathe</title>
     </programme>
     <programme start="20250530233000 +0000" stop="20250531013000 +0000" channel="Asianet Movies.starhub">

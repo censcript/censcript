@@ -328,6 +328,21 @@
 <programme start="20250531003000 +0000" stop="20250531013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250531023000 +0000" stop="20250531033000 +0000" channel="Trans 7.vision">
+<title>Heits Abis</title>
+</programme>
+<programme start="20250531033000 +0000" stop="20250531041500 +0000" channel="Trans 7.vision">
+<title>Bikin Seneng</title>
+</programme>
+<programme start="20250531041500 +0000" stop="20250531050000 +0000" channel="Trans 7.vision">
+<title>Enaknya Mantul</title>
+</programme>
+<programme start="20250531050000 +0000" stop="20250531054500 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20250531054500 +0000" stop="20250531063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
 <programme start="20250531063000 +0000" stop="20250531071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
@@ -1481,20 +1496,5 @@
 <title>Tawaf TV</title>
 </programme>
 <programme start="20250531060000 +0000" stop="20250531070000 +0000" channel="Tawaf.vision">
-<title>Tawaf TV</title>
-</programme>
-<programme start="20250531070000 +0000" stop="20250531073000 +0000" channel="Tawaf.vision">
-<title>Tawaf TV</title>
-</programme>
-<programme start="20250531073000 +0000" stop="20250531083000 +0000" channel="Tawaf.vision">
-<title>Tawaf TV</title>
-</programme>
-<programme start="20250531083000 +0000" stop="20250531090000 +0000" channel="Tawaf.vision">
-<title>Tawaf TV</title>
-</programme>
-<programme start="20250531090000 +0000" stop="20250531093000 +0000" channel="Tawaf.vision">
-<title>Tawaf TV</title>
-</programme>
-<programme start="20250531093000 +0000" stop="20250531100000 +0000" channel="Tawaf.vision">
 <title>Tawaf TV</title>
 </programme>
