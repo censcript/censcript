@@ -2203,14 +2203,26 @@
     <programme start="20250530200000 +0000" stop="20250530220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250530220000 +0000" stop="20250531040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250530223000 +0000" stop="20250531010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kurumbukaran</title>
     </programme>
-    <programme start="20250531040000 +0000" stop="20250531100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250531010000 +0000" stop="20250531013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250531100000 +0000" stop="20250531160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250531013000 +0000" stop="20250531043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thiruthani</title>
+    </programme>
+    <programme start="20250531043000 +0000" stop="20250531073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaalam Maripochu</title>
+    </programme>
+    <programme start="20250531073000 +0000" stop="20250531103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Murattu Kaalai</title>
+    </programme>
+    <programme start="20250531103000 +0000" stop="20250531133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Vennila Kabadi Kuzhu</title>
+    </programme>
+    <programme start="20250531133000 +0000" stop="20250531170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kanchana</title>
     </programme>
     <programme start="20250530090000 +0000" stop="20250530183000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Roland Garros 2025: Day 6</title>
