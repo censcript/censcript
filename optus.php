@@ -1,6 +1,3 @@
-    <programme start="20250531082500 +0000" stop="20250531104000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Sanfrecce v Kawasaki</title>
-    </programme>
     <programme start="20250531095000 +0000" stop="20250531121000 +0000" channel="Optus Sport 10.optus">
         <title>N/A - Jeonbuk v Ulsan</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
+    </programme>
+    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - England v Wales</title>
     </programme>
