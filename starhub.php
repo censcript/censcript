@@ -2200,8 +2200,8 @@
     <programme start="20250530170000 +0000" stop="20250530200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Neerparavai</title>
     </programme>
-    <programme start="20250530200000 +0000" stop="20250530220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250530200000 +0000" stop="20250530223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Karisakkaattu Poove</title>
     </programme>
     <programme start="20250530223000 +0000" stop="20250531010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kurumbukaran</title>
