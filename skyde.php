@@ -2645,45 +2645,42 @@
     <title>Die UEFA CL am Dienstag: Highlights XXL: INT - BAR, Halbfinale, Rückspiel</title>
 </programme>
 <programme start="20250531044500 +0000" stop="20250531051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Wr. Neustadt - Sturm (2014/2015)</title>
-</programme>
-<programme start="20250531051500 +0000" stop="20250531054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250531054500 +0000" stop="20250531064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531051500 +0000" stop="20250531061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20250531064500 +0000" stop="20250531084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531061500 +0000" stop="20250531081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Arsenal - Paris Saint-Germain, Halbfinale, Hinspiel</title>
 </programme>
-<programme start="20250531084500 +0000" stop="20250531104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531081500 +0000" stop="20250531101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Inter Mailand - FC Barcelona, Halbfinale, Rückspiel</title>
 </programme>
-<programme start="20250531104500 +0000" stop="20250531111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531101500 +0000" stop="20250531104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250531111500 +0000" stop="20250531114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531104500 +0000" stop="20250531111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 1. Spieltag</title>
 </programme>
-<programme start="20250531114500 +0000" stop="20250531121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531111500 +0000" stop="20250531114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20250531121500 +0000" stop="20250531124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531114500 +0000" stop="20250531121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 3. Spieltag</title>
 </programme>
-<programme start="20250531124500 +0000" stop="20250531131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531121500 +0000" stop="20250531124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 4. Spieltag</title>
 </programme>
-<programme start="20250531131500 +0000" stop="20250531134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531124500 +0000" stop="20250531131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 5. Spieltag</title>
 </programme>
-<programme start="20250531134500 +0000" stop="20250531141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531131500 +0000" stop="20250531134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 6. Spieltag</title>
 </programme>
-<programme start="20250531141500 +0000" stop="20250531144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531134500 +0000" stop="20250531141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 7. Spieltag</title>
 </programme>
-<programme start="20250531144500 +0000" stop="20250531151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250531141500 +0000" stop="20250531151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250531151500 +0000" stop="20250531153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2737,7 +2734,7 @@
 <programme start="20250531133000 +0000" stop="20250531153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20250531153000 +0000" stop="20250531160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250531153000 +0000" stop="20250531163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Spanien</title>
 </programme>
 <programme start="20250530222000 +0000" stop="20250530232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
