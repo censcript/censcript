@@ -100,7 +100,7 @@
 <programme start="20250601003000 +0000" stop="20250601040000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250527010000 +0000" stop="20250527023000 +0000" channel="MNCTV.vision">
+<programme start="20250601040000 +0000" stop="20250601060000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20250601060000 +0000" stop="20250601080000 +0000" channel="MNCTV.vision">
@@ -450,15 +450,6 @@
 </programme>
 <programme start="20250531003000 +0000" stop="20250531013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250531100000 +0000" stop="20250531110000 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
-</programme>
-<programme start="20250531110000 +0000" stop="20250531120000 +0000" channel="Trans 7.vision">
-<title>On The Spot</title>
-</programme>
-<programme start="20250531120000 +0000" stop="20250531123000 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
 </programme>
 <programme start="20250531123000 +0000" stop="20250531131500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250531010000 +0000" stop="20250531020000 +0000" channel="TV 9.vision">
 <title>Kiswah Female: Bunyai Afif</title>
+</programme>
+<programme start="20250531020000 +0000" stop="20250531030000 +0000" channel="TV 9.vision">
+<title>Sinema Religi: Nabi Yusuf</title>
+</programme>
+<programme start="20250531030000 +0000" stop="20250531033000 +0000" channel="TV 9.vision">
+<title>DRAMA INDONESIA</title>
+</programme>
+<programme start="20250531033000 +0000" stop="20250531040000 +0000" channel="TV 9.vision">
+<title>DOKUMENTER INDONESIA</title>
 </programme>

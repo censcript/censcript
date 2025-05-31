@@ -2725,11 +2725,8 @@
 <programme start="20250531101500 +0000" stop="20250531120500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: 3. Freies Training - GP Spanien</title>
 </programme>
-<programme start="20250531120500 +0000" stop="20250531131500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250531120500 +0000" stop="20250531133000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F2: 1. Rennen - GP Spanien</title>
-</programme>
-<programme start="20250531131500 +0000" stop="20250531133000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250531133000 +0000" stop="20250531153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Spanien</title>
