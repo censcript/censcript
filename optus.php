@@ -1,12 +1,3 @@
-    <programme start="20250531095000 +0000" stop="20250531121000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Jeonbuk v Ulsan</title>
-    </programme>
-    <programme start="20250531095000 +0000" stop="20250531121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Seoul v Jeju</title>
-    </programme>
-    <programme start="20250531095500 +0000" stop="20250531121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kyoto v FC Tokyo</title>
-    </programme>
     <programme start="20250601055500 +0000" stop="20250601081000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Cerezo v Shimizu</title>
     </programme>
@@ -297,4 +288,13 @@
     </programme>
     <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Wales</title>
+    </programme>
+    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Netherlands v France</title>
+    </programme>
+    <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shonan v Cerezo</title>
+    </programme>
+    <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Kashiwa</title>
     </programme>
