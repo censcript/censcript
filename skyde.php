@@ -3313,13 +3313,13 @@
 <programme start="20250601033000 +0000" stop="20250601040000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
-<programme start="20250601040000 +0000" stop="20250601043000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250601040000 +0000" stop="20250601042500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (2)</title>
 </programme>
-<programme start="20250601043000 +0000" stop="20250601052500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250601042500 +0000" stop="20250601052000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 1. Rennen - GP Spanien</title>
 </programme>
-<programme start="20250601052500 +0000" stop="20250601062000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250601052000 +0000" stop="20250601062000 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 1. Rennen - GP Spanien</title>
 </programme>
 <programme start="20250601062000 +0000" stop="20250601073000 +0000" channel="Sky Sport UHD.skyde">
@@ -3379,7 +3379,7 @@
 <programme start="20250601174000 +0000" stop="20250601180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250601180000 +0000" stop="20250601230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250601180000 +0000" stop="20250602010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: US Women&#039;s Open, 4. Tag in Erin, WI (USA)</title>
 </programme>
 <programme start="20250531225500 +0000" stop="20250601004000 +0000" channel="SYFY HD.skyde">

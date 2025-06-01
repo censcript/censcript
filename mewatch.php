@@ -238,7 +238,7 @@
     <programme start="20250531153047 +0000" stop="20250531163020 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 19</title>
     </programme>
-    <programme start="20250531163020 +0000" stop="20250531220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250531163113 +0000" stop="20250531220000 +0000" channel="Channel U.mewatch">
         <title>Come Sing With Me S5 - EP 6</title>
     </programme>
     <programme start="20250531220000 +0000" stop="20250601005812 +0000" channel="Channel U.mewatch">
@@ -379,16 +379,16 @@
     <programme start="20250601153000 +0000" stop="20250601160054 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250531140004 +0000" stop="20250531162953 +0000" channel="Vasantham.mewatch">
+    <programme start="20250531140028 +0000" stop="20250531163017 +0000" channel="Vasantham.mewatch">
         <title>Email</title>
     </programme>
-    <programme start="20250531162953 +0000" stop="20250531170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250531163017 +0000" stop="20250531170024 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 13</title>
     </programme>
-    <programme start="20250531170000 +0000" stop="20250531173000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250531170024 +0000" stop="20250531173051 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250531173000 +0000" stop="20250601010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250531173051 +0000" stop="20250601010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250601010000 +0000" stop="20250601020006 +0000" channel="Vasantham.mewatch">
@@ -709,8 +709,8 @@
     <programme start="20250601120000 +0000" stop="20250601160000 +0000" channel="trace-urban.mewatch">
         <title>Weekend Vibes</title>
     </programme>
-    <programme start="20250601160000 +0000" stop="20250602160000 +0000" channel="trace-urban.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20250601160000 +0000" stop="20250601220000 +0000" channel="trace-urban.mewatch">
+        <title>Sounds Of Trace</title>
     </programme>
     <programme start="20250531160000 +0000" stop="20250531163000 +0000" channel="Animax.mewatch">
         <title>Konosuba -God&#039;s Blessing On This Wonderful World! - God&#039;s Blessing On This Wonderful Shop!</title>
