@@ -6821,7 +6821,7 @@
         <title>The UCL Preview Show 2024/25 PSG vs Inter - Final (Live)</title>
     </programme>
     <programme start="20250531185500 +0000" stop="20250531210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2024/25: PSG vs Inter - Final (Live)</title>
+        <title>PSG vs Inter - Final (Live)</title>
     </programme>
     <programme start="20250531210000 +0000" stop="20250531220000 +0000" channel="beIN Sports HD.starhub">
         <title>The UCL Review Show 2024/25 PSG vs Inter - Final (Live)</title>
@@ -7976,7 +7976,7 @@
         <title>Doctor Shearer</title>
     </programme>
     <programme start="20250531133000 +0000" stop="20250531163000 +0000" channel="Asianet Movies.starhub">
-        <title>ARM</title>
+        <title>A.R.M.</title>
     </programme>
     <programme start="20250531163000 +0000" stop="20250531192000 +0000" channel="Asianet Movies.starhub">
         <title>Varshangalkku Shesham</title>
