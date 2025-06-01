@@ -964,10 +964,10 @@
     <programme start="20250531160000 +0000" stop="20250601060000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 1st Jun, Sunday 2pm. KFF Singapore Badminton Open 2025: Finals</title>
     </programme>
-    <programme start="20250601060000 +0000" stop="20250601110000 +0000" channel="Live 5.mewatch">
+    <programme start="20250601060000 +0000" stop="20250601120000 +0000" channel="Live 5.mewatch">
         <title>KFF Singapore Badminton Open 2025: Finals</title>
     </programme>
-    <programme start="20250601110000 +0000" stop="20250601160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250601120000 +0000" stop="20250601160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250601160000 +0000" stop="20250602160000 +0000" channel="Live 5.mewatch">
