@@ -1520,7 +1520,7 @@
         <title>Lakshmi Narayana Namo Namaha</title>
     </programme>
     <programme start="20250601070000 +0000" stop="20250601100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>RDX</title>
+        <title>RDX: Robert Dony Xavier</title>
     </programme>
     <programme start="20250601100000 +0000" stop="20250601130000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Tamizh Padam 2</title>
