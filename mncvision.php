@@ -8680,7 +8680,42 @@
 <programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601170000 +0000" stop="20250601180000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: Tissot British GP</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601183000 +0000" channel="SPOTV 2.mncvision">
+    <title>2024/25 A-League Men HL</title>
+</programme>
+<programme start="20250601183000 +0000" stop="20250601193000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: Tissot British GP</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601220000 +0000" channel="SPOTV 2.mncvision">
+    <title>Grand Slam Track: USA (L)</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250602003000 +0000" channel="SPOTV 2.mncvision">
+    <title>MLS 2025: SEA Vs MIN (L)</title>
+</programme>
+<programme start="20250602003000 +0000" stop="20250602031500 +0000" channel="SPOTV 2.mncvision">
+    <title>Grand Slam Track: Philadelphia</title>
+</programme>
+<programme start="20250602031500 +0000" stop="20250602051500 +0000" channel="SPOTV 2.mncvision">
+    <title>Friendly Match: AUS Vs ARG</title>
+</programme>
+<programme start="20250602051500 +0000" stop="20250602092500 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 FIM ARRC: Malaysia</title>
+</programme>
+<programme start="20250602092500 +0000" stop="20250602113000 +0000" channel="SPOTV 2.mncvision">
+    <title>Friendly Match: AUS Vs ARG (L)</title>
+</programme>
+<programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 Le Tour Auto Highlights</title>
+</programme>
+<programme start="20250602120000 +0000" stop="20250602143000 +0000" channel="SPOTV 2.mncvision">
+    <title>MLS 2025: SEA Vs MIN</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="SPOTV 2.mncvision">
+    <title>Grand Slam Track: Philadelphia</title>
+</programme>
 <programme start="20250601170000 +0000" stop="20250601180000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>
