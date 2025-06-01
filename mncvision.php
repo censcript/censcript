@@ -1,4 +1,102 @@
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601170000 +0000" stop="20250601172500 +0000" channel="ABC Australia.mncvision">
+    <title>On Country Kitchen</title>
+</programme>
+<programme start="20250601172500 +0000" stop="20250601175000 +0000" channel="ABC Australia.mncvision">
+    <title>Good Tucker</title>
+</programme>
+<programme start="20250601175000 +0000" stop="20250601180000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601190000 +0000" channel="ABC Australia.mncvision">
+    <title>Landline</title>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="ABC Australia.mncvision">
+    <title>Offsiders</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601230000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250602020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602030000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602032500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250602032500 +0000" stop="20250602033000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250602033000 +0000" stop="20250602040000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Regional</title>
+</programme>
+<programme start="20250602040000 +0000" stop="20250602050000 +0000" channel="ABC Australia.mncvision">
+    <title>Restoration Australia</title>
+</programme>
+<programme start="20250602050000 +0000" stop="20250602060000 +0000" channel="ABC Australia.mncvision">
+    <title>Grand Designs Transformations</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602070000 +0000" channel="ABC Australia.mncvision">
+    <title>Afternoon Briefing</title>
+</programme>
+<programme start="20250602070000 +0000" stop="20250602080000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20250602080000 +0000" stop="20250602082500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250602082500 +0000" stop="20250602083000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250602083000 +0000" stop="20250602090000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Regional</title>
+</programme>
+<programme start="20250602090000 +0000" stop="20250602093000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20250602093000 +0000" stop="20250602100000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602110000 +0000" channel="ABC Australia.mncvision">
+    <title>Restoration Australia</title>
+</programme>
+<programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="ABC Australia.mncvision">
+    <title>Grand Designs Transformations</title>
+</programme>
+<programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Regional</title>
+</programme>
+<programme start="20250602140000 +0000" stop="20250602141500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250602141500 +0000" stop="20250602143000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250602160000 +0000" stop="20250602161500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250602161500 +0000" stop="20250602163000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="ABC Australia.mncvision">
+    <title>Restoration Australia</title>
+</programme>
 <programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -6344,7 +6442,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601170000 +0000" stop="20250601171000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601171000 +0000" stop="20250601172500 +0000" channel="NHK World.mncvision">
+    <title>Ekiben Japan</title>
+</programme>
+<programme start="20250601172500 +0000" stop="20250601173000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto Mini</title>
+</programme>
+<programme start="20250601173000 +0000" stop="20250601174500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese For Work</title>
+</programme>
+<programme start="20250601174500 +0000" stop="20250601180000 +0000" channel="NHK World.mncvision">
+    <title>Zero Waste Life</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601181000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601181000 +0000" stop="20250601190000 +0000" channel="NHK World.mncvision">
+    <title>58 Stolen Years</title>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601191000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601191000 +0000" stop="20250601200000 +0000" channel="NHK World.mncvision">
+    <title>Zero Waste Life Special</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601201000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601201000 +0000" stop="20250601204000 +0000" channel="NHK World.mncvision">
+    <title>Cycle Around Japan Highlights</title>
+</programme>
+<programme start="20250601204000 +0000" stop="20250601205000 +0000" channel="NHK World.mncvision">
+    <title>Design Ah Neo: Assemble Spc.</title>
+</programme>
+<programme start="20250601205000 +0000" stop="20250601210000 +0000" channel="NHK World.mncvision">
+    <title>Mitateru-Phose</title>
+</programme>
+<programme start="20250601210000 +0000" stop="20250601211000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601211000 +0000" stop="20250601214000 +0000" channel="NHK World.mncvision">
+    <title>J-Melo</title>
+</programme>
+<programme start="20250601214000 +0000" stop="20250601215000 +0000" channel="NHK World.mncvision">
+    <title>Little Charo</title>
+</programme>
+<programme start="20250601215000 +0000" stop="20250601215500 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus Mini</title>
+</programme>
+<programme start="20250601215500 +0000" stop="20250601220000 +0000" channel="NHK World.mncvision">
+    <title>A Cat&#039;s-Eye View Of Japan</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601221000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601221000 +0000" stop="20250601222500 +0000" channel="NHK World.mncvision">
+    <title>Ekiben Japan</title>
+</programme>
+<programme start="20250601222500 +0000" stop="20250601223000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto Mini</title>
+</programme>
+<programme start="20250601223000 +0000" stop="20250601224500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese For Work</title>
+</programme>
+<programme start="20250601224500 +0000" stop="20250601230000 +0000" channel="NHK World.mncvision">
+    <title>Zero Waste Life</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250601231000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250601231000 +0000" stop="20250601235200 +0000" channel="NHK World.mncvision">
+    <title>Somewhere Street</title>
+</programme>
+<programme start="20250601235200 +0000" stop="20250601235500 +0000" channel="NHK World.mncvision">
+    <title>Time-Lapse Journey</title>
+</programme>
+<programme start="20250601235500 +0000" stop="20250602000000 +0000" channel="NHK World.mncvision">
+    <title>National Parks: Kerama</title>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602001000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250602001000 +0000" stop="20250602001500 +0000" channel="NHK World.mncvision">
+    <title>Chatroom Japan</title>
+</programme>
+<programme start="20250602001500 +0000" stop="20250602003000 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250602003000 +0000" stop="20250602010000 +0000" channel="NHK World.mncvision">
+    <title>Where We Call Home</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602011000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250602011000 +0000" stop="20250602011500 +0000" channel="NHK World.mncvision">
+    <title>Masterpieces Of Historic...</title>
+</programme>
+<programme start="20250602011500 +0000" stop="20250602013000 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Linear Rainbands</title>
+</programme>
+<programme start="20250602013000 +0000" stop="20250602014000 +0000" channel="NHK World.mncvision">
+    <title>Magical Japanese: Oni</title>
+</programme>
+<programme start="20250602014000 +0000" stop="20250602014500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese</title>
+</programme>
+<programme start="20250602014500 +0000" stop="20250602015500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Be Prepared</title>
+</programme>
+<programme start="20250602015500 +0000" stop="20250602020000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250602023000 +0000" stop="20250602030000 +0000" channel="NHK World.mncvision">
+    <title>Seasoning The Seasons</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250602033000 +0000" stop="20250602035500 +0000" channel="NHK World.mncvision">
+    <title>Darwin&#039;s Amazing Animals</title>
+</programme>
+<programme start="20250602035500 +0000" stop="20250602040000 +0000" channel="NHK World.mncvision">
+    <title>Time-Lapse Journey</title>
+</programme>
+<programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250602043000 +0000" stop="20250602045700 +0000" channel="NHK World.mncvision">
+    <title>Hometown Stories</title>
+</programme>
+<programme start="20250602045700 +0000" stop="20250602050000 +0000" channel="NHK World.mncvision">
+    <title>The Masterpieces Of Tsutaju</title>
+</programme>
+<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250602053000 +0000" stop="20250602060000 +0000" channel="NHK World.mncvision">
+    <title>Where We Call Home</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602063000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250602063000 +0000" stop="20250602070000 +0000" channel="NHK World.mncvision">
+    <title>Magical Japanese: Oni</title>
+</programme>
 <programme start="20250601173000 +0000" stop="20250601175500 +0000" channel="NHK World Premium.mncvision">
     <title>Beyond Gender: Clues To...</title>
 </programme>
@@ -8433,42 +8680,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250601170000 +0000" stop="20250601180000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP: Tissot British GP</title>
-</programme>
-<programme start="20250601180000 +0000" stop="20250601183000 +0000" channel="SPOTV 2.mncvision">
-    <title>2024/25 A-League Men HL</title>
-</programme>
-<programme start="20250601183000 +0000" stop="20250601193000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP: Tissot British GP</title>
-</programme>
-<programme start="20250601193000 +0000" stop="20250601220000 +0000" channel="SPOTV 2.mncvision">
-    <title>Grand Slam Track: USA (L)</title>
-</programme>
-<programme start="20250601220000 +0000" stop="20250602003000 +0000" channel="SPOTV 2.mncvision">
-    <title>MLS 2025: SEA Vs MIN (L)</title>
-</programme>
-<programme start="20250602003000 +0000" stop="20250602031500 +0000" channel="SPOTV 2.mncvision">
-    <title>Grand Slam Track: Philadelphia</title>
-</programme>
-<programme start="20250602031500 +0000" stop="20250602051500 +0000" channel="SPOTV 2.mncvision">
-    <title>Friendly Match: AUS Vs ARG</title>
-</programme>
-<programme start="20250602051500 +0000" stop="20250602092500 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 FIM ARRC: Malaysia</title>
-</programme>
-<programme start="20250602092500 +0000" stop="20250602113000 +0000" channel="SPOTV 2.mncvision">
-    <title>Friendly Match: AUS Vs ARG (L)</title>
-</programme>
-<programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 Le Tour Auto Highlights</title>
-</programme>
-<programme start="20250602120000 +0000" stop="20250602143000 +0000" channel="SPOTV 2.mncvision">
-    <title>MLS 2025: SEA Vs MIN</title>
-</programme>
-<programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="SPOTV 2.mncvision">
-    <title>Grand Slam Track: Philadelphia</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250601170000 +0000" stop="20250601180000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Tissot British GP</title>
 </programme>

@@ -439,9 +439,6 @@
 <programme start="20250601090000 +0000" stop="20250601100000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20250601100000 +0000" stop="20250601103000 +0000" channel="Trans TV.vision">
-<title>i-Pedia</title>
-</programme>
 <programme start="20250601103000 +0000" stop="20250601114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper Weekend</title>
 </programme>
@@ -660,6 +657,105 @@
 </programme>
 <programme start="20250602113000 +0000" stop="20250602133000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
+</programme>
+<programme start="20250531230000 +0000" stop="20250601003000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601003000 +0000" stop="20250601013000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601013000 +0000" stop="20250601020000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601020000 +0000" stop="20250601030000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601030000 +0000" stop="20250601060000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601060000 +0000" stop="20250601083000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601083000 +0000" stop="20250601093000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601093000 +0000" stop="20250601103000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601103000 +0000" stop="20250601120000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601120000 +0000" stop="20250601123000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601123000 +0000" stop="20250601140000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601140000 +0000" stop="20250601143000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601143000 +0000" stop="20250601150000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601150000 +0000" stop="20250601160000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601160000 +0000" stop="20250601163000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601163000 +0000" stop="20250601170000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601173000 +0000" stop="20250601180000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601183000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601183000 +0000" stop="20250601193000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601210000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601210000 +0000" stop="20250601230000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250601233000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250601233000 +0000" stop="20250602013000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602013000 +0000" stop="20250602020000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602030000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602053000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602053000 +0000" stop="20250602063000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602063000 +0000" stop="20250602083000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602083000 +0000" stop="20250602093000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602093000 +0000" stop="20250602103000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20250602103000 +0000" stop="20250602120000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20250531233000 +0000" stop="20250601010000 +0000" channel="TVOne.vision">
 <title>TV One</title>
@@ -1401,100 +1497,4 @@
 </programme>
 <programme start="20250602070300 +0000" stop="20250602073000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20250602073000 +0000" stop="20250602080000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602080000 +0000" stop="20250602080300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602080300 +0000" stop="20250602083000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602083000 +0000" stop="20250602090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602090000 +0000" stop="20250602100000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602100000 +0000" stop="20250602103000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602103000 +0000" stop="20250602110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250531233500 +0000" stop="20250601011500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601011500 +0000" stop="20250601030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601030000 +0000" stop="20250601044000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601044000 +0000" stop="20250601061000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601061000 +0000" stop="20250601074000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601074000 +0000" stop="20250601092000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601092000 +0000" stop="20250601110000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601110000 +0000" stop="20250601123500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601123500 +0000" stop="20250601140000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601140000 +0000" stop="20250601153500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601153500 +0000" stop="20250601171000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601171000 +0000" stop="20250601190000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601190000 +0000" stop="20250601203000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601203000 +0000" stop="20250601221000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601221000 +0000" stop="20250601233500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601233500 +0000" stop="20250602012500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250602012500 +0000" stop="20250602030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250602030000 +0000" stop="20250602045000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250602045000 +0000" stop="20250602064000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250602064000 +0000" stop="20250602082000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250602082000 +0000" stop="20250602101500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250602101500 +0000" stop="20250602121500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250601000000 +0000" stop="20250601010500 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20250601010500 +0000" stop="20250601020000 +0000" channel="MDTV.vision">
-<title>Fakta +62 Weekend</title>
 </programme>
