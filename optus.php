@@ -1,5 +1,5 @@
     <programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories</title>
+        <title>N/A - PL Stories: Juan Mata</title>
     </programme>
     <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
@@ -34,7 +34,7 @@
     <programme start="20250607020000 +0000" stop="20250607043000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - San Diego Wave FC v Seattle Reign</title>
     </programme>
-    <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 7.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
     </programme>
     <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
@@ -67,7 +67,7 @@
     <programme start="20250608200000 +0000" stop="20250608223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Washington Spirit v North Carolina Courage</title>
     </programme>
-    <programme start="20250609135000 +0000" stop="20250609161000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250609135000 +0000" stop="20250609161000 +0000" channel="Optus Sport 7.optus">
         <title>UEFA World Cup Qualifiers - Kazakhstan v North Macedonia</title>
     </programme>
     <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 3.optus">
@@ -102,6 +102,12 @@
     </programme>
     <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Finland v Poland</title>
+    </programme>
+    <programme start="20250611170000 +0000" stop="20250611173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Ruben Dias</title>
+    </programme>
+    <programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Originals: Masterclass Special</title>
     </programme>
     <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Gwangju v Seoul</title>
@@ -159,6 +165,9 @@
     </programme>
     <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Jeju v Gwangju</title>
+    </programme>
+    <programme start="20250618170000 +0000" stop="20250618173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Goalscorers</title>
     </programme>
     <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Racing Louisville FC v Orlando Pride</title>
@@ -288,13 +297,4 @@
     </programme>
     <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Kashiwa</title>
-    </programme>
-    <programme start="20250720095500 +0000" stop="20250720121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Gamba v Kawasaki</title>
-    </programme>
-    <programme start="20250721085500 +0000" stop="20250721111000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Avispa v Kyoto</title>
-    </programme>
-    <programme start="20250727102500 +0000" stop="20250727124000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Urawa Red Diamonds v Avispa</title>
     </programme>
