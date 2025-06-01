@@ -1,9 +1,3 @@
-    <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Daegu v Gwangju</title>
-    </programme>
-    <programme start="20250601095000 +0000" stop="20250601121000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Gangwon</title>
-    </programme>
     <programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250720095500 +0000" stop="20250720121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Gamba v Kawasaki</title>
+    </programme>
+    <programme start="20250721085500 +0000" stop="20250721111000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Avispa v Kyoto</title>
+    </programme>
+    <programme start="20250727102500 +0000" stop="20250727124000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Urawa Red Diamonds v Avispa</title>
     </programme>
