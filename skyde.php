@@ -2407,6 +2407,114 @@
 <programme start="20250601214000 +0000" stop="20250601221000 +0000" channel="Sky Nature HD.skyde">
     <title>Kampf der Alpha-Tiere</title>
 </programme>
+<programme start="20250531220000 +0000" stop="20250531224500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250531224500 +0000" stop="20250531232500 +0000" channel="Sky One HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250531232500 +0000" stop="20250601001000 +0000" channel="Sky One HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250601001000 +0000" stop="20250601003000 +0000" channel="Sky One HD.skyde">
+    <title>Die Conners</title>
+</programme>
+<programme start="20250601003000 +0000" stop="20250601005500 +0000" channel="Sky One HD.skyde">
+    <title>Die Conners</title>
+</programme>
+<programme start="20250601005500 +0000" stop="20250601011500 +0000" channel="Sky One HD.skyde">
+    <title>Die Conners</title>
+</programme>
+<programme start="20250601011500 +0000" stop="20250601014000 +0000" channel="Sky One HD.skyde">
+    <title>Die Conners</title>
+</programme>
+<programme start="20250601014000 +0000" stop="20250601020000 +0000" channel="Sky One HD.skyde">
+    <title>Die Conners</title>
+</programme>
+<programme start="20250601020000 +0000" stop="20250601022000 +0000" channel="Sky One HD.skyde">
+    <title>Making of: Das Boot</title>
+</programme>
+<programme start="20250601022000 +0000" stop="20250601030500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250601030500 +0000" stop="20250601034500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250601034500 +0000" stop="20250601043000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250601043000 +0000" stop="20250601051500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250601051500 +0000" stop="20250601060000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601060000 +0000" stop="20250601064500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601064500 +0000" stop="20250601073000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601073000 +0000" stop="20250601082000 +0000" channel="Sky One HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250601082000 +0000" stop="20250601090500 +0000" channel="Sky One HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250601090500 +0000" stop="20250601095000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250601095000 +0000" stop="20250601103500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250601103500 +0000" stop="20250601112500 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20250601112500 +0000" stop="20250601121000 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20250601121000 +0000" stop="20250601125000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250601125000 +0000" stop="20250601133500 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250601133500 +0000" stop="20250601142500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601142500 +0000" stop="20250601151000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601151000 +0000" stop="20250601155500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601155500 +0000" stop="20250601164000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250601164000 +0000" stop="20250601172500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250601172500 +0000" stop="20250601181500 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20250601181500 +0000" stop="20250601190000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601194000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250601194000 +0000" stop="20250601202500 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250601202500 +0000" stop="20250601211000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601211000 +0000" stop="20250601215500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250601215500 +0000" stop="20250601224000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20250531225000 +0000" stop="20250531234000 +0000" channel="Sky Replay HD.skyde">
     <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>

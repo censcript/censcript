@@ -1,102 +1,4 @@
-<programme start="20250601170000 +0000" stop="20250601172500 +0000" channel="ABC Australia.mncvision">
-    <title>On Country Kitchen</title>
-</programme>
-<programme start="20250601172500 +0000" stop="20250601175000 +0000" channel="ABC Australia.mncvision">
-    <title>Good Tucker</title>
-</programme>
-<programme start="20250601175000 +0000" stop="20250601180000 +0000" channel="ABC Australia.mncvision">
-    <title>Gardening Australia</title>
-</programme>
-<programme start="20250601180000 +0000" stop="20250601190000 +0000" channel="ABC Australia.mncvision">
-    <title>Landline</title>
-</programme>
-<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="ABC Australia.mncvision">
-    <title>Offsiders</title>
-</programme>
-<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="ABC Australia.mncvision">
-    <title>That Pacific Sports Show</title>
-</programme>
-<programme start="20250601200000 +0000" stop="20250601230000 +0000" channel="ABC Australia.mncvision">
-    <title>News Breakfast</title>
-</programme>
-<programme start="20250601230000 +0000" stop="20250602020000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News Mornings</title>
-</programme>
-<programme start="20250602020000 +0000" stop="20250602030000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News At Noon</title>
-</programme>
-<programme start="20250602030000 +0000" stop="20250602032500 +0000" channel="ABC Australia.mncvision">
-    <title>The Cook Up With Adam Liaw</title>
-</programme>
-<programme start="20250602032500 +0000" stop="20250602033000 +0000" channel="ABC Australia.mncvision">
-    <title>This Place</title>
-</programme>
-<programme start="20250602033000 +0000" stop="20250602040000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News Regional</title>
-</programme>
-<programme start="20250602040000 +0000" stop="20250602050000 +0000" channel="ABC Australia.mncvision">
-    <title>Restoration Australia</title>
-</programme>
-<programme start="20250602050000 +0000" stop="20250602060000 +0000" channel="ABC Australia.mncvision">
-    <title>Grand Designs Transformations</title>
-</programme>
-<programme start="20250602060000 +0000" stop="20250602070000 +0000" channel="ABC Australia.mncvision">
-    <title>Afternoon Briefing</title>
-</programme>
-<programme start="20250602070000 +0000" stop="20250602080000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News With Joe O&#039;Brien</title>
-</programme>
-<programme start="20250602080000 +0000" stop="20250602082500 +0000" channel="ABC Australia.mncvision">
-    <title>The Cook Up With Adam Liaw</title>
-</programme>
-<programme start="20250602082500 +0000" stop="20250602083000 +0000" channel="ABC Australia.mncvision">
-    <title>This Place</title>
-</programme>
-<programme start="20250602083000 +0000" stop="20250602090000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News Regional</title>
-</programme>
-<programme start="20250602090000 +0000" stop="20250602093000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC National News</title>
-</programme>
-<programme start="20250602093000 +0000" stop="20250602100000 +0000" channel="ABC Australia.mncvision">
-    <title>7.30</title>
-</programme>
-<programme start="20250602100000 +0000" stop="20250602110000 +0000" channel="ABC Australia.mncvision">
-    <title>Restoration Australia</title>
-</programme>
-<programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="ABC Australia.mncvision">
-    <title>Grand Designs Transformations</title>
-</programme>
-<programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News Regional</title>
-</programme>
-<programme start="20250602140000 +0000" stop="20250602141500 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20250602141500 +0000" stop="20250602143000 +0000" channel="ABC Australia.mncvision">
-    <title>The Business</title>
-</programme>
-<programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="ABC Australia.mncvision">
-    <title>7.30</title>
-</programme>
-<programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20250602160000 +0000" stop="20250602161500 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20250602161500 +0000" stop="20250602163000 +0000" channel="ABC Australia.mncvision">
-    <title>The Business</title>
-</programme>
-<programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="ABC Australia.mncvision">
-    <title>Restoration Australia</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -5305,7 +5207,102 @@
 <programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="LIFE.mncvision">
+    <title>Way Out</title>
+</programme>
+<programme start="20250601173000 +0000" stop="20250601180000 +0000" channel="LIFE.mncvision">
+    <title>This Is My Song</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601183000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20250601183000 +0000" stop="20250601193000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601203000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20250601203000 +0000" stop="20250601210000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20250601210000 +0000" stop="20250601220000 +0000" channel="LIFE.mncvision">
+    <title>Building A Better You</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601230000 +0000" channel="LIFE.mncvision">
+    <title>GEBADA: Gerakan Baca Dengar...</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250602000000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602010000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602020000 +0000" channel="LIFE.mncvision">
+    <title>Good News</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602030000 +0000" channel="LIFE.mncvision">
+    <title>Pelita Hati</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602040000 +0000" channel="LIFE.mncvision">
+    <title>Suara Alfa Omega</title>
+</programme>
+<programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="LIFE.mncvision">
+    <title>Masih Ada Harapan</title>
+</programme>
+<programme start="20250602043000 +0000" stop="20250602050000 +0000" channel="LIFE.mncvision">
+    <title>Today Breakthrough</title>
+</programme>
+<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="LIFE.mncvision">
+    <title>This Is My Song</title>
+</programme>
+<programme start="20250602053000 +0000" stop="20250602060000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602070000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20250602070000 +0000" stop="20250602073000 +0000" channel="LIFE.mncvision">
+    <title>Life Study</title>
+</programme>
+<programme start="20250602073000 +0000" stop="20250602080000 +0000" channel="LIFE.mncvision">
+    <title>Life Unlimited</title>
+</programme>
+<programme start="20250602080000 +0000" stop="20250602090000 +0000" channel="LIFE.mncvision">
+    <title>Building A Better You</title>
+</programme>
+<programme start="20250602090000 +0000" stop="20250602093000 +0000" channel="LIFE.mncvision">
+    <title>Joy Kids</title>
+</programme>
+<programme start="20250602093000 +0000" stop="20250602100000 +0000" channel="LIFE.mncvision">
+    <title>AOC Teens</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602110000 +0000" channel="LIFE.mncvision">
+    <title>R.O.C.K Series</title>
+</programme>
+<programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="LIFE.mncvision">
+    <title>Life Music</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="LIFE.mncvision">
+    <title>GEBADA: Gerakan Baca Dengar...</title>
+</programme>
+<programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="LIFE.mncvision">
+    <title>Good News</title>
+</programme>
+<programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="LIFE.mncvision">
+    <title>Household Of Faith</title>
+</programme>
+<programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
 <programme start="20250601171000 +0000" stop="20250601184500 +0000" channel="Lifetime.mncvision">
     <title>The Venice Murders</title>
 </programme>
@@ -6347,156 +6344,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
-<programme start="20250601170000 +0000" stop="20250601171000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601171000 +0000" stop="20250601172500 +0000" channel="NHK World.mncvision">
-    <title>Ekiben Japan</title>
-</programme>
-<programme start="20250601172500 +0000" stop="20250601173000 +0000" channel="NHK World.mncvision">
-    <title>Core Kyoto Mini</title>
-</programme>
-<programme start="20250601173000 +0000" stop="20250601174500 +0000" channel="NHK World.mncvision">
-    <title>Easy Japanese For Work</title>
-</programme>
-<programme start="20250601174500 +0000" stop="20250601180000 +0000" channel="NHK World.mncvision">
-    <title>Zero Waste Life</title>
-</programme>
-<programme start="20250601180000 +0000" stop="20250601181000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601181000 +0000" stop="20250601190000 +0000" channel="NHK World.mncvision">
-    <title>58 Stolen Years</title>
-</programme>
-<programme start="20250601190000 +0000" stop="20250601191000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601191000 +0000" stop="20250601200000 +0000" channel="NHK World.mncvision">
-    <title>Zero Waste Life Special</title>
-</programme>
-<programme start="20250601200000 +0000" stop="20250601201000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601201000 +0000" stop="20250601204000 +0000" channel="NHK World.mncvision">
-    <title>Cycle Around Japan Highlights</title>
-</programme>
-<programme start="20250601204000 +0000" stop="20250601205000 +0000" channel="NHK World.mncvision">
-    <title>Design Ah Neo: Assemble Spc.</title>
-</programme>
-<programme start="20250601205000 +0000" stop="20250601210000 +0000" channel="NHK World.mncvision">
-    <title>Mitateru-Phose</title>
-</programme>
-<programme start="20250601210000 +0000" stop="20250601211000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601211000 +0000" stop="20250601214000 +0000" channel="NHK World.mncvision">
-    <title>J-Melo</title>
-</programme>
-<programme start="20250601214000 +0000" stop="20250601215000 +0000" channel="NHK World.mncvision">
-    <title>Little Charo</title>
-</programme>
-<programme start="20250601215000 +0000" stop="20250601215500 +0000" channel="NHK World.mncvision">
-    <title>Japanology Plus Mini</title>
-</programme>
-<programme start="20250601215500 +0000" stop="20250601220000 +0000" channel="NHK World.mncvision">
-    <title>A Cat&#039;s-Eye View Of Japan</title>
-</programme>
-<programme start="20250601220000 +0000" stop="20250601221000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601221000 +0000" stop="20250601222500 +0000" channel="NHK World.mncvision">
-    <title>Ekiben Japan</title>
-</programme>
-<programme start="20250601222500 +0000" stop="20250601223000 +0000" channel="NHK World.mncvision">
-    <title>Core Kyoto Mini</title>
-</programme>
-<programme start="20250601223000 +0000" stop="20250601224500 +0000" channel="NHK World.mncvision">
-    <title>Easy Japanese For Work</title>
-</programme>
-<programme start="20250601224500 +0000" stop="20250601230000 +0000" channel="NHK World.mncvision">
-    <title>Zero Waste Life</title>
-</programme>
-<programme start="20250601230000 +0000" stop="20250601231000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250601231000 +0000" stop="20250601235200 +0000" channel="NHK World.mncvision">
-    <title>Somewhere Street</title>
-</programme>
-<programme start="20250601235200 +0000" stop="20250601235500 +0000" channel="NHK World.mncvision">
-    <title>Time-Lapse Journey</title>
-</programme>
-<programme start="20250601235500 +0000" stop="20250602000000 +0000" channel="NHK World.mncvision">
-    <title>National Parks: Kerama</title>
-</programme>
-<programme start="20250602000000 +0000" stop="20250602001000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250602001000 +0000" stop="20250602001500 +0000" channel="NHK World.mncvision">
-    <title>Chatroom Japan</title>
-</programme>
-<programme start="20250602001500 +0000" stop="20250602003000 +0000" channel="NHK World.mncvision">
-    <title>Direct Talk</title>
-</programme>
-<programme start="20250602003000 +0000" stop="20250602010000 +0000" channel="NHK World.mncvision">
-    <title>Where We Call Home</title>
-</programme>
-<programme start="20250602010000 +0000" stop="20250602011000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250602011000 +0000" stop="20250602011500 +0000" channel="NHK World.mncvision">
-    <title>Masterpieces Of Historic...</title>
-</programme>
-<programme start="20250602011500 +0000" stop="20250602013000 +0000" channel="NHK World.mncvision">
-    <title>BOSAI: Linear Rainbands</title>
-</programme>
-<programme start="20250602013000 +0000" stop="20250602014000 +0000" channel="NHK World.mncvision">
-    <title>Magical Japanese: Oni</title>
-</programme>
-<programme start="20250602014000 +0000" stop="20250602014500 +0000" channel="NHK World.mncvision">
-    <title>Easy Japanese</title>
-</programme>
-<programme start="20250602014500 +0000" stop="20250602015500 +0000" channel="NHK World.mncvision">
-    <title>BOSAI: Be Prepared</title>
-</programme>
-<programme start="20250602015500 +0000" stop="20250602020000 +0000" channel="NHK World.mncvision">
-    <title>Hello! NHK World-Japan</title>
-</programme>
-<programme start="20250602020000 +0000" stop="20250602023000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250602023000 +0000" stop="20250602030000 +0000" channel="NHK World.mncvision">
-    <title>Seasoning The Seasons</title>
-</programme>
-<programme start="20250602030000 +0000" stop="20250602033000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250602033000 +0000" stop="20250602035500 +0000" channel="NHK World.mncvision">
-    <title>Darwin&#039;s Amazing Animals</title>
-</programme>
-<programme start="20250602035500 +0000" stop="20250602040000 +0000" channel="NHK World.mncvision">
-    <title>Time-Lapse Journey</title>
-</programme>
-<programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250602043000 +0000" stop="20250602045700 +0000" channel="NHK World.mncvision">
-    <title>Hometown Stories</title>
-</programme>
-<programme start="20250602045700 +0000" stop="20250602050000 +0000" channel="NHK World.mncvision">
-    <title>The Masterpieces Of Tsutaju</title>
-</programme>
-<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20250602053000 +0000" stop="20250602060000 +0000" channel="NHK World.mncvision">
-    <title>Where We Call Home</title>
-</programme>
-<programme start="20250602060000 +0000" stop="20250602063000 +0000" channel="NHK World.mncvision">
-    <title>Newsline Asia 24</title>
-</programme>
-<programme start="20250602063000 +0000" stop="20250602070000 +0000" channel="NHK World.mncvision">
-    <title>Magical Japanese: Oni</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250601173000 +0000" stop="20250601175500 +0000" channel="NHK World Premium.mncvision">
     <title>Beyond Gender: Clues To...</title>
 </programme>
@@ -7523,7 +7371,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Duck Camp Dinners S1, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601181500 +0000" stop="20250601190000 +0000" channel="RCTI.mncvision">
+    <title>Cupid Mencari Cinta</title>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601201500 +0000" channel="RCTI.mncvision">
+    <title>Bujang Karatan</title>
+</programme>
+<programme start="20250601201500 +0000" stop="20250601213000 +0000" channel="RCTI.mncvision">
+    <title>Sang Juara</title>
+</programme>
+<programme start="20250601213000 +0000" stop="20250601230000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun S6</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250601234500 +0000" channel="RCTI.mncvision">
+    <title>Barista</title>
+</programme>
+<programme start="20250601234500 +0000" stop="20250602010000 +0000" channel="RCTI.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602013000 +0000" channel="RCTI.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20250602013000 +0000" stop="20250602050000 +0000" channel="RCTI.mncvision">
+    <title>Doraemon Series</title>
+</programme>
+<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="RCTI.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20250602053000 +0000" stop="20250602073000 +0000" channel="RCTI.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250602073000 +0000" stop="20250602090000 +0000" channel="RCTI.mncvision">
+    <title>Di Luar Nalar</title>
+</programme>
+<programme start="20250602090000 +0000" stop="20250602100000 +0000" channel="RCTI.mncvision">
+    <title>Pay Later</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602111500 +0000" channel="RCTI.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250602111500 +0000" stop="20250602121500 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250602121500 +0000" stop="20250602133000 +0000" channel="RCTI.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602150000 +0000" channel="RCTI.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250602150000 +0000" stop="20250602161500 +0000" channel="RCTI.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250602161500 +0000" stop="20250602164500 +0000" channel="RCTI.mncvision">
+    <title>Beauty And The Bis</title>
+</programme>
 <programme start="20250601181500 +0000" stop="20250601190000 +0000" channel="RCTI HD.mncvision">
     <title>Cupid Mencari Cinta</title>
 </programme>
@@ -7785,7 +7686,132 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="SCTV HD.mncvision">
     <title>SCTV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="SEA TODAY.mncvision">
+    <title>Super Octogenarians</title>
+</programme>
+<programme start="20250601173000 +0000" stop="20250601180000 +0000" channel="SEA TODAY.mncvision">
+    <title>The Night Shift</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601183000 +0000" channel="SEA TODAY.mncvision">
+    <title>Night Guard S1</title>
+</programme>
+<programme start="20250601183000 +0000" stop="20250601190000 +0000" channel="SEA TODAY.mncvision">
+    <title>Reality Trip</title>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="SEA TODAY.mncvision">
+    <title>Discover London S2</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="SEA TODAY.mncvision">
+    <title>Duo Backpackers</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601203000 +0000" channel="SEA TODAY.mncvision">
+    <title>Side Walk</title>
+</programme>
+<programme start="20250601203000 +0000" stop="20250601210000 +0000" channel="SEA TODAY.mncvision">
+    <title>Tough Trains</title>
+</programme>
+<programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="SEA TODAY.mncvision">
+    <title>The Longest Day</title>
+</programme>
+<programme start="20250601213000 +0000" stop="20250601220000 +0000" channel="SEA TODAY.mncvision">
+    <title>Duo Backpackers</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601223000 +0000" channel="SEA TODAY.mncvision">
+    <title>Side Walk</title>
+</programme>
+<programme start="20250601223000 +0000" stop="20250601230000 +0000" channel="SEA TODAY.mncvision">
+    <title>Ruang Makna</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250601233000 +0000" channel="SEA TODAY.mncvision">
+    <title>SEAfood</title>
+</programme>
+<programme start="20250601233000 +0000" stop="20250602000000 +0000" channel="SEA TODAY.mncvision">
+    <title>Stories Of Taste S6</title>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602003000 +0000" channel="SEA TODAY.mncvision">
+    <title>Kaya Rasa</title>
+</programme>
+<programme start="20250602003000 +0000" stop="20250602010000 +0000" channel="SEA TODAY.mncvision">
+    <title>Hungry Hour</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602013000 +0000" channel="SEA TODAY.mncvision">
+    <title>Secret For A Healthy Life S4</title>
+</programme>
+<programme start="20250602013000 +0000" stop="20250602020000 +0000" channel="SEA TODAY.mncvision">
+    <title>Wellness Stories</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602023000 +0000" channel="SEA TODAY.mncvision">
+    <title>Living In Harmony</title>
+</programme>
+<programme start="20250602023000 +0000" stop="20250602030000 +0000" channel="SEA TODAY.mncvision">
+    <title>Luxe Asia S3</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602040000 +0000" channel="SEA TODAY.mncvision">
+    <title>Teman Bicara</title>
+</programme>
+<programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="SEA TODAY.mncvision">
+    <title>Animalpedia</title>
+</programme>
+<programme start="20250602043000 +0000" stop="20250602050000 +0000" channel="SEA TODAY.mncvision">
+    <title>Vet Tales</title>
+</programme>
+<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="SEA TODAY.mncvision">
+    <title>Dr. Lisa To The Rescue S2</title>
+</programme>
+<programme start="20250602053000 +0000" stop="20250602060000 +0000" channel="SEA TODAY.mncvision">
+    <title>Bonding Buddy</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602070000 +0000" channel="SEA TODAY.mncvision">
+    <title>SEA Today Business (L)</title>
+</programme>
+<programme start="20250602070000 +0000" stop="20250602073000 +0000" channel="SEA TODAY.mncvision">
+    <title>The Land Of Spices</title>
+</programme>
+<programme start="20250602073000 +0000" stop="20250602080000 +0000" channel="SEA TODAY.mncvision">
+    <title>Exploring Nusantara With...</title>
+</programme>
+<programme start="20250602080000 +0000" stop="20250602100000 +0000" channel="SEA TODAY.mncvision">
+    <title>2-Hour News Show (L)</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602103000 +0000" channel="SEA TODAY.mncvision">
+    <title>The Travel Note</title>
+</programme>
+<programme start="20250602103000 +0000" stop="20250602110000 +0000" channel="SEA TODAY.mncvision">
+    <title>Duo Backpackers</title>
+</programme>
+<programme start="20250602110000 +0000" stop="20250602113000 +0000" channel="SEA TODAY.mncvision">
+    <title>Side Walk</title>
+</programme>
+<programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="SEA TODAY.mncvision">
+    <title>The Shelter</title>
+</programme>
+<programme start="20250602120000 +0000" stop="20250602123000 +0000" channel="SEA TODAY.mncvision">
+    <title>Wild Cage</title>
+</programme>
+<programme start="20250602123000 +0000" stop="20250602130000 +0000" channel="SEA TODAY.mncvision">
+    <title>The Animal Library</title>
+</programme>
+<programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="SEA TODAY.mncvision">
+    <title>K9 Mounties</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="SEA TODAY.mncvision">
+    <title>Apose Bos Baru</title>
+</programme>
+<programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="SEA TODAY.mncvision">
+    <title>Buddy Talk</title>
+</programme>
+<programme start="20250602150000 +0000" stop="20250602153000 +0000" channel="SEA TODAY.mncvision">
+    <title>Sport&#039;s Tale</title>
+</programme>
+<programme start="20250602153000 +0000" stop="20250602160000 +0000" channel="SEA TODAY.mncvision">
+    <title>Beyond The Limit</title>
+</programme>
+<programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="SEA TODAY.mncvision">
+    <title>Why We Ride</title>
+</programme>
+<programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="SEA TODAY.mncvision">
+    <title>Autoday</title>
+</programme>
 <programme start="20250601170000 +0000" stop="20250601180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Malam</title>
 </programme>
@@ -8479,8 +8505,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Grand Slam Track: Philadelphia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601173000 +0000" stop="20250601180000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men 2024/25</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601200000 +0000" channel="SPOTV HD.mncvision">
+    <title>Isuzu UTE A-League Men</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601220000 +0000" channel="SPOTV HD.mncvision">
+    <title>Isuzu UTE A-League Men</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250602000000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 2024/25</title>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602010000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 SLS C&#039;ship Tour: Miami</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602020000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 SLS C&#039;ship Tour: Miami</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602043000 +0000" channel="SPOTV HD.mncvision">
+    <title>Isuzu UTE A-League Men</title>
+</programme>
+<programme start="20250602043000 +0000" stop="20250602060000 +0000" channel="SPOTV HD.mncvision">
+    <title>SPOTV Encore: Wimbledon &#039;24</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602070000 +0000" channel="SPOTV HD.mncvision">
+    <title>SPOTV Encore: Wimbledon &#039;24</title>
+</programme>
+<programme start="20250602070000 +0000" stop="20250602100000 +0000" channel="SPOTV HD.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602123000 +0000" channel="SPOTV HD.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250602123000 +0000" stop="20250602133000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602143000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602163000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250601172500 +0000" stop="20250601193000 +0000" channel="Studio Universal.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601212500 +0000" channel="Studio Universal.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250601212500 +0000" stop="20250601230000 +0000" channel="Studio Universal.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250602005500 +0000" channel="Studio Universal.mncvision">
+    <title>Junior</title>
+</programme>
+<programme start="20250602005500 +0000" stop="20250602030000 +0000" channel="Studio Universal.mncvision">
+    <title>Downton Abbey</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602045500 +0000" channel="Studio Universal.mncvision">
+    <title>Contraband</title>
+</programme>
+<programme start="20250602045500 +0000" stop="20250602065000 +0000" channel="Studio Universal.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250602065000 +0000" stop="20250602082500 +0000" channel="Studio Universal.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250602082500 +0000" stop="20250602100500 +0000" channel="Studio Universal.mncvision">
+    <title>Abominable</title>
+</programme>
+<programme start="20250602100500 +0000" stop="20250602114000 +0000" channel="Studio Universal.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20250602114000 +0000" stop="20250602133500 +0000" channel="Studio Universal.mncvision">
+    <title>E.T. The Extra-Terrestrial</title>
+</programme>
+<programme start="20250602133500 +0000" stop="20250602153000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future</title>
+</programme>
+<programme start="20250602153000 +0000" stop="20250602160000 +0000" channel="Studio Universal.mncvision">
+    <title>Abominable</title>
+</programme>
 <programme start="20250601172500 +0000" stop="20250601193000 +0000" channel="Studio Universal HD.mncvision">
     <title>Jason Bourne</title>
 </programme>
