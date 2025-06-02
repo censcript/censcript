@@ -181,6 +181,12 @@
     <programme start="20250621092500 +0000" stop="20250621114000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Tokyo Verdy</title>
     </programme>
+    <programme start="20250621095000 +0000" stop="20250621121000 +0000" channel="Optus Sport 10.optus">
+        <title>N/A - Jeonbuk v Seoul</title>
+    </programme>
+    <programme start="20250621095000 +0000" stop="20250621121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Pohang v Jeju</title>
+    </programme>
     <programme start="20250621095500 +0000" stop="20250621121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kawasaki v Vissel Kobe</title>
     </programme>
@@ -198,6 +204,9 @@
     </programme>
     <programme start="20250622092500 +0000" stop="20250622114000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Gamba v FC Tokyo</title>
+    </programme>
+    <programme start="20250622095000 +0000" stop="20250622121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Gwangju v Daejeon</title>
     </programme>
     <programme start="20250623020000 +0000" stop="20250623043000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Washington Spirit</title>
@@ -288,13 +297,4 @@
     </programme>
     <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Wales</title>
-    </programme>
-    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Netherlands v France</title>
-    </programme>
-    <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Shonan v Cerezo</title>
-    </programme>
-    <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Kashiwa</title>
     </programme>
