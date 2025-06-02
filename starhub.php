@@ -4000,6 +4000,9 @@
     <programme start="20250601230000 +0000" stop="20250601231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 46</title>
     </programme>
+    <programme start="20250601231500 +0000" stop="20250601235500 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
     <programme start="20250601235500 +0000" stop="20250602000000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
@@ -9709,6 +9712,9 @@
     <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="TestChannel 993.starhub">
         <title>Chop Chop Show</title>
     </programme>
+    <programme start="20250601160000 +0000" stop="20250601220000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
     <programme start="20250601220000 +0000" stop="20250602040000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
     </programme>
@@ -9718,20 +9724,11 @@
     <programme start="20250602100000 +0000" stop="20250602160000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
     </programme>
-    <programme start="20250601135000 +0000" stop="20250601180000 +0000" channel="Cricbuzz.starhub">
-        <title>LIVE: Qualifier 2, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250601180000 +0000" stop="20250601214600 +0000" channel="Cricbuzz.starhub">
-        <title>Replay: SL v IND 3rd T20I</title>
-    </programme>
-    <programme start="20250601214600 +0000" stop="20250601222700 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: Qualifier 2, TATA IPL 2025</title>
+    <programme start="20250601160000 +0000" stop="20250601220000 +0000" channel="Cricbuzz.starhub">
+        <title>No Transmission</title>
     </programme>
     <programme start="20250601220000 +0000" stop="20250602040000 +0000" channel="Cricbuzz.starhub">
         <title>No Transmission</title>
-    </programme>
-    <programme start="20250601222700 +0000" stop="20250601230700 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: PAK v BAN, 3rd T20I</title>
     </programme>
     <programme start="20250602040000 +0000" stop="20250602100000 +0000" channel="Cricbuzz.starhub">
         <title>No Transmission</title>
