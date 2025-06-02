@@ -493,34 +493,34 @@
     <programme start="20250601155959 +0000" stop="20250601160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250601160314 +0000" stop="20250601163107 +0000" channel="CNA.mewatch">
+    <programme start="20250601160002 +0000" stop="20250601160218 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250601160218 +0000" stop="20250601163011 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 10</title>
     </programme>
-    <programme start="20250601163107 +0000" stop="20250601170031 +0000" channel="CNA.mewatch">
+    <programme start="20250601163011 +0000" stop="20250601170000 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 7</title>
     </programme>
-    <programme start="20250601170031 +0000" stop="20250601175958 +0000" channel="CNA.mewatch">
+    <programme start="20250601170000 +0000" stop="20250601180000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 6</title>
     </programme>
-    <programme start="20250601175958 +0000" stop="20250601182958 +0000" channel="CNA.mewatch">
+    <programme start="20250601180000 +0000" stop="20250601182955 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250601182958 +0000" stop="20250601190012 +0000" channel="CNA.mewatch">
+    <programme start="20250601182955 +0000" stop="20250601190000 +0000" channel="CNA.mewatch">
         <title>Remarkable Living S6 - EP 1</title>
     </programme>
-    <programme start="20250601190012 +0000" stop="20250601193017 +0000" channel="CNA.mewatch">
+    <programme start="20250601190000 +0000" stop="20250601193015 +0000" channel="CNA.mewatch">
         <title>The Beauty Of Tenacity - EP 3</title>
     </programme>
-    <programme start="20250601193017 +0000" stop="20250601200002 +0000" channel="CNA.mewatch">
+    <programme start="20250601193015 +0000" stop="20250601200000 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 3</title>
     </programme>
-    <programme start="20250601200002 +0000" stop="20250601203002 +0000" channel="CNA.mewatch">
+    <programme start="20250601200000 +0000" stop="20250601205959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250601203002 +0000" stop="20250601210002 +0000" channel="CNA.mewatch">
-        <title>Into the Vault S3 - EP 4</title>
-    </programme>
-    <programme start="20250601210002 +0000" stop="20250601220000 +0000" channel="CNA.mewatch">
+    <programme start="20250601205959 +0000" stop="20250601220000 +0000" channel="CNA.mewatch">
         <title>My Debal Diaries</title>
     </programme>
     <programme start="20250601220000 +0000" stop="20250601223000 +0000" channel="CNA.mewatch">
