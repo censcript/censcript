@@ -2998,8 +2998,11 @@
 <programme start="20250602010000 +0000" stop="20250602020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250602020000 +0000" stop="20250602043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250602020000 +0000" stop="20250602040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: Borussia Dortmund - FC Schalke 04, Westfalenpokal Frauen, Finale</title>
+</programme>
+<programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore - letzter Spieltag</title>
 </programme>
 <programme start="20250602043000 +0000" stop="20250602070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
