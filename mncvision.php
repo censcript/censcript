@@ -8752,9 +8752,129 @@
 <programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Grand Slam Track: Philadelphia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601173000 +0000" stop="20250601180000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men 2024/25</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601200000 +0000" channel="SPOTV HD.mncvision">
+    <title>Isuzu UTE A-League Men</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601220000 +0000" channel="SPOTV HD.mncvision">
+    <title>Isuzu UTE A-League Men</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250602000000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 2024/25</title>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602010000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 SLS C&#039;ship Tour: Miami</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602020000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 SLS C&#039;ship Tour: Miami</title>
+</programme>
+<programme start="20250602020000 +0000" stop="20250602043000 +0000" channel="SPOTV HD.mncvision">
+    <title>Isuzu UTE A-League Men</title>
+</programme>
+<programme start="20250602043000 +0000" stop="20250602060000 +0000" channel="SPOTV HD.mncvision">
+    <title>SPOTV Encore: Wimbledon &#039;24</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602070000 +0000" channel="SPOTV HD.mncvision">
+    <title>SPOTV Encore: Wimbledon &#039;24</title>
+</programme>
+<programme start="20250602070000 +0000" stop="20250602100000 +0000" channel="SPOTV HD.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602123000 +0000" channel="SPOTV HD.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250602123000 +0000" stop="20250602133000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602143000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602163000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S11: Shanghai</title>
+</programme>
+<programme start="20250601172500 +0000" stop="20250601193000 +0000" channel="Studio Universal.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601212500 +0000" channel="Studio Universal.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250601212500 +0000" stop="20250601230000 +0000" channel="Studio Universal.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250602005500 +0000" channel="Studio Universal.mncvision">
+    <title>Junior</title>
+</programme>
+<programme start="20250602005500 +0000" stop="20250602030000 +0000" channel="Studio Universal.mncvision">
+    <title>Downton Abbey</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602045500 +0000" channel="Studio Universal.mncvision">
+    <title>Contraband</title>
+</programme>
+<programme start="20250602045500 +0000" stop="20250602065000 +0000" channel="Studio Universal.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250602065000 +0000" stop="20250602082500 +0000" channel="Studio Universal.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250602082500 +0000" stop="20250602100500 +0000" channel="Studio Universal.mncvision">
+    <title>Abominable</title>
+</programme>
+<programme start="20250602100500 +0000" stop="20250602114000 +0000" channel="Studio Universal.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20250602114000 +0000" stop="20250602133500 +0000" channel="Studio Universal.mncvision">
+    <title>E.T. The Extra-Terrestrial</title>
+</programme>
+<programme start="20250602133500 +0000" stop="20250602153000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future</title>
+</programme>
+<programme start="20250602153000 +0000" stop="20250602160000 +0000" channel="Studio Universal.mncvision">
+    <title>Abominable</title>
+</programme>
+<programme start="20250601172500 +0000" stop="20250601193000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601212500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250601212500 +0000" stop="20250601230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250602005500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Junior</title>
+</programme>
+<programme start="20250602005500 +0000" stop="20250602030000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Downton Abbey</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602045500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Contraband</title>
+</programme>
+<programme start="20250602045500 +0000" stop="20250602065000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250602065000 +0000" stop="20250602082500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250602082500 +0000" stop="20250602100500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Abominable</title>
+</programme>
+<programme start="20250602100500 +0000" stop="20250602114000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20250602114000 +0000" stop="20250602133500 +0000" channel="Studio Universal HD.mncvision">
+    <title>E.T. The Extra-Terrestrial</title>
+</programme>
+<programme start="20250602133500 +0000" stop="20250602153000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Back To The Future</title>
+</programme>
+<programme start="20250602153000 +0000" stop="20250602160000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Abominable</title>
+</programme>
 <programme start="20250601174500 +0000" stop="20250601192600 +0000" channel="Superrix.mncvision">
     <title>Horizon Line</title>
 </programme>
@@ -8791,7 +8911,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602152200 +0000" stop="20250602155200 +0000" channel="Superrix.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601174500 +0000" stop="20250601192600 +0000" channel="Superrix HD.mncvision">
+    <title>Horizon Line</title>
+</programme>
+<programme start="20250601192600 +0000" stop="20250601213500 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250601213500 +0000" stop="20250601232300 +0000" channel="Superrix HD.mncvision">
+    <title>Wander</title>
+</programme>
+<programme start="20250601232300 +0000" stop="20250602012100 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250602012100 +0000" stop="20250602032500 +0000" channel="Superrix HD.mncvision">
+    <title>Home Again</title>
+</programme>
+<programme start="20250602032500 +0000" stop="20250602054400 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250602054400 +0000" stop="20250602073700 +0000" channel="Superrix HD.mncvision">
+    <title>Apex</title>
+</programme>
+<programme start="20250602073700 +0000" stop="20250602095900 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250602095900 +0000" stop="20250602114700 +0000" channel="Superrix HD.mncvision">
+    <title>Percy</title>
+</programme>
+<programme start="20250602114700 +0000" stop="20250602133100 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250602133100 +0000" stop="20250602152200 +0000" channel="Superrix HD.mncvision">
+    <title>Multiverse</title>
+</programme>
+<programme start="20250602152200 +0000" stop="20250602155200 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>

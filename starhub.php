@@ -4000,17 +4000,14 @@
     <programme start="20250601230000 +0000" stop="20250601231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 46</title>
     </programme>
-    <programme start="20250601231500 +0000" stop="20250602005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20250601235500 +0000" stop="20250602000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
     </programme>
-    <programme start="20250602005400 +0000" stop="20250602005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250602005500 +0000" stop="20250602010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+    <programme start="20250602000000 +0000" stop="20250602010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Dosan Line &amp; Tosa Kuroshio Railway (R)</title>
     </programme>
     <programme start="20250602010000 +0000" stop="20250602010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Exercise for Everyone</title>
     </programme>
     <programme start="20250602010500 +0000" stop="20250602015300 +0000" channel="NHK World Premium HD.starhub">
         <title>Project X: The Challengers-New Beginnings &quot;Student-Developed Canned Mackerel for</title>
@@ -4022,7 +4019,7 @@
         <title>City-Scope (R)</title>
     </programme>
     <programme start="20250602020500 +0000" stop="20250602025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama 10 &quot;Happiness Comes from Eating, Sleeping and Waiting&quot; Eps. 9（Final） (R)</title>
+        <title>Drama 10 &quot;Happiness Comes from Eating, Sleeping and Waiting&quot; Eps. 9 (Final)(R)</title>
     </programme>
     <programme start="20250602025000 +0000" stop="20250602025600 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
@@ -4045,10 +4042,13 @@
     <programme start="20250602034500 +0000" stop="20250602040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 46 (R)</title>
     </programme>
-    <programme start="20250602040000 +0000" stop="20250602040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20250602040000 +0000" stop="20250602045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20250602040500 +0000" stop="20250602055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250602045500 +0000" stop="20250602051500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World&#039;s Magnificent Sight Journey</title>
+    </programme>
+    <programme start="20250602051500 +0000" stop="20250602055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250602055000 +0000" stop="20250602055500 +0000" channel="NHK World Premium HD.starhub">
@@ -9709,6 +9709,15 @@
     <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="TestChannel 993.starhub">
         <title>Chop Chop Show</title>
     </programme>
+    <programme start="20250601220000 +0000" stop="20250602040000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250602040000 +0000" stop="20250602100000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250602100000 +0000" stop="20250602160000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
     <programme start="20250601135000 +0000" stop="20250601180000 +0000" channel="Cricbuzz.starhub">
         <title>LIVE: Qualifier 2, TATA IPL 2025</title>
     </programme>
@@ -9718,72 +9727,15 @@
     <programme start="20250601214600 +0000" stop="20250601222700 +0000" channel="Cricbuzz.starhub">
         <title>Highlights: Qualifier 2, TATA IPL 2025</title>
     </programme>
+    <programme start="20250601220000 +0000" stop="20250602040000 +0000" channel="Cricbuzz.starhub">
+        <title>No Transmission</title>
+    </programme>
     <programme start="20250601222700 +0000" stop="20250601230700 +0000" channel="Cricbuzz.starhub">
         <title>Highlights: PAK v BAN, 3rd T20I</title>
     </programme>
-    <programme start="20250601230700 +0000" stop="20250602010000 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: AUS v IND, 3rd Test</title>
+    <programme start="20250602040000 +0000" stop="20250602100000 +0000" channel="Cricbuzz.starhub">
+        <title>No Transmission</title>
     </programme>
-    <programme start="20250602010000 +0000" stop="20250602012800 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M40 LSG v DC, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602012800 +0000" stop="20250602020800 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M57 KKR v CSK, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602020800 +0000" stop="20250602025900 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: SL v WI, 1st T20I</title>
-    </programme>
-    <programme start="20250602025900 +0000" stop="20250602034200 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M63 MI v DC, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602034200 +0000" stop="20250602043300 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: SL v WI, 1st ODI</title>
-    </programme>
-    <programme start="20250602043300 +0000" stop="20250602051900 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M48 DC v KKR, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602051900 +0000" stop="20250602055900 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M38 MI v CSK, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602055900 +0000" stop="20250602063300 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M60 DC v GT, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602063300 +0000" stop="20250602071400 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M31 PBKS v KKR, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602071400 +0000" stop="20250602075900 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: SL v AUS, 2nd ODI</title>
-    </programme>
-    <programme start="20250602075900 +0000" stop="20250602085900 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: IND v ENG, 2nd ODI</title>
-    </programme>
-    <programme start="20250602085900 +0000" stop="20250602093700 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: IND v ENG, 1st T20I</title>
-    </programme>
-    <programme start="20250602093700 +0000" stop="20250602103100 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M20 MI v RCB, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602103100 +0000" stop="20250602111700 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M7 SRH v LSG, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602111700 +0000" stop="20250602115100 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M56 MI v GT, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602115100 +0000" stop="20250602123600 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: M52 RCB v CSK, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602123600 +0000" stop="20250602131300 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: IND v ENG, 2nd T20I</title>
-    </programme>
-    <programme start="20250602131300 +0000" stop="20250602135400 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: Qualifier 1, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602135400 +0000" stop="20250602143400 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: Eliminator, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602143400 +0000" stop="20250602151400 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: Qualifier 2, TATA IPL 2025</title>
-    </programme>
-    <programme start="20250602151400 +0000" stop="20250602162200 +0000" channel="Cricbuzz.starhub">
-        <title>Highlights: IND v ENG, 3rd ODI</title>
+    <programme start="20250602100000 +0000" stop="20250602160000 +0000" channel="Cricbuzz.starhub">
+        <title>No Transmission</title>
     </programme>

@@ -469,19 +469,19 @@
     <programme start="20250602130000 +0000" stop="20250602133001 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 6</title>
     </programme>
-    <programme start="20250602133001 +0000" stop="20250602140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602133001 +0000" stop="20250602140030 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 7</title>
     </programme>
-    <programme start="20250602140000 +0000" stop="20250602142958 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602140030 +0000" stop="20250602143028 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 3</title>
     </programme>
-    <programme start="20250602142958 +0000" stop="20250602145959 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602143028 +0000" stop="20250602150029 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 4</title>
     </programme>
-    <programme start="20250602145959 +0000" stop="20250602153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602150029 +0000" stop="20250602153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 2</title>
     </programme>
-    <programme start="20250602153000 +0000" stop="20250602160100 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602153000 +0000" stop="20250602160200 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250601155959 +0000" stop="20250601160314 +0000" channel="CNA.mewatch">
