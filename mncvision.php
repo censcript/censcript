@@ -1213,17 +1213,14 @@
 <programme start="20250601173000 +0000" stop="20250601183000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel: Buenos Aires (L)</title>
 </programme>
-<programme start="20250601183000 +0000" stop="20250601190000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250601183000 +0000" stop="20250601203000 +0000" channel="beIN Sports 3.mncvision">
+    <title>PSG Victory Celebrations (L)</title>
+</programme>
+<programme start="20250601203000 +0000" stop="20250601210000 +0000" channel="beIN Sports 3.mncvision">
     <title>LaLiga Talking Football 2024/25</title>
 </programme>
-<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Nastro Rosa Tour 2024</title>
-</programme>
-<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="beIN Sports 3.mncvision">
     <title>The World Sailing Show 2025</title>
-</programme>
-<programme start="20250601200000 +0000" stop="20250601213000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel: Buenos Aires (L)</title>
 </programme>
 <programme start="20250601213000 +0000" stop="20250601220000 +0000" channel="beIN Sports 3.mncvision">
     <title>Cape Epic HL 2025: Stage 1</title>
@@ -1261,17 +1258,14 @@
 <programme start="20250601173000 +0000" stop="20250601183000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel: Buenos Aires (L)</title>
 </programme>
-<programme start="20250601183000 +0000" stop="20250601190000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250601183000 +0000" stop="20250601203000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>PSG Victory Celebrations (L)</title>
+</programme>
+<programme start="20250601203000 +0000" stop="20250601210000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>LaLiga Talking Football 2024/25</title>
 </programme>
-<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Nastro Rosa Tour 2024</title>
-</programme>
-<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>The World Sailing Show 2025</title>
-</programme>
-<programme start="20250601200000 +0000" stop="20250601213000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel: Buenos Aires (L)</title>
 </programme>
 <programme start="20250601213000 +0000" stop="20250601220000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Cape Epic HL 2025: Stage 1</title>
