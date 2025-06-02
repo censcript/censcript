@@ -4916,7 +4916,7 @@
     <title>Berkah Shop</title>
 </programme>
 <programme start="20250602090000 +0000" stop="20250602100000 +0000" channel="JAKTV.mncvision">
-    <title>Power Of Soul</title>
+    <title>Klinik Nurhidayah</title>
 </programme>
 <programme start="20250602100000 +0000" stop="20250602110000 +0000" channel="JAKTV.mncvision">
     <title>Herbates</title>
@@ -7625,15 +7625,15 @@
     <title>Duck Camp Dinners S1, Ep 4</title>
 </programme>
 <programme start="20250601181500 +0000" stop="20250601190000 +0000" channel="RCTI.mncvision">
-    <title>Cupid Mencari Cinta</title>
+    <title>Loli Secret Diary</title>
 </programme>
-<programme start="20250601190000 +0000" stop="20250601201500 +0000" channel="RCTI.mncvision">
-    <title>Bujang Karatan</title>
+<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20250601201500 +0000" stop="20250601213000 +0000" channel="RCTI.mncvision">
+<programme start="20250601193000 +0000" stop="20250601210000 +0000" channel="RCTI.mncvision">
     <title>Sang Juara</title>
 </programme>
-<programme start="20250601213000 +0000" stop="20250601230000 +0000" channel="RCTI.mncvision">
+<programme start="20250601210000 +0000" stop="20250601230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S6</title>
 </programme>
 <programme start="20250601230000 +0000" stop="20250601234500 +0000" channel="RCTI.mncvision">
@@ -7676,18 +7676,18 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250602161500 +0000" stop="20250602164500 +0000" channel="RCTI.mncvision">
-    <title>Beauty And The Bis</title>
+    <title>Cintaku Diculik Kamu</title>
 </programme>
 <programme start="20250601181500 +0000" stop="20250601190000 +0000" channel="RCTI HD.mncvision">
-    <title>Cupid Mencari Cinta</title>
+    <title>Loli Secret Diary</title>
 </programme>
-<programme start="20250601190000 +0000" stop="20250601201500 +0000" channel="RCTI HD.mncvision">
-    <title>Bujang Karatan</title>
+<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="RCTI HD.mncvision">
+    <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20250601201500 +0000" stop="20250601213000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250601193000 +0000" stop="20250601210000 +0000" channel="RCTI HD.mncvision">
     <title>Sang Juara</title>
 </programme>
-<programme start="20250601213000 +0000" stop="20250601230000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250601210000 +0000" stop="20250601230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S6</title>
 </programme>
 <programme start="20250601230000 +0000" stop="20250601234500 +0000" channel="RCTI HD.mncvision">
@@ -7730,7 +7730,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250602161500 +0000" stop="20250602164500 +0000" channel="RCTI HD.mncvision">
-    <title>Beauty And The Bis</title>
+    <title>Cintaku Diculik Kamu</title>
 </programme>
 <programme start="20250601183000 +0000" stop="20250601202000 +0000" channel="Rock Action.mncvision">
     <title>Terminator Salvation</title>

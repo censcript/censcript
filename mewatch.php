@@ -220,28 +220,28 @@
     <programme start="20250602093111 +0000" stop="20250602103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 14</title>
     </programme>
-    <programme start="20250602103000 +0000" stop="20250602113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602103000 +0000" stop="20250602112955 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 45</title>
     </programme>
-    <programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602112955 +0000" stop="20250602115932 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 45</title>
     </programme>
-    <programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602115932 +0000" stop="20250602125935 +0000" channel="Channel 8.mewatch">
         <title>Forbidding No More S3 - EP 4</title>
     </programme>
-    <programme start="20250602130000 +0000" stop="20250602140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602125935 +0000" stop="20250602140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 8</title>
     </programme>
-    <programme start="20250602140000 +0000" stop="20250602143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602140000 +0000" stop="20250602143059 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602143059 +0000" stop="20250602150115 +0000" channel="Channel 8.mewatch">
         <title>Connecting Earth and Sky - EP 5</title>
     </programme>
-    <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602150115 +0000" stop="20250602155959 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 6</title>
     </programme>
-    <programme start="20250602160000 +0000" stop="20250602170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602155959 +0000" stop="20250602165959 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 25</title>
     </programme>
     <programme start="20250601153057 +0000" stop="20250601163023 +0000" channel="Channel U.mewatch">
@@ -409,23 +409,20 @@
     <programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 1</title>
     </programme>
-    <programme start="20250602120000 +0000" stop="20250602123000 +0000" channel="Suria.mewatch">
+    <programme start="20250602120000 +0000" stop="20250602123005 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250602123000 +0000" stop="20250602133000 +0000" channel="Suria.mewatch">
+    <programme start="20250602123005 +0000" stop="20250602133008 +0000" channel="Suria.mewatch">
         <title>Manja S10 - EP 5</title>
     </programme>
-    <programme start="20250602133000 +0000" stop="20250602143000 +0000" channel="Suria.mewatch">
+    <programme start="20250602133008 +0000" stop="20250602143019 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 2</title>
     </programme>
-    <programme start="20250602143000 +0000" stop="20250602153000 +0000" channel="Suria.mewatch">
+    <programme start="20250602143019 +0000" stop="20250602153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 5</title>
     </programme>
-    <programme start="20250602153000 +0000" stop="20250602160000 +0000" channel="Suria.mewatch">
+    <programme start="20250602153000 +0000" stop="20250602160002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250602160000 +0000" stop="20250603010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250601135955 +0000" stop="20250601163002 +0000" channel="Vasantham.mewatch">
         <title>Petromax</title>
@@ -472,19 +469,19 @@
     <programme start="20250602123000 +0000" stop="20250602130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602130000 +0000" stop="20250602133001 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 6</title>
     </programme>
-    <programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602133001 +0000" stop="20250602140000 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 7</title>
     </programme>
-    <programme start="20250602140000 +0000" stop="20250602143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602140000 +0000" stop="20250602142958 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 3</title>
     </programme>
-    <programme start="20250602143000 +0000" stop="20250602150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602142958 +0000" stop="20250602145959 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 4</title>
     </programme>
-    <programme start="20250602150000 +0000" stop="20250602153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250602145959 +0000" stop="20250602153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 2</title>
     </programme>
     <programme start="20250602153000 +0000" stop="20250602160100 +0000" channel="Vasantham.mewatch">
@@ -556,26 +553,23 @@
     <programme start="20250602095959 +0000" stop="20250602110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250602110000 +0000" stop="20250602113000 +0000" channel="CNA.mewatch">
+    <programme start="20250602110000 +0000" stop="20250602112959 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 7</title>
     </programme>
-    <programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="CNA.mewatch">
+    <programme start="20250602112959 +0000" stop="20250602115959 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 3</title>
     </programme>
-    <programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="CNA.mewatch">
+    <programme start="20250602115959 +0000" stop="20250602125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250602130000 +0000" stop="20250602140000 +0000" channel="CNA.mewatch">
+    <programme start="20250602125959 +0000" stop="20250602140000 +0000" channel="CNA.mewatch">
         <title>Love After 60</title>
     </programme>
-    <programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="CNA.mewatch">
+    <programme start="20250602140000 +0000" stop="20250602150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250602150000 +0000" stop="20250602160000 +0000" channel="CNA.mewatch">
+    <programme start="20250602150105 +0000" stop="20250602160002 +0000" channel="CNA.mewatch">
         <title>My Debal Diaries</title>
-    </programme>
-    <programme start="20250602160000 +0000" stop="20250602160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250601155959 +0000" stop="20250601170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
@@ -1034,10 +1028,10 @@
         <title>No programme available now. Next broadcast on 3rd June, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250601160000 +0000" stop="20250602160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 6th June, Friday 8.30pm. ONE Friday Fights 111</title>
+        <title>No programme available now. Next broadcast on 5th June, Thursday 7.20pm. Men&#039;s &#039;A&#039; National Team friendly: Singapore vs Maldives</title>
     </programme>
     <programme start="20250602160000 +0000" stop="20250603160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 6th June, Friday 8.30pm. ONE Friday Fights 111</title>
+        <title>No programme available now. Next broadcast on 5th June, Thursday 7.20pm. Men&#039;s &#039;A&#039; National Team friendly: Singapore vs Maldives</title>
     </programme>
     <programme start="20250601160000 +0000" stop="20250602160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
