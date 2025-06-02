@@ -211,14 +211,23 @@
     <programme start="20250623020000 +0000" stop="20250623043000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Washington Spirit</title>
     </programme>
+    <programme start="20250627102000 +0000" stop="20250627124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Daejeon v Jeju</title>
+    </programme>
     <programme start="20250628092500 +0000" stop="20250628114000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shimizu v Kashiwa</title>
+    </programme>
+    <programme start="20250628095000 +0000" stop="20250628121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Anyang v Gwangju</title>
     </programme>
     <programme start="20250628095500 +0000" stop="20250628121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Sanfrecce v Nagoya</title>
     </programme>
     <programme start="20250629085500 +0000" stop="20250629111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Tokyo Verdy v Kawasaki</title>
+    </programme>
+    <programme start="20250629095000 +0000" stop="20250629121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Seoul v Pohang</title>
     </programme>
     <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
@@ -288,13 +297,4 @@
     </programme>
     <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Italy v Spain</title>
-    </programme>
-    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
-    </programme>
-    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
-    </programme>
-    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - England v Wales</title>
     </programme>
