@@ -6118,11 +6118,8 @@
     <programme start="20250602025500 +0000" stop="20250602042500 +0000" channel="ROCK Entertainment.starhub">
         <title>What Children Do</title>
     </programme>
-    <programme start="20250602042500 +0000" stop="20250602045500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Flamenco Jazz Festival Japan Closing Concert</title>
-    </programme>
-    <programme start="20250602045500 +0000" stop="20250602055500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Flamenco Jazz Festival Japan Closing Concert</title>
+    <programme start="20250602042500 +0000" stop="20250602055500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Peter Rabbit</title>
     </programme>
     <programme start="20250602055500 +0000" stop="20250602064000 +0000" channel="ROCK Entertainment.starhub">
         <title>The Tonight Show Starring Jimmy Fallon S12</title>
@@ -6145,11 +6142,11 @@
     <programme start="20250602102500 +0000" stop="20250602121500 +0000" channel="ROCK Entertainment.starhub">
         <title>The Competition</title>
     </programme>
-    <programme start="20250602121500 +0000" stop="20250602124500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Flamenco Jazz Festival Japan Closing Concert</title>
+    <programme start="20250602121500 +0000" stop="20250602130000 +0000" channel="ROCK Entertainment.starhub">
+        <title>Get By With A Little Help From My Friends</title>
     </programme>
-    <programme start="20250602124500 +0000" stop="20250602134500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Flamenco Jazz Festival Japan Closing Concert</title>
+    <programme start="20250602130000 +0000" stop="20250602134500 +0000" channel="ROCK Entertainment.starhub">
+        <title>I Think I Know You, But Do I Really</title>
     </programme>
     <programme start="20250602134500 +0000" stop="20250602143000 +0000" channel="ROCK Entertainment.starhub">
         <title>Sink or Swim</title>

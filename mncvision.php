@@ -4637,43 +4637,46 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250601213000 +0000" stop="20250601230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20250601230000 +0000" stop="20250602010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250601230000 +0000" stop="20250602000000 +0000" channel="Indosiar.mncvision">
+    <title>Magic 5 S4</title>
 </programme>
-<programme start="20250602010000 +0000" stop="20250602030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602000000 +0000" stop="20250602013000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20250602013000 +0000" stop="20250602030000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250602030000 +0000" stop="20250602040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250602043000 +0000" stop="20250602050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20250602050000 +0000" stop="20250602063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602050000 +0000" stop="20250602070000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20250602063000 +0000" stop="20250602080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602070000 +0000" stop="20250602090000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250602080000 +0000" stop="20250602103000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602090000 +0000" stop="20250602100000 +0000" channel="Indosiar.mncvision">
+    <title>Magic 5 S4</title>
 </programme>
-<programme start="20250602103000 +0000" stop="20250602113000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602100000 +0000" stop="20250602120000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Premiere</title>
 </programme>
-<programme start="20250602113000 +0000" stop="20250602140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602120000 +0000" stop="20250602140000 +0000" channel="Indosiar.mncvision">
+    <title>Harga Diri</title>
 </programme>
 <programme start="20250602140000 +0000" stop="20250602163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Mega Film Asia Prime</title>
 </programme>
 <programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250601180000 +0000" stop="20250601200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4682,43 +4685,46 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250601213000 +0000" stop="20250601230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20250601230000 +0000" stop="20250602010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250601230000 +0000" stop="20250602000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Magic 5 S4</title>
 </programme>
-<programme start="20250602010000 +0000" stop="20250602030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602000000 +0000" stop="20250602013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20250602013000 +0000" stop="20250602030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250602030000 +0000" stop="20250602040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250602043000 +0000" stop="20250602050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20250602050000 +0000" stop="20250602063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602050000 +0000" stop="20250602070000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20250602063000 +0000" stop="20250602080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602070000 +0000" stop="20250602090000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250602080000 +0000" stop="20250602103000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602090000 +0000" stop="20250602100000 +0000" channel="Indosiar HD.mncvision">
+    <title>Magic 5 S4</title>
 </programme>
-<programme start="20250602103000 +0000" stop="20250602113000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602100000 +0000" stop="20250602120000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Premiere</title>
 </programme>
-<programme start="20250602113000 +0000" stop="20250602140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250602120000 +0000" stop="20250602140000 +0000" channel="Indosiar HD.mncvision">
+    <title>Harga Diri</title>
 </programme>
 <programme start="20250602140000 +0000" stop="20250602163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Mega Film Asia Prime</title>
 </programme>
 <programme start="20250602163000 +0000" stop="20250601170000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250601173000 +0000" stop="20250601190000 +0000" channel="iNews.mncvision">
     <title>SEA Games 2021: PHI Vs IDN</title>
@@ -5068,7 +5074,129 @@
 <programme start="20250602165000 +0000" stop="20250601172000 +0000" channel="Kids TV.mncvision">
     <title>Little Baby Bum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="Kids TV HD.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20250601173000 +0000" stop="20250601180000 +0000" channel="Kids TV HD.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250601180000 +0000" stop="20250601183000 +0000" channel="Kids TV HD.mncvision">
+    <title>I Can Do It</title>
+</programme>
+<programme start="20250601183000 +0000" stop="20250601190000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kids Menu</title>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penjelajah Cilik</title>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601203000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250601203000 +0000" stop="20250601210000 +0000" channel="Kids TV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250601213000 +0000" stop="20250601220000 +0000" channel="Kids TV HD.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601223000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250601223000 +0000" stop="20250601230000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250601230000 +0000" stop="20250601235000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250601235000 +0000" stop="20250602000000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602003000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250602003000 +0000" stop="20250602010000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250602010000 +0000" stop="20250602030000 +0000" channel="Kids TV HD.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602033000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250602033000 +0000" stop="20250602040000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="Kids TV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250602043000 +0000" stop="20250602050000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="Kids TV HD.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250602053000 +0000" stop="20250602060000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250602060000 +0000" stop="20250602063000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250602063000 +0000" stop="20250602070000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250602070000 +0000" stop="20250602073000 +0000" channel="Kids TV HD.mncvision">
+    <title>Sherazade</title>
+</programme>
+<programme start="20250602073000 +0000" stop="20250602082000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250602082000 +0000" stop="20250602083000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250602083000 +0000" stop="20250602092000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kun Anta Mendadak Santri</title>
+</programme>
+<programme start="20250602092000 +0000" stop="20250602093000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250602093000 +0000" stop="20250602100000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250602100000 +0000" stop="20250602101500 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250602101500 +0000" stop="20250602120000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250602120000 +0000" stop="20250602123000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250602123000 +0000" stop="20250602130000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="Kids TV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250602140000 +0000" stop="20250602143000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602160000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kids Movie Special</title>
+</programme>
+<programme start="20250602160000 +0000" stop="20250602165000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250602165000 +0000" stop="20250601172000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
 <programme start="20250601184000 +0000" stop="20250601193000 +0000" channel="KIX.mncvision">
     <title>Totally Outnumbered, Ep 1</title>
 </programme>
@@ -7640,13 +7768,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602151500 +0000" stop="20250602154500 +0000" channel="Rock Action.mncvision">
     <title>The 6th Day</title>
 </programme>
-<programme start="20250601172000 +0000" stop="20250601184500 +0000" channel="Rock Entertainment.mncvision">
+<programme start="20250601172000 +0000" stop="20250601185000 +0000" channel="Rock Entertainment.mncvision">
     <title>What Children Do</title>
 </programme>
-<programme start="20250601184500 +0000" stop="20250601205100 +0000" channel="Rock Entertainment.mncvision">
+<programme start="20250601185000 +0000" stop="20250601205500 +0000" channel="Rock Entertainment.mncvision">
     <title>Across The Universe</title>
 </programme>
-<programme start="20250601205100 +0000" stop="20250601220000 +0000" channel="Rock Entertainment.mncvision">
+<programme start="20250601205500 +0000" stop="20250601220000 +0000" channel="Rock Entertainment.mncvision">
     <title>DOC: In Your Hands, Ep 14</title>
 </programme>
 <programme start="20250601220000 +0000" stop="20250601224500 +0000" channel="Rock Entertainment.mncvision">
@@ -7673,11 +7801,8 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602025500 +0000" stop="20250602042500 +0000" channel="Rock Entertainment.mncvision">
     <title>What Children Do</title>
 </programme>
-<programme start="20250602042500 +0000" stop="20250602045500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Flamenco Jazz Festival Japan</title>
-</programme>
-<programme start="20250602045500 +0000" stop="20250602055500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Flamenco Jazz Festival Japan</title>
+<programme start="20250602042500 +0000" stop="20250602055500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Peter Rabbit</title>
 </programme>
 <programme start="20250602055500 +0000" stop="20250602064000 +0000" channel="Rock Entertainment.mncvision">
     <title>The Tonight Show S12, Ep 115</title>
@@ -7700,11 +7825,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602102500 +0000" stop="20250602121500 +0000" channel="Rock Entertainment.mncvision">
     <title>The Competition</title>
 </programme>
-<programme start="20250602121500 +0000" stop="20250602124500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Flamenco Jazz Festival Japan</title>
+<programme start="20250602121500 +0000" stop="20250602130000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Chicago Med S9, Ep 12</title>
 </programme>
-<programme start="20250602124500 +0000" stop="20250602134500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Flamenco Jazz Festival Japan</title>
+<programme start="20250602130000 +0000" stop="20250602134500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Chicago Med S9, Ep 13</title>
 </programme>
 <programme start="20250602134500 +0000" stop="20250602143000 +0000" channel="Rock Entertainment.mncvision">
     <title>Chicago Med S10, Ep 1</title>
@@ -7722,46 +7847,49 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mysem, My Bos My Love</title>
 </programme>
 <programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250601213000 +0000" stop="20250601231500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250601213000 +0000" stop="20250601225800 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250601231500 +0000" stop="20250602000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250601225800 +0000" stop="20250602000200 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250602000000 +0000" stop="20250602013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602000200 +0000" stop="20250602013300 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250602013000 +0000" stop="20250602030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602013300 +0000" stop="20250602030200 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250602030000 +0000" stop="20250602050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602030200 +0000" stop="20250602045500 +0000" channel="SCTV.mncvision">
+    <title>Arjuna Cintanya Gak Pernah...</title>
 </programme>
-<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602045500 +0000" stop="20250602053000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250602053000 +0000" stop="20250602073000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602053000 +0000" stop="20250602071500 +0000" channel="SCTV.mncvision">
+    <title>Dua Dunia Salma</title>
 </programme>
-<programme start="20250602073000 +0000" stop="20250602091500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602071500 +0000" stop="20250602085100 +0000" channel="SCTV.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250602091500 +0000" stop="20250602100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602085100 +0000" stop="20250602100000 +0000" channel="SCTV.mncvision">
+    <title>Married With Senior</title>
 </programme>
-<programme start="20250602100000 +0000" stop="20250602111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602100000 +0000" stop="20250602112500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250602111500 +0000" stop="20250602130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602112500 +0000" stop="20250602130000 +0000" channel="SCTV.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250602130000 +0000" stop="20250602160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250602130000 +0000" stop="20250602143000 +0000" channel="SCTV.mncvision">
+    <title>Bukan Karena Tak Cinta</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602160000 +0000" channel="SCTV.mncvision">
+    <title>Luka Cinta</title>
 </programme>
 <programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Abang Sate Cintanya Mulai...</title>
 </programme>
 <programme start="20250601180000 +0000" stop="20250601200000 +0000" channel="SCTV HD.mncvision">
     <title>Rebutan Supir Ganteng</title>
@@ -7770,46 +7898,49 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mysem, My Bos My Love</title>
 </programme>
 <programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250601213000 +0000" stop="20250601231500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250601213000 +0000" stop="20250601225800 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250601231500 +0000" stop="20250602000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250601225800 +0000" stop="20250602000200 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250602000000 +0000" stop="20250602013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602000200 +0000" stop="20250602013300 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250602013000 +0000" stop="20250602030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602013300 +0000" stop="20250602030200 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250602030000 +0000" stop="20250602050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602030200 +0000" stop="20250602045500 +0000" channel="SCTV HD.mncvision">
+    <title>Arjuna Cintanya Gak Pernah...</title>
 </programme>
-<programme start="20250602050000 +0000" stop="20250602053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602045500 +0000" stop="20250602053000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250602053000 +0000" stop="20250602073000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602053000 +0000" stop="20250602071500 +0000" channel="SCTV HD.mncvision">
+    <title>Dua Dunia Salma</title>
 </programme>
-<programme start="20250602073000 +0000" stop="20250602091500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602071500 +0000" stop="20250602085100 +0000" channel="SCTV HD.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250602091500 +0000" stop="20250602100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602085100 +0000" stop="20250602100000 +0000" channel="SCTV HD.mncvision">
+    <title>Married With Senior</title>
 </programme>
-<programme start="20250602100000 +0000" stop="20250602111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602100000 +0000" stop="20250602112500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250602111500 +0000" stop="20250602130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602112500 +0000" stop="20250602130000 +0000" channel="SCTV HD.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250602130000 +0000" stop="20250602160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250602130000 +0000" stop="20250602143000 +0000" channel="SCTV HD.mncvision">
+    <title>Bukan Karena Tak Cinta</title>
+</programme>
+<programme start="20250602143000 +0000" stop="20250602160000 +0000" channel="SCTV HD.mncvision">
+    <title>Luka Cinta</title>
 </programme>
 <programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Abang Sate Cintanya Mulai...</title>
 </programme>
 <programme start="20250601170000 +0000" stop="20250601173000 +0000" channel="SEA TODAY.mncvision">
     <title>Super Octogenarians</title>
@@ -7862,17 +7993,8 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250602010000 +0000" stop="20250602013000 +0000" channel="SEA TODAY.mncvision">
     <title>Secret For A Healthy Life S4</title>
 </programme>
-<programme start="20250602013000 +0000" stop="20250602020000 +0000" channel="SEA TODAY.mncvision">
-    <title>Wellness Stories</title>
-</programme>
-<programme start="20250602020000 +0000" stop="20250602023000 +0000" channel="SEA TODAY.mncvision">
-    <title>Living In Harmony</title>
-</programme>
-<programme start="20250602023000 +0000" stop="20250602030000 +0000" channel="SEA TODAY.mncvision">
-    <title>Luxe Asia S3</title>
-</programme>
-<programme start="20250602030000 +0000" stop="20250602040000 +0000" channel="SEA TODAY.mncvision">
-    <title>Teman Bicara</title>
+<programme start="20250602013000 +0000" stop="20250602040000 +0000" channel="SEA TODAY.mncvision">
+    <title>Pancasila Day (L)</title>
 </programme>
 <programme start="20250602040000 +0000" stop="20250602043000 +0000" channel="SEA TODAY.mncvision">
     <title>Animalpedia</title>
@@ -7902,7 +8024,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>The Travel Note</title>
 </programme>
 <programme start="20250602103000 +0000" stop="20250602110000 +0000" channel="SEA TODAY.mncvision">
-    <title>Duo Backpackers</title>
+    <title>Tough Boats</title>
 </programme>
 <programme start="20250602110000 +0000" stop="20250602113000 +0000" channel="SEA TODAY.mncvision">
     <title>Side Walk</title>
