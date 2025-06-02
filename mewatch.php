@@ -226,10 +226,10 @@
     <programme start="20250602112955 +0000" stop="20250602115932 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 45</title>
     </programme>
-    <programme start="20250602115932 +0000" stop="20250602125935 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602115932 +0000" stop="20250602125938 +0000" channel="Channel 8.mewatch">
         <title>Forbidding No More S3 - EP 4</title>
     </programme>
-    <programme start="20250602125935 +0000" stop="20250602140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250602125938 +0000" stop="20250602140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 8</title>
     </programme>
     <programme start="20250602140000 +0000" stop="20250602143059 +0000" channel="Channel 8.mewatch">
@@ -340,29 +340,26 @@
     <programme start="20250602100031 +0000" stop="20250602110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 20</title>
     </programme>
-    <programme start="20250602110000 +0000" stop="20250602120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602110000 +0000" stop="20250602120002 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 18</title>
     </programme>
-    <programme start="20250602120000 +0000" stop="20250602130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602120002 +0000" stop="20250602125935 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 19</title>
     </programme>
-    <programme start="20250602130000 +0000" stop="20250602133000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602125935 +0000" stop="20250602133016 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 19</title>
     </programme>
-    <programme start="20250602133000 +0000" stop="20250602140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602133016 +0000" stop="20250602140126 +0000" channel="Channel U.mewatch">
         <title>Happy Long Stay - EP 19</title>
     </programme>
-    <programme start="20250602140000 +0000" stop="20250602150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602140126 +0000" stop="20250602150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 18</title>
     </programme>
-    <programme start="20250602150000 +0000" stop="20250602153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602150000 +0000" stop="20250602153150 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250602153000 +0000" stop="20250602160000 +0000" channel="Channel U.mewatch">
+    <programme start="20250602153150 +0000" stop="20250602160200 +0000" channel="Channel U.mewatch">
         <title>Foodie Sisters - EP 19</title>
-    </programme>
-    <programme start="20250602160000 +0000" stop="20250602163000 +0000" channel="Channel U.mewatch">
-        <title>Happy Long Stay - EP 19</title>
     </programme>
     <programme start="20250601153000 +0000" stop="20250601160054 +0000" channel="Suria.mewatch">
         <title>Berita</title>
