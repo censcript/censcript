@@ -139,19 +139,19 @@
     <programme start="20250601155952 +0000" stop="20250601170028 +0000" channel="Channel 8.mewatch">
         <title>The Family Court - EP 22</title>
     </programme>
-    <programme start="20250601170028 +0000" stop="20250601175911 +0000" channel="Channel 8.mewatch">
+    <programme start="20250601170019 +0000" stop="20250601175907 +0000" channel="Channel 8.mewatch">
         <title>The Family Court - EP 23</title>
     </programme>
-    <programme start="20250601175911 +0000" stop="20250601185944 +0000" channel="Channel 8.mewatch">
+    <programme start="20250601175907 +0000" stop="20250601185943 +0000" channel="Channel 8.mewatch">
         <title>Rhapsody In Blue - EP 5</title>
     </programme>
-    <programme start="20250601185944 +0000" stop="20250601195827 +0000" channel="Channel 8.mewatch">
+    <programme start="20250601185943 +0000" stop="20250601195826 +0000" channel="Channel 8.mewatch">
         <title>Rhapsody In Blue - EP 6</title>
     </programme>
-    <programme start="20250601195827 +0000" stop="20250601205743 +0000" channel="Channel 8.mewatch">
+    <programme start="20250601195826 +0000" stop="20250601205742 +0000" channel="Channel 8.mewatch">
         <title>My School Daze - EP 9</title>
     </programme>
-    <programme start="20250601205743 +0000" stop="20250601220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250601205742 +0000" stop="20250601220000 +0000" channel="Channel 8.mewatch">
         <title>My School Daze - EP 10</title>
     </programme>
     <programme start="20250601220000 +0000" stop="20250601225958 +0000" channel="Channel 8.mewatch">
@@ -244,10 +244,10 @@
     <programme start="20250602160000 +0000" stop="20250602170000 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 25</title>
     </programme>
-    <programme start="20250601153040 +0000" stop="20250601163006 +0000" channel="Channel U.mewatch">
+    <programme start="20250601153057 +0000" stop="20250601163023 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 20</title>
     </programme>
-    <programme start="20250601163006 +0000" stop="20250601220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250601163023 +0000" stop="20250601220000 +0000" channel="Channel U.mewatch">
         <title>Show It All - EP 14</title>
     </programme>
     <programme start="20250601220000 +0000" stop="20250602025813 +0000" channel="Channel U.mewatch">
@@ -367,9 +367,6 @@
     <programme start="20250601153000 +0000" stop="20250601160054 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250601160054 +0000" stop="20250602010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250602010000 +0000" stop="20250602013000 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 7</title>
     </programme>
@@ -430,13 +427,13 @@
     <programme start="20250602160000 +0000" stop="20250603010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250601135953 +0000" stop="20250601163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250601135955 +0000" stop="20250601163002 +0000" channel="Vasantham.mewatch">
         <title>Petromax</title>
     </programme>
-    <programme start="20250601163000 +0000" stop="20250601165959 +0000" channel="Vasantham.mewatch">
+    <programme start="20250601163002 +0000" stop="20250601165825 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250601165959 +0000" stop="20250602010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250601165825 +0000" stop="20250602010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250602010000 +0000" stop="20250602012940 +0000" channel="Vasantham.mewatch">
