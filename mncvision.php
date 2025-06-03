@@ -1,6 +1,255 @@
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250602173000 +0000" stop="20250602182500 +0000" channel="ABC Australia.mncvision">
+    <title>Grand Designs Transformations</title>
+</programme>
+<programme start="20250602182500 +0000" stop="20250602183000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250602183000 +0000" stop="20250602190000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Regional</title>
+</programme>
+<programme start="20250602190000 +0000" stop="20250602200000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250602200000 +0000" stop="20250602230000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20250602230000 +0000" stop="20250603020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20250603020000 +0000" stop="20250603030000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20250603030000 +0000" stop="20250603032500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250603032500 +0000" stop="20250603033000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250603033000 +0000" stop="20250603040000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20250603040000 +0000" stop="20250603045500 +0000" channel="ABC Australia.mncvision">
+    <title>Australia Remastered: Forest</title>
+</programme>
+<programme start="20250603045500 +0000" stop="20250603060000 +0000" channel="ABC Australia.mncvision">
+    <title>Dolphins: Is Our Love Too Deep?</title>
+</programme>
+<programme start="20250603060000 +0000" stop="20250603070000 +0000" channel="ABC Australia.mncvision">
+    <title>Afternoon Briefing</title>
+</programme>
+<programme start="20250603070000 +0000" stop="20250603080000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20250603080000 +0000" stop="20250603082500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250603082500 +0000" stop="20250603083000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250603083000 +0000" stop="20250603090000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20250603090000 +0000" stop="20250603093000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20250603093000 +0000" stop="20250603100000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20250603100000 +0000" stop="20250603105500 +0000" channel="ABC Australia.mncvision">
+    <title>Australia Remastered: Forest</title>
+</programme>
+<programme start="20250603105500 +0000" stop="20250603110000 +0000" channel="ABC Australia.mncvision">
+    <title>Heywire</title>
+</programme>
+<programme start="20250603110000 +0000" stop="20250603120000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250603120000 +0000" stop="20250603130000 +0000" channel="ABC Australia.mncvision">
+    <title>Dolphins: Is Our Love Too Deep?</title>
+</programme>
+<programme start="20250603130000 +0000" stop="20250603133000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250603133000 +0000" stop="20250603140000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20250603140000 +0000" stop="20250603141500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250603141500 +0000" stop="20250603143000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20250603143000 +0000" stop="20250603150000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20250603150000 +0000" stop="20250603160000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250603160000 +0000" stop="20250603161500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250603161500 +0000" stop="20250603163000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="ABC Australia.mncvision">
+    <title>Australia Remastered: Forest</title>
+</programme>
+<programme start="20250602170000 +0000" stop="20250602173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250602173000 +0000" stop="20250602180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250602180000 +0000" stop="20250602190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250602190000 +0000" stop="20250602193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250602193000 +0000" stop="20250602200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20250602200000 +0000" stop="20250602203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250602203000 +0000" stop="20250602210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250602210000 +0000" stop="20250602220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250602220000 +0000" stop="20250602223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250602223000 +0000" stop="20250602230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: The Return</title>
+</programme>
+<programme start="20250602230000 +0000" stop="20250602233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250602233000 +0000" stop="20250603000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Repressive Reach</title>
+</programme>
+<programme start="20250603000000 +0000" stop="20250603003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603003000 +0000" stop="20250603010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250603010000 +0000" stop="20250603020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Invisible Beauty</title>
+</programme>
+<programme start="20250603020000 +0000" stop="20250603023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603023000 +0000" stop="20250603030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Tokayev</title>
+</programme>
+<programme start="20250603030000 +0000" stop="20250603033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603033000 +0000" stop="20250603040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Stephen Walt</title>
+</programme>
+<programme start="20250603040000 +0000" stop="20250603043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603043000 +0000" stop="20250603050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Free Speech...</title>
+</programme>
+<programme start="20250603050000 +0000" stop="20250603053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603053000 +0000" stop="20250603060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250603060000 +0000" stop="20250603063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603063000 +0000" stop="20250603070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Africa Direct: Stone Crusher</title>
+</programme>
+<programme start="20250603070000 +0000" stop="20250603080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250603080000 +0000" stop="20250603083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603083000 +0000" stop="20250603090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: The Return</title>
+</programme>
+<programme start="20250603090000 +0000" stop="20250603093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603093000 +0000" stop="20250603100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20250603100000 +0000" stop="20250603110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250603110000 +0000" stop="20250603113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603113000 +0000" stop="20250603120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250603120000 +0000" stop="20250603130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: The Golan</title>
+</programme>
+<programme start="20250603130000 +0000" stop="20250603140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250603140000 +0000" stop="20250603143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603143000 +0000" stop="20250603150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Free Speech...</title>
+</programme>
+<programme start="20250603150000 +0000" stop="20250603160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250603160000 +0000" stop="20250603163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Democracy Maybe</title>
+</programme>
+<programme start="20250602170000 +0000" stop="20250602190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250602190000 +0000" stop="20250602210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250602210000 +0000" stop="20250602230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250602230000 +0000" stop="20250603010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603010000 +0000" stop="20250603030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603030000 +0000" stop="20250603050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603050000 +0000" stop="20250603070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603070000 +0000" stop="20250603090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603090000 +0000" stop="20250603110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603110000 +0000" stop="20250603130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603130000 +0000" stop="20250603150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250603150000 +0000" stop="20250603153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20250602170000 +0000" stop="20250602173000 +0000" channel="Animax.mncvision">
     <title>Konosuba: Blessing S2, Ep 3</title>
 </programme>
@@ -145,7 +394,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="Animax.mncvision">
     <title>My Deer Friend Nokotan, Ep 11</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250602173000 +0000" stop="20250602190000 +0000" channel="ANTV.mncvision">
+    <title>Susuk Nyi Roro Kidul</title>
+</programme>
+<programme start="20250602190000 +0000" stop="20250602210000 +0000" channel="ANTV.mncvision">
+    <title>Chamatkar</title>
+</programme>
+<programme start="20250602210000 +0000" stop="20250602220000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
+</programme>
+<programme start="20250602220000 +0000" stop="20250602223000 +0000" channel="ANTV.mncvision">
+    <title>Senyum Iman</title>
+</programme>
+<programme start="20250602223000 +0000" stop="20250603003000 +0000" channel="ANTV.mncvision">
+    <title>Ratapan Anak Tiri 2</title>
+</programme>
+<programme start="20250603003000 +0000" stop="20250603023000 +0000" channel="ANTV.mncvision">
+    <title>Catatan Hati Perempuan</title>
+</programme>
+<programme start="20250603023000 +0000" stop="20250603060000 +0000" channel="ANTV.mncvision">
+    <title>Chori Chori Chupke Chupke</title>
+</programme>
+<programme start="20250603060000 +0000" stop="20250603090000 +0000" channel="ANTV.mncvision">
+    <title>Radha Mohan</title>
+</programme>
+<programme start="20250603090000 +0000" stop="20250603103000 +0000" channel="ANTV.mncvision">
+    <title>Bhagya Lakshmi</title>
+</programme>
+<programme start="20250603103000 +0000" stop="20250603120000 +0000" channel="ANTV.mncvision">
+    <title>Imlie</title>
+</programme>
+<programme start="20250603120000 +0000" stop="20250603140000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250603140000 +0000" stop="20250603153000 +0000" channel="ANTV.mncvision">
+    <title>Catatan Hati Perempuan</title>
+</programme>
+<programme start="20250603153000 +0000" stop="20250603160000 +0000" channel="ANTV.mncvision">
+    <title>5 Cewek Jagoan</title>
+</programme>
 <programme start="20250602170000 +0000" stop="20250602173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
 </programme>
@@ -296,8 +583,168 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250603140000 +0000" stop="20250603143000 +0000" channel="Arirang.mncvision">
     <title>K-Chat: Conversing In Korean</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250602172500 +0000" stop="20250602182000 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 12</title>
+</programme>
+<programme start="20250602182000 +0000" stop="20250602191500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 13</title>
+</programme>
+<programme start="20250602191500 +0000" stop="20250602201000 +0000" channel="AXN.mncvision">
+    <title>NCIS: Sydney S1, Ep 7</title>
+</programme>
+<programme start="20250602201000 +0000" stop="20250602210500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250602210500 +0000" stop="20250602220000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 19</title>
+</programme>
+<programme start="20250602220000 +0000" stop="20250602225000 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 13</title>
+</programme>
+<programme start="20250602225000 +0000" stop="20250602233500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250602233500 +0000" stop="20250603003000 +0000" channel="AXN.mncvision">
+    <title>Wipeout S9, Ep 7</title>
+</programme>
+<programme start="20250603003000 +0000" stop="20250603012000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 20</title>
+</programme>
+<programme start="20250603012000 +0000" stop="20250603021000 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 12</title>
+</programme>
+<programme start="20250603021000 +0000" stop="20250603030000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250603030000 +0000" stop="20250603035500 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 5</title>
+</programme>
+<programme start="20250603035500 +0000" stop="20250603045000 +0000" channel="AXN.mncvision">
+    <title>Wipeout S9, Ep 8</title>
+</programme>
+<programme start="20250603045000 +0000" stop="20250603054000 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 12</title>
+</programme>
+<programme start="20250603054000 +0000" stop="20250603063500 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 20</title>
+</programme>
+<programme start="20250603063500 +0000" stop="20250603073000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 5</title>
+</programme>
+<programme start="20250603073000 +0000" stop="20250603082500 +0000" channel="AXN.mncvision">
+    <title>Wipeout S9, Ep 8</title>
+</programme>
+<programme start="20250603082500 +0000" stop="20250603091500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250603091500 +0000" stop="20250603100500 +0000" channel="AXN.mncvision">
+    <title>Blue Bloods S14, Ep 13</title>
+</programme>
+<programme start="20250603100500 +0000" stop="20250603110000 +0000" channel="AXN.mncvision">
+    <title>FBI: Most Wanted S6, Ep 2</title>
+</programme>
+<programme start="20250603110000 +0000" stop="20250603115500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 14</title>
+</programme>
+<programme start="20250603115500 +0000" stop="20250603125000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 6</title>
+</programme>
+<programme start="20250603125000 +0000" stop="20250603134500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S1, Ep 9</title>
+</programme>
+<programme start="20250603134500 +0000" stop="20250603144000 +0000" channel="AXN.mncvision">
+    <title>FBI S7, Ep 5</title>
+</programme>
+<programme start="20250603144000 +0000" stop="20250603153500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S1, Ep 9</title>
+</programme>
+<programme start="20250603153500 +0000" stop="20250603163000 +0000" channel="AXN.mncvision">
+    <title>FBI S7, Ep 5</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S14, Ep 20</title>
+</programme>
+<programme start="20250602172500 +0000" stop="20250602182000 +0000" channel="AXN HD.mncvision">
+    <title>Blue Bloods S14, Ep 12</title>
+</programme>
+<programme start="20250602182000 +0000" stop="20250602191500 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 13</title>
+</programme>
+<programme start="20250602191500 +0000" stop="20250602201000 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Sydney S1, Ep 7</title>
+</programme>
+<programme start="20250602201000 +0000" stop="20250602210500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250602210500 +0000" stop="20250602220000 +0000" channel="AXN HD.mncvision">
+    <title>American Ninja... S14, Ep 19</title>
+</programme>
+<programme start="20250602220000 +0000" stop="20250602225000 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 13</title>
+</programme>
+<programme start="20250602225000 +0000" stop="20250602233500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250602233500 +0000" stop="20250603003000 +0000" channel="AXN HD.mncvision">
+    <title>Wipeout S9, Ep 7</title>
+</programme>
+<programme start="20250603003000 +0000" stop="20250603012000 +0000" channel="AXN HD.mncvision">
+    <title>American Ninja... S14, Ep 20</title>
+</programme>
+<programme start="20250603012000 +0000" stop="20250603021000 +0000" channel="AXN HD.mncvision">
+    <title>Blue Bloods S14, Ep 12</title>
+</programme>
+<programme start="20250603021000 +0000" stop="20250603030000 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250603030000 +0000" stop="20250603035500 +0000" channel="AXN HD.mncvision">
+    <title>The Amazing Race S34, Ep 5</title>
+</programme>
+<programme start="20250603035500 +0000" stop="20250603045000 +0000" channel="AXN HD.mncvision">
+    <title>Wipeout S9, Ep 8</title>
+</programme>
+<programme start="20250603045000 +0000" stop="20250603054000 +0000" channel="AXN HD.mncvision">
+    <title>Blue Bloods S14, Ep 12</title>
+</programme>
+<programme start="20250603054000 +0000" stop="20250603063500 +0000" channel="AXN HD.mncvision">
+    <title>American Ninja... S14, Ep 20</title>
+</programme>
+<programme start="20250603063500 +0000" stop="20250603073000 +0000" channel="AXN HD.mncvision">
+    <title>The Amazing Race S34, Ep 5</title>
+</programme>
+<programme start="20250603073000 +0000" stop="20250603082500 +0000" channel="AXN HD.mncvision">
+    <title>Wipeout S9, Ep 8</title>
+</programme>
+<programme start="20250603082500 +0000" stop="20250603091500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 8</title>
+</programme>
+<programme start="20250603091500 +0000" stop="20250603100500 +0000" channel="AXN HD.mncvision">
+    <title>Blue Bloods S14, Ep 13</title>
+</programme>
+<programme start="20250603100500 +0000" stop="20250603110000 +0000" channel="AXN HD.mncvision">
+    <title>FBI: Most Wanted S6, Ep 2</title>
+</programme>
+<programme start="20250603110000 +0000" stop="20250603115500 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S5, Ep 14</title>
+</programme>
+<programme start="20250603115500 +0000" stop="20250603125000 +0000" channel="AXN HD.mncvision">
+    <title>The Amazing Race S34, Ep 6</title>
+</programme>
+<programme start="20250603125000 +0000" stop="20250603134500 +0000" channel="AXN HD.mncvision">
+    <title>Sight Unseen S1, Ep 9</title>
+</programme>
+<programme start="20250603134500 +0000" stop="20250603144000 +0000" channel="AXN HD.mncvision">
+    <title>FBI S7, Ep 5</title>
+</programme>
+<programme start="20250603144000 +0000" stop="20250603153500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 9</title>
+</programme>
+<programme start="20250603153500 +0000" stop="20250603163000 +0000" channel="AXN HD.mncvision">
+    <title>FBI S7, Ep 5</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="AXN HD.mncvision">
+    <title>American Ninja... S14, Ep 20</title>
+</programme>
 <programme start="20250602175000 +0000" stop="20250602190000 +0000" channel="BBC Earth.mncvision">
     <title>Earth S1, Ep 2</title>
 </programme>
@@ -448,7 +895,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250603164000 +0000" stop="20250602171000 +0000" channel="BBC Earth HD.mncvision">
     <title>Portillo&#039;s Long Weekends, Ep 13</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250602170000 +0000" stop="20250602173000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20250602173000 +0000" stop="20250602180000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20250602180000 +0000" stop="20250602183000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20250602183000 +0000" stop="20250602190000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20250602190000 +0000" stop="20250602193000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20250602193000 +0000" stop="20250602200000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20250602200000 +0000" stop="20250602203000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20250602203000 +0000" stop="20250602210000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20250602210000 +0000" stop="20250602213000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20250602213000 +0000" stop="20250602220000 +0000" channel="BBC World News.mncvision">
+    <title>Newsnight</title>
+</programme>
+<programme start="20250602220000 +0000" stop="20250602230000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20250602230000 +0000" stop="20250602233000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250602233000 +0000" stop="20250603000000 +0000" channel="BBC World News.mncvision">
+    <title>Newscast</title>
+</programme>
+<programme start="20250603000000 +0000" stop="20250603003000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603003000 +0000" stop="20250603010000 +0000" channel="BBC World News.mncvision">
+    <title>Talking Business</title>
+</programme>
+<programme start="20250603010000 +0000" stop="20250603013000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20250603013000 +0000" stop="20250603020000 +0000" channel="BBC World News.mncvision">
+    <title>The Security Brief</title>
+</programme>
+<programme start="20250603020000 +0000" stop="20250603023000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20250603023000 +0000" stop="20250603030000 +0000" channel="BBC World News.mncvision">
+    <title>AI Decoded</title>
+</programme>
+<programme start="20250603030000 +0000" stop="20250603033000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20250603033000 +0000" stop="20250603040000 +0000" channel="BBC World News.mncvision">
+    <title>The Media Show</title>
+</programme>
+<programme start="20250603040000 +0000" stop="20250603043000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603043000 +0000" stop="20250603050000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20250603050000 +0000" stop="20250603053000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603053000 +0000" stop="20250603060000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20250603060000 +0000" stop="20250603063000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603063000 +0000" stop="20250603070000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20250603070000 +0000" stop="20250603073000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603073000 +0000" stop="20250603080000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603080000 +0000" stop="20250603083000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603083000 +0000" stop="20250603090000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603090000 +0000" stop="20250603093000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603093000 +0000" stop="20250603100000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603100000 +0000" stop="20250603103000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603103000 +0000" stop="20250603104500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20250603104500 +0000" stop="20250603110000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20250603110000 +0000" stop="20250603113000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20250603113000 +0000" stop="20250603120000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20250603120000 +0000" stop="20250603123000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20250603123000 +0000" stop="20250603130000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20250603130000 +0000" stop="20250603133000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20250603133000 +0000" stop="20250603134500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today: NYSE</title>
+</programme>
+<programme start="20250603134500 +0000" stop="20250603140000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20250603140000 +0000" stop="20250603143000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20250603143000 +0000" stop="20250603150000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20250603150000 +0000" stop="20250603153000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20250603153000 +0000" stop="20250603154500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20250603154500 +0000" stop="20250603160000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20250603160000 +0000" stop="20250603163000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="BBC World News.mncvision">
+    <title>Focus On Africa</title>
+</programme>
 <programme start="20250602200000 +0000" stop="20250602203000 +0000" channel="beIN Sports 1.mncvision">
     <title>UCL Magazine Show 2024/25</title>
 </programme>
