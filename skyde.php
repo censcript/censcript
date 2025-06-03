@@ -3068,7 +3068,7 @@
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
 <programme start="20250604073000 +0000" stop="20250604083000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Großbritannien</title>
+    <title>MotoGP: Sprint - GP Großbritannien</title>
 </programme>
 <programme start="20250604083000 +0000" stop="20250604110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: FC Bayern München - Werder Bremen, Finale 2025 in Köln</title>
@@ -3076,47 +3076,47 @@
 <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Vodafone Rally de Portugal</title>
 </programme>
-<programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604120000 +0000" stop="20250604140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition: Media Day Re-Cap</title>
 </programme>
-<programme start="20250604130000 +0000" stop="20250604131500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604140000 +0000" stop="20250604141500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-TBL (1. Runde)</title>
 </programme>
-<programme start="20250604131500 +0000" stop="20250604134500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604141500 +0000" stop="20250604144500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-TOR (2. Runde)</title>
 </programme>
-<programme start="20250604134500 +0000" stop="20250604140000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604144500 +0000" stop="20250604150000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-CAR (Eastern Conference Final)</title>
 </programme>
-<programme start="20250604140000 +0000" stop="20250604142500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604150000 +0000" stop="20250604152500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind EDM-LAK (1. Runde)</title>
 </programme>
-<programme start="20250604142500 +0000" stop="20250604144500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604152500 +0000" stop="20250604154500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind EDM-VGK (2. Runde)</title>
 </programme>
-<programme start="20250604144500 +0000" stop="20250604150000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604154500 +0000" stop="20250604160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind EDM-DAL (Western Conference Final)</title>
 </programme>
-<programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604160000 +0000" stop="20250604163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
 </programme>
-<programme start="20250604153000 +0000" stop="20250604161500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604163000 +0000" stop="20250604171500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Margaret River Pro Finals Day</title>
 </programme>
-<programme start="20250604161500 +0000" stop="20250604171500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL Tonight - Stanley Cup Final Edition: Media Day Re-Cap</title>
-</programme>
 <programme start="20250604171500 +0000" stop="20250604181500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Sprint - GP Großbritannien</title>
-</programme>
-<programme start="20250604181500 +0000" stop="20250604191500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250604191500 +0000" stop="20250604214500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604181500 +0000" stop="20250604204500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2024, Spiel 7</title>
 </programme>
-<programme start="20250604214500 +0000" stop="20250604220000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250604204500 +0000" stop="20250604210000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-CAR (Eastern Conference Final)</title>
+</programme>
+<programme start="20250604210000 +0000" stop="20250604211500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Series Rewind EDM-DAL (Western Conference Final)</title>
+</programme>
+<programme start="20250604211500 +0000" stop="20250604231500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: NHL Tonight - Stanley Cup Final Edition: Media Day Re-Cap</title>
 </programme>
 <programme start="20250603220000 +0000" stop="20250604040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3266,7 +3266,7 @@
     <title>PL: Under the Skin (Newcastle United)</title>
 </programme>
 <programme start="20250604173000 +0000" stop="20250604180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories</title>
+    <title>PL: PL Stories (Juan Mata)</title>
 </programme>
 <programme start="20250604180000 +0000" stop="20250604183000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: NEW - CRY, Nachholspiel vom 29. Spieltag</title>
