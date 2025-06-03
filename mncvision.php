@@ -4351,7 +4351,36 @@
 <programme start="20250604163000 +0000" stop="20250603170000 +0000" channel="HITS.mncvision">
     <title>Frasier S5, Ep 23</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250603184500 +0000" stop="20250603204500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20250603204500 +0000" stop="20250603230000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250603230000 +0000" stop="20250604011500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Paycheck</title>
+</programme>
+<programme start="20250604011500 +0000" stop="20250604031500 +0000" channel="HITS MOVIES.mncvision">
+    <title>My Super Ex-Girlfriend</title>
+</programme>
+<programme start="20250604031500 +0000" stop="20250604051500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20250604051500 +0000" stop="20250604073000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250604073000 +0000" stop="20250604094500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Absence Of Malice</title>
+</programme>
+<programme start="20250604094500 +0000" stop="20250604120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Stomp The Yard</title>
+</programme>
+<programme start="20250604120000 +0000" stop="20250604153000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Meet Joe Black</title>
+</programme>
+<programme start="20250604153000 +0000" stop="20250604160000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Runaway Jury</title>
+</programme>
 <programme start="20250603184500 +0000" stop="20250603204500 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Zathura: A Space Adventure</title>
 </programme>
@@ -8462,7 +8491,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="Sportstars 4.mncvision">
     <title>Sportacular Match</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250603170000 +0000" stop="20250603190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: JOG Vs TGL</title>
+</programme>
+<programme start="20250603190000 +0000" stop="20250603210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSB Vs PBY</title>
+</programme>
+<programme start="20250603210000 +0000" stop="20250603230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250603230000 +0000" stop="20250604010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20250604010000 +0000" stop="20250604013000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250604013000 +0000" stop="20250604020000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250604020000 +0000" stop="20250604050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Kapal Api Indonesia Open (L)</title>
+</programme>
+<programme start="20250604050000 +0000" stop="20250604080000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Kapal Api Indonesia Open (L)</title>
+</programme>
+<programme start="20250604080000 +0000" stop="20250604110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Kapal Api Indonesia Open (L)</title>
+</programme>
+<programme start="20250604110000 +0000" stop="20250604130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSB Vs MLT</title>
+</programme>
+<programme start="20250604130000 +0000" stop="20250604150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
 <programme start="20250603173000 +0000" stop="20250603210000 +0000" channel="Sportstars HD.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>
 </programme>
