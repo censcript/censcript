@@ -3994,14 +3994,20 @@
 <programme start="20250603110000 +0000" stop="20250603113000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20250603113000 +0000" stop="20250603133000 +0000" channel="GTV.mncvision">
+<programme start="20250603113000 +0000" stop="20250603123000 +0000" channel="GTV.mncvision">
     <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250603123000 +0000" stop="20250603133000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
 </programme>
 <programme start="20250603133000 +0000" stop="20250603150000 +0000" channel="GTV.mncvision">
     <title>The Bloodthirsty Bees</title>
 </programme>
-<programme start="20250603150000 +0000" stop="20250603153000 +0000" channel="GTV.mncvision">
+<programme start="20250603150000 +0000" stop="20250603163000 +0000" channel="GTV.mncvision">
     <title>Playing With Fire</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="GTV.mncvision">
+    <title>The Man Named Leopard</title>
 </programme>
 <programme start="20250602170000 +0000" stop="20250602180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4045,14 +4051,20 @@
 <programme start="20250603110000 +0000" stop="20250603113000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20250603113000 +0000" stop="20250603133000 +0000" channel="GTV HD.mncvision">
+<programme start="20250603113000 +0000" stop="20250603123000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250603123000 +0000" stop="20250603133000 +0000" channel="GTV HD.mncvision">
+    <title>Untold Story</title>
 </programme>
 <programme start="20250603133000 +0000" stop="20250603150000 +0000" channel="GTV HD.mncvision">
     <title>The Bloodthirsty Bees</title>
 </programme>
-<programme start="20250603150000 +0000" stop="20250603153000 +0000" channel="GTV HD.mncvision">
+<programme start="20250603150000 +0000" stop="20250603163000 +0000" channel="GTV HD.mncvision">
     <title>Playing With Fire</title>
+</programme>
+<programme start="20250603163000 +0000" stop="20250602170000 +0000" channel="GTV HD.mncvision">
+    <title>The Man Named Leopard</title>
 </programme>
 <programme start="20250602180000 +0000" stop="20250602183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>

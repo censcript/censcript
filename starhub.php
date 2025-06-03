@@ -269,7 +269,7 @@
         <title>MOVIE - Mannar Vagaiyara</title>
     </programme>
     <programme start="20250603000000 +0000" stop="20250603023000 +0000" channel="Zee Thirai.starhub">
-        <title>MOVIE - Bro</title>
+        <title>MOVIE - Mr &amp; Mrs Arjun</title>
     </programme>
     <programme start="20250603023000 +0000" stop="20250603050000 +0000" channel="Zee Thirai.starhub">
         <title>MOVIE - Saithan</title>

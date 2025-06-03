@@ -370,10 +370,10 @@
     <programme start="20250603115937 +0000" stop="20250603125951 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 21</title>
     </programme>
-    <programme start="20250603125951 +0000" stop="20250603135923 +0000" channel="Channel U.mewatch">
+    <programme start="20250603125951 +0000" stop="20250603135908 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 6</title>
     </programme>
-    <programme start="20250603135923 +0000" stop="20250603150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250603135908 +0000" stop="20250603150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 19</title>
     </programme>
     <programme start="20250603150000 +0000" stop="20250603153010 +0000" channel="Channel U.mewatch">
@@ -484,16 +484,16 @@
     <programme start="20250603130000 +0000" stop="20250603132958 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 7</title>
     </programme>
-    <programme start="20250603132958 +0000" stop="20250603140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250603132958 +0000" stop="20250603140003 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 8</title>
     </programme>
-    <programme start="20250603140000 +0000" stop="20250603143005 +0000" channel="Vasantham.mewatch">
+    <programme start="20250603140003 +0000" stop="20250603143013 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 4</title>
     </programme>
-    <programme start="20250603143005 +0000" stop="20250603150007 +0000" channel="Vasantham.mewatch">
+    <programme start="20250603143013 +0000" stop="20250603150015 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 5</title>
     </programme>
-    <programme start="20250603150007 +0000" stop="20250603153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250603150015 +0000" stop="20250603153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 3</title>
     </programme>
     <programme start="20250603153000 +0000" stop="20250603160312 +0000" channel="Vasantham.mewatch">
