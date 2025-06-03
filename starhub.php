@@ -7718,7 +7718,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250602213000 +0000" stop="20250602220000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsnight</title>
+        <title>The Interview: Tom Fletcher</title>
     </programme>
     <programme start="20250602220000 +0000" stop="20250602230000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
@@ -8305,11 +8305,11 @@
     <programme start="20250602233000 +0000" stop="20250603013000 +0000" channel="Asianet Movies.starhub">
         <title>Kho Kho</title>
     </programme>
-    <programme start="20250603013000 +0000" stop="20250603043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250603013000 +0000" stop="20250603042500 +0000" channel="Asianet Movies.starhub">
         <title>3 Dots</title>
     </programme>
-    <programme start="20250603043000 +0000" stop="20250603073000 +0000" channel="Asianet Movies.starhub">
-        <title>RRR - Rudhiram Ranam Roudram</title>
+    <programme start="20250603042500 +0000" stop="20250603073000 +0000" channel="Asianet Movies.starhub">
+        <title>RRR</title>
     </programme>
     <programme start="20250603073000 +0000" stop="20250603103000 +0000" channel="Asianet Movies.starhub">
         <title>Nadodimannan</title>

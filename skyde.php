@@ -2941,10 +2941,13 @@
 <programme start="20250603073000 +0000" stop="20250603080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Spanien</title>
 </programme>
-<programme start="20250603080000 +0000" stop="20250603090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250603080000 +0000" stop="20250603084500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
+</programme>
+<programme start="20250603084500 +0000" stop="20250603094500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Training in Detroit</title>
 </programme>
-<programme start="20250603090000 +0000" stop="20250603110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250603094500 +0000" stop="20250603110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Detroit</title>
 </programme>
 <programme start="20250603110000 +0000" stop="20250603130000 +0000" channel="Sky Sport F1 HD.skyde">
