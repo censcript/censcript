@@ -925,56 +925,44 @@
 <programme start="20250603213000 +0000" stop="20250603222000 +0000" channel="Crime + Investigation.skyde">
     <title>City Confidential - Verbrechen nebenan</title>
 </programme>
-<programme start="20250602220000 +0000" stop="20250603060000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250601223500 +0000" stop="20250602060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20250603060000 +0000" stop="20250603074500 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Nations League: Deutschland - Italien</title>
+<programme start="20250602060000 +0000" stop="20250602083000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Nations League: Spanien - Niederlande</title>
 </programme>
-<programme start="20250603074500 +0000" stop="20250603080000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250602083000 +0000" stop="20250602090000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
+</programme>
+<programme start="20250602090000 +0000" stop="20250602110000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Primera División: FC Barcelona - Real Madrid</title>
+</programme>
+<programme start="20250602110000 +0000" stop="20250602113000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A Highlightshow 2024/25: 34. Spieltag</title>
+</programme>
+<programme start="20250602113000 +0000" stop="20250602120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250603080000 +0000" stop="20250603090000 +0000" channel="DAZN 1 HD.skyde">
-    <title>3. Liga Highlightshow 2024/25: 36. Spieltag</title>
-</programme>
-<programme start="20250603090000 +0000" stop="20250603110000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250602120000 +0000" stop="20250602140000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A: Juventus Turin - Atalanta Bergamo</title>
 </programme>
-<programme start="20250603110000 +0000" stop="20250603113000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow 2024/25: 35. Spieltag</title>
-</programme>
-<programme start="20250603113000 +0000" stop="20250603141500 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Nations League: Frankreich - Kroatien</title>
-</programme>
-<programme start="20250603141500 +0000" stop="20250603144500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250602140000 +0000" stop="20250602143000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250603144500 +0000" stop="20250603163000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Nations League: Deutschland - Italien</title>
+<programme start="20250602143000 +0000" stop="20250602163000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Ligue 1: PSG - AJ Auxerre</title>
 </programme>
-<programme start="20250603163000 +0000" stop="20250603170000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250602163000 +0000" stop="20250602170000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250603170000 +0000" stop="20250603173000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow 2024/25: 35. Spieltag</title>
+<programme start="20250602170000 +0000" stop="20250602174000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A Highlightshow 2024/25: 34. Spieltag</title>
 </programme>
-<programme start="20250603173000 +0000" stop="20250603180000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2024/25: 32. Spieltag</title>
+<programme start="20250602174000 +0000" stop="20250602201000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Nations League: Portugal - Dänemark</title>
 </programme>
-<programme start="20250603180000 +0000" stop="20250603183000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250603183000 +0000" stop="20250603203000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Nations League: Deutschland - Italien</title>
-</programme>
-<programme start="20250603203000 +0000" stop="20250603210000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250603210000 +0000" stop="20250603213000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Get Wild: 1. Episode</title>
-</programme>
-<programme start="20250603213000 +0000" stop="20250603220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20250602201000 +0000" stop="20250602220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Champions League: PSG - Inter Mailand (Nur in DE verfügbar)</title>
 </programme>
 <programme start="20250602220000 +0000" stop="20250603060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
