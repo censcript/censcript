@@ -409,16 +409,16 @@
 <programme start="20250602223000 +0000" stop="20250603003000 +0000" channel="ANTV.mncvision">
     <title>Ratapan Anak Tiri 2</title>
 </programme>
-<programme start="20250603003000 +0000" stop="20250603020000 +0000" channel="ANTV.mncvision">
+<programme start="20250603003000 +0000" stop="20250603023000 +0000" channel="ANTV.mncvision">
     <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250603020000 +0000" stop="20250603053000 +0000" channel="ANTV.mncvision">
-    <title>Milenge Milenge</title>
+<programme start="20250603023000 +0000" stop="20250603060000 +0000" channel="ANTV.mncvision">
+    <title>Chori Chori Chupke Chupke</title>
 </programme>
-<programme start="20250603053000 +0000" stop="20250603083000 +0000" channel="ANTV.mncvision">
+<programme start="20250603060000 +0000" stop="20250603090000 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20250603083000 +0000" stop="20250603103000 +0000" channel="ANTV.mncvision">
+<programme start="20250603090000 +0000" stop="20250603103000 +0000" channel="ANTV.mncvision">
     <title>Bhagya Lakshmi</title>
 </programme>
 <programme start="20250603103000 +0000" stop="20250603120000 +0000" channel="ANTV.mncvision">
