@@ -6980,16 +6980,16 @@
         <title>Show 112</title>
     </programme>
     <programme start="20250603020000 +0000" stop="20250603070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Indonesia Open (Super 1000) R32 Day 1 Session 1</title>
+        <title>KAPAL API Indonesia Open (Super 1000) R32 Day 1 Session 1</title>
     </programme>
     <programme start="20250603070000 +0000" stop="20250603120000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Indonesia Open (Super 1000) R32 Day 1 Session 2</title>
+        <title>KAPAL API Indonesia Open (Super 1000) R32 Day 1 Session 2</title>
     </programme>
     <programme start="20250603120000 +0000" stop="20250603123000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 29</title>
     </programme>
     <programme start="20250603123000 +0000" stop="20250603173000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Indonesia Open (Super 1000) R32 Day 1 Session 1</title>
+        <title>KAPAL API Indonesia Open (Super 1000) R32 Day 1 Session 1</title>
     </programme>
     <programme start="20250602141500 +0000" stop="20250602160600 +0000" channel="SONY MAX.starhub">
         <title>Kahan Shuru Kahan Khatam</title>
