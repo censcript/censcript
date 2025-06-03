@@ -2941,13 +2941,10 @@
 <programme start="20250603073000 +0000" stop="20250603080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Spanien</title>
 </programme>
-<programme start="20250603080000 +0000" stop="20250603084500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
-</programme>
-<programme start="20250603084500 +0000" stop="20250603094500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250603080000 +0000" stop="20250603090000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Training in Detroit</title>
 </programme>
-<programme start="20250603094500 +0000" stop="20250603110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250603090000 +0000" stop="20250603110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Detroit</title>
 </programme>
 <programme start="20250603110000 +0000" stop="20250603130000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3134,7 +3131,7 @@
     <title>PL: Netbusters, 2. Spieltag</title>
 </programme>
 <programme start="20250602230000 +0000" stop="20250602233000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Legends: Thierry Henry</title>
+    <title>PL: PL Stories (Haaland - Breaking Ground)</title>
 </programme>
 <programme start="20250602233000 +0000" stop="20250603000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 3. Spieltag</title>
@@ -3805,19 +3802,19 @@
 <programme start="20250603014500 +0000" stop="20250603040000 +0000" channel="Warner TV Film HD.skyde">
     <title>2001: Odyssee im Weltraum</title>
 </programme>
-<programme start="20250603040000 +0000" stop="20250603053500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250603040000 +0000" stop="20250603053000 +0000" channel="Warner TV Film HD.skyde">
     <title>Miss Marple - Vier Frauen und ein Mord</title>
 </programme>
-<programme start="20250603053500 +0000" stop="20250603072500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250603053000 +0000" stop="20250603072000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die rote Lola</title>
 </programme>
-<programme start="20250603072500 +0000" stop="20250603084000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250603072000 +0000" stop="20250603084000 +0000" channel="Warner TV Film HD.skyde">
     <title>Dieser Mann weiß zuviel</title>
 </programme>
-<programme start="20250603084000 +0000" stop="20250603103000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250603084000 +0000" stop="20250603102500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Morgen danach</title>
 </programme>
-<programme start="20250603103000 +0000" stop="20250603123000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250603102500 +0000" stop="20250603123000 +0000" channel="Warner TV Film HD.skyde">
     <title>Callahan</title>
 </programme>
 <programme start="20250603123000 +0000" stop="20250603142500 +0000" channel="Warner TV Film HD.skyde">
@@ -3832,7 +3829,7 @@
 <programme start="20250603181500 +0000" stop="20250603205000 +0000" channel="Warner TV Film HD.skyde">
     <title>Terminator 2 - Tag der Abrechnung (Director&#039;s Cut)</title>
 </programme>
-<programme start="20250603205000 +0000" stop="20250603230000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250603205000 +0000" stop="20250603225500 +0000" channel="Warner TV Film HD.skyde">
     <title>Real Steel</title>
 </programme>
 <programme start="20250602223000 +0000" stop="20250603002500 +0000" channel="Warner TV Serie HD.skyde">

@@ -121,31 +121,31 @@
     <programme start="20250603093037 +0000" stop="20250603103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S8 - EP 8</title>
     </programme>
-    <programme start="20250603103000 +0000" stop="20250603110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603103000 +0000" stop="20250603110009 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 160</title>
     </programme>
-    <programme start="20250603110000 +0000" stop="20250603113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603110009 +0000" stop="20250603113026 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7986</title>
     </programme>
-    <programme start="20250603113000 +0000" stop="20250603123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603113026 +0000" stop="20250603122920 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 4</title>
     </programme>
-    <programme start="20250603123000 +0000" stop="20250603130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603122920 +0000" stop="20250603130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 77</title>
     </programme>
     <programme start="20250603130000 +0000" stop="20250603133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250603133000 +0000" stop="20250603140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603133000 +0000" stop="20250603140001 +0000" channel="Channel 5.mewatch">
         <title>In Search of Heat - EP 1</title>
     </programme>
-    <programme start="20250603140000 +0000" stop="20250603143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603140001 +0000" stop="20250603143018 +0000" channel="Channel 5.mewatch">
         <title>Scene City: Guang Ming</title>
     </programme>
-    <programme start="20250603143000 +0000" stop="20250603153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603143018 +0000" stop="20250603153034 +0000" channel="Channel 5.mewatch">
         <title>Red Eye (UK) - EP 5</title>
     </programme>
-    <programme start="20250603153000 +0000" stop="20250603162000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250603153034 +0000" stop="20250603162042 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S3 - EP 9</title>
     </programme>
     <programme start="20250602155959 +0000" stop="20250602165959 +0000" channel="Channel 8.mewatch">

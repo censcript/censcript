@@ -46,10 +46,10 @@
     <programme start="20250607170000 +0000" stop="20250607193000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Gotham FC v Kansas City Current</title>
     </programme>
-    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
     </programme>
-    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Albania v Serbia</title>
     </programme>
     <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 5.optus">
