@@ -1159,6 +1159,99 @@
 <programme start="20250604213500 +0000" stop="20250604223000 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
+<programme start="20250603220500 +0000" stop="20250603225000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Expedition Deutschland - Das Vermächtnis der Steine</title>
+</programme>
+<programme start="20250603225000 +0000" stop="20250603233500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Expedition Deutschland - Das Vermächtnis der Steine</title>
+</programme>
+<programme start="20250603233500 +0000" stop="20250604001500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20250604001500 +0000" stop="20250604005500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20250604005500 +0000" stop="20250604014000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604014000 +0000" stop="20250604023500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unsere Kontinente</title>
+</programme>
+<programme start="20250604023500 +0000" stop="20250604033000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unsere Kontinente</title>
+</programme>
+<programme start="20250604033000 +0000" stop="20250604043000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unsere Kontinente</title>
+</programme>
+<programme start="20250604043000 +0000" stop="20250604051500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604051500 +0000" stop="20250604060000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604060000 +0000" stop="20250604064500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604064500 +0000" stop="20250604073000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604073000 +0000" stop="20250604081500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20250604081500 +0000" stop="20250604090000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20250604090000 +0000" stop="20250604095000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Faszination Universum</title>
+</programme>
+<programme start="20250604095000 +0000" stop="20250604104000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Faszination Universum</title>
+</programme>
+<programme start="20250604104000 +0000" stop="20250604112500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20250604112500 +0000" stop="20250604120500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20250604120500 +0000" stop="20250604125500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20250604125500 +0000" stop="20250604134000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20250604134000 +0000" stop="20250604142500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20250604142500 +0000" stop="20250604151000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20250604151000 +0000" stop="20250604155500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604155500 +0000" stop="20250604164000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604164000 +0000" stop="20250604173000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604173000 +0000" stop="20250604181500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250604181500 +0000" stop="20250604190500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Unglaubliche Entdeckungen mit Danny Trejo</title>
+</programme>
+<programme start="20250604190500 +0000" stop="20250604195500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20250604195500 +0000" stop="20250604204500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20250604204500 +0000" stop="20250604213500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20250604213500 +0000" stop="20250604222000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Faszination Universum</title>
+</programme>
 <programme start="20250603220000 +0000" stop="20250604000000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2014</title>
 </programme>
