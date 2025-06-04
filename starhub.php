@@ -2398,42 +2398,6 @@
     <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="TVB Xing He.starhub">
         <title>The Conqueror&#039;s Story</title>
     </programme>
-    <programme start="20250603160000 +0000" stop="20250603190000 +0000" channel="Vannathirai.starhub">
-        <title>Puthumai Pithan</title>
-    </programme>
-    <programme start="20250603190000 +0000" stop="20250603220000 +0000" channel="Vannathirai.starhub">
-        <title>Pinju Manasu</title>
-    </programme>
-    <programme start="20250603220000 +0000" stop="20250604003000 +0000" channel="Vannathirai.starhub">
-        <title>Manaivi Sollae Manthiram</title>
-    </programme>
-    <programme start="20250604003000 +0000" stop="20250604010000 +0000" channel="Vannathirai.starhub">
-        <title>Kaalathai Vendra Ganangal</title>
-    </programme>
-    <programme start="20250604010000 +0000" stop="20250604040000 +0000" channel="Vannathirai.starhub">
-        <title>Ram Lakshman</title>
-    </programme>
-    <programme start="20250604040000 +0000" stop="20250604050000 +0000" channel="Vannathirai.starhub">
-        <title>Comedy Galatta</title>
-    </programme>
-    <programme start="20250604050000 +0000" stop="20250604080000 +0000" channel="Vannathirai.starhub">
-        <title>Naan Petra Selvam</title>
-    </programme>
-    <programme start="20250604080000 +0000" stop="20250604110000 +0000" channel="Vannathirai.starhub">
-        <title>Kee Mu</title>
-    </programme>
-    <programme start="20250604110000 +0000" stop="20250604113000 +0000" channel="Vannathirai.starhub">
-        <title>Kaalathai Vendra Ganangal</title>
-    </programme>
-    <programme start="20250604113000 +0000" stop="20250604120000 +0000" channel="Vannathirai.starhub">
-        <title>Star Hits</title>
-    </programme>
-    <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="Vannathirai.starhub">
-        <title>Comedy Galatta</title>
-    </programme>
-    <programme start="20250604130000 +0000" stop="20250604160000 +0000" channel="Vannathirai.starhub">
-        <title>Hit Thirai</title>
-    </programme>
     <programme start="20250603160000 +0000" stop="20250603180000 +0000" channel="Cinema One Global.starhub">
         <title>Alyas Boy Kano</title>
     </programme>
@@ -8206,10 +8170,10 @@
     <programme start="20250603211500 +0000" stop="20250603233000 +0000" channel="Asianet Movies.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20250603233000 +0000" stop="20250604013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250603233000 +0000" stop="20250604014000 +0000" channel="Asianet Movies.starhub">
         <title>Idukki Gold</title>
     </programme>
-    <programme start="20250604013000 +0000" stop="20250604043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250604014000 +0000" stop="20250604043000 +0000" channel="Asianet Movies.starhub">
         <title>Kunjiramayanam</title>
     </programme>
     <programme start="20250604043000 +0000" stop="20250604073000 +0000" channel="Asianet Movies.starhub">

@@ -8992,63 +8992,7 @@
 <programme start="20250604163000 +0000" stop="20250603170000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>
-<programme start="20250603170000 +0000" stop="20250603183000 +0000" channel="Thrill.mncvision">
-    <title>Deep In The Sea</title>
-</programme>
-<programme start="20250603183000 +0000" stop="20250603200500 +0000" channel="Thrill.mncvision">
-    <title>Red Rain</title>
-</programme>
-<programme start="20250603200500 +0000" stop="20250603210000 +0000" channel="Thrill.mncvision">
-    <title>3AM, Ep 5</title>
-</programme>
-<programme start="20250603210000 +0000" stop="20250603223000 +0000" channel="Thrill.mncvision">
-    <title>Painted Face</title>
-</programme>
-<programme start="20250603223000 +0000" stop="20250603230000 +0000" channel="Thrill.mncvision">
-    <title>Model Family, Ep 1</title>
-</programme>
-<programme start="20250603230000 +0000" stop="20250604010000 +0000" channel="Thrill.mncvision">
-    <title>Watch Me Kill</title>
-</programme>
-<programme start="20250604010000 +0000" stop="20250604023000 +0000" channel="Thrill.mncvision">
-    <title>Deep In The Sea</title>
-</programme>
-<programme start="20250604023000 +0000" stop="20250604040500 +0000" channel="Thrill.mncvision">
-    <title>Red Rain</title>
-</programme>
-<programme start="20250604040500 +0000" stop="20250604050000 +0000" channel="Thrill.mncvision">
-    <title>3AM, Ep 5</title>
-</programme>
-<programme start="20250604050000 +0000" stop="20250604063000 +0000" channel="Thrill.mncvision">
-    <title>Painted Face</title>
-</programme>
-<programme start="20250604063000 +0000" stop="20250604070000 +0000" channel="Thrill.mncvision">
-    <title>Model Family, Ep 1</title>
-</programme>
-<programme start="20250604070000 +0000" stop="20250604090000 +0000" channel="Thrill.mncvision">
-    <title>Watch Me Kill</title>
-</programme>
-<programme start="20250604090000 +0000" stop="20250604103000 +0000" channel="Thrill.mncvision">
-    <title>Deep In The Sea</title>
-</programme>
-<programme start="20250604103000 +0000" stop="20250604120500 +0000" channel="Thrill.mncvision">
-    <title>Red Rain</title>
-</programme>
-<programme start="20250604120500 +0000" stop="20250604130000 +0000" channel="Thrill.mncvision">
-    <title>3AM, Ep 5</title>
-</programme>
-<programme start="20250604130000 +0000" stop="20250604145000 +0000" channel="Thrill.mncvision">
-    <title>Tales Of The Undeparted</title>
-</programme>
-<programme start="20250604145000 +0000" stop="20250604151500 +0000" channel="Thrill.mncvision">
-    <title>Model Family, Ep 2</title>
-</programme>
-<programme start="20250604151500 +0000" stop="20250604165000 +0000" channel="Thrill.mncvision">
-    <title>Mama Ghost</title>
-</programme>
-<programme start="20250604165000 +0000" stop="20250603172000 +0000" channel="Thrill.mncvision">
-    <title>Impermanence</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250603171500 +0000" stop="20250603174500 +0000" channel="Trans 7.mncvision">
     <title>Redaksi Malam</title>
 </programme>
