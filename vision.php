@@ -631,13 +631,13 @@
 <programme start="20250604220000 +0000" stop="20250604230000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
 </programme>
-<programme start="20250604223000 +0000" stop="20250605003000 +0000" channel="ANTV.vision">
+<programme start="20250604230000 +0000" stop="20250605010000 +0000" channel="ANTV.vision">
 <title>Si Rano</title>
 </programme>
 <programme start="20250605010000 +0000" stop="20250605023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250605020000 +0000" stop="20250605053000 +0000" channel="ANTV.vision">
+<programme start="20250605023000 +0000" stop="20250605060000 +0000" channel="ANTV.vision">
 <title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20250605060000 +0000" stop="20250605090000 +0000" channel="ANTV.vision">
