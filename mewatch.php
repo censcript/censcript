@@ -142,10 +142,10 @@
     <programme start="20250604133000 +0000" stop="20250604143004 +0000" channel="Channel 5.mewatch">
         <title>It Takes A Village - EP 4</title>
     </programme>
-    <programme start="20250604143004 +0000" stop="20250604153004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250604143004 +0000" stop="20250604153014 +0000" channel="Channel 5.mewatch">
         <title>Modern Marvels: Machines - EP 4</title>
     </programme>
-    <programme start="20250604153004 +0000" stop="20250604160011 +0000" channel="Channel 5.mewatch">
+    <programme start="20250604153014 +0000" stop="20250604160016 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead S2 - EP 1</title>
     </programme>
     <programme start="20250603150045 +0000" stop="20250603160048 +0000" channel="Channel 8.mewatch">
@@ -574,25 +574,25 @@
     <programme start="20250604100000 +0000" stop="20250604110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="CNA.mewatch">
+    <programme start="20250604110000 +0000" stop="20250604120001 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 3</title>
     </programme>
-    <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="CNA.mewatch">
+    <programme start="20250604120001 +0000" stop="20250604130002 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250604130000 +0000" stop="20250604133000 +0000" channel="CNA.mewatch">
+    <programme start="20250604130002 +0000" stop="20250604133000 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 1</title>
     </programme>
-    <programme start="20250604133000 +0000" stop="20250604140000 +0000" channel="CNA.mewatch">
+    <programme start="20250604133000 +0000" stop="20250604140001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 6</title>
     </programme>
-    <programme start="20250604140000 +0000" stop="20250604150000 +0000" channel="CNA.mewatch">
+    <programme start="20250604140001 +0000" stop="20250604150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="CNA.mewatch">
+    <programme start="20250604150001 +0000" stop="20250604160000 +0000" channel="CNA.mewatch">
         <title>ROOTS: A Greening Journey</title>
     </programme>
-    <programme start="20250604160000 +0000" stop="20250604160300 +0000" channel="CNA.mewatch">
+    <programme start="20250604160000 +0000" stop="20250604160305 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250603155959 +0000" stop="20250603170011 +0000" channel="Oktolidays.mewatch">
