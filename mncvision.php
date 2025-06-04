@@ -4046,7 +4046,7 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250604133000 +0000" stop="20250604150000 +0000" channel="GTV.mncvision">
-    <title>Underground Monster</title>
+    <title>Snake 4</title>
 </programme>
 <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="GTV.mncvision">
     <title>Shushan Subdues Evil</title>
@@ -4103,7 +4103,7 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250604133000 +0000" stop="20250604150000 +0000" channel="GTV HD.mncvision">
-    <title>Underground Monster</title>
+    <title>Snake 4</title>
 </programme>
 <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="GTV HD.mncvision">
     <title>Shushan Subdues Evil</title>
