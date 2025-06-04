@@ -2171,67 +2171,67 @@
     <title>CGTN Documentary</title>
 </programme>
 <programme start="20250604030000 +0000" stop="20250604033000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Glamorous Greece, Ep 1</title>
 </programme>
 <programme start="20250604033000 +0000" stop="20250604040000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Art In The Field</title>
 </programme>
 <programme start="20250604040000 +0000" stop="20250604050000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Over The Land, Ep 2</title>
 </programme>
 <programme start="20250604050000 +0000" stop="20250604053000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>L. E. Hudec, Ep 3</title>
 </programme>
 <programme start="20250604053000 +0000" stop="20250604060000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search...: Xia Dynasty, Ep 5</title>
 </programme>
 <programme start="20250604060000 +0000" stop="20250604070000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Handicrafts: Pickled Memories</title>
 </programme>
 <programme start="20250604070000 +0000" stop="20250604073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Stretching The Limits S7, Ep 9</title>
 </programme>
 <programme start="20250604073000 +0000" stop="20250604080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>25 Years On: Strong Bond, Ep 3</title>
 </programme>
 <programme start="20250604080000 +0000" stop="20250604090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Secrets Of The Rainforest, Ep 2</title>
 </programme>
 <programme start="20250604090000 +0000" stop="20250604093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Glamorous Greece, Ep 1</title>
 </programme>
 <programme start="20250604093000 +0000" stop="20250604100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Art In The Field</title>
 </programme>
 <programme start="20250604100000 +0000" stop="20250604110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Over The Land, Ep 2</title>
 </programme>
 <programme start="20250604110000 +0000" stop="20250604113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>L. E. Hudec, Ep 3</title>
 </programme>
 <programme start="20250604113000 +0000" stop="20250604120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search...: Xia Dynasty, Ep 5</title>
 </programme>
 <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Handicrafts: Pickled Memories</title>
 </programme>
 <programme start="20250604130000 +0000" stop="20250604133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Stretching The Limits S7, Ep 9</title>
 </programme>
 <programme start="20250604133000 +0000" stop="20250604140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>25 Years On: Strong Bond, Ep 3</title>
 </programme>
 <programme start="20250604140000 +0000" stop="20250604150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Secrets Of The Rainforest, Ep 2</title>
 </programme>
 <programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Glamorous Greece, Ep 1</title>
 </programme>
 <programme start="20250604153000 +0000" stop="20250604160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Art In The Field</title>
 </programme>
 <programme start="20250604160000 +0000" stop="20250604163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Over The Land, Ep 2</title>
 </programme>
 <programme start="20250603170000 +0000" stop="20250603180000 +0000" channel="Channel News Asia.mncvision">
     <title>Taste Of The Times</title>
@@ -8581,13 +8581,13 @@
 <programme start="20250604023000 +0000" stop="20250604033000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250604033000 +0000" stop="20250604053000 +0000" channel="SPOTV.mncvision">
+<programme start="20250604033000 +0000" stop="20250604053500 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250604053000 +0000" stop="20250604080000 +0000" channel="SPOTV.mncvision">
+<programme start="20250604053500 +0000" stop="20250604081000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250604080000 +0000" stop="20250604090000 +0000" channel="SPOTV.mncvision">
+<programme start="20250604081000 +0000" stop="20250604090000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
 <programme start="20250604090000 +0000" stop="20250604093000 +0000" channel="SPOTV.mncvision">
@@ -8701,13 +8701,13 @@
 <programme start="20250604023000 +0000" stop="20250604033000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250604033000 +0000" stop="20250604053000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250604033000 +0000" stop="20250604053500 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250604053000 +0000" stop="20250604080000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250604053500 +0000" stop="20250604081000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
-<programme start="20250604080000 +0000" stop="20250604090000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250604081000 +0000" stop="20250604090000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Shanghai</title>
 </programme>
 <programme start="20250604090000 +0000" stop="20250604093000 +0000" channel="SPOTV HD.mncvision">

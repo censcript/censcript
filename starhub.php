@@ -5392,13 +5392,13 @@
     <programme start="20250604023000 +0000" stop="20250604033000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 2</title>
     </programme>
-    <programme start="20250604033000 +0000" stop="20250604053000 +0000" channel="SPOTV.starhub">
+    <programme start="20250604033000 +0000" stop="20250604053500 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250604053000 +0000" stop="20250604080000 +0000" channel="SPOTV.starhub">
+    <programme start="20250604053500 +0000" stop="20250604081000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250604080000 +0000" stop="20250604090000 +0000" channel="SPOTV.starhub">
+    <programme start="20250604081000 +0000" stop="20250604090000 +0000" channel="SPOTV.starhub">
         <title>Highlights 1</title>
     </programme>
     <programme start="20250604090000 +0000" stop="20250604093000 +0000" channel="SPOTV.starhub">
