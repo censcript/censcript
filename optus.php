@@ -1,7 +1,4 @@
-    <programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Juan Mata</title>
-    </programme>
-    <programme start="20250604185000 +0000" stop="20250604221000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250604184800 +0000" stop="20250604221000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Germany v Portugal</title>
     </programme>
     <programme start="20250605133000 +0000" stop="20250605143000 +0000" channel="Optus Sport 11.optus">
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250711185000 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Italy v Spain</title>
+    </programme>
+    <programme start="20250712095000 +0000" stop="20250712121000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Ulsan v Daegu</title>
     </programme>
