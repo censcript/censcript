@@ -592,19 +592,19 @@
 <programme start="20250605110000 +0000" stop="20250605120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
-<programme start="20250603230000 +0000" stop="20250604010000 +0000" channel="ANTV.vision">
+<programme start="20250603223000 +0000" stop="20250604003000 +0000" channel="ANTV.vision">
 <title>Tragedi Bintaro</title>
 </programme>
-<programme start="20250604010000 +0000" stop="20250604023000 +0000" channel="ANTV.vision">
+<programme start="20250604003000 +0000" stop="20250604020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250604023000 +0000" stop="20250604060000 +0000" channel="ANTV.vision">
+<programme start="20250604020000 +0000" stop="20250604053000 +0000" channel="ANTV.vision">
 <title>Baaghi 3</title>
 </programme>
-<programme start="20250604060000 +0000" stop="20250604090000 +0000" channel="ANTV.vision">
+<programme start="20250604053000 +0000" stop="20250604083000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250604090000 +0000" stop="20250604103000 +0000" channel="ANTV.vision">
+<programme start="20250604083000 +0000" stop="20250604103000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
 </programme>
 <programme start="20250604103000 +0000" stop="20250604120000 +0000" channel="ANTV.vision">
@@ -628,22 +628,22 @@
 <programme start="20250604210000 +0000" stop="20250604220000 +0000" channel="ANTV.vision">
 <title>Nadin</title>
 </programme>
-<programme start="20250604220000 +0000" stop="20250604230000 +0000" channel="ANTV.vision">
+<programme start="20250604220000 +0000" stop="20250604223000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
 </programme>
 <programme start="20250604223000 +0000" stop="20250605003000 +0000" channel="ANTV.vision">
 <title>Si Rano</title>
 </programme>
-<programme start="20250605010000 +0000" stop="20250605023000 +0000" channel="ANTV.vision">
+<programme start="20250605003000 +0000" stop="20250605020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250605020000 +0000" stop="20250605053000 +0000" channel="ANTV.vision">
 <title>Kuch Kuch Hota Hai</title>
 </programme>
-<programme start="20250605060000 +0000" stop="20250605090000 +0000" channel="ANTV.vision">
+<programme start="20250605053000 +0000" stop="20250605083000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250605090000 +0000" stop="20250605103000 +0000" channel="ANTV.vision">
+<programme start="20250605083000 +0000" stop="20250605103000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
 </programme>
 <programme start="20250605103000 +0000" stop="20250605120000 +0000" channel="ANTV.vision">
