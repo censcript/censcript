@@ -145,7 +145,7 @@
     <programme start="20250604143004 +0000" stop="20250604153014 +0000" channel="Channel 5.mewatch">
         <title>Modern Marvels: Machines - EP 4</title>
     </programme>
-    <programme start="20250604153014 +0000" stop="20250604160016 +0000" channel="Channel 5.mewatch">
+    <programme start="20250604153014 +0000" stop="20250604160021 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead S2 - EP 1</title>
     </programme>
     <programme start="20250603150045 +0000" stop="20250603160048 +0000" channel="Channel 8.mewatch">
@@ -244,29 +244,26 @@
     <programme start="20250604092854 +0000" stop="20250604103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 18</title>
     </programme>
-    <programme start="20250604103000 +0000" stop="20250604113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604103000 +0000" stop="20250604113025 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 47</title>
     </programme>
-    <programme start="20250604113000 +0000" stop="20250604120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604113025 +0000" stop="20250604120027 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 47</title>
     </programme>
-    <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604120027 +0000" stop="20250604125952 +0000" channel="Channel 8.mewatch">
         <title>James&#039; Going Places V - EP 9</title>
     </programme>
-    <programme start="20250604130000 +0000" stop="20250604140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604125952 +0000" stop="20250604140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 10</title>
     </programme>
-    <programme start="20250604140000 +0000" stop="20250604143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604140000 +0000" stop="20250604143159 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250604143000 +0000" stop="20250604150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604143159 +0000" stop="20250604150103 +0000" channel="Channel 8.mewatch">
         <title>Journey to Homeland S2 - EP 9</title>
     </programme>
-    <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250604150103 +0000" stop="20250604160137 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 8</title>
-    </programme>
-    <programme start="20250604160000 +0000" stop="20250604170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 27</title>
     </programme>
     <programme start="20250603153200 +0000" stop="20250603163016 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 6</title>
@@ -361,22 +358,22 @@
     <programme start="20250604100023 +0000" stop="20250604110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 22</title>
     </programme>
-    <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250604110000 +0000" stop="20250604120031 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 22</title>
     </programme>
-    <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250604120031 +0000" stop="20250604130028 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 23</title>
     </programme>
-    <programme start="20250604130000 +0000" stop="20250604140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250604130028 +0000" stop="20250604140029 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 4</title>
     </programme>
-    <programme start="20250604140000 +0000" stop="20250604150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250604140029 +0000" stop="20250604150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 20</title>
     </programme>
-    <programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250604150000 +0000" stop="20250604153010 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250604153000 +0000" stop="20250604163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250604153010 +0000" stop="20250604163034 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 4</title>
     </programme>
     <programme start="20250603153000 +0000" stop="20250603160004 +0000" channel="Suria.mewatch">
@@ -421,26 +418,23 @@
     <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 3</title>
     </programme>
-    <programme start="20250604120000 +0000" stop="20250604123000 +0000" channel="Suria.mewatch">
+    <programme start="20250604120000 +0000" stop="20250604123015 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250604123000 +0000" stop="20250604130000 +0000" channel="Suria.mewatch">
+    <programme start="20250604123015 +0000" stop="20250604130014 +0000" channel="Suria.mewatch">
         <title>Detik Khas - EP 2</title>
     </programme>
-    <programme start="20250604130000 +0000" stop="20250604133000 +0000" channel="Suria.mewatch">
+    <programme start="20250604130014 +0000" stop="20250604133034 +0000" channel="Suria.mewatch">
         <title>Jejak Jenayah 2025 - EP 3</title>
     </programme>
-    <programme start="20250604133000 +0000" stop="20250604143000 +0000" channel="Suria.mewatch">
+    <programme start="20250604133034 +0000" stop="20250604143041 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 4</title>
     </programme>
-    <programme start="20250604143000 +0000" stop="20250604153000 +0000" channel="Suria.mewatch">
+    <programme start="20250604143041 +0000" stop="20250604153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 7</title>
     </programme>
-    <programme start="20250604153000 +0000" stop="20250604160000 +0000" channel="Suria.mewatch">
+    <programme start="20250604153000 +0000" stop="20250604160127 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250604160000 +0000" stop="20250605010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250603153000 +0000" stop="20250603160242 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
@@ -493,28 +487,28 @@
     <programme start="20250604103000 +0000" stop="20250604110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 5</title>
     </programme>
-    <programme start="20250604110000 +0000" stop="20250604120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604110000 +0000" stop="20250604120002 +0000" channel="Vasantham.mewatch">
         <title>Neruppuda Season 2 - EP 3</title>
     </programme>
-    <programme start="20250604120000 +0000" stop="20250604123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604120002 +0000" stop="20250604123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 14</title>
     </programme>
     <programme start="20250604123000 +0000" stop="20250604130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250604130000 +0000" stop="20250604133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604130000 +0000" stop="20250604133026 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 8</title>
     </programme>
-    <programme start="20250604133000 +0000" stop="20250604140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604133026 +0000" stop="20250604140014 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 7</title>
     </programme>
-    <programme start="20250604140000 +0000" stop="20250604143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604140014 +0000" stop="20250604143016 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 5</title>
     </programme>
-    <programme start="20250604143000 +0000" stop="20250604150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604143016 +0000" stop="20250604150016 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 6</title>
     </programme>
-    <programme start="20250604150000 +0000" stop="20250604153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250604150016 +0000" stop="20250604153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 4</title>
     </programme>
     <programme start="20250604153000 +0000" stop="20250604160002 +0000" channel="Vasantham.mewatch">
