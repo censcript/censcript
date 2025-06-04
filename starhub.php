@@ -2398,6 +2398,42 @@
     <programme start="20250604150000 +0000" stop="20250604160000 +0000" channel="TVB Xing He.starhub">
         <title>The Conqueror&#039;s Story</title>
     </programme>
+    <programme start="20250603160000 +0000" stop="20250603190000 +0000" channel="Vannathirai.starhub">
+        <title>Puthumai Pithan</title>
+    </programme>
+    <programme start="20250603190000 +0000" stop="20250603220000 +0000" channel="Vannathirai.starhub">
+        <title>Pinju Manasu</title>
+    </programme>
+    <programme start="20250603220000 +0000" stop="20250604003000 +0000" channel="Vannathirai.starhub">
+        <title>Manaivi Sollae Manthiram</title>
+    </programme>
+    <programme start="20250604003000 +0000" stop="20250604010000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
+    </programme>
+    <programme start="20250604010000 +0000" stop="20250604040000 +0000" channel="Vannathirai.starhub">
+        <title>Ram Lakshman</title>
+    </programme>
+    <programme start="20250604040000 +0000" stop="20250604050000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
+    </programme>
+    <programme start="20250604050000 +0000" stop="20250604080000 +0000" channel="Vannathirai.starhub">
+        <title>Naan Petra Selvam</title>
+    </programme>
+    <programme start="20250604080000 +0000" stop="20250604110000 +0000" channel="Vannathirai.starhub">
+        <title>Kee Mu</title>
+    </programme>
+    <programme start="20250604110000 +0000" stop="20250604113000 +0000" channel="Vannathirai.starhub">
+        <title>Kaalathai Vendra Ganangal</title>
+    </programme>
+    <programme start="20250604113000 +0000" stop="20250604120000 +0000" channel="Vannathirai.starhub">
+        <title>Star Hits</title>
+    </programme>
+    <programme start="20250604120000 +0000" stop="20250604130000 +0000" channel="Vannathirai.starhub">
+        <title>Comedy Galatta</title>
+    </programme>
+    <programme start="20250604130000 +0000" stop="20250604160000 +0000" channel="Vannathirai.starhub">
+        <title>Hit Thirai</title>
+    </programme>
     <programme start="20250603160000 +0000" stop="20250603180000 +0000" channel="Cinema One Global.starhub">
         <title>Alyas Boy Kano</title>
     </programme>
@@ -7594,11 +7630,11 @@
     <programme start="20250603183000 +0000" stop="20250603190000 +0000" channel="BBC World News HD.starhub">
         <title>The World Today with Maryam Moshiri</title>
     </programme>
-    <programme start="20250603190000 +0000" stop="20250603193000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+    <programme start="20250603190000 +0000" stop="20250603194500 +0000" channel="BBC World News HD.starhub">
+        <title>The Today Debate: Israel-Gaza</title>
     </programme>
-    <programme start="20250603193000 +0000" stop="20250603200000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+    <programme start="20250603194500 +0000" stop="20250603200000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
     <programme start="20250603200000 +0000" stop="20250603203000 +0000" channel="BBC World News HD.starhub">
         <title>The Context</title>

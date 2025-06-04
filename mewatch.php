@@ -682,32 +682,50 @@
     <programme start="20250604160000 +0000" stop="20250605160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250603160000 +0000" stop="20250603210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250603170000 +0000" stop="20250603190000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1983 - EP1</title>
     </programme>
-    <programme start="20250603210000 +0000" stop="20250603220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250603190000 +0000" stop="20250603220000 +0000" channel="now-80s.mewatch">
+        <title>The 50 Most Streamed 80s Songs - EP1</title>
     </programme>
-    <programme start="20250603220000 +0000" stop="20250603230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250603220000 +0000" stop="20250604002500 +0000" channel="now-80s.mewatch">
+        <title>80s Easy Cheesy! Top 30 - EP1</title>
     </programme>
-    <programme start="20250603230000 +0000" stop="20250604000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250604002500 +0000" stop="20250604010000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
     </programme>
-    <programme start="20250604000000 +0000" stop="20250604040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250604010000 +0000" stop="20250604030500 +0000" channel="now-80s.mewatch">
+        <title>Sinitta&#039;s High Energy Hits! Top 25 - EP1</title>
+    </programme>
+    <programme start="20250604030500 +0000" stop="20250604040000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
     </programme>
     <programme start="20250604040000 +0000" stop="20250604050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+        <title>Na Na Hey Hey Bananarama! - EP1</title>
     </programme>
-    <programme start="20250604050000 +0000" stop="20250604100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250604050000 +0000" stop="20250604060000 +0000" channel="now-80s.mewatch">
+        <title>Kylie Vs Jason: Neighbours! - EP1</title>
     </programme>
-    <programme start="20250604100000 +0000" stop="20250604110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250604060000 +0000" stop="20250604080500 +0000" channel="now-80s.mewatch">
+        <title>Jason Donovan&#039;s 80s Pop Pin-Ups! - EP1</title>
     </programme>
-    <programme start="20250604110000 +0000" stop="20250604160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250604080500 +0000" stop="20250604090000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
+    </programme>
+    <programme start="20250604090000 +0000" stop="20250604093000 +0000" channel="now-80s.mewatch">
+        <title>40 Feelgood But Forgotten Favs! - EP1</title>
+    </programme>
+    <programme start="20250604093000 +0000" stop="20250604103000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1983 - EP1</title>
+    </programme>
+    <programme start="20250604103000 +0000" stop="20250604120500 +0000" channel="now-80s.mewatch">
+        <title>40 Feelgood But Forgotten Favs! - EP1</title>
+    </programme>
+    <programme start="20250604120500 +0000" stop="20250604130000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
+    </programme>
+    <programme start="20250604130000 +0000" stop="20250604160000 +0000" channel="now-80s.mewatch">
+        <title>Rick Astley&#039;s Hit Factory &amp; Beyond - EP1</title>
     </programme>
     <programme start="20250604160000 +0000" stop="20250604210000 +0000" channel="now-80s.mewatch">
         <title>80s Rock Anthems Night!</title>
@@ -715,26 +733,44 @@
     <programme start="20250603100000 +0000" stop="20250603200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250603200000 +0000" stop="20250603210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250603160000 +0000" stop="20250603162500 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
     </programme>
-    <programme start="20250603210000 +0000" stop="20250603220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250603162500 +0000" stop="20250603191500 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco! - EP1</title>
     </programme>
-    <programme start="20250603220000 +0000" stop="20250603230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250603191500 +0000" stop="20250603192500 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
     </programme>
-    <programme start="20250603230000 +0000" stop="20250604000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250603192500 +0000" stop="20250603210000 +0000" channel="now-70s.mewatch">
+        <title>Bubblegum Pop! Top 30 - EP1</title>
     </programme>
-    <programme start="20250604000000 +0000" stop="20250604090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250603210000 +0000" stop="20250604014000 +0000" channel="now-70s.mewatch">
+        <title>100% Superstars! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250604090000 +0000" stop="20250604100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250604014000 +0000" stop="20250604020000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
     </programme>
-    <programme start="20250604100000 +0000" stop="20250604200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250604020000 +0000" stop="20250604051000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Karaoke Party! - EP1</title>
+    </programme>
+    <programme start="20250604051000 +0000" stop="20250604060000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
+    </programme>
+    <programme start="20250604060000 +0000" stop="20250604093000 +0000" channel="now-70s.mewatch">
+        <title>The Rock 100 Of The 70s - EP1</title>
+    </programme>
+    <programme start="20250604093000 +0000" stop="20250604095500 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
+    </programme>
+    <programme start="20250604095500 +0000" stop="20250604103000 +0000" channel="now-70s.mewatch">
+        <title>Derek Griffiths: Playschool Disco! - EP1</title>
+    </programme>
+    <programme start="20250604103000 +0000" stop="20250604144000 +0000" channel="now-70s.mewatch">
+        <title>The Rock 100 Of The 70s - EP1</title>
+    </programme>
+    <programme start="20250604144000 +0000" stop="20250604200000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Night! - EP1</title>
     </programme>
     <programme start="20250603160000 +0000" stop="20250603220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
