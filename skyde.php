@@ -829,91 +829,97 @@
 <programme start="20250604215000 +0000" stop="20250604220000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250605224000 +0000" stop="20250605234500 +0000" channel="Crime + Investigation.skyde">
-    <title>Das Motiv der Menendez-Mörder</title>
+<programme start="20250603222000 +0000" stop="20250603225000 +0000" channel="Crime + Investigation.skyde">
+    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
 </programme>
-<programme start="20250605234500 +0000" stop="20250606005000 +0000" channel="Crime + Investigation.skyde">
-    <title>Das Motiv der Menendez-Mörder</title>
+<programme start="20250603225000 +0000" stop="20250603233500 +0000" channel="Crime + Investigation.skyde">
+    <title>Cold Case Files</title>
 </programme>
-<programme start="20250606005000 +0000" stop="20250606013500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250603233500 +0000" stop="20250604002000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20250604002000 +0000" stop="20250604005000 +0000" channel="Crime + Investigation.skyde">
+    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+</programme>
+<programme start="20250604005000 +0000" stop="20250604013500 +0000" channel="Crime + Investigation.skyde">
     <title>Am Ort des Verbrechens</title>
 </programme>
-<programme start="20250606013500 +0000" stop="20250606022000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604013500 +0000" stop="20250604022000 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
-<programme start="20250606022000 +0000" stop="20250606030500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604022000 +0000" stop="20250604030500 +0000" channel="Crime + Investigation.skyde">
     <title>Vermisst und ermordet</title>
 </programme>
-<programme start="20250606030500 +0000" stop="20250606033000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604030500 +0000" stop="20250604033000 +0000" channel="Crime + Investigation.skyde">
     <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
 </programme>
-<programme start="20250606033000 +0000" stop="20250606042000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604033000 +0000" stop="20250604042000 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files</title>
 </programme>
-<programme start="20250606042000 +0000" stop="20250606051000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604042000 +0000" stop="20250604051000 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
-<programme start="20250606051000 +0000" stop="20250606060000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604051000 +0000" stop="20250604060000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48 - Momente der Entscheidung</title>
 </programme>
-<programme start="20250606060000 +0000" stop="20250606063000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604060000 +0000" stop="20250604063000 +0000" channel="Crime + Investigation.skyde">
     <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
 </programme>
-<programme start="20250606063000 +0000" stop="20250606072000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604063000 +0000" stop="20250604072000 +0000" channel="Crime + Investigation.skyde">
     <title>Vermisst und ermordet</title>
 </programme>
-<programme start="20250606072000 +0000" stop="20250606082500 +0000" channel="Crime + Investigation.skyde">
-    <title>Das Motiv der Menendez-Mörder</title>
-</programme>
-<programme start="20250606082500 +0000" stop="20250606093000 +0000" channel="Crime + Investigation.skyde">
-    <title>Das Motiv der Menendez-Mörder</title>
-</programme>
-<programme start="20250606093000 +0000" stop="20250606095500 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20250606095500 +0000" stop="20250606104000 +0000" channel="Crime + Investigation.skyde">
-    <title>Witness to Murder - Digitale Zeugen</title>
-</programme>
-<programme start="20250606104000 +0000" stop="20250606113000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20250606113000 +0000" stop="20250606122000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604072000 +0000" stop="20250604081000 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files</title>
 </programme>
-<programme start="20250606122000 +0000" stop="20250606131000 +0000" channel="Crime + Investigation.skyde">
-    <title>Vermisst und ermordet</title>
+<programme start="20250604081000 +0000" stop="20250604090000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20250606131000 +0000" stop="20250606140000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604090000 +0000" stop="20250604095000 +0000" channel="Crime + Investigation.skyde">
     <title>Am Ort des Verbrechens</title>
 </programme>
-<programme start="20250606140000 +0000" stop="20250606145000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20250606145000 +0000" stop="20250606154000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604095000 +0000" stop="20250604104000 +0000" channel="Crime + Investigation.skyde">
     <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250606154000 +0000" stop="20250606163500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604104000 +0000" stop="20250604113000 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
-<programme start="20250606163500 +0000" stop="20250606172500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604113000 +0000" stop="20250604122000 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files</title>
 </programme>
-<programme start="20250606172500 +0000" stop="20250606181500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604122000 +0000" stop="20250604131000 +0000" channel="Crime + Investigation.skyde">
+    <title>Vermisst und ermordet</title>
+</programme>
+<programme start="20250604131000 +0000" stop="20250604140000 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20250604140000 +0000" stop="20250604145000 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48 - Momente der Entscheidung</title>
+</programme>
+<programme start="20250604145000 +0000" stop="20250604154000 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
+</programme>
+<programme start="20250604154000 +0000" stop="20250604163500 +0000" channel="Crime + Investigation.skyde">
+    <title>Bloodline Detectives - Die DNA der Täter</title>
+</programme>
+<programme start="20250604163500 +0000" stop="20250604172500 +0000" channel="Crime + Investigation.skyde">
+    <title>Cold Case Files</title>
+</programme>
+<programme start="20250604172500 +0000" stop="20250604181500 +0000" channel="Crime + Investigation.skyde">
     <title>Meet, Marry, Murder - Tödliche Ehe</title>
 </programme>
-<programme start="20250606181500 +0000" stop="20250606190500 +0000" channel="Crime + Investigation.skyde">
-    <title>Court Cam - Auf der Anklagebank</title>
+<programme start="20250604181500 +0000" stop="20250604190500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250606190500 +0000" stop="20250606195500 +0000" channel="Crime + Investigation.skyde">
-    <title>Court Cam - Auf der Anklagebank</title>
+<programme start="20250604190500 +0000" stop="20250604195500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250606195500 +0000" stop="20250606204500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604195500 +0000" stop="20250604204500 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48 - Momente der Entscheidung</title>
 </programme>
-<programme start="20250606204500 +0000" stop="20250606213000 +0000" channel="Crime + Investigation.skyde">
-    <title>Vermisst und ermordet</title>
+<programme start="20250604204500 +0000" stop="20250604213500 +0000" channel="Crime + Investigation.skyde">
+    <title>#TextMeWhenYouGetHome</title>
 </programme>
-<programme start="20250606213000 +0000" stop="20250606222000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250604213500 +0000" stop="20250604222000 +0000" channel="Crime + Investigation.skyde">
     <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
 <programme start="20250603220000 +0000" stop="20250604060000 +0000" channel="DAZN 1 HD.skyde">
