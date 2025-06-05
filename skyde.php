@@ -3391,11 +3391,8 @@
 <programme start="20250604231500 +0000" stop="20250604234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Stanley Cup Final - Der Countdown</title>
 </programme>
-<programme start="20250604234500 +0000" stop="20250605031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250604234500 +0000" stop="20250605040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final, Spiel 1</title>
-</programme>
-<programme start="20250605031500 +0000" stop="20250605040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>World Surf League: Replay: Margaret River Pro Finals Day</title>
 </programme>
 <programme start="20250605040000 +0000" stop="20250605070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Austrian Alpine Open presented by SalzburgerLand, 4. Tag in Salzburg (Österreich)</title>
