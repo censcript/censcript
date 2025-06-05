@@ -7579,6 +7579,9 @@
 <programme start="20250605163000 +0000" stop="20250604170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Great Aussie Road Trips, Ep 3</title>
 </programme>
+<programme start="20250604181500 +0000" stop="20250604183000 +0000" channel="RCTI.mncvision">
+    <title>Cowok Gw Tipe O</title>
+</programme>
 <programme start="20250604183000 +0000" stop="20250604190000 +0000" channel="RCTI.mncvision">
     <title>UEFA Nations League 2024/2025</title>
 </programme>
@@ -7617,6 +7620,9 @@
 </programme>
 <programme start="20250605160000 +0000" stop="20250605163000 +0000" channel="RCTI.mncvision">
     <title>Jack Ryan: Shadow Recruit</title>
+</programme>
+<programme start="20250604181500 +0000" stop="20250604183000 +0000" channel="RCTI HD.mncvision">
+    <title>Cowok Gw Tipe O</title>
 </programme>
 <programme start="20250604183000 +0000" stop="20250604190000 +0000" channel="RCTI HD.mncvision">
     <title>UEFA Nations League 2024/2025</title>
@@ -8171,7 +8177,13 @@
     <title>Timnas Special: IDN Vs BHR</title>
 </programme>
 <programme start="20250605150000 +0000" stop="20250605153000 +0000" channel="Soccer Channel.mncvision">
-    <title>Pro Futsal League</title>
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20250605153000 +0000" stop="20250605154500 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250605154500 +0000" stop="20250605161500 +0000" channel="Soccer Channel.mncvision">
+    <title>Friendly Match: GEO Vs FRO (L)</title>
 </programme>
 <programme start="20250604183000 +0000" stop="20250604203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>UEFA Nations League</title>
@@ -8204,7 +8216,13 @@
     <title>Timnas Special: IDN Vs BHR</title>
 </programme>
 <programme start="20250605150000 +0000" stop="20250605153000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League</title>
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20250605153000 +0000" stop="20250605154500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250605154500 +0000" stop="20250605161500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Friendly Match: GEO Vs FRO (L)</title>
 </programme>
 <programme start="20250604173000 +0000" stop="20250604210000 +0000" channel="Sportstars.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>

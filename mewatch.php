@@ -130,10 +130,10 @@
     <programme start="20250605110018 +0000" stop="20250605110959 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 7</title>
     </programme>
-    <programme start="20250605110959 +0000" stop="20250605122959 +0000" channel="Channel 5.mewatch">
+    <programme start="20250605110959 +0000" stop="20250605123009 +0000" channel="Channel 5.mewatch">
         <title>Britain&#039;s Got Talent - Series 17 - EP 1</title>
     </programme>
-    <programme start="20250605122959 +0000" stop="20250605130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250605123009 +0000" stop="20250605130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 79</title>
     </programme>
     <programme start="20250605130000 +0000" stop="20250605133000 +0000" channel="Channel 5.mewatch">
@@ -364,22 +364,22 @@
     <programme start="20250605095921 +0000" stop="20250605110000 +0000" channel="Channel U.mewatch">
         <title>Love Hurts - EP 23</title>
     </programme>
-    <programme start="20250605110000 +0000" stop="20250605120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250605110000 +0000" stop="20250605115956 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 24</title>
     </programme>
-    <programme start="20250605120000 +0000" stop="20250605130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250605115956 +0000" stop="20250605130002 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 25</title>
     </programme>
-    <programme start="20250605130000 +0000" stop="20250605140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250605130002 +0000" stop="20250605140006 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 8</title>
     </programme>
-    <programme start="20250605140000 +0000" stop="20250605150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250605140006 +0000" stop="20250605150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 21</title>
     </programme>
-    <programme start="20250605150000 +0000" stop="20250605153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250605150000 +0000" stop="20250605153026 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250605153000 +0000" stop="20250605163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250605153026 +0000" stop="20250605163020 +0000" channel="Channel U.mewatch">
         <title>The Disappearing Borders - EP 8</title>
     </programme>
     <programme start="20250604153000 +0000" stop="20250604160127 +0000" channel="Suria.mewatch">
@@ -583,22 +583,22 @@
     <programme start="20250605100000 +0000" stop="20250605110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250605110000 +0000" stop="20250605120000 +0000" channel="CNA.mewatch">
+    <programme start="20250605110000 +0000" stop="20250605120001 +0000" channel="CNA.mewatch">
         <title>Love After 60</title>
     </programme>
-    <programme start="20250605120000 +0000" stop="20250605130000 +0000" channel="CNA.mewatch">
+    <programme start="20250605120001 +0000" stop="20250605130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250605130000 +0000" stop="20250605140000 +0000" channel="CNA.mewatch">
+    <programme start="20250605130001 +0000" stop="20250605140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 7</title>
     </programme>
-    <programme start="20250605140000 +0000" stop="20250605150000 +0000" channel="CNA.mewatch">
+    <programme start="20250605140000 +0000" stop="20250605150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250605150000 +0000" stop="20250605160000 +0000" channel="CNA.mewatch">
+    <programme start="20250605150105 +0000" stop="20250605155959 +0000" channel="CNA.mewatch">
         <title>The Future Proofers - EP 2</title>
     </programme>
-    <programme start="20250605160000 +0000" stop="20250605160300 +0000" channel="CNA.mewatch">
+    <programme start="20250605155959 +0000" stop="20250605160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250604155959 +0000" stop="20250604170011 +0000" channel="Oktolidays.mewatch">
