@@ -1,6 +1,3 @@
-    <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA Nations League - Spain v France</title>
-    </programme>
     <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Gibraltar v Croatia</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
+    </programme>
+    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - England v Wales</title>
     </programme>

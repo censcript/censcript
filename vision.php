@@ -490,9 +490,6 @@
 <programme start="20250605181500 +0000" stop="20250605193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
-<programme start="20250605193000 +0000" stop="20250605203000 +0000" channel="Trans 7.vision">
-<title>Setan Kredit</title>
-</programme>
 <programme start="20250605203000 +0000" stop="20250605211500 +0000" channel="Trans 7.vision">
 <title>Just For Laughs</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250605173000 +0000" stop="20250605203000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250605203000 +0000" stop="20250605210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
