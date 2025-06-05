@@ -4739,7 +4739,7 @@
         <title>Ted Sarandos, Netflix Co-CEO</title>
     </programme>
     <programme start="20250605113000 +0000" stop="20250605120000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Luisa Gomez Bravo</title>
+        <title>Luisa Gómez Bravo</title>
     </programme>
     <programme start="20250605120000 +0000" stop="20250605130000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Surveillance</title>
@@ -7759,19 +7759,19 @@
     <programme start="20250605080000 +0000" stop="20250605090000 +0000" channel="Premier Sports.starhub">
         <title>Gallagher Premiership</title>
     </programme>
-    <programme start="20250605090000 +0000" stop="20250605105000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250605090000 +0000" stop="20250605104000 +0000" channel="Premier Sports.starhub">
         <title>URC Leinster v Scarlets</title>
     </programme>
-    <programme start="20250605105000 +0000" stop="20250605124000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250605104000 +0000" stop="20250605131000 +0000" channel="Premier Sports.starhub">
         <title>URC Sharks v Munster</title>
     </programme>
-    <programme start="20250605124000 +0000" stop="20250605134000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250605131000 +0000" stop="20250605141000 +0000" channel="Premier Sports.starhub">
         <title>Gallagher Premiership</title>
     </programme>
-    <programme start="20250605134000 +0000" stop="20250605153000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250605141000 +0000" stop="20250605155000 +0000" channel="Premier Sports.starhub">
         <title>NRL Dragons v Knights</title>
     </programme>
-    <programme start="20250605153000 +0000" stop="20250605180000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250605155000 +0000" stop="20250605181000 +0000" channel="Premier Sports.starhub">
         <title>AFL West Coast v Geelong</title>
     </programme>
     <programme start="20250604160000 +0000" stop="20250604163000 +0000" channel="Hub Premier 1.starhub">
@@ -8149,10 +8149,10 @@
     <programme start="20250604214000 +0000" stop="20250604233000 +0000" channel="Asianet Movies.starhub">
         <title>Samastha Keralam PO</title>
     </programme>
-    <programme start="20250604233000 +0000" stop="20250605013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250604233000 +0000" stop="20250605013500 +0000" channel="Asianet Movies.starhub">
         <title>Panthayakkozhi</title>
     </programme>
-    <programme start="20250605013000 +0000" stop="20250605043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250605013500 +0000" stop="20250605043000 +0000" channel="Asianet Movies.starhub">
         <title>Vaashi</title>
     </programme>
     <programme start="20250605043000 +0000" stop="20250605073000 +0000" channel="Asianet Movies.starhub">
@@ -8277,9 +8277,6 @@
     </programme>
     <programme start="20250605140000 +0000" stop="20250605160000 +0000" channel="Astro Warna HD.starhub">
         <title>I Heart You Cik Yah</title>
-    </programme>
-    <programme start="20250604140000 +0000" stop="20250604163000 +0000" channel="SPOTV2.starhub">
-        <title>MLB 2025: Regular season Los Angeles Dodgers vs New York Mets</title>
     </programme>
     <programme start="20250604163000 +0000" stop="20250604170000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>

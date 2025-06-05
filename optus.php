@@ -4,22 +4,22 @@
     <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Gibraltar v Croatia</title>
     </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Norway v Italy</title>
     </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Czechia v Montenegro</title>
     </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Wales v Liechtenstein</title>
     </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - North Macedonia v Belgium</title>
     </programme>
-    <programme start="20250606183500 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
     </programme>
     <programme start="20250606233000 +0000" stop="20250607020000 +0000" channel="Optus Sport 401.optus">
@@ -28,25 +28,25 @@
     <programme start="20250607020000 +0000" stop="20250607043000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - San Diego Wave FC v Seattle Reign</title>
     </programme>
-    <programme start="20250607125000 +0000" stop="20250607151000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250607124900 +0000" stop="20250607151000 +0000" channel="Optus Sport 7.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
     </programme>
-    <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250607154900 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Andorra v England</title>
     </programme>
-    <programme start="20250607155000 +0000" stop="20250607181000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250607154900 +0000" stop="20250607181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Malta v Lithuania</title>
     </programme>
     <programme start="20250607170000 +0000" stop="20250607193000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Gotham FC v Kansas City Current</title>
     </programme>
-    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
     </programme>
-    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Albania v Serbia</title>
     </programme>
-    <programme start="20250607183500 +0000" stop="20250607205500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Austria v Romania</title>
     </programme>
     <programme start="20250607230000 +0000" stop="20250608013000 +0000" channel="Optus Sport 404.optus">
@@ -61,40 +61,40 @@
     <programme start="20250608200000 +0000" stop="20250608223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Washington Spirit v North Carolina Courage</title>
     </programme>
-    <programme start="20250609135000 +0000" stop="20250609161000 +0000" channel="Optus Sport 7.optus">
+    <programme start="20250609134900 +0000" stop="20250609161000 +0000" channel="Optus Sport 7.optus">
         <title>UEFA World Cup Qualifiers - Kazakhstan v North Macedonia</title>
     </programme>
-    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Croatia v Czechia</title>
     </programme>
-    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Italy v Moldova</title>
     </programme>
-    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - Faroe Islands v Gibraltar</title>
     </programme>
-    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Belgium v Wales</title>
     </programme>
-    <programme start="20250609183500 +0000" stop="20250609205500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Estonia v Norway</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 6.optus">
+    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 6.optus">
         <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 5.optus">
+    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 5.optus">
         <title>UEFA World Cup Qualifiers - San Marino v Austria</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 4.optus">
+    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
     </programme>
-    <programme start="20250610183500 +0000" stop="20250610205500 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 2.optus">
         <title>UEFA World Cup Qualifiers - Finland v Poland</title>
     </programme>
     <programme start="20250611170000 +0000" stop="20250611173000 +0000" channel="Optus Sport 11.optus">
