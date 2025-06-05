@@ -3962,13 +3962,13 @@
         <title>Drama Serial &quot;Anpan&quot; Eps. 48 (R)</title>
     </programme>
     <programme start="20250604184500 +0000" stop="20250604191200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
+        <title>Where We Call Home (B) (R)</title>
     </programme>
     <programme start="20250604191200 +0000" stop="20250604191500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
     <programme start="20250604191500 +0000" stop="20250604200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Bread - a Special Collab with Dram</title>
+        <title>Eat Up! The Ultimate Homemade Cooking Battle&quot;Bread-a Special Collab with Drama S</title>
     </programme>
     <programme start="20250604200000 +0000" stop="20250604201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>

@@ -97,7 +97,126 @@
 <programme start="20250605163000 +0000" stop="20250604170000 +0000" channel="ABC Australia.mncvision">
     <title>Going Places With Ernie Dingo</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 0
+<programme start="20250604170000 +0000" stop="20250604173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250604173000 +0000" stop="20250604180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250604180000 +0000" stop="20250604190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250604190000 +0000" stop="20250604193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250604193000 +0000" stop="20250604200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Africa Direct: Stone Crusher</title>
+</programme>
+<programme start="20250604200000 +0000" stop="20250604203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250604203000 +0000" stop="20250604210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250604210000 +0000" stop="20250604220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250604220000 +0000" stop="20250604223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250604223000 +0000" stop="20250604230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fault Lines: Want To Die Today?</title>
+</programme>
+<programme start="20250604230000 +0000" stop="20250604233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250604233000 +0000" stop="20250605000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Democracy Maybe</title>
+</programme>
+<programme start="20250605000000 +0000" stop="20250605003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605003000 +0000" stop="20250605010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250605010000 +0000" stop="20250605020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: The Golan</title>
+</programme>
+<programme start="20250605020000 +0000" stop="20250605023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605023000 +0000" stop="20250605030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Free Speech...</title>
+</programme>
+<programme start="20250605030000 +0000" stop="20250605033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605033000 +0000" stop="20250605040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fight For Pacific: Business War</title>
+</programme>
+<programme start="20250605040000 +0000" stop="20250605043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605043000 +0000" stop="20250605050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Stephen Walt</title>
+</programme>
+<programme start="20250605050000 +0000" stop="20250605053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605053000 +0000" stop="20250605060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250605060000 +0000" stop="20250605063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605063000 +0000" stop="20250605070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Democracy Maybe</title>
+</programme>
+<programme start="20250605070000 +0000" stop="20250605080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250605080000 +0000" stop="20250605083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605083000 +0000" stop="20250605090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fault Lines: Want To Die Today?</title>
+</programme>
+<programme start="20250605090000 +0000" stop="20250605093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605093000 +0000" stop="20250605100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20250605100000 +0000" stop="20250605110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250605110000 +0000" stop="20250605113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605113000 +0000" stop="20250605120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250605120000 +0000" stop="20250605130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The War In June</title>
+</programme>
+<programme start="20250605130000 +0000" stop="20250605140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250605140000 +0000" stop="20250605143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605143000 +0000" stop="20250605150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20250605150000 +0000" stop="20250605160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250605160000 +0000" stop="20250605163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250605163000 +0000" stop="20250604170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: The Return</title>
+</programme>
 <programme start="20250604170000 +0000" stop="20250604190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>

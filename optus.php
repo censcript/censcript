@@ -1,6 +1,3 @@
-    <programme start="20250605133000 +0000" stop="20250605143000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Originals: Masterclass Special</title>
-    </programme>
     <programme start="20250605185000 +0000" stop="20250605221000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Spain v France</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
+    </programme>
+    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
     </programme>
