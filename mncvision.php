@@ -9190,13 +9190,16 @@
 <programme start="20250605114500 +0000" stop="20250605130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20250605130000 +0000" stop="20250605140000 +0000" channel="Trans TV.mncvision">
+<programme start="20250605130000 +0000" stop="20250605134500 +0000" channel="Trans TV.mncvision">
+    <title>Bidaah</title>
+</programme>
+<programme start="20250605134500 +0000" stop="20250605144500 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250605140000 +0000" stop="20250605160000 +0000" channel="Trans TV.mncvision">
+<programme start="20250605144500 +0000" stop="20250605164500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250605160000 +0000" stop="20250605163000 +0000" channel="Trans TV.mncvision">
+<programme start="20250605164500 +0000" stop="20250604171500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250604174000 +0000" stop="20250604185500 +0000" channel="tvN.mncvision">

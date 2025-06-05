@@ -667,10 +667,10 @@
 <programme start="20250605100500 +0000" stop="20250605102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250605102000 +0000" stop="20250605103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250605102000 +0000" stop="20250605102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250605103000 +0000" stop="20250605103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250605102500 +0000" stop="20250605103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250605103500 +0000" stop="20250605104000 +0000" channel="Cartoonito.skyde">
@@ -733,10 +733,10 @@
 <programme start="20250605141000 +0000" stop="20250605142500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250605142500 +0000" stop="20250605143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250605142500 +0000" stop="20250605143000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250605143500 +0000" stop="20250605144000 +0000" channel="Cartoonito.skyde">
+<programme start="20250605143000 +0000" stop="20250605144000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250605144000 +0000" stop="20250605145500 +0000" channel="Cartoonito.skyde">
@@ -745,10 +745,10 @@
 <programme start="20250605145500 +0000" stop="20250605150000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250605150000 +0000" stop="20250605151000 +0000" channel="Cartoonito.skyde">
+<programme start="20250605150000 +0000" stop="20250605150500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250605151000 +0000" stop="20250605152500 +0000" channel="Cartoonito.skyde">
+<programme start="20250605150500 +0000" stop="20250605152500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250605152500 +0000" stop="20250605153500 +0000" channel="Cartoonito.skyde">
@@ -805,10 +805,10 @@
 <programme start="20250605190500 +0000" stop="20250605192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250605192000 +0000" stop="20250605193000 +0000" channel="Cartoonito.skyde">
+<programme start="20250605192000 +0000" stop="20250605192500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250605193000 +0000" stop="20250605193500 +0000" channel="Cartoonito.skyde">
+<programme start="20250605192500 +0000" stop="20250605193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250605193500 +0000" stop="20250605194000 +0000" channel="Cartoonito.skyde">
