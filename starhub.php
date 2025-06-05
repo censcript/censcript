@@ -4004,12 +4004,12 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20250605010500 +0000" stop="20250605015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Bread - a Special Collab with Dram</title>
+        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Bread-a Special Collab with Drama</title>
     </programme>
-    <programme start="20250605015000 +0000" stop="20250605021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
+    <programme start="20250605015000 +0000" stop="20250605021800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan Encore (B) (R)</title>
     </programme>
-    <programme start="20250605021700 +0000" stop="20250605022000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250605021800 +0000" stop="20250605022000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
     <programme start="20250605022000 +0000" stop="20250605025000 +0000" channel="NHK World Premium HD.starhub">

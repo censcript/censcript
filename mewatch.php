@@ -445,11 +445,8 @@
     <programme start="20250605143010 +0000" stop="20250605153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 8</title>
     </programme>
-    <programme start="20250605153000 +0000" stop="20250605155824 +0000" channel="Suria.mewatch">
+    <programme start="20250605153000 +0000" stop="20250605160009 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250605155824 +0000" stop="20250606010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250604153002 +0000" stop="20250604160037 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
