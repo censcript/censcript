@@ -5884,7 +5884,10 @@
 <programme start="20250605010000 +0000" stop="20250605020000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250605020000 +0000" stop="20250605070000 +0000" channel="MNCTV.mncvision">
+<programme start="20250605020000 +0000" stop="20250605050000 +0000" channel="MNCTV.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250605050000 +0000" stop="20250605070000 +0000" channel="MNCTV.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>
 </programme>
 <programme start="20250605070000 +0000" stop="20250605103000 +0000" channel="MNCTV.mncvision">
@@ -5941,7 +5944,10 @@
 <programme start="20250605010000 +0000" stop="20250605020000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250605020000 +0000" stop="20250605070000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250605020000 +0000" stop="20250605050000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250605050000 +0000" stop="20250605070000 +0000" channel="MNCTV HD.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>
 </programme>
 <programme start="20250605070000 +0000" stop="20250605103000 +0000" channel="MNCTV HD.mncvision">
