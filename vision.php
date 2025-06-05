@@ -142,8 +142,8 @@
 <programme start="20250606103000 +0000" stop="20250606120000 +0000" channel="MNCTV.vision">
 <title>MNC TV</title>
 </programme>
-<programme start="20250604230000 +0000" stop="20250605003000 +0000" channel="GTV.vision">
-<title>Thomas &amp; Friends</title>
+<programme start="20250604233000 +0000" stop="20250605003000 +0000" channel="GTV.vision">
+<title>Thomas And Friends</title>
 </programme>
 <programme start="20250605003000 +0000" stop="20250605023000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
@@ -176,43 +176,49 @@
 <title>Sumber Rejeki</title>
 </programme>
 <programme start="20250605170000 +0000" stop="20250605180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Buletin iNews Malam</title>
 </programme>
 <programme start="20250605180000 +0000" stop="20250605190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Konon Katanya</title>
 </programme>
-<programme start="20250605190000 +0000" stop="20250605200500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250605190000 +0000" stop="20250605203000 +0000" channel="GTV.vision">
+<title>Konon Katanya</title>
 </programme>
-<programme start="20250605200500 +0000" stop="20250605230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250605203000 +0000" stop="20250605230000 +0000" channel="GTV.vision">
+<title>Abdel Vs Temon Masih Bukan...</title>
 </programme>
 <programme start="20250605230000 +0000" stop="20250605231500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Larva</title>
 </programme>
 <programme start="20250605231500 +0000" stop="20250606010000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Salat Idul Adha</title>
 </programme>
-<programme start="20250606010000 +0000" stop="20250606043000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250606010000 +0000" stop="20250606020000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20250606020000 +0000" stop="20250606043000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250606043000 +0000" stop="20250606060000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250606060000 +0000" stop="20250606073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Shaun The Sheep</title>
 </programme>
-<programme start="20250606073000 +0000" stop="20250606093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250606073000 +0000" stop="20250606080000 +0000" channel="GTV.vision">
+<title>Food Hunter</title>
 </programme>
-<programme start="20250606093000 +0000" stop="20250606110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250606080000 +0000" stop="20250606100000 +0000" channel="GTV.vision">
+<title>TV Champions</title>
+</programme>
+<programme start="20250606100000 +0000" stop="20250606110000 +0000" channel="GTV.vision">
+<title>Tad, The Lost Explorer</title>
 </programme>
 <programme start="20250606110000 +0000" stop="20250606113000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Entong (GTV)</title>
 </programme>
-<programme start="20250606113000 +0000" stop="20250606130000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250606113000 +0000" stop="20250606123000 +0000" channel="GTV.vision">
+<title>Amazing Kids</title>
 </programme>
 <programme start="20250605000000 +0000" stop="20250605010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250605170000 +0000" stop="20250605173000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250605173000 +0000" stop="20250605203000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250605203000 +0000" stop="20250605210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

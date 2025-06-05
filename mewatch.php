@@ -241,26 +241,29 @@
     <programme start="20250605092933 +0000" stop="20250605103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 20</title>
     </programme>
-    <programme start="20250605103000 +0000" stop="20250605112924 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605103000 +0000" stop="20250605113000 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 48</title>
     </programme>
-    <programme start="20250605112924 +0000" stop="20250605120003 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605113000 +0000" stop="20250605120000 +0000" channel="Channel 8.mewatch">
         <title>Take Two - EP 48</title>
     </programme>
-    <programme start="20250605120003 +0000" stop="20250605130021 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605120000 +0000" stop="20250605130000 +0000" channel="Channel 8.mewatch">
         <title>The Indigenous - EP 2</title>
     </programme>
-    <programme start="20250605130021 +0000" stop="20250605140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605130000 +0000" stop="20250605140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 11</title>
     </programme>
-    <programme start="20250605140000 +0000" stop="20250605143045 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605140000 +0000" stop="20250605143000 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250605143045 +0000" stop="20250605150018 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605143000 +0000" stop="20250605150000 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 7</title>
     </programme>
-    <programme start="20250605150018 +0000" stop="20250605160006 +0000" channel="Channel 8.mewatch">
+    <programme start="20250605150000 +0000" stop="20250605160000 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 9</title>
+    </programme>
+    <programme start="20250605160000 +0000" stop="20250605170000 +0000" channel="Channel 8.mewatch">
+        <title>The Ingenious One - EP 28</title>
     </programme>
     <programme start="20250604153047 +0000" stop="20250604163112 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 4</title>
