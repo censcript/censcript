@@ -3130,11 +3130,8 @@
 <programme start="20250604220000 +0000" stop="20250604223000 +0000" channel="Sky Sport News HD.skyde">
     <title>NHL: Stanley Cup Final - Der Countdown</title>
 </programme>
-<programme start="20250604223000 +0000" stop="20250604230000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250604223000 +0000" stop="20250604233000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20250604230000 +0000" stop="20250604233000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
 <programme start="20250604233000 +0000" stop="20250605040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
