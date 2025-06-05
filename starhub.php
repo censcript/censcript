@@ -7717,10 +7717,10 @@
     <programme start="20250604155000 +0000" stop="20250604162000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2010 - France v Italy</title>
     </programme>
-    <programme start="20250604162000 +0000" stop="20250604185000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250604162000 +0000" stop="20250604185500 +0000" channel="Premier Sports.starhub">
         <title>AFL Sydney v Adelaide</title>
     </programme>
-    <programme start="20250604185000 +0000" stop="20250604204000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250604185500 +0000" stop="20250604204000 +0000" channel="Premier Sports.starhub">
         <title>Super League Huddersfield v Leigh</title>
     </programme>
     <programme start="20250604204000 +0000" stop="20250604223000 +0000" channel="Premier Sports.starhub">
@@ -8147,7 +8147,7 @@
         <title>Narendran Makan Jayakanthan Vaka</title>
     </programme>
     <programme start="20250604214000 +0000" stop="20250604233000 +0000" channel="Asianet Movies.starhub">
-        <title>Samastha Keralam PO</title>
+        <title>Samastha Keralam P.O</title>
     </programme>
     <programme start="20250604233000 +0000" stop="20250605013500 +0000" channel="Asianet Movies.starhub">
         <title>Panthayakkozhi</title>
@@ -8277,6 +8277,9 @@
     </programme>
     <programme start="20250605140000 +0000" stop="20250605160000 +0000" channel="Astro Warna HD.starhub">
         <title>I Heart You Cik Yah</title>
+    </programme>
+    <programme start="20250604140000 +0000" stop="20250604163000 +0000" channel="SPOTV2.starhub">
+        <title>MLB 2025: Regular season Los Angeles Dodgers vs New York Yankees</title>
     </programme>
     <programme start="20250604163000 +0000" stop="20250604170000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>
