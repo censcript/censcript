@@ -7658,7 +7658,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250606003000 +0000" stop="20250606010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>NYT editor Joe Kahn, and travel presenter Simon Reeve</title>
     </programme>
     <programme start="20250606010000 +0000" stop="20250606013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
