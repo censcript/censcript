@@ -52,6 +52,12 @@
     <programme start="20250608020000 +0000" stop="20250608043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Angel City FC v Chicago Stars</title>
     </programme>
+    <programme start="20250608125000 +0000" stop="20250608161000 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA Nations League - Germany v France</title>
+    </programme>
+    <programme start="20250608175000 +0000" stop="20250608211000 +0000" channel="Optus Sport 1.optus">
+        <title>UEFA Nations League - Portugal v Spain</title>
+    </programme>
     <programme start="20250608200000 +0000" stop="20250608223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Washington Spirit v North Carolina Courage</title>
     </programme>
@@ -291,10 +297,4 @@
     </programme>
     <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
-    </programme>
-    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
-    </programme>
-    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA Women&#039;s Championship - England v Wales</title>
     </programme>

@@ -3274,14 +3274,17 @@
     <programme start="20250605160000 +0000" stop="20250605161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250605161500 +0000" stop="20250605170000 +0000" channel="DW English HD.starhub">
-        <title>When Night Falls in Rio de Janeiro</title>
+    <programme start="20250605161500 +0000" stop="20250605163000 +0000" channel="DW English HD.starhub">
+        <title>Single in Indonesia: Stigma and Emancipation</title>
+    </programme>
+    <programme start="20250605163000 +0000" stop="20250605170000 +0000" channel="DW English HD.starhub">
+        <title>Voice and speech disorders</title>
     </programme>
     <programme start="20250605170000 +0000" stop="20250605171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250605171500 +0000" stop="20250605173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Trump&#039;s economic philosophy: A real plan or simply chaos? (Part 2)</title>
     </programme>
     <programme start="20250605173000 +0000" stop="20250605180000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3290,16 +3293,16 @@
         <title>News</title>
     </programme>
     <programme start="20250605183000 +0000" stop="20250605190000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Sarah Almagro Vallejo: Para Surfing World Champion</title>
     </programme>
     <programme start="20250605190000 +0000" stop="20250605190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250605190200 +0000" stop="20250605193000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Raw materials and workplace innovations</title>
     </programme>
     <programme start="20250605193000 +0000" stop="20250605200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Operation Spider Web: A serious threat for Putin?</title>
     </programme>
     <programme start="20250605200000 +0000" stop="20250605203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3311,7 +3314,7 @@
         <title>News</title>
     </programme>
     <programme start="20250605210200 +0000" stop="20250605211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Trump&#039;s economic philosophy: A real plan or simply chaos? (Part 2)</title>
     </programme>
     <programme start="20250605211500 +0000" stop="20250605220000 +0000" channel="DW English HD.starhub">
         <title>When Night Falls in Rio de Janeiro</title>
@@ -3323,16 +3326,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250605223000 +0000" stop="20250605230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Operation Spider Web: A serious threat for Putin?</title>
     </programme>
     <programme start="20250605230000 +0000" stop="20250605231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250605231500 +0000" stop="20250605233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Trump&#039;s economic philosophy: A real plan or simply chaos? (Part 2)</title>
     </programme>
     <programme start="20250605233000 +0000" stop="20250606000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Former Miss South Africa Shudufhadzo Musida opens up on mental health issues</title>
     </programme>
     <programme start="20250606000000 +0000" stop="20250606000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3344,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250606003000 +0000" stop="20250606010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Operation Spider Web: A serious threat for Putin?</title>
     </programme>
     <programme start="20250606010000 +0000" stop="20250606011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3362,10 +3365,10 @@
         <title>News</title>
     </programme>
     <programme start="20250606031500 +0000" stop="20250606033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Trump&#039;s economic philosophy: A real plan or simply chaos? (Part 2)</title>
     </programme>
     <programme start="20250606033000 +0000" stop="20250606040000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Raw materials and workplace innovations</title>
     </programme>
     <programme start="20250606040000 +0000" stop="20250606041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3386,16 +3389,16 @@
         <title>News</title>
     </programme>
     <programme start="20250606061500 +0000" stop="20250606063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Trump&#039;s economic philosophy: A real plan or simply chaos? (Part 2)</title>
     </programme>
     <programme start="20250606063000 +0000" stop="20250606070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Former Miss South Africa Shudufhadzo Musida opens up on mental health issues</title>
     </programme>
     <programme start="20250606070000 +0000" stop="20250606073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250606073000 +0000" stop="20250606080000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Operation Spider Web: A serious threat for Putin?</title>
     </programme>
     <programme start="20250606080000 +0000" stop="20250606083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3413,13 +3416,13 @@
         <title>News</title>
     </programme>
     <programme start="20250606103000 +0000" stop="20250606110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Former Miss South Africa Shudufhadzo Musida opens up on mental health issues</title>
     </programme>
     <programme start="20250606110000 +0000" stop="20250606113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250606113000 +0000" stop="20250606120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Operation Spider Web: A serious threat for Putin?</title>
     </programme>
     <programme start="20250606120000 +0000" stop="20250606121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3431,7 +3434,7 @@
         <title>News</title>
     </programme>
     <programme start="20250606131500 +0000" stop="20250606133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Will India change what cars we all drive?</title>
     </programme>
     <programme start="20250606133000 +0000" stop="20250606140000 +0000" channel="DW English HD.starhub">
         <title>Taking women&#039;s health seriously</title>
@@ -3440,13 +3443,13 @@
         <title>News</title>
     </programme>
     <programme start="20250606143000 +0000" stop="20250606150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Sustainable perfumes and urban terrace farming</title>
     </programme>
     <programme start="20250606150000 +0000" stop="20250606153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250606153000 +0000" stop="20250606160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Operation Spider Web: A serious threat for Putin?</title>
     </programme>
     <programme start="20250605160000 +0000" stop="20250605220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -4078,20 +4081,23 @@
     <programme start="20250606034500 +0000" stop="20250606040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 50 (R)</title>
     </programme>
-    <programme start="20250606040000 +0000" stop="20250606040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20250606040000 +0000" stop="20250606045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20250606040500 +0000" stop="20250606055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20250606045500 +0000" stop="20250606050000 +0000" channel="NHK World Premium HD.starhub">
+        <title>TV Exercise</title>
     </programme>
-    <programme start="20250606055000 +0000" stop="20250606055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20250606050000 +0000" stop="20250606052800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan Encore (B) (R)</title>
+    </programme>
+    <programme start="20250606052800 +0000" stop="20250606055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
     </programme>
     <programme start="20250606055500 +0000" stop="20250606060000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World&#039;s Magnificent Sight Journey</title>
+        <title>World Weather</title>
     </programme>
     <programme start="20250606060000 +0000" stop="20250606061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Train Driver&#039;s Cab View Mini</title>
     </programme>
     <programme start="20250606061000 +0000" stop="20250606063000 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>
@@ -4625,7 +4631,7 @@
         <title>News</title>
     </programme>
     <programme start="20250606071600 +0000" stop="20250606073000 +0000" channel="France24.starhub">
-        <title>Tete e tete</title>
+        <title>Tete a tete</title>
     </programme>
     <programme start="20250606073000 +0000" stop="20250606074500 +0000" channel="France24.starhub">
         <title>News</title>
