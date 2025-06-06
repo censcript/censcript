@@ -496,20 +496,11 @@
 <programme start="20250606054500 +0000" stop="20250606063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
 </programme>
-<programme start="20250606063000 +0000" stop="20250606071500 +0000" channel="Trans 7.vision">
-<title>Para Pencari Cuan</title>
-</programme>
-<programme start="20250606071500 +0000" stop="20250606081500 +0000" channel="Trans 7.vision">
-<title>Redaksi</title>
-</programme>
 <programme start="20250606081500 +0000" stop="20250606091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20250606091500 +0000" stop="20250606101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20250606101500 +0000" stop="20250606110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
 </programme>
 <programme start="20250606110000 +0000" stop="20250606120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250606020300 +0000" stop="20250606023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250606023000 +0000" stop="20250606030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250606030000 +0000" stop="20250606030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250606030300 +0000" stop="20250606033000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
