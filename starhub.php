@@ -2297,25 +2297,28 @@
         <title>Day 12</title>
     </programme>
     <programme start="20250606023000 +0000" stop="20250606043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Women’s Singles SF 1</title>
+        <title>Women’s Singles SF 1 Sabalenka v Swiatek</title>
     </programme>
-    <programme start="20250606043000 +0000" stop="20250606063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Women’s Singles SF 2</title>
+    <programme start="20250606043000 +0000" stop="20250606060000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Women’s Singles SF 2 Gauff v Boisson</title>
+    </programme>
+    <programme start="20250606060000 +0000" stop="20250606063000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Best of Swiatek</title>
     </programme>
     <programme start="20250606063000 +0000" stop="20250606073000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 12</title>
     </programme>
     <programme start="20250606073000 +0000" stop="20250606093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Women’s Singles SF 1</title>
+        <title>Women’s Singles SF 1 Sabalenka v Swiatek</title>
     </programme>
     <programme start="20250606093000 +0000" stop="20250606111500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Day 11 Match 4</title>
+        <title>Day 11 Men&#039;s Singles QF Djokovic v Zverev</title>
     </programme>
     <programme start="20250606111500 +0000" stop="20250606121500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 12</title>
     </programme>
     <programme start="20250606121500 +0000" stop="20250606154500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros 2025: Men&#039;s Singles SF 1</title>
+        <title>Men&#039;s Singles SF 1 Alcaraz v Musetti</title>
     </programme>
     <programme start="20250606154500 +0000" stop="20250606164500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>The King’s Palace: Rafa Nadal &amp; Roland-Garros</title>
