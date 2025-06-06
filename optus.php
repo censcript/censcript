@@ -1,21 +1,3 @@
-    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Gibraltar v Croatia</title>
-    </programme>
-    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA World Cup Qualifiers - Norway v Italy</title>
-    </programme>
-    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Czechia v Montenegro</title>
-    </programme>
-    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Wales v Liechtenstein</title>
-    </programme>
-    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - North Macedonia v Belgium</title>
-    </programme>
-    <programme start="20250606183400 +0000" stop="20250606205500 +0000" channel="Optus Sport 6.optus">
-        <title>UEFA World Cup Qualifiers - Estonia v Israel</title>
-    </programme>
     <programme start="20250606233000 +0000" stop="20250607020000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Racing Louisville FC v Utah Royals FC</title>
     </programme>
@@ -297,4 +279,22 @@
     </programme>
     <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
+    </programme>
+    <programme start="20250712185000 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
+    </programme>
+    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
+        <title>UEFA Women&#039;s Championship - England v Wales</title>
+    </programme>
+    <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Netherlands v France</title>
+    </programme>
+    <programme start="20250718102000 +0000" stop="20250718124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Suwon FC v Gwangju</title>
+    </programme>
+    <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 9.optus">
+        <title>N/A - Gangwon v Daejeon</title>
+    </programme>
+    <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Pohang v Jeonbuk</title>
     </programme>

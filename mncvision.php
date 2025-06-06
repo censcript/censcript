@@ -5974,8 +5974,132 @@
 <programme start="20250607070500 +0000" stop="20250607073500 +0000" channel="Metro TV.mncvision">
     <title>Newsline</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250606170000 +0000" stop="20250606173000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250606173000 +0000" stop="20250606190000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250606190000 +0000" stop="20250606203000 +0000" channel="MNCTV.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250606203000 +0000" stop="20250606213000 +0000" channel="MNCTV.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20250606213000 +0000" stop="20250606220000 +0000" channel="MNCTV.mncvision">
+    <title>Jurnal Lintas iNews Pagi</title>
+</programme>
+<programme start="20250606220000 +0000" stop="20250606230000 +0000" channel="MNCTV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250606230000 +0000" stop="20250606233000 +0000" channel="MNCTV.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20250606233000 +0000" stop="20250607000000 +0000" channel="MNCTV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250607000000 +0000" stop="20250607010000 +0000" channel="MNCTV.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20250607010000 +0000" stop="20250607013000 +0000" channel="MNCTV.mncvision">
+    <title>Simple Rudy</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607040000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607040000 +0000" stop="20250607060000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607060000 +0000" stop="20250607100000 +0000" channel="MNCTV.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250607100000 +0000" stop="20250607103000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607103000 +0000" stop="20250607120000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607120000 +0000" stop="20250607122500 +0000" channel="MNCTV.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250607122500 +0000" stop="20250607123000 +0000" channel="MNCTV.mncvision">
+    <title>Kuis Berhadiah Motion Bank</title>
+</programme>
+<programme start="20250607123000 +0000" stop="20250607130000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607130000 +0000" stop="20250607143000 +0000" channel="MNCTV.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250607143000 +0000" stop="20250607160000 +0000" channel="MNCTV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250607160000 +0000" stop="20250607163000 +0000" channel="MNCTV.mncvision">
+    <title>Twisted 2</title>
+</programme>
+<programme start="20250606170000 +0000" stop="20250606173000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250606173000 +0000" stop="20250606190000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250606190000 +0000" stop="20250606203000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20250606203000 +0000" stop="20250606213000 +0000" channel="MNCTV HD.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20250606213000 +0000" stop="20250606220000 +0000" channel="MNCTV HD.mncvision">
+    <title>Jurnal Lintas iNews Pagi</title>
+</programme>
+<programme start="20250606220000 +0000" stop="20250606230000 +0000" channel="MNCTV HD.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250606230000 +0000" stop="20250606233000 +0000" channel="MNCTV HD.mncvision">
+    <title>Thomas &amp; Friends</title>
+</programme>
+<programme start="20250606233000 +0000" stop="20250607000000 +0000" channel="MNCTV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250607000000 +0000" stop="20250607010000 +0000" channel="MNCTV HD.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20250607010000 +0000" stop="20250607013000 +0000" channel="MNCTV HD.mncvision">
+    <title>Simple Rudy</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607040000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607040000 +0000" stop="20250607060000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607060000 +0000" stop="20250607100000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250607100000 +0000" stop="20250607103000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607103000 +0000" stop="20250607120000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607120000 +0000" stop="20250607122500 +0000" channel="MNCTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250607122500 +0000" stop="20250607123000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kuis Berhadiah Motion Bank</title>
+</programme>
+<programme start="20250607123000 +0000" stop="20250607130000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250607130000 +0000" stop="20250607143000 +0000" channel="MNCTV HD.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250607143000 +0000" stop="20250607160000 +0000" channel="MNCTV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250607160000 +0000" stop="20250607163000 +0000" channel="MNCTV HD.mncvision">
+    <title>Twisted 2</title>
+</programme>
 <programme start="20250606172600 +0000" stop="20250606174800 +0000" channel="Moonbug.mncvision">
     <title>Go Buster</title>
 </programme>

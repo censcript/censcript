@@ -514,8 +514,14 @@
 <programme start="20250606131500 +0000" stop="20250606143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
+<programme start="20250606143000 +0000" stop="20250606154500 +0000" channel="Trans 7.vision">
+<title>Lapor Pak!</title>
+</programme>
 <programme start="20250606154500 +0000" stop="20250606163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
+</programme>
+<programme start="20250606163000 +0000" stop="20250606171500 +0000" channel="Trans 7.vision">
+<title>Misteri Dunia</title>
 </programme>
 <programme start="20250606171500 +0000" stop="20250606174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250606030300 +0000" stop="20250606033000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250606033000 +0000" stop="20250606040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250606040000 +0000" stop="20250606040300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
