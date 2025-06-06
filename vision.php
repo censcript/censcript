@@ -502,9 +502,6 @@
 <programme start="20250606091500 +0000" stop="20250606101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250606101500 +0000" stop="20250606110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
-</programme>
 <programme start="20250606110000 +0000" stop="20250606120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250606030000 +0000" stop="20250606030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250606030300 +0000" stop="20250606033000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
