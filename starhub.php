@@ -7153,14 +7153,14 @@
     <programme start="20250606082500 +0000" stop="20250606085500 +0000" channel="beIN Sports HD.starhub">
         <title>Analysis II</title>
     </programme>
-    <programme start="20250606085500 +0000" stop="20250606150000 +0000" channel="beIN Sports HD.starhub">
-        <title>Roland Garros 2025 (3): Day 13 (Live)</title>
-    </programme>
-    <programme start="20250606150000 +0000" stop="20250606153000 +0000" channel="beIN Sports HD.starhub">
-        <title>DTM Qualifying 2025 (Join In Progess): Zandvoort Qualifying Race 2 (Live)</title>
-    </programme>
-    <programme start="20250606153000 +0000" stop="20250606160000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250606085500 +0000" stop="20250606092500 +0000" channel="beIN Sports HD.starhub">
         <title>Royal Rally of Scandinavia</title>
+    </programme>
+    <programme start="20250606092500 +0000" stop="20250606095500 +0000" channel="beIN Sports HD.starhub">
+        <title>Asuncion P2</title>
+    </programme>
+    <programme start="20250606095500 +0000" stop="20250606160000 +0000" channel="beIN Sports HD.starhub">
+        <title>Roland Garros 2025 (3): Day 13 (Live)</title>
     </programme>
     <programme start="20250605152000 +0000" stop="20250605161500 +0000" channel="TestChannel2.starhub">
         <title>Sword and Fairy 1</title>
