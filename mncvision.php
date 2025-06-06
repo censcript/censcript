@@ -193,7 +193,42 @@
 <programme start="20250607163000 +0000" stop="20250606170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Fault Lines: Want To Die Today?</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250606170000 +0000" stop="20250606190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250606190000 +0000" stop="20250606210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250606210000 +0000" stop="20250606230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250606230000 +0000" stop="20250607010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607010000 +0000" stop="20250607030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607030000 +0000" stop="20250607050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607050000 +0000" stop="20250607070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607070000 +0000" stop="20250607090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607090000 +0000" stop="20250607110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607110000 +0000" stop="20250607130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607130000 +0000" stop="20250607150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250607150000 +0000" stop="20250607153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20250606170000 +0000" stop="20250606173000 +0000" channel="Animax.mncvision">
     <title>Tsukimichi: Moonlit S2, Ep 22</title>
 </programme>
@@ -719,7 +754,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250607163000 +0000" stop="20250606170000 +0000" channel="BBC Earth.mncvision">
     <title>Portillo&#039;s Long Weekends, Ep 13</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250606173500 +0000" stop="20250606183000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deadliest Weather S5, Ep 5</title>
+</programme>
+<programme start="20250606183000 +0000" stop="20250606192000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Patrick Aryee Wild World, Ep 1</title>
+</programme>
+<programme start="20250606192000 +0000" stop="20250606201500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 1</title>
+</programme>
+<programme start="20250606201500 +0000" stop="20250606210500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 4</title>
+</programme>
+<programme start="20250606210500 +0000" stop="20250606220000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Deadliest Weather S5, Ep 5</title>
+</programme>
+<programme start="20250606220000 +0000" stop="20250606225500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Secret Of Modern Life S3, Ep 2</title>
+</programme>
+<programme start="20250606225500 +0000" stop="20250606234500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 4</title>
+</programme>
+<programme start="20250606234500 +0000" stop="20250607004000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Japan With Sue Perkins S1, Ep 1</title>
+</programme>
+<programme start="20250607004000 +0000" stop="20250607014000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Walking With Dinosaurs S1, Ep 1</title>
+</programme>
+<programme start="20250607014000 +0000" stop="20250607023000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 4</title>
+</programme>
+<programme start="20250607023000 +0000" stop="20250607032500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Secret Of Modern Life S3, Ep 2</title>
+</programme>
+<programme start="20250607032500 +0000" stop="20250607041500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 13</title>
+</programme>
+<programme start="20250607041500 +0000" stop="20250607051000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Japan With Sue Perkins S1, Ep 1</title>
+</programme>
+<programme start="20250607051000 +0000" stop="20250607061000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Walking With Dinosaurs S1, Ep 1</title>
+</programme>
+<programme start="20250607061000 +0000" stop="20250607070500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 4</title>
+</programme>
+<programme start="20250607070500 +0000" stop="20250607080000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Secret Of Modern Life S3, Ep 2</title>
+</programme>
+<programme start="20250607080000 +0000" stop="20250607085000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 13</title>
+</programme>
+<programme start="20250607085000 +0000" stop="20250607095000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Walking With Dinosaurs S1, Ep 1</title>
+</programme>
+<programme start="20250607095000 +0000" stop="20250607104500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Japan With Sue Perkins S1, Ep 1</title>
+</programme>
+<programme start="20250607104500 +0000" stop="20250607114500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Secret Of Modern Life S3, Ep 2</title>
+</programme>
+<programme start="20250607114500 +0000" stop="20250607124000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 1</title>
+</programme>
+<programme start="20250607124000 +0000" stop="20250607133500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Lumley&#039;s Silk Road Adv., Ep 4</title>
+</programme>
+<programme start="20250607133500 +0000" stop="20250607142500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Where Wild Men Are S10, Ep 5</title>
+</programme>
+<programme start="20250607142500 +0000" stop="20250607152500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Secret Of Modern Life S3, Ep 2</title>
+</programme>
+<programme start="20250607152500 +0000" stop="20250607163000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Earth S1, Ep 2</title>
+</programme>
+<programme start="20250607163000 +0000" stop="20250606170000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 13</title>
+</programme>
 <programme start="20250606170000 +0000" stop="20250606180000 +0000" channel="BBC World News.mncvision">
     <title>World Today With M. Moshiri</title>
 </programme>
@@ -2997,9 +3109,300 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250607101500 +0000" stop="20250607104500 +0000" channel="DW English.mncvision">
     <title>Shift: Living In Digital Age</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250606180000 +0000" stop="20250606190000 +0000" channel="Entertainment.mncvision">
+    <title>Mereka Ada Dimana-Mana</title>
+</programme>
+<programme start="20250606190000 +0000" stop="20250606200000 +0000" channel="Entertainment.mncvision">
+    <title>Surprise Show</title>
+</programme>
+<programme start="20250606200000 +0000" stop="20250606210000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250606210000 +0000" stop="20250606220000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250606220000 +0000" stop="20250606233000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250606233000 +0000" stop="20250607010000 +0000" channel="Entertainment.mncvision">
+    <title>The Singing Bee Indonesia</title>
+</programme>
+<programme start="20250607010000 +0000" stop="20250607013000 +0000" channel="Entertainment.mncvision">
+    <title>Legenda Sang Penunggu</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607030000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250607030000 +0000" stop="20250607040000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250607040000 +0000" stop="20250607050000 +0000" channel="Entertainment.mncvision">
+    <title>Bus Jutawan</title>
+</programme>
+<programme start="20250607050000 +0000" stop="20250607060000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250607060000 +0000" stop="20250607063000 +0000" channel="Entertainment.mncvision">
+    <title>Kepengen Hijrah</title>
+</programme>
+<programme start="20250607063000 +0000" stop="20250607080000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250607080000 +0000" stop="20250607090000 +0000" channel="Entertainment.mncvision">
+    <title>Lucky Spinner Indonesia</title>
+</programme>
+<programme start="20250607090000 +0000" stop="20250607110000 +0000" channel="Entertainment.mncvision">
+    <title>Road To Kilau Raya Madiun</title>
+</programme>
+<programme start="20250607110000 +0000" stop="20250607123000 +0000" channel="Entertainment.mncvision">
+    <title>The Singing Bee Indonesia</title>
+</programme>
+<programme start="20250607123000 +0000" stop="20250607143000 +0000" channel="Entertainment.mncvision">
+    <title>Indonesia&#039;s Got Talent</title>
+</programme>
+<programme start="20250607143000 +0000" stop="20250607163000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250607163000 +0000" stop="20250606170000 +0000" channel="Entertainment.mncvision">
+    <title>The Singing Bee Indonesia</title>
+</programme>
+<programme start="20250606170000 +0000" stop="20250606171600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606171600 +0000" stop="20250606173000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606173000 +0000" stop="20250606180000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606180000 +0000" stop="20250606181500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606181500 +0000" stop="20250606183000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606183000 +0000" stop="20250606184600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606184600 +0000" stop="20250606190000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250606190000 +0000" stop="20250606191500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606191500 +0000" stop="20250606193000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606193000 +0000" stop="20250606200000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606200000 +0000" stop="20250606201400 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606201400 +0000" stop="20250606203000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606203000 +0000" stop="20250606204800 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606204800 +0000" stop="20250606210000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250606210000 +0000" stop="20250606211600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606211600 +0000" stop="20250606213000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606213000 +0000" stop="20250606220000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250606220000 +0000" stop="20250606221600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250606221600 +0000" stop="20250606223000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250606223000 +0000" stop="20250606224600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250606224600 +0000" stop="20250606230000 +0000" channel="EURONEWS.mncvision">
+    <title>EU Decoded</title>
+</programme>
+<programme start="20250606230000 +0000" stop="20250606231600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250606231600 +0000" stop="20250606233000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250606233000 +0000" stop="20250607000000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607000000 +0000" stop="20250607001600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607001600 +0000" stop="20250607003000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607003000 +0000" stop="20250607010000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607010000 +0000" stop="20250607011400 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607011400 +0000" stop="20250607013000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607020000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607020000 +0000" stop="20250607021600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607021600 +0000" stop="20250607023000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607023000 +0000" stop="20250607030000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250607030000 +0000" stop="20250607031600 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607031600 +0000" stop="20250607033000 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607033000 +0000" stop="20250607040000 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607040000 +0000" stop="20250607040500 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607040500 +0000" stop="20250607043000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250607043000 +0000" stop="20250607043600 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607043600 +0000" stop="20250607044500 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250607044500 +0000" stop="20250607050000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250607050000 +0000" stop="20250607050500 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607050500 +0000" stop="20250607051800 +0000" channel="EURONEWS.mncvision">
+    <title>Europe Conversation</title>
+</programme>
+<programme start="20250607051800 +0000" stop="20250607053000 +0000" channel="EURONEWS.mncvision">
+    <title>EU Decoded</title>
+</programme>
+<programme start="20250607053000 +0000" stop="20250607053900 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607053900 +0000" stop="20250607054800 +0000" channel="EURONEWS.mncvision">
+    <title>Europeans&#039; Stories</title>
+</programme>
+<programme start="20250607054800 +0000" stop="20250607060000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250607060000 +0000" stop="20250607060500 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250607060500 +0000" stop="20250607063000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250607063000 +0000" stop="20250607070000 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250606170000 +0000" stop="20250606193000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 21</title>
+</programme>
+<programme start="20250606193000 +0000" stop="20250606200000 +0000" channel="Fight Sports.mncvision">
+    <title>XMA S1, Ep 3</title>
+</programme>
+<programme start="20250606200000 +0000" stop="20250606203000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Walker Vs Arreola</title>
+</programme>
+<programme start="20250606203000 +0000" stop="20250606210000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S29, Ep 1</title>
+</programme>
+<programme start="20250606210000 +0000" stop="20250606213000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S10, Ep 3</title>
+</programme>
+<programme start="20250606213000 +0000" stop="20250606220000 +0000" channel="Fight Sports.mncvision">
+    <title>Bipolar Rock N&#039; Roller S1, Ep 2</title>
+</programme>
+<programme start="20250606220000 +0000" stop="20250606230000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Nurminen Vs Soo Lee</title>
+</programme>
+<programme start="20250606230000 +0000" stop="20250607013000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 21</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607020000 +0000" channel="Fight Sports.mncvision">
+    <title>XMA S1, Ep 3</title>
+</programme>
+<programme start="20250607020000 +0000" stop="20250607023000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Walker Vs Arreola</title>
+</programme>
+<programme start="20250607023000 +0000" stop="20250607030000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S29, Ep 1</title>
+</programme>
+<programme start="20250607030000 +0000" stop="20250607033000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S10, Ep 3</title>
+</programme>
+<programme start="20250607033000 +0000" stop="20250607040000 +0000" channel="Fight Sports.mncvision">
+    <title>Bipolar Rock N&#039; Roller S1, Ep 2</title>
+</programme>
+<programme start="20250607040000 +0000" stop="20250607050000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Nurminen Vs Soo Lee</title>
+</programme>
+<programme start="20250607050000 +0000" stop="20250607073000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 21</title>
+</programme>
+<programme start="20250607073000 +0000" stop="20250607080000 +0000" channel="Fight Sports.mncvision">
+    <title>XMA S1, Ep 3</title>
+</programme>
+<programme start="20250607080000 +0000" stop="20250607083000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Walker Vs Arreola</title>
+</programme>
+<programme start="20250607083000 +0000" stop="20250607090000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S29, Ep 1</title>
+</programme>
+<programme start="20250607090000 +0000" stop="20250607093000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S10, Ep 3</title>
+</programme>
+<programme start="20250607093000 +0000" stop="20250607100000 +0000" channel="Fight Sports.mncvision">
+    <title>Bipolar Rock N&#039; Roller S1, Ep 2</title>
+</programme>
+<programme start="20250607100000 +0000" stop="20250607110000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Nurminen Vs Soo Lee</title>
+</programme>
+<programme start="20250607110000 +0000" stop="20250607130000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 61</title>
+</programme>
+<programme start="20250607130000 +0000" stop="20250607133000 +0000" channel="Fight Sports.mncvision">
+    <title>Karate 1 Premiere League 2023</title>
+</programme>
+<programme start="20250607133000 +0000" stop="20250607140000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 43</title>
+</programme>
+<programme start="20250607140000 +0000" stop="20250607143000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Berto Vs Collazo</title>
+</programme>
+<programme start="20250607143000 +0000" stop="20250607150000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S29, Ep 2</title>
+</programme>
+<programme start="20250607150000 +0000" stop="20250607153000 +0000" channel="Fight Sports.mncvision">
+    <title>Judo For The World S1, Ep 3</title>
+</programme>
+<programme start="20250607153000 +0000" stop="20250607160000 +0000" channel="Fight Sports.mncvision">
+    <title>Bipolar Rock N&#039; Roller S1, Ep 3</title>
+</programme>
+<programme start="20250607160000 +0000" stop="20250607163000 +0000" channel="Fight Sports.mncvision">
+    <title>TF2: The Fighter S1, Ep 1</title>
+</programme>
 <programme start="20250606173000 +0000" stop="20250606180000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Food Diary</title>
 </programme>
@@ -3999,8 +4402,123 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250607164000 +0000" stop="20250606171000 +0000" channel="History.mncvision">
     <title>Curse Of Oak Island S10, Ep 15</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250606170000 +0000" stop="20250606173000 +0000" channel="HITS.mncvision">
+    <title>Cheers S4, Ep 8</title>
+</programme>
+<programme start="20250606173000 +0000" stop="20250606183000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S2, Ep 3</title>
+</programme>
+<programme start="20250606183000 +0000" stop="20250606193000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S2, Ep 4</title>
+</programme>
+<programme start="20250606193000 +0000" stop="20250606203000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 1</title>
+</programme>
+<programme start="20250606203000 +0000" stop="20250606213000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 2</title>
+</programme>
+<programme start="20250606213000 +0000" stop="20250606223000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 3</title>
+</programme>
+<programme start="20250606223000 +0000" stop="20250606233000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S4, Ep 1</title>
+</programme>
+<programme start="20250606233000 +0000" stop="20250607003000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S4, Ep 2</title>
+</programme>
+<programme start="20250607003000 +0000" stop="20250607013000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S4, Ep 3</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607023000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S4, Ep 4</title>
+</programme>
+<programme start="20250607023000 +0000" stop="20250607043000 +0000" channel="HITS.mncvision">
+    <title>Heaven Down Here</title>
+</programme>
+<programme start="20250607043000 +0000" stop="20250607053000 +0000" channel="HITS.mncvision">
+    <title>North And South Book S1, Ep 1</title>
+</programme>
+<programme start="20250607053000 +0000" stop="20250607063000 +0000" channel="HITS.mncvision">
+    <title>North And South Book S1, Ep 2</title>
+</programme>
+<programme start="20250607063000 +0000" stop="20250607070000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 21</title>
+</programme>
+<programme start="20250607070000 +0000" stop="20250607073000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 22</title>
+</programme>
+<programme start="20250607073000 +0000" stop="20250607080000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 23</title>
+</programme>
+<programme start="20250607080000 +0000" stop="20250607083000 +0000" channel="HITS.mncvision">
+    <title>Frasier S5, Ep 24</title>
+</programme>
+<programme start="20250607083000 +0000" stop="20250607090000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 1</title>
+</programme>
+<programme start="20250607090000 +0000" stop="20250607100000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 11</title>
+</programme>
+<programme start="20250607100000 +0000" stop="20250607110000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 12</title>
+</programme>
+<programme start="20250607110000 +0000" stop="20250607120000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 13</title>
+</programme>
+<programme start="20250607120000 +0000" stop="20250607130000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 1</title>
+</programme>
+<programme start="20250607130000 +0000" stop="20250607140000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 2</title>
+</programme>
+<programme start="20250607140000 +0000" stop="20250607143000 +0000" channel="HITS.mncvision">
+    <title>ALF S1, Ep 26</title>
+</programme>
+<programme start="20250607143000 +0000" stop="20250607150000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 1</title>
+</programme>
+<programme start="20250607150000 +0000" stop="20250607153000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 2</title>
+</programme>
+<programme start="20250607153000 +0000" stop="20250607160000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 3</title>
+</programme>
+<programme start="20250607160000 +0000" stop="20250607163000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 4</title>
+</programme>
+<programme start="20250607163000 +0000" stop="20250606170000 +0000" channel="HITS.mncvision">
+    <title>Cheers S4, Ep 9</title>
+</programme>
+<programme start="20250606200000 +0000" stop="20250606223000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Battle Of Britain</title>
+</programme>
+<programme start="20250606223000 +0000" stop="20250607003000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Death Wish</title>
+</programme>
+<programme start="20250607003000 +0000" stop="20250607023000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Galaxy Quest</title>
+</programme>
+<programme start="20250607023000 +0000" stop="20250607050000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Deep Impact</title>
+</programme>
+<programme start="20250607050000 +0000" stop="20250607073000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Battle Of Britain</title>
+</programme>
+<programme start="20250607073000 +0000" stop="20250607093000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Death Wish</title>
+</programme>
+<programme start="20250607093000 +0000" stop="20250607120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Runaway Jury</title>
+</programme>
+<programme start="20250607120000 +0000" stop="20250607141500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Rocky</title>
+</programme>
+<programme start="20250607141500 +0000" stop="20250607161500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Elektra</title>
+</programme>
+<programme start="20250607161500 +0000" stop="20250607164500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Tropic Thunder</title>
+</programme>
 <programme start="20250606200000 +0000" stop="20250606223000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>The Battle Of Britain</title>
 </programme>
