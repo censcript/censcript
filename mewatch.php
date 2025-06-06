@@ -523,23 +523,20 @@
     <programme start="20250606095958 +0000" stop="20250606110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250606110000 +0000" stop="20250606120000 +0000" channel="CNA.mewatch">
+    <programme start="20250606110000 +0000" stop="20250606120002 +0000" channel="CNA.mewatch">
         <title>ROOTS: A Greening Journey</title>
     </programme>
-    <programme start="20250606120000 +0000" stop="20250606130000 +0000" channel="CNA.mewatch">
+    <programme start="20250606120002 +0000" stop="20250606130002 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250606130000 +0000" stop="20250606140000 +0000" channel="CNA.mewatch">
+    <programme start="20250606130002 +0000" stop="20250606140000 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 1</title>
     </programme>
     <programme start="20250606140000 +0000" stop="20250606150000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250606150000 +0000" stop="20250606160000 +0000" channel="CNA.mewatch">
+    <programme start="20250606150000 +0000" stop="20250606160003 +0000" channel="CNA.mewatch">
         <title>Insight - EP 7</title>
-    </programme>
-    <programme start="20250606160000 +0000" stop="20250606160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250605155959 +0000" stop="20250605170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
