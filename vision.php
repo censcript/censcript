@@ -481,6 +481,15 @@
 <programme start="20250607003000 +0000" stop="20250607013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250607071500 +0000" stop="20250607081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Akhir Pekan</title>
+</programme>
+<programme start="20250607081500 +0000" stop="20250607090000 +0000" channel="Trans 7.vision">
+<title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250607090000 +0000" stop="20250607100000 +0000" channel="Trans 7.vision">
+<title>Makan Receh</title>
+</programme>
 <programme start="20250607100000 +0000" stop="20250607110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20250608110000 +0000" stop="20250608120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
-</programme>
-<programme start="20250607000000 +0000" stop="20250607010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250607010000 +0000" stop="20250607020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250607020000 +0000" stop="20250607020300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
