@@ -3046,11 +3046,14 @@
 <programme start="20250606233000 +0000" stop="20250606234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 1</title>
 </programme>
-<programme start="20250606234500 +0000" stop="20250607043500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250606234500 +0000" stop="20250607043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final, Spiel 2</title>
 </programme>
-<programme start="20250607043500 +0000" stop="20250607060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250607043000 +0000" stop="20250607053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP Aragonien</title>
+</programme>
+<programme start="20250607053000 +0000" stop="20250607063500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final, Spiel 2</title>
 </programme>
 <programme start="20250607063500 +0000" stop="20250607071500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP Aragonien</title>
@@ -3343,10 +3346,10 @@
 <programme start="20250606233000 +0000" stop="20250606234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 1</title>
 </programme>
-<programme start="20250606234500 +0000" stop="20250607043500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250606234500 +0000" stop="20250607043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final, Spiel 2</title>
 </programme>
-<programme start="20250607043500 +0000" stop="20250607051000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250607043000 +0000" stop="20250607051000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: SC Freiburg - Saison 24-25</title>
 </programme>
 <programme start="20250607051000 +0000" stop="20250607055000 +0000" channel="Sky Sport Top Event HD.skyde">
