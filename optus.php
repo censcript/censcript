@@ -1,6 +1,3 @@
-    <programme start="20250607020000 +0000" stop="20250607043000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - San Diego Wave FC v Seattle Reign</title>
-    </programme>
     <programme start="20250607124900 +0000" stop="20250607151000 +0000" channel="Optus Sport 7.optus">
         <title>UEFA World Cup Qualifiers - Bosnia-Herzegovina v San Marino</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shonan v Cerezo</title>
+    </programme>
+    <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Kashiwa</title>
     </programme>

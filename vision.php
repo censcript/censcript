@@ -478,8 +478,14 @@
 <programme start="20250608114500 +0000" stop="20250608130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20250607000000 +0000" stop="20250607003000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
+</programme>
 <programme start="20250607003000 +0000" stop="20250607013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
+</programme>
+<programme start="20250607013000 +0000" stop="20250607023000 +0000" channel="Trans 7.vision">
+<title>Obrolan Tiap Waktu</title>
 </programme>
 <programme start="20250607023000 +0000" stop="20250607033000 +0000" channel="Trans 7.vision">
 <title>Heits Abis</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250608040000 +0000" stop="20250608050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
-</programme>
-<programme start="20250608050000 +0000" stop="20250608060000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
-</programme>
-<programme start="20250608060000 +0000" stop="20250608064500 +0000" channel="BTV.vision">
-<title>Motu Patlu</title>
 </programme>
