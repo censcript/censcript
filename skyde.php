@@ -3046,13 +3046,13 @@
 <programme start="20250606233000 +0000" stop="20250606234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 1</title>
 </programme>
-<programme start="20250606234500 +0000" stop="20250607043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250606234500 +0000" stop="20250607034000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final, Spiel 2</title>
 </programme>
-<programme start="20250607043000 +0000" stop="20250607053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250607034000 +0000" stop="20250607043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP Aragonien</title>
 </programme>
-<programme start="20250607053000 +0000" stop="20250607063500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250607043000 +0000" stop="20250607063500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final, Spiel 2</title>
 </programme>
 <programme start="20250607063500 +0000" stop="20250607071500 +0000" channel="Sky Sport Mix HD.skyde">
