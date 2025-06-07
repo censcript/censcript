@@ -2164,14 +2164,26 @@
     <programme start="20250606200000 +0000" stop="20250606220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250606220000 +0000" stop="20250607040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250606223000 +0000" stop="20250607010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nyayam</title>
     </programme>
-    <programme start="20250607040000 +0000" stop="20250607100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250607010000 +0000" stop="20250607013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250607100000 +0000" stop="20250607160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250607013000 +0000" stop="20250607043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aasai Aasaiyai</title>
+    </programme>
+    <programme start="20250607043000 +0000" stop="20250607073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sundara Travels</title>
+    </programme>
+    <programme start="20250607073000 +0000" stop="20250607103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Engal Anna</title>
+    </programme>
+    <programme start="20250607103000 +0000" stop="20250607133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Theeratha Vilayattu Pillai</title>
+    </programme>
+    <programme start="20250607133000 +0000" stop="20250607170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thani Oruvan</title>
     </programme>
     <programme start="20250606154500 +0000" stop="20250606164500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>The King’s Palace: Rafa Nadal &amp; Roland-Garros</title>

@@ -1,4 +1,4 @@
-    <programme start="20250606233000 +0000" stop="20250607020000 +0000" channel="Optus Sport 401.optus">
+    <programme start="20250607002700 +0000" stop="20250607033000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Racing Louisville FC v Utah Royals FC</title>
     </programme>
     <programme start="20250607020000 +0000" stop="20250607043000 +0000" channel="Optus Sport 402.optus">
