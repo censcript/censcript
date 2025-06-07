@@ -481,9 +481,6 @@
 <programme start="20250607003000 +0000" stop="20250607013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250607063000 +0000" stop="20250607071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
 <programme start="20250607071500 +0000" stop="20250607081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250608100000 +0000" stop="20250608110000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20250608110000 +0000" stop="20250608120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
