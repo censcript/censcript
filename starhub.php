@@ -4333,7 +4333,10 @@
     <programme start="20250607110000 +0000" stop="20250607113000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Challenge de Cadiz</title>
     </programme>
-    <programme start="20250607113000 +0000" stop="20250607160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250607113000 +0000" stop="20250607143000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>RBC Canadian Open Round 2</title>
+    </programme>
+    <programme start="20250607143000 +0000" stop="20250607190000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>KLM Open Day 3</title>
     </programme>
     <programme start="20250606160000 +0000" stop="20250606162000 +0000" channel="France24.starhub">
