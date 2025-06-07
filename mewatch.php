@@ -310,6 +310,9 @@
     <programme start="20250608153021 +0000" stop="20250608163054 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 22</title>
     </programme>
+    <programme start="20250607155954 +0000" stop="20250607175953 +0000" channel="Suria.mewatch">
+        <title>Di Puncak Rahmah</title>
+    </programme>
     <programme start="20250607175953 +0000" stop="20250607195954 +0000" channel="Suria.mewatch">
         <title>Di Akhir Garisan</title>
     </programme>
