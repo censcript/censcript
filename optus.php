@@ -1,6 +1,3 @@
-    <programme start="20250607002700 +0000" stop="20250607033000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Racing Louisville FC v Utah Royals FC</title>
-    </programme>
     <programme start="20250607020000 +0000" stop="20250607043000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - San Diego Wave FC v Seattle Reign</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Pohang v Jeonbuk</title>
+    </programme>
+    <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Shonan v Cerezo</title>
     </programme>

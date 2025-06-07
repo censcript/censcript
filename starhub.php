@@ -2161,8 +2161,8 @@
     <programme start="20250606170000 +0000" stop="20250606200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Vanakkamda Mapplae</title>
     </programme>
-    <programme start="20250606200000 +0000" stop="20250606220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250606200000 +0000" stop="20250606223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Neengalum Herothan</title>
     </programme>
     <programme start="20250606223000 +0000" stop="20250607010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Nyayam</title>
@@ -8317,8 +8317,8 @@
     <programme start="20250607140000 +0000" stop="20250607150000 +0000" channel="SPOTV2.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250607150000 +0000" stop="20250607173000 +0000" channel="SPOTV2.starhub">
-        <title>MLB 2025: Regular season New York Yankees vs Boston Red Sox</title>
+    <programme start="20250607150000 +0000" stop="20250607160000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250606153000 +0000" stop="20250606170000 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>

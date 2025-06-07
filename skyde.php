@@ -3017,7 +3017,7 @@
     <title>Golf Ladies ET: Tenerife Women&#039;s Open, 2. Tag auf Teneriffa (Spanien)</title>
 </programme>
 <programme start="20250607010500 +0000" stop="20250607040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: KLM Open, 2. Tag in Amsterdam (Niederlande)</title>
+    <title>Golf: KLM Open, 1. Tag in Amsterdam (Niederlande)</title>
 </programme>
 <programme start="20250607040000 +0000" stop="20250607063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: RBC Canadian Open, 2. Tag in Caledon, Ontario (Kanada)</title>
@@ -3136,7 +3136,16 @@
 <programme start="20250607130000 +0000" stop="20250607160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250607160000 +0000" stop="20250607210000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250607160000 +0000" stop="20250607163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20250607163000 +0000" stop="20250607170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: DFB-PK mit Julian Nagelsmann</title>
+</programme>
+<programme start="20250607170000 +0000" stop="20250607173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: DFB Spezial - Der Countdown: Deutschland vs. Frankreich</title>
+</programme>
+<programme start="20250607173000 +0000" stop="20250607210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20250607210000 +0000" stop="20250607220000 +0000" channel="Sky Sport News HD.skyde">
