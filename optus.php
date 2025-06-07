@@ -1,6 +1,3 @@
-    <programme start="20250607170000 +0000" stop="20250607193000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Gotham FC v Kansas City Current</title>
-    </programme>
     <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
         <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
     </programme>
@@ -297,4 +294,7 @@
     </programme>
     <programme start="20250721085500 +0000" stop="20250721111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Avispa v Kyoto</title>
+    </programme>
+    <programme start="20250727102500 +0000" stop="20250727124000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Urawa Red Diamonds v Avispa</title>
     </programme>
