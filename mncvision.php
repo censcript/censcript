@@ -1306,7 +1306,81 @@
 <programme start="20250608163000 +0000" stop="20250607170000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Best Of RG &#039;25: Women&#039;s Doubles</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250607170000 +0000" stop="20250607175000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV: Climbing The Mountain</title>
+</programme>
+<programme start="20250607175000 +0000" stop="20250607182000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match LaLiga: SEV Vs RMA</title>
+</programme>
+<programme start="20250607182000 +0000" stop="20250607185300 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match LaLiga: ATM Vs BET</title>
+</programme>
+<programme start="20250607185300 +0000" stop="20250607210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 &#039;24/25: ALM Vs OVI (L)</title>
+</programme>
+<programme start="20250607210000 +0000" stop="20250607220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FEI World Cup Finals HL 2025</title>
+</programme>
+<programme start="20250607220000 +0000" stop="20250607230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250607230000 +0000" stop="20250608005000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Confederation: USM Vs ORU</title>
+</programme>
+<programme start="20250608005000 +0000" stop="20250608024000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: LPM Vs SEV</title>
+</programme>
+<programme start="20250608024000 +0000" stop="20250608031000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20250608031000 +0000" stop="20250608044000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Brussels</title>
+</programme>
+<programme start="20250608044000 +0000" stop="20250608061000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Brussels</title>
+</programme>
+<programme start="20250608061000 +0000" stop="20250608063000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEFA Club Competitions Specials</title>
+</programme>
+<programme start="20250608063000 +0000" stop="20250608073000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FIA World Rally C&#039;ship 2025 (L)</title>
+</programme>
+<programme start="20250608073000 +0000" stop="20250608080000 +0000" channel="beIN Sports 3.mncvision">
+    <title>NEOM Beach Games 2024</title>
+</programme>
+<programme start="20250608080000 +0000" stop="20250608090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250608090000 +0000" stop="20250608103000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Women&#039;s EHF Euro: NED Vs ISL</title>
+</programme>
+<programme start="20250608103000 +0000" stop="20250608110000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The World Sailing Show 2025</title>
+</programme>
+<programme start="20250608110000 +0000" stop="20250608123000 +0000" channel="beIN Sports 3.mncvision">
+    <title>FIA World Rally C&#039;ship 2025 (L)</title>
+</programme>
+<programme start="20250608123000 +0000" stop="20250608130500 +0000" channel="beIN Sports 3.mncvision">
+    <title>Sailing To The Games: LA 2025</title>
+</programme>
+<programme start="20250608130500 +0000" stop="20250608140500 +0000" channel="beIN Sports 3.mncvision">
+    <title>Ferrari Challenge Europe (L)</title>
+</programme>
+<programme start="20250608140500 +0000" stop="20250608142000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV: Top 20 Ronaldo Goals</title>
+</programme>
+<programme start="20250608142000 +0000" stop="20250608152000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Ferrari Challenge Europe (L)</title>
+</programme>
+<programme start="20250608152000 +0000" stop="20250608155000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Talking Football 2024/25</title>
+</programme>
+<programme start="20250608155000 +0000" stop="20250608162300 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20250608162300 +0000" stop="20250608165300 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 &#039;24/25: RAC Vs MIR (L)</title>
+</programme>
 <programme start="20250607170000 +0000" stop="20250607175000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV: Climbing The Mountain</title>
 </programme>
@@ -8540,8 +8614,81 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250608150000 +0000" stop="20250608153000 +0000" channel="Sportstars 4.mncvision">
     <title>Sportacular Match</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250607190000 +0000" stop="20250607210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSB Vs KDR</title>
+</programme>
+<programme start="20250607210000 +0000" stop="20250607230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250607230000 +0000" stop="20250608010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20250608010000 +0000" stop="20250608030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: JOG Vs PKU</title>
+</programme>
+<programme start="20250608030000 +0000" stop="20250608050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSB Vs KDR</title>
+</programme>
+<programme start="20250608050000 +0000" stop="20250608070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250608070000 +0000" stop="20250608090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20250608090000 +0000" stop="20250608110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: JOG Vs BFC</title>
+</programme>
+<programme start="20250608110000 +0000" stop="20250608130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSB Vs PSS</title>
+</programme>
+<programme start="20250608130000 +0000" stop="20250608150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Real Madrid Showdown</title>
+</programme>
+<programme start="20250608150000 +0000" stop="20250608153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportacular Match</title>
+</programme>
+<programme start="20250607180000 +0000" stop="20250607183000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20250607183000 +0000" stop="20250607204500 +0000" channel="Sportstars HD.mncvision">
+    <title>European Qual.: AUT Vs ROU (L)</title>
+</programme>
+<programme start="20250607204500 +0000" stop="20250607210000 +0000" channel="Sportstars HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250607210000 +0000" stop="20250608000000 +0000" channel="Sportstars HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250608000000 +0000" stop="20250608020000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Women</title>
+</programme>
+<programme start="20250608020000 +0000" stop="20250608040000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Men</title>
+</programme>
+<programme start="20250608040000 +0000" stop="20250608043000 +0000" channel="Sportstars HD.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250608043000 +0000" stop="20250608050000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250608050000 +0000" stop="20250608080000 +0000" channel="Sportstars HD.mncvision">
+    <title>Kapal Api Indonesia Open (L)</title>
+</programme>
+<programme start="20250608080000 +0000" stop="20250608110000 +0000" channel="Sportstars HD.mncvision">
+    <title>Kapal Api Indonesia Open (L)</title>
+</programme>
+<programme start="20250608110000 +0000" stop="20250608130000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250608130000 +0000" stop="20250608133000 +0000" channel="Sportstars HD.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250608133000 +0000" stop="20250608153000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Women</title>
+</programme>
+<programme start="20250608153000 +0000" stop="20250608160000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Men</title>
+</programme>
 <programme start="20250607180000 +0000" stop="20250607190000 +0000" channel="SPOTV.mncvision">
     <title>Supercars 2025: Perth</title>
 </programme>
@@ -8815,7 +8962,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250608154500 +0000" stop="20250608161500 +0000" channel="Studio Universal.mncvision">
     <title>The Nutty Professor</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250607181000 +0000" stop="20250607200000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Pacific Rim: Uprising</title>
+</programme>
+<programme start="20250607200000 +0000" stop="20250607230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Casino</title>
+</programme>
+<programme start="20250607230000 +0000" stop="20250608003000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Burn After Reading</title>
+</programme>
+<programme start="20250608003000 +0000" stop="20250608020500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Trolls</title>
+</programme>
+<programme start="20250608020500 +0000" stop="20250608035500 +0000" channel="Studio Universal HD.mncvision">
+    <title>American Dreamz</title>
+</programme>
+<programme start="20250608035500 +0000" stop="20250608054500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Brewster&#039;s Millions</title>
+</programme>
+<programme start="20250608054500 +0000" stop="20250608071500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Secret Life Of Pets 2</title>
+</programme>
+<programme start="20250608071500 +0000" stop="20250608085500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Casper</title>
+</programme>
+<programme start="20250608085500 +0000" stop="20250608105000 +0000" channel="Studio Universal HD.mncvision">
+    <title>E.T. The Extra-Terrestrial</title>
+</programme>
+<programme start="20250608105000 +0000" stop="20250608122000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Liar Liar</title>
+</programme>
+<programme start="20250608122000 +0000" stop="20250608140000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Ride Along</title>
+</programme>
+<programme start="20250608140000 +0000" stop="20250608154500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Ride Along 2</title>
+</programme>
+<programme start="20250608154500 +0000" stop="20250608161500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Nutty Professor</title>
+</programme>
 <programme start="20250607183600 +0000" stop="20250607203800 +0000" channel="Superrix.mncvision">
     <title>Platinum</title>
 </programme>
@@ -8852,7 +9037,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250608162500 +0000" stop="20250608165500 +0000" channel="Superrix.mncvision">
     <title>Young Ones</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250607183600 +0000" stop="20250607203800 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250607203800 +0000" stop="20250607222700 +0000" channel="Superrix HD.mncvision">
+    <title>Horizon Line</title>
+</programme>
+<programme start="20250607222700 +0000" stop="20250608002800 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250608002800 +0000" stop="20250608021800 +0000" channel="Superrix HD.mncvision">
+    <title>The System</title>
+</programme>
+<programme start="20250608021800 +0000" stop="20250608042000 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250608042000 +0000" stop="20250608061600 +0000" channel="Superrix HD.mncvision">
+    <title>Moon Rock For Monday</title>
+</programme>
+<programme start="20250608061600 +0000" stop="20250608083400 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250608083400 +0000" stop="20250608102400 +0000" channel="Superrix HD.mncvision">
+    <title>Poker Face</title>
+</programme>
+<programme start="20250608102400 +0000" stop="20250608124800 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250608124800 +0000" stop="20250608143500 +0000" channel="Superrix HD.mncvision">
+    <title>Nothing Like The Holidays</title>
+</programme>
+<programme start="20250608143500 +0000" stop="20250608162500 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250608162500 +0000" stop="20250608165500 +0000" channel="Superrix HD.mncvision">
+    <title>Young Ones</title>
+</programme>
 <programme start="20250607170000 +0000" stop="20250607173000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>

@@ -1,9 +1,3 @@
-    <programme start="20250607154900 +0000" stop="20250607181000 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA World Cup Qualifiers - Andorra v England</title>
-    </programme>
-    <programme start="20250607154900 +0000" stop="20250607181000 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Malta v Lithuania</title>
-    </programme>
     <programme start="20250607170000 +0000" stop="20250607193000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Gotham FC v Kansas City Current</title>
     </programme>
@@ -297,4 +291,10 @@
     </programme>
     <programme start="20250720095000 +0000" stop="20250720121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Seoul v Ulsan</title>
+    </programme>
+    <programme start="20250720095500 +0000" stop="20250720121000 +0000" channel="Optus Sport 8.optus">
+        <title>J1 League - Gamba v Kawasaki</title>
+    </programme>
+    <programme start="20250721085500 +0000" stop="20250721111000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Avispa v Kyoto</title>
     </programme>
