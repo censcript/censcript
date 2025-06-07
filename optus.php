@@ -1,12 +1,3 @@
-    <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Finland v Netherlands</title>
-    </programme>
-    <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Albania v Serbia</title>
-    </programme>
-    <programme start="20250607183400 +0000" stop="20250607205500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Austria v Romania</title>
-    </programme>
     <programme start="20250607230000 +0000" stop="20250608013000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Orlando Pride v Houston Dash</title>
     </programme>
