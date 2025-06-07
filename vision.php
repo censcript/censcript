@@ -478,29 +478,8 @@
 <programme start="20250608114500 +0000" stop="20250608130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250607000000 +0000" stop="20250607003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250607003000 +0000" stop="20250607013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250607013000 +0000" stop="20250607023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250607023000 +0000" stop="20250607033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250607033000 +0000" stop="20250607041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250607041500 +0000" stop="20250607050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20250607050000 +0000" stop="20250607054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250607054500 +0000" stop="20250607063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
 </programme>
 <programme start="20250607063000 +0000" stop="20250607071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20250608040000 +0000" stop="20250608050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250608050000 +0000" stop="20250608060000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250608060000 +0000" stop="20250608064500 +0000" channel="BTV.vision">
+<title>Motu Patlu</title>
+</programme>
+<programme start="20250608064500 +0000" stop="20250608073000 +0000" channel="BTV.vision">
+<title>Didi &amp; Friends</title>
+</programme>
+<programme start="20250608073000 +0000" stop="20250608081500 +0000" channel="BTV.vision">
+<title>Boonie Bears</title>
+</programme>
+<programme start="20250608081500 +0000" stop="20250608091500 +0000" channel="BTV.vision">
+<title>Asal Usul</title>
+</programme>
+<programme start="20250608091500 +0000" stop="20250608100000 +0000" channel="BTV.vision">
+<title>FYI</title>
+</programme>
+<programme start="20250608100000 +0000" stop="20250608110000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>
