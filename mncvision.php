@@ -4588,33 +4588,7 @@
 <programme start="20250608140000 +0000" stop="20250608143000 +0000" channel="HITS MOVIES.mncvision">
     <title>Meet Joe Black</title>
 </programme>
-<programme start="20250607181500 +0000" stop="20250607204500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Runaway Jury</title>
-</programme>
-<programme start="20250607204500 +0000" stop="20250608001500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Meet Joe Black</title>
-</programme>
-<programme start="20250608001500 +0000" stop="20250608023000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>War Of The Worlds</title>
-</programme>
-<programme start="20250608023000 +0000" stop="20250608044500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Rocky</title>
-</programme>
-<programme start="20250608044500 +0000" stop="20250608071500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Deep Impact</title>
-</programme>
-<programme start="20250608071500 +0000" stop="20250608094500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>The Ninth Gate</title>
-</programme>
-<programme start="20250608094500 +0000" stop="20250608120000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Mr. &amp; Mrs. Smith</title>
-</programme>
-<programme start="20250608120000 +0000" stop="20250608140000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>17 Again</title>
-</programme>
-<programme start="20250608140000 +0000" stop="20250608143000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Meet Joe Black</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250607173000 +0000" stop="20250607183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -8545,42 +8519,7 @@
 <programme start="20250608150000 +0000" stop="20250608153000 +0000" channel="Sportstars 3.mncvision">
     <title>Sportacular Match</title>
 </programme>
-<programme start="20250607170000 +0000" stop="20250607190000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: JOG Vs PKU</title>
-</programme>
-<programme start="20250607190000 +0000" stop="20250607210000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSB Vs KDR</title>
-</programme>
-<programme start="20250607210000 +0000" stop="20250607230000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250607230000 +0000" stop="20250608010000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250608010000 +0000" stop="20250608030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: JOG Vs PKU</title>
-</programme>
-<programme start="20250608030000 +0000" stop="20250608050000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSB Vs KDR</title>
-</programme>
-<programme start="20250608050000 +0000" stop="20250608070000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250608070000 +0000" stop="20250608090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250608090000 +0000" stop="20250608110000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: JOG Vs BFC</title>
-</programme>
-<programme start="20250608110000 +0000" stop="20250608130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSB Vs PSS</title>
-</programme>
-<programme start="20250608130000 +0000" stop="20250608150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Real Madrid Showdown</title>
-</programme>
-<programme start="20250608150000 +0000" stop="20250608153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250607190000 +0000" stop="20250607210000 +0000" channel="Sportstars 4.mncvision">
     <title>BRI Liga 1: PSB Vs KDR</title>
 </programme>
