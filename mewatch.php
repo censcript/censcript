@@ -226,13 +226,13 @@
     <programme start="20250608153005 +0000" stop="20250608160202 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 7</title>
     </programme>
-    <programme start="20250607153030 +0000" stop="20250607163125 +0000" channel="Channel U.mewatch">
+    <programme start="20250607153042 +0000" stop="20250607163131 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 21</title>
     </programme>
-    <programme start="20250607163125 +0000" stop="20250607220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250607163131 +0000" stop="20250607215959 +0000" channel="Channel U.mewatch">
         <title>Come Sing With Me S5 - EP 7</title>
     </programme>
-    <programme start="20250607220000 +0000" stop="20250608005811 +0000" channel="Channel U.mewatch">
+    <programme start="20250607215959 +0000" stop="20250608005811 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250608005811 +0000" stop="20250608011211 +0000" channel="Channel U.mewatch">

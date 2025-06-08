@@ -1,9 +1,3 @@
-    <programme start="20250607230000 +0000" stop="20250608013000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Orlando Pride v Houston Dash</title>
-    </programme>
-    <programme start="20250607233000 +0000" stop="20250608020000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Bay FC v Portland Thorns FC</title>
-    </programme>
     <programme start="20250608020000 +0000" stop="20250608043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Angel City FC v Chicago Stars</title>
     </programme>

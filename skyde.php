@@ -2863,16 +2863,13 @@
 <programme start="20250608040000 +0000" stop="20250608070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: RBC Canadian Open, 3. Tag in Caledon, Ontario (Kanada)</title>
 </programme>
-<programme start="20250608070000 +0000" stop="20250608100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250608070000 +0000" stop="20250608080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Tenerife Women&#039;s Open, 3. Tag auf Teneriffa (Spanien)</title>
 </programme>
-<programme start="20250608100000 +0000" stop="20250608103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Tour Champions: Learning Center (12)</title>
-</programme>
-<programme start="20250608103000 +0000" stop="20250608153000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250608080000 +0000" stop="20250608133000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: KLM Open, 4. Tag in Amsterdam (Niederlande)</title>
 </programme>
-<programme start="20250608153000 +0000" stop="20250608170000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250608133000 +0000" stop="20250608170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: RBC Canadian Open, 4. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250608170000 +0000" stop="20250608220000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3199,10 +3196,7 @@
 <programme start="20250608111500 +0000" stop="20250608133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Rennen - GP Aragonien</title>
 </programme>
-<programme start="20250608133000 +0000" stop="20250608153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: KLM Open, 4. Tag in Amsterdam (Niederlande)</title>
-</programme>
-<programme start="20250608153000 +0000" stop="20250608170000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250608133000 +0000" stop="20250608170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: RBC Canadian Open, 4. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250608170000 +0000" stop="20250608220000 +0000" channel="Sky Sport Top Event HD.skyde">
