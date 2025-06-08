@@ -1,6 +1,3 @@
-    <programme start="20250608125000 +0000" stop="20250608161000 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA Nations League - Germany v France</title>
-    </programme>
     <programme start="20250608175000 +0000" stop="20250608211000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Portugal v Spain</title>
     </programme>
