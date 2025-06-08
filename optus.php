@@ -1,4 +1,4 @@
-    <programme start="20250608184800 +0000" stop="20250608221000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250608184800 +0000" stop="20250608230000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Nations League - Portugal v Spain</title>
     </programme>
     <programme start="20250608200000 +0000" stop="20250608223000 +0000" channel="Optus Sport 407.optus">
