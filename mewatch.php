@@ -388,10 +388,10 @@
     <programme start="20250607135959 +0000" stop="20250607170000 +0000" channel="Vasantham.mewatch">
         <title>Kudumbasthan</title>
     </programme>
-    <programme start="20250607170000 +0000" stop="20250607173110 +0000" channel="Vasantham.mewatch">
+    <programme start="20250607170002 +0000" stop="20250607173114 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250607173110 +0000" stop="20250608010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250607173114 +0000" stop="20250608010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250608010000 +0000" stop="20250608015959 +0000" channel="Vasantham.mewatch">

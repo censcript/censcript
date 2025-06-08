@@ -2632,6 +2632,105 @@
 <programme start="20250608214000 +0000" stop="20250608222500 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
+<programme start="20250607222000 +0000" stop="20250607225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
+</programme>
+<programme start="20250607225000 +0000" stop="20250607232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
+</programme>
+<programme start="20250607232000 +0000" stop="20250607234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
+</programme>
+<programme start="20250607234500 +0000" stop="20250608000500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Austria - Rapid (2018/2019)</title>
+</programme>
+<programme start="20250608000500 +0000" stop="20250608002500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Salzburg - WAC (2019/2020)</title>
+</programme>
+<programme start="20250608002500 +0000" stop="20250608020500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Historisches Derby: LASK - Ried (2008/2009)</title>
+</programme>
+<programme start="20250608020500 +0000" stop="20250608034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Historisches Derby: SCR - FAK (1999/2000)</title>
+</programme>
+<programme start="20250608034500 +0000" stop="20250608040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
+</programme>
+<programme start="20250608040000 +0000" stop="20250608043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
+</programme>
+<programme start="20250608043000 +0000" stop="20250608050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+</programme>
+<programme start="20250608050000 +0000" stop="20250608060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Saisonrückblick</title>
+</programme>
+<programme start="20250608060000 +0000" stop="20250608070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Saisonrückblick</title>
+</programme>
+<programme start="20250608070000 +0000" stop="20250608080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: Saisonrückblick</title>
+</programme>
+<programme start="20250608080000 +0000" stop="20250608100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - LASK, Europacup-Playoffs, Finale Rückspiel</title>
+</programme>
+<programme start="20250608100000 +0000" stop="20250608103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+</programme>
+<programme start="20250608103000 +0000" stop="20250608105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Austria - Rapid (2018/2019)</title>
+</programme>
+<programme start="20250608105000 +0000" stop="20250608111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 29-32)</title>
+</programme>
+<programme start="20250608111500 +0000" stop="20250608114000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 29-32)</title>
+</programme>
+<programme start="20250608114000 +0000" stop="20250608120500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 29-32)</title>
+</programme>
+<programme start="20250608120500 +0000" stop="20250608123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 29-32)</title>
+</programme>
+<programme start="20250608123000 +0000" stop="20250608125500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
+</programme>
+<programme start="20250608125500 +0000" stop="20250608132000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
+</programme>
+<programme start="20250608132000 +0000" stop="20250608133500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
+</programme>
+<programme start="20250608133500 +0000" stop="20250608143500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Saisonrückblick</title>
+</programme>
+<programme start="20250608143500 +0000" stop="20250608150500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+</programme>
+<programme start="20250608150500 +0000" stop="20250608173500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - Inter Mailand, Finale 2025 in München</title>
+</programme>
+<programme start="20250608173500 +0000" stop="20250608183500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Saisonrückblick</title>
+</programme>
+<programme start="20250608183500 +0000" stop="20250608190500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
+</programme>
+<programme start="20250608190500 +0000" stop="20250608200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Saisonrückblick</title>
+</programme>
+<programme start="20250608200000 +0000" stop="20250608210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: Saisonrückblick</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
+</programme>
+<programme start="20250608211500 +0000" stop="20250608214000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Rapid - Salzburg (2014/2015)</title>
+</programme>
+<programme start="20250608214000 +0000" stop="20250608220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Salzburg - Grödig (2014/2015)</title>
+</programme>
 <programme start="20250607233000 +0000" stop="20250608000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Wolff Fuss</title>
 </programme>
