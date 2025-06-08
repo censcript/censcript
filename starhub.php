@@ -4207,14 +4207,14 @@
     <programme start="20250608070000 +0000" stop="20250608073000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Challenge de Cadiz</title>
     </programme>
-    <programme start="20250608073000 +0000" stop="20250608103000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>ShopRite LPGA Classic Presented by Acer Round 2</title>
+    <programme start="20250608073000 +0000" stop="20250608080000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Episode 23</title>
     </programme>
-    <programme start="20250608103000 +0000" stop="20250608153000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250608080000 +0000" stop="20250608133000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>KLM Open Day 4</title>
     </programme>
-    <programme start="20250608153000 +0000" stop="20250608160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Episode 23</title>
+    <programme start="20250608133000 +0000" stop="20250608160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>ShopRite LPGA Classic Presented by Acer Round 2</title>
     </programme>
     <programme start="20250607160000 +0000" stop="20250607161500 +0000" channel="France24.starhub">
         <title>News</title>
