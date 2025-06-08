@@ -253,7 +253,150 @@
 <programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250608170000 +0000" stop="20250608173000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 11</title>
+</programme>
+<programme start="20250608173000 +0000" stop="20250608180000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 12</title>
+</programme>
+<programme start="20250608180000 +0000" stop="20250608183000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608193000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 21</title>
+</programme>
+<programme start="20250608193000 +0000" stop="20250608200000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250608200000 +0000" stop="20250608203000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250608203000 +0000" stop="20250608210000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 7</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608213000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 8</title>
+</programme>
+<programme start="20250608213000 +0000" stop="20250608220000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608223000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250608223000 +0000" stop="20250608230000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250608230000 +0000" stop="20250608233000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250608233000 +0000" stop="20250609000000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250609000000 +0000" stop="20250609003000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 5</title>
+</programme>
+<programme start="20250609003000 +0000" stop="20250609010000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 6</title>
+</programme>
+<programme start="20250609010000 +0000" stop="20250609013000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250609013000 +0000" stop="20250609020000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609020000 +0000" stop="20250609023000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250609023000 +0000" stop="20250609030000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609033000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250609033000 +0000" stop="20250609040000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250609040000 +0000" stop="20250609043000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 5</title>
+</programme>
+<programme start="20250609043000 +0000" stop="20250609050000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 6</title>
+</programme>
+<programme start="20250609050000 +0000" stop="20250609053000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250609053000 +0000" stop="20250609060000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609060000 +0000" stop="20250609063000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250609063000 +0000" stop="20250609070000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250609070000 +0000" stop="20250609073000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250609073000 +0000" stop="20250609080000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250609080000 +0000" stop="20250609083000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250609083000 +0000" stop="20250609090000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609090000 +0000" stop="20250609093000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250609093000 +0000" stop="20250609100000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250609100000 +0000" stop="20250609103000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609103000 +0000" stop="20250609110000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 23</title>
+</programme>
+<programme start="20250609110000 +0000" stop="20250609113000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250609113000 +0000" stop="20250609120000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 10</title>
+</programme>
+<programme start="20250609120000 +0000" stop="20250609123000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 12</title>
+</programme>
+<programme start="20250609123000 +0000" stop="20250609130000 +0000" channel="Animax.mncvision">
+    <title>My Love Story With..., Ep 1</title>
+</programme>
+<programme start="20250609130000 +0000" stop="20250609133000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250609133000 +0000" stop="20250609140000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 10</title>
+</programme>
+<programme start="20250609140000 +0000" stop="20250609143000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 7</title>
+</programme>
+<programme start="20250609143000 +0000" stop="20250609150000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 8</title>
+</programme>
+<programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250609153000 +0000" stop="20250609160000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 10</title>
+</programme>
+<programme start="20250609160000 +0000" stop="20250609163000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 12</title>
+</programme>
+<programme start="20250609163000 +0000" stop="20250608170000 +0000" channel="Animax.mncvision">
+    <title>My Love Story With..., Ep 1</title>
+</programme>
 <programme start="20250608173000 +0000" stop="20250608190000 +0000" channel="ANTV.mncvision">
     <title>Pembalasan Roh Gentayangan</title>
 </programme>
@@ -7103,7 +7246,75 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250609165000 +0000" stop="20250608172000 +0000" channel="ONE.mncvision">
     <title>Taxi Driver, Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250608170500 +0000" stop="20250608183500 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 12</title>
+</programme>
+<programme start="20250608183500 +0000" stop="20250608201000 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 13</title>
+</programme>
+<programme start="20250608201000 +0000" stop="20250608214500 +0000" channel="ONE HD.mncvision">
+    <title>Reborn Rich, Ep 14</title>
+</programme>
+<programme start="20250608214500 +0000" stop="20250608220000 +0000" channel="ONE HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250609000000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 733</title>
+</programme>
+<programme start="20250609000000 +0000" stop="20250609004500 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 95</title>
+</programme>
+<programme start="20250609004500 +0000" stop="20250609013000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 96</title>
+</programme>
+<programme start="20250609013000 +0000" stop="20250609021500 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 97</title>
+</programme>
+<programme start="20250609021500 +0000" stop="20250609030000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 98</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609034500 +0000" channel="ONE HD.mncvision">
+    <title>Third Marriage, Ep 112</title>
+</programme>
+<programme start="20250609034500 +0000" stop="20250609043000 +0000" channel="ONE HD.mncvision">
+    <title>Third Marriage, Ep 113</title>
+</programme>
+<programme start="20250609043000 +0000" stop="20250609054500 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver, Ep 1</title>
+</programme>
+<programme start="20250609054500 +0000" stop="20250609070000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver, Ep 2</title>
+</programme>
+<programme start="20250609070000 +0000" stop="20250609090000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 733</title>
+</programme>
+<programme start="20250609090000 +0000" stop="20250609102000 +0000" channel="ONE HD.mncvision">
+    <title>Pretty Ugly, Ep 10</title>
+</programme>
+<programme start="20250609102000 +0000" stop="20250609113500 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver, Ep 1</title>
+</programme>
+<programme start="20250609113500 +0000" stop="20250609125000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver, Ep 2</title>
+</programme>
+<programme start="20250609125000 +0000" stop="20250609133000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 95</title>
+</programme>
+<programme start="20250609133000 +0000" stop="20250609141000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 96</title>
+</programme>
+<programme start="20250609141000 +0000" stop="20250609145000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 97</title>
+</programme>
+<programme start="20250609145000 +0000" stop="20250609153500 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 98</title>
+</programme>
+<programme start="20250609153500 +0000" stop="20250609165000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver, Ep 1</title>
+</programme>
+<programme start="20250609165000 +0000" stop="20250608172000 +0000" channel="ONE HD.mncvision">
+    <title>Taxi Driver, Ep 2</title>
+</programme>
 <programme start="20250608190500 +0000" stop="20250608225600 +0000" channel="ORIGINALS.mncvision">
     <title>Quanta</title>
 </programme>
