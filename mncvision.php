@@ -253,8 +253,189 @@
 <programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250608170000 +0000" stop="20250608173000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 11</title>
+</programme>
+<programme start="20250608173000 +0000" stop="20250608180000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 12</title>
+</programme>
+<programme start="20250608180000 +0000" stop="20250608183000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608193000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 21</title>
+</programme>
+<programme start="20250608193000 +0000" stop="20250608200000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250608200000 +0000" stop="20250608203000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250608203000 +0000" stop="20250608210000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 7</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608213000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 8</title>
+</programme>
+<programme start="20250608213000 +0000" stop="20250608220000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608223000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250608223000 +0000" stop="20250608230000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250608230000 +0000" stop="20250608233000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250608233000 +0000" stop="20250609000000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250609000000 +0000" stop="20250609003000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 5</title>
+</programme>
+<programme start="20250609003000 +0000" stop="20250609010000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 6</title>
+</programme>
+<programme start="20250609010000 +0000" stop="20250609013000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250609013000 +0000" stop="20250609020000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609020000 +0000" stop="20250609023000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250609023000 +0000" stop="20250609030000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609033000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250609033000 +0000" stop="20250609040000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250609040000 +0000" stop="20250609043000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 5</title>
+</programme>
+<programme start="20250609043000 +0000" stop="20250609050000 +0000" channel="Animax.mncvision">
+    <title>Teasing Master... S3, Ep 6</title>
+</programme>
+<programme start="20250609050000 +0000" stop="20250609053000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250609053000 +0000" stop="20250609060000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609060000 +0000" stop="20250609063000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250609063000 +0000" stop="20250609070000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250609070000 +0000" stop="20250609073000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 3</title>
+</programme>
+<programme start="20250609073000 +0000" stop="20250609080000 +0000" channel="Animax.mncvision">
+    <title>Cells At Work! Code Black, Ep 4</title>
+</programme>
+<programme start="20250609080000 +0000" stop="20250609083000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 21</title>
+</programme>
+<programme start="20250609083000 +0000" stop="20250609090000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609090000 +0000" stop="20250609093000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 22</title>
+</programme>
+<programme start="20250609093000 +0000" stop="20250609100000 +0000" channel="Animax.mncvision">
+    <title>Tsukimichi: Moonlit S2, Ep 23</title>
+</programme>
+<programme start="20250609100000 +0000" stop="20250609103000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 22</title>
+</programme>
+<programme start="20250609103000 +0000" stop="20250609110000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S2, Ep 23</title>
+</programme>
+<programme start="20250609110000 +0000" stop="20250609113000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250609113000 +0000" stop="20250609120000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 10</title>
+</programme>
+<programme start="20250609120000 +0000" stop="20250609123000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 12</title>
+</programme>
+<programme start="20250609123000 +0000" stop="20250609130000 +0000" channel="Animax.mncvision">
+    <title>My Love Story With..., Ep 1</title>
+</programme>
+<programme start="20250609130000 +0000" stop="20250609133000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250609133000 +0000" stop="20250609140000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 10</title>
+</programme>
+<programme start="20250609140000 +0000" stop="20250609143000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 7</title>
+</programme>
+<programme start="20250609143000 +0000" stop="20250609150000 +0000" channel="Animax.mncvision">
+    <title>Konosuba: Blessing S2, Ep 8</title>
+</programme>
+<programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 9</title>
+</programme>
+<programme start="20250609153000 +0000" stop="20250609160000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 10</title>
+</programme>
+<programme start="20250609160000 +0000" stop="20250609163000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 12</title>
+</programme>
+<programme start="20250609163000 +0000" stop="20250608170000 +0000" channel="Animax.mncvision">
+    <title>My Love Story With..., Ep 1</title>
+</programme>
+<programme start="20250608173000 +0000" stop="20250608190000 +0000" channel="ANTV.mncvision">
+    <title>Pembalasan Roh Gentayangan</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608210000 +0000" channel="ANTV.mncvision">
+    <title>Housefull 3</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608220000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608230000 +0000" channel="ANTV.mncvision">
+    <title>Senyum Iman</title>
+</programme>
+<programme start="20250608230000 +0000" stop="20250609010000 +0000" channel="ANTV.mncvision">
+    <title>Nada Dan Dakwah</title>
+</programme>
+<programme start="20250609010000 +0000" stop="20250609023000 +0000" channel="ANTV.mncvision">
+    <title>Catatan Hati Perempuan</title>
+</programme>
+<programme start="20250609023000 +0000" stop="20250609060000 +0000" channel="ANTV.mncvision">
+    <title>Sooryavanshi</title>
+</programme>
+<programme start="20250609060000 +0000" stop="20250609090000 +0000" channel="ANTV.mncvision">
+    <title>Radha Mohan</title>
+</programme>
+<programme start="20250609090000 +0000" stop="20250609103000 +0000" channel="ANTV.mncvision">
+    <title>Bhagya Lakshmi</title>
+</programme>
+<programme start="20250609103000 +0000" stop="20250609120000 +0000" channel="ANTV.mncvision">
+    <title>Imlie</title>
+</programme>
+<programme start="20250609120000 +0000" stop="20250609140000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250609140000 +0000" stop="20250609153000 +0000" channel="ANTV.mncvision">
+    <title>Catatan Hati Perempuan</title>
+</programme>
+<programme start="20250609153000 +0000" stop="20250609160000 +0000" channel="ANTV.mncvision">
+    <title>Ip Man</title>
+</programme>
 <programme start="20250608170000 +0000" stop="20250608173000 +0000" channel="Arirang.mncvision">
     <title>Premium Collection</title>
 </programme>
@@ -981,7 +1162,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250609164000 +0000" stop="20250608171000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>UEFA Club Competitions Specials</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 20</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608203000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 2025: Rotterdam</title>
+</programme>
+<programme start="20250608203000 +0000" stop="20250608220000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 2025: Rotterdam</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608223000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 20</title>
+</programme>
+<programme start="20250608223000 +0000" stop="20250609013000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of RG 2025: Men&#039;s Singles</title>
+</programme>
+<programme start="20250609013000 +0000" stop="20250609023000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Roland Garros Highlights 2025</title>
+</programme>
+<programme start="20250609023000 +0000" stop="20250609030000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 20</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609050000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of RG &#039;25: Women&#039;s Doubles</title>
+</programme>
+<programme start="20250609050000 +0000" stop="20250609080000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of RG 2025: Men&#039;s Singles</title>
+</programme>
+<programme start="20250609080000 +0000" stop="20250609090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Roland Garros Highlights 2025</title>
+</programme>
+<programme start="20250609090000 +0000" stop="20250609110000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
+</programme>
+<programme start="20250609110000 +0000" stop="20250609130000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
+</programme>
+<programme start="20250609130000 +0000" stop="20250609150000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
+</programme>
+<programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
+</programme>
 <programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour: This Week 2025, Ep 20</title>
 </programme>
@@ -2305,7 +2527,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250609162500 +0000" stop="20250609165500 +0000" channel="Crime Investigation.mncvision">
     <title>Meet, Marry, Murder S1, Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250608171000 +0000" stop="20250608173500 +0000" channel="Dreamworks.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20250608173500 +0000" stop="20250608180000 +0000" channel="Dreamworks.mncvision">
+    <title>Home: Adv. With Tip And Oh!</title>
+</programme>
+<programme start="20250608180000 +0000" stop="20250608183000 +0000" channel="Dreamworks.mncvision">
+    <title>Mr. Peabody &amp; Sherman Show</title>
+</programme>
+<programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Defenders Of Berk</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608193000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20250608193000 +0000" stop="20250608200000 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Paws Of Destiny</title>
+</programme>
+<programme start="20250608200000 +0000" stop="20250608203000 +0000" channel="Dreamworks.mncvision">
+    <title>Where&#039;s Wally?</title>
+</programme>
+<programme start="20250608203000 +0000" stop="20250608210000 +0000" channel="Dreamworks.mncvision">
+    <title>Casper&#039;s Scare School</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608211500 +0000" channel="Dreamworks.mncvision">
+    <title>Noddy Toyland Detective</title>
+</programme>
+<programme start="20250608211500 +0000" stop="20250608213000 +0000" channel="Dreamworks.mncvision">
+    <title>Raa Raa The Noisy Lion</title>
+</programme>
+<programme start="20250608213000 +0000" stop="20250608214500 +0000" channel="Dreamworks.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20250608214500 +0000" stop="20250608220000 +0000" channel="Dreamworks.mncvision">
+    <title>Guess With Jess</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608222500 +0000" channel="Dreamworks.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20250608222500 +0000" stop="20250608225000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20250608225000 +0000" stop="20250608231500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20250608231500 +0000" stop="20250608234000 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20250608234000 +0000" stop="20250609000500 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20250609000500 +0000" stop="20250609003000 +0000" channel="Dreamworks.mncvision">
+    <title>Abominable &amp; The Invisible City</title>
+</programme>
+<programme start="20250609003000 +0000" stop="20250609005500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20250609005500 +0000" stop="20250609012000 +0000" channel="Dreamworks.mncvision">
+    <title>Trolls: The Beat Goes On!</title>
+</programme>
+<programme start="20250609012000 +0000" stop="20250609014500 +0000" channel="Dreamworks.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20250609014500 +0000" stop="20250609021000 +0000" channel="Dreamworks.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20250609021000 +0000" stop="20250609023500 +0000" channel="Dreamworks.mncvision">
+    <title>Go, Dog. Go!</title>
+</programme>
+<programme start="20250609023500 +0000" stop="20250609030000 +0000" channel="Dreamworks.mncvision">
+    <title>Go, Dog. Go!</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609032500 +0000" channel="Dreamworks.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20250609032500 +0000" stop="20250609035000 +0000" channel="Dreamworks.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20250609035000 +0000" stop="20250609041500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20250609041500 +0000" stop="20250609044000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20250609044000 +0000" stop="20250609050500 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20250609050500 +0000" stop="20250609053000 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20250609053000 +0000" stop="20250609055500 +0000" channel="Dreamworks.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20250609055500 +0000" stop="20250609062000 +0000" channel="Dreamworks.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20250609062000 +0000" stop="20250609064500 +0000" channel="Dreamworks.mncvision">
+    <title>Spirit Riding Free: Pony Tales</title>
+</programme>
+<programme start="20250609064500 +0000" stop="20250609071000 +0000" channel="Dreamworks.mncvision">
+    <title>Spirit Riding Free: Pony Tales</title>
+</programme>
+<programme start="20250609071000 +0000" stop="20250609073500 +0000" channel="Dreamworks.mncvision">
+    <title>Trolls: The Beat Goes On!</title>
+</programme>
+<programme start="20250609073500 +0000" stop="20250609080000 +0000" channel="Dreamworks.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20250609080000 +0000" stop="20250609082500 +0000" channel="Dreamworks.mncvision">
+    <title>Go, Dog. Go!</title>
+</programme>
+<programme start="20250609082500 +0000" stop="20250609085000 +0000" channel="Dreamworks.mncvision">
+    <title>Team Zenko Go</title>
+</programme>
+<programme start="20250609085000 +0000" stop="20250609091500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20250609091500 +0000" stop="20250609094000 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Paws Of Destiny</title>
+</programme>
+<programme start="20250609094000 +0000" stop="20250609100500 +0000" channel="Dreamworks.mncvision">
+    <title>Kung Fu Panda: Paws Of Destiny</title>
+</programme>
+<programme start="20250609100500 +0000" stop="20250609103000 +0000" channel="Dreamworks.mncvision">
+    <title>Abominable &amp; The Invisible City</title>
+</programme>
+<programme start="20250609103000 +0000" stop="20250609105500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20250609105500 +0000" stop="20250609112000 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20250609112000 +0000" stop="20250609114500 +0000" channel="Dreamworks.mncvision">
+    <title>Dragons: The Nine Realms</title>
+</programme>
+<programme start="20250609114500 +0000" stop="20250609121000 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20250609121000 +0000" stop="20250609123500 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20250609123500 +0000" stop="20250609130000 +0000" channel="Dreamworks.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20250609130000 +0000" stop="20250609132500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20250609132500 +0000" stop="20250609135500 +0000" channel="Dreamworks.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
 <programme start="20250608171000 +0000" stop="20250608173500 +0000" channel="Dreamworks HD.mncvision">
     <title>All Hail King Julien</title>
 </programme>
@@ -4580,9 +4951,300 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250609163000 +0000" stop="20250608170000 +0000" channel="JAKTV.mncvision">
     <title>Retro Hour</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250608170000 +0000" stop="20250608173000 +0000" channel="Kids TV.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20250608173000 +0000" stop="20250608180000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250608180000 +0000" stop="20250608183000 +0000" channel="Kids TV.mncvision">
+    <title>I Can Do It</title>
+</programme>
+<programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="Kids TV.mncvision">
+    <title>Kids Menu</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608193000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250608193000 +0000" stop="20250608200000 +0000" channel="Kids TV.mncvision">
+    <title>Penjelajah Cilik</title>
+</programme>
+<programme start="20250608200000 +0000" stop="20250608203000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250608203000 +0000" stop="20250608210000 +0000" channel="Kids TV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608213000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250608213000 +0000" stop="20250608220000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608223000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250608223000 +0000" stop="20250608230000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250608230000 +0000" stop="20250608235000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250608235000 +0000" stop="20250609000000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250609000000 +0000" stop="20250609003000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250609003000 +0000" stop="20250609010000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250609010000 +0000" stop="20250609030000 +0000" channel="Kids TV.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609033000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250609033000 +0000" stop="20250609040000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250609040000 +0000" stop="20250609043000 +0000" channel="Kids TV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250609043000 +0000" stop="20250609050000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250609050000 +0000" stop="20250609053000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250609053000 +0000" stop="20250609060000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250609060000 +0000" stop="20250609063000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250609063000 +0000" stop="20250609070000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250609070000 +0000" stop="20250609073000 +0000" channel="Kids TV.mncvision">
+    <title>Cat &amp; Ket</title>
+</programme>
+<programme start="20250609073000 +0000" stop="20250609082000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250609082000 +0000" stop="20250609083000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250609083000 +0000" stop="20250609092000 +0000" channel="Kids TV.mncvision">
+    <title>Kun Anta Mendadak Santri</title>
+</programme>
+<programme start="20250609092000 +0000" stop="20250609093000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250609093000 +0000" stop="20250609100000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250609100000 +0000" stop="20250609101500 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250609101500 +0000" stop="20250609120000 +0000" channel="Kids TV.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250609120000 +0000" stop="20250609123000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250609123000 +0000" stop="20250609130000 +0000" channel="Kids TV.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250609130000 +0000" stop="20250609133000 +0000" channel="Kids TV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250609133000 +0000" stop="20250609140000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250609140000 +0000" stop="20250609143000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250609143000 +0000" stop="20250609160000 +0000" channel="Kids TV.mncvision">
+    <title>Kids Movie Special</title>
+</programme>
+<programme start="20250609160000 +0000" stop="20250609165000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250609165000 +0000" stop="20250608172000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250608170000 +0000" stop="20250608173000 +0000" channel="Kids TV HD.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20250608173000 +0000" stop="20250608180000 +0000" channel="Kids TV HD.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250608180000 +0000" stop="20250608183000 +0000" channel="Kids TV HD.mncvision">
+    <title>I Can Do It</title>
+</programme>
+<programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kids Menu</title>
+</programme>
+<programme start="20250608190000 +0000" stop="20250608193000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250608193000 +0000" stop="20250608200000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penjelajah Cilik</title>
+</programme>
+<programme start="20250608200000 +0000" stop="20250608203000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250608203000 +0000" stop="20250608210000 +0000" channel="Kids TV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250608210000 +0000" stop="20250608213000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250608213000 +0000" stop="20250608220000 +0000" channel="Kids TV HD.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250608220000 +0000" stop="20250608223000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250608223000 +0000" stop="20250608230000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250608230000 +0000" stop="20250608235000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250608235000 +0000" stop="20250609000000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250609000000 +0000" stop="20250609003000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250609003000 +0000" stop="20250609010000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250609010000 +0000" stop="20250609030000 +0000" channel="Kids TV HD.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20250609030000 +0000" stop="20250609033000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250609033000 +0000" stop="20250609040000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250609040000 +0000" stop="20250609043000 +0000" channel="Kids TV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250609043000 +0000" stop="20250609050000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250609050000 +0000" stop="20250609053000 +0000" channel="Kids TV HD.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250609053000 +0000" stop="20250609060000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250609060000 +0000" stop="20250609063000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250609063000 +0000" stop="20250609070000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250609070000 +0000" stop="20250609073000 +0000" channel="Kids TV HD.mncvision">
+    <title>Cat &amp; Ket</title>
+</programme>
+<programme start="20250609073000 +0000" stop="20250609082000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250609082000 +0000" stop="20250609083000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250609083000 +0000" stop="20250609092000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kun Anta Mendadak Santri</title>
+</programme>
+<programme start="20250609092000 +0000" stop="20250609093000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250609093000 +0000" stop="20250609100000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250609100000 +0000" stop="20250609101500 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250609101500 +0000" stop="20250609120000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250609120000 +0000" stop="20250609123000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250609123000 +0000" stop="20250609130000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250609130000 +0000" stop="20250609133000 +0000" channel="Kids TV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250609133000 +0000" stop="20250609140000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250609140000 +0000" stop="20250609143000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250609143000 +0000" stop="20250609160000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kids Movie Special</title>
+</programme>
+<programme start="20250609160000 +0000" stop="20250609165000 +0000" channel="Kids TV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250609165000 +0000" stop="20250608172000 +0000" channel="Kids TV HD.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250608172500 +0000" stop="20250608193500 +0000" channel="KIX.mncvision">
+    <title>Fishermen &amp; The Sea S3, Ep 21</title>
+</programme>
+<programme start="20250608193500 +0000" stop="20250608202000 +0000" channel="KIX.mncvision">
+    <title>10 Fight 10 S3, Ep 7</title>
+</programme>
+<programme start="20250608202000 +0000" stop="20250608221500 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 1</title>
+</programme>
+<programme start="20250608221500 +0000" stop="20250609000500 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 2</title>
+</programme>
+<programme start="20250609000500 +0000" stop="20250609005500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 1</title>
+</programme>
+<programme start="20250609005500 +0000" stop="20250609015000 +0000" channel="KIX.mncvision">
+    <title>10 Fight 10 S3, Ep 8</title>
+</programme>
+<programme start="20250609015000 +0000" stop="20250609035000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 3</title>
+</programme>
+<programme start="20250609035000 +0000" stop="20250609051000 +0000" channel="KIX.mncvision">
+    <title>The Mask Of Shura Of Fire Cloud</title>
+</programme>
+<programme start="20250609051000 +0000" stop="20250609063000 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 8</title>
+</programme>
+<programme start="20250609063000 +0000" stop="20250609082000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 4</title>
+</programme>
+<programme start="20250609082000 +0000" stop="20250609091500 +0000" channel="KIX.mncvision">
+    <title>10 Fight 10 S3, Ep 8</title>
+</programme>
+<programme start="20250609091500 +0000" stop="20250609105000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 5</title>
+</programme>
+<programme start="20250609105000 +0000" stop="20250609131000 +0000" channel="KIX.mncvision">
+    <title>Nameless Gangster: Rules Of...</title>
+</programme>
+<programme start="20250609131000 +0000" stop="20250609140000 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 1</title>
+</programme>
+<programme start="20250609140000 +0000" stop="20250609160000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 6</title>
+</programme>
+<programme start="20250609160000 +0000" stop="20250609163000 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 8</title>
+</programme>
 <programme start="20250608170000 +0000" stop="20250608173000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Sport Weekend</title>
 </programme>
