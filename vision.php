@@ -439,6 +439,9 @@
 <programme start="20250609130000 +0000" stop="20250609134500 +0000" channel="Trans TV.vision">
 <title>Bidaah</title>
 </programme>
+<programme start="20250609134500 +0000" stop="20250609151500 +0000" channel="Trans TV.vision">
+<title>Jogetin Shaaay</title>
+</programme>
 <programme start="20250609151500 +0000" stop="20250609171500 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250610100000 +0000" stop="20250610110000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
-</programme>
-<programme start="20250610110000 +0000" stop="20250610120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
 </programme>
