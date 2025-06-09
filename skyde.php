@@ -2920,7 +2920,7 @@
 <programme start="20250609190000 +0000" stop="20250609220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20250608220000 +0000" stop="20250609010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250608231000 +0000" stop="20250609010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Tenerife Women&#039;s Open, 4. Tag auf Teneriffa (Spanien)</title>
 </programme>
 <programme start="20250609010000 +0000" stop="20250609040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3160,10 +3160,7 @@
 <programme start="20250609213000 +0000" stop="20250609233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
-<programme start="20250608220000 +0000" stop="20250608230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Rennen - GP Aragonien</title>
-</programme>
-<programme start="20250608230000 +0000" stop="20250609010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250608231000 +0000" stop="20250609010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - FC Bayern München U17, Halbfinale</title>
 </programme>
 <programme start="20250609010000 +0000" stop="20250609011500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3253,7 +3250,7 @@
 <programme start="20250609104000 +0000" stop="20250609110000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250609110000 +0000" stop="20250609190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250609110000 +0000" stop="20250609210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
 <programme start="20250608221000 +0000" stop="20250608233500 +0000" channel="SYFY HD.skyde">

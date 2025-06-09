@@ -7072,11 +7072,11 @@
     <programme start="20250609033000 +0000" stop="20250609043000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA European Truck Racing Championship 2025: Slovakiaring Race 3</title>
     </programme>
-    <programme start="20250609043000 +0000" stop="20250609053000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA European Truck Racing Championship 2025: Slovakiaring Race 4</title>
-    </programme>
-    <programme start="20250609053000 +0000" stop="20250609070000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250609043000 +0000" stop="20250609060000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA World Rally Championship 2025: Rally Italia Sardegna - SS16 Porto San Paolo</title>
+    </programme>
+    <programme start="20250609060000 +0000" stop="20250609070000 +0000" channel="beIN Sports HD.starhub">
+        <title>Top Goals</title>
     </programme>
     <programme start="20250609070000 +0000" stop="20250609090000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2 Playoffs 2024/25: Racing de Santander vs Mirandes</title>
@@ -7099,7 +7099,10 @@
     <programme start="20250609134500 +0000" stop="20250609151500 +0000" channel="beIN Sports HD.starhub">
         <title>Title Parade Best Bits</title>
     </programme>
-    <programme start="20250609151500 +0000" stop="20250609163000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250609151500 +0000" stop="20250609154500 +0000" channel="beIN Sports HD.starhub">
+        <title>LFC Trending 2024/25</title>
+    </programme>
+    <programme start="20250609154500 +0000" stop="20250609170000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2024/25: Liverpool vs Chelsea 2024/25</title>
     </programme>
     <programme start="20250608150000 +0000" stop="20250608162000 +0000" channel="TestChannel2.starhub">

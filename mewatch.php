@@ -247,13 +247,13 @@
     <programme start="20250609155959 +0000" stop="20250609165939 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 30</title>
     </programme>
-    <programme start="20250608153021 +0000" stop="20250608163054 +0000" channel="Channel U.mewatch">
+    <programme start="20250608153009 +0000" stop="20250608163042 +0000" channel="Channel U.mewatch">
         <title>Lovers Of The Red Sky - EP 22</title>
     </programme>
-    <programme start="20250608163054 +0000" stop="20250608180153 +0000" channel="Channel U.mewatch">
+    <programme start="20250608163042 +0000" stop="20250608180142 +0000" channel="Channel U.mewatch">
         <title>Show It All - EP 15</title>
     </programme>
-    <programme start="20250608180153 +0000" stop="20250608220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250608180142 +0000" stop="20250608220000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 10</title>
     </programme>
     <programme start="20250608220000 +0000" stop="20250609025812 +0000" channel="Channel U.mewatch">
@@ -436,10 +436,10 @@
     <programme start="20250608135959 +0000" stop="20250608163000 +0000" channel="Vasantham.mewatch">
         <title>Devil</title>
     </programme>
-    <programme start="20250608163000 +0000" stop="20250608170120 +0000" channel="Vasantham.mewatch">
+    <programme start="20250608163002 +0000" stop="20250608170026 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250608170120 +0000" stop="20250609010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250608170026 +0000" stop="20250609010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250609010000 +0000" stop="20250609013000 +0000" channel="Vasantham.mewatch">
