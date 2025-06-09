@@ -1,6 +1,3 @@
-    <programme start="20250609134900 +0000" stop="20250609161000 +0000" channel="Optus Sport 7.optus">
-        <title>UEFA World Cup Qualifiers - Kazakhstan v North Macedonia</title>
-    </programme>
     <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 3.optus">
         <title>UEFA World Cup Qualifiers - Croatia v Czechia</title>
     </programme>
