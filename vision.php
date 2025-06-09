@@ -107,58 +107,55 @@
 <title>Twisted 2</title>
 </programme>
 <programme start="20250609170000 +0000" stop="20250609173000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250609173000 +0000" stop="20250609190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250609190000 +0000" stop="20250609203000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250609203000 +0000" stop="20250609213000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20250609213000 +0000" stop="20250609220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Jurnal Lintas iNews Pagi</title>
 </programme>
 <programme start="20250609220000 +0000" stop="20250609230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
 <programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20250610000000 +0000" stop="20250610001500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Sinema Spesial Upin &amp; Ipin</title>
 </programme>
 <programme start="20250610001500 +0000" stop="20250610010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20250610010000 +0000" stop="20250610023000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20250610023000 +0000" stop="20250610033000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Siang</title>
 </programme>
 <programme start="20250610033000 +0000" stop="20250610040000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Seleb On News</title>
 </programme>
 <programme start="20250610040000 +0000" stop="20250610060000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250610060000 +0000" stop="20250610080000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250610080000 +0000" stop="20250610100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
-<programme start="20250610100000 +0000" stop="20250610103000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20250610103000 +0000" stop="20250610120000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250610100000 +0000" stop="20250610120000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250608233000 +0000" stop="20250609003000 +0000" channel="GTV.vision">
 <title>Thomas &amp; Friends</title>
@@ -445,16 +442,19 @@
 <programme start="20250609114500 +0000" stop="20250609130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250609130000 +0000" stop="20250609140000 +0000" channel="Trans TV.vision">
-<title>Dunia Punya Cerita</title>
+<programme start="20250609130000 +0000" stop="20250609134500 +0000" channel="Trans TV.vision">
+<title>Bidaah</title>
 </programme>
-<programme start="20250609140000 +0000" stop="20250609160000 +0000" channel="Trans TV.vision">
+<programme start="20250609134500 +0000" stop="20250609151500 +0000" channel="Trans TV.vision">
+<title>Jogetin Shaaay</title>
+</programme>
+<programme start="20250609151500 +0000" stop="20250609171500 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250609160000 +0000" stop="20250609180000 +0000" channel="Trans TV.vision">
+<programme start="20250609171500 +0000" stop="20250609191500 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250609180000 +0000" stop="20250609220000 +0000" channel="Trans TV.vision">
+<programme start="20250609191500 +0000" stop="20250609220000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Connected</title>
 </programme>
 <programme start="20250609220000 +0000" stop="20250609233000 +0000" channel="Trans TV.vision">
