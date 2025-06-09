@@ -4052,7 +4052,7 @@
         <title>Information Worth Knowing from the News Commentator Bureau</title>
     </programme>
     <programme start="20250609032800 +0000" stop="20250609033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>News</title>
     </programme>
     <programme start="20250609033000 +0000" stop="20250609034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Toto Nee-Chan: Fatherly Sister&quot; Encore Eps. 26</title>
@@ -4060,11 +4060,20 @@
     <programme start="20250609034500 +0000" stop="20250609040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 51 (R)</title>
     </programme>
-    <programme start="20250609040000 +0000" stop="20250609040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20250609040000 +0000" stop="20250609044000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Connect for the Future (R)</title>
     </programme>
-    <programme start="20250609040500 +0000" stop="20250609055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20250609044000 +0000" stop="20250609044500 +0000" channel="NHK World Premium HD.starhub">
+        <title>TV Exercise</title>
+    </programme>
+    <programme start="20250609044500 +0000" stop="20250609054000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
+    </programme>
+    <programme start="20250609054000 +0000" stop="20250609054500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
+    </programme>
+    <programme start="20250609054500 +0000" stop="20250609055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250609055000 +0000" stop="20250609055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -4073,7 +4082,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20250609060000 +0000" stop="20250609061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20250609061000 +0000" stop="20250609063500 +0000" channel="NHK World Premium HD.starhub">
         <title>My Gardening</title>
@@ -4124,7 +4133,7 @@
         <title>Today&#039;s Close-up</title>
     </programme>
     <programme start="20250609105700 +0000" stop="20250609114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Suzuki Fuku in Higashihiroshima City, Hiroshima Pr</title>
+        <title>Tsurube&#039;s Salute to Families&quot;Suzuki Fuku in Higashihiroshima City,Hiroshima Pref</title>
     </programme>
     <programme start="20250609114300 +0000" stop="20250609114500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -6845,7 +6854,7 @@
         <title>L&#039;ocean Vu Du Coeur</title>
     </programme>
     <programme start="20250608160000 +0000" stop="20250608170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI World Tour - Santos Men Tour Down Under Final H/Ls</title>
+        <title>UCI World Tour - Santos Men Tour Down Under Final Highlights</title>
     </programme>
     <programme start="20250608170000 +0000" stop="20250608220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>RBC Canadian Open Round 4</title>

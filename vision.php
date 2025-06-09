@@ -190,11 +190,11 @@
 <programme start="20250609123000 +0000" stop="20250609133000 +0000" channel="GTV.vision">
 <title>Untold Story</title>
 </programme>
-<programme start="20250609133000 +0000" stop="20250609150000 +0000" channel="GTV.vision">
-<title>The River Monster</title>
+<programme start="20250609133000 +0000" stop="20250609153000 +0000" channel="GTV.vision">
+<title>Transformer</title>
 </programme>
-<programme start="20250609150000 +0000" stop="20250609170000 +0000" channel="GTV.vision">
-<title>Daddy&#039;s Home</title>
+<programme start="20250609153000 +0000" stop="20250609170000 +0000" channel="GTV.vision">
+<title>Wu Shen Zhao Zilong</title>
 </programme>
 <programme start="20250609170000 +0000" stop="20250609180000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
@@ -206,7 +206,7 @@
 <title>Konon Katanya</title>
 </programme>
 <programme start="20250609203000 +0000" stop="20250609230000 +0000" channel="GTV.vision">
-<title>Abdel Vs Temon Masih Bukan...</title>
+<title>Singkap Rahasia</title>
 </programme>
 <programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
@@ -223,16 +223,10 @@
 <programme start="20250610043000 +0000" stop="20250610060000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250610060000 +0000" stop="20250610073000 +0000" channel="GTV.vision">
+<programme start="20250610060000 +0000" stop="20250610080000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250610073000 +0000" stop="20250610081500 +0000" channel="GTV.vision">
-<title>Food Hunter</title>
-</programme>
-<programme start="20250610081500 +0000" stop="20250610083000 +0000" channel="GTV.vision">
-<title>Shaun The Sheep</title>
-</programme>
-<programme start="20250610083000 +0000" stop="20250610123000 +0000" channel="GTV.vision">
+<programme start="20250610080000 +0000" stop="20250610123000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20250609000000 +0000" stop="20250609010000 +0000" channel="iNews.vision">
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250610080000 +0000" stop="20250610090000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20250610090000 +0000" stop="20250610100000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20250610100000 +0000" stop="20250610110000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>
