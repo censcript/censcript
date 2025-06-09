@@ -9256,13 +9256,10 @@
 <programme start="20250609130000 +0000" stop="20250609134500 +0000" channel="Trans TV.mncvision">
     <title>Bidaah</title>
 </programme>
-<programme start="20250609134500 +0000" stop="20250609144500 +0000" channel="Trans TV.mncvision">
+<programme start="20250609134500 +0000" stop="20250609151500 +0000" channel="Trans TV.mncvision">
     <title>Jogetin Shaaay</title>
 </programme>
-<programme start="20250609144500 +0000" stop="20250609164500 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20250609164500 +0000" stop="20250608171500 +0000" channel="Trans TV.mncvision">
+<programme start="20250609151500 +0000" stop="20250609154500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250608170000 +0000" stop="20250608181500 +0000" channel="tvN.mncvision">
