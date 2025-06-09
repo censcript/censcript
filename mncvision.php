@@ -4045,11 +4045,11 @@
 <programme start="20250609123000 +0000" stop="20250609133000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250609133000 +0000" stop="20250609150000 +0000" channel="GTV.mncvision">
-    <title>The River Monster</title>
+<programme start="20250609133000 +0000" stop="20250609153000 +0000" channel="GTV.mncvision">
+    <title>Transformer</title>
 </programme>
-<programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="GTV.mncvision">
-    <title>Daddy&#039;s Home</title>
+<programme start="20250609153000 +0000" stop="20250609160000 +0000" channel="GTV.mncvision">
+    <title>Wu Shen Zhao Zilong</title>
 </programme>
 <programme start="20250608180000 +0000" stop="20250608190000 +0000" channel="GTV HD.mncvision">
     <title>Konon Katanya</title>
@@ -4096,11 +4096,11 @@
 <programme start="20250609123000 +0000" stop="20250609133000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250609133000 +0000" stop="20250609150000 +0000" channel="GTV HD.mncvision">
-    <title>The River Monster</title>
+<programme start="20250609133000 +0000" stop="20250609153000 +0000" channel="GTV HD.mncvision">
+    <title>Transformer</title>
 </programme>
-<programme start="20250609150000 +0000" stop="20250609153000 +0000" channel="GTV HD.mncvision">
-    <title>Daddy&#039;s Home</title>
+<programme start="20250609153000 +0000" stop="20250609160000 +0000" channel="GTV HD.mncvision">
+    <title>Wu Shen Zhao Zilong</title>
 </programme>
 <programme start="20250608180000 +0000" stop="20250608183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Mbah Minto</title>

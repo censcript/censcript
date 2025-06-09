@@ -19,11 +19,11 @@
 <programme start="20250609090000 +0000" stop="20250609100000 +0000" channel="RCTI.vision">
 <title>Royal Blood</title>
 </programme>
-<programme start="20250609100000 +0000" stop="20250609111500 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20250609111500 +0000" stop="20250609121500 +0000" channel="RCTI.vision">
+<programme start="20250609100000 +0000" stop="20250609110000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250609110000 +0000" stop="20250609121500 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250609121500 +0000" stop="20250609133000 +0000" channel="RCTI.vision">
 <title>Tebaran Hati</title>
@@ -44,30 +44,27 @@
 <title>RCTI</title>
 </programme>
 <programme start="20250609204500 +0000" stop="20250609230000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun S7</title>
 </programme>
 <programme start="20250609230000 +0000" stop="20250609234500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Barista</title>
 </programme>
 <programme start="20250609234500 +0000" stop="20250610010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Upin Ipin</title>
 </programme>
 <programme start="20250610010000 +0000" stop="20250610013000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Kiko</title>
 </programme>
 <programme start="20250610013000 +0000" stop="20250610050000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250610050000 +0000" stop="20250610053000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Seputar iNews Siang</title>
 </programme>
-<programme start="20250610053000 +0000" stop="20250610073000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250610053000 +0000" stop="20250610080000 +0000" channel="RCTI.vision">
+<title>Take Me Out Indonesia</title>
 </programme>
-<programme start="20250610073000 +0000" stop="20250610083000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20250610083000 +0000" stop="20250610124500 +0000" channel="RCTI.vision">
+<programme start="20250610080000 +0000" stop="20250610124500 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
 <programme start="20250609000000 +0000" stop="20250609010000 +0000" channel="MNCTV.vision">
@@ -203,51 +200,42 @@
 <title>Daddy&#039;s Home</title>
 </programme>
 <programme start="20250609170000 +0000" stop="20250609180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Buletin iNews Malam</title>
 </programme>
 <programme start="20250609180000 +0000" stop="20250609190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Konon Katanya</title>
 </programme>
-<programme start="20250609190000 +0000" stop="20250609220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250609190000 +0000" stop="20250609203000 +0000" channel="GTV.vision">
+<title>Konon Katanya</title>
 </programme>
-<programme start="20250609220000 +0000" stop="20250609230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250609203000 +0000" stop="20250609230000 +0000" channel="GTV.vision">
+<title>Abdel Vs Temon Masih Bukan...</title>
 </programme>
-<programme start="20250609230000 +0000" stop="20250610000000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="GTV.vision">
+<title>Bernard Bear</title>
 </programme>
-<programme start="20250610000000 +0000" stop="20250610013000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250609233000 +0000" stop="20250610003000 +0000" channel="GTV.vision">
+<title>Thomas &amp; Friends</title>
 </programme>
-<programme start="20250610013000 +0000" stop="20250610030000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250610003000 +0000" stop="20250610023000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20250610030000 +0000" stop="20250610033000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250610023000 +0000" stop="20250610043000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250610033000 +0000" stop="20250610043000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250610043000 +0000" stop="20250610060000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250610043000 +0000" stop="20250610063000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250610060000 +0000" stop="20250610073000 +0000" channel="GTV.vision">
+<title>Shaun The Sheep</title>
 </programme>
-<programme start="20250610063000 +0000" stop="20250610073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250610073000 +0000" stop="20250610081500 +0000" channel="GTV.vision">
+<title>Food Hunter</title>
 </programme>
-<programme start="20250610073000 +0000" stop="20250610083000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20250610081500 +0000" stop="20250610083000 +0000" channel="GTV.vision">
+<title>Shaun The Sheep</title>
 </programme>
-<programme start="20250610083000 +0000" stop="20250610100000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20250610100000 +0000" stop="20250610110000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20250610110000 +0000" stop="20250610113000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20250610113000 +0000" stop="20250610120000 +0000" channel="GTV.vision">
+<programme start="20250610083000 +0000" stop="20250610123000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20250609000000 +0000" stop="20250609010000 +0000" channel="iNews.vision">
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250610040000 +0000" stop="20250610050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250610050000 +0000" stop="20250610060000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20250610060000 +0000" stop="20250610070000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
+</programme>
+<programme start="20250610070000 +0000" stop="20250610080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250610080000 +0000" stop="20250610090000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
