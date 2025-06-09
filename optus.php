@@ -1,18 +1,3 @@
-    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA World Cup Qualifiers - Croatia v Czechia</title>
-    </programme>
-    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA World Cup Qualifiers - Italy v Moldova</title>
-    </programme>
-    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 5.optus">
-        <title>UEFA World Cup Qualifiers - Faroe Islands v Gibraltar</title>
-    </programme>
-    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA World Cup Qualifiers - Belgium v Wales</title>
-    </programme>
-    <programme start="20250609183400 +0000" stop="20250609205500 +0000" channel="Optus Sport 2.optus">
-        <title>UEFA World Cup Qualifiers - Estonia v Norway</title>
-    </programme>
     <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 1.optus">
         <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
     </programme>
@@ -264,6 +249,18 @@
     </programme>
     <programme start="20250721085500 +0000" stop="20250721111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Avispa v Kyoto</title>
+    </programme>
+    <programme start="20250722102000 +0000" stop="20250722124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Gwangju v Gimcheon</title>
+    </programme>
+    <programme start="20250722102000 +0000" stop="20250722124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Pohang v Suwon FC</title>
+    </programme>
+    <programme start="20250723102000 +0000" stop="20250723124000 +0000" channel="Optus Sport 8.optus">
+        <title>N/A - Jeonbuk v Gangwon</title>
+    </programme>
+    <programme start="20250723102000 +0000" stop="20250723124000 +0000" channel="Optus Sport 7.optus">
+        <title>N/A - Ulsan v Daejeon</title>
     </programme>
     <programme start="20250727102500 +0000" stop="20250727124000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Avispa</title>
