@@ -7585,13 +7585,16 @@
 <programme start="20250609163000 +0000" stop="20250608170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Duck Camp Dinners S1, Ep 5</title>
 </programme>
+<programme start="20250608181500 +0000" stop="20250608183000 +0000" channel="RCTI.mncvision">
+    <title>Kepincut Si Kepo Akut</title>
+</programme>
 <programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="RCTI.mncvision">
     <title>UEFA Nations League 2024/2025</title>
 </programme>
-<programme start="20250608190000 +0000" stop="20250608210000 +0000" channel="RCTI.mncvision">
+<programme start="20250608190000 +0000" stop="20250608220000 +0000" channel="RCTI.mncvision">
     <title>UEFA Nations League (L)</title>
 </programme>
-<programme start="20250608210000 +0000" stop="20250608230000 +0000" channel="RCTI.mncvision">
+<programme start="20250608220000 +0000" stop="20250608230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S7</title>
 </programme>
 <programme start="20250608230000 +0000" stop="20250608234500 +0000" channel="RCTI.mncvision">
@@ -7636,13 +7639,16 @@
 <programme start="20250609161500 +0000" stop="20250609164500 +0000" channel="RCTI.mncvision">
     <title>Cinta Pulang Kampung</title>
 </programme>
+<programme start="20250608181500 +0000" stop="20250608183000 +0000" channel="RCTI HD.mncvision">
+    <title>Kepincut Si Kepo Akut</title>
+</programme>
 <programme start="20250608183000 +0000" stop="20250608190000 +0000" channel="RCTI HD.mncvision">
     <title>UEFA Nations League 2024/2025</title>
 </programme>
-<programme start="20250608190000 +0000" stop="20250608210000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250608190000 +0000" stop="20250608220000 +0000" channel="RCTI HD.mncvision">
     <title>UEFA Nations League (L)</title>
 </programme>
-<programme start="20250608210000 +0000" stop="20250608230000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250608220000 +0000" stop="20250608230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S7</title>
 </programme>
 <programme start="20250608230000 +0000" stop="20250608234500 +0000" channel="RCTI HD.mncvision">

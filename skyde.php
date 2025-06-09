@@ -2920,13 +2920,13 @@
 <programme start="20250609190000 +0000" stop="20250609220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20250608231000 +0000" stop="20250609021000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250608231000 +0000" stop="20250609010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Tenerife Women&#039;s Open, 4. Tag auf Teneriffa (Spanien)</title>
 </programme>
-<programme start="20250609021000 +0000" stop="20250609045000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250609010000 +0000" stop="20250609040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KLM Open, 4. Tag in Amsterdam (Niederlande)</title>
 </programme>
-<programme start="20250609045000 +0000" stop="20250609070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250609040000 +0000" stop="20250609070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: RBC Canadian Open, 4. Tag in Caledon, Ontario (Kanada)</title>
 </programme>
 <programme start="20250609070000 +0000" stop="20250609100000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3160,14 +3160,17 @@
 <programme start="20250609213000 +0000" stop="20250609233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
-<programme start="20250608231000 +0000" stop="20250609011000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250608231000 +0000" stop="20250609010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - FC Bayern München U17, Halbfinale</title>
 </programme>
-<programme start="20250609011000 +0000" stop="20250609012500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250609010000 +0000" stop="20250609011500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 34. Spieltag</title>
 </programme>
-<programme start="20250609012500 +0000" stop="20250609014500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250609011500 +0000" stop="20250609013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Torparade 34. Spieltag</title>
+</programme>
+<programme start="20250609013000 +0000" stop="20250609014500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 1</title>
 </programme>
 <programme start="20250609014500 +0000" stop="20250609020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 2</title>
