@@ -2894,7 +2894,7 @@
     <title>Euromaxx: Lifestyle Europe</title>
 </programme>
 <programme start="20250609003000 +0000" stop="20250609010000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Global Challenges</title>
 </programme>
 <programme start="20250609010000 +0000" stop="20250609011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2909,7 +2909,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250609020200 +0000" stop="20250609023000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Sustainable Perfumes</title>
 </programme>
 <programme start="20250609023000 +0000" stop="20250609030000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: Taking Women&#039;s</title>
@@ -2918,7 +2918,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250609031500 +0000" stop="20250609033000 +0000" channel="DW English.mncvision">
-    <title>Sports Life: Overcoming...</title>
+    <title>Sports Life: Playing Chess</title>
 </programme>
 <programme start="20250609033000 +0000" stop="20250609040000 +0000" channel="DW English.mncvision">
     <title>Euromaxx: Lifestyle Europe</title>
@@ -2927,7 +2927,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250609041500 +0000" stop="20250609044500 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Global Challenges</title>
 </programme>
 <programme start="20250609044500 +0000" stop="20250609050000 +0000" channel="DW English.mncvision">
     <title>Reporter: On Location</title>
@@ -2945,22 +2945,22 @@
     <title>DW News</title>
 </programme>
 <programme start="20250609061500 +0000" stop="20250609063000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Ai In Border Control</title>
 </programme>
 <programme start="20250609063000 +0000" stop="20250609070000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Protecting Wildlife</title>
 </programme>
 <programme start="20250609070000 +0000" stop="20250609073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250609073000 +0000" stop="20250609080000 +0000" channel="DW English.mncvision">
-    <title>The 77 Percent: Africa&#039;s Youth</title>
+    <title>The 77 Percent: Colonialism</title>
 </programme>
 <programme start="20250609080000 +0000" stop="20250609083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250609083000 +0000" stop="20250609084500 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Ai In Border Control</title>
 </programme>
 <programme start="20250609084500 +0000" stop="20250609090000 +0000" channel="DW English.mncvision">
     <title>Reporter: On Location</title>
@@ -2975,7 +2975,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250609103000 +0000" stop="20250609110000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Protecting Wildlife</title>
 </programme>
 <programme start="20250608180000 +0000" stop="20250608190000 +0000" channel="Entertainment.mncvision">
     <title>Mereka Ada Dimana-Mana</title>
@@ -7592,7 +7592,7 @@
     <title>UEFA Nations League (L)</title>
 </programme>
 <programme start="20250608210000 +0000" stop="20250608230000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S6</title>
+    <title>Preman Pensiun S7</title>
 </programme>
 <programme start="20250608230000 +0000" stop="20250608234500 +0000" channel="RCTI.mncvision">
     <title>Barista</title>
@@ -7643,7 +7643,7 @@
     <title>UEFA Nations League (L)</title>
 </programme>
 <programme start="20250608210000 +0000" stop="20250608230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S6</title>
+    <title>Preman Pensiun S7</title>
 </programme>
 <programme start="20250608230000 +0000" stop="20250608234500 +0000" channel="RCTI HD.mncvision">
     <title>Barista</title>
@@ -8590,14 +8590,8 @@
 <programme start="20250609003000 +0000" stop="20250609023000 +0000" channel="Sportstars HD.mncvision">
     <title>Volleyball Nations League Women</title>
 </programme>
-<programme start="20250609023000 +0000" stop="20250609030000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20250609030000 +0000" stop="20250609040000 +0000" channel="Sportstars HD.mncvision">
-    <title>ASEAN Women&#039;s Championship (L)</title>
-</programme>
-<programme start="20250609040000 +0000" stop="20250609043000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
+<programme start="20250609023000 +0000" stop="20250609043000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Men</title>
 </programme>
 <programme start="20250609043000 +0000" stop="20250609050000 +0000" channel="Sportstars HD.mncvision">
     <title>World Classic Sports</title>
