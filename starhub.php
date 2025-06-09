@@ -8362,11 +8362,8 @@
     <programme start="20250608222500 +0000" stop="20250608234000 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250608234000 +0000" stop="20250609013000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250608234000 +0000" stop="20250609020000 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
-    </programme>
-    <programme start="20250609013000 +0000" stop="20250609020000 +0000" channel="SPOTV2.starhub">
-        <title>Johann Zarco</title>
     </programme>
     <programme start="20250609020000 +0000" stop="20250609063000 +0000" channel="SPOTV2.starhub">
         <title>Race 1</title>

@@ -296,67 +296,64 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20250609170000 +0000" stop="20250609173000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="iNews.vision">
+<title>GX</title>
+</programme>
+<programme start="20250609180000 +0000" stop="20250609183000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250609180000 +0000" stop="20250609193000 +0000" channel="iNews.vision">
+<programme start="20250609183000 +0000" stop="20250609204500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250609193000 +0000" stop="20250609201500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250609201500 +0000" stop="20250609210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250609204500 +0000" stop="20250609210000 +0000" channel="iNews.vision">
+<title>iNews Sport</title>
 </programme>
 <programme start="20250609210000 +0000" stop="20250609211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20250609211500 +0000" stop="20250609230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>AFC Qatar 2023: TJK Vs UAE (L)</title>
 </programme>
 <programme start="20250609230000 +0000" stop="20250609230200 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20250609230200 +0000" stop="20250609233000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250610000000 +0000" stop="20250610010000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Morning Update</title>
 </programme>
 <programme start="20250610010000 +0000" stop="20250610013000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Aksi Dewan</title>
 </programme>
 <programme start="20250610013000 +0000" stop="20250610023000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Lapor Polisi (L)</title>
 </programme>
 <programme start="20250610023000 +0000" stop="20250610040000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Today (L)</title>
 </programme>
 <programme start="20250610040000 +0000" stop="20250610060000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Siang (L)</title>
 </programme>
 <programme start="20250610060000 +0000" stop="20250610063000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20250610063000 +0000" stop="20250610070000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250610063000 +0000" stop="20250610074500 +0000" channel="iNews.vision">
+<title>Intens Reborn</title>
 </programme>
-<programme start="20250610070000 +0000" stop="20250610081500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250610074500 +0000" stop="20250610090000 +0000" channel="iNews.vision">
+<title>Realita (L)</title>
 </programme>
-<programme start="20250610081500 +0000" stop="20250610090000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250610090000 +0000" stop="20250610104500 +0000" channel="iNews.vision">
+<title>Breaking News (L)</title>
 </programme>
-<programme start="20250610090000 +0000" stop="20250610103000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20250610103000 +0000" stop="20250610120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250610104500 +0000" stop="20250610120000 +0000" channel="iNews.vision">
+<title>BUMN Awards</title>
 </programme>
 <programme start="20250608233000 +0000" stop="20250609010500 +0000" channel="SindoNews.vision">
 <title>SindoNews TV</title>
@@ -651,9 +648,6 @@
 </programme>
 <programme start="20250609090000 +0000" stop="20250609103000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
-</programme>
-<programme start="20250609103000 +0000" stop="20250609120000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
 </programme>
 <programme start="20250609103000 +0000" stop="20250609120000 +0000" channel="ANTV.vision">
 <title>Imlie</title>
@@ -1491,4 +1485,16 @@
 </programme>
 <programme start="20250610011500 +0000" stop="20250610021500 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250610021500 +0000" stop="20250610030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
+</programme>
+<programme start="20250610030000 +0000" stop="20250610034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
+</programme>
+<programme start="20250610034500 +0000" stop="20250610040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250610040000 +0000" stop="20250610050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
