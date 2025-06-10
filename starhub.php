@@ -5431,13 +5431,13 @@
     <programme start="20250610083000 +0000" stop="20250610090000 +0000" channel="SPOTV.starhub">
         <title>SPOTV Encore: RSL Matchweek 15</title>
     </programme>
-    <programme start="20250610090000 +0000" stop="20250610113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250610090000 +0000" stop="20250610120500 +0000" channel="SPOTV.starhub">
         <title>Finals</title>
     </programme>
-    <programme start="20250610113000 +0000" stop="20250610140000 +0000" channel="SPOTV.starhub">
+    <programme start="20250610120500 +0000" stop="20250610142000 +0000" channel="SPOTV.starhub">
         <title>Recurve Team Finals</title>
     </programme>
-    <programme start="20250610140000 +0000" stop="20250610163000 +0000" channel="SPOTV.starhub">
+    <programme start="20250610142000 +0000" stop="20250610163000 +0000" channel="SPOTV.starhub">
         <title>Recurve Individual Finals</title>
     </programme>
     <programme start="20250609153500 +0000" stop="20250609165000 +0000" channel="KBS World HD.starhub">
