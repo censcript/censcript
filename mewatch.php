@@ -130,10 +130,10 @@
     <programme start="20250610113004 +0000" stop="20250610123000 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 5</title>
     </programme>
-    <programme start="20250610123000 +0000" stop="20250610125800 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610123000 +0000" stop="20250610125900 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250610125800 +0000" stop="20250610150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610125900 +0000" stop="20250610150000 +0000" channel="Channel 5.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 1</title>
     </programme>
     <programme start="20250610150000 +0000" stop="20250610160004 +0000" channel="Channel 5.mewatch">
@@ -457,28 +457,28 @@
     <programme start="20250610102959 +0000" stop="20250610110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 15</title>
     </programme>
-    <programme start="20250610110000 +0000" stop="20250610120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610110000 +0000" stop="20250610120001 +0000" channel="Vasantham.mewatch">
         <title>Neruppuda Season 2 - EP 6</title>
     </programme>
-    <programme start="20250610120000 +0000" stop="20250610123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610120001 +0000" stop="20250610123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 17</title>
     </programme>
-    <programme start="20250610123000 +0000" stop="20250610130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610123000 +0000" stop="20250610130002 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250610130000 +0000" stop="20250610133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610130002 +0000" stop="20250610133004 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 11</title>
     </programme>
-    <programme start="20250610133000 +0000" stop="20250610140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610133004 +0000" stop="20250610140002 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 9</title>
     </programme>
-    <programme start="20250610140000 +0000" stop="20250610143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610140002 +0000" stop="20250610143000 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 8</title>
     </programme>
-    <programme start="20250610143000 +0000" stop="20250610150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610143000 +0000" stop="20250610145958 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 9</title>
     </programme>
-    <programme start="20250610150000 +0000" stop="20250610153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610145958 +0000" stop="20250610153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 7</title>
     </programme>
     <programme start="20250610153000 +0000" stop="20250610160002 +0000" channel="Vasantham.mewatch">
@@ -544,20 +544,17 @@
     <programme start="20250610110000 +0000" stop="20250610120000 +0000" channel="CNA.mewatch">
         <title>Panda Power: Rise Of Furry Diplomats - EP 1</title>
     </programme>
-    <programme start="20250610120000 +0000" stop="20250610130000 +0000" channel="CNA.mewatch">
+    <programme start="20250610120000 +0000" stop="20250610125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250610130000 +0000" stop="20250610140000 +0000" channel="CNA.mewatch">
+    <programme start="20250610125959 +0000" stop="20250610140000 +0000" channel="CNA.mewatch">
         <title>China &amp; The Global South S2 - EP 2</title>
     </programme>
-    <programme start="20250610140000 +0000" stop="20250610150000 +0000" channel="CNA.mewatch">
+    <programme start="20250610140000 +0000" stop="20250610150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250610150000 +0000" stop="20250610160000 +0000" channel="CNA.mewatch">
+    <programme start="20250610150105 +0000" stop="20250610160001 +0000" channel="CNA.mewatch">
         <title>China &amp; The Global South S2 - EP 1</title>
-    </programme>
-    <programme start="20250610160000 +0000" stop="20250610160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250609155959 +0000" stop="20250609170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
