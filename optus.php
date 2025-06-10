@@ -1,6 +1,3 @@
-    <programme start="20250610184000 +0000" stop="20250610214500 +0000" channel="Optus Sport 103.optus">
-        <title>UEFA World Cup Qualifiers - Finland v Poland</title>
-    </programme>
     <programme start="20250611170000 +0000" stop="20250611173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Ruben Dias</title>
     </programme>
