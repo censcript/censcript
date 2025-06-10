@@ -6944,13 +6944,13 @@
         <title>The HSBC C&#039;ships (500) Day 1</title>
     </programme>
     <programme start="20250609170000 +0000" stop="20250609173000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 1 Highlights</title>
+        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 1 H/Ls</title>
     </programme>
     <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 2 Highlights</title>
+        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 2 H/Ls</title>
     </programme>
     <programme start="20250609180000 +0000" stop="20250609183000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 3 Highlights</title>
+        <title>UCI Women&#039;s World Tour - Santos Women Tour Down Under Stage 3 H/Ls</title>
     </programme>
     <programme start="20250609183000 +0000" stop="20250609230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Group C: Slovakia vs Denmark</title>

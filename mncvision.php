@@ -8348,7 +8348,7 @@
     <title>Bundesliga 2024/25: FCB Vs BMG</title>
 </programme>
 <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250609180000 +0000" stop="20250609183000 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
@@ -8363,7 +8363,7 @@
     <title>Proliga</title>
 </programme>
 <programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="Sportstars.mncvision">
     <title>Sportrivia</title>
@@ -8378,7 +8378,7 @@
     <title>Volleyball Nations League Men</title>
 </programme>
 <programme start="20250610043000 +0000" stop="20250610050000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250610050000 +0000" stop="20250610053000 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
@@ -8399,7 +8399,7 @@
     <title>FIBA Asia Cup Qualifiers</title>
 </programme>
 <programme start="20250610130000 +0000" stop="20250610133000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250610133000 +0000" stop="20250610153000 +0000" channel="Sportstars.mncvision">
     <title>Volleyball Nations League Women</title>
@@ -8756,7 +8756,7 @@
     <title>Bundesliga: KSV Vs SCF</title>
 </programme>
 <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250609180000 +0000" stop="20250609183000 +0000" channel="Sportstars HD.mncvision">
     <title>iNews Sport</title>
@@ -8771,7 +8771,7 @@
     <title>Proliga</title>
 </programme>
 <programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="Sportstars HD.mncvision">
     <title>Sportrivia</title>
@@ -8782,17 +8782,11 @@
 <programme start="20250610003000 +0000" stop="20250610023000 +0000" channel="Sportstars HD.mncvision">
     <title>Volleyball Nations League Women</title>
 </programme>
-<programme start="20250610023000 +0000" stop="20250610030000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20250610030000 +0000" stop="20250610040000 +0000" channel="Sportstars HD.mncvision">
-    <title>ASEAN Women&#039;s Championship (L)</title>
-</programme>
-<programme start="20250610040000 +0000" stop="20250610043000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
+<programme start="20250610023000 +0000" stop="20250610043000 +0000" channel="Sportstars HD.mncvision">
+    <title>Volleyball Nations League Men</title>
 </programme>
 <programme start="20250610043000 +0000" stop="20250610050000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250610050000 +0000" stop="20250610053000 +0000" channel="Sportstars HD.mncvision">
     <title>iNews Sport</title>
@@ -8813,7 +8807,7 @@
     <title>FIBA Asia Cup Qualifiers</title>
 </programme>
 <programme start="20250610130000 +0000" stop="20250610133000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20250610133000 +0000" stop="20250610153000 +0000" channel="Sportstars HD.mncvision">
     <title>Volleyball Nations League Women</title>
