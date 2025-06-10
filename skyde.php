@@ -649,10 +649,10 @@
 <programme start="20250610100500 +0000" stop="20250610102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250610102000 +0000" stop="20250610102500 +0000" channel="Cartoonito.skyde">
+<programme start="20250610102000 +0000" stop="20250610103000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250610102500 +0000" stop="20250610103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250610103000 +0000" stop="20250610103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250610103500 +0000" stop="20250610104000 +0000" channel="Cartoonito.skyde">
@@ -673,10 +673,10 @@
 <programme start="20250610113500 +0000" stop="20250610115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250610115000 +0000" stop="20250610120000 +0000" channel="Cartoonito.skyde">
+<programme start="20250610115000 +0000" stop="20250610120500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250610120000 +0000" stop="20250610122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250610120500 +0000" stop="20250610122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250610122000 +0000" stop="20250610123000 +0000" channel="Cartoonito.skyde">
@@ -709,10 +709,10 @@
 <programme start="20250610140000 +0000" stop="20250610140500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250610140500 +0000" stop="20250610141000 +0000" channel="Cartoonito.skyde">
+<programme start="20250610140500 +0000" stop="20250610141500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250610141000 +0000" stop="20250610142500 +0000" channel="Cartoonito.skyde">
+<programme start="20250610141500 +0000" stop="20250610142500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250610142500 +0000" stop="20250610143500 +0000" channel="Cartoonito.skyde">
@@ -3119,28 +3119,28 @@
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20250610133000 +0000" stop="20250610134500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
+    <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20250610134500 +0000" stop="20250610140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
+    <title>Live Deadline Day: News</title>
 </programme>
 <programme start="20250610140000 +0000" stop="20250610160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250610160000 +0000" stop="20250610163000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250610160000 +0000" stop="20250610164500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Das Klub-WM Spezial</title>
 </programme>
-<programme start="20250610163000 +0000" stop="20250610170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
+<programme start="20250610164500 +0000" stop="20250610170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Deadline Day: News</title>
 </programme>
 <programme start="20250610170000 +0000" stop="20250610173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Deadline Day: News</title>
 </programme>
-<programme start="20250610173000 +0000" stop="20250610181000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250610173000 +0000" stop="20250610181500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Deadline Day: Finale</title>
 </programme>
-<programme start="20250610181000 +0000" stop="20250610183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+<programme start="20250610181500 +0000" stop="20250610183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Deadline Day: News</title>
 </programme>
 <programme start="20250610183000 +0000" stop="20250610190000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Deadline Day Show</title>
@@ -3256,13 +3256,16 @@
 <programme start="20250610031500 +0000" stop="20250610040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>The Masters: The Legend of Bernhard Langer</title>
 </programme>
-<programme start="20250610040000 +0000" stop="20250610050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250610040000 +0000" stop="20250610045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250610050000 +0000" stop="20250610070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250610045500 +0000" stop="20250610061000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - M. Arnaldi (ITA), Boss Open in Stuttgart, 1. Tag</title>
 </programme>
-<programme start="20250610070000 +0000" stop="20250610090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250610061000 +0000" stop="20250610065500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>The Masters: The Legend of Bernhard Langer</title>
+</programme>
+<programme start="20250610065500 +0000" stop="20250610090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final, Spiel 3</title>
 </programme>
 <programme start="20250610090000 +0000" stop="20250610170000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3736,10 +3739,10 @@
 <programme start="20250610061000 +0000" stop="20250610074000 +0000" channel="Warner TV Film.skyde">
     <title>Den Hals in der Schlinge</title>
 </programme>
-<programme start="20250610074000 +0000" stop="20250610091000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250610074000 +0000" stop="20250610091500 +0000" channel="Warner TV Film.skyde">
     <title>Westworld</title>
 </programme>
-<programme start="20250610091000 +0000" stop="20250610111000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250610091500 +0000" stop="20250610111000 +0000" channel="Warner TV Film.skyde">
     <title>Coma</title>
 </programme>
 <programme start="20250610111000 +0000" stop="20250610125000 +0000" channel="Warner TV Film.skyde">
@@ -3757,7 +3760,7 @@
 <programme start="20250610181500 +0000" stop="20250610201500 +0000" channel="Warner TV Film.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
-<programme start="20250610201500 +0000" stop="20250610223000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250610201500 +0000" stop="20250610223500 +0000" channel="Warner TV Film.skyde">
     <title>The Rock - Entscheidung auf Alcatraz</title>
 </programme>
 <programme start="20250609233000 +0000" stop="20250610010000 +0000" channel="Warner TV Film HD.skyde">
@@ -3775,10 +3778,10 @@
 <programme start="20250610061000 +0000" stop="20250610074000 +0000" channel="Warner TV Film HD.skyde">
     <title>Den Hals in der Schlinge</title>
 </programme>
-<programme start="20250610074000 +0000" stop="20250610091000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250610074000 +0000" stop="20250610091500 +0000" channel="Warner TV Film HD.skyde">
     <title>Westworld</title>
 </programme>
-<programme start="20250610091000 +0000" stop="20250610111000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250610091500 +0000" stop="20250610111000 +0000" channel="Warner TV Film HD.skyde">
     <title>Coma</title>
 </programme>
 <programme start="20250610111000 +0000" stop="20250610125000 +0000" channel="Warner TV Film HD.skyde">
@@ -3796,7 +3799,7 @@
 <programme start="20250610181500 +0000" stop="20250610201500 +0000" channel="Warner TV Film HD.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
-<programme start="20250610201500 +0000" stop="20250610223000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250610201500 +0000" stop="20250610223500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Rock - Entscheidung auf Alcatraz</title>
 </programme>
 <programme start="20250609231500 +0000" stop="20250609235500 +0000" channel="Warner TV Serie HD.skyde">
