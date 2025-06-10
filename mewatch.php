@@ -130,10 +130,10 @@
     <programme start="20250610113004 +0000" stop="20250610123000 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 5</title>
     </programme>
-    <programme start="20250610123000 +0000" stop="20250610130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610123000 +0000" stop="20250610125800 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250610130000 +0000" stop="20250610150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610125800 +0000" stop="20250610150000 +0000" channel="Channel 5.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 1</title>
     </programme>
     <programme start="20250610150000 +0000" stop="20250610160004 +0000" channel="Channel 5.mewatch">
