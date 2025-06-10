@@ -760,7 +760,84 @@
 <programme start="20250611163000 +0000" stop="20250610170000 +0000" channel="AXN HD.mncvision">
     <title>American Ninja... S14, Ep 26</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250610173000 +0000" stop="20250610182500 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20250610182500 +0000" stop="20250610192000 +0000" channel="BBC Earth.mncvision">
+    <title>Australia&#039;s Sleep... S1, Ep 2</title>
+</programme>
+<programme start="20250610192000 +0000" stop="20250610201000 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 14</title>
+</programme>
+<programme start="20250610201000 +0000" stop="20250610210500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 2</title>
+</programme>
+<programme start="20250610210500 +0000" stop="20250610220000 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20250610220000 +0000" stop="20250610225000 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 14</title>
+</programme>
+<programme start="20250610225000 +0000" stop="20250610234500 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20250610234500 +0000" stop="20250611004500 +0000" channel="BBC Earth.mncvision">
+    <title>Australia&#039;s Sleep... S1, Ep 2</title>
+</programme>
+<programme start="20250611004500 +0000" stop="20250611014000 +0000" channel="BBC Earth.mncvision">
+    <title>Big Adv.: South America, Ep 2</title>
+</programme>
+<programme start="20250611014000 +0000" stop="20250611023000 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 14</title>
+</programme>
+<programme start="20250611023000 +0000" stop="20250611032500 +0000" channel="BBC Earth.mncvision">
+    <title>M. Palin: Into Iraq S1, Ep 2</title>
+</programme>
+<programme start="20250611032500 +0000" stop="20250611042500 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20250611042500 +0000" stop="20250611052500 +0000" channel="BBC Earth.mncvision">
+    <title>Blue Planet S2, Ep 2</title>
+</programme>
+<programme start="20250611052500 +0000" stop="20250611062500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 2</title>
+</programme>
+<programme start="20250611062500 +0000" stop="20250611072000 +0000" channel="BBC Earth.mncvision">
+    <title>M. Palin: Into Iraq S1, Ep 2</title>
+</programme>
+<programme start="20250611072000 +0000" stop="20250611081000 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Long Weekends, Ep 14</title>
+</programme>
+<programme start="20250611081000 +0000" stop="20250611091000 +0000" channel="BBC Earth.mncvision">
+    <title>Australia&#039;s Sleep... S1, Ep 2</title>
+</programme>
+<programme start="20250611091000 +0000" stop="20250611100500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 2</title>
+</programme>
+<programme start="20250611100500 +0000" stop="20250611110000 +0000" channel="BBC Earth.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20250611110000 +0000" stop="20250611120000 +0000" channel="BBC Earth.mncvision">
+    <title>Australia&#039;s Sleep... S1, Ep 3</title>
+</programme>
+<programme start="20250611120000 +0000" stop="20250611130000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs S1, Ep 2</title>
+</programme>
+<programme start="20250611130000 +0000" stop="20250611135000 +0000" channel="BBC Earth.mncvision">
+    <title>Big Adv.: South America, Ep 3</title>
+</programme>
+<programme start="20250611135000 +0000" stop="20250611144000 +0000" channel="BBC Earth.mncvision">
+    <title>Where Wild Men Are S10, Ep 6</title>
+</programme>
+<programme start="20250611144000 +0000" stop="20250611154000 +0000" channel="BBC Earth.mncvision">
+    <title>Australia&#039;s Sleep... S1, Ep 3</title>
+</programme>
+<programme start="20250611154000 +0000" stop="20250611164000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs S1, Ep 2</title>
+</programme>
+<programme start="20250611164000 +0000" stop="20250610171000 +0000" channel="BBC Earth.mncvision">
+    <title>Big Adv.: South America, Ep 3</title>
+</programme>
 <programme start="20250610173000 +0000" stop="20250610182500 +0000" channel="BBC Earth HD.mncvision">
     <title>Ancient Powers S1, Ep 5</title>
 </programme>
@@ -1382,7 +1459,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250611151500 +0000" stop="20250611154500 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250610170000 +0000" stop="20250610200000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250610200000 +0000" stop="20250610220000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250610220000 +0000" stop="20250611010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611010000 +0000" stop="20250611030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611030000 +0000" stop="20250611050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611050000 +0000" stop="20250611070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611070000 +0000" stop="20250611090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611110000 +0000" stop="20250611130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611130000 +0000" stop="20250611150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250611150000 +0000" stop="20250611153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20250610170000 +0000" stop="20250610180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -8892,7 +9001,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250611163000 +0000" stop="20250610170000 +0000" channel="Studio Universal HD.mncvision">
     <title>The Paper</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250610174500 +0000" stop="20250610200400 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250610200400 +0000" stop="20250610220600 +0000" channel="Superrix.mncvision">
+    <title>The Lost Girls</title>
+</programme>
+<programme start="20250610220600 +0000" stop="20250610235600 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250610235600 +0000" stop="20250611015500 +0000" channel="Superrix.mncvision">
+    <title>Dead For A Dollar</title>
+</programme>
+<programme start="20250611015500 +0000" stop="20250611041700 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250611041700 +0000" stop="20250611063000 +0000" channel="Superrix.mncvision">
+    <title>Little Boy</title>
+</programme>
+<programme start="20250611063000 +0000" stop="20250611082600 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250611082600 +0000" stop="20250611102900 +0000" channel="Superrix.mncvision">
+    <title>Ninja: Shadow Of A Tear</title>
+</programme>
+<programme start="20250611102900 +0000" stop="20250611122700 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250611122700 +0000" stop="20250611141800 +0000" channel="Superrix.mncvision">
+    <title>Percy</title>
+</programme>
+<programme start="20250611141800 +0000" stop="20250611160700 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250611160700 +0000" stop="20250611163700 +0000" channel="Superrix.mncvision">
+    <title>Hammer</title>
+</programme>
 <programme start="20250610174500 +0000" stop="20250610200400 +0000" channel="Superrix HD.mncvision">
     <title>Platinum</title>
 </programme>
