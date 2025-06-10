@@ -5413,10 +5413,10 @@
     <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="SPOTV.starhub">
         <title>SPOTV Encore: RSL Matchweek 16</title>
     </programme>
-    <programme start="20250609180000 +0000" stop="20250609200000 +0000" channel="SPOTV.starhub">
+    <programme start="20250609180000 +0000" stop="20250609195500 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250609200000 +0000" stop="20250609220000 +0000" channel="SPOTV.starhub">
+    <programme start="20250609195500 +0000" stop="20250609220000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20250609220000 +0000" stop="20250610003000 +0000" channel="SPOTV.starhub">

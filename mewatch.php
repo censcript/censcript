@@ -124,10 +124,10 @@
     <programme start="20250610103000 +0000" stop="20250610110104 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 165</title>
     </programme>
-    <programme start="20250610110104 +0000" stop="20250610113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610110104 +0000" stop="20250610113004 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7989</title>
     </programme>
-    <programme start="20250610113000 +0000" stop="20250610123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610113004 +0000" stop="20250610123000 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 5</title>
     </programme>
     <programme start="20250610123000 +0000" stop="20250610130000 +0000" channel="Channel 5.mewatch">
@@ -136,11 +136,8 @@
     <programme start="20250610130000 +0000" stop="20250610150000 +0000" channel="Channel 5.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 1</title>
     </programme>
-    <programme start="20250610150000 +0000" stop="20250610160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610150000 +0000" stop="20250610160013 +0000" channel="Channel 5.mewatch">
         <title>Red Eye (UK) - EP 6</title>
-    </programme>
-    <programme start="20250610160000 +0000" stop="20250610163000 +0000" channel="Channel 5.mewatch">
-        <title>Films &amp; Stars - EP 9</title>
     </programme>
     <programme start="20250609155959 +0000" stop="20250609165939 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 30</title>
@@ -373,9 +370,6 @@
     <programme start="20250609153000 +0000" stop="20250609160044 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250609160044 +0000" stop="20250610010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250610010000 +0000" stop="20250610013033 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 13</title>
     </programme>
@@ -427,7 +421,7 @@
     <programme start="20250610143000 +0000" stop="20250610153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 10</title>
     </programme>
-    <programme start="20250610153000 +0000" stop="20250610160012 +0000" channel="Suria.mewatch">
+    <programme start="20250610153000 +0000" stop="20250610160002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250610010000 +0000" stop="20250610013002 +0000" channel="Vasantham.mewatch">
@@ -487,7 +481,7 @@
     <programme start="20250610150000 +0000" stop="20250610153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 7</title>
     </programme>
-    <programme start="20250610153000 +0000" stop="20250610160248 +0000" channel="Vasantham.mewatch">
+    <programme start="20250610153000 +0000" stop="20250610160002 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250609155959 +0000" stop="20250609160314 +0000" channel="CNA.mewatch">

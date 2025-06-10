@@ -4234,7 +4234,99 @@
 <programme start="20250610160000 +0000" stop="20250610163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ketoprak Humor S5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250609170500 +0000" stop="20250609173500 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 10</title>
+</programme>
+<programme start="20250609173500 +0000" stop="20250609183000 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 105</title>
+</programme>
+<programme start="20250609183000 +0000" stop="20250609192500 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 292</title>
+</programme>
+<programme start="20250609192500 +0000" stop="20250609202000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S23, Ep 54</title>
+</programme>
+<programme start="20250609202000 +0000" stop="20250609211500 +0000" channel="History.mncvision">
+    <title>Food That Built World S4, Ep 41</title>
+</programme>
+<programme start="20250609211500 +0000" stop="20250609221000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S24, Ep 627</title>
+</programme>
+<programme start="20250609221000 +0000" stop="20250609223500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 7</title>
+</programme>
+<programme start="20250609223500 +0000" stop="20250609230500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 8</title>
+</programme>
+<programme start="20250609230500 +0000" stop="20250610000000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S23, Ep 54</title>
+</programme>
+<programme start="20250610000000 +0000" stop="20250610005500 +0000" channel="History.mncvision">
+    <title>Food That Built World S4, Ep 41</title>
+</programme>
+<programme start="20250610005500 +0000" stop="20250610012000 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 9</title>
+</programme>
+<programme start="20250610012000 +0000" stop="20250610015500 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 10</title>
+</programme>
+<programme start="20250610015500 +0000" stop="20250610025000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S24, Ep 627</title>
+</programme>
+<programme start="20250610025000 +0000" stop="20250610034500 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 105</title>
+</programme>
+<programme start="20250610034500 +0000" stop="20250610044000 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 292</title>
+</programme>
+<programme start="20250610044000 +0000" stop="20250610050500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 7</title>
+</programme>
+<programme start="20250610050500 +0000" stop="20250610053500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 8</title>
+</programme>
+<programme start="20250610053500 +0000" stop="20250610063000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S23, Ep 54</title>
+</programme>
+<programme start="20250610063000 +0000" stop="20250610072500 +0000" channel="History.mncvision">
+    <title>Pawn Stars S24, Ep 627</title>
+</programme>
+<programme start="20250610072500 +0000" stop="20250610082000 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 292</title>
+</programme>
+<programme start="20250610082000 +0000" stop="20250610092000 +0000" channel="History.mncvision">
+    <title>Food That Built World S4, Ep 41</title>
+</programme>
+<programme start="20250610092000 +0000" stop="20250610094500 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 9</title>
+</programme>
+<programme start="20250610094500 +0000" stop="20250610101500 +0000" channel="History.mncvision">
+    <title>Toys That Built World S2, Ep 10</title>
+</programme>
+<programme start="20250610101500 +0000" stop="20250610111000 +0000" channel="History.mncvision">
+    <title>The Bermuda Triangle S1, Ep 1</title>
+</programme>
+<programme start="20250610111000 +0000" stop="20250610120500 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S14, Ep 217</title>
+</programme>
+<programme start="20250610120500 +0000" stop="20250610130000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 225</title>
+</programme>
+<programme start="20250610130000 +0000" stop="20250610135500 +0000" channel="History.mncvision">
+    <title>Secret Skinwalker... S5, Ep 14</title>
+</programme>
+<programme start="20250610135500 +0000" stop="20250610145000 +0000" channel="History.mncvision">
+    <title>Holy Marvels S1, Ep 7</title>
+</programme>
+<programme start="20250610145000 +0000" stop="20250610154500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 12</title>
+</programme>
+<programme start="20250610154500 +0000" stop="20250610164000 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S10, Ep 15</title>
+</programme>
+<programme start="20250610164000 +0000" stop="20250609171000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S15, Ep 225</title>
+</programme>
 <programme start="20250609170000 +0000" stop="20250609180000 +0000" channel="HITS.mncvision">
     <title>CSI S4, Ep 16</title>
 </programme>
@@ -8315,7 +8407,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250610153000 +0000" stop="20250610160000 +0000" channel="Sportstars.mncvision">
     <title>Volleyball Nations League Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250609180000 +0000" stop="20250609181500 +0000" channel="Sportstars 2.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250609181500 +0000" stop="20250609201500 +0000" channel="Sportstars 2.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250609201500 +0000" stop="20250609210000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250609210000 +0000" stop="20250609233000 +0000" channel="Sportstars 2.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="Sportstars 2.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250610000000 +0000" stop="20250610003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250610003000 +0000" stop="20250610023000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qualifiers Road To 26</title>
+</programme>
+<programme start="20250610023000 +0000" stop="20250610030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250610030000 +0000" stop="20250610033000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250610033000 +0000" stop="20250610053000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qual.: IDN Vs JPN</title>
+</programme>
+<programme start="20250610053000 +0000" stop="20250610073000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qual.: IDN Vs BHR</title>
+</programme>
+<programme start="20250610073000 +0000" stop="20250610093000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qual.: IDN Vs CHN</title>
+</programme>
+<programme start="20250610093000 +0000" stop="20250610123000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qual.: JPN Vs IDN (L)</title>
+</programme>
+<programme start="20250610123000 +0000" stop="20250610130000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20250610130000 +0000" stop="20250610134500 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250610134500 +0000" stop="20250610160000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qual.: UZB Vs QAT (L)</title>
+</programme>
+<programme start="20250610160000 +0000" stop="20250610163000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC Asian Qual.: IRN Vs PRK (L)</title>
+</programme>
 <programme start="20250609173000 +0000" stop="20250609180000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>World Classic Sports</title>
 </programme>
@@ -8428,13 +8573,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>BRI Liga 1: PBY Vs BAL</title>
 </programme>
 <programme start="20250610160000 +0000" stop="20250610163000 +0000" channel="Sportstars 3.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20250610163000 +0000" stop="20250610164500 +0000" channel="Sportstars 3.mncvision">
-    <title>Europe</title>
-</programme>
-<programme start="20250610164500 +0000" stop="20250609171500 +0000" channel="Sportstars 3.mncvision">
-    <title>European Qual.: DEN Vs LTU (L)</title>
+    <title>Bundesliga</title>
 </programme>
 <programme start="20250609170000 +0000" stop="20250609173000 +0000" channel="sportstars 3 HD.mncvision">
     <title>The Ultimate Goals</title>
@@ -8494,13 +8633,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>BRI Liga 1: PBY Vs BAL</title>
 </programme>
 <programme start="20250610160000 +0000" stop="20250610163000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20250610163000 +0000" stop="20250610164500 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Europe</title>
-</programme>
-<programme start="20250610164500 +0000" stop="20250609171500 +0000" channel="sportstars 3 HD.mncvision">
-    <title>European Qual.: DEN Vs LTU (L)</title>
+    <title>Bundesliga</title>
 </programme>
 <programme start="20250609170000 +0000" stop="20250609173000 +0000" channel="Sportstars 4.mncvision">
     <title>The Ultimate Goals</title>
