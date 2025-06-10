@@ -2977,10 +2977,10 @@
 <programme start="20250609221500 +0000" stop="20250609224500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights KLM Open</title>
 </programme>
-<programme start="20250609224500 +0000" stop="20250610014500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250609224500 +0000" stop="20250610015000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Tenerife Women&#039;s Open, 4. Tag auf Teneriffa (Spanien)</title>
 </programme>
-<programme start="20250610014500 +0000" stop="20250610024500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250610015000 +0000" stop="20250610024500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights RBC Canadian Open</title>
 </programme>
 <programme start="20250610024500 +0000" stop="20250610031500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3205,22 +3205,25 @@
 <programme start="20250610213000 +0000" stop="20250610233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>WSL: Tottenham Hotspur - FC Chelsea, 21. Spieltag</title>
 </programme>
-<programme start="20250609233000 +0000" stop="20250610013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250609223000 +0000" stop="20250610000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - M. Arnaldi (ITA), Boss Open in Stuttgart, 1. Tag</title>
 </programme>
-<programme start="20250610013000 +0000" stop="20250610023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250610000000 +0000" stop="20250610013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
 </programme>
-<programme start="20250610023000 +0000" stop="20250610044500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250610013000 +0000" stop="20250610034500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20250610044500 +0000" stop="20250610050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250610034500 +0000" stop="20250610054500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - L. Fernandez (CAN), HSBC Championships in London (GBR), 1. Tag</title>
+</programme>
+<programme start="20250610054500 +0000" stop="20250610060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250610050000 +0000" stop="20250610070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: J. Burrage (GBR) - A Anisimova (USA), HSBC Championships in London (GBR), 1. Tag</title>
+<programme start="20250610060000 +0000" stop="20250610074000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - L. Fernandez (CAN), HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
-<programme start="20250610070000 +0000" stop="20250610090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250610074000 +0000" stop="20250610090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - M. Arnaldi (ITA), Boss Open in Stuttgart, 1. Tag</title>
 </programme>
 <programme start="20250610090000 +0000" stop="20250610170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3233,10 +3236,10 @@
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20250610190000 +0000" stop="20250610210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 2. Tag</title>
+    <title>ATP 250: J. Engel (GER) - J. Duckworth (AUS), Boss Open in Stuttgart, 2. Tag</title>
 </programme>
 <programme start="20250610210000 +0000" stop="20250610230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 2. Tag</title>
+    <title>WTA 500: E. Raducanu (GBR) - C. Bucsa (ESP), HSBC Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20250609220000 +0000" stop="20250609223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: The 109th Indianapolis 500</title>
@@ -3257,7 +3260,7 @@
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
 <programme start="20250610050000 +0000" stop="20250610070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 1. Tag</title>
+    <title>ATP 250: J.-L. Struff (GER) - M. Arnaldi (ITA), Boss Open in Stuttgart, 1. Tag</title>
 </programme>
 <programme start="20250610070000 +0000" stop="20250610090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final, Spiel 3</title>
@@ -3328,7 +3331,7 @@
 <programme start="20250610104000 +0000" stop="20250610110000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250610110000 +0000" stop="20250610180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250610110000 +0000" stop="20250610200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20250609223000 +0000" stop="20250609231500 +0000" channel="SYFY HD.skyde">
