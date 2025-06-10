@@ -2977,10 +2977,10 @@
 <programme start="20250609221500 +0000" stop="20250609224500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights KLM Open</title>
 </programme>
-<programme start="20250609224500 +0000" stop="20250610014500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250609224500 +0000" stop="20250610015000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Tenerife Women&#039;s Open, 4. Tag auf Teneriffa (Spanien)</title>
 </programme>
-<programme start="20250610014500 +0000" stop="20250610024500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250610015000 +0000" stop="20250610024500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights RBC Canadian Open</title>
 </programme>
 <programme start="20250610024500 +0000" stop="20250610031500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3331,7 +3331,7 @@
 <programme start="20250610104000 +0000" stop="20250610110000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250610110000 +0000" stop="20250610180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250610110000 +0000" stop="20250610200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20250609223000 +0000" stop="20250609231500 +0000" channel="SYFY HD.skyde">
