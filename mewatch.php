@@ -136,7 +136,7 @@
     <programme start="20250610130000 +0000" stop="20250610150000 +0000" channel="Channel 5.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 1</title>
     </programme>
-    <programme start="20250610150000 +0000" stop="20250610160013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250610150000 +0000" stop="20250610160004 +0000" channel="Channel 5.mewatch">
         <title>Red Eye (UK) - EP 6</title>
     </programme>
     <programme start="20250609155959 +0000" stop="20250609165939 +0000" channel="Channel 8.mewatch">
