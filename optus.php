@@ -1,20 +1,20 @@
-    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 103.optus">
-        <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
-    </programme>
-    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 110.optus">
-        <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
-    </programme>
-    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 107.optus">
-        <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
-    </programme>
-    <programme start="20250610183400 +0000" stop="20250610205500 +0000" channel="Optus Sport 103.optus">
+    <programme start="20250610184000 +0000" stop="20250610205500 +0000" channel="Optus Sport 103.optus">
         <title>UEFA World Cup Qualifiers - Finland v Poland</title>
     </programme>
-    <programme start="20250610184000 +0000" stop="20250610205500 +0000" channel="Optus Sport 101.optus">
+    <programme start="20250610184200 +0000" stop="20250610205500 +0000" channel="Optus Sport 101.optus">
         <title>UEFA World Cup Qualifiers - Netherlands v Malta</title>
     </programme>
-    <programme start="20250610184000 +0000" stop="20250610205500 +0000" channel="Optus Sport 109.optus">
+    <programme start="20250610184200 +0000" stop="20250610205500 +0000" channel="Optus Sport 105.optus">
+        <title>UEFA World Cup Qualifiers - Serbia v Andorra</title>
+    </programme>
+    <programme start="20250610184200 +0000" stop="20250610205500 +0000" channel="Optus Sport 110.optus">
+        <title>UEFA World Cup Qualifiers - Latvia v Albania</title>
+    </programme>
+    <programme start="20250610184200 +0000" stop="20250610205500 +0000" channel="Optus Sport 109.optus">
         <title>UEFA World Cup Qualifiers - San Marino v Austria</title>
+    </programme>
+    <programme start="20250610184200 +0000" stop="20250610205500 +0000" channel="Optus Sport 107.optus">
+        <title>UEFA World Cup Qualifiers - Romania v Cyprus</title>
     </programme>
     <programme start="20250611170000 +0000" stop="20250611173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Ruben Dias</title>
