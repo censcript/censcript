@@ -3736,10 +3736,10 @@
 <programme start="20250610061000 +0000" stop="20250610074000 +0000" channel="Warner TV Film.skyde">
     <title>Den Hals in der Schlinge</title>
 </programme>
-<programme start="20250610074000 +0000" stop="20250610091500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250610074000 +0000" stop="20250610091000 +0000" channel="Warner TV Film.skyde">
     <title>Westworld</title>
 </programme>
-<programme start="20250610091500 +0000" stop="20250610111000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250610091000 +0000" stop="20250610111000 +0000" channel="Warner TV Film.skyde">
     <title>Coma</title>
 </programme>
 <programme start="20250610111000 +0000" stop="20250610125000 +0000" channel="Warner TV Film.skyde">
@@ -3757,7 +3757,7 @@
 <programme start="20250610181500 +0000" stop="20250610201500 +0000" channel="Warner TV Film.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
-<programme start="20250610201500 +0000" stop="20250610223500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250610201500 +0000" stop="20250610223000 +0000" channel="Warner TV Film.skyde">
     <title>The Rock - Entscheidung auf Alcatraz</title>
 </programme>
 <programme start="20250609233000 +0000" stop="20250610010000 +0000" channel="Warner TV Film HD.skyde">
@@ -3775,10 +3775,10 @@
 <programme start="20250610061000 +0000" stop="20250610074000 +0000" channel="Warner TV Film HD.skyde">
     <title>Den Hals in der Schlinge</title>
 </programme>
-<programme start="20250610074000 +0000" stop="20250610091500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250610074000 +0000" stop="20250610091000 +0000" channel="Warner TV Film HD.skyde">
     <title>Westworld</title>
 </programme>
-<programme start="20250610091500 +0000" stop="20250610111000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250610091000 +0000" stop="20250610111000 +0000" channel="Warner TV Film HD.skyde">
     <title>Coma</title>
 </programme>
 <programme start="20250610111000 +0000" stop="20250610125000 +0000" channel="Warner TV Film HD.skyde">
@@ -3796,7 +3796,7 @@
 <programme start="20250610181500 +0000" stop="20250610201500 +0000" channel="Warner TV Film HD.skyde">
     <title>Das A-Team - Der Film</title>
 </programme>
-<programme start="20250610201500 +0000" stop="20250610223500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250610201500 +0000" stop="20250610223000 +0000" channel="Warner TV Film HD.skyde">
     <title>The Rock - Entscheidung auf Alcatraz</title>
 </programme>
 <programme start="20250609231500 +0000" stop="20250609235500 +0000" channel="Warner TV Serie HD.skyde">
