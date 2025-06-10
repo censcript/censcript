@@ -6323,43 +6323,40 @@
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20250609203000 +0000" stop="20250609213000 +0000" channel="Music TV.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20250609213000 +0000" stop="20250609223000 +0000" channel="Music TV.mncvision">
     <title>Juke Box</title>
 </programme>
-<programme start="20250609223000 +0000" stop="20250609230000 +0000" channel="Music TV.mncvision">
-    <title>The Famous</title>
+<programme start="20250609213000 +0000" stop="20250609223000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
 </programme>
-<programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="Music TV.mncvision">
-    <title>XOXO</title>
-</programme>
-<programme start="20250609233000 +0000" stop="20250610003000 +0000" channel="Music TV.mncvision">
-    <title>#ThrowbackTime</title>
-</programme>
-<programme start="20250610003000 +0000" stop="20250610020000 +0000" channel="Music TV.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20250610020000 +0000" stop="20250610030000 +0000" channel="Music TV.mncvision">
-    <title>The Famous</title>
-</programme>
-<programme start="20250610030000 +0000" stop="20250610040000 +0000" channel="Music TV.mncvision">
-    <title>K-Hits Ultimate Bias</title>
-</programme>
-<programme start="20250610040000 +0000" stop="20250610044500 +0000" channel="Music TV.mncvision">
+<programme start="20250609223000 +0000" stop="20250609233000 +0000" channel="Music TV.mncvision">
     <title>One Hour With Local</title>
 </programme>
-<programme start="20250610044500 +0000" stop="20250610054500 +0000" channel="Music TV.mncvision">
+<programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="Music TV.mncvision">
+    <title>XOXO</title>
+</programme>
+<programme start="20250610000000 +0000" stop="20250610010000 +0000" channel="Music TV.mncvision">
+    <title>#ThrowbackTime</title>
+</programme>
+<programme start="20250610010000 +0000" stop="20250610023000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250610023000 +0000" stop="20250610033000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20250610033000 +0000" stop="20250610041500 +0000" channel="Music TV.mncvision">
+    <title>One Hour With Local</title>
+</programme>
+<programme start="20250610041500 +0000" stop="20250610054500 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20250610054500 +0000" stop="20250610063000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
 <programme start="20250610063000 +0000" stop="20250610073000 +0000" channel="Music TV.mncvision">
-    <title>Berpacu Dalam Melodi</title>
+    <title>Hidden Talent</title>
 </programme>
 <programme start="20250610073000 +0000" stop="20250610100000 +0000" channel="Music TV.mncvision">
-    <title>Indonesian Idol X</title>
+    <title>Indonesian Idol XI</title>
 </programme>
 <programme start="20250610100000 +0000" stop="20250610110000 +0000" channel="Music TV.mncvision">
     <title>Seoultrack</title>
@@ -6374,55 +6371,52 @@
     <title>Musik Asyik</title>
 </programme>
 <programme start="20250610140000 +0000" stop="20250610153000 +0000" channel="Music TV.mncvision">
-    <title>Mega Konser</title>
+    <title>Mega Konser: Raisa X Isyana</title>
 </programme>
 <programme start="20250610153000 +0000" stop="20250610163000 +0000" channel="Music TV.mncvision">
-    <title>Rindu Bilang Sayang</title>
+    <title>Romansa Kampung Dangdut</title>
 </programme>
 <programme start="20250610163000 +0000" stop="20250609170000 +0000" channel="Music TV.mncvision">
-    <title>Indonesian Idol X</title>
+    <title>Indonesian Idol XI</title>
 </programme>
 <programme start="20250609190000 +0000" stop="20250609203000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20250609203000 +0000" stop="20250609213000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20250609213000 +0000" stop="20250609223000 +0000" channel="Music TV HD.mncvision">
     <title>Juke Box</title>
 </programme>
-<programme start="20250609223000 +0000" stop="20250609230000 +0000" channel="Music TV HD.mncvision">
-    <title>The Famous</title>
+<programme start="20250609213000 +0000" stop="20250609223000 +0000" channel="Music TV HD.mncvision">
+    <title>K-Hits</title>
 </programme>
-<programme start="20250609230000 +0000" stop="20250609233000 +0000" channel="Music TV HD.mncvision">
-    <title>XOXO</title>
-</programme>
-<programme start="20250609233000 +0000" stop="20250610003000 +0000" channel="Music TV HD.mncvision">
-    <title>#ThrowbackTime</title>
-</programme>
-<programme start="20250610003000 +0000" stop="20250610020000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20250610020000 +0000" stop="20250610030000 +0000" channel="Music TV HD.mncvision">
-    <title>The Famous</title>
-</programme>
-<programme start="20250610030000 +0000" stop="20250610040000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits Ultimate Bias</title>
-</programme>
-<programme start="20250610040000 +0000" stop="20250610044500 +0000" channel="Music TV HD.mncvision">
+<programme start="20250609223000 +0000" stop="20250609233000 +0000" channel="Music TV HD.mncvision">
     <title>One Hour With Local</title>
 </programme>
-<programme start="20250610044500 +0000" stop="20250610054500 +0000" channel="Music TV HD.mncvision">
+<programme start="20250609233000 +0000" stop="20250610000000 +0000" channel="Music TV HD.mncvision">
+    <title>XOXO</title>
+</programme>
+<programme start="20250610000000 +0000" stop="20250610010000 +0000" channel="Music TV HD.mncvision">
+    <title>#ThrowbackTime</title>
+</programme>
+<programme start="20250610010000 +0000" stop="20250610023000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250610023000 +0000" stop="20250610033000 +0000" channel="Music TV HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20250610033000 +0000" stop="20250610041500 +0000" channel="Music TV HD.mncvision">
+    <title>One Hour With Local</title>
+</programme>
+<programme start="20250610041500 +0000" stop="20250610054500 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20250610054500 +0000" stop="20250610063000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
 <programme start="20250610063000 +0000" stop="20250610073000 +0000" channel="Music TV HD.mncvision">
-    <title>Berpacu Dalam Melodi</title>
+    <title>Hidden Talent</title>
 </programme>
 <programme start="20250610073000 +0000" stop="20250610100000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol X</title>
+    <title>Indonesian Idol XI</title>
 </programme>
 <programme start="20250610100000 +0000" stop="20250610110000 +0000" channel="Music TV HD.mncvision">
     <title>Seoultrack</title>
@@ -6437,13 +6431,13 @@
     <title>Musik Asyik</title>
 </programme>
 <programme start="20250610140000 +0000" stop="20250610153000 +0000" channel="Music TV HD.mncvision">
-    <title>Mega Konser</title>
+    <title>Mega Konser: Raisa X Isyana</title>
 </programme>
 <programme start="20250610153000 +0000" stop="20250610163000 +0000" channel="Music TV HD.mncvision">
-    <title>Rindu Bilang Sayang</title>
+    <title>Romansa Kampung Dangdut</title>
 </programme>
 <programme start="20250610163000 +0000" stop="20250609170000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol X</title>
+    <title>Indonesian Idol XI</title>
 </programme>
 <programme start="20250609171500 +0000" stop="20250609191500 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah (L)</title>
