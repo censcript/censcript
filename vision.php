@@ -502,6 +502,9 @@
 <programme start="20250610050000 +0000" stop="20250610054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20250610054500 +0000" stop="20250610063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20250610063000 +0000" stop="20250610071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>Dunia Binatang</title>
 </programme>
 <programme start="20250610000000 +0000" stop="20250610010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250610010000 +0000" stop="20250610020000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
