@@ -1,6 +1,3 @@
-    <programme start="20250611170000 +0000" stop="20250611173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Ruben Dias</title>
-    </programme>
     <programme start="20250612133000 +0000" stop="20250612143000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Originals: Masterclass Special</title>
     </programme>
