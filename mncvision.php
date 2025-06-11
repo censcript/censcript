@@ -1114,14 +1114,11 @@
 <programme start="20250611083000 +0000" stop="20250611100000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
-<programme start="20250611100000 +0000" stop="20250611110000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250611100000 +0000" stop="20250611113000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250611113000 +0000" stop="20250611123000 +0000" channel="beIN Sports 1.mncvision">
     <title>SailGP S5 Highlights: New York</title>
-</programme>
-<programme start="20250611110000 +0000" stop="20250611120000 +0000" channel="beIN Sports 1.mncvision">
-    <title>UCL Magazine Show 2024/25</title>
-</programme>
-<programme start="20250611120000 +0000" stop="20250611123000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Premier Padel Highlights 2025</title>
 </programme>
 <programme start="20250611123000 +0000" stop="20250611130000 +0000" channel="beIN Sports 1.mncvision">
     <title>FastZone 2025, Ep 9</title>
@@ -1183,14 +1180,11 @@
 <programme start="20250611083000 +0000" stop="20250611100000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
-<programme start="20250611100000 +0000" stop="20250611110000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250611100000 +0000" stop="20250611113000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250611113000 +0000" stop="20250611123000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>SailGP S5 Highlights: New York</title>
-</programme>
-<programme start="20250611110000 +0000" stop="20250611120000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>UCL Magazine Show 2024/25</title>
-</programme>
-<programme start="20250611120000 +0000" stop="20250611123000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
 </programme>
 <programme start="20250611123000 +0000" stop="20250611130000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FastZone 2025, Ep 9</title>
@@ -1228,17 +1222,14 @@
 <programme start="20250611033000 +0000" stop="20250611050000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Den Bosch</title>
 </programme>
-<programme start="20250611050000 +0000" stop="20250611053000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 22</title>
+<programme start="20250611050000 +0000" stop="20250611060000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Roland Garros Highlights 2025</title>
 </programme>
-<programme start="20250611053000 +0000" stop="20250611070000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Den Bosch</title>
+<programme start="20250611060000 +0000" stop="20250611073000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Stuttgart</title>
 </programme>
-<programme start="20250611070000 +0000" stop="20250611083000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Den Bosch</title>
-</programme>
-<programme start="20250611083000 +0000" stop="20250611090000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 22</title>
+<programme start="20250611073000 +0000" stop="20250611090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Stuttgart</title>
 </programme>
 <programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
@@ -1276,17 +1267,14 @@
 <programme start="20250611033000 +0000" stop="20250611050000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Den Bosch</title>
 </programme>
-<programme start="20250611050000 +0000" stop="20250611053000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 22</title>
+<programme start="20250611050000 +0000" stop="20250611060000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros Highlights 2025</title>
 </programme>
-<programme start="20250611053000 +0000" stop="20250611070000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Den Bosch</title>
+<programme start="20250611060000 +0000" stop="20250611073000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Stuttgart</title>
 </programme>
-<programme start="20250611070000 +0000" stop="20250611083000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Den Bosch</title>
-</programme>
-<programme start="20250611083000 +0000" stop="20250611090000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 22</title>
+<programme start="20250611073000 +0000" stop="20250611090000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Stuttgart</title>
 </programme>
 <programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
@@ -1345,13 +1333,13 @@
 <programme start="20250611083000 +0000" stop="20250611090000 +0000" channel="beIN Sports 3.mncvision">
     <title>Mini Match UECL: LEG Vs CHE</title>
 </programme>
-<programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250611090000 +0000" stop="20250611100000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
 </programme>
-<programme start="20250611110000 +0000" stop="20250611130000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250611100000 +0000" stop="20250611120000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
 </programme>
-<programme start="20250611130000 +0000" stop="20250611140000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250611120000 +0000" stop="20250611140000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
 </programme>
 <programme start="20250611140000 +0000" stop="20250611160000 +0000" channel="beIN Sports 3.mncvision">
@@ -1408,13 +1396,13 @@
 <programme start="20250611083000 +0000" stop="20250611090000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Mini Match UECL: LEG Vs CHE</title>
 </programme>
-<programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250611090000 +0000" stop="20250611100000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
 </programme>
-<programme start="20250611110000 +0000" stop="20250611130000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250611100000 +0000" stop="20250611120000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
 </programme>
-<programme start="20250611130000 +0000" stop="20250611140000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250611120000 +0000" stop="20250611140000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
 </programme>
 <programme start="20250611140000 +0000" stop="20250611160000 +0000" channel="beIN Sports 3 HD.mncvision">
@@ -4768,10 +4756,336 @@
 <programme start="20250611150000 +0000" stop="20250611153000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250610180000 +0000" stop="20250610183000 +0000" channel="iNews.mncvision">
+    <title>Highlight Formula E: Shanghai</title>
+</programme>
+<programme start="20250610183000 +0000" stop="20250610204500 +0000" channel="iNews.mncvision">
+    <title>European Qual.: NED Vs MLT (L)</title>
+</programme>
+<programme start="20250610204500 +0000" stop="20250610210000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250610210000 +0000" stop="20250610211500 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250610211500 +0000" stop="20250610230000 +0000" channel="iNews.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20250610230000 +0000" stop="20250610230200 +0000" channel="iNews.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250610230200 +0000" stop="20250610233000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20250610233000 +0000" stop="20250611000000 +0000" channel="iNews.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250611000000 +0000" stop="20250611020000 +0000" channel="iNews.mncvision">
+    <title>World Cup Qual.: ARG Vs COL (L)</title>
+</programme>
+<programme start="20250611020000 +0000" stop="20250611023000 +0000" channel="iNews.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20250611023000 +0000" stop="20250611040000 +0000" channel="iNews.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20250611040000 +0000" stop="20250611060000 +0000" channel="iNews.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20250611060000 +0000" stop="20250611063000 +0000" channel="iNews.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20250611063000 +0000" stop="20250611070000 +0000" channel="iNews.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20250611070000 +0000" stop="20250611083000 +0000" channel="iNews.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20250611083000 +0000" stop="20250611100000 +0000" channel="iNews.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20250611100000 +0000" stop="20250611120000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20250611120000 +0000" stop="20250611140000 +0000" channel="iNews.mncvision">
+    <title>Rakyat Bersuara (L)</title>
+</programme>
+<programme start="20250611140000 +0000" stop="20250611150000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20250611150000 +0000" stop="20250611153000 +0000" channel="iNews.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20250611153000 +0000" stop="20250611160000 +0000" channel="iNews.mncvision">
+    <title>AFC Asian Qual.: JPN Vs IDN</title>
+</programme>
+<programme start="20250610180000 +0000" stop="20250610183000 +0000" channel="iNews HD.mncvision">
+    <title>Highlight Formula E: Shanghai</title>
+</programme>
+<programme start="20250610183000 +0000" stop="20250610204500 +0000" channel="iNews HD.mncvision">
+    <title>European Qual.: NED Vs MLT (L)</title>
+</programme>
+<programme start="20250610204500 +0000" stop="20250610210000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250610210000 +0000" stop="20250610211500 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250610211500 +0000" stop="20250610230000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20250610230000 +0000" stop="20250610230200 +0000" channel="iNews HD.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250610230200 +0000" stop="20250610233000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20250610233000 +0000" stop="20250611000000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250611000000 +0000" stop="20250611020000 +0000" channel="iNews HD.mncvision">
+    <title>World Cup Qual.: ARG Vs COL (L)</title>
+</programme>
+<programme start="20250611020000 +0000" stop="20250611023000 +0000" channel="iNews HD.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20250611023000 +0000" stop="20250611040000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20250611040000 +0000" stop="20250611060000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20250611060000 +0000" stop="20250611063000 +0000" channel="iNews HD.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20250611063000 +0000" stop="20250611070000 +0000" channel="iNews HD.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20250611070000 +0000" stop="20250611083000 +0000" channel="iNews HD.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20250611083000 +0000" stop="20250611100000 +0000" channel="iNews HD.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20250611100000 +0000" stop="20250611120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20250611120000 +0000" stop="20250611140000 +0000" channel="iNews HD.mncvision">
+    <title>Rakyat Bersuara (L)</title>
+</programme>
+<programme start="20250611140000 +0000" stop="20250611150000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20250611150000 +0000" stop="20250611153000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20250611153000 +0000" stop="20250611160000 +0000" channel="iNews HD.mncvision">
+    <title>AFC Asian Qual.: JPN Vs IDN</title>
+</programme>
+<programme start="20250610230000 +0000" stop="20250610233000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20250610233000 +0000" stop="20250611000000 +0000" channel="JAKTV.mncvision">
+    <title>Creative Talk</title>
+</programme>
+<programme start="20250611000000 +0000" stop="20250611003000 +0000" channel="JAKTV.mncvision">
+    <title>Jendela Sarawak</title>
+</programme>
+<programme start="20250611003000 +0000" stop="20250611010000 +0000" channel="JAKTV.mncvision">
+    <title>Jendela Sarawak</title>
+</programme>
+<programme start="20250611010000 +0000" stop="20250611020000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20250611020000 +0000" stop="20250611030000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20250611030000 +0000" stop="20250611033000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
+</programme>
+<programme start="20250611033000 +0000" stop="20250611040000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20250611040000 +0000" stop="20250611043000 +0000" channel="JAKTV.mncvision">
+    <title>Jendela Sarawak</title>
+</programme>
+<programme start="20250611043000 +0000" stop="20250611050000 +0000" channel="JAKTV.mncvision">
+    <title>Jendela Sarawak</title>
+</programme>
+<programme start="20250611050000 +0000" stop="20250611060000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20250611060000 +0000" stop="20250611070000 +0000" channel="JAKTV.mncvision">
+    <title>Berkah Shop</title>
+</programme>
+<programme start="20250611070000 +0000" stop="20250611073000 +0000" channel="JAKTV.mncvision">
+    <title>Noice</title>
+</programme>
+<programme start="20250611073000 +0000" stop="20250611080000 +0000" channel="JAKTV.mncvision">
+    <title>Retro Hour</title>
+</programme>
+<programme start="20250611080000 +0000" stop="20250611090000 +0000" channel="JAKTV.mncvision">
+    <title>Berkah Shop</title>
+</programme>
+<programme start="20250611090000 +0000" stop="20250611100000 +0000" channel="JAKTV.mncvision">
+    <title>Klinik Nurhidayah</title>
+</programme>
+<programme start="20250611100000 +0000" stop="20250611110000 +0000" channel="JAKTV.mncvision">
+    <title>Herbates</title>
+</programme>
+<programme start="20250611110000 +0000" stop="20250611113000 +0000" channel="JAKTV.mncvision">
+    <title>Muslimpedia</title>
+</programme>
+<programme start="20250611113000 +0000" stop="20250611120000 +0000" channel="JAKTV.mncvision">
+    <title>Jendela Sarawak</title>
+</programme>
+<programme start="20250611120000 +0000" stop="20250611123000 +0000" channel="JAKTV.mncvision">
+    <title>Creative Talk</title>
+</programme>
+<programme start="20250611123000 +0000" stop="20250611130000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20250611130000 +0000" stop="20250611140000 +0000" channel="JAKTV.mncvision">
+    <title>Herbates</title>
+</programme>
+<programme start="20250611140000 +0000" stop="20250611143000 +0000" channel="JAKTV.mncvision">
+    <title>Jendela Sarawak</title>
+</programme>
+<programme start="20250611143000 +0000" stop="20250611150000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
+</programme>
+<programme start="20250611150000 +0000" stop="20250611160000 +0000" channel="JAKTV.mncvision">
+    <title>Kabar Misteri</title>
+</programme>
+<programme start="20250611160000 +0000" stop="20250611163000 +0000" channel="JAKTV.mncvision">
+    <title>Mirror Story</title>
+</programme>
+<programme start="20250611163000 +0000" stop="20250610170000 +0000" channel="JAKTV.mncvision">
+    <title>Retro Hour</title>
+</programme>
+<programme start="20250610170000 +0000" stop="20250610173000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250610173000 +0000" stop="20250610180000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250610180000 +0000" stop="20250610185000 +0000" channel="Kids TV.mncvision">
+    <title>Kun Anta Mendadak Santri</title>
+</programme>
+<programme start="20250610185000 +0000" stop="20250610190000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250610190000 +0000" stop="20250610193000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250610193000 +0000" stop="20250610200000 +0000" channel="Kids TV.mncvision">
+    <title>Cat &amp; Ket</title>
+</programme>
+<programme start="20250610200000 +0000" stop="20250610203000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250610203000 +0000" stop="20250610210000 +0000" channel="Kids TV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250610210000 +0000" stop="20250610213000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250610213000 +0000" stop="20250610220000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250610220000 +0000" stop="20250610223000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250610223000 +0000" stop="20250610230000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250610230000 +0000" stop="20250610235000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250610235000 +0000" stop="20250611000000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250611000000 +0000" stop="20250611003000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250611003000 +0000" stop="20250611010000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250611010000 +0000" stop="20250611030000 +0000" channel="Kids TV.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20250611030000 +0000" stop="20250611033000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250611033000 +0000" stop="20250611040000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250611040000 +0000" stop="20250611043000 +0000" channel="Kids TV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250611043000 +0000" stop="20250611050000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250611050000 +0000" stop="20250611053000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250611053000 +0000" stop="20250611060000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250611060000 +0000" stop="20250611063000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250611063000 +0000" stop="20250611070000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250611070000 +0000" stop="20250611073000 +0000" channel="Kids TV.mncvision">
+    <title>Cat &amp; Ket</title>
+</programme>
+<programme start="20250611073000 +0000" stop="20250611082000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250611082000 +0000" stop="20250611083000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250611083000 +0000" stop="20250611092000 +0000" channel="Kids TV.mncvision">
+    <title>Kun Anta Mendadak Santri</title>
+</programme>
+<programme start="20250611092000 +0000" stop="20250611093000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
+<programme start="20250611093000 +0000" stop="20250611100000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20250611100000 +0000" stop="20250611101500 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20250611101500 +0000" stop="20250611120000 +0000" channel="Kids TV.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20250611120000 +0000" stop="20250611123000 +0000" channel="Kids TV.mncvision">
+    <title>Rat A Tat</title>
+</programme>
+<programme start="20250611123000 +0000" stop="20250611130000 +0000" channel="Kids TV.mncvision">
+    <title>Om Nom Stories</title>
+</programme>
+<programme start="20250611130000 +0000" stop="20250611133000 +0000" channel="Kids TV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250611133000 +0000" stop="20250611140000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom</title>
+</programme>
+<programme start="20250611140000 +0000" stop="20250611143000 +0000" channel="Kids TV.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250611143000 +0000" stop="20250611160000 +0000" channel="Kids TV.mncvision">
+    <title>Kids Movie Special</title>
+</programme>
+<programme start="20250611160000 +0000" stop="20250611165000 +0000" channel="Kids TV.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250611165000 +0000" stop="20250610172000 +0000" channel="Kids TV.mncvision">
+    <title>Little Baby Bum</title>
+</programme>
 <programme start="20250610170000 +0000" stop="20250610173000 +0000" channel="Kids TV HD.mncvision">
     <title>Entong Animasi</title>
 </programme>
@@ -7415,7 +7729,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250611161500 +0000" stop="20250611164500 +0000" channel="RCTI HD.mncvision">
     <title>Ratu Pete Ratu Dihatiku</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250610173000 +0000" stop="20250610192500 +0000" channel="Rock Action.mncvision">
+    <title>Chappie</title>
+</programme>
+<programme start="20250610192500 +0000" stop="20250610214500 +0000" channel="Rock Action.mncvision">
+    <title>Minority Report</title>
+</programme>
+<programme start="20250610214500 +0000" stop="20250610232500 +0000" channel="Rock Action.mncvision">
+    <title>Heist</title>
+</programme>
+<programme start="20250610232500 +0000" stop="20250611012500 +0000" channel="Rock Action.mncvision">
+    <title>xXx</title>
+</programme>
+<programme start="20250611012500 +0000" stop="20250611032000 +0000" channel="Rock Action.mncvision">
+    <title>TMNT: Out Of The Shadows</title>
+</programme>
+<programme start="20250611032000 +0000" stop="20250611054000 +0000" channel="Rock Action.mncvision">
+    <title>Minority Report</title>
+</programme>
+<programme start="20250611054000 +0000" stop="20250611075000 +0000" channel="Rock Action.mncvision">
+    <title>The Woman King</title>
+</programme>
+<programme start="20250611075000 +0000" stop="20250611094500 +0000" channel="Rock Action.mncvision">
+    <title>Passengers</title>
+</programme>
+<programme start="20250611094500 +0000" stop="20250611111500 +0000" channel="Rock Action.mncvision">
+    <title>Peter Rabbit</title>
+</programme>
+<programme start="20250611111500 +0000" stop="20250611125500 +0000" channel="Rock Action.mncvision">
+    <title>Heist</title>
+</programme>
+<programme start="20250611125500 +0000" stop="20250611145500 +0000" channel="Rock Action.mncvision">
+    <title>The Brothers Grimm</title>
+</programme>
+<programme start="20250611145500 +0000" stop="20250611163500 +0000" channel="Rock Action.mncvision">
+    <title>War</title>
+</programme>
+<programme start="20250611163500 +0000" stop="20250610170500 +0000" channel="Rock Action.mncvision">
+    <title>xXx</title>
+</programme>
 <programme start="20250610172500 +0000" stop="20250610181000 +0000" channel="Rock Entertainment.mncvision">
     <title>NCIS S22, Ep 9</title>
 </programme>

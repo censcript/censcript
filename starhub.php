@@ -2092,17 +2092,17 @@
     <programme start="20250611071000 +0000" stop="20250611090000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Olympiacos vs Bodo/Glimt - RD 16,2nd Leg</title>
     </programme>
-    <programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN Sports 3.starhub">
-        <title>Den Bosch Day 3 Match 1</title>
+    <programme start="20250611090000 +0000" stop="20250611100000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Den Bosch Day 3 Thompson v Diallo (Live)</title>
     </programme>
-    <programme start="20250611110000 +0000" stop="20250611130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Den Bosch Day 3 Match 2</title>
+    <programme start="20250611100000 +0000" stop="20250611120000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Den Bosch Day 3 Hurkacz v Bautista Agut (Live)</title>
     </programme>
-    <programme start="20250611130000 +0000" stop="20250611140000 +0000" channel="beIN Sports 3.starhub">
-        <title>Den Bosch Day 3 Match 3</title>
+    <programme start="20250611120000 +0000" stop="20250611140000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Den Bosch Day 3 Khachanov v McDonald (Live)</title>
     </programme>
     <programme start="20250611140000 +0000" stop="20250611160000 +0000" channel="beIN Sports 3.starhub">
-        <title>Den Bosch Day 3 Match 4</title>
+        <title>ATP Tour 250 2025 Den Bosch Day 3 Djere v Lajal (Live)</title>
     </programme>
     <programme start="20250610153000 +0000" stop="20250610163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -2321,34 +2321,31 @@
         <title>ATP Tour 250 2025: Stuttgart Day 2 Match 4</title>
     </programme>
     <programme start="20250611020000 +0000" stop="20250611033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 2 Match 1</title>
+        <title>Den Bosch Day 2 Bergs v Blockx</title>
     </programme>
     <programme start="20250611033000 +0000" stop="20250611050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 2 Match 2</title>
+        <title>Den Bosch Day 2 Opelka v De Jong</title>
     </programme>
-    <programme start="20250611050000 +0000" stop="20250611053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour: This Week 2025</title>
+    <programme start="20250611050000 +0000" stop="20250611060000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Day 15</title>
     </programme>
-    <programme start="20250611053000 +0000" stop="20250611070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 2 Match 3</title>
+    <programme start="20250611060000 +0000" stop="20250611073000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Stuttgart Day 2 Shapovalov v Rinderknech</title>
     </programme>
-    <programme start="20250611070000 +0000" stop="20250611083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 2 Match 4</title>
-    </programme>
-    <programme start="20250611083000 +0000" stop="20250611090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour: This Week 2025</title>
+    <programme start="20250611073000 +0000" stop="20250611090000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Stuttgart Day 2 Monfils v Michelson</title>
     </programme>
     <programme start="20250611090000 +0000" stop="20250611110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 3 Match 1</title>
+        <title>Stuttgart Day 3 Rinderknech v Fucsovics</title>
     </programme>
     <programme start="20250611110000 +0000" stop="20250611130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 3 Match 2</title>
+        <title>Stuttgart Day 3 Shelton v Herbert</title>
     </programme>
     <programme start="20250611130000 +0000" stop="20250611150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 3 Match 3</title>
+        <title>Stuttgart Day 3 Fritz v Halys</title>
     </programme>
     <programme start="20250611150000 +0000" stop="20250611170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 3 Match 4</title>
+        <title>Stuttgart Day 3 Lehecka v Struff</title>
     </programme>
     <programme start="20250610160000 +0000" stop="20250610170000 +0000" channel="TVB Xing He.starhub">
         <title>Trimming Success</title>
@@ -3286,22 +3283,22 @@
     <programme start="20250610130000 +0000" stop="20250610172500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M63 - Mumbai Indians vs Delhi Capitals</title>
     </programme>
-    <programme start="20250610172500 +0000" stop="20250610213000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250610172500 +0000" stop="20250610210000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250610213000 +0000" stop="20250611022000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250610210000 +0000" stop="20250611015000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M64 - Gujarat Titans vs Lucknow Super Giants</title>
     </programme>
-    <programme start="20250611022000 +0000" stop="20250611070000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250611015000 +0000" stop="20250611063000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M65 - Royal Challengers Bengaluru vs Sunrisers</title>
     </programme>
-    <programme start="20250611070000 +0000" stop="20250611080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250611063000 +0000" stop="20250611073000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>The Test Within: A History of Men’s Test Cricket in South Africa</title>
     </programme>
-    <programme start="20250611080000 +0000" stop="20250611093000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250611073000 +0000" stop="20250611090000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>A Day With The Legends</title>
     </programme>
-    <programme start="20250611093000 +0000" stop="20250611180000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250611090000 +0000" stop="20250611180000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Australia vs South Africa - Day 1</title>
     </programme>
     <programme start="20250610160000 +0000" stop="20250610161500 +0000" channel="DW English HD.starhub">
@@ -7204,26 +7201,23 @@
     <programme start="20250611083000 +0000" stop="20250611100000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Italy Major Day 2 Match 2 (Live)</title>
     </programme>
-    <programme start="20250611100000 +0000" stop="20250611110000 +0000" channel="beIN Sports HD.starhub">
-        <title>Zandvoort</title>
+    <programme start="20250611100000 +0000" stop="20250611113000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Italy Major Day 2 Match 3 (Live)</title>
     </programme>
-    <programme start="20250611110000 +0000" stop="20250611120000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250611113000 +0000" stop="20250611123000 +0000" channel="beIN Sports HD.starhub">
         <title>Post Season</title>
     </programme>
-    <programme start="20250611120000 +0000" stop="20250611130000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250611123000 +0000" stop="20250611133000 +0000" channel="beIN Sports HD.starhub">
         <title>Top Goals</title>
-    </programme>
-    <programme start="20250611130000 +0000" stop="20250611133000 +0000" channel="beIN Sports HD.starhub">
-        <title>Gica Craioveanu</title>
     </programme>
     <programme start="20250611133000 +0000" stop="20250611140000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga Power 2024/25</title>
     </programme>
     <programme start="20250611140000 +0000" stop="20250611153000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Italy Major Day 2 Match 3 (Live)</title>
-    </programme>
-    <programme start="20250611153000 +0000" stop="20250611170000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Italy Major Day 2 Match 4 (Live)</title>
+    </programme>
+    <programme start="20250611153000 +0000" stop="20250611173000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Italy Major Day 2 Match 5 (Live)</title>
     </programme>
     <programme start="20250610152000 +0000" stop="20250610161500 +0000" channel="TestChannel2.starhub">
         <title>Narcotics Heroes</title>
