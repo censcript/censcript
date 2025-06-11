@@ -7216,7 +7216,7 @@
     <programme start="20250611140000 +0000" stop="20250611153000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Italy Major Day 2 Match 4 (Live)</title>
     </programme>
-    <programme start="20250611153000 +0000" stop="20250611173000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250611153000 +0000" stop="20250611183000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Italy Major Day 2 Match 5 (Live)</title>
     </programme>
     <programme start="20250610152000 +0000" stop="20250610161500 +0000" channel="TestChannel2.starhub">

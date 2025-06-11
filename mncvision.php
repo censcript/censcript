@@ -4951,11 +4951,11 @@
 <programme start="20250611140000 +0000" stop="20250611143000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
 </programme>
-<programme start="20250611143000 +0000" stop="20250611150000 +0000" channel="JAKTV.mncvision">
-    <title>Dunia Kita</title>
+<programme start="20250611143000 +0000" stop="20250611153000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
 </programme>
-<programme start="20250611150000 +0000" stop="20250611160000 +0000" channel="JAKTV.mncvision">
-    <title>Kabar Misteri</title>
+<programme start="20250611153000 +0000" stop="20250611160000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
 </programme>
 <programme start="20250611160000 +0000" stop="20250611163000 +0000" channel="JAKTV.mncvision">
     <title>Mirror Story</title>

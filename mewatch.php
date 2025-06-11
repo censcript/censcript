@@ -670,35 +670,56 @@
     <programme start="20250611160000 +0000" stop="20250612160000 +0000" channel="spl01.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250610160000 +0000" stop="20250610210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1!</title>
+    <programme start="20250610160000 +0000" stop="20250610164500 +0000" channel="now-80s.mewatch">
+        <title>Messin&#039; About On The River! - EP1</title>
     </programme>
-    <programme start="20250610210000 +0000" stop="20250610220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max!</title>
+    <programme start="20250610164500 +0000" stop="20250610170000 +0000" channel="now-80s.mewatch">
+        <title>Night Moves! - EP1</title>
     </programme>
-    <programme start="20250610220000 +0000" stop="20250610230000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250610170000 +0000" stop="20250610193500 +0000" channel="now-80s.mewatch">
+        <title>Dirty Dancing! Top 60 - EP1</title>
     </programme>
-    <programme start="20250610230000 +0000" stop="20250611000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go!</title>
+    <programme start="20250610193500 +0000" stop="20250610200000 +0000" channel="now-80s.mewatch">
+        <title>80s Dance Party Night! - EP1</title>
     </programme>
-    <programme start="20250611000000 +0000" stop="20250611040000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250610200000 +0000" stop="20250610220000 +0000" channel="now-80s.mewatch">
+        <title>Steps&#039; 25 Dance Moves Of The 80s! - EP1</title>
     </programme>
-    <programme start="20250611040000 +0000" stop="20250611050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!)</title>
+    <programme start="20250610220000 +0000" stop="20250611011500 +0000" channel="now-80s.mewatch">
+        <title>40 Big Selling No.1s Of The 80s! - EP1</title>
     </programme>
-    <programme start="20250611050000 +0000" stop="20250611100000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems!</title>
+    <programme start="20250611011500 +0000" stop="20250611020000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20250611100000 +0000" stop="20250611110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s!</title>
+    <programme start="20250611020000 +0000" stop="20250611052000 +0000" channel="now-80s.mewatch">
+        <title>40 One-Hit Wonders With Pat Sharp - EP1</title>
     </programme>
-    <programme start="20250611110000 +0000" stop="20250611160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit!</title>
+    <programme start="20250611052000 +0000" stop="20250611060000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20250611160000 +0000" stop="20250611210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night!</title>
+    <programme start="20250611060000 +0000" stop="20250611091500 +0000" channel="now-80s.mewatch">
+        <title>Never Even A Top 10! - EP1</title>
+    </programme>
+    <programme start="20250611091500 +0000" stop="20250611093000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
+    </programme>
+    <programme start="20250611093000 +0000" stop="20250611103000 +0000" channel="now-80s.mewatch">
+        <title>Dirty Dancing! Top 60 - EP1</title>
+    </programme>
+    <programme start="20250611103000 +0000" stop="20250611123500 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
+    </programme>
+    <programme start="20250611123500 +0000" stop="20250611130000 +0000" channel="now-80s.mewatch">
+        <title>Wow! What A Party! - EP1</title>
+    </programme>
+    <programme start="20250611130000 +0000" stop="20250611150000 +0000" channel="now-80s.mewatch">
+        <title>70s V 80s Dance Anthems! - EP1</title>
+    </programme>
+    <programme start="20250611150000 +0000" stop="20250611160000 +0000" channel="now-80s.mewatch">
+        <title>70s V 80s Dance Anthems! - EP1</title>
+    </programme>
+    <programme start="20250611160000 +0000" stop="20250611165000 +0000" channel="now-80s.mewatch">
+        <title>Flamin&#039; Heck! 10 Sizzling Videos - EP1</title>
     </programme>
     <programme start="20250610100000 +0000" stop="20250610200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
