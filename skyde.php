@@ -2329,85 +2329,79 @@
 <programme start="20250612212500 +0000" stop="20250612221500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Kennedy, Sinatra und die Mafia</title>
 </programme>
-<programme start="20250616222000 +0000" stop="20250616231000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250611222000 +0000" stop="20250611231000 +0000" channel="Sky Krimi HD.skyde">
     <title>Death in Paradise</title>
 </programme>
-<programme start="20250616231000 +0000" stop="20250617004500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Der Usedom-Krimi: Entführt</title>
+<programme start="20250611231000 +0000" stop="20250612004500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Unter anderen Umständen: Mutterseelenallein</title>
 </programme>
-<programme start="20250617004500 +0000" stop="20250617012500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612004500 +0000" stop="20250612012500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20250617012500 +0000" stop="20250617022500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612012500 +0000" stop="20250612022000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20250617022500 +0000" stop="20250617031000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612022000 +0000" stop="20250612030500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20250617031000 +0000" stop="20250617040500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612030500 +0000" stop="20250612035000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20250612035000 +0000" stop="20250612044500 +0000" channel="Sky Krimi HD.skyde">
     <title>Death in Paradise</title>
 </programme>
-<programme start="20250617040500 +0000" stop="20250617050000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612044500 +0000" stop="20250612054000 +0000" channel="Sky Krimi HD.skyde">
     <title>Death in Paradise</title>
 </programme>
-<programme start="20250617050000 +0000" stop="20250617055500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Raisin</title>
+<programme start="20250612054000 +0000" stop="20250612071000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Agatha Christies Hjerson</title>
 </programme>
-<programme start="20250617055500 +0000" stop="20250617064500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Raisin</title>
-</programme>
-<programme start="20250617064500 +0000" stop="20250617073500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612071000 +0000" stop="20250612080000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Stuttgart</title>
 </programme>
-<programme start="20250617073500 +0000" stop="20250617082000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612080000 +0000" stop="20250612084500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Stuttgart</title>
 </programme>
-<programme start="20250617082000 +0000" stop="20250617092000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Raisin</title>
+<programme start="20250612084500 +0000" stop="20250612101500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Agatha Christies Hjerson</title>
 </programme>
-<programme start="20250617092000 +0000" stop="20250617101500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Agatha Raisin</title>
-</programme>
-<programme start="20250617101500 +0000" stop="20250617110000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612101500 +0000" stop="20250612110000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20250617110000 +0000" stop="20250617115000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612110000 +0000" stop="20250612115000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20250617115000 +0000" stop="20250617124000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612115000 +0000" stop="20250612124000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20250617124000 +0000" stop="20250617132500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612124000 +0000" stop="20250612132500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20250617132500 +0000" stop="20250617150000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Der Usedom-Krimi: Entführt</title>
+<programme start="20250612132500 +0000" stop="20250612150000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Unter anderen Umständen: Mutterseelenallein</title>
 </programme>
-<programme start="20250617150000 +0000" stop="20250617155000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612150000 +0000" stop="20250612155000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Stuttgart</title>
 </programme>
-<programme start="20250617155000 +0000" stop="20250617163500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612155000 +0000" stop="20250612163500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Stuttgart</title>
 </programme>
-<programme start="20250617163500 +0000" stop="20250617172500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612163500 +0000" stop="20250612172500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20250617172500 +0000" stop="20250617181500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612172500 +0000" stop="20250612181500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20250617181500 +0000" stop="20250617190000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Adam Dalgliesh, Scotland Yard</title>
+<programme start="20250612181500 +0000" stop="20250612194500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Ein starkes Team: Parkplatz bitte sauber halten</title>
 </programme>
-<programme start="20250617190000 +0000" stop="20250617195000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Adam Dalgliesh, Scotland Yard</title>
-</programme>
-<programme start="20250617195000 +0000" stop="20250617204000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612194500 +0000" stop="20250612203500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20250617204000 +0000" stop="20250617213000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612203500 +0000" stop="20250612212000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20250617213000 +0000" stop="20250617222500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250612212000 +0000" stop="20250612222000 +0000" channel="Sky Krimi HD.skyde">
     <title>Death in Paradise</title>
 </programme>
 <programme start="20250611221500 +0000" stop="20250611230500 +0000" channel="Sky Nature HD.skyde">
