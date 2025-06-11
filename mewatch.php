@@ -706,26 +706,47 @@
     <programme start="20250610100000 +0000" stop="20250610200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s!</title>
     </programme>
-    <programme start="20250610200000 +0000" stop="20250610210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest!</title>
+    <programme start="20250610160000 +0000" stop="20250610182500 +0000" channel="now-70s.mewatch">
+        <title>The Complete Queen! 1972-1989 - EP1</title>
     </programme>
-    <programme start="20250610210000 +0000" stop="20250610220000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250610182500 +0000" stop="20250610203000 +0000" channel="now-70s.mewatch">
+        <title>Carol Decker&#039;s 70s Rock Gods! - EP1</title>
     </programme>
-    <programme start="20250610220000 +0000" stop="20250610230000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping</title>
+    <programme start="20250610203000 +0000" stop="20250610210000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly! - EP1</title>
     </programme>
-    <programme start="20250610230000 +0000" stop="20250611000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken!</title>
+    <programme start="20250610210000 +0000" stop="20250610232500 +0000" channel="now-70s.mewatch">
+        <title>Thirty-Three Times A Lady! - EP1</title>
     </programme>
-    <programme start="20250611000000 +0000" stop="20250611090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250610232500 +0000" stop="20250611000000 +0000" channel="now-70s.mewatch">
+        <title>Summer Loving! - EP1</title>
     </programme>
-    <programme start="20250611090000 +0000" stop="20250611100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone!</title>
+    <programme start="20250611000000 +0000" stop="20250611081000 +0000" channel="now-70s.mewatch">
+        <title>The Now 100 Of The 70s - EP1</title>
     </programme>
-    <programme start="20250611100000 +0000" stop="20250611200000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s!</title>
+    <programme start="20250611081000 +0000" stop="20250611090000 +0000" channel="now-70s.mewatch">
+        <title>The 5 O&#039;clock Groovy Zone! - EP1</title>
+    </programme>
+    <programme start="20250611090000 +0000" stop="20250611093000 +0000" channel="now-70s.mewatch">
+        <title>It Spent How Long At No.1 ?! - EP1</title>
+    </programme>
+    <programme start="20250611093000 +0000" stop="20250611103000 +0000" channel="now-70s.mewatch">
+        <title>The Complete Queen! 1972-1989 - EP1</title>
+    </programme>
+    <programme start="20250611103000 +0000" stop="20250611124500 +0000" channel="now-70s.mewatch">
+        <title>It Spent How Long At No.1 ?! - EP1</title>
+    </programme>
+    <programme start="20250611124500 +0000" stop="20250611130000 +0000" channel="now-70s.mewatch">
+        <title>1970 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250611130000 +0000" stop="20250611150000 +0000" channel="now-70s.mewatch">
+        <title>Love Is In The Air! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20250611150000 +0000" stop="20250611160000 +0000" channel="now-70s.mewatch">
+        <title>Love Is In The Air! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20250611160000 +0000" stop="20250611181000 +0000" channel="now-70s.mewatch">
+        <title>It Spent How Long At No.1 ?! - EP1</title>
     </programme>
     <programme start="20250610160000 +0000" stop="20250610220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
