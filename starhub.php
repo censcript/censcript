@@ -7903,8 +7903,11 @@
     <programme start="20250611134000 +0000" stop="20250611153000 +0000" channel="Premier Sports.starhub">
         <title>State Of Origin Queensland v New South Wales</title>
     </programme>
-    <programme start="20250611153000 +0000" stop="20250611180000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Carlton v Essendon</title>
+    <programme start="20250611153000 +0000" stop="20250611155000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Highlights Adelaide v Brisbane</title>
+    </programme>
+    <programme start="20250611155000 +0000" stop="20250611161000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Highlights Carlton v Essendon</title>
     </programme>
     <programme start="20250610143000 +0000" stop="20250610163000 +0000" channel="Hub Premier 1.starhub">
         <title>REVIEW OF THE SEASON - 2024/2025 (LIV)</title>
