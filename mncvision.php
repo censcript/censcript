@@ -1129,7 +1129,81 @@
 <programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250611170000 +0000" stop="20250611183000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250611183000 +0000" stop="20250611200000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250611200000 +0000" stop="20250611203000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250611203000 +0000" stop="20250611210000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250611210000 +0000" stop="20250611213000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250611213000 +0000" stop="20250611215000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Match HL 2024</title>
+</programme>
+<programme start="20250611215000 +0000" stop="20250611234000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UYL 2024/25: ASM Vs BAR</title>
+</programme>
+<programme start="20250611234000 +0000" stop="20250612013000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>U-17 AFCON 2025: RSA Vs EGY</title>
+</programme>
+<programme start="20250612013000 +0000" stop="20250612030000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>SailGP S5: New York</title>
+</programme>
+<programme start="20250612030000 +0000" stop="20250612033000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UCL: ASM Vs BAR</title>
+</programme>
+<programme start="20250612033000 +0000" stop="20250612040000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UCL: VFB Vs ACS</title>
+</programme>
+<programme start="20250612040000 +0000" stop="20250612043000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UEL: ROM Vs ATH</title>
+</programme>
+<programme start="20250612043000 +0000" stop="20250612053000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Ferrari Challenge Europe Race</title>
+</programme>
+<programme start="20250612053000 +0000" stop="20250612063000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Ferrari Challenge Europe Race</title>
+</programme>
+<programme start="20250612063000 +0000" stop="20250612070000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Truck Racing HL</title>
+</programme>
+<programme start="20250612070000 +0000" stop="20250612083000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250612083000 +0000" stop="20250612100000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250612100000 +0000" stop="20250612103000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 9</title>
+</programme>
+<programme start="20250612103000 +0000" stop="20250612113000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>DTM HL 2025: Zandvoort</title>
+</programme>
+<programme start="20250612113000 +0000" stop="20250612120000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>This Is Paris 2024/25, Ep 39</title>
+</programme>
+<programme start="20250612120000 +0000" stop="20250612130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>SailGP S5 Highlights: New York</title>
+</programme>
+<programme start="20250612130000 +0000" stop="20250612133000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Truck Racing HL</title>
+</programme>
+<programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 9</title>
+</programme>
+<programme start="20250612140000 +0000" stop="20250612153000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
+<programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Italy (L)</title>
+</programme>
 <programme start="20250611170000 +0000" stop="20250611172500 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Doco Shorts</title>
 </programme>
@@ -3893,10 +3967,285 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250612161500 +0000" stop="20250612164500 +0000" channel="Global Trekker.mncvision">
     <title>The Spy In The Hanoi Hilton</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250611174000 +0000" stop="20250611184000 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Presidents, Ep 4</title>
+</programme>
+<programme start="20250611184000 +0000" stop="20250611192500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 5</title>
+</programme>
+<programme start="20250611192500 +0000" stop="20250611201000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 6</title>
+</programme>
+<programme start="20250611201000 +0000" stop="20250611211500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Muhammad Ali: The Greatest</title>
+</programme>
+<programme start="20250611211500 +0000" stop="20250611220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Rock: Moving Mountains</title>
+</programme>
+<programme start="20250611220000 +0000" stop="20250611225500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Codebreaker Who Hacked Hitler</title>
+</programme>
+<programme start="20250611225500 +0000" stop="20250611235000 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Spy In The Hanoi Hilton</title>
+</programme>
+<programme start="20250611235000 +0000" stop="20250612005500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Presidents, Ep 4</title>
+</programme>
+<programme start="20250612005500 +0000" stop="20250612014500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 5</title>
+</programme>
+<programme start="20250612014500 +0000" stop="20250612023500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 6</title>
+</programme>
+<programme start="20250612023500 +0000" stop="20250612034500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Muhammad Ali: The Greatest</title>
+</programme>
+<programme start="20250612034500 +0000" stop="20250612043500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Rock: Moving Mountains</title>
+</programme>
+<programme start="20250612043500 +0000" stop="20250612055000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Manny Pacquiao: Unstoppable...</title>
+</programme>
+<programme start="20250612055000 +0000" stop="20250612064000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 5</title>
+</programme>
+<programme start="20250612064000 +0000" stop="20250612073000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Sports Detectives, Ep 6</title>
+</programme>
+<programme start="20250612073000 +0000" stop="20250612084000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Muhammad Ali: The Greatest</title>
+</programme>
+<programme start="20250612084000 +0000" stop="20250612093500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Spy In The Hanoi Hilton</title>
+</programme>
+<programme start="20250612093500 +0000" stop="20250612103000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Battle Of Midway: True Story</title>
+</programme>
+<programme start="20250612103000 +0000" stop="20250612112000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 3</title>
+</programme>
+<programme start="20250612112000 +0000" stop="20250612121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 4</title>
+</programme>
+<programme start="20250612121000 +0000" stop="20250612130000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 5</title>
+</programme>
+<programme start="20250612130000 +0000" stop="20250612135000 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Story Of Playstation</title>
+</programme>
+<programme start="20250612135000 +0000" stop="20250612144500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Story Of Nintendo</title>
+</programme>
+<programme start="20250612144500 +0000" stop="20250612161500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Gameplay: Story Of Videogame</title>
+</programme>
+<programme start="20250612161500 +0000" stop="20250612164500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Spy In The Hanoi Hilton</title>
+</programme>
+<programme start="20250611170000 +0000" stop="20250611180000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Malam</title>
+</programme>
+<programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="GTV.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250611190000 +0000" stop="20250611203000 +0000" channel="GTV.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250611203000 +0000" stop="20250611230000 +0000" channel="GTV.mncvision">
+    <title>Singkap Rahasia</title>
+</programme>
+<programme start="20250611230000 +0000" stop="20250611233000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20250611233000 +0000" stop="20250612003000 +0000" channel="GTV.mncvision">
+    <title>Thomas And Friends</title>
+</programme>
+<programme start="20250612003000 +0000" stop="20250612023000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20250612023000 +0000" stop="20250612043000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250612043000 +0000" stop="20250612060000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250612060000 +0000" stop="20250612073000 +0000" channel="GTV.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250612073000 +0000" stop="20250612081500 +0000" channel="GTV.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250612081500 +0000" stop="20250612093000 +0000" channel="GTV.mncvision">
+    <title>TV Champions</title>
+</programme>
+<programme start="20250612093000 +0000" stop="20250612110000 +0000" channel="GTV.mncvision">
+    <title>Nobita Bersama Duyung...</title>
+</programme>
+<programme start="20250612110000 +0000" stop="20250612113000 +0000" channel="GTV.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250612113000 +0000" stop="20250612123000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250612123000 +0000" stop="20250612133000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250612133000 +0000" stop="20250612150000 +0000" channel="GTV.mncvision">
+    <title>Desert Dragon</title>
+</programme>
+<programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="GTV.mncvision">
+    <title>Sword Dynasty: Treasure Of...</title>
+</programme>
+<programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="GTV.mncvision">
+    <title>Sumber Rejeki</title>
+</programme>
+<programme start="20250611170000 +0000" stop="20250611180000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Malam</title>
+</programme>
+<programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="GTV HD.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250611190000 +0000" stop="20250611203000 +0000" channel="GTV HD.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250611203000 +0000" stop="20250611230000 +0000" channel="GTV HD.mncvision">
+    <title>Singkap Rahasia</title>
+</programme>
+<programme start="20250611230000 +0000" stop="20250611233000 +0000" channel="GTV HD.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20250611233000 +0000" stop="20250612003000 +0000" channel="GTV HD.mncvision">
+    <title>Thomas And Friends</title>
+</programme>
+<programme start="20250612003000 +0000" stop="20250612023000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20250612023000 +0000" stop="20250612043000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250612043000 +0000" stop="20250612060000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250612060000 +0000" stop="20250612073000 +0000" channel="GTV HD.mncvision">
+    <title>Shaun The Sheep</title>
+</programme>
+<programme start="20250612073000 +0000" stop="20250612081500 +0000" channel="GTV HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250612081500 +0000" stop="20250612093000 +0000" channel="GTV HD.mncvision">
+    <title>TV Champions</title>
+</programme>
+<programme start="20250612093000 +0000" stop="20250612110000 +0000" channel="GTV HD.mncvision">
+    <title>Nobita Bersama Duyung...</title>
+</programme>
+<programme start="20250612110000 +0000" stop="20250612113000 +0000" channel="GTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250612113000 +0000" stop="20250612123000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250612123000 +0000" stop="20250612133000 +0000" channel="GTV HD.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250612133000 +0000" stop="20250612150000 +0000" channel="GTV HD.mncvision">
+    <title>Desert Dragon</title>
+</programme>
+<programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="GTV HD.mncvision">
+    <title>Sword Dynasty: Treasure Of...</title>
+</programme>
+<programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="GTV HD.mncvision">
+    <title>Sumber Rejeki</title>
+</programme>
+<programme start="20250611180000 +0000" stop="20250611183000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250611183000 +0000" stop="20250611190000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250611190000 +0000" stop="20250611200000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20250611200000 +0000" stop="20250611210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250611210000 +0000" stop="20250611213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250611213000 +0000" stop="20250611220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250611220000 +0000" stop="20250611223000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Duo Bocil</title>
+</programme>
+<programme start="20250611223000 +0000" stop="20250611230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250611230000 +0000" stop="20250612000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wali Sanga</title>
+</programme>
+<programme start="20250612000000 +0000" stop="20250612010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250612010000 +0000" stop="20250612030000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ketoprak Humor S5</title>
+</programme>
+<programme start="20250612030000 +0000" stop="20250612040000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wali Sanga</title>
+</programme>
+<programme start="20250612040000 +0000" stop="20250612043000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Kaca Benggala</title>
+</programme>
+<programme start="20250612043000 +0000" stop="20250612053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20250612053000 +0000" stop="20250612063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250612063000 +0000" stop="20250612070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250612070000 +0000" stop="20250612073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250612073000 +0000" stop="20250612083000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250612083000 +0000" stop="20250612090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Duo Bocil</title>
+</programme>
+<programme start="20250612090000 +0000" stop="20250612100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wali Sanga</title>
+</programme>
+<programme start="20250612100000 +0000" stop="20250612103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Kaca Benggala</title>
+</programme>
+<programme start="20250612103000 +0000" stop="20250612110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250612120000 +0000" stop="20250612123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250612123000 +0000" stop="20250612130000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Duo Bocil</title>
+</programme>
+<programme start="20250612130000 +0000" stop="20250612133000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250612140000 +0000" stop="20250612150000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ketoprak Humor S6</title>
+</programme>
 <programme start="20250611173500 +0000" stop="20250611183000 +0000" channel="History.mncvision">
     <title>Curse Of Oak Island S10, Ep 16</title>
 </programme>
@@ -3978,7 +4327,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250612164000 +0000" stop="20250611171000 +0000" channel="History.mncvision">
     <title>Greatest Of All Time S1, Ep 8</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250611170000 +0000" stop="20250611180000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 18</title>
+</programme>
+<programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 8</title>
+</programme>
+<programme start="20250611190000 +0000" stop="20250611200000 +0000" channel="HITS.mncvision">
+    <title>North And South Book S1, Ep 7</title>
+</programme>
+<programme start="20250611200000 +0000" stop="20250611210000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S2, Ep 10</title>
+</programme>
+<programme start="20250611210000 +0000" stop="20250611220000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 18</title>
+</programme>
+<programme start="20250611220000 +0000" stop="20250611230000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 8</title>
+</programme>
+<programme start="20250611230000 +0000" stop="20250612000000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S2, Ep 10</title>
+</programme>
+<programme start="20250612000000 +0000" stop="20250612010000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 18</title>
+</programme>
+<programme start="20250612010000 +0000" stop="20250612013000 +0000" channel="HITS.mncvision">
+    <title>Cheers S4, Ep 13</title>
+</programme>
+<programme start="20250612013000 +0000" stop="20250612023000 +0000" channel="HITS.mncvision">
+    <title>Charlie&#039;s Angels S4, Ep 3</title>
+</programme>
+<programme start="20250612023000 +0000" stop="20250612030000 +0000" channel="HITS.mncvision">
+    <title>I Dream Of Jeannie S4, Ep 3</title>
+</programme>
+<programme start="20250612030000 +0000" stop="20250612033000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S4, Ep 3</title>
+</programme>
+<programme start="20250612033000 +0000" stop="20250612040000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 7</title>
+</programme>
+<programme start="20250612040000 +0000" stop="20250612043000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 4</title>
+</programme>
+<programme start="20250612043000 +0000" stop="20250612053000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 8</title>
+</programme>
+<programme start="20250612053000 +0000" stop="20250612063000 +0000" channel="HITS.mncvision">
+    <title>North And South Book S1, Ep 7</title>
+</programme>
+<programme start="20250612063000 +0000" stop="20250612070000 +0000" channel="HITS.mncvision">
+    <title>Cheers S4, Ep 14</title>
+</programme>
+<programme start="20250612070000 +0000" stop="20250612080000 +0000" channel="HITS.mncvision">
+    <title>Charlie&#039;s Angels S4, Ep 4</title>
+</programme>
+<programme start="20250612080000 +0000" stop="20250612083000 +0000" channel="HITS.mncvision">
+    <title>I Dream Of Jeannie S4, Ep 4</title>
+</programme>
+<programme start="20250612083000 +0000" stop="20250612090000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S4, Ep 4</title>
+</programme>
+<programme start="20250612090000 +0000" stop="20250612100000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 18</title>
+</programme>
+<programme start="20250612100000 +0000" stop="20250612103000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 7</title>
+</programme>
+<programme start="20250612103000 +0000" stop="20250612110000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 4</title>
+</programme>
+<programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S2, Ep 11</title>
+</programme>
+<programme start="20250612120000 +0000" stop="20250612123000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 8</title>
+</programme>
+<programme start="20250612123000 +0000" stop="20250612130000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 5</title>
+</programme>
+<programme start="20250612130000 +0000" stop="20250612140000 +0000" channel="HITS.mncvision">
+    <title>CSI S4, Ep 19</title>
+</programme>
+<programme start="20250612140000 +0000" stop="20250612150000 +0000" channel="HITS.mncvision">
+    <title>The Incredible Hulk S4, Ep 9</title>
+</programme>
+<programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="HITS.mncvision">
+    <title>North And South Book S1, Ep 8</title>
+</programme>
+<programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 8</title>
+</programme>
+<programme start="20250612163000 +0000" stop="20250611170000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 5</title>
+</programme>
 <programme start="20250611201500 +0000" stop="20250611223000 +0000" channel="HITS MOVIES.mncvision">
     <title>Rocky</title>
 </programme>
