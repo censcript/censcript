@@ -1123,10 +1123,13 @@
 <programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="beIN Sports 1.mncvision">
     <title>FastZone 2025, Ep 9</title>
 </programme>
-<programme start="20250612140000 +0000" stop="20250612153000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250612140000 +0000" stop="20250612143000 +0000" channel="beIN Sports 1.mncvision">
+    <title>GP Confidential 2025, Ep 10</title>
+</programme>
+<programme start="20250612143000 +0000" stop="20250612160000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
-<programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
 <programme start="20250611170000 +0000" stop="20250611183000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -1198,10 +1201,13 @@
 <programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FastZone 2025, Ep 9</title>
 </programme>
-<programme start="20250612140000 +0000" stop="20250612153000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250612140000 +0000" stop="20250612143000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 10</title>
+</programme>
+<programme start="20250612143000 +0000" stop="20250612160000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
-<programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
 <programme start="20250611170000 +0000" stop="20250611172500 +0000" channel="beIN Sports 2.mncvision">
@@ -4076,7 +4082,7 @@
     <title>Rating 5</title>
 </programme>
 <programme start="20250612081500 +0000" stop="20250612093000 +0000" channel="GTV.mncvision">
-    <title>TV Champions</title>
+    <title>Nobita Di Planet Koya-Koya</title>
 </programme>
 <programme start="20250612093000 +0000" stop="20250612110000 +0000" channel="GTV.mncvision">
     <title>Nobita Bersama Duyung...</title>
@@ -4090,11 +4096,8 @@
 <programme start="20250612123000 +0000" stop="20250612133000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250612133000 +0000" stop="20250612150000 +0000" channel="GTV.mncvision">
-    <title>Desert Dragon</title>
-</programme>
-<programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="GTV.mncvision">
-    <title>Sword Dynasty: Treasure Of...</title>
+<programme start="20250612133000 +0000" stop="20250612160000 +0000" channel="GTV.mncvision">
+    <title>13 Hours: The Secret Soldiers</title>
 </programme>
 <programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="GTV.mncvision">
     <title>Sumber Rejeki</title>
@@ -4133,7 +4136,7 @@
     <title>Rating 5</title>
 </programme>
 <programme start="20250612081500 +0000" stop="20250612093000 +0000" channel="GTV HD.mncvision">
-    <title>TV Champions</title>
+    <title>Nobita Di Planet Koya-Koya</title>
 </programme>
 <programme start="20250612093000 +0000" stop="20250612110000 +0000" channel="GTV HD.mncvision">
     <title>Nobita Bersama Duyung...</title>
@@ -4147,11 +4150,8 @@
 <programme start="20250612123000 +0000" stop="20250612133000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250612133000 +0000" stop="20250612150000 +0000" channel="GTV HD.mncvision">
-    <title>Desert Dragon</title>
-</programme>
-<programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="GTV HD.mncvision">
-    <title>Sword Dynasty: Treasure Of...</title>
+<programme start="20250612133000 +0000" stop="20250612160000 +0000" channel="GTV HD.mncvision">
+    <title>13 Hours: The Secret Soldiers</title>
 </programme>
 <programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="GTV HD.mncvision">
     <title>Sumber Rejeki</title>
@@ -9848,7 +9848,7 @@
     <title>Bad Parenting</title>
 </programme>
 <programme start="20250612143000 +0000" stop="20250612150000 +0000" channel="Vision Prime.mncvision">
-    <title>Konon Katanya</title>
+    <title>Katanya</title>
 </programme>
 <programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="Vision Prime.mncvision">
     <title>Toonpur Ka Superhero</title>
@@ -9923,7 +9923,7 @@
     <title>Bad Parenting</title>
 </programme>
 <programme start="20250612143000 +0000" stop="20250612150000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Konon Katanya</title>
+    <title>Katanya</title>
 </programme>
 <programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="Vision Prime HD.mncvision">
     <title>Toonpur Ka Superhero</title>

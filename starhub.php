@@ -3238,10 +3238,10 @@
     <programme start="20250612140000 +0000" stop="20250612160000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Intelligence</title>
     </programme>
-    <programme start="20250611090000 +0000" stop="20250611180000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250611090000 +0000" stop="20250611173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Australia vs South Africa - Day 1</title>
     </programme>
-    <programme start="20250611180000 +0000" stop="20250611215000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250611173000 +0000" stop="20250611215000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250611215000 +0000" stop="20250611225000 +0000" channel="Hub Sports 4 HD.starhub">

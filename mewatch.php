@@ -484,25 +484,25 @@
     <programme start="20250612103015 +0000" stop="20250612110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 9</title>
     </programme>
-    <programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250612110000 +0000" stop="20250612115959 +0000" channel="Vasantham.mewatch">
         <title>Neruppuda Season 2 - EP 8</title>
     </programme>
-    <programme start="20250612120000 +0000" stop="20250612123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250612115959 +0000" stop="20250612123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 19</title>
     </programme>
     <programme start="20250612123000 +0000" stop="20250612130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250612130000 +0000" stop="20250612133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250612130000 +0000" stop="20250612132958 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 13</title>
     </programme>
-    <programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250612132958 +0000" stop="20250612140001 +0000" channel="Vasantham.mewatch">
         <title>Thayamma Yenna Kaapaathuu! - EP 13</title>
     </programme>
-    <programme start="20250612140000 +0000" stop="20250612143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250612140001 +0000" stop="20250612142959 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 10</title>
     </programme>
-    <programme start="20250612143000 +0000" stop="20250612150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250612142959 +0000" stop="20250612150000 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 11</title>
     </programme>
     <programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="Vasantham.mewatch">
