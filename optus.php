@@ -13,6 +13,9 @@
     <programme start="20250614020000 +0000" stop="20250614043000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Bay FC v Orlando Pride</title>
     </programme>
+    <programme start="20250614085500 +0000" stop="20250614111000 +0000" channel="Optus Sport 7.optus">
+        <title>J1 League - Kashima v Sanfrecce</title>
+    </programme>
     <programme start="20250614095000 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Suwon FC v Anyang</title>
     </programme>
