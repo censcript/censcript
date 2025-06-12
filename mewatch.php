@@ -118,13 +118,13 @@
     <programme start="20250612093019 +0000" stop="20250612103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S9 - EP 5</title>
     </programme>
-    <programme start="20250612103000 +0000" stop="20250612110046 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612103000 +0000" stop="20250612110016 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 167</title>
     </programme>
-    <programme start="20250612110046 +0000" stop="20250612123006 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612110016 +0000" stop="20250612123001 +0000" channel="Channel 5.mewatch">
         <title>Britain&#039;s Got Talent - Series 17 - EP 2</title>
     </programme>
-    <programme start="20250612123006 +0000" stop="20250612130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612123001 +0000" stop="20250612130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 82</title>
     </programme>
     <programme start="20250612130000 +0000" stop="20250612132959 +0000" channel="Channel 5.mewatch">
@@ -136,7 +136,7 @@
     <programme start="20250612140000 +0000" stop="20250612150036 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 10</title>
     </programme>
-    <programme start="20250612150036 +0000" stop="20250612160034 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612150036 +0000" stop="20250612160039 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 4</title>
     </programme>
     <programme start="20250611150121 +0000" stop="20250611160041 +0000" channel="Channel 8.mewatch">
