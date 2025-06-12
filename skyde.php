@@ -3427,8 +3427,11 @@
 <programme start="20250612040000 +0000" stop="20250612050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Highlights: GP Aragonien</title>
 </programme>
-<programme start="20250612050000 +0000" stop="20250612070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250612050000 +0000" stop="20250612063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - J. Lehecka (CZE), Boss Open in Stuttgart, 3. Tag</title>
+</programme>
+<programme start="20250612063000 +0000" stop="20250612070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20250612070000 +0000" stop="20250612074000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Borussia Dortmund - Saison 24-25</title>

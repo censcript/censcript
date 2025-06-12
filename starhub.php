@@ -3256,7 +3256,7 @@
     <programme start="20250612044500 +0000" stop="20250612090000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M67 - Gujarat Titans vs Chennai Super Kings</title>
     </programme>
-    <programme start="20250612090000 +0000" stop="20250612180000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250612090000 +0000" stop="20250612173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Australia vs South Africa - Day 2</title>
     </programme>
     <programme start="20250611160000 +0000" stop="20250611161500 +0000" channel="DW English HD.starhub">
