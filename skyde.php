@@ -3457,7 +3457,7 @@
 <programme start="20250612104000 +0000" stop="20250612110000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250612110000 +0000" stop="20250612190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250612110000 +0000" stop="20250612210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20250611223000 +0000" stop="20250611231500 +0000" channel="SYFY HD.skyde">
