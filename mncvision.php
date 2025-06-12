@@ -8537,19 +8537,19 @@
     <title>BRI Liga 1: PSJ Vs MLT</title>
 </programme>
 <programme start="20250612070000 +0000" stop="20250612090000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250612090000 +0000" stop="20250612110000 +0000" channel="Sportstars 3.mncvision">
     <title>Sportacular Match</title>
 </programme>
-<programme start="20250612110000 +0000" stop="20250612130000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20250612090000 +0000" stop="20250612110000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
 </programme>
-<programme start="20250612130000 +0000" stop="20250612150000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20250612110000 +0000" stop="20250612130000 +0000" channel="Sportstars 3.mncvision">
     <title>BRI Liga 1: PSM Vs TGR</title>
 </programme>
-<programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="Sportstars 3.mncvision">
+<programme start="20250612130000 +0000" stop="20250612150000 +0000" channel="Sportstars 3.mncvision">
     <title>Bundesliga</title>
+</programme>
+<programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Sportacular Match</title>
 </programme>
 <programme start="20250611170000 +0000" stop="20250611190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Sportacular Match</title>
@@ -8573,19 +8573,19 @@
     <title>BRI Liga 1: PSJ Vs MLT</title>
 </programme>
 <programme start="20250612070000 +0000" stop="20250612090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250612090000 +0000" stop="20250612110000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Sportacular Match</title>
 </programme>
-<programme start="20250612110000 +0000" stop="20250612130000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20250612090000 +0000" stop="20250612110000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
 </programme>
-<programme start="20250612130000 +0000" stop="20250612150000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20250612110000 +0000" stop="20250612130000 +0000" channel="sportstars 3 HD.mncvision">
     <title>BRI Liga 1: PSM Vs TGR</title>
 </programme>
-<programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="sportstars 3 HD.mncvision">
+<programme start="20250612130000 +0000" stop="20250612150000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Bundesliga</title>
+</programme>
+<programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Sportacular Match</title>
 </programme>
 <programme start="20250611170000 +0000" stop="20250611190000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: BFC Vs JAP</title>

@@ -127,16 +127,16 @@
     <programme start="20250612123001 +0000" stop="20250612130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 82</title>
     </programme>
-    <programme start="20250612130000 +0000" stop="20250612132959 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612130000 +0000" stop="20250612133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250612132959 +0000" stop="20250612135959 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 5</title>
     </programme>
-    <programme start="20250612135959 +0000" stop="20250612150035 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612140000 +0000" stop="20250612150036 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 10</title>
     </programme>
-    <programme start="20250612150035 +0000" stop="20250612160038 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612150036 +0000" stop="20250612160039 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 4</title>
     </programme>
     <programme start="20250611150121 +0000" stop="20250611160041 +0000" channel="Channel 8.mewatch">
@@ -361,19 +361,19 @@
     <programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 34</title>
     </programme>
-    <programme start="20250612120000 +0000" stop="20250612130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250612120000 +0000" stop="20250612130008 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 35</title>
     </programme>
-    <programme start="20250612130000 +0000" stop="20250612140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250612130008 +0000" stop="20250612140021 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 7</title>
     </programme>
-    <programme start="20250612140000 +0000" stop="20250612150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250612140021 +0000" stop="20250612150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 26</title>
     </programme>
-    <programme start="20250612150000 +0000" stop="20250612153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250612150000 +0000" stop="20250612153015 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250612153000 +0000" stop="20250612163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250612153015 +0000" stop="20250612162951 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 7</title>
     </programme>
     <programme start="20250611155949 +0000" stop="20250612010000 +0000" channel="Suria.mewatch">
