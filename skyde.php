@@ -2965,11 +2965,8 @@
 <programme start="20250612055000 +0000" stop="20250612075000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Werder Bremen - Bayer Leverkusen, tipico Topspiel der Woche, 8. Spieltag</title>
 </programme>
-<programme start="20250612075000 +0000" stop="20250612093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250612075000 +0000" stop="20250612095000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Werder Bremen  - Holstein Kiel, 10. Spieltag</title>
-</programme>
-<programme start="20250612093000 +0000" stop="20250612095000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: Die schönsten Tore: Werder Bremen</title>
 </programme>
 <programme start="20250612095000 +0000" stop="20250612102000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Keke Topp</title>
@@ -3157,19 +3154,19 @@
 <programme start="20250612060000 +0000" stop="20250612070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Rally Italia Sardegna</title>
 </programme>
-<programme start="20250612070000 +0000" stop="20250612092500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612070000 +0000" stop="20250612090000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final, Spiel 3</title>
 </programme>
-<programme start="20250612092500 +0000" stop="20250612102500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612090000 +0000" stop="20250612100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto2: Rennen - GP Aragonien</title>
 </programme>
-<programme start="20250612102500 +0000" stop="20250612111000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612100000 +0000" stop="20250612110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Aragonien</title>
 </programme>
-<programme start="20250612111000 +0000" stop="20250612121000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Aragonien</title>
 </programme>
-<programme start="20250612121000 +0000" stop="20250612130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612120000 +0000" stop="20250612130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20250612130000 +0000" stop="20250612133000 +0000" channel="Sky Sport Mix HD.skyde">
