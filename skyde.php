@@ -3205,7 +3205,13 @@
 <programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250612160000 +0000" stop="20250612181500 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250612160000 +0000" stop="20250612170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250612170000 +0000" stop="20250612173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - Die Stars der Klub-WM</title>
+</programme>
+<programme start="20250612173000 +0000" stop="20250612181500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250612181500 +0000" stop="20250612183000 +0000" channel="Sky Sport News HD.skyde">
@@ -3358,28 +3364,34 @@
 <programme start="20250612210000 +0000" stop="20250612220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (German Stars)</title>
 </programme>
-<programme start="20250611223000 +0000" stop="20250611230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250611220500 +0000" stop="20250611223500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250611230000 +0000" stop="20250612010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250611223500 +0000" stop="20250612002500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - J. Lehecka (CZE), Boss Open in Stuttgart, 3. Tag</title>
 </programme>
-<programme start="20250612010000 +0000" stop="20250612020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250612002500 +0000" stop="20250612012000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
 </programme>
-<programme start="20250612020000 +0000" stop="20250612023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250612012000 +0000" stop="20250612015000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250612023000 +0000" stop="20250612043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250612015000 +0000" stop="20250612032500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - J. Lehecka (CZE), Boss Open in Stuttgart, 3. Tag</title>
 </programme>
-<programme start="20250612043000 +0000" stop="20250612063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - K. Muchova (CZE), HSBC Championships in London (GBR), 3. Tag</title>
+<programme start="20250612032500 +0000" stop="20250612052500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Navarro (ESP) - B. Haddad Maia (BRA), HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
-<programme start="20250612063000 +0000" stop="20250612070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250612052500 +0000" stop="20250612055500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250612070000 +0000" stop="20250612090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250612055500 +0000" stop="20250612065000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Hamburg</title>
+</programme>
+<programme start="20250612065000 +0000" stop="20250612072000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250612072000 +0000" stop="20250612090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - J. Lehecka (CZE), Boss Open in Stuttgart, 3. Tag</title>
 </programme>
 <programme start="20250612090000 +0000" stop="20250612170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3389,10 +3401,10 @@
     <title>Live WTA 500: HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20250612190000 +0000" stop="20250612210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 4. Tag</title>
+    <title>ATP 250: A. Zverev (GER) - C. Moutet (FRA), Boss Open in Stuttgart, 4. Tag</title>
 </programme>
 <programme start="20250612210000 +0000" stop="20250612230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 4. Tag</title>
+    <title>WTA 500: Q. Zheng (CHN) - M. Kessler (USA), HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20250611220000 +0000" stop="20250611230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell - 1. Rennen in Brünn</title>
