@@ -232,29 +232,26 @@
     <programme start="20250612093207 +0000" stop="20250612103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 30</title>
     </programme>
-    <programme start="20250612103000 +0000" stop="20250612113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612103000 +0000" stop="20250612113030 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 53</title>
     </programme>
-    <programme start="20250612113000 +0000" stop="20250612120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612113030 +0000" stop="20250612120041 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 3</title>
     </programme>
-    <programme start="20250612120000 +0000" stop="20250612130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612120041 +0000" stop="20250612130004 +0000" channel="Channel 8.mewatch">
         <title>The Indigenous - EP 3</title>
     </programme>
-    <programme start="20250612130000 +0000" stop="20250612140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612130004 +0000" stop="20250612140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 16</title>
     </programme>
-    <programme start="20250612140000 +0000" stop="20250612143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612140000 +0000" stop="20250612143105 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250612143000 +0000" stop="20250612150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612143105 +0000" stop="20250612150056 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 8</title>
     </programme>
-    <programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250612150056 +0000" stop="20250612160001 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 14</title>
-    </programme>
-    <programme start="20250612160000 +0000" stop="20250612170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 33</title>
     </programme>
     <programme start="20250611153036 +0000" stop="20250611163032 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 5</title>
@@ -421,22 +418,22 @@
     <programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 9</title>
     </programme>
-    <programme start="20250612120000 +0000" stop="20250612123000 +0000" channel="Suria.mewatch">
+    <programme start="20250612120000 +0000" stop="20250612123005 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250612123000 +0000" stop="20250612133000 +0000" channel="Suria.mewatch">
+    <programme start="20250612123005 +0000" stop="20250612133005 +0000" channel="Suria.mewatch">
         <title>Lasak</title>
     </programme>
-    <programme start="20250612133000 +0000" stop="20250612143000 +0000" channel="Suria.mewatch">
+    <programme start="20250612133005 +0000" stop="20250612142955 +0000" channel="Suria.mewatch">
         <title>Korban S2 - EP 3</title>
     </programme>
-    <programme start="20250612143000 +0000" stop="20250612153000 +0000" channel="Suria.mewatch">
+    <programme start="20250612142955 +0000" stop="20250612153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 12</title>
     </programme>
-    <programme start="20250612153000 +0000" stop="20250612160000 +0000" channel="Suria.mewatch">
+    <programme start="20250612153000 +0000" stop="20250612155937 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250612160000 +0000" stop="20250613010000 +0000" channel="Suria.mewatch">
+    <programme start="20250612155937 +0000" stop="20250613010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250611153000 +0000" stop="20250611160002 +0000" channel="Vasantham.mewatch">
@@ -574,22 +571,22 @@
     <programme start="20250612100000 +0000" stop="20250612110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250612110000 +0000" stop="20250612120000 +0000" channel="CNA.mewatch">
+    <programme start="20250612110000 +0000" stop="20250612115959 +0000" channel="CNA.mewatch">
         <title>China &amp; The Global South S2 - EP 1</title>
     </programme>
-    <programme start="20250612120000 +0000" stop="20250612130000 +0000" channel="CNA.mewatch">
+    <programme start="20250612115959 +0000" stop="20250612125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250612130000 +0000" stop="20250612140000 +0000" channel="CNA.mewatch">
+    <programme start="20250612125959 +0000" stop="20250612140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 8</title>
     </programme>
-    <programme start="20250612140000 +0000" stop="20250612150000 +0000" channel="CNA.mewatch">
+    <programme start="20250612140000 +0000" stop="20250612150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250612150000 +0000" stop="20250612160000 +0000" channel="CNA.mewatch">
+    <programme start="20250612150105 +0000" stop="20250612160000 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 1</title>
     </programme>
-    <programme start="20250612160000 +0000" stop="20250612160300 +0000" channel="CNA.mewatch">
+    <programme start="20250612160000 +0000" stop="20250612160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250611155959 +0000" stop="20250611170011 +0000" channel="Oktolidays.mewatch">

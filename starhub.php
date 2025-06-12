@@ -7138,11 +7138,11 @@
     <programme start="20250612133000 +0000" stop="20250612140000 +0000" channel="beIN Sports HD.starhub">
         <title>This Is Paris 2024/25</title>
     </programme>
-    <programme start="20250612140000 +0000" stop="20250612153000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Italy Major Day 3 Match 3 (Live)</title>
+    <programme start="20250612140000 +0000" stop="20250612143000 +0000" channel="beIN Sports HD.starhub">
+        <title>Asuncion P2</title>
     </programme>
-    <programme start="20250612153000 +0000" stop="20250612170000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Italy Major Day 3 Match 4 (Live)</title>
+    <programme start="20250612143000 +0000" stop="20250612160000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Italy Major Day 3 Match 3 (Live)</title>
     </programme>
     <programme start="20250611152000 +0000" stop="20250611161500 +0000" channel="TestChannel2.starhub">
         <title>Narcotics Heroes</title>
