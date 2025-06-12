@@ -130,13 +130,13 @@
     <programme start="20250612130000 +0000" stop="20250612132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250612132959 +0000" stop="20250612140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612132959 +0000" stop="20250612135959 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 5</title>
     </programme>
-    <programme start="20250612140000 +0000" stop="20250612150036 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612135959 +0000" stop="20250612150035 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 10</title>
     </programme>
-    <programme start="20250612150036 +0000" stop="20250612160039 +0000" channel="Channel 5.mewatch">
+    <programme start="20250612150035 +0000" stop="20250612160038 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 4</title>
     </programme>
     <programme start="20250611150121 +0000" stop="20250611160041 +0000" channel="Channel 8.mewatch">

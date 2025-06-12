@@ -3089,7 +3089,7 @@
     <title>Bukan Talent Biasa</title>
 </programme>
 <programme start="20250612103000 +0000" stop="20250612113000 +0000" channel="Entertainment.mncvision">
-    <title>Surprise Show</title>
+    <title>Untold Story</title>
 </programme>
 <programme start="20250612113000 +0000" stop="20250612123000 +0000" channel="Entertainment.mncvision">
     <title>Mereka Ada Dimana-Mana</title>
@@ -6484,13 +6484,13 @@
 <programme start="20250612100000 +0000" stop="20250612111500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S6</title>
 </programme>
-<programme start="20250612111500 +0000" stop="20250612112200 +0000" channel="Muslim TV.mncvision">
-    <title>Ambil Jeda</title>
-</programme>
-<programme start="20250612112200 +0000" stop="20250612114500 +0000" channel="Muslim TV.mncvision">
+<programme start="20250612111500 +0000" stop="20250612114500 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
 </programme>
-<programme start="20250612114500 +0000" stop="20250612130000 +0000" channel="Muslim TV.mncvision">
+<programme start="20250612114500 +0000" stop="20250612115500 +0000" channel="Muslim TV.mncvision">
+    <title>Ambil Jeda</title>
+</programme>
+<programme start="20250612115500 +0000" stop="20250612130000 +0000" channel="Muslim TV.mncvision">
     <title>Aku Bukan Ustadz</title>
 </programme>
 <programme start="20250612130000 +0000" stop="20250612143000 +0000" channel="Muslim TV.mncvision">

@@ -8191,13 +8191,13 @@
     <programme start="20250611133000 +0000" stop="20250611163000 +0000" channel="Asianet Movies.starhub">
         <title>Baahubali 2: The Conclusion</title>
     </programme>
-    <programme start="20250611163000 +0000" stop="20250611190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250611163500 +0000" stop="20250611184500 +0000" channel="Asianet Movies.starhub">
         <title>Vellimoonga</title>
     </programme>
-    <programme start="20250611190000 +0000" stop="20250611220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250611184500 +0000" stop="20250611211500 +0000" channel="Asianet Movies.starhub">
         <title>Vismayathumbathu</title>
     </programme>
-    <programme start="20250611220000 +0000" stop="20250611233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250611211500 +0000" stop="20250611233000 +0000" channel="Asianet Movies.starhub">
         <title>42217</title>
     </programme>
     <programme start="20250611233000 +0000" stop="20250612013000 +0000" channel="Asianet Movies.starhub">
