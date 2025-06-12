@@ -1,6 +1,3 @@
-    <programme start="20250612133000 +0000" stop="20250612143000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Originals: Masterclass Special</title>
-    </programme>
     <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Gwangju v Seoul</title>
     </programme>
