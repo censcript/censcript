@@ -8203,10 +8203,10 @@
     <programme start="20250611233000 +0000" stop="20250612013000 +0000" channel="Asianet Movies.starhub">
         <title>Idukki Gold</title>
     </programme>
-    <programme start="20250612013000 +0000" stop="20250612043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250612013000 +0000" stop="20250612044500 +0000" channel="Asianet Movies.starhub">
         <title>Evidam Swargamanu</title>
     </programme>
-    <programme start="20250612043000 +0000" stop="20250612073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250612044500 +0000" stop="20250612073000 +0000" channel="Asianet Movies.starhub">
         <title>Kunjiramayanam</title>
     </programme>
     <programme start="20250612073000 +0000" stop="20250612103000 +0000" channel="Asianet Movies.starhub">

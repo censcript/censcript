@@ -1,25 +1,25 @@
-    <programme start="20250611153014 +0000" stop="20250611160019 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611153044 +0000" stop="20250611160049 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead S2 - EP 2</title>
     </programme>
-    <programme start="20250611160019 +0000" stop="20250611163048 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611160049 +0000" stop="20250611163118 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 81</title>
     </programme>
-    <programme start="20250611163048 +0000" stop="20250611173045 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611163118 +0000" stop="20250611173116 +0000" channel="Channel 5.mewatch">
         <title>Leverage: Redemption S2 - EP 7</title>
     </programme>
-    <programme start="20250611173045 +0000" stop="20250611180049 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611173116 +0000" stop="20250611180119 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7990</title>
     </programme>
-    <programme start="20250611180049 +0000" stop="20250611190031 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611180119 +0000" stop="20250611190032 +0000" channel="Channel 5.mewatch">
         <title>Raid The Cage : Season 01 - EP 6</title>
     </programme>
-    <programme start="20250611190031 +0000" stop="20250611200049 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611190032 +0000" stop="20250611200050 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S9 - EP 4</title>
     </programme>
-    <programme start="20250611200049 +0000" stop="20250611203018 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611200050 +0000" stop="20250611203019 +0000" channel="Channel 5.mewatch">
         <title>Films &amp; Stars - EP 9</title>
     </programme>
-    <programme start="20250611203018 +0000" stop="20250611210051 +0000" channel="Channel 5.mewatch">
+    <programme start="20250611203019 +0000" stop="20250611210051 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 166</title>
     </programme>
     <programme start="20250611210051 +0000" stop="20250611220000 +0000" channel="Channel 5.mewatch">
@@ -142,22 +142,22 @@
     <programme start="20250611150121 +0000" stop="20250611160041 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 13</title>
     </programme>
-    <programme start="20250611160041 +0000" stop="20250611170005 +0000" channel="Channel 8.mewatch">
+    <programme start="20250611160118 +0000" stop="20250611170041 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 32</title>
     </programme>
-    <programme start="20250611170005 +0000" stop="20250611175942 +0000" channel="Channel 8.mewatch">
+    <programme start="20250611170041 +0000" stop="20250611180018 +0000" channel="Channel 8.mewatch">
         <title>Heart Warmers - EP 3</title>
     </programme>
-    <programme start="20250611175942 +0000" stop="20250611190016 +0000" channel="Channel 8.mewatch">
+    <programme start="20250611180018 +0000" stop="20250611190022 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 37</title>
     </programme>
-    <programme start="20250611190016 +0000" stop="20250611195930 +0000" channel="Channel 8.mewatch">
+    <programme start="20250611190022 +0000" stop="20250611195937 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 38</title>
     </programme>
-    <programme start="20250611195930 +0000" stop="20250611205732 +0000" channel="Channel 8.mewatch">
+    <programme start="20250611195937 +0000" stop="20250611205739 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 27</title>
     </programme>
-    <programme start="20250611205732 +0000" stop="20250611220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250611205739 +0000" stop="20250611220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 28</title>
     </programme>
     <programme start="20250611220000 +0000" stop="20250611230005 +0000" channel="Channel 8.mewatch">
@@ -256,13 +256,13 @@
     <programme start="20250612160000 +0000" stop="20250612170000 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 33</title>
     </programme>
-    <programme start="20250611153000 +0000" stop="20250611162955 +0000" channel="Channel U.mewatch">
+    <programme start="20250611153036 +0000" stop="20250611163032 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 5</title>
     </programme>
-    <programme start="20250611162955 +0000" stop="20250611173047 +0000" channel="Channel U.mewatch">
+    <programme start="20250611163032 +0000" stop="20250611173053 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 32</title>
     </programme>
-    <programme start="20250611173047 +0000" stop="20250611220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250611173053 +0000" stop="20250611220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 33</title>
     </programme>
     <programme start="20250611220000 +0000" stop="20250612025814 +0000" channel="Channel U.mewatch">
@@ -442,9 +442,6 @@
     <programme start="20250611153000 +0000" stop="20250611160002 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250611160002 +0000" stop="20250612010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250612010000 +0000" stop="20250612013015 +0000" channel="Vasantham.mewatch">
         <title>Iyarkai Thedi S4 - EP 5</title>
     </programme>
@@ -520,25 +517,25 @@
     <programme start="20250612160000 +0000" stop="20250612163116 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250611160000 +0000" stop="20250611160315 +0000" channel="CNA.mewatch">
+    <programme start="20250611160000 +0000" stop="20250611160304 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250611160315 +0000" stop="20250611170050 +0000" channel="CNA.mewatch">
+    <programme start="20250611160304 +0000" stop="20250611170050 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
     <programme start="20250611170050 +0000" stop="20250611180000 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 4</title>
     </programme>
-    <programme start="20250611180000 +0000" stop="20250611190000 +0000" channel="CNA.mewatch">
+    <programme start="20250611180000 +0000" stop="20250611185959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250611190000 +0000" stop="20250611200002 +0000" channel="CNA.mewatch">
+    <programme start="20250611185959 +0000" stop="20250611200000 +0000" channel="CNA.mewatch">
         <title>Panda Power: Rise Of Furry Diplomats - EP 1</title>
     </programme>
-    <programme start="20250611200002 +0000" stop="20250611210002 +0000" channel="CNA.mewatch">
+    <programme start="20250611200000 +0000" stop="20250611205959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250611210002 +0000" stop="20250611213017 +0000" channel="CNA.mewatch">
+    <programme start="20250611205959 +0000" stop="20250611213017 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 2</title>
     </programme>
     <programme start="20250611213017 +0000" stop="20250611220000 +0000" channel="CNA.mewatch">
