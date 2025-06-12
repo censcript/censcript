@@ -1408,8 +1408,72 @@
 <programme start="20250613163000 +0000" stop="20250612170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Italy (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250612173000 +0000" stop="20250612200000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250612200000 +0000" stop="20250612220000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250612220000 +0000" stop="20250613010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613010000 +0000" stop="20250613030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613030000 +0000" stop="20250613050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613050000 +0000" stop="20250613070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613070000 +0000" stop="20250613090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613090000 +0000" stop="20250613110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613110000 +0000" stop="20250613130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613130000 +0000" stop="20250613150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250613150000 +0000" stop="20250613153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250612174500 +0000" stop="20250612200000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250612200000 +0000" stop="20250612220000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250612220000 +0000" stop="20250613010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613010000 +0000" stop="20250613030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613030000 +0000" stop="20250613050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613050000 +0000" stop="20250613070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613070000 +0000" stop="20250613090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613090000 +0000" stop="20250613110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613110000 +0000" stop="20250613130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613130000 +0000" stop="20250613150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250613150000 +0000" stop="20250613153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20250612170000 +0000" stop="20250612180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -1557,8 +1621,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250613160000 +0000" stop="20250613163000 +0000" channel="BTV.mncvision">
     <title>Mitos Tengah Malam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250612181100 +0000" stop="20250612200500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250612200500 +0000" stop="20250612215200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Boonie Bears: The Wild Life</title>
+</programme>
+<programme start="20250612215200 +0000" stop="20250613000000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613000000 +0000" stop="20250613013700 +0000" channel="BUDDY STARS.mncvision">
+    <title>Back To The Jurassic</title>
+</programme>
+<programme start="20250613013700 +0000" stop="20250613031800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613031800 +0000" stop="20250613045400 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20250613045400 +0000" stop="20250613064900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613064900 +0000" stop="20250613083200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Howard Lovecraft &amp; Undersea...</title>
+</programme>
+<programme start="20250613083200 +0000" stop="20250613101900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613101900 +0000" stop="20250613115700 +0000" channel="BUDDY STARS.mncvision">
+    <title>UglyDolls</title>
+</programme>
+<programme start="20250613115700 +0000" stop="20250613134300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613134300 +0000" stop="20250613153000 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Skeleton&#039;s Compass</title>
+</programme>
+<programme start="20250613153000 +0000" stop="20250613160000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250612181100 +0000" stop="20250612200500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250612200500 +0000" stop="20250612215200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Boonie Bears: The Wild Life</title>
+</programme>
+<programme start="20250612215200 +0000" stop="20250613000000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613000000 +0000" stop="20250613013700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Back To The Jurassic</title>
+</programme>
+<programme start="20250613013700 +0000" stop="20250613031800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613031800 +0000" stop="20250613045400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20250613045400 +0000" stop="20250613064900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613064900 +0000" stop="20250613083200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Howard Lovecraft &amp; Undersea...</title>
+</programme>
+<programme start="20250613083200 +0000" stop="20250613101900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613101900 +0000" stop="20250613115700 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>UglyDolls</title>
+</programme>
+<programme start="20250613115700 +0000" stop="20250613134300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250613134300 +0000" stop="20250613153000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>The Skeleton&#039;s Compass</title>
+</programme>
+<programme start="20250613153000 +0000" stop="20250613160000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
 <programme start="20250612170000 +0000" stop="20250612170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 4</title>
 </programme>
@@ -4388,8 +4528,138 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250613163000 +0000" stop="20250612170000 +0000" channel="IDX.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250612173000 +0000" stop="20250612183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250612183000 +0000" stop="20250612193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250612193000 +0000" stop="20250612203000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250612203000 +0000" stop="20250612213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250612213000 +0000" stop="20250612223000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250612223000 +0000" stop="20250612230000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250612230000 +0000" stop="20250612233000 +0000" channel="IDX HD.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250612233000 +0000" stop="20250613003000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250613003000 +0000" stop="20250613013000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250613013000 +0000" stop="20250613023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20250613023000 +0000" stop="20250613033000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250613033000 +0000" stop="20250613043000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250613043000 +0000" stop="20250613050000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20250613050000 +0000" stop="20250613053000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250613053000 +0000" stop="20250613063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250613063000 +0000" stop="20250613070000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250613070000 +0000" stop="20250613073000 +0000" channel="IDX HD.mncvision">
+    <title>Rasa Indonesia</title>
+</programme>
+<programme start="20250613073000 +0000" stop="20250613083000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250613083000 +0000" stop="20250613093000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20250613093000 +0000" stop="20250613103000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250613103000 +0000" stop="20250613110000 +0000" channel="IDX HD.mncvision">
+    <title>Rasa Indonesia</title>
+</programme>
+<programme start="20250613110000 +0000" stop="20250613113000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250613113000 +0000" stop="20250613120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250613120000 +0000" stop="20250613130000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250613130000 +0000" stop="20250613140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20250613140000 +0000" stop="20250613150000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review (L)</title>
+</programme>
+<programme start="20250613150000 +0000" stop="20250613160000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250613160000 +0000" stop="20250613163000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250613163000 +0000" stop="20250612170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250612175000 +0000" stop="20250612192500 +0000" channel="IMC.mncvision">
+    <title>Senggol-Senggolan</title>
+</programme>
+<programme start="20250612192500 +0000" stop="20250612205500 +0000" channel="IMC.mncvision">
+    <title>Bidadari Pulau Hantu</title>
+</programme>
+<programme start="20250612205500 +0000" stop="20250612223000 +0000" channel="IMC.mncvision">
+    <title>Giliran Saya Mana</title>
+</programme>
+<programme start="20250612223000 +0000" stop="20250612235500 +0000" channel="IMC.mncvision">
+    <title>Toilet 105</title>
+</programme>
+<programme start="20250612235500 +0000" stop="20250613013500 +0000" channel="IMC.mncvision">
+    <title>Ganesha</title>
+</programme>
+<programme start="20250613013500 +0000" stop="20250613031500 +0000" channel="IMC.mncvision">
+    <title>Kuntilanak</title>
+</programme>
+<programme start="20250613031500 +0000" stop="20250613043500 +0000" channel="IMC.mncvision">
+    <title>Mati Muda Di Pelukan Janda</title>
+</programme>
+<programme start="20250613043500 +0000" stop="20250613061000 +0000" channel="IMC.mncvision">
+    <title>Selamanya</title>
+</programme>
+<programme start="20250613061000 +0000" stop="20250613074500 +0000" channel="IMC.mncvision">
+    <title>Dunia Mereka</title>
+</programme>
+<programme start="20250613074500 +0000" stop="20250613091500 +0000" channel="IMC.mncvision">
+    <title>Gentayangan</title>
+</programme>
+<programme start="20250613091500 +0000" stop="20250613111500 +0000" channel="IMC.mncvision">
+    <title>Hijrah Cinta</title>
+</programme>
+<programme start="20250613111500 +0000" stop="20250613130000 +0000" channel="IMC.mncvision">
+    <title>Ummi Aminah</title>
+</programme>
+<programme start="20250613130000 +0000" stop="20250613143500 +0000" channel="IMC.mncvision">
+    <title>Warkop: Maju Kena Mundur Kena</title>
+</programme>
+<programme start="20250613143500 +0000" stop="20250613164500 +0000" channel="IMC.mncvision">
+    <title>Tiga</title>
+</programme>
+<programme start="20250613164500 +0000" stop="20250612171500 +0000" channel="IMC.mncvision">
+    <title>Pulau Hantu</title>
+</programme>
 <programme start="20250612173000 +0000" stop="20250612193000 +0000" channel="Indosiar.mncvision">
     <title>Mega Film Asia</title>
 </programme>
@@ -7381,7 +7651,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250613163000 +0000" stop="20250612170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Tasting Tasmania S1, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250612181500 +0000" stop="20250612190000 +0000" channel="RCTI.mncvision">
+    <title>Kalo Sayang Ngga Mungkin...</title>
+</programme>
+<programme start="20250612190000 +0000" stop="20250612201500 +0000" channel="RCTI.mncvision">
+    <title>Jodoh Warisan Tante</title>
+</programme>
+<programme start="20250612201500 +0000" stop="20250612213000 +0000" channel="RCTI.mncvision">
+    <title>Sule Kangen Mantan</title>
+</programme>
+<programme start="20250612213000 +0000" stop="20250612230000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun S7</title>
+</programme>
+<programme start="20250612230000 +0000" stop="20250612234500 +0000" channel="RCTI.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20250612234500 +0000" stop="20250613010000 +0000" channel="RCTI.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20250613010000 +0000" stop="20250613013000 +0000" channel="RCTI.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20250613013000 +0000" stop="20250613050000 +0000" channel="RCTI.mncvision">
+    <title>Doraemon Series</title>
+</programme>
+<programme start="20250613050000 +0000" stop="20250613053000 +0000" channel="RCTI.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20250613053000 +0000" stop="20250613073000 +0000" channel="RCTI.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250613073000 +0000" stop="20250613090000 +0000" channel="RCTI.mncvision">
+    <title>Di Luar Nalar</title>
+</programme>
+<programme start="20250613090000 +0000" stop="20250613100000 +0000" channel="RCTI.mncvision">
+    <title>Royal Blood</title>
+</programme>
+<programme start="20250613100000 +0000" stop="20250613110000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250613110000 +0000" stop="20250613121500 +0000" channel="RCTI.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250613121500 +0000" stop="20250613133000 +0000" channel="RCTI.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250613133000 +0000" stop="20250613150000 +0000" channel="RCTI.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250613150000 +0000" stop="20250613160000 +0000" channel="RCTI.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250613160000 +0000" stop="20250613163000 +0000" channel="RCTI.mncvision">
+    <title>Children Of Heaven</title>
+</programme>
 <programme start="20250612181500 +0000" stop="20250612190000 +0000" channel="RCTI HD.mncvision">
     <title>Kalo Sayang Ngga Mungkin...</title>
 </programme>
