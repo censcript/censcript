@@ -2176,6 +2176,9 @@
     <programme start="20250612200000 +0000" stop="20250612210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
+    <programme start="20250612210000 +0000" stop="20250612220000 +0000" channel="CNN HD.starhub">
+        <title>Breaking News</title>
+    </programme>
     <programme start="20250612220000 +0000" stop="20250612230000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2861,7 +2864,7 @@
         <title>ANANDARAGAM - Serial</title>
     </programme>
     <programme start="20250612160000 +0000" stop="20250612163000 +0000" channel="Zee Tamil.starhub">
-        <title>Zee Flix</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250612163000 +0000" stop="20250612170000 +0000" channel="Zee Tamil.starhub">
         <title>Ninaithale Inikkum</title>
@@ -2871,6 +2874,9 @@
     </programme>
     <programme start="20250612173000 +0000" stop="20250612180000 +0000" channel="Zee Tamil.starhub">
         <title>Idhayam</title>
+    </programme>
+    <programme start="20250612180000 +0000" stop="20250612183000 +0000" channel="Zee Tamil.starhub">
+        <title>Zee Flix</title>
     </programme>
     <programme start="20250612183000 +0000" stop="20250612190000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>

@@ -740,7 +740,7 @@
     <title>Secrets Of Superagers S1, Ep 1</title>
 </programme>
 <programme start="20250612192000 +0000" stop="20250612201500 +0000" channel="BBC Earth.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250612201500 +0000" stop="20250612210500 +0000" channel="BBC Earth.mncvision">
     <title>Sue Perkins Into Alaska, Ep 3</title>
@@ -749,7 +749,7 @@
     <title>Secret Of Modern Life S3, Ep 3</title>
 </programme>
 <programme start="20250612220000 +0000" stop="20250612225500 +0000" channel="BBC Earth.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250612225500 +0000" stop="20250612235000 +0000" channel="BBC Earth.mncvision">
     <title>Ancient Powers S1, Ep 5</title>
@@ -761,7 +761,7 @@
     <title>Sue Perkins Into Alaska, Ep 3</title>
 </programme>
 <programme start="20250613014000 +0000" stop="20250613024000 +0000" channel="BBC Earth.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250613024000 +0000" stop="20250613033500 +0000" channel="BBC Earth.mncvision">
     <title>M. Palin: Into Iraq S1, Ep 2</title>
@@ -773,7 +773,7 @@
     <title>Blue Planet S2, Ep 4</title>
 </programme>
 <programme start="20250613053000 +0000" stop="20250613062500 +0000" channel="BBC Earth.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250613062500 +0000" stop="20250613071500 +0000" channel="BBC Earth.mncvision">
     <title>Where Wild Men Are S10, Ep 6</title>
@@ -818,7 +818,7 @@
     <title>Secrets Of Superagers S1, Ep 1</title>
 </programme>
 <programme start="20250612192000 +0000" stop="20250612201500 +0000" channel="BBC Earth HD.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250612201500 +0000" stop="20250612210500 +0000" channel="BBC Earth HD.mncvision">
     <title>Sue Perkins Into Alaska, Ep 3</title>
@@ -827,7 +827,7 @@
     <title>Secret Of Modern Life S3, Ep 3</title>
 </programme>
 <programme start="20250612220000 +0000" stop="20250612225500 +0000" channel="BBC Earth HD.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250612225500 +0000" stop="20250612235000 +0000" channel="BBC Earth HD.mncvision">
     <title>Ancient Powers S1, Ep 5</title>
@@ -839,7 +839,7 @@
     <title>Sue Perkins Into Alaska, Ep 3</title>
 </programme>
 <programme start="20250613014000 +0000" stop="20250613024000 +0000" channel="BBC Earth HD.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250613024000 +0000" stop="20250613033500 +0000" channel="BBC Earth HD.mncvision">
     <title>M. Palin: Into Iraq S1, Ep 2</title>
@@ -851,7 +851,7 @@
     <title>Blue Planet S2, Ep 4</title>
 </programme>
 <programme start="20250613053000 +0000" stop="20250613062500 +0000" channel="BBC Earth HD.mncvision">
-    <title>Japan With Sue Perkins S1, Ep 2</title>
+    <title>Japan With Sue Perkins, Ep 2</title>
 </programme>
 <programme start="20250613062500 +0000" stop="20250613071500 +0000" channel="BBC Earth HD.mncvision">
     <title>Where Wild Men Are S10, Ep 6</title>
