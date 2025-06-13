@@ -538,9 +538,6 @@
 <programme start="20250613031500 +0000" stop="20250613041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20250613063000 +0000" stop="20250613071500 +0000" channel="Trans 7.vision">
-<title>Para Pencari Cuan</title>
-</programme>
 <programme start="20250613071500 +0000" stop="20250613081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250613190000 +0000" stop="20250613200000 +0000" channel="BTV.vision">
 <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250613200000 +0000" stop="20250613210000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
 </programme>
