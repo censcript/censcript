@@ -223,32 +223,29 @@
     <programme start="20250613093122 +0000" stop="20250613103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 32</title>
     </programme>
-    <programme start="20250613103000 +0000" stop="20250613113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613103000 +0000" stop="20250613113015 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 54</title>
     </programme>
-    <programme start="20250613113000 +0000" stop="20250613120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613113015 +0000" stop="20250613115915 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 4</title>
     </programme>
-    <programme start="20250613120000 +0000" stop="20250613123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613115915 +0000" stop="20250613122927 +0000" channel="Channel 8.mewatch">
         <title>Every Body Knows S2 - EP 2</title>
     </programme>
-    <programme start="20250613123000 +0000" stop="20250613130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613122927 +0000" stop="20250613130012 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 8</title>
     </programme>
-    <programme start="20250613130000 +0000" stop="20250613140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613130012 +0000" stop="20250613140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 17</title>
     </programme>
-    <programme start="20250613140000 +0000" stop="20250613143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613140000 +0000" stop="20250613143100 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250613143000 +0000" stop="20250613150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613143100 +0000" stop="20250613150132 +0000" channel="Channel 8.mewatch">
         <title>Legendary Taste of Sichuan S4 - EP 6</title>
     </programme>
-    <programme start="20250613150000 +0000" stop="20250613160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613150132 +0000" stop="20250613160042 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 15</title>
-    </programme>
-    <programme start="20250613160000 +0000" stop="20250613170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 34</title>
     </programme>
     <programme start="20250612153114 +0000" stop="20250612163051 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 7</title>
@@ -349,22 +346,22 @@
     <programme start="20250613100027 +0000" stop="20250613110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 3</title>
     </programme>
-    <programme start="20250613110000 +0000" stop="20250613120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250613110000 +0000" stop="20250613120031 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 36</title>
     </programme>
-    <programme start="20250613120000 +0000" stop="20250613130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250613120031 +0000" stop="20250613130048 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 37</title>
     </programme>
-    <programme start="20250613130000 +0000" stop="20250613140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250613130048 +0000" stop="20250613140010 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 2</title>
     </programme>
-    <programme start="20250613140000 +0000" stop="20250613150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250613140010 +0000" stop="20250613150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 27</title>
     </programme>
-    <programme start="20250613150000 +0000" stop="20250613153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250613150000 +0000" stop="20250613153035 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250613153000 +0000" stop="20250613163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250613153035 +0000" stop="20250613163019 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 2</title>
     </programme>
     <programme start="20250612155937 +0000" stop="20250613010000 +0000" channel="Suria.mewatch">
@@ -478,22 +475,22 @@
     <programme start="20250613103030 +0000" stop="20250613110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 10</title>
     </programme>
-    <programme start="20250613110000 +0000" stop="20250613120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613110000 +0000" stop="20250613115823 +0000" channel="Vasantham.mewatch">
         <title>Neruppuda Season 2 - EP 9</title>
     </programme>
-    <programme start="20250613120000 +0000" stop="20250613123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613115823 +0000" stop="20250613123000 +0000" channel="Vasantham.mewatch">
         <title>Indian Beat S16 - EP 11</title>
     </programme>
-    <programme start="20250613123000 +0000" stop="20250613130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613123000 +0000" stop="20250613125950 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250613130000 +0000" stop="20250613133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613125950 +0000" stop="20250613132956 +0000" channel="Vasantham.mewatch">
         <title>Crime Watch 2025 - EP 3</title>
     </programme>
-    <programme start="20250613133000 +0000" stop="20250613140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613132956 +0000" stop="20250613135947 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 12</title>
     </programme>
-    <programme start="20250613140000 +0000" stop="20250613170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613135947 +0000" stop="20250613170000 +0000" channel="Vasantham.mewatch">
         <title>Blue Star</title>
     </programme>
     <programme start="20250612160000 +0000" stop="20250612160530 +0000" channel="CNA.mewatch">
@@ -550,23 +547,20 @@
     <programme start="20250613100001 +0000" stop="20250613110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250613110000 +0000" stop="20250613120000 +0000" channel="CNA.mewatch">
+    <programme start="20250613110000 +0000" stop="20250613120003 +0000" channel="CNA.mewatch">
         <title>China &amp; The Global South S2 - EP 2</title>
     </programme>
-    <programme start="20250613120000 +0000" stop="20250613130000 +0000" channel="CNA.mewatch">
+    <programme start="20250613120003 +0000" stop="20250613130003 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250613130000 +0000" stop="20250613140000 +0000" channel="CNA.mewatch">
+    <programme start="20250613130003 +0000" stop="20250613140001 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 2</title>
     </programme>
-    <programme start="20250613140000 +0000" stop="20250613150000 +0000" channel="CNA.mewatch">
+    <programme start="20250613140001 +0000" stop="20250613150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250613150000 +0000" stop="20250613160000 +0000" channel="CNA.mewatch">
+    <programme start="20250613150001 +0000" stop="20250613160001 +0000" channel="CNA.mewatch">
         <title>Insight - EP 8</title>
-    </programme>
-    <programme start="20250613160000 +0000" stop="20250613160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250612155959 +0000" stop="20250612170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>

@@ -6563,7 +6563,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20250613073000 +0000" stop="20250613080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Of Seas And Mountains</title>
 </programme>
 <programme start="20250613080000 +0000" stop="20250613083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6605,7 +6605,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20250613133000 +0000" stop="20250613140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Of Seas And Mountains</title>
 </programme>
 <programme start="20250613140000 +0000" stop="20250613143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
