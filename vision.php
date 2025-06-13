@@ -538,9 +538,6 @@
 <programme start="20250613031500 +0000" stop="20250613041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20250613041500 +0000" stop="20250613050000 +0000" channel="Trans 7.vision">
-<title>Enah Bikin Enak</title>
-</programme>
 <programme start="20250613050000 +0000" stop="20250613054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
@@ -1457,7 +1454,7 @@
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20250613050000 +0000" stop="20250613060000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
+<title>Info Seleb</title>
 </programme>
 <programme start="20250613060000 +0000" stop="20250613070000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
@@ -1483,8 +1480,11 @@
 <programme start="20250613130000 +0000" stop="20250613140000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
 </programme>
-<programme start="20250613140000 +0000" stop="20250613150000 +0000" channel="BTV.vision">
+<programme start="20250613140000 +0000" stop="20250613143000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
+</programme>
+<programme start="20250613143000 +0000" stop="20250613150000 +0000" channel="BTV.vision">
+<title>Saksi Mata</title>
 </programme>
 <programme start="20250613150000 +0000" stop="20250613160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
