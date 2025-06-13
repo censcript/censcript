@@ -538,12 +538,6 @@
 <programme start="20250613031500 +0000" stop="20250613041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20250613050000 +0000" stop="20250613054500 +0000" channel="Trans 7.vision">
-<title>Bocah Petualang</title>
-</programme>
-<programme start="20250613054500 +0000" stop="20250613063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang</title>
-</programme>
 <programme start="20250613063000 +0000" stop="20250613071500 +0000" channel="Trans 7.vision">
 <title>Para Pencari Cuan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250613180000 +0000" stop="20250613180300 +0000" channel="BTV.vision">
 <title>Tanah Airku</title>
+</programme>
+<programme start="20250613180300 +0000" stop="20250613190000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
+</programme>
+<programme start="20250613190000 +0000" stop="20250613200000 +0000" channel="BTV.vision">
+<title>Mitos Tengah Malam</title>
 </programme>
