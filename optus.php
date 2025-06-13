@@ -1,9 +1,3 @@
-    <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Gwangju v Seoul</title>
-    </programme>
-    <programme start="20250613102000 +0000" stop="20250613124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Gangwon v Jeonbuk</title>
-    </programme>
     <programme start="20250614000000 +0000" stop="20250614023000 +0000" channel="Optus Sport 401.optus">
         <title>NWSL - Houston Dash v San Diego Wave FC</title>
     </programme>
