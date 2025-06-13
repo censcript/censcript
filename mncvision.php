@@ -2915,7 +2915,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250613003000 +0000" stop="20250613010000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Protests In LA</title>
 </programme>
 <programme start="20250613010000 +0000" stop="20250613011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2936,7 +2936,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250613031500 +0000" stop="20250613033000 +0000" channel="DW English.mncvision">
-    <title>Transforming Business</title>
+    <title>Business Beyond</title>
 </programme>
 <programme start="20250613033000 +0000" stop="20250613040000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: Gamechanger</title>
@@ -2960,16 +2960,16 @@
     <title>DW News</title>
 </programme>
 <programme start="20250613061500 +0000" stop="20250613063000 +0000" channel="DW English.mncvision">
-    <title>Transforming Business</title>
+    <title>Business Beyond</title>
 </programme>
 <programme start="20250613063000 +0000" stop="20250613070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Don&#039;t Hold Back: Unmasking Men</title>
 </programme>
 <programme start="20250613070000 +0000" stop="20250613073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250613073000 +0000" stop="20250613080000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Protests In LA</title>
 </programme>
 <programme start="20250613080000 +0000" stop="20250613083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2987,13 +2987,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20250613103000 +0000" stop="20250613110000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Don&#039;t Hold Back: Unmasking Men</title>
 </programme>
 <programme start="20250613110000 +0000" stop="20250613113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250613113000 +0000" stop="20250613120000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Protests In LA</title>
 </programme>
 <programme start="20250613120000 +0000" stop="20250613121500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -9325,13 +9325,10 @@
 <programme start="20250613130000 +0000" stop="20250613134500 +0000" channel="Trans TV.mncvision">
     <title>Bidaah</title>
 </programme>
-<programme start="20250613134500 +0000" stop="20250613144500 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
+<programme start="20250613134500 +0000" stop="20250613151500 +0000" channel="Trans TV.mncvision">
+    <title>Jogetin Shaaay</title>
 </programme>
-<programme start="20250613144500 +0000" stop="20250613164500 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20250613164500 +0000" stop="20250612171500 +0000" channel="Trans TV.mncvision">
+<programme start="20250613151500 +0000" stop="20250613154500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250612171500 +0000" stop="20250612183000 +0000" channel="tvN.mncvision">

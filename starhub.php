@@ -1994,10 +1994,10 @@
         <title>The Talent Badge</title>
     </programme>
     <programme start="20250613051500 +0000" stop="20250613052200 +0000" channel="Cbeebies HD.starhub">
-        <title>Episode 3</title>
+        <title>Frog Song</title>
     </programme>
     <programme start="20250613052200 +0000" stop="20250613053000 +0000" channel="Cbeebies HD.starhub">
-        <title>Episode 4</title>
+        <title>What&#039;s Hot?</title>
     </programme>
     <programme start="20250613053000 +0000" stop="20250613054500 +0000" channel="Cbeebies HD.starhub">
         <title>Mount Everest, Asia</title>
@@ -3284,7 +3284,7 @@
         <title>News</title>
     </programme>
     <programme start="20250612171500 +0000" stop="20250612173000 +0000" channel="DW English HD.starhub">
-        <title>How did Berlin end up being Europe&#039;s least capitalist capital?</title>
+        <title>The unorthodox economics of Berlin</title>
     </programme>
     <programme start="20250612173000 +0000" stop="20250612180000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3302,7 +3302,7 @@
         <title>Gamechanger: AI’s impact on the working world</title>
     </programme>
     <programme start="20250612193000 +0000" stop="20250612200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Protests in LA: Is it Trump against the law?</title>
     </programme>
     <programme start="20250612200000 +0000" stop="20250612203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3314,7 +3314,7 @@
         <title>News</title>
     </programme>
     <programme start="20250612210200 +0000" stop="20250612211500 +0000" channel="DW English HD.starhub">
-        <title>How did Berlin end up being Europe&#039;s least capitalist capital?</title>
+        <title>The unorthodox economics of Berlin</title>
     </programme>
     <programme start="20250612211500 +0000" stop="20250612220000 +0000" channel="DW English HD.starhub">
         <title>The Last Neanderthal</title>
@@ -3326,13 +3326,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250612223000 +0000" stop="20250612230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Protests in LA: Is it Trump against the law?</title>
     </programme>
     <programme start="20250612230000 +0000" stop="20250612231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250612231500 +0000" stop="20250612233000 +0000" channel="DW English HD.starhub">
-        <title>How did Berlin end up being Europe&#039;s least capitalist capital?</title>
+        <title>The unorthodox economics of Berlin</title>
     </programme>
     <programme start="20250612233000 +0000" stop="20250613000000 +0000" channel="DW English HD.starhub">
         <title>Don’t hold back - Unmasking men&#039;s mental health battles</title>
