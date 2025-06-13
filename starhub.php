@@ -2735,13 +2735,13 @@
         <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20250614073000 +0000" stop="20250614080000 +0000" channel="Sun TV.starhub">
-        <title>Movie -</title>
+        <title>Movie - THOZHA</title>
     </programme>
     <programme start="20250614080000 +0000" stop="20250614083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250614083000 +0000" stop="20250614103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd -</title>
+        <title>Movie Contd - THOZHA</title>
     </programme>
     <programme start="20250614103000 +0000" stop="20250614110000 +0000" channel="Sun TV.starhub">
         <title>RAMAYANAM</title>
