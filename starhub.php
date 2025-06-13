@@ -7648,11 +7648,20 @@
     <programme start="20250612173000 +0000" stop="20250612180000 +0000" channel="BBC World News HD.starhub">
         <title>The World Today with Maryam Moshiri</title>
     </programme>
+    <programme start="20250612180000 +0000" stop="20250612190000 +0000" channel="BBC World News HD.starhub">
+        <title>Air India Plane Crash</title>
+    </programme>
+    <programme start="20250612190000 +0000" stop="20250612193000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20250612193000 +0000" stop="20250612200000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
     <programme start="20250612200000 +0000" stop="20250612203000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250612203000 +0000" stop="20250612210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250612210000 +0000" stop="20250612213000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>

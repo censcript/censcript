@@ -409,10 +409,10 @@
 <programme start="20250613060000 +0000" stop="20250613081500 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20250613081500 +0000" stop="20250613091500 +0000" channel="ANTV.mncvision">
+<programme start="20250613081500 +0000" stop="20250613093000 +0000" channel="ANTV.mncvision">
     <title>Vaishno Devi</title>
 </programme>
-<programme start="20250613091500 +0000" stop="20250613103000 +0000" channel="ANTV.mncvision">
+<programme start="20250613093000 +0000" stop="20250613103000 +0000" channel="ANTV.mncvision">
     <title>Bhagya Lakshmi</title>
 </programme>
 <programme start="20250613103000 +0000" stop="20250613120000 +0000" channel="ANTV.mncvision">
