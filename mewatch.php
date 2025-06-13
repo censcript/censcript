@@ -127,7 +127,7 @@
     <programme start="20250613133000 +0000" stop="20250613140016 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 5</title>
     </programme>
-    <programme start="20250613140016 +0000" stop="20250613163000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250613140016 +0000" stop="20250613163004 +0000" channel="Channel 5.mewatch">
         <title>Battleship</title>
     </programme>
     <programme start="20250612150056 +0000" stop="20250612160001 +0000" channel="Channel 8.mewatch">

@@ -2176,12 +2176,6 @@
     <programme start="20250612200000 +0000" stop="20250612210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
-    <programme start="20250612210000 +0000" stop="20250612213000 +0000" channel="CNN HD.starhub">
-        <title>The Lead</title>
-    </programme>
-    <programme start="20250612213000 +0000" stop="20250612220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
     <programme start="20250612220000 +0000" stop="20250612230000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2300,34 +2294,34 @@
         <title>ATP Tour 250 2025: Stuttgart Day 4 Match 3</title>
     </programme>
     <programme start="20250613010000 +0000" stop="20250613023000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 4 Match 4</title>
+        <title>Stuttgart Day 4 Nakashima v Tien</title>
     </programme>
     <programme start="20250613023000 +0000" stop="20250613040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 4 Match 1</title>
+        <title>Den Bosch Day 4 Humbert v Evans</title>
     </programme>
     <programme start="20250613040000 +0000" stop="20250613053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 4 Match 2</title>
+        <title>Den Bosch Day 4 Popyrin v Bergs</title>
     </programme>
     <programme start="20250613053000 +0000" stop="20250613060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250613060000 +0000" stop="20250613073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 4 Match 3</title>
+        <title>Den Bosch Day 4 Medvedev v Mannarino</title>
     </programme>
     <programme start="20250613073000 +0000" stop="20250613090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch Day 4 Match 4</title>
+        <title>Stuttgart Day 4 Zverev v Moutet</title>
     </programme>
     <programme start="20250613090000 +0000" stop="20250613110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart QF 1</title>
+        <title>Stuttgart QF 1 Auger-Aliassime v Engel</title>
     </programme>
     <programme start="20250613110000 +0000" stop="20250613130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart QF 2</title>
+        <title>Stuttgart QF 2 Fritz v Fucsovics</title>
     </programme>
     <programme start="20250613130000 +0000" stop="20250613150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart QF 3</title>
+        <title>Stuttgart QF 3 Zverev v Nakashima</title>
     </programme>
     <programme start="20250613150000 +0000" stop="20250613170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart QF 4</title>
+        <title>Stuttgart QF 4 Shelton v Lehecka</title>
     </programme>
     <programme start="20250612160000 +0000" stop="20250612170000 +0000" channel="TVB Xing He.starhub">
         <title>Trimming Success</title>
@@ -7647,18 +7641,6 @@
     </programme>
     <programme start="20250612173000 +0000" stop="20250612180000 +0000" channel="BBC World News HD.starhub">
         <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20250612180000 +0000" stop="20250612183000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20250612183000 +0000" stop="20250612190000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
-    </programme>
-    <programme start="20250612190000 +0000" stop="20250612193000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
-    </programme>
-    <programme start="20250612193000 +0000" stop="20250612200000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
     </programme>
     <programme start="20250612200000 +0000" stop="20250612203000 +0000" channel="BBC World News HD.starhub">
         <title>The Context</title>
