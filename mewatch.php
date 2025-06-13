@@ -244,7 +244,7 @@
     <programme start="20250613143100 +0000" stop="20250613150132 +0000" channel="Channel 8.mewatch">
         <title>Legendary Taste of Sichuan S4 - EP 6</title>
     </programme>
-    <programme start="20250613150132 +0000" stop="20250613160042 +0000" channel="Channel 8.mewatch">
+    <programme start="20250613150132 +0000" stop="20250613160057 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 15</title>
     </programme>
     <programme start="20250612153114 +0000" stop="20250612163051 +0000" channel="Channel U.mewatch">
@@ -406,22 +406,22 @@
     <programme start="20250613110000 +0000" stop="20250613120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 10</title>
     </programme>
-    <programme start="20250613120000 +0000" stop="20250613123000 +0000" channel="Suria.mewatch">
+    <programme start="20250613120000 +0000" stop="20250613123025 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250613123000 +0000" stop="20250613130000 +0000" channel="Suria.mewatch">
+    <programme start="20250613123025 +0000" stop="20250613130023 +0000" channel="Suria.mewatch">
         <title>Legenda Puteri Qaseh - EP 8</title>
     </programme>
-    <programme start="20250613130000 +0000" stop="20250613150000 +0000" channel="Suria.mewatch">
+    <programme start="20250613130023 +0000" stop="20250613150034 +0000" channel="Suria.mewatch">
         <title>Belaian Terakhir</title>
     </programme>
-    <programme start="20250613150000 +0000" stop="20250613153000 +0000" channel="Suria.mewatch">
+    <programme start="20250613150034 +0000" stop="20250613153000 +0000" channel="Suria.mewatch">
         <title>Eat,Fun And Pray - EP 7</title>
     </programme>
-    <programme start="20250613153000 +0000" stop="20250613160000 +0000" channel="Suria.mewatch">
+    <programme start="20250613153000 +0000" stop="20250613155924 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250613160000 +0000" stop="20250614010000 +0000" channel="Suria.mewatch">
+    <programme start="20250613155924 +0000" stop="20250614010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250612160012 +0000" stop="20250612163039 +0000" channel="Vasantham.mewatch">

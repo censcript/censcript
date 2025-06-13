@@ -3335,7 +3335,7 @@
         <title>How did Berlin end up being Europe&#039;s least capitalist capital?</title>
     </programme>
     <programme start="20250612233000 +0000" stop="20250613000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don’t hold back - Unmasking men&#039;s mental health battles</title>
     </programme>
     <programme start="20250613000000 +0000" stop="20250613000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3344,7 +3344,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250613003000 +0000" stop="20250613010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Protests in LA: Is it Trump against the law?</title>
     </programme>
     <programme start="20250613010000 +0000" stop="20250613011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3365,7 +3365,7 @@
         <title>News</title>
     </programme>
     <programme start="20250613031500 +0000" stop="20250613033000 +0000" channel="DW English HD.starhub">
-        <title>How did Berlin end up being Europe&#039;s least capitalist capital?</title>
+        <title>The unorthodox economics of Berlin</title>
     </programme>
     <programme start="20250613033000 +0000" stop="20250613040000 +0000" channel="DW English HD.starhub">
         <title>Gamechanger: AI’s impact on the working world</title>
@@ -3389,16 +3389,16 @@
         <title>News</title>
     </programme>
     <programme start="20250613061500 +0000" stop="20250613063000 +0000" channel="DW English HD.starhub">
-        <title>How did Berlin end up being Europe&#039;s least capitalist capital?</title>
+        <title>The unorthodox economics of Berlin</title>
     </programme>
     <programme start="20250613063000 +0000" stop="20250613070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don’t hold back - Unmasking men&#039;s mental health battles</title>
     </programme>
     <programme start="20250613070000 +0000" stop="20250613073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250613073000 +0000" stop="20250613080000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Protests in LA: Is it Trump against the law?</title>
     </programme>
     <programme start="20250613080000 +0000" stop="20250613083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3416,13 +3416,13 @@
         <title>News</title>
     </programme>
     <programme start="20250613103000 +0000" stop="20250613110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Don’t hold back - Unmasking men&#039;s mental health battles</title>
     </programme>
     <programme start="20250613110000 +0000" stop="20250613113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250613113000 +0000" stop="20250613120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Protests in LA: Is it Trump against the law?</title>
     </programme>
     <programme start="20250613120000 +0000" stop="20250613121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3434,7 +3434,7 @@
         <title>News</title>
     </programme>
     <programme start="20250613131500 +0000" stop="20250613133000 +0000" channel="DW English HD.starhub">
-        <title>Greenland: How rising temperatures boost tourism</title>
+        <title>Why Iran and Israel are enemies</title>
     </programme>
     <programme start="20250613133000 +0000" stop="20250613140000 +0000" channel="DW English HD.starhub">
         <title>Life is healthier with animals!</title>
@@ -3443,13 +3443,13 @@
         <title>News</title>
     </programme>
     <programme start="20250613143000 +0000" stop="20250613150000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Rethinking our future - how we live and work</title>
     </programme>
     <programme start="20250613150000 +0000" stop="20250613153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250613153000 +0000" stop="20250613160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Protests in LA: Is it Trump against the law?</title>
     </programme>
     <programme start="20250612160000 +0000" stop="20250612220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

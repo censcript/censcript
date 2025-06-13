@@ -3055,10 +3055,10 @@
 <programme start="20250612233000 +0000" stop="20250612234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 3</title>
 </programme>
-<programme start="20250612234500 +0000" stop="20250613031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612234500 +0000" stop="20250613034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final, Spiel 4</title>
 </programme>
-<programme start="20250613031500 +0000" stop="20250613040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250613034500 +0000" stop="20250613040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2025 Bonsoy Gold Coast Pro</title>
 </programme>
 <programme start="20250613040000 +0000" stop="20250613050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3316,10 +3316,10 @@
 <programme start="20250613210000 +0000" stop="20250613230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20250613000000 +0000" stop="20250613031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250613000000 +0000" stop="20250613034000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final, Spiel 4</title>
 </programme>
-<programme start="20250613031500 +0000" stop="20250613034500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250613034000 +0000" stop="20250613034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PGA Tour Champions: Learning Center (13)</title>
 </programme>
 <programme start="20250613034500 +0000" stop="20250613041500 +0000" channel="Sky Sport Top Event HD.skyde">

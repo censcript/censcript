@@ -4064,7 +4064,7 @@
     <title>Snake Eyes: G.I. Joe Origins</title>
 </programme>
 <programme start="20250613160000 +0000" stop="20250613163000 +0000" channel="GTV.mncvision">
-    <title>The Pig King</title>
+    <title>Sword Dynasty: Messy Inn</title>
 </programme>
 <programme start="20250612170000 +0000" stop="20250612180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4115,7 +4115,7 @@
     <title>Snake Eyes: G.I. Joe Origins</title>
 </programme>
 <programme start="20250613160000 +0000" stop="20250613163000 +0000" channel="GTV HD.mncvision">
-    <title>The Pig King</title>
+    <title>Sword Dynasty: Messy Inn</title>
 </programme>
 <programme start="20250612180000 +0000" stop="20250612183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
