@@ -3055,10 +3055,10 @@
 <programme start="20250612233000 +0000" stop="20250612234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 3</title>
 </programme>
-<programme start="20250612234500 +0000" stop="20250613034500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250612234500 +0000" stop="20250613031500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final, Spiel 4</title>
 </programme>
-<programme start="20250613034500 +0000" stop="20250613040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250613031500 +0000" stop="20250613040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2025 Bonsoy Gold Coast Pro</title>
 </programme>
 <programme start="20250613040000 +0000" stop="20250613050000 +0000" channel="Sky Sport Mix HD.skyde">
