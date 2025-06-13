@@ -2878,9 +2878,6 @@
     <programme start="20250612173000 +0000" stop="20250612180000 +0000" channel="Zee Tamil.starhub">
         <title>Idhayam</title>
     </programme>
-    <programme start="20250612180000 +0000" stop="20250612183000 +0000" channel="Zee Tamil.starhub">
-        <title>Zee Flix</title>
-    </programme>
     <programme start="20250612183000 +0000" stop="20250612190000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
@@ -2912,22 +2909,22 @@
         <title>Naane Varuvean</title>
     </programme>
     <programme start="20250612233000 +0000" stop="20250613000000 +0000" channel="Zee Tamil.starhub">
-        <title>Lakshmi Kalyanam</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250613000000 +0000" stop="20250613003000 +0000" channel="Zee Tamil.starhub">
-        <title>Sembaruthi</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250613003000 +0000" stop="20250613033000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+        <title>Magalir Mattum</title>
     </programme>
     <programme start="20250613033000 +0000" stop="20250613040000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
     <programme start="20250613040000 +0000" stop="20250613043000 +0000" channel="Zee Tamil.starhub">
-        <title>Gettimelam</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250613043000 +0000" stop="20250613050000 +0000" channel="Zee Tamil.starhub">
-        <title>Gettimelam</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250613050000 +0000" stop="20250613053000 +0000" channel="Zee Tamil.starhub">
         <title>Mounam Pesiyathey</title>
@@ -2935,38 +2932,38 @@
     <programme start="20250613053000 +0000" stop="20250613060000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
-    <programme start="20250613060000 +0000" stop="20250613063000 +0000" channel="Zee Tamil.starhub">
-        <title>Lakshmi Kalyanam</title>
+    <programme start="20250613060000 +0000" stop="20250613083000 +0000" channel="Zee Tamil.starhub">
+        <title>Enna Solla Pogirai</title>
     </programme>
-    <programme start="20250613063000 +0000" stop="20250613090000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20250613083000 +0000" stop="20250613090000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Mersal</title>
     </programme>
     <programme start="20250613090000 +0000" stop="20250613093000 +0000" channel="Zee Tamil.starhub">
         <title>Maari</title>
     </programme>
-    <programme start="20250613093000 +0000" stop="20250613094500 +0000" channel="Zee Tamil.starhub">
-        <title>Maari</title>
-    </programme>
-    <programme start="20250613094500 +0000" stop="20250613100000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+    <programme start="20250613093000 +0000" stop="20250613100000 +0000" channel="Zee Tamil.starhub">
+        <title>Manasellam</title>
     </programme>
     <programme start="20250613100000 +0000" stop="20250613103000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+        <title>Gettimelam</title>
     </programme>
     <programme start="20250613103000 +0000" stop="20250613110000 +0000" channel="Zee Tamil.starhub">
         <title>Gettimelam</title>
     </programme>
     <programme start="20250613110000 +0000" stop="20250613113000 +0000" channel="Zee Tamil.starhub">
-        <title>Gettimelam</title>
-    </programme>
-    <programme start="20250613113000 +0000" stop="20250613121500 +0000" channel="Zee Tamil.starhub">
         <title>Anna</title>
     </programme>
-    <programme start="20250613121500 +0000" stop="20250613130000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250613113000 +0000" stop="20250613120000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
+    <programme start="20250613120000 +0000" stop="20250613123000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
+    </programme>
+    <programme start="20250613123000 +0000" stop="20250613130000 +0000" channel="Zee Tamil.starhub">
+        <title>Ayali</title>
+    </programme>
     <programme start="20250613130000 +0000" stop="20250613133000 +0000" channel="Zee Tamil.starhub">
-        <title>Manasellam</title>
+        <title>Veera</title>
     </programme>
     <programme start="20250613133000 +0000" stop="20250613140000 +0000" channel="Zee Tamil.starhub">
         <title>Idhayam</title>
@@ -7694,7 +7691,7 @@
         <title>Newsday</title>
     </programme>
     <programme start="20250613013000 +0000" stop="20250613020000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Rubin Observatory: Mapping the Universe</title>
     </programme>
     <programme start="20250613020000 +0000" stop="20250613023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7706,7 +7703,7 @@
         <title>Newsday</title>
     </programme>
     <programme start="20250613033000 +0000" stop="20250613040000 +0000" channel="BBC World News HD.starhub">
-        <title>The Travel Show</title>
+        <title>Rebranding Bradford</title>
     </programme>
     <programme start="20250613040000 +0000" stop="20250613043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -8212,10 +8209,10 @@
     <programme start="20250612213000 +0000" stop="20250612233000 +0000" channel="Asianet Movies.starhub">
         <title>Junior Senior</title>
     </programme>
-    <programme start="20250612233000 +0000" stop="20250613013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250612233000 +0000" stop="20250613013500 +0000" channel="Asianet Movies.starhub">
         <title>Happy Journey</title>
     </programme>
-    <programme start="20250613013000 +0000" stop="20250613043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250613013500 +0000" stop="20250613043000 +0000" channel="Asianet Movies.starhub">
         <title>Trance</title>
     </programme>
     <programme start="20250613043000 +0000" stop="20250613073000 +0000" channel="Asianet Movies.starhub">
@@ -8227,7 +8224,7 @@
     <programme start="20250613103000 +0000" stop="20250613133000 +0000" channel="Asianet Movies.starhub">
         <title>Yuva</title>
     </programme>
-    <programme start="20250613133000 +0000" stop="20250613163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250613133000 +0000" stop="20250613164000 +0000" channel="Asianet Movies.starhub">
         <title>Premalu</title>
     </programme>
     <programme start="20250612160000 +0000" stop="20250612170000 +0000" channel="Astro Warna HD.starhub">

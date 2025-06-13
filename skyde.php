@@ -962,7 +962,7 @@
     <title>Get Wild: Lange Version</title>
 </programme>
 <programme start="20250613110000 +0000" stop="20250613132500 +0000" channel="DAZN 1 HD.skyde">
-    <title>E1 Series: Dubrovnik : Qualifikation Zeitläufe</title>
+    <title>E1 Series: Dubrovnik : Qualifying Time Trials</title>
 </programme>
 <programme start="20250613132500 +0000" stop="20250613134500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -971,7 +971,7 @@
     <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
 </programme>
 <programme start="20250613141500 +0000" stop="20250613171500 +0000" channel="DAZN 1 HD.skyde">
-    <title>E1 Series: Dubrovnik : Qualifikation Ausscheidungsrennen</title>
+    <title>E1 Series: Dubrovnik : Qualification Elimination Races</title>
 </programme>
 <programme start="20250613171500 +0000" stop="20250613174500 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 34. Spieltag</title>

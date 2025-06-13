@@ -1288,66 +1288,7 @@
 <programme start="20250613150000 +0000" stop="20250613153000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Stuttgart (L)</title>
 </programme>
-<programme start="20250612170000 +0000" stop="20250612183000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Viva LaLiga 2024/25</title>
-</programme>
-<programme start="20250612183000 +0000" stop="20250612185300 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV: For Love Of The Game</title>
-</programme>
-<programme start="20250612185300 +0000" stop="20250612210000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 &#039;24/25: MIR Vs RAC (L)</title>
-</programme>
-<programme start="20250612210000 +0000" stop="20250612213500 +0000" channel="beIN Sports 3.mncvision">
-    <title>28th LaLiga Futures: BET Vs ORL</title>
-</programme>
-<programme start="20250612213500 +0000" stop="20250612221000 +0000" channel="beIN Sports 3.mncvision">
-    <title>28th LaLiga Futures: PEN Vs VIL</title>
-</programme>
-<programme start="20250612221000 +0000" stop="20250613000000 +0000" channel="beIN Sports 3.mncvision">
-    <title>CAF Confederation: BLB Vs MAS</title>
-</programme>
-<programme start="20250613000000 +0000" stop="20250613003000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match LaLiga: BAR Vs VAL</title>
-</programme>
-<programme start="20250613003000 +0000" stop="20250613010000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match UECL: DIF Vs CHE</title>
-</programme>
-<programme start="20250613010000 +0000" stop="20250613025500 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2024/25: SEV Vs VIL</title>
-</programme>
-<programme start="20250613025500 +0000" stop="20250613044000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 2024/25: SPO Vs ZAR</title>
-</programme>
-<programme start="20250613044000 +0000" stop="20250613051000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV HL 2024/25: MUN Vs BAR</title>
-</programme>
-<programme start="20250613051000 +0000" stop="20250613063000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Women&#039;s EHF Euro: SVN Vs SVK</title>
-</programme>
-<programme start="20250613063000 +0000" stop="20250613080000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Women&#039;s EHF Euro: CRO Vs FRO</title>
-</programme>
-<programme start="20250613080000 +0000" stop="20250613083000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match LaLiga: ATM Vs BAR</title>
-</programme>
-<programme start="20250613083000 +0000" stop="20250613090000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match UECL: BET Vs CHE</title>
-</programme>
-<programme start="20250613090000 +0000" stop="20250613110000 +0000" channel="beIN Sports 3.mncvision">
-    <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
-</programme>
-<programme start="20250613110000 +0000" stop="20250613123000 +0000" channel="beIN Sports 3.mncvision">
-    <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
-</programme>
-<programme start="20250613123000 +0000" stop="20250613143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
-</programme>
-<programme start="20250613143000 +0000" stop="20250613163000 +0000" channel="beIN Sports 3.mncvision">
-    <title>ATP Tour 250 &#039;25: Den Bosch (L)</title>
-</programme>
-<programme start="20250613163000 +0000" stop="20250612170000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel 2025: Italy (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250612170000 +0000" stop="20250612183000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Viva LaLiga 2024/25</title>
 </programme>
