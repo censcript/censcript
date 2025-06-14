@@ -1516,10 +1516,10 @@
 <programme start="20250614061000 +0000" stop="20250614063000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250614063000 +0000" stop="20250614064000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614063000 +0000" stop="20250614064500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250614064000 +0000" stop="20250614070500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614064500 +0000" stop="20250614070500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250614070500 +0000" stop="20250614073000 +0000" channel="Nick Jr..skyde">
@@ -1528,34 +1528,34 @@
 <programme start="20250614073000 +0000" stop="20250614075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250614075000 +0000" stop="20250614081000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614075000 +0000" stop="20250614081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250614081000 +0000" stop="20250614082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614081500 +0000" stop="20250614082000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614082000 +0000" stop="20250614082500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614082000 +0000" stop="20250614083000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614082500 +0000" stop="20250614083500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614083000 +0000" stop="20250614083700 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614083500 +0000" stop="20250614084000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614083700 +0000" stop="20250614084100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614084000 +0000" stop="20250614084400 +0000" channel="Nick Jr..skyde">
+<programme start="20250614084100 +0000" stop="20250614084600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614084400 +0000" stop="20250614085000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614084600 +0000" stop="20250614085000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614085000 +0000" stop="20250614085500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614085000 +0000" stop="20250614085600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614085500 +0000" stop="20250614090000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614085600 +0000" stop="20250614090100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614090000 +0000" stop="20250614090500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614090100 +0000" stop="20250614090500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250614090500 +0000" stop="20250614091000 +0000" channel="Nick Jr..skyde">
@@ -1564,16 +1564,16 @@
 <programme start="20250614091000 +0000" stop="20250614091500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614091500 +0000" stop="20250614094000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614091500 +0000" stop="20250614093500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250614094000 +0000" stop="20250614100000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614093500 +0000" stop="20250614100000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250614100000 +0000" stop="20250614102500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614100000 +0000" stop="20250614102000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250614102500 +0000" stop="20250614104500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614102000 +0000" stop="20250614104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20250614104500 +0000" stop="20250614111000 +0000" channel="Nick Jr..skyde">
@@ -1603,19 +1603,19 @@
 <programme start="20250614134500 +0000" stop="20250614140500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250614140500 +0000" stop="20250614141500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614140500 +0000" stop="20250614141000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614141500 +0000" stop="20250614142000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614141000 +0000" stop="20250614142000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614142000 +0000" stop="20250614143000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614142000 +0000" stop="20250614142500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614143000 +0000" stop="20250614145000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614142500 +0000" stop="20250614144500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250614145000 +0000" stop="20250614150000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614144500 +0000" stop="20250614150000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250614150000 +0000" stop="20250614152000 +0000" channel="Nick Jr..skyde">
@@ -1624,28 +1624,28 @@
 <programme start="20250614152000 +0000" stop="20250614153000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250614153000 +0000" stop="20250614155500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614153000 +0000" stop="20250614155000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250614155500 +0000" stop="20250614162000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614155000 +0000" stop="20250614161500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250614162000 +0000" stop="20250614164000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614161500 +0000" stop="20250614163500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250614164000 +0000" stop="20250614170000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614163500 +0000" stop="20250614170000 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250614170000 +0000" stop="20250614172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614170000 +0000" stop="20250614172000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250614172500 +0000" stop="20250614174500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614172000 +0000" stop="20250614174500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250614174500 +0000" stop="20250614181000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614174500 +0000" stop="20250614180500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250614181000 +0000" stop="20250614183000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614180500 +0000" stop="20250614183000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20250614183000 +0000" stop="20250614184000 +0000" channel="Nick Jr..skyde">
@@ -1654,10 +1654,10 @@
 <programme start="20250614184000 +0000" stop="20250614190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250614190500 +0000" stop="20250614193000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614190500 +0000" stop="20250614192500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250614193000 +0000" stop="20250614195000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614192500 +0000" stop="20250614195000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20250614195000 +0000" stop="20250614201000 +0000" channel="Nick Jr..skyde">
@@ -1672,25 +1672,25 @@
 <programme start="20250614202500 +0000" stop="20250614203500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250614203500 +0000" stop="20250614204000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614203500 +0000" stop="20250614203900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614204000 +0000" stop="20250614204400 +0000" channel="Nick Jr..skyde">
+<programme start="20250614203900 +0000" stop="20250614204400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614204400 +0000" stop="20250614205000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614204400 +0000" stop="20250614204500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614205000 +0000" stop="20250614205500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614204500 +0000" stop="20250614205500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250614205500 +0000" stop="20250614210000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614210000 +0000" stop="20250614210500 +0000" channel="Nick Jr..skyde">
+<programme start="20250614210000 +0000" stop="20250614210400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250614210500 +0000" stop="20250614211000 +0000" channel="Nick Jr..skyde">
+<programme start="20250614210400 +0000" stop="20250614211000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250614211000 +0000" stop="20250614211500 +0000" channel="Nick Jr..skyde">
