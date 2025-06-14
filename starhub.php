@@ -2170,14 +2170,26 @@
     <programme start="20250613200000 +0000" stop="20250613220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250613220000 +0000" stop="20250614040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250613223000 +0000" stop="20250614010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Enn Iniya Pon Nilave</title>
     </programme>
-    <programme start="20250614040000 +0000" stop="20250614100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250614010000 +0000" stop="20250614013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250614100000 +0000" stop="20250614160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250614013000 +0000" stop="20250614043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Mugamoodi</title>
+    </programme>
+    <programme start="20250614043000 +0000" stop="20250614073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Mounam Pesiyathe</title>
+    </programme>
+    <programme start="20250614073000 +0000" stop="20250614103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kannethire Thondrinaal</title>
+    </programme>
+    <programme start="20250614103000 +0000" stop="20250614133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kandukondain Kandukondain</title>
+    </programme>
+    <programme start="20250614133000 +0000" stop="20250614170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Marudhu</title>
     </programme>
     <programme start="20250613150000 +0000" stop="20250613170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Stuttgart QF 4 Shelton v Lehecka</title>
@@ -7187,7 +7199,7 @@
         <title>GP Confidential 2025</title>
     </programme>
     <programme start="20250614142500 +0000" stop="20250614152500 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2025: FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 Practice 2</title>
+        <title>Formula 1 Practice 2025: FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 Practice 1</title>
     </programme>
     <programme start="20250614152500 +0000" stop="20250614162500 +0000" channel="beIN Sports HD.starhub">
         <title>Formula 1 Practice 2025: FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 Practice 2</title>
@@ -7754,19 +7766,19 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250614053000 +0000" stop="20250614060000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250614060000 +0000" stop="20250614063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20250614063000 +0000" stop="20250614070000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250614070000 +0000" stop="20250614073000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20250614073000 +0000" stop="20250614080000 +0000" channel="BBC World News HD.starhub">
-        <title>The Art of Ancient Fashion</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20250614080000 +0000" stop="20250614090000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -8222,7 +8234,7 @@
         <title>Keshu Ee Veedinte Nadhan</title>
     </programme>
     <programme start="20250614133000 +0000" stop="20250614163000 +0000" channel="Asianet Movies.starhub">
-        <title>A.R.M.</title>
+        <title>ARM</title>
     </programme>
     <programme start="20250613160000 +0000" stop="20250613170000 +0000" channel="Astro Warna HD.starhub">
         <title>Bara Bere</title>
