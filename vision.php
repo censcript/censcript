@@ -508,6 +508,27 @@
 <programme start="20250614003000 +0000" stop="20250614013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250614023000 +0000" stop="20250614033000 +0000" channel="Trans 7.vision">
+<title>Heits Abis</title>
+</programme>
+<programme start="20250614033000 +0000" stop="20250614041500 +0000" channel="Trans 7.vision">
+<title>Bikin Seneng</title>
+</programme>
+<programme start="20250614041500 +0000" stop="20250614050000 +0000" channel="Trans 7.vision">
+<title>Enaknya Mantul</title>
+</programme>
+<programme start="20250614050000 +0000" stop="20250614054500 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20250614054500 +0000" stop="20250614063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20250614063000 +0000" stop="20250614071500 +0000" channel="Trans 7.vision">
+<title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20250614071500 +0000" stop="20250614081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Akhir Pekan</title>
+</programme>
 <programme start="20250614081500 +0000" stop="20250614090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1476,25 +1497,4 @@
 </programme>
 <programme start="20250614230000 +0000" stop="20250614230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
-</programme>
-<programme start="20250614230300 +0000" stop="20250614233000 +0000" channel="BTV.vision">
-<title>Saat Teduh Bersama GMS</title>
-</programme>
-<programme start="20250614233000 +0000" stop="20250615003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20250615003000 +0000" stop="20250615011500 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20250615011500 +0000" stop="20250615021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250615021500 +0000" stop="20250615030000 +0000" channel="BTV.vision">
-<title>Endeus</title>
-</programme>
-<programme start="20250615030000 +0000" stop="20250615034500 +0000" channel="BTV.vision">
-<title>Kids Universe</title>
-</programme>
-<programme start="20250615034500 +0000" stop="20250615040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
