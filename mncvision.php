@@ -745,7 +745,78 @@
 <programme start="20250615162500 +0000" stop="20250615165500 +0000" channel="AXN HD.mncvision">
     <title>Venom: Let There Be Carnage</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614172000 +0000" stop="20250614182000 +0000" channel="BBC Earth.mncvision">
+    <title>Secret Of Modern Life S3, Ep 3</title>
+</programme>
+<programme start="20250614182000 +0000" stop="20250614191500 +0000" channel="BBC Earth.mncvision">
+    <title>Where Wild Men Are S10, Ep 6</title>
+</programme>
+<programme start="20250614191500 +0000" stop="20250614201500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 2</title>
+</programme>
+<programme start="20250614201500 +0000" stop="20250614210500 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo Long Weekends, Ep 14</title>
+</programme>
+<programme start="20250614210500 +0000" stop="20250614220000 +0000" channel="BBC Earth.mncvision">
+    <title>Where Wild Men Are S10, Ep 6</title>
+</programme>
+<programme start="20250614220000 +0000" stop="20250614230500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth S1, Ep 3</title>
+</programme>
+<programme start="20250614230500 +0000" stop="20250615001000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs, Ep 2</title>
+</programme>
+<programme start="20250615001000 +0000" stop="20250615010500 +0000" channel="BBC Earth.mncvision">
+    <title>Japan With Sue Perkins, Ep 2</title>
+</programme>
+<programme start="20250615010500 +0000" stop="20250615020500 +0000" channel="BBC Earth.mncvision">
+    <title>Secret Of Modern Life S3, Ep 3</title>
+</programme>
+<programme start="20250615020500 +0000" stop="20250615030500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 2</title>
+</programme>
+<programme start="20250615030500 +0000" stop="20250615041000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs, Ep 2</title>
+</programme>
+<programme start="20250615041000 +0000" stop="20250615050500 +0000" channel="BBC Earth.mncvision">
+    <title>Japan With Sue Perkins, Ep 2</title>
+</programme>
+<programme start="20250615050500 +0000" stop="20250615060500 +0000" channel="BBC Earth.mncvision">
+    <title>Secret Of Modern Life S3, Ep 3</title>
+</programme>
+<programme start="20250615060500 +0000" stop="20250615070500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth&#039;s Tropical Islands, Ep 2</title>
+</programme>
+<programme start="20250615070500 +0000" stop="20250615081000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs, Ep 2</title>
+</programme>
+<programme start="20250615081000 +0000" stop="20250615091000 +0000" channel="BBC Earth.mncvision">
+    <title>Secret Of Modern Life S3, Ep 3</title>
+</programme>
+<programme start="20250615091000 +0000" stop="20250615100500 +0000" channel="BBC Earth.mncvision">
+    <title>M. Palin: Into Iraq S1, Ep 2</title>
+</programme>
+<programme start="20250615100500 +0000" stop="20250615110500 +0000" channel="BBC Earth.mncvision">
+    <title>Japan With Sue Perkins, Ep 2</title>
+</programme>
+<programme start="20250615110500 +0000" stop="20250615120000 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Andalucia S1, Ep 1</title>
+</programme>
+<programme start="20250615120000 +0000" stop="20250615130000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs, Ep 3</title>
+</programme>
+<programme start="20250615130000 +0000" stop="20250615135500 +0000" channel="BBC Earth.mncvision">
+    <title>Joanna Lumley&#039;s Japan S1, Ep 1</title>
+</programme>
+<programme start="20250615135500 +0000" stop="20250615150500 +0000" channel="BBC Earth.mncvision">
+    <title>Earth S1, Ep 3</title>
+</programme>
+<programme start="20250615150500 +0000" stop="20250615160000 +0000" channel="BBC Earth.mncvision">
+    <title>Big Adv.: South America, Ep 3</title>
+</programme>
+<programme start="20250615160000 +0000" stop="20250615163000 +0000" channel="BBC Earth.mncvision">
+    <title>Walking With Dinosaurs, Ep 3</title>
+</programme>
 <programme start="20250614172000 +0000" stop="20250614182000 +0000" channel="BBC Earth HD.mncvision">
     <title>Secret Of Modern Life S3, Ep 3</title>
 </programme>
@@ -6425,7 +6496,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250615163000 +0000" stop="20250614170000 +0000" channel="Music TV HD.mncvision">
     <title>X-Factor Indonesia S3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614171500 +0000" stop="20250614184500 +0000" channel="Muslim TV.mncvision">
+    <title>Tabligh Akbar</title>
+</programme>
+<programme start="20250614184500 +0000" stop="20250614194500 +0000" channel="Muslim TV.mncvision">
+    <title>Satu</title>
+</programme>
+<programme start="20250614194500 +0000" stop="20250614204500 +0000" channel="Muslim TV.mncvision">
+    <title>Kasih Jannah</title>
+</programme>
+<programme start="20250614204500 +0000" stop="20250614220000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250614220000 +0000" stop="20250614233000 +0000" channel="Muslim TV.mncvision">
+    <title>Tabligh Akbar</title>
+</programme>
+<programme start="20250614233000 +0000" stop="20250615010000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20250615010000 +0000" stop="20250615020000 +0000" channel="Muslim TV.mncvision">
+    <title>Bintang Di Hatiku</title>
+</programme>
+<programme start="20250615020000 +0000" stop="20250615031500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250615031500 +0000" stop="20250615041500 +0000" channel="Muslim TV.mncvision">
+    <title>Aku Bukan Ustadz</title>
+</programme>
+<programme start="20250615041500 +0000" stop="20250615044500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20250615044500 +0000" stop="20250615053000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250615053000 +0000" stop="20250615063000 +0000" channel="Muslim TV.mncvision">
+    <title>Dzolim</title>
+</programme>
+<programme start="20250615063000 +0000" stop="20250615070000 +0000" channel="Muslim TV.mncvision">
+    <title>KSNS The Journey</title>
+</programme>
+<programme start="20250615070000 +0000" stop="20250615083000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20250615083000 +0000" stop="20250615090000 +0000" channel="Muslim TV.mncvision">
+    <title>Kajian Bioskop</title>
+</programme>
+<programme start="20250615090000 +0000" stop="20250615093000 +0000" channel="Muslim TV.mncvision">
+    <title>Para Malaikat Di Sekitar Kita</title>
+</programme>
+<programme start="20250615093000 +0000" stop="20250615100000 +0000" channel="Muslim TV.mncvision">
+    <title>Yang Tobat-Tobat Aja</title>
+</programme>
+<programme start="20250615100000 +0000" stop="20250615111500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250615111500 +0000" stop="20250615114500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20250615114500 +0000" stop="20250615115500 +0000" channel="Muslim TV.mncvision">
+    <title>Ambil Jeda</title>
+</programme>
+<programme start="20250615115500 +0000" stop="20250615130000 +0000" channel="Muslim TV.mncvision">
+    <title>Sampeyan Muslim??</title>
+</programme>
+<programme start="20250615130000 +0000" stop="20250615143000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20250615143000 +0000" stop="20250615153000 +0000" channel="Muslim TV.mncvision">
+    <title>Kasih Jannah</title>
+</programme>
+<programme start="20250615153000 +0000" stop="20250615160000 +0000" channel="Muslim TV.mncvision">
+    <title>Yang Tobat-Tobat Aja</title>
+</programme>
+<programme start="20250615160000 +0000" stop="20250615163000 +0000" channel="Muslim TV.mncvision">
+    <title>KSNS The Journey</title>
+</programme>
+<programme start="20250615163000 +0000" stop="20250615164500 +0000" channel="Muslim TV.mncvision">
+    <title>Ambil Jeda</title>
+</programme>
+<programme start="20250615164500 +0000" stop="20250614171500 +0000" channel="Muslim TV.mncvision">
+    <title>Para Malaikat Di Sekitar Kita</title>
+</programme>
 <programme start="20250614170000 +0000" stop="20250614171000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
