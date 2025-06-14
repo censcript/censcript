@@ -508,36 +508,6 @@
 <programme start="20250614003000 +0000" stop="20250614013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250614041500 +0000" stop="20250614050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20250614050000 +0000" stop="20250614054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250614054500 +0000" stop="20250614063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20250614063000 +0000" stop="20250614071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20250614071500 +0000" stop="20250614081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
-<programme start="20250614081500 +0000" stop="20250614090000 +0000" channel="Trans 7.vision">
-<title>Jejak Si Gundul</title>
-</programme>
-<programme start="20250614090000 +0000" stop="20250614100000 +0000" channel="Trans 7.vision">
-<title>Makan Receh</title>
-</programme>
-<programme start="20250614100000 +0000" stop="20250614110000 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
-</programme>
-<programme start="20250614110000 +0000" stop="20250614120000 +0000" channel="Trans 7.vision">
-<title>On The Spot</title>
-</programme>
-<programme start="20250614120000 +0000" stop="20250614123000 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
-</programme>
 <programme start="20250614123000 +0000" stop="20250614131500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
@@ -1497,4 +1467,34 @@
 </programme>
 <programme start="20250614233000 +0000" stop="20250615003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250615003000 +0000" stop="20250615011500 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250615011500 +0000" stop="20250615021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250615021500 +0000" stop="20250615030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
+</programme>
+<programme start="20250615030000 +0000" stop="20250615034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
+</programme>
+<programme start="20250615034500 +0000" stop="20250615040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250615040000 +0000" stop="20250615050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20250615050000 +0000" stop="20250615060000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250615060000 +0000" stop="20250615070000 +0000" channel="BTV.vision">
+<title>Masak Everywhere</title>
+</programme>
+<programme start="20250615070000 +0000" stop="20250615080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250615080000 +0000" stop="20250615090000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>

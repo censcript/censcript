@@ -3394,8 +3394,8 @@
 <programme start="20250614123000 +0000" stop="20250614143000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20250614143000 +0000" stop="20250614163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20250614143000 +0000" stop="20250614183000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: Q. Zheng (CHN) - A. Anisimova (USA), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20250614121000 +0000" stop="20250614123000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>

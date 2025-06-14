@@ -1,12 +1,3 @@
-    <programme start="20250614095500 +0000" stop="20250614121000 +0000" channel="Optus Sport 10.optus">
-        <title>J1 League - FC Tokyo v Cerezo</title>
-    </programme>
-    <programme start="20250614095500 +0000" stop="20250614121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Suwon FC v Anyang</title>
-    </programme>
-    <programme start="20250614095500 +0000" stop="20250614121000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Jeju v Daegu</title>
-    </programme>
     <programme start="20250614210000 +0000" stop="20250614233000 +0000" channel="Optus Sport 404.optus">
         <title>NWSL - Chicago Stars v Seattle Reign</title>
     </programme>
