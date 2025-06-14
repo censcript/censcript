@@ -508,12 +508,6 @@
 <programme start="20250614003000 +0000" stop="20250614013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250614050000 +0000" stop="20250614054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250614054500 +0000" stop="20250614063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
 <programme start="20250614063000 +0000" stop="20250614071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250615003000 +0000" stop="20250615011500 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20250615011500 +0000" stop="20250615021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250615021500 +0000" stop="20250615030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
 </programme>

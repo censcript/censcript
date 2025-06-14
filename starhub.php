@@ -2167,8 +2167,8 @@
     <programme start="20250613170000 +0000" stop="20250613200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Aasayil Oru Kaditham</title>
     </programme>
-    <programme start="20250613200000 +0000" stop="20250613220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250613200000 +0000" stop="20250613223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Naangal</title>
     </programme>
     <programme start="20250613223000 +0000" stop="20250614010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Enn Iniya Pon Nilave</title>
