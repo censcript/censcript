@@ -1,6 +1,3 @@
-    <programme start="20250614085500 +0000" stop="20250614111000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Sanfrecce</title>
-    </programme>
     <programme start="20250614095500 +0000" stop="20250614121000 +0000" channel="Optus Sport 10.optus">
         <title>J1 League - FC Tokyo v Cerezo</title>
     </programme>
