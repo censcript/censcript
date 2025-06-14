@@ -508,9 +508,6 @@
 <programme start="20250614003000 +0000" stop="20250614013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250614013000 +0000" stop="20250614023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
 <programme start="20250614023000 +0000" stop="20250614033000 +0000" channel="Trans 7.vision">
 <title>Heits Abis</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250614223000 +0000" stop="20250614230000 +0000" channel="BTV.vision">
 <title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250614230000 +0000" stop="20250614230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
 </programme>

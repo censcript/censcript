@@ -376,10 +376,10 @@
     <programme start="20250613135947 +0000" stop="20250613170000 +0000" channel="Vasantham.mewatch">
         <title>Blue Star</title>
     </programme>
-    <programme start="20250613170000 +0000" stop="20250613173000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613165958 +0000" stop="20250613172949 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250613173000 +0000" stop="20250614010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250613172949 +0000" stop="20250614010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250614010000 +0000" stop="20250614012957 +0000" channel="Vasantham.mewatch">

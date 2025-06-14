@@ -1,6 +1,3 @@
-    <programme start="20250614000000 +0000" stop="20250614023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Houston Dash v San Diego Wave FC</title>
-    </programme>
     <programme start="20250614013000 +0000" stop="20250614040000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Utah Royals FC v Gotham FC</title>
     </programme>
