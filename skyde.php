@@ -2767,7 +2767,7 @@
 <programme start="20250614131000 +0000" stop="20250614140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Kanada</title>
 </programme>
-<programme start="20250614140500 +0000" stop="20250614150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250614140000 +0000" stop="20250614150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>IndyCar: Highlights: Chevrolet Detroit Grand Prix</title>
 </programme>
 <programme start="20250614150000 +0000" stop="20250614160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2944,10 +2944,10 @@
 <programme start="20250614130000 +0000" stop="20250614131000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: Best Overtakes 2024</title>
 </programme>
-<programme start="20250614131000 +0000" stop="20250614140500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250614131000 +0000" stop="20250614140000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Kanada</title>
 </programme>
-<programme start="20250614140500 +0000" stop="20250614150000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250614140000 +0000" stop="20250614150000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Chevrolet Detroit Grand Prix</title>
 </programme>
 <programme start="20250614150000 +0000" stop="20250614160000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3259,23 +3259,23 @@
 <programme start="20250614081500 +0000" stop="20250614100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - B. Nakashima (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
-<programme start="20250614100000 +0000" stop="20250614115500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250614100000 +0000" stop="20250614120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: F. Auger-Aliassime (CAN) - T. Fritz (USA), Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20250614115500 +0000" stop="20250614143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: A. Zverev (GER) - B. Shelton (USA), Boss Open in Stuttgart, Halbfinale 2</title>
+<programme start="20250614120000 +0000" stop="20250614140000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 250: Halbfinale, Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
-<programme start="20250614143000 +0000" stop="20250614170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Q. Zheng (CHN) - A. Anisimova (USA), HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20250614140000 +0000" stop="20250614163000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 250: Libema Open in s&#039;Hertogenbosch (NED), Halbfinals</title>
 </programme>
-<programme start="20250614164500 +0000" stop="20250614183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - M. Keys (USA), HSBC Championships in London (GBR), Halbfinale 1</title>
+<programme start="20250614163000 +0000" stop="20250614183000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20250614183000 +0000" stop="20250614203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - T. Fritz (USA), Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
 <programme start="20250614203000 +0000" stop="20250614223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: A. Zverev (GER) - B. Shelton (USA), Boss Open in Stuttgart, Halbfinale 2</title>
+    <title>ATP 250: Halbfinale, Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
 <programme start="20250613223000 +0000" stop="20250614000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: 2. Tag in Oakmont, PA (USA)</title>
@@ -3304,13 +3304,13 @@
 <programme start="20250614100000 +0000" stop="20250614120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: F. Auger-Aliassime (CAN) - T. Fritz (USA), Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20250614115500 +0000" stop="20250614143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: A. Zverev (GER) - B. Shelton (USA), Boss Open in Stuttgart, Halbfinale 2</title>
+<programme start="20250614120000 +0000" stop="20250614140000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 250: Halbfinale, Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
-<programme start="20250614143000 +0000" stop="20250614163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Q. Zheng (CHN) - A. Anisimova (USA), HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20250614140000 +0000" stop="20250614163000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 250: Libema Open in s&#039;Hertogenbosch (NED), Halbfinals</title>
 </programme>
-<programme start="20250614164500 +0000" stop="20250614180000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250614163000 +0000" stop="20250614180000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 3. Freies Training - GP Kanada</title>
 </programme>
 <programme start="20250614180000 +0000" stop="20250614190000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3361,10 +3361,10 @@
 <programme start="20250614114000 +0000" stop="20250614131000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Kanada</title>
 </programme>
-<programme start="20250614131000 +0000" stop="20250614140500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250614131000 +0000" stop="20250614140000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP Kanada</title>
 </programme>
-<programme start="20250614140500 +0000" stop="20250614150000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250614140000 +0000" stop="20250614150000 +0000" channel="Sky Sport UHD.skyde">
     <title>IndyCar: Highlights: Chevrolet Detroit Grand Prix</title>
 </programme>
 <programme start="20250614150000 +0000" stop="20250614160000 +0000" channel="Sky Sport UHD.skyde">
@@ -3394,13 +3394,13 @@
 <programme start="20250614123000 +0000" stop="20250614143000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20250614142000 +0000" stop="20250614170500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Q. Zheng (CHN) - A. Anisimova (USA), HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20250614143000 +0000" stop="20250614163000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20250614121000 +0000" stop="20250614123000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20250614123000 +0000" stop="20250614200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250614123000 +0000" stop="20250614163000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Libema Open in s&#039;Hertogenbosch (NED), Halbfinals</title>
 </programme>
 <programme start="20250613224000 +0000" stop="20250613232500 +0000" channel="SYFY HD.skyde">
