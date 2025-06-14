@@ -1,6 +1,3 @@
-    <programme start="20250614013000 +0000" stop="20250614040000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Utah Royals FC v Gotham FC</title>
-    </programme>
     <programme start="20250614020000 +0000" stop="20250614043000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Bay FC v Orlando Pride</title>
     </programme>
