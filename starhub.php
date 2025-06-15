@@ -3049,17 +3049,20 @@
     <programme start="20250614173000 +0000" stop="20250614220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250614220000 +0000" stop="20250614233500 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250614220000 +0000" stop="20250615020500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250614233500 +0000" stop="20250615080000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250615020500 +0000" stop="20250615103000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Australia vs South Africa - Day 3</title>
     </programme>
-    <programme start="20250615080000 +0000" stop="20250615090000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250615103000 +0000" stop="20250615113000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Australia vs South Africa - Day 3 HLs</title>
     </programme>
-    <programme start="20250615090000 +0000" stop="20250615173000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>Australia vs South Africa - Day 5</title>
+    <programme start="20250615113000 +0000" stop="20250615151000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>Australia vs South Africa - Day 4</title>
+    </programme>
+    <programme start="20250615151000 +0000" stop="20250615160000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250614160000 +0000" stop="20250614161500 +0000" channel="DW English HD.starhub">
         <title>News</title>

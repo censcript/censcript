@@ -2875,7 +2875,7 @@
 <programme start="20250615211500 +0000" stop="20250615234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - RB Leipzig U17, Finale</title>
 </programme>
-<programme start="20250614220000 +0000" stop="20250614230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250614221000 +0000" stop="20250614230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 1. Rennen - GP Kanada</title>
 </programme>
 <programme start="20250614230000 +0000" stop="20250615003000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2950,28 +2950,31 @@
 <programme start="20250615213000 +0000" stop="20250615233000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Kanada</title>
 </programme>
-<programme start="20250615000000 +0000" stop="20250615030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615000000 +0000" stop="20250615023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Hulencourt Women&#039;s Open, 3. Tag in Genappe (Belgien)</title>
+</programme>
+<programme start="20250615023000 +0000" stop="20250615030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Tour Champions: Learning Center (13)</title>
 </programme>
 <programme start="20250615030000 +0000" stop="20250615060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 3. Tag in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20250615060000 +0000" stop="20250615090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615060000 +0000" stop="20250615083500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Hulencourt Women&#039;s Open, 3. Tag in Genappe (Belgien)</title>
+</programme>
+<programme start="20250615083500 +0000" stop="20250615090000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Swiss Challenge</title>
 </programme>
 <programme start="20250615090000 +0000" stop="20250615093000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Learning Center (13)</title>
 </programme>
-<programme start="20250615093000 +0000" stop="20250615100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Swiss Challenge</title>
-</programme>
-<programme start="20250615100000 +0000" stop="20250615130000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615093000 +0000" stop="20250615123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 3. Tag in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20250615130000 +0000" stop="20250615140000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615123000 +0000" stop="20250615133000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Credentialed: The Memorial Tournament 2025</title>
 </programme>
-<programme start="20250615140000 +0000" stop="20250615150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615133000 +0000" stop="20250615150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live US Open: 4. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250615150000 +0000" stop="20250615230000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3212,37 +3215,34 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250614230000 +0000" stop="20250615010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
+    <title>WTA 500: Q. Zheng (CHN) - A. Anisimova (USA), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
-<programme start="20250615010000 +0000" stop="20250615030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: F. Auger-Aliassime (CAN) - T. Fritz (USA), Boss Open in Stuttgart, Halbfinale 1</title>
-</programme>
-<programme start="20250615030000 +0000" stop="20250615033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250615010000 +0000" stop="20250615015500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250615033000 +0000" stop="20250615053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
+<programme start="20250615015500 +0000" stop="20250615034000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - M. Keys (USA), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20250615053000 +0000" stop="20250615073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20250615034000 +0000" stop="20250615054000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Q. Zheng (CHN) - A. Anisimova (USA), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
-<programme start="20250615073000 +0000" stop="20250615080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250615054000 +0000" stop="20250615061000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250615080000 +0000" stop="20250615100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250615061000 +0000" stop="20250615075000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Auger-Aliassime (CAN) - T. Fritz (USA), Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20250615100000 +0000" stop="20250615120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Halbfinale, Boss Open in Stuttgart, Halbfinale 2</title>
+<programme start="20250615075000 +0000" stop="20250615100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: A. Zverev (GER) - B. Shelton (USA), Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
 <programme start="20250615120000 +0000" stop="20250615143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Boss Open in Stuttgart, Finale</title>
+    <title>Live ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
-<programme start="20250615143000 +0000" stop="20250615150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250615123000 +0000" stop="20250615150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20250615150000 +0000" stop="20250615173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Boss Open in Stuttgart, Finale</title>
+    <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20250615173000 +0000" stop="20250615200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Finale, HSBC Championships in London (GBR), Finale</title>
@@ -3251,7 +3251,7 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250615203000 +0000" stop="20250615230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: Z.Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20250615000000 +0000" stop="20250615031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers - Florida Panthers, Stanley Cup Final 2025, Spiel 5</title>
@@ -3280,12 +3280,6 @@
 <programme start="20250615103000 +0000" stop="20250615133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - RB Leipzig U17, Finale</title>
 </programme>
-<programme start="20250615133000 +0000" stop="20250615143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: Finale, Boss Open in Stuttgart, Finale</title>
-</programme>
-<programme start="20250615143000 +0000" stop="20250615150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: 4. Tag (Early Coverage)</title>
-</programme>
 <programme start="20250615150000 +0000" stop="20250615175500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: 4. Tag in Oakmont, PA (USA)</title>
 </programme>
@@ -3298,7 +3292,7 @@
 <programme start="20250615203000 +0000" stop="20250615230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: 4. Tag in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20250614220000 +0000" stop="20250614230000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250614221000 +0000" stop="20250614230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1 Academy: 2. Rennen - GP Kanada</title>
 </programme>
 <programme start="20250614230000 +0000" stop="20250615003000 +0000" channel="Sky Sport UHD.skyde">

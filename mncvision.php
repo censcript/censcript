@@ -1648,7 +1648,96 @@
 <programme start="20250615160000 +0000" stop="20250615163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Wall Street Week</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614173000 +0000" stop="20250614180000 +0000" channel="BTV.mncvision">
+    <title>Film Pendek Indonesia</title>
+</programme>
+<programme start="20250614180000 +0000" stop="20250614180300 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20250614180300 +0000" stop="20250614190000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20250614190000 +0000" stop="20250614200000 +0000" channel="BTV.mncvision">
+    <title>Dunia Alam</title>
+</programme>
+<programme start="20250614200000 +0000" stop="20250614210000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250614210000 +0000" stop="20250614213000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250614213000 +0000" stop="20250614223000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250614223000 +0000" stop="20250614230000 +0000" channel="BTV.mncvision">
+    <title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250614230000 +0000" stop="20250614230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250614230300 +0000" stop="20250614233000 +0000" channel="BTV.mncvision">
+    <title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250614233000 +0000" stop="20250615003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250615003000 +0000" stop="20250615011500 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
+</programme>
+<programme start="20250615011500 +0000" stop="20250615021500 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250615021500 +0000" stop="20250615030000 +0000" channel="BTV.mncvision">
+    <title>Endeus</title>
+</programme>
+<programme start="20250615030000 +0000" stop="20250615034500 +0000" channel="BTV.mncvision">
+    <title>Kids Universe</title>
+</programme>
+<programme start="20250615034500 +0000" stop="20250615040000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250615040000 +0000" stop="20250615050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250615050000 +0000" stop="20250615060000 +0000" channel="BTV.mncvision">
+    <title>Dunia RANS</title>
+</programme>
+<programme start="20250615060000 +0000" stop="20250615070000 +0000" channel="BTV.mncvision">
+    <title>Masak Everywhere</title>
+</programme>
+<programme start="20250615070000 +0000" stop="20250615080000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250615080000 +0000" stop="20250615090000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250615090000 +0000" stop="20250615100000 +0000" channel="BTV.mncvision">
+    <title>FYI</title>
+</programme>
+<programme start="20250615100000 +0000" stop="20250615110000 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
+</programme>
+<programme start="20250615110000 +0000" stop="20250615120000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20250615120000 +0000" stop="20250615130000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250615130000 +0000" stop="20250615140000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250615140000 +0000" stop="20250615150000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250615150000 +0000" stop="20250615160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20250615160000 +0000" stop="20250615163000 +0000" channel="BTV.mncvision">
+    <title>Ekspos</title>
+</programme>
+<programme start="20250615163000 +0000" stop="20250614170000 +0000" channel="BTV.mncvision">
+    <title>Scooter Prix</title>
+</programme>
 <programme start="20250614181800 +0000" stop="20250614194900 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
@@ -1883,7 +1972,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250615004500 +0000" stop="20250615011500 +0000" channel="CBeebies.mncvision">
     <title>Thomas &amp; Friends S23, Ep 9</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614180000 +0000" stop="20250614194500 +0000" channel="CCM.mncvision">
+    <title>Life Gamble</title>
+</programme>
+<programme start="20250614194500 +0000" stop="20250614212000 +0000" channel="CCM.mncvision">
+    <title>The Emperor And The Minister</title>
+</programme>
+<programme start="20250614212000 +0000" stop="20250614230500 +0000" channel="CCM.mncvision">
+    <title>Rivals Of Kung Fu</title>
+</programme>
+<programme start="20250614230500 +0000" stop="20250615004500 +0000" channel="CCM.mncvision">
+    <title>Rolls, Rolls, I Love You</title>
+</programme>
+<programme start="20250615004500 +0000" stop="20250615023000 +0000" channel="CCM.mncvision">
+    <title>Iron Bodyguard</title>
+</programme>
+<programme start="20250615023000 +0000" stop="20250615041000 +0000" channel="CCM.mncvision">
+    <title>The Thundering Sword</title>
+</programme>
+<programme start="20250615041000 +0000" stop="20250615055500 +0000" channel="CCM.mncvision">
+    <title>Hong Kong 73</title>
+</programme>
+<programme start="20250615055500 +0000" stop="20250615073500 +0000" channel="CCM.mncvision">
+    <title>Buddha&#039;s Palm</title>
+</programme>
+<programme start="20250615073500 +0000" stop="20250615095000 +0000" channel="CCM.mncvision">
+    <title>Hong Kong Nocturne</title>
+</programme>
+<programme start="20250615095000 +0000" stop="20250615112000 +0000" channel="CCM.mncvision">
+    <title>Heroes Of Sung</title>
+</programme>
+<programme start="20250615112000 +0000" stop="20250615130000 +0000" channel="CCM.mncvision">
+    <title>Summer Heat</title>
+</programme>
+<programme start="20250615130000 +0000" stop="20250615144000 +0000" channel="CCM.mncvision">
+    <title>Judgement Of An Assassin</title>
+</programme>
+<programme start="20250615144000 +0000" stop="20250615162500 +0000" channel="CCM.mncvision">
+    <title>Forbidden Tales Of Two Cities</title>
+</programme>
+<programme start="20250615162500 +0000" stop="20250615165500 +0000" channel="CCM.mncvision">
+    <title>Brave Archer And His Mate</title>
+</programme>
 <programme start="20250614170000 +0000" stop="20250614180000 +0000" channel="Celebrities TV.mncvision">
     <title>Ngebor Rezeki</title>
 </programme>
@@ -4383,7 +4513,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250615163000 +0000" stop="20250614170000 +0000" channel="HITS.mncvision">
     <title>Frasier S6, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614181500 +0000" stop="20250614203000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Rocky 2</title>
+</programme>
+<programme start="20250614203000 +0000" stop="20250614223000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Kung Fu Hustle</title>
+</programme>
+<programme start="20250614223000 +0000" stop="20250615003000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Cloudy With Chance Of Meatballs</title>
+</programme>
+<programme start="20250615003000 +0000" stop="20250615024500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Rocky 2</title>
+</programme>
+<programme start="20250615024500 +0000" stop="20250615044500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Kung Fu Hustle</title>
+</programme>
+<programme start="20250615044500 +0000" stop="20250615071500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Marathon Man</title>
+</programme>
+<programme start="20250615071500 +0000" stop="20250615100000 +0000" channel="HITS MOVIES.mncvision">
+    <title>A.I. Artificial Intelligence</title>
+</programme>
+<programme start="20250615100000 +0000" stop="20250615120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>CJ7</title>
+</programme>
+<programme start="20250615120000 +0000" stop="20250615140000 +0000" channel="HITS MOVIES.mncvision">
+    <title>How To Train Your Dragon 2</title>
+</programme>
+<programme start="20250615140000 +0000" stop="20250615161500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Rocky</title>
+</programme>
+<programme start="20250615161500 +0000" stop="20250615164500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Star Trek</title>
+</programme>
 <programme start="20250614181500 +0000" stop="20250614203000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Rocky 2</title>
 </programme>
@@ -8233,7 +8395,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250615163000 +0000" stop="20250614170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2024/25: KSV Vs SCF</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614183000 +0000" stop="20250614203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: QAT Vs PRK</title>
+</programme>
+<programme start="20250614203000 +0000" stop="20250614210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20250614210000 +0000" stop="20250614213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250614213000 +0000" stop="20250614233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs NMI</title>
+</programme>
+<programme start="20250614233000 +0000" stop="20250615013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: QAT Vs PRK</title>
+</programme>
+<programme start="20250615013000 +0000" stop="20250615020000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250615020000 +0000" stop="20250615040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25 (L)</title>
+</programme>
+<programme start="20250615040000 +0000" stop="20250615060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25 (L)</title>
+</programme>
+<programme start="20250615060000 +0000" stop="20250615080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25 (L)</title>
+</programme>
+<programme start="20250615080000 +0000" stop="20250615100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25 (L)</title>
+</programme>
+<programme start="20250615100000 +0000" stop="20250615103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250615103000 +0000" stop="20250615123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: JOR Vs PLE</title>
+</programme>
+<programme start="20250615123000 +0000" stop="20250615143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: AUS Vs IDN</title>
+</programme>
+<programme start="20250615143000 +0000" stop="20250615163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250615163000 +0000" stop="20250614170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2024/25: KSV Vs SCF</title>
+</programme>
 <programme start="20250614173000 +0000" stop="20250614200000 +0000" channel="Sportstars.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>
 </programme>
@@ -8564,7 +8770,57 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250615153000 +0000" stop="20250615160000 +0000" channel="Sportstars HD.mncvision">
     <title>Volleyball Nations League Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250614170000 +0000" stop="20250614180000 +0000" channel="SPOTV.mncvision">
+    <title>SPOTV Encore: Wimbledon &#039;24</title>
+</programme>
+<programme start="20250614180000 +0000" stop="20250614200000 +0000" channel="SPOTV.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250614200000 +0000" stop="20250614233000 +0000" channel="SPOTV.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250614233000 +0000" stop="20250615003000 +0000" channel="SPOTV.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250615003000 +0000" stop="20250615010500 +0000" channel="SPOTV.mncvision">
+    <title>2025 WorldSBK C&#039;ship</title>
+</programme>
+<programme start="20250615010500 +0000" stop="20250615030000 +0000" channel="SPOTV.mncvision">
+    <title>SRO Japan Cup 2025 (L)</title>
+</programme>
+<programme start="20250615030000 +0000" stop="20250615040000 +0000" channel="SPOTV.mncvision">
+    <title>Supercars 2025: Perth</title>
+</programme>
+<programme start="20250615040000 +0000" stop="20250615050000 +0000" channel="SPOTV.mncvision">
+    <title>Supercars 2025: Perth</title>
+</programme>
+<programme start="20250615050000 +0000" stop="20250615055000 +0000" channel="SPOTV.mncvision">
+    <title>SPOTV Encore: RSL</title>
+</programme>
+<programme start="20250615055000 +0000" stop="20250615074500 +0000" channel="SPOTV.mncvision">
+    <title>SRO Japan Cup 2025 (L)</title>
+</programme>
+<programme start="20250615074500 +0000" stop="20250615084500 +0000" channel="SPOTV.mncvision">
+    <title>T100 Triathlon San Francisco</title>
+</programme>
+<programme start="20250615084500 +0000" stop="20250615093500 +0000" channel="SPOTV.mncvision">
+    <title>2025 WorldSBK C&#039;ship (L)</title>
+</programme>
+<programme start="20250615093500 +0000" stop="20250615102000 +0000" channel="SPOTV.mncvision">
+    <title>24-25 PSA World Tour: British</title>
+</programme>
+<programme start="20250615102000 +0000" stop="20250615140000 +0000" channel="SPOTV.mncvision">
+    <title>2025 WorldSBK C&#039;ship (L)</title>
+</programme>
+<programme start="20250615140000 +0000" stop="20250615150000 +0000" channel="SPOTV.mncvision">
+    <title>2025 SLS C&#039;ship: Santa Monica</title>
+</programme>
+<programme start="20250615150000 +0000" stop="20250615153000 +0000" channel="SPOTV.mncvision">
+    <title>2025 SLS C&#039;ship: Santa Monica</title>
+</programme>
+<programme start="20250615153000 +0000" stop="20250615160000 +0000" channel="SPOTV.mncvision">
+    <title>MLS 2025: POR Vs STL</title>
+</programme>
 <programme start="20250614201500 +0000" stop="20250614234500 +0000" channel="SPOTV 2.mncvision">
     <title>T100 Triathlon: Vancouver (L)</title>
 </programme>
