@@ -2126,19 +2126,19 @@
         <title>Best of RG 2025: Men’s Singles Final</title>
     </programme>
     <programme start="20250614170000 +0000" stop="20250614183000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Houston Day 2 Hijikata v Eubanks</title>
+        <title>Houston Day 2 Hijikata v Eubanks</title>
     </programme>
     <programme start="20250614183000 +0000" stop="20250614195500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Houston Day 2 Nishikori v Krueger</title>
+        <title>Houston Day 2 Nishikori v Krueger</title>
     </programme>
     <programme start="20250614195500 +0000" stop="20250614200500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Agassi at Miami 1990-1996</title>
+        <title>Agassi at Miami 1990-1996</title>
     </programme>
     <programme start="20250614200500 +0000" stop="20250614213000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Houston Day 3 Tabilo v Brooksby</title>
+        <title>Houston Day 3 Tabilo v Brooksby</title>
     </programme>
     <programme start="20250614213000 +0000" stop="20250614230000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Houston Day 3 Smith v Quinn</title>
+        <title>Houston Day 3 Smith v Quinn</title>
     </programme>
     <programme start="20250614230000 +0000" stop="20250615003000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Stuttgart SF 1 Fritz v Auger-Aliassime</title>

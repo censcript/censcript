@@ -1,6 +1,3 @@
-    <programme start="20250615085500 +0000" stop="20250615111000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Fagiano Okayama v Avispa</title>
-    </programme>
     <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - Portland Thorns FC v Washington Spirit</title>
     </programme>
