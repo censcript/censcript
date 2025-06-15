@@ -1,6 +1,3 @@
-    <programme start="20250615020000 +0000" stop="20250615043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Angel City FC v North Carolina Courage</title>
-    </programme>
     <programme start="20250615045500 +0000" stop="20250615071000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Albirex v Yokohama FM</title>
     </programme>
