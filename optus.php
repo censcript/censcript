@@ -1,6 +1,3 @@
-    <programme start="20250615200000 +0000" stop="20250615223000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - Portland Thorns FC v Washington Spirit</title>
-    </programme>
     <programme start="20250617102000 +0000" stop="20250617124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Suwon FC</title>
     </programme>
@@ -57,6 +54,9 @@
     </programme>
     <programme start="20250623020000 +0000" stop="20250623043000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Washington Spirit</title>
+    </programme>
+    <programme start="20250625170000 +0000" stop="20250625173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Howard Webb</title>
     </programme>
     <programme start="20250627102000 +0000" stop="20250627124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Daejeon v Jeju</title>
