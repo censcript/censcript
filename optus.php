@@ -1,6 +1,3 @@
-    <programme start="20250615045500 +0000" stop="20250615071000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Albirex v Yokohama FM</title>
-    </programme>
     <programme start="20250615085500 +0000" stop="20250615111000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Fagiano Okayama v Avispa</title>
     </programme>
