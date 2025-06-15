@@ -3226,7 +3226,7 @@
 <programme start="20250616091000 +0000" stop="20250616093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250616093000 +0000" stop="20250616200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250616093000 +0000" stop="20250616180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
 </programme>
 <programme start="20250615220000 +0000" stop="20250615225500 +0000" channel="SYFY HD.skyde">
