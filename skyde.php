@@ -2959,10 +2959,10 @@
 <programme start="20250615030000 +0000" stop="20250615060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 3. Tag in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20250615060000 +0000" stop="20250615083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615060000 +0000" stop="20250615083500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Hulencourt Women&#039;s Open, 3. Tag in Genappe (Belgien)</title>
 </programme>
-<programme start="20250615083000 +0000" stop="20250615090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250615083500 +0000" stop="20250615090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>HotelPlaner Tour: Highlights Swiss Challenge</title>
 </programme>
 <programme start="20250615090000 +0000" stop="20250615093000 +0000" channel="Sky Sport Golf HD.skyde">
