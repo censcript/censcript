@@ -2141,34 +2141,34 @@
         <title>ATP Tour 250 2025: Houston Day 3 Smith v Quinn</title>
     </programme>
     <programme start="20250614230000 +0000" stop="20250615003000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart SF 1</title>
+        <title>Stuttgart SF 1 Fritz v Auger-Aliassime</title>
     </programme>
     <programme start="20250615003000 +0000" stop="20250615020000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch SF 1</title>
+        <title>Stuttgart SF 2 Zverev v Shelton</title>
     </programme>
     <programme start="20250615020000 +0000" stop="20250615033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Den Bosch SF 2</title>
+        <title>Den Bosch SF 2 Opelka v Bergs</title>
     </programme>
-    <programme start="20250615033000 +0000" stop="20250615043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Review Show</title>
+    <programme start="20250615033000 +0000" stop="20250615050000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Stuttgart SF 1 Fritz v Auger-Aliassime</title>
     </programme>
-    <programme start="20250615043000 +0000" stop="20250615060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart SF 1</title>
+    <programme start="20250615050000 +0000" stop="20250615063000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Stuttgart SF 2 Zverev v Shelton</title>
     </programme>
-    <programme start="20250615060000 +0000" stop="20250615073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart SF 2</title>
-    </programme>
-    <programme start="20250615073000 +0000" stop="20250615080000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250615063000 +0000" stop="20250615070000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
-    <programme start="20250615080000 +0000" stop="20250615110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Men’s Singles Final</title>
+    <programme start="20250615070000 +0000" stop="20250615100000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Men’s Singles Final Sinner v Alcaraz</title>
     </programme>
-    <programme start="20250615110000 +0000" stop="20250615120000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250615100000 +0000" stop="20250615120000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Stuttgart Final Zverev v Fritz</title>
+    </programme>
+    <programme start="20250615120000 +0000" stop="20250615130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Review Show</title>
     </programme>
-    <programme start="20250615120000 +0000" stop="20250615140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Final</title>
+    <programme start="20250615130000 +0000" stop="20250615140000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Madrid</title>
     </programme>
     <programme start="20250615140000 +0000" stop="20250615150000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Rome</title>
