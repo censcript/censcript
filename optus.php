@@ -1,9 +1,3 @@
-    <programme start="20250614210000 +0000" stop="20250614233000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Chicago Stars v Seattle Reign</title>
-    </programme>
-    <programme start="20250614233000 +0000" stop="20250615020000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - Kansas City Current v Racing Louisville FC</title>
-    </programme>
     <programme start="20250615020000 +0000" stop="20250615043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Angel City FC v North Carolina Courage</title>
     </programme>

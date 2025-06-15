@@ -2683,7 +2683,7 @@
 <programme start="20250615214000 +0000" stop="20250615222500 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20250614220000 +0000" stop="20250614223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250614221000 +0000" stop="20250614223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - FAK, 25. Runde</title>
 </programme>
 <programme start="20250614223000 +0000" stop="20250614230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3382,8 +3382,8 @@
 <programme start="20250615121000 +0000" stop="20250615123000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20250615123000 +0000" stop="20250615150000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: Finale, Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+<programme start="20250615123000 +0000" stop="20250615170000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 250: Z.Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20250614221500 +0000" stop="20250615001500 +0000" channel="SYFY HD.skyde">
     <title>Stirb langsam 2</title>
