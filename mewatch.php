@@ -121,20 +121,17 @@
     <programme start="20250616122957 +0000" stop="20250616130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 83</title>
     </programme>
-    <programme start="20250616130000 +0000" stop="20250616133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616130000 +0000" stop="20250616132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250616133000 +0000" stop="20250616140006 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616132959 +0000" stop="20250616140006 +0000" channel="Channel 5.mewatch">
         <title>Kumar Vs The World - EP 7</title>
     </programme>
-    <programme start="20250616140006 +0000" stop="20250616150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616140006 +0000" stop="20250616150004 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 11</title>
     </programme>
-    <programme start="20250616150000 +0000" stop="20250616160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616150004 +0000" stop="20250616160005 +0000" channel="Channel 5.mewatch">
         <title>Fire Country S2 - EP 3</title>
-    </programme>
-    <programme start="20250616160000 +0000" stop="20250616163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 83</title>
     </programme>
     <programme start="20250615153209 +0000" stop="20250615160133 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 8</title>
@@ -430,10 +427,10 @@
     <programme start="20250615140003 +0000" stop="20250615163000 +0000" channel="Vasantham.mewatch">
         <title>Darling</title>
     </programme>
-    <programme start="20250615163000 +0000" stop="20250615165938 +0000" channel="Vasantham.mewatch">
+    <programme start="20250615163016 +0000" stop="20250615170008 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250615165938 +0000" stop="20250616010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250615170008 +0000" stop="20250616010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250616010000 +0000" stop="20250616013001 +0000" channel="Vasantham.mewatch">
@@ -499,34 +496,34 @@
     <programme start="20250615155959 +0000" stop="20250615160324 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250615160324 +0000" stop="20250615163140 +0000" channel="CNA.mewatch">
+    <programme start="20250615160244 +0000" stop="20250615163100 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 28</title>
     </programme>
-    <programme start="20250615163140 +0000" stop="20250615170024 +0000" channel="CNA.mewatch">
+    <programme start="20250615163100 +0000" stop="20250615170000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 7</title>
     </programme>
-    <programme start="20250615170024 +0000" stop="20250615175959 +0000" channel="CNA.mewatch">
+    <programme start="20250615170000 +0000" stop="20250615180000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 8</title>
     </programme>
-    <programme start="20250615175959 +0000" stop="20250615182959 +0000" channel="CNA.mewatch">
+    <programme start="20250615180000 +0000" stop="20250615182950 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250615182959 +0000" stop="20250615190019 +0000" channel="CNA.mewatch">
+    <programme start="20250615182950 +0000" stop="20250615190009 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 5</title>
     </programme>
-    <programme start="20250615190019 +0000" stop="20250615193005 +0000" channel="CNA.mewatch">
+    <programme start="20250615190009 +0000" stop="20250615193004 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 2</title>
     </programme>
-    <programme start="20250615193005 +0000" stop="20250615200001 +0000" channel="CNA.mewatch">
+    <programme start="20250615193004 +0000" stop="20250615200000 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 5</title>
     </programme>
-    <programme start="20250615200001 +0000" stop="20250615203001 +0000" channel="CNA.mewatch">
+    <programme start="20250615200000 +0000" stop="20250615202937 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250615203001 +0000" stop="20250615210023 +0000" channel="CNA.mewatch">
+    <programme start="20250615202937 +0000" stop="20250615205959 +0000" channel="CNA.mewatch">
         <title>The New Locals - EP 2</title>
     </programme>
-    <programme start="20250615210023 +0000" stop="20250615220000 +0000" channel="CNA.mewatch">
+    <programme start="20250615205959 +0000" stop="20250615220000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 2</title>
     </programme>
     <programme start="20250615220000 +0000" stop="20250615222959 +0000" channel="CNA.mewatch">

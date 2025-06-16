@@ -3148,16 +3148,22 @@
 <programme start="20250615230000 +0000" stop="20250615233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250615233000 +0000" stop="20250616020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250615233000 +0000" stop="20250616013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
+<programme start="20250616013000 +0000" stop="20250616020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+</programme>
 <programme start="20250616020000 +0000" stop="20250616043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Z.Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: Z. Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
-<programme start="20250616043000 +0000" stop="20250616070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, HSBC Championships in London (GBR), Finale</title>
+<programme start="20250616043000 +0000" stop="20250616063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250616070000 +0000" stop="20250616093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250616063000 +0000" stop="20250616073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Rom</title>
+</programme>
+<programme start="20250616073000 +0000" stop="20250616093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20250616093000 +0000" stop="20250616190000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3167,12 +3173,9 @@
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20250616213000 +0000" stop="20250616233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
+    <title>WTA 500: E. Lys (GER) - P. Badosa (ESP), BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
 </programme>
-<programme start="20250615230000 +0000" stop="20250616000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1 Academy: 2. Rennen - GP Kanada</title>
-</programme>
-<programme start="20250616000000 +0000" stop="20250616023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250616004000 +0000" stop="20250616023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live IndyCar: Bommarito Automotive Group 500</title>
 </programme>
 <programme start="20250616023000 +0000" stop="20250616030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3226,7 +3229,7 @@
 <programme start="20250616091000 +0000" stop="20250616093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250616093000 +0000" stop="20250616200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250616093000 +0000" stop="20250616180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
 </programme>
 <programme start="20250615220000 +0000" stop="20250615225500 +0000" channel="SYFY HD.skyde">
