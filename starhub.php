@@ -4006,8 +4006,11 @@
     <programme start="20250615162500 +0000" stop="20250615163000 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone (R)</title>
     </programme>
-    <programme start="20250615163000 +0000" stop="20250615173000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250615163000 +0000" stop="20250615172600 +0000" channel="NHK World Premium HD.starhub">
         <title>Backpacker Nakano Taiga in Morocco</title>
+    </programme>
+    <programme start="20250615172600 +0000" stop="20250615173000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Disaster Management Tips</title>
     </programme>
     <programme start="20250615173000 +0000" stop="20250615175500 +0000" channel="NHK World Premium HD.starhub">
         <title>Connect for the Future (R)</title>
