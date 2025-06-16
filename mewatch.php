@@ -487,10 +487,10 @@
     <programme start="20250616150000 +0000" stop="20250616153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 10</title>
     </programme>
-    <programme start="20250616153000 +0000" stop="20250616160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616153000 +0000" stop="20250616155605 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250616160000 +0000" stop="20250617010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616155605 +0000" stop="20250617010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250615155959 +0000" stop="20250615160324 +0000" channel="CNA.mewatch">
