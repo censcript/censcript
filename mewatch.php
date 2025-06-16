@@ -223,29 +223,26 @@
     <programme start="20250616093513 +0000" stop="20250616103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 34</title>
     </programme>
-    <programme start="20250616103000 +0000" stop="20250616113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616103000 +0000" stop="20250616113049 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 55</title>
     </programme>
-    <programme start="20250616113000 +0000" stop="20250616120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616113049 +0000" stop="20250616120006 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 5</title>
     </programme>
-    <programme start="20250616120000 +0000" stop="20250616130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616120006 +0000" stop="20250616130018 +0000" channel="Channel 8.mewatch">
         <title>Forbidding No More S3 - EP 6</title>
     </programme>
-    <programme start="20250616130000 +0000" stop="20250616140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616130018 +0000" stop="20250616140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 18</title>
     </programme>
-    <programme start="20250616140000 +0000" stop="20250616143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616140000 +0000" stop="20250616143024 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250616143000 +0000" stop="20250616150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616143024 +0000" stop="20250616150158 +0000" channel="Channel 8.mewatch">
         <title>Connecting Earth and Sky - EP 7</title>
     </programme>
-    <programme start="20250616150000 +0000" stop="20250616160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616150158 +0000" stop="20250616160113 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 16</title>
-    </programme>
-    <programme start="20250616160000 +0000" stop="20250616170000 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 35</title>
     </programme>
     <programme start="20250615153225 +0000" stop="20250615163033 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 2</title>
@@ -406,23 +403,20 @@
     <programme start="20250616110000 +0000" stop="20250616120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 11</title>
     </programme>
-    <programme start="20250616120000 +0000" stop="20250616123000 +0000" channel="Suria.mewatch">
+    <programme start="20250616120000 +0000" stop="20250616122959 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250616123000 +0000" stop="20250616133000 +0000" channel="Suria.mewatch">
+    <programme start="20250616122959 +0000" stop="20250616132958 +0000" channel="Suria.mewatch">
         <title>Manja S10 - EP 7</title>
     </programme>
-    <programme start="20250616133000 +0000" stop="20250616143000 +0000" channel="Suria.mewatch">
+    <programme start="20250616132958 +0000" stop="20250616143004 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 8</title>
     </programme>
-    <programme start="20250616143000 +0000" stop="20250616153000 +0000" channel="Suria.mewatch">
+    <programme start="20250616143004 +0000" stop="20250616153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 13</title>
     </programme>
-    <programme start="20250616153000 +0000" stop="20250616160000 +0000" channel="Suria.mewatch">
+    <programme start="20250616153000 +0000" stop="20250616160047 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250616160000 +0000" stop="20250617010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250615140003 +0000" stop="20250615163000 +0000" channel="Vasantham.mewatch">
         <title>Darling</title>
@@ -463,28 +457,28 @@
     <programme start="20250616103055 +0000" stop="20250616110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 14</title>
     </programme>
-    <programme start="20250616110000 +0000" stop="20250616120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616110000 +0000" stop="20250616115959 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary S2 - EP 1</title>
     </programme>
-    <programme start="20250616120000 +0000" stop="20250616123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616115959 +0000" stop="20250616123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 20</title>
     </programme>
-    <programme start="20250616123000 +0000" stop="20250616130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616123000 +0000" stop="20250616130005 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250616130000 +0000" stop="20250616133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616130005 +0000" stop="20250616133024 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 14</title>
     </programme>
-    <programme start="20250616133000 +0000" stop="20250616140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616133024 +0000" stop="20250616140017 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 9</title>
     </programme>
-    <programme start="20250616140000 +0000" stop="20250616143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616140017 +0000" stop="20250616143009 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 11</title>
     </programme>
-    <programme start="20250616143000 +0000" stop="20250616150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616143009 +0000" stop="20250616150010 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 12</title>
     </programme>
-    <programme start="20250616150000 +0000" stop="20250616153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250616150010 +0000" stop="20250616153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 10</title>
     </programme>
     <programme start="20250616153000 +0000" stop="20250616160001 +0000" channel="Vasantham.mewatch">
