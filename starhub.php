@@ -5362,10 +5362,10 @@
     <programme start="20250616110000 +0000" stop="20250616130000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250616130000 +0000" stop="20250616153000 +0000" channel="SPOTV.starhub">
+    <programme start="20250616130000 +0000" stop="20250616152000 +0000" channel="SPOTV.starhub">
         <title>Compound Team Finals</title>
     </programme>
-    <programme start="20250616153000 +0000" stop="20250616180000 +0000" channel="SPOTV.starhub">
+    <programme start="20250616152000 +0000" stop="20250616180000 +0000" channel="SPOTV.starhub">
         <title>Compound Individual Finals</title>
     </programme>
     <programme start="20250615154500 +0000" stop="20250615171500 +0000" channel="KBS World HD.starhub">
@@ -6875,7 +6875,7 @@
         <title>Day 8 Morning Session (Table 2): R2-21 (Final) (John Higgins vs Xiao Guodong)</title>
     </programme>
     <programme start="20250616000000 +0000" stop="20250616013000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>The HSBC C&#039;ships (500) Final</title>
+        <title>The HSBC Championships (500) Final</title>
     </programme>
     <programme start="20250616013000 +0000" stop="20250616043000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 3 Afternoon Session</title>
@@ -6887,7 +6887,7 @@
         <title>Day 4 Evening Session: Semi-Finals &amp; Finals</title>
     </programme>
     <programme start="20250616123000 +0000" stop="20250616140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>The HSBC C&#039;ships (500) Final</title>
+        <title>The HSBC Championships (500) Final</title>
     </programme>
     <programme start="20250616140000 +0000" stop="20250616160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Berlin Tennis Open by HYLO (500) Day 1</title>
