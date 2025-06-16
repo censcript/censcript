@@ -4064,7 +4064,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20250616010500 +0000" stop="20250616015300 +0000" channel="NHK World Premium HD.starhub">
-        <title>New Beginnings &quot;Air Ambulance from the Kumamoto Earthquake&quot;</title>
+        <title>Project X:The Challengers-New Beginnings&quot;Air Ambulance from the Kumamoto Earthqu</title>
     </programme>
     <programme start="20250616015300 +0000" stop="20250616015500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>

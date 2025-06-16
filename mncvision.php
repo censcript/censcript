@@ -1612,20 +1612,32 @@
 <programme start="20250616070000 +0000" stop="20250616080000 +0000" channel="BTV.mncvision">
     <title>Kuyliner</title>
 </programme>
-<programme start="20250616080000 +0000" stop="20250616090000 +0000" channel="BTV.mncvision">
+<programme start="20250616080000 +0000" stop="20250616090500 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
 </programme>
-<programme start="20250616090000 +0000" stop="20250616100000 +0000" channel="BTV.mncvision">
+<programme start="20250616090500 +0000" stop="20250616093000 +0000" channel="BTV.mncvision">
     <title>Figur Publik</title>
 </programme>
-<programme start="20250616100000 +0000" stop="20250616110000 +0000" channel="BTV.mncvision">
-    <title>Info Seleb</title>
+<programme start="20250616093000 +0000" stop="20250616100000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore Sepesial</title>
 </programme>
-<programme start="20250616110000 +0000" stop="20250616120000 +0000" channel="BTV.mncvision">
-    <title>Dunia Binatang</title>
+<programme start="20250616100000 +0000" stop="20250616100500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
 </programme>
-<programme start="20250616120000 +0000" stop="20250616130000 +0000" channel="BTV.mncvision">
-    <title>Berita Viral</title>
+<programme start="20250616100500 +0000" stop="20250616110000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore Sepesial</title>
+</programme>
+<programme start="20250616110000 +0000" stop="20250616110500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20250616110500 +0000" stop="20250616120000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama Sepesial</title>
+</programme>
+<programme start="20250616120000 +0000" stop="20250616120500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20250616120500 +0000" stop="20250616130000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama Sepesial</title>
 </programme>
 <programme start="20250616130000 +0000" stop="20250616140000 +0000" channel="BTV.mncvision">
     <title>Ketulusan Hati</title>
@@ -1637,7 +1649,7 @@
     <title>Saksi Mata</title>
 </programme>
 <programme start="20250616150000 +0000" stop="20250616160000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
+    <title>Berita Satu Malam Spesial</title>
 </programme>
 <programme start="20250616160000 +0000" stop="20250616163000 +0000" channel="BTV.mncvision">
     <title>Mitos Tengah Malam</title>
@@ -6710,7 +6722,7 @@
     <title>Mini Program</title>
 </programme>
 <programme start="20250616015500 +0000" stop="20250616025600 +0000" channel="NHK World Premium.mncvision">
-    <title>The Secrets Of Japan&#039;s Treasures</title>
+    <title>Secrets Of Japan&#039;s Treasures</title>
 </programme>
 <programme start="20250616025600 +0000" stop="20250616030000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>

@@ -340,22 +340,22 @@
     <programme start="20250616095947 +0000" stop="20250616110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 4</title>
     </programme>
-    <programme start="20250616110000 +0000" stop="20250616120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616110000 +0000" stop="20250616120009 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 38</title>
     </programme>
-    <programme start="20250616120000 +0000" stop="20250616130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616120009 +0000" stop="20250616130030 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 39</title>
     </programme>
-    <programme start="20250616130000 +0000" stop="20250616140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616130030 +0000" stop="20250616140051 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 1</title>
     </programme>
-    <programme start="20250616140000 +0000" stop="20250616150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616140051 +0000" stop="20250616150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 28</title>
     </programme>
-    <programme start="20250616150000 +0000" stop="20250616153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616150000 +0000" stop="20250616153109 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250616153000 +0000" stop="20250616163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616153109 +0000" stop="20250616163054 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 1</title>
     </programme>
     <programme start="20250615153000 +0000" stop="20250615160104 +0000" channel="Suria.mewatch">
