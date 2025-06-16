@@ -8767,10 +8767,10 @@
 <programme start="20250616110000 +0000" stop="20250616130000 +0000" channel="SPOTV.mncvision">
     <title>SRO Japan Cup 2025</title>
 </programme>
-<programme start="20250616130000 +0000" stop="20250616153000 +0000" channel="SPOTV.mncvision">
+<programme start="20250616130000 +0000" stop="20250616152000 +0000" channel="SPOTV.mncvision">
     <title>Hyundai Archery World Cup</title>
 </programme>
-<programme start="20250616153000 +0000" stop="20250616160000 +0000" channel="SPOTV.mncvision">
+<programme start="20250616152000 +0000" stop="20250616155000 +0000" channel="SPOTV.mncvision">
     <title>Hyundai Archery World Cup</title>
 </programme>
 <programme start="20250615180000 +0000" stop="20250615200000 +0000" channel="SPOTV 2.mncvision">
@@ -8890,10 +8890,10 @@
 <programme start="20250616110000 +0000" stop="20250616130000 +0000" channel="SPOTV HD.mncvision">
     <title>SRO Japan Cup 2025</title>
 </programme>
-<programme start="20250616130000 +0000" stop="20250616153000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250616130000 +0000" stop="20250616152000 +0000" channel="SPOTV HD.mncvision">
     <title>Hyundai Archery World Cup</title>
 </programme>
-<programme start="20250616153000 +0000" stop="20250616160000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250616152000 +0000" stop="20250616155000 +0000" channel="SPOTV HD.mncvision">
     <title>Hyundai Archery World Cup</title>
 </programme>
 <programme start="20250615174000 +0000" stop="20250615202500 +0000" channel="Studio Universal.mncvision">

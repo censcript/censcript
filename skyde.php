@@ -2677,8 +2677,8 @@
 <programme start="20250616211000 +0000" stop="20250616224000 +0000" channel="Sky Showcase HD.skyde">
     <title>Mord im Mittsommer</title>
 </programme>
-<programme start="20250616000000 +0000" stop="20250616003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
+<programme start="20250615220000 +0000" stop="20250616003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - Inter Mailand, Finale 2025 in München</title>
 </programme>
 <programme start="20250616003000 +0000" stop="20250616010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Valentin Bontus)</title>
@@ -2714,7 +2714,7 @@
     <title>Live ATP 500: Terra Wortmann Open in Halle, 1. Tag</title>
 </programme>
 <programme start="20250616173000 +0000" stop="20250616193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 1. Tag</title>
+    <title>ATP 500: D. Altmaier (GER) - D. Medvedev, Terra Wortmann Open in Halle, 1. Tag</title>
 </programme>
 <programme start="20250616193000 +0000" stop="20250616200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Gregor Seberg (Schauspieler und GAK-Fan)</title>
@@ -2821,19 +2821,16 @@
 <programme start="20250616213000 +0000" stop="20250616233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Preußen Münster  - FC Schalke 04,  tipcio Topspiel der Woche, 7. Spieltag</title>
 </programme>
-<programme start="20250615233000 +0000" stop="20250616000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP Kanada</title>
+<programme start="20250615220000 +0000" stop="20250616000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Kanada</title>
 </programme>
-<programme start="20250616000000 +0000" stop="20250616023000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250616000000 +0000" stop="20250616031500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: Bommarito Automotive Group 500</title>
 </programme>
-<programme start="20250616023000 +0000" stop="20250616030000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen Kompakt - GP Kanada</title>
-</programme>
-<programme start="20250616030000 +0000" stop="20250616040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250616031500 +0000" stop="20250616041000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 3. Rennen - GP Kanada</title>
 </programme>
-<programme start="20250616040000 +0000" stop="20250616053000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250616041000 +0000" stop="20250616053000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Kanada</title>
 </programme>
 <programme start="20250616053000 +0000" stop="20250616070000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2872,14 +2869,8 @@
 <programme start="20250616210000 +0000" stop="20250616220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 3. Rennen - GP Kanada</title>
 </programme>
-<programme start="20250615230000 +0000" stop="20250616020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250616004000 +0000" stop="20250616033500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Hulencourt Women&#039;s Open, 4. Tag in Genappe (Belgien)</title>
-</programme>
-<programme start="20250616020000 +0000" stop="20250616030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Korn Ferry Tour: Highlights BMW Charity Pro-Am</title>
-</programme>
-<programme start="20250616030000 +0000" stop="20250616040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Tour Champions: Highlights American Family Insurance Championship</title>
 </programme>
 <programme start="20250616040000 +0000" stop="20250616070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag in Oakmont, PA (USA)</title>
@@ -2899,7 +2890,7 @@
 <programme start="20250616130000 +0000" stop="20250616160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20250616160000 +0000" stop="20250616190000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250616160000 +0000" stop="20250616183000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
 </programme>
 <programme start="20250616190000 +0000" stop="20250616220000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3148,16 +3139,22 @@
 <programme start="20250615230000 +0000" stop="20250615233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250615233000 +0000" stop="20250616020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250615233000 +0000" stop="20250616013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
+<programme start="20250616013000 +0000" stop="20250616020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+</programme>
 <programme start="20250616020000 +0000" stop="20250616043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Z.Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: Z. Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
-<programme start="20250616043000 +0000" stop="20250616070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, HSBC Championships in London (GBR), Finale</title>
+<programme start="20250616043000 +0000" stop="20250616063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250616070000 +0000" stop="20250616093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250616063000 +0000" stop="20250616073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Rom</title>
+</programme>
+<programme start="20250616073000 +0000" stop="20250616093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20250616093000 +0000" stop="20250616190000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3167,21 +3164,18 @@
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20250616213000 +0000" stop="20250616233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
+    <title>WTA 500: E. Lys (GER) - P. Badosa (ESP), BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
 </programme>
-<programme start="20250615230000 +0000" stop="20250616000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1 Academy: 2. Rennen - GP Kanada</title>
-</programme>
-<programme start="20250616000000 +0000" stop="20250616023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250616004000 +0000" stop="20250616031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live IndyCar: Bommarito Automotive Group 500</title>
 </programme>
-<programme start="20250616023000 +0000" stop="20250616030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250616031500 +0000" stop="20250616033500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Kanada</title>
 </programme>
-<programme start="20250616030000 +0000" stop="20250616040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250616033500 +0000" stop="20250616043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Highlights: Rally Italia Sardegna</title>
 </programme>
-<programme start="20250616040000 +0000" stop="20250616063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250616043000 +0000" stop="20250616063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20250616063000 +0000" stop="20250616070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3202,10 +3196,13 @@
 <programme start="20250616214000 +0000" stop="20250616222000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: VfL Bochum - Saison 24-25</title>
 </programme>
-<programme start="20250615233000 +0000" stop="20250616003000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250615220000 +0000" stop="20250616000000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Kanada</title>
+</programme>
+<programme start="20250616000000 +0000" stop="20250616010000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1 Academy: 3. Rennen - GP Kanada</title>
 </programme>
-<programme start="20250616003000 +0000" stop="20250616023000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250616010000 +0000" stop="20250616030000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Kanada</title>
 </programme>
 <programme start="20250616023000 +0000" stop="20250616030000 +0000" channel="Sky Sport UHD.skyde">
@@ -3226,7 +3223,7 @@
 <programme start="20250616091000 +0000" stop="20250616093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250616093000 +0000" stop="20250616180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250616093000 +0000" stop="20250616200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
 </programme>
 <programme start="20250615220000 +0000" stop="20250615225500 +0000" channel="SYFY HD.skyde">
