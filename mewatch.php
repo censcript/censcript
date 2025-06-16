@@ -799,67 +799,67 @@
     <programme start="20250617020000 +0000" stop="20250617033000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Mother And Children</title>
     </programme>
-    <programme start="20250617033000 +0000" stop="20250617040000 +0000" channel="Animax.mewatch">
+    <programme start="20250617033000 +0000" stop="20250617040001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617040000 +0000" stop="20250617043000 +0000" channel="Animax.mewatch">
+    <programme start="20250617040001 +0000" stop="20250617043001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - I Wanna Have An Offline Meeting</title>
     </programme>
-    <programme start="20250617043000 +0000" stop="20250617050000 +0000" channel="Animax.mewatch">
+    <programme start="20250617043001 +0000" stop="20250617050001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - Are You In Love With Yamada?</title>
     </programme>
-    <programme start="20250617050000 +0000" stop="20250617053000 +0000" channel="Animax.mewatch">
+    <programme start="20250617050001 +0000" stop="20250617053001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Threat Of &quot;Left&quot;</title>
     </programme>
-    <programme start="20250617053000 +0000" stop="20250617070000 +0000" channel="Animax.mewatch">
+    <programme start="20250617053001 +0000" stop="20250617070001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Mother And Children</title>
     </programme>
-    <programme start="20250617070000 +0000" stop="20250617073000 +0000" channel="Animax.mewatch">
+    <programme start="20250617070001 +0000" stop="20250617073001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Final Invaders</title>
     </programme>
-    <programme start="20250617073000 +0000" stop="20250617080000 +0000" channel="Animax.mewatch">
+    <programme start="20250617073001 +0000" stop="20250617080001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617080000 +0000" stop="20250617083000 +0000" channel="Animax.mewatch">
+    <programme start="20250617080001 +0000" stop="20250617083001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Threat Of &quot;Left&quot;</title>
     </programme>
-    <programme start="20250617083000 +0000" stop="20250617100000 +0000" channel="Animax.mewatch">
+    <programme start="20250617083001 +0000" stop="20250617100001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Mother And Children</title>
     </programme>
-    <programme start="20250617100000 +0000" stop="20250617103000 +0000" channel="Animax.mewatch">
+    <programme start="20250617100001 +0000" stop="20250617103001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Guessing Monster</title>
     </programme>
-    <programme start="20250617103000 +0000" stop="20250617110000 +0000" channel="Animax.mewatch">
+    <programme start="20250617103001 +0000" stop="20250617110001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Halo Around The Moon</title>
     </programme>
-    <programme start="20250617110000 +0000" stop="20250617113000 +0000" channel="Animax.mewatch">
+    <programme start="20250617110001 +0000" stop="20250617113001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617113000 +0000" stop="20250617120000 +0000" channel="Animax.mewatch">
+    <programme start="20250617113001 +0000" stop="20250617120001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
     </programme>
-    <programme start="20250617120000 +0000" stop="20250617123000 +0000" channel="Animax.mewatch">
+    <programme start="20250617120001 +0000" stop="20250617123001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - Are You In Love With Yamada?</title>
     </programme>
-    <programme start="20250617123000 +0000" stop="20250617130000 +0000" channel="Animax.mewatch">
+    <programme start="20250617123001 +0000" stop="20250617130001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - How About You Give US An Explanation</title>
     </programme>
-    <programme start="20250617130000 +0000" stop="20250617133000 +0000" channel="Animax.mewatch">
+    <programme start="20250617130001 +0000" stop="20250617133001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617133000 +0000" stop="20250617140000 +0000" channel="Animax.mewatch">
+    <programme start="20250617133001 +0000" stop="20250617140001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
     </programme>
-    <programme start="20250617140000 +0000" stop="20250617143000 +0000" channel="Animax.mewatch">
+    <programme start="20250617140001 +0000" stop="20250617143001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Third Option</title>
     </programme>
-    <programme start="20250617143000 +0000" stop="20250617150000 +0000" channel="Animax.mewatch">
+    <programme start="20250617143001 +0000" stop="20250617150001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Manga-Based TV Drama</title>
     </programme>
-    <programme start="20250617150000 +0000" stop="20250617153000 +0000" channel="Animax.mewatch">
+    <programme start="20250617150001 +0000" stop="20250617153001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617153000 +0000" stop="20250617160000 +0000" channel="Animax.mewatch">
+    <programme start="20250617153001 +0000" stop="20250617160001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
     </programme>
     <programme start="20250617160000 +0000" stop="20250617163000 +0000" channel="Animax.mewatch">
