@@ -913,88 +913,88 @@
     <programme start="20250617144500 +0000" stop="20250617163500 +0000" channel="cinemaworld.mewatch">
         <title>Penny Bank</title>
     </programme>
-    <programme start="20250616160000 +0000" stop="20250617110000 +0000" channel="Live 1.mewatch">
+    <programme start="20250616150001 +0000" stop="20250616160001 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 17th June, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250617110000 +0000" stop="20250617111400 +0000" channel="Live 1.mewatch">
+    <programme start="20250616160001 +0000" stop="20250617110001 +0000" channel="Live 1.mewatch">
+        <title>No programme available now. Next broadcast on 17th June, Tuesday 7pm. The Wonder Shop Home Shopping</title>
+    </programme>
+    <programme start="20250617110001 +0000" stop="20250617111401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Thomson Probiotic</title>
     </programme>
-    <programme start="20250617111400 +0000" stop="20250617111600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617111401 +0000" stop="20250617111601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Vac Pac Go</title>
     </programme>
-    <programme start="20250617111600 +0000" stop="20250617113000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617111601 +0000" stop="20250617113001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Ebene Knee Guard and Sock Bundles</title>
     </programme>
-    <programme start="20250617113000 +0000" stop="20250617114400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617113001 +0000" stop="20250617114401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - [24 Bottles] Kinohimitsu Bird&#039;s Nest Red Dates &amp; Wolfberry + Bird&#039;s Nest Chinese Ginseng</title>
     </programme>
-    <programme start="20250617114400 +0000" stop="20250617114600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617114401 +0000" stop="20250617114601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Greenpan Greenchef Diamond Red Pan Bundle</title>
     </programme>
-    <programme start="20250617114600 +0000" stop="20250617120000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617114601 +0000" stop="20250617120001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Dermacare Skin Repair Cream</title>
     </programme>
-    <programme start="20250617120000 +0000" stop="20250617121400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617120001 +0000" stop="20250617121401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
     </programme>
-    <programme start="20250617121400 +0000" stop="20250617121600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617121401 +0000" stop="20250617121601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
     </programme>
-    <programme start="20250617121600 +0000" stop="20250617123000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617121601 +0000" stop="20250617123001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Ultimo Cool Contour Pillow</title>
     </programme>
-    <programme start="20250617123000 +0000" stop="20250617124400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617123001 +0000" stop="20250617124401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
     </programme>
-    <programme start="20250617124400 +0000" stop="20250617124600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617124401 +0000" stop="20250617124601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
     </programme>
-    <programme start="20250617124600 +0000" stop="20250617130000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617124601 +0000" stop="20250617130001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Wolfberry Goji</title>
     </programme>
-    <programme start="20250617130000 +0000" stop="20250617131400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617130001 +0000" stop="20250617131401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Miracle Rye</title>
     </programme>
-    <programme start="20250617131400 +0000" stop="20250617131600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617131401 +0000" stop="20250617131601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
     </programme>
-    <programme start="20250617131600 +0000" stop="20250617133000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617131601 +0000" stop="20250617133001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Nutripack Snow Fungus</title>
     </programme>
-    <programme start="20250617133000 +0000" stop="20250617134400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617133001 +0000" stop="20250617134401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Philips Azur Steam Iron</title>
     </programme>
-    <programme start="20250617134400 +0000" stop="20250617134600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617134401 +0000" stop="20250617134601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
     </programme>
-    <programme start="20250617134600 +0000" stop="20250617140000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617134601 +0000" stop="20250617140001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Comvita Honey</title>
     </programme>
-    <programme start="20250617140000 +0000" stop="20250617141400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617140001 +0000" stop="20250617141401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - La Gourmet Healthy Electrical Pressure Cooker 4L with Crystalline Air Fryer 4L Bundle</title>
     </programme>
-    <programme start="20250617141400 +0000" stop="20250617141600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617141401 +0000" stop="20250617141601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Zoom Vision</title>
     </programme>
-    <programme start="20250617141600 +0000" stop="20250617142300 +0000" channel="Live 1.mewatch">
+    <programme start="20250617141601 +0000" stop="20250617142301 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Koli Pain Relief Plaster &amp; Massage Roller</title>
     </programme>
-    <programme start="20250617142300 +0000" stop="20250617143000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617142301 +0000" stop="20250617143001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Dontz Mini Massage Gun</title>
     </programme>
-    <programme start="20250617143000 +0000" stop="20250617144400 +0000" channel="Live 1.mewatch">
+    <programme start="20250617143001 +0000" stop="20250617144401 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Morries MS-1000PMC Multi Purpose Cooker Bundle Set</title>
     </programme>
-    <programme start="20250617144400 +0000" stop="20250617144600 +0000" channel="Live 1.mewatch">
+    <programme start="20250617144401 +0000" stop="20250617144601 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
     </programme>
-    <programme start="20250617144600 +0000" stop="20250617150000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617144601 +0000" stop="20250617150001 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Kale Powder</title>
     </programme>
-    <programme start="20250617150000 +0000" stop="20250617160000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 18th June, Wednesday 7pm. The Wonder Shop Home Shopping</title>
-    </programme>
-    <programme start="20250617160000 +0000" stop="20250618110000 +0000" channel="Live 1.mewatch">
+    <programme start="20250617150001 +0000" stop="20250617160001 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 18th June, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250616160000 +0000" stop="20250617160000 +0000" channel="Live 2.mewatch">
