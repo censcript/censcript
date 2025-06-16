@@ -2953,54 +2953,6 @@
 <programme start="20250616214500 +0000" stop="20250616223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Burton Automotive Newcastle Surfest Challenger Series Finals Day</title>
 </programme>
-<programme start="20250615220000 +0000" stop="20250616040000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20250616040000 +0000" stop="20250616043000 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Rennen Kompakt - GP Kanada</title>
-</programme>
-<programme start="20250616043000 +0000" stop="20250616070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20250616070000 +0000" stop="20250616073000 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Rennen Kompakt - GP Kanada</title>
-</programme>
-<programme start="20250616073000 +0000" stop="20250616093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20250616093000 +0000" stop="20250616100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Rennen Kompakt - GP Kanada</title>
-</programme>
-<programme start="20250616100000 +0000" stop="20250616130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20250616130000 +0000" stop="20250616160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20250616160000 +0000" stop="20250616164500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: Die Show</title>
-</programme>
-<programme start="20250616164500 +0000" stop="20250616170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: TU Nachspielzeit</title>
-</programme>
-<programme start="20250616170000 +0000" stop="20250616173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime Spezial - Die Klub-WM mit FCB &amp; BVB</title>
-</programme>
-<programme start="20250616173000 +0000" stop="20250616183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20250616183000 +0000" stop="20250616203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20250616203000 +0000" stop="20250616211500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show</title>
-</programme>
-<programme start="20250616211500 +0000" stop="20250616213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: TU Nachspielzeit</title>
-</programme>
-<programme start="20250616213000 +0000" stop="20250616220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Late Night News</title>
-</programme>
 <programme start="20250615220000 +0000" stop="20250615223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Steven Gerrard</title>
 </programme>
