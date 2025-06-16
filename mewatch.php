@@ -862,9 +862,6 @@
     <programme start="20250617153001 +0000" stop="20250617160001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
     </programme>
-    <programme start="20250617160000 +0000" stop="20250617163000 +0000" channel="Animax.mewatch">
-        <title>My Love Story With Yamada-Kun At Lv999 - Are You In Love With Yamada?</title>
-    </programme>
     <programme start="20250616150500 +0000" stop="20250616165500 +0000" channel="cinemaworld.mewatch">
         <title>Lost Transport</title>
     </programme>
