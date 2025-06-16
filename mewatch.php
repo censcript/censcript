@@ -556,22 +556,22 @@
     <programme start="20250616100001 +0000" stop="20250616110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250616110000 +0000" stop="20250616120000 +0000" channel="CNA.mewatch">
+    <programme start="20250616110000 +0000" stop="20250616115958 +0000" channel="CNA.mewatch">
         <title>When Titans Clash: The Overcapacity Debate</title>
     </programme>
-    <programme start="20250616120000 +0000" stop="20250616130000 +0000" channel="CNA.mewatch">
+    <programme start="20250616115958 +0000" stop="20250616125958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250616130000 +0000" stop="20250616140000 +0000" channel="CNA.mewatch">
+    <programme start="20250616125958 +0000" stop="20250616140001 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 3</title>
     </programme>
-    <programme start="20250616140000 +0000" stop="20250616150000 +0000" channel="CNA.mewatch">
+    <programme start="20250616140001 +0000" stop="20250616150116 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250616150000 +0000" stop="20250616160000 +0000" channel="CNA.mewatch">
+    <programme start="20250616150116 +0000" stop="20250616160000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 2</title>
     </programme>
-    <programme start="20250616160000 +0000" stop="20250616160300 +0000" channel="CNA.mewatch">
+    <programme start="20250616160000 +0000" stop="20250616160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250615155959 +0000" stop="20250615170011 +0000" channel="Oktolidays.mewatch">
