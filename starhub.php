@@ -8234,7 +8234,7 @@
         <title>Summer in Bethlehem</title>
     </programme>
     <programme start="20250616043000 +0000" stop="20250616073000 +0000" channel="Asianet Movies.starhub">
-        <title>Aye Auto</title>
+        <title>Best Actor</title>
     </programme>
     <programme start="20250616073000 +0000" stop="20250616103000 +0000" channel="Asianet Movies.starhub">
         <title>Sunday Holiday</title>

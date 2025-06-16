@@ -1,19 +1,19 @@
-    <programme start="20250615143000 +0000" stop="20250615170056 +0000" channel="Channel 5.mewatch">
+    <programme start="20250615143031 +0000" stop="20250615170127 +0000" channel="Channel 5.mewatch">
         <title>The Intern</title>
     </programme>
-    <programme start="20250615170056 +0000" stop="20250615175526 +0000" channel="Channel 5.mewatch">
+    <programme start="20250615170127 +0000" stop="20250615175558 +0000" channel="Channel 5.mewatch">
         <title>Domino Masters - EP 8</title>
     </programme>
-    <programme start="20250615175526 +0000" stop="20250615184537 +0000" channel="Channel 5.mewatch">
+    <programme start="20250615175558 +0000" stop="20250615184609 +0000" channel="Channel 5.mewatch">
         <title>Modern Marvels: Food - EP 6</title>
     </programme>
-    <programme start="20250615184537 +0000" stop="20250615194503 +0000" channel="Channel 5.mewatch">
+    <programme start="20250615184609 +0000" stop="20250615194504 +0000" channel="Channel 5.mewatch">
         <title>The Great Canadian Baking Show Series 5 - EP 5</title>
     </programme>
-    <programme start="20250615194503 +0000" stop="20250615204023 +0000" channel="Channel 5.mewatch">
+    <programme start="20250615194504 +0000" stop="20250615204022 +0000" channel="Channel 5.mewatch">
         <title>Expedition With Steve Backshall - Series 2 - EP 5</title>
     </programme>
-    <programme start="20250615204023 +0000" stop="20250615220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250615204022 +0000" stop="20250615220000 +0000" channel="Channel 5.mewatch">
         <title>Survivor 45 - EP 9</title>
     </programme>
     <programme start="20250615220000 +0000" stop="20250615221551 +0000" channel="Channel 5.mewatch">
@@ -139,16 +139,16 @@
     <programme start="20250615153209 +0000" stop="20250615160133 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 8</title>
     </programme>
-    <programme start="20250615160133 +0000" stop="20250615170129 +0000" channel="Channel 8.mewatch">
+    <programme start="20250615160154 +0000" stop="20250615170149 +0000" channel="Channel 8.mewatch">
         <title>Game Plan - EP 3</title>
     </programme>
-    <programme start="20250615170129 +0000" stop="20250615180055 +0000" channel="Channel 8.mewatch">
+    <programme start="20250615170149 +0000" stop="20250615180101 +0000" channel="Channel 8.mewatch">
         <title>Game Plan - EP 4</title>
     </programme>
-    <programme start="20250615180055 +0000" stop="20250615190120 +0000" channel="Channel 8.mewatch">
+    <programme start="20250615180101 +0000" stop="20250615190126 +0000" channel="Channel 8.mewatch">
         <title>Rhapsody In Blue - EP 9</title>
     </programme>
-    <programme start="20250615190120 +0000" stop="20250615195958 +0000" channel="Channel 8.mewatch">
+    <programme start="20250615190126 +0000" stop="20250615195958 +0000" channel="Channel 8.mewatch">
         <title>Rhapsody In Blue - EP 10</title>
     </programme>
     <programme start="20250615195958 +0000" stop="20250615205824 +0000" channel="Channel 8.mewatch">
@@ -250,13 +250,13 @@
     <programme start="20250616160000 +0000" stop="20250616170000 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 35</title>
     </programme>
-    <programme start="20250615153205 +0000" stop="20250615163013 +0000" channel="Channel U.mewatch">
+    <programme start="20250615153225 +0000" stop="20250615163033 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 2</title>
     </programme>
-    <programme start="20250615163013 +0000" stop="20250615180003 +0000" channel="Channel U.mewatch">
+    <programme start="20250615163033 +0000" stop="20250615180024 +0000" channel="Channel U.mewatch">
         <title>Show It All - EP 1</title>
     </programme>
-    <programme start="20250615180003 +0000" stop="20250615220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250615180024 +0000" stop="20250615220000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 1</title>
     </programme>
     <programme start="20250615220000 +0000" stop="20250616025808 +0000" channel="Channel U.mewatch">
@@ -366,9 +366,6 @@
     </programme>
     <programme start="20250615153000 +0000" stop="20250615160104 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250615160104 +0000" stop="20250616010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250616010000 +0000" stop="20250616013012 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 17</title>
