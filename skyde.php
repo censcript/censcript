@@ -1927,48 +1927,6 @@
 <programme start="20250616201500 +0000" stop="20250616221500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Mein großer Freund Shane</title>
 </programme>
-<programme start="20250615233500 +0000" stop="20250616011500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Faking Bullshit - Krimineller als die Polizei erlaubt!</title>
-</programme>
-<programme start="20250616011500 +0000" stop="20250616031500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>So ist das Leben - Life Itself</title>
-</programme>
-<programme start="20250616031500 +0000" stop="20250616043000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Asterix und die Wikinger</title>
-</programme>
-<programme start="20250616043000 +0000" stop="20250616062000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Ghostbusters II</title>
-</programme>
-<programme start="20250616062000 +0000" stop="20250616080500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Book of Love</title>
-</programme>
-<programme start="20250616080500 +0000" stop="20250616095000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Ein Fest fürs Leben</title>
-</programme>
-<programme start="20250616095000 +0000" stop="20250616120000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Sherlock Holmes: Spiel im Schatten</title>
-</programme>
-<programme start="20250616120000 +0000" stop="20250616134000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Ostwind - Der große Orkan</title>
-</programme>
-<programme start="20250616134000 +0000" stop="20250616150000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Asterix und die Wikinger</title>
-</programme>
-<programme start="20250616150000 +0000" stop="20250616163000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Spy Kids</title>
-</programme>
-<programme start="20250616163000 +0000" stop="20250616181500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Spy Kids 2 - Die Rückkehr der Superspione</title>
-</programme>
-<programme start="20250616181500 +0000" stop="20250616195000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Mädelsabend - Nüchtern zu schüchtern!</title>
-</programme>
-<programme start="20250616195000 +0000" stop="20250616214000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Auf die stürmische Art</title>
-</programme>
-<programme start="20250616214000 +0000" stop="20250616234000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>So ist das Leben - Life Itself</title>
-</programme>
 <programme start="20250615234500 +0000" stop="20250616012500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Saw: Spiral</title>
 </programme>
