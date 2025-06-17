@@ -556,22 +556,22 @@
     <programme start="20250617095958 +0000" stop="20250617110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250617110000 +0000" stop="20250617120000 +0000" channel="CNA.mewatch">
+    <programme start="20250617110000 +0000" stop="20250617120003 +0000" channel="CNA.mewatch">
         <title>Insight - EP 7</title>
     </programme>
-    <programme start="20250617120000 +0000" stop="20250617130000 +0000" channel="CNA.mewatch">
+    <programme start="20250617120003 +0000" stop="20250617130003 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250617130000 +0000" stop="20250617140000 +0000" channel="CNA.mewatch">
+    <programme start="20250617130003 +0000" stop="20250617135959 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 4</title>
     </programme>
-    <programme start="20250617140000 +0000" stop="20250617150000 +0000" channel="CNA.mewatch">
+    <programme start="20250617135959 +0000" stop="20250617145959 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250617150000 +0000" stop="20250617160000 +0000" channel="CNA.mewatch">
+    <programme start="20250617145959 +0000" stop="20250617160000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 3</title>
     </programme>
-    <programme start="20250617160000 +0000" stop="20250617160300 +0000" channel="CNA.mewatch">
+    <programme start="20250617160000 +0000" stop="20250617160305 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250616155959 +0000" stop="20250616170011 +0000" channel="Oktolidays.mewatch">

@@ -4453,8 +4453,11 @@
     <programme start="20250617100000 +0000" stop="20250617130000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Meijer LPGA Classic For Simply Give Round 3</title>
     </programme>
-    <programme start="20250617130000 +0000" stop="20250617160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250617130000 +0000" stop="20250617153000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Meijer LPGA Classic For Simply Give Round 4</title>
+    </programme>
+    <programme start="20250617153000 +0000" stop="20250617160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Swiss Challenge</title>
     </programme>
     <programme start="20250616160000 +0000" stop="20250616161500 +0000" channel="France24.starhub">
         <title>News</title>

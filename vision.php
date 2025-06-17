@@ -535,6 +535,9 @@
 <programme start="20250617050000 +0000" stop="20250617054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20250617054500 +0000" stop="20250617063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20250617063000 +0000" stop="20250617071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250618021500 +0000" stop="20250618030000 +0000" channel="BTV.vision">
 <title>Endeus</title>
-</programme>
-<programme start="20250618030000 +0000" stop="20250618034500 +0000" channel="BTV.vision">
-<title>Kids Universe</title>
 </programme>
