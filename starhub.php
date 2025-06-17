@@ -2504,7 +2504,7 @@
         <title>Season 3, Episode 2 - Men’s Tennis Player</title>
     </programme>
     <programme start="20250616233000 +0000" stop="20250617000000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#804: Fighter Focus: Youssef Zalal, My Moment: Merab Dvalishvili</title>
+        <title>#804: Fighter Focus</title>
     </programme>
     <programme start="20250617000000 +0000" stop="20250617003000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Season 5, Episode 1 - Basketballers</title>
@@ -6548,7 +6548,7 @@
         <title>Season 3, Episode 2 - Men’s Tennis Player</title>
     </programme>
     <programme start="20250616233000 +0000" stop="20250617000000 +0000" channel="TestChannel 995.starhub">
-        <title>#804: Fighter Focus: Youssef Zalal, My Moment: Merab Dvalishvili</title>
+        <title>#804: Fighter Focus</title>
     </programme>
     <programme start="20250617000000 +0000" stop="20250617003000 +0000" channel="TestChannel 995.starhub">
         <title>Season 5, Episode 1 - Basketballers</title>
