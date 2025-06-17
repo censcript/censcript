@@ -257,7 +257,7 @@
         <title>Joy of Life 2 - EP 18</title>
     </programme>
     <programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 1 长相思</title>
+        <title>Lost You Forever - EP 1</title>
     </programme>
     <programme start="20250617153004 +0000" stop="20250617163056 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 8</title>
