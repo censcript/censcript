@@ -2761,14 +2761,17 @@
 <programme start="20250617063000 +0000" stop="20250617073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Saisonrückblick</title>
 </programme>
-<programme start="20250617073000 +0000" stop="20250617093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250617073000 +0000" stop="20250617090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: D. Altmaier (GER) - D. Medvedev, Terra Wortmann Open in Halle, 1. Tag</title>
+</programme>
+<programme start="20250617090000 +0000" stop="20250617093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20250617093000 +0000" stop="20250617173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20250617173000 +0000" stop="20250617193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 2. Tag</title>
+    <title>ATP 500: S. Ofner (AUT) - A. Rublev, Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20250617193000 +0000" stop="20250617200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
@@ -2777,7 +2780,7 @@
     <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
 </programme>
 <programme start="20250617201500 +0000" stop="20250617221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 2. Tag</title>
+    <title>ATP 500: S. Ofner (AUT) - A. Rublev, Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20250616230500 +0000" stop="20250617010500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
