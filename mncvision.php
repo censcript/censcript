@@ -4033,13 +4033,13 @@
 <programme start="20250617060000 +0000" stop="20250617073000 +0000" channel="GTV.mncvision">
     <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250617073000 +0000" stop="20250617083000 +0000" channel="GTV.mncvision">
+<programme start="20250617073000 +0000" stop="20250617081500 +0000" channel="GTV.mncvision">
     <title>Food Hunter</title>
 </programme>
-<programme start="20250617083000 +0000" stop="20250617100000 +0000" channel="GTV.mncvision">
-    <title>Nobita Melawan Pasukan Robot</title>
+<programme start="20250617081500 +0000" stop="20250617101000 +0000" channel="GTV.mncvision">
+    <title>Nobita Dan Manusia Negeri Hijau</title>
 </programme>
-<programme start="20250617100000 +0000" stop="20250617110000 +0000" channel="GTV.mncvision">
+<programme start="20250617101000 +0000" stop="20250617110000 +0000" channel="GTV.mncvision">
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250617110000 +0000" stop="20250617113000 +0000" channel="GTV.mncvision">
@@ -4052,7 +4052,7 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250617133000 +0000" stop="20250617153000 +0000" channel="GTV.mncvision">
-    <title>TMNT: Out Of The Shadows</title>
+    <title>Homefront</title>
 </programme>
 <programme start="20250617153000 +0000" stop="20250617160000 +0000" channel="GTV.mncvision">
     <title>Daddy&#039;s Home</title>
@@ -4087,13 +4087,13 @@
 <programme start="20250617060000 +0000" stop="20250617073000 +0000" channel="GTV HD.mncvision">
     <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250617073000 +0000" stop="20250617083000 +0000" channel="GTV HD.mncvision">
+<programme start="20250617073000 +0000" stop="20250617081500 +0000" channel="GTV HD.mncvision">
     <title>Food Hunter</title>
 </programme>
-<programme start="20250617083000 +0000" stop="20250617100000 +0000" channel="GTV HD.mncvision">
-    <title>Nobita Melawan Pasukan Robot</title>
+<programme start="20250617081500 +0000" stop="20250617101000 +0000" channel="GTV HD.mncvision">
+    <title>Nobita Dan Manusia Negeri Hijau</title>
 </programme>
-<programme start="20250617100000 +0000" stop="20250617110000 +0000" channel="GTV HD.mncvision">
+<programme start="20250617101000 +0000" stop="20250617110000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250617110000 +0000" stop="20250617113000 +0000" channel="GTV HD.mncvision">
@@ -4106,7 +4106,7 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250617133000 +0000" stop="20250617153000 +0000" channel="GTV HD.mncvision">
-    <title>TMNT: Out Of The Shadows</title>
+    <title>Homefront</title>
 </programme>
 <programme start="20250617153000 +0000" stop="20250617160000 +0000" channel="GTV HD.mncvision">
     <title>Daddy&#039;s Home</title>
