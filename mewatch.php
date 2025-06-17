@@ -1,28 +1,28 @@
-    <programme start="20250616150004 +0000" stop="20250616160005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616150105 +0000" stop="20250616160106 +0000" channel="Channel 5.mewatch">
         <title>Fire Country S2 - EP 3</title>
     </programme>
-    <programme start="20250616160005 +0000" stop="20250616163000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616160106 +0000" stop="20250616163101 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 83</title>
     </programme>
-    <programme start="20250616163000 +0000" stop="20250616173029 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616163101 +0000" stop="20250616173129 +0000" channel="Channel 5.mewatch">
         <title>Leverage: Redemption S2 - EP 9</title>
     </programme>
-    <programme start="20250616173029 +0000" stop="20250616180005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616173129 +0000" stop="20250616180106 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7993</title>
     </programme>
-    <programme start="20250616180005 +0000" stop="20250616190011 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616180106 +0000" stop="20250616190112 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 12</title>
     </programme>
-    <programme start="20250616190011 +0000" stop="20250616200007 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616190112 +0000" stop="20250616200108 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S9 - EP 7</title>
     </programme>
-    <programme start="20250616200007 +0000" stop="20250616203010 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616200108 +0000" stop="20250616203111 +0000" channel="Channel 5.mewatch">
         <title>Euromaxx - EP 403</title>
     </programme>
-    <programme start="20250616203010 +0000" stop="20250616210026 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616203111 +0000" stop="20250616210129 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 169</title>
     </programme>
-    <programme start="20250616210026 +0000" stop="20250616220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250616210129 +0000" stop="20250616220000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S7 - EP 6</title>
     </programme>
     <programme start="20250616220000 +0000" stop="20250616221502 +0000" channel="Channel 5.mewatch">
@@ -148,22 +148,22 @@
     <programme start="20250616150158 +0000" stop="20250616160113 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 16</title>
     </programme>
-    <programme start="20250616160113 +0000" stop="20250616170029 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616160244 +0000" stop="20250616170200 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 35</title>
     </programme>
-    <programme start="20250616170029 +0000" stop="20250616180006 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616170200 +0000" stop="20250616180132 +0000" channel="Channel 8.mewatch">
         <title>Super Taste - 2 Days 1 Night Go S2 - EP 4</title>
     </programme>
-    <programme start="20250616180006 +0000" stop="20250616185947 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616180132 +0000" stop="20250616190053 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 43</title>
     </programme>
-    <programme start="20250616185947 +0000" stop="20250616195921 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616190053 +0000" stop="20250616195923 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 44</title>
     </programme>
-    <programme start="20250616195921 +0000" stop="20250616205750 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616195923 +0000" stop="20250616205751 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 33</title>
     </programme>
-    <programme start="20250616205750 +0000" stop="20250616220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250616205751 +0000" stop="20250616220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 34</title>
     </programme>
     <programme start="20250616220000 +0000" stop="20250616225959 +0000" channel="Channel 8.mewatch">
@@ -265,13 +265,13 @@
     <programme start="20250617160000 +0000" stop="20250617170000 +0000" channel="Channel 8.mewatch">
         <title>The Ingenious One - EP 36</title>
     </programme>
-    <programme start="20250616153109 +0000" stop="20250616163054 +0000" channel="Channel U.mewatch">
+    <programme start="20250616153240 +0000" stop="20250616163225 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 1</title>
     </programme>
-    <programme start="20250616163054 +0000" stop="20250616172944 +0000" channel="Channel U.mewatch">
+    <programme start="20250616163225 +0000" stop="20250616173115 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 38</title>
     </programme>
-    <programme start="20250616172944 +0000" stop="20250616220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250616173115 +0000" stop="20250616220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 39</title>
     </programme>
     <programme start="20250616220000 +0000" stop="20250617025813 +0000" channel="Channel U.mewatch">
@@ -445,9 +445,6 @@
     <programme start="20250616153000 +0000" stop="20250616160001 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250616160001 +0000" stop="20250617010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250617010000 +0000" stop="20250617013010 +0000" channel="Vasantham.mewatch">
         <title>Iyarkai Thedi S4 - EP 8</title>
     </programme>
@@ -505,25 +502,25 @@
     <programme start="20250617153000 +0000" stop="20250617160003 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250616160000 +0000" stop="20250616160315 +0000" channel="CNA.mewatch">
+    <programme start="20250616160000 +0000" stop="20250616160207 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250616160315 +0000" stop="20250616170055 +0000" channel="CNA.mewatch">
+    <programme start="20250616160207 +0000" stop="20250616170048 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250616170055 +0000" stop="20250616175958 +0000" channel="CNA.mewatch">
+    <programme start="20250616170048 +0000" stop="20250616180000 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 2</title>
     </programme>
-    <programme start="20250616175958 +0000" stop="20250616185958 +0000" channel="CNA.mewatch">
+    <programme start="20250616180000 +0000" stop="20250616190001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250616185958 +0000" stop="20250616195958 +0000" channel="CNA.mewatch">
+    <programme start="20250616190001 +0000" stop="20250616200000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 8</title>
     </programme>
-    <programme start="20250616195958 +0000" stop="20250616205958 +0000" channel="CNA.mewatch">
+    <programme start="20250616200000 +0000" stop="20250616210001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250616205958 +0000" stop="20250616220000 +0000" channel="CNA.mewatch">
+    <programme start="20250616210001 +0000" stop="20250616220000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 3</title>
     </programme>
     <programme start="20250616220000 +0000" stop="20250616225959 +0000" channel="CNA.mewatch">

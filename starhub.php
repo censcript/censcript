@@ -5243,7 +5243,7 @@
         <title>Third Option</title>
     </programme>
     <programme start="20250617143000 +0000" stop="20250617150000 +0000" channel="Animax HD.starhub">
-        <title>Manga-Based TV Drama</title>
+        <title>Manga-Based Tv Drama</title>
     </programme>
     <programme start="20250617150000 +0000" stop="20250617153000 +0000" channel="Animax HD.starhub">
         <title>Mastermind</title>
