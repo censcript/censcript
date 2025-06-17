@@ -1510,10 +1510,10 @@
 <programme start="20250618035500 +0000" stop="20250618040000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618040000 +0000" stop="20250618040400 +0000" channel="Nick Jr..skyde">
+<programme start="20250618040000 +0000" stop="20250618040500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618040400 +0000" stop="20250618041000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618040500 +0000" stop="20250618041000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250618041000 +0000" stop="20250618041500 +0000" channel="Nick Jr..skyde">
@@ -1528,10 +1528,10 @@
 <programme start="20250618043000 +0000" stop="20250618045000 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250618045000 +0000" stop="20250618050000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618045000 +0000" stop="20250618050500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250618050000 +0000" stop="20250618052500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618050500 +0000" stop="20250618052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20250618052500 +0000" stop="20250618054500 +0000" channel="Nick Jr..skyde">
@@ -1558,10 +1558,10 @@
 <programme start="20250618073000 +0000" stop="20250618075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250618075000 +0000" stop="20250618081000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618075000 +0000" stop="20250618081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250618081000 +0000" stop="20250618082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618081500 +0000" stop="20250618082000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250618082000 +0000" stop="20250618082500 +0000" channel="Nick Jr..skyde">
@@ -1573,10 +1573,10 @@
 <programme start="20250618083500 +0000" stop="20250618084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618084000 +0000" stop="20250618084400 +0000" channel="Nick Jr..skyde">
+<programme start="20250618084000 +0000" stop="20250618084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618084400 +0000" stop="20250618085000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618084500 +0000" stop="20250618085000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250618085000 +0000" stop="20250618085500 +0000" channel="Nick Jr..skyde">
@@ -1588,10 +1588,10 @@
 <programme start="20250618090000 +0000" stop="20250618090500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618090500 +0000" stop="20250618091000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618090500 +0000" stop="20250618090600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618091000 +0000" stop="20250618091500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618090600 +0000" stop="20250618091500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250618091500 +0000" stop="20250618094000 +0000" channel="Nick Jr..skyde">
@@ -1615,19 +1615,19 @@
 <programme start="20250618113000 +0000" stop="20250618115500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250618115500 +0000" stop="20250618121500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618115500 +0000" stop="20250618122000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250618121500 +0000" stop="20250618124000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618122000 +0000" stop="20250618124000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
 <programme start="20250618124000 +0000" stop="20250618125000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250618125000 +0000" stop="20250618130000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618125000 +0000" stop="20250618130500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250618130000 +0000" stop="20250618132500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618130500 +0000" stop="20250618132500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20250618132500 +0000" stop="20250618134500 +0000" channel="Nick Jr..skyde">
@@ -1642,10 +1642,10 @@
 <programme start="20250618141500 +0000" stop="20250618142000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250618142000 +0000" stop="20250618143000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618142000 +0000" stop="20250618142500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250618143000 +0000" stop="20250618145000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618142500 +0000" stop="20250618145000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250618145000 +0000" stop="20250618150000 +0000" channel="Nick Jr..skyde">
@@ -1657,40 +1657,40 @@
 <programme start="20250618152000 +0000" stop="20250618153000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250618153000 +0000" stop="20250618154500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618153000 +0000" stop="20250618154000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250618154500 +0000" stop="20250618155500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618154000 +0000" stop="20250618155500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250618155500 +0000" stop="20250618162000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618155500 +0000" stop="20250618161500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250618162000 +0000" stop="20250618164000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618161500 +0000" stop="20250618164000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250618164000 +0000" stop="20250618170000 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250618170000 +0000" stop="20250618172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618170000 +0000" stop="20250618172000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250618172500 +0000" stop="20250618174500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618172000 +0000" stop="20250618174500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250618174500 +0000" stop="20250618181000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618174500 +0000" stop="20250618180500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250618181000 +0000" stop="20250618183000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618180500 +0000" stop="20250618183000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20250618183000 +0000" stop="20250618184000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250618184000 +0000" stop="20250618185500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618184000 +0000" stop="20250618185000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250618185500 +0000" stop="20250618190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250618185000 +0000" stop="20250618190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250618190500 +0000" stop="20250618193000 +0000" channel="Nick Jr..skyde">
@@ -1699,10 +1699,10 @@
 <programme start="20250618193000 +0000" stop="20250618195000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250618195000 +0000" stop="20250618201000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618195000 +0000" stop="20250618201500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250618201000 +0000" stop="20250618202000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618201500 +0000" stop="20250618202000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250618202000 +0000" stop="20250618202500 +0000" channel="Nick Jr..skyde">
@@ -1714,10 +1714,10 @@
 <programme start="20250618203500 +0000" stop="20250618204000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618204000 +0000" stop="20250618204400 +0000" channel="Nick Jr..skyde">
+<programme start="20250618204000 +0000" stop="20250618204500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250618204400 +0000" stop="20250618205000 +0000" channel="Nick Jr..skyde">
+<programme start="20250618204500 +0000" stop="20250618205000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250618205000 +0000" stop="20250618205500 +0000" channel="Nick Jr..skyde">
@@ -2801,7 +2801,7 @@
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
 </programme>
 <programme start="20250617233000 +0000" stop="20250618013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 2. Tag</title>
+    <title>ATP 500: S. Ofner (AUT) - A. Rublev, Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20250618013000 +0000" stop="20250618020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Wiener Viktoria</title>
@@ -2828,7 +2828,7 @@
     <title>UEFA CL: Paris Saint-Germain - Inter Mailand, Finale 2025 in München</title>
 </programme>
 <programme start="20250618073000 +0000" stop="20250618093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 2. Tag</title>
+    <title>ATP 500: S. Ofner (AUT) - A. Rublev, Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20250618093000 +0000" stop="20250618173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 3. Tag</title>
@@ -3094,23 +3094,29 @@
 <programme start="20250618050000 +0000" stop="20250618070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250618070000 +0000" stop="20250618073000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore - letzter Spieltag</title>
+<programme start="20250618070000 +0000" stop="20250618080000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Aragonien</title>
 </programme>
-<programme start="20250618073000 +0000" stop="20250618081500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Replay: Burton Automotive Newcastle Surfest Challenger Series Finals Day</title>
+<programme start="20250618080000 +0000" stop="20250618081500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 1</title>
 </programme>
-<programme start="20250618081500 +0000" stop="20250618084500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
+<programme start="20250618081500 +0000" stop="20250618083000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 2</title>
+</programme>
+<programme start="20250618083000 +0000" stop="20250618084500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 3</title>
 </programme>
 <programme start="20250618084500 +0000" stop="20250618090000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 4</title>
+</programme>
+<programme start="20250618090000 +0000" stop="20250618091500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 5</title>
+</programme>
+<programme start="20250618091500 +0000" stop="20250618093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20250618090000 +0000" stop="20250618093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
-</programme>
 <programme start="20250618093000 +0000" stop="20250618100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore - letzter Spieltag</title>
+    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
 </programme>
 <programme start="20250618100000 +0000" stop="20250618120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
@@ -3121,11 +3127,11 @@
 <programme start="20250618130000 +0000" stop="20250618150000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Junioren: Deutschland - England, Vorrunde, UEFA 19-EM</title>
 </programme>
-<programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Aragonien</title>
-</programme>
-<programme start="20250618160000 +0000" stop="20250618163000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618150000 +0000" stop="20250618153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
+</programme>
+<programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Aragonien</title>
 </programme>
 <programme start="20250618163000 +0000" stop="20250618183000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
@@ -3133,11 +3139,8 @@
 <programme start="20250618183000 +0000" stop="20250618193000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250618193000 +0000" stop="20250618200000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore - letzter Spieltag</title>
-</programme>
-<programme start="20250618200000 +0000" stop="20250618220000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Junioren: Deutschland - England, Vorrunde, UEFA 19-EM</title>
+<programme start="20250618193000 +0000" stop="20250618220000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal Frauen: FC Bayern München - Werder Bremen, Finale 2025 in Köln</title>
 </programme>
 <programme start="20250617220000 +0000" stop="20250618040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3151,7 +3154,10 @@
 <programme start="20250618130000 +0000" stop="20250618160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250618160000 +0000" stop="20250618183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250618160000 +0000" stop="20250618163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - Alonso legt bei Real los</title>
+</programme>
+<programme start="20250618163000 +0000" stop="20250618183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250618183000 +0000" stop="20250618210000 +0000" channel="Sky Sport News HD.skyde">
@@ -3284,7 +3290,7 @@
     <title>PL: PL Stories (David Seaman - Safe Hands)</title>
 </programme>
 <programme start="20250617230000 +0000" stop="20250618010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 2. Tag</title>
+    <title>ATP 500: C. Alcaraz (ESP) - A. Walton (GBR), cinch Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20250618010000 +0000" stop="20250618020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
@@ -3296,13 +3302,13 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250618043000 +0000" stop="20250618063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 2. Tag</title>
+    <title>ATP 500: C. Alcaraz (ESP) - A. Walton (GBR), cinch Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20250618063000 +0000" stop="20250618070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250618070000 +0000" stop="20250618090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
+    <title>WTA 500: N. Osaka (JPN) - L. Samsonova, BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
 </programme>
 <programme start="20250618090000 +0000" stop="20250618093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3340,11 +3346,8 @@
 <programme start="20250618043000 +0000" stop="20250618050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Das Ruhrgebiet - Herz des deutschen Fußballs (3)</title>
 </programme>
-<programme start="20250618050000 +0000" stop="20250618070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
-</programme>
-<programme start="20250618070000 +0000" stop="20250618073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250618050000 +0000" stop="20250618073000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 250: Z. Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20250618073000 +0000" stop="20250618093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
@@ -3391,7 +3394,7 @@
 <programme start="20250618091000 +0000" stop="20250618093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250618093000 +0000" stop="20250618180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250618093000 +0000" stop="20250618200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
 </programme>
 <programme start="20250617223000 +0000" stop="20250617231000 +0000" channel="SYFY HD.skyde">
