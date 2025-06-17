@@ -143,43 +143,43 @@
         <title>Whispers Of The Dead S2 - EP 3</title>
     </programme>
     <programme start="20250617150237 +0000" stop="20250617160057 +0000" channel="Channel 8.mewatch">
-        <title>Joy of Life 2 - EP 17 庆余年 2</title>
+        <title>Joy of Life 2 - EP 17</title>
     </programme>
     <programme start="20250617160057 +0000" stop="20250617165954 +0000" channel="Channel 8.mewatch">
-        <title>The Ingenious One - EP 36 云襄传</title>
+        <title>The Ingenious One - EP 36</title>
     </programme>
     <programme start="20250617165954 +0000" stop="20250617180007 +0000" channel="Channel 8.mewatch">
-        <title>Towkay, Take A Break - EP 8 街坊请关照</title>
+        <title>Towkay, Take A Break - EP 8</title>
     </programme>
     <programme start="20250617180007 +0000" stop="20250617190041 +0000" channel="Channel 8.mewatch">
-        <title>Love Blossoms II - EP 45 心花朵朵开II</title>
+        <title>Love Blossoms II - EP 45</title>
     </programme>
     <programme start="20250617190041 +0000" stop="20250617200104 +0000" channel="Channel 8.mewatch">
-        <title>Love Blossoms II - EP 46 心花朵朵开II</title>
+        <title>Love Blossoms II - EP 46</title>
     </programme>
     <programme start="20250617200104 +0000" stop="20250617210114 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 35 多情城市</title>
+        <title>Golden City - EP 35</title>
     </programme>
     <programme start="20250617210114 +0000" stop="20250617220000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 36 多情城市</title>
+        <title>Golden City - EP 36</title>
     </programme>
     <programme start="20250617220000 +0000" stop="20250617230007 +0000" channel="Channel 8.mewatch">
-        <title>What&#039;s In The Fridge? 2 - EP 6 冰箱的秘密2</title>
+        <title>What&#039;s In The Fridge? 2 - EP 6</title>
     </programme>
     <programme start="20250617230007 +0000" stop="20250617233102 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight 晚间新闻</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20250617233102 +0000" stop="20250618000042 +0000" channel="Channel 8.mewatch">
-        <title>The Heartland Hero - EP 74 邻里帮</title>
+        <title>The Heartland Hero - EP 74</title>
     </programme>
     <programme start="20250618000042 +0000" stop="20250618005959 +0000" channel="Channel 8.mewatch">
-        <title>The Heir to the Throne - EP 19 家族荣耀之继承者</title>
+        <title>The Heir to the Throne - EP 19</title>
     </programme>
     <programme start="20250618005959 +0000" stop="20250618013009 +0000" channel="Channel 8.mewatch">
-        <title>Morning Express 晨光第一线</title>
+        <title>Morning Express</title>
     </programme>
     <programme start="20250618013009 +0000" stop="20250618015815 +0000" channel="Channel 8.mewatch">
-        <title>No Return - EP 6 巾帼枭雄之悬崖</title>
+        <title>No Return - EP 6</title>
     </programme>
     <programme start="20250618015815 +0000" stop="20250618021215 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 258</title>
@@ -191,10 +191,10 @@
         <title>The Wonder Shop - EP 241</title>
     </programme>
     <programme start="20250618022835 +0000" stop="20250618032454 +0000" channel="Channel 8.mewatch">
-        <title>Taste of Life - EP 724 甘味人生</title>
+        <title>Taste of Life - EP 724</title>
     </programme>
     <programme start="20250618032454 +0000" stop="20250618042935 +0000" channel="Channel 8.mewatch">
-        <title>Taste of Life - EP 725 甘味人生</title>
+        <title>Taste of Life - EP 725</title>
     </programme>
     <programme start="20250618042935 +0000" stop="20250618044340 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 251</title>
@@ -206,16 +206,16 @@
         <title>The Wonder Shop - EP 266</title>
     </programme>
     <programme start="20250618050000 +0000" stop="20250618053019 +0000" channel="Channel 8.mewatch">
-        <title>News 8 at One 一点新闻</title>
+        <title>News 8 at One</title>
     </programme>
     <programme start="20250618053019 +0000" stop="20250618060035 +0000" channel="Channel 8.mewatch">
-        <title>Lo &amp; Behold - EP 1241 愛‧回家之开心速递</title>
+        <title>Lo &amp; Behold - EP 1241</title>
     </programme>
     <programme start="20250618060035 +0000" stop="20250618063044 +0000" channel="Channel 8.mewatch">
-        <title>Lo &amp; Behold - EP 1242 愛‧回家之开心速递</title>
+        <title>Lo &amp; Behold - EP 1242</title>
     </programme>
     <programme start="20250618063044 +0000" stop="20250618070104 +0000" channel="Channel 8.mewatch">
-        <title>Lo &amp; Behold - EP 1243 愛‧回家之开心速递</title>
+        <title>Lo &amp; Behold - EP 1243</title>
     </programme>
     <programme start="20250618070104 +0000" stop="20250618071504 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 259</title>
@@ -227,46 +227,46 @@
         <title>The Wonder Shop - EP 242</title>
     </programme>
     <programme start="20250618073124 +0000" stop="20250618083131 +0000" channel="Channel 8.mewatch">
-        <title>The Queen Of News - EP 24 新闻女王</title>
+        <title>The Queen Of News - EP 24</title>
     </programme>
     <programme start="20250618083131 +0000" stop="20250618093127 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 37 多情城市</title>
+        <title>Golden City - EP 37</title>
     </programme>
     <programme start="20250618093127 +0000" stop="20250618103000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 38 多情城市</title>
+        <title>Golden City - EP 38</title>
     </programme>
     <programme start="20250618103000 +0000" stop="20250618113000 +0000" channel="Channel 8.mewatch">
-        <title>Hello Singapore - EP 57 狮城有约</title>
+        <title>Hello Singapore - EP 57</title>
     </programme>
     <programme start="20250618113000 +0000" stop="20250618120000 +0000" channel="Channel 8.mewatch">
-        <title>No Return - EP 7 巾帼枭雄之悬崖</title>
+        <title>No Return - EP 7</title>
     </programme>
     <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="Channel 8.mewatch">
-        <title>James&#039; Going Places V - EP 11 詹姆士出走料理 V</title>
+        <title>James&#039; Going Places V - EP 11</title>
     </programme>
     <programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="Channel 8.mewatch">
-        <title>The Heir to the Throne - EP 20 家族荣耀之继承者</title>
+        <title>The Heir to the Throne - EP 20</title>
     </programme>
     <programme start="20250618140000 +0000" stop="20250618143000 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight 晚间新闻</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20250618143000 +0000" stop="20250618150000 +0000" channel="Channel 8.mewatch">
-        <title>Journey to Homeland S2 - EP 11 新村之后 第二季</title>
+        <title>Journey to Homeland S2 - EP 11</title>
     </programme>
     <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="Channel 8.mewatch">
-        <title>Joy of Life 2 - EP 18 庆余年 2</title>
+        <title>Joy of Life 2 - EP 18</title>
     </programme>
     <programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="Channel 8.mewatch">
         <title>Lost You Forever - EP 1 长相思</title>
     </programme>
     <programme start="20250617153004 +0000" stop="20250617163056 +0000" channel="Channel U.mewatch">
-        <title>Island Odyssey - EP 8 上山下海过一夜双岛大冒险</title>
+        <title>Island Odyssey - EP 8</title>
     </programme>
     <programme start="20250617163056 +0000" stop="20250617172950 +0000" channel="Channel U.mewatch">
-        <title>The Secret House - EP 40 秘密之家</title>
+        <title>The Secret House - EP 40</title>
     </programme>
     <programme start="20250617172950 +0000" stop="20250617220000 +0000" channel="Channel U.mewatch">
-        <title>The Secret House - EP 41 秘密之家</title>
+        <title>The Secret House - EP 41</title>
     </programme>
     <programme start="20250617220000 +0000" stop="20250618025808 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
@@ -347,31 +347,31 @@
         <title>The Wonder Shop - EP 229</title>
     </programme>
     <programme start="20250618065959 +0000" stop="20250618090053 +0000" channel="Channel U.mewatch">
-        <title>Sisters Who Make Waves S3 - EP 8 乘风破浪的姐姐 S3</title>
+        <title>Sisters Who Make Waves S3 - EP 8</title>
     </programme>
     <programme start="20250618090053 +0000" stop="20250618100015 +0000" channel="Channel U.mewatch">
-        <title>The Law Cafe - EP 4 依法相爱吧</title>
+        <title>The Law Cafe - EP 4</title>
     </programme>
     <programme start="20250618100015 +0000" stop="20250618110000 +0000" channel="Channel U.mewatch">
-        <title>VIP - EP 6 隐藏的爱</title>
+        <title>VIP - EP 6</title>
     </programme>
     <programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="Channel U.mewatch">
-        <title>The Secret House - EP 42 秘密之家</title>
+        <title>The Secret House - EP 42</title>
     </programme>
     <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="Channel U.mewatch">
-        <title>The Secret House - EP 43 秘密之家</title>
+        <title>The Secret House - EP 43</title>
     </programme>
     <programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="Channel U.mewatch">
-        <title>Against All Odds - EP 6 隐形</title>
+        <title>Against All Odds - EP 6</title>
     </programme>
     <programme start="20250618140000 +0000" stop="20250618150000 +0000" channel="Channel U.mewatch">
-        <title>A Journey to Love - EP 30 一念关山</title>
+        <title>A Journey to Love - EP 30</title>
     </programme>
     <programme start="20250618150000 +0000" stop="20250618153000 +0000" channel="Channel U.mewatch">
-        <title>News Tonight 晚间新闻</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="Channel U.mewatch">
-        <title>Against All Odds - EP 6 隐形</title>
+        <title>Against All Odds - EP 6</title>
     </programme>
     <programme start="20250617153000 +0000" stop="20250617160019 +0000" channel="Suria.mewatch">
         <title>Berita</title>
