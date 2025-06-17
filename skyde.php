@@ -667,10 +667,10 @@
 <programme start="20250617113500 +0000" stop="20250617115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250617115000 +0000" stop="20250617120500 +0000" channel="Cartoonito.skyde">
+<programme start="20250617115000 +0000" stop="20250617120000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250617120500 +0000" stop="20250617122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617120000 +0000" stop="20250617122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250617122000 +0000" stop="20250617123000 +0000" channel="Cartoonito.skyde">
@@ -769,10 +769,10 @@
 <programme start="20250617185500 +0000" stop="20250617190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250617190000 +0000" stop="20250617191000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617190000 +0000" stop="20250617190500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250617191000 +0000" stop="20250617192000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617190500 +0000" stop="20250617192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250617192000 +0000" stop="20250617193000 +0000" channel="Cartoonito.skyde">
@@ -3174,33 +3174,6 @@
 </programme>
 <programme start="20250617215500 +0000" stop="20250617221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
-</programme>
-<programme start="20250616233000 +0000" stop="20250617013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 1. Tag</title>
-</programme>
-<programme start="20250617013000 +0000" stop="20250617033500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - B. Shelton (USA), BMW Open in München, Finale</title>
-</programme>
-<programme start="20250617033500 +0000" stop="20250617043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review München</title>
-</programme>
-<programme start="20250617043000 +0000" stop="20250617053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Hamburg</title>
-</programme>
-<programme start="20250617053000 +0000" stop="20250617073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 1. Tag</title>
-</programme>
-<programme start="20250617073000 +0000" stop="20250617093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Lys (GER) - P. Badosa (ESP), BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
-</programme>
-<programme start="20250617093000 +0000" stop="20250617190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 2. Tag</title>
-</programme>
-<programme start="20250617190000 +0000" stop="20250617213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
-</programme>
-<programme start="20250617213000 +0000" stop="20250617233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
 </programme>
 <programme start="20250616222000 +0000" stop="20250616230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 1. FC Union Berlin - Saison 24-25</title>
