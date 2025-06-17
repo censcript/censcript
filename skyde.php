@@ -667,10 +667,10 @@
 <programme start="20250617113500 +0000" stop="20250617115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250617115000 +0000" stop="20250617120000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617115000 +0000" stop="20250617120500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250617120000 +0000" stop="20250617122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617120500 +0000" stop="20250617122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250617122000 +0000" stop="20250617123000 +0000" channel="Cartoonito.skyde">
@@ -769,10 +769,10 @@
 <programme start="20250617185500 +0000" stop="20250617190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250617190000 +0000" stop="20250617190500 +0000" channel="Cartoonito.skyde">
+<programme start="20250617190000 +0000" stop="20250617191000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250617190500 +0000" stop="20250617192000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617191000 +0000" stop="20250617192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250617192000 +0000" stop="20250617193000 +0000" channel="Cartoonito.skyde">
@@ -3175,6 +3175,33 @@
 <programme start="20250617215500 +0000" stop="20250617221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
 </programme>
+<programme start="20250616233000 +0000" stop="20250617013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 1. Tag</title>
+</programme>
+<programme start="20250617013000 +0000" stop="20250617033500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - B. Shelton (USA), BMW Open in München, Finale</title>
+</programme>
+<programme start="20250617033500 +0000" stop="20250617043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review München</title>
+</programme>
+<programme start="20250617043000 +0000" stop="20250617053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Hamburg</title>
+</programme>
+<programme start="20250617053000 +0000" stop="20250617073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 1. Tag</title>
+</programme>
+<programme start="20250617073000 +0000" stop="20250617093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Lys (GER) - P. Badosa (ESP), BERLIN TENNIS OPEN by HYLO in Berlin, 1. Tag</title>
+</programme>
+<programme start="20250617093000 +0000" stop="20250617190000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 2. Tag</title>
+</programme>
+<programme start="20250617190000 +0000" stop="20250617213000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
+</programme>
+<programme start="20250617213000 +0000" stop="20250617233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
+</programme>
 <programme start="20250616222000 +0000" stop="20250616230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 1. FC Union Berlin - Saison 24-25</title>
 </programme>
@@ -3185,9 +3212,12 @@
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20250617030000 +0000" stop="20250617050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 1. Tag</title>
+    <title>ATP 500: H. Rune (DEN) - C. O&#039;Connell (AUS), cinch Championships in London (GBR), 1. Tag</title>
 </programme>
-<programme start="20250617050000 +0000" stop="20250617073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250617050000 +0000" stop="20250617053000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Rennen Kompakt - GP Kanada</title>
+</programme>
+<programme start="20250617053000 +0000" stop="20250617073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20250617073000 +0000" stop="20250617093000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3244,7 +3274,7 @@
 <programme start="20250617091000 +0000" stop="20250617093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250617093000 +0000" stop="20250617180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250617093000 +0000" stop="20250617200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
 </programme>
 <programme start="20250616222000 +0000" stop="20250616231000 +0000" channel="SYFY HD.skyde">
@@ -3454,10 +3484,10 @@
 <programme start="20250616223500 +0000" stop="20250616230000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250616230000 +0000" stop="20250616232500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250616230000 +0000" stop="20250616232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250616232500 +0000" stop="20250616234500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250616232000 +0000" stop="20250616234500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
 <programme start="20250616234500 +0000" stop="20250617000500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3472,10 +3502,10 @@
 <programme start="20250617003000 +0000" stop="20250617004000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250617004000 +0000" stop="20250617005000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617004000 +0000" stop="20250617005500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250617005000 +0000" stop="20250617010500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617005500 +0000" stop="20250617010500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20250617010500 +0000" stop="20250617012000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3502,10 +3532,10 @@
 <programme start="20250617033000 +0000" stop="20250617035500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250617035500 +0000" stop="20250617042000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617035500 +0000" stop="20250617041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250617042000 +0000" stop="20250617044500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617041500 +0000" stop="20250617044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20250617044500 +0000" stop="20250617051000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3523,10 +3553,10 @@
 <programme start="20250617062500 +0000" stop="20250617065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250617065000 +0000" stop="20250617071500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617065000 +0000" stop="20250617072000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250617071500 +0000" stop="20250617074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617072000 +0000" stop="20250617074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
 <programme start="20250617074500 +0000" stop="20250617081000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3586,13 +3616,13 @@
 <programme start="20250617152000 +0000" stop="20250617154500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250617154500 +0000" stop="20250617161000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617154500 +0000" stop="20250617161500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20250617161000 +0000" stop="20250617163500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617161500 +0000" stop="20250617164000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Animal Control</title>
 </programme>
-<programme start="20250617163500 +0000" stop="20250617170000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617164000 +0000" stop="20250617170000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20250617170000 +0000" stop="20250617172500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3613,13 +3643,13 @@
 <programme start="20250617190500 +0000" stop="20250617193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250617193000 +0000" stop="20250617195000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617193000 +0000" stop="20250617195500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250617195000 +0000" stop="20250617201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617195500 +0000" stop="20250617202000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250617201500 +0000" stop="20250617204500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250617202000 +0000" stop="20250617204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
 <programme start="20250617204500 +0000" stop="20250617210500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3676,7 +3706,7 @@
 <programme start="20250617213500 +0000" stop="20250617232000 +0000" channel="Warner TV Film.skyde">
     <title>Während Du schliefst</title>
 </programme>
-<programme start="20250616222000 +0000" stop="20250617002000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250616222500 +0000" stop="20250617002000 +0000" channel="Warner TV Film HD.skyde">
     <title>Callahan</title>
 </programme>
 <programme start="20250617002000 +0000" stop="20250617023500 +0000" channel="Warner TV Film HD.skyde">
