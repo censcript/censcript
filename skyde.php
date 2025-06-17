@@ -667,10 +667,10 @@
 <programme start="20250617113500 +0000" stop="20250617115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250617115000 +0000" stop="20250617120000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617115000 +0000" stop="20250617120500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250617120000 +0000" stop="20250617122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617120500 +0000" stop="20250617122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250617122000 +0000" stop="20250617123000 +0000" channel="Cartoonito.skyde">
@@ -769,10 +769,10 @@
 <programme start="20250617185500 +0000" stop="20250617190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250617190000 +0000" stop="20250617190500 +0000" channel="Cartoonito.skyde">
+<programme start="20250617190000 +0000" stop="20250617191000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250617190500 +0000" stop="20250617192000 +0000" channel="Cartoonito.skyde">
+<programme start="20250617191000 +0000" stop="20250617192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250617192000 +0000" stop="20250617193000 +0000" channel="Cartoonito.skyde">
@@ -3271,7 +3271,7 @@
 <programme start="20250617091000 +0000" stop="20250617093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250617093000 +0000" stop="20250617200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250617093000 +0000" stop="20250617180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 2. Tag</title>
 </programme>
 <programme start="20250616222000 +0000" stop="20250616231000 +0000" channel="SYFY HD.skyde">

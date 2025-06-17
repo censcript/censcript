@@ -2315,31 +2315,37 @@
         <title>ATP Tour 500 2025: Queen&#039;s Day 1 Match 2</title>
     </programme>
     <programme start="20250617020000 +0000" stop="20250617033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Queen&#039;s Day 1 Match 3</title>
+        <title>Queen&#039;s Day 1 Mensik v Norrie</title>
     </programme>
-    <programme start="20250617033000 +0000" stop="20250617050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Queen&#039;s Day 1 Match 4</title>
+    <programme start="20250617033000 +0000" stop="20250617045000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Queen&#039;s Day 1 Fearnley v Bolt</title>
     </programme>
-    <programme start="20250617050000 +0000" stop="20250617063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 1 Match 2</title>
+    <programme start="20250617045000 +0000" stop="20250617060500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Halle Day 1 Medvedev v Altmaier</title>
     </programme>
-    <programme start="20250617063000 +0000" stop="20250617080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 1 Match 3</title>
+    <programme start="20250617060500 +0000" stop="20250617071500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Halle Day 1 Muller v Bublik</title>
+    </programme>
+    <programme start="20250617071500 +0000" stop="20250617073000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Sinner Feature</title>
+    </programme>
+    <programme start="20250617073000 +0000" stop="20250617080000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Men&#039;s Singles Final Sinner v Alcaraz</title>
     </programme>
     <programme start="20250617080000 +0000" stop="20250617093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 1 Match 4</title>
+        <title>Halle Day 1 Tsitsipas v Darderi</title>
     </programme>
     <programme start="20250617093000 +0000" stop="20250617113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 2 Match 1</title>
+        <title>Halle Day 2 Rublev v Ofner</title>
     </programme>
     <programme start="20250617113000 +0000" stop="20250617133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 2 Match 2</title>
+        <title>Halle Day 2 Cobolli v Fonseca</title>
     </programme>
     <programme start="20250617133000 +0000" stop="20250617153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 2 Match 3</title>
+        <title>Halle Day 2 Sinner v Hanfmann</title>
     </programme>
     <programme start="20250617153000 +0000" stop="20250617173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 2 Match 4</title>
+        <title>Halle Day 2 Sonego v Struff</title>
     </programme>
     <programme start="20250616160000 +0000" stop="20250616170000 +0000" channel="TVB Xing He.starhub">
         <title>Trimming Success</title>

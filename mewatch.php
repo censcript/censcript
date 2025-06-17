@@ -382,9 +382,6 @@
     <programme start="20250616153000 +0000" stop="20250616160047 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250616160047 +0000" stop="20250617010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250617010000 +0000" stop="20250617012957 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 18</title>
     </programme>
@@ -475,32 +472,35 @@
     <programme start="20250617080022 +0000" stop="20250617110000 +0000" channel="Vasantham.mewatch">
         <title>Avvai Shanmugi</title>
     </programme>
-    <programme start="20250617110000 +0000" stop="20250617120007 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617110000 +0000" stop="20250617120000 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary S2 - EP 2</title>
     </programme>
-    <programme start="20250617120007 +0000" stop="20250617123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617120000 +0000" stop="20250617123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 21</title>
     </programme>
-    <programme start="20250617123000 +0000" stop="20250617130005 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617123000 +0000" stop="20250617130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250617130005 +0000" stop="20250617132931 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617130000 +0000" stop="20250617133000 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 15</title>
     </programme>
-    <programme start="20250617132931 +0000" stop="20250617135931 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617133000 +0000" stop="20250617140000 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 10</title>
     </programme>
-    <programme start="20250617135931 +0000" stop="20250617142953 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617140000 +0000" stop="20250617143000 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 12</title>
     </programme>
-    <programme start="20250617142953 +0000" stop="20250617145916 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617143000 +0000" stop="20250617150000 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 13</title>
     </programme>
-    <programme start="20250617145916 +0000" stop="20250617153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617150000 +0000" stop="20250617153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 11</title>
     </programme>
-    <programme start="20250617153000 +0000" stop="20250617160003 +0000" channel="Vasantham.mewatch">
+    <programme start="20250617153000 +0000" stop="20250617155958 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
+    </programme>
+    <programme start="20250617155958 +0000" stop="20250618010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
     </programme>
     <programme start="20250616160000 +0000" stop="20250616160207 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
@@ -772,31 +772,31 @@
     <programme start="20250616220000 +0000" stop="20250616223000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Threat Of &quot;Left&quot;</title>
     </programme>
-    <programme start="20250616223000 +0000" stop="20250616230000 +0000" channel="Animax.mewatch">
+    <programme start="20250616223000 +0000" stop="20250616230001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Guessing Monster</title>
     </programme>
-    <programme start="20250616230000 +0000" stop="20250616233000 +0000" channel="Animax.mewatch">
+    <programme start="20250616230001 +0000" stop="20250616233001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Final Invaders</title>
     </programme>
-    <programme start="20250616233000 +0000" stop="20250617000000 +0000" channel="Animax.mewatch">
+    <programme start="20250616233001 +0000" stop="20250617000001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617000000 +0000" stop="20250617003000 +0000" channel="Animax.mewatch">
+    <programme start="20250617000001 +0000" stop="20250617003001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - I Wanna Have An Offline Meeting</title>
     </programme>
-    <programme start="20250617003000 +0000" stop="20250617010000 +0000" channel="Animax.mewatch">
+    <programme start="20250617003001 +0000" stop="20250617010001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - Are You In Love With Yamada?</title>
     </programme>
-    <programme start="20250617010000 +0000" stop="20250617013000 +0000" channel="Animax.mewatch">
+    <programme start="20250617010001 +0000" stop="20250617013001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Threat Of &quot;Left&quot;</title>
     </programme>
-    <programme start="20250617013000 +0000" stop="20250617020000 +0000" channel="Animax.mewatch">
+    <programme start="20250617013001 +0000" stop="20250617020001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 3rd Season - The Guessing Monster</title>
     </programme>
-    <programme start="20250617020000 +0000" stop="20250617033000 +0000" channel="Animax.mewatch">
+    <programme start="20250617020001 +0000" stop="20250617033001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Mother And Children</title>
     </programme>
-    <programme start="20250617033000 +0000" stop="20250617040001 +0000" channel="Animax.mewatch">
+    <programme start="20250617033001 +0000" stop="20250617040001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
     <programme start="20250617040001 +0000" stop="20250617043001 +0000" channel="Animax.mewatch">
@@ -832,32 +832,35 @@
     <programme start="20250617110001 +0000" stop="20250617113001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617113001 +0000" stop="20250617120001 +0000" channel="Animax.mewatch">
+    <programme start="20250617113001 +0000" stop="20250617120000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
     </programme>
-    <programme start="20250617120001 +0000" stop="20250617123001 +0000" channel="Animax.mewatch">
+    <programme start="20250617120000 +0000" stop="20250617123000 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - Are You In Love With Yamada?</title>
     </programme>
-    <programme start="20250617123001 +0000" stop="20250617130001 +0000" channel="Animax.mewatch">
+    <programme start="20250617123000 +0000" stop="20250617130000 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - How About You Give US An Explanation</title>
     </programme>
-    <programme start="20250617130001 +0000" stop="20250617133001 +0000" channel="Animax.mewatch">
+    <programme start="20250617130000 +0000" stop="20250617133000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617133001 +0000" stop="20250617140001 +0000" channel="Animax.mewatch">
+    <programme start="20250617133000 +0000" stop="20250617140000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
     </programme>
-    <programme start="20250617140001 +0000" stop="20250617143001 +0000" channel="Animax.mewatch">
+    <programme start="20250617140000 +0000" stop="20250617143000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Third Option</title>
     </programme>
-    <programme start="20250617143001 +0000" stop="20250617150001 +0000" channel="Animax.mewatch">
+    <programme start="20250617143000 +0000" stop="20250617150000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Manga-Based TV Drama</title>
     </programme>
-    <programme start="20250617150001 +0000" stop="20250617153001 +0000" channel="Animax.mewatch">
+    <programme start="20250617150000 +0000" stop="20250617153000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Mastermind</title>
     </programme>
-    <programme start="20250617153001 +0000" stop="20250617160001 +0000" channel="Animax.mewatch">
+    <programme start="20250617153000 +0000" stop="20250617160000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Ultimate Natural Enemy</title>
+    </programme>
+    <programme start="20250617160000 +0000" stop="20250617163000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - Are You In Love With Yamada?</title>
     </programme>
     <programme start="20250616150500 +0000" stop="20250616165500 +0000" channel="cinemaworld.mewatch">
         <title>Lost Transport</title>

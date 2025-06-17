@@ -1165,14 +1165,20 @@
 <programme start="20250617020000 +0000" stop="20250617033000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Queen&#039;s</title>
 </programme>
-<programme start="20250617033000 +0000" stop="20250617050000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250617033000 +0000" stop="20250617045000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Queen&#039;s</title>
 </programme>
-<programme start="20250617050000 +0000" stop="20250617063000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250617045000 +0000" stop="20250617060500 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Halle</title>
 </programme>
-<programme start="20250617063000 +0000" stop="20250617080000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250617060500 +0000" stop="20250617071500 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Halle</title>
+</programme>
+<programme start="20250617071500 +0000" stop="20250617073000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Doco Shorts</title>
+</programme>
+<programme start="20250617073000 +0000" stop="20250617080000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Mini Match Roland Garros 2025</title>
 </programme>
 <programme start="20250617080000 +0000" stop="20250617093000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Halle</title>
@@ -1210,14 +1216,20 @@
 <programme start="20250617020000 +0000" stop="20250617033000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Queen&#039;s</title>
 </programme>
-<programme start="20250617033000 +0000" stop="20250617050000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250617033000 +0000" stop="20250617045000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Queen&#039;s</title>
 </programme>
-<programme start="20250617050000 +0000" stop="20250617063000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250617045000 +0000" stop="20250617060500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Halle</title>
 </programme>
-<programme start="20250617063000 +0000" stop="20250617080000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250617060500 +0000" stop="20250617071500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Halle</title>
+</programme>
+<programme start="20250617071500 +0000" stop="20250617073000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Doco Shorts</title>
+</programme>
+<programme start="20250617073000 +0000" stop="20250617080000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Mini Match Roland Garros 2025</title>
 </programme>
 <programme start="20250617080000 +0000" stop="20250617093000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Halle</title>
@@ -1810,7 +1822,48 @@
 <programme start="20250617002500 +0000" stop="20250617005500 +0000" channel="CBeebies.mncvision">
     <title>Aneeshwar &amp; Lizzie Go..., Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250616181000 +0000" stop="20250616195500 +0000" channel="CCM.mncvision">
+    <title>The Eunuch</title>
+</programme>
+<programme start="20250616195500 +0000" stop="20250616212500 +0000" channel="CCM.mncvision">
+    <title>Six Assassins</title>
+</programme>
+<programme start="20250616212500 +0000" stop="20250616225500 +0000" channel="CCM.mncvision">
+    <title>Village Of Tigers</title>
+</programme>
+<programme start="20250616225500 +0000" stop="20250617003500 +0000" channel="CCM.mncvision">
+    <title>The Boxer From The Temple</title>
+</programme>
+<programme start="20250617003500 +0000" stop="20250617023000 +0000" channel="CCM.mncvision">
+    <title>The Story Of Sue San</title>
+</programme>
+<programme start="20250617023000 +0000" stop="20250617042000 +0000" channel="CCM.mncvision">
+    <title>The Golden Buddha</title>
+</programme>
+<programme start="20250617042000 +0000" stop="20250617055500 +0000" channel="CCM.mncvision">
+    <title>The Snake Prince</title>
+</programme>
+<programme start="20250617055500 +0000" stop="20250617074500 +0000" channel="CCM.mncvision">
+    <title>Heaven Sword And Dragon Sabre</title>
+</programme>
+<programme start="20250617074500 +0000" stop="20250617093000 +0000" channel="CCM.mncvision">
+    <title>The House Of 72 Tenants</title>
+</programme>
+<programme start="20250617093000 +0000" stop="20250617112500 +0000" channel="CCM.mncvision">
+    <title>Golden Swallow</title>
+</programme>
+<programme start="20250617112500 +0000" stop="20250617130000 +0000" channel="CCM.mncvision">
+    <title>The Butterfly Chalice</title>
+</programme>
+<programme start="20250617130000 +0000" stop="20250617143000 +0000" channel="CCM.mncvision">
+    <title>The Magnificent Swordsman</title>
+</programme>
+<programme start="20250617143000 +0000" stop="20250617161500 +0000" channel="CCM.mncvision">
+    <title>Forever And Ever</title>
+</programme>
+<programme start="20250617161500 +0000" stop="20250617164500 +0000" channel="CCM.mncvision">
+    <title>Killers Five</title>
+</programme>
 <programme start="20250616170000 +0000" stop="20250616180000 +0000" channel="Celebrities TV.mncvision">
     <title>Jangan Baper</title>
 </programme>
@@ -6710,13 +6763,630 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250617090000 +0000" stop="20250617093000 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250616170000 +0000" stop="20250616172500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250616172500 +0000" stop="20250616174500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250616174500 +0000" stop="20250616181000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616181000 +0000" stop="20250616183000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616183000 +0000" stop="20250616184000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616184000 +0000" stop="20250616185500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250616185500 +0000" stop="20250616190500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250616190500 +0000" stop="20250616193000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Super Duper Bunny League</title>
+</programme>
+<programme start="20250616193000 +0000" stop="20250616195000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250616195000 +0000" stop="20250616201000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250616201000 +0000" stop="20250616202000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250616202000 +0000" stop="20250616202500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250616202500 +0000" stop="20250616203500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250616203500 +0000" stop="20250616204000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616204000 +0000" stop="20250616204500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616204500 +0000" stop="20250616205000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616205000 +0000" stop="20250616205500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616205500 +0000" stop="20250616210000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616210000 +0000" stop="20250616210500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616210500 +0000" stop="20250616211000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616211000 +0000" stop="20250616211500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616211500 +0000" stop="20250616214000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250616214000 +0000" stop="20250616220000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250616220000 +0000" stop="20250616222500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250616222500 +0000" stop="20250616224500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250616224500 +0000" stop="20250616231000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616231000 +0000" stop="20250616233000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616233000 +0000" stop="20250616235500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250616235500 +0000" stop="20250617001500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250617001500 +0000" stop="20250617004000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250617004000 +0000" stop="20250617005000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617005000 +0000" stop="20250617010000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617010000 +0000" stop="20250617012500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250617012500 +0000" stop="20250617014500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250617014500 +0000" stop="20250617020500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250617020500 +0000" stop="20250617021500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250617021500 +0000" stop="20250617022000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250617022000 +0000" stop="20250617023000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250617023000 +0000" stop="20250617025000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250617025000 +0000" stop="20250617030000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617032000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250617032000 +0000" stop="20250617033000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250617033000 +0000" stop="20250617034500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617034500 +0000" stop="20250617035500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617035500 +0000" stop="20250617040000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617040000 +0000" stop="20250617040400 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617040400 +0000" stop="20250617041000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617041000 +0000" stop="20250617041500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617041500 +0000" stop="20250617042000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250617042000 +0000" stop="20250617045000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250616170500 +0000" stop="20250616173000 +0000" channel="Nickelodeon.mncvision">
+    <title>Rock Island Mysteries</title>
+</programme>
+<programme start="20250616173000 +0000" stop="20250616175000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20250616175000 +0000" stop="20250616181500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20250616181500 +0000" stop="20250616183500 +0000" channel="Nickelodeon.mncvision">
+    <title>Tales Of The Teenage Mutant...</title>
+</programme>
+<programme start="20250616183500 +0000" stop="20250616190000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20250616190000 +0000" stop="20250616192000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Smurfs</title>
+</programme>
+<programme start="20250616192000 +0000" stop="20250616194500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Smurfs</title>
+</programme>
+<programme start="20250616194500 +0000" stop="20250616201000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250616201000 +0000" stop="20250616203000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250616203000 +0000" stop="20250616210000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250616210000 +0000" stop="20250616212000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20250616212000 +0000" stop="20250616214500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20250616214500 +0000" stop="20250616220500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20250616220500 +0000" stop="20250616222000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20250616222000 +0000" stop="20250616224500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20250616224500 +0000" stop="20250616225500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250616225500 +0000" stop="20250616232000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250616232000 +0000" stop="20250616234500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250616234500 +0000" stop="20250617001000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617001000 +0000" stop="20250617003500 +0000" channel="Nickelodeon.mncvision">
+    <title>Fairly OddParents: A New Wish</title>
+</programme>
+<programme start="20250617003500 +0000" stop="20250617005500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Smurfs</title>
+</programme>
+<programme start="20250617005500 +0000" stop="20250617012000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Smurfs</title>
+</programme>
+<programme start="20250617012000 +0000" stop="20250617014500 +0000" channel="Nickelodeon.mncvision">
+    <title>Alvinnn!!! And The Chipmunks</title>
+</programme>
+<programme start="20250617014500 +0000" stop="20250617020000 +0000" channel="Nickelodeon.mncvision">
+    <title>Alvinnn!!! And The Chipmunks</title>
+</programme>
+<programme start="20250617020000 +0000" stop="20250617022500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617022500 +0000" stop="20250617025000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617025000 +0000" stop="20250617031000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617031000 +0000" stop="20250617034000 +0000" channel="Nickelodeon.mncvision">
+    <title>Fairly OddParents: A New Wish</title>
+</programme>
+<programme start="20250617034000 +0000" stop="20250617040000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Really Loud House</title>
+</programme>
+<programme start="20250617040000 +0000" stop="20250617042500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20250617042500 +0000" stop="20250617045000 +0000" channel="Nickelodeon.mncvision">
+    <title>Danger Force</title>
+</programme>
+<programme start="20250617045000 +0000" stop="20250617051500 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20250617051500 +0000" stop="20250617053500 +0000" channel="Nickelodeon.mncvision">
+    <title>Tales Of The Teenage Mutant...</title>
+</programme>
+<programme start="20250617053500 +0000" stop="20250617060000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250617060000 +0000" stop="20250617062500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250617062500 +0000" stop="20250617063500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250617063500 +0000" stop="20250617070000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Smurfs</title>
+</programme>
+<programme start="20250617070000 +0000" stop="20250617072500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617072500 +0000" stop="20250617075000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617075000 +0000" stop="20250617081500 +0000" channel="Nickelodeon.mncvision">
+    <title>Fairly OddParents: A New Wish</title>
+</programme>
+<programme start="20250617081500 +0000" stop="20250617084000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Casagrandes</title>
+</programme>
+<programme start="20250617084000 +0000" stop="20250617090000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20250617090000 +0000" stop="20250617092500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20250617092500 +0000" stop="20250617095000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20250617095000 +0000" stop="20250617101500 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20250617101500 +0000" stop="20250617103500 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20250617103500 +0000" stop="20250617110000 +0000" channel="Nickelodeon.mncvision">
+    <title>Danger Force</title>
+</programme>
+<programme start="20250617110000 +0000" stop="20250617112000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617112000 +0000" stop="20250617114500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20250617114500 +0000" stop="20250617121500 +0000" channel="Nickelodeon.mncvision">
+    <title>Tales Of The Teenage Mutant...</title>
+</programme>
+<programme start="20250616170000 +0000" stop="20250616172500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250616172500 +0000" stop="20250616174500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250616174500 +0000" stop="20250616181000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616181000 +0000" stop="20250616183000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616183000 +0000" stop="20250616184000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616184000 +0000" stop="20250616185500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250616185500 +0000" stop="20250616190500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250616190500 +0000" stop="20250616193000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Super Duper Bunny League</title>
+</programme>
+<programme start="20250616193000 +0000" stop="20250616195000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250616195000 +0000" stop="20250616201000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250616201000 +0000" stop="20250616202000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250616202000 +0000" stop="20250616202500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250616202500 +0000" stop="20250616203500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250616203500 +0000" stop="20250616204000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616204000 +0000" stop="20250616204500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616204500 +0000" stop="20250616205000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616205000 +0000" stop="20250616205500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616205500 +0000" stop="20250616210000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616210000 +0000" stop="20250616210500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616210500 +0000" stop="20250616211000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616211000 +0000" stop="20250616211500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250616211500 +0000" stop="20250616214000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250616214000 +0000" stop="20250616220000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250616220000 +0000" stop="20250616222500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250616222500 +0000" stop="20250616224500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250616224500 +0000" stop="20250616231000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616231000 +0000" stop="20250616233000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250616233000 +0000" stop="20250616235500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250616235500 +0000" stop="20250617001500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250617001500 +0000" stop="20250617004000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250617004000 +0000" stop="20250617005000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617005000 +0000" stop="20250617010000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617010000 +0000" stop="20250617012500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250617012500 +0000" stop="20250617014500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250617014500 +0000" stop="20250617020500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250617020500 +0000" stop="20250617021500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250617021500 +0000" stop="20250617022000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250617022000 +0000" stop="20250617023000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250617023000 +0000" stop="20250617025000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250617025000 +0000" stop="20250617030000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617032000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250617032000 +0000" stop="20250617033000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250617033000 +0000" stop="20250617034500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617034500 +0000" stop="20250617035500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250617035500 +0000" stop="20250617040000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617040000 +0000" stop="20250617040400 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617040400 +0000" stop="20250617041000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617041000 +0000" stop="20250617041500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250617041500 +0000" stop="20250617042000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250617042000 +0000" stop="20250617045000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250616180000 +0000" stop="20250616200000 +0000" channel="ONE.mncvision">
+    <title>The Half-Star Hotel..., Ep 52</title>
+</programme>
+<programme start="20250616200000 +0000" stop="20250616220000 +0000" channel="ONE.mncvision">
+    <title>Running Man, Ep 734</title>
+</programme>
+<programme start="20250616220000 +0000" stop="20250616225000 +0000" channel="ONE.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 99</title>
+</programme>
+<programme start="20250616225000 +0000" stop="20250617001500 +0000" channel="ONE.mncvision">
+    <title>The Haunted Palace, Ep 2</title>
+</programme>
+<programme start="20250617001500 +0000" stop="20250617013500 +0000" channel="ONE.mncvision">
+    <title>Cheer Up, Ep 7</title>
+</programme>
+<programme start="20250617013500 +0000" stop="20250617030000 +0000" channel="ONE.mncvision">
+    <title>Great Queen Seondeok, Ep 22</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617034500 +0000" channel="ONE.mncvision">
+    <title>Third Marriage, Ep 124</title>
+</programme>
+<programme start="20250617034500 +0000" stop="20250617043500 +0000" channel="ONE.mncvision">
+    <title>Third Marriage, Ep 125</title>
+</programme>
+<programme start="20250617043500 +0000" stop="20250617052500 +0000" channel="ONE.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 99</title>
+</programme>
+<programme start="20250617052500 +0000" stop="20250617065000 +0000" channel="ONE.mncvision">
+    <title>The Haunted Palace, Ep 2</title>
+</programme>
+<programme start="20250617065000 +0000" stop="20250617081000 +0000" channel="ONE.mncvision">
+    <title>Great Queen Seondeok, Ep 22</title>
+</programme>
+<programme start="20250617081000 +0000" stop="20250617090000 +0000" channel="ONE.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 99</title>
+</programme>
+<programme start="20250617090000 +0000" stop="20250617102000 +0000" channel="ONE.mncvision">
+    <title>Pretty Ugly, Ep 16</title>
+</programme>
+<programme start="20250617102000 +0000" stop="20250617114000 +0000" channel="ONE.mncvision">
+    <title>Cheer Up, Ep 8</title>
+</programme>
+<programme start="20250617114000 +0000" stop="20250617130000 +0000" channel="ONE.mncvision">
+    <title>Great Queen Seondeok, Ep 23</title>
+</programme>
+<programme start="20250617130000 +0000" stop="20250617143000 +0000" channel="ONE.mncvision">
+    <title>The Haunted Palace, Ep 3</title>
+</programme>
+<programme start="20250617143000 +0000" stop="20250617160500 +0000" channel="ONE.mncvision">
+    <title>Jungle Bob S2, Ep 12</title>
+</programme>
+<programme start="20250617160500 +0000" stop="20250617163500 +0000" channel="ONE.mncvision">
+    <title>The Haunted Palace, Ep 3</title>
+</programme>
+<programme start="20250616180000 +0000" stop="20250616200000 +0000" channel="ONE HD.mncvision">
+    <title>The Half-Star Hotel..., Ep 52</title>
+</programme>
+<programme start="20250616200000 +0000" stop="20250616220000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 734</title>
+</programme>
+<programme start="20250616220000 +0000" stop="20250616225000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 99</title>
+</programme>
+<programme start="20250616225000 +0000" stop="20250617001500 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 2</title>
+</programme>
+<programme start="20250617001500 +0000" stop="20250617013500 +0000" channel="ONE HD.mncvision">
+    <title>Cheer Up, Ep 7</title>
+</programme>
+<programme start="20250617013500 +0000" stop="20250617030000 +0000" channel="ONE HD.mncvision">
+    <title>Great Queen Seondeok, Ep 22</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617034500 +0000" channel="ONE HD.mncvision">
+    <title>Third Marriage, Ep 124</title>
+</programme>
+<programme start="20250617034500 +0000" stop="20250617043500 +0000" channel="ONE HD.mncvision">
+    <title>Third Marriage, Ep 125</title>
+</programme>
+<programme start="20250617043500 +0000" stop="20250617052500 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 99</title>
+</programme>
+<programme start="20250617052500 +0000" stop="20250617065000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 2</title>
+</programme>
+<programme start="20250617065000 +0000" stop="20250617081000 +0000" channel="ONE HD.mncvision">
+    <title>Great Queen Seondeok, Ep 22</title>
+</programme>
+<programme start="20250617081000 +0000" stop="20250617090000 +0000" channel="ONE HD.mncvision">
+    <title>Desperate Mrs. Seonju, Ep 99</title>
+</programme>
+<programme start="20250617090000 +0000" stop="20250617102000 +0000" channel="ONE HD.mncvision">
+    <title>Pretty Ugly, Ep 16</title>
+</programme>
+<programme start="20250617102000 +0000" stop="20250617114000 +0000" channel="ONE HD.mncvision">
+    <title>Cheer Up, Ep 8</title>
+</programme>
+<programme start="20250617114000 +0000" stop="20250617130000 +0000" channel="ONE HD.mncvision">
+    <title>Great Queen Seondeok, Ep 23</title>
+</programme>
+<programme start="20250617130000 +0000" stop="20250617143000 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 3</title>
+</programme>
+<programme start="20250617143000 +0000" stop="20250617160500 +0000" channel="ONE HD.mncvision">
+    <title>Jungle Bob S2, Ep 12</title>
+</programme>
+<programme start="20250617160500 +0000" stop="20250617163500 +0000" channel="ONE HD.mncvision">
+    <title>The Haunted Palace, Ep 3</title>
+</programme>
+<programme start="20250616180500 +0000" stop="20250616215200 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250616215200 +0000" stop="20250616234700 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250616234700 +0000" stop="20250617013900 +0000" channel="ORIGINALS.mncvision">
+    <title>The Confirmation</title>
+</programme>
+<programme start="20250617013900 +0000" stop="20250617033900 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250617033900 +0000" stop="20250617053400 +0000" channel="ORIGINALS.mncvision">
+    <title>The Big Ugly</title>
+</programme>
+<programme start="20250617053400 +0000" stop="20250617080000 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250617080000 +0000" stop="20250617093600 +0000" channel="ORIGINALS.mncvision">
+    <title>Auggie</title>
+</programme>
+<programme start="20250617093600 +0000" stop="20250617112500 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250617112500 +0000" stop="20250617131600 +0000" channel="ORIGINALS.mncvision">
+    <title>Leaves Of Grass</title>
+</programme>
+<programme start="20250617131600 +0000" stop="20250617150900 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250617150900 +0000" stop="20250617153900 +0000" channel="ORIGINALS.mncvision">
+    <title>Greenland</title>
+</programme>
+<programme start="20250616180500 +0000" stop="20250616215200 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250616215200 +0000" stop="20250616234700 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250616234700 +0000" stop="20250617013900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>The Confirmation</title>
+</programme>
+<programme start="20250617013900 +0000" stop="20250617033900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250617033900 +0000" stop="20250617053400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>The Big Ugly</title>
+</programme>
+<programme start="20250617053400 +0000" stop="20250617080000 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250617080000 +0000" stop="20250617093600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Auggie</title>
+</programme>
+<programme start="20250617093600 +0000" stop="20250617112500 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250617112500 +0000" stop="20250617131600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Leaves Of Grass</title>
+</programme>
+<programme start="20250617131600 +0000" stop="20250617150900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250617150900 +0000" stop="20250617153900 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Greenland</title>
+</programme>
 <programme start="20250616170000 +0000" stop="20250616180000 +0000" channel="Outdoor Channel.mncvision">
     <title>Gold Fever S1, Ep 7</title>
 </programme>
@@ -6840,7 +7510,129 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250617163000 +0000" stop="20250616170000 +0000" channel="Outdoor Channel.mncvision">
     <title>Gunfather Restorations S2, Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250616170000 +0000" stop="20250616180000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gold Fever S1, Ep 7</title>
+</programme>
+<programme start="20250616180000 +0000" stop="20250616183000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20250616183000 +0000" stop="20250616190000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20250616190000 +0000" stop="20250616193000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Great Aussie Road Trips, Ep 3</title>
+</programme>
+<programme start="20250616193000 +0000" stop="20250616200000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Great Aussie Road Trips, Ep 4</title>
+</programme>
+<programme start="20250616200000 +0000" stop="20250616203000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Bushwhacked! S2, Ep 13</title>
+</programme>
+<programme start="20250616203000 +0000" stop="20250616210000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Shark Land S1, Ep 1</title>
+</programme>
+<programme start="20250616210000 +0000" stop="20250616213000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Croc College S1, Ep 3</title>
+</programme>
+<programme start="20250616213000 +0000" stop="20250616220000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Croc College S1, Ep 4</title>
+</programme>
+<programme start="20250616220000 +0000" stop="20250616223000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20250616223000 +0000" stop="20250616230000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20250616230000 +0000" stop="20250617000000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gold Fever S1, Ep 7</title>
+</programme>
+<programme start="20250617000000 +0000" stop="20250617003000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20250617003000 +0000" stop="20250617010000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20250617010000 +0000" stop="20250617013000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Great Aussie Road Trips, Ep 3</title>
+</programme>
+<programme start="20250617013000 +0000" stop="20250617020000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Great Aussie Road Trips, Ep 4</title>
+</programme>
+<programme start="20250617020000 +0000" stop="20250617023000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Bushwhacked! S2, Ep 13</title>
+</programme>
+<programme start="20250617023000 +0000" stop="20250617030000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Shark Land S1, Ep 1</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617033000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Croc College S1, Ep 3</title>
+</programme>
+<programme start="20250617033000 +0000" stop="20250617040000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Croc College S1, Ep 4</title>
+</programme>
+<programme start="20250617040000 +0000" stop="20250617043000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20250617043000 +0000" stop="20250617050000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20250617050000 +0000" stop="20250617060000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gold Fever S1, Ep 7</title>
+</programme>
+<programme start="20250617060000 +0000" stop="20250617063000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 5</title>
+</programme>
+<programme start="20250617063000 +0000" stop="20250617070000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Duck Camp Dinners S1, Ep 6</title>
+</programme>
+<programme start="20250617070000 +0000" stop="20250617073000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Great Aussie Road Trips, Ep 3</title>
+</programme>
+<programme start="20250617073000 +0000" stop="20250617080000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Great Aussie Road Trips, Ep 4</title>
+</programme>
+<programme start="20250617080000 +0000" stop="20250617083000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jack Stein: In The Box, Ep 9</title>
+</programme>
+<programme start="20250617083000 +0000" stop="20250617090000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jack Stein: In The Box, Ep 10</title>
+</programme>
+<programme start="20250617090000 +0000" stop="20250617100000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Mega Makeover S1, Ep 2</title>
+</programme>
+<programme start="20250617100000 +0000" stop="20250617103000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gunfather Restorations S1, Ep 1</title>
+</programme>
+<programme start="20250617103000 +0000" stop="20250617110000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gunfather Restorations S2, Ep 1</title>
+</programme>
+<programme start="20250617110000 +0000" stop="20250617120000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Ice Pilots NWT S4, Ep 7</title>
+</programme>
+<programme start="20250617120000 +0000" stop="20250617123000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Alaska&#039;s Ultimate... S1, Ep 3</title>
+</programme>
+<programme start="20250617123000 +0000" stop="20250617130000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Alaska&#039;s Ultimate... S1, Ep 4</title>
+</programme>
+<programme start="20250617130000 +0000" stop="20250617140000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Bear&#039;s Mission S1, Ep 2</title>
+</programme>
+<programme start="20250617140000 +0000" stop="20250617143000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jack Stein: In The Box, Ep 9</title>
+</programme>
+<programme start="20250617143000 +0000" stop="20250617150000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Jack Stein: In The Box, Ep 10</title>
+</programme>
+<programme start="20250617150000 +0000" stop="20250617160000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Mega Makeover S1, Ep 2</title>
+</programme>
+<programme start="20250617160000 +0000" stop="20250617163000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gunfather Restorations S1, Ep 1</title>
+</programme>
+<programme start="20250617163000 +0000" stop="20250616170000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Gunfather Restorations S2, Ep 1</title>
+</programme>
 <programme start="20250616181500 +0000" stop="20250616190000 +0000" channel="RCTI.mncvision">
     <title>Vw Kodok Bawa Cinta</title>
 </programme>
@@ -8038,9 +8830,126 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250617160000 +0000" stop="20250617163000 +0000" channel="SPOTV HD.mncvision">
     <title>24-25 PSA World Tour: British</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250616172500 +0000" stop="20250616185500 +0000" channel="Studio Universal.mncvision">
+    <title>Beethoven</title>
+</programme>
+<programme start="20250616185500 +0000" stop="20250616203500 +0000" channel="Studio Universal.mncvision">
+    <title>Nanny McPhee</title>
+</programme>
+<programme start="20250616203500 +0000" stop="20250616221000 +0000" channel="Studio Universal.mncvision">
+    <title>Kicking &amp; Screaming</title>
+</programme>
+<programme start="20250616221000 +0000" stop="20250616230000 +0000" channel="Studio Universal.mncvision">
+    <title>Defying Gravity: The Curtain...</title>
+</programme>
+<programme start="20250616230000 +0000" stop="20250617013000 +0000" channel="Studio Universal.mncvision">
+    <title>Sleepers</title>
+</programme>
+<programme start="20250617013000 +0000" stop="20250617030000 +0000" channel="Studio Universal.mncvision">
+    <title>Beethoven</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617044000 +0000" channel="Studio Universal.mncvision">
+    <title>Nanny McPhee</title>
+</programme>
+<programme start="20250617044000 +0000" stop="20250617061500 +0000" channel="Studio Universal.mncvision">
+    <title>Kicking &amp; Screaming</title>
+</programme>
+<programme start="20250617061500 +0000" stop="20250617084500 +0000" channel="Studio Universal.mncvision">
+    <title>Sleepers</title>
+</programme>
+<programme start="20250617084500 +0000" stop="20250617104000 +0000" channel="Studio Universal.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20250617104000 +0000" stop="20250617122500 +0000" channel="Studio Universal.mncvision">
+    <title>Death Becomes Her</title>
+</programme>
+<programme start="20250617122500 +0000" stop="20250617141000 +0000" channel="Studio Universal.mncvision">
+    <title>Intolerable Cruelty</title>
+</programme>
+<programme start="20250617141000 +0000" stop="20250617154500 +0000" channel="Studio Universal.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250617154500 +0000" stop="20250617161500 +0000" channel="Studio Universal.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20250616172500 +0000" stop="20250616185500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Beethoven</title>
+</programme>
+<programme start="20250616185500 +0000" stop="20250616203500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Nanny McPhee</title>
+</programme>
+<programme start="20250616203500 +0000" stop="20250616221000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Kicking &amp; Screaming</title>
+</programme>
+<programme start="20250616221000 +0000" stop="20250616230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Defying Gravity: The Curtain...</title>
+</programme>
+<programme start="20250616230000 +0000" stop="20250617013000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Sleepers</title>
+</programme>
+<programme start="20250617013000 +0000" stop="20250617030000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Beethoven</title>
+</programme>
+<programme start="20250617030000 +0000" stop="20250617044000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Nanny McPhee</title>
+</programme>
+<programme start="20250617044000 +0000" stop="20250617061500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Kicking &amp; Screaming</title>
+</programme>
+<programme start="20250617061500 +0000" stop="20250617084500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Sleepers</title>
+</programme>
+<programme start="20250617084500 +0000" stop="20250617104000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20250617104000 +0000" stop="20250617122500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Death Becomes Her</title>
+</programme>
+<programme start="20250617122500 +0000" stop="20250617141000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Intolerable Cruelty</title>
+</programme>
+<programme start="20250617141000 +0000" stop="20250617154500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Good Boys</title>
+</programme>
+<programme start="20250617154500 +0000" stop="20250617161500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20250616171100 +0000" stop="20250616191600 +0000" channel="Superrix.mncvision">
+    <title>Elsewhere</title>
+</programme>
+<programme start="20250616191600 +0000" stop="20250616215100 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250616215100 +0000" stop="20250616235100 +0000" channel="Superrix.mncvision">
+    <title>Percy</title>
+</programme>
+<programme start="20250616235100 +0000" stop="20250617020500 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250617020500 +0000" stop="20250617035500 +0000" channel="Superrix.mncvision">
+    <title>Stray Bullets</title>
+</programme>
+<programme start="20250617035500 +0000" stop="20250617062400 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250617062400 +0000" stop="20250617081100 +0000" channel="Superrix.mncvision">
+    <title>Nothing Like The Holidays</title>
+</programme>
+<programme start="20250617081100 +0000" stop="20250617100700 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250617100700 +0000" stop="20250617122700 +0000" channel="Superrix.mncvision">
+    <title>Bandit</title>
+</programme>
+<programme start="20250617122700 +0000" stop="20250617144300 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250617144300 +0000" stop="20250617165700 +0000" channel="Superrix.mncvision">
+    <title>Little Boy</title>
+</programme>
+<programme start="20250617165700 +0000" stop="20250616172700 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
 <programme start="20250616171100 +0000" stop="20250616191600 +0000" channel="Superrix HD.mncvision">
     <title>Elsewhere</title>
 </programme>
