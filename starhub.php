@@ -4994,7 +4994,7 @@
         <title>Sindhu Bairavi Kacheri Arambam</title>
     </programme>
     <programme start="20250618023000 +0000" stop="20250618040000 +0000" channel="Vijay TV HD.starhub">
-        <title>Oom Solriya Oohm Solriya-Yes Or Miss S03</title>
+        <title>Oom Solriya Oohm SolriyaYes Or Miss S03</title>
     </programme>
     <programme start="20250618040000 +0000" stop="20250618043000 +0000" channel="Vijay TV HD.starhub">
         <title>Baagyalatchumi Illatharisiyin Kadhai S01</title>
@@ -5015,7 +5015,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20250618070000 +0000" stop="20250618073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20250618073000 +0000" stop="20250618080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -5024,7 +5024,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20250618083000 +0000" stop="20250618090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam - Ungalil Oruthi</title>
+        <title>Dhanam Ungalil Oruthi</title>
     </programme>
     <programme start="20250618090000 +0000" stop="20250618093000 +0000" channel="Vijay TV HD.starhub">
         <title>Thangamagal Ilam Dhevadhaigalin Kadhai</title>
@@ -7882,17 +7882,17 @@
     <programme start="20250618041000 +0000" stop="20250618061000 +0000" channel="Premier Sports.starhub">
         <title>Premiership Rugby Bath v Leicester</title>
     </programme>
-    <programme start="20250618061000 +0000" stop="20250618064000 +0000" channel="Premier Sports.starhub">
-        <title>5 &amp; 6 Nations Classics 2003 - Italy v France</title>
-    </programme>
-    <programme start="20250618064000 +0000" stop="20250618074000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250618061000 +0000" stop="20250618071000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
     </programme>
-    <programme start="20250618074000 +0000" stop="20250618093000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250618071000 +0000" stop="20250618090000 +0000" channel="Premier Sports.starhub">
         <title>State Of Origin Queensland v New South Wales</title>
     </programme>
-    <programme start="20250618093000 +0000" stop="20250618123000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250618090000 +0000" stop="20250618121000 +0000" channel="Premier Sports.starhub">
         <title>LIVE State Of Origin LIVE Queensland v New South Wales</title>
+    </programme>
+    <programme start="20250618121000 +0000" stop="20250618123000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Highlights West Coast v Carlton</title>
     </programme>
     <programme start="20250618123000 +0000" stop="20250618130000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2005 - Wales v Ireland</title>
@@ -8326,10 +8326,10 @@
     <programme start="20250617233000 +0000" stop="20250618013000 +0000" channel="Asianet Movies.starhub">
         <title>Mudhugavu</title>
     </programme>
-    <programme start="20250618013000 +0000" stop="20250618043000 +0000" channel="Asianet Movies.starhub">
-        <title>Mannar Mathai Speaking - 2</title>
+    <programme start="20250618013000 +0000" stop="20250618042500 +0000" channel="Asianet Movies.starhub">
+        <title>Mannar Mathai Speaking 2</title>
     </programme>
-    <programme start="20250618043000 +0000" stop="20250618073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250618042500 +0000" stop="20250618073000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
     <programme start="20250618073000 +0000" stop="20250618103000 +0000" channel="Asianet Movies.starhub">
