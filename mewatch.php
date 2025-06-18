@@ -133,13 +133,13 @@
     <programme start="20250618130000 +0000" stop="20250618133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250618133000 +0000" stop="20250618143042 +0000" channel="Channel 5.mewatch">
+    <programme start="20250618133000 +0000" stop="20250618143040 +0000" channel="Channel 5.mewatch">
         <title>Impossible Engineering S2 - EP 2</title>
     </programme>
-    <programme start="20250618143042 +0000" stop="20250618153033 +0000" channel="Channel 5.mewatch">
+    <programme start="20250618143040 +0000" stop="20250618153030 +0000" channel="Channel 5.mewatch">
         <title>Addicted - EP 2</title>
     </programme>
-    <programme start="20250618153033 +0000" stop="20250618160116 +0000" channel="Channel 5.mewatch">
+    <programme start="20250618153030 +0000" stop="20250618160112 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead S2 - EP 3</title>
     </programme>
     <programme start="20250617150237 +0000" stop="20250617160057 +0000" channel="Channel 8.mewatch">
