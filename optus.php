@@ -1,9 +1,3 @@
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Daejeon v Gimcheon</title>
-    </programme>
-    <programme start="20250618102000 +0000" stop="20250618124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Jeju v Gwangju</title>
-    </programme>
     <programme start="20250618170000 +0000" stop="20250618173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Goalscorers</title>
     </programme>
