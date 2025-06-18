@@ -4946,7 +4946,7 @@
         <title>Poongatru Thirumbuma</title>
     </programme>
     <programme start="20250617190000 +0000" stop="20250617193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20250617193000 +0000" stop="20250617200000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4955,7 +4955,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20250617203000 +0000" stop="20250617210000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam - Ungalil Oruthi</title>
+        <title>Dhanam Ungalil Oruthi</title>
     </programme>
     <programme start="20250617210000 +0000" stop="20250617213000 +0000" channel="Vijay TV HD.starhub">
         <title>Thangamagal Ilam Dhevadhaigalin Kadhai</title>
@@ -5096,7 +5096,7 @@
         <title>Ishttam Mathram</title>
     </programme>
     <programme start="20250617233000 +0000" stop="20250618020000 +0000" channel="Asianet.starhub">
-        <title>Aniyan Bava Chettan Bava</title>
+        <title>C.I.D. Unnikrishnan B.A., Bed.</title>
     </programme>
     <programme start="20250618020000 +0000" stop="20250618023000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
@@ -5117,7 +5117,7 @@
         <title>Chempaneerpovu</title>
     </programme>
     <programme start="20250618050000 +0000" stop="20250618073000 +0000" channel="Asianet.starhub">
-        <title>Daisy</title>
+        <title>Janaki Jane</title>
     </programme>
     <programme start="20250618073000 +0000" stop="20250618080000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -5135,7 +5135,7 @@
         <title>Amma Manassu(Dub . Fiction)</title>
     </programme>
     <programme start="20250618100000 +0000" stop="20250618130000 +0000" channel="Asianet.starhub">
-        <title>Daya</title>
+        <title>Janamaithri</title>
     </programme>
     <programme start="20250618130000 +0000" stop="20250618133000 +0000" channel="Asianet.starhub">
         <title>Star Singer Season 10 (Short Version)</title>
