@@ -3079,19 +3079,13 @@
 <programme start="20250617233000 +0000" stop="20250617234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 5</title>
 </programme>
-<programme start="20250617234500 +0000" stop="20250618033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250617234500 +0000" stop="20250618033500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250618033000 +0000" stop="20250618034500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Meine Geschichte: Das Leben von Fredi Bobic</title>
-</programme>
-<programme start="20250618034500 +0000" stop="20250618043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618033500 +0000" stop="20250618043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Burton Automotive Newcastle Surfest Challenger Series Finals Day</title>
 </programme>
-<programme start="20250618043000 +0000" stop="20250618050000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
-</programme>
-<programme start="20250618050000 +0000" stop="20250618070000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618043000 +0000" stop="20250618070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250618070000 +0000" stop="20250618073000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3109,10 +3103,7 @@
 <programme start="20250618090000 +0000" stop="20250618093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
 </programme>
-<programme start="20250618093000 +0000" stop="20250618100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore - letzter Spieltag</title>
-</programme>
-<programme start="20250618100000 +0000" stop="20250618120000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618093000 +0000" stop="20250618120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3124,10 +3115,7 @@
 <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Aragonien</title>
 </programme>
-<programme start="20250618160000 +0000" stop="20250618163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
-</programme>
-<programme start="20250618163000 +0000" stop="20250618183000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618160000 +0000" stop="20250618183000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250618183000 +0000" stop="20250618193000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3328,10 +3316,10 @@
 <programme start="20250617224500 +0000" stop="20250617234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250617234500 +0000" stop="20250618031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250617234500 +0000" stop="20250618032500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250618031500 +0000" stop="20250618033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250618032500 +0000" stop="20250618033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Game of the Century, FC Liverpool - Newcastle United (1995/96)</title>
 </programme>
 <programme start="20250618033000 +0000" stop="20250618040000 +0000" channel="Sky Sport Top Event HD.skyde">

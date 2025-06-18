@@ -7666,7 +7666,7 @@
 <programme start="20250618160000 +0000" stop="20250618163000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Running Wild S4, Ep 1</title>
 </programme>
-<programme start="20250617181500 +0000" stop="20250617190000 +0000" channel="RCTI.mncvision">
+<programme start="20250617180000 +0000" stop="20250617190000 +0000" channel="RCTI.mncvision">
     <title>Cintaku Amnesia</title>
 </programme>
 <programme start="20250617190000 +0000" stop="20250617201500 +0000" channel="RCTI.mncvision">
@@ -7720,7 +7720,7 @@
 <programme start="20250618161500 +0000" stop="20250618164500 +0000" channel="RCTI.mncvision">
     <title>Senyummu Semanis Boba Buatanku</title>
 </programme>
-<programme start="20250617181500 +0000" stop="20250617190000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250617180000 +0000" stop="20250617190000 +0000" channel="RCTI HD.mncvision">
     <title>Cintaku Amnesia</title>
 </programme>
 <programme start="20250617190000 +0000" stop="20250617201500 +0000" channel="RCTI HD.mncvision">

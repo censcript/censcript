@@ -412,26 +412,23 @@
     <programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 13</title>
     </programme>
-    <programme start="20250618120000 +0000" stop="20250618123044 +0000" channel="Suria.mewatch">
+    <programme start="20250618120000 +0000" stop="20250618123034 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250618123044 +0000" stop="20250618130101 +0000" channel="Suria.mewatch">
+    <programme start="20250618123034 +0000" stop="20250618130009 +0000" channel="Suria.mewatch">
         <title>Detik Semasa - EP 5</title>
     </programme>
-    <programme start="20250618130101 +0000" stop="20250618133053 +0000" channel="Suria.mewatch">
+    <programme start="20250618130009 +0000" stop="20250618133002 +0000" channel="Suria.mewatch">
         <title>Misi Mat Dan - EP 2</title>
     </programme>
-    <programme start="20250618133053 +0000" stop="20250618143049 +0000" channel="Suria.mewatch">
+    <programme start="20250618133002 +0000" stop="20250618142958 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 10</title>
     </programme>
-    <programme start="20250618143049 +0000" stop="20250618153000 +0000" channel="Suria.mewatch">
+    <programme start="20250618142958 +0000" stop="20250618153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 15</title>
     </programme>
-    <programme start="20250618153000 +0000" stop="20250618155849 +0000" channel="Suria.mewatch">
+    <programme start="20250618153000 +0000" stop="20250618160017 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250618155849 +0000" stop="20250619010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250617155812 +0000" stop="20250618010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
