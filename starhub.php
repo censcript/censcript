@@ -2173,11 +2173,8 @@
     <programme start="20250617190000 +0000" stop="20250617200000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20250617200000 +0000" stop="20250617204500 +0000" channel="CNN HD.starhub">
+    <programme start="20250617200000 +0000" stop="20250617210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
-    </programme>
-    <programme start="20250617204500 +0000" stop="20250617210000 +0000" channel="CNN HD.starhub">
-        <title>AI &amp; Robotics in Asia</title>
     </programme>
     <programme start="20250617210000 +0000" stop="20250617213000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
