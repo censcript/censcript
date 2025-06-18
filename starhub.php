@@ -2465,7 +2465,7 @@
         <title>Concacaf Gold Cup 2025 Costa Rica vs Dominican Republic (Live)</title>
     </programme>
     <programme start="20250619010000 +0000" stop="20250619013000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#804: Fighter Focus</title>
+        <title>#804: Fighter Focus:</title>
     </programme>
     <programme start="20250619013000 +0000" stop="20250619015000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1272</title>
@@ -6557,7 +6557,7 @@
         <title>Concacaf Gold Cup 2025 Costa Rica vs Dominican Republic (Live)</title>
     </programme>
     <programme start="20250619010000 +0000" stop="20250619013000 +0000" channel="TestChannel 995.starhub">
-        <title>#804: Fighter Focus</title>
+        <title>#804: Fighter Focus:</title>
     </programme>
     <programme start="20250619013000 +0000" stop="20250619015000 +0000" channel="TestChannel 995.starhub">
         <title>#1272</title>

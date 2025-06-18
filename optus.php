@@ -1,6 +1,3 @@
-    <programme start="20250618170000 +0000" stop="20250618173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Goalscorers</title>
-    </programme>
     <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 402.optus">
         <title>NWSL - Racing Louisville FC v Orlando Pride</title>
     </programme>
