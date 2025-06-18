@@ -136,10 +136,10 @@
     <programme start="20250618133000 +0000" stop="20250618143040 +0000" channel="Channel 5.mewatch">
         <title>Impossible Engineering S2 - EP 2</title>
     </programme>
-    <programme start="20250618143040 +0000" stop="20250618153005 +0000" channel="Channel 5.mewatch">
+    <programme start="20250618143040 +0000" stop="20250618153000 +0000" channel="Channel 5.mewatch">
         <title>Addicted - EP 2</title>
     </programme>
-    <programme start="20250618153005 +0000" stop="20250618160047 +0000" channel="Channel 5.mewatch">
+    <programme start="20250618153000 +0000" stop="20250618160117 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead S2 - EP 3</title>
     </programme>
     <programme start="20250617150237 +0000" stop="20250617160057 +0000" channel="Channel 8.mewatch">
@@ -235,29 +235,26 @@
     <programme start="20250618093127 +0000" stop="20250618103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 38</title>
     </programme>
-    <programme start="20250618103000 +0000" stop="20250618113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618103000 +0000" stop="20250618113028 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 57</title>
     </programme>
-    <programme start="20250618113000 +0000" stop="20250618120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618113028 +0000" stop="20250618120038 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 7</title>
     </programme>
-    <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618120038 +0000" stop="20250618130026 +0000" channel="Channel 8.mewatch">
         <title>James&#039; Going Places V - EP 11</title>
     </programme>
-    <programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618130026 +0000" stop="20250618140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 20</title>
     </programme>
-    <programme start="20250618140000 +0000" stop="20250618143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618140000 +0000" stop="20250618143149 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250618143000 +0000" stop="20250618150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618143149 +0000" stop="20250618150010 +0000" channel="Channel 8.mewatch">
         <title>Journey to Homeland S2 - EP 11</title>
     </programme>
-    <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250618150010 +0000" stop="20250618160025 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 18</title>
-    </programme>
-    <programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 1</title>
     </programme>
     <programme start="20250617153100 +0000" stop="20250617163151 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 8</title>
@@ -355,22 +352,22 @@
     <programme start="20250618100015 +0000" stop="20250618110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 6</title>
     </programme>
-    <programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250618110000 +0000" stop="20250618120036 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 42</title>
     </programme>
-    <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250618120036 +0000" stop="20250618130013 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 43</title>
     </programme>
-    <programme start="20250618130000 +0000" stop="20250618140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250618130013 +0000" stop="20250618140008 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 6</title>
     </programme>
-    <programme start="20250618140000 +0000" stop="20250618150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250618140008 +0000" stop="20250618150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 30</title>
     </programme>
-    <programme start="20250618150000 +0000" stop="20250618153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250618150000 +0000" stop="20250618153025 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250618153025 +0000" stop="20250618163021 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 6</title>
     </programme>
     <programme start="20250617153000 +0000" stop="20250617160019 +0000" channel="Suria.mewatch">
@@ -559,25 +556,25 @@
     <programme start="20250618095959 +0000" stop="20250618110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250618110000 +0000" stop="20250618120000 +0000" channel="CNA.mewatch">
+    <programme start="20250618110000 +0000" stop="20250618115958 +0000" channel="CNA.mewatch">
         <title>Reaching The Unreached - EP 1</title>
     </programme>
-    <programme start="20250618120000 +0000" stop="20250618130000 +0000" channel="CNA.mewatch">
+    <programme start="20250618115958 +0000" stop="20250618125958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250618130000 +0000" stop="20250618133000 +0000" channel="CNA.mewatch">
+    <programme start="20250618125958 +0000" stop="20250618133029 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 3</title>
     </programme>
-    <programme start="20250618133000 +0000" stop="20250618140000 +0000" channel="CNA.mewatch">
+    <programme start="20250618133029 +0000" stop="20250618140000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 8</title>
     </programme>
-    <programme start="20250618140000 +0000" stop="20250618150000 +0000" channel="CNA.mewatch">
+    <programme start="20250618140000 +0000" stop="20250618150115 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250618150000 +0000" stop="20250618160000 +0000" channel="CNA.mewatch">
+    <programme start="20250618150115 +0000" stop="20250618155959 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 4</title>
     </programme>
-    <programme start="20250618160000 +0000" stop="20250618160300 +0000" channel="CNA.mewatch">
+    <programme start="20250618155959 +0000" stop="20250618160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250617155959 +0000" stop="20250617170011 +0000" channel="Oktolidays.mewatch">
