@@ -3328,10 +3328,10 @@
 <programme start="20250617224500 +0000" stop="20250617234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250617234500 +0000" stop="20250618032500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250617234500 +0000" stop="20250618031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250618032500 +0000" stop="20250618033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250618031500 +0000" stop="20250618033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Game of the Century, FC Liverpool - Newcastle United (1995/96)</title>
 </programme>
 <programme start="20250618033000 +0000" stop="20250618040000 +0000" channel="Sky Sport Top Event HD.skyde">
