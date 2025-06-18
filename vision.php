@@ -122,52 +122,52 @@
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20250618173000 +0000" stop="20250618190000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250618190000 +0000" stop="20250618203000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250618203000 +0000" stop="20250618213000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Pagi</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250618213000 +0000" stop="20250618220000 +0000" channel="MNCTV.vision">
-<title>Jurnal Lintas iNews Pagi</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="MNCTV.vision">
-<title>Yang Tobat-Tobat Aja</title>
+<title>MNC TV</title>
 </programme>
-<programme start="20250618230000 +0000" stop="20250618233000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20250618230000 +0000" stop="20250618234500 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
-<programme start="20250618233000 +0000" stop="20250619000000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<programme start="20250618234500 +0000" stop="20250619000000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
-<programme start="20250619000000 +0000" stop="20250619001500 +0000" channel="MNCTV.vision">
-<title>Sinema Spesial Upin &amp; Ipin</title>
-</programme>
-<programme start="20250619001500 +0000" stop="20250619010000 +0000" channel="MNCTV.vision">
-<title>Pada Zaman Dahulu</title>
+<programme start="20250619000000 +0000" stop="20250619010000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
 <programme start="20250619010000 +0000" stop="20250619023000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250619023000 +0000" stop="20250619033000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Siang</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250619033000 +0000" stop="20250619040000 +0000" channel="MNCTV.vision">
-<title>Seleb On News</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250619040000 +0000" stop="20250619060000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250619060000 +0000" stop="20250619080000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250619080000 +0000" stop="20250619100000 +0000" channel="MNCTV.vision">
-<title>Titus: Mystery Of The Enygma</title>
+<title>MNC TV</title>
 </programme>
-<programme start="20250619100000 +0000" stop="20250619120000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20250619100000 +0000" stop="20250619103000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
+</programme>
+<programme start="20250619103000 +0000" stop="20250619120000 +0000" channel="MNCTV.vision">
+<title>MNC TV</title>
 </programme>
 <programme start="20250617233000 +0000" stop="20250618003000 +0000" channel="GTV.vision">
 <title>Thomas &amp; Friends</title>
@@ -537,6 +537,9 @@
 </programme>
 <programme start="20250618054500 +0000" stop="20250618063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
+</programme>
+<programme start="20250618063000 +0000" stop="20250618071500 +0000" channel="Trans 7.vision">
+<title>Ujung-Ujungnya Damkar</title>
 </programme>
 <programme start="20250618071500 +0000" stop="20250618081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250619021500 +0000" stop="20250619030000 +0000" channel="BTV.vision">
 <title>Endeus</title>
-</programme>
-<programme start="20250619030000 +0000" stop="20250619034500 +0000" channel="BTV.vision">
-<title>Kids Universe</title>
 </programme>
