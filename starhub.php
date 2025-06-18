@@ -5084,7 +5084,7 @@
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
     </programme>
     <programme start="20250617190000 +0000" stop="20250617220000 +0000" channel="Asianet.starhub">
-        <title>Chithram</title>
+        <title>Grrr…</title>
     </programme>
     <programme start="20250617220000 +0000" stop="20250617223000 +0000" channel="Asianet.starhub">
         <title>Star Singer Season 10 (Short Version)</title>
