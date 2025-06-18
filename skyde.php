@@ -3079,10 +3079,10 @@
 <programme start="20250617233000 +0000" stop="20250617234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights FLA@EDM, Stanley Cup Final, Spiel 5</title>
 </programme>
-<programme start="20250617234500 +0000" stop="20250618031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250617234500 +0000" stop="20250618033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250618031500 +0000" stop="20250618034500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618033000 +0000" stop="20250618034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Meine Geschichte: Das Leben von Fredi Bobic</title>
 </programme>
 <programme start="20250618034500 +0000" stop="20250618043000 +0000" channel="Sky Sport Mix HD.skyde">
