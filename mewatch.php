@@ -418,23 +418,20 @@
     <programme start="20250619110000 +0000" stop="20250619120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 14</title>
     </programme>
-    <programme start="20250619120000 +0000" stop="20250619123000 +0000" channel="Suria.mewatch">
+    <programme start="20250619120000 +0000" stop="20250619123002 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250619123000 +0000" stop="20250619133000 +0000" channel="Suria.mewatch">
+    <programme start="20250619123002 +0000" stop="20250619133004 +0000" channel="Suria.mewatch">
         <title>The Last Defenders S2 - EP 1</title>
     </programme>
-    <programme start="20250619133000 +0000" stop="20250619143000 +0000" channel="Suria.mewatch">
+    <programme start="20250619133004 +0000" stop="20250619143004 +0000" channel="Suria.mewatch">
         <title>Korban S2 - EP 4</title>
     </programme>
-    <programme start="20250619143000 +0000" stop="20250619153000 +0000" channel="Suria.mewatch">
+    <programme start="20250619143004 +0000" stop="20250619153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 16</title>
     </programme>
-    <programme start="20250619153000 +0000" stop="20250619160000 +0000" channel="Suria.mewatch">
+    <programme start="20250619153000 +0000" stop="20250619160024 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250619160000 +0000" stop="20250620010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250618153057 +0000" stop="20250618160259 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>

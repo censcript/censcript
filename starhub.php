@@ -2297,7 +2297,7 @@
         <title>ATP Tour 500 2025: Halle Day 4 Match 3</title>
     </programme>
     <programme start="20250619153000 +0000" stop="20250619173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle Day 4 Match 4</title>
+        <title>ATP Tour 500 2025: Halle Day 4 Sinner v Bublik</title>
     </programme>
     <programme start="20250618160000 +0000" stop="20250618170000 +0000" channel="TVB Xing He.starhub">
         <title>Trimming Success</title>
@@ -4009,7 +4009,7 @@
     <programme start="20250618230000 +0000" stop="20250618231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 59</title>
     </programme>
-    <programme start="20250618231500 +0000" stop="20250619005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250618231700 +0000" stop="20250619005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
     <programme start="20250619005400 +0000" stop="20250619005500 +0000" channel="NHK World Premium HD.starhub">
@@ -4126,8 +4126,11 @@
     <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20250619130000 +0000" stop="20250619134500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250619130000 +0000" stop="20250619134300 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK MUSIC SPECIAL: Kikkawa Koji &amp; Okuda Tamio</title>
+    </programme>
+    <programme start="20250619134300 +0000" stop="20250619134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250619134500 +0000" stop="20250619140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Aozora Beer&quot; Eps. 4</title>
