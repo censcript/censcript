@@ -2716,41 +2716,38 @@
 <programme start="20250619213500 +0000" stop="20250619223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Pete Rose: Eine Baseball-Legende packt aus</title>
 </programme>
-<programme start="20250618224000 +0000" stop="20250618231000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20250618231000 +0000" stop="20250618234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250618223000 +0000" stop="20250618230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250618234500 +0000" stop="20250619001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250618230000 +0000" stop="20250618233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
 </programme>
-<programme start="20250619001500 +0000" stop="20250619020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250618233000 +0000" stop="20250619013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
-<programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Wiener Viktoria</title>
 </programme>
-<programme start="20250619023000 +0000" stop="20250619030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
 </programme>
-<programme start="20250619030000 +0000" stop="20250619033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619023000 +0000" stop="20250619030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Herbert Steinböck (Kabarettist und Schauspieler)</title>
 </programme>
-<programme start="20250619033000 +0000" stop="20250619043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20250619043000 +0000" stop="20250619061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250619040000 +0000" stop="20250619060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
-<programme start="20250619061500 +0000" stop="20250619071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20250619071500 +0000" stop="20250619075000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619070000 +0000" stop="20250619073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250619075000 +0000" stop="20250619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250619073000 +0000" stop="20250619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
 <programme start="20250619093000 +0000" stop="20250619173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 4. Tag</title>
@@ -3205,62 +3202,41 @@
 <programme start="20250619213000 +0000" stop="20250619233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: K. Siniakova (CZE) - E. Rybakina (KAZ), BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
 </programme>
-<programme start="20250605220000 +0000" stop="20250605230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Review of the Season 2024/25</title>
+<programme start="20250618220000 +0000" stop="20250618232000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250605230000 +0000" stop="20250606000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: NHL Tonight - Stanley Cup Final Edition: Post Game Edition</title>
+<programme start="20250618232000 +0000" stop="20250619014000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
 </programme>
-<programme start="20250606000000 +0000" stop="20250606003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PGA Tour Champions: Learning Center (12)</title>
+<programme start="20250619014000 +0000" stop="20250619023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Golf Ladies ET: Highlights Hulencourt Women&#039;s Open</title>
 </programme>
-<programme start="20250606003000 +0000" stop="20250606021500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>GTWC: Highlights: Monza (Endurance Cup)</title>
+<programme start="20250619023000 +0000" stop="20250619042500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 500: A. Popyrin (AUS) - J. Draper (GBR), cinch Championships in London (GBR), 3. Tag</title>
 </programme>
-<programme start="20250606021500 +0000" stop="20250606023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+<programme start="20250619042500 +0000" stop="20250619060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA 500: J. Paolini (ITA) - O. Jabeur (TUN), BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
 </programme>
-<programme start="20250606023000 +0000" stop="20250606053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Golf Ladies ET: Tenerife Women&#039;s Open, 1. Tag auf Teneriffa (Spanien)</title>
+<programme start="20250619060000 +0000" stop="20250619061500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20250606053000 +0000" stop="20250606060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PGA Tour Champions: Learning Center (12)</title>
+<programme start="20250619061500 +0000" stop="20250619073500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250606060000 +0000" stop="20250606062500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>HotelPlaner Tour: Highlights Challenge de Cadiz</title>
+<programme start="20250619073500 +0000" stop="20250619081500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: FC Augsburg - Saison 24-25</title>
 </programme>
-<programme start="20250606062500 +0000" stop="20250606065500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Pressekonferenz Fahrer - GP Aragonien</title>
+<programme start="20250619081500 +0000" stop="20250619085000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: VfL Wolfsburg - Saison 24-25</title>
 </programme>
-<programme start="20250606065500 +0000" stop="20250606074000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto3: 1. Freies Training - GP Aragonien</title>
+<programme start="20250619085000 +0000" stop="20250619093000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: FC St. Pauli - Saison 24-25</title>
 </programme>
-<programme start="20250606074000 +0000" stop="20250606083500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto2: 1. Freies Training - GP Aragonien</title>
+<programme start="20250619093000 +0000" stop="20250619190000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 4. Tag</title>
 </programme>
-<programme start="20250606083500 +0000" stop="20250606094500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live MotoGP: 1. Freies Training - GP Aragonien</title>
-</programme>
-<programme start="20250606094500 +0000" stop="20250606104500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Rennen - GP Großbritannien</title>
-</programme>
-<programme start="20250606104500 +0000" stop="20250606111000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: There Can Be Only One</title>
-</programme>
-<programme start="20250606111000 +0000" stop="20250606115500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto3: Training - GP Aragonien</title>
-</programme>
-<programme start="20250606115500 +0000" stop="20250606125000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto2: Training - GP Aragonien</title>
-</programme>
-<programme start="20250606125000 +0000" stop="20250606141500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live MotoGP: Training - GP Aragonien</title>
-</programme>
-<programme start="20250606141500 +0000" stop="20250606154500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: KLM Open, 2. Tag in Amsterdam (Niederlande)</title>
-</programme>
-<programme start="20250606154500 +0000" stop="20250606190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: RBC Canadian Open, 2. Tag (Early Coverage)</title>
+<programme start="20250619190000 +0000" stop="20250619220000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: Travelers Championship, 1. Tag in Cromwell, CT (USA)</title>
 </programme>
 <programme start="20250619063000 +0000" stop="20250619090000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
@@ -3310,13 +3286,13 @@
 <programme start="20250619104000 +0000" stop="20250619110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250619110000 +0000" stop="20250619210000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250619110000 +0000" stop="20250619190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: cinch Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20250619144000 +0000" stop="20250619150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250619150000 +0000" stop="20250619190000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250619150000 +0000" stop="20250619200000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250619214000 +0000" stop="20250619220000 +0000" channel="Sky Sport 3 HD.skyde">
