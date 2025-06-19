@@ -1471,10 +1471,10 @@
 <programme start="20250619035500 +0000" stop="20250619040000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250619040000 +0000" stop="20250619040400 +0000" channel="Nick Jr..skyde">
+<programme start="20250619040000 +0000" stop="20250619040500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250619040400 +0000" stop="20250619041000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619040500 +0000" stop="20250619041000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250619041000 +0000" stop="20250619041500 +0000" channel="Nick Jr..skyde">
@@ -1507,37 +1507,37 @@
 <programme start="20250619063000 +0000" stop="20250619064000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250619064000 +0000" stop="20250619065500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619064000 +0000" stop="20250619065000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250619065500 +0000" stop="20250619070500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619065000 +0000" stop="20250619070500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250619070500 +0000" stop="20250619073000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250619073000 +0000" stop="20250619075000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619073000 +0000" stop="20250619075500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250619075000 +0000" stop="20250619081000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619075500 +0000" stop="20250619081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250619081000 +0000" stop="20250619082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619081500 +0000" stop="20250619082500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250619082000 +0000" stop="20250619082500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619082500 +0000" stop="20250619083000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250619082500 +0000" stop="20250619083500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619083000 +0000" stop="20250619083500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250619083500 +0000" stop="20250619084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250619084000 +0000" stop="20250619084400 +0000" channel="Nick Jr..skyde">
+<programme start="20250619084000 +0000" stop="20250619084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250619084400 +0000" stop="20250619085000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619084500 +0000" stop="20250619085000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250619085000 +0000" stop="20250619085500 +0000" channel="Nick Jr..skyde">
@@ -1576,19 +1576,19 @@
 <programme start="20250619113000 +0000" stop="20250619115500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250619115500 +0000" stop="20250619121500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619115500 +0000" stop="20250619122000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250619121500 +0000" stop="20250619124000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619122000 +0000" stop="20250619124000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
 <programme start="20250619124000 +0000" stop="20250619125000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250619125000 +0000" stop="20250619130000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619125000 +0000" stop="20250619130500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250619130000 +0000" stop="20250619132500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619130500 +0000" stop="20250619132500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20250619132500 +0000" stop="20250619134500 +0000" channel="Nick Jr..skyde">
@@ -1624,19 +1624,19 @@
 <programme start="20250619154500 +0000" stop="20250619155500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250619155500 +0000" stop="20250619162000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619155500 +0000" stop="20250619161500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250619162000 +0000" stop="20250619164000 +0000" channel="Nick Jr..skyde">
+<programme start="20250619161500 +0000" stop="20250619164000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250619164000 +0000" stop="20250619170000 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250619170000 +0000" stop="20250619172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619170000 +0000" stop="20250619172000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250619172500 +0000" stop="20250619174500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619172000 +0000" stop="20250619174500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20250619174500 +0000" stop="20250619181000 +0000" channel="Nick Jr..skyde">
@@ -1648,10 +1648,10 @@
 <programme start="20250619183000 +0000" stop="20250619184000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250619184000 +0000" stop="20250619185500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619184000 +0000" stop="20250619185000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250619185500 +0000" stop="20250619190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250619185000 +0000" stop="20250619190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250619190500 +0000" stop="20250619193000 +0000" channel="Nick Jr..skyde">
@@ -2716,41 +2716,38 @@
 <programme start="20250619213500 +0000" stop="20250619223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Pete Rose: Eine Baseball-Legende packt aus</title>
 </programme>
-<programme start="20250618224000 +0000" stop="20250618231000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20250618231000 +0000" stop="20250618234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250618223000 +0000" stop="20250618230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250618234500 +0000" stop="20250619001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250618230000 +0000" stop="20250618233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
 </programme>
-<programme start="20250619001500 +0000" stop="20250619020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250618233000 +0000" stop="20250619013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
-<programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Wiener Viktoria</title>
 </programme>
-<programme start="20250619023000 +0000" stop="20250619030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
 </programme>
-<programme start="20250619030000 +0000" stop="20250619033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619023000 +0000" stop="20250619030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Herbert Steinböck (Kabarettist und Schauspieler)</title>
 </programme>
-<programme start="20250619033000 +0000" stop="20250619043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20250619043000 +0000" stop="20250619061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250619040000 +0000" stop="20250619060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
-<programme start="20250619061500 +0000" stop="20250619071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20250619071500 +0000" stop="20250619075000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619070000 +0000" stop="20250619073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250619075000 +0000" stop="20250619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250619073000 +0000" stop="20250619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
 <programme start="20250619093000 +0000" stop="20250619173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 4. Tag</title>
@@ -3283,7 +3280,7 @@
 <programme start="20250619091000 +0000" stop="20250619093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250619093000 +0000" stop="20250619200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250619093000 +0000" stop="20250619180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
 </programme>
 <programme start="20250619104000 +0000" stop="20250619110000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3295,7 +3292,7 @@
 <programme start="20250619144000 +0000" stop="20250619150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250619150000 +0000" stop="20250619200000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250619150000 +0000" stop="20250619190000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250619214000 +0000" stop="20250619220000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3601,10 +3598,10 @@
 <programme start="20250619104000 +0000" stop="20250619110500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Splitting Up Together</title>
 </programme>
-<programme start="20250619110500 +0000" stop="20250619113000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250619110500 +0000" stop="20250619113500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250619113000 +0000" stop="20250619120000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250619113500 +0000" stop="20250619120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250619120000 +0000" stop="20250619122500 +0000" channel="Warner TV Comedy HD.skyde">
