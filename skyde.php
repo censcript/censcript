@@ -3295,7 +3295,7 @@
 <programme start="20250619144000 +0000" stop="20250619150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250619150000 +0000" stop="20250619190000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250619150000 +0000" stop="20250619200000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250619214000 +0000" stop="20250619220000 +0000" channel="Sky Sport 3 HD.skyde">

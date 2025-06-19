@@ -2029,17 +2029,17 @@
     <programme start="20250619072500 +0000" stop="20250619074000 +0000" channel="Cbeebies HD.starhub">
         <title>Lambert-Fisher Glacier, Antartica</title>
     </programme>
-    <programme start="20250618150000 +0000" stop="20250618170000 +0000" channel="beIN Sports 3.starhub">
-        <title>Queen&#039;s Day 3 Match 3</title>
+    <programme start="20250618161500 +0000" stop="20250618182500 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 500 2025 Queen&#039;s Day 3 Nakashima v Evans (Live)</title>
     </programme>
-    <programme start="20250618170000 +0000" stop="20250618190000 +0000" channel="beIN Sports 3.starhub">
-        <title>Queen&#039;s Day 3 Match 4</title>
+    <programme start="20250618182500 +0000" stop="20250618200500 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 500 2025 Queen&#039;s Day 3 Rune v McDonald (Live)</title>
     </programme>
-    <programme start="20250618190000 +0000" stop="20250618193000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - UEFA Conference League 2024/25 Fiorentina vs Celje - QF, 2nd Leg</title>
+    <programme start="20250618200500 +0000" stop="20250618203500 +0000" channel="beIN Sports 3.starhub">
+        <title>Fiorentina vs Celje - QF, 2nd Leg</title>
     </programme>
-    <programme start="20250618193000 +0000" stop="20250618212000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Youth League 2024/25 Shakhtar vs Atalanta - MD2</title>
+    <programme start="20250618203500 +0000" stop="20250618212000 +0000" channel="beIN Sports 3.starhub">
+        <title>Barcelona Finals</title>
     </programme>
     <programme start="20250618212000 +0000" stop="20250618231000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Europa League 2024/25 Tottenham vs Frankfurt - QF,1st leg</title>
@@ -4008,6 +4008,9 @@
     </programme>
     <programme start="20250618230000 +0000" stop="20250618231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 59</title>
+    </programme>
+    <programme start="20250618231500 +0000" stop="20250618231700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Breaking News</title>
     </programme>
     <programme start="20250618231700 +0000" stop="20250619005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
