@@ -2716,38 +2716,41 @@
 <programme start="20250619213500 +0000" stop="20250619223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Pete Rose: Eine Baseball-Legende packt aus</title>
 </programme>
-<programme start="20250618223000 +0000" stop="20250618230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
-</programme>
-<programme start="20250618230000 +0000" stop="20250618233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
-</programme>
-<programme start="20250618233000 +0000" stop="20250619013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
-</programme>
-<programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250618224000 +0000" stop="20250618231000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Wiener Viktoria</title>
 </programme>
-<programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
-</programme>
-<programme start="20250619023000 +0000" stop="20250619030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Abseits: Mit Herbert Steinböck (Kabarettist und Schauspieler)</title>
-</programme>
-<programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Saisonrückblick</title>
-</programme>
-<programme start="20250619040000 +0000" stop="20250619060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
-</programme>
-<programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Saisonrückblick</title>
-</programme>
-<programme start="20250619070000 +0000" stop="20250619073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250618231000 +0000" stop="20250618234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20250619073000 +0000" stop="20250619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 3. Tag</title>
+<programme start="20250618234500 +0000" stop="20250619001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
+</programme>
+<programme start="20250619001500 +0000" stop="20250619020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+</programme>
+<programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+</programme>
+<programme start="20250619023000 +0000" stop="20250619030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
+</programme>
+<programme start="20250619030000 +0000" stop="20250619033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Abseits: Mit Herbert Steinböck (Kabarettist und Schauspieler)</title>
+</programme>
+<programme start="20250619033000 +0000" stop="20250619043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Saisonrückblick</title>
+</programme>
+<programme start="20250619043000 +0000" stop="20250619061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
+</programme>
+<programme start="20250619061500 +0000" stop="20250619071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Saisonrückblick</title>
+</programme>
+<programme start="20250619071500 +0000" stop="20250619075000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
+</programme>
+<programme start="20250619075000 +0000" stop="20250619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - M.Giron (USA), Terra Wortmann Open in Halle, 3. Tag</title>
 </programme>
 <programme start="20250619093000 +0000" stop="20250619173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 4. Tag</title>
@@ -3280,13 +3283,13 @@
 <programme start="20250619091000 +0000" stop="20250619093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250619093000 +0000" stop="20250619180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250619093000 +0000" stop="20250619200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
 </programme>
 <programme start="20250619104000 +0000" stop="20250619110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250619110000 +0000" stop="20250619190000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250619110000 +0000" stop="20250619210000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: cinch Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20250619144000 +0000" stop="20250619150000 +0000" channel="Sky Sport 3 HD.skyde">
