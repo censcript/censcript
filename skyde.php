@@ -2756,7 +2756,7 @@
     <title>Live ATP 500: Terra Wortmann Open in Halle, 4. Tag</title>
 </programme>
 <programme start="20250619173000 +0000" stop="20250619193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 4. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - L. Sonego (ITA), Terra Wortmann Open in Halle, 4. Tag</title>
 </programme>
 <programme start="20250619193000 +0000" stop="20250619195500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 1-4)</title>
