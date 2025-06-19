@@ -3289,7 +3289,7 @@
 <programme start="20250619104000 +0000" stop="20250619110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250619110000 +0000" stop="20250619190000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250619110000 +0000" stop="20250619210000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: cinch Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20250619144000 +0000" stop="20250619150000 +0000" channel="Sky Sport 3 HD.skyde">

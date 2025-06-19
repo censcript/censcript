@@ -2063,13 +2063,13 @@
         <title>UEFA Champions League 2024/25 Dortmund vs Barcelona - QF, 2nd Leg</title>
     </programme>
     <programme start="20250619110000 +0000" stop="20250619130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Queen&#039;s Day 4 Match 1</title>
+        <title>ATP Tour 500 2025 Queen&#039;s Day 4 Lehecka v Diallo (Live)</title>
     </programme>
     <programme start="20250619130000 +0000" stop="20250619150000 +0000" channel="beIN Sports 3.starhub">
-        <title>Queen&#039;s Day 4 Match 2</title>
+        <title>ATP Tour 500 2025 Queen&#039;s Day 4 Fearnley v Moutet (Live)</title>
     </programme>
     <programme start="20250619150000 +0000" stop="20250619170000 +0000" channel="beIN Sports 3.starhub">
-        <title>Queen&#039;s Day 4 Match 3</title>
+        <title>ATP Tour 500 2025 Queen&#039;s Day 4 Alcaraz v Munar (Live)</title>
     </programme>
     <programme start="20250618153000 +0000" stop="20250618163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -4754,7 +4754,7 @@
         <title>Peter Orszag, Lazard CEO</title>
     </programme>
     <programme start="20250619113000 +0000" stop="20250619120000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Luisa Gómez Bravo</title>
+        <title>Luisa Gomez Bravo</title>
     </programme>
     <programme start="20250619120000 +0000" stop="20250619160000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Markets</title>
