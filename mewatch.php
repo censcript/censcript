@@ -139,7 +139,7 @@
     <programme start="20250619140004 +0000" stop="20250619145959 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 11</title>
     </programme>
-    <programme start="20250619145959 +0000" stop="20250619160014 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619145959 +0000" stop="20250619160009 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 5</title>
     </programme>
     <programme start="20250618150010 +0000" stop="20250618160025 +0000" channel="Channel 8.mewatch">
@@ -235,29 +235,26 @@
     <programme start="20250619093013 +0000" stop="20250619103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 40</title>
     </programme>
-    <programme start="20250619103000 +0000" stop="20250619113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619103000 +0000" stop="20250619112954 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 58</title>
     </programme>
-    <programme start="20250619113000 +0000" stop="20250619120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619112954 +0000" stop="20250619115955 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 8</title>
     </programme>
-    <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619115955 +0000" stop="20250619130032 +0000" channel="Channel 8.mewatch">
         <title>The Indigenous - EP 4</title>
     </programme>
-    <programme start="20250619130000 +0000" stop="20250619140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619130032 +0000" stop="20250619140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 21</title>
     </programme>
-    <programme start="20250619140000 +0000" stop="20250619143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619140000 +0000" stop="20250619143032 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250619143000 +0000" stop="20250619150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619143032 +0000" stop="20250619150103 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 9</title>
     </programme>
-    <programme start="20250619150000 +0000" stop="20250619160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619150103 +0000" stop="20250619160118 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 19</title>
-    </programme>
-    <programme start="20250619160000 +0000" stop="20250619170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 2</title>
     </programme>
     <programme start="20250618153121 +0000" stop="20250618163118 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 6</title>
@@ -358,22 +355,22 @@
     <programme start="20250619095915 +0000" stop="20250619110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 7</title>
     </programme>
-    <programme start="20250619110000 +0000" stop="20250619120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619110000 +0000" stop="20250619120023 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 44</title>
     </programme>
-    <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619120023 +0000" stop="20250619130028 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 45</title>
     </programme>
-    <programme start="20250619130000 +0000" stop="20250619140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619130028 +0000" stop="20250619140023 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 8</title>
     </programme>
-    <programme start="20250619140000 +0000" stop="20250619150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619140023 +0000" stop="20250619150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 31</title>
     </programme>
-    <programme start="20250619150000 +0000" stop="20250619153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619150000 +0000" stop="20250619153009 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250619153000 +0000" stop="20250619163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619153009 +0000" stop="20250619163008 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 8</title>
     </programme>
     <programme start="20250618153000 +0000" stop="20250618160017 +0000" channel="Suria.mewatch">
@@ -487,28 +484,28 @@
     <programme start="20250619075954 +0000" stop="20250619110000 +0000" channel="Vasantham.mewatch">
         <title>Mankatha</title>
     </programme>
-    <programme start="20250619110000 +0000" stop="20250619120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619110000 +0000" stop="20250619120002 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary S2 - EP 4</title>
     </programme>
-    <programme start="20250619120000 +0000" stop="20250619123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619120002 +0000" stop="20250619123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 23</title>
     </programme>
     <programme start="20250619123000 +0000" stop="20250619130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250619130000 +0000" stop="20250619133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619130000 +0000" stop="20250619132959 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 17</title>
     </programme>
-    <programme start="20250619133000 +0000" stop="20250619140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619132959 +0000" stop="20250619135959 +0000" channel="Vasantham.mewatch">
         <title>Ticket Pottaachu - EP 1</title>
     </programme>
-    <programme start="20250619140000 +0000" stop="20250619143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619135959 +0000" stop="20250619142958 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 14</title>
     </programme>
-    <programme start="20250619143000 +0000" stop="20250619150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619142958 +0000" stop="20250619145956 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 15</title>
     </programme>
-    <programme start="20250619150000 +0000" stop="20250619153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619145956 +0000" stop="20250619153000 +0000" channel="Vasantham.mewatch">
         <title>Oru Nodiyil S2 - EP 13</title>
     </programme>
     <programme start="20250619153000 +0000" stop="20250619160000 +0000" channel="Vasantham.mewatch">
@@ -577,23 +574,20 @@
     <programme start="20250619095959 +0000" stop="20250619110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250619110000 +0000" stop="20250619120000 +0000" channel="CNA.mewatch">
+    <programme start="20250619110000 +0000" stop="20250619115958 +0000" channel="CNA.mewatch">
         <title>This Way Up - EP 1</title>
     </programme>
-    <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="CNA.mewatch">
+    <programme start="20250619115958 +0000" stop="20250619125958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250619130000 +0000" stop="20250619140000 +0000" channel="CNA.mewatch">
+    <programme start="20250619125958 +0000" stop="20250619140001 +0000" channel="CNA.mewatch">
         <title>Insight - EP 9</title>
     </programme>
-    <programme start="20250619140000 +0000" stop="20250619150000 +0000" channel="CNA.mewatch">
+    <programme start="20250619140001 +0000" stop="20250619150001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250619150000 +0000" stop="20250619160000 +0000" channel="CNA.mewatch">
+    <programme start="20250619150001 +0000" stop="20250619160001 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 2</title>
-    </programme>
-    <programme start="20250619160000 +0000" stop="20250619160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250618155959 +0000" stop="20250618170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
