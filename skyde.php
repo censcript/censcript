@@ -2938,37 +2938,34 @@
 <programme start="20250619054500 +0000" stop="20250619063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Auf 9 Loch mit ... Matthias Schwab (7-9)</title>
 </programme>
-<programme start="20250619063000 +0000" stop="20250619073000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Credentialed: The Memorial Tournament 2025</title>
-</programme>
-<programme start="20250619073000 +0000" stop="20250619080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Kaskada Golf Challenge</title>
-</programme>
-<programme start="20250619080000 +0000" stop="20250619110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>US Open: 4. Tag in Oakmont, PA (USA)</title>
-</programme>
-<programme start="20250619110000 +0000" stop="20250619113000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619063000 +0000" stop="20250619070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Cut</title>
 </programme>
-<programme start="20250619113000 +0000" stop="20250619190000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619070000 +0000" stop="20250619080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Credentialed: The Memorial Tournament 2025</title>
+</programme>
+<programme start="20250619080000 +0000" stop="20250619083000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Kaskada Golf Challenge</title>
+</programme>
+<programme start="20250619083000 +0000" stop="20250619113000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: 4. Tag in Oakmont, PA (USA)</title>
+</programme>
+<programme start="20250619113000 +0000" stop="20250619120000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250619120000 +0000" stop="20250619190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Travelers Championship, 1. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250619190000 +0000" stop="20250619220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Travelers Championship, 1. Tag in Cromwell, CT (USA)</title>
 </programme>
-<programme start="20250618220000 +0000" stop="20250618223000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
-</programme>
-<programme start="20250618223000 +0000" stop="20250619003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618220500 +0000" stop="20250619003500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250619003000 +0000" stop="20250619013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619003500 +0000" stop="20250619015500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
-</programme>
-<programme start="20250619020000 +0000" stop="20250619030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619015500 +0000" stop="20250619030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Aragonien</title>
 </programme>
 <programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2989,14 +2986,11 @@
 <programme start="20250619090000 +0000" stop="20250619093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
 </programme>
-<programme start="20250619093000 +0000" stop="20250619100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
-</programme>
-<programme start="20250619100000 +0000" stop="20250619120000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619093000 +0000" stop="20250619120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
+    <title>NHL: NHL Tonight</title>
 </programme>
 <programme start="20250619130000 +0000" stop="20250619140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto3: Rennen - GP Aragonien</title>
@@ -3016,7 +3010,7 @@
 <programme start="20250619193000 +0000" stop="20250619203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Aragonien</title>
 </programme>
-<programme start="20250619203000 +0000" stop="20250619223000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619203000 +0000" stop="20250619230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250618220000 +0000" stop="20250619040000 +0000" channel="Sky Sport News HD.skyde">

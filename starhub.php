@@ -6890,7 +6890,7 @@
         <title>Berlin Tennis Open by HYLO (500) Day 3 Session 2</title>
     </programme>
     <programme start="20250619080000 +0000" stop="20250619093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Berlin Tennis Open by HYLO (500) Day 3 Session 3</title>
+        <title>Berlin Tennis Open by HYLO (500) Day 1</title>
     </programme>
     <programme start="20250619093000 +0000" stop="20250619133000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Berlin Tennis Open by HYLO (500) Rd 16 Session 1</title>
@@ -7643,13 +7643,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250619003000 +0000" stop="20250619010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Travel Show</title>
+        <title>Going Loco: Mexico&#039;s Maya Train - Part 1</title>
     </programme>
     <programme start="20250619010000 +0000" stop="20250619013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
     <programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Will AI Kill the Advertising Industry?</title>
     </programme>
     <programme start="20250619020000 +0000" stop="20250619023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -8230,10 +8230,10 @@
     <programme start="20250619013000 +0000" stop="20250619043000 +0000" channel="Asianet Movies.starhub">
         <title>Avatharam</title>
     </programme>
-    <programme start="20250619043000 +0000" stop="20250619073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250619043000 +0000" stop="20250619074000 +0000" channel="Asianet Movies.starhub">
         <title>Bhramaram</title>
     </programme>
-    <programme start="20250619073000 +0000" stop="20250619103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250619074000 +0000" stop="20250619103000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
     <programme start="20250619103000 +0000" stop="20250619133000 +0000" channel="Asianet Movies.starhub">
