@@ -3388,7 +3388,7 @@
 <programme start="20250620144000 +0000" stop="20250620150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250620150000 +0000" stop="20250620190000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250620150000 +0000" stop="20250620200000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250620214000 +0000" stop="20250620220000 +0000" channel="Sky Sport 2 HD.skyde">
