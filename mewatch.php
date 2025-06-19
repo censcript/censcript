@@ -520,25 +520,28 @@
     <programme start="20250618155959 +0000" stop="20250618160314 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250618160314 +0000" stop="20250618170059 +0000" channel="CNA.mewatch">
+    <programme start="20250618160000 +0000" stop="20250618160202 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250618160202 +0000" stop="20250618170018 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250618170059 +0000" stop="20250618180000 +0000" channel="CNA.mewatch">
+    <programme start="20250618170018 +0000" stop="20250618180000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 2</title>
     </programme>
-    <programme start="20250618180000 +0000" stop="20250618190000 +0000" channel="CNA.mewatch">
+    <programme start="20250618180000 +0000" stop="20250618190002 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250618190000 +0000" stop="20250618195958 +0000" channel="CNA.mewatch">
+    <programme start="20250618190002 +0000" stop="20250618200000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 1</title>
     </programme>
-    <programme start="20250618195958 +0000" stop="20250618205958 +0000" channel="CNA.mewatch">
+    <programme start="20250618200000 +0000" stop="20250618210001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250618205958 +0000" stop="20250618213004 +0000" channel="CNA.mewatch">
+    <programme start="20250618210001 +0000" stop="20250618213007 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 3</title>
     </programme>
-    <programme start="20250618213004 +0000" stop="20250618220000 +0000" channel="CNA.mewatch">
+    <programme start="20250618213007 +0000" stop="20250618220000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 8</title>
     </programme>
     <programme start="20250618220000 +0000" stop="20250618225959 +0000" channel="CNA.mewatch">

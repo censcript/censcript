@@ -2158,9 +2158,6 @@
     <programme start="20250618210000 +0000" stop="20250618213000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
     </programme>
-    <programme start="20250618213000 +0000" stop="20250618220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
     <programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2179,20 +2176,14 @@
     <programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20250619040000 +0000" stop="20250619044500 +0000" channel="CNN HD.starhub">
+    <programme start="20250619040000 +0000" stop="20250619050000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250619044500 +0000" stop="20250619050000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250619050000 +0000" stop="20250619060000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250619060000 +0000" stop="20250619064500 +0000" channel="CNN HD.starhub">
+    <programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250619064500 +0000" stop="20250619070000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250619070000 +0000" stop="20250619080000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>

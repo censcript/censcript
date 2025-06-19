@@ -2938,34 +2938,34 @@
 <programme start="20250619054500 +0000" stop="20250619063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Auf 9 Loch mit ... Matthias Schwab (7-9)</title>
 </programme>
-<programme start="20250619063000 +0000" stop="20250619070000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Cut</title>
-</programme>
-<programme start="20250619070000 +0000" stop="20250619080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619063000 +0000" stop="20250619073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Credentialed: The Memorial Tournament 2025</title>
 </programme>
-<programme start="20250619080000 +0000" stop="20250619083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619073000 +0000" stop="20250619080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>HotelPlaner Tour: Highlights Kaskada Golf Challenge</title>
 </programme>
-<programme start="20250619083000 +0000" stop="20250619113000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619080000 +0000" stop="20250619110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20250619113000 +0000" stop="20250619120000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619110000 +0000" stop="20250619113000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Cut</title>
 </programme>
-<programme start="20250619120000 +0000" stop="20250619190000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250619113000 +0000" stop="20250619190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Travelers Championship, 1. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250619190000 +0000" stop="20250619220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Travelers Championship, 1. Tag in Cromwell, CT (USA)</title>
 </programme>
-<programme start="20250618220500 +0000" stop="20250619003500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250618220000 +0000" stop="20250619003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250619003500 +0000" stop="20250619015500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619003000 +0000" stop="20250619013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250619015500 +0000" stop="20250619030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
+</programme>
+<programme start="20250619020000 +0000" stop="20250619030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Aragonien</title>
 </programme>
 <programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2986,11 +2986,14 @@
 <programme start="20250619090000 +0000" stop="20250619093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
 </programme>
-<programme start="20250619093000 +0000" stop="20250619120000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619093000 +0000" stop="20250619100000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20250619100000 +0000" stop="20250619120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: NHL Tonight</title>
+    <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20250619130000 +0000" stop="20250619140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto3: Rennen - GP Aragonien</title>
@@ -3010,7 +3013,7 @@
 <programme start="20250619193000 +0000" stop="20250619203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Aragonien</title>
 </programme>
-<programme start="20250619203000 +0000" stop="20250619230000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250619203000 +0000" stop="20250619223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
 <programme start="20250618220000 +0000" stop="20250619040000 +0000" channel="Sky Sport News HD.skyde">
@@ -3181,26 +3184,29 @@
 <programme start="20250619213500 +0000" stop="20250619220500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: NFO - MUN, 30. Spieltag</title>
 </programme>
-<programme start="20250618233000 +0000" stop="20250619013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250618221500 +0000" stop="20250619001000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Popyrin (AUS) - J. Draper (GBR), cinch Championships in London (GBR), 3. Tag</title>
+</programme>
+<programme start="20250619001000 +0000" stop="20250619021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250619021500 +0000" stop="20250619024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250619020000 +0000" stop="20250619040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
+<programme start="20250619024500 +0000" stop="20250619042000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: J. Paolini (ITA) - O. Jabeur (TUN), BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
 </programme>
-<programme start="20250619040000 +0000" stop="20250619050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250619042000 +0000" stop="20250619052500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250619050000 +0000" stop="20250619070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 3. Tag</title>
+<programme start="20250619052500 +0000" stop="20250619072000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Popyrin (AUS) - J. Draper (GBR), cinch Championships in London (GBR), 3. Tag</title>
 </programme>
-<programme start="20250619070000 +0000" stop="20250619073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250619072000 +0000" stop="20250619075000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250619073000 +0000" stop="20250619093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
+<programme start="20250619075000 +0000" stop="20250619093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: J. Paolini (ITA) - O. Jabeur (TUN), BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
 </programme>
 <programme start="20250619093000 +0000" stop="20250619190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 4. Tag</title>
@@ -3209,30 +3215,33 @@
     <title>ATP 250: Z. Bergs (BEL) - G. Diallo (CAN), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20250619213000 +0000" stop="20250619233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
+    <title>WTA 500: K. Siniakova (CZE) - E. Rybakina (KAZ), BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
 </programme>
-<programme start="20250618220000 +0000" stop="20250619010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
-</programme>
-<programme start="20250619010000 +0000" stop="20250619020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Golf Ladies ET: Highlights Hulencourt Women&#039;s Open</title>
-</programme>
-<programme start="20250619020000 +0000" stop="20250619040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 3. Tag</title>
-</programme>
-<programme start="20250619040000 +0000" stop="20250619060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
-</programme>
-<programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250618220000 +0000" stop="20250618232000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20250619070000 +0000" stop="20250619073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Kanada</title>
+<programme start="20250618232000 +0000" stop="20250619014000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>LPGA: Meijer LPGA Classic For Simply Give, Finaltag in Grand Rapids, MI (USA)</title>
 </programme>
-<programme start="20250619073000 +0000" stop="20250619081000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250619014000 +0000" stop="20250619023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Golf Ladies ET: Highlights Hulencourt Women&#039;s Open</title>
+</programme>
+<programme start="20250619023000 +0000" stop="20250619042500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 500: A. Popyrin (AUS) - J. Draper (GBR), cinch Championships in London (GBR), 3. Tag</title>
+</programme>
+<programme start="20250619042500 +0000" stop="20250619060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA 500: J. Paolini (ITA) - O. Jabeur (TUN), BERLIN TENNIS OPEN by HYLO in Berlin, 3. Tag</title>
+</programme>
+<programme start="20250619060000 +0000" stop="20250619061500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 6</title>
+</programme>
+<programme start="20250619061500 +0000" stop="20250619073500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: NHL Tonight - Stanley Cup Final Edition</title>
+</programme>
+<programme start="20250619073500 +0000" stop="20250619081500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: FC Augsburg - Saison 24-25</title>
 </programme>
-<programme start="20250619081000 +0000" stop="20250619085000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250619081500 +0000" stop="20250619085000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: VfL Wolfsburg - Saison 24-25</title>
 </programme>
 <programme start="20250619085000 +0000" stop="20250619093000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3286,7 +3295,7 @@
 <programme start="20250619091000 +0000" stop="20250619093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250619093000 +0000" stop="20250619180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250619093000 +0000" stop="20250619200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
 </programme>
 <programme start="20250619104000 +0000" stop="20250619110000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3298,7 +3307,7 @@
 <programme start="20250619144000 +0000" stop="20250619150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250619150000 +0000" stop="20250619190000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250619150000 +0000" stop="20250619200000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250619214000 +0000" stop="20250619220000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3604,10 +3613,10 @@
 <programme start="20250619104000 +0000" stop="20250619110500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Splitting Up Together</title>
 </programme>
-<programme start="20250619110500 +0000" stop="20250619113000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250619110500 +0000" stop="20250619113500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250619113000 +0000" stop="20250619120000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250619113500 +0000" stop="20250619120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250619120000 +0000" stop="20250619122500 +0000" channel="Warner TV Comedy HD.skyde">
