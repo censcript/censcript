@@ -2752,17 +2752,14 @@
 <programme start="20250620212000 +0000" stop="20250620221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Titans of Defense</title>
 </programme>
-<programme start="20250619220000 +0000" stop="20250619222500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 25-28)</title>
-</programme>
-<programme start="20250619222500 +0000" stop="20250619225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619222000 +0000" stop="20250619224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
 </programme>
-<programme start="20250619225000 +0000" stop="20250619234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250619224500 +0000" stop="20250619234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Saisonrückblick</title>
 </programme>
 <programme start="20250619234500 +0000" stop="20250620014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 4. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - L. Sonego (ITA), Terra Wortmann Open in Halle, 4. Tag</title>
 </programme>
 <programme start="20250620014500 +0000" stop="20250620020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -2804,7 +2801,7 @@
     <title>Admiral BL: 100% Rapid (Runden 29-32)</title>
 </programme>
 <programme start="20250620073000 +0000" stop="20250620093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 4. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - L. Sonego (ITA), Terra Wortmann Open in Halle, 4. Tag</title>
 </programme>
 <programme start="20250620093000 +0000" stop="20250620173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 5. Tag</title>
@@ -3382,19 +3379,19 @@
 <programme start="20250620091000 +0000" stop="20250620093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250620093000 +0000" stop="20250620180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250620093000 +0000" stop="20250620200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: BERLIN TENNIS OPEN by HYLO in Berlin, 5. Tag</title>
 </programme>
 <programme start="20250620144000 +0000" stop="20250620150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250620150000 +0000" stop="20250620190000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250620150000 +0000" stop="20250620200000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250620214000 +0000" stop="20250620220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250619220000 +0000" stop="20250620010000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250619220000 +0000" stop="20250620004500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 1. Tag (Late Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250619222500 +0000" stop="20250619231000 +0000" channel="SYFY HD.skyde">

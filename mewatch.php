@@ -496,25 +496,25 @@
     <programme start="20250619150001 +0000" stop="20250619160001 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 2</title>
     </programme>
-    <programme start="20250619160001 +0000" stop="20250619160306 +0000" channel="CNA.mewatch">
+    <programme start="20250619160000 +0000" stop="20250619160142 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250619160306 +0000" stop="20250619170001 +0000" channel="CNA.mewatch">
+    <programme start="20250619160142 +0000" stop="20250619170002 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250619170001 +0000" stop="20250619175959 +0000" channel="CNA.mewatch">
+    <programme start="20250619170002 +0000" stop="20250619180000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 3</title>
     </programme>
-    <programme start="20250619175959 +0000" stop="20250619185958 +0000" channel="CNA.mewatch">
+    <programme start="20250619180000 +0000" stop="20250619190001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250619185958 +0000" stop="20250619195957 +0000" channel="CNA.mewatch">
+    <programme start="20250619190001 +0000" stop="20250619200000 +0000" channel="CNA.mewatch">
         <title>Shifting Horizons - EP 2</title>
     </programme>
-    <programme start="20250619195957 +0000" stop="20250619205957 +0000" channel="CNA.mewatch">
+    <programme start="20250619200000 +0000" stop="20250619205958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250619205957 +0000" stop="20250619220000 +0000" channel="CNA.mewatch">
+    <programme start="20250619205958 +0000" stop="20250619220000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 9</title>
     </programme>
     <programme start="20250619220000 +0000" stop="20250619225959 +0000" channel="CNA.mewatch">
