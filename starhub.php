@@ -4979,7 +4979,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20250620070000 +0000" stop="20250620073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20250620073000 +0000" stop="20250620080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4988,7 +4988,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20250620083000 +0000" stop="20250620090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam Ungalil Oruthi</title>
+        <title>Dhanam - Ungalil Oruthi</title>
     </programme>
     <programme start="20250620090000 +0000" stop="20250620093000 +0000" channel="Vijay TV HD.starhub">
         <title>Thangamagal Ilam Dhevadhaigalin Kadhai</title>
