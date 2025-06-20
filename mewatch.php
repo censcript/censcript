@@ -1,28 +1,28 @@
     <programme start="20250619145959 +0000" stop="20250619160009 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 5</title>
     </programme>
-    <programme start="20250619160009 +0000" stop="20250619163007 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619160040 +0000" stop="20250619163039 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 86</title>
     </programme>
-    <programme start="20250619163007 +0000" stop="20250619172958 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619163039 +0000" stop="20250619173029 +0000" channel="Channel 5.mewatch">
         <title>Leverage: Redemption S2 - EP 12</title>
     </programme>
-    <programme start="20250619172958 +0000" stop="20250619180007 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619173029 +0000" stop="20250619180038 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7908</title>
     </programme>
-    <programme start="20250619180007 +0000" stop="20250619190007 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619180038 +0000" stop="20250619190009 +0000" channel="Channel 5.mewatch">
         <title>America&#039;s Got Talent: Fantasy Team - EP 1</title>
     </programme>
-    <programme start="20250619190007 +0000" stop="20250619200000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619190009 +0000" stop="20250619200002 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 1</title>
     </programme>
-    <programme start="20250619200000 +0000" stop="20250619203012 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619200002 +0000" stop="20250619203014 +0000" channel="Channel 5.mewatch">
         <title>World&#039;s Wildest Weather S2 - EP 6</title>
     </programme>
-    <programme start="20250619203012 +0000" stop="20250619210011 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619203014 +0000" stop="20250619210013 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 172</title>
     </programme>
-    <programme start="20250619210011 +0000" stop="20250619220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250619210013 +0000" stop="20250619220000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S7 - EP 9</title>
     </programme>
     <programme start="20250619220000 +0000" stop="20250619221507 +0000" channel="Channel 5.mewatch">
@@ -136,22 +136,22 @@
     <programme start="20250619150103 +0000" stop="20250619160118 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 19</title>
     </programme>
-    <programme start="20250619160118 +0000" stop="20250619170058 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619160059 +0000" stop="20250619170039 +0000" channel="Channel 8.mewatch">
         <title>Lost You Forever - EP 2</title>
     </programme>
-    <programme start="20250619170058 +0000" stop="20250619180030 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619170039 +0000" stop="20250619180011 +0000" channel="Channel 8.mewatch">
         <title>Rookies&#039; Kitchen - EP 1</title>
     </programme>
-    <programme start="20250619180030 +0000" stop="20250619190045 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619180011 +0000" stop="20250619190026 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 49</title>
     </programme>
-    <programme start="20250619190045 +0000" stop="20250619200112 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619190026 +0000" stop="20250619200053 +0000" channel="Channel 8.mewatch">
         <title>Love Blossoms II - EP 50</title>
     </programme>
-    <programme start="20250619200112 +0000" stop="20250619210053 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619200053 +0000" stop="20250619210034 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 39</title>
     </programme>
-    <programme start="20250619210053 +0000" stop="20250619220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250619210034 +0000" stop="20250619220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 40</title>
     </programme>
     <programme start="20250619220000 +0000" stop="20250619230025 +0000" channel="Channel 8.mewatch">
@@ -256,10 +256,10 @@
     <programme start="20250619153009 +0000" stop="20250619163008 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 8</title>
     </programme>
-    <programme start="20250619163008 +0000" stop="20250619172916 +0000" channel="Channel U.mewatch">
+    <programme start="20250619163112 +0000" stop="20250619173020 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 44</title>
     </programme>
-    <programme start="20250619172916 +0000" stop="20250619220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250619173020 +0000" stop="20250619220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 45</title>
     </programme>
     <programme start="20250619220000 +0000" stop="20250620025809 +0000" channel="Channel U.mewatch">
@@ -373,9 +373,6 @@
     <programme start="20250619153000 +0000" stop="20250619160024 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250619160024 +0000" stop="20250620010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250620010000 +0000" stop="20250620013009 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 21</title>
     </programme>
@@ -430,10 +427,10 @@
     <programme start="20250620160000 +0000" stop="20250621010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250619160000 +0000" stop="20250619163007 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619160000 +0000" stop="20250619163001 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250619163007 +0000" stop="20250620010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250619163001 +0000" stop="20250620010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250620010000 +0000" stop="20250620012958 +0000" channel="Vasantham.mewatch">

@@ -6938,7 +6938,7 @@
         <title>Berlin Tennis Open by HYLO (500) Rd 16 Session 2</title>
     </programme>
     <programme start="20250620080000 +0000" stop="20250620093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Berlin Tennis Open by HYLO (500) Rd 16 Session 3</title>
+        <title>Berlin Tennis Open by HYLO (500) Day 2 Session 2</title>
     </programme>
     <programme start="20250620093000 +0000" stop="20250620133000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Berlin Tennis Open by HYLO (500) QF 1 &amp; 2</title>
@@ -8212,22 +8212,22 @@
     <programme start="20250619211500 +0000" stop="20250619233000 +0000" channel="Asianet Movies.starhub">
         <title>Koottu</title>
     </programme>
-    <programme start="20250619233000 +0000" stop="20250620013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250619233000 +0000" stop="20250620015000 +0000" channel="Asianet Movies.starhub">
         <title>Chettayees</title>
     </programme>
-    <programme start="20250620013000 +0000" stop="20250620043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250620015000 +0000" stop="20250620043000 +0000" channel="Asianet Movies.starhub">
         <title>Madhuram</title>
     </programme>
-    <programme start="20250620043000 +0000" stop="20250620073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250620043000 +0000" stop="20250620071500 +0000" channel="Asianet Movies.starhub">
         <title>Falimy</title>
     </programme>
-    <programme start="20250620073000 +0000" stop="20250620103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250620071500 +0000" stop="20250620102500 +0000" channel="Asianet Movies.starhub">
         <title>Pulimurugan</title>
     </programme>
-    <programme start="20250620103000 +0000" stop="20250620133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250620102500 +0000" stop="20250620133000 +0000" channel="Asianet Movies.starhub">
         <title>Lucky Baskhar</title>
     </programme>
-    <programme start="20250620133000 +0000" stop="20250620163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250620133000 +0000" stop="20250620162000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
     <programme start="20250619160000 +0000" stop="20250619170000 +0000" channel="Astro Warna HD.starhub">

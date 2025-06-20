@@ -3274,14 +3274,14 @@
 <programme start="20250620213000 +0000" stop="20250620220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Sami Hyypiä)</title>
 </programme>
-<programme start="20250619233000 +0000" stop="20250620013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250619223000 +0000" stop="20250620003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: K. Siniakova (CZE) - E. Rybakina (KAZ), BERLIN TENNIS OPEN by HYLO in Berlin, 4. Tag</title>
+</programme>
+<programme start="20250620003000 +0000" stop="20250620023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - J. Munar (ESP), cinch Championships in London (GBR), 4. Tag</title>
 </programme>
-<programme start="20250620013000 +0000" stop="20250620033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250620023000 +0000" stop="20250620043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - J. Ostapenko (LAT), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
-</programme>
-<programme start="20250620033000 +0000" stop="20250620043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review München</title>
 </programme>
 <programme start="20250620043000 +0000" stop="20250620053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
@@ -3388,7 +3388,7 @@
 <programme start="20250620144000 +0000" stop="20250620150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250620150000 +0000" stop="20250620200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250620150000 +0000" stop="20250620190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Early Session) in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250620214000 +0000" stop="20250620220000 +0000" channel="Sky Sport 2 HD.skyde">
