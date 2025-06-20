@@ -3856,3 +3856,99 @@
 <programme start="20250620203500 +0000" stop="20250620223000 +0000" channel="Warner TV Film HD.skyde">
     <title>2010 - Das Jahr in dem wir Kontakt aufnehmen</title>
 </programme>
+<programme start="20250619220500 +0000" stop="20250619225000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250619225000 +0000" stop="20250619233500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250619233500 +0000" stop="20250620001500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250620001500 +0000" stop="20250620010000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20250620010000 +0000" stop="20250620014000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20250620014000 +0000" stop="20250620022500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20250620022500 +0000" stop="20250620023500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20250620023500 +0000" stop="20250620025000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20250620025000 +0000" stop="20250620032500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250620032500 +0000" stop="20250620041500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20250620041500 +0000" stop="20250620051000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250620051000 +0000" stop="20250620060000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250620060000 +0000" stop="20250620065000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250620065000 +0000" stop="20250620074000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250620074000 +0000" stop="20250620083500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250620083500 +0000" stop="20250620092500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250620092500 +0000" stop="20250620101500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250620101500 +0000" stop="20250620110500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250620110500 +0000" stop="20250620115500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250620115500 +0000" stop="20250620125000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250620125000 +0000" stop="20250620134000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250620134000 +0000" stop="20250620142500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20250620142500 +0000" stop="20250620151000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20250620151000 +0000" stop="20250620155500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250620155500 +0000" stop="20250620164000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250620164000 +0000" stop="20250620173000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>White Collar</title>
+</programme>
+<programme start="20250620173000 +0000" stop="20250620181500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>White Collar</title>
+</programme>
+<programme start="20250620181500 +0000" stop="20250620190000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250620190000 +0000" stop="20250620194500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250620194500 +0000" stop="20250620203000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20250620203000 +0000" stop="20250620211500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
+<programme start="20250620211500 +0000" stop="20250620220500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Fringe</title>
+</programme>
