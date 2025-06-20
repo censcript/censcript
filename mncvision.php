@@ -3013,7 +3013,72 @@
 <programme start="20250620121500 +0000" stop="20250620124500 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250619180000 +0000" stop="20250619190000 +0000" channel="Entertainment.mncvision">
+    <title>Mereka Ada Dimana-Mana</title>
+</programme>
+<programme start="20250619190000 +0000" stop="20250619200000 +0000" channel="Entertainment.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250619200000 +0000" stop="20250619210000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250619210000 +0000" stop="20250619220000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250619220000 +0000" stop="20250619233000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250619233000 +0000" stop="20250620003000 +0000" channel="Entertainment.mncvision">
+    <title>Mereka Ada Dimana-Mana</title>
+</programme>
+<programme start="20250620003000 +0000" stop="20250620010000 +0000" channel="Entertainment.mncvision">
+    <title>Mata-Mata</title>
+</programme>
+<programme start="20250620010000 +0000" stop="20250620013000 +0000" channel="Entertainment.mncvision">
+    <title>Legenda Sang Penunggu</title>
+</programme>
+<programme start="20250620013000 +0000" stop="20250620030000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250620030000 +0000" stop="20250620040000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250620040000 +0000" stop="20250620050000 +0000" channel="Entertainment.mncvision">
+    <title>Bus Jutawan</title>
+</programme>
+<programme start="20250620050000 +0000" stop="20250620060000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250620060000 +0000" stop="20250620063000 +0000" channel="Entertainment.mncvision">
+    <title>Target Operasi</title>
+</programme>
+<programme start="20250620063000 +0000" stop="20250620080000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250620080000 +0000" stop="20250620090000 +0000" channel="Entertainment.mncvision">
+    <title>Lucky Spinner Indonesia</title>
+</programme>
+<programme start="20250620090000 +0000" stop="20250620103000 +0000" channel="Entertainment.mncvision">
+    <title>Bukan Talent Biasa</title>
+</programme>
+<programme start="20250620103000 +0000" stop="20250620113000 +0000" channel="Entertainment.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250620113000 +0000" stop="20250620123000 +0000" channel="Entertainment.mncvision">
+    <title>Mereka Ada Dimana-Mana</title>
+</programme>
+<programme start="20250620123000 +0000" stop="20250620133000 +0000" channel="Entertainment.mncvision">
+    <title>Rombak Warung</title>
+</programme>
+<programme start="20250620133000 +0000" stop="20250620143000 +0000" channel="Entertainment.mncvision">
+    <title>Firasat</title>
+</programme>
+<programme start="20250620143000 +0000" stop="20250620163000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250620163000 +0000" stop="20250619170000 +0000" channel="Entertainment.mncvision">
+    <title>Keluarga Seleb Indonesia</title>
+</programme>
 <programme start="20250619170000 +0000" stop="20250619171500 +0000" channel="EURONEWS.mncvision">
     <title>The European Debrief</title>
 </programme>
@@ -3494,8 +3559,228 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250620163000 +0000" stop="20250619170000 +0000" channel="Food Travel HD.mncvision">
     <title>Orderan Masak Besar</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250619170000 +0000" stop="20250619180000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20250619180000 +0000" stop="20250619190000 +0000" channel="FOX News.mncvision">
+    <title>America Reports</title>
+</programme>
+<programme start="20250619190000 +0000" stop="20250619200000 +0000" channel="FOX News.mncvision">
+    <title>The Story</title>
+</programme>
+<programme start="20250619200000 +0000" stop="20250619210000 +0000" channel="FOX News.mncvision">
+    <title>Your World</title>
+</programme>
+<programme start="20250619210000 +0000" stop="20250619220000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20250619220000 +0000" stop="20250619230000 +0000" channel="FOX News.mncvision">
+    <title>Special Report With Bret Baier</title>
+</programme>
+<programme start="20250619230000 +0000" stop="20250620000000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20250620000000 +0000" stop="20250620010000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20250620010000 +0000" stop="20250620020000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20250620020000 +0000" stop="20250620030000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20250620030000 +0000" stop="20250620040000 +0000" channel="FOX News.mncvision">
+    <title>Fox News At Night</title>
+</programme>
+<programme start="20250620040000 +0000" stop="20250620050000 +0000" channel="FOX News.mncvision">
+    <title>The Five</title>
+</programme>
+<programme start="20250620050000 +0000" stop="20250620060000 +0000" channel="FOX News.mncvision">
+    <title>Jesse Watters Primetime</title>
+</programme>
+<programme start="20250620060000 +0000" stop="20250620070000 +0000" channel="FOX News.mncvision">
+    <title>Hannity</title>
+</programme>
+<programme start="20250620070000 +0000" stop="20250620080000 +0000" channel="FOX News.mncvision">
+    <title>Gutfeld!</title>
+</programme>
+<programme start="20250620080000 +0000" stop="20250620090000 +0000" channel="FOX News.mncvision">
+    <title>The Ingraham Angle</title>
+</programme>
+<programme start="20250620090000 +0000" stop="20250620100000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends First</title>
+</programme>
+<programme start="20250620100000 +0000" stop="20250620110000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20250620110000 +0000" stop="20250620120000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20250620120000 +0000" stop="20250620130000 +0000" channel="FOX News.mncvision">
+    <title>Fox &amp; Friends</title>
+</programme>
+<programme start="20250620130000 +0000" stop="20250620140000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20250620140000 +0000" stop="20250620150000 +0000" channel="FOX News.mncvision">
+    <title>America&#039;s Newsroom</title>
+</programme>
+<programme start="20250620150000 +0000" stop="20250620160000 +0000" channel="FOX News.mncvision">
+    <title>The Faulkner Focus</title>
+</programme>
+<programme start="20250620160000 +0000" stop="20250620163000 +0000" channel="FOX News.mncvision">
+    <title>Outnumbered</title>
+</programme>
+<programme start="20250619170000 +0000" stop="20250619171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619171000 +0000" stop="20250619175300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate (L)</title>
+</programme>
+<programme start="20250619175300 +0000" stop="20250619180000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20250619180000 +0000" stop="20250619182000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619182000 +0000" stop="20250619183000 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20250619183000 +0000" stop="20250619184500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619184500 +0000" stop="20250619185100 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20250619185100 +0000" stop="20250619190000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20250619190000 +0000" stop="20250619192000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619192000 +0000" stop="20250619193000 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20250619193000 +0000" stop="20250619194000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619194000 +0000" stop="20250619200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20250619200000 +0000" stop="20250619201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619201500 +0000" stop="20250619202100 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20250619202100 +0000" stop="20250619203000 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20250619203000 +0000" stop="20250619203200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619203200 +0000" stop="20250619204400 +0000" channel="France 24 English.mncvision">
+    <title>A Propos (L)</title>
+</programme>
+<programme start="20250619204400 +0000" stop="20250619210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20250619210000 +0000" stop="20250619211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619211500 +0000" stop="20250619213000 +0000" channel="France 24 English.mncvision">
+    <title>Business + Truth Or Fake</title>
+</programme>
+<programme start="20250619213000 +0000" stop="20250619214500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619214500 +0000" stop="20250619215100 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20250619215100 +0000" stop="20250619220000 +0000" channel="France 24 English.mncvision">
+    <title>Focus</title>
+</programme>
+<programme start="20250619220000 +0000" stop="20250619221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619221000 +0000" stop="20250619225300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20250619225300 +0000" stop="20250619230000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20250619230000 +0000" stop="20250619231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250619231500 +0000" stop="20250619232000 +0000" channel="France 24 English.mncvision">
+    <title>Business</title>
+</programme>
+<programme start="20250619232000 +0000" stop="20250619233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus</title>
+</programme>
+<programme start="20250619233000 +0000" stop="20250619234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250619234500 +0000" stop="20250620000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20250620000000 +0000" stop="20250620001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250620001500 +0000" stop="20250620003000 +0000" channel="France 24 English.mncvision">
+    <title>A Propos</title>
+</programme>
+<programme start="20250620003000 +0000" stop="20250620004500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250620004500 +0000" stop="20250620010000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20250620010000 +0000" stop="20250620011000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250620011000 +0000" stop="20250620015300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20250620015300 +0000" stop="20250620020000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20250620020000 +0000" stop="20250620021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250620021500 +0000" stop="20250620023000 +0000" channel="France 24 English.mncvision">
+    <title>Talking Europe, Pt 2</title>
+</programme>
+<programme start="20250620023000 +0000" stop="20250620024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250620024500 +0000" stop="20250620025100 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20250620025100 +0000" stop="20250620030000 +0000" channel="France 24 English.mncvision">
+    <title>The Observers</title>
+</programme>
+<programme start="20250620030000 +0000" stop="20250620031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250620031500 +0000" stop="20250620033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20250620033000 +0000" stop="20250620034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250620034500 +0000" stop="20250620040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20250620040000 +0000" stop="20250620042000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250620042000 +0000" stop="20250620042100 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
+<programme start="20250620042100 +0000" stop="20250620045100 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
 <programme start="20250619182000 +0000" stop="20250619200000 +0000" channel="Galaxy.mncvision">
     <title>The Calling</title>
 </programme>
@@ -3661,7 +3946,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250620144000 +0000" stop="20250620151000 +0000" channel="Global Trekker.mncvision">
     <title>Ali</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250619172000 +0000" stop="20250619181000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 4</title>
+</programme>
+<programme start="20250619181000 +0000" stop="20250619190000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 5</title>
+</programme>
+<programme start="20250619190000 +0000" stop="20250619194500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 6</title>
+</programme>
+<programme start="20250619194500 +0000" stop="20250619203000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Edge Of Existence, Ep 1</title>
+</programme>
+<programme start="20250619203000 +0000" stop="20250619211500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Edge Of Existence, Ep 2</title>
+</programme>
+<programme start="20250619211500 +0000" stop="20250619220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Edge Of Existence, Ep 3</title>
+</programme>
+<programme start="20250619220000 +0000" stop="20250619230000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial America: Boston 24</title>
+</programme>
+<programme start="20250619230000 +0000" stop="20250620000000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial America: Great Cities</title>
+</programme>
+<programme start="20250620000000 +0000" stop="20250620005000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 4</title>
+</programme>
+<programme start="20250620005000 +0000" stop="20250620014000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 5</title>
+</programme>
+<programme start="20250620014000 +0000" stop="20250620025500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Manny Pacquiao: Unstoppable...</title>
+</programme>
+<programme start="20250620025500 +0000" stop="20250620034500 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Rock: Moving Mountains</title>
+</programme>
+<programme start="20250620034500 +0000" stop="20250620044500 +0000" channel="Global Trekker HD.mncvision">
+    <title>John Cena: Champion Of The Ring</title>
+</programme>
+<programme start="20250620044500 +0000" stop="20250620055000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Muhammad Ali: The Greatest</title>
+</programme>
+<programme start="20250620055000 +0000" stop="20250620064000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 4</title>
+</programme>
+<programme start="20250620064000 +0000" stop="20250620073000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 5</title>
+</programme>
+<programme start="20250620073000 +0000" stop="20250620082000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 6</title>
+</programme>
+<programme start="20250620082000 +0000" stop="20250620091500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial America: Great Cities</title>
+</programme>
+<programme start="20250620091500 +0000" stop="20250620100500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Mystic Britain S2, Ep 1</title>
+</programme>
+<programme start="20250620100500 +0000" stop="20250620110000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial Africa, Ep 6</title>
+</programme>
+<programme start="20250620110000 +0000" stop="20250620113000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 5</title>
+</programme>
+<programme start="20250620113000 +0000" stop="20250620120000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 6</title>
+</programme>
+<programme start="20250620120000 +0000" stop="20250620123000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 7</title>
+</programme>
+<programme start="20250620123000 +0000" stop="20250620130000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Flavour SIN, Ep 8</title>
+</programme>
+<programme start="20250620130000 +0000" stop="20250620135000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20250620135000 +0000" stop="20250620144000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20250620144000 +0000" stop="20250620151000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Ali</title>
+</programme>
 <programme start="20250619170000 +0000" stop="20250619180000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Malam</title>
 </programme>
@@ -3770,7 +4135,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250620153000 +0000" stop="20250620160000 +0000" channel="GTV HD.mncvision">
     <title>Return Of Special Force 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250619180000 +0000" stop="20250619183000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250619183000 +0000" stop="20250619190000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250619190000 +0000" stop="20250619200000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20250619200000 +0000" stop="20250619210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250619210000 +0000" stop="20250619213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250619213000 +0000" stop="20250619220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250619220000 +0000" stop="20250619223000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Duo Bocil</title>
+</programme>
+<programme start="20250619223000 +0000" stop="20250619230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250619230000 +0000" stop="20250620000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wali Sanga</title>
+</programme>
+<programme start="20250620000000 +0000" stop="20250620010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250620010000 +0000" stop="20250620030000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit</title>
+</programme>
+<programme start="20250620030000 +0000" stop="20250620040000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wali Sanga</title>
+</programme>
+<programme start="20250620040000 +0000" stop="20250620043000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Kaca Benggala</title>
+</programme>
+<programme start="20250620043000 +0000" stop="20250620053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20250620053000 +0000" stop="20250620063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250620063000 +0000" stop="20250620070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250620070000 +0000" stop="20250620073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250620073000 +0000" stop="20250620083000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250620083000 +0000" stop="20250620090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Duo Bocil</title>
+</programme>
+<programme start="20250620090000 +0000" stop="20250620100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wali Sanga</title>
+</programme>
+<programme start="20250620100000 +0000" stop="20250620103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Kaca Benggala</title>
+</programme>
+<programme start="20250620103000 +0000" stop="20250620110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250620110000 +0000" stop="20250620120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250620120000 +0000" stop="20250620123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250620123000 +0000" stop="20250620130000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Duo Bocil</title>
+</programme>
+<programme start="20250620130000 +0000" stop="20250620133000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250620133000 +0000" stop="20250620140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250620140000 +0000" stop="20250620150000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20250620150000 +0000" stop="20250620160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250620160000 +0000" stop="20250620163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit</title>
+</programme>
 <programme start="20250619173500 +0000" stop="20250619183000 +0000" channel="History.mncvision">
     <title>Alone: Frozen S1, Ep 7</title>
 </programme>
@@ -3972,7 +4426,33 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250620151500 +0000" stop="20250620154500 +0000" channel="HITS MOVIES.mncvision">
     <title>Norbit</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250619173000 +0000" stop="20250619201500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Hunt For Red October</title>
+</programme>
+<programme start="20250619201500 +0000" stop="20250619224500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Forrest Gump</title>
+</programme>
+<programme start="20250619224500 +0000" stop="20250620021500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>A Bridge Too Far</title>
+</programme>
+<programme start="20250620021500 +0000" stop="20250620043000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Ghost</title>
+</programme>
+<programme start="20250620043000 +0000" stop="20250620064500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Children Of A Lesser God</title>
+</programme>
+<programme start="20250620064500 +0000" stop="20250620101500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>A Bridge Too Far</title>
+</programme>
+<programme start="20250620101500 +0000" stop="20250620120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Monster House</title>
+</programme>
+<programme start="20250620120000 +0000" stop="20250620151500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Great Escape</title>
+</programme>
+<programme start="20250620151500 +0000" stop="20250620154500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Norbit</title>
+</programme>
 <programme start="20250619173000 +0000" stop="20250619183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>

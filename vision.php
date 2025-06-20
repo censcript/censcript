@@ -38,40 +38,37 @@
 <title>Playing With Fire</title>
 </programme>
 <programme start="20250620180000 +0000" stop="20250620190000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Pacar KW Super</title>
 </programme>
 <programme start="20250620190000 +0000" stop="20250620201500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Jomblo Kece Digebet Supir</title>
 </programme>
-<programme start="20250620201500 +0000" stop="20250620213000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250620201500 +0000" stop="20250620210000 +0000" channel="RCTI.vision">
+<title>Crispy</title>
 </programme>
-<programme start="20250620213000 +0000" stop="20250620231500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250620210000 +0000" stop="20250620233000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S7</title>
 </programme>
-<programme start="20250620231500 +0000" stop="20250621010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250620233000 +0000" stop="20250621003000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
 </programme>
-<programme start="20250621010000 +0000" stop="20250621013000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250621003000 +0000" stop="20250621023000 +0000" channel="RCTI.vision">
+<title>Titus: Mystery Of The Enygma</title>
 </programme>
-<programme start="20250621013000 +0000" stop="20250621050000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250621023000 +0000" stop="20250621054500 +0000" channel="RCTI.vision">
+<title>Doraemon (RCTI)</title>
 </programme>
-<programme start="20250621050000 +0000" stop="20250621073000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250621054500 +0000" stop="20250621073000 +0000" channel="RCTI.vision">
+<title>Jagat Alam Gaib: Sinden Gaib</title>
 </programme>
 <programme start="20250621073000 +0000" stop="20250621091500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>2025 Sarinah Jakarta E-Prix (L)</title>
 </programme>
-<programme start="20250621091500 +0000" stop="20250621100000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20250621100000 +0000" stop="20250621110000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20250621091500 +0000" stop="20250621110000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun X</title>
 </programme>
 <programme start="20250621110000 +0000" stop="20250621121500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250620000000 +0000" stop="20250620001500 +0000" channel="MNCTV.vision">
 <title>Sinema Spesial Upin &amp; Ipin</title>
@@ -466,12 +463,6 @@
 <programme start="20250620114500 +0000" stop="20250620130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250620130000 +0000" stop="20250620134500 +0000" channel="Trans TV.vision">
-<title>Bidaah</title>
-</programme>
-<programme start="20250620134500 +0000" stop="20250620151500 +0000" channel="Trans TV.vision">
-<title>Jogetin Shaaay</title>
-</programme>
 <programme start="20250620151500 +0000" stop="20250620171500 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -538,6 +529,18 @@
 <programme start="20250620041500 +0000" stop="20250620050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
+<programme start="20250620050000 +0000" stop="20250620054500 +0000" channel="Trans 7.vision">
+<title>Bocah Petualang</title>
+</programme>
+<programme start="20250620054500 +0000" stop="20250620063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang</title>
+</programme>
+<programme start="20250620063000 +0000" stop="20250620071500 +0000" channel="Trans 7.vision">
+<title>Para Pencari Cuan</title>
+</programme>
+<programme start="20250620071500 +0000" stop="20250620081500 +0000" channel="Trans 7.vision">
+<title>Redaksi</title>
+</programme>
 <programme start="20250620081500 +0000" stop="20250620091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -549,12 +552,6 @@
 </programme>
 <programme start="20250620110000 +0000" stop="20250620120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
-</programme>
-<programme start="20250620120000 +0000" stop="20250620123000 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
-</programme>
-<programme start="20250620123000 +0000" stop="20250620131500 +0000" channel="Trans 7.vision">
-<title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20250620131500 +0000" stop="20250620143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250620210000 +0000" stop="20250620213000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20250620213000 +0000" stop="20250620223000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
 </programme>
