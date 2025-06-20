@@ -115,22 +115,22 @@
     <programme start="20250620093018 +0000" stop="20250620103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 2</title>
     </programme>
-    <programme start="20250620103000 +0000" stop="20250620110024 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620103000 +0000" stop="20250620105959 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 173</title>
     </programme>
-    <programme start="20250620110024 +0000" stop="20250620111014 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620105959 +0000" stop="20250620110949 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 7</title>
     </programme>
-    <programme start="20250620111014 +0000" stop="20250620130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620110949 +0000" stop="20250620130000 +0000" channel="Channel 5.mewatch">
         <title>Ainbo: Spirit of the Amazon</title>
     </programme>
     <programme start="20250620130000 +0000" stop="20250620133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250620133000 +0000" stop="20250620140034 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620133000 +0000" stop="20250620140006 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 6</title>
     </programme>
-    <programme start="20250620140034 +0000" stop="20250620163010 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620140006 +0000" stop="20250620163012 +0000" channel="Channel 5.mewatch">
         <title>Warcraft</title>
     </programme>
     <programme start="20250619150103 +0000" stop="20250619160118 +0000" channel="Channel 8.mewatch">
