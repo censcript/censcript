@@ -2173,11 +2173,23 @@
     <programme start="20250620223000 +0000" stop="20250621010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thaai Manasu</title>
     </programme>
-    <programme start="20250621040000 +0000" stop="20250621100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250621010000 +0000" stop="20250621013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250621100000 +0000" stop="20250621160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250621013000 +0000" stop="20250621043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Baana Kaathadi</title>
+    </programme>
+    <programme start="20250621043000 +0000" stop="20250621073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Devan</title>
+    </programme>
+    <programme start="20250621073000 +0000" stop="20250621103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pithamagan</title>
+    </programme>
+    <programme start="20250621103000 +0000" stop="20250621133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Veerappu</title>
+    </programme>
+    <programme start="20250621133000 +0000" stop="20250621170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sakalakala Vallavan</title>
     </programme>
     <programme start="20250620153000 +0000" stop="20250620173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Halle QF 4</title>
