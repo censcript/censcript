@@ -598,13 +598,13 @@
 <programme start="20250621055500 +0000" stop="20250621062000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250621062000 +0000" stop="20250621065000 +0000" channel="Cartoonito.skyde">
+<programme start="20250621062000 +0000" stop="20250621065200 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250621065000 +0000" stop="20250621065500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621065200 +0000" stop="20250621065600 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621065500 +0000" stop="20250621070500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621065600 +0000" stop="20250621070500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250621070500 +0000" stop="20250621071000 +0000" channel="Cartoonito.skyde">
@@ -643,10 +643,10 @@
 <programme start="20250621090500 +0000" stop="20250621092000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250621092000 +0000" stop="20250621093000 +0000" channel="Cartoonito.skyde">
+<programme start="20250621092000 +0000" stop="20250621092500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250621093000 +0000" stop="20250621093500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621092500 +0000" stop="20250621093500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250621093500 +0000" stop="20250621095500 +0000" channel="Cartoonito.skyde">
@@ -697,10 +697,10 @@
 <programme start="20250621123000 +0000" stop="20250621125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621125000 +0000" stop="20250621130000 +0000" channel="Cartoonito.skyde">
+<programme start="20250621125000 +0000" stop="20250621125500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250621130000 +0000" stop="20250621130500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621125500 +0000" stop="20250621130500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250621130500 +0000" stop="20250621131000 +0000" channel="Cartoonito.skyde">
@@ -724,25 +724,25 @@
 <programme start="20250621142500 +0000" stop="20250621143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621143500 +0000" stop="20250621144000 +0000" channel="Cartoonito.skyde">
+<programme start="20250621143500 +0000" stop="20250621144100 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621144000 +0000" stop="20250621144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621144100 +0000" stop="20250621144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250621144500 +0000" stop="20250621150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621150000 +0000" stop="20250621151000 +0000" channel="Cartoonito.skyde">
+<programme start="20250621150000 +0000" stop="20250621150500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621151000 +0000" stop="20250621152500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621150500 +0000" stop="20250621152500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621152500 +0000" stop="20250621154000 +0000" channel="Cartoonito.skyde">
+<programme start="20250621152500 +0000" stop="20250621153500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621154000 +0000" stop="20250621155500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621153500 +0000" stop="20250621155500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250621155500 +0000" stop="20250621160000 +0000" channel="Cartoonito.skyde">
@@ -3311,7 +3311,7 @@
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
 <programme start="20250621100000 +0000" stop="20250621120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Halbfinale, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
+    <title>Live WTA 500: M. Vondrousova (CZE) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20250621120000 +0000" stop="20250621123000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3326,15 +3326,15 @@
     <title>ATP World Tour: Es folgt</title>
 </programme>
 <programme start="20250621120000 +0000" stop="20250621140000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>Live ATP 500: Halbfinale, cinch Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20250621140000 +0000" stop="20250621160000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
+    <title>Live ATP 500: Halbfinale, cinch Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20250621144000 +0000" stop="20250621150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250621150000 +0000" stop="20250621230000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250621150000 +0000" stop="20250621220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 3. Tag in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250620222500 +0000" stop="20250620231000 +0000" channel="SYFY HD.skyde">
@@ -3712,16 +3712,16 @@
 <programme start="20250621023500 +0000" stop="20250621040000 +0000" channel="Warner TV Film.skyde">
     <title>Dumm und dümmerer</title>
 </programme>
-<programme start="20250621040000 +0000" stop="20250621045000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250621040000 +0000" stop="20250621044500 +0000" channel="Warner TV Film.skyde">
     <title>Ein Abend mit... Iris Berben</title>
 </programme>
-<programme start="20250621045000 +0000" stop="20250621065000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250621044500 +0000" stop="20250621064500 +0000" channel="Warner TV Film.skyde">
     <title>Warum hab&#039; ich ja gesagt?</title>
 </programme>
-<programme start="20250621065000 +0000" stop="20250621083500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250621064500 +0000" stop="20250621083000 +0000" channel="Warner TV Film.skyde">
     <title>Casablanca</title>
 </programme>
-<programme start="20250621083500 +0000" stop="20250621102500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250621083000 +0000" stop="20250621102500 +0000" channel="Warner TV Film.skyde">
     <title>New York Für Anfänger</title>
 </programme>
 <programme start="20250621102500 +0000" stop="20250621120500 +0000" channel="Warner TV Film.skyde">
