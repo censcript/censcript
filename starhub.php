@@ -2756,7 +2756,7 @@
         <title>SONGS</title>
     </programme>
     <programme start="20250619230000 +0000" stop="20250619233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20250619233000 +0000" stop="20250620000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
@@ -4913,7 +4913,7 @@
         <title>Poongatru Thirumbuma</title>
     </programme>
     <programme start="20250619190000 +0000" stop="20250619193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20250619193000 +0000" stop="20250619200000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4922,7 +4922,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20250619203000 +0000" stop="20250619210000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam Ungalil Oruthi</title>
+        <title>Dhanam - Ungalil Oruthi</title>
     </programme>
     <programme start="20250619210000 +0000" stop="20250619213000 +0000" channel="Vijay TV HD.starhub">
         <title>Thangamagal Ilam Dhevadhaigalin Kadhai</title>
