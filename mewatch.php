@@ -226,32 +226,29 @@
     <programme start="20250620093042 +0000" stop="20250620103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 42</title>
     </programme>
-    <programme start="20250620103000 +0000" stop="20250620113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620103000 +0000" stop="20250620112959 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 59</title>
     </programme>
-    <programme start="20250620113000 +0000" stop="20250620120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620112959 +0000" stop="20250620115959 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 9</title>
     </programme>
-    <programme start="20250620120000 +0000" stop="20250620123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620115959 +0000" stop="20250620122942 +0000" channel="Channel 8.mewatch">
         <title>Every Body Knows S2 - EP 3</title>
     </programme>
-    <programme start="20250620123000 +0000" stop="20250620130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620122942 +0000" stop="20250620130027 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 9</title>
     </programme>
-    <programme start="20250620130000 +0000" stop="20250620140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620130027 +0000" stop="20250620140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 22</title>
     </programme>
-    <programme start="20250620140000 +0000" stop="20250620143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620140000 +0000" stop="20250620143034 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250620143000 +0000" stop="20250620150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620143034 +0000" stop="20250620150108 +0000" channel="Channel 8.mewatch">
         <title>Legendary Taste of Sichuan S4 - EP 7</title>
     </programme>
-    <programme start="20250620150000 +0000" stop="20250620160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250620150108 +0000" stop="20250620160007 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 20</title>
-    </programme>
-    <programme start="20250620160000 +0000" stop="20250620170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 3</title>
     </programme>
     <programme start="20250619153009 +0000" stop="20250619163008 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 8</title>
@@ -415,17 +412,14 @@
     <programme start="20250620120000 +0000" stop="20250620123000 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250620123000 +0000" stop="20250620133000 +0000" channel="Suria.mewatch">
+    <programme start="20250620123000 +0000" stop="20250620132956 +0000" channel="Suria.mewatch">
         <title>Sheng Siong LIVE! 2025</title>
     </programme>
-    <programme start="20250620133000 +0000" stop="20250620153000 +0000" channel="Suria.mewatch">
+    <programme start="20250620132956 +0000" stop="20250620153000 +0000" channel="Suria.mewatch">
         <title>Menanti Yang Pasti</title>
     </programme>
-    <programme start="20250620153000 +0000" stop="20250620155955 +0000" channel="Suria.mewatch">
+    <programme start="20250620153000 +0000" stop="20250620160027 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250620155955 +0000" stop="20250621010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250619160000 +0000" stop="20250619163001 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
