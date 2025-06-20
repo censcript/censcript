@@ -115,22 +115,22 @@
     <programme start="20250620093018 +0000" stop="20250620103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 2</title>
     </programme>
-    <programme start="20250620103000 +0000" stop="20250620105959 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620103000 +0000" stop="20250620110024 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 173</title>
     </programme>
-    <programme start="20250620105959 +0000" stop="20250620110949 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620110024 +0000" stop="20250620111014 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 7</title>
     </programme>
-    <programme start="20250620110949 +0000" stop="20250620130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620111014 +0000" stop="20250620130000 +0000" channel="Channel 5.mewatch">
         <title>Ainbo: Spirit of the Amazon</title>
     </programme>
     <programme start="20250620130000 +0000" stop="20250620133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250620133000 +0000" stop="20250620140006 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620133000 +0000" stop="20250620140036 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 6</title>
     </programme>
-    <programme start="20250620140006 +0000" stop="20250620163012 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620140036 +0000" stop="20250620163012 +0000" channel="Channel 5.mewatch">
         <title>Warcraft</title>
     </programme>
     <programme start="20250619150103 +0000" stop="20250619160118 +0000" channel="Channel 8.mewatch">
@@ -352,22 +352,22 @@
     <programme start="20250620100009 +0000" stop="20250620110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 8</title>
     </programme>
-    <programme start="20250620110000 +0000" stop="20250620120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620110000 +0000" stop="20250620115943 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 46</title>
     </programme>
-    <programme start="20250620120000 +0000" stop="20250620130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620115943 +0000" stop="20250620125942 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 47</title>
     </programme>
-    <programme start="20250620130000 +0000" stop="20250620140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620125942 +0000" stop="20250620135936 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 3</title>
     </programme>
-    <programme start="20250620140000 +0000" stop="20250620150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620135936 +0000" stop="20250620150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 32</title>
     </programme>
-    <programme start="20250620150000 +0000" stop="20250620153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620150000 +0000" stop="20250620153029 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250620153000 +0000" stop="20250620163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620153029 +0000" stop="20250620162929 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 3</title>
     </programme>
     <programme start="20250619153000 +0000" stop="20250619160024 +0000" channel="Suria.mewatch">
@@ -556,17 +556,14 @@
     <programme start="20250620120000 +0000" stop="20250620130000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250620130000 +0000" stop="20250620140000 +0000" channel="CNA.mewatch">
+    <programme start="20250620130000 +0000" stop="20250620140001 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 3</title>
     </programme>
-    <programme start="20250620140000 +0000" stop="20250620150000 +0000" channel="CNA.mewatch">
+    <programme start="20250620140001 +0000" stop="20250620150116 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250620150000 +0000" stop="20250620160000 +0000" channel="CNA.mewatch">
+    <programme start="20250620150116 +0000" stop="20250620160001 +0000" channel="CNA.mewatch">
         <title>Insight - EP 9</title>
-    </programme>
-    <programme start="20250620160000 +0000" stop="20250620160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250619155959 +0000" stop="20250619170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
