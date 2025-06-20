@@ -421,10 +421,10 @@
     <programme start="20250620133000 +0000" stop="20250620153000 +0000" channel="Suria.mewatch">
         <title>Menanti Yang Pasti</title>
     </programme>
-    <programme start="20250620153000 +0000" stop="20250620160000 +0000" channel="Suria.mewatch">
+    <programme start="20250620153000 +0000" stop="20250620155955 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250620160000 +0000" stop="20250621010000 +0000" channel="Suria.mewatch">
+    <programme start="20250620155955 +0000" stop="20250621010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250619160000 +0000" stop="20250619163001 +0000" channel="Vasantham.mewatch">

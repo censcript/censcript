@@ -2173,7 +2173,7 @@
     <programme start="20250619200000 +0000" stop="20250619210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
-    <programme start="20250619210000 +0000" stop="20250619213000 +0000" channel="CNN HD.starhub">
+    <programme start="20250619210000 +0000" stop="20250619220000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
     </programme>
     <programme start="20250619220000 +0000" stop="20250619230000 +0000" channel="CNN HD.starhub">
@@ -2804,7 +2804,7 @@
         <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20250620073000 +0000" stop="20250620080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - PRIYAMANA THOZHI</title>
+        <title>Movie - PRIYAMANA THOZHI_x000D_</title>
     </programme>
     <programme start="20250620080000 +0000" stop="20250620083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
