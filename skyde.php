@@ -2701,10 +2701,10 @@
 <programme start="20250621110000 +0000" stop="20250621130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: A. Zverev (GER) - F. Cobolli (ITA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
-<programme start="20250621130000 +0000" stop="20250621150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250621130000 +0000" stop="20250621153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: A. Zverev (GER) - D. Medvedev, Terra Wortmann Open in Halle, Halbfinale 1</title>
 </programme>
-<programme start="20250621150000 +0000" stop="20250621170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250621153000 +0000" stop="20250621170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: A. Bublik (KAZ) - K. Khachanov, Terra Wortmann Open in Halle, Halbfinale 2</title>
 </programme>
 <programme start="20250621170000 +0000" stop="20250621173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3314,7 +3314,7 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250621123000 +0000" stop="20250621163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: X. Wang (CHN) - L. Samsonova, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
+    <title>Live WTA 500: Halbfinale, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
 </programme>
 <programme start="20250620220000 +0000" stop="20250621014500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Frisco, TX (USA)</title>
