@@ -1,6 +1,3 @@
-    <programme start="20250621065500 +0000" stop="20250621091000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Machida v Kashima</title>
-    </programme>
     <programme start="20250621092500 +0000" stop="20250621114000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Cerezo v Tokyo Verdy</title>
     </programme>
