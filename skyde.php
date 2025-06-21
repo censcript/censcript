@@ -3308,18 +3308,30 @@
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
 <programme start="20250621100000 +0000" stop="20250621120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: M. Vondrousova (CZE) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
+    <title>Live WTA 500: Halbfinale, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20250621120000 +0000" stop="20250621123000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250621123000 +0000" stop="20250621163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: X. Wang (CHN) - L. Samsonova, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
+<programme start="20250621123000 +0000" stop="20250621143000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: Halbfinale, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
+</programme>
+<programme start="20250620220000 +0000" stop="20250621010000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Frisco, TX (USA)</title>
+</programme>
+<programme start="20250621114000 +0000" stop="20250621120000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>ATP World Tour: Es folgt</title>
+</programme>
+<programme start="20250621120000 +0000" stop="20250621140000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
+</programme>
+<programme start="20250621140000 +0000" stop="20250621160000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20250621144000 +0000" stop="20250621150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250621150000 +0000" stop="20250621230000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250621150000 +0000" stop="20250621220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 3. Tag in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250620222500 +0000" stop="20250620231000 +0000" channel="SYFY HD.skyde">
