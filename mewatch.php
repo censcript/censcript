@@ -1,25 +1,25 @@
     <programme start="20250620140036 +0000" stop="20250620163012 +0000" channel="Channel 5.mewatch">
         <title>Warcraft</title>
     </programme>
-    <programme start="20250620163012 +0000" stop="20250620180027 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620163006 +0000" stop="20250620180021 +0000" channel="Channel 5.mewatch">
         <title>Survivor 48 - EP 10</title>
     </programme>
-    <programme start="20250620180027 +0000" stop="20250620183032 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620180021 +0000" stop="20250620183031 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 11</title>
     </programme>
-    <programme start="20250620183032 +0000" stop="20250620190009 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620183031 +0000" stop="20250620190008 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 6</title>
     </programme>
-    <programme start="20250620190009 +0000" stop="20250620193002 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620190008 +0000" stop="20250620193002 +0000" channel="Channel 5.mewatch">
         <title>Arts 21 - EP 404</title>
     </programme>
     <programme start="20250620193002 +0000" stop="20250620200013 +0000" channel="Channel 5.mewatch">
         <title>Euromaxx - EP 404</title>
     </programme>
-    <programme start="20250620200013 +0000" stop="20250620210003 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620200013 +0000" stop="20250620210002 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 2</title>
     </programme>
-    <programme start="20250620210003 +0000" stop="20250620220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250620210002 +0000" stop="20250620220000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S7 - EP 10</title>
     </programme>
     <programme start="20250620220000 +0000" stop="20250620223017 +0000" channel="Channel 5.mewatch">
@@ -232,13 +232,13 @@
     <programme start="20250621143150 +0000" stop="20250621162950 +0000" channel="Channel 8.mewatch">
         <title>Fatal Visit</title>
     </programme>
-    <programme start="20250620153029 +0000" stop="20250620162929 +0000" channel="Channel U.mewatch">
+    <programme start="20250620153121 +0000" stop="20250620163021 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 3</title>
     </programme>
-    <programme start="20250620162929 +0000" stop="20250620172943 +0000" channel="Channel U.mewatch">
+    <programme start="20250620163021 +0000" stop="20250620173035 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 46</title>
     </programme>
-    <programme start="20250620172943 +0000" stop="20250620220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250620173035 +0000" stop="20250620220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 47</title>
     </programme>
     <programme start="20250620220000 +0000" stop="20250621005818 +0000" channel="Channel U.mewatch">
@@ -376,13 +376,13 @@
     <programme start="20250621153000 +0000" stop="20250621160034 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250620140000 +0000" stop="20250620170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250620140037 +0000" stop="20250620170000 +0000" channel="Vasantham.mewatch">
         <title>Lover</title>
     </programme>
-    <programme start="20250620170000 +0000" stop="20250620173114 +0000" channel="Vasantham.mewatch">
+    <programme start="20250620170000 +0000" stop="20250620173055 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250620173114 +0000" stop="20250621010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250620173055 +0000" stop="20250621010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250621010000 +0000" stop="20250621013000 +0000" channel="Vasantham.mewatch">

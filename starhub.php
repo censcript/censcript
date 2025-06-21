@@ -8143,7 +8143,7 @@
     <programme start="20250621103000 +0000" stop="20250621133000 +0000" channel="Asianet Movies.starhub">
         <title>Pachakkuthira</title>
     </programme>
-    <programme start="20250621133000 +0000" stop="20250621163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250621133000 +0000" stop="20250621161000 +0000" channel="Asianet Movies.starhub">
         <title>Rifle club</title>
     </programme>
     <programme start="20250620160000 +0000" stop="20250620170000 +0000" channel="Astro Warna HD.starhub">
