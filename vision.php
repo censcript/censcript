@@ -169,12 +169,6 @@
 <programme start="20250621000000 +0000" stop="20250621003000 +0000" channel="GTV.vision">
 <title>Haikyu</title>
 </programme>
-<programme start="20250621003000 +0000" stop="20250621030000 +0000" channel="GTV.vision">
-<title>Amazing Kids</title>
-</programme>
-<programme start="20250621030000 +0000" stop="20250621050000 +0000" channel="GTV.vision">
-<title>Zak Storm</title>
-</programme>
 <programme start="20250621050000 +0000" stop="20250621073000 +0000" channel="GTV.vision">
 <title>Naruto Shippuden</title>
 </programme>
@@ -221,7 +215,7 @@
 <title>Bernard Bear</title>
 </programme>
 <programme start="20250622000000 +0000" stop="20250622030000 +0000" channel="GTV.vision">
-<title>Amazing Kids</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250622030000 +0000" stop="20250622050000 +0000" channel="GTV.vision">
 <title>Zak Storm</title>
@@ -496,20 +490,8 @@
 <programme start="20250622114500 +0000" stop="20250622130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250621000000 +0000" stop="20250621003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250621003000 +0000" stop="20250621013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250621013000 +0000" stop="20250621023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250621023000 +0000" stop="20250621033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250621033000 +0000" stop="20250621041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
 </programme>
 <programme start="20250621041500 +0000" stop="20250621050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250621233000 +0000" stop="20250622003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250622003000 +0000" stop="20250622011500 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250622011500 +0000" stop="20250622021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250622021500 +0000" stop="20250622030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
+</programme>
+<programme start="20250622030000 +0000" stop="20250622034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
+</programme>
+<programme start="20250622034500 +0000" stop="20250622040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250622040000 +0000" stop="20250622050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
