@@ -493,29 +493,11 @@
 <programme start="20250621003000 +0000" stop="20250621013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250621071500 +0000" stop="20250621081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20250621081500 +0000" stop="20250621090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20250621090000 +0000" stop="20250621100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20250621100000 +0000" stop="20250621104500 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
-</programme>
-<programme start="20250621104500 +0000" stop="20250621120000 +0000" channel="Trans 7.vision">
-<title>Arisan</title>
-</programme>
-<programme start="20250621120000 +0000" stop="20250621161500 +0000" channel="Trans 7.vision">
-<title>Allobank Festival 2025</title>
-</programme>
-<programme start="20250621161500 +0000" stop="20250621170000 +0000" channel="Trans 7.vision">
-<title>Starting Grid MotoGP 2025 Italy</title>
-</programme>
-<programme start="20250621170000 +0000" stop="20250621174500 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race 2025 Italy</title>
 </programme>
 <programme start="20250621174500 +0000" stop="20250621190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250622080000 +0000" stop="20250622090000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250622090000 +0000" stop="20250622100000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250622100000 +0000" stop="20250622110000 +0000" channel="BTV.vision">
+<title>Mantra News</title>
+</programme>
+<programme start="20250622110000 +0000" stop="20250622120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20250621000000 +0000" stop="20250621010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250621020000 +0000" stop="20250621020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
