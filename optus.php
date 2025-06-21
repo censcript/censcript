@@ -1,15 +1,3 @@
-    <programme start="20250621092500 +0000" stop="20250621114000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Cerezo v Tokyo Verdy</title>
-    </programme>
-    <programme start="20250621095000 +0000" stop="20250621121000 +0000" channel="Optus Sport 10.optus">
-        <title>N/A - Jeonbuk v Seoul</title>
-    </programme>
-    <programme start="20250621095000 +0000" stop="20250621121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Pohang v Jeju</title>
-    </programme>
-    <programme start="20250621095500 +0000" stop="20250621121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kawasaki v Vissel Kobe</title>
-    </programme>
     <programme start="20250621210000 +0000" stop="20250621233000 +0000" channel="Optus Sport 403.optus">
         <title>NWSL - Utah Royals FC v Seattle Reign</title>
     </programme>
