@@ -493,11 +493,38 @@
 <programme start="20250621003000 +0000" stop="20250621013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250621023000 +0000" stop="20250621033000 +0000" channel="Trans 7.vision">
+<title>Heits Abis</title>
+</programme>
+<programme start="20250621033000 +0000" stop="20250621041500 +0000" channel="Trans 7.vision">
+<title>Bikin Seneng</title>
+</programme>
+<programme start="20250621041500 +0000" stop="20250621050000 +0000" channel="Trans 7.vision">
+<title>Enaknya Mantul</title>
+</programme>
+<programme start="20250621050000 +0000" stop="20250621054500 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20250621054500 +0000" stop="20250621063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20250621063000 +0000" stop="20250621071500 +0000" channel="Trans 7.vision">
+<title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20250621071500 +0000" stop="20250621081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Akhir Pekan</title>
+</programme>
 <programme start="20250621081500 +0000" stop="20250621090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20250621090000 +0000" stop="20250621100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
+</programme>
+<programme start="20250621100000 +0000" stop="20250621104500 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20250621104500 +0000" stop="20250621120000 +0000" channel="Trans 7.vision">
+<title>Arisan</title>
 </programme>
 <programme start="20250621120000 +0000" stop="20250621161500 +0000" channel="Trans 7.vision">
 <title>Allobank Festival 2025</title>
@@ -1470,31 +1497,4 @@
 </programme>
 <programme start="20250622030000 +0000" stop="20250622034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
-</programme>
-<programme start="20250622034500 +0000" stop="20250622040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
-</programme>
-<programme start="20250622040000 +0000" stop="20250622050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250622050000 +0000" stop="20250622060000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
-</programme>
-<programme start="20250622060000 +0000" stop="20250622070000 +0000" channel="BTV.vision">
-<title>Masak Everywhere</title>
-</programme>
-<programme start="20250622070000 +0000" stop="20250622080000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
-</programme>
-<programme start="20250622080000 +0000" stop="20250622090000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250622090000 +0000" stop="20250622100000 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
-<programme start="20250622100000 +0000" stop="20250622110000 +0000" channel="BTV.vision">
-<title>Mantra News</title>
-</programme>
-<programme start="20250622110000 +0000" stop="20250622120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
 </programme>
