@@ -7978,7 +7978,7 @@
     <programme start="20250621233000 +0000" stop="20250622014000 +0000" channel="Asianet Movies.starhub">
         <title>Kanekkane</title>
     </programme>
-    <programme start="20250622013000 +0000" stop="20250622043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250622014000 +0000" stop="20250622043000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
     <programme start="20250622043000 +0000" stop="20250622073000 +0000" channel="Asianet Movies.starhub">
