@@ -493,12 +493,6 @@
 <programme start="20250621003000 +0000" stop="20250621013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250621023000 +0000" stop="20250621033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250621033000 +0000" stop="20250621041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
 <programme start="20250621041500 +0000" stop="20250621050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250622030000 +0000" stop="20250622034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
+</programme>
+<programme start="20250622034500 +0000" stop="20250622040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250622040000 +0000" stop="20250622050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
