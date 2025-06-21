@@ -1,9 +1,3 @@
-    <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 402.optus">
-        <title>NWSL - Racing Louisville FC v Orlando Pride</title>
-    </programme>
-    <programme start="20250621000000 +0000" stop="20250621023000 +0000" channel="Optus Sport 401.optus">
-        <title>NWSL - Kansas City Current v Angel City FC</title>
-    </programme>
     <programme start="20250621065500 +0000" stop="20250621091000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Kashima</title>
     </programme>

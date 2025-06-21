@@ -4763,7 +4763,7 @@
         <title>Don 2</title>
     </programme>
     <programme start="20250620230000 +0000" stop="20250621020000 +0000" channel="Zee Cinema.starhub">
-        <title>Balle Balle Amritsar To La</title>
+        <title>Balle Balle! Amritsar to L.A.</title>
     </programme>
     <programme start="20250621020000 +0000" stop="20250621050000 +0000" channel="Zee Cinema.starhub">
         <title>Hacked</title>
