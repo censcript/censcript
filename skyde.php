@@ -3071,16 +3071,16 @@
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
 <programme start="20250622100000 +0000" stop="20250622123000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
+    <title>Live WTA 500: Finale, BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
 <programme start="20250622123000 +0000" stop="20250622130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250622130000 +0000" stop="20250622153000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
+    <title>Live ATP 500: Finale, HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250622153000 +0000" stop="20250622200000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 500: N. Mektic (CRO) / M. Venus /NZL) - , HSBC Championships in London (GBR), Doppelfinale</title>
+<programme start="20250622153000 +0000" stop="20250622180000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 500: Doppelfinale, HSBC Championships in London (GBR), Doppelfinale</title>
 </programme>
 <programme start="20250622134000 +0000" stop="20250622140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>WTA: Es folgt</title>

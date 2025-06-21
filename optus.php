@@ -1,6 +1,3 @@
-    <programme start="20250621210000 +0000" stop="20250621233000 +0000" channel="Optus Sport 403.optus">
-        <title>NWSL - Utah Royals FC v Seattle Reign</title>
-    </programme>
     <programme start="20250621233000 +0000" stop="20250622020000 +0000" channel="Optus Sport 405.optus">
         <title>NWSL - North Carolina Courage v Houston Dash</title>
     </programme>
