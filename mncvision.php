@@ -1582,154 +1582,50 @@
 <programme start="20250622160000 +0000" stop="20250622163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Wall Street Week</title>
 </programme>
-<programme start="20250621173000 +0000" stop="20250621180000 +0000" channel="BTV.mncvision">
-    <title>Film Pendek Indonesia</title>
-</programme>
-<programme start="20250621180000 +0000" stop="20250621180300 +0000" channel="BTV.mncvision">
-    <title>Tanah Airku</title>
-</programme>
-<programme start="20250621180300 +0000" stop="20250621190000 +0000" channel="BTV.mncvision">
-    <title>Dunia Binatang</title>
-</programme>
-<programme start="20250621190000 +0000" stop="20250621200000 +0000" channel="BTV.mncvision">
-    <title>Dunia Alam</title>
-</programme>
-<programme start="20250621200000 +0000" stop="20250621210000 +0000" channel="BTV.mncvision">
-    <title>Ketulusan Hati</title>
-</programme>
-<programme start="20250621210000 +0000" stop="20250621213000 +0000" channel="BTV.mncvision">
-    <title>Berita Viral</title>
-</programme>
-<programme start="20250621213000 +0000" stop="20250621223000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Pagi</title>
-</programme>
-<programme start="20250621223000 +0000" stop="20250621230000 +0000" channel="BTV.mncvision">
-    <title>Saat Teduh Bersama GMS</title>
-</programme>
-<programme start="20250621230000 +0000" stop="20250621230300 +0000" channel="BTV.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20250621230300 +0000" stop="20250621233000 +0000" channel="BTV.mncvision">
-    <title>Saat Teduh Bersama GMS</title>
-</programme>
-<programme start="20250621233000 +0000" stop="20250622003000 +0000" channel="BTV.mncvision">
-    <title>Jalan Dakwah</title>
-</programme>
-<programme start="20250622003000 +0000" stop="20250622011500 +0000" channel="BTV.mncvision">
-    <title>Info Seleb</title>
-</programme>
-<programme start="20250622011500 +0000" stop="20250622021500 +0000" channel="BTV.mncvision">
-    <title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250622021500 +0000" stop="20250622030000 +0000" channel="BTV.mncvision">
-    <title>Endeus</title>
-</programme>
-<programme start="20250622030000 +0000" stop="20250622030500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20250622030500 +0000" stop="20250622034500 +0000" channel="BTV.mncvision">
-    <title>Kids Universe</title>
-</programme>
-<programme start="20250622034500 +0000" stop="20250622040000 +0000" channel="BTV.mncvision">
-    <title>Kuyliner</title>
-</programme>
-<programme start="20250622040000 +0000" stop="20250622050000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Siang</title>
-</programme>
-<programme start="20250622050000 +0000" stop="20250622050500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20250622050500 +0000" stop="20250622060000 +0000" channel="BTV.mncvision">
-    <title>Dunia RANS</title>
-</programme>
-<programme start="20250622060000 +0000" stop="20250622060500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20250622060500 +0000" stop="20250622070000 +0000" channel="BTV.mncvision">
-    <title>Masak Everywhere</title>
-</programme>
-<programme start="20250622070000 +0000" stop="20250622070500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20250622070500 +0000" stop="20250622080000 +0000" channel="BTV.mncvision">
-    <title>Kuyliner</title>
-</programme>
-<programme start="20250622080000 +0000" stop="20250622080500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20250622080500 +0000" stop="20250622090000 +0000" channel="BTV.mncvision">
-    <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250622090000 +0000" stop="20250622100000 +0000" channel="BTV.mncvision">
-    <title>Info Seleb</title>
-</programme>
-<programme start="20250622100000 +0000" stop="20250622110000 +0000" channel="BTV.mncvision">
-    <title>Mantra News</title>
-</programme>
-<programme start="20250622110000 +0000" stop="20250622120000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20250622120000 +0000" stop="20250622130000 +0000" channel="BTV.mncvision">
-    <title>Berita Viral</title>
-</programme>
-<programme start="20250622130000 +0000" stop="20250622140000 +0000" channel="BTV.mncvision">
-    <title>Ketulusan Hati</title>
-</programme>
-<programme start="20250622140000 +0000" stop="20250622150000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
-</programme>
-<programme start="20250622150000 +0000" stop="20250622160000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20250622160000 +0000" stop="20250622163000 +0000" channel="BTV.mncvision">
-    <title>Ekspos</title>
-</programme>
-<programme start="20250622163000 +0000" stop="20250621170000 +0000" channel="BTV.mncvision">
-    <title>Scooter Prix</title>
-</programme>
 Error: Unable to fetch data. HTTP Status Code: 500
-<programme start="20250621175400 +0000" stop="20250621195300 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250621175400 +0000" stop="20250621195300 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250621195300 +0000" stop="20250621212500 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250621195300 +0000" stop="20250621212500 +0000" channel="BUDDY STARS.mncvision">
     <title>A Fairy Tale After All</title>
 </programme>
-<programme start="20250621212500 +0000" stop="20250621230300 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250621212500 +0000" stop="20250621230300 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250621230300 +0000" stop="20250622004400 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250621230300 +0000" stop="20250622004400 +0000" channel="BUDDY STARS.mncvision">
     <title>Pil&#039;s Adventures</title>
 </programme>
-<programme start="20250622004400 +0000" stop="20250622023000 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622004400 +0000" stop="20250622023000 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250622023000 +0000" stop="20250622042000 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622023000 +0000" stop="20250622042000 +0000" channel="BUDDY STARS.mncvision">
     <title>Pokemon Movie: White Victini</title>
 </programme>
-<programme start="20250622042000 +0000" stop="20250622060000 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622042000 +0000" stop="20250622060000 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250622060000 +0000" stop="20250622074300 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622060000 +0000" stop="20250622074300 +0000" channel="BUDDY STARS.mncvision">
     <title>Dragon Hunters</title>
 </programme>
-<programme start="20250622074300 +0000" stop="20250622092400 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622074300 +0000" stop="20250622092400 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250622092400 +0000" stop="20250622111200 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622092400 +0000" stop="20250622111200 +0000" channel="BUDDY STARS.mncvision">
     <title>Pokemon: Lucario &amp; Mystery...</title>
 </programme>
-<programme start="20250622111200 +0000" stop="20250622125700 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622111200 +0000" stop="20250622125700 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250622125700 +0000" stop="20250622142900 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622125700 +0000" stop="20250622142900 +0000" channel="BUDDY STARS.mncvision">
     <title>Pil&#039;s Adventures</title>
 </programme>
-<programme start="20250622142900 +0000" stop="20250622161600 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622142900 +0000" stop="20250622161600 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
 </programme>
-<programme start="20250622161600 +0000" stop="20250622164600 +0000" channel="BUDDY STARS HD.mncvision">
+<programme start="20250622161600 +0000" stop="20250622164600 +0000" channel="BUDDY STARS.mncvision">
     <title>Dragon Hunters</title>
 </programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250621170500 +0000" stop="20250621171500 +0000" channel="CBeebies.mncvision">
     <title>Teletubbies S1, Ep 64</title>
 </programme>
@@ -3506,180 +3402,8 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250622163000 +0000" stop="20250621170000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Hati Sang Bidadari</title>
 </programme>
-<programme start="20250621170000 +0000" stop="20250621200000 +0000" channel="Food Travel HD.mncvision">
-    <title>MasterChef Indonesia S10</title>
-</programme>
-<programme start="20250621200000 +0000" stop="20250621203000 +0000" channel="Food Travel HD.mncvision">
-    <title>Kitchen Beb</title>
-</programme>
-<programme start="20250621203000 +0000" stop="20250621210000 +0000" channel="Food Travel HD.mncvision">
-    <title>Cooking With Hot Mama</title>
-</programme>
-<programme start="20250621210000 +0000" stop="20250621213000 +0000" channel="Food Travel HD.mncvision">
-    <title>Jejak Rimba</title>
-</programme>
-<programme start="20250621213000 +0000" stop="20250621223000 +0000" channel="Food Travel HD.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20250621223000 +0000" stop="20250621230000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Food</title>
-</programme>
-<programme start="20250621230000 +0000" stop="20250621233000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Trip</title>
-</programme>
-<programme start="20250621233000 +0000" stop="20250622000000 +0000" channel="Food Travel HD.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20250622000000 +0000" stop="20250622030000 +0000" channel="Food Travel HD.mncvision">
-    <title>MasterChef Indonesia S10</title>
-</programme>
-<programme start="20250622030000 +0000" stop="20250622033000 +0000" channel="Food Travel HD.mncvision">
-    <title>Hati Sang Bidadari</title>
-</programme>
-<programme start="20250622033000 +0000" stop="20250622040000 +0000" channel="Food Travel HD.mncvision">
-    <title>Explorazi</title>
-</programme>
-<programme start="20250622040000 +0000" stop="20250622050000 +0000" channel="Food Travel HD.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20250622050000 +0000" stop="20250622053000 +0000" channel="Food Travel HD.mncvision">
-    <title>Kitchen Beb</title>
-</programme>
-<programme start="20250622053000 +0000" stop="20250622060000 +0000" channel="Food Travel HD.mncvision">
-    <title>Urban Street Food</title>
-</programme>
-<programme start="20250622060000 +0000" stop="20250622063000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20250622063000 +0000" stop="20250622070000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20250622070000 +0000" stop="20250622080000 +0000" channel="Food Travel HD.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20250622080000 +0000" stop="20250622083000 +0000" channel="Food Travel HD.mncvision">
-    <title>Food Diary</title>
-</programme>
-<programme start="20250622083000 +0000" stop="20250622090000 +0000" channel="Food Travel HD.mncvision">
-    <title>Siti Tour</title>
-</programme>
-<programme start="20250622090000 +0000" stop="20250622100000 +0000" channel="Food Travel HD.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20250622100000 +0000" stop="20250622103000 +0000" channel="Food Travel HD.mncvision">
-    <title>Kitchen Beb Spc. HUT Jakarta</title>
-</programme>
-<programme start="20250622103000 +0000" stop="20250622110000 +0000" channel="Food Travel HD.mncvision">
-    <title>Urban Street Food S2</title>
-</programme>
-<programme start="20250622110000 +0000" stop="20250622113000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner Spc. HUT Jakarta</title>
-</programme>
-<programme start="20250622113000 +0000" stop="20250622120000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20250622120000 +0000" stop="20250622123000 +0000" channel="Food Travel HD.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20250622123000 +0000" stop="20250622130000 +0000" channel="Food Travel HD.mncvision">
-    <title>Explorazi</title>
-</programme>
-<programme start="20250622130000 +0000" stop="20250622133000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Food Spc. HUT Jakarta</title>
-</programme>
-<programme start="20250622133000 +0000" stop="20250622140000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Trip Spc. HUT Jakarta</title>
-</programme>
-<programme start="20250622140000 +0000" stop="20250622143000 +0000" channel="Food Travel HD.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20250622143000 +0000" stop="20250622150000 +0000" channel="Food Travel HD.mncvision">
-    <title>Siti Tour Spc. HUT Jakarta</title>
-</programme>
-<programme start="20250622150000 +0000" stop="20250622153000 +0000" channel="Food Travel HD.mncvision">
-    <title>Cooking With Hot Mama</title>
-</programme>
-<programme start="20250622153000 +0000" stop="20250622160000 +0000" channel="Food Travel HD.mncvision">
-    <title>Jejak Rimba</title>
-</programme>
-<programme start="20250622160000 +0000" stop="20250622163000 +0000" channel="Food Travel HD.mncvision">
-    <title>Mancing Liar</title>
-</programme>
-<programme start="20250622163000 +0000" stop="20250621170000 +0000" channel="Food Travel HD.mncvision">
-    <title>Hati Sang Bidadari</title>
-</programme>
-<programme start="20250621170000 +0000" stop="20250621180000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Live</title>
-</programme>
-<programme start="20250621180000 +0000" stop="20250621190000 +0000" channel="FOX News.mncvision">
-    <title>The Journal Editorial Report</title>
-</programme>
-<programme start="20250621190000 +0000" stop="20250621200000 +0000" channel="FOX News.mncvision">
-    <title>Fox Report With Jon Scott</title>
-</programme>
-<programme start="20250621200000 +0000" stop="20250621210000 +0000" channel="FOX News.mncvision">
-    <title>Fox Report With Jon Scott</title>
-</programme>
-<programme start="20250621210000 +0000" stop="20250621220000 +0000" channel="FOX News.mncvision">
-    <title>The Five</title>
-</programme>
-<programme start="20250621220000 +0000" stop="20250621230000 +0000" channel="FOX News.mncvision">
-    <title>The Big Weekend Show</title>
-</programme>
-<programme start="20250621230000 +0000" stop="20250622000000 +0000" channel="FOX News.mncvision">
-    <title>The Big Weekend Show</title>
-</programme>
-<programme start="20250622000000 +0000" stop="20250622010000 +0000" channel="FOX News.mncvision">
-    <title>Life, Liberty &amp; Levin</title>
-</programme>
-<programme start="20250622010000 +0000" stop="20250622020000 +0000" channel="FOX News.mncvision">
-    <title>My View With Lara Trump</title>
-</programme>
-<programme start="20250622020000 +0000" stop="20250622030000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Saturday Night</title>
-</programme>
-<programme start="20250622030000 +0000" stop="20250622040000 +0000" channel="FOX News.mncvision">
-    <title>Gutfeld!</title>
-</programme>
-<programme start="20250622040000 +0000" stop="20250622050000 +0000" channel="FOX News.mncvision">
-    <title>Life, Liberty &amp; Levin</title>
-</programme>
-<programme start="20250622050000 +0000" stop="20250622060000 +0000" channel="FOX News.mncvision">
-    <title>My View With Lara Trump</title>
-</programme>
-<programme start="20250622060000 +0000" stop="20250622070000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Saturday Night</title>
-</programme>
-<programme start="20250622070000 +0000" stop="20250622080000 +0000" channel="FOX News.mncvision">
-    <title>Life, Liberty &amp; Levin</title>
-</programme>
-<programme start="20250622080000 +0000" stop="20250622090000 +0000" channel="FOX News.mncvision">
-    <title>My View With Lara Trump</title>
-</programme>
-<programme start="20250622090000 +0000" stop="20250622100000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Saturday Night</title>
-</programme>
-<programme start="20250622100000 +0000" stop="20250622110000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends Sunday</title>
-</programme>
-<programme start="20250622110000 +0000" stop="20250622120000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends Sunday</title>
-</programme>
-<programme start="20250622120000 +0000" stop="20250622130000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends Sunday</title>
-</programme>
-<programme start="20250622130000 +0000" stop="20250622140000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends Sunday</title>
-</programme>
-<programme start="20250622140000 +0000" stop="20250622150000 +0000" channel="FOX News.mncvision">
-    <title>Sunday Morning Futures</title>
-</programme>
-<programme start="20250622150000 +0000" stop="20250622160000 +0000" channel="FOX News.mncvision">
-    <title>MediaBuzz</title>
-</programme>
-<programme start="20250622160000 +0000" stop="20250622163000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Live</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250621170000 +0000" stop="20250621171300 +0000" channel="France 24 English.mncvision">
     <title>News (L)</title>
 </programme>

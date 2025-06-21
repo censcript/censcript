@@ -493,6 +493,9 @@
 <programme start="20250621003000 +0000" stop="20250621013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250621071500 +0000" stop="20250621081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Akhir Pekan</title>
+</programme>
 <programme start="20250621081500 +0000" stop="20250621090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250622080000 +0000" stop="20250622090000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250622090000 +0000" stop="20250622100000 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
 </programme>

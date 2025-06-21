@@ -2938,10 +2938,10 @@
 <programme start="20250621073000 +0000" stop="20250621093000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Frisco, TX (USA)</title>
 </programme>
-<programme start="20250621093000 +0000" stop="20250621123000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250621093000 +0000" stop="20250621120000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Travelers Championship, 2. Tag in Cromwell, CT (USA)</title>
 </programme>
-<programme start="20250621123000 +0000" stop="20250621170000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250621120000 +0000" stop="20250621170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Travelers Championship, 3. Tag (Early Coverage)</title>
 </programme>
 <programme start="20250621170000 +0000" stop="20250621223000 +0000" channel="Sky Sport Golf HD.skyde">
