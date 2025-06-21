@@ -598,13 +598,13 @@
 <programme start="20250621055500 +0000" stop="20250621062000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250621062000 +0000" stop="20250621065200 +0000" channel="Cartoonito.skyde">
+<programme start="20250621062000 +0000" stop="20250621065000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250621065200 +0000" stop="20250621065600 +0000" channel="Cartoonito.skyde">
+<programme start="20250621065000 +0000" stop="20250621065500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621065600 +0000" stop="20250621070500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621065500 +0000" stop="20250621070500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250621070500 +0000" stop="20250621071000 +0000" channel="Cartoonito.skyde">
@@ -643,10 +643,10 @@
 <programme start="20250621090500 +0000" stop="20250621092000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250621092000 +0000" stop="20250621092500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621092000 +0000" stop="20250621093000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250621092500 +0000" stop="20250621093500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621093000 +0000" stop="20250621093500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250621093500 +0000" stop="20250621095500 +0000" channel="Cartoonito.skyde">
@@ -697,10 +697,10 @@
 <programme start="20250621123000 +0000" stop="20250621125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621125000 +0000" stop="20250621125500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621125000 +0000" stop="20250621130000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250621125500 +0000" stop="20250621130500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621130000 +0000" stop="20250621130500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250621130500 +0000" stop="20250621131000 +0000" channel="Cartoonito.skyde">
@@ -724,25 +724,25 @@
 <programme start="20250621142500 +0000" stop="20250621143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621143500 +0000" stop="20250621144100 +0000" channel="Cartoonito.skyde">
+<programme start="20250621143500 +0000" stop="20250621144000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621144100 +0000" stop="20250621144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621144000 +0000" stop="20250621144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250621144500 +0000" stop="20250621150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250621150000 +0000" stop="20250621150500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621150000 +0000" stop="20250621151000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621150500 +0000" stop="20250621152500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621151000 +0000" stop="20250621152500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621152500 +0000" stop="20250621153500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621152500 +0000" stop="20250621154000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250621153500 +0000" stop="20250621155500 +0000" channel="Cartoonito.skyde">
+<programme start="20250621154000 +0000" stop="20250621155500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250621155500 +0000" stop="20250621160000 +0000" channel="Cartoonito.skyde">
@@ -2702,16 +2702,16 @@
     <title>ATP 500: A. Zverev (GER) - F. Cobolli (ITA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20250621130000 +0000" stop="20250621150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Topspiel, Terra Wortmann Open in Halle, Halbfinale 1</title>
+    <title>Live ATP 500: A. Zverev (GER) - D. Medvedev, Terra Wortmann Open in Halle, Halbfinale 1</title>
 </programme>
 <programme start="20250621150000 +0000" stop="20250621170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Topspiel, Terra Wortmann Open in Halle, Halbfinale 2</title>
+    <title>Live ATP 500: A. Bublik (KAZ) - K. Khachanov, Terra Wortmann Open in Halle, Halbfinale 2</title>
 </programme>
 <programme start="20250621170000 +0000" stop="20250621173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
 </programme>
 <programme start="20250621173000 +0000" stop="20250621193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, Halbfinale 1</title>
+    <title>ATP 500: A. Zverev (GER) - D. Medvedev, Terra Wortmann Open in Halle, Halbfinale 1</title>
 </programme>
 <programme start="20250621193000 +0000" stop="20250621194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
@@ -2720,7 +2720,7 @@
     <title>Abseits: Mit Cheyenne Ochsenknecht und Nino Sifkovits</title>
 </programme>
 <programme start="20250621201500 +0000" stop="20250621221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, Halbfinale 2</title>
+    <title>ATP 500: A. Bublik (KAZ) - K. Khachanov, Terra Wortmann Open in Halle, Halbfinale 2</title>
 </programme>
 <programme start="20250620222500 +0000" stop="20250620230500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: TSG Hoffenheim - Saison 24-25</title>
@@ -3205,38 +3205,35 @@
 <programme start="20250621214500 +0000" stop="20250621220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Greatest Games: FC Arsenal - Aston Villa (2019)</title>
 </programme>
-<programme start="20250620220000 +0000" stop="20250621000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Rybakina (KAZ) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, 5. Tag</title>
+<programme start="20250620230000 +0000" stop="20250621010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20250621000000 +0000" stop="20250621013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: C. Alcaraz (ESP) - A. Rinderknech (FRA), HSBC Championships in London (GBR), 5. Tag</title>
-</programme>
-<programme start="20250621013000 +0000" stop="20250621023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250621023000 +0000" stop="20250621043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250621020000 +0000" stop="20250621040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
-<programme start="20250621043000 +0000" stop="20250621063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Rybakina (KAZ) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, 5. Tag</title>
+<programme start="20250621040000 +0000" stop="20250621060000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 5. Tag</title>
 </programme>
-<programme start="20250621063000 +0000" stop="20250621075500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: C. Alcaraz (ESP) - A. Rinderknech (FRA), HSBC Championships in London (GBR), 5. Tag</title>
+<programme start="20250621060000 +0000" stop="20250621080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Topspiel, cinch Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20250621075500 +0000" stop="20250621100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Rybakina (KAZ) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, 5. Tag</title>
+<programme start="20250621080000 +0000" stop="20250621100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Topspiel, BERLIN TENNIS OPEN by HYLO in Berlin, 5. Tag</title>
 </programme>
 <programme start="20250621100000 +0000" stop="20250621160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Halbfinals, ATP London &amp; WTA Berlin</title>
+    <title>Live ATP &amp; WTA: Halbfinale, ATP London &amp; WTA Berlin</title>
 </programme>
 <programme start="20250621160000 +0000" stop="20250621180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Vondrousova (CZE) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
+    <title>WTA 500: Halbfinale, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20250621180000 +0000" stop="20250621200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Draper (GBR) - J. Lehecka (CZE), HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>ATP 500: Halbfinale, cinch Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20250621200000 +0000" stop="20250621220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: C. Alcaraz (ESP) - R. Bautista Agut (ESP), HSBC Championships in London (GBR), Halbfinale 2</title>
+    <title>ATP 500: Halbfinale, cinch Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20250620221000 +0000" stop="20250621010500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Frisco, TX (USA)</title>
@@ -3323,10 +3320,10 @@
     <title>ATP World Tour: Es folgt</title>
 </programme>
 <programme start="20250621120000 +0000" stop="20250621140000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: Halbfinale, cinch Championships in London (GBR), Halbfinale 1</title>
+    <title>Live ATP 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20250621140000 +0000" stop="20250621160000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: Halbfinale, cinch Championships in London (GBR), Halbfinale 2</title>
+    <title>Live ATP 500: Halbfinale, HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20250621144000 +0000" stop="20250621150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
@@ -3748,16 +3745,16 @@
 <programme start="20250621023500 +0000" stop="20250621040000 +0000" channel="Warner TV Film HD.skyde">
     <title>Dumm und dümmerer</title>
 </programme>
-<programme start="20250621040000 +0000" stop="20250621044500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250621040000 +0000" stop="20250621045000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ein Abend mit... Iris Berben</title>
 </programme>
-<programme start="20250621044500 +0000" stop="20250621064500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250621045000 +0000" stop="20250621065000 +0000" channel="Warner TV Film HD.skyde">
     <title>Warum hab&#039; ich ja gesagt?</title>
 </programme>
-<programme start="20250621064500 +0000" stop="20250621083000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250621065000 +0000" stop="20250621083500 +0000" channel="Warner TV Film HD.skyde">
     <title>Casablanca</title>
 </programme>
-<programme start="20250621083000 +0000" stop="20250621102500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250621083500 +0000" stop="20250621102500 +0000" channel="Warner TV Film HD.skyde">
     <title>New York Für Anfänger</title>
 </programme>
 <programme start="20250621102500 +0000" stop="20250621120500 +0000" channel="Warner TV Film HD.skyde">
@@ -3808,10 +3805,10 @@
 <programme start="20250621032500 +0000" stop="20250621034000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250621034000 +0000" stop="20250621043000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250621034000 +0000" stop="20250621042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250621043000 +0000" stop="20250621052000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250621042500 +0000" stop="20250621052000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20250621052000 +0000" stop="20250621060500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3832,16 +3829,16 @@
 <programme start="20250621090500 +0000" stop="20250621095000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250621095000 +0000" stop="20250621103500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250621095000 +0000" stop="20250621104000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250621103500 +0000" stop="20250621112500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250621104000 +0000" stop="20250621112500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250621112500 +0000" stop="20250621120500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250621112500 +0000" stop="20250621121000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250621120500 +0000" stop="20250621125500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250621121000 +0000" stop="20250621125500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20250621125500 +0000" stop="20250621134000 +0000" channel="Warner TV Serie HD.skyde">
