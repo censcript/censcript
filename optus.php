@@ -1,9 +1,3 @@
-    <programme start="20250621233000 +0000" stop="20250622020000 +0000" channel="Optus Sport 405.optus">
-        <title>NWSL - North Carolina Courage v Houston Dash</title>
-    </programme>
-    <programme start="20250621233000 +0000" stop="20250622020000 +0000" channel="Optus Sport 404.optus">
-        <title>NWSL - Gotham FC v Bay FC</title>
-    </programme>
     <programme start="20250622020000 +0000" stop="20250622043000 +0000" channel="Optus Sport 406.optus">
         <title>NWSL - Portland Thorns FC v Chicago Stars</title>
     </programme>

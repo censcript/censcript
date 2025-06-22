@@ -3085,7 +3085,7 @@
 <programme start="20250622134000 +0000" stop="20250622140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20250622140000 +0000" stop="20250622180000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250622140000 +0000" stop="20250622200000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 1. Tag</title>
 </programme>
 <programme start="20250622144000 +0000" stop="20250622150000 +0000" channel="Sky Sport 3 HD.skyde">
