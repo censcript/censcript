@@ -1,6 +1,3 @@
-    <programme start="20250622020000 +0000" stop="20250622043000 +0000" channel="Optus Sport 406.optus">
-        <title>NWSL - Portland Thorns FC v Chicago Stars</title>
-    </programme>
     <programme start="20250622092500 +0000" stop="20250622114000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Gamba v FC Tokyo</title>
     </programme>
