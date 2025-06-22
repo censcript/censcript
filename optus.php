@@ -1,9 +1,3 @@
-    <programme start="20250622092500 +0000" stop="20250622114000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Gamba v FC Tokyo</title>
-    </programme>
-    <programme start="20250622095000 +0000" stop="20250622121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Gwangju v Daejeon</title>
-    </programme>
     <programme start="20250623020000 +0000" stop="20250623043000 +0000" channel="Optus Sport 407.optus">
         <title>NWSL - San Diego Wave FC v Washington Spirit</title>
     </programme>
