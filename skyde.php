@@ -2524,17 +2524,8 @@
 <programme start="20250622214000 +0000" stop="20250622223500 +0000" channel="Sky Showcase HD.skyde">
     <title>Sri Lanka - Die Monsun-Insel</title>
 </programme>
-<programme start="20250621221500 +0000" stop="20250622001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250621233000 +0000" stop="20250622013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: A. Zverev (GER) - D. Medvedev, Terra Wortmann Open in Halle, Halbfinale 1</title>
-</programme>
-<programme start="20250622001500 +0000" stop="20250622004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Austria - Mattersburg (2012/2013)</title>
-</programme>
-<programme start="20250622004000 +0000" stop="20250622010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Salzburg - Sturm (2012/2013)</title>
-</programme>
-<programme start="20250622010000 +0000" stop="20250622013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
 </programme>
 <programme start="20250622013000 +0000" stop="20250622033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: A. Bublik (KAZ) - K. Khachanov, Terra Wortmann Open in Halle, Halbfinale 2</title>
@@ -2561,19 +2552,19 @@
     <title>ATP 500: A. Bublik (KAZ) - K. Khachanov, Terra Wortmann Open in Halle, Halbfinale 2</title>
 </programme>
 <programme start="20250622103000 +0000" stop="20250622130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Topspiel, Terra Wortmann Open in Halle, Doppelfinale</title>
+    <title>Live ATP 500: K. Krawietz (GER) / T. Puetz (GER) - S. Bolelli (ITA) / A. Vavassori (ITA), Terra Wortmann Open in Halle, Doppelfinale</title>
 </programme>
 <programme start="20250622130000 +0000" stop="20250622153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: Topspiel, Terra Wortmann Open in Halle, Finale</title>
+    <title>Live ATP 500: A. Bublik (KAZ) - D. Medvedev, Terra Wortmann Open in Halle, Finale</title>
 </programme>
 <programme start="20250622153000 +0000" stop="20250622154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
 </programme>
 <programme start="20250622154500 +0000" stop="20250622181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, Finale</title>
+    <title>ATP 500: A. Bublik (KAZ) - D. Medvedev, Terra Wortmann Open in Halle, Finale</title>
 </programme>
 <programme start="20250622181500 +0000" stop="20250622201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, Doppelfinale</title>
+    <title>ATP 500: K. Krawietz (GER) / T. Puetz (GER) - S. Bolelli (ITA) / A. Vavassori (ITA), Terra Wortmann Open in Halle, Doppelfinale</title>
 </programme>
 <programme start="20250622201500 +0000" stop="20250622204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
@@ -2980,35 +2971,38 @@
 <programme start="20250622210000 +0000" stop="20250622220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Peter Schmeichel)</title>
 </programme>
-<programme start="20250621220000 +0000" stop="20250622000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250621221500 +0000" stop="20250621235000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: X. Wang (CHN) - L. Samsonova, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
 </programme>
-<programme start="20250622000000 +0000" stop="20250622010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250621235000 +0000" stop="20250622003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250622010000 +0000" stop="20250622020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250622003000 +0000" stop="20250622012500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
 </programme>
-<programme start="20250622020000 +0000" stop="20250622040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250622012500 +0000" stop="20250622032500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Draper (GBR) - J. Lehecka (CZE), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20250622040000 +0000" stop="20250622060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250622032500 +0000" stop="20250622051000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - R. Bautista Agut (ESP), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
-<programme start="20250622060000 +0000" stop="20250622080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250622051000 +0000" stop="20250622064500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: X. Wang (CHN) - L. Samsonova, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
+</programme>
+<programme start="20250622064500 +0000" stop="20250622082000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Vondrousova (CZE) - A. Sabalenka, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 1</title>
 </programme>
-<programme start="20250622080000 +0000" stop="20250622100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250622082000 +0000" stop="20250622100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: X. Wang (CHN) - L. Samsonova, BERLIN TENNIS OPEN by HYLO in Berlin, Halbfinale 2</title>
 </programme>
 <programme start="20250622100000 +0000" stop="20250622180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Finale, ATP London &amp; WTA Berlin</title>
+    <title>Live ATP &amp; WTA: Finals, ATP London &amp; WTA Berlin</title>
 </programme>
 <programme start="20250622180000 +0000" stop="20250622203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
+    <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
 <programme start="20250622203000 +0000" stop="20250622230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, HSBC Championships in London (GBR), Finale</title>
+    <title>ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20250621223000 +0000" stop="20250621233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Italien</title>
@@ -3041,7 +3035,7 @@
     <title>Live MotoGP: Rennen - GP Italien</title>
 </programme>
 <programme start="20250622133000 +0000" stop="20250622153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Finale, ATP London &amp; WTA Berlin</title>
+    <title>Live ATP &amp; WTA: Finals, ATP London &amp; WTA Berlin</title>
 </programme>
 <programme start="20250622153000 +0000" stop="20250622173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 4. Tag in Frisco, TX (USA)</title>
@@ -3071,16 +3065,16 @@
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
 <programme start="20250622100000 +0000" stop="20250622123000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Finale, BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
+    <title>Live WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
 <programme start="20250622123000 +0000" stop="20250622130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250622130000 +0000" stop="20250622153000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 500: Finale, HSBC Championships in London (GBR), Finale</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250622153000 +0000" stop="20250622180000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 500: Doppelfinale, HSBC Championships in London (GBR), Doppelfinale</title>
+<programme start="20250622153000 +0000" stop="20250622200000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 500: N. Mektic (CRO) / M. Venus (NZL) - J. Cash (GBR) / L. Glasspool (GBR), HSBC Championships in London (GBR), Doppelfinale</title>
 </programme>
 <programme start="20250622134000 +0000" stop="20250622140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>WTA: Es folgt</title>
@@ -3091,7 +3085,7 @@
 <programme start="20250622144000 +0000" stop="20250622150000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf</title>
 </programme>
-<programme start="20250622150000 +0000" stop="20250622220000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250622150000 +0000" stop="20250622230000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live LPGA: KPMG Women&#039;s PGA Championship, 4. Tag in Frisco, TX (USA)</title>
 </programme>
 <programme start="20250621221500 +0000" stop="20250621235000 +0000" channel="SYFY HD.skyde">

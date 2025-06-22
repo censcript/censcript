@@ -3721,8 +3721,201 @@
 <programme start="20250622160000 +0000" stop="20250622163000 +0000" channel="FOX News.mncvision">
     <title>Fox News Live</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250621170000 +0000" stop="20250621171300 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621171300 +0000" stop="20250621171500 +0000" channel="France 24 English.mncvision">
+    <title>Introduction We (L)</title>
+</programme>
+<programme start="20250621171500 +0000" stop="20250621173000 +0000" channel="France 24 English.mncvision">
+    <title>Talking Europe, Pt 1</title>
+</programme>
+<programme start="20250621173000 +0000" stop="20250621174300 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250621174300 +0000" stop="20250621174500 +0000" channel="France 24 English.mncvision">
+    <title>Introduction We (L)</title>
+</programme>
+<programme start="20250621174500 +0000" stop="20250621180000 +0000" channel="France 24 English.mncvision">
+    <title>Talking Europe, Pt 2</title>
+</programme>
+<programme start="20250621180000 +0000" stop="20250621181500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621181500 +0000" stop="20250621181600 +0000" channel="France 24 English.mncvision">
+    <title>Introduction We (L)</title>
+</programme>
+<programme start="20250621181600 +0000" stop="20250621182200 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20250621182200 +0000" stop="20250621183000 +0000" channel="France 24 English.mncvision">
+    <title>Focus</title>
+</programme>
+<programme start="20250621183000 +0000" stop="20250621184500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250621184500 +0000" stop="20250621184600 +0000" channel="France 24 English.mncvision">
+    <title>Introduction We (L)</title>
+</programme>
+<programme start="20250621184600 +0000" stop="20250621190000 +0000" channel="France 24 English.mncvision">
+    <title>France In Focus</title>
+</programme>
+<programme start="20250621190000 +0000" stop="20250621191500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621191500 +0000" stop="20250621192100 +0000" channel="France 24 English.mncvision">
+    <title>Global Grid (L)</title>
+</programme>
+<programme start="20250621192100 +0000" stop="20250621193000 +0000" channel="France 24 English.mncvision">
+    <title>Sports Saturday (L)</title>
+</programme>
+<programme start="20250621193000 +0000" stop="20250621194500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621194500 +0000" stop="20250621200000 +0000" channel="France 24 English.mncvision">
+    <title>A Week In France</title>
+</programme>
+<programme start="20250621200000 +0000" stop="20250621201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621201500 +0000" stop="20250621203000 +0000" channel="France 24 English.mncvision">
+    <title>Reporters</title>
+</programme>
+<programme start="20250621203000 +0000" stop="20250621204500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621204500 +0000" stop="20250621210000 +0000" channel="France 24 English.mncvision">
+    <title>The Reporter&#039;s Week</title>
+</programme>
+<programme start="20250621210000 +0000" stop="20250621211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621211500 +0000" stop="20250621211600 +0000" channel="France 24 English.mncvision">
+    <title>Introduction We (L)</title>
+</programme>
+<programme start="20250621211600 +0000" stop="20250621213000 +0000" channel="France 24 English.mncvision">
+    <title>Sports Saturday (L)</title>
+</programme>
+<programme start="20250621213000 +0000" stop="20250621214500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250621214500 +0000" stop="20250621214600 +0000" channel="France 24 English.mncvision">
+    <title>Introduction We (L)</title>
+</programme>
+<programme start="20250621214600 +0000" stop="20250621220000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20250621220000 +0000" stop="20250621221500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621221500 +0000" stop="20250621222100 +0000" channel="France 24 English.mncvision">
+    <title>French Connections</title>
+</programme>
+<programme start="20250621222100 +0000" stop="20250621223000 +0000" channel="France 24 English.mncvision">
+    <title>Fashion</title>
+</programme>
+<programme start="20250621223000 +0000" stop="20250621224500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250621224500 +0000" stop="20250621230000 +0000" channel="France 24 English.mncvision">
+    <title>Tete A Tete</title>
+</programme>
+<programme start="20250621230000 +0000" stop="20250621231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250621231500 +0000" stop="20250621232100 +0000" channel="France 24 English.mncvision">
+    <title>The Observers</title>
+</programme>
+<programme start="20250621232100 +0000" stop="20250621233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus</title>
+</programme>
+<programme start="20250621233000 +0000" stop="20250621234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250621234500 +0000" stop="20250622000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20250622000000 +0000" stop="20250622001200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250622001200 +0000" stop="20250622003000 +0000" channel="France 24 English.mncvision">
+    <title>Paris Des Arts</title>
+</programme>
+<programme start="20250622003000 +0000" stop="20250622004200 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250622004200 +0000" stop="20250622010000 +0000" channel="France 24 English.mncvision">
+    <title>Across Africa</title>
+</programme>
+<programme start="20250622010000 +0000" stop="20250622011500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250622011500 +0000" stop="20250622013000 +0000" channel="France 24 English.mncvision">
+    <title>People &amp; Profit</title>
+</programme>
+<programme start="20250622013000 +0000" stop="20250622014500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250622014500 +0000" stop="20250622020000 +0000" channel="France 24 English.mncvision">
+    <title>The 51%</title>
+</programme>
+<programme start="20250622020000 +0000" stop="20250622021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250622021500 +0000" stop="20250622023000 +0000" channel="France 24 English.mncvision">
+    <title>Reporters</title>
+</programme>
+<programme start="20250622023000 +0000" stop="20250622024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250622024500 +0000" stop="20250622031500 +0000" channel="France 24 English.mncvision">
+    <title>A Week In France</title>
+</programme>
+<programme start="20250621180500 +0000" stop="20250621194500 +0000" channel="Galaxy.mncvision">
+    <title>Dead Awake</title>
+</programme>
+<programme start="20250621194500 +0000" stop="20250621212500 +0000" channel="Galaxy.mncvision">
+    <title>The Calling</title>
+</programme>
+<programme start="20250621212500 +0000" stop="20250621230000 +0000" channel="Galaxy.mncvision">
+    <title>After Ever Happy</title>
+</programme>
+<programme start="20250621230000 +0000" stop="20250622003000 +0000" channel="Galaxy.mncvision">
+    <title>Shock And Awe</title>
+</programme>
+<programme start="20250622003000 +0000" stop="20250622021000 +0000" channel="Galaxy.mncvision">
+    <title>Code Name: Geronimo</title>
+</programme>
+<programme start="20250622021000 +0000" stop="20250622034500 +0000" channel="Galaxy.mncvision">
+    <title>The Call</title>
+</programme>
+<programme start="20250622034500 +0000" stop="20250622052000 +0000" channel="Galaxy.mncvision">
+    <title>Walk Of Shame</title>
+</programme>
+<programme start="20250622052000 +0000" stop="20250622065000 +0000" channel="Galaxy.mncvision">
+    <title>Missionary</title>
+</programme>
+<programme start="20250622065000 +0000" stop="20250622085500 +0000" channel="Galaxy.mncvision">
+    <title>The Journey Is The Destination</title>
+</programme>
+<programme start="20250622085500 +0000" stop="20250622103000 +0000" channel="Galaxy.mncvision">
+    <title>Faster</title>
+</programme>
+<programme start="20250622103000 +0000" stop="20250622120000 +0000" channel="Galaxy.mncvision">
+    <title>Cursed</title>
+</programme>
+<programme start="20250622120000 +0000" stop="20250622133500 +0000" channel="Galaxy.mncvision">
+    <title>The Perfect Guy</title>
+</programme>
+<programme start="20250622133500 +0000" stop="20250622150500 +0000" channel="Galaxy.mncvision">
+    <title>Sniper: Ultimate Kill</title>
+</programme>
+<programme start="20250622150500 +0000" stop="20250622163000 +0000" channel="Galaxy.mncvision">
+    <title>Riot</title>
+</programme>
+<programme start="20250622163000 +0000" stop="20250621170000 +0000" channel="Galaxy.mncvision">
+    <title>Outlaws And Angels</title>
+</programme>
 <programme start="20250621184500 +0000" stop="20250621204000 +0000" channel="Galaxy Premium.mncvision">
     <title>Roman J. Israel, Esq.</title>
 </programme>
@@ -3759,7 +3952,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250622154500 +0000" stop="20250622161500 +0000" channel="Galaxy Premium.mncvision">
     <title>Jack Ryan: Shadow Recruit</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250621171000 +0000" stop="20250621180000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20250621180000 +0000" stop="20250621185000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20250621185000 +0000" stop="20250621194000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20250621194000 +0000" stop="20250621203000 +0000" channel="Global Trekker.mncvision">
+    <title>Battle Of Okinawa In Color</title>
+</programme>
+<programme start="20250621203000 +0000" stop="20250621211500 +0000" channel="Global Trekker.mncvision">
+    <title>Race To Victory: WWII Europe</title>
+</programme>
+<programme start="20250621211500 +0000" stop="20250621220000 +0000" channel="Global Trekker.mncvision">
+    <title>Race To Victory: WWII Pacific</title>
+</programme>
+<programme start="20250621220000 +0000" stop="20250621225000 +0000" channel="Global Trekker.mncvision">
+    <title>Edge Of Existence, Ep 1</title>
+</programme>
+<programme start="20250621225000 +0000" stop="20250621234000 +0000" channel="Global Trekker.mncvision">
+    <title>Edge Of Existence, Ep 2</title>
+</programme>
+<programme start="20250621234000 +0000" stop="20250622003000 +0000" channel="Global Trekker.mncvision">
+    <title>Edge Of Existence, Ep 3</title>
+</programme>
+<programme start="20250622003000 +0000" stop="20250622005500 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 3</title>
+</programme>
+<programme start="20250622005500 +0000" stop="20250622012000 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 4</title>
+</programme>
+<programme start="20250622012000 +0000" stop="20250622014500 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 5</title>
+</programme>
+<programme start="20250622014500 +0000" stop="20250622021000 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 6</title>
+</programme>
+<programme start="20250622021000 +0000" stop="20250622023500 +0000" channel="Global Trekker.mncvision">
+    <title>Extraordinary Dogs, Ep 3</title>
+</programme>
+<programme start="20250622023500 +0000" stop="20250622033000 +0000" channel="Global Trekker.mncvision">
+    <title>Iberia&#039;s Woodlands, Ep 1</title>
+</programme>
+<programme start="20250622033000 +0000" stop="20250622042000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival S2, Ep 3</title>
+</programme>
+<programme start="20250622042000 +0000" stop="20250622051000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival S2, Ep 4</title>
+</programme>
+<programme start="20250622051000 +0000" stop="20250622061500 +0000" channel="Global Trekker.mncvision">
+    <title>Muhammad Ali: The Greatest</title>
+</programme>
+<programme start="20250622061500 +0000" stop="20250622071500 +0000" channel="Global Trekker.mncvision">
+    <title>John Cena: Champion Of The Ring</title>
+</programme>
+<programme start="20250622071500 +0000" stop="20250622080000 +0000" channel="Global Trekker.mncvision">
+    <title>The Rock: Moving Mountains</title>
+</programme>
+<programme start="20250622080000 +0000" stop="20250622091000 +0000" channel="Global Trekker.mncvision">
+    <title>Manny Pacquiao: Unstoppable...</title>
+</programme>
+<programme start="20250622091000 +0000" stop="20250622094000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour SIN, Ep 8</title>
+</programme>
+<programme start="20250622094000 +0000" stop="20250622103000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20250622103000 +0000" stop="20250622112000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20250622112000 +0000" stop="20250622121000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 5</title>
+</programme>
+<programme start="20250622121000 +0000" stop="20250622130000 +0000" channel="Global Trekker.mncvision">
+    <title>Evolving Vegan S2, Ep 6</title>
+</programme>
+<programme start="20250622130000 +0000" stop="20250622140500 +0000" channel="Global Trekker.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 2</title>
+</programme>
+<programme start="20250622140500 +0000" stop="20250622145500 +0000" channel="Global Trekker.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 3</title>
+</programme>
+<programme start="20250622145500 +0000" stop="20250622154500 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 1</title>
+</programme>
+<programme start="20250622154500 +0000" stop="20250622163500 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 2</title>
+</programme>
+<programme start="20250622163500 +0000" stop="20250621170500 +0000" channel="Global Trekker.mncvision">
+    <title>Aging In The Wild, Ep 3</title>
+</programme>
 <programme start="20250621171000 +0000" stop="20250621180000 +0000" channel="Global Trekker HD.mncvision">
     <title>Evolving Vegan S2, Ep 6</title>
 </programme>
