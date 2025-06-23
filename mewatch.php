@@ -424,23 +424,20 @@
     <programme start="20250623110000 +0000" stop="20250623120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 16</title>
     </programme>
-    <programme start="20250623120000 +0000" stop="20250623123000 +0000" channel="Suria.mewatch">
+    <programme start="20250623120000 +0000" stop="20250623123019 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250623123000 +0000" stop="20250623133000 +0000" channel="Suria.mewatch">
+    <programme start="20250623123019 +0000" stop="20250623133005 +0000" channel="Suria.mewatch">
         <title>Manja S10 - EP 8</title>
     </programme>
-    <programme start="20250623133000 +0000" stop="20250623143000 +0000" channel="Suria.mewatch">
+    <programme start="20250623133005 +0000" stop="20250623143006 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 11</title>
     </programme>
-    <programme start="20250623143000 +0000" stop="20250623153000 +0000" channel="Suria.mewatch">
+    <programme start="20250623143006 +0000" stop="20250623153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 17</title>
     </programme>
-    <programme start="20250623153000 +0000" stop="20250623160000 +0000" channel="Suria.mewatch">
+    <programme start="20250623153000 +0000" stop="20250623160009 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250623160000 +0000" stop="20250624010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250622140000 +0000" stop="20250622163000 +0000" channel="Vasantham.mewatch">
         <title>Nandhi Varman</title>
