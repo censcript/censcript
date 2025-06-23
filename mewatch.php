@@ -1,22 +1,22 @@
-    <programme start="20250622143024 +0000" stop="20250622164523 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622142954 +0000" stop="20250622164453 +0000" channel="Channel 5.mewatch">
         <title>How to be a Latin Lover</title>
     </programme>
-    <programme start="20250622164523 +0000" stop="20250622170509 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622164453 +0000" stop="20250622170439 +0000" channel="Channel 5.mewatch">
         <title>Hoarders S12 - EP 18</title>
     </programme>
-    <programme start="20250622170509 +0000" stop="20250622175518 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622170439 +0000" stop="20250622175448 +0000" channel="Channel 5.mewatch">
         <title>Domino Masters - EP 9</title>
     </programme>
-    <programme start="20250622175518 +0000" stop="20250622184506 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622175448 +0000" stop="20250622184436 +0000" channel="Channel 5.mewatch">
         <title>Modern Marvels: Food - EP 7</title>
     </programme>
-    <programme start="20250622184506 +0000" stop="20250622194505 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622184436 +0000" stop="20250622194435 +0000" channel="Channel 5.mewatch">
         <title>The Great Canadian Baking Show Series 5 - EP 6</title>
     </programme>
-    <programme start="20250622194505 +0000" stop="20250622204022 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622194435 +0000" stop="20250622204023 +0000" channel="Channel 5.mewatch">
         <title>Expedition With Steve Backshall - Series 2 - EP 6</title>
     </programme>
-    <programme start="20250622204022 +0000" stop="20250622220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250622204023 +0000" stop="20250622220000 +0000" channel="Channel 5.mewatch">
         <title>Survivor 45 - EP 10</title>
     </programme>
     <programme start="20250622220000 +0000" stop="20250622221551 +0000" channel="Channel 5.mewatch">
@@ -160,19 +160,19 @@
     <programme start="20250622155941 +0000" stop="20250622165912 +0000" channel="Channel 8.mewatch">
         <title>Game Plan - EP 5</title>
     </programme>
-    <programme start="20250622165912 +0000" stop="20250622180001 +0000" channel="Channel 8.mewatch">
+    <programme start="20250622165905 +0000" stop="20250622175959 +0000" channel="Channel 8.mewatch">
         <title>Game Plan - EP 6</title>
     </programme>
-    <programme start="20250622180001 +0000" stop="20250622190000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250622175959 +0000" stop="20250622185958 +0000" channel="Channel 8.mewatch">
         <title>Rhapsody In Blue - EP 11</title>
     </programme>
-    <programme start="20250622190000 +0000" stop="20250622195952 +0000" channel="Channel 8.mewatch">
+    <programme start="20250622185958 +0000" stop="20250622195953 +0000" channel="Channel 8.mewatch">
         <title>Rhapsody In Blue - EP 12</title>
     </programme>
-    <programme start="20250622195952 +0000" stop="20250622205957 +0000" channel="Channel 8.mewatch">
+    <programme start="20250622195953 +0000" stop="20250622205958 +0000" channel="Channel 8.mewatch">
         <title>My Buddy - EP 1</title>
     </programme>
-    <programme start="20250622205957 +0000" stop="20250622220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250622205958 +0000" stop="20250622220000 +0000" channel="Channel 8.mewatch">
         <title>My Buddy - EP 2</title>
     </programme>
     <programme start="20250622220000 +0000" stop="20250622225919 +0000" channel="Channel 8.mewatch">
@@ -265,13 +265,13 @@
     <programme start="20250623160000 +0000" stop="20250623170000 +0000" channel="Channel 8.mewatch">
         <title>Lost You Forever - EP 4</title>
     </programme>
-    <programme start="20250622153024 +0000" stop="20250622163012 +0000" channel="Channel U.mewatch">
+    <programme start="20250622153006 +0000" stop="20250622163002 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 4</title>
     </programme>
-    <programme start="20250622163012 +0000" stop="20250622180005 +0000" channel="Channel U.mewatch">
+    <programme start="20250622163002 +0000" stop="20250622175955 +0000" channel="Channel U.mewatch">
         <title>Show It All - EP 2</title>
     </programme>
-    <programme start="20250622180005 +0000" stop="20250622220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250622175955 +0000" stop="20250622220000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 2</title>
     </programme>
     <programme start="20250622220000 +0000" stop="20250623025811 +0000" channel="Channel U.mewatch">
@@ -448,13 +448,13 @@
     <programme start="20250623160000 +0000" stop="20250624010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250622140004 +0000" stop="20250622163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250622140000 +0000" stop="20250622163000 +0000" channel="Vasantham.mewatch">
         <title>Nandhi Varman</title>
     </programme>
-    <programme start="20250622163000 +0000" stop="20250622170158 +0000" channel="Vasantham.mewatch">
+    <programme start="20250622163000 +0000" stop="20250622170157 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250622170158 +0000" stop="20250623010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250622170157 +0000" stop="20250623010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250623010000 +0000" stop="20250623013002 +0000" channel="Vasantham.mewatch">

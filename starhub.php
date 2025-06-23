@@ -2924,22 +2924,37 @@
         <title>Naane Varuvean</title>
     </programme>
     <programme start="20250622233000 +0000" stop="20250623000000 +0000" channel="Zee Tamil.starhub">
-        <title>Lakshmi Kalyanam</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250623000000 +0000" stop="20250623003000 +0000" channel="Zee Tamil.starhub">
-        <title>Sembaruthi</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
-    <programme start="20250623003000 +0000" stop="20250623033000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20250623003000 +0000" stop="20250623010000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20250623010000 +0000" stop="20250623013000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20250623013000 +0000" stop="20250623020000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20250623020000 +0000" stop="20250623023000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20250623023000 +0000" stop="20250623030000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
+    </programme>
+    <programme start="20250623030000 +0000" stop="20250623033000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Pattathu Yanai</title>
     </programme>
     <programme start="20250623033000 +0000" stop="20250623040000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
     <programme start="20250623040000 +0000" stop="20250623043000 +0000" channel="Zee Tamil.starhub">
-        <title>Gettimelam</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250623043000 +0000" stop="20250623050000 +0000" channel="Zee Tamil.starhub">
-        <title>Gettimelam</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250623050000 +0000" stop="20250623053000 +0000" channel="Zee Tamil.starhub">
         <title>Mounam Pesiyathey</title>
@@ -2947,20 +2962,17 @@
     <programme start="20250623053000 +0000" stop="20250623060000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
-    <programme start="20250623060000 +0000" stop="20250623063000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Bruce Lee</title>
+    <programme start="20250623060000 +0000" stop="20250623090000 +0000" channel="Zee Tamil.starhub">
+        <title>Nenjam Marappathillai</title>
     </programme>
-    <programme start="20250623063000 +0000" stop="20250623090000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20250623090000 +0000" stop="20250623093000 +0000" channel="Zee Tamil.starhub">
+        <title>Maari</title>
     </programme>
-    <programme start="20250623090000 +0000" stop="20250623094500 +0000" channel="Zee Tamil.starhub">
-        <title>Lakshmi Kalyanam</title>
-    </programme>
-    <programme start="20250623094500 +0000" stop="20250623100000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250623093000 +0000" stop="20250623100000 +0000" channel="Zee Tamil.starhub">
         <title>Maari</title>
     </programme>
     <programme start="20250623100000 +0000" stop="20250623103000 +0000" channel="Zee Tamil.starhub">
-        <title>Veera</title>
+        <title>Mounam Pesiyathey</title>
     </programme>
     <programme start="20250623103000 +0000" stop="20250623110000 +0000" channel="Zee Tamil.starhub">
         <title>Gettimelam</title>
@@ -2968,35 +2980,35 @@
     <programme start="20250623110000 +0000" stop="20250623113000 +0000" channel="Zee Tamil.starhub">
         <title>Gettimelam</title>
     </programme>
-    <programme start="20250623113000 +0000" stop="20250623121500 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250623113000 +0000" stop="20250623120000 +0000" channel="Zee Tamil.starhub">
         <title>Anna</title>
     </programme>
-    <programme start="20250623121500 +0000" stop="20250623130000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250623120000 +0000" stop="20250623123000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
+    </programme>
+    <programme start="20250623123000 +0000" stop="20250623130000 +0000" channel="Zee Tamil.starhub">
+        <title>Ayali</title>
+    </programme>
+    <programme start="20250623130000 +0000" stop="20250623134500 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623133000 +0000" channel="Zee Tamil.starhub">
-        <title>Manasellam</title>
-    </programme>
-    <programme start="20250623133000 +0000" stop="20250623134500 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
-    </programme>
     <programme start="20250623134500 +0000" stop="20250623140000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
-    </programme>
-    <programme start="20250623140000 +0000" stop="20250623141500 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250623141500 +0000" stop="20250623143000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250623140000 +0000" stop="20250623143000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
     <programme start="20250623143000 +0000" stop="20250623144500 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+        <title>Idhayam</title>
     </programme>
     <programme start="20250623144500 +0000" stop="20250623150000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20250623150000 +0000" stop="20250623151500 +0000" channel="Zee Tamil.starhub">
         <title>Ninaithale Inikkum</title>
     </programme>
-    <programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
+    <programme start="20250623151500 +0000" stop="20250623153000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
     </programme>
     <programme start="20250623153000 +0000" stop="20250623160000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
