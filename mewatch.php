@@ -238,29 +238,26 @@
     <programme start="20250623093321 +0000" stop="20250623103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 44</title>
     </programme>
-    <programme start="20250623103000 +0000" stop="20250623113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623103000 +0000" stop="20250623112919 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 60</title>
     </programme>
-    <programme start="20250623113000 +0000" stop="20250623120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623112919 +0000" stop="20250623120013 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 10</title>
     </programme>
-    <programme start="20250623120000 +0000" stop="20250623130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623120013 +0000" stop="20250623130011 +0000" channel="Channel 8.mewatch">
         <title>Forbidding No More S3 - EP 7</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623130011 +0000" stop="20250623140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 23</title>
     </programme>
-    <programme start="20250623140000 +0000" stop="20250623143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623140000 +0000" stop="20250623143054 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250623143000 +0000" stop="20250623150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623143054 +0000" stop="20250623150130 +0000" channel="Channel 8.mewatch">
         <title>Connecting Earth and Sky - EP 8</title>
     </programme>
-    <programme start="20250623150000 +0000" stop="20250623160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250623150130 +0000" stop="20250623160119 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 21</title>
-    </programme>
-    <programme start="20250623160000 +0000" stop="20250623170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 4</title>
     </programme>
     <programme start="20250622153006 +0000" stop="20250622163002 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 4</title>
@@ -361,22 +358,22 @@
     <programme start="20250623095847 +0000" stop="20250623110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 9</title>
     </programme>
-    <programme start="20250623110000 +0000" stop="20250623120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250623110000 +0000" stop="20250623115957 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 48</title>
     </programme>
-    <programme start="20250623120000 +0000" stop="20250623130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250623115957 +0000" stop="20250623125924 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 49</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250623125924 +0000" stop="20250623135835 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 2</title>
     </programme>
-    <programme start="20250623140000 +0000" stop="20250623150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250623135835 +0000" stop="20250623150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 33</title>
     </programme>
-    <programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250623150000 +0000" stop="20250623153114 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250623153000 +0000" stop="20250623163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250623153114 +0000" stop="20250623163124 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 2</title>
     </programme>
     <programme start="20250622153000 +0000" stop="20250622160043 +0000" channel="Suria.mewatch">
@@ -481,28 +478,28 @@
     <programme start="20250623080007 +0000" stop="20250623110000 +0000" channel="Vasantham.mewatch">
         <title>Azhagarsamy</title>
     </programme>
-    <programme start="20250623110000 +0000" stop="20250623120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623110000 +0000" stop="20250623115957 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary S2 - EP 6</title>
     </programme>
-    <programme start="20250623120000 +0000" stop="20250623123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623115957 +0000" stop="20250623123000 +0000" channel="Vasantham.mewatch">
         <title>Neo - EP 24</title>
     </programme>
-    <programme start="20250623123000 +0000" stop="20250623130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623123000 +0000" stop="20250623125959 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623125959 +0000" stop="20250623133000 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 18</title>
     </programme>
-    <programme start="20250623133000 +0000" stop="20250623140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623133000 +0000" stop="20250623135959 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 1</title>
     </programme>
-    <programme start="20250623140000 +0000" stop="20250623143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623135959 +0000" stop="20250623142957 +0000" channel="Vasantham.mewatch">
         <title>Maiyam - EP 15</title>
     </programme>
-    <programme start="20250623143000 +0000" stop="20250623150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623142957 +0000" stop="20250623145957 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 16</title>
     </programme>
-    <programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250623145957 +0000" stop="20250623153000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 3</title>
     </programme>
     <programme start="20250623153000 +0000" stop="20250623160226 +0000" channel="Vasantham.mewatch">
@@ -574,26 +571,23 @@
     <programme start="20250623095958 +0000" stop="20250623110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250623110000 +0000" stop="20250623113000 +0000" channel="CNA.mewatch">
+    <programme start="20250623110000 +0000" stop="20250623113001 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 8</title>
     </programme>
-    <programme start="20250623113000 +0000" stop="20250623120000 +0000" channel="CNA.mewatch">
+    <programme start="20250623113001 +0000" stop="20250623120003 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 6</title>
     </programme>
-    <programme start="20250623120000 +0000" stop="20250623130000 +0000" channel="CNA.mewatch">
+    <programme start="20250623120003 +0000" stop="20250623130003 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623140000 +0000" channel="CNA.mewatch">
+    <programme start="20250623130003 +0000" stop="20250623140002 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 3</title>
     </programme>
-    <programme start="20250623140000 +0000" stop="20250623150000 +0000" channel="CNA.mewatch">
+    <programme start="20250623140002 +0000" stop="20250623150002 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250623150000 +0000" stop="20250623160000 +0000" channel="CNA.mewatch">
+    <programme start="20250623150002 +0000" stop="20250623160002 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 2</title>
-    </programme>
-    <programme start="20250623160000 +0000" stop="20250623160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250622155959 +0000" stop="20250622170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
