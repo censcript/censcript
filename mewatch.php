@@ -136,10 +136,10 @@
     <programme start="20250623110055 +0000" stop="20250623113009 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7909</title>
     </programme>
-    <programme start="20250623113009 +0000" stop="20250623123002 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623113009 +0000" stop="20250623123013 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 13</title>
     </programme>
-    <programme start="20250623123002 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623123013 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 87</title>
     </programme>
     <programme start="20250623130000 +0000" stop="20250623133004 +0000" channel="Channel 5.mewatch">
@@ -535,10 +535,10 @@
     <programme start="20250622193003 +0000" stop="20250622200000 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 6</title>
     </programme>
-    <programme start="20250622200000 +0000" stop="20250622210002 +0000" channel="CNA.mewatch">
+    <programme start="20250622200000 +0000" stop="20250622205958 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250622210002 +0000" stop="20250622220000 +0000" channel="CNA.mewatch">
+    <programme start="20250622205958 +0000" stop="20250622220000 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 2</title>
     </programme>
     <programme start="20250622220000 +0000" stop="20250622222959 +0000" channel="CNA.mewatch">
