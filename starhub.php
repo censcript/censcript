@@ -2500,11 +2500,8 @@
     <programme start="20250622230000 +0000" stop="20250623000000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Semi Finals</title>
     </programme>
-    <programme start="20250623000000 +0000" stop="20250623023000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250623000000 +0000" stop="20250623030000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>NBA Playoffs 2025 Finals Game 7: Indiana Pacers vs Oklahoma City Thunder (Live)</title>
-    </programme>
-    <programme start="20250623023000 +0000" stop="20250623030000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Season 3, Episode 6 - Test Cricketer</title>
     </programme>
     <programme start="20250623030000 +0000" stop="20250623033000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 4: A Better Choice</title>
