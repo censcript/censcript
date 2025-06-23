@@ -4082,7 +4082,7 @@
         <title>News: Good Morning, Japan</title>
     </programme>
     <programme start="20250622230000 +0000" stop="20250622231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Anpan&quot; Week 61</title>
+        <title>Drama Serial &quot;Anpan&quot; Eps. 61</title>
     </programme>
     <programme start="20250622231500 +0000" stop="20250623005400 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
