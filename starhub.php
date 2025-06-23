@@ -4106,7 +4106,7 @@
         <title>City-Scope (R)</title>
     </programme>
     <programme start="20250623020500 +0000" stop="20250623025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama 10 &quot;The Great Passage: I&#039;ll Make a Dictionary&quot; Eps. 1 (New) (R)</title>
+        <title>Drama 10 &quot;The Great Passage: I&#039;ll Make a Dictionary&quot; Eps. 1（New） (R)</title>
     </programme>
     <programme start="20250623025000 +0000" stop="20250623025600 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
@@ -4117,16 +4117,16 @@
     <programme start="20250623030000 +0000" stop="20250623032000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250623032000 +0000" stop="20250623035000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623032000 +0000" stop="20250623035800 +0000" channel="NHK World Premium HD.starhub">
         <title>Memorial Service for the WWII Victims in Okinawa</title>
     </programme>
-    <programme start="20250623035000 +0000" stop="20250623040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Anpan&quot; Week 61 (R)</title>
+    <programme start="20250623035800 +0000" stop="20250623041300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Anpan&quot; Eps. 61 (R)</title>
     </programme>
-    <programme start="20250623040500 +0000" stop="20250623041000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623041300 +0000" stop="20250623041800 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250623041000 +0000" stop="20250623055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623041800 +0000" stop="20250623055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250623055000 +0000" stop="20250623055500 +0000" channel="NHK World Premium HD.starhub">
@@ -4187,7 +4187,7 @@
         <title>Today&#039;s Close-up</title>
     </programme>
     <programme start="20250623105700 +0000" stop="20250623114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>&quot;Takiuchi Kumi in Geisei Village, Kochi Prefecture&quot; Part 2</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Takiuchi Kumi in Geisei Village, Kochi Prefecture&quot;</title>
     </programme>
     <programme start="20250623114300 +0000" stop="20250623114500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -4195,17 +4195,14 @@
     <programme start="20250623114500 +0000" stop="20250623120000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 845</title>
     </programme>
-    <programme start="20250623120000 +0000" stop="20250623130000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623120000 +0000" stop="20250623133000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623134500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623133000 +0000" stop="20250623141500 +0000" channel="NHK World Premium HD.starhub">
         <title>The Fountain of Ancient Wisdom</title>
     </programme>
-    <programme start="20250623134500 +0000" stop="20250623140000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623141500 +0000" stop="20250623143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Aozora Beer&quot; Eps. 5</title>
-    </programme>
-    <programme start="20250623140000 +0000" stop="20250623143000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The Winning Meals of Great Historical Figures</title>
     </programme>
     <programme start="20250623143000 +0000" stop="20250623144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
@@ -4213,20 +4210,11 @@
     <programme start="20250623144000 +0000" stop="20250623144500 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20250623144500 +0000" stop="20250623152900 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623144500 +0000" stop="20250623154400 +0000" channel="NHK World Premium HD.starhub">
         <title>International News Report 2025</title>
     </programme>
-    <programme start="20250623152900 +0000" stop="20250623153000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250623154400 +0000" stop="20250623154500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
-    </programme>
-    <programme start="20250623153000 +0000" stop="20250623153500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
-    </programme>
-    <programme start="20250623153500 +0000" stop="20250623154000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
-    </programme>
-    <programme start="20250623154000 +0000" stop="20250623154500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
     </programme>
     <programme start="20250623154500 +0000" stop="20250623161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Child-Rearing Hints &amp; Tips</title>
@@ -7162,8 +7150,8 @@
     <programme start="20250623141500 +0000" stop="20250623153000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2024/25: Tottenham vs Liverpool 2024/25</title>
     </programme>
-    <programme start="20250623153000 +0000" stop="20250623163000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Valladolid P2 Day 1 Match 1</title>
+    <programme start="20250623153000 +0000" stop="20250623170000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Valladolid P2 Day 1 Match 1 (Live)</title>
     </programme>
     <programme start="20250622150000 +0000" stop="20250622162500 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven</title>
