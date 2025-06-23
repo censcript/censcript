@@ -163,6 +163,27 @@
     <programme start="20250727102500 +0000" stop="20250727124000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Avispa</title>
     </programme>
+    <programme start="20250802000000 +0000" stop="20250802023000 +0000" channel="Optus Sport 402.optus">
+        <title>NWSL - Racing Louisville FC v Kansas City Current</title>
+    </programme>
+    <programme start="20250802000000 +0000" stop="20250802023000 +0000" channel="Optus Sport 401.optus">
+        <title>NWSL - Chicago Stars v Gotham FC</title>
+    </programme>
+    <programme start="20250802023000 +0000" stop="20250802050000 +0000" channel="Optus Sport 403.optus">
+        <title>NWSL - Seattle Reign v Angel City FC</title>
+    </programme>
     <programme start="20250802095000 +0000" stop="20250802121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Ulsan v Suwon FC</title>
+    </programme>
+    <programme start="20250802233000 +0000" stop="20250803020000 +0000" channel="Optus Sport 404.optus">
+        <title>NWSL - North Carolina Courage v San Diego Wave FC</title>
+    </programme>
+    <programme start="20250803020000 +0000" stop="20250803043000 +0000" channel="Optus Sport 405.optus">
+        <title>NWSL - Bay FC v Houston Dash</title>
+    </programme>
+    <programme start="20250803163000 +0000" stop="20250803190000 +0000" channel="Optus Sport 406.optus">
+        <title>NWSL - Washington Spirit v Portland Thorns FC</title>
+    </programme>
+    <programme start="20250803220000 +0000" stop="20250804003000 +0000" channel="Optus Sport 407.optus">
+        <title>NWSL - Orlando Pride v Utah Royals FC</title>
     </programme>
