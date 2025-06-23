@@ -28,6 +28,9 @@
     <programme start="20250702170000 +0000" stop="20250702173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Manager Rivalries</title>
     </programme>
+    <programme start="20250702170000 +0000" stop="20250702173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Manager Rivalries</title>
+    </programme>
     <programme start="20250702185000 +0000" stop="20250702211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
     </programme>
@@ -78,6 +81,9 @@
     </programme>
     <programme start="20250709155000 +0000" stop="20250709181000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - England v Netherlands</title>
+    </programme>
+    <programme start="20250709170000 +0000" stop="20250709173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Claude Makelele</title>
     </programme>
     <programme start="20250709185000 +0000" stop="20250709211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - France v Wales</title>

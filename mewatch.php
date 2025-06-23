@@ -133,29 +133,26 @@
     <programme start="20250623103000 +0000" stop="20250623110055 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 174</title>
     </programme>
-    <programme start="20250623110055 +0000" stop="20250623113004 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623110055 +0000" stop="20250623113009 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7909</title>
     </programme>
-    <programme start="20250623113004 +0000" stop="20250623123008 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623113009 +0000" stop="20250623123013 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 13</title>
     </programme>
-    <programme start="20250623123008 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623123013 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 87</title>
     </programme>
-    <programme start="20250623130000 +0000" stop="20250623133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623130000 +0000" stop="20250623133004 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250623133000 +0000" stop="20250623140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623133004 +0000" stop="20250623140036 +0000" channel="Channel 5.mewatch">
         <title>Kumar Vs The World - EP 8</title>
     </programme>
-    <programme start="20250623140000 +0000" stop="20250623150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623140036 +0000" stop="20250623150011 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 12</title>
     </programme>
-    <programme start="20250623150000 +0000" stop="20250623160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623150011 +0000" stop="20250623160005 +0000" channel="Channel 5.mewatch">
         <title>Fire Country S2 - EP 4</title>
-    </programme>
-    <programme start="20250623160000 +0000" stop="20250623163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 87</title>
     </programme>
     <programme start="20250622155941 +0000" stop="20250622165912 +0000" channel="Channel 8.mewatch">
         <title>Game Plan - EP 5</title>

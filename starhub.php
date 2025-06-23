@@ -2182,23 +2182,20 @@
     <programme start="20250623000000 +0000" stop="20250623010000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNN/US)</title>
     </programme>
-    <programme start="20250623010000 +0000" stop="20250623020000 +0000" channel="CNN HD.starhub">
-        <title>Fareed Zakaria GPS</title>
+    <programme start="20250623010000 +0000" stop="20250623013000 +0000" channel="CNN HD.starhub">
+        <title>The Future of Food</title>
+    </programme>
+    <programme start="20250623013000 +0000" stop="20250623020000 +0000" channel="CNN HD.starhub">
+        <title>Cote d&#039;Ivoire Economy</title>
     </programme>
     <programme start="20250623020000 +0000" stop="20250623023000 +0000" channel="CNN HD.starhub">
         <title>MLS African Footballers</title>
     </programme>
-    <programme start="20250623023000 +0000" stop="20250623024500 +0000" channel="CNN HD.starhub">
-        <title>The Tech Revolutionizing Healthcare In Europe</title>
-    </programme>
-    <programme start="20250623024500 +0000" stop="20250623030000 +0000" channel="CNN HD.starhub">
-        <title>AI &amp; Robotics in Asia</title>
-    </programme>
-    <programme start="20250623030000 +0000" stop="20250623033000 +0000" channel="CNN HD.starhub">
+    <programme start="20250623023000 +0000" stop="20250623030000 +0000" channel="CNN HD.starhub">
         <title>Cape Flora (Part 2)</title>
     </programme>
-    <programme start="20250623033000 +0000" stop="20250623040000 +0000" channel="CNN HD.starhub">
-        <title>The Future of Food</title>
+    <programme start="20250623030000 +0000" stop="20250623040000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
     </programme>
     <programme start="20250623040000 +0000" stop="20250623044500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
@@ -2219,7 +2216,7 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20250623080000 +0000" stop="20250623090000 +0000" channel="CNN HD.starhub">
-        <title>The Amanpour Hour</title>
+        <title>Early Start</title>
     </programme>
     <programme start="20250623090000 +0000" stop="20250623100000 +0000" channel="CNN HD.starhub">
         <title>Early Start</title>
@@ -8443,10 +8440,10 @@
     <programme start="20250622233000 +0000" stop="20250623020000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025: Regular season Los Angeles Dodgers vs Washington Nationals</title>
     </programme>
-    <programme start="20250623020000 +0000" stop="20250623033000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250623020000 +0000" stop="20250623031500 +0000" channel="SPOTV2.starhub">
         <title>Rd8 Race</title>
     </programme>
-    <programme start="20250623033000 +0000" stop="20250623045500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250623031500 +0000" stop="20250623045500 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto3</title>
     </programme>
     <programme start="20250623045500 +0000" stop="20250623061000 +0000" channel="SPOTV2.starhub">
@@ -8473,7 +8470,7 @@
     <programme start="20250623142500 +0000" stop="20250623154000 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250623154000 +0000" stop="20250623173000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250623154000 +0000" stop="20250623180000 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
     </programme>
     <programme start="20250622153000 +0000" stop="20250622163000 +0000" channel="Dragon TV.starhub">

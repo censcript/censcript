@@ -400,44 +400,47 @@
 <programme start="20250623163000 +0000" stop="20250622170000 +0000" channel="Animax.mncvision">
     <title>My Love Story With..., Ep 7</title>
 </programme>
-<programme start="20250622190000 +0000" stop="20250622203000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250622170000 +0000" stop="20250622190000 +0000" channel="ANTV.mncvision">
+    <title>Nafsu Membara</title>
 </programme>
-<programme start="20250622203000 +0000" stop="20250622220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250622190000 +0000" stop="20250622210000 +0000" channel="ANTV.mncvision">
+    <title>Yeh Jawaani Hai Deewani</title>
+</programme>
+<programme start="20250622210000 +0000" stop="20250622220000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
 </programme>
 <programme start="20250622220000 +0000" stop="20250622230000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Senyum Iman</title>
 </programme>
 <programme start="20250622230000 +0000" stop="20250623010000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Duel: The Last Choice</title>
 </programme>
 <programme start="20250623010000 +0000" stop="20250623023000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250623023000 +0000" stop="20250623060000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Don 2</title>
 </programme>
 <programme start="20250623060000 +0000" stop="20250623081500 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Radha Mohan</title>
 </programme>
 <programme start="20250623081500 +0000" stop="20250623093000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Bhagya Lakshmi</title>
 </programme>
 <programme start="20250623093000 +0000" stop="20250623103000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Vaishno Devi</title>
 </programme>
 <programme start="20250623103000 +0000" stop="20250623120000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Imlie</title>
 </programme>
 <programme start="20250623120000 +0000" stop="20250623140000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
 <programme start="20250623140000 +0000" stop="20250623153000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250623153000 +0000" stop="20250623160000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>The Happy Ghost</title>
 </programme>
 <programme start="20250622170000 +0000" stop="20250622173000 +0000" channel="Arirang.mncvision">
     <title>Premium Collection</title>
@@ -1099,7 +1102,10 @@
 <programme start="20250623134500 +0000" stop="20250623150000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Classic: TOT Vs LIV</title>
 </programme>
-<programme start="20250623150000 +0000" stop="20250623163000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="beIN Sports 1.mncvision">
+    <title>GP Confidential 2025, Ep 11</title>
+</programme>
+<programme start="20250623153000 +0000" stop="20250623163000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20250623163000 +0000" stop="20250622170000 +0000" channel="beIN Sports 1.mncvision">
@@ -1165,7 +1171,10 @@
 <programme start="20250623134500 +0000" stop="20250623150000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Classic: TOT Vs LIV</title>
 </programme>
-<programme start="20250623150000 +0000" stop="20250623163000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 11</title>
+</programme>
+<programme start="20250623153000 +0000" stop="20250623163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20250623163000 +0000" stop="20250622170000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -1594,8 +1603,11 @@
 <programme start="20250623021500 +0000" stop="20250623030000 +0000" channel="BTV.mncvision">
     <title>Endeus</title>
 </programme>
-<programme start="20250623030000 +0000" stop="20250623034500 +0000" channel="BTV.mncvision">
+<programme start="20250623030000 +0000" stop="20250623034300 +0000" channel="BTV.mncvision">
     <title>Kids Universe</title>
+</programme>
+<programme start="20250623034300 +0000" stop="20250623034500 +0000" channel="BTV.mncvision">
+    <title>7 Kebiasaan Anak Indonesia...</title>
 </programme>
 <programme start="20250623034500 +0000" stop="20250623040000 +0000" channel="BTV.mncvision">
     <title>Kuyliner</title>
@@ -4736,43 +4748,40 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250622213000 +0000" stop="20250622230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20250622230000 +0000" stop="20250623000000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250622230000 +0000" stop="20250623010000 +0000" channel="Indosiar.mncvision">
+    <title>Pintu Berkah Pagi</title>
 </programme>
-<programme start="20250623000000 +0000" stop="20250623013000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20250623013000 +0000" stop="20250623030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250623010000 +0000" stop="20250623030000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250623030000 +0000" stop="20250623040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250623040000 +0000" stop="20250623043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250623043000 +0000" stop="20250623050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250623050000 +0000" stop="20250623063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250623063000 +0000" stop="20250623080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250623080000 +0000" stop="20250623100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Sore</title>
 </programme>
 <programme start="20250623100000 +0000" stop="20250623120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Premiere</title>
 </programme>
-<programme start="20250623120000 +0000" stop="20250623150000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250623120000 +0000" stop="20250623153000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250623153000 +0000" stop="20250623160000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250622183000 +0000" stop="20250622200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4781,43 +4790,40 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250622213000 +0000" stop="20250622230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20250622230000 +0000" stop="20250623000000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250622230000 +0000" stop="20250623010000 +0000" channel="Indosiar HD.mncvision">
+    <title>Pintu Berkah Pagi</title>
 </programme>
-<programme start="20250623000000 +0000" stop="20250623013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20250623013000 +0000" stop="20250623030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250623010000 +0000" stop="20250623030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250623030000 +0000" stop="20250623040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250623040000 +0000" stop="20250623043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250623043000 +0000" stop="20250623050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250623050000 +0000" stop="20250623063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250623063000 +0000" stop="20250623080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250623080000 +0000" stop="20250623100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Sore</title>
 </programme>
 <programme start="20250623100000 +0000" stop="20250623120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Premiere</title>
 </programme>
-<programme start="20250623120000 +0000" stop="20250623150000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250623120000 +0000" stop="20250623153000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250623153000 +0000" stop="20250623160000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250622170000 +0000" stop="20250622173000 +0000" channel="iNews.mncvision">
     <title>Realita</title>
@@ -8366,7 +8372,7 @@
     <title>ACL Elite: NSR Vs EST</title>
 </programme>
 <programme start="20250623080000 +0000" stop="20250623100000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2024/25: BMG Vs WOB</title>
+    <title>Bundesliga 2024/25: BMG Vs TSG</title>
 </programme>
 <programme start="20250623100000 +0000" stop="20250623103000 +0000" channel="Soccer Channel.mncvision">
     <title>The Ultimate Goals</title>
@@ -8381,7 +8387,7 @@
     <title>Pro Futsal League 2024/25</title>
 </programme>
 <programme start="20250623163000 +0000" stop="20250622170000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2024/25: BMG Vs WOB</title>
+    <title>Bundesliga 2024/25: BMG Vs TSG</title>
 </programme>
 <programme start="20250622183000 +0000" stop="20250622203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Qual.: KSA Vs CHN</title>
@@ -8411,7 +8417,7 @@
     <title>ACL Elite: NSR Vs EST</title>
 </programme>
 <programme start="20250623080000 +0000" stop="20250623100000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2024/25: BMG Vs WOB</title>
+    <title>Bundesliga 2024/25: BMG Vs TSG</title>
 </programme>
 <programme start="20250623100000 +0000" stop="20250623103000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>
@@ -8426,7 +8432,7 @@
     <title>Pro Futsal League 2024/25</title>
 </programme>
 <programme start="20250623163000 +0000" stop="20250622170000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2024/25: BMG Vs WOB</title>
+    <title>Bundesliga 2024/25: BMG Vs TSG</title>
 </programme>
 <programme start="20250622173000 +0000" stop="20250622200000 +0000" channel="Sportstars.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>
@@ -8654,16 +8660,16 @@
     <title>BRI Liga 1: KDR Vs BOR</title>
 </programme>
 <programme start="20250622210000 +0000" stop="20250622230000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
+    <title>Bundesliga</title>
 </programme>
 <programme start="20250622230000 +0000" stop="20250623010000 +0000" channel="Sportstars 4.mncvision">
-    <title>UEFA Nations League</title>
+    <title>Sportacular Match</title>
 </programme>
 <programme start="20250623010000 +0000" stop="20250623030000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: PSL Vs BFC</title>
 </programme>
 <programme start="20250623030000 +0000" stop="20250623050000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: KDR Vs BOR</title>
 </programme>
 <programme start="20250623050000 +0000" stop="20250623070000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
@@ -8672,10 +8678,10 @@
     <title>Sportacular Match</title>
 </programme>
 <programme start="20250623090000 +0000" stop="20250623110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: BFC Vs JAP</title>
 </programme>
 <programme start="20250623110000 +0000" stop="20250623130000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: DWU Vs PSM</title>
 </programme>
 <programme start="20250623130000 +0000" stop="20250623150000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
@@ -8690,16 +8696,16 @@
     <title>BRI Liga 1: KDR Vs BOR</title>
 </programme>
 <programme start="20250622210000 +0000" stop="20250622230000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1</title>
+    <title>Bundesliga</title>
 </programme>
 <programme start="20250622230000 +0000" stop="20250623010000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>UEFA Nations League</title>
+    <title>Sportacular Match</title>
 </programme>
 <programme start="20250623010000 +0000" stop="20250623030000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: PSL Vs BFC</title>
 </programme>
 <programme start="20250623030000 +0000" stop="20250623050000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: KDR Vs BOR</title>
 </programme>
 <programme start="20250623050000 +0000" stop="20250623070000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
@@ -8708,10 +8714,10 @@
     <title>Sportacular Match</title>
 </programme>
 <programme start="20250623090000 +0000" stop="20250623110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: BFC Vs JAP</title>
 </programme>
 <programme start="20250623110000 +0000" stop="20250623130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: DWU Vs PSM</title>
 </programme>
 <programme start="20250623130000 +0000" stop="20250623150000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
@@ -9310,11 +9316,11 @@
 <programme start="20250623013000 +0000" stop="20250623023000 +0000" channel="Trans 7.mncvision">
     <title>FYP (For Your Pagi)</title>
 </programme>
-<programme start="20250623023000 +0000" stop="20250623031500 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita Heits</title>
+<programme start="20250623023000 +0000" stop="20250623034500 +0000" channel="Trans 7.mncvision">
+    <title>Arisan Liburan</title>
 </programme>
-<programme start="20250623031500 +0000" stop="20250623041500 +0000" channel="Trans 7.mncvision">
-    <title>Big-Bang!</title>
+<programme start="20250623034500 +0000" stop="20250623041500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
 </programme>
 <programme start="20250623041500 +0000" stop="20250623050000 +0000" channel="Trans 7.mncvision">
     <title>Enah Bikin Enak</title>
@@ -9400,13 +9406,13 @@
 <programme start="20250623114500 +0000" stop="20250623130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20250623130000 +0000" stop="20250623140000 +0000" channel="Trans TV.mncvision">
+<programme start="20250623130000 +0000" stop="20250623143000 +0000" channel="Trans TV.mncvision">
+    <title>Jogetin Shaaay</title>
+</programme>
+<programme start="20250623143000 +0000" stop="20250623150000 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250623140000 +0000" stop="20250623160000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20250623160000 +0000" stop="20250623163000 +0000" channel="Trans TV.mncvision">
+<programme start="20250623150000 +0000" stop="20250623153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250622170000 +0000" stop="20250622181500 +0000" channel="tvN.mncvision">
