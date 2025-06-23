@@ -136,10 +136,10 @@
     <programme start="20250623110055 +0000" stop="20250623113009 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7909</title>
     </programme>
-    <programme start="20250623113009 +0000" stop="20250623123013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623113009 +0000" stop="20250623123008 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 13</title>
     </programme>
-    <programme start="20250623123013 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623123008 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 87</title>
     </programme>
     <programme start="20250623130000 +0000" stop="20250623133004 +0000" channel="Channel 5.mewatch">
