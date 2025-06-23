@@ -2724,8 +2724,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250622230000 +0000" stop="20250622233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Sebastian Ofner)</title>
 </programme>
-<programme start="20250622233000 +0000" stop="20250623020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250622233000 +0000" stop="20250623013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: A. Bublik (KAZ) - D. Medvedev, Terra Wortmann Open in Halle, Finale</title>
+</programme>
+<programme start="20250623013000 +0000" stop="20250623020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
 <programme start="20250623020000 +0000" stop="20250623030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Saisonrückblick</title>
@@ -2742,8 +2745,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250623063000 +0000" stop="20250623070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Reinfried Herbst)</title>
 </programme>
-<programme start="20250623070000 +0000" stop="20250623093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250623070000 +0000" stop="20250623090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: A. Bublik (KAZ) - D. Medvedev, Terra Wortmann Open in Halle, Finale</title>
+</programme>
+<programme start="20250623090000 +0000" stop="20250623093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Sebastian Ofner)</title>
 </programme>
 <programme start="20250623093000 +0000" stop="20250623180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -2946,16 +2952,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250623210000 +0000" stop="20250623220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Spanien</title>
 </programme>
-<programme start="20250622220000 +0000" stop="20250622224500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250622221500 +0000" stop="20250622230500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: The Legend of Bernhard Langer</title>
 </programme>
-<programme start="20250622224500 +0000" stop="20250622233000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250622230500 +0000" stop="20250622235000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
 </programme>
-<programme start="20250622233000 +0000" stop="20250623000000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250622235000 +0000" stop="20250623001500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>HotelPlaner Tour: Highlights Kaskada Golf Challenge</title>
 </programme>
-<programme start="20250623000000 +0000" stop="20250623010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250623001500 +0000" stop="20250623010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
 </programme>
 <programme start="20250623010000 +0000" stop="20250623040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3171,26 +3177,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250623210000 +0000" stop="20250623220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2018/2019</title>
 </programme>
-<programme start="20250622230000 +0000" stop="20250623010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Mallorca Championships in Santa Ponsa (ESP), 1. Tag</title>
+<programme start="20250622230000 +0000" stop="20250623004500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - L. Fernandez (CAN), Bad Homburg Open in Bad Homburg, 1. Tag</title>
 </programme>
-<programme start="20250623010000 +0000" stop="20250623013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623004500 +0000" stop="20250623011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250623013000 +0000" stop="20250623020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623011500 +0000" stop="20250623014500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250623020000 +0000" stop="20250623023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623014500 +0000" stop="20250623021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Rom</title>
 </programme>
-<programme start="20250623023000 +0000" stop="20250623050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623021500 +0000" stop="20250623044500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250623050000 +0000" stop="20250623073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623044500 +0000" stop="20250623051500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Rom</title>
+</programme>
+<programme start="20250623051500 +0000" stop="20250623074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
-<programme start="20250623073000 +0000" stop="20250623093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 1. Tag</title>
+<programme start="20250623074500 +0000" stop="20250623093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - L. Fernandez (CAN), Bad Homburg Open in Bad Homburg, 1. Tag</title>
 </programme>
 <programme start="20250623093000 +0000" stop="20250623180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3199,22 +3208,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review London</title>
 </programme>
 <programme start="20250623190000 +0000" stop="20250623210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 2. Tag</title>
+    <title>WTA 500: L. Siegemund (GER) - V. Azarenka, Bad Homburg Open in Bad Homburg, 2. Tag</title>
 </programme>
 <programme start="20250623210000 +0000" stop="20250623230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
+    <title>ATP 250: J. Engel (GER) - L Tien (USA), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
 </programme>
-<programme start="20250622220000 +0000" stop="20250622230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250622221500 +0000" stop="20250622232000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Italien</title>
 </programme>
-<programme start="20250622230000 +0000" stop="20250623000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250622232000 +0000" stop="20250623002000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Italien</title>
 </programme>
-<programme start="20250623000000 +0000" stop="20250623010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250623002000 +0000" stop="20250623012000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto3: Rennen - GP Italien</title>
 </programme>
-<programme start="20250623010000 +0000" stop="20250623030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Topspiel, Mallorca Championships in Santa Ponsa (ESP), 1. Tag</title>
+<programme start="20250623012000 +0000" stop="20250623030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA 500: T. Maria (GER) - L. Fernandez (CAN), Bad Homburg Open in Bad Homburg, 1. Tag</title>
 </programme>
 <programme start="20250623030000 +0000" stop="20250623040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Italien</title>
@@ -3228,10 +3237,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250623063000 +0000" stop="20250623073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250623073000 +0000" stop="20250623083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250623073000 +0000" stop="20250623082500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Italien</title>
 </programme>
-<programme start="20250623083000 +0000" stop="20250623093000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250623082500 +0000" stop="20250623093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Italien</title>
 </programme>
 <programme start="20250623093000 +0000" stop="20250623145000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3288,7 +3297,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250623091000 +0000" stop="20250623093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20250623093000 +0000" stop="20250623160000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250623093000 +0000" stop="20250623190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 2. Tag</title>
 </programme>
 <programme start="20250622223000 +0000" stop="20250623010000 +0000" channel="SYFY HD.skyde">

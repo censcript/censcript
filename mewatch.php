@@ -136,10 +136,10 @@
     <programme start="20250623110055 +0000" stop="20250623113009 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7909</title>
     </programme>
-    <programme start="20250623113009 +0000" stop="20250623123013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623113009 +0000" stop="20250623123002 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 13</title>
     </programme>
-    <programme start="20250623123013 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250623123002 +0000" stop="20250623130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 87</title>
     </programme>
     <programme start="20250623130000 +0000" stop="20250623133004 +0000" channel="Channel 5.mewatch">
@@ -511,35 +511,32 @@
     <programme start="20250622150311 +0000" stop="20250622160003 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 1</title>
     </programme>
-    <programme start="20250622160003 +0000" stop="20250622160313 +0000" channel="CNA.mewatch">
+    <programme start="20250622160000 +0000" stop="20250622160334 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250622160313 +0000" stop="20250622162959 +0000" channel="CNA.mewatch">
+    <programme start="20250622160334 +0000" stop="20250622163020 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 8</title>
     </programme>
-    <programme start="20250622162959 +0000" stop="20250622165959 +0000" channel="CNA.mewatch">
+    <programme start="20250622163020 +0000" stop="20250622170005 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 8</title>
     </programme>
-    <programme start="20250622165959 +0000" stop="20250622175959 +0000" channel="CNA.mewatch">
+    <programme start="20250622170005 +0000" stop="20250622180000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 9</title>
     </programme>
-    <programme start="20250622175959 +0000" stop="20250622182959 +0000" channel="CNA.mewatch">
+    <programme start="20250622180000 +0000" stop="20250622182902 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250622182959 +0000" stop="20250622185959 +0000" channel="CNA.mewatch">
+    <programme start="20250622182902 +0000" stop="20250622185902 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 11</title>
     </programme>
-    <programme start="20250622185959 +0000" stop="20250622193000 +0000" channel="CNA.mewatch">
+    <programme start="20250622185902 +0000" stop="20250622193003 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 3</title>
     </programme>
-    <programme start="20250622193000 +0000" stop="20250622200002 +0000" channel="CNA.mewatch">
+    <programme start="20250622193003 +0000" stop="20250622200000 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 6</title>
     </programme>
-    <programme start="20250622200002 +0000" stop="20250622203002 +0000" channel="CNA.mewatch">
+    <programme start="20250622200000 +0000" stop="20250622210002 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
-    </programme>
-    <programme start="20250622203002 +0000" stop="20250622210002 +0000" channel="CNA.mewatch">
-        <title>The New Locals - EP 3</title>
     </programme>
     <programme start="20250622210002 +0000" stop="20250622220000 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 2</title>

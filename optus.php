@@ -1,6 +1,3 @@
-    <programme start="20250623020000 +0000" stop="20250623043000 +0000" channel="Optus Sport 407.optus">
-        <title>NWSL - San Diego Wave FC v Washington Spirit</title>
-    </programme>
     <programme start="20250625170000 +0000" stop="20250625173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Howard Webb</title>
     </programme>

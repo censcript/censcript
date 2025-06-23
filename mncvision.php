@@ -7981,50 +7981,50 @@
 <programme start="20250622200000 +0000" stop="20250622210000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250622210000 +0000" stop="20250622213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250622210000 +0000" stop="20250622212400 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250622213000 +0000" stop="20250622230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250622212400 +0000" stop="20250622225500 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250622230000 +0000" stop="20250623000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250622225500 +0000" stop="20250623000000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250623000000 +0000" stop="20250623013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623000000 +0000" stop="20250623012700 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250623013000 +0000" stop="20250623030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623012700 +0000" stop="20250623030000 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250623030000 +0000" stop="20250623050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623030000 +0000" stop="20250623045700 +0000" channel="SCTV.mncvision">
+    <title>Demi Alek Kaga Ngapa-Ngapa</title>
 </programme>
-<programme start="20250623050000 +0000" stop="20250623053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623045700 +0000" stop="20250623053300 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250623053000 +0000" stop="20250623073000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623053300 +0000" stop="20250623071200 +0000" channel="SCTV.mncvision">
+    <title>Princess Mermaid</title>
 </programme>
-<programme start="20250623073000 +0000" stop="20250623091500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623071200 +0000" stop="20250623082000 +0000" channel="SCTV.mncvision">
+    <title>Cool Boy Vs Cool Girl</title>
 </programme>
-<programme start="20250623091500 +0000" stop="20250623100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623082000 +0000" stop="20250623100000 +0000" channel="SCTV.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250623100000 +0000" stop="20250623111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623100000 +0000" stop="20250623113500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250623111500 +0000" stop="20250623130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623113500 +0000" stop="20250623131500 +0000" channel="SCTV.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250623130000 +0000" stop="20250623143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623131500 +0000" stop="20250623144100 +0000" channel="SCTV.mncvision">
+    <title>Bukan Karena Tak Cinta</title>
 </programme>
-<programme start="20250623143000 +0000" stop="20250623160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623144100 +0000" stop="20250623160400 +0000" channel="SCTV.mncvision">
+    <title>Luka Cinta</title>
 </programme>
-<programme start="20250623160000 +0000" stop="20250623163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250623160400 +0000" stop="20250623163400 +0000" channel="SCTV.mncvision">
+    <title>Ijinkan Aku Bersamamu</title>
 </programme>
 <programme start="20250622174500 +0000" stop="20250622190000 +0000" channel="SCTV HD.mncvision">
     <title>23 Cinta Hanya Satu Yang...</title>
@@ -8035,50 +8035,50 @@
 <programme start="20250622200000 +0000" stop="20250622210000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250622210000 +0000" stop="20250622213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250622210000 +0000" stop="20250622212400 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250622213000 +0000" stop="20250622230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250622212400 +0000" stop="20250622225500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250622230000 +0000" stop="20250623000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250622225500 +0000" stop="20250623000000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250623000000 +0000" stop="20250623013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623000000 +0000" stop="20250623012700 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250623013000 +0000" stop="20250623030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623012700 +0000" stop="20250623030000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250623030000 +0000" stop="20250623050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623030000 +0000" stop="20250623045700 +0000" channel="SCTV HD.mncvision">
+    <title>Demi Alek Kaga Ngapa-Ngapa</title>
 </programme>
-<programme start="20250623050000 +0000" stop="20250623053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623045700 +0000" stop="20250623053300 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250623053000 +0000" stop="20250623073000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623053300 +0000" stop="20250623071200 +0000" channel="SCTV HD.mncvision">
+    <title>Princess Mermaid</title>
 </programme>
-<programme start="20250623073000 +0000" stop="20250623091500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623071200 +0000" stop="20250623082000 +0000" channel="SCTV HD.mncvision">
+    <title>Cool Boy Vs Cool Girl</title>
 </programme>
-<programme start="20250623091500 +0000" stop="20250623100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623082000 +0000" stop="20250623100000 +0000" channel="SCTV HD.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250623100000 +0000" stop="20250623111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623100000 +0000" stop="20250623113500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250623111500 +0000" stop="20250623130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623113500 +0000" stop="20250623131500 +0000" channel="SCTV HD.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250623130000 +0000" stop="20250623143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623131500 +0000" stop="20250623144100 +0000" channel="SCTV HD.mncvision">
+    <title>Bukan Karena Tak Cinta</title>
 </programme>
-<programme start="20250623143000 +0000" stop="20250623160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623144100 +0000" stop="20250623160400 +0000" channel="SCTV HD.mncvision">
+    <title>Luka Cinta</title>
 </programme>
-<programme start="20250623160000 +0000" stop="20250623163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250623160400 +0000" stop="20250623163400 +0000" channel="SCTV HD.mncvision">
+    <title>Ijinkan Aku Bersamamu</title>
 </programme>
 <programme start="20250622170000 +0000" stop="20250622173000 +0000" channel="SEA TODAY.mncvision">
     <title>Super Octogenarians</title>
@@ -8836,10 +8836,10 @@
 <programme start="20250623003000 +0000" stop="20250623020000 +0000" channel="SPOTV 2.mncvision">
     <title>FIA TCR World Tour Monza</title>
 </programme>
-<programme start="20250623020000 +0000" stop="20250623033000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250623020000 +0000" stop="20250623031500 +0000" channel="SPOTV 2.mncvision">
     <title>FIA TCR World Tour Monza</title>
 </programme>
-<programme start="20250623033000 +0000" stop="20250623045500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250623031500 +0000" stop="20250623045500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: Brembo GP Italy</title>
 </programme>
 <programme start="20250623045500 +0000" stop="20250623061000 +0000" channel="SPOTV 2.mncvision">
@@ -8890,10 +8890,10 @@
 <programme start="20250623003000 +0000" stop="20250623020000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>FIA TCR World Tour Monza</title>
 </programme>
-<programme start="20250623020000 +0000" stop="20250623033000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250623020000 +0000" stop="20250623031500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>FIA TCR World Tour Monza</title>
 </programme>
-<programme start="20250623033000 +0000" stop="20250623045500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250623031500 +0000" stop="20250623045500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: Brembo GP Italy</title>
 </programme>
 <programme start="20250623045500 +0000" stop="20250623061000 +0000" channel="SPOTV 2 HD.mncvision">
