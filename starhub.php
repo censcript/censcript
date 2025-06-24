@@ -2224,26 +2224,20 @@
     <programme start="20250624030000 +0000" stop="20250624040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20250624040000 +0000" stop="20250624044500 +0000" channel="CNN HD.starhub">
+    <programme start="20250624040000 +0000" stop="20250624050000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250624044500 +0000" stop="20250624050000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250624050000 +0000" stop="20250624060000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250624060000 +0000" stop="20250624064500 +0000" channel="CNN HD.starhub">
+    <programme start="20250624060000 +0000" stop="20250624070000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250624064500 +0000" stop="20250624070000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250624070000 +0000" stop="20250624080000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20250624080000 +0000" stop="20250624090000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Early Start</title>
     </programme>
     <programme start="20250624090000 +0000" stop="20250624100000 +0000" channel="CNN HD.starhub">
         <title>Early Start</title>
@@ -2254,17 +2248,11 @@
     <programme start="20250624110000 +0000" stop="20250624120000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20250624120000 +0000" stop="20250624123000 +0000" channel="CNN HD.starhub">
+    <programme start="20250624120000 +0000" stop="20250624130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20250624123000 +0000" stop="20250624130000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
-    <programme start="20250624130000 +0000" stop="20250624134500 +0000" channel="CNN HD.starhub">
+    <programme start="20250624130000 +0000" stop="20250624140000 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
-    </programme>
-    <programme start="20250624134500 +0000" stop="20250624140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250624140000 +0000" stop="20250624150000 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
@@ -7165,32 +7153,23 @@
     <programme start="20250624083000 +0000" stop="20250624100000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Valladolid P2 Day 2 Match 2 (Live)</title>
     </programme>
-    <programme start="20250624100000 +0000" stop="20250624105000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 4 Italian Championship 2025: Monza Race 1</title>
-    </programme>
-    <programme start="20250624105000 +0000" stop="20250624114000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 4 Italian Championship 2025: Monza Race 2</title>
-    </programme>
-    <programme start="20250624114000 +0000" stop="20250624123000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 4 Italian Championship 2025: Monza Race 3</title>
-    </programme>
-    <programme start="20250624123000 +0000" stop="20250624130000 +0000" channel="beIN Sports HD.starhub">
-        <title>Top Scorer</title>
-    </programme>
-    <programme start="20250624130000 +0000" stop="20250624133000 +0000" channel="beIN Sports HD.starhub">
-        <title>Ruhr Valley - The Heart of German Football Ep 1</title>
-    </programme>
-    <programme start="20250624133000 +0000" stop="20250624140000 +0000" channel="beIN Sports HD.starhub">
-        <title>Ruhr Valley - The Heart of German Football Ep 2</title>
-    </programme>
-    <programme start="20250624140000 +0000" stop="20250624143000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250624100000 +0000" stop="20250624103000 +0000" channel="beIN Sports HD.starhub">
         <title>GP Confidential 2025</title>
     </programme>
-    <programme start="20250624143000 +0000" stop="20250624150000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250624103000 +0000" stop="20250624110000 +0000" channel="beIN Sports HD.starhub">
         <title>Rally Greece</title>
     </programme>
-    <programme start="20250624150000 +0000" stop="20250624163000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250624110000 +0000" stop="20250624123000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Valladolid P2 Day 2 Match 3 (Live)</title>
+    </programme>
+    <programme start="20250624123000 +0000" stop="20250624140000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Valladolid P2 Day 2 Match 4 (Live)</title>
+    </programme>
+    <programme start="20250624140000 +0000" stop="20250624153000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Valladolid P2 Day 2 Match 5 (Live)</title>
+    </programme>
+    <programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="beIN Sports HD.starhub">
+        <title>Top Scorer</title>
     </programme>
     <programme start="20250623152000 +0000" stop="20250623161500 +0000" channel="TestChannel2.starhub">
         <title>Narcotics Heroes</title>

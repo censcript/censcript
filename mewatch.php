@@ -142,29 +142,26 @@
     <programme start="20250624110011 +0000" stop="20250624113040 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7910</title>
     </programme>
-    <programme start="20250624113040 +0000" stop="20250624122616 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624113040 +0000" stop="20250624123001 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 7</title>
     </programme>
-    <programme start="20250624122616 +0000" stop="20250624130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624123001 +0000" stop="20250624130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 88</title>
     </programme>
-    <programme start="20250624130000 +0000" stop="20250624133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624130000 +0000" stop="20250624132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250624133000 +0000" stop="20250624140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624132959 +0000" stop="20250624140037 +0000" channel="Channel 5.mewatch">
         <title>In Search of Heat - EP 3</title>
     </programme>
-    <programme start="20250624140000 +0000" stop="20250624142000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624140037 +0000" stop="20250624142023 +0000" channel="Channel 5.mewatch">
         <title>Scene City: I Survived An Accident</title>
     </programme>
-    <programme start="20250624142000 +0000" stop="20250624151000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624142023 +0000" stop="20250624151021 +0000" channel="Channel 5.mewatch">
         <title>Paris Has Fallen S1 - EP 2</title>
     </programme>
-    <programme start="20250624151000 +0000" stop="20250624160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624151021 +0000" stop="20250624160010 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S4 - EP 1</title>
-    </programme>
-    <programme start="20250624160000 +0000" stop="20250624163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 88</title>
     </programme>
     <programme start="20250623150130 +0000" stop="20250623160119 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 21</title>
