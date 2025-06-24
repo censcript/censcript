@@ -421,25 +421,25 @@
 <programme start="20250624023000 +0000" stop="20250624060000 +0000" channel="ANTV.mncvision">
     <title>Koi Mil Gaya</title>
 </programme>
-<programme start="20250624060000 +0000" stop="20250624081500 +0000" channel="ANTV.mncvision">
+<programme start="20250624060000 +0000" stop="20250624084500 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20250624081500 +0000" stop="20250624093000 +0000" channel="ANTV.mncvision">
+<programme start="20250624084500 +0000" stop="20250624100000 +0000" channel="ANTV.mncvision">
     <title>Bhagya Lakshmi</title>
 </programme>
-<programme start="20250624093000 +0000" stop="20250624103000 +0000" channel="ANTV.mncvision">
+<programme start="20250624100000 +0000" stop="20250624110000 +0000" channel="ANTV.mncvision">
     <title>Vaishno Devi</title>
 </programme>
-<programme start="20250624103000 +0000" stop="20250624120000 +0000" channel="ANTV.mncvision">
+<programme start="20250624110000 +0000" stop="20250624120000 +0000" channel="ANTV.mncvision">
     <title>Imlie</title>
 </programme>
 <programme start="20250624120000 +0000" stop="20250624140000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250624140000 +0000" stop="20250624153000 +0000" channel="ANTV.mncvision">
-    <title>Catatan Hati Perempuan</title>
+<programme start="20250624140000 +0000" stop="20250624160000 +0000" channel="ANTV.mncvision">
+    <title>Mana Tahan</title>
 </programme>
-<programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="ANTV.mncvision">
+<programme start="20250624160000 +0000" stop="20250624163000 +0000" channel="ANTV.mncvision">
     <title>Happy Ghost 2</title>
 </programme>
 <programme start="20250623170000 +0000" stop="20250623173000 +0000" channel="Arirang.mncvision">
@@ -4094,7 +4094,7 @@
     <title>The Expendables 3</title>
 </programme>
 <programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="GTV.mncvision">
-    <title>Daddy&#039;s Home</title>
+    <title>Dora &amp; The Lost City Of Gold</title>
 </programme>
 <programme start="20250623170000 +0000" stop="20250623180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4151,7 +4151,7 @@
     <title>The Expendables 3</title>
 </programme>
 <programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="GTV HD.mncvision">
-    <title>Daddy&#039;s Home</title>
+    <title>Dora &amp; The Lost City Of Gold</title>
 </programme>
 <programme start="20250623180000 +0000" stop="20250623183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>

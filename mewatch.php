@@ -157,10 +157,10 @@
     <programme start="20250624140037 +0000" stop="20250624142028 +0000" channel="Channel 5.mewatch">
         <title>Scene City: I Survived An Accident</title>
     </programme>
-    <programme start="20250624142028 +0000" stop="20250624151026 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624142028 +0000" stop="20250624151021 +0000" channel="Channel 5.mewatch">
         <title>Paris Has Fallen S1 - EP 2</title>
     </programme>
-    <programme start="20250624151026 +0000" stop="20250624160015 +0000" channel="Channel 5.mewatch">
+    <programme start="20250624151021 +0000" stop="20250624160010 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S4 - EP 1</title>
     </programme>
     <programme start="20250623150130 +0000" stop="20250623160119 +0000" channel="Channel 8.mewatch">
@@ -259,32 +259,29 @@
     <programme start="20250624093103 +0000" stop="20250624103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 46</title>
     </programme>
-    <programme start="20250624103000 +0000" stop="20250624113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624103000 +0000" stop="20250624113014 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 61</title>
     </programme>
-    <programme start="20250624113000 +0000" stop="20250624120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624113014 +0000" stop="20250624120011 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 11</title>
     </programme>
-    <programme start="20250624120000 +0000" stop="20250624123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624120011 +0000" stop="20250624123013 +0000" channel="Channel 8.mewatch">
         <title>Jason&#039;s Daily Eats S2 - EP 5</title>
     </programme>
-    <programme start="20250624123000 +0000" stop="20250624130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624123013 +0000" stop="20250624130002 +0000" channel="Channel 8.mewatch">
         <title>HERE WE GO, Off The Beaten Roads - EP 13</title>
     </programme>
-    <programme start="20250624130000 +0000" stop="20250624140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624130002 +0000" stop="20250624140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 24</title>
     </programme>
-    <programme start="20250624140000 +0000" stop="20250624143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624140000 +0000" stop="20250624143050 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250624143000 +0000" stop="20250624150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624143050 +0000" stop="20250624150100 +0000" channel="Channel 8.mewatch">
         <title>The Truth About Health - EP 19</title>
     </programme>
-    <programme start="20250624150000 +0000" stop="20250624160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250624150100 +0000" stop="20250624160011 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 22</title>
-    </programme>
-    <programme start="20250624160000 +0000" stop="20250624170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 5</title>
     </programme>
     <programme start="20250623153213 +0000" stop="20250623163223 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 2</title>
@@ -379,22 +376,22 @@
     <programme start="20250624095951 +0000" stop="20250624110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 10</title>
     </programme>
-    <programme start="20250624110000 +0000" stop="20250624120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250624110000 +0000" stop="20250624120058 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 50</title>
     </programme>
-    <programme start="20250624120000 +0000" stop="20250624130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250624120058 +0000" stop="20250624130035 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 51</title>
     </programme>
-    <programme start="20250624130000 +0000" stop="20250624140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250624130035 +0000" stop="20250624140011 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 9</title>
     </programme>
-    <programme start="20250624140000 +0000" stop="20250624150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250624140011 +0000" stop="20250624150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 34</title>
     </programme>
-    <programme start="20250624150000 +0000" stop="20250624153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250624150000 +0000" stop="20250624152949 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250624153000 +0000" stop="20250624163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250624152949 +0000" stop="20250624162934 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 9</title>
     </programme>
     <programme start="20250623153000 +0000" stop="20250623160009 +0000" channel="Suria.mewatch">
@@ -577,23 +574,20 @@
     <programme start="20250624100001 +0000" stop="20250624110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250624110000 +0000" stop="20250624120000 +0000" channel="CNA.mewatch">
+    <programme start="20250624110000 +0000" stop="20250624120001 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 1</title>
     </programme>
-    <programme start="20250624120000 +0000" stop="20250624130000 +0000" channel="CNA.mewatch">
+    <programme start="20250624120001 +0000" stop="20250624130001 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250624130000 +0000" stop="20250624140000 +0000" channel="CNA.mewatch">
+    <programme start="20250624130001 +0000" stop="20250624140000 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 4</title>
     </programme>
-    <programme start="20250624140000 +0000" stop="20250624150000 +0000" channel="CNA.mewatch">
+    <programme start="20250624140000 +0000" stop="20250624150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250624150000 +0000" stop="20250624160000 +0000" channel="CNA.mewatch">
+    <programme start="20250624150105 +0000" stop="20250624160001 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 3</title>
-    </programme>
-    <programme start="20250624160000 +0000" stop="20250624160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250623155959 +0000" stop="20250623170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
