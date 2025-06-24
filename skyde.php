@@ -490,13 +490,13 @@
 <programme start="20250623222500 +0000" stop="20250623224000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250623224000 +0000" stop="20250623225500 +0000" channel="Cartoonito.skyde">
+<programme start="20250623224000 +0000" stop="20250623225000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250623225500 +0000" stop="20250623230500 +0000" channel="Cartoonito.skyde">
+<programme start="20250623225000 +0000" stop="20250623230000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250623230500 +0000" stop="20250623232000 +0000" channel="Cartoonito.skyde">
+<programme start="20250623230000 +0000" stop="20250623232000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250623232000 +0000" stop="20250623233000 +0000" channel="Cartoonito.skyde">
@@ -505,10 +505,10 @@
 <programme start="20250623233000 +0000" stop="20250623234500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250623234500 +0000" stop="20250624000000 +0000" channel="Cartoonito.skyde">
+<programme start="20250623234500 +0000" stop="20250623235500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250624000000 +0000" stop="20250624001500 +0000" channel="Cartoonito.skyde">
+<programme start="20250623235500 +0000" stop="20250624001500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20250624001500 +0000" stop="20250624002500 +0000" channel="Cartoonito.skyde">
@@ -532,13 +532,13 @@
 <programme start="20250624013000 +0000" stop="20250624014500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250624014500 +0000" stop="20250624020000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624014500 +0000" stop="20250624015500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250624020000 +0000" stop="20250624021000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624015500 +0000" stop="20250624020500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250624021000 +0000" stop="20250624022500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624020500 +0000" stop="20250624022500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250624022500 +0000" stop="20250624023500 +0000" channel="Cartoonito.skyde">
@@ -598,13 +598,13 @@
 <programme start="20250624055500 +0000" stop="20250624062000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250624062000 +0000" stop="20250624065000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624062000 +0000" stop="20250624065300 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250624065000 +0000" stop="20250624065500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624065300 +0000" stop="20250624065700 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250624065500 +0000" stop="20250624070500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624065700 +0000" stop="20250624070500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250624070500 +0000" stop="20250624071000 +0000" channel="Cartoonito.skyde">
@@ -661,10 +661,10 @@
 <programme start="20250624100500 +0000" stop="20250624102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624102000 +0000" stop="20250624103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624102000 +0000" stop="20250624102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624103000 +0000" stop="20250624103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624102500 +0000" stop="20250624103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624103500 +0000" stop="20250624104000 +0000" channel="Cartoonito.skyde">
@@ -697,10 +697,10 @@
 <programme start="20250624123500 +0000" stop="20250624125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250624125000 +0000" stop="20250624130000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624125000 +0000" stop="20250624125500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624130000 +0000" stop="20250624130500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624125500 +0000" stop="20250624130500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624130500 +0000" stop="20250624131000 +0000" channel="Cartoonito.skyde">
@@ -751,10 +751,10 @@
 <programme start="20250624160000 +0000" stop="20250624161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624161000 +0000" stop="20250624162000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624161000 +0000" stop="20250624162500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624162000 +0000" stop="20250624163000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624162500 +0000" stop="20250624163000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624163000 +0000" stop="20250624163500 +0000" channel="Cartoonito.skyde">
@@ -772,10 +772,10 @@
 <programme start="20250624173000 +0000" stop="20250624175500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250624175500 +0000" stop="20250624181000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624175500 +0000" stop="20250624180500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250624181000 +0000" stop="20250624182500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624180500 +0000" stop="20250624182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250624182500 +0000" stop="20250624183500 +0000" channel="Cartoonito.skyde">
@@ -787,10 +787,10 @@
 <programme start="20250624185500 +0000" stop="20250624190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624190000 +0000" stop="20250624191000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624190000 +0000" stop="20250624190500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624191000 +0000" stop="20250624192000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624190500 +0000" stop="20250624192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624192000 +0000" stop="20250624193000 +0000" channel="Cartoonito.skyde">
@@ -3040,14 +3040,14 @@
 <programme start="20250624190000 +0000" stop="20250624220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Travelers Championship, 4. Tag in Cromwell, CT (USA)</title>
 </programme>
-<programme start="20250624001500 +0000" stop="20250624011500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250623221500 +0000" stop="20250624004500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal Junioren: Werder Bremen U19 - Karlsruher SC U19, Finale 2025 in Potsdam</title>
+</programme>
+<programme start="20250624004500 +0000" stop="20250624014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Italien</title>
 </programme>
-<programme start="20250624011500 +0000" stop="20250624031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250624014500 +0000" stop="20250624034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Junioren: Norwegen - Deutschland, Vorrunde, UEFA 19-EM</title>
-</programme>
-<programme start="20250624031500 +0000" stop="20250624034500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
 </programme>
 <programme start="20250624034500 +0000" stop="20250624043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Burton Automotive Newcastle Surfest Challenger Series Finals Day</title>
@@ -3091,8 +3091,8 @@
 <programme start="20250624204500 +0000" stop="20250624213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2025 Margaret River Pro</title>
 </programme>
-<programme start="20250624213000 +0000" stop="20250625000000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
+<programme start="20250624213000 +0000" stop="20250624233000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Junioren: Spanien - Deutschland, Halbfinale, UEFA 19-EM</title>
 </programme>
 <programme start="20250623220000 +0000" stop="20250623230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3268,23 +3268,26 @@
 <programme start="20250624214500 +0000" stop="20250624221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MUN - MCI, 31. Spieltag</title>
 </programme>
-<programme start="20250623230000 +0000" stop="20250624013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
-</programme>
-<programme start="20250624013000 +0000" stop="20250624040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
-</programme>
-<programme start="20250624040000 +0000" stop="20250624050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623223500 +0000" stop="20250623234000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
-<programme start="20250624050000 +0000" stop="20250624053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623234000 +0000" stop="20250624021500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
+</programme>
+<programme start="20250624021500 +0000" stop="20250624044500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
+</programme>
+<programme start="20250624044500 +0000" stop="20250624054500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review London</title>
+</programme>
+<programme start="20250624054500 +0000" stop="20250624061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250624053000 +0000" stop="20250624073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250624061500 +0000" stop="20250624072500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. Engel (GER) - L Tien (USA), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
 </programme>
-<programme start="20250624073000 +0000" stop="20250624093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: L. Siegemund (GER) - V. Azarenka, Bad Homburg Open in Bad Homburg, 2. Tag</title>
+<programme start="20250624072500 +0000" stop="20250624093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: N. Osaka (JPN) - O. Danilovic (SRB), Bad Homburg Open in Bad Homburg, 2. Tag</title>
 </programme>
 <programme start="20250624093000 +0000" stop="20250624180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3293,7 +3296,7 @@
     <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
 <programme start="20250624203000 +0000" stop="20250624223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 3. Tag</title>
+    <title>WTA 500: I. Swiatek (POL) - V. Azarenka, Bad Homburg Open in Bad Homburg, 3. Tag</title>
 </programme>
 <programme start="20250623233000 +0000" stop="20250624020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
@@ -3574,10 +3577,10 @@
 <programme start="20250624003000 +0000" stop="20250624004000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250624004000 +0000" stop="20250624005000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624004000 +0000" stop="20250624005500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250624005000 +0000" stop="20250624010500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624005500 +0000" stop="20250624010500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20250624010500 +0000" stop="20250624013000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3589,10 +3592,10 @@
 <programme start="20250624015000 +0000" stop="20250624021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250624021500 +0000" stop="20250624023500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624021500 +0000" stop="20250624024000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250624023500 +0000" stop="20250624030000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624024000 +0000" stop="20250624030000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20250624030000 +0000" stop="20250624032000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3601,10 +3604,10 @@
 <programme start="20250624032000 +0000" stop="20250624034000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250624034000 +0000" stop="20250624040500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624034000 +0000" stop="20250624040000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250624040500 +0000" stop="20250624043500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624040000 +0000" stop="20250624043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20250624043500 +0000" stop="20250624050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3628,25 +3631,25 @@
 <programme start="20250624071500 +0000" stop="20250624074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250624074000 +0000" stop="20250624081000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624074000 +0000" stop="20250624080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250624081000 +0000" stop="20250624083500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624080500 +0000" stop="20250624083000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250624083500 +0000" stop="20250624090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624083000 +0000" stop="20250624090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250624090000 +0000" stop="20250624092500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624090000 +0000" stop="20250624092000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250624092500 +0000" stop="20250624094500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624092000 +0000" stop="20250624094500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Splitting Up Together</title>
 </programme>
-<programme start="20250624094500 +0000" stop="20250624101500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624094500 +0000" stop="20250624101000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Splitting Up Together</title>
 </programme>
-<programme start="20250624101500 +0000" stop="20250624103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624101000 +0000" stop="20250624103500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Splitting Up Together</title>
 </programme>
 <programme start="20250624103500 +0000" stop="20250624110000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3718,13 +3721,13 @@
 <programme start="20250624195000 +0000" stop="20250624201500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250624201500 +0000" stop="20250624204500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624201500 +0000" stop="20250624204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250624204500 +0000" stop="20250624211000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624204000 +0000" stop="20250624210500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Primal</title>
 </programme>
-<programme start="20250624211000 +0000" stop="20250624212000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250624210500 +0000" stop="20250624212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20250624212000 +0000" stop="20250624213500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3817,10 +3820,10 @@
 <programme start="20250623220500 +0000" stop="20250623233500 +0000" channel="Warner TV Serie HD.skyde">
     <title>The First Purge</title>
 </programme>
-<programme start="20250623233500 +0000" stop="20250624001500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250623233500 +0000" stop="20250624002000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250624001500 +0000" stop="20250624010000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624002000 +0000" stop="20250624010000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20250624010000 +0000" stop="20250624014000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3832,13 +3835,13 @@
 <programme start="20250624022500 +0000" stop="20250624023500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250624023500 +0000" stop="20250624033000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624023500 +0000" stop="20250624032500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250624033000 +0000" stop="20250624042000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624032500 +0000" stop="20250624041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250624042000 +0000" stop="20250624051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624041500 +0000" stop="20250624051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250624051000 +0000" stop="20250624060500 +0000" channel="Warner TV Serie HD.skyde">
