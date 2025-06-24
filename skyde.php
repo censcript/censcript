@@ -2815,20 +2815,14 @@
 <programme start="20250624214500 +0000" stop="20250624233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Historisches Derby: ALU-ALT (2011/2012)</title>
 </programme>
-<programme start="20250623223000 +0000" stop="20250624003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250623234500 +0000" stop="20250624014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 5. Spieltag</title>
 </programme>
-<programme start="20250624003000 +0000" stop="20250624010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250624014500 +0000" stop="20250624021500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Keke Topp</title>
 </programme>
-<programme start="20250624010000 +0000" stop="20250624014000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Heidenheim - Saison 24-25</title>
-</programme>
-<programme start="20250624014000 +0000" stop="20250624021000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250624021500 +0000" stop="20250624024000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Report - Roots (Marmoush, Xhaka &amp; Irvine)</title>
-</programme>
-<programme start="20250624021000 +0000" stop="20250624024000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Report - Hungry for Success - the Bundesliga&#039;s Bright Young Stars</title>
 </programme>
 <programme start="20250624024000 +0000" stop="20250624031000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Report - Bundesliga Matchday: Eintracht Frankfurt</title>
@@ -3040,14 +3034,14 @@
 <programme start="20250624190000 +0000" stop="20250624220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Travelers Championship, 4. Tag in Cromwell, CT (USA)</title>
 </programme>
-<programme start="20250624001500 +0000" stop="20250624011500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250623221500 +0000" stop="20250624004500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal Junioren: Werder Bremen U19 - Karlsruher SC U19, Finale 2025 in Potsdam</title>
+</programme>
+<programme start="20250624004500 +0000" stop="20250624014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Italien</title>
 </programme>
-<programme start="20250624011500 +0000" stop="20250624031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250624014500 +0000" stop="20250624034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Junioren: Norwegen - Deutschland, Vorrunde, UEFA 19-EM</title>
-</programme>
-<programme start="20250624031500 +0000" stop="20250624034500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Motorsport: ERC - Highlights: 81st Rally Poland</title>
 </programme>
 <programme start="20250624034500 +0000" stop="20250624043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Burton Automotive Newcastle Surfest Challenger Series Finals Day</title>
