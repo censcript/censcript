@@ -2915,7 +2915,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250624003000 +0000" stop="20250624010000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Healthy Environment</title>
 </programme>
 <programme start="20250624010000 +0000" stop="20250624011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2936,10 +2936,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20250624031500 +0000" stop="20250624033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: Andre Correa Do Lago</title>
 </programme>
 <programme start="20250624033000 +0000" stop="20250624040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: A Defense Stress Test</title>
 </programme>
 <programme start="20250624040000 +0000" stop="20250624041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2954,16 +2954,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250624053000 +0000" stop="20250624060000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Reusing Old Machines</title>
 </programme>
 <programme start="20250624060000 +0000" stop="20250624061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250624061500 +0000" stop="20250624063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: Andre Correa Do Lago</title>
 </programme>
 <programme start="20250624063000 +0000" stop="20250624070000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Building Bridges</title>
 </programme>
 <programme start="20250624070000 +0000" stop="20250624073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2975,16 +2975,16 @@
     <title>DW News</title>
 </programme>
 <programme start="20250624083000 +0000" stop="20250624090000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Healthy Environment</title>
 </programme>
 <programme start="20250624090000 +0000" stop="20250624091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250624091500 +0000" stop="20250624094500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: A Defense Stress Test</title>
 </programme>
 <programme start="20250624094500 +0000" stop="20250624100000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Poland Swings...</title>
 </programme>
 <programme start="20250624100000 +0000" stop="20250624103000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -6514,8 +6514,306 @@
 <programme start="20250624164500 +0000" stop="20250623171500 +0000" channel="Muslim TV.mncvision">
     <title>Wayang Ramadan</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250623170000 +0000" stop="20250623173000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250623173000 +0000" stop="20250623174500 +0000" channel="NHK World.mncvision">
+    <title>Activate Your Japanese!</title>
+</programme>
+<programme start="20250623174500 +0000" stop="20250623175500 +0000" channel="NHK World.mncvision">
+    <title>Taxi Driving Opened To...</title>
+</programme>
+<programme start="20250623175500 +0000" stop="20250623180000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250623180000 +0000" stop="20250623182800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250623182800 +0000" stop="20250623184300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250623184300 +0000" stop="20250623184800 +0000" channel="NHK World.mncvision">
+    <title>1/36: Foreign Residents In...</title>
+</programme>
+<programme start="20250623184800 +0000" stop="20250623185500 +0000" channel="NHK World.mncvision">
+    <title>The Seasons Of Yamato</title>
+</programme>
+<programme start="20250623185500 +0000" stop="20250623190000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Sawmill</title>
+</programme>
+<programme start="20250623190000 +0000" stop="20250623193000 +0000" channel="NHK World.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250623193000 +0000" stop="20250623200000 +0000" channel="NHK World.mncvision">
+    <title>Seasoning The Seasons</title>
+</programme>
+<programme start="20250623200000 +0000" stop="20250623203000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250623203000 +0000" stop="20250623210000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250623210000 +0000" stop="20250623213000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250623213000 +0000" stop="20250623220000 +0000" channel="NHK World.mncvision">
+    <title>Where We Call Home</title>
+</programme>
+<programme start="20250623220000 +0000" stop="20250623223000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250623223000 +0000" stop="20250623224500 +0000" channel="NHK World.mncvision">
+    <title>Activate Your Japanese!</title>
+</programme>
+<programme start="20250623224500 +0000" stop="20250623225500 +0000" channel="NHK World.mncvision">
+    <title>Taxi Driving Opened To...</title>
+</programme>
+<programme start="20250623225500 +0000" stop="20250623230000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250623230000 +0000" stop="20250623233000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250623233000 +0000" stop="20250623235700 +0000" channel="NHK World.mncvision">
+    <title>Hometown Stories</title>
+</programme>
+<programme start="20250623235700 +0000" stop="20250624000000 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese</title>
+</programme>
+<programme start="20250624000000 +0000" stop="20250624003000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624003000 +0000" stop="20250624010000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250624010000 +0000" stop="20250624013000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624013000 +0000" stop="20250624020000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20250624020000 +0000" stop="20250624023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624023000 +0000" stop="20250624030000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20250624030000 +0000" stop="20250624033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624033000 +0000" stop="20250624040000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250624040000 +0000" stop="20250624043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624043000 +0000" stop="20250624044500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20250624044500 +0000" stop="20250624045500 +0000" channel="NHK World.mncvision">
+    <title>Dig More Japan</title>
+</programme>
+<programme start="20250624045500 +0000" stop="20250624050000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef Mini</title>
+</programme>
+<programme start="20250624050000 +0000" stop="20250624053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624053000 +0000" stop="20250624060000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250624060000 +0000" stop="20250624063000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250624063000 +0000" stop="20250624070000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20250624070000 +0000" stop="20250624073000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250624073000 +0000" stop="20250624080000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20250624080000 +0000" stop="20250624083000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624083000 +0000" stop="20250624084500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20250624084500 +0000" stop="20250624090000 +0000" channel="NHK World.mncvision">
+    <title>BOSAI</title>
+</programme>
+<programme start="20250624090000 +0000" stop="20250624093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250624093000 +0000" stop="20250624100000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250624100000 +0000" stop="20250624103000 +0000" channel="NHK World.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20250624103000 +0000" stop="20250624110000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250624110000 +0000" stop="20250624112800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250624112800 +0000" stop="20250624114300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250624114300 +0000" stop="20250624121300 +0000" channel="NHK World.mncvision">
+    <title>1/30: People With Mental...</title>
+</programme>
+<programme start="20250623171000 +0000" stop="20250623173000 +0000" channel="NHK World Premium.mncvision">
+    <title>French In A Happy Mood</title>
+</programme>
+<programme start="20250623173000 +0000" stop="20250623174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Real-Life Travel English</title>
+</programme>
+<programme start="20250623174000 +0000" stop="20250623174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250623174500 +0000" stop="20250623180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20250623180000 +0000" stop="20250623182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250623182500 +0000" stop="20250623183000 +0000" channel="NHK World Premium.mncvision">
+    <title>See, Learn, Explore: Tohoku</title>
+</programme>
+<programme start="20250623183000 +0000" stop="20250623184500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 61</title>
+</programme>
+<programme start="20250623184500 +0000" stop="20250623191200 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250623191200 +0000" stop="20250623191500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250623191500 +0000" stop="20250623200000 +0000" channel="NHK World Premium.mncvision">
+    <title>Tsurube&#039;s Salute To Families</title>
+</programme>
+<programme start="20250623200000 +0000" stop="20250623201000 +0000" channel="NHK World Premium.mncvision">
+    <title>TV Exercise</title>
+</programme>
+<programme start="20250623201000 +0000" stop="20250623202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Health For Today</title>
+</programme>
+<programme start="20250623202500 +0000" stop="20250623205600 +0000" channel="NHK World Premium.mncvision">
+    <title>Recharge Your Knowledge...</title>
+</programme>
+<programme start="20250623205600 +0000" stop="20250623210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250623210000 +0000" stop="20250623220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250623220000 +0000" stop="20250623230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250623230000 +0000" stop="20250623231500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 62</title>
+</programme>
+<programme start="20250623231500 +0000" stop="20250624005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20250624005400 +0000" stop="20250624005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250624005500 +0000" stop="20250624010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20250624010000 +0000" stop="20250624010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250624010500 +0000" stop="20250624015000 +0000" channel="NHK World Premium.mncvision">
+    <title>Tsurube&#039;s Salute To Families</title>
+</programme>
+<programme start="20250624015000 +0000" stop="20250624021700 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250624021700 +0000" stop="20250624022000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250624022000 +0000" stop="20250624025000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Winning Meals Of Great...</title>
+</programme>
+<programme start="20250624025000 +0000" stop="20250624025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20250624025600 +0000" stop="20250624030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250624030000 +0000" stop="20250624032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250624032000 +0000" stop="20250624032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20250624032800 +0000" stop="20250624033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250624033000 +0000" stop="20250624034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Toto Nee-Chan, Ep 35</title>
+</programme>
+<programme start="20250624034500 +0000" stop="20250624040000 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 62</title>
+</programme>
+<programme start="20250624040000 +0000" stop="20250624040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250624040500 +0000" stop="20250624055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20250624055000 +0000" stop="20250624055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250624055500 +0000" stop="20250624060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20250624060000 +0000" stop="20250624061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250624061000 +0000" stop="20250624064000 +0000" channel="NHK World Premium.mncvision">
+    <title>Hobbies: Sparkle Your Life!</title>
+</programme>
+<programme start="20250624064000 +0000" stop="20250624065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Points At Issue</title>
+</programme>
+<programme start="20250624065000 +0000" stop="20250624072000 +0000" channel="NHK World Premium.mncvision">
+    <title>What The Villains Have To Say</title>
+</programme>
+<programme start="20250624072000 +0000" stop="20250624074500 +0000" channel="NHK World Premium.mncvision">
+    <title>Gentle Journeys</title>
+</programme>
+<programme start="20250624074500 +0000" stop="20250624080000 +0000" channel="NHK World Premium.mncvision">
+    <title>Nosy&#039;s Inspiring Atelier</title>
+</programme>
+<programme start="20250624080000 +0000" stop="20250624081000 +0000" channel="NHK World Premium.mncvision">
+    <title>PythagoraSwitch</title>
+</programme>
+<programme start="20250624081000 +0000" stop="20250624082000 +0000" channel="NHK World Premium.mncvision">
+    <title>Let&#039;s Enjoy English &amp; Meets...</title>
+</programme>
+<programme start="20250624082000 +0000" stop="20250624083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20250624083500 +0000" stop="20250624085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250624085900 +0000" stop="20250624090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20250624090000 +0000" stop="20250624091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250624091000 +0000" stop="20250624092500 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20250624092500 +0000" stop="20250624095500 +0000" channel="NHK World Premium.mncvision">
+    <title>Whiz-Kids TV</title>
+</programme>
 <programme start="20250623170000 +0000" stop="20250623172500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
