@@ -3427,11 +3427,11 @@
     <programme start="20250624094500 +0000" stop="20250624100000 +0000" channel="DW English HD.starhub">
         <title>Poland Swings Back to the Right - Fears, Worries &amp; Polarization</title>
     </programme>
-    <programme start="20250624100000 +0000" stop="20250624103000 +0000" channel="DW English HD.starhub">
+    <programme start="20250624100000 +0000" stop="20250624104500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250624103000 +0000" stop="20250624110000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+    <programme start="20250624104500 +0000" stop="20250624110000 +0000" channel="DW English HD.starhub">
+        <title>The Flying Farmer - Indonesian Paraglider pilot Jafro Megawanto</title>
     </programme>
     <programme start="20250624110000 +0000" stop="20250624113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
