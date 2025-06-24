@@ -3262,26 +3262,23 @@
 <programme start="20250624214500 +0000" stop="20250624221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MUN - MCI, 31. Spieltag</title>
 </programme>
-<programme start="20250623223500 +0000" stop="20250623234000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review London</title>
-</programme>
-<programme start="20250623234000 +0000" stop="20250624021500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250623230000 +0000" stop="20250624013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
-<programme start="20250624021500 +0000" stop="20250624044500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250624013000 +0000" stop="20250624040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250624044500 +0000" stop="20250624054500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250624040000 +0000" stop="20250624050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
-<programme start="20250624054500 +0000" stop="20250624061500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250624050000 +0000" stop="20250624053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250624061500 +0000" stop="20250624072500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250624053000 +0000" stop="20250624073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. Engel (GER) - L Tien (USA), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
 </programme>
-<programme start="20250624072500 +0000" stop="20250624093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: N. Osaka (JPN) - O. Danilovic (SRB), Bad Homburg Open in Bad Homburg, 2. Tag</title>
+<programme start="20250624073000 +0000" stop="20250624093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: L. Siegemund (GER) - V. Azarenka, Bad Homburg Open in Bad Homburg, 2. Tag</title>
 </programme>
 <programme start="20250624093000 +0000" stop="20250624180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3290,7 +3287,7 @@
     <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
 <programme start="20250624203000 +0000" stop="20250624223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: I. Swiatek (POL) - V. Azarenka, Bad Homburg Open in Bad Homburg, 3. Tag</title>
+    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 3. Tag</title>
 </programme>
 <programme start="20250623233000 +0000" stop="20250624020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
@@ -3352,7 +3349,7 @@
 <programme start="20250624091000 +0000" stop="20250624093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250624093000 +0000" stop="20250624200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250624093000 +0000" stop="20250624180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 3. Tag</title>
 </programme>
 <programme start="20250623222000 +0000" stop="20250623232000 +0000" channel="SYFY HD.skyde">

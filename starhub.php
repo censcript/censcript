@@ -4460,7 +4460,7 @@
         <title>Travelers Championship</title>
     </programme>
     <programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Swiss Challenge</title>
+        <title>Kaskáda Golf Challenge</title>
     </programme>
     <programme start="20250623160000 +0000" stop="20250623161500 +0000" channel="France24.starhub">
         <title>News</title>
