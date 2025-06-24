@@ -2200,11 +2200,8 @@
     <programme start="20250623200000 +0000" stop="20250623210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
-    <programme start="20250623210000 +0000" stop="20250623213000 +0000" channel="CNN HD.starhub">
+    <programme start="20250623210000 +0000" stop="20250623220000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
-    </programme>
-    <programme start="20250623213000 +0000" stop="20250623220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250623220000 +0000" stop="20250623230000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
@@ -3299,16 +3296,16 @@
         <title>News</title>
     </programme>
     <programme start="20250623171500 +0000" stop="20250623173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>André Corrêa do Lago, president of the COP30 climate summit</title>
     </programme>
     <programme start="20250623173000 +0000" stop="20250623180000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Building Bridges - The Art of Understanding</title>
     </programme>
     <programme start="20250623180000 +0000" stop="20250623183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250623183000 +0000" stop="20250623190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Defense Stress Test - How Prepared is the German Military?</title>
     </programme>
     <programme start="20250623190000 +0000" stop="20250623190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3317,7 +3314,7 @@
         <title>Modern African Lifestyle</title>
     </programme>
     <programme start="20250623193000 +0000" stop="20250623200000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Venice Architecture Biennale: Adapting to the climate crisis</title>
     </programme>
     <programme start="20250623200000 +0000" stop="20250623203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3329,7 +3326,7 @@
         <title>News</title>
     </programme>
     <programme start="20250623210200 +0000" stop="20250623211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>André Corrêa do Lago, president of the COP30 climate summit</title>
     </programme>
     <programme start="20250623211500 +0000" stop="20250623220000 +0000" channel="DW English HD.starhub">
         <title>Bregret - Why Brexit Failed</title>
@@ -3347,7 +3344,7 @@
         <title>News</title>
     </programme>
     <programme start="20250623231500 +0000" stop="20250623233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>André Corrêa do Lago, president of the COP30 climate summit</title>
     </programme>
     <programme start="20250623233000 +0000" stop="20250624000000 +0000" channel="DW English HD.starhub">
         <title>A Defense Stress Test - How Prepared is the German Military?</title>
