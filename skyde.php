@@ -3070,10 +3070,10 @@
 <programme start="20250624150000 +0000" stop="20250624153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Meine Geschichte: Das Leben von Alexander Zorniger</title>
 </programme>
-<programme start="20250624153000 +0000" stop="20250624161500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250624153000 +0000" stop="20250624162000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2025 Margaret River Pro</title>
 </programme>
-<programme start="20250624161500 +0000" stop="20250624184500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250624162000 +0000" stop="20250624184500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: FC Bayern München - Werder Bremen, Finale 2025 in Köln</title>
 </programme>
 <programme start="20250624184500 +0000" stop="20250624194500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3310,19 +3310,19 @@
 <programme start="20250624070000 +0000" stop="20250624093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20250624093000 +0000" stop="20250624180000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250624093000 +0000" stop="20250624181500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20250624180000 +0000" stop="20250624190000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250624181500 +0000" stop="20250624191500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Italien</title>
 </programme>
-<programme start="20250624190000 +0000" stop="20250624194500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250624191500 +0000" stop="20250624200500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>World Surf League: Highlights 2025 Margaret River Pro</title>
 </programme>
-<programme start="20250624194500 +0000" stop="20250624204500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250624200500 +0000" stop="20250624210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250624204500 +0000" stop="20250624224500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250624210000 +0000" stop="20250624230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Junioren: Spanien - Deutschland, Halbfinale, UEFA 19-EM</title>
 </programme>
 <programme start="20250623223000 +0000" stop="20250623233000 +0000" channel="Sky Sport UHD.skyde">
