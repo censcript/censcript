@@ -490,13 +490,13 @@
 <programme start="20250623222500 +0000" stop="20250623224000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250623224000 +0000" stop="20250623225000 +0000" channel="Cartoonito.skyde">
+<programme start="20250623224000 +0000" stop="20250623225500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250623225000 +0000" stop="20250623230000 +0000" channel="Cartoonito.skyde">
+<programme start="20250623225500 +0000" stop="20250623230500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250623230000 +0000" stop="20250623232000 +0000" channel="Cartoonito.skyde">
+<programme start="20250623230500 +0000" stop="20250623232000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250623232000 +0000" stop="20250623233000 +0000" channel="Cartoonito.skyde">
@@ -505,10 +505,10 @@
 <programme start="20250623233000 +0000" stop="20250623234500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250623234500 +0000" stop="20250623235500 +0000" channel="Cartoonito.skyde">
+<programme start="20250623234500 +0000" stop="20250624000000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250623235500 +0000" stop="20250624001500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624000000 +0000" stop="20250624001500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20250624001500 +0000" stop="20250624002500 +0000" channel="Cartoonito.skyde">
@@ -532,13 +532,13 @@
 <programme start="20250624013000 +0000" stop="20250624014500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250624014500 +0000" stop="20250624015500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624014500 +0000" stop="20250624020000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250624015500 +0000" stop="20250624020500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624020000 +0000" stop="20250624021000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250624020500 +0000" stop="20250624022500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624021000 +0000" stop="20250624022500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250624022500 +0000" stop="20250624023500 +0000" channel="Cartoonito.skyde">
@@ -598,13 +598,13 @@
 <programme start="20250624055500 +0000" stop="20250624062000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250624062000 +0000" stop="20250624065300 +0000" channel="Cartoonito.skyde">
+<programme start="20250624062000 +0000" stop="20250624065000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250624065300 +0000" stop="20250624065700 +0000" channel="Cartoonito.skyde">
+<programme start="20250624065000 +0000" stop="20250624065500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250624065700 +0000" stop="20250624070500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624065500 +0000" stop="20250624070500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250624070500 +0000" stop="20250624071000 +0000" channel="Cartoonito.skyde">
@@ -661,10 +661,10 @@
 <programme start="20250624100500 +0000" stop="20250624102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624102000 +0000" stop="20250624102500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624102000 +0000" stop="20250624103000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624102500 +0000" stop="20250624103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624103000 +0000" stop="20250624103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624103500 +0000" stop="20250624104000 +0000" channel="Cartoonito.skyde">
@@ -697,10 +697,10 @@
 <programme start="20250624123500 +0000" stop="20250624125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250624125000 +0000" stop="20250624125500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624125000 +0000" stop="20250624130000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624125500 +0000" stop="20250624130500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624130000 +0000" stop="20250624130500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624130500 +0000" stop="20250624131000 +0000" channel="Cartoonito.skyde">
@@ -751,10 +751,10 @@
 <programme start="20250624160000 +0000" stop="20250624161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624161000 +0000" stop="20250624162500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624161000 +0000" stop="20250624162000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624162500 +0000" stop="20250624163000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624162000 +0000" stop="20250624163000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624163000 +0000" stop="20250624163500 +0000" channel="Cartoonito.skyde">
@@ -772,10 +772,10 @@
 <programme start="20250624173000 +0000" stop="20250624175500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250624175500 +0000" stop="20250624180500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624175500 +0000" stop="20250624181000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250624180500 +0000" stop="20250624182500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624181000 +0000" stop="20250624182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250624182500 +0000" stop="20250624183500 +0000" channel="Cartoonito.skyde">
@@ -787,10 +787,10 @@
 <programme start="20250624185500 +0000" stop="20250624190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624190000 +0000" stop="20250624190500 +0000" channel="Cartoonito.skyde">
+<programme start="20250624190000 +0000" stop="20250624191000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250624190500 +0000" stop="20250624192000 +0000" channel="Cartoonito.skyde">
+<programme start="20250624191000 +0000" stop="20250624192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250624192000 +0000" stop="20250624193000 +0000" channel="Cartoonito.skyde">
@@ -2815,20 +2815,14 @@
 <programme start="20250624214500 +0000" stop="20250624233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Historisches Derby: ALU-ALT (2011/2012)</title>
 </programme>
-<programme start="20250623223000 +0000" stop="20250624003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250623234500 +0000" stop="20250624014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FSV Mainz 05 - 1. FC Heidenheim, 5. Spieltag</title>
 </programme>
-<programme start="20250624003000 +0000" stop="20250624010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250624014500 +0000" stop="20250624021500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Keke Topp</title>
 </programme>
-<programme start="20250624010000 +0000" stop="20250624014000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Heidenheim - Saison 24-25</title>
-</programme>
-<programme start="20250624014000 +0000" stop="20250624021000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250624021500 +0000" stop="20250624024000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Report - Roots (Marmoush, Xhaka &amp; Irvine)</title>
-</programme>
-<programme start="20250624021000 +0000" stop="20250624024000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Report - Hungry for Success - the Bundesliga&#039;s Bright Young Stars</title>
 </programme>
 <programme start="20250624024000 +0000" stop="20250624031000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Report - Bundesliga Matchday: Eintracht Frankfurt</title>
