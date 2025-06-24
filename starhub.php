@@ -2072,10 +2072,10 @@
         <title>UEFA Conference League 2024/25 Fiorentina vs Real Betis - SF, 2nd Leg</title>
     </programme>
     <programme start="20250623210000 +0000" stop="20250623213000 +0000" channel="beIN Sports 3.starhub">
-        <title>Barcelona vs Inter - SF, 1st Leg</title>
+        <title>Mini Match - UEFA Champions League 2024/25 Barcelona vs Inter - SF, 1st Leg</title>
     </programme>
     <programme start="20250623213000 +0000" stop="20250623220000 +0000" channel="beIN Sports 3.starhub">
-        <title>Inter vs Barcelona - SF, 2nd Leg</title>
+        <title>Mini Match - UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
     </programme>
     <programme start="20250623220000 +0000" stop="20250623221000 +0000" channel="beIN Sports 3.starhub">
         <title>UEL Classic Matches Tottenham vs Benfica (2013/14)</title>
@@ -2102,19 +2102,19 @@
         <title>UEFA Europa League 2024/25 Tottenham vs Bodo/Glimt -SF, 1st Leg</title>
     </programme>
     <programme start="20250624093000 +0000" stop="20250624100000 +0000" channel="beIN Sports 3.starhub">
-        <title>Inter vs Barcelona - SF, 2nd Leg</title>
+        <title>Mini Match - UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
     </programme>
     <programme start="20250624100000 +0000" stop="20250624120000 +0000" channel="beIN Sports 3.starhub">
-        <title>Eastbourne Day 2 Match 1</title>
+        <title>ATP Tour 250 2025 Eastbourne Day 2 Opelka v Loffhagen (Live)</title>
     </programme>
     <programme start="20250624120000 +0000" stop="20250624133000 +0000" channel="beIN Sports 3.starhub">
-        <title>Eastbourne Day 2 Match 2</title>
+        <title>ATP Tour 250 2025 Eastbourne Day 2 Borges v Pinnington Jones (Live)</title>
     </programme>
     <programme start="20250624133000 +0000" stop="20250624153000 +0000" channel="beIN Sports 3.starhub">
-        <title>Eastbourne Day 2 Match 3</title>
+        <title>ATP Tour 250 2025 Eastbourne Day 2 Norrie v Harris (Live)</title>
     </programme>
     <programme start="20250624153000 +0000" stop="20250624173000 +0000" channel="beIN Sports 3.starhub">
-        <title>Eastbourne Day 2 Match 4</title>
+        <title>ATP Tour 250 2025 Eastbourne Day 2 Cobolli v Fearnley (Live)</title>
     </programme>
     <programme start="20250623153000 +0000" stop="20250623163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -3452,7 +3452,7 @@
         <title>News</title>
     </programme>
     <programme start="20250624131500 +0000" stop="20250624133000 +0000" channel="DW English HD.starhub">
-        <title>Breaking Chains</title>
+        <title>Iranian ambassador claims nuclear enrichment for &#039;dignity&#039;</title>
     </programme>
     <programme start="20250624133000 +0000" stop="20250624140000 +0000" channel="DW English HD.starhub">
         <title>Reusing old machines &amp; escaping Kolkata sex trade</title>
