@@ -436,23 +436,20 @@
     <programme start="20250624110000 +0000" stop="20250624120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 17</title>
     </programme>
-    <programme start="20250624120000 +0000" stop="20250624123000 +0000" channel="Suria.mewatch">
+    <programme start="20250624120000 +0000" stop="20250624123009 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250624123000 +0000" stop="20250624133000 +0000" channel="Suria.mewatch">
+    <programme start="20250624123009 +0000" stop="20250624133008 +0000" channel="Suria.mewatch">
         <title>Sepahtu Reunion Live S6 - EP 1</title>
     </programme>
-    <programme start="20250624133000 +0000" stop="20250624143000 +0000" channel="Suria.mewatch">
+    <programme start="20250624133008 +0000" stop="20250624143007 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 12</title>
     </programme>
-    <programme start="20250624143000 +0000" stop="20250624153000 +0000" channel="Suria.mewatch">
+    <programme start="20250624143007 +0000" stop="20250624153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 18</title>
     </programme>
-    <programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="Suria.mewatch">
+    <programme start="20250624153000 +0000" stop="20250624160047 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250624160000 +0000" stop="20250625010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250623153024 +0000" stop="20250623160303 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>

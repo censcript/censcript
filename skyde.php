@@ -3814,10 +3814,10 @@
 <programme start="20250623220500 +0000" stop="20250623233500 +0000" channel="Warner TV Serie HD.skyde">
     <title>The First Purge</title>
 </programme>
-<programme start="20250623233500 +0000" stop="20250624002000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250623233500 +0000" stop="20250624001500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250624002000 +0000" stop="20250624010000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624001500 +0000" stop="20250624010000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20250624010000 +0000" stop="20250624014000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3829,13 +3829,13 @@
 <programme start="20250624022500 +0000" stop="20250624023500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250624023500 +0000" stop="20250624032500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624023500 +0000" stop="20250624033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250624032500 +0000" stop="20250624041500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624033000 +0000" stop="20250624042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250624041500 +0000" stop="20250624051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250624042000 +0000" stop="20250624051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250624051000 +0000" stop="20250624060500 +0000" channel="Warner TV Serie HD.skyde">

@@ -2986,11 +2986,11 @@
 <programme start="20250624094500 +0000" stop="20250624100000 +0000" channel="DW English.mncvision">
     <title>Reporter: Poland Swings...</title>
 </programme>
-<programme start="20250624100000 +0000" stop="20250624103000 +0000" channel="DW English.mncvision">
+<programme start="20250624100000 +0000" stop="20250624104500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20250624103000 +0000" stop="20250624110000 +0000" channel="DW English.mncvision">
-    <title>Tomorrow Today: Science</title>
+<programme start="20250624104500 +0000" stop="20250624110000 +0000" channel="DW English.mncvision">
+    <title>Sports Life: The Flying Farmer</title>
 </programme>
 <programme start="20250624110000 +0000" stop="20250624113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
