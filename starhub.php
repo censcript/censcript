@@ -3380,7 +3380,7 @@
         <title>News</title>
     </programme>
     <programme start="20250625031500 +0000" stop="20250625033000 +0000" channel="DW English HD.starhub">
-        <title>Breaking Chains</title>
+        <title>Iranian ambassador claims nuclear enrichment for &#039;dignity&#039;</title>
     </programme>
     <programme start="20250625033000 +0000" stop="20250625040000 +0000" channel="DW English HD.starhub">
         <title>Healthy environment, healthy humans</title>
@@ -3404,7 +3404,7 @@
         <title>News</title>
     </programme>
     <programme start="20250625061500 +0000" stop="20250625063000 +0000" channel="DW English HD.starhub">
-        <title>Breaking Chains</title>
+        <title>Iranian ambassador claims nuclear enrichment for &#039;dignity&#039;</title>
     </programme>
     <programme start="20250625063000 +0000" stop="20250625070000 +0000" channel="DW English HD.starhub">
         <title>Build muscle, boost your health</title>
@@ -3449,7 +3449,7 @@
         <title>News</title>
     </programme>
     <programme start="20250625131500 +0000" stop="20250625133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Breaking Chains</title>
     </programme>
     <programme start="20250625133000 +0000" stop="20250625140000 +0000" channel="DW English HD.starhub">
         <title>Healthy environment, healthy humans</title>
