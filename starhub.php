@@ -3362,7 +3362,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250623233000 +0000" stop="20250624000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Defense Stress Test - How Prepared is the German Military?</title>
     </programme>
     <programme start="20250624000000 +0000" stop="20250624000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3371,7 +3371,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250624003000 +0000" stop="20250624010000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Healthy environment, healthy humans</title>
     </programme>
     <programme start="20250624010000 +0000" stop="20250624011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3392,10 +3392,10 @@
         <title>News</title>
     </programme>
     <programme start="20250624031500 +0000" stop="20250624033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>André Corrêa do Lago, president of the COP30 climate summit</title>
     </programme>
     <programme start="20250624033000 +0000" stop="20250624040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Defense Stress Test - How Prepared is the German Military?</title>
     </programme>
     <programme start="20250624040000 +0000" stop="20250624041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3410,16 +3410,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250624053000 +0000" stop="20250624060000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Reusing old machines &amp; escaping Kolkata sex trade</title>
     </programme>
     <programme start="20250624060000 +0000" stop="20250624061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250624061500 +0000" stop="20250624063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>André Corrêa do Lago, president of the COP30 climate summit</title>
     </programme>
     <programme start="20250624063000 +0000" stop="20250624070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Building Bridges - The Art of Understanding</title>
     </programme>
     <programme start="20250624070000 +0000" stop="20250624073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3431,16 +3431,16 @@
         <title>News</title>
     </programme>
     <programme start="20250624083000 +0000" stop="20250624090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Healthy environment, healthy humans</title>
     </programme>
     <programme start="20250624090000 +0000" stop="20250624091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250624091500 +0000" stop="20250624094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Defense Stress Test - How Prepared is the German Military?</title>
     </programme>
     <programme start="20250624094500 +0000" stop="20250624100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Poland Swings Back to the Right - Fears, Worries &amp; Polarization</title>
     </programme>
     <programme start="20250624100000 +0000" stop="20250624103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3458,31 +3458,31 @@
         <title>News</title>
     </programme>
     <programme start="20250624121500 +0000" stop="20250624124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>A Defense Stress Test - How Prepared is the German Military?</title>
     </programme>
     <programme start="20250624124500 +0000" stop="20250624130000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can You Trust ADHD Tips on Social Media?</title>
     </programme>
     <programme start="20250624130000 +0000" stop="20250624131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250624131500 +0000" stop="20250624133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Breaking Chains</title>
     </programme>
     <programme start="20250624133000 +0000" stop="20250624140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Reusing old machines &amp; escaping Kolkata sex trade</title>
     </programme>
     <programme start="20250624140000 +0000" stop="20250624143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250624143000 +0000" stop="20250624150000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Venice Architecture Biennale: Adapting to the climate crisis</title>
     </programme>
     <programme start="20250624150000 +0000" stop="20250624153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250624153000 +0000" stop="20250624160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Healthy environment, healthy humans</title>
     </programme>
     <programme start="20250623160000 +0000" stop="20250623220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -8317,19 +8317,19 @@
     <programme start="20250623210000 +0000" stop="20250623233000 +0000" channel="Asianet Movies.starhub">
         <title>Novel</title>
     </programme>
-    <programme start="20250623233000 +0000" stop="20250624013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250623233000 +0000" stop="20250624014000 +0000" channel="Asianet Movies.starhub">
         <title>Traffic</title>
     </programme>
-    <programme start="20250624013000 +0000" stop="20250624043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250624014000 +0000" stop="20250624043500 +0000" channel="Asianet Movies.starhub">
         <title>Panchayath Jetty</title>
     </programme>
-    <programme start="20250624043000 +0000" stop="20250624073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250624043500 +0000" stop="20250624074000 +0000" channel="Asianet Movies.starhub">
         <title>Premam</title>
     </programme>
-    <programme start="20250624073000 +0000" stop="20250624103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250624074000 +0000" stop="20250624104000 +0000" channel="Asianet Movies.starhub">
         <title>Snehaveedu</title>
     </programme>
-    <programme start="20250624103000 +0000" stop="20250624133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250624104000 +0000" stop="20250624133000 +0000" channel="Asianet Movies.starhub">
         <title>Njandukalude nattil oridavela</title>
     </programme>
     <programme start="20250624133000 +0000" stop="20250624163000 +0000" channel="Asianet Movies.starhub">
