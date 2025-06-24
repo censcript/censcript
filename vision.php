@@ -656,7 +656,7 @@
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250624023000 +0000" stop="20250624060000 +0000" channel="ANTV.vision">
-<title>Ram Jaane</title>
+<title>Koi Mil Gaya</title>
 </programme>
 <programme start="20250624060000 +0000" stop="20250624081500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -695,7 +695,7 @@
 <title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250625023000 +0000" stop="20250625060000 +0000" channel="ANTV.vision">
-<title>Heropanti 2</title>
+<title>Krrish</title>
 </programme>
 <programme start="20250625060000 +0000" stop="20250625081500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
