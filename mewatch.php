@@ -403,9 +403,6 @@
     <programme start="20250624153000 +0000" stop="20250624160047 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250624160047 +0000" stop="20250625010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250625010000 +0000" stop="20250625013003 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 24</title>
     </programme>
@@ -1052,9 +1049,6 @@
         <title>The Wonder Shop (Home Shopping) - Thomson Osteopro</title>
     </programme>
     <programme start="20250625150000 +0000" stop="20250625160000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 26th June, Thursday 7pm. The Wonder Shop Home Shopping</title>
-    </programme>
-    <programme start="20250625160000 +0000" stop="20250626110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 26th June, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250623160001 +0000" stop="20250624160001 +0000" channel="Live 2.mewatch">

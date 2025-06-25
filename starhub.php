@@ -5377,14 +5377,11 @@
     <programme start="20250624180000 +0000" stop="20250624210000 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 1</title>
     </programme>
-    <programme start="20250624210000 +0000" stop="20250625010000 +0000" channel="SPOTV.starhub">
+    <programme start="20250624222000 +0000" stop="20250625022000 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20250625010000 +0000" stop="20250625070000 +0000" channel="SPOTV.starhub">
+    <programme start="20250625022000 +0000" stop="20250625080000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
-    </programme>
-    <programme start="20250625070000 +0000" stop="20250625080000 +0000" channel="SPOTV.starhub">
-        <title>Ep3 Dubrovnik</title>
     </programme>
     <programme start="20250625080000 +0000" stop="20250625090000 +0000" channel="SPOTV.starhub">
         <title>Pirelli Emilia-Romagna Round: Highlights</title>
