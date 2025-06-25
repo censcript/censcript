@@ -5374,7 +5374,7 @@
     <programme start="20250624100000 +0000" stop="20250624180000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250624180000 +0000" stop="20250624210000 +0000" channel="SPOTV.starhub">
+    <programme start="20250624192000 +0000" stop="20250624222000 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 1</title>
     </programme>
     <programme start="20250624222000 +0000" stop="20250625022000 +0000" channel="SPOTV.starhub">
@@ -7517,7 +7517,7 @@
         <title>Meri Bhavya Life</title>
     </programme>
     <programme start="20250624190000 +0000" stop="20250624193000 +0000" channel="COLORS.starhub">
-        <title>Doree</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250624193000 +0000" stop="20250624203000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -7532,7 +7532,7 @@
         <title>Megha Barsenge</title>
     </programme>
     <programme start="20250624220000 +0000" stop="20250624222000 +0000" channel="COLORS.starhub">
-        <title>Doree</title>
+        <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250624222000 +0000" stop="20250624225000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
