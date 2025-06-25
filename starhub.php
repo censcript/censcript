@@ -3436,13 +3436,7 @@
     <programme start="20250625113000 +0000" stop="20250625120000 +0000" channel="DW English HD.starhub">
         <title>How work can promote equality in society</title>
     </programme>
-    <programme start="20250625120000 +0000" stop="20250625121500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20250625121500 +0000" stop="20250625130000 +0000" channel="DW English HD.starhub">
-        <title>Bregret - Why Brexit Failed</title>
-    </programme>
-    <programme start="20250625130000 +0000" stop="20250625131500 +0000" channel="DW English HD.starhub">
+    <programme start="20250625120000 +0000" stop="20250625131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250625131500 +0000" stop="20250625133000 +0000" channel="DW English HD.starhub">
