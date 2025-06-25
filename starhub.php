@@ -7142,7 +7142,7 @@
         <title>LaLiga 2 Playoffs 2024/25: Racing de Santander vs Mirandes</title>
     </programme>
     <programme start="20250625020000 +0000" stop="20250625040000 +0000" channel="beIN Sports HD.starhub">
-        <title>24-Hr Nurburgring Race 2025: Part III</title>
+        <title>Part III</title>
     </programme>
     <programme start="20250625040000 +0000" stop="20250625063000 +0000" channel="beIN Sports HD.starhub">
         <title>Sachsenring</title>
@@ -7150,26 +7150,20 @@
     <programme start="20250625063000 +0000" stop="20250625070000 +0000" channel="beIN Sports HD.starhub">
         <title>Top Scorer</title>
     </programme>
-    <programme start="20250625070000 +0000" stop="20250625083000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 1 (Live)</title>
-    </programme>
-    <programme start="20250625083000 +0000" stop="20250625100000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 2 (Live)</title>
-    </programme>
-    <programme start="20250625100000 +0000" stop="20250625103000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rally Poland</title>
-    </programme>
-    <programme start="20250625103000 +0000" stop="20250625110000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rally Greece</title>
-    </programme>
-    <programme start="20250625110000 +0000" stop="20250625120000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250625070000 +0000" stop="20250625080000 +0000" channel="beIN Sports HD.starhub">
         <title>Dubrovnik</title>
     </programme>
-    <programme start="20250625120000 +0000" stop="20250625123000 +0000" channel="beIN Sports HD.starhub">
-        <title>June</title>
+    <programme start="20250625080000 +0000" stop="20250625083000 +0000" channel="beIN Sports HD.starhub">
+        <title>Rally Poland</title>
     </programme>
-    <programme start="20250625123000 +0000" stop="20250625130000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rally Greece</title>
+    <programme start="20250625083000 +0000" stop="20250625100000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 1 (Live)</title>
+    </programme>
+    <programme start="20250625100000 +0000" stop="20250625113000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 2 (Live)</title>
+    </programme>
+    <programme start="20250625113000 +0000" stop="20250625130000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 3 (Live)</title>
     </programme>
     <programme start="20250625130000 +0000" stop="20250625133000 +0000" channel="beIN Sports HD.starhub">
         <title>Ruhr Valley - The Heart of German Football Ep 3</title>
@@ -7181,7 +7175,7 @@
         <title>Brno</title>
     </programme>
     <programme start="20250625150000 +0000" stop="20250625163000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 3 (Live)</title>
+        <title>Premier Padel 2025: Valladolid P2 Day 3 Match 4 (Live)</title>
     </programme>
     <programme start="20250624152000 +0000" stop="20250624161500 +0000" channel="TestChannel2.starhub">
         <title>Narcotics Heroes</title>
@@ -7559,7 +7553,7 @@
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250625011000 +0000" stop="20250625014000 +0000" channel="COLORS.starhub">
-        <title>Doree</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250625014000 +0000" stop="20250625020000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
@@ -7592,7 +7586,7 @@
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250625063000 +0000" stop="20250625070000 +0000" channel="COLORS.starhub">
-        <title>Ram Bhavan</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250625070000 +0000" stop="20250625080000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -7601,7 +7595,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250625083000 +0000" stop="20250625090000 +0000" channel="COLORS.starhub">
-        <title>Doree</title>
+        <title>Ram Bhavan</title>
     </programme>
     <programme start="20250625090000 +0000" stop="20250625093000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
@@ -7610,7 +7604,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250625100000 +0000" stop="20250625103000 +0000" channel="COLORS.starhub">
-        <title>Ram Bhavan</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250625103000 +0000" stop="20250625110000 +0000" channel="COLORS.starhub">
         <title>Megha Barsenge</title>
@@ -7625,7 +7619,7 @@
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250625123000 +0000" stop="20250625130000 +0000" channel="COLORS.starhub">
-        <title>Ram Bhavan</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250625130000 +0000" stop="20250625140000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -7634,10 +7628,10 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250625143000 +0000" stop="20250625150000 +0000" channel="COLORS.starhub">
-        <title>Doree</title>
+        <title>Ram Bhavan</title>
     </programme>
     <programme start="20250625150000 +0000" stop="20250625153000 +0000" channel="COLORS.starhub">
-        <title>Megha Barsenge</title>
+        <title>Meri Bhavya Life</title>
     </programme>
     <programme start="20250625153000 +0000" stop="20250625160000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -7703,7 +7697,7 @@
         <title>Newsday</title>
     </programme>
     <programme start="20250625023000 +0000" stop="20250625030000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Israel-Iran coverage</title>
     </programme>
     <programme start="20250625030000 +0000" stop="20250625033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
