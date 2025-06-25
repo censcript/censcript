@@ -1,6 +1,3 @@
-    <programme start="20250625170000 +0000" stop="20250625173000 +0000" channel="Optus Sport 11.optus">
-        <title>N/A - PL Stories: Howard Webb</title>
-    </programme>
     <programme start="20250627102000 +0000" stop="20250627124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Daejeon v Jeju</title>
     </programme>
