@@ -5,7 +5,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20250625013000 +0000" stop="20250625044500 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>Doraemon Series</title>
 </programme>
 <programme start="20250625044500 +0000" stop="20250625053000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -44,7 +44,7 @@
 <title>Bajaj Belum Berlalu</title>
 </programme>
 <programme start="20250625201500 +0000" stop="20250625210000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
+<title>Crispy</title>
 </programme>
 <programme start="20250625210000 +0000" stop="20250625230000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S8</title>
@@ -59,7 +59,7 @@
 <title>Kiko</title>
 </programme>
 <programme start="20250626013000 +0000" stop="20250626044500 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>Doraemon Series</title>
 </programme>
 <programme start="20250626044500 +0000" stop="20250626053000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -206,13 +206,16 @@
 <title>Untold Story</title>
 </programme>
 <programme start="20250625140000 +0000" stop="20250625160000 +0000" channel="GTV.vision">
-<title>Monster Trucks</title>
+<title>The Italian Job</title>
 </programme>
 <programme start="20250625160000 +0000" stop="20250625170000 +0000" channel="GTV.vision">
 <title>Sumber Rejeki</title>
 </programme>
-<programme start="20250625170000 +0000" stop="20250625190000 +0000" channel="GTV.vision">
+<programme start="20250625170000 +0000" stop="20250625180000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625190000 +0000" channel="GTV.vision">
+<title>Konon Katanya</title>
 </programme>
 <programme start="20250625190000 +0000" stop="20250625203000 +0000" channel="GTV.vision">
 <title>Crime.KV</title>
@@ -223,8 +226,11 @@
 <programme start="20250625230000 +0000" stop="20250626000000 +0000" channel="GTV.vision">
 <title>Thomas And Friends</title>
 </programme>
-<programme start="20250626000000 +0000" stop="20250626030000 +0000" channel="GTV.vision">
+<programme start="20250626000000 +0000" stop="20250626023000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20250626023000 +0000" stop="20250626030000 +0000" channel="GTV.vision">
+<title>Petualangan Kiko</title>
 </programme>
 <programme start="20250626030000 +0000" stop="20250626033000 +0000" channel="GTV.vision">
 <title>Upin &amp; Ipin The Helping Heroes</title>
@@ -537,6 +543,9 @@
 </programme>
 <programme start="20250625054500 +0000" stop="20250625063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
+</programme>
+<programme start="20250625063000 +0000" stop="20250625071500 +0000" channel="Trans 7.vision">
+<title>Ujung-Ujungnya Damkar</title>
 </programme>
 <programme start="20250625071500 +0000" stop="20250625081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20250626003000 +0000" stop="20250626011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
-</programme>
-<programme start="20250626011500 +0000" stop="20250626021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250626021500 +0000" stop="20250626030000 +0000" channel="BTV.vision">
-<title>Endeus</title>
-</programme>
-<programme start="20250626030000 +0000" stop="20250626034300 +0000" channel="BTV.vision">
-<title>Kids Universe</title>
 </programme>
