@@ -508,28 +508,28 @@
     <programme start="20250625080001 +0000" stop="20250625110000 +0000" channel="Vasantham.mewatch">
         <title>Sura</title>
     </programme>
-    <programme start="20250625110000 +0000" stop="20250625120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625110000 +0000" stop="20250625115958 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary S2 - EP 8</title>
     </programme>
-    <programme start="20250625120000 +0000" stop="20250625123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625115958 +0000" stop="20250625123000 +0000" channel="Vasantham.mewatch">
         <title>Uppu Roti Chidambaram - EP 1</title>
     </programme>
-    <programme start="20250625123000 +0000" stop="20250625130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625123000 +0000" stop="20250625130002 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250625130000 +0000" stop="20250625133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625130002 +0000" stop="20250625133002 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 20</title>
     </programme>
-    <programme start="20250625133000 +0000" stop="20250625140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625133002 +0000" stop="20250625140000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 10</title>
     </programme>
     <programme start="20250625140000 +0000" stop="20250625143000 +0000" channel="Vasantham.mewatch">
         <title>Manmadha Bullets - EP 1</title>
     </programme>
-    <programme start="20250625143000 +0000" stop="20250625150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625143000 +0000" stop="20250625150003 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 18</title>
     </programme>
-    <programme start="20250625150000 +0000" stop="20250625153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250625150003 +0000" stop="20250625153000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 6</title>
     </programme>
     <programme start="20250625153000 +0000" stop="20250625160351 +0000" channel="Vasantham.mewatch">
@@ -586,25 +586,25 @@
     <programme start="20250625095958 +0000" stop="20250625110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250625110000 +0000" stop="20250625120000 +0000" channel="CNA.mewatch">
+    <programme start="20250625110000 +0000" stop="20250625120002 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 2</title>
     </programme>
-    <programme start="20250625120000 +0000" stop="20250625130000 +0000" channel="CNA.mewatch">
+    <programme start="20250625120002 +0000" stop="20250625130002 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250625130000 +0000" stop="20250625133000 +0000" channel="CNA.mewatch">
+    <programme start="20250625130002 +0000" stop="20250625133020 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 4</title>
     </programme>
-    <programme start="20250625133000 +0000" stop="20250625140000 +0000" channel="CNA.mewatch">
+    <programme start="20250625133020 +0000" stop="20250625140001 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 9</title>
     </programme>
-    <programme start="20250625140000 +0000" stop="20250625150000 +0000" channel="CNA.mewatch">
+    <programme start="20250625140001 +0000" stop="20250625150206 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250625150000 +0000" stop="20250625160000 +0000" channel="CNA.mewatch">
+    <programme start="20250625150206 +0000" stop="20250625160000 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 4</title>
     </programme>
-    <programme start="20250625160000 +0000" stop="20250625160300 +0000" channel="CNA.mewatch">
+    <programme start="20250625160000 +0000" stop="20250625160315 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250624155959 +0000" stop="20250624170011 +0000" channel="Oktolidays.mewatch">

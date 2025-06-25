@@ -2794,9 +2794,6 @@
     <programme start="20250624163000 +0000" stop="20250624230000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
     </programme>
-    <programme start="20250624230000 +0000" stop="20250624233000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20250624233000 +0000" stop="20250625000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
@@ -2843,7 +2840,7 @@
         <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20250625073000 +0000" stop="20250625080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - PASUMPON_x000D_</title>
+        <title>Movie - PASUMPON</title>
     </programme>
     <programme start="20250625080000 +0000" stop="20250625083000 +0000" channel="Sun TV.starhub">
         <title>News</title>

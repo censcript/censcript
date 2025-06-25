@@ -698,133 +698,127 @@
 <title>Imlie</title>
 </programme>
 <programme start="20250624230000 +0000" stop="20250625003000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20250625003000 +0000" stop="20250625013000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20250625013000 +0000" stop="20250625020000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625003000 +0000" stop="20250625020000 +0000" channel="RTV.vision">
+<title>METAL CARDBOT</title>
 </programme>
 <programme start="20250625020000 +0000" stop="20250625022800 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Robocar Poli</title>
 </programme>
 <programme start="20250625022800 +0000" stop="20250625030000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Totally Spies</title>
 </programme>
-<programme start="20250625030000 +0000" stop="20250625040000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20250625040000 +0000" stop="20250625043000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625030000 +0000" stop="20250625043000 +0000" channel="RTV.vision">
+<title>Catch! Teenieping</title>
 </programme>
 <programme start="20250625043000 +0000" stop="20250625050000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Tawa Satwa</title>
 </programme>
 <programme start="20250625050000 +0000" stop="20250625063000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>BOBOIBOY</title>
 </programme>
 <programme start="20250625063000 +0000" stop="20250625070000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>SUPER WINGS</title>
 </programme>
-<programme start="20250625070000 +0000" stop="20250625080000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625070000 +0000" stop="20250625073000 +0000" channel="RTV.vision">
+<title>Nailoong Vs Bombloong</title>
 </programme>
-<programme start="20250625080000 +0000" stop="20250625100000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625073000 +0000" stop="20250625090000 +0000" channel="RTV.vision">
+<title>Grizzy And The Lemmings</title>
 </programme>
-<programme start="20250625100000 +0000" stop="20250625113000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625090000 +0000" stop="20250625103000 +0000" channel="RTV.vision">
+<title>BoBoiBoy Galaxy</title>
 </programme>
-<programme start="20250625113000 +0000" stop="20250625122900 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625103000 +0000" stop="20250625115900 +0000" channel="RTV.vision">
+<title>Mechamato</title>
 </programme>
-<programme start="20250625122900 +0000" stop="20250625140000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250625115900 +0000" stop="20250625132900 +0000" channel="RTV.vision">
+<title>Quantum Heroes Dinoster</title>
+</programme>
+<programme start="20250625132900 +0000" stop="20250625140000 +0000" channel="RTV.vision">
+<title>EJEN ALI</title>
 </programme>
 <programme start="20250625140000 +0000" stop="20250625142800 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Si Paling Trending!</title>
 </programme>
 <programme start="20250625142800 +0000" stop="20250625145900 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Terkepo-Kepo</title>
 </programme>
 <programme start="20250625145900 +0000" stop="20250625152900 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>TOP TRENDING</title>
 </programme>
 <programme start="20250625152900 +0000" stop="20250625155900 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>STB (Sangat Tidak Biasa)</title>
 </programme>
 <programme start="20250625155900 +0000" stop="20250625162900 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Lensa Indonesia Malam</title>
 </programme>
 <programme start="20250625162900 +0000" stop="20250625170000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>CATATAN SEPUTAR INVESTIGASI</title>
 </programme>
 <programme start="20250625170000 +0000" stop="20250625180000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Di Ujung Rindu</title>
 </programme>
 <programme start="20250625180000 +0000" stop="20250625183000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>TERANG KASIH</title>
 </programme>
 <programme start="20250625183000 +0000" stop="20250625190000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>BESTI (BEST INFORMASI)</title>
 </programme>
 <programme start="20250625190000 +0000" stop="20250625203000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Movinesia</title>
 </programme>
 <programme start="20250625203000 +0000" stop="20250625210000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Ustadz On The Road</title>
 </programme>
 <programme start="20250625210000 +0000" stop="20250625213000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>KOKOM (Kompilasi Komedi)</title>
 </programme>
 <programme start="20250625213000 +0000" stop="20250625220000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Tawa Satwa</title>
 </programme>
 <programme start="20250625220000 +0000" stop="20250625230000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Riko The Series</title>
 </programme>
 <programme start="20250625230000 +0000" stop="20250626003000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20250626003000 +0000" stop="20250626013000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20250626013000 +0000" stop="20250626020000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250626003000 +0000" stop="20250626020000 +0000" channel="RTV.vision">
+<title>METAL CARDBOT</title>
 </programme>
 <programme start="20250626020000 +0000" stop="20250626022800 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Robocar Poli</title>
 </programme>
 <programme start="20250626022800 +0000" stop="20250626030000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Totally Spies</title>
 </programme>
-<programme start="20250626030000 +0000" stop="20250626040000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20250626040000 +0000" stop="20250626043000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250626030000 +0000" stop="20250626043000 +0000" channel="RTV.vision">
+<title>Catch! Teenieping</title>
 </programme>
 <programme start="20250626043000 +0000" stop="20250626050000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Tawa Satwa</title>
 </programme>
 <programme start="20250626050000 +0000" stop="20250626063000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>BOBOIBOY</title>
 </programme>
 <programme start="20250626063000 +0000" stop="20250626070000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>SUPER WINGS</title>
 </programme>
-<programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250626070000 +0000" stop="20250626073000 +0000" channel="RTV.vision">
+<title>Nailoong Vs Bombloong</title>
 </programme>
-<programme start="20250626080000 +0000" stop="20250626100000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="RTV.vision">
+<title>Grizzy And The Lemmings</title>
 </programme>
-<programme start="20250626100000 +0000" stop="20250626113000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250626090000 +0000" stop="20250626103000 +0000" channel="RTV.vision">
+<title>BoBoiBoy Galaxy</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626122900 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20250626103000 +0000" stop="20250626115900 +0000" channel="RTV.vision">
+<title>Mechamato</title>
+</programme>
+<programme start="20250626115900 +0000" stop="20250626132900 +0000" channel="RTV.vision">
+<title>Quantum Heroes Dinoster</title>
 </programme>
 <programme start="20250624233000 +0000" stop="20250625013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250626011500 +0000" stop="20250626021500 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250626021500 +0000" stop="20250626030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
+</programme>
+<programme start="20250626030000 +0000" stop="20250626034300 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
 </programme>
