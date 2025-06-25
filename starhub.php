@@ -2794,6 +2794,9 @@
     <programme start="20250624163000 +0000" stop="20250624230000 +0000" channel="Sun TV.starhub">
         <title>SONGS</title>
     </programme>
+    <programme start="20250624230000 +0000" stop="20250624233000 +0000" channel="Sun TV.starhub">
+        <title>NEWS</title>
+    </programme>
     <programme start="20250624233000 +0000" stop="20250625000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
