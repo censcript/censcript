@@ -1096,17 +1096,17 @@
 <programme start="20250626100000 +0000" stop="20250626103000 +0000" channel="beIN Sports 1.mncvision">
     <title>FastZone 2025, Ep 11</title>
 </programme>
-<programme start="20250626103000 +0000" stop="20250626113000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FIA World Rally C&#039;ship HL 2025</title>
+<programme start="20250626103000 +0000" stop="20250626110000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA World Rally Magazine Show</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626122500 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="beIN Sports 1.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626125500 +0000" channel="beIN Sports 1.mncvision">
     <title>UIM E1 World Championship HL</title>
 </programme>
-<programme start="20250626122500 +0000" stop="20250626140000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250626125500 +0000" stop="20250626143000 +0000" channel="beIN Sports 1.mncvision">
     <title>UEFA Club Competitions Specials</title>
-</programme>
-<programme start="20250626140000 +0000" stop="20250626143000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FIA World Rally Magazine Show</title>
 </programme>
 <programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="beIN Sports 1.mncvision">
     <title>FastZone 2025, Ep 11</title>
@@ -1165,17 +1165,17 @@
 <programme start="20250626100000 +0000" stop="20250626103000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FastZone 2025, Ep 11</title>
 </programme>
-<programme start="20250626103000 +0000" stop="20250626113000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FIA World Rally C&#039;ship HL 2025</title>
+<programme start="20250626103000 +0000" stop="20250626110000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally Magazine Show</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626122500 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626125500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>UIM E1 World Championship HL</title>
 </programme>
-<programme start="20250626122500 +0000" stop="20250626140000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250626125500 +0000" stop="20250626143000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>UEFA Club Competitions Specials</title>
-</programme>
-<programme start="20250626140000 +0000" stop="20250626143000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FIA World Rally Magazine Show</title>
 </programme>
 <programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FastZone 2025, Ep 11</title>

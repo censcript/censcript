@@ -178,10 +178,10 @@
 <programme start="20250625232000 +0000" stop="20250625233500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250625233500 +0000" stop="20250625235500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250625233500 +0000" stop="20250626000000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250625235500 +0000" stop="20250626001000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250626000000 +0000" stop="20250626001000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
 <programme start="20250626001000 +0000" stop="20250626002000 +0000" channel="Cartoon Network.skyde">
@@ -703,10 +703,10 @@
 <programme start="20250626110500 +0000" stop="20250626112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626112000 +0000" stop="20250626113000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626112000 +0000" stop="20250626113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626115000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626113500 +0000" stop="20250626115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250626115000 +0000" stop="20250626120000 +0000" channel="Cartoonito.skyde">
@@ -715,10 +715,10 @@
 <programme start="20250626120000 +0000" stop="20250626122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626122000 +0000" stop="20250626122500 +0000" channel="Cartoonito.skyde">
+<programme start="20250626122000 +0000" stop="20250626123000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626122500 +0000" stop="20250626124000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626123000 +0000" stop="20250626124000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250626124000 +0000" stop="20250626125000 +0000" channel="Cartoonito.skyde">
@@ -766,16 +766,16 @@
 <programme start="20250626151000 +0000" stop="20250626152500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626152500 +0000" stop="20250626153500 +0000" channel="Cartoonito.skyde">
+<programme start="20250626152500 +0000" stop="20250626154000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626153500 +0000" stop="20250626155500 +0000" channel="Cartoonito.skyde">
+<programme start="20250626154000 +0000" stop="20250626155500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626155500 +0000" stop="20250626160000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626155500 +0000" stop="20250626160500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250626160000 +0000" stop="20250626161000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626160500 +0000" stop="20250626161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250626161000 +0000" stop="20250626162500 +0000" channel="Cartoonito.skyde">
@@ -961,31 +961,31 @@
 <programme start="20250626060000 +0000" stop="20250626063000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 22. Spieltag</title>
 </programme>
-<programme start="20250626063000 +0000" stop="20250626073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626063000 +0000" stop="20250626072000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2024/25: 38. Spieltag</title>
 </programme>
-<programme start="20250626073000 +0000" stop="20250626093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626072000 +0000" stop="20250626091000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626091000 +0000" stop="20250626110000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Atlético Madrid - FC Barcelona</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250626120000 +0000" stop="20250626150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1: PSG - AJ Auxerre</title>
 </programme>
-<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626150000 +0000" stop="20250626152000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow 2024/25: 36. Spieltag</title>
 </programme>
-<programme start="20250626153000 +0000" stop="20250626173000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626152000 +0000" stop="20250626172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Atlético Madrid - FC Barcelona</title>
 </programme>
-<programme start="20250626173000 +0000" stop="20250626180000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626172000 +0000" stop="20250626181000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250626180000 +0000" stop="20250626183000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626181000 +0000" stop="20250626183000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 33. Spieltag</title>
 </programme>
 <programme start="20250626183000 +0000" stop="20250626190000 +0000" channel="DAZN 1 HD.skyde">
@@ -2770,11 +2770,14 @@
 <programme start="20250626215000 +0000" stop="20250626224000 +0000" channel="Sky Showcase HD.skyde">
     <title>Tayrona - Kolumbiens Naturparadies</title>
 </programme>
+<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
+</programme>
 <programme start="20250625233000 +0000" stop="20250626011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: FAK-SCR (1996/1997)</title>
+    <title>Fußball: Historisches Derby: ASK-SVR (2010/2011)</title>
 </programme>
 <programme start="20250626011500 +0000" stop="20250626030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: ASK-SVR (2008/2009)</title>
+    <title>Fußball: Historisches Derby: FAK-SCR (1996/1997)</title>
 </programme>
 <programme start="20250626030000 +0000" stop="20250626033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Nina Hartmann (Schauspielerin und Kabarettistin)</title>
@@ -3277,7 +3280,7 @@
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250626093000 +0000" stop="20250626200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3289,7 +3292,7 @@
 <programme start="20250626111000 +0000" stop="20250626113000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626163000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250626113000 +0000" stop="20250626183000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: Italian Open, 1. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250625222000 +0000" stop="20250625231000 +0000" channel="SYFY HD.skyde">
