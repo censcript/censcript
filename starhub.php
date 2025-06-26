@@ -2312,28 +2312,28 @@
         <title>ATP Tour 250 2025: Eastbourne Day 3 Match 1</title>
     </programme>
     <programme start="20250626040000 +0000" stop="20250626053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Eastbourne Day 3 Match 2</title>
+        <title>ATP Tour 250 2025: Eastbourne Day 3 Match 2 Eastbourne Day 3 Mensik v Opelka</title>
     </programme>
     <programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250626060000 +0000" stop="20250626073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Eastbourne Day 3 Match 3</title>
+        <title>ATP Tour 250 2025 Eastbourne Day 3 Paul v Evans</title>
     </programme>
     <programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Eastbourne Day 3 Match 4</title>
+        <title>ATP Tour 250 2025 Mallorca Day 4 Shelton v Tien</title>
     </programme>
     <programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250626093000 +0000" stop="20250626113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Mallorca QF 1</title>
+        <title>ATP Tour 250 2025 Mallorca QF 1 Griekspoor v Diallo</title>
     </programme>
     <programme start="20250626113000 +0000" stop="20250626130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Mallorca QF 2</title>
+        <title>ATP Tour 250 2025 Mallorca QF 2 Auger-Aliassime v Medjedovic</title>
     </programme>
     <programme start="20250626130000 +0000" stop="20250626150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Mallorca QF 3</title>
+        <title>ATP Tour 250 2025 Mallorca QF 3 Tien v Moutet</title>
     </programme>
     <programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
@@ -8164,13 +8164,13 @@
     <programme start="20250625133000 +0000" stop="20250625163000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20250625163000 +0000" stop="20250625190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250625164000 +0000" stop="20250625191000 +0000" channel="Asianet Movies.starhub">
         <title>Classmates</title>
     </programme>
-    <programme start="20250625190000 +0000" stop="20250625220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250625191000 +0000" stop="20250625211000 +0000" channel="Asianet Movies.starhub">
         <title>Paradesi</title>
     </programme>
-    <programme start="20250625220000 +0000" stop="20250625233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250625211000 +0000" stop="20250625233000 +0000" channel="Asianet Movies.starhub">
         <title>Pokkiri Simon</title>
     </programme>
     <programme start="20250625233000 +0000" stop="20250626013000 +0000" channel="Asianet Movies.starhub">
@@ -8326,23 +8326,20 @@
     <programme start="20250626000000 +0000" stop="20250626004000 +0000" channel="SPOTV2.starhub">
         <title>2025 World Sailing Show</title>
     </programme>
-    <programme start="20250626004000 +0000" stop="20250626034500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250626004000 +0000" stop="20250626044500 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025: Regular season Colorado Rockies vs Los Angeles Dodgers</title>
     </programme>
-    <programme start="20250626034500 +0000" stop="20250626051000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250626044500 +0000" stop="20250626061000 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto3</title>
     </programme>
-    <programme start="20250626051000 +0000" stop="20250626062500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250626061000 +0000" stop="20250626072500 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250626062500 +0000" stop="20250626084500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250626072500 +0000" stop="20250626094500 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
     </programme>
-    <programme start="20250626084500 +0000" stop="20250626094500 +0000" channel="SPOTV2.starhub">
-        <title>Race 2</title>
-    </programme>
     <programme start="20250626094500 +0000" stop="20250626105500 +0000" channel="SPOTV2.starhub">
-        <title>Rd8 Race</title>
+        <title>Race 2</title>
     </programme>
     <programme start="20250626105500 +0000" stop="20250626130000 +0000" channel="SPOTV2.starhub">
         <title>Women&#039;s Football Friendly 2025 Match 1 - Australia v Slovenia</title>
