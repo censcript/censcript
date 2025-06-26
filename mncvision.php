@@ -1223,7 +1223,7 @@
     <title>ATP Tour 250 2025: Eastbourne</title>
 </programme>
 <programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Eastbourne</title>
+    <title>ATP Tour 250 2025: Mallorca</title>
 </programme>
 <programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour: This Week 2025, Ep 24</title>
@@ -1286,7 +1286,7 @@
     <title>ATP Tour 250 2025: Eastbourne</title>
 </programme>
 <programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Eastbourne</title>
+    <title>ATP Tour 250 2025: Mallorca</title>
 </programme>
 <programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour: This Week 2025, Ep 24</title>

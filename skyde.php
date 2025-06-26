@@ -703,10 +703,10 @@
 <programme start="20250626110500 +0000" stop="20250626112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626112000 +0000" stop="20250626113500 +0000" channel="Cartoonito.skyde">
+<programme start="20250626112000 +0000" stop="20250626113000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626113500 +0000" stop="20250626115000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626113000 +0000" stop="20250626115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250626115000 +0000" stop="20250626120000 +0000" channel="Cartoonito.skyde">
@@ -715,10 +715,10 @@
 <programme start="20250626120000 +0000" stop="20250626122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626122000 +0000" stop="20250626123000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626122000 +0000" stop="20250626122500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626123000 +0000" stop="20250626124000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626122500 +0000" stop="20250626124000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250626124000 +0000" stop="20250626125000 +0000" channel="Cartoonito.skyde">
@@ -766,16 +766,16 @@
 <programme start="20250626151000 +0000" stop="20250626152500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626152500 +0000" stop="20250626154000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626152500 +0000" stop="20250626153500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626154000 +0000" stop="20250626155500 +0000" channel="Cartoonito.skyde">
+<programme start="20250626153500 +0000" stop="20250626155500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250626155500 +0000" stop="20250626160500 +0000" channel="Cartoonito.skyde">
+<programme start="20250626155500 +0000" stop="20250626160000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250626160500 +0000" stop="20250626161000 +0000" channel="Cartoonito.skyde">
+<programme start="20250626160000 +0000" stop="20250626161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250626161000 +0000" stop="20250626162500 +0000" channel="Cartoonito.skyde">
@@ -3163,25 +3163,22 @@
 <programme start="20250626210000 +0000" stop="20250626230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>WSL: FC Chelsea - FC Liverpool, 22. Spieltag</title>
 </programme>
-<programme start="20250625223000 +0000" stop="20250625230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250625234500 +0000" stop="20250626001500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250625230000 +0000" stop="20250626013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250626001500 +0000" stop="20250626024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
-<programme start="20250626013000 +0000" stop="20250626033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250626024500 +0000" stop="20250626044500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: C. Tauson (DEN) - M. Andreeva, Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
-<programme start="20250626033000 +0000" stop="20250626043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review London</title>
-</programme>
-<programme start="20250626043000 +0000" stop="20250626053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250626044500 +0000" stop="20250626052500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
 </programme>
 <programme start="20250626053000 +0000" stop="20250626073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: D. Altmaier (GER) - C. Moutet (FRA), Mallorca Championships in Santa Ponsa (ESP), 4. Tag</title>
 </programme>
-<programme start="20250626073000 +0000" stop="20250626093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250626072500 +0000" stop="20250626093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: C. Tauson (DEN) - M. Andreeva, Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
 <programme start="20250626093000 +0000" stop="20250626180000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3191,18 +3188,18 @@
     <title>ATP 500: C. Alcaraz (ESP) - J. Lehecka (CZE), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20250626203000 +0000" stop="20250626223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 5. Tag</title>
+    <title>WTA 500: J. Pegula (USA) - E. Navarro (USA), Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
-<programme start="20250625220000 +0000" stop="20250625230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250625221500 +0000" stop="20250625231000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PGA Tour Champions: Highlights Kaulig Companies Championship</title>
 </programme>
-<programme start="20250625230000 +0000" stop="20250626010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250625231000 +0000" stop="20250626011000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: C. Tauson (DEN) - M. Andreeva, Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
 <programme start="20250626010000 +0000" stop="20250626030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: D. Altmaier (GER) - C. Moutet (FRA), Mallorca Championships in Santa Ponsa (ESP), 4. Tag</title>
 </programme>
-<programme start="20250626030000 +0000" stop="20250626034500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250626031000 +0000" stop="20250626040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>World Surf League: Highlights 2025 Margaret River Pro</title>
 </programme>
 <programme start="20250626034500 +0000" stop="20250626040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3280,7 +3277,7 @@
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250626093000 +0000" stop="20250626180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3292,7 +3289,7 @@
 <programme start="20250626111000 +0000" stop="20250626113000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626183000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250626113000 +0000" stop="20250626163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: Italian Open, 1. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250625222000 +0000" stop="20250625231000 +0000" channel="SYFY HD.skyde">

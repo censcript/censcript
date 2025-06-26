@@ -7073,7 +7073,7 @@
         <title>July</title>
     </programme>
     <programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rotterdam</title>
+        <title>ATP Tour 250 2025 Eastbourne Day 4 Fritz v Fonseca</title>
     </programme>
     <programme start="20250626120000 +0000" stop="20250626123000 +0000" channel="beIN Sports HD.starhub">
         <title>Recap Cape Epic Stage 5-7 &amp; Preview 4Islands MTB Croatia</title>
