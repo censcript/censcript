@@ -961,31 +961,31 @@
 <programme start="20250626060000 +0000" stop="20250626063000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 22. Spieltag</title>
 </programme>
-<programme start="20250626063000 +0000" stop="20250626073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626063000 +0000" stop="20250626072000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2024/25: 38. Spieltag</title>
 </programme>
-<programme start="20250626073000 +0000" stop="20250626093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626072000 +0000" stop="20250626091000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626091000 +0000" stop="20250626110000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Atlético Madrid - FC Barcelona</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250626120000 +0000" stop="20250626150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1: PSG - AJ Auxerre</title>
 </programme>
-<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626150000 +0000" stop="20250626152000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow 2024/25: 36. Spieltag</title>
 </programme>
-<programme start="20250626153000 +0000" stop="20250626173000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626152000 +0000" stop="20250626172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Atlético Madrid - FC Barcelona</title>
 </programme>
-<programme start="20250626173000 +0000" stop="20250626180000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626172000 +0000" stop="20250626181000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250626180000 +0000" stop="20250626183000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250626181000 +0000" stop="20250626183000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 33. Spieltag</title>
 </programme>
 <programme start="20250626183000 +0000" stop="20250626190000 +0000" channel="DAZN 1 HD.skyde">
