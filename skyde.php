@@ -3289,7 +3289,7 @@
 <programme start="20250626111000 +0000" stop="20250626113000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626183000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250626113000 +0000" stop="20250626173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: Italian Open, 1. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250625222000 +0000" stop="20250625231000 +0000" channel="SYFY HD.skyde">
