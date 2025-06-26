@@ -250,29 +250,26 @@
     <programme start="20250626093019 +0000" stop="20250626103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 50</title>
     </programme>
-    <programme start="20250626103000 +0000" stop="20250626113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626103000 +0000" stop="20250626113004 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 63</title>
     </programme>
-    <programme start="20250626113000 +0000" stop="20250626120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626113004 +0000" stop="20250626120020 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 13</title>
     </programme>
-    <programme start="20250626120000 +0000" stop="20250626130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626120020 +0000" stop="20250626130040 +0000" channel="Channel 8.mewatch">
         <title>The Indigenous - EP 5</title>
     </programme>
-    <programme start="20250626130000 +0000" stop="20250626140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626130040 +0000" stop="20250626140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 26</title>
     </programme>
-    <programme start="20250626140000 +0000" stop="20250626143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626140000 +0000" stop="20250626143109 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626143109 +0000" stop="20250626150055 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 10</title>
     </programme>
-    <programme start="20250626150000 +0000" stop="20250626160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250626150055 +0000" stop="20250626160104 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 24</title>
-    </programme>
-    <programme start="20250626160000 +0000" stop="20250626170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 7</title>
     </programme>
     <programme start="20250625153122 +0000" stop="20250625163051 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 7</title>
@@ -376,19 +373,19 @@
     <programme start="20250626110000 +0000" stop="20250626115922 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 54</title>
     </programme>
-    <programme start="20250626115922 +0000" stop="20250626130103 +0000" channel="Channel U.mewatch">
+    <programme start="20250626115922 +0000" stop="20250626130113 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 55</title>
     </programme>
-    <programme start="20250626130103 +0000" stop="20250626140044 +0000" channel="Channel U.mewatch">
+    <programme start="20250626130113 +0000" stop="20250626140054 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 9</title>
     </programme>
-    <programme start="20250626140044 +0000" stop="20250626150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626140054 +0000" stop="20250626150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 36</title>
     </programme>
-    <programme start="20250626150000 +0000" stop="20250626153039 +0000" channel="Channel U.mewatch">
+    <programme start="20250626150000 +0000" stop="20250626153054 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250626153039 +0000" stop="20250626162955 +0000" channel="Channel U.mewatch">
+    <programme start="20250626153054 +0000" stop="20250626163009 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 9</title>
     </programme>
     <programme start="20250625153000 +0000" stop="20250625160034 +0000" channel="Suria.mewatch">
@@ -436,23 +433,20 @@
     <programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 19</title>
     </programme>
-    <programme start="20250626120000 +0000" stop="20250626123000 +0000" channel="Suria.mewatch">
+    <programme start="20250626120000 +0000" stop="20250626123012 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250626123000 +0000" stop="20250626133000 +0000" channel="Suria.mewatch">
+    <programme start="20250626123012 +0000" stop="20250626133008 +0000" channel="Suria.mewatch">
         <title>The Last Defenders S2 - EP 2</title>
     </programme>
-    <programme start="20250626133000 +0000" stop="20250626143000 +0000" channel="Suria.mewatch">
+    <programme start="20250626133008 +0000" stop="20250626143003 +0000" channel="Suria.mewatch">
         <title>Korban S2 - EP 5</title>
     </programme>
-    <programme start="20250626143000 +0000" stop="20250626153000 +0000" channel="Suria.mewatch">
+    <programme start="20250626143003 +0000" stop="20250626153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 20</title>
     </programme>
-    <programme start="20250626153000 +0000" stop="20250626160000 +0000" channel="Suria.mewatch">
+    <programme start="20250626153000 +0000" stop="20250626160017 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250626160000 +0000" stop="20250627010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250625153000 +0000" stop="20250625160351 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
@@ -583,23 +577,20 @@
     <programme start="20250626100001 +0000" stop="20250626110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="CNA.mewatch">
+    <programme start="20250626110000 +0000" stop="20250626115959 +0000" channel="CNA.mewatch">
         <title>The Waves that Changed Us - EP 3</title>
     </programme>
-    <programme start="20250626120000 +0000" stop="20250626130000 +0000" channel="CNA.mewatch">
+    <programme start="20250626115959 +0000" stop="20250626125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250626130000 +0000" stop="20250626140000 +0000" channel="CNA.mewatch">
+    <programme start="20250626125959 +0000" stop="20250626140000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 10</title>
     </programme>
-    <programme start="20250626140000 +0000" stop="20250626150000 +0000" channel="CNA.mewatch">
+    <programme start="20250626140000 +0000" stop="20250626150105 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250626150000 +0000" stop="20250626160000 +0000" channel="CNA.mewatch">
+    <programme start="20250626150105 +0000" stop="20250626160001 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 3</title>
-    </programme>
-    <programme start="20250626160000 +0000" stop="20250626160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250625155959 +0000" stop="20250625170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
