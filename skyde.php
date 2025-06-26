@@ -178,10 +178,10 @@
 <programme start="20250625232000 +0000" stop="20250625233500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250625233500 +0000" stop="20250626000000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250625233500 +0000" stop="20250625235500 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250626000000 +0000" stop="20250626001000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250625235500 +0000" stop="20250626001000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
 <programme start="20250626001000 +0000" stop="20250626002000 +0000" channel="Cartoon Network.skyde">
@@ -2770,14 +2770,11 @@
 <programme start="20250626215000 +0000" stop="20250626224000 +0000" channel="Sky Showcase HD.skyde">
     <title>Tayrona - Kolumbiens Naturparadies</title>
 </programme>
-<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
-</programme>
 <programme start="20250625233000 +0000" stop="20250626011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: ASK-SVR (2010/2011)</title>
+    <title>Fußball: Historisches Derby: FAK-SCR (1996/1997)</title>
 </programme>
 <programme start="20250626011500 +0000" stop="20250626030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: FAK-SCR (1996/1997)</title>
+    <title>Fußball: Historisches Derby: ASK-SVR (2008/2009)</title>
 </programme>
 <programme start="20250626030000 +0000" stop="20250626033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Nina Hartmann (Schauspielerin und Kabarettistin)</title>
@@ -3289,7 +3286,7 @@
 <programme start="20250626111000 +0000" stop="20250626113000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626183000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250626113000 +0000" stop="20250626163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: Italian Open, 1. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250625222000 +0000" stop="20250625231000 +0000" channel="SYFY HD.skyde">

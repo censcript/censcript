@@ -97,8 +97,162 @@
 <programme start="20250626163000 +0000" stop="20250625170000 +0000" channel="ABC Australia.mncvision">
     <title>Going Places With Ernie Dingo</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250625170000 +0000" stop="20250625173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250625173000 +0000" stop="20250625180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250625193000 +0000" stop="20250625200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Radicalised Youth</title>
+</programme>
+<programme start="20250625200000 +0000" stop="20250625203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250625203000 +0000" stop="20250625210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250625210000 +0000" stop="20250625220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250625220000 +0000" stop="20250625223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250625223000 +0000" stop="20250625230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fault Lines: The Last Lifeline</title>
+</programme>
+<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250625233000 +0000" stop="20250626000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Democracy Maybe</title>
+</programme>
+<programme start="20250626000000 +0000" stop="20250626003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626003000 +0000" stop="20250626010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250626010000 +0000" stop="20250626020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Israel</title>
+</programme>
+<programme start="20250626020000 +0000" stop="20250626023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626023000 +0000" stop="20250626030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20250626030000 +0000" stop="20250626033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626033000 +0000" stop="20250626040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Boycott: In Court</title>
+</programme>
+<programme start="20250626040000 +0000" stop="20250626043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626043000 +0000" stop="20250626050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: V. Gandikota-Nellutla</title>
+</programme>
+<programme start="20250626050000 +0000" stop="20250626053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250626060000 +0000" stop="20250626063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626063000 +0000" stop="20250626070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Democracy Maybe</title>
+</programme>
+<programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250626080000 +0000" stop="20250626083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626083000 +0000" stop="20250626090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Fault Lines: The Last Lifeline</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626093000 +0000" stop="20250626100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20250626100000 +0000" stop="20250626110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250626110000 +0000" stop="20250626113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626113000 +0000" stop="20250626120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Drug Trafficking, Politics...</title>
+</programme>
+<programme start="20250626130000 +0000" stop="20250626140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250626140000 +0000" stop="20250626143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250626160000 +0000" stop="20250626163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250626163000 +0000" stop="20250625170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Forced To Flee...</title>
+</programme>
+<programme start="20250625170000 +0000" stop="20250625190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250625210000 +0000" stop="20250625230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250625230000 +0000" stop="20250626010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626010000 +0000" stop="20250626030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626030000 +0000" stop="20250626050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626050000 +0000" stop="20250626070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626070000 +0000" stop="20250626090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626110000 +0000" stop="20250626130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626130000 +0000" stop="20250626150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20250625170000 +0000" stop="20250625173000 +0000" channel="Animax.mncvision">
     <title>Buddy Daddies, Ep 3</title>
 </programme>
@@ -1032,10 +1186,264 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250626163000 +0000" stop="20250625170000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250625180000 +0000" stop="20250625182000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2017</title>
+</programme>
+<programme start="20250625182000 +0000" stop="20250625184000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2013</title>
+</programme>
+<programme start="20250625184000 +0000" stop="20250625190000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2013</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625203000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 2025: Dallas</title>
+</programme>
+<programme start="20250625203000 +0000" stop="20250625220000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 2025: Dallas</title>
+</programme>
+<programme start="20250625220000 +0000" stop="20250625233000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 2025: Dallas</title>
+</programme>
+<programme start="20250625233000 +0000" stop="20250626010000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca</title>
+</programme>
+<programme start="20250626010000 +0000" stop="20250626023000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca</title>
+</programme>
+<programme start="20250626023000 +0000" stop="20250626040000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Eastbourne</title>
+</programme>
+<programme start="20250626040000 +0000" stop="20250626053000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Eastbourne</title>
+</programme>
+<programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 24</title>
+</programme>
+<programme start="20250626060000 +0000" stop="20250626073000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Eastbourne</title>
+</programme>
+<programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 24</title>
+</programme>
+<programme start="20250626093000 +0000" stop="20250626113000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250626113000 +0000" stop="20250626130000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250626130000 +0000" stop="20250626150000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 24</title>
+</programme>
+<programme start="20250626153000 +0000" stop="20250626154500 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2016</title>
+</programme>
+<programme start="20250626154500 +0000" stop="20250626160000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2016</title>
+</programme>
+<programme start="20250626160000 +0000" stop="20250626163000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625182000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Classic Shorts: 2017</title>
+</programme>
+<programme start="20250625182000 +0000" stop="20250625184000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Classic Shorts: 2013</title>
+</programme>
+<programme start="20250625184000 +0000" stop="20250625190000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Classic Shorts: 2013</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625203000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Dallas</title>
+</programme>
+<programme start="20250625203000 +0000" stop="20250625220000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Dallas</title>
+</programme>
+<programme start="20250625220000 +0000" stop="20250625233000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Dallas</title>
+</programme>
+<programme start="20250625233000 +0000" stop="20250626010000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca</title>
+</programme>
+<programme start="20250626010000 +0000" stop="20250626023000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca</title>
+</programme>
+<programme start="20250626023000 +0000" stop="20250626040000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Eastbourne</title>
+</programme>
+<programme start="20250626040000 +0000" stop="20250626053000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Eastbourne</title>
+</programme>
+<programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 24</title>
+</programme>
+<programme start="20250626060000 +0000" stop="20250626073000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Eastbourne</title>
+</programme>
+<programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 24</title>
+</programme>
+<programme start="20250626093000 +0000" stop="20250626113000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250626113000 +0000" stop="20250626130000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250626130000 +0000" stop="20250626150000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 24</title>
+</programme>
+<programme start="20250626153000 +0000" stop="20250626154500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Classic Shorts: 2016</title>
+</programme>
+<programme start="20250626154500 +0000" stop="20250626160000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Classic Shorts: 2016</title>
+</programme>
+<programme start="20250626160000 +0000" stop="20250626163000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Mallorca (L)</title>
+</programme>
+<programme start="20250625173000 +0000" stop="20250625180000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Power 2024/25, Ep 4</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625183000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Power 2024/25, Ep 5</title>
+</programme>
+<programme start="20250625183000 +0000" stop="20250625190000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Power 2024/25, Ep 6</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625200000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250625200000 +0000" stop="20250625210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250625210000 +0000" stop="20250625213500 +0000" channel="beIN Sports 3.mncvision">
+    <title>28th LaLiga Futures: RMA Vs BAR</title>
+</programme>
+<programme start="20250625213500 +0000" stop="20250625223500 +0000" channel="beIN Sports 3.mncvision">
+    <title>28th LaLiga Futures: SEV Vs BET</title>
+</programme>
+<programme start="20250625223500 +0000" stop="20250626002000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Confederation: USM Vs ASE</title>
+</programme>
+<programme start="20250626002000 +0000" stop="20250626005000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UCL: LIV Vs PSG</title>
+</programme>
+<programme start="20250626005000 +0000" stop="20250626012000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UEL: TOT Vs BOD</title>
+</programme>
+<programme start="20250626012000 +0000" stop="20250626031000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: BAR Vs VLD</title>
+</programme>
+<programme start="20250626031000 +0000" stop="20250626050000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 2024/25: COR Vs CAR</title>
+</programme>
+<programme start="20250626050000 +0000" stop="20250626053000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2024/25: IPS Vs MUN</title>
+</programme>
+<programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The World Sailing Show 2025</title>
+</programme>
+<programme start="20250626060000 +0000" stop="20250626073000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Women&#039;s EHF Euro: NED Vs SVN</title>
+</programme>
+<programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Women&#039;s EHF Euro: HUN Vs MNE</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UCL: PSG Vs ARS</title>
+</programme>
+<programme start="20250626093000 +0000" stop="20250626100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Mini Match UEL: BOD Vs TOT</title>
+</programme>
+<programme start="20250626100000 +0000" stop="20250626120000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626133000 +0000" stop="20250626153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626153000 +0000" stop="20250626160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250625173000 +0000" stop="20250625180000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Power 2024/25, Ep 4</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625183000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Power 2024/25, Ep 5</title>
+</programme>
+<programme start="20250625183000 +0000" stop="20250625190000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Power 2024/25, Ep 6</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625200000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250625200000 +0000" stop="20250625210000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250625210000 +0000" stop="20250625213500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>28th LaLiga Futures: RMA Vs BAR</title>
+</programme>
+<programme start="20250625213500 +0000" stop="20250625223500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>28th LaLiga Futures: SEV Vs BET</title>
+</programme>
+<programme start="20250625223500 +0000" stop="20250626002000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Confederation: USM Vs ASE</title>
+</programme>
+<programme start="20250626002000 +0000" stop="20250626005000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Mini Match UCL: LIV Vs PSG</title>
+</programme>
+<programme start="20250626005000 +0000" stop="20250626012000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Mini Match UEL: TOT Vs BOD</title>
+</programme>
+<programme start="20250626012000 +0000" stop="20250626031000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: BAR Vs VLD</title>
+</programme>
+<programme start="20250626031000 +0000" stop="20250626050000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 2024/25: COR Vs CAR</title>
+</programme>
+<programme start="20250626050000 +0000" stop="20250626053000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV HL 2024/25: IPS Vs MUN</title>
+</programme>
+<programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>The World Sailing Show 2025</title>
+</programme>
+<programme start="20250626060000 +0000" stop="20250626073000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Women&#039;s EHF Euro: NED Vs SVN</title>
+</programme>
+<programme start="20250626073000 +0000" stop="20250626090000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Women&#039;s EHF Euro: HUN Vs MNE</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Mini Match UCL: PSG Vs ARS</title>
+</programme>
+<programme start="20250626093000 +0000" stop="20250626100000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Mini Match UEL: BOD Vs TOT</title>
+</programme>
+<programme start="20250626100000 +0000" stop="20250626120000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626133000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626133000 +0000" stop="20250626153000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
+<programme start="20250626153000 +0000" stop="20250626160000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250: Eastbourne (L)</title>
+</programme>
 <programme start="20250625170000 +0000" stop="20250625190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
@@ -1264,9 +1672,240 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250626160000 +0000" stop="20250626163000 +0000" channel="BTV.mncvision">
     <title>Mitos Tengah Malam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250625172300 +0000" stop="20250625185800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250625185800 +0000" stop="20250625210300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250625210300 +0000" stop="20250625223800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Fireheart</title>
+</programme>
+<programme start="20250625223800 +0000" stop="20250626001300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626001300 +0000" stop="20250626015100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Song Of The Sea</title>
+</programme>
+<programme start="20250626015100 +0000" stop="20250626034300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626034300 +0000" stop="20250626053100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Boonie Bears: The Wild Life</title>
+</programme>
+<programme start="20250626053100 +0000" stop="20250626070900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626070900 +0000" stop="20250626085200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250626085200 +0000" stop="20250626104100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626104100 +0000" stop="20250626122500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Jeremy Fink &amp; Meaning Of Life</title>
+</programme>
+<programme start="20250626122500 +0000" stop="20250626142500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626142500 +0000" stop="20250626160300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dreambuilders</title>
+</programme>
+<programme start="20250626160300 +0000" stop="20250626163300 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250625172300 +0000" stop="20250625185800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250625185800 +0000" stop="20250625210300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250625210300 +0000" stop="20250625223800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Fireheart</title>
+</programme>
+<programme start="20250625223800 +0000" stop="20250626001300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626001300 +0000" stop="20250626015100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Song Of The Sea</title>
+</programme>
+<programme start="20250626015100 +0000" stop="20250626034300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626034300 +0000" stop="20250626053100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Boonie Bears: The Wild Life</title>
+</programme>
+<programme start="20250626053100 +0000" stop="20250626070900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626070900 +0000" stop="20250626085200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250626085200 +0000" stop="20250626104100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626104100 +0000" stop="20250626122500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Jeremy Fink &amp; Meaning Of Life</title>
+</programme>
+<programme start="20250626122500 +0000" stop="20250626142500 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250626142500 +0000" stop="20250626160300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dreambuilders</title>
+</programme>
+<programme start="20250626160300 +0000" stop="20250626163300 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250625170000 +0000" stop="20250625170700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 3</title>
+</programme>
+<programme start="20250625170700 +0000" stop="20250625171500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 2</title>
+</programme>
+<programme start="20250625171500 +0000" stop="20250625172200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 11</title>
+</programme>
+<programme start="20250625172200 +0000" stop="20250625173000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 12</title>
+</programme>
+<programme start="20250625173000 +0000" stop="20250625174500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S1, Ep 39</title>
+</programme>
+<programme start="20250625174500 +0000" stop="20250625175200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 37</title>
+</programme>
+<programme start="20250625175200 +0000" stop="20250625180000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 36</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625181500 +0000" channel="CBeebies.mncvision">
+    <title>Andy&#039;s Aquatic Adv. S1, Ep 15</title>
+</programme>
+<programme start="20250625181500 +0000" stop="20250625182500 +0000" channel="CBeebies.mncvision">
+    <title>Dog Squad S1, Ep 8</title>
+</programme>
+<programme start="20250625182500 +0000" stop="20250625183000 +0000" channel="CBeebies.mncvision">
+    <title>Aneeshwar &amp; Lizzie Go..., Ep 13</title>
+</programme>
+<programme start="20250625183000 +0000" stop="20250625185500 +0000" channel="CBeebies.mncvision">
+    <title>Swashbuckle S7, Ep 9</title>
+</programme>
+<programme start="20250625185500 +0000" stop="20250625190200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S3, Ep 13</title>
+</programme>
+<programme start="20250625190200 +0000" stop="20250625190900 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S3, Ep 12</title>
+</programme>
+<programme start="20250625190900 +0000" stop="20250625191500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S3, Ep 11</title>
+</programme>
+<programme start="20250625191500 +0000" stop="20250625192500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S1, Ep 14</title>
+</programme>
+<programme start="20250625192500 +0000" stop="20250625194000 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S1, Ep 13</title>
+</programme>
+<programme start="20250625194000 +0000" stop="20250625195000 +0000" channel="CBeebies.mncvision">
+    <title>Thomas &amp; Friends S24, Ep 8</title>
+</programme>
+<programme start="20250625195000 +0000" stop="20250625195700 +0000" channel="CBeebies.mncvision">
+    <title>Sarah And Duck S3, Ep 6</title>
+</programme>
+<programme start="20250625195700 +0000" stop="20250625200500 +0000" channel="CBeebies.mncvision">
+    <title>Sarah And Duck S3, Ep 5</title>
+</programme>
+<programme start="20250625200500 +0000" stop="20250625201100 +0000" channel="CBeebies.mncvision">
+    <title>Stan Can S1, Ep 25</title>
+</programme>
+<programme start="20250625201100 +0000" stop="20250625202000 +0000" channel="CBeebies.mncvision">
+    <title>Stan Can S1, Ep 24</title>
+</programme>
+<programme start="20250625202000 +0000" stop="20250625202500 +0000" channel="CBeebies.mncvision">
+    <title>Kazoops! S1, Ep 4</title>
+</programme>
+<programme start="20250625202500 +0000" stop="20250625203800 +0000" channel="CBeebies.mncvision">
+    <title>Jojo &amp; Gran Gran S1, Ep 36</title>
+</programme>
+<programme start="20250625203800 +0000" stop="20250625204500 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 6</title>
+</programme>
+<programme start="20250625204500 +0000" stop="20250625205000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 19</title>
+</programme>
+<programme start="20250625205000 +0000" stop="20250625210000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 20</title>
+</programme>
+<programme start="20250625210000 +0000" stop="20250625210700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S3, Ep 42</title>
+</programme>
+<programme start="20250625210700 +0000" stop="20250625211400 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S3, Ep 41</title>
+</programme>
+<programme start="20250625211400 +0000" stop="20250625212000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S3, Ep 40</title>
+</programme>
+<programme start="20250625212000 +0000" stop="20250625213000 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S1, Ep 39</title>
+</programme>
+<programme start="20250625213000 +0000" stop="20250625213500 +0000" channel="CBeebies.mncvision">
+    <title>Roots &amp; Fruits S2, Ep 4</title>
+</programme>
+<programme start="20250625213500 +0000" stop="20250625214500 +0000" channel="CBeebies.mncvision">
+    <title>Roots &amp; Fruits S2, Ep 3</title>
+</programme>
+<programme start="20250625214500 +0000" stop="20250625215200 +0000" channel="CBeebies.mncvision">
+    <title>Supertato S1, Ep 12</title>
+</programme>
+<programme start="20250625215200 +0000" stop="20250625220000 +0000" channel="CBeebies.mncvision">
+    <title>Supertato S1, Ep 13</title>
+</programme>
+<programme start="20250625220000 +0000" stop="20250625221000 +0000" channel="CBeebies.mncvision">
+    <title>Teletubbies S1, Ep 114</title>
+</programme>
+<programme start="20250625221000 +0000" stop="20250625221500 +0000" channel="CBeebies.mncvision">
+    <title>Yakka Dee S7, Ep 20</title>
+</programme>
+<programme start="20250625221500 +0000" stop="20250625222500 +0000" channel="CBeebies.mncvision">
+    <title>Pop Paper City S1, Ep 13</title>
+</programme>
+<programme start="20250625222500 +0000" stop="20250625224000 +0000" channel="CBeebies.mncvision">
+    <title>Messy Goes To Okido S1, Ep 43</title>
+</programme>
+<programme start="20250625224000 +0000" stop="20250625224700 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 36</title>
+</programme>
+<programme start="20250625224700 +0000" stop="20250625230000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 35</title>
+</programme>
+<programme start="20250625230000 +0000" stop="20250625230700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 4</title>
+</programme>
+<programme start="20250625230700 +0000" stop="20250625231500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 3</title>
+</programme>
+<programme start="20250625231500 +0000" stop="20250625232200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 12</title>
+</programme>
+<programme start="20250625232200 +0000" stop="20250625233000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 13</title>
+</programme>
+<programme start="20250625233000 +0000" stop="20250625234500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S1, Ep 40</title>
+</programme>
+<programme start="20250625234500 +0000" stop="20250625235200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 38</title>
+</programme>
+<programme start="20250625235200 +0000" stop="20250626000000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 37</title>
+</programme>
+<programme start="20250626000000 +0000" stop="20250626001500 +0000" channel="CBeebies.mncvision">
+    <title>Andy&#039;s Aquatic Adv. S1, Ep 16</title>
+</programme>
+<programme start="20250626001500 +0000" stop="20250626002500 +0000" channel="CBeebies.mncvision">
+    <title>Dog Squad S1, Ep 9</title>
+</programme>
+<programme start="20250626002500 +0000" stop="20250626005500 +0000" channel="CBeebies.mncvision">
+    <title>Aneeshwar &amp; Lizzie Go..., Ep 14</title>
+</programme>
 <programme start="20250625180500 +0000" stop="20250625194500 +0000" channel="CCM.mncvision">
     <title>The Comedy Of Mismatches</title>
 </programme>
@@ -1447,7 +2086,141 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250626160000 +0000" stop="20250626163000 +0000" channel="Celestial Movies.mncvision">
     <title>Napping Kid</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250625170000 +0000" stop="20250625180000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20250625180000 +0000" stop="20250625190000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250625190000 +0000" stop="20250625193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250625193000 +0000" stop="20250625200000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250625200000 +0000" stop="20250625203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250625203000 +0000" stop="20250625210000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20250625210000 +0000" stop="20250625213000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250625213000 +0000" stop="20250625220000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20250625220000 +0000" stop="20250625223000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250625223000 +0000" stop="20250625230000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20250625233000 +0000" stop="20250626000000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626000000 +0000" stop="20250626010000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250626010000 +0000" stop="20250626013000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626013000 +0000" stop="20250626020000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20250626020000 +0000" stop="20250626023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626023000 +0000" stop="20250626030000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250626030000 +0000" stop="20250626031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626031500 +0000" stop="20250626033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250626033000 +0000" stop="20250626040000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20250626040000 +0000" stop="20250626050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20250626050000 +0000" stop="20250626051500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626051500 +0000" stop="20250626053000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250626053000 +0000" stop="20250626060000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20250626060000 +0000" stop="20250626063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626063000 +0000" stop="20250626070000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20250626070000 +0000" stop="20250626073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626073000 +0000" stop="20250626080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250626080000 +0000" stop="20250626081500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626081500 +0000" stop="20250626090000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626093000 +0000" stop="20250626100000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20250626100000 +0000" stop="20250626101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626101500 +0000" stop="20250626110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20250626110000 +0000" stop="20250626113000 +0000" channel="CGTN.mncvision">
+    <title>Asia Today</title>
+</programme>
+<programme start="20250626113000 +0000" stop="20250626120000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626121500 +0000" stop="20250626130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20250626130000 +0000" stop="20250626133000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250626133000 +0000" stop="20250626140000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20250626140000 +0000" stop="20250626143000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250626153000 +0000" stop="20250626160000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20250626160000 +0000" stop="20250626163000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
 <programme start="20250625170000 +0000" stop="20250625173000 +0000" channel="CGTN Documentary.mncvision">
     <title>Dynasty Of Oracle Bones, Ep 5</title>
 </programme>
@@ -8624,13 +9397,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250626114500 +0000" stop="20250626130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20250626130000 +0000" stop="20250626134500 +0000" channel="Trans TV.mncvision">
-    <title>Bidaah</title>
-</programme>
-<programme start="20250626134500 +0000" stop="20250626151500 +0000" channel="Trans TV.mncvision">
+<programme start="20250626130000 +0000" stop="20250626143000 +0000" channel="Trans TV.mncvision">
     <title>Jogetin Shaaay</title>
 </programme>
-<programme start="20250626151500 +0000" stop="20250626154500 +0000" channel="Trans TV.mncvision">
+<programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="Trans TV.mncvision">
+    <title>Dunia Punya Cerita</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250625173500 +0000" stop="20250625175500 +0000" channel="tvN.mncvision">
