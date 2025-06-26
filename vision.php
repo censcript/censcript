@@ -583,9 +583,6 @@
 <programme start="20250626181500 +0000" stop="20250626193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
-<programme start="20250626193000 +0000" stop="20250626203000 +0000" channel="Trans 7.vision">
-<title>Sudah Pasti Tahan</title>
-</programme>
 <programme start="20250626203000 +0000" stop="20250626211500 +0000" channel="Trans 7.vision">
 <title>Just For Laughs</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250627050000 +0000" stop="20250627060000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20250627060000 +0000" stop="20250627070000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
 </programme>
