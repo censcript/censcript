@@ -1388,7 +1388,7 @@
 <title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250626021500 +0000" stop="20250626030000 +0000" channel="BTV.vision">
-<title>Selera Rasa</title>
+<title>Endeus</title>
 </programme>
 <programme start="20250626030000 +0000" stop="20250626034300 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
@@ -1406,16 +1406,13 @@
 <title>Info Seleb</title>
 </programme>
 <programme start="20250626060000 +0000" stop="20250626070000 +0000" channel="BTV.vision">
-<title>30 Minutes With ESDM</title>
+<title>Ketulusan Hati</title>
 </programme>
-<programme start="20250626070000 +0000" stop="20250626073000 +0000" channel="BTV.vision">
+<programme start="20250626070000 +0000" stop="20250626080000 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
 </programme>
-<programme start="20250626073000 +0000" stop="20250626083000 +0000" channel="BTV.vision">
+<programme start="20250626080000 +0000" stop="20250626090000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250626083000 +0000" stop="20250626090000 +0000" channel="BTV.vision">
-<title>30 Minutes With ESDM</title>
 </programme>
 <programme start="20250626090000 +0000" stop="20250626100000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250627050000 +0000" stop="20250627060000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20250627060000 +0000" stop="20250627070000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
 </programme>

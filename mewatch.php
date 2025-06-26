@@ -145,13 +145,13 @@
     <programme start="20250626130000 +0000" stop="20250626133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250626133000 +0000" stop="20250626140025 +0000" channel="Channel 5.mewatch">
+    <programme start="20250626133000 +0000" stop="20250626140027 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 6</title>
     </programme>
-    <programme start="20250626140025 +0000" stop="20250626150016 +0000" channel="Channel 5.mewatch">
+    <programme start="20250626140027 +0000" stop="20250626150018 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S5 - EP 12</title>
     </programme>
-    <programme start="20250626150016 +0000" stop="20250626160022 +0000" channel="Channel 5.mewatch">
+    <programme start="20250626150018 +0000" stop="20250626160024 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Hawaii S3 - EP 6</title>
     </programme>
     <programme start="20250625150057 +0000" stop="20250625160022 +0000" channel="Channel 8.mewatch">
@@ -373,22 +373,22 @@
     <programme start="20250626100008 +0000" stop="20250626110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 12</title>
     </programme>
-    <programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626110000 +0000" stop="20250626115922 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 54</title>
     </programme>
-    <programme start="20250626120000 +0000" stop="20250626130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626115922 +0000" stop="20250626130103 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 55</title>
     </programme>
-    <programme start="20250626130000 +0000" stop="20250626140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626130103 +0000" stop="20250626140044 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 9</title>
     </programme>
-    <programme start="20250626140000 +0000" stop="20250626150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626140044 +0000" stop="20250626150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 36</title>
     </programme>
-    <programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626150000 +0000" stop="20250626153039 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250626153000 +0000" stop="20250626163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250626153039 +0000" stop="20250626162955 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S16 - EP 9</title>
     </programme>
     <programme start="20250625153000 +0000" stop="20250625160034 +0000" channel="Suria.mewatch">
@@ -499,31 +499,31 @@
     <programme start="20250626080001 +0000" stop="20250626110000 +0000" channel="Vasantham.mewatch">
         <title>Ippadai Vellum</title>
     </programme>
-    <programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626110000 +0000" stop="20250626115959 +0000" channel="Vasantham.mewatch">
         <title>King of Culinary S2 - EP 9</title>
     </programme>
-    <programme start="20250626120000 +0000" stop="20250626123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626115959 +0000" stop="20250626123000 +0000" channel="Vasantham.mewatch">
         <title>Uppu Roti Chidambaram - EP 2</title>
     </programme>
-    <programme start="20250626123000 +0000" stop="20250626130000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626123000 +0000" stop="20250626125959 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250626130000 +0000" stop="20250626133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626125959 +0000" stop="20250626132958 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 21</title>
     </programme>
-    <programme start="20250626133000 +0000" stop="20250626140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626132958 +0000" stop="20250626135957 +0000" channel="Vasantham.mewatch">
         <title>Ticket Pottaachu - EP 2</title>
     </programme>
-    <programme start="20250626140000 +0000" stop="20250626143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626135957 +0000" stop="20250626143000 +0000" channel="Vasantham.mewatch">
         <title>Manmadha Bullets - EP 2</title>
     </programme>
-    <programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626143000 +0000" stop="20250626150001 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 19</title>
     </programme>
-    <programme start="20250626150000 +0000" stop="20250626153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626150001 +0000" stop="20250626153002 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 7</title>
     </programme>
-    <programme start="20250626153000 +0000" stop="20250626160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250626153002 +0000" stop="20250626160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 10</title>
     </programme>
     <programme start="20250626160000 +0000" stop="20250626163113 +0000" channel="Vasantham.mewatch">
