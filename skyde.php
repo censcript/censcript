@@ -178,10 +178,10 @@
 <programme start="20250625232000 +0000" stop="20250625233500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250625233500 +0000" stop="20250625235500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250625233500 +0000" stop="20250626000000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250625235500 +0000" stop="20250626001000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250626000000 +0000" stop="20250626001000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
 <programme start="20250626001000 +0000" stop="20250626002000 +0000" channel="Cartoon Network.skyde">
@@ -3274,13 +3274,13 @@
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250626093000 +0000" stop="20250626180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250626093000 +0000" stop="20250626180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
 <programme start="20250626111000 +0000" stop="20250626113000 +0000" channel="Sky Sport 3 HD.skyde">
