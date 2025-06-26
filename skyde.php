@@ -824,13 +824,13 @@
     <title>PL: 90in30: NFO - CHE, 38. Spieltag</title>
 </programme>
 <programme start="20250626223000 +0000" stop="20250627003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: F. Auger-Aliassime (CAN) - H. Medjedovic (SRB), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
+    <title>ATP 250: H. Medjedovic (SRB) - F. Auger-Aliassime (CAN), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
 <programme start="20250627040000 +0000" stop="20250627060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - E. Navarro (USA), Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20250627070000 +0000" stop="20250627090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: F. Auger-Aliassime (CAN) - H. Medjedovic (SRB), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
+    <title>ATP 250: H. Medjedovic (SRB) - F. Auger-Aliassime (CAN), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
 <programme start="20250627090000 +0000" stop="20250627110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - E. Navarro (USA), Bad Homburg Open in Bad Homburg, 5. Tag</title>
@@ -842,7 +842,7 @@
     <title>Moto2: Rennen - GP Italien</title>
 </programme>
 <programme start="20250627040000 +0000" stop="20250627060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: F. Auger-Aliassime (CAN) - H. Medjedovic (SRB), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
+    <title>ATP 250: H. Medjedovic (SRB) - F. Auger-Aliassime (CAN), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
 <programme start="20250627062500 +0000" stop="20250627065500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Pressekonferenz Fahrer - GP Niederlande</title>
