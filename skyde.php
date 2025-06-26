@@ -2770,11 +2770,14 @@
 <programme start="20250626215000 +0000" stop="20250626224000 +0000" channel="Sky Showcase HD.skyde">
     <title>Tayrona - Kolumbiens Naturparadies</title>
 </programme>
+<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Abseits: Mit Vea Kaiser (Schriftstellerin)</title>
+</programme>
 <programme start="20250625233000 +0000" stop="20250626011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: FAK-SCR (1996/1997)</title>
+    <title>Fußball: Historisches Derby: ASK-SVR (2010/2011)</title>
 </programme>
 <programme start="20250626011500 +0000" stop="20250626030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Historisches Derby: ASK-SVR (2008/2009)</title>
+    <title>Fußball: Historisches Derby: FAK-SCR (1996/1997)</title>
 </programme>
 <programme start="20250626030000 +0000" stop="20250626033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Abseits: Mit Nina Hartmann (Schauspielerin und Kabarettistin)</title>
@@ -3274,7 +3277,7 @@
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250626093000 +0000" stop="20250626180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250626093000 +0000" stop="20250626200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20250626091000 +0000" stop="20250626093000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3286,7 +3289,7 @@
 <programme start="20250626111000 +0000" stop="20250626113000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250626113000 +0000" stop="20250626163000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250626113000 +0000" stop="20250626183000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: Italian Open, 1. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250625222000 +0000" stop="20250625231000 +0000" channel="SYFY HD.skyde">
