@@ -664,7 +664,84 @@
 <programme start="20250626163000 +0000" stop="20250625170000 +0000" channel="AXN.mncvision">
     <title>The Summit S1, Ep 9</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250625175000 +0000" stop="20250625184500 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 1</title>
+</programme>
+<programme start="20250625184500 +0000" stop="20250625194000 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S6, Ep 10</title>
+</programme>
+<programme start="20250625194000 +0000" stop="20250625203500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 20</title>
+</programme>
+<programme start="20250625203500 +0000" stop="20250625210500 +0000" channel="AXN HD.mncvision">
+    <title>Whacked Out Sports S16, Ep 12</title>
+</programme>
+<programme start="20250625210500 +0000" stop="20250625220000 +0000" channel="AXN HD.mncvision">
+    <title>Blue Bloods S14, Ep 4</title>
+</programme>
+<programme start="20250625220000 +0000" stop="20250625224500 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S6, Ep 10</title>
+</programme>
+<programme start="20250625224500 +0000" stop="20250625233500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 20</title>
+</programme>
+<programme start="20250625233500 +0000" stop="20250626003000 +0000" channel="AXN HD.mncvision">
+    <title>The Rookie S6, Ep 2</title>
+</programme>
+<programme start="20250626003000 +0000" stop="20250626012000 +0000" channel="AXN HD.mncvision">
+    <title>The Summit S1, Ep 9</title>
+</programme>
+<programme start="20250626012000 +0000" stop="20250626021000 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 1</title>
+</programme>
+<programme start="20250626021000 +0000" stop="20250626030000 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 20</title>
+</programme>
+<programme start="20250626030000 +0000" stop="20250626035500 +0000" channel="AXN HD.mncvision">
+    <title>The Amazing Race S35, Ep 10</title>
+</programme>
+<programme start="20250626035500 +0000" stop="20250626045000 +0000" channel="AXN HD.mncvision">
+    <title>The Rookie S6, Ep 2</title>
+</programme>
+<programme start="20250626045000 +0000" stop="20250626054000 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 1</title>
+</programme>
+<programme start="20250626054000 +0000" stop="20250626063000 +0000" channel="AXN HD.mncvision">
+    <title>The Summit S1, Ep 9</title>
+</programme>
+<programme start="20250626063000 +0000" stop="20250626090000 +0000" channel="AXN HD.mncvision">
+    <title>Taiwan Professional Basketball</title>
+</programme>
+<programme start="20250626090000 +0000" stop="20250626092500 +0000" channel="AXN HD.mncvision">
+    <title>Whacked Out Sports S16, Ep 7</title>
+</programme>
+<programme start="20250626092500 +0000" stop="20250626101500 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Hawai&#039;i S3, Ep 2</title>
+</programme>
+<programme start="20250626101500 +0000" stop="20250626110500 +0000" channel="AXN HD.mncvision">
+    <title>FBI: International S4, Ep 6</title>
+</programme>
+<programme start="20250626110500 +0000" stop="20250626115500 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S6, Ep 11</title>
+</programme>
+<programme start="20250626115500 +0000" stop="20250626125000 +0000" channel="AXN HD.mncvision">
+    <title>The Amazing Race S35, Ep 11</title>
+</programme>
+<programme start="20250626125000 +0000" stop="20250626134500 +0000" channel="AXN HD.mncvision">
+    <title>The Rookie S6, Ep 3</title>
+</programme>
+<programme start="20250626134500 +0000" stop="20250626144000 +0000" channel="AXN HD.mncvision">
+    <title>Elsbeth S2, Ep 12</title>
+</programme>
+<programme start="20250626144000 +0000" stop="20250626153500 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S1, Ep 21</title>
+</programme>
+<programme start="20250626153500 +0000" stop="20250626163000 +0000" channel="AXN HD.mncvision">
+    <title>Elsbeth S2, Ep 12</title>
+</programme>
+<programme start="20250626163000 +0000" stop="20250625170000 +0000" channel="AXN HD.mncvision">
+    <title>The Summit S1, Ep 9</title>
+</programme>
 <programme start="20250625173000 +0000" stop="20250625182000 +0000" channel="BBC Earth.mncvision">
     <title>Where Wild Men Are S10, Ep 8</title>
 </programme>
@@ -5435,8 +5512,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250626100000 +0000" stop="20250626110000 +0000" channel="LIFE.mncvision">
     <title>R.O.C.K Series</title>
 </programme>
-<programme start="20250626110000 +0000" stop="20250626130000 +0000" channel="LIFE.mncvision">
-    <title>Misa Inkulturasi Jawa...(L)</title>
+<programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20250626120000 +0000" stop="20250626130000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
 </programme>
 <programme start="20250626130000 +0000" stop="20250626133000 +0000" channel="LIFE.mncvision">
     <title>The Art Of Church</title>
