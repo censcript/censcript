@@ -463,16 +463,16 @@
 <programme start="20250626114500 +0000" stop="20250626130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250626130000 +0000" stop="20250626134500 +0000" channel="Trans TV.vision">
-<title>Bidaah</title>
-</programme>
-<programme start="20250626134500 +0000" stop="20250626151500 +0000" channel="Trans TV.vision">
+<programme start="20250626130000 +0000" stop="20250626143000 +0000" channel="Trans TV.vision">
 <title>Jogetin Shaaay</title>
 </programme>
-<programme start="20250626151500 +0000" stop="20250626171500 +0000" channel="Trans TV.vision">
+<programme start="20250626143000 +0000" stop="20250626150000 +0000" channel="Trans TV.vision">
+<title>Dunia Punya Cerita</title>
+</programme>
+<programme start="20250626150000 +0000" stop="20250626170000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250626171500 +0000" stop="20250626190000 +0000" channel="Trans TV.vision">
+<programme start="20250626170000 +0000" stop="20250626190000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250626190000 +0000" stop="20250626220000 +0000" channel="Trans TV.vision">
