@@ -4226,7 +4226,7 @@
         <title>Cash Out</title>
     </programme>
     <programme start="20250627130000 +0000" stop="20250627150500 +0000" channel="HBO HD.starhub">
-        <title>Aquaman And The Lost Kingdom</title>
+        <title>The Fall Guy</title>
     </programme>
     <programme start="20250627150500 +0000" stop="20250627165000 +0000" channel="HBO HD.starhub">
         <title>Dirty Angels</title>
