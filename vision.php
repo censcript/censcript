@@ -451,9 +451,6 @@
 <programme start="20250627114500 +0000" stop="20250627130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250627130000 +0000" stop="20250627143000 +0000" channel="Trans TV.vision">
-<title>Jogetin Shaaay</title>
-</programme>
 <programme start="20250627143000 +0000" stop="20250627150000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250628050000 +0000" stop="20250628060000 +0000" channel="BTV.vision">
 <title>Dunia RANS</title>
+</programme>
+<programme start="20250628060000 +0000" stop="20250628070000 +0000" channel="BTV.vision">
+<title>Masak Everywhere</title>
 </programme>
