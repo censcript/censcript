@@ -5386,8 +5386,11 @@
     <programme start="20250626213000 +0000" stop="20250627010000 +0000" channel="SPOTV.starhub">
         <title>Semi-finals</title>
     </programme>
-    <programme start="20250627010000 +0000" stop="20250627090000 +0000" channel="SPOTV.starhub">
+    <programme start="20250627010000 +0000" stop="20250627080500 +0000" channel="SPOTV.starhub">
         <title>Day 3</title>
+    </programme>
+    <programme start="20250627080500 +0000" stop="20250627090000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250627090000 +0000" stop="20250627100000 +0000" channel="SPOTV.starhub">
         <title>Ep09 Supertwin 1 &amp; Sidecar 2 Highlights</title>
