@@ -388,9 +388,6 @@
     <programme start="20250626153000 +0000" stop="20250626160017 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250626160017 +0000" stop="20250627010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250627010000 +0000" stop="20250627013000 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Rise - EP 26</title>
     </programme>
