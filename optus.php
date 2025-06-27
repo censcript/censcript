@@ -1,6 +1,3 @@
-    <programme start="20250627102000 +0000" stop="20250627124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Daejeon v Jeju</title>
-    </programme>
     <programme start="20250628092500 +0000" stop="20250628114000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shimizu v Kashiwa</title>
     </programme>
