@@ -7415,7 +7415,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250627023000 +0000" stop="20250627030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>Design Ah! Neo: Behind the Scenes</title>
     </programme>
     <programme start="20250627030000 +0000" stop="20250627033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7445,7 +7445,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250627073000 +0000" stop="20250627080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>Design Ah! Neo: Behind the Scenes</title>
     </programme>
     <programme start="20250627080000 +0000" stop="20250627083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7487,7 +7487,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250627133000 +0000" stop="20250627140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>Design Ah! Neo: Behind the Scenes</title>
     </programme>
     <programme start="20250627140000 +0000" stop="20250627143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
