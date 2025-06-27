@@ -133,19 +133,19 @@
     <programme start="20250627093002 +0000" stop="20250627103000 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 8</title>
     </programme>
-    <programme start="20250627103000 +0000" stop="20250627105017 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627103000 +0000" stop="20250627105022 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 3</title>
     </programme>
-    <programme start="20250627105017 +0000" stop="20250627130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627105022 +0000" stop="20250627130000 +0000" channel="Channel 5.mewatch">
         <title>The Boss Baby 2: Family Business</title>
     </programme>
     <programme start="20250627130000 +0000" stop="20250627133000 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250627133000 +0000" stop="20250627140040 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627133000 +0000" stop="20250627140032 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 7</title>
     </programme>
-    <programme start="20250627140040 +0000" stop="20250627160023 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627140032 +0000" stop="20250627160015 +0000" channel="Channel 5.mewatch">
         <title>Ghost in the Shell</title>
     </programme>
     <programme start="20250626150055 +0000" stop="20250626160104 +0000" channel="Channel 8.mewatch">
