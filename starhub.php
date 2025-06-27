@@ -8284,14 +8284,14 @@
     <programme start="20250627013000 +0000" stop="20250627043000 +0000" channel="Asianet Movies.starhub">
         <title>Innathe Chinthavishayam</title>
     </programme>
-    <programme start="20250627043000 +0000" stop="20250627073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250627043000 +0000" stop="20250627072500 +0000" channel="Asianet Movies.starhub">
         <title>June</title>
     </programme>
-    <programme start="20250627073000 +0000" stop="20250627103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250627072500 +0000" stop="20250627103000 +0000" channel="Asianet Movies.starhub">
         <title>Aadu 2</title>
     </programme>
     <programme start="20250627103000 +0000" stop="20250627133000 +0000" channel="Asianet Movies.starhub">
-        <title>Brahmastra</title>
+        <title>Brahmastra:Part 1-Shiva</title>
     </programme>
     <programme start="20250627133000 +0000" stop="20250627163000 +0000" channel="Asianet Movies.starhub">
         <title>Aavesham</title>

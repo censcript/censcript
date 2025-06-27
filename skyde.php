@@ -595,6 +595,18 @@
 <programme start="20250627204000 +0000" stop="20250627213000 +0000" channel="Sky Showcase HD.skyde">
     <title>Titans of Defense</title>
 </programme>
+<programme start="20250626221500 +0000" stop="20250626224000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 5-8)</title>
+</programme>
+<programme start="20250626224000 +0000" stop="20250626230500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 1-4)</title>
+</programme>
+<programme start="20250626230500 +0000" stop="20250627010500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - LASK, Europacup-Playoffs, Finale Rückspiel</title>
+</programme>
+<programme start="20250627010500 +0000" stop="20250627020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: Saisonrückblick</title>
+</programme>
 <programme start="20250627073500 +0000" stop="20250627075500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport Formel 3</title>
 </programme>
@@ -824,13 +836,13 @@
     <title>PL: 90in30: NFO - CHE, 38. Spieltag</title>
 </programme>
 <programme start="20250626223000 +0000" stop="20250627003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: H. Medjedovic (SRB) - F. Auger-Aliassime (CAN), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
+    <title>ATP 250: F. Auger-Aliassime (CAN) - H. Medjedovic (SRB), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
 <programme start="20250627040000 +0000" stop="20250627060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - E. Navarro (USA), Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20250627070000 +0000" stop="20250627090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: H. Medjedovic (SRB) - F. Auger-Aliassime (CAN), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
+    <title>ATP 250: F. Auger-Aliassime (CAN) - H. Medjedovic (SRB), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
 <programme start="20250627090000 +0000" stop="20250627110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - E. Navarro (USA), Bad Homburg Open in Bad Homburg, 5. Tag</title>
