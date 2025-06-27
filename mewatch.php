@@ -1088,13 +1088,13 @@
         <title>No Programme available now. Next Broadcast on 27th Jun, Friday 9.10am. NBA Rising Invitational Tournament 2025</title>
     </programme>
     <programme start="20250626160001 +0000" stop="20250627011001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 27th Jun, Friday 9.10am. NBA Rising Invitational Tournament 2025</title>
+        <title>No Programme available now. Next Broadcast on 27th June, Friday 9.10am. NBA Rising Invitational Tournament 2025</title>
     </programme>
     <programme start="20250627011001 +0000" stop="20250627131001 +0000" channel="Live 5.mewatch">
         <title>NBA Rising Invitational Tournament 2025</title>
     </programme>
     <programme start="20250627131001 +0000" stop="20250627160001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th Jun, Saturday 1pm. NBA Rising Invitational Tournament 2025: Semi-finals</title>
+        <title>No Programme available now. Next Broadcast on 28th June, Saturday 1pm. NBA Rising Invitational Tournament 2025: Semi-finals</title>
     </programme>
     <programme start="20250626160000 +0000" stop="20250627160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
