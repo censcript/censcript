@@ -2729,13 +2729,13 @@
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
 <programme start="20250628113000 +0000" stop="20250628140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 500: I. Swiatek (POL) - J. Pegula (USA), Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20250628140000 +0000" stop="20250628153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+    <title>Live ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20250628153000 +0000" stop="20250628173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250628173000 +0000" stop="20250628180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Sebastian Ofner)</title>
@@ -3382,7 +3382,7 @@
 <programme start="20250628134000 +0000" stop="20250628140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport WRC</title>
 </programme>
-<programme start="20250628140000 +0000" stop="20250628170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250628140000 +0000" stop="20250628150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS12 Karoutes 2</title>
 </programme>
 <programme start="20250628124000 +0000" stop="20250628130000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3400,7 +3400,7 @@
 <programme start="20250628101000 +0000" stop="20250628103000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250628103000 +0000" stop="20250628170000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250628103000 +0000" stop="20250628150000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live Golf: Italian Open, 3. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250627222000 +0000" stop="20250627231000 +0000" channel="SYFY HD.skyde">
