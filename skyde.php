@@ -2986,10 +2986,10 @@
 <programme start="20250627220000 +0000" stop="20250627230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628034000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20250628034000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250628030000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: EKO Rally Acropolis Greece - EKO Athens SSS</title>
 </programme>
 <programme start="20250628040000 +0000" stop="20250628051000 +0000" channel="Sky Sport Mix HD.skyde">
