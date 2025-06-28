@@ -2986,10 +2986,10 @@
 <programme start="20250627220000 +0000" stop="20250627230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628034000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20250628034000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250628030000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: EKO Rally Acropolis Greece - EKO Athens SSS</title>
 </programme>
 <programme start="20250628040000 +0000" stop="20250628051000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3265,14 +3265,23 @@
 <programme start="20250628200000 +0000" stop="20250628223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628034000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20250628034000 +0000" stop="20250628050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250628031500 +0000" stop="20250628033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Top 20: Boxenstopp Chaos</title>
+</programme>
+<programme start="20250628033000 +0000" stop="20250628050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: 1. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628050000 +0000" stop="20250628070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250628050000 +0000" stop="20250628063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: 2. Freies Training - GP Österreich</title>
+</programme>
+<programme start="20250628063000 +0000" stop="20250628064500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Torparade 34. Spieltag</title>
+</programme>
+<programme start="20250628064500 +0000" stop="20250628070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Torparade 34. Spieltag</title>
 </programme>
 <programme start="20250628070000 +0000" stop="20250628080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS09 Karoutes 1</title>
@@ -3382,7 +3391,7 @@
 <programme start="20250628134000 +0000" stop="20250628140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport WRC</title>
 </programme>
-<programme start="20250628140000 +0000" stop="20250628150000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250628140000 +0000" stop="20250628170000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS12 Karoutes 2</title>
 </programme>
 <programme start="20250628124000 +0000" stop="20250628130000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3394,8 +3403,8 @@
 <programme start="20250628144000 +0000" stop="20250628150000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20250628150000 +0000" stop="20250628173000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20250628150000 +0000" stop="20250628193000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Live ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250628101000 +0000" stop="20250628103000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
