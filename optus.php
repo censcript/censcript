@@ -1,12 +1,3 @@
-    <programme start="20250628092500 +0000" stop="20250628114000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Shimizu v Kashiwa</title>
-    </programme>
-    <programme start="20250628095000 +0000" stop="20250628121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Anyang v Gwangju</title>
-    </programme>
-    <programme start="20250628095500 +0000" stop="20250628121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Sanfrecce v Nagoya</title>
-    </programme>
     <programme start="20250629085500 +0000" stop="20250629111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Tokyo Verdy v Kawasaki</title>
     </programme>
