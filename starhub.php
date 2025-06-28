@@ -7808,7 +7808,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250628113000 +0000" stop="20250628120000 +0000" channel="BBC World News HD.starhub">
-        <title>Unspun World with John Simpson</title>
+        <title>Political Thinking with Nick Robinson</title>
     </programme>
     <programme start="20250628120000 +0000" stop="20250628123000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

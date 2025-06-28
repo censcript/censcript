@@ -598,10 +598,10 @@
 <programme start="20250628065000 +0000" stop="20250628065500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628065500 +0000" stop="20250628070000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628065500 +0000" stop="20250628070500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628070000 +0000" stop="20250628071000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628070500 +0000" stop="20250628071000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250628071000 +0000" stop="20250628072500 +0000" channel="Cartoonito.skyde">
@@ -637,10 +637,10 @@
 <programme start="20250628090500 +0000" stop="20250628092000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250628092000 +0000" stop="20250628092500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628092000 +0000" stop="20250628093000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250628092500 +0000" stop="20250628093500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628093000 +0000" stop="20250628093500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250628093500 +0000" stop="20250628095500 +0000" channel="Cartoonito.skyde">
@@ -658,10 +658,10 @@
 <programme start="20250628102000 +0000" stop="20250628102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250628102500 +0000" stop="20250628103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628102500 +0000" stop="20250628103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250628103000 +0000" stop="20250628104000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628103500 +0000" stop="20250628104000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250628104000 +0000" stop="20250628105500 +0000" channel="Cartoonito.skyde">
@@ -673,10 +673,10 @@
 <programme start="20250628110500 +0000" stop="20250628112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250628112000 +0000" stop="20250628113000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628112000 +0000" stop="20250628113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250628113000 +0000" stop="20250628115000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628113500 +0000" stop="20250628115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250628115000 +0000" stop="20250628120000 +0000" channel="Cartoonito.skyde">
@@ -715,13 +715,13 @@
 <programme start="20250628140000 +0000" stop="20250628142500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250628142500 +0000" stop="20250628143000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628142500 +0000" stop="20250628143300 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628143000 +0000" stop="20250628143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628143300 +0000" stop="20250628143700 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628143500 +0000" stop="20250628144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628143700 +0000" stop="20250628144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250628144500 +0000" stop="20250628150000 +0000" channel="Cartoonito.skyde">
@@ -760,10 +760,10 @@
 <programme start="20250628164500 +0000" stop="20250628170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20250628170000 +0000" stop="20250628172500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628170000 +0000" stop="20250628173000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250628172500 +0000" stop="20250628175500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628173000 +0000" stop="20250628175500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20250628175500 +0000" stop="20250628180500 +0000" channel="Cartoonito.skyde">
@@ -808,10 +808,10 @@
 <programme start="20250628201000 +0000" stop="20250628202500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250628202500 +0000" stop="20250628203500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628202500 +0000" stop="20250628204000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250628203500 +0000" stop="20250628205500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628204000 +0000" stop="20250628205500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20250628205500 +0000" stop="20250628210500 +0000" channel="Cartoonito.skyde">
@@ -934,13 +934,13 @@
 <programme start="20250628060000 +0000" stop="20250628070000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2024/25: 36. Spieltag</title>
 </programme>
-<programme start="20250628070000 +0000" stop="20250628073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250628070000 +0000" stop="20250628072000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 32. Spieltag</title>
 </programme>
-<programme start="20250628073000 +0000" stop="20250628093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250628072000 +0000" stop="20250628091500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Nations League: Spanien - Frankreich</title>
 </programme>
-<programme start="20250628093000 +0000" stop="20250628095000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250628091500 +0000" stop="20250628095000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250628095000 +0000" stop="20250628114000 +0000" channel="DAZN 1 HD.skyde">
@@ -2896,26 +2896,26 @@
 <programme start="20250628213000 +0000" stop="20250628223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 15. Spieltag</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628003000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250627223000 +0000" stop="20250627233000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: EKO Rally Acropolis Greece - EKO Athens SSS</title>
+</programme>
+<programme start="20250627233000 +0000" stop="20250628010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628003000 +0000" stop="20250628020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628010000 +0000" stop="20250628023000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628020000 +0000" stop="20250628040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628023000 +0000" stop="20250628043000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Kanada</title>
 </programme>
-<programme start="20250628040000 +0000" stop="20250628053000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628043000 +0000" stop="20250628060000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628053000 +0000" stop="20250628070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628060000 +0000" stop="20250628072500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628070000 +0000" stop="20250628073000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628072500 +0000" stop="20250628075500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA Karting - Highlights: Sarno (ITA)</title>
-</programme>
-<programme start="20250628073000 +0000" stop="20250628075500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: McLaren&#039;s Meteoric Rise</title>
 </programme>
 <programme start="20250628075500 +0000" stop="20250628090000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 1. Rennen - GP Österreich</title>
@@ -2986,10 +2986,10 @@
 <programme start="20250627220000 +0000" stop="20250627230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628034000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20250628030000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250628034000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: EKO Rally Acropolis Greece - EKO Athens SSS</title>
 </programme>
 <programme start="20250628040000 +0000" stop="20250628051000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3226,11 +3226,11 @@
 <programme start="20250628214500 +0000" stop="20250628221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Wayne Rooney)</title>
 </programme>
-<programme start="20250627223000 +0000" stop="20250628003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250627220000 +0000" stop="20250628003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - L. Noskova (CZE), Bad Homburg Open in Bad Homburg, Halbfinale 2</title>
 </programme>
 <programme start="20250628003000 +0000" stop="20250628023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF2, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+    <title>ATP 250: C. Moutet (FRA) - A. Michelsen (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20250628023000 +0000" stop="20250628030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3238,50 +3238,41 @@
 <programme start="20250628030000 +0000" stop="20250628053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
-<programme start="20250628053000 +0000" stop="20250628073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250628053000 +0000" stop="20250628065500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: I. Swiatek (POL) - J. Paolini (ITA), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
-<programme start="20250628073000 +0000" stop="20250628093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF2, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+<programme start="20250628065500 +0000" stop="20250628072500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250628072500 +0000" stop="20250628093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: C. Moutet (FRA) - A. Michelsen (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20250628093000 +0000" stop="20250628113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - L. Noskova (CZE), Bad Homburg Open in Bad Homburg, Halbfinale 2</title>
 </programme>
 <programme start="20250628113000 +0000" stop="20250628140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>Live WTA 500: I. Swiatek (POL) - J. Pegula (USA), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20250628140000 +0000" stop="20250628153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+    <title>Live ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20250628153000 +0000" stop="20250628173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250628173000 +0000" stop="20250628200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>WTA 500: I. Swiatek (POL) - J. Pegula (USA), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20250628200000 +0000" stop="20250628223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+    <title>ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628034000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20250628030000 +0000" stop="20250628031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 6</title>
-</programme>
-<programme start="20250628031500 +0000" stop="20250628033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Top 20: Boxenstopp Chaos</title>
-</programme>
-<programme start="20250628033000 +0000" stop="20250628050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250628034000 +0000" stop="20250628050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: 1. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628050000 +0000" stop="20250628063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250628050000 +0000" stop="20250628070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: 2. Freies Training - GP Österreich</title>
-</programme>
-<programme start="20250628063000 +0000" stop="20250628064500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Torparade 34. Spieltag</title>
-</programme>
-<programme start="20250628064500 +0000" stop="20250628070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Torparade 34. Spieltag</title>
 </programme>
 <programme start="20250628070000 +0000" stop="20250628080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS09 Karoutes 1</title>
@@ -3308,7 +3299,7 @@
     <title>Live F1: Qualifying - GP Österreich</title>
 </programme>
 <programme start="20250628153000 +0000" stop="20250628173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250628173000 +0000" stop="20250628220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Rocket Mortgage Classic, 3. Tag in Detroit, MI (USA)</title>
@@ -3397,14 +3388,14 @@
 <programme start="20250628124000 +0000" stop="20250628130000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20250628130000 +0000" stop="20250628153000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+<programme start="20250628130000 +0000" stop="20250628173000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20250628144000 +0000" stop="20250628150000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20250628150000 +0000" stop="20250628193000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20250628150000 +0000" stop="20250628173000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250628101000 +0000" stop="20250628103000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
