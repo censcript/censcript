@@ -2770,13 +2770,10 @@
 <programme start="20250628101500 +0000" stop="20250628120500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: 3. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250628120500 +0000" stop="20250628131500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250628120500 +0000" stop="20250628133500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F2: 1. Rennen - GP Österreich</title>
 </programme>
-<programme start="20250628131500 +0000" stop="20250628133000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Chasing the Dream: Die Spannungen nehmen zu</title>
-</programme>
-<programme start="20250628133000 +0000" stop="20250628153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250628133500 +0000" stop="20250628153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Österreich</title>
 </programme>
 <programme start="20250628153000 +0000" stop="20250628170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2986,10 +2983,10 @@
 <programme start="20250627220000 +0000" stop="20250627230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: NHL Tonight</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628034000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20250628030000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250628034000 +0000" stop="20250628040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: EKO Rally Acropolis Greece - EKO Athens SSS</title>
 </programme>
 <programme start="20250628040000 +0000" stop="20250628051000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3391,7 +3388,7 @@
 <programme start="20250628134000 +0000" stop="20250628140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport WRC</title>
 </programme>
-<programme start="20250628140000 +0000" stop="20250628170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250628140000 +0000" stop="20250628152000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS12 Karoutes 2</title>
 </programme>
 <programme start="20250628124000 +0000" stop="20250628130000 +0000" channel="Sky Sport 3 HD.skyde">
