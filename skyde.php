@@ -598,10 +598,10 @@
 <programme start="20250628065000 +0000" stop="20250628065500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628065500 +0000" stop="20250628070000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628065500 +0000" stop="20250628070500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628070000 +0000" stop="20250628071000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628070500 +0000" stop="20250628071000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250628071000 +0000" stop="20250628072500 +0000" channel="Cartoonito.skyde">
@@ -637,10 +637,10 @@
 <programme start="20250628090500 +0000" stop="20250628092000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250628092000 +0000" stop="20250628092500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628092000 +0000" stop="20250628093000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250628092500 +0000" stop="20250628093500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628093000 +0000" stop="20250628093500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250628093500 +0000" stop="20250628095500 +0000" channel="Cartoonito.skyde">
@@ -658,10 +658,10 @@
 <programme start="20250628102000 +0000" stop="20250628102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250628102500 +0000" stop="20250628103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628102500 +0000" stop="20250628103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250628103000 +0000" stop="20250628104000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628103500 +0000" stop="20250628104000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250628104000 +0000" stop="20250628105500 +0000" channel="Cartoonito.skyde">
@@ -673,10 +673,10 @@
 <programme start="20250628110500 +0000" stop="20250628112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250628112000 +0000" stop="20250628113000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628112000 +0000" stop="20250628113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250628113000 +0000" stop="20250628115000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628113500 +0000" stop="20250628115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250628115000 +0000" stop="20250628120000 +0000" channel="Cartoonito.skyde">
@@ -715,13 +715,13 @@
 <programme start="20250628140000 +0000" stop="20250628142500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250628142500 +0000" stop="20250628143000 +0000" channel="Cartoonito.skyde">
+<programme start="20250628142500 +0000" stop="20250628143300 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628143000 +0000" stop="20250628143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628143300 +0000" stop="20250628143700 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250628143500 +0000" stop="20250628144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628143700 +0000" stop="20250628144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250628144500 +0000" stop="20250628150000 +0000" channel="Cartoonito.skyde">
@@ -760,10 +760,10 @@
 <programme start="20250628164500 +0000" stop="20250628170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20250628170000 +0000" stop="20250628172500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628170000 +0000" stop="20250628173000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250628172500 +0000" stop="20250628175500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628173000 +0000" stop="20250628175500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20250628175500 +0000" stop="20250628180500 +0000" channel="Cartoonito.skyde">
@@ -808,10 +808,10 @@
 <programme start="20250628201000 +0000" stop="20250628202500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250628202500 +0000" stop="20250628203500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628202500 +0000" stop="20250628204000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250628203500 +0000" stop="20250628205500 +0000" channel="Cartoonito.skyde">
+<programme start="20250628204000 +0000" stop="20250628205500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20250628205500 +0000" stop="20250628210500 +0000" channel="Cartoonito.skyde">
@@ -2779,7 +2779,7 @@
 <programme start="20250628133000 +0000" stop="20250628153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20250628153000 +0000" stop="20250628160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250628153000 +0000" stop="20250628170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Österreich</title>
 </programme>
 <programme start="20250627220500 +0000" stop="20250627222000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3370,10 +3370,10 @@
 <programme start="20250628070000 +0000" stop="20250628080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS09 Karoutes 1</title>
 </programme>
-<programme start="20250628122500 +0000" stop="20250628124500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250628080000 +0000" stop="20250628121500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Motorsport WRC</title>
 </programme>
-<programme start="20250628124500 +0000" stop="20250628133000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250628121500 +0000" stop="20250628133000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Motorsport: 24h-Rennen Spa - Superpole</title>
 </programme>
 <programme start="20250628133000 +0000" stop="20250629040000 +0000" channel="Sky Sport 1 HD.skyde">
