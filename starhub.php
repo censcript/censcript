@@ -2182,17 +2182,29 @@
     <programme start="20250627170000 +0000" stop="20250627200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Pizza</title>
     </programme>
-    <programme start="20250627200000 +0000" stop="20250627220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250627200000 +0000" stop="20250627223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Vetri Mugam</title>
     </programme>
-    <programme start="20250627220000 +0000" stop="20250628040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250627223000 +0000" stop="20250628010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pudhayal</title>
     </programme>
-    <programme start="20250628040000 +0000" stop="20250628100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250628010000 +0000" stop="20250628013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250628100000 +0000" stop="20250628160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250628013000 +0000" stop="20250628043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Onbathula Guru</title>
+    </programme>
+    <programme start="20250628043000 +0000" stop="20250628073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pannikutty</title>
+    </programme>
+    <programme start="20250628073000 +0000" stop="20250628103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Paapanasam</title>
+    </programme>
+    <programme start="20250628103000 +0000" stop="20250628133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Dumm Dumm Dumm</title>
+    </programme>
+    <programme start="20250628133000 +0000" stop="20250628170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Lathi Charge</title>
     </programme>
     <programme start="20250627160000 +0000" stop="20250627180000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Mallorca SF 2</title>

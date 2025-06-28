@@ -1462,42 +1462,7 @@
 <programme start="20250628150000 +0000" stop="20250628153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-<programme start="20250627170000 +0000" stop="20250627190000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250627190000 +0000" stop="20250627210000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250627210000 +0000" stop="20250627230000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250627230000 +0000" stop="20250628010000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628010000 +0000" stop="20250628030000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628030000 +0000" stop="20250628050000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628050000 +0000" stop="20250628070000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628070000 +0000" stop="20250628090000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628090000 +0000" stop="20250628110000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628110000 +0000" stop="20250628130000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628130000 +0000" stop="20250628150000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250628150000 +0000" stop="20250628153000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250627170000 +0000" stop="20250627180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -8755,42 +8720,7 @@
 <programme start="20250628150000 +0000" stop="20250628153000 +0000" channel="Sportstars 4.mncvision">
     <title>FC Bayern Munchen Showdown</title>
 </programme>
-<programme start="20250627170000 +0000" stop="20250627190000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: BFC Vs PSL</title>
-</programme>
-<programme start="20250627190000 +0000" stop="20250627210000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1: PSS Vs DWU</title>
-</programme>
-<programme start="20250627210000 +0000" stop="20250627230000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250627230000 +0000" stop="20250628010000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250628010000 +0000" stop="20250628030000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: BFC Vs PSL</title>
-</programme>
-<programme start="20250628030000 +0000" stop="20250628050000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1: PSS Vs DWU</title>
-</programme>
-<programme start="20250628050000 +0000" stop="20250628070000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250628070000 +0000" stop="20250628090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>FC Bayern Munchen Showdown</title>
-</programme>
-<programme start="20250628090000 +0000" stop="20250628110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: BFC Vs PKC</title>
-</programme>
-<programme start="20250628110000 +0000" stop="20250628130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1: DWU Vs TGR</title>
-</programme>
-<programme start="20250628130000 +0000" stop="20250628150000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250628150000 +0000" stop="20250628153000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>FC Bayern Munchen Showdown</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250627173000 +0000" stop="20250627200000 +0000" channel="Sportstars HD.mncvision">
     <title>Indonesia Juara Badminton</title>
 </programme>
@@ -8845,36 +8775,7 @@
 <programme start="20250628160000 +0000" stop="20250628163000 +0000" channel="Sportstars HD.mncvision">
     <title>VNL Men Spc. Japan</title>
 </programme>
-<programme start="20250627173000 +0000" stop="20250627180000 +0000" channel="SPOTV.mncvision">
-    <title>Formula E S11: Jakarta E-Prix</title>
-</programme>
-<programme start="20250627180000 +0000" stop="20250627220000 +0000" channel="SPOTV.mncvision">
-    <title>Golf: R&amp;A Amateur C&#039;ship</title>
-</programme>
-<programme start="20250627220000 +0000" stop="20250627230000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Isle Of Man TT</title>
-</programme>
-<programme start="20250627230000 +0000" stop="20250628013000 +0000" channel="SPOTV.mncvision">
-    <title>SmartCentres PSA Squash (L)</title>
-</programme>
-<programme start="20250628013000 +0000" stop="20250628053000 +0000" channel="SPOTV.mncvision">
-    <title>Wimbledon Qualifying 2025</title>
-</programme>
-<programme start="20250628053000 +0000" stop="20250628090000 +0000" channel="SPOTV.mncvision">
-    <title>Wimbledon Qualifying 2025</title>
-</programme>
-<programme start="20250628090000 +0000" stop="20250628100000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Isle Of Man TT</title>
-</programme>
-<programme start="20250628100000 +0000" stop="20250628133000 +0000" channel="SPOTV.mncvision">
-    <title>WTT Star Contender</title>
-</programme>
-<programme start="20250628133000 +0000" stop="20250628153000 +0000" channel="SPOTV.mncvision">
-    <title>WTT Star Contender</title>
-</programme>
-<programme start="20250628153000 +0000" stop="20250628160000 +0000" channel="SPOTV.mncvision">
-    <title>SmartCentres PSA Squash</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250627180000 +0000" stop="20250627183000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025 Rewind: British</title>
 </programme>

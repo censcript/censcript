@@ -1,28 +1,28 @@
     <programme start="20250627140042 +0000" stop="20250627160025 +0000" channel="Channel 5.mewatch">
         <title>Ghost in the Shell</title>
     </programme>
-    <programme start="20250627160025 +0000" stop="20250627173014 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627160044 +0000" stop="20250627173034 +0000" channel="Channel 5.mewatch">
         <title>Survivor 48 - EP 11</title>
     </programme>
-    <programme start="20250627173014 +0000" stop="20250627180011 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627173034 +0000" stop="20250627180026 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 6</title>
     </programme>
-    <programme start="20250627180011 +0000" stop="20250627183013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627180026 +0000" stop="20250627183022 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 7</title>
     </programme>
-    <programme start="20250627183013 +0000" stop="20250627190019 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627183022 +0000" stop="20250627190023 +0000" channel="Channel 5.mewatch">
         <title>Arts 21 - EP 405</title>
     </programme>
-    <programme start="20250627190019 +0000" stop="20250627193015 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627190023 +0000" stop="20250627193018 +0000" channel="Channel 5.mewatch">
         <title>Euromaxx - EP 405</title>
     </programme>
-    <programme start="20250627193015 +0000" stop="20250627203041 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627193018 +0000" stop="20250627203044 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 8</title>
     </programme>
-    <programme start="20250627203041 +0000" stop="20250627210022 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627203044 +0000" stop="20250627210025 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 3</title>
     </programme>
-    <programme start="20250627210022 +0000" stop="20250627220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250627210025 +0000" stop="20250627220000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S7 - EP 15</title>
     </programme>
     <programme start="20250627220000 +0000" stop="20250627223022 +0000" channel="Channel 5.mewatch">
@@ -235,10 +235,10 @@
     <programme start="20250627153009 +0000" stop="20250627163032 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 4</title>
     </programme>
-    <programme start="20250627163032 +0000" stop="20250627173002 +0000" channel="Channel U.mewatch">
+    <programme start="20250627163057 +0000" stop="20250627173027 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 56</title>
     </programme>
-    <programme start="20250627173002 +0000" stop="20250627220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250627173027 +0000" stop="20250627220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 57</title>
     </programme>
     <programme start="20250627220000 +0000" stop="20250628005808 +0000" channel="Channel U.mewatch">
