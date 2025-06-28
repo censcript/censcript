@@ -523,11 +523,17 @@
 <programme start="20250628063000 +0000" stop="20250628071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
+<programme start="20250628071500 +0000" stop="20250628081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Akhir Pekan</title>
+</programme>
 <programme start="20250628081500 +0000" stop="20250628090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20250628090000 +0000" stop="20250628100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
+</programme>
+<programme start="20250628100000 +0000" stop="20250628110000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20250628110000 +0000" stop="20250628120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250629003000 +0000" stop="20250629013000 +0000" channel="BTV.vision">
 <title>Mantra News</title>
-</programme>
-<programme start="20250629013000 +0000" stop="20250629021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250629021500 +0000" stop="20250629023000 +0000" channel="BTV.vision">
-<title>Endeus</title>
 </programme>
