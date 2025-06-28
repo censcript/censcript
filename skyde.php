@@ -829,108 +829,6 @@
 <programme start="20250628215000 +0000" stop="20250628220000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250627222000 +0000" stop="20250627225000 +0000" channel="Crime + Investigation.skyde">
-    <title>Überlebt - Begegnung mit einem Serienmörder</title>
-</programme>
-<programme start="20250627225000 +0000" stop="20250627233500 +0000" channel="Crime + Investigation.skyde">
-    <title>Court Cam - Auf der Anklagebank</title>
-</programme>
-<programme start="20250627233500 +0000" stop="20250628002000 +0000" channel="Crime + Investigation.skyde">
-    <title>Court Cam - Auf der Anklagebank</title>
-</programme>
-<programme start="20250628002000 +0000" stop="20250628005000 +0000" channel="Crime + Investigation.skyde">
-    <title>Überlebt - Begegnung mit einem Serienmörder</title>
-</programme>
-<programme start="20250628005000 +0000" stop="20250628013500 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20250628013500 +0000" stop="20250628022000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20250628022000 +0000" stop="20250628030500 +0000" channel="Crime + Investigation.skyde">
-    <title>Vermisst und ermordet</title>
-</programme>
-<programme start="20250628030500 +0000" stop="20250628033000 +0000" channel="Crime + Investigation.skyde">
-    <title>Überlebt - Begegnung mit einem Serienmörder</title>
-</programme>
-<programme start="20250628033000 +0000" stop="20250628042000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files</title>
-</programme>
-<programme start="20250628042000 +0000" stop="20250628051000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20250628051000 +0000" stop="20250628060000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20250628060000 +0000" stop="20250628063000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20250628063000 +0000" stop="20250628072000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20250628072000 +0000" stop="20250628081000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20250628081000 +0000" stop="20250628090000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20250628090000 +0000" stop="20250628095000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20250628095000 +0000" stop="20250628102000 +0000" channel="Crime + Investigation.skyde">
-    <title>Expert Witness - Forensiker auf Spurensuche</title>
-</programme>
-<programme start="20250628102000 +0000" stop="20250628110500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20250628110500 +0000" stop="20250628115500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20250628115500 +0000" stop="20250628124500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20250628124500 +0000" stop="20250628133500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20250628133500 +0000" stop="20250628140500 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20250628140500 +0000" stop="20250628145500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20250628145500 +0000" stop="20250628154500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20250628154500 +0000" stop="20250628163500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20250628163500 +0000" stop="20250628172500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20250628172500 +0000" stop="20250628181500 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
-<programme start="20250628181500 +0000" stop="20250628184500 +0000" channel="Crime + Investigation.skyde">
-    <title>Glaube, Panik, Verurteilung - Die Geschichte von Peter Ellis</title>
-</programme>
-<programme start="20250628184500 +0000" stop="20250628192000 +0000" channel="Crime + Investigation.skyde">
-    <title>Glaube, Panik, Verurteilung - Die Geschichte von Peter Ellis</title>
-</programme>
-<programme start="20250628192000 +0000" stop="20250628194500 +0000" channel="Crime + Investigation.skyde">
-    <title>Glaube, Panik, Verurteilung - Die Geschichte von Peter Ellis</title>
-</programme>
-<programme start="20250628194500 +0000" stop="20250628201500 +0000" channel="Crime + Investigation.skyde">
-    <title>Glaube, Panik, Verurteilung - Die Geschichte von Peter Ellis</title>
-</programme>
-<programme start="20250628201500 +0000" stop="20250628210000 +0000" channel="Crime + Investigation.skyde">
-    <title>Undercover - Allein unter Verbrechern</title>
-</programme>
-<programme start="20250628210000 +0000" stop="20250628215000 +0000" channel="Crime + Investigation.skyde">
-    <title>Undercover - Allein unter Verbrechern</title>
-</programme>
-<programme start="20250628215000 +0000" stop="20250628224000 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
 <programme start="20250628060000 +0000" stop="20250628070000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2024/25: 36. Spieltag</title>
 </programme>
@@ -2729,13 +2627,13 @@
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
 <programme start="20250628113000 +0000" stop="20250628140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>Live WTA 500: I. Swiatek (POL) - J. Pegula (USA), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20250628140000 +0000" stop="20250628153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+    <title>Live ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20250628153000 +0000" stop="20250628173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250628173000 +0000" stop="20250628180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Sebastian Ofner)</title>
@@ -3382,7 +3280,7 @@
 <programme start="20250628134000 +0000" stop="20250628140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport WRC</title>
 </programme>
-<programme start="20250628140000 +0000" stop="20250628150000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250628140000 +0000" stop="20250628170000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS12 Karoutes 2</title>
 </programme>
 <programme start="20250628124000 +0000" stop="20250628130000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3400,7 +3298,7 @@
 <programme start="20250628101000 +0000" stop="20250628103000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250628103000 +0000" stop="20250628150000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250628103000 +0000" stop="20250628170000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live Golf: Italian Open, 3. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250627222000 +0000" stop="20250627231000 +0000" channel="SYFY HD.skyde">
