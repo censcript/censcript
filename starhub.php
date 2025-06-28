@@ -7867,26 +7867,26 @@
     <programme start="20250628044000 +0000" stop="20250628051000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2003 - Italy v Wales</title>
     </programme>
-    <programme start="20250628051000 +0000" stop="20250628061000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250628051000 +0000" stop="20250628052000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
     </programme>
-    <programme start="20250628061000 +0000" stop="20250628080000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250628052000 +0000" stop="20250628053000 +0000" channel="Premier Sports.starhub">
+        <title>Premier Sports Extra</title>
+    </programme>
+    <programme start="20250628053000 +0000" stop="20250628072000 +0000" channel="Premier Sports.starhub">
         <title>NRL Knights v Raiders</title>
     </programme>
-    <programme start="20250628080000 +0000" stop="20250628095000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250628072000 +0000" stop="20250628091500 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Lions v Argentina</title>
     </programme>
-    <programme start="20250628095000 +0000" stop="20250628120000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250628091500 +0000" stop="20250628121500 +0000" channel="Premier Sports.starhub">
         <title>LIVE International Rugby LIVE Force v Lions</title>
     </programme>
-    <programme start="20250628120000 +0000" stop="20250628123000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250628121500 +0000" stop="20250628124500 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2005 - Wales v Ireland</title>
     </programme>
-    <programme start="20250628123000 +0000" stop="20250628142000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250628124500 +0000" stop="20250628143000 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Japan v Maori All Blacks</title>
-    </programme>
-    <programme start="20250628142000 +0000" stop="20250628143000 +0000" channel="Premier Sports.starhub">
-        <title>Premier Sports Extra</title>
     </programme>
     <programme start="20250628143000 +0000" stop="20250628150000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2005 - Wales v Ireland</title>
