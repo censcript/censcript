@@ -3265,11 +3265,8 @@
 <programme start="20250628200000 +0000" stop="20250628223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
-<programme start="20250627230000 +0000" stop="20250628030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250627230000 +0000" stop="20250628033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
-</programme>
-<programme start="20250628030000 +0000" stop="20250628031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights EDM@FLA, Stanley Cup Final, Spiel 6</title>
 </programme>
 <programme start="20250628031500 +0000" stop="20250628033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Top 20: Boxenstopp Chaos</title>
