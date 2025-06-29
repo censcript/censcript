@@ -1798,45 +1798,6 @@
 <programme start="20250629211000 +0000" stop="20250629220500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Perry Mason</title>
 </programme>
-<programme start="20250628233500 +0000" stop="20250629011000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>American Skin</title>
-</programme>
-<programme start="20250629011000 +0000" stop="20250629025500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rings</title>
-</programme>
-<programme start="20250629025500 +0000" stop="20250629045000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Vier Brüder</title>
-</programme>
-<programme start="20250629045000 +0000" stop="20250629062500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rage - Tage der Vergeltung</title>
-</programme>
-<programme start="20250629062500 +0000" stop="20250629083000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Hellboy - Call of Darkness</title>
-</programme>
-<programme start="20250629083000 +0000" stop="20250629103000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Escape Plan</title>
-</programme>
-<programme start="20250629103000 +0000" stop="20250629123000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Killer Elite</title>
-</programme>
-<programme start="20250629123000 +0000" stop="20250629141500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo III</title>
-</programme>
-<programme start="20250629141500 +0000" stop="20250629160000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Tango &amp; Cash</title>
-</programme>
-<programme start="20250629160000 +0000" stop="20250629181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20250629181500 +0000" stop="20250629201500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Escape Plan</title>
-</programme>
-<programme start="20250629201500 +0000" stop="20250629215000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Wild Card</title>
-</programme>
-<programme start="20250629215000 +0000" stop="20250629234000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Silent Night - Stumme Rache</title>
-</programme>
 <programme start="20250628221000 +0000" stop="20250628235000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Zu heiß gebadet</title>
 </programme>
