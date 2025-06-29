@@ -1882,6 +1882,48 @@
 <programme start="20250629215000 +0000" stop="20250629232000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Das Mädchen von Hongkong</title>
 </programme>
+<programme start="20250628221500 +0000" stop="20250629001500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Tropic Thunder - Director&#039;s Cut</title>
+</programme>
+<programme start="20250629001500 +0000" stop="20250629021500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>25 km/h</title>
+</programme>
+<programme start="20250629021500 +0000" stop="20250629034500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>The Jesus Rolls</title>
+</programme>
+<programme start="20250629034500 +0000" stop="20250629053500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Miss Undercover</title>
+</programme>
+<programme start="20250629053500 +0000" stop="20250629073000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Miss Undercover 2</title>
+</programme>
+<programme start="20250629073000 +0000" stop="20250629090000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Sherlock Gnomes</title>
+</programme>
+<programme start="20250629090000 +0000" stop="20250629102500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Raus aus dem Teich</title>
+</programme>
+<programme start="20250629102500 +0000" stop="20250629122500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Die Jönsson Bande</title>
+</programme>
+<programme start="20250629122500 +0000" stop="20250629141500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>What Happens Later</title>
+</programme>
+<programme start="20250629141500 +0000" stop="20250629162500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Sherlock Holmes: Spiel im Schatten</title>
+</programme>
+<programme start="20250629162500 +0000" stop="20250629181500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Adèle und das Geheimnis des Pharaos</title>
+</programme>
+<programme start="20250629181500 +0000" stop="20250629194500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>30 letzte Tage - Ein Cop dreht auf</title>
+</programme>
+<programme start="20250629194500 +0000" stop="20250629214500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Miss Undercover 2</title>
+</programme>
+<programme start="20250629214500 +0000" stop="20250629233000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Alles erlaubt - Eine Woche ohne Regeln</title>
+</programme>
 <programme start="20250628232500 +0000" stop="20250629011500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>2 Fast 2 Furious</title>
 </programme>
@@ -1956,90 +1998,6 @@
 </programme>
 <programme start="20250629210000 +0000" stop="20250629234500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Dune: Part Two</title>
-</programme>
-<programme start="20250628220000 +0000" stop="20250628232500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Green River Killer: Vater, Ehemann, Serienmörder</title>
-</programme>
-<programme start="20250628232500 +0000" stop="20250629002500 +0000" channel="Sky Crime HD.skyde">
-    <title>Who Killed Robert Wone?</title>
-</programme>
-<programme start="20250629002500 +0000" stop="20250629013500 +0000" channel="Sky Crime HD.skyde">
-    <title>Who Killed Robert Wone?</title>
-</programme>
-<programme start="20250629013500 +0000" stop="20250629022500 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Todestrakt</title>
-</programme>
-<programme start="20250629022500 +0000" stop="20250629031500 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Todestrakt</title>
-</programme>
-<programme start="20250629031500 +0000" stop="20250629035500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Motive</title>
-</programme>
-<programme start="20250629035500 +0000" stop="20250629044000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Motive</title>
-</programme>
-<programme start="20250629044000 +0000" stop="20250629053000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629053000 +0000" stop="20250629062000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629062000 +0000" stop="20250629070500 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629070500 +0000" stop="20250629075500 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629075500 +0000" stop="20250629084500 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629084500 +0000" stop="20250629093000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629093000 +0000" stop="20250629102000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629102000 +0000" stop="20250629111000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliche Begegnungen</title>
-</programme>
-<programme start="20250629111000 +0000" stop="20250629115500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629115500 +0000" stop="20250629124000 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629124000 +0000" stop="20250629132500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629132500 +0000" stop="20250629141000 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629141000 +0000" stop="20250629145500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629145500 +0000" stop="20250629154000 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629154000 +0000" stop="20250629162500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629162500 +0000" stop="20250629171000 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629171000 +0000" stop="20250629175500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629175500 +0000" stop="20250629184500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250629184500 +0000" stop="20250629201000 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Green River Killer: Vater, Ehemann, Serienmörder</title>
-</programme>
-<programme start="20250629201000 +0000" stop="20250629210500 +0000" channel="Sky Crime HD.skyde">
-    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
-</programme>
-<programme start="20250629210500 +0000" stop="20250629220000 +0000" channel="Sky Crime HD.skyde">
-    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
 </programme>
 <programme start="20250628220500 +0000" stop="20250628224000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Welcome to Wrexham</title>
