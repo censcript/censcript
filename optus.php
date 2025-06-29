@@ -1,6 +1,3 @@
-    <programme start="20250629085500 +0000" stop="20250629111000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Tokyo Verdy v Kawasaki</title>
-    </programme>
     <programme start="20250629095000 +0000" stop="20250629121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Seoul v Pohang</title>
     </programme>
