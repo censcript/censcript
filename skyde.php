@@ -2866,17 +2866,14 @@
 <programme start="20250629213000 +0000" stop="20250629223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 15. Spieltag</title>
 </programme>
-<programme start="20250628220000 +0000" stop="20250628230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628221000 +0000" stop="20250628231000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Österreich</title>
 </programme>
-<programme start="20250628230000 +0000" stop="20250628231500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628231000 +0000" stop="20250628232500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying Kompakt - GP Österreich</title>
 </programme>
-<programme start="20250628231500 +0000" stop="20250629001500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250628232500 +0000" stop="20250629003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Österreich</title>
-</programme>
-<programme start="20250629001500 +0000" stop="20250629003000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Qualifying Kompakt - GP Österreich</title>
 </programme>
 <programme start="20250629003000 +0000" stop="20250629010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA Karting - Highlights: Sarno (ITA)</title>
@@ -2974,7 +2971,7 @@
 <programme start="20250629150000 +0000" stop="20250629170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Rocket Mortgage Classic, 4. Tag (Early Coverage)</title>
 </programme>
-<programme start="20250629170000 +0000" stop="20250629220000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250629170000 +0000" stop="20250629221500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Rocket Mortgage Classic, 4. Tag in Detroit, MI (USA)</title>
 </programme>
 <programme start="20250628220000 +0000" stop="20250628230000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3220,7 +3217,10 @@
 <programme start="20250629210000 +0000" stop="20250629220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2024/2025</title>
 </programme>
-<programme start="20250628223000 +0000" stop="20250629010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250628223000 +0000" stop="20250628230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250628230000 +0000" stop="20250629010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20250629010000 +0000" stop="20250629013000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3244,8 +3244,11 @@
 <programme start="20250629093000 +0000" stop="20250629120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: C. Moutet (FRA) - T. Griekspoor (NED), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
-<programme start="20250629120000 +0000" stop="20250629143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250629120000 +0000" stop="20250629140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+</programme>
+<programme start="20250629140000 +0000" stop="20250629143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20250629143000 +0000" stop="20250629170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: I. Swiatek (POL) - J. Pegula (USA), Bad Homburg Open in Bad Homburg, Finale</title>
