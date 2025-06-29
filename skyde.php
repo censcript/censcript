@@ -1882,48 +1882,6 @@
 <programme start="20250629215000 +0000" stop="20250629232000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Das Mädchen von Hongkong</title>
 </programme>
-<programme start="20250628221500 +0000" stop="20250629001500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Tropic Thunder - Director&#039;s Cut</title>
-</programme>
-<programme start="20250629001500 +0000" stop="20250629021500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>25 km/h</title>
-</programme>
-<programme start="20250629021500 +0000" stop="20250629034500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>The Jesus Rolls</title>
-</programme>
-<programme start="20250629034500 +0000" stop="20250629053500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Miss Undercover</title>
-</programme>
-<programme start="20250629053500 +0000" stop="20250629073000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Miss Undercover 2</title>
-</programme>
-<programme start="20250629073000 +0000" stop="20250629090000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Sherlock Gnomes</title>
-</programme>
-<programme start="20250629090000 +0000" stop="20250629102500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Raus aus dem Teich</title>
-</programme>
-<programme start="20250629102500 +0000" stop="20250629122500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die Jönsson Bande</title>
-</programme>
-<programme start="20250629122500 +0000" stop="20250629141500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>What Happens Later</title>
-</programme>
-<programme start="20250629141500 +0000" stop="20250629162500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Sherlock Holmes: Spiel im Schatten</title>
-</programme>
-<programme start="20250629162500 +0000" stop="20250629181500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Adèle und das Geheimnis des Pharaos</title>
-</programme>
-<programme start="20250629181500 +0000" stop="20250629194500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>30 letzte Tage - Ein Cop dreht auf</title>
-</programme>
-<programme start="20250629194500 +0000" stop="20250629214500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Miss Undercover 2</title>
-</programme>
-<programme start="20250629214500 +0000" stop="20250629233000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Alles erlaubt - Eine Woche ohne Regeln</title>
-</programme>
 <programme start="20250628232500 +0000" stop="20250629011500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>2 Fast 2 Furious</title>
 </programme>
