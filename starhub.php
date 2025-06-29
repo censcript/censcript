@@ -2563,8 +2563,11 @@
     <programme start="20250628231500 +0000" stop="20250629003000 +0000" channel="ONE HD.starhub">
         <title>Empress Ki</title>
     </programme>
-    <programme start="20250629003000 +0000" stop="20250629034500 +0000" channel="ONE HD.starhub">
+    <programme start="20250629003000 +0000" stop="20250629014500 +0000" channel="ONE HD.starhub">
         <title>Taxi Driver</title>
+    </programme>
+    <programme start="20250629014500 +0000" stop="20250629034500 +0000" channel="ONE HD.starhub">
+        <title>Running Man</title>
     </programme>
     <programme start="20250629034500 +0000" stop="20250629054500 +0000" channel="ONE HD.starhub">
         <title>Adventure By Accident 4</title>
@@ -7273,8 +7276,11 @@
     <programme start="20250628231500 +0000" stop="20250629003000 +0000" channel="ONE (Malay).starhub">
         <title>Empress Ki</title>
     </programme>
-    <programme start="20250629003000 +0000" stop="20250629034500 +0000" channel="ONE (Malay).starhub">
+    <programme start="20250629003000 +0000" stop="20250629014500 +0000" channel="ONE (Malay).starhub">
         <title>Taxi Driver</title>
+    </programme>
+    <programme start="20250629014500 +0000" stop="20250629034500 +0000" channel="ONE (Malay).starhub">
+        <title>Running Man</title>
     </programme>
     <programme start="20250629034500 +0000" stop="20250629054500 +0000" channel="ONE (Malay).starhub">
         <title>Adventure By Accident 4</title>

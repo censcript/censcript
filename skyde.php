@@ -3370,19 +3370,19 @@
 <programme start="20250629203000 +0000" stop="20250629223000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250629040000 +0000" stop="20250629153000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250629040000 +0000" stop="20250629173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2025</title>
 </programme>
 <programme start="20250629104000 +0000" stop="20250629110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport WRC</title>
 </programme>
-<programme start="20250629110000 +0000" stop="20250629123000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250629110000 +0000" stop="20250629143000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WRC: EKO Rally Acropolis Greece - SS17 Tarzan 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20250629094000 +0000" stop="20250629100000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Golf DP World Tour</title>
 </programme>
-<programme start="20250629100000 +0000" stop="20250629150000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250629100000 +0000" stop="20250629170000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live Golf: Italian Open, 4. Tag in Porto Ercole (Italien)</title>
 </programme>
 <programme start="20250628224500 +0000" stop="20250629011500 +0000" channel="SYFY HD.skyde">
