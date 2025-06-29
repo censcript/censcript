@@ -1,6 +1,3 @@
-    <programme start="20250629095000 +0000" stop="20250629121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Seoul v Pohang</title>
-    </programme>
     <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
     </programme>
