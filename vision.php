@@ -499,9 +499,6 @@
 <programme start="20250630114500 +0000" stop="20250630130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250629000000 +0000" stop="20250629003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250629003000 +0000" stop="20250629013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250630060000 +0000" stop="20250630064500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250630064500 +0000" stop="20250630073000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
