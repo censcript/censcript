@@ -451,9 +451,6 @@
 <programme start="20250629101500 +0000" stop="20250629111500 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250629111500 +0000" stop="20250629120000 +0000" channel="Trans TV.vision">
-<title>HUT DKI</title>
-</programme>
 <programme start="20250629120000 +0000" stop="20250629163000 +0000" channel="Trans TV.vision">
 <title>Allo Bank Festival</title>
 </programme>
@@ -499,32 +496,8 @@
 <programme start="20250630114500 +0000" stop="20250630130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250629000000 +0000" stop="20250629003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250629003000 +0000" stop="20250629013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250629013000 +0000" stop="20250629023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250629023000 +0000" stop="20250629033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250629033000 +0000" stop="20250629041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250629041500 +0000" stop="20250629050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20250629050000 +0000" stop="20250629054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250629054500 +0000" stop="20250629063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20250629063000 +0000" stop="20250629074500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
 </programme>
 <programme start="20250629074500 +0000" stop="20250629081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
@@ -534,9 +507,6 @@
 </programme>
 <programme start="20250629090000 +0000" stop="20250629100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20250629100000 +0000" stop="20250629130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025 Netherlands (L)</title>
 </programme>
 <programme start="20250629130000 +0000" stop="20250629141500 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -1497,4 +1467,34 @@
 </programme>
 <programme start="20250630060000 +0000" stop="20250630064500 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20250630064500 +0000" stop="20250630073000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250630073000 +0000" stop="20250630080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250630080000 +0000" stop="20250630090000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250630090000 +0000" stop="20250630100000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250630100000 +0000" stop="20250630110000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250629000000 +0000" stop="20250629010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250629010000 +0000" stop="20250629020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250629020000 +0000" stop="20250629020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250629020300 +0000" stop="20250629023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
