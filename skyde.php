@@ -1876,6 +1876,54 @@
 <programme start="20250630201500 +0000" stop="20250630221000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Das Bourne Ultimatum</title>
 </programme>
+<programme start="20250629232000 +0000" stop="20250630004500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Held mit der Maske</title>
+</programme>
+<programme start="20250630004500 +0000" stop="20250630023000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Geheimnis des gelben Grabes</title>
+</programme>
+<programme start="20250630023000 +0000" stop="20250630043000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Hausboot</title>
+</programme>
+<programme start="20250630043000 +0000" stop="20250630055000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Leichendieb</title>
+</programme>
+<programme start="20250630055000 +0000" stop="20250630074000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>El Diablo - Der mit dem Teufel tanzt</title>
+</programme>
+<programme start="20250630074000 +0000" stop="20250630094000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Tod ritt dienstags</title>
+</programme>
+<programme start="20250630094000 +0000" stop="20250630111000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Sinola</title>
+</programme>
+<programme start="20250630111000 +0000" stop="20250630125500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Bruce Lee - Mein letzter Kampf</title>
+</programme>
+<programme start="20250630125500 +0000" stop="20250630145000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>True Grit</title>
+</programme>
+<programme start="20250630145000 +0000" stop="20250630152000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Zorro - Der schwarze Rächer</title>
+</programme>
+<programme start="20250630152000 +0000" stop="20250630155000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Lone Ranger</title>
+</programme>
+<programme start="20250630155000 +0000" stop="20250630162000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Lone Ranger</title>
+</programme>
+<programme start="20250630162000 +0000" stop="20250630181500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Schut</title>
+</programme>
+<programme start="20250630181500 +0000" stop="20250630201000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Chisum</title>
+</programme>
+<programme start="20250630201000 +0000" stop="20250630213000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Black River</title>
+</programme>
+<programme start="20250630213000 +0000" stop="20250630231500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Geheimnis des gelben Grabes</title>
+</programme>
 <programme start="20250629233000 +0000" stop="20250630014000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Blind Side - Die große Chance</title>
 </programme>
@@ -2577,93 +2625,6 @@
 </programme>
 <programme start="20250630211500 +0000" stop="20250630220000 +0000" channel="Sky Replay HD.skyde">
     <title>Navy CIS</title>
-</programme>
-<programme start="20250629222000 +0000" stop="20250629231000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Yellowstone</title>
-</programme>
-<programme start="20250629231000 +0000" stop="20250630003000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Der Green River Killer: Vater, Ehemann, Serienmörder</title>
-</programme>
-<programme start="20250630003000 +0000" stop="20250630011000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250630011000 +0000" stop="20250630015500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250630015500 +0000" stop="20250630023500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250630023500 +0000" stop="20250630031500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250630031500 +0000" stop="20250630040000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250630040000 +0000" stop="20250630044000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Bear Grylls: Stars am Limit</title>
-</programme>
-<programme start="20250630044000 +0000" stop="20250630053000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20250630053000 +0000" stop="20250630061500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20250630061500 +0000" stop="20250630071500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Death in Paradise</title>
-</programme>
-<programme start="20250630071500 +0000" stop="20250630081000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Death in Paradise</title>
-</programme>
-<programme start="20250630081000 +0000" stop="20250630090000 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20250630090000 +0000" stop="20250630094500 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20250630094500 +0000" stop="20250630103000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Real Murders of Orange County</title>
-</programme>
-<programme start="20250630103000 +0000" stop="20250630111500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Real Murders of Orange County</title>
-</programme>
-<programme start="20250630111500 +0000" stop="20250630120500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Motorway Cops - Verkehrssünder im Visier</title>
-</programme>
-<programme start="20250630120500 +0000" stop="20250630125000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250630125000 +0000" stop="20250630134000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20250630134000 +0000" stop="20250630143000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20250630143000 +0000" stop="20250630151500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250630151500 +0000" stop="20250630160000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250630160000 +0000" stop="20250630164500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250630164500 +0000" stop="20250630173000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250630173000 +0000" stop="20250630181500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Equalizer</title>
-</programme>
-<programme start="20250630181500 +0000" stop="20250630191000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Gilded Age</title>
-</programme>
-<programme start="20250630191000 +0000" stop="20250630201000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Last of Us</title>
-</programme>
-<programme start="20250630201000 +0000" stop="20250630210000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Last of Us</title>
-</programme>
-<programme start="20250630210000 +0000" stop="20250630223000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord im Mittsommer</title>
 </programme>
 <programme start="20250629221000 +0000" stop="20250629223500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Bundesliga Classic: Austria - Rapid (2017/2018)</title>
