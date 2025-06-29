@@ -382,13 +382,13 @@
     <programme start="20250628135959 +0000" stop="20250628162958 +0000" channel="Vasantham.mewatch">
         <title>Mazhai Pidikatha Manithan</title>
     </programme>
-    <programme start="20250628162958 +0000" stop="20250628170000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250628163016 +0000" stop="20250628170003 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 20</title>
     </programme>
-    <programme start="20250628170000 +0000" stop="20250628173116 +0000" channel="Vasantham.mewatch">
+    <programme start="20250628170003 +0000" stop="20250628172930 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250628173116 +0000" stop="20250629010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250628172930 +0000" stop="20250629010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250629010000 +0000" stop="20250629015959 +0000" channel="Vasantham.mewatch">
