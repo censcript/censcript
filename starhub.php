@@ -2533,26 +2533,23 @@
     <programme start="20250630040000 +0000" stop="20250630063000 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime LIVE</title>
     </programme>
-    <programme start="20250630063000 +0000" stop="20250630065000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250630063000 +0000" stop="20250630070000 +0000" channel="The Filipino Channel HD.starhub">
         <title>TFC Kids Zone</title>
     </programme>
-    <programme start="20250630065000 +0000" stop="20250630072000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250630070000 +0000" stop="20250630073500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Incognito</title>
     </programme>
-    <programme start="20250630072000 +0000" stop="20250630074500 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250630073500 +0000" stop="20250630081000 +0000" channel="The Filipino Channel HD.starhub">
         <title>FPJ&#039;s Batang Quiapo</title>
     </programme>
-    <programme start="20250630074500 +0000" stop="20250630082000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250630081000 +0000" stop="20250630084500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Sins Of The Father</title>
     </programme>
-    <programme start="20250630082000 +0000" stop="20250630084500 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Can&#039;t Buy Me Love</title>
-    </programme>
-    <programme start="20250630084500 +0000" stop="20250630090000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>TV Patrol Express Live</title>
-    </programme>
-    <programme start="20250630090000 +0000" stop="20250630094500 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250630084500 +0000" stop="20250630093000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Goin&#039; Bulilit S15</title>
+    </programme>
+    <programme start="20250630093000 +0000" stop="20250630094500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Express Live</title>
     </programme>
     <programme start="20250630094500 +0000" stop="20250630103000 +0000" channel="The Filipino Channel HD.starhub">
         <title>BRGY S3</title>
@@ -8263,23 +8260,23 @@
     <programme start="20250629213000 +0000" stop="20250629233000 +0000" channel="Asianet Movies.starhub">
         <title>Parthan kanda paralokam</title>
     </programme>
-    <programme start="20250629233000 +0000" stop="20250630013500 +0000" channel="Asianet Movies.starhub">
-        <title>The Kungfu Master</title>
+    <programme start="20250629233000 +0000" stop="20250630013000 +0000" channel="Asianet Movies.starhub">
+        <title>Mudhugavu</title>
     </programme>
-    <programme start="20250630013500 +0000" stop="20250630043000 +0000" channel="Asianet Movies.starhub">
-        <title>Falimy</title>
+    <programme start="20250630013000 +0000" stop="20250630043000 +0000" channel="Asianet Movies.starhub">
+        <title>Kuberan</title>
     </programme>
     <programme start="20250630043000 +0000" stop="20250630073000 +0000" channel="Asianet Movies.starhub">
-        <title>Grrr</title>
+        <title>Sagar Alias Jacky Reloaded</title>
     </programme>
     <programme start="20250630073000 +0000" stop="20250630103000 +0000" channel="Asianet Movies.starhub">
-        <title>Lucifer</title>
+        <title>Thrissur Pooram</title>
     </programme>
     <programme start="20250630103000 +0000" stop="20250630133000 +0000" channel="Asianet Movies.starhub">
-        <title>Good Night</title>
+        <title>Salala Mobiles</title>
     </programme>
     <programme start="20250630133000 +0000" stop="20250630163000 +0000" channel="Asianet Movies.starhub">
-        <title>Premalu</title>
+        <title>Vismayam</title>
     </programme>
     <programme start="20250629160000 +0000" stop="20250629163000 +0000" channel="Astro Warna HD.starhub">
         <title>Jihan Show</title>

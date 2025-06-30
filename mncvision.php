@@ -7735,11 +7735,14 @@
 <programme start="20250630003500 +0000" stop="20250630023500 +0000" channel="Rock Action.mncvision">
     <title>TMNT: Out Of The Shadows</title>
 </programme>
-<programme start="20250630023500 +0000" stop="20250630052000 +0000" channel="Rock Action.mncvision">
-    <title>The Patriot</title>
+<programme start="20250630023500 +0000" stop="20250630044000 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic Park</title>
 </programme>
-<programme start="20250630052000 +0000" stop="20250630070500 +0000" channel="Rock Action.mncvision">
-    <title>The Tailor Of Panama</title>
+<programme start="20250630044000 +0000" stop="20250630064000 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20250630064000 +0000" stop="20250630070500 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
 </programme>
 <programme start="20250630070500 +0000" stop="20250630084500 +0000" channel="Rock Action.mncvision">
     <title>Dragonheart: The Heartfire</title>

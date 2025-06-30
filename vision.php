@@ -256,9 +256,6 @@
 <programme start="20250630050000 +0000" stop="20250630054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250630054500 +0000" stop="20250630063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20250630063000 +0000" stop="20250630074500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250630054600 +0000" stop="20250630073400 +0000" channel="Originals.vision">
 <title>Gold</title>
+</programme>
+<programme start="20250630073400 +0000" stop="20250630092300 +0000" channel="Originals.vision">
+<title>10 Years</title>
 </programme>
