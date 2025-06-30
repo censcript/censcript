@@ -5890,7 +5890,10 @@
 <programme start="20250630033000 +0000" stop="20250630040000 +0000" channel="MNCTV.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250630040000 +0000" stop="20250630060000 +0000" channel="MNCTV.mncvision">
+<programme start="20250630040000 +0000" stop="20250630050000 +0000" channel="MNCTV.mncvision">
+    <title>Kung Fu Panda Sang Pendekar</title>
+</programme>
+<programme start="20250630050000 +0000" stop="20250630060000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250630060000 +0000" stop="20250630080000 +0000" channel="MNCTV.mncvision">
@@ -5912,7 +5915,7 @@
     <title>Family 100</title>
 </programme>
 <programme start="20250630140000 +0000" stop="20250630160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20250630160000 +0000" stop="20250630163000 +0000" channel="MNCTV.mncvision">
     <title>Radio</title>
@@ -5956,7 +5959,10 @@
 <programme start="20250630033000 +0000" stop="20250630040000 +0000" channel="MNCTV HD.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250630040000 +0000" stop="20250630060000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250630040000 +0000" stop="20250630050000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kung Fu Panda Sang Pendekar</title>
+</programme>
+<programme start="20250630050000 +0000" stop="20250630060000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250630060000 +0000" stop="20250630080000 +0000" channel="MNCTV HD.mncvision">
@@ -5978,7 +5984,7 @@
     <title>Family 100</title>
 </programme>
 <programme start="20250630140000 +0000" stop="20250630160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20250630160000 +0000" stop="20250630163000 +0000" channel="MNCTV HD.mncvision">
     <title>Radio</title>

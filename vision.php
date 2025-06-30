@@ -247,6 +247,9 @@
 <programme start="20250630013000 +0000" stop="20250630023000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
 </programme>
+<programme start="20250630023000 +0000" stop="20250630034500 +0000" channel="Trans 7.vision">
+<title>Arisan Liburan</title>
+</programme>
 <programme start="20250630034500 +0000" stop="20250630041500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250630040000 +0000" stop="20250630054600 +0000" channel="Originals.vision">
 <title>Playing God</title>
-</programme>
-<programme start="20250630054600 +0000" stop="20250630073400 +0000" channel="Originals.vision">
-<title>Gold</title>
 </programme>
