@@ -1243,20 +1243,20 @@
 <programme start="20250629170000 +0000" stop="20250629185000 +0000" channel="beIN Sports 3.mncvision">
     <title>LaLiga Classic: BET Vs BAR</title>
 </programme>
-<programme start="20250629185000 +0000" stop="20250629195000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga Highlights 2024/25</title>
-</programme>
-<programme start="20250629195000 +0000" stop="20250629205000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250629205000 +0000" stop="20250629224000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250629185000 +0000" stop="20250629204000 +0000" channel="beIN Sports 3.mncvision">
     <title>TGL: Atlanta Drive Vs The Bay</title>
 </programme>
-<programme start="20250629224000 +0000" stop="20250630003000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250629204000 +0000" stop="20250629223000 +0000" channel="beIN Sports 3.mncvision">
     <title>CAF Confederation: ASE Vs USM</title>
 </programme>
-<programme start="20250630003000 +0000" stop="20250630010000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250629223000 +0000" stop="20250629230000 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV HL 2024/25: MUN Vs BOD</title>
+</programme>
+<programme start="20250629230000 +0000" stop="20250630000000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Ferrari Challenge Europe 2025</title>
+</programme>
+<programme start="20250630000000 +0000" stop="20250630010000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Ferrari Challenge Europe 2025</title>
 </programme>
 <programme start="20250630010000 +0000" stop="20250630020000 +0000" channel="beIN Sports 3.mncvision">
     <title>Ferrari Challenge Europe 2025</title>
@@ -1294,20 +1294,20 @@
 <programme start="20250629170000 +0000" stop="20250629185000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>LaLiga Classic: BET Vs BAR</title>
 </programme>
-<programme start="20250629185000 +0000" stop="20250629195000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga Highlights 2024/25</title>
-</programme>
-<programme start="20250629195000 +0000" stop="20250629205000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250629205000 +0000" stop="20250629224000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250629185000 +0000" stop="20250629204000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>TGL: Atlanta Drive Vs The Bay</title>
 </programme>
-<programme start="20250629224000 +0000" stop="20250630003000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250629204000 +0000" stop="20250629223000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>CAF Confederation: ASE Vs USM</title>
 </programme>
-<programme start="20250630003000 +0000" stop="20250630010000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250629223000 +0000" stop="20250629230000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV HL 2024/25: MUN Vs BOD</title>
+</programme>
+<programme start="20250629230000 +0000" stop="20250630000000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Ferrari Challenge Europe 2025</title>
+</programme>
+<programme start="20250630000000 +0000" stop="20250630010000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Ferrari Challenge Europe 2025</title>
 </programme>
 <programme start="20250630010000 +0000" stop="20250630020000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Ferrari Challenge Europe 2025</title>
@@ -9307,13 +9307,13 @@
 <programme start="20250630114500 +0000" stop="20250630130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20250630130000 +0000" stop="20250630140000 +0000" channel="Trans TV.mncvision">
+<programme start="20250630130000 +0000" stop="20250630143000 +0000" channel="Trans TV.mncvision">
+    <title>Jogetin Shaaay</title>
+</programme>
+<programme start="20250630143000 +0000" stop="20250630150000 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250630140000 +0000" stop="20250630160000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20250630160000 +0000" stop="20250630163000 +0000" channel="Trans TV.mncvision">
+<programme start="20250630150000 +0000" stop="20250630153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250629170000 +0000" stop="20250629181500 +0000" channel="tvN.mncvision">
