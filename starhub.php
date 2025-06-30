@@ -2038,7 +2038,7 @@
     <programme start="20250630133000 +0000" stop="20250630150000 +0000" channel="beIN Sports 3.starhub">
         <title>Bordeaux P2 Day 1 Match 2</title>
     </programme>
-    <programme start="20250630150000 +0000" stop="20250630160000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250630150000 +0000" stop="20250630163000 +0000" channel="beIN Sports 3.starhub">
         <title>Bordeaux P2 Day 1 Match 3</title>
     </programme>
     <programme start="20250629160000 +0000" stop="20250629163000 +0000" channel="Sun Music.starhub">
