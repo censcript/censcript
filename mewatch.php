@@ -136,10 +136,10 @@
     <programme start="20250630110050 +0000" stop="20250630113001 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7912</title>
     </programme>
-    <programme start="20250630113001 +0000" stop="20250630123023 +0000" channel="Channel 5.mewatch">
+    <programme start="20250630113001 +0000" stop="20250630123021 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Wheel of Fortune: Season 03 - EP 14</title>
     </programme>
-    <programme start="20250630123023 +0000" stop="20250630130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250630123021 +0000" stop="20250630130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 91</title>
     </programme>
     <programme start="20250630130000 +0000" stop="20250630132959 +0000" channel="Channel 5.mewatch">
@@ -478,28 +478,28 @@
     <programme start="20250630075957 +0000" stop="20250630110000 +0000" channel="Vasantham.mewatch">
         <title>Unnai Ninathu</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630110000 +0000" stop="20250630115959 +0000" channel="Vasantham.mewatch">
         <title>Suvai 4 - EP 1</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630115959 +0000" stop="20250630123000 +0000" channel="Vasantham.mewatch">
         <title>Uppu Roti Chidambaram - EP 3</title>
     </programme>
     <programme start="20250630123000 +0000" stop="20250630130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250630130000 +0000" stop="20250630133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630130000 +0000" stop="20250630132957 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 22</title>
     </programme>
-    <programme start="20250630133000 +0000" stop="20250630140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630132957 +0000" stop="20250630135958 +0000" channel="Vasantham.mewatch">
         <title>Mahakavi - EP 2</title>
     </programme>
-    <programme start="20250630140000 +0000" stop="20250630143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630135958 +0000" stop="20250630142957 +0000" channel="Vasantham.mewatch">
         <title>Manmadha Bullets - EP 3</title>
     </programme>
-    <programme start="20250630143000 +0000" stop="20250630150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630142957 +0000" stop="20250630145957 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 20</title>
     </programme>
-    <programme start="20250630150000 +0000" stop="20250630153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630145957 +0000" stop="20250630153000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 32</title>
     </programme>
     <programme start="20250630153000 +0000" stop="20250630160100 +0000" channel="Vasantham.mewatch">
@@ -571,26 +571,23 @@
     <programme start="20250630100001 +0000" stop="20250630110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630113000 +0000" channel="CNA.mewatch">
+    <programme start="20250630110000 +0000" stop="20250630113002 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 9</title>
     </programme>
-    <programme start="20250630113000 +0000" stop="20250630120000 +0000" channel="CNA.mewatch">
+    <programme start="20250630113002 +0000" stop="20250630115959 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 7</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630130000 +0000" channel="CNA.mewatch">
+    <programme start="20250630115959 +0000" stop="20250630125959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250630130000 +0000" stop="20250630140000 +0000" channel="CNA.mewatch">
+    <programme start="20250630125959 +0000" stop="20250630140000 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 3</title>
     </programme>
-    <programme start="20250630140000 +0000" stop="20250630150000 +0000" channel="CNA.mewatch">
+    <programme start="20250630140000 +0000" stop="20250630150055 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250630150000 +0000" stop="20250630160000 +0000" channel="CNA.mewatch">
+    <programme start="20250630150055 +0000" stop="20250630160001 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 2</title>
-    </programme>
-    <programme start="20250630160000 +0000" stop="20250630160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250629155959 +0000" stop="20250629170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
