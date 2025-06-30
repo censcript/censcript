@@ -2146,20 +2146,20 @@
     <programme start="20250630000000 +0000" stop="20250630010000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNN/US)</title>
     </programme>
-    <programme start="20250630010000 +0000" stop="20250630020000 +0000" channel="CNN HD.starhub">
-        <title>TBD</title>
-    </programme>
-    <programme start="20250630020000 +0000" stop="20250630023000 +0000" channel="CNN HD.starhub">
+    <programme start="20250630010000 +0000" stop="20250630013000 +0000" channel="CNN HD.starhub">
         <title>Rotimi and Vanessa Mdee</title>
     </programme>
-    <programme start="20250630023000 +0000" stop="20250630030000 +0000" channel="CNN HD.starhub">
+    <programme start="20250630013000 +0000" stop="20250630020000 +0000" channel="CNN HD.starhub">
         <title>Cote d&#039;Ivoire Economy</title>
     </programme>
-    <programme start="20250630030000 +0000" stop="20250630033000 +0000" channel="CNN HD.starhub">
+    <programme start="20250630020000 +0000" stop="20250630023000 +0000" channel="CNN HD.starhub">
         <title>Cape Flora (Part 2)</title>
     </programme>
-    <programme start="20250630033000 +0000" stop="20250630040000 +0000" channel="CNN HD.starhub">
+    <programme start="20250630023000 +0000" stop="20250630030000 +0000" channel="CNN HD.starhub">
         <title>The Future of Food</title>
+    </programme>
+    <programme start="20250630030000 +0000" stop="20250630040000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20250630040000 +0000" stop="20250630044500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
@@ -2171,7 +2171,7 @@
         <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20250630060000 +0000" stop="20250630064500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
+        <title>CNN Newsroom</title>
     </programme>
     <programme start="20250630064500 +0000" stop="20250630070000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
@@ -2180,7 +2180,7 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20250630080000 +0000" stop="20250630090000 +0000" channel="CNN HD.starhub">
-        <title>The Amanpour Hour</title>
+        <title>Early Start</title>
     </programme>
     <programme start="20250630090000 +0000" stop="20250630100000 +0000" channel="CNN HD.starhub">
         <title>Early Start</title>
@@ -8413,11 +8413,8 @@
     <programme start="20250629222500 +0000" stop="20250629234000 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250629234000 +0000" stop="20250630013000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250629234000 +0000" stop="20250630020000 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
-    </programme>
-    <programme start="20250630013000 +0000" stop="20250630020000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250630020000 +0000" stop="20250630040000 +0000" channel="SPOTV2.starhub">
         <title>Women&#039;s Football Friendly 2025 Match 1 - Australia v Slovenia</title>
@@ -8437,11 +8434,8 @@
     <programme start="20250630082500 +0000" stop="20250630094000 +0000" channel="SPOTV2.starhub">
         <title>Race - Moto2</title>
     </programme>
-    <programme start="20250630094000 +0000" stop="20250630113000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250630094000 +0000" stop="20250630115500 +0000" channel="SPOTV2.starhub">
         <title>Race - MotoGP</title>
-    </programme>
-    <programme start="20250630113000 +0000" stop="20250630115500 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250630115500 +0000" stop="20250630200000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles First Round</title>

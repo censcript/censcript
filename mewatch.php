@@ -511,37 +511,34 @@
     <programme start="20250629150304 +0000" stop="20250629160001 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 1</title>
     </programme>
-    <programme start="20250629160001 +0000" stop="20250629160306 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250629160306 +0000" stop="20250629162959 +0000" channel="CNA.mewatch">
+    <programme start="20250629160335 +0000" stop="20250629162958 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 9</title>
     </programme>
-    <programme start="20250629162959 +0000" stop="20250629165959 +0000" channel="CNA.mewatch">
+    <programme start="20250629162958 +0000" stop="20250629165958 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 9</title>
     </programme>
-    <programme start="20250629165959 +0000" stop="20250629175959 +0000" channel="CNA.mewatch">
+    <programme start="20250629165958 +0000" stop="20250629180000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 10</title>
     </programme>
-    <programme start="20250629175959 +0000" stop="20250629182959 +0000" channel="CNA.mewatch">
+    <programme start="20250629180000 +0000" stop="20250629182957 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250629182959 +0000" stop="20250629185959 +0000" channel="CNA.mewatch">
+    <programme start="20250629182957 +0000" stop="20250629185957 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 6</title>
     </programme>
-    <programme start="20250629185959 +0000" stop="20250629193002 +0000" channel="CNA.mewatch">
+    <programme start="20250629185957 +0000" stop="20250629192959 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 4</title>
     </programme>
-    <programme start="20250629193002 +0000" stop="20250629200001 +0000" channel="CNA.mewatch">
+    <programme start="20250629192959 +0000" stop="20250629200000 +0000" channel="CNA.mewatch">
         <title>On The Red Dot - EP 7</title>
     </programme>
-    <programme start="20250629200001 +0000" stop="20250629203001 +0000" channel="CNA.mewatch">
+    <programme start="20250629200000 +0000" stop="20250629203000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250629203001 +0000" stop="20250629210002 +0000" channel="CNA.mewatch">
+    <programme start="20250629203000 +0000" stop="20250629210001 +0000" channel="CNA.mewatch">
         <title>The New Locals - EP 4</title>
     </programme>
-    <programme start="20250629210002 +0000" stop="20250629220000 +0000" channel="CNA.mewatch">
+    <programme start="20250629210001 +0000" stop="20250629220000 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 2</title>
     </programme>
     <programme start="20250629220000 +0000" stop="20250629222959 +0000" channel="CNA.mewatch">
@@ -1054,7 +1051,7 @@
     <programme start="20250628160001 +0000" stop="20250629160001 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
     </programme>
-    <programme start="20250629160001 +0000" stop="20250630160000 +0000" channel="Live 2.mewatch">
+    <programme start="20250629160001 +0000" stop="20250630160001 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250701160000 +0000" channel="Live 2.mewatch">

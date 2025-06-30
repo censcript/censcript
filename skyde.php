@@ -2911,22 +2911,22 @@
 <programme start="20250630200000 +0000" stop="20250630220000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - SC Freiburg, 11. Spieltag</title>
 </programme>
-<programme start="20250629220000 +0000" stop="20250629221000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250629220000 +0000" stop="20250629223000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted&#039;s Notebook: GP Österreich</title>
+</programme>
+<programme start="20250629223000 +0000" stop="20250629224500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ein echter Typ mit Ecken und Kanten - alles Gute zum 50. Ralf Schumacher!</title>
 </programme>
-<programme start="20250629221000 +0000" stop="20250629231000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250629224500 +0000" stop="20250629234500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Hardenacke trifft... (Gast: Ralf Schumacher)</title>
 </programme>
-<programme start="20250629231000 +0000" stop="20250630011000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250629234500 +0000" stop="20250630014500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250630011000 +0000" stop="20250630013500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Best Onboards: Michael Schumacher</title>
-</programme>
-<programme start="20250630013500 +0000" stop="20250630020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250630014500 +0000" stop="20250630021000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Best Onboards: Sebastian Vettel</title>
 </programme>
-<programme start="20250630020000 +0000" stop="20250630030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250630021000 +0000" stop="20250630030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>PMSC: Rennen - GP Österreich</title>
 </programme>
 <programme start="20250630030000 +0000" stop="20250630040000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2983,16 +2983,16 @@
 <programme start="20250630213000 +0000" stop="20250630230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: EKO Rally Acropolis Greece - SS17 Tarzan 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20250629221500 +0000" stop="20250630010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250629233000 +0000" stop="20250630013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Italian Open, 4. Tag in Porto Ercole (Italien)</title>
 </programme>
-<programme start="20250630010000 +0000" stop="20250630040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250630013000 +0000" stop="20250630043000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Amundi German Masters, 4. Tag in Hamburg (Deutschland)</title>
 </programme>
-<programme start="20250630040000 +0000" stop="20250630070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250630043000 +0000" stop="20250630073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Rocket Mortgage Classic, 4. Tag in Detroit, MI (USA)</title>
 </programme>
-<programme start="20250630070000 +0000" stop="20250630100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250630073000 +0000" stop="20250630100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Amundi German Masters, 4. Tag in Hamburg (Deutschland)</title>
 </programme>
 <programme start="20250630100000 +0000" stop="20250630130000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3310,13 +3310,10 @@
 <programme start="20250630214500 +0000" stop="20250701001500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: I. Swiatek (POL) - J. Pegula (USA), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
-<programme start="20250629220000 +0000" stop="20250629223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Österreich</title>
-</programme>
-<programme start="20250629223000 +0000" stop="20250629233000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250629233000 +0000" stop="20250630003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Niederlande</title>
 </programme>
-<programme start="20250629233000 +0000" stop="20250630023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250630003000 +0000" stop="20250630023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf Ladies ET: Amundi German Masters, 4. Tag in Hamburg (Deutschland)</title>
 </programme>
 <programme start="20250630023000 +0000" stop="20250630040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3355,7 +3352,7 @@
 <programme start="20250630213000 +0000" stop="20250630220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Österreich</title>
 </programme>
-<programme start="20250629223000 +0000" stop="20250629233000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250629230000 +0000" stop="20250630000000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Österreich</title>
 </programme>
 <programme start="20250629233000 +0000" stop="20250630000000 +0000" channel="Sky Sport UHD.skyde">
