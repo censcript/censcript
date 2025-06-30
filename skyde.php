@@ -2344,6 +2344,111 @@
 <programme start="20250701214000 +0000" stop="20250701223500 +0000" channel="Sky Nature HD.skyde">
     <title>Land der Großkatzen</title>
 </programme>
+<programme start="20250630220500 +0000" stop="20250630225000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250630225000 +0000" stop="20250630233500 +0000" channel="Sky One HD.skyde">
+    <title>The Equalizer</title>
+</programme>
+<programme start="20250630233500 +0000" stop="20250701001500 +0000" channel="Sky One HD.skyde">
+    <title>The Equalizer</title>
+</programme>
+<programme start="20250701001500 +0000" stop="20250701004000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250701004000 +0000" stop="20250701010000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250701010000 +0000" stop="20250701012000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250701012000 +0000" stop="20250701014500 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250701014500 +0000" stop="20250701020500 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250701020500 +0000" stop="20250701023000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250701023000 +0000" stop="20250701031000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250701031000 +0000" stop="20250701035000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250701035000 +0000" stop="20250701043500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250701043500 +0000" stop="20250701052000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250701052000 +0000" stop="20250701060500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701060500 +0000" stop="20250701065000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701065000 +0000" stop="20250701073500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701073500 +0000" stop="20250701082000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250701082000 +0000" stop="20250701090500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250701090500 +0000" stop="20250701095000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250701095000 +0000" stop="20250701103500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250701103500 +0000" stop="20250701112000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250701112000 +0000" stop="20250701121000 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20250701121000 +0000" stop="20250701125500 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20250701125500 +0000" stop="20250701134000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250701134000 +0000" stop="20250701143000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701143000 +0000" stop="20250701151500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701151500 +0000" stop="20250701160000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701160000 +0000" stop="20250701164500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250701164500 +0000" stop="20250701173000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250701173000 +0000" stop="20250701181500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250701181500 +0000" stop="20250701190000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250701190000 +0000" stop="20250701194500 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250701194500 +0000" stop="20250701203000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250701203000 +0000" stop="20250701211500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701211500 +0000" stop="20250701220000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20250630220000 +0000" stop="20250630224000 +0000" channel="Sky Replay HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
@@ -3685,10 +3790,10 @@
 <programme start="20250701031500 +0000" stop="20250701033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250701033000 +0000" stop="20250701041500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250701033000 +0000" stop="20250701042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250701041500 +0000" stop="20250701051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250701042500 +0000" stop="20250701051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250701051500 +0000" stop="20250701060500 +0000" channel="Warner TV Serie HD.skyde">
