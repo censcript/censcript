@@ -1,1043 +1,1022 @@
-    <programme start="20250629143035 +0000" stop="20250629163025 +0000" channel="Channel 5.mewatch">
-        <title>India Sweets &amp; Spices</title>
-    </programme>
-    <programme start="20250629163041 +0000" stop="20250629170032 +0000" channel="Channel 5.mewatch">
-        <title>Hoarders S12 - EP 19</title>
-    </programme>
-    <programme start="20250629170032 +0000" stop="20250629175547 +0000" channel="Channel 5.mewatch">
-        <title>Domino Masters - EP 10</title>
-    </programme>
-    <programme start="20250629175547 +0000" stop="20250629184535 +0000" channel="Channel 5.mewatch">
-        <title>Modern Marvels: Food - EP 8</title>
-    </programme>
-    <programme start="20250629184535 +0000" stop="20250629194521 +0000" channel="Channel 5.mewatch">
-        <title>The Great Canadian Baking Show Series 5 - EP 7</title>
-    </programme>
-    <programme start="20250629194521 +0000" stop="20250629204038 +0000" channel="Channel 5.mewatch">
-        <title>Expedition with Steve Backshall: Unpacked - EP 1</title>
-    </programme>
-    <programme start="20250629204038 +0000" stop="20250629220000 +0000" channel="Channel 5.mewatch">
-        <title>Survivor 45 - EP 11</title>
-    </programme>
-    <programme start="20250629220000 +0000" stop="20250629221251 +0000" channel="Channel 5.mewatch">
-        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 43</title>
-    </programme>
-    <programme start="20250629221251 +0000" stop="20250629223007 +0000" channel="Channel 5.mewatch">
-        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 44</title>
-    </programme>
-    <programme start="20250629223007 +0000" stop="20250629223518 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 21</title>
-    </programme>
-    <programme start="20250629223518 +0000" stop="20250629224026 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 22</title>
-    </programme>
-    <programme start="20250629224026 +0000" stop="20250629224537 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 23</title>
-    </programme>
-    <programme start="20250629224537 +0000" stop="20250629230012 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 24</title>
-    </programme>
-    <programme start="20250629230012 +0000" stop="20250629231400 +0000" channel="Channel 5.mewatch">
-        <title>Super BOOMi S2 - EP 19</title>
-    </programme>
-    <programme start="20250629231400 +0000" stop="20250629233003 +0000" channel="Channel 5.mewatch">
-        <title>Super BOOMi S2 - EP 20</title>
-    </programme>
-    <programme start="20250629233003 +0000" stop="20250629234443 +0000" channel="Channel 5.mewatch">
-        <title>Little Angel - EP 41</title>
-    </programme>
-    <programme start="20250629234443 +0000" stop="20250630000022 +0000" channel="Channel 5.mewatch">
-        <title>Little Angel - EP 42</title>
-    </programme>
-    <programme start="20250630000022 +0000" stop="20250630003041 +0000" channel="Channel 5.mewatch">
-        <title>Leo The Wildlife Ranger - EP 9</title>
-    </programme>
-    <programme start="20250630003041 +0000" stop="20250630010033 +0000" channel="Channel 5.mewatch">
-        <title>Pinkfong Songs &amp; Stories - EP 5</title>
-    </programme>
-    <programme start="20250630010033 +0000" stop="20250630013025 +0000" channel="Channel 5.mewatch">
-        <title>Sesame Street Mecha Builders - EP 6</title>
-    </programme>
-    <programme start="20250630013025 +0000" stop="20250630013815 +0000" channel="Channel 5.mewatch">
-        <title>Sarah and Duck: Sr1 - EP 25</title>
-    </programme>
-    <programme start="20250630013815 +0000" stop="20250630014605 +0000" channel="Channel 5.mewatch">
-        <title>Sarah and Duck: Sr1 - EP 26</title>
-    </programme>
-    <programme start="20250630014605 +0000" stop="20250630020039 +0000" channel="Channel 5.mewatch">
-        <title>Sarah and Duck: Sr1 - EP 27</title>
-    </programme>
-    <programme start="20250630020039 +0000" stop="20250630023004 +0000" channel="Channel 5.mewatch">
-        <title>Super Rover &amp; Friends - EP 13</title>
-    </programme>
-    <programme start="20250630023004 +0000" stop="20250630030027 +0000" channel="Channel 5.mewatch">
-        <title>Paw Patrol S9 - EP 3</title>
-    </programme>
-    <programme start="20250630030027 +0000" stop="20250630031415 +0000" channel="Channel 5.mewatch">
-        <title>Super BOOMi S2 - EP 19</title>
-    </programme>
-    <programme start="20250630031415 +0000" stop="20250630033020 +0000" channel="Channel 5.mewatch">
-        <title>Super BOOMi S2 - EP 20</title>
-    </programme>
-    <programme start="20250630033020 +0000" stop="20250630040000 +0000" channel="Channel 5.mewatch">
-        <title>Agent Binky: Pets Of The Universe S2 - EP 43</title>
-    </programme>
-    <programme start="20250630040000 +0000" stop="20250630041421 +0000" channel="Channel 5.mewatch">
-        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 43</title>
-    </programme>
-    <programme start="20250630041421 +0000" stop="20250630043011 +0000" channel="Channel 5.mewatch">
-        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 44</title>
-    </programme>
-    <programme start="20250630043011 +0000" stop="20250630043608 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 21</title>
-    </programme>
-    <programme start="20250630043608 +0000" stop="20250630044201 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 22</title>
-    </programme>
-    <programme start="20250630044201 +0000" stop="20250630044757 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 23</title>
-    </programme>
-    <programme start="20250630044757 +0000" stop="20250630050002 +0000" channel="Channel 5.mewatch">
-        <title>Oddbods Shorts S1 - EP 24</title>
-    </programme>
-    <programme start="20250630050002 +0000" stop="20250630053022 +0000" channel="Channel 5.mewatch">
-        <title>Dogmatix And The Indomitables - EP 15</title>
-    </programme>
-    <programme start="20250630053022 +0000" stop="20250630054554 +0000" channel="Channel 5.mewatch">
-        <title>Ghostforce - EP 51</title>
-    </programme>
-    <programme start="20250630054554 +0000" stop="20250630060001 +0000" channel="Channel 5.mewatch">
-        <title>Ghostforce - EP 52</title>
-    </programme>
-    <programme start="20250630060001 +0000" stop="20250630063005 +0000" channel="Channel 5.mewatch">
-        <title>Space Nova S2 - EP 15</title>
-    </programme>
-    <programme start="20250630063005 +0000" stop="20250630070003 +0000" channel="Channel 5.mewatch">
-        <title>Pokemon Ultimate Journeys: The Series [S25] - EP 32</title>
-    </programme>
-    <programme start="20250630070003 +0000" stop="20250630073000 +0000" channel="Channel 5.mewatch">
-        <title>On The Red Dot - EP 7</title>
-    </programme>
-    <programme start="20250630073000 +0000" stop="20250630080002 +0000" channel="Channel 5.mewatch">
-        <title>Talking Point - EP 6</title>
-    </programme>
-    <programme start="20250630080002 +0000" stop="20250630083004 +0000" channel="Channel 5.mewatch">
-        <title>Kin - EP 165</title>
-    </programme>
-    <programme start="20250630083004 +0000" stop="20250630093010 +0000" channel="Channel 5.mewatch">
-        <title>Junior Bake Off S8 - EP 1</title>
-    </programme>
-    <programme start="20250630093010 +0000" stop="20250630103000 +0000" channel="Channel 5.mewatch">
-        <title>Celebrity Catch Phrase S10 - EP 9</title>
-    </programme>
-    <programme start="20250630103000 +0000" stop="20250630110050 +0000" channel="Channel 5.mewatch">
-        <title>Deal Or No Deal Australia S12 - EP 178</title>
-    </programme>
-    <programme start="20250630110050 +0000" stop="20250630113001 +0000" channel="Channel 5.mewatch">
-        <title>Wheel Of Fortune S41 - EP 7912</title>
-    </programme>
-    <programme start="20250630113001 +0000" stop="20250630123021 +0000" channel="Channel 5.mewatch">
-        <title>Celebrity Wheel of Fortune: Season 03 - EP 14</title>
-    </programme>
-    <programme start="20250630123021 +0000" stop="20250630130000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 91</title>
-    </programme>
-    <programme start="20250630130000 +0000" stop="20250630132959 +0000" channel="Channel 5.mewatch">
-        <title>News Tonight</title>
-    </programme>
-    <programme start="20250630132959 +0000" stop="20250630140007 +0000" channel="Channel 5.mewatch">
-        <title>Kumar Vs The World - EP 9</title>
-    </programme>
-    <programme start="20250630140007 +0000" stop="20250630150006 +0000" channel="Channel 5.mewatch">
-        <title>Wild Cards S2 - EP 13</title>
-    </programme>
     <programme start="20250630150006 +0000" stop="20250630160021 +0000" channel="Channel 5.mewatch">
         <title>Fire Country S2 - EP 5</title>
     </programme>
-    <programme start="20250629153125 +0000" stop="20250629160115 +0000" channel="Channel 8.mewatch">
-        <title>Frontline - EP 10</title>
+    <programme start="20250630160021 +0000" stop="20250630163006 +0000" channel="Channel 5.mewatch">
+        <title>Provocative - EP 91</title>
     </programme>
-    <programme start="20250629160114 +0000" stop="20250629170106 +0000" channel="Channel 8.mewatch">
-        <title>Game Plan - EP 7</title>
+    <programme start="20250630163006 +0000" stop="20250630173025 +0000" channel="Channel 5.mewatch">
+        <title>CSI: Vegas S2 - EP 5</title>
     </programme>
-    <programme start="20250629170106 +0000" stop="20250629180110 +0000" channel="Channel 8.mewatch">
-        <title>Game Plan - EP 8</title>
+    <programme start="20250630173025 +0000" stop="20250630180003 +0000" channel="Channel 5.mewatch">
+        <title>Wheel Of Fortune S41 - EP 7912</title>
     </programme>
-    <programme start="20250629180110 +0000" stop="20250629190045 +0000" channel="Channel 8.mewatch">
-        <title>Rhapsody In Blue - EP 13</title>
+    <programme start="20250630180003 +0000" stop="20250630190002 +0000" channel="Channel 5.mewatch">
+        <title>Celebrity Wheel of Fortune: Season 03 - EP 14</title>
     </programme>
-    <programme start="20250629190045 +0000" stop="20250629200018 +0000" channel="Channel 8.mewatch">
-        <title>Rhapsody In Blue - EP 14</title>
+    <programme start="20250630190002 +0000" stop="20250630200011 +0000" channel="Channel 5.mewatch">
+        <title>Celebrity Catch Phrase S10 - EP 9</title>
     </programme>
-    <programme start="20250629200018 +0000" stop="20250629210034 +0000" channel="Channel 8.mewatch">
-        <title>My Buddy - EP 5</title>
+    <programme start="20250630200011 +0000" stop="20250630203012 +0000" channel="Channel 5.mewatch">
+        <title>Euromaxx - EP 405</title>
     </programme>
-    <programme start="20250629210034 +0000" stop="20250629220000 +0000" channel="Channel 8.mewatch">
-        <title>My Buddy - EP 6</title>
+    <programme start="20250630203012 +0000" stop="20250630210022 +0000" channel="Channel 5.mewatch">
+        <title>Deal Or No Deal Australia S12 - EP 178</title>
     </programme>
-    <programme start="20250629220000 +0000" stop="20250629225949 +0000" channel="Channel 8.mewatch">
-        <title>Food To Go - EP 7</title>
+    <programme start="20250630210022 +0000" stop="20250630220000 +0000" channel="Channel 5.mewatch">
+        <title>Junior Bake Off S8 - EP 1</title>
     </programme>
-    <programme start="20250629225949 +0000" stop="20250629232942 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630220000 +0000" stop="20250630221410 +0000" channel="Channel 5.mewatch">
+        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 45</title>
+    </programme>
+    <programme start="20250630221410 +0000" stop="20250630223009 +0000" channel="Channel 5.mewatch">
+        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 46</title>
+    </programme>
+    <programme start="20250630223009 +0000" stop="20250630223512 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 25</title>
+    </programme>
+    <programme start="20250630223512 +0000" stop="20250630224015 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 26</title>
+    </programme>
+    <programme start="20250630224015 +0000" stop="20250630224556 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 27</title>
+    </programme>
+    <programme start="20250630224556 +0000" stop="20250630230139 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 28</title>
+    </programme>
+    <programme start="20250630230139 +0000" stop="20250630231649 +0000" channel="Channel 5.mewatch">
+        <title>Super BOOMi S3 - EP 1</title>
+    </programme>
+    <programme start="20250630231649 +0000" stop="20250630233033 +0000" channel="Channel 5.mewatch">
+        <title>Super BOOMi S3 - EP 2</title>
+    </programme>
+    <programme start="20250630233033 +0000" stop="20250630234656 +0000" channel="Channel 5.mewatch">
+        <title>Little Angel - EP 43</title>
+    </programme>
+    <programme start="20250630234656 +0000" stop="20250701000125 +0000" channel="Channel 5.mewatch">
+        <title>Little Angel - EP 44</title>
+    </programme>
+    <programme start="20250701000125 +0000" stop="20250701003006 +0000" channel="Channel 5.mewatch">
+        <title>Leo The Wildlife Ranger - EP 10</title>
+    </programme>
+    <programme start="20250701003006 +0000" stop="20250701010025 +0000" channel="Channel 5.mewatch">
+        <title>Pinkfong Songs &amp; Stories - EP 6</title>
+    </programme>
+    <programme start="20250701010025 +0000" stop="20250701013128 +0000" channel="Channel 5.mewatch">
+        <title>Sesame Street Mecha Builders - EP 7</title>
+    </programme>
+    <programme start="20250701013128 +0000" stop="20250701013957 +0000" channel="Channel 5.mewatch">
+        <title>Sarah and Duck: Sr1 - EP 28</title>
+    </programme>
+    <programme start="20250701013957 +0000" stop="20250701014827 +0000" channel="Channel 5.mewatch">
+        <title>Sarah and Duck: Sr1 - EP 29</title>
+    </programme>
+    <programme start="20250701014827 +0000" stop="20250701020142 +0000" channel="Channel 5.mewatch">
+        <title>Sarah and Duck: Sr1 - EP 30</title>
+    </programme>
+    <programme start="20250701020142 +0000" stop="20250701023039 +0000" channel="Channel 5.mewatch">
+        <title>Super Rover &amp; Friends - EP 14</title>
+    </programme>
+    <programme start="20250701023039 +0000" stop="20250701030122 +0000" channel="Channel 5.mewatch">
+        <title>Paw Patrol S9 - EP 4</title>
+    </programme>
+    <programme start="20250701030122 +0000" stop="20250701031632 +0000" channel="Channel 5.mewatch">
+        <title>Super BOOMi S3 - EP 1</title>
+    </programme>
+    <programme start="20250701031632 +0000" stop="20250701033017 +0000" channel="Channel 5.mewatch">
+        <title>Super BOOMi S3 - EP 2</title>
+    </programme>
+    <programme start="20250701033017 +0000" stop="20250701040131 +0000" channel="Channel 5.mewatch">
+        <title>Agent Binky: Pets Of The Universe S2 - EP 45</title>
+    </programme>
+    <programme start="20250701040131 +0000" stop="20250701041712 +0000" channel="Channel 5.mewatch">
+        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 45</title>
+    </programme>
+    <programme start="20250701041712 +0000" stop="20250701043114 +0000" channel="Channel 5.mewatch">
+        <title>Alvinnn!!! &amp; The Chipmunks S1 - EP 46</title>
+    </programme>
+    <programme start="20250701043114 +0000" stop="20250701043746 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 25</title>
+    </programme>
+    <programme start="20250701043746 +0000" stop="20250701044420 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 26</title>
+    </programme>
+    <programme start="20250701044420 +0000" stop="20250701045046 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 27</title>
+    </programme>
+    <programme start="20250701045046 +0000" stop="20250701050029 +0000" channel="Channel 5.mewatch">
+        <title>Oddbods Shorts S1 - EP 28</title>
+    </programme>
+    <programme start="20250701050029 +0000" stop="20250701053005 +0000" channel="Channel 5.mewatch">
+        <title>Dogmatix And The Indomitables - EP 17</title>
+    </programme>
+    <programme start="20250701053005 +0000" stop="20250701054610 +0000" channel="Channel 5.mewatch">
+        <title>Jonny Jetboy - EP 1</title>
+    </programme>
+    <programme start="20250701054610 +0000" stop="20250701060031 +0000" channel="Channel 5.mewatch">
+        <title>Jonny Jetboy - EP 2</title>
+    </programme>
+    <programme start="20250701060031 +0000" stop="20250701063005 +0000" channel="Channel 5.mewatch">
+        <title>Petronix Defenders - EP 1</title>
+    </programme>
+    <programme start="20250701063005 +0000" stop="20250701070004 +0000" channel="Channel 5.mewatch">
+        <title>Pokemon Ultimate Journeys: The Series [S25] - EP 33</title>
+    </programme>
+    <programme start="20250701070004 +0000" stop="20250701073035 +0000" channel="Channel 5.mewatch">
+        <title>Wheel Of Fortune S41 - EP 7912</title>
+    </programme>
+    <programme start="20250701073035 +0000" stop="20250701080035 +0000" channel="Channel 5.mewatch">
+        <title>Provocative - EP 91</title>
+    </programme>
+    <programme start="20250701080035 +0000" stop="20250701083033 +0000" channel="Channel 5.mewatch">
+        <title>Kin - EP 166</title>
+    </programme>
+    <programme start="20250701083033 +0000" stop="20250701093001 +0000" channel="Channel 5.mewatch">
+        <title>Junior Bake Off S8 - EP 2</title>
+    </programme>
+    <programme start="20250701093001 +0000" stop="20250701103000 +0000" channel="Channel 5.mewatch">
+        <title>Celebrity Catch Phrase S10 - EP 10</title>
+    </programme>
+    <programme start="20250701103000 +0000" stop="20250701110045 +0000" channel="Channel 5.mewatch">
+        <title>Deal Or No Deal Australia S12 - EP 179</title>
+    </programme>
+    <programme start="20250701110045 +0000" stop="20250701113016 +0000" channel="Channel 5.mewatch">
+        <title>Wheel Of Fortune S41 - EP 7913</title>
+    </programme>
+    <programme start="20250701113016 +0000" stop="20250701123017 +0000" channel="Channel 5.mewatch">
+        <title>MasterChef Junior USA S9 - EP 8</title>
+    </programme>
+    <programme start="20250701123017 +0000" stop="20250701130000 +0000" channel="Channel 5.mewatch">
+        <title>Provocative - EP 92</title>
+    </programme>
+    <programme start="20250701130000 +0000" stop="20250701132959 +0000" channel="Channel 5.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250629232942 +0000" stop="20250629235931 +0000" channel="Channel 8.mewatch">
-        <title>Frontline - EP 10</title>
+    <programme start="20250701132959 +0000" stop="20250701140011 +0000" channel="Channel 5.mewatch">
+        <title>In Search of Heat - EP 4</title>
     </programme>
-    <programme start="20250629235931 +0000" stop="20250630010000 +0000" channel="Channel 8.mewatch">
-        <title>The Heir to the Throne - EP 27</title>
+    <programme start="20250701140011 +0000" stop="20250701141554 +0000" channel="Channel 5.mewatch">
+        <title>Scene City: Boy On The Fringes</title>
     </programme>
-    <programme start="20250630010000 +0000" stop="20250630013037 +0000" channel="Channel 8.mewatch">
-        <title>Morning Express</title>
+    <programme start="20250701141554 +0000" stop="20250701151010 +0000" channel="Channel 5.mewatch">
+        <title>Paris Has Fallen S1 - EP 3</title>
     </programme>
-    <programme start="20250630013037 +0000" stop="20250630020044 +0000" channel="Channel 8.mewatch">
-        <title>No Return - EP 14</title>
+    <programme start="20250701151010 +0000" stop="20250701160000 +0000" channel="Channel 5.mewatch">
+        <title>The Librarians S4 - EP 2</title>
     </programme>
-    <programme start="20250630020044 +0000" stop="20250630023127 +0000" channel="Channel 8.mewatch">
-        <title>Focus - EP 10</title>
-    </programme>
-    <programme start="20250630023127 +0000" stop="20250630033054 +0000" channel="Channel 8.mewatch">
-        <title>Taste of Life - EP 736</title>
-    </programme>
-    <programme start="20250630033054 +0000" stop="20250630042940 +0000" channel="Channel 8.mewatch">
-        <title>Taste of Life - EP 737</title>
-    </programme>
-    <programme start="20250630042940 +0000" stop="20250630044340 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 272</title>
-    </programme>
-    <programme start="20250630044340 +0000" stop="20250630044540 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 261</title>
-    </programme>
-    <programme start="20250630044540 +0000" stop="20250630050000 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 236</title>
-    </programme>
-    <programme start="20250630050000 +0000" stop="20250630053005 +0000" channel="Channel 8.mewatch">
-        <title>News 8 at One</title>
-    </programme>
-    <programme start="20250630053005 +0000" stop="20250630055942 +0000" channel="Channel 8.mewatch">
-        <title>Lo &amp; Behold - EP 1265</title>
-    </programme>
-    <programme start="20250630055942 +0000" stop="20250630062914 +0000" channel="Channel 8.mewatch">
-        <title>Lo &amp; Behold - EP 1266</title>
-    </programme>
-    <programme start="20250630062914 +0000" stop="20250630070105 +0000" channel="Channel 8.mewatch">
-        <title>Lo &amp; Behold - EP 1267</title>
-    </programme>
-    <programme start="20250630070105 +0000" stop="20250630071505 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 270</title>
-    </programme>
-    <programme start="20250630071505 +0000" stop="20250630071705 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 223</title>
-    </programme>
-    <programme start="20250630071705 +0000" stop="20250630073125 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 230</title>
-    </programme>
-    <programme start="20250630073125 +0000" stop="20250630080038 +0000" channel="Channel 8.mewatch">
-        <title>A Perfect Man - EP 7</title>
-    </programme>
-    <programme start="20250630080038 +0000" stop="20250630083030 +0000" channel="Channel 8.mewatch">
-        <title>A Perfect Man - EP 8</title>
-    </programme>
-    <programme start="20250630083030 +0000" stop="20250630093144 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 53</title>
-    </programme>
-    <programme start="20250630093144 +0000" stop="20250630103000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 54</title>
-    </programme>
-    <programme start="20250630103000 +0000" stop="20250630113055 +0000" channel="Channel 8.mewatch">
-        <title>Hello Singapore - EP 65</title>
-    </programme>
-    <programme start="20250630113055 +0000" stop="20250630115943 +0000" channel="Channel 8.mewatch">
-        <title>No Return - EP 15</title>
-    </programme>
-    <programme start="20250630115943 +0000" stop="20250630130034 +0000" channel="Channel 8.mewatch">
-        <title>Forbidding No More S3 - EP 8</title>
-    </programme>
-    <programme start="20250630130034 +0000" stop="20250630140000 +0000" channel="Channel 8.mewatch">
-        <title>The Heir to the Throne - EP 28</title>
-    </programme>
-    <programme start="20250630140000 +0000" stop="20250630143145 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight</title>
-    </programme>
-    <programme start="20250630143145 +0000" stop="20250630150121 +0000" channel="Channel 8.mewatch">
-        <title>Connecting Earth and Sky - EP 9</title>
+    <programme start="20250701160000 +0000" stop="20250701163009 +0000" channel="Channel 5.mewatch">
+        <title>Provocative - EP 92</title>
     </programme>
     <programme start="20250630150121 +0000" stop="20250630160106 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 26</title>
     </programme>
-    <programme start="20250629153104 +0000" stop="20250629163013 +0000" channel="Channel U.mewatch">
-        <title>Jirisan - EP 6</title>
+    <programme start="20250630160106 +0000" stop="20250630170026 +0000" channel="Channel 8.mewatch">
+        <title>Lost You Forever - EP 9</title>
     </programme>
-    <programme start="20250629163133 +0000" stop="20250629220000 +0000" channel="Channel U.mewatch">
-        <title>The Treasured Voice S5 - EP 1</title>
+    <programme start="20250630170026 +0000" stop="20250630175936 +0000" channel="Channel 8.mewatch">
+        <title>Super Taste - 2 Days 1 Night Go S2 - EP 6</title>
     </programme>
-    <programme start="20250629220000 +0000" stop="20250630025811 +0000" channel="Channel U.mewatch">
-        <title>End of Transmission</title>
+    <programme start="20250630175936 +0000" stop="20250630190034 +0000" channel="Channel 8.mewatch">
+        <title>Your Hand In Mine - EP 8</title>
     </programme>
-    <programme start="20250630025811 +0000" stop="20250630031211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 242</title>
+    <programme start="20250630190034 +0000" stop="20250630195954 +0000" channel="Channel 8.mewatch">
+        <title>Your Hand In Mine - EP 9</title>
     </programme>
-    <programme start="20250630031211 +0000" stop="20250630031411 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 114</title>
+    <programme start="20250630195954 +0000" stop="20250630210004 +0000" channel="Channel 8.mewatch">
+        <title>Golden City - EP 53</title>
     </programme>
-    <programme start="20250630031411 +0000" stop="20250630032811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 245</title>
+    <programme start="20250630210004 +0000" stop="20250630220000 +0000" channel="Channel 8.mewatch">
+        <title>Golden City - EP 54</title>
     </programme>
-    <programme start="20250630032811 +0000" stop="20250630034211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 204</title>
+    <programme start="20250630220000 +0000" stop="20250630225956 +0000" channel="Channel 8.mewatch">
+        <title>YiFong &amp; Eleanor&#039;s Kitchen - EP 10</title>
     </programme>
-    <programme start="20250630034211 +0000" stop="20250630034411 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 223</title>
+    <programme start="20250630225956 +0000" stop="20250630233006 +0000" channel="Channel 8.mewatch">
+        <title>News Tonight</title>
     </programme>
-    <programme start="20250630034411 +0000" stop="20250630035811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 267</title>
+    <programme start="20250630233006 +0000" stop="20250701000010 +0000" channel="Channel 8.mewatch">
+        <title>The Heartland Hero - EP 81</title>
     </programme>
-    <programme start="20250630035811 +0000" stop="20250630041211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 231</title>
+    <programme start="20250701000010 +0000" stop="20250701010000 +0000" channel="Channel 8.mewatch">
+        <title>The Heir to the Throne - EP 28</title>
     </programme>
-    <programme start="20250630041211 +0000" stop="20250630041411 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 238</title>
+    <programme start="20250701010000 +0000" stop="20250701013005 +0000" channel="Channel 8.mewatch">
+        <title>Morning Express</title>
     </programme>
-    <programme start="20250630041411 +0000" stop="20250630042811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 176</title>
+    <programme start="20250701013005 +0000" stop="20250701020006 +0000" channel="Channel 8.mewatch">
+        <title>No Return - EP 15</title>
     </programme>
-    <programme start="20250630042811 +0000" stop="20250630044211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 224</title>
+    <programme start="20250701020006 +0000" stop="20250701021406 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 248</title>
     </programme>
-    <programme start="20250630044211 +0000" stop="20250630044411 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 260</title>
-    </programme>
-    <programme start="20250630044411 +0000" stop="20250630045811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 237</title>
-    </programme>
-    <programme start="20250630045811 +0000" stop="20250630051211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 179</title>
-    </programme>
-    <programme start="20250630051211 +0000" stop="20250630051411 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 261</title>
-    </programme>
-    <programme start="20250630051411 +0000" stop="20250630052811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 134</title>
-    </programme>
-    <programme start="20250630052811 +0000" stop="20250630054211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 265</title>
-    </programme>
-    <programme start="20250630054211 +0000" stop="20250630054411 +0000" channel="Channel U.mewatch">
+    <programme start="20250701021406 +0000" stop="20250701021606 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 153</title>
     </programme>
-    <programme start="20250630054411 +0000" stop="20250630055811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 259</title>
+    <programme start="20250701021606 +0000" stop="20250701023026 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 237</title>
     </programme>
-    <programme start="20250630055811 +0000" stop="20250630061211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 250</title>
+    <programme start="20250701023026 +0000" stop="20250701032933 +0000" channel="Channel 8.mewatch">
+        <title>Taste of Life - EP 738</title>
     </programme>
-    <programme start="20250630061211 +0000" stop="20250630061411 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 192</title>
+    <programme start="20250701032933 +0000" stop="20250701042940 +0000" channel="Channel 8.mewatch">
+        <title>Taste of Life - EP 739</title>
     </programme>
-    <programme start="20250630061411 +0000" stop="20250630062811 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 241</title>
+    <programme start="20250701042940 +0000" stop="20250701044340 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 265</title>
     </programme>
-    <programme start="20250630062811 +0000" stop="20250630064211 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 263</title>
+    <programme start="20250701044340 +0000" stop="20250701044540 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 238</title>
     </programme>
-    <programme start="20250630064211 +0000" stop="20250630064411 +0000" channel="Channel U.mewatch">
+    <programme start="20250701044540 +0000" stop="20250701050000 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 266</title>
+    </programme>
+    <programme start="20250701050000 +0000" stop="20250701053005 +0000" channel="Channel 8.mewatch">
+        <title>News 8 at One</title>
+    </programme>
+    <programme start="20250701053005 +0000" stop="20250701060023 +0000" channel="Channel 8.mewatch">
+        <title>Lo &amp; Behold - EP 1268</title>
+    </programme>
+    <programme start="20250701060023 +0000" stop="20250701062950 +0000" channel="Channel 8.mewatch">
+        <title>Lo &amp; Behold - EP 1269</title>
+    </programme>
+    <programme start="20250701062950 +0000" stop="20250701065941 +0000" channel="Channel 8.mewatch">
+        <title>Lo &amp; Behold - EP 1270</title>
+    </programme>
+    <programme start="20250701065941 +0000" stop="20250701070641 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 228</title>
+    </programme>
+    <programme start="20250701070641 +0000" stop="20250701071341 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 254</title>
+    </programme>
+    <programme start="20250701071341 +0000" stop="20250701071541 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 233</title>
     </programme>
-    <programme start="20250630064411 +0000" stop="20250630070002 +0000" channel="Channel U.mewatch">
-        <title>The Wonder Shop - EP 244</title>
+    <programme start="20250701071541 +0000" stop="20250701073000 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 268</title>
     </programme>
-    <programme start="20250630070002 +0000" stop="20250630080109 +0000" channel="Channel U.mewatch">
-        <title>Stylish Man - The Chef S3 - EP 2</title>
+    <programme start="20250701073000 +0000" stop="20250701080053 +0000" channel="Channel 8.mewatch">
+        <title>A Perfect Man - EP 9</title>
     </programme>
-    <programme start="20250630080109 +0000" stop="20250630090107 +0000" channel="Channel U.mewatch">
-        <title>Food Secrets - EP 5</title>
+    <programme start="20250701080053 +0000" stop="20250701083007 +0000" channel="Channel 8.mewatch">
+        <title>A Perfect Man - EP 10</title>
     </programme>
-    <programme start="20250630090107 +0000" stop="20250630100135 +0000" channel="Channel U.mewatch">
-        <title>The Law Cafe - EP 12</title>
+    <programme start="20250701083007 +0000" stop="20250701093023 +0000" channel="Channel 8.mewatch">
+        <title>Golden City - EP 55</title>
     </programme>
-    <programme start="20250630100135 +0000" stop="20250630110000 +0000" channel="Channel U.mewatch">
-        <title>VIP - EP 14</title>
+    <programme start="20250701093023 +0000" stop="20250701103000 +0000" channel="Channel 8.mewatch">
+        <title>Golden City - EP 56</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630115939 +0000" channel="Channel U.mewatch">
-        <title>The Secret House - EP 58</title>
+    <programme start="20250701103000 +0000" stop="20250701113000 +0000" channel="Channel 8.mewatch">
+        <title>Hello Singapore - EP 66</title>
     </programme>
-    <programme start="20250630115939 +0000" stop="20250630130116 +0000" channel="Channel U.mewatch">
-        <title>The Secret House - EP 59</title>
+    <programme start="20250701113000 +0000" stop="20250701120000 +0000" channel="Channel 8.mewatch">
+        <title>No Return - EP 16</title>
     </programme>
-    <programme start="20250630130116 +0000" stop="20250630140024 +0000" channel="Channel U.mewatch">
-        <title>We Are Big Eaters - All Over Taiwan S4 - EP 3</title>
+    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Channel 8.mewatch">
+        <title>Jason&#039;s Daily Eats S2 - EP 9</title>
     </programme>
-    <programme start="20250630140024 +0000" stop="20250630150000 +0000" channel="Channel U.mewatch">
-        <title>A Journey to Love - EP 38</title>
+    <programme start="20250701123000 +0000" stop="20250701130000 +0000" channel="Channel 8.mewatch">
+        <title>HERE WE GO, Off The Beaten Roads - EP 14</title>
     </programme>
-    <programme start="20250630150000 +0000" stop="20250630153129 +0000" channel="Channel U.mewatch">
+    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="Channel 8.mewatch">
+        <title>The Heir to the Throne - EP 29</title>
+    </programme>
+    <programme start="20250701140000 +0000" stop="20250701143000 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
+    </programme>
+    <programme start="20250701143000 +0000" stop="20250701150000 +0000" channel="Channel 8.mewatch">
+        <title>Beyond the Script S3 - EP 1</title>
+    </programme>
+    <programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="Channel 8.mewatch">
+        <title>Joy of Life 2 - EP 27</title>
+    </programme>
+    <programme start="20250701160000 +0000" stop="20250701170000 +0000" channel="Channel 8.mewatch">
+        <title>Lost You Forever - EP 10</title>
     </programme>
     <programme start="20250630153129 +0000" stop="20250630162946 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 3</title>
     </programme>
-    <programme start="20250629153000 +0000" stop="20250629160104 +0000" channel="Suria.mewatch">
-        <title>Berita</title>
+    <programme start="20250630162946 +0000" stop="20250630173010 +0000" channel="Channel U.mewatch">
+        <title>The Secret House - EP 58</title>
     </programme>
-    <programme start="20250630010000 +0000" stop="20250630013006 +0000" channel="Suria.mewatch">
-        <title>Beyblade Burst Surge - EP 1</title>
+    <programme start="20250630173010 +0000" stop="20250630220000 +0000" channel="Channel U.mewatch">
+        <title>The Secret House - EP 59</title>
     </programme>
-    <programme start="20250630013006 +0000" stop="20250630020006 +0000" channel="Suria.mewatch">
-        <title>Joran Borneo - EP 6</title>
+    <programme start="20250630220000 +0000" stop="20250701025805 +0000" channel="Channel U.mewatch">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20250630020006 +0000" stop="20250630030007 +0000" channel="Suria.mewatch">
-        <title>Gerimis Di Hati Sr 2 - EP 4</title>
+    <programme start="20250701025805 +0000" stop="20250701031205 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 264</title>
     </programme>
-    <programme start="20250630030007 +0000" stop="20250630040007 +0000" channel="Suria.mewatch">
-        <title>Bukan Puteri Lindungan Bulan - EP 15</title>
+    <programme start="20250701031205 +0000" stop="20250701031405 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 261</title>
     </programme>
-    <programme start="20250630040007 +0000" stop="20250630050016 +0000" channel="Suria.mewatch">
-        <title>Makan INC - EP 3</title>
+    <programme start="20250701031405 +0000" stop="20250701032805 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 235</title>
     </programme>
-    <programme start="20250630050016 +0000" stop="20250630060012 +0000" channel="Suria.mewatch">
-        <title>Mencari Marina - EP 9</title>
+    <programme start="20250701032805 +0000" stop="20250701034205 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 196</title>
     </programme>
-    <programme start="20250630060012 +0000" stop="20250630070024 +0000" channel="Suria.mewatch">
-        <title>Rindu Tanpa Cinta - EP 39</title>
+    <programme start="20250701034205 +0000" stop="20250701034405 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 233</title>
     </programme>
-    <programme start="20250630070024 +0000" stop="20250630073026 +0000" channel="Suria.mewatch">
-        <title>You Know Nothing About Cooking - EP 9</title>
+    <programme start="20250701034405 +0000" stop="20250701035805 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 76</title>
     </programme>
-    <programme start="20250630073026 +0000" stop="20250630080027 +0000" channel="Suria.mewatch">
-        <title>One On One - EP 10</title>
+    <programme start="20250701035805 +0000" stop="20250701041205 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 229</title>
     </programme>
-    <programme start="20250630080027 +0000" stop="20250630090045 +0000" channel="Suria.mewatch">
-        <title>Bukan Syurga Pilihan - EP 33</title>
+    <programme start="20250701041205 +0000" stop="20250701041405 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 192</title>
     </programme>
-    <programme start="20250630090045 +0000" stop="20250630100001 +0000" channel="Suria.mewatch">
-        <title>Cinta Bukan Milik Kita - EP 1</title>
+    <programme start="20250701041405 +0000" stop="20250701042805 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 219</title>
     </programme>
-    <programme start="20250630100001 +0000" stop="20250630103007 +0000" channel="Suria.mewatch">
-        <title>Beyblade Burst Surge - EP 1</title>
+    <programme start="20250701042805 +0000" stop="20250701044205 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 174</title>
     </programme>
-    <programme start="20250630103007 +0000" stop="20250630110000 +0000" channel="Suria.mewatch">
-        <title>Air Tangan - EP 7</title>
+    <programme start="20250701044205 +0000" stop="20250701044405 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 153</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="Suria.mewatch">
-        <title>Hai, Cinta Dengarkanlah - EP 21</title>
+    <programme start="20250701044405 +0000" stop="20250701045105 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 221</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630122954 +0000" channel="Suria.mewatch">
-        <title>Berita</title>
+    <programme start="20250701045105 +0000" stop="20250701045805 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 214</title>
     </programme>
-    <programme start="20250630122954 +0000" stop="20250630132952 +0000" channel="Suria.mewatch">
-        <title>Travelawak: Projek Bapak Bapak - EP 1</title>
+    <programme start="20250701045805 +0000" stop="20250701051205 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 253</title>
     </programme>
-    <programme start="20250630132952 +0000" stop="20250630143001 +0000" channel="Suria.mewatch">
-        <title>Di Hatiku Ada Kamu - EP 14</title>
+    <programme start="20250701051205 +0000" stop="20250701051405 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 223</title>
     </programme>
-    <programme start="20250630143001 +0000" stop="20250630153000 +0000" channel="Suria.mewatch">
-        <title>Takdir Itu Milik Aku - EP 21</title>
+    <programme start="20250701051405 +0000" stop="20250701052810 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 251</title>
+    </programme>
+    <programme start="20250701052810 +0000" stop="20250701054210 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 258</title>
+    </programme>
+    <programme start="20250701054210 +0000" stop="20250701054410 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 260</title>
+    </programme>
+    <programme start="20250701054410 +0000" stop="20250701055810 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 225</title>
+    </programme>
+    <programme start="20250701055810 +0000" stop="20250701061210 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 270</title>
+    </programme>
+    <programme start="20250701061210 +0000" stop="20250701061410 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 114</title>
+    </programme>
+    <programme start="20250701061410 +0000" stop="20250701062810 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 269</title>
+    </programme>
+    <programme start="20250701062810 +0000" stop="20250701064210 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 252</title>
+    </programme>
+    <programme start="20250701064210 +0000" stop="20250701064410 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 238</title>
+    </programme>
+    <programme start="20250701064410 +0000" stop="20250701070003 +0000" channel="Channel U.mewatch">
+        <title>The Wonder Shop - EP 193</title>
+    </programme>
+    <programme start="20250701070003 +0000" stop="20250701090224 +0000" channel="Channel U.mewatch">
+        <title>Time Concert S2 - EP 11</title>
+    </programme>
+    <programme start="20250701090224 +0000" stop="20250701100125 +0000" channel="Channel U.mewatch">
+        <title>The Law Cafe - EP 13</title>
+    </programme>
+    <programme start="20250701100125 +0000" stop="20250701110000 +0000" channel="Channel U.mewatch">
+        <title>VIP - EP 15</title>
+    </programme>
+    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Channel U.mewatch">
+        <title>The Secret House - EP 60</title>
+    </programme>
+    <programme start="20250701120000 +0000" stop="20250701130000 +0000" channel="Channel U.mewatch">
+        <title>The Secret House - EP 61</title>
+    </programme>
+    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="Channel U.mewatch">
+        <title>Island Odyssey - EP 10</title>
+    </programme>
+    <programme start="20250701140000 +0000" stop="20250701150000 +0000" channel="Channel U.mewatch">
+        <title>A Journey to Love - EP 39</title>
+    </programme>
+    <programme start="20250701150000 +0000" stop="20250701153000 +0000" channel="Channel U.mewatch">
+        <title>News Tonight</title>
+    </programme>
+    <programme start="20250701153000 +0000" stop="20250701163000 +0000" channel="Channel U.mewatch">
+        <title>Island Odyssey - EP 10</title>
     </programme>
     <programme start="20250630153000 +0000" stop="20250630160057 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250629135959 +0000" stop="20250629170000 +0000" channel="Vasantham.mewatch">
-        <title>Bhaagamathie</title>
-    </programme>
-    <programme start="20250629170001 +0000" stop="20250629173055 +0000" channel="Vasantham.mewatch">
-        <title>Seithi</title>
-    </programme>
-    <programme start="20250629173055 +0000" stop="20250630010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630160057 +0000" stop="20250701010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250630010000 +0000" stop="20250630012959 +0000" channel="Vasantham.mewatch">
-        <title>Iyarkai Thedi S4 - EP 22</title>
+    <programme start="20250701010000 +0000" stop="20250701013008 +0000" channel="Suria.mewatch">
+        <title>Beyblade Burst Surge - EP 2</title>
     </programme>
-    <programme start="20250630012959 +0000" stop="20250630015959 +0000" channel="Vasantham.mewatch">
-        <title>Vallamai Tharayo - EP 3</title>
+    <programme start="20250701013008 +0000" stop="20250701020010 +0000" channel="Suria.mewatch">
+        <title>Air Tangan - EP 7</title>
     </programme>
-    <programme start="20250630015959 +0000" stop="20250630022957 +0000" channel="Vasantham.mewatch">
-        <title>Indian Beat S16 - EP 13</title>
+    <programme start="20250701020010 +0000" stop="20250701030008 +0000" channel="Suria.mewatch">
+        <title>Gerimis Di Hati Sr 2 - EP 5</title>
     </programme>
-    <programme start="20250630022957 +0000" stop="20250630025957 +0000" channel="Vasantham.mewatch">
-        <title>Comedy Galatta Season 4 - EP 18</title>
+    <programme start="20250701030008 +0000" stop="20250701040009 +0000" channel="Suria.mewatch">
+        <title>Bukan Puteri Lindungan Bulan - EP 16</title>
     </programme>
-    <programme start="20250630025957 +0000" stop="20250630035956 +0000" channel="Vasantham.mewatch">
-        <title>King of Culinary S2 - EP 1</title>
+    <programme start="20250701040009 +0000" stop="20250701050009 +0000" channel="Suria.mewatch">
+        <title>Hai, Cinta Dengarkanlah - EP 21</title>
     </programme>
-    <programme start="20250630035956 +0000" stop="20250630062956 +0000" channel="Vasantham.mewatch">
-        <title>Selvam</title>
+    <programme start="20250701050009 +0000" stop="20250701060033 +0000" channel="Suria.mewatch">
+        <title>Dilema Dania - EP 8</title>
     </programme>
-    <programme start="20250630062956 +0000" stop="20250630065957 +0000" channel="Vasantham.mewatch">
-        <title>Comedy Galatta Season 4 - EP 12</title>
+    <programme start="20250701060033 +0000" stop="20250701070027 +0000" channel="Suria.mewatch">
+        <title>Rindu Tanpa Cinta - EP 40</title>
     </programme>
-    <programme start="20250630065957 +0000" stop="20250630075957 +0000" channel="Vasantham.mewatch">
-        <title>Vadi Ready Vedi 2 - EP 4</title>
+    <programme start="20250701070027 +0000" stop="20250701080029 +0000" channel="Suria.mewatch">
+        <title>Travelawak: Projek Bapak Bapak - EP 1</title>
     </programme>
-    <programme start="20250630075957 +0000" stop="20250630110000 +0000" channel="Vasantham.mewatch">
-        <title>Unnai Ninathu</title>
+    <programme start="20250701080029 +0000" stop="20250701090026 +0000" channel="Suria.mewatch">
+        <title>Bukan Syurga Pilihan - EP 34</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630115959 +0000" channel="Vasantham.mewatch">
-        <title>Suvai 4 - EP 1</title>
+    <programme start="20250701090026 +0000" stop="20250701095952 +0000" channel="Suria.mewatch">
+        <title>Di Hatiku Ada Kamu - EP 14</title>
     </programme>
-    <programme start="20250630115959 +0000" stop="20250630123000 +0000" channel="Vasantham.mewatch">
-        <title>Uppu Roti Chidambaram - EP 3</title>
+    <programme start="20250701095952 +0000" stop="20250701102948 +0000" channel="Suria.mewatch">
+        <title>Beyblade Burst Surge - EP 2</title>
     </programme>
-    <programme start="20250630123000 +0000" stop="20250630130000 +0000" channel="Vasantham.mewatch">
-        <title>Seithi</title>
+    <programme start="20250701102948 +0000" stop="20250701110000 +0000" channel="Suria.mewatch">
+        <title>Air Tangan - EP 8</title>
     </programme>
-    <programme start="20250630130000 +0000" stop="20250630132957 +0000" channel="Vasantham.mewatch">
-        <title>Knock Knock - EP 22</title>
+    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Suria.mewatch">
+        <title>Hai, Cinta Dengarkanlah - EP 22</title>
     </programme>
-    <programme start="20250630132957 +0000" stop="20250630135958 +0000" channel="Vasantham.mewatch">
-        <title>Mahakavi - EP 2</title>
+    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Suria.mewatch">
+        <title>Berita</title>
     </programme>
-    <programme start="20250630135958 +0000" stop="20250630142957 +0000" channel="Vasantham.mewatch">
-        <title>Manmadha Bullets - EP 3</title>
+    <programme start="20250701123000 +0000" stop="20250701133000 +0000" channel="Suria.mewatch">
+        <title>Sepahtu Reunion Live S6 - EP 2</title>
     </programme>
-    <programme start="20250630142957 +0000" stop="20250630145957 +0000" channel="Vasantham.mewatch">
-        <title>Aathmaan - EP 20</title>
+    <programme start="20250701133000 +0000" stop="20250701143000 +0000" channel="Suria.mewatch">
+        <title>Di Hatiku Ada Kamu - EP 15</title>
     </programme>
-    <programme start="20250630145957 +0000" stop="20250630153000 +0000" channel="Vasantham.mewatch">
-        <title>Comedy Galatta Season 4 - EP 32</title>
+    <programme start="20250701143000 +0000" stop="20250701153000 +0000" channel="Suria.mewatch">
+        <title>Takdir Itu Milik Aku - EP 22</title>
+    </programme>
+    <programme start="20250701153000 +0000" stop="20250701160244 +0000" channel="Suria.mewatch">
+        <title>Berita</title>
     </programme>
     <programme start="20250630153000 +0000" stop="20250630160103 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250629150304 +0000" stop="20250629160001 +0000" channel="CNA.mewatch">
-        <title>Dare To Dream - EP 1</title>
+    <programme start="20250630160103 +0000" stop="20250701010000 +0000" channel="Vasantham.mewatch">
+        <title>End of Transmission</title>
     </programme>
-    <programme start="20250629160335 +0000" stop="20250629162958 +0000" channel="CNA.mewatch">
-        <title>Money Mind - EP 9</title>
+    <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="Vasantham.mewatch">
+        <title>Iyarkai Thedi S4 - EP 23</title>
     </programme>
-    <programme start="20250629162958 +0000" stop="20250629165958 +0000" channel="CNA.mewatch">
-        <title>CNA Correspondent - EP 9</title>
+    <programme start="20250701013000 +0000" stop="20250701020000 +0000" channel="Vasantham.mewatch">
+        <title>Vallamai Tharayo - EP 4</title>
     </programme>
-    <programme start="20250629165958 +0000" stop="20250629180000 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 10</title>
+    <programme start="20250701020000 +0000" stop="20250701023004 +0000" channel="Vasantham.mewatch">
+        <title>Mahakavi - EP 2</title>
     </programme>
-    <programme start="20250629180000 +0000" stop="20250629182957 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
+    <programme start="20250701023004 +0000" stop="20250701030006 +0000" channel="Vasantham.mewatch">
+        <title>Knock Knock - EP 22</title>
     </programme>
-    <programme start="20250629182957 +0000" stop="20250629185957 +0000" channel="CNA.mewatch">
-        <title>Talking Point - EP 6</title>
+    <programme start="20250701030006 +0000" stop="20250701040003 +0000" channel="Vasantham.mewatch">
+        <title>King of Culinary S2 - EP 2</title>
     </programme>
-    <programme start="20250629185957 +0000" stop="20250629192959 +0000" channel="CNA.mewatch">
-        <title>In Search of Heat S2 - EP 4</title>
+    <programme start="20250701040003 +0000" stop="20250701063003 +0000" channel="Vasantham.mewatch">
+        <title>Son of Alibaba Nalpathonaman</title>
     </programme>
-    <programme start="20250629192959 +0000" stop="20250629200000 +0000" channel="CNA.mewatch">
-        <title>On The Red Dot - EP 7</title>
+    <programme start="20250701063003 +0000" stop="20250701070004 +0000" channel="Vasantham.mewatch">
+        <title>Comedy Galatta Season 4 - EP 31</title>
     </programme>
-    <programme start="20250629200000 +0000" stop="20250629203000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
+    <programme start="20250701070004 +0000" stop="20250701080002 +0000" channel="Vasantham.mewatch">
+        <title>Vadi Ready Vedi 2 - EP 5</title>
     </programme>
-    <programme start="20250629203000 +0000" stop="20250629210001 +0000" channel="CNA.mewatch">
-        <title>The New Locals - EP 4</title>
+    <programme start="20250701080002 +0000" stop="20250701110000 +0000" channel="Vasantham.mewatch">
+        <title>Nimir</title>
     </programme>
-    <programme start="20250629210001 +0000" stop="20250629220000 +0000" channel="CNA.mewatch">
-        <title>Dare To Dream - EP 2</title>
+    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Vasantham.mewatch">
+        <title>Suvai 4 - EP 2</title>
     </programme>
-    <programme start="20250629220000 +0000" stop="20250629222959 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
+    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Vasantham.mewatch">
+        <title>Uppu Roti Chidambaram - EP 4</title>
     </programme>
-    <programme start="20250629222959 +0000" stop="20250629230000 +0000" channel="CNA.mewatch">
-        <title>Money Mind - EP 9</title>
+    <programme start="20250701123000 +0000" stop="20250701130000 +0000" channel="Vasantham.mewatch">
+        <title>Seithi</title>
     </programme>
-    <programme start="20250629230000 +0000" stop="20250630020105 +0000" channel="CNA.mewatch">
-        <title>Asia First</title>
+    <programme start="20250701130000 +0000" stop="20250701133000 +0000" channel="Vasantham.mewatch">
+        <title>Knock Knock - EP 23</title>
     </programme>
-    <programme start="20250630020105 +0000" stop="20250630030001 +0000" channel="CNA.mewatch">
-        <title>Dare To Dream - EP 2</title>
+    <programme start="20250701133000 +0000" stop="20250701140000 +0000" channel="Vasantham.mewatch">
+        <title>Udayam S4 - EP 12</title>
     </programme>
-    <programme start="20250630030001 +0000" stop="20250630050105 +0000" channel="CNA.mewatch">
-        <title>Asia Now</title>
+    <programme start="20250701140000 +0000" stop="20250701143000 +0000" channel="Vasantham.mewatch">
+        <title>Manmadha Bullets - EP 4</title>
     </programme>
-    <programme start="20250630050105 +0000" stop="20250630060002 +0000" channel="CNA.mewatch">
-        <title>Dare To Dream - EP 1</title>
+    <programme start="20250701143000 +0000" stop="20250701150000 +0000" channel="Vasantham.mewatch">
+        <title>Aathmaan - EP 21</title>
     </programme>
-    <programme start="20250630060002 +0000" stop="20250630080107 +0000" channel="CNA.mewatch">
-        <title>Asia Now </title>
+    <programme start="20250701150000 +0000" stop="20250701153000 +0000" channel="Vasantham.mewatch">
+        <title>Comedy Galatta Season 4 - EP 9</title>
     </programme>
-    <programme start="20250630080107 +0000" stop="20250630090000 +0000" channel="CNA.mewatch">
-        <title>The Waves that Changed Us - EP 4</title>
-    </programme>
-    <programme start="20250630090000 +0000" stop="20250630090205 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250630090205 +0000" stop="20250630100001 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 10</title>
-    </programme>
-    <programme start="20250630100001 +0000" stop="20250630110000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight</title>
-    </programme>
-    <programme start="20250630110000 +0000" stop="20250630113002 +0000" channel="CNA.mewatch">
-        <title>Money Mind - EP 9</title>
-    </programme>
-    <programme start="20250630113002 +0000" stop="20250630115959 +0000" channel="CNA.mewatch">
-        <title>On The Red Dot - EP 7</title>
-    </programme>
-    <programme start="20250630115959 +0000" stop="20250630125959 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
-    </programme>
-    <programme start="20250630125959 +0000" stop="20250630140000 +0000" channel="CNA.mewatch">
-        <title>Dare To Dream - EP 3</title>
-    </programme>
-    <programme start="20250630140000 +0000" stop="20250630150055 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
+    <programme start="20250701153000 +0000" stop="20250701160152 +0000" channel="Vasantham.mewatch">
+        <title>Seithi</title>
     </programme>
     <programme start="20250630150055 +0000" stop="20250630160001 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 2</title>
     </programme>
-    <programme start="20250629155959 +0000" stop="20250629170011 +0000" channel="Oktolidays.mewatch">
-        <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
+    <programme start="20250630160001 +0000" stop="20250630160306 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
     </programme>
-    <programme start="20250629170011 +0000" stop="20250629180020 +0000" channel="Oktolidays.mewatch">
-        <title>Enna Nadakkuthu Junior/The Misadventures of Cube Melt/Slimed Science</title>
+    <programme start="20250630160306 +0000" stop="20250630170101 +0000" channel="CNA.mewatch">
+        <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250629180020 +0000" stop="20250629185933 +0000" channel="Oktolidays.mewatch">
-        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    <programme start="20250630170101 +0000" stop="20250630180001 +0000" channel="CNA.mewatch">
+        <title>Power To The People - EP 4</title>
     </programme>
-    <programme start="20250629185933 +0000" stop="20250629200004 +0000" channel="Oktolidays.mewatch">
-        <title>Go Go Dino</title>
+    <programme start="20250630180001 +0000" stop="20250630190001 +0000" channel="CNA.mewatch">
+        <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250629200004 +0000" stop="20250629210011 +0000" channel="Oktolidays.mewatch">
-        <title>Legenda Puteri Qaseh/Paula &amp; Pals S2/Game On</title>
+    <programme start="20250630190001 +0000" stop="20250630200002 +0000" channel="CNA.mewatch">
+        <title>Insight - EP 10</title>
     </programme>
-    <programme start="20250629210011 +0000" stop="20250629220029 +0000" channel="Oktolidays.mewatch">
-        <title>Enna Nadakkuthu Junior/Slimed Science</title>
+    <programme start="20250630200002 +0000" stop="20250630210002 +0000" channel="CNA.mewatch">
+        <title>Asia Tonight</title>
     </programme>
-    <programme start="20250629220029 +0000" stop="20250629225954 +0000" channel="Oktolidays.mewatch">
-        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    <programme start="20250630210002 +0000" stop="20250630220000 +0000" channel="CNA.mewatch">
+        <title>Dare To Dream - EP 3</title>
     </programme>
-    <programme start="20250629225954 +0000" stop="20250630000033 +0000" channel="Oktolidays.mewatch">
-        <title>Puberteens/Mind Blown!/One Page At A Time</title>
+    <programme start="20250630220000 +0000" stop="20250630225959 +0000" channel="CNA.mewatch">
+        <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250630000033 +0000" stop="20250630010109 +0000" channel="Oktolidays.mewatch">
-        <title>Legenda Puteri Qaseh/Leo the Wildlife Ranger:S6 Spin Off/Game On</title>
+    <programme start="20250630225959 +0000" stop="20250701020104 +0000" channel="CNA.mewatch">
+        <title>Asia First</title>
     </programme>
-    <programme start="20250630010109 +0000" stop="20250630020049 +0000" channel="Oktolidays.mewatch">
-        <title>Enna Nadakkuthu Junior/Slimed Science</title>
+    <programme start="20250701020104 +0000" stop="20250701030002 +0000" channel="CNA.mewatch">
+        <title>Dare To Dream - EP 3</title>
     </programme>
-    <programme start="20250630020049 +0000" stop="20250630030013 +0000" channel="Oktolidays.mewatch">
-        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    <programme start="20250701030002 +0000" stop="20250701050107 +0000" channel="CNA.mewatch">
+        <title>Asia Now</title>
     </programme>
-    <programme start="20250630030013 +0000" stop="20250630040000 +0000" channel="Oktolidays.mewatch">
-        <title>Puberteens/Mind Blown!/One Page At A Time</title>
+    <programme start="20250701050107 +0000" stop="20250701060002 +0000" channel="CNA.mewatch">
+        <title>Dare To Dream - EP 2</title>
     </programme>
-    <programme start="20250630040000 +0000" stop="20250630050007 +0000" channel="Oktolidays.mewatch">
-        <title>Legenda Puteri Qaseh/Paula &amp; Pals S2/Game On</title>
+    <programme start="20250701060002 +0000" stop="20250701080107 +0000" channel="CNA.mewatch">
+        <title>Asia Now </title>
     </programme>
-    <programme start="20250630050007 +0000" stop="20250630060008 +0000" channel="Oktolidays.mewatch">
-        <title>Enna Nadakkuthu Junior/Lil Wild Shorts/Slimed Science</title>
+    <programme start="20250701080107 +0000" stop="20250701083125 +0000" channel="CNA.mewatch">
+        <title>In Search of Heat S2 - EP 4</title>
     </programme>
-    <programme start="20250630060008 +0000" stop="20250630070045 +0000" channel="Oktolidays.mewatch">
-        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    <programme start="20250701083125 +0000" stop="20250701090001 +0000" channel="CNA.mewatch">
+        <title>CNA Correspondent - EP 9</title>
     </programme>
-    <programme start="20250630070045 +0000" stop="20250630080046 +0000" channel="Oktolidays.mewatch">
-        <title>Puberteens/The Misadventures of Cube Melt/Mind Blown!/One Page At A Time</title>
+    <programme start="20250701090001 +0000" stop="20250701090216 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
     </programme>
-    <programme start="20250630080046 +0000" stop="20250630090014 +0000" channel="Oktolidays.mewatch">
-        <title>Legenda Puteri Qaseh/Game On/What on Earth S2</title>
+    <programme start="20250701090216 +0000" stop="20250701095958 +0000" channel="CNA.mewatch">
+        <title>Power To The People - EP 4</title>
     </programme>
-    <programme start="20250630090014 +0000" stop="20250630100031 +0000" channel="Oktolidays.mewatch">
-        <title>Enna Nadakkuthu Junior/The Misadventures of Cube Melt/Slimed Science</title>
+    <programme start="20250701095958 +0000" stop="20250701110000 +0000" channel="CNA.mewatch">
+        <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250630100031 +0000" stop="20250630110100 +0000" channel="Oktolidays.mewatch">
-        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="CNA.mewatch">
+        <title>Dare To Dream - EP 1</title>
     </programme>
-    <programme start="20250630110100 +0000" stop="20250630120049 +0000" channel="Oktolidays.mewatch">
-        <title>Puberteens/Mind Blown!/One Page At A Time</title>
+    <programme start="20250701120000 +0000" stop="20250701130000 +0000" channel="CNA.mewatch">
+        <title>Asia Tonight</title>
     </programme>
-    <programme start="20250630120049 +0000" stop="20250630130101 +0000" channel="Oktolidays.mewatch">
-        <title>Legenda Puteri Qaseh/Paula &amp; Pals S2/Game On</title>
+    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="CNA.mewatch">
+        <title>Dare To Dream - EP 4</title>
     </programme>
-    <programme start="20250630130101 +0000" stop="20250630140120 +0000" channel="Oktolidays.mewatch">
-        <title>Enna Nadakkuthu Junior/Giganto Club SG S2/Slimed Science</title>
+    <programme start="20250701140000 +0000" stop="20250701150000 +0000" channel="CNA.mewatch">
+        <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250630140120 +0000" stop="20250630150038 +0000" channel="Oktolidays.mewatch">
-        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    <programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="CNA.mewatch">
+        <title>Dare To Dream - EP 3</title>
     </programme>
-    <programme start="20250630150038 +0000" stop="20250630155959 +0000" channel="Oktolidays.mewatch">
-        <title>Puberteens/Cosmo &amp; George Sr 2/One Page At A Time</title>
+    <programme start="20250701160000 +0000" stop="20250701160300 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
     </programme>
     <programme start="20250630155959 +0000" stop="20250630170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
     </programme>
-    <programme start="20250629160000 +0000" stop="20250630160000 +0000" channel="spl01.mewatch">
+    <programme start="20250630170011 +0000" stop="20250630180020 +0000" channel="Oktolidays.mewatch">
+        <title>Enna Nadakkuthu Junior/The Misadventures of Cube Melt/Slimed Science</title>
+    </programme>
+    <programme start="20250630180020 +0000" stop="20250630185933 +0000" channel="Oktolidays.mewatch">
+        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    </programme>
+    <programme start="20250630185933 +0000" stop="20250630200004 +0000" channel="Oktolidays.mewatch">
+        <title>Go Go Dino</title>
+    </programme>
+    <programme start="20250630200004 +0000" stop="20250630210011 +0000" channel="Oktolidays.mewatch">
+        <title>Legenda Puteri Qaseh/Paula &amp; Pals S2/Game On</title>
+    </programme>
+    <programme start="20250630210011 +0000" stop="20250630220029 +0000" channel="Oktolidays.mewatch">
+        <title>Enna Nadakkuthu Junior/Slimed Science</title>
+    </programme>
+    <programme start="20250630220029 +0000" stop="20250630225954 +0000" channel="Oktolidays.mewatch">
+        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    </programme>
+    <programme start="20250630225954 +0000" stop="20250701000033 +0000" channel="Oktolidays.mewatch">
+        <title>Puberteens/Mind Blown!/One Page At A Time</title>
+    </programme>
+    <programme start="20250701000033 +0000" stop="20250701010109 +0000" channel="Oktolidays.mewatch">
+        <title>Legenda Puteri Qaseh/Leo the Wildlife Ranger:S6 Spin Off/Game On</title>
+    </programme>
+    <programme start="20250701010109 +0000" stop="20250701020049 +0000" channel="Oktolidays.mewatch">
+        <title>Enna Nadakkuthu Junior/Slimed Science</title>
+    </programme>
+    <programme start="20250701020049 +0000" stop="20250701030013 +0000" channel="Oktolidays.mewatch">
+        <title>Wildlife Snap! With Biogirl MJ/Tali dan Tangga/Word Whiz</title>
+    </programme>
+    <programme start="20250701030013 +0000" stop="20250701040000 +0000" channel="Oktolidays.mewatch">
+        <title>Puberteens/Mind Blown!/One Page At A Time</title>
+    </programme>
+    <programme start="20250701040000 +0000" stop="20250701160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250701160000 +0000" stop="20250702160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250701160000 +0000" channel="spl01.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250629140000 +0000" stop="20250629180000 +0000" channel="now-80s.mewatch">
-        <title>80s Dancefloor With Jeff Young! - EP1</title>
-    </programme>
-    <programme start="20250629180000 +0000" stop="20250629200000 +0000" channel="now-80s.mewatch">
-        <title>Nothing But 80s Love Songs - EP1</title>
-    </programme>
-    <programme start="20250629200000 +0000" stop="20250629210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night! - EP1</title>
-    </programme>
-    <programme start="20250629210000 +0000" stop="20250629220000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping - EP1</title>
-    </programme>
-    <programme start="20250629220000 +0000" stop="20250629230000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go! - EP1</title>
-    </programme>
-    <programme start="20250629230000 +0000" stop="20250630030000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
-    </programme>
-    <programme start="20250630030000 +0000" stop="20250630040000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!) - EP1</title>
-    </programme>
-    <programme start="20250630040000 +0000" stop="20250630090000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
-    </programme>
-    <programme start="20250630090000 +0000" stop="20250630100000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s! - EP1</title>
-    </programme>
-    <programme start="20250630100000 +0000" stop="20250630110000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit! - EP1</title>
+    <programme start="20250701160000 +0000" stop="20250702160000 +0000" channel="spl01.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250630110000 +0000" stop="20250630200000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies! - EP1</title>
     </programme>
-    <programme start="20250629130000 +0000" stop="20250629190000 +0000" channel="now-70s.mewatch">
-        <title>Essentials! 70s Folk Rock - EP1</title>
+    <programme start="20250630200000 +0000" stop="20250630210000 +0000" channel="now-80s.mewatch">
+        <title>80s - To The Max! - EP1</title>
     </programme>
-    <programme start="20250629190000 +0000" stop="20250629200000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest! - EP1</title>
-    </programme>
-    <programme start="20250629200000 +0000" stop="20250629210000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
-    </programme>
-    <programme start="20250629210000 +0000" stop="20250629220000 +0000" channel="now-70s.mewatch">
+    <programme start="20250630210000 +0000" stop="20250630220000 +0000" channel="now-80s.mewatch">
         <title>Teleshopping - EP1</title>
     </programme>
-    <programme start="20250629220000 +0000" stop="20250629230000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
+    <programme start="20250630220000 +0000" stop="20250630230000 +0000" channel="now-80s.mewatch">
+        <title>Wake Me Up Before You Go Go! - EP1</title>
     </programme>
-    <programme start="20250629230000 +0000" stop="20250630080000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
+    <programme start="20250630230000 +0000" stop="20250701030000 +0000" channel="now-80s.mewatch">
+        <title>Only The Biggest 80s Anthems! - EP1</title>
     </programme>
-    <programme start="20250630080000 +0000" stop="20250630090000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone! - EP1</title>
+    <programme start="20250701030000 +0000" stop="20250701040000 +0000" channel="now-80s.mewatch">
+        <title>The 80s (What A Feeling!) - EP1</title>
+    </programme>
+    <programme start="20250701040000 +0000" stop="20250701090000 +0000" channel="now-80s.mewatch">
+        <title>Only The Biggest 80s Anthems! - EP1</title>
+    </programme>
+    <programme start="20250701090000 +0000" stop="20250701100000 +0000" channel="now-80s.mewatch">
+        <title>Bring Out The 80s! - EP1</title>
+    </programme>
+    <programme start="20250701100000 +0000" stop="20250701150000 +0000" channel="now-80s.mewatch">
+        <title>80s Hit After 80s Hit! - EP1</title>
+    </programme>
+    <programme start="20250701150000 +0000" stop="20250701200000 +0000" channel="now-80s.mewatch">
+        <title>Every Song A Number 1! - EP1</title>
     </programme>
     <programme start="20250630090000 +0000" stop="20250630190000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
     </programme>
-    <programme start="20250629160000 +0000" stop="20250629220000 +0000" channel="trace-urban.mewatch">
-        <title>Sounds Of Trace</title>
+    <programme start="20250630190000 +0000" stop="20250630200000 +0000" channel="now-70s.mewatch">
+        <title>The 70s Are Best: Forget The Rest! - EP1</title>
     </programme>
-    <programme start="20250629220000 +0000" stop="20250630040000 +0000" channel="trace-urban.mewatch">
-        <title>Urban Vibes</title>
+    <programme start="20250630200000 +0000" stop="20250630210000 +0000" channel="now-70s.mewatch">
+        <title>Morning Has Broken! - EP1</title>
     </programme>
-    <programme start="20250630040000 +0000" stop="20250630100000 +0000" channel="trace-urban.mewatch">
-        <title>Hits Non Stop</title>
+    <programme start="20250630210000 +0000" stop="20250630220000 +0000" channel="now-70s.mewatch">
+        <title>Teleshopping - EP1</title>
     </programme>
-    <programme start="20250630100000 +0000" stop="20250630104500 +0000" channel="trace-urban.mewatch">
-        <title>Hit 10</title>
+    <programme start="20250630220000 +0000" stop="20250630230000 +0000" channel="now-70s.mewatch">
+        <title>Morning Has Broken! - EP1</title>
     </programme>
-    <programme start="20250630104500 +0000" stop="20250630110000 +0000" channel="trace-urban.mewatch">
-        <title>Hits Non Stop</title>
+    <programme start="20250630230000 +0000" stop="20250701080000 +0000" channel="now-70s.mewatch">
+        <title>Sensational 70s! - EP1</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="trace-urban.mewatch">
-        <title>Hits &amp; Lyrics</title>
+    <programme start="20250701080000 +0000" stop="20250701090000 +0000" channel="now-70s.mewatch">
+        <title>The 5 O&#039;clock Groovy Zone! - EP1</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630124500 +0000" channel="trace-urban.mewatch">
-        <title>Top 10 Hip-Hop</title>
-    </programme>
-    <programme start="20250630124500 +0000" stop="20250630130000 +0000" channel="trace-urban.mewatch">
-        <title>Hits Non Stop</title>
-    </programme>
-    <programme start="20250630130000 +0000" stop="20250630140000 +0000" channel="trace-urban.mewatch">
-        <title>Hits Non Stop</title>
-    </programme>
-    <programme start="20250630140000 +0000" stop="20250630150000 +0000" channel="trace-urban.mewatch">
-        <title>Stream It</title>
-    </programme>
-    <programme start="20250630150000 +0000" stop="20250630160000 +0000" channel="trace-urban.mewatch">
-        <title>New</title>
+    <programme start="20250701090000 +0000" stop="20250701190000 +0000" channel="now-70s.mewatch">
+        <title>Sensational 70s! - EP1</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250630220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
     </programme>
-    <programme start="20250629155400 +0000" stop="20250629163001 +0000" channel="Animax.mewatch">
-        <title>Life With An Ordinary Guy Who Reincarnated Into A Total Fantasy Knockout - A Guy Who Reincarnated As A Fantasy Knockout And A Free Spirit</title>
+    <programme start="20250630220000 +0000" stop="20250701040000 +0000" channel="trace-urban.mewatch">
+        <title>Urban Vibes</title>
     </programme>
-    <programme start="20250629163001 +0000" stop="20250629170001 +0000" channel="Animax.mewatch">
-        <title>My Love Story With Yamada-Kun At Lv999 - You Want To Feel At Ease?</title>
+    <programme start="20250701040000 +0000" stop="20250701100000 +0000" channel="trace-urban.mewatch">
+        <title>Hits Non Stop</title>
     </programme>
-    <programme start="20250629170001 +0000" stop="20250629173001 +0000" channel="Animax.mewatch">
-        <title>My Love Story With Yamada-Kun At Lv999 - If That Happened, That Would Be…</title>
+    <programme start="20250701100000 +0000" stop="20250701104500 +0000" channel="trace-urban.mewatch">
+        <title>Hit 10</title>
     </programme>
-    <programme start="20250629173001 +0000" stop="20250629180001 +0000" channel="Animax.mewatch">
-        <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
+    <programme start="20250701104500 +0000" stop="20250701110000 +0000" channel="trace-urban.mewatch">
+        <title>Hits Non Stop</title>
     </programme>
-    <programme start="20250629180001 +0000" stop="20250629183001 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Calamity, Athlete&#039;s Foot, And The Meaning Of Work</title>
+    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="trace-urban.mewatch">
+        <title>Hits &amp; Lyrics</title>
     </programme>
-    <programme start="20250629183001 +0000" stop="20250629190001 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Stomach Ulcer, Friendship, And Loss</title>
+    <programme start="20250701120000 +0000" stop="20250701124500 +0000" channel="trace-urban.mewatch">
+        <title>Top 10 Caliente</title>
     </programme>
-    <programme start="20250629190001 +0000" stop="20250629193001 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - What Will Be, Will Be</title>
+    <programme start="20250701124500 +0000" stop="20250701130000 +0000" channel="trace-urban.mewatch">
+        <title>Hits Non Stop</title>
     </programme>
-    <programme start="20250629193001 +0000" stop="20250629200001 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - Crunch Time</title>
+    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="trace-urban.mewatch">
+        <title>Hits Non Stop</title>
     </programme>
-    <programme start="20250629200001 +0000" stop="20250629203001 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - Love Is Blind</title>
+    <programme start="20250701140000 +0000" stop="20250701150000 +0000" channel="trace-urban.mewatch">
+        <title>Stream It</title>
     </programme>
-    <programme start="20250629203001 +0000" stop="20250629210001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - A Reunion Across Time And Space</title>
+    <programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="trace-urban.mewatch">
+        <title>New</title>
     </programme>
-    <programme start="20250629210001 +0000" stop="20250629213001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - The Final Attack</title>
-    </programme>
-    <programme start="20250629213001 +0000" stop="20250629220001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - Dawn</title>
-    </programme>
-    <programme start="20250629220001 +0000" stop="20250629223001 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Introductions</title>
-    </programme>
-    <programme start="20250629223001 +0000" stop="20250629230001 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Lost</title>
-    </programme>
-    <programme start="20250629230001 +0000" stop="20250629233001 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Calamity, Athlete&#039;s Foot, And The Meaning Of Work</title>
-    </programme>
-    <programme start="20250629233001 +0000" stop="20250630000001 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Stomach Ulcer, Friendship, And Loss</title>
-    </programme>
-    <programme start="20250630000001 +0000" stop="20250630003001 +0000" channel="Animax.mewatch">
-        <title>Life With An Ordinary Guy Who Reincarnated Into A Total Fantasy Knockout - A Guy Who Reincarnated As A Fantasy Knockout And Armor That Moves</title>
-    </programme>
-    <programme start="20250630003001 +0000" stop="20250630010001 +0000" channel="Animax.mewatch">
-        <title>Life With An Ordinary Guy Who Reincarnated Into A Total Fantasy Knockout - A Guy Who Reincarnated As A Fantasy Knockout And A Free Spirit</title>
-    </programme>
-    <programme start="20250630010001 +0000" stop="20250630013001 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Introductions</title>
-    </programme>
-    <programme start="20250630013001 +0000" stop="20250630020001 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Lost</title>
-    </programme>
-    <programme start="20250630020001 +0000" stop="20250630023001 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - Crunch Time</title>
-    </programme>
-    <programme start="20250630023001 +0000" stop="20250630030001 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - Love Is Blind</title>
-    </programme>
-    <programme start="20250630030001 +0000" stop="20250630033001 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Calamity, Athlete&#039;s Foot, And The Meaning Of Work</title>
-    </programme>
-    <programme start="20250630033001 +0000" stop="20250630040001 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Stomach Ulcer, Friendship, And Loss</title>
-    </programme>
-    <programme start="20250630040001 +0000" stop="20250630043001 +0000" channel="Animax.mewatch">
-        <title>Life With An Ordinary Guy Who Reincarnated Into A Total Fantasy Knockout - A Guy Who Reincarnated As A Fantasy Knockout And Armor That Moves</title>
-    </programme>
-    <programme start="20250630043001 +0000" stop="20250630050001 +0000" channel="Animax.mewatch">
-        <title>Life With An Ordinary Guy Who Reincarnated Into A Total Fantasy Knockout - A Guy Who Reincarnated As A Fantasy Knockout And A Free Spirit</title>
-    </programme>
-    <programme start="20250630050001 +0000" stop="20250630053000 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Introductions</title>
-    </programme>
-    <programme start="20250630053000 +0000" stop="20250630060000 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Lost</title>
-    </programme>
-    <programme start="20250630060000 +0000" stop="20250630063000 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - Crunch Time</title>
-    </programme>
-    <programme start="20250630063000 +0000" stop="20250630070000 +0000" channel="Animax.mewatch">
-        <title>Buddy Daddies - Love Is Blind</title>
-    </programme>
-    <programme start="20250630070000 +0000" stop="20250630073000 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Calamity, Athlete&#039;s Foot, And The Meaning Of Work</title>
-    </programme>
-    <programme start="20250630073000 +0000" stop="20250630080000 +0000" channel="Animax.mewatch">
-        <title>Cells At Work! CODE BLACK - Stomach Ulcer, Friendship, And Loss</title>
-    </programme>
-    <programme start="20250630080000 +0000" stop="20250630083000 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Introductions</title>
-    </programme>
-    <programme start="20250630083000 +0000" stop="20250630090000 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Lost</title>
-    </programme>
-    <programme start="20250630090000 +0000" stop="20250630093000 +0000" channel="Animax.mewatch">
-        <title>The Faraway Paladin - The Helmet Of Will</title>
-    </programme>
-    <programme start="20250630093000 +0000" stop="20250630100000 +0000" channel="Animax.mewatch">
-        <title>The Faraway Paladin - Archer Of Beast Woods</title>
-    </programme>
-    <programme start="20250630100000 +0000" stop="20250630103000 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Lost</title>
-    </programme>
-    <programme start="20250630103000 +0000" stop="20250630110000 +0000" channel="Animax.mewatch">
-        <title>Haikyu!! 4th Season - Perspective</title>
-    </programme>
-    <programme start="20250630110000 +0000" stop="20250630113000 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - Dawn</title>
-    </programme>
-    <programme start="20250630113000 +0000" stop="20250630120001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - 三件麻煩事</title>
-    </programme>
-    <programme start="20250630120001 +0000" stop="20250630123001 +0000" channel="Animax.mewatch">
-        <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
-    </programme>
-    <programme start="20250630123001 +0000" stop="20250630130001 +0000" channel="Animax.mewatch">
-        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
-    </programme>
-    <programme start="20250630130001 +0000" stop="20250630133001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - Dawn</title>
-    </programme>
-    <programme start="20250630133001 +0000" stop="20250630140001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - 三件麻煩事</title>
-    </programme>
-    <programme start="20250630140001 +0000" stop="20250630143001 +0000" channel="Animax.mewatch">
-        <title>Oshi No Ko - First Time</title>
-    </programme>
-    <programme start="20250630143001 +0000" stop="20250630150001 +0000" channel="Animax.mewatch">
-        <title>Oshi No Ko - B Komachi</title>
-    </programme>
-    <programme start="20250630150001 +0000" stop="20250630153001 +0000" channel="Animax.mewatch">
-        <title>Black Clover Season 3 - Dawn</title>
+    <programme start="20250701160000 +0000" stop="20250701220000 +0000" channel="trace-urban.mewatch">
+        <title>Sounds Of Trace</title>
     </programme>
     <programme start="20250630153001 +0000" stop="20250630160001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - 三件麻煩事</title>
     </programme>
-    <programme start="20250629143500 +0000" stop="20250629163000 +0000" channel="cinemaworld.mewatch">
-        <title>Celeste</title>
+    <programme start="20250630160001 +0000" stop="20250630163001 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
     </programme>
-    <programme start="20250629163000 +0000" stop="20250629181500 +0000" channel="cinemaworld.mewatch">
-        <title>Murder in Mont St. Michel</title>
+    <programme start="20250630163001 +0000" stop="20250630170001 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
     </programme>
-    <programme start="20250629181500 +0000" stop="20250629202000 +0000" channel="cinemaworld.mewatch">
-        <title>The Bride In Red</title>
+    <programme start="20250630170001 +0000" stop="20250630173001 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - First Time</title>
     </programme>
-    <programme start="20250629202000 +0000" stop="20250629220000 +0000" channel="cinemaworld.mewatch">
-        <title>Sarah Kohr: Silent Death</title>
+    <programme start="20250630173001 +0000" stop="20250630180001 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - B Komachi</title>
     </programme>
-    <programme start="20250629220000 +0000" stop="20250629234000 +0000" channel="cinemaworld.mewatch">
-        <title>Tuesday Club</title>
+    <programme start="20250630180001 +0000" stop="20250630183001 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Lost</title>
     </programme>
-    <programme start="20250629234000 +0000" stop="20250630011000 +0000" channel="cinemaworld.mewatch">
-        <title>Murders in Porquerolles</title>
+    <programme start="20250630183001 +0000" stop="20250630190001 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Perspective</title>
     </programme>
-    <programme start="20250630011000 +0000" stop="20250630030500 +0000" channel="cinemaworld.mewatch">
-        <title>Our River...Our Sky</title>
+    <programme start="20250630190001 +0000" stop="20250630193001 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
     </programme>
-    <programme start="20250630030500 +0000" stop="20250630044000 +0000" channel="cinemaworld.mewatch">
-        <title>Broll: Buried Alive</title>
+    <programme start="20250630193001 +0000" stop="20250630200001 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
     </programme>
-    <programme start="20250630044000 +0000" stop="20250630045000 +0000" channel="cinemaworld.mewatch">
-        <title>M.U.R.B.Y.</title>
+    <programme start="20250630200001 +0000" stop="20250630203001 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Dawn</title>
     </programme>
-    <programme start="20250630045000 +0000" stop="20250630062000 +0000" channel="cinemaworld.mewatch">
-        <title>Good Luck Sam</title>
+    <programme start="20250630203001 +0000" stop="20250630210001 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - 三件麻煩事</title>
     </programme>
-    <programme start="20250630062000 +0000" stop="20250630080500 +0000" channel="cinemaworld.mewatch">
-        <title>Goodnight Mommy</title>
+    <programme start="20250630210001 +0000" stop="20250630213001 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - First Time</title>
     </programme>
-    <programme start="20250630080500 +0000" stop="20250630095000 +0000" channel="cinemaworld.mewatch">
-        <title>Celeste</title>
+    <programme start="20250630213001 +0000" stop="20250630220000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - B Komachi</title>
     </programme>
-    <programme start="20250630095000 +0000" stop="20250630112500 +0000" channel="cinemaworld.mewatch">
-        <title>Toubab</title>
+    <programme start="20250630220000 +0000" stop="20250630223000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Lost</title>
     </programme>
-    <programme start="20250630112500 +0000" stop="20250630130000 +0000" channel="cinemaworld.mewatch">
-        <title>My Little Sister</title>
+    <programme start="20250630223000 +0000" stop="20250630230000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Perspective</title>
     </programme>
-    <programme start="20250630130000 +0000" stop="20250630144500 +0000" channel="cinemaworld.mewatch">
-        <title>Murders in Pont-Aven</title>
+    <programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Dawn</title>
     </programme>
-    <programme start="20250630144500 +0000" stop="20250630150000 +0000" channel="cinemaworld.mewatch">
-        <title>Gossip</title>
+    <programme start="20250630233000 +0000" stop="20250701000000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Three Problems</title>
+    </programme>
+    <programme start="20250701000000 +0000" stop="20250701003000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
+    </programme>
+    <programme start="20250701003000 +0000" stop="20250701010000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
+    </programme>
+    <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Lost</title>
+    </programme>
+    <programme start="20250701013000 +0000" stop="20250701020000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Perspective</title>
+    </programme>
+    <programme start="20250701020000 +0000" stop="20250701023000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - First Time</title>
+    </programme>
+    <programme start="20250701023000 +0000" stop="20250701030000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - B Komachi</title>
+    </programme>
+    <programme start="20250701030000 +0000" stop="20250701033000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Dawn</title>
+    </programme>
+    <programme start="20250701033000 +0000" stop="20250701040000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Three Problems</title>
+    </programme>
+    <programme start="20250701040000 +0000" stop="20250701043000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
+    </programme>
+    <programme start="20250701043000 +0000" stop="20250701050000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
+    </programme>
+    <programme start="20250701050000 +0000" stop="20250701053000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Lost</title>
+    </programme>
+    <programme start="20250701053000 +0000" stop="20250701060000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Perspective</title>
+    </programme>
+    <programme start="20250701060000 +0000" stop="20250701063000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - First Time</title>
+    </programme>
+    <programme start="20250701063000 +0000" stop="20250701070000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - B Komachi</title>
+    </programme>
+    <programme start="20250701070000 +0000" stop="20250701073000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Dawn</title>
+    </programme>
+    <programme start="20250701073000 +0000" stop="20250701080000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Three Problems</title>
+    </programme>
+    <programme start="20250701080000 +0000" stop="20250701083000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Lost</title>
+    </programme>
+    <programme start="20250701083000 +0000" stop="20250701090000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Perspective</title>
+    </programme>
+    <programme start="20250701090000 +0000" stop="20250701093000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - First Time</title>
+    </programme>
+    <programme start="20250701093000 +0000" stop="20250701100000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - B Komachi</title>
+    </programme>
+    <programme start="20250701100000 +0000" stop="20250701103000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - Perspective</title>
+    </programme>
+    <programme start="20250701103000 +0000" stop="20250701110000 +0000" channel="Animax.mewatch">
+        <title>Haikyu!! 4th Season - &quot;Take It Easy&quot;</title>
+    </programme>
+    <programme start="20250701110000 +0000" stop="20250701113000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Three Problems</title>
+    </programme>
+    <programme start="20250701113000 +0000" stop="20250701120000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - As Pitch Black As It Gets</title>
+    </programme>
+    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
+    </programme>
+    <programme start="20250701123000 +0000" stop="20250701130000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - There&#039;s Something I Want To Talk To You About</title>
+    </programme>
+    <programme start="20250701130000 +0000" stop="20250701133000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Three Problems</title>
+    </programme>
+    <programme start="20250701133000 +0000" stop="20250701140000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - As Pitch Black As It Gets</title>
+    </programme>
+    <programme start="20250701140000 +0000" stop="20250701143000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - Pressure</title>
+    </programme>
+    <programme start="20250701143000 +0000" stop="20250701150000 +0000" channel="Animax.mewatch">
+        <title>Oshi No Ko - Idol</title>
+    </programme>
+    <programme start="20250701150000 +0000" stop="20250701153000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - Three Problems</title>
+    </programme>
+    <programme start="20250701153000 +0000" stop="20250701160000 +0000" channel="Animax.mewatch">
+        <title>Black Clover Season 3 - As Pitch Black As It Gets</title>
+    </programme>
+    <programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="Animax.mewatch">
+        <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
     </programme>
     <programme start="20250630150000 +0000" stop="20250630164000 +0000" channel="cinemaworld.mewatch">
         <title>Ricky</title>
     </programme>
-    <programme start="20250629130001 +0000" stop="20250629160001 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 30th June, Monday 7pm. The Wonder Shop Home Shopping</title>
+    <programme start="20250630164000 +0000" stop="20250630182000 +0000" channel="cinemaworld.mewatch">
+        <title>Murders in Porquerolles</title>
     </programme>
-    <programme start="20250629160001 +0000" stop="20250630110001 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 30th June, Monday 7pm. The Wonder Shop Home Shopping</title>
+    <programme start="20250630182000 +0000" stop="20250630200500 +0000" channel="cinemaworld.mewatch">
+        <title>Broll: Buried Alive</title>
     </programme>
-    <programme start="20250630110001 +0000" stop="20250630111401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Health+ Nutripack Snow Fungus</title>
+    <programme start="20250630200500 +0000" stop="20250630220000 +0000" channel="cinemaworld.mewatch">
+        <title>Goodnight Mommy</title>
     </programme>
-    <programme start="20250630111401 +0000" stop="20250630111601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Zoom Vision</title>
+    <programme start="20250630220000 +0000" stop="20250630235000 +0000" channel="cinemaworld.mewatch">
+        <title>Toubab</title>
     </programme>
-    <programme start="20250630111601 +0000" stop="20250630113001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Philips Azur Steam Iron</title>
+    <programme start="20250630235000 +0000" stop="20250701015000 +0000" channel="cinemaworld.mewatch">
+        <title>Carte Blanche</title>
     </programme>
-    <programme start="20250630113001 +0000" stop="20250630114401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Gourmet Chef Thermo Blend</title>
+    <programme start="20250701015000 +0000" stop="20250701034000 +0000" channel="cinemaworld.mewatch">
+        <title>Murders in Pont-Aven</title>
     </programme>
-    <programme start="20250630114401 +0000" stop="20250630114601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
+    <programme start="20250701034000 +0000" stop="20250701054500 +0000" channel="cinemaworld.mewatch">
+        <title>Hunting Season</title>
     </programme>
-    <programme start="20250630114601 +0000" stop="20250630120001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Astalift</title>
+    <programme start="20250701054500 +0000" stop="20250701072500 +0000" channel="cinemaworld.mewatch">
+        <title>Ricky</title>
     </programme>
-    <programme start="20250630120001 +0000" stop="20250630121401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
+    <programme start="20250701072500 +0000" stop="20250701090500 +0000" channel="cinemaworld.mewatch">
+        <title>Homicide Unit Istanbul: Thailand (1)</title>
     </programme>
-    <programme start="20250630121401 +0000" stop="20250630121601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
+    <programme start="20250701090500 +0000" stop="20250701111000 +0000" channel="cinemaworld.mewatch">
+        <title>Brado</title>
     </programme>
-    <programme start="20250630121601 +0000" stop="20250630123001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Sankom Light Patent Socks</title>
+    <programme start="20250701111000 +0000" stop="20250701120500 +0000" channel="cinemaworld.mewatch">
+        <title>Clean Sweep 1: Done Is Done</title>
     </programme>
-    <programme start="20250630123001 +0000" stop="20250630124401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - QN 3 Bottles Special Bundle</title>
+    <programme start="20250701120500 +0000" stop="20250701130000 +0000" channel="cinemaworld.mewatch">
+        <title>Clean Sweep 2: Post Mortem</title>
     </programme>
-    <programme start="20250630124401 +0000" stop="20250630124601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
+    <programme start="20250701130000 +0000" stop="20250701143000 +0000" channel="cinemaworld.mewatch">
+        <title>Wars</title>
     </programme>
-    <programme start="20250630124601 +0000" stop="20250630130001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - PHS HAIRSCIENCE HOM/FEM Anti-Hair Loss Bundle</title>
-    </programme>
-    <programme start="20250630130001 +0000" stop="20250630131401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Cheong Dam Black Change Shampoo</title>
-    </programme>
-    <programme start="20250630131401 +0000" stop="20250630131601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
-    </programme>
-    <programme start="20250630131601 +0000" stop="20250630133001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - doctorcos snow white water glow mask</title>
-    </programme>
-    <programme start="20250630133001 +0000" stop="20250630134401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - OTO Footplus Massager FP-100</title>
-    </programme>
-    <programme start="20250630134401 +0000" stop="20250630134601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Vac Pac Go</title>
-    </programme>
-    <programme start="20250630134601 +0000" stop="20250630140001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - [24 Bottles] Kinohimitsu Bird&#039;s Nest Red Dates &amp; Wolfberry + Bird&#039;s Nest Chinese Ginseng</title>
-    </programme>
-    <programme start="20250630140001 +0000" stop="20250630141401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Epitex Pillow Bundle</title>
-    </programme>
-    <programme start="20250630141401 +0000" stop="20250630141601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
-    </programme>
-    <programme start="20250630141601 +0000" stop="20250630143001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - HQ Ling Zhi</title>
-    </programme>
-    <programme start="20250630143001 +0000" stop="20250630144401 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Thomson Probiotic</title>
-    </programme>
-    <programme start="20250630144401 +0000" stop="20250630144601 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
-    </programme>
-    <programme start="20250630144601 +0000" stop="20250630150001 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Kinohimitsu Wellsure</title>
-    </programme>
-    <programme start="20250630150001 +0000" stop="20250630160000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 1rd July, Tuesday 7pm. The Wonder Shop Home Shopping</title>
+    <programme start="20250701143000 +0000" stop="20250701162500 +0000" channel="cinemaworld.mewatch">
+        <title>A Dose Of Happiness</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250701110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 1st July, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250628160001 +0000" stop="20250629160001 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
+    <programme start="20250701110000 +0000" stop="20250701111400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Ebene Knee Guard and Sock Bundles</title>
+    </programme>
+    <programme start="20250701111400 +0000" stop="20250701111600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
+    </programme>
+    <programme start="20250701111600 +0000" stop="20250701113000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - IRIS OHYAMA Dust Mite Vacuum Cleaner</title>
+    </programme>
+    <programme start="20250701113000 +0000" stop="20250701114400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Zinus 5&quot; Tri-Fold Cooling Gel Mattress</title>
+    </programme>
+    <programme start="20250701114400 +0000" stop="20250701114600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
+    </programme>
+    <programme start="20250701114600 +0000" stop="20250701120000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thomson Osteopro</title>
+    </programme>
+    <programme start="20250701120000 +0000" stop="20250701121400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Mobot Opula Lite 4 Wheels Mobility Scooter</title>
+    </programme>
+    <programme start="20250701121400 +0000" stop="20250701121600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
+    </programme>
+    <programme start="20250701121600 +0000" stop="20250701123000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
+    </programme>
+    <programme start="20250701123000 +0000" stop="20250701124400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Gastoguard</title>
+    </programme>
+    <programme start="20250701124400 +0000" stop="20250701124600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Vac Pac Go</title>
+    </programme>
+    <programme start="20250701124600 +0000" stop="20250701125300 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Koli Pain Relief Plaster &amp; Massage Roller</title>
+    </programme>
+    <programme start="20250701125300 +0000" stop="20250701130000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Dontz Mini Massage Gun</title>
+    </programme>
+    <programme start="20250701130000 +0000" stop="20250701131400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - ASD Hybrid 3-ply Hex Wok 32 &amp; 36cm</title>
+    </programme>
+    <programme start="20250701131400 +0000" stop="20250701131600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
+    </programme>
+    <programme start="20250701131600 +0000" stop="20250701133000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - I-Running X-Fold Exercise Bike</title>
+    </programme>
+    <programme start="20250701133000 +0000" stop="20250701134400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Dr Wu</title>
+    </programme>
+    <programme start="20250701134400 +0000" stop="20250701134600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
+    </programme>
+    <programme start="20250701134600 +0000" stop="20250701140000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Ultimo Cool Contour Pillow</title>
+    </programme>
+    <programme start="20250701140000 +0000" stop="20250701141400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Beauty One Shakura</title>
+    </programme>
+    <programme start="20250701141400 +0000" stop="20250701141600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Zoom Vision</title>
+    </programme>
+    <programme start="20250701141600 +0000" stop="20250701143000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Omron Knee TENS</title>
+    </programme>
+    <programme start="20250701143000 +0000" stop="20250701144400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Nature&#039;s Farm® Krill Oil 180s</title>
+    </programme>
+    <programme start="20250701144400 +0000" stop="20250701144600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
+    </programme>
+    <programme start="20250701144600 +0000" stop="20250701150000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Dermacare Skin Repair Cream</title>
+    </programme>
+    <programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="Live 1.mewatch">
+        <title>No programme available now. Next broadcast on 2nd July, Wednesday 7pm. The Wonder Shop Home Shopping</title>
+    </programme>
+    <programme start="20250701160000 +0000" stop="20250702110000 +0000" channel="Live 1.mewatch">
+        <title>No programme available now. Next broadcast on 2nd July, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250629160001 +0000" stop="20250630160001 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
@@ -1045,18 +1024,18 @@
     <programme start="20250630160000 +0000" stop="20250701160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
     </programme>
-    <programme start="20250629113001 +0000" stop="20250629160001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
+    <programme start="20250701160000 +0000" stop="20250702160000 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
     </programme>
     <programme start="20250629160001 +0000" stop="20250630160001 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
     </programme>
-    <programme start="20250629160000 +0000" stop="20250630160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
-    </programme>
-    <programme start="20250629160000 +0000" stop="20250630160000 +0000" channel="Live 7.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+    <programme start="20250630160001 +0000" stop="20250701160001 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250701160000 +0000" channel="Live 7.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250701160000 +0000" stop="20250702160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
