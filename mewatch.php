@@ -244,29 +244,26 @@
     <programme start="20250630093144 +0000" stop="20250630103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 54</title>
     </programme>
-    <programme start="20250630103000 +0000" stop="20250630113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630103000 +0000" stop="20250630113055 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 65</title>
     </programme>
-    <programme start="20250630113000 +0000" stop="20250630120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630113055 +0000" stop="20250630115943 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 15</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630115943 +0000" stop="20250630130034 +0000" channel="Channel 8.mewatch">
         <title>Forbidding No More S3 - EP 8</title>
     </programme>
-    <programme start="20250630130000 +0000" stop="20250630140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630130034 +0000" stop="20250630140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 28</title>
     </programme>
-    <programme start="20250630140000 +0000" stop="20250630143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630140000 +0000" stop="20250630143145 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250630143000 +0000" stop="20250630150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630143145 +0000" stop="20250630150121 +0000" channel="Channel 8.mewatch">
         <title>Connecting Earth and Sky - EP 9</title>
     </programme>
-    <programme start="20250630150000 +0000" stop="20250630160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250630150121 +0000" stop="20250630160106 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 26</title>
-    </programme>
-    <programme start="20250630160000 +0000" stop="20250630170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 9</title>
     </programme>
     <programme start="20250629153104 +0000" stop="20250629163013 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 6</title>
@@ -361,22 +358,22 @@
     <programme start="20250630100135 +0000" stop="20250630110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 14</title>
     </programme>
-    <programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250630110000 +0000" stop="20250630115939 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 58</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250630115939 +0000" stop="20250630130116 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 59</title>
     </programme>
-    <programme start="20250630130000 +0000" stop="20250630140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250630130116 +0000" stop="20250630140024 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 3</title>
     </programme>
-    <programme start="20250630140000 +0000" stop="20250630150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250630140024 +0000" stop="20250630150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 38</title>
     </programme>
-    <programme start="20250630150000 +0000" stop="20250630153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250630150000 +0000" stop="20250630153129 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250630153000 +0000" stop="20250630163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250630153129 +0000" stop="20250630162946 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 3</title>
     </programme>
     <programme start="20250629153000 +0000" stop="20250629160104 +0000" channel="Suria.mewatch">
@@ -424,23 +421,20 @@
     <programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 21</title>
     </programme>
-    <programme start="20250630120000 +0000" stop="20250630123000 +0000" channel="Suria.mewatch">
+    <programme start="20250630120000 +0000" stop="20250630122954 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250630123000 +0000" stop="20250630133000 +0000" channel="Suria.mewatch">
+    <programme start="20250630122954 +0000" stop="20250630132952 +0000" channel="Suria.mewatch">
         <title>Travelawak: Projek Bapak Bapak - EP 1</title>
     </programme>
-    <programme start="20250630133000 +0000" stop="20250630143000 +0000" channel="Suria.mewatch">
+    <programme start="20250630132952 +0000" stop="20250630143001 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 14</title>
     </programme>
-    <programme start="20250630143000 +0000" stop="20250630153000 +0000" channel="Suria.mewatch">
+    <programme start="20250630143001 +0000" stop="20250630153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 21</title>
     </programme>
-    <programme start="20250630153000 +0000" stop="20250630160000 +0000" channel="Suria.mewatch">
+    <programme start="20250630153000 +0000" stop="20250630160057 +0000" channel="Suria.mewatch">
         <title>Berita</title>
-    </programme>
-    <programme start="20250630160000 +0000" stop="20250701010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20250629135959 +0000" stop="20250629170000 +0000" channel="Vasantham.mewatch">
         <title>Bhaagamathie</title>
@@ -502,7 +496,7 @@
     <programme start="20250630145957 +0000" stop="20250630153000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 32</title>
     </programme>
-    <programme start="20250630153000 +0000" stop="20250630160100 +0000" channel="Vasantham.mewatch">
+    <programme start="20250630153000 +0000" stop="20250630160103 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250629150304 +0000" stop="20250629160001 +0000" channel="CNA.mewatch">
