@@ -8248,17 +8248,17 @@
     <programme start="20250630150000 +0000" stop="20250630160000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250629133000 +0000" stop="20250629163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250629133000 +0000" stop="20250629161500 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250629163000 +0000" stop="20250629193000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20250629161500 +0000" stop="20250629191000 +0000" channel="Asianet Movies.starhub">
+        <title>Thuruppugulan</title>
     </programme>
-    <programme start="20250629193000 +0000" stop="20250629213000 +0000" channel="Asianet Movies.starhub">
-        <title>Paviyettante Madhurachooral</title>
+    <programme start="20250629191000 +0000" stop="20250629212000 +0000" channel="Asianet Movies.starhub">
+        <title>Android Kunjappan Ver 5.25</title>
     </programme>
-    <programme start="20250629213000 +0000" stop="20250629233000 +0000" channel="Asianet Movies.starhub">
-        <title>Parthan kanda paralokam</title>
+    <programme start="20250629212000 +0000" stop="20250629233000 +0000" channel="Asianet Movies.starhub">
+        <title>Mulla</title>
     </programme>
     <programme start="20250629233000 +0000" stop="20250630013000 +0000" channel="Asianet Movies.starhub">
         <title>Mudhugavu</title>

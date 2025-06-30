@@ -151,11 +151,8 @@
     <programme start="20250630140007 +0000" stop="20250630150006 +0000" channel="Channel 5.mewatch">
         <title>Wild Cards S2 - EP 13</title>
     </programme>
-    <programme start="20250630150006 +0000" stop="20250630160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250630150006 +0000" stop="20250630160021 +0000" channel="Channel 5.mewatch">
         <title>Fire Country S2 - EP 5</title>
-    </programme>
-    <programme start="20250630160000 +0000" stop="20250630163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 91</title>
     </programme>
     <programme start="20250629153125 +0000" stop="20250629160115 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 10</title>
