@@ -427,16 +427,16 @@
 <programme start="20250701100000 +0000" stop="20250701110000 +0000" channel="ANTV.mncvision">
     <title>Vaishno Devi</title>
 </programme>
-<programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="ANTV.mncvision">
+<programme start="20250701110000 +0000" stop="20250701123000 +0000" channel="ANTV.mncvision">
     <title>Imlie</title>
 </programme>
-<programme start="20250701120000 +0000" stop="20250701140000 +0000" channel="ANTV.mncvision">
+<programme start="20250701123000 +0000" stop="20250701143000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250701140000 +0000" stop="20250701160000 +0000" channel="ANTV.mncvision">
+<programme start="20250701143000 +0000" stop="20250701163000 +0000" channel="ANTV.mncvision">
     <title>Antri Dong</title>
 </programme>
-<programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="ANTV.mncvision">
+<programme start="20250701163000 +0000" stop="20250630170000 +0000" channel="ANTV.mncvision">
     <title>Zombie Chickadee</title>
 </programme>
 <programme start="20250630170000 +0000" stop="20250630173000 +0000" channel="Arirang.mncvision">
@@ -4103,7 +4103,7 @@
     <title>Transformers: Revenge Of Fallen</title>
 </programme>
 <programme start="20250701153000 +0000" stop="20250701160000 +0000" channel="GTV.mncvision">
-    <title>Shushan Subdues Evil</title>
+    <title>Alien Invansion</title>
 </programme>
 <programme start="20250630170000 +0000" stop="20250630180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4154,7 +4154,7 @@
     <title>Transformers: Revenge Of Fallen</title>
 </programme>
 <programme start="20250701153000 +0000" stop="20250701160000 +0000" channel="GTV HD.mncvision">
-    <title>Shushan Subdues Evil</title>
+    <title>Alien Invansion</title>
 </programme>
 <programme start="20250630180000 +0000" stop="20250630183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>

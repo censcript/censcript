@@ -382,22 +382,22 @@
     <programme start="20250701100125 +0000" stop="20250701110000 +0000" channel="Channel U.mewatch">
         <title>VIP - EP 15</title>
     </programme>
-    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701110000 +0000" stop="20250701115953 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 60</title>
     </programme>
-    <programme start="20250701120000 +0000" stop="20250701130000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701115953 +0000" stop="20250701125954 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 61</title>
     </programme>
-    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701125954 +0000" stop="20250701135905 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 10</title>
     </programme>
-    <programme start="20250701140000 +0000" stop="20250701150000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701135905 +0000" stop="20250701150000 +0000" channel="Channel U.mewatch">
         <title>A Journey to Love - EP 39</title>
     </programme>
-    <programme start="20250701150000 +0000" stop="20250701153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701150000 +0000" stop="20250701152959 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250701153000 +0000" stop="20250701163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701152959 +0000" stop="20250701163017 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 10</title>
     </programme>
     <programme start="20250630153000 +0000" stop="20250630160057 +0000" channel="Suria.mewatch">

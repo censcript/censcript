@@ -8423,7 +8423,7 @@
         <title>MIDDAY NEWS</title>
     </programme>
     <programme start="20250701043000 +0000" stop="20250701060000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
+        <title>Future China</title>
     </programme>
     <programme start="20250701060000 +0000" stop="20250701063000 +0000" channel="Dragon TV.starhub">
         <title>CHINA Now</title>
@@ -8453,7 +8453,7 @@
         <title>A Green Trip</title>
     </programme>
     <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
+        <title>Future China</title>
     </programme>
     <programme start="20250701140000 +0000" stop="20250701143000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
