@@ -5389,11 +5389,8 @@
     <programme start="20250701020000 +0000" stop="20250701030000 +0000" channel="SPOTV.starhub">
         <title>Highlights Day 1</title>
     </programme>
-    <programme start="20250701030000 +0000" stop="20250701113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250701030000 +0000" stop="20250701122500 +0000" channel="SPOTV.starhub">
         <title>Gentlemen&#039;s and Ladies Singles First Round</title>
-    </programme>
-    <programme start="20250701113000 +0000" stop="20250701122500 +0000" channel="SPOTV.starhub">
-        <title>Highlights Day 1</title>
     </programme>
     <programme start="20250701122500 +0000" stop="20250701210000 +0000" channel="SPOTV.starhub">
         <title>Gentlemen&#039;s and Ladies Singles First Round</title>
@@ -8392,11 +8389,8 @@
     <programme start="20250701023000 +0000" stop="20250701033000 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250701033000 +0000" stop="20250701113000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250701033000 +0000" stop="20250701115500 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles First Round</title>
-    </programme>
-    <programme start="20250701113000 +0000" stop="20250701115500 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250701115500 +0000" stop="20250701200000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles First Round</title>

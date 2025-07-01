@@ -7571,10 +7571,10 @@
     <title>Carter&#039;s W.A.R. S1, Ep 4</title>
 </programme>
 <programme start="20250701100000 +0000" stop="20250701103000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Gunfather Restorations S1, Ep 3</title>
+    <title>The Gunfather... S1, Ep 3</title>
 </programme>
 <programme start="20250701103000 +0000" stop="20250701110000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Gunfather Restorations S2, Ep 3</title>
+    <title>The Gunfather... S2, Ep 3</title>
 </programme>
 <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Outdoor Channel.mncvision">
     <title>Ice Pilots NWT S4, Ep 9</title>
@@ -7595,10 +7595,10 @@
     <title>Carter&#039;s W.A.R. S1, Ep 4</title>
 </programme>
 <programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Gunfather Restorations S1, Ep 3</title>
+    <title>The Gunfather... S1, Ep 3</title>
 </programme>
 <programme start="20250701163000 +0000" stop="20250630170000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Gunfather Restorations S2, Ep 3</title>
+    <title>The Gunfather... S2, Ep 3</title>
 </programme>
 <programme start="20250630170000 +0000" stop="20250630180000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Gold Fever S1, Ep 9</title>
@@ -7676,10 +7676,10 @@
     <title>Carter&#039;s W.A.R. S1, Ep 4</title>
 </programme>
 <programme start="20250701100000 +0000" stop="20250701103000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Gunfather Restorations S1, Ep 3</title>
+    <title>The Gunfather... S1, Ep 3</title>
 </programme>
 <programme start="20250701103000 +0000" stop="20250701110000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Gunfather Restorations S2, Ep 3</title>
+    <title>The Gunfather... S2, Ep 3</title>
 </programme>
 <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Ice Pilots NWT S4, Ep 9</title>
@@ -7700,10 +7700,10 @@
     <title>Carter&#039;s W.A.R. S1, Ep 4</title>
 </programme>
 <programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Gunfather Restorations S1, Ep 3</title>
+    <title>The Gunfather... S1, Ep 3</title>
 </programme>
 <programme start="20250701163000 +0000" stop="20250630170000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Gunfather Restorations S2, Ep 3</title>
+    <title>The Gunfather... S2, Ep 3</title>
 </programme>
 <programme start="20250630170000 +0000" stop="20250630180000 +0000" channel="RCTI.mncvision">
     <title>Masih Sayang Tapi Bimbang</title>
@@ -8779,10 +8779,7 @@
 <programme start="20250701030000 +0000" stop="20250701073000 +0000" channel="SPOTV.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25</title>
 </programme>
-<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV.mncvision">
-    <title>The C&#039;ships, Wimbledon &#039;25</title>
-</programme>
-<programme start="20250701113000 +0000" stop="20250701122500 +0000" channel="SPOTV.mncvision">
+<programme start="20250701073000 +0000" stop="20250701122500 +0000" channel="SPOTV.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25</title>
 </programme>
 <programme start="20250701122500 +0000" stop="20250701162500 +0000" channel="SPOTV.mncvision">
@@ -8812,11 +8809,8 @@
 <programme start="20250701033000 +0000" stop="20250701073000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250701073000 +0000" stop="20250701115500 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
-</programme>
-<programme start="20250701113000 +0000" stop="20250701115500 +0000" channel="SPOTV 2.mncvision">
-    <title>2024/25 A-League Men HL</title>
 </programme>
 <programme start="20250701115500 +0000" stop="20250701160000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles (L)</title>
@@ -8845,11 +8839,8 @@
 <programme start="20250701033000 +0000" stop="20250701073000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250701073000 +0000" stop="20250701115500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
-</programme>
-<programme start="20250701113000 +0000" stop="20250701115500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2024/25 A-League Men HL</title>
 </programme>
 <programme start="20250701115500 +0000" stop="20250701160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles (L)</title>
@@ -8878,10 +8869,7 @@
 <programme start="20250701030000 +0000" stop="20250701073000 +0000" channel="SPOTV HD.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25</title>
 </programme>
-<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV HD.mncvision">
-    <title>The C&#039;ships, Wimbledon &#039;25</title>
-</programme>
-<programme start="20250701113000 +0000" stop="20250701122500 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250701073000 +0000" stop="20250701122500 +0000" channel="SPOTV HD.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25</title>
 </programme>
 <programme start="20250701122500 +0000" stop="20250701162500 +0000" channel="SPOTV HD.mncvision">
@@ -9163,8 +9151,135 @@
 <programme start="20250701163000 +0000" stop="20250630170000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250630171500 +0000" stop="20250630191000 +0000" channel="Thrill.mncvision">
+    <title>Hollow</title>
+</programme>
+<programme start="20250630191000 +0000" stop="20250630210000 +0000" channel="Thrill.mncvision">
+    <title>Jacqueline Comes Home: Chiong</title>
+</programme>
+<programme start="20250630210000 +0000" stop="20250630215500 +0000" channel="Thrill.mncvision">
+    <title>Sinister, Ep 5</title>
+</programme>
+<programme start="20250630215500 +0000" stop="20250630233500 +0000" channel="Thrill.mncvision">
+    <title>Get In The Dark</title>
+</programme>
+<programme start="20250630233500 +0000" stop="20250701011500 +0000" channel="Thrill.mncvision">
+    <title>Fate Jealous Greed</title>
+</programme>
+<programme start="20250701011500 +0000" stop="20250701031000 +0000" channel="Thrill.mncvision">
+    <title>Hollow</title>
+</programme>
+<programme start="20250701031000 +0000" stop="20250701050000 +0000" channel="Thrill.mncvision">
+    <title>Jacqueline Comes Home: Chiong</title>
+</programme>
+<programme start="20250701050000 +0000" stop="20250701055500 +0000" channel="Thrill.mncvision">
+    <title>Sinister, Ep 5</title>
+</programme>
+<programme start="20250701055500 +0000" stop="20250701073500 +0000" channel="Thrill.mncvision">
+    <title>Get In The Dark</title>
+</programme>
+<programme start="20250701073500 +0000" stop="20250701091500 +0000" channel="Thrill.mncvision">
+    <title>Fate Jealous Greed</title>
+</programme>
+<programme start="20250701091500 +0000" stop="20250701111000 +0000" channel="Thrill.mncvision">
+    <title>Hollow</title>
+</programme>
+<programme start="20250701111000 +0000" stop="20250701130000 +0000" channel="Thrill.mncvision">
+    <title>Jacqueline Comes Home: Chiong</title>
+</programme>
+<programme start="20250701130000 +0000" stop="20250701143000 +0000" channel="Thrill.mncvision">
+    <title>Central Park</title>
+</programme>
+<programme start="20250701143000 +0000" stop="20250701160000 +0000" channel="Thrill.mncvision">
+    <title>Night Watch</title>
+</programme>
+<programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="Thrill.mncvision">
+    <title>Jealousy</title>
+</programme>
+<programme start="20250630171500 +0000" stop="20250630174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20250630174500 +0000" stop="20250630183000 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20250630183000 +0000" stop="20250630193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20250630193000 +0000" stop="20250630204500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20250630204500 +0000" stop="20250630210000 +0000" channel="Trans 7.mncvision">
+    <title>Just For Laughs</title>
+</programme>
+<programme start="20250630210000 +0000" stop="20250630214500 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20250630214500 +0000" stop="20250630223000 +0000" channel="Trans 7.mncvision">
+    <title>Titik Target</title>
+</programme>
+<programme start="20250630223000 +0000" stop="20250630234500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20250630234500 +0000" stop="20250701004500 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20250701004500 +0000" stop="20250701013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20250701013000 +0000" stop="20250701023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20250701023000 +0000" stop="20250701034500 +0000" channel="Trans 7.mncvision">
+    <title>Arisan Liburan</title>
+</programme>
+<programme start="20250701034500 +0000" stop="20250701041500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20250701041500 +0000" stop="20250701050000 +0000" channel="Trans 7.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20250701050000 +0000" stop="20250701054500 +0000" channel="Trans 7.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20250701054500 +0000" stop="20250701063000 +0000" channel="Trans 7.mncvision">
+    <title>Indonesiaku</title>
+</programme>
+<programme start="20250701063000 +0000" stop="20250701071500 +0000" channel="Trans 7.mncvision">
+    <title>Ujung-Ujungnya Damkar</title>
+</programme>
+<programme start="20250701071500 +0000" stop="20250701081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20250701081500 +0000" stop="20250701091500 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250701091500 +0000" stop="20250701101500 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20250701101500 +0000" stop="20250701110000 +0000" channel="Trans 7.mncvision">
+    <title>Xpose Uncensored</title>
+</programme>
+<programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20250701123000 +0000" stop="20250701131500 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250701131500 +0000" stop="20250701134500 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20250701134500 +0000" stop="20250701154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20250701154500 +0000" stop="20250701163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20250701163000 +0000" stop="20250630170000 +0000" channel="Trans 7.mncvision">
+    <title>Newstainment</title>
+</programme>
 <programme start="20250630170000 +0000" stop="20250630190000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
