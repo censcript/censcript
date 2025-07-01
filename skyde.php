@@ -232,10 +232,10 @@
 <programme start="20250701054000 +0000" stop="20250701055000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250701055000 +0000" stop="20250701060500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701055000 +0000" stop="20250701060000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250701060500 +0000" stop="20250701061500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701060000 +0000" stop="20250701061500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250701061500 +0000" stop="20250701062500 +0000" channel="Cartoon Network.skyde">
@@ -265,10 +265,10 @@
 <programme start="20250701074500 +0000" stop="20250701081000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20250701081000 +0000" stop="20250701082500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701081000 +0000" stop="20250701082000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250701082500 +0000" stop="20250701083500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701082000 +0000" stop="20250701083500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250701083500 +0000" stop="20250701084500 +0000" channel="Cartoon Network.skyde">
@@ -280,10 +280,10 @@
 <programme start="20250701085500 +0000" stop="20250701092000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250701092000 +0000" stop="20250701093500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701092000 +0000" stop="20250701093000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250701093500 +0000" stop="20250701094500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701093000 +0000" stop="20250701094500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250701094500 +0000" stop="20250701095500 +0000" channel="Cartoon Network.skyde">
@@ -295,10 +295,10 @@
 <programme start="20250701100500 +0000" stop="20250701101500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250701101500 +0000" stop="20250701103000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701101500 +0000" stop="20250701102500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250701103000 +0000" stop="20250701104000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701102500 +0000" stop="20250701104000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
 <programme start="20250701104000 +0000" stop="20250701105000 +0000" channel="Cartoon Network.skyde">
@@ -328,13 +328,13 @@
 <programme start="20250701120500 +0000" stop="20250701121500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250701121500 +0000" stop="20250701123000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701121500 +0000" stop="20250701122500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250701123000 +0000" stop="20250701123500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701122500 +0000" stop="20250701123000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250701123500 +0000" stop="20250701124500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701123000 +0000" stop="20250701124500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250701124500 +0000" stop="20250701125500 +0000" channel="Cartoon Network.skyde">
@@ -349,10 +349,10 @@
 <programme start="20250701132000 +0000" stop="20250701134500 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250701134500 +0000" stop="20250701143000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701134500 +0000" stop="20250701142500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250701143000 +0000" stop="20250701144000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701142500 +0000" stop="20250701144000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250701144000 +0000" stop="20250701145000 +0000" channel="Cartoon Network.skyde">
@@ -454,10 +454,10 @@
 <programme start="20250701210500 +0000" stop="20250701211500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20250701211500 +0000" stop="20250701212500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701211500 +0000" stop="20250701213000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20250701212500 +0000" stop="20250701214000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250701213000 +0000" stop="20250701214000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20250701214000 +0000" stop="20250701215000 +0000" channel="Cartoon Network.skyde">
@@ -1597,69 +1597,6 @@
 <programme start="20250701214000 +0000" stop="20250701220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250630221000 +0000" stop="20250630234000 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Das Geheimnis vom Rabenkopf</title>
-</programme>
-<programme start="20250630234000 +0000" stop="20250701011000 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Das Mädchen hinter der Tür</title>
-</programme>
-<programme start="20250701011000 +0000" stop="20250701012500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20250701012500 +0000" stop="20250701021000 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20250701021000 +0000" stop="20250701021500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250701021500 +0000" stop="20250701022000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250701022000 +0000" stop="20250701023500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20250701023500 +0000" stop="20250701040500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Heimkehr</title>
-</programme>
-<programme start="20250701040500 +0000" stop="20250701054000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Vermächtnis unseres Vaters</title>
-</programme>
-<programme start="20250701054000 +0000" stop="20250701070500 +0000" channel="Romance TV HD.skyde">
-    <title>Eine toskanische Romanze</title>
-</programme>
-<programme start="20250701070500 +0000" stop="20250701084000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Kuba</title>
-</programme>
-<programme start="20250701084000 +0000" stop="20250701093500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20250701093500 +0000" stop="20250701110500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Entscheidung für die Liebe</title>
-</programme>
-<programme start="20250701110500 +0000" stop="20250701124000 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Das Geheimnis vom Rabenkopf</title>
-</programme>
-<programme start="20250701124000 +0000" stop="20250701141000 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Das Mädchen hinter der Tür</title>
-</programme>
-<programme start="20250701141000 +0000" stop="20250701154500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Vancouver</title>
-</programme>
-<programme start="20250701154500 +0000" stop="20250701172000 +0000" channel="Romance TV HD.skyde">
-    <title>Woanders ist es auch nicht ruhiger</title>
-</programme>
-<programme start="20250701172000 +0000" stop="20250701181500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
-<programme start="20250701181500 +0000" stop="20250701194500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wo die Liebe begann</title>
-</programme>
-<programme start="20250701194500 +0000" stop="20250701212000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Der gestohlene Sommer</title>
-</programme>
-<programme start="20250701212000 +0000" stop="20250701221500 +0000" channel="Romance TV HD.skyde">
-    <title>Familie Dr. Kleist</title>
-</programme>
 <programme start="20250630221000 +0000" stop="20250630230500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
@@ -2764,90 +2701,6 @@
 <programme start="20250701211500 +0000" stop="20250701231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250630224000 +0000" stop="20250630232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: FC Schalke 04 - Saison 24-25</title>
-</programme>
-<programme start="20250630232000 +0000" stop="20250701002500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: S04 - B04 2005 / 2006</title>
-</programme>
-<programme start="20250701002500 +0000" stop="20250701013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: STP - S04 1996 / 1997</title>
-</programme>
-<programme start="20250701013000 +0000" stop="20250701020500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: Das Revierderby (BVB vs. S04)</title>
-</programme>
-<programme start="20250701020500 +0000" stop="20250701031500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: BVB - S04 2008 / 2009</title>
-</programme>
-<programme start="20250701031500 +0000" stop="20250701034500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: Der Überläufer - Als Andreas Möller zum FC Schalke 04 wechselte</title>
-</programme>
-<programme start="20250701034500 +0000" stop="20250701040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: Die schönsten Tore: FC Schalke 04</title>
-</programme>
-<programme start="20250701040000 +0000" stop="20250701044000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - Saison 24-25</title>
-</programme>
-<programme start="20250701044000 +0000" stop="20250701064000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - SpVgg Greuther Fürth, 2. Spieltag</title>
-</programme>
-<programme start="20250701064000 +0000" stop="20250701071000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Ragnar Ache</title>
-</programme>
-<programme start="20250701071000 +0000" stop="20250701074000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: FCK - HSV, 6. Spieltag</title>
-</programme>
-<programme start="20250701074000 +0000" stop="20250701094000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - SC Paderborn 07, tipico Topspiel der Woche, 9. Spieltag</title>
-</programme>
-<programme start="20250701094000 +0000" stop="20250701102000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - Saison 24-25</title>
-</programme>
-<programme start="20250701102000 +0000" stop="20250701105000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: F95 - FCK, 10. Spieltag</title>
-</programme>
-<programme start="20250701105000 +0000" stop="20250701125000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - 1. FC Magdeburg, 11. Spieltag</title>
-</programme>
-<programme start="20250701125000 +0000" stop="20250701145000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: FC Schalke 04 - 1. FC Kaiserslautern, 14. Spieltag</title>
-</programme>
-<programme start="20250701145000 +0000" stop="20250701152000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Bundesliga Collection: Das Wunder vom Betzenberg</title>
-</programme>
-<programme start="20250701152000 +0000" stop="20250701172000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - Karlsruher SC, 15. Spieltag</title>
-</programme>
-<programme start="20250701172000 +0000" stop="20250701175000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Ragnar Ache</title>
-</programme>
-<programme start="20250701175000 +0000" stop="20250701195000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SpVgg Greuther Fürth - 1. FC Kaiserslautern, 19. Spieltag</title>
-</programme>
-<programme start="20250701195000 +0000" stop="20250701202000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: BSC - FCK, 21. Spieltag</title>
-</programme>
-<programme start="20250701202000 +0000" stop="20250701222000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Kaiserslautern - Jahn Regensburg, 24. Spieltag</title>
-</programme>
-<programme start="20250630220000 +0000" stop="20250701000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Eintracht Frankfurt - Werder Bremen, tipico Topspiel der Woche, 11. Spieltag</title>
-</programme>
-<programme start="20250701000000 +0000" stop="20250701020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: Hertha BSC - 1. FC Köln, tipico Topspiel der Woche, 11. Spieltag</title>
-</programme>
-<programme start="20250701020000 +0000" stop="20250701040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Werder Bremen - VfB Stuttgart, 12. Spieltag</title>
-</programme>
-<programme start="20250701040000 +0000" stop="20250701060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Borussia Dortmund - FC Bayern München, tipico Topspiel der Woche, 12. Spieltag</title>
-</programme>
-<programme start="20250701060000 +0000" stop="20250701080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: Fortuna Düsseldorf  - SC Paderborn 07, tipico Topspiel der Woche, 12. Spieltag</title>
-</programme>
-<programme start="20250701080000 +0000" stop="20250701081500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Info: UHD</title>
-</programme>
 <programme start="20250630230000 +0000" stop="20250701010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
@@ -2872,40 +2725,40 @@
 <programme start="20250701080000 +0000" stop="20250701090000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell AM - 1. Rennen in Valencia</title>
 </programme>
-<programme start="20250701090000 +0000" stop="20250701100000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701090000 +0000" stop="20250701100500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 1. Rennen in Valencia</title>
 </programme>
-<programme start="20250701100000 +0000" stop="20250701110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701100500 +0000" stop="20250701110500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell - 1. Rennen in Valencia</title>
 </programme>
-<programme start="20250701110000 +0000" stop="20250701130000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701110500 +0000" stop="20250701130500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701130500 +0000" stop="20250701140500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell AM - 2. Rennen in Valencia</title>
 </programme>
-<programme start="20250701140000 +0000" stop="20250701150000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701140500 +0000" stop="20250701151000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli - 2. Rennen in Valencia</title>
 </programme>
-<programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701151000 +0000" stop="20250701161000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell - 2. Rennen in Valencia</title>
 </programme>
-<programme start="20250701160000 +0000" stop="20250701180000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701161000 +0000" stop="20250701181000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250701180000 +0000" stop="20250701194500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701181000 +0000" stop="20250701195000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: Highlights: 24h-Rennen Spa 2025</title>
 </programme>
-<programme start="20250701194500 +0000" stop="20250701200000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701195000 +0000" stop="20250701200500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying Kompakt - GP Österreich</title>
 </programme>
-<programme start="20250701200000 +0000" stop="20250701203000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701200500 +0000" stop="20250701203500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Österreich</title>
 </programme>
-<programme start="20250701203000 +0000" stop="20250701210000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701203500 +0000" stop="20250701210500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Österreich</title>
 </programme>
-<programme start="20250701210000 +0000" stop="20250701220000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250701210500 +0000" stop="20250701220500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Österreich</title>
 </programme>
 <programme start="20250630233000 +0000" stop="20250701000000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3715,8 +3568,11 @@
 <programme start="20250701215000 +0000" stop="20250701220000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250701001500 +0000" stop="20250701040000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250701002000 +0000" stop="20250701034500 +0000" channel="Warner TV Film.skyde">
     <title>Ben-Hur</title>
+</programme>
+<programme start="20250701034500 +0000" stop="20250701040000 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Peter Fonda</title>
 </programme>
 <programme start="20250701040000 +0000" stop="20250701052500 +0000" channel="Warner TV Film.skyde">
     <title>Verschollen im Harem</title>
@@ -3724,10 +3580,10 @@
 <programme start="20250701052500 +0000" stop="20250701090500 +0000" channel="Warner TV Film.skyde">
     <title>Vom Winde verweht</title>
 </programme>
-<programme start="20250701090500 +0000" stop="20250701121000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250701090500 +0000" stop="20250701120500 +0000" channel="Warner TV Film.skyde">
     <title>Pearl Harbor</title>
 </programme>
-<programme start="20250701121000 +0000" stop="20250701134000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250701120500 +0000" stop="20250701134000 +0000" channel="Warner TV Film.skyde">
     <title>Dirty Harry V - Das Todesspiel</title>
 </programme>
 <programme start="20250701134000 +0000" stop="20250701161500 +0000" channel="Warner TV Film.skyde">
@@ -3742,8 +3598,11 @@
 <programme start="20250701204000 +0000" stop="20250701224500 +0000" channel="Warner TV Film.skyde">
     <title>Jurassic Park</title>
 </programme>
-<programme start="20250701001500 +0000" stop="20250701040000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250701002000 +0000" stop="20250701034500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ben-Hur</title>
+</programme>
+<programme start="20250701034500 +0000" stop="20250701040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Peter Fonda</title>
 </programme>
 <programme start="20250701040000 +0000" stop="20250701052500 +0000" channel="Warner TV Film HD.skyde">
     <title>Verschollen im Harem</title>
@@ -3751,10 +3610,10 @@
 <programme start="20250701052500 +0000" stop="20250701090500 +0000" channel="Warner TV Film HD.skyde">
     <title>Vom Winde verweht</title>
 </programme>
-<programme start="20250701090500 +0000" stop="20250701121000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250701090500 +0000" stop="20250701120500 +0000" channel="Warner TV Film HD.skyde">
     <title>Pearl Harbor</title>
 </programme>
-<programme start="20250701121000 +0000" stop="20250701134000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250701120500 +0000" stop="20250701134000 +0000" channel="Warner TV Film HD.skyde">
     <title>Dirty Harry V - Das Todesspiel</title>
 </programme>
 <programme start="20250701134000 +0000" stop="20250701161500 +0000" channel="Warner TV Film HD.skyde">

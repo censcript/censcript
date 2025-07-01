@@ -5096,7 +5096,7 @@
     <title>Sahabat Selamanya Upin &amp; Ipin</title>
 </programme>
 <programme start="20250701030000 +0000" stop="20250701033000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Wonders</title>
+    <title>Cat &amp; Keet</title>
 </programme>
 <programme start="20250701033000 +0000" stop="20250701040000 +0000" channel="Kids TV.mncvision">
     <title>Blippi Wonders</title>
@@ -5216,7 +5216,7 @@
     <title>Sahabat Selamanya Upin &amp; Ipin</title>
 </programme>
 <programme start="20250701030000 +0000" stop="20250701033000 +0000" channel="Kids TV HD.mncvision">
-    <title>Blippi Wonders</title>
+    <title>Cat &amp; Keet</title>
 </programme>
 <programme start="20250701033000 +0000" stop="20250701040000 +0000" channel="Kids TV HD.mncvision">
     <title>Blippi Wonders</title>
@@ -5894,13 +5894,13 @@
     <title>Editorial Media Indonesia</title>
 </programme>
 <programme start="20250701003000 +0000" stop="20250701010000 +0000" channel="Metro TV.mncvision">
-    <title>The One</title>
+    <title>Metro Sport</title>
 </programme>
 <programme start="20250701010000 +0000" stop="20250701010500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
 <programme start="20250701010500 +0000" stop="20250701013000 +0000" channel="Metro TV.mncvision">
-    <title>Metro Sport</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20250701013000 +0000" stop="20250701015500 +0000" channel="Metro TV.mncvision">
     <title>Selamat Pagi Indonesia</title>
@@ -6559,8 +6559,306 @@
 <programme start="20250701164500 +0000" stop="20250630171500 +0000" channel="Muslim TV.mncvision">
     <title>Wayang Ramadan</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250630170000 +0000" stop="20250630173000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250630173000 +0000" stop="20250630174000 +0000" channel="NHK World.mncvision">
+    <title>Magical Japanese: Fish</title>
+</programme>
+<programme start="20250630174000 +0000" stop="20250630174500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese</title>
+</programme>
+<programme start="20250630174500 +0000" stop="20250630175500 +0000" channel="NHK World.mncvision">
+    <title>Culture Crossroads</title>
+</programme>
+<programme start="20250630175500 +0000" stop="20250630180000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250630180000 +0000" stop="20250630182800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250630182800 +0000" stop="20250630184300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250630184300 +0000" stop="20250630184800 +0000" channel="NHK World.mncvision">
+    <title>Hit The Road: Fukushima</title>
+</programme>
+<programme start="20250630184800 +0000" stop="20250630185500 +0000" channel="NHK World.mncvision">
+    <title>The Beauty Of Japanese Swords</title>
+</programme>
+<programme start="20250630185500 +0000" stop="20250630190000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: The Bird Cafe</title>
+</programme>
+<programme start="20250630190000 +0000" stop="20250630193000 +0000" channel="NHK World.mncvision">
+    <title>Voices Of Blind Songstresses</title>
+</programme>
+<programme start="20250630193000 +0000" stop="20250630200000 +0000" channel="NHK World.mncvision">
+    <title>Seasoning The Seasons</title>
+</programme>
+<programme start="20250630200000 +0000" stop="20250630203000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250630203000 +0000" stop="20250630210000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250630210000 +0000" stop="20250630213000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250630213000 +0000" stop="20250630220000 +0000" channel="NHK World.mncvision">
+    <title>Where We Call Home</title>
+</programme>
+<programme start="20250630220000 +0000" stop="20250630223000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250630223000 +0000" stop="20250630224000 +0000" channel="NHK World.mncvision">
+    <title>Magical Japanese: Fish</title>
+</programme>
+<programme start="20250630224000 +0000" stop="20250630224500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese</title>
+</programme>
+<programme start="20250630224500 +0000" stop="20250630225500 +0000" channel="NHK World.mncvision">
+    <title>Culture Crossroads</title>
+</programme>
+<programme start="20250630225500 +0000" stop="20250630230000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250630233000 +0000" stop="20250630235700 +0000" channel="NHK World.mncvision">
+    <title>Hometown Stories</title>
+</programme>
+<programme start="20250630235700 +0000" stop="20250701000000 +0000" channel="NHK World.mncvision">
+    <title>The Masterpieces Of Tsutaju</title>
+</programme>
+<programme start="20250701000000 +0000" stop="20250701003000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701003000 +0000" stop="20250701010000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701013000 +0000" stop="20250701020000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20250701020000 +0000" stop="20250701023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701023000 +0000" stop="20250701030000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20250701030000 +0000" stop="20250701033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701033000 +0000" stop="20250701040000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250701040000 +0000" stop="20250701043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701043000 +0000" stop="20250701044500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20250701044500 +0000" stop="20250701045500 +0000" channel="NHK World.mncvision">
+    <title>Dig More Japan</title>
+</programme>
+<programme start="20250701045500 +0000" stop="20250701050000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef Mini</title>
+</programme>
+<programme start="20250701050000 +0000" stop="20250701053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701053000 +0000" stop="20250701060000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250701060000 +0000" stop="20250701063000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250701063000 +0000" stop="20250701070000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20250701070000 +0000" stop="20250701073000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250701073000 +0000" stop="20250701080000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20250701080000 +0000" stop="20250701083000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701083000 +0000" stop="20250701084500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20250701084500 +0000" stop="20250701090000 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: River Flooding</title>
+</programme>
+<programme start="20250701090000 +0000" stop="20250701093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250701093000 +0000" stop="20250701100000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250701100000 +0000" stop="20250701103000 +0000" channel="NHK World.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20250701103000 +0000" stop="20250701110000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250701110000 +0000" stop="20250701113000 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250630171000 +0000" stop="20250630173000 +0000" channel="NHK World Premium.mncvision">
+    <title>French In A Happy Mood</title>
+</programme>
+<programme start="20250630173000 +0000" stop="20250630174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Real-Life Travel English</title>
+</programme>
+<programme start="20250630174000 +0000" stop="20250630174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250630174500 +0000" stop="20250630180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20250630180000 +0000" stop="20250630182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250630182500 +0000" stop="20250630183000 +0000" channel="NHK World Premium.mncvision">
+    <title>See, Learn, Explore: Tohoku</title>
+</programme>
+<programme start="20250630183000 +0000" stop="20250630184500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 66</title>
+</programme>
+<programme start="20250630184500 +0000" stop="20250630191200 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250630191200 +0000" stop="20250630191500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250630191500 +0000" stop="20250630200000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Professionals: Ishikawa Y.</title>
+</programme>
+<programme start="20250630200000 +0000" stop="20250630201000 +0000" channel="NHK World Premium.mncvision">
+    <title>TV Exercise</title>
+</programme>
+<programme start="20250630201000 +0000" stop="20250630202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Health For Today</title>
+</programme>
+<programme start="20250630202500 +0000" stop="20250630205600 +0000" channel="NHK World Premium.mncvision">
+    <title>Recharge Your Knowledge...</title>
+</programme>
+<programme start="20250630205600 +0000" stop="20250630210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250630210000 +0000" stop="20250630220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250630220000 +0000" stop="20250630230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250630230000 +0000" stop="20250630231500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 67</title>
+</programme>
+<programme start="20250630231500 +0000" stop="20250701005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20250701005400 +0000" stop="20250701005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250701005500 +0000" stop="20250701010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20250701010000 +0000" stop="20250701010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250701010500 +0000" stop="20250701015000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Professionals: Ishikawa Y.</title>
+</programme>
+<programme start="20250701015000 +0000" stop="20250701021700 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250701021700 +0000" stop="20250701022000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250701022000 +0000" stop="20250701025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Neighbor&#039;s Nurturing Session</title>
+</programme>
+<programme start="20250701025000 +0000" stop="20250701025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20250701025600 +0000" stop="20250701030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250701030000 +0000" stop="20250701032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250701032000 +0000" stop="20250701032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20250701032800 +0000" stop="20250701033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20250701033000 +0000" stop="20250701034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Toto Nee-Chan, Ep 40</title>
+</programme>
+<programme start="20250701034500 +0000" stop="20250701040000 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 67</title>
+</programme>
+<programme start="20250701040000 +0000" stop="20250701040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250701040500 +0000" stop="20250701055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20250701055000 +0000" stop="20250701055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250701055500 +0000" stop="20250701060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20250701060000 +0000" stop="20250701061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250701061000 +0000" stop="20250701064000 +0000" channel="NHK World Premium.mncvision">
+    <title>Hobbies: Sparkle Your Life!</title>
+</programme>
+<programme start="20250701064000 +0000" stop="20250701065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Points At Issue</title>
+</programme>
+<programme start="20250701065000 +0000" stop="20250701072000 +0000" channel="NHK World Premium.mncvision">
+    <title>What The Villains Have To Say</title>
+</programme>
+<programme start="20250701072000 +0000" stop="20250701074500 +0000" channel="NHK World Premium.mncvision">
+    <title>Gentle Journeys</title>
+</programme>
+<programme start="20250701074500 +0000" stop="20250701080000 +0000" channel="NHK World Premium.mncvision">
+    <title>Nosy&#039;s Inspiring Lab</title>
+</programme>
+<programme start="20250701080000 +0000" stop="20250701081000 +0000" channel="NHK World Premium.mncvision">
+    <title>PythagoraSwitch</title>
+</programme>
+<programme start="20250701081000 +0000" stop="20250701082000 +0000" channel="NHK World Premium.mncvision">
+    <title>Let&#039;s Enjoy English &amp; Meets...</title>
+</programme>
+<programme start="20250701082000 +0000" stop="20250701083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20250701083500 +0000" stop="20250701085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250701085900 +0000" stop="20250701090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20250701090000 +0000" stop="20250701091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250701091000 +0000" stop="20250701092500 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20250701092500 +0000" stop="20250701095500 +0000" channel="NHK World Premium.mncvision">
+    <title>Whiz-Kids TV</title>
+</programme>
 <programme start="20250630170000 +0000" stop="20250630172500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
@@ -8493,10 +8791,144 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250701162500 +0000" stop="20250701165500 +0000" channel="SPOTV.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25 (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250630200000 +0000" stop="20250630203000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025 Rewind: Aragon</title>
+</programme>
+<programme start="20250630203000 +0000" stop="20250630223000 +0000" channel="SPOTV 2.mncvision">
+    <title>Roshn Saudi League 2024-25</title>
+</programme>
+<programme start="20250630223000 +0000" stop="20250630231500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250630231500 +0000" stop="20250701001000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250701001000 +0000" stop="20250701023000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250701023000 +0000" stop="20250701033000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 MotoE Motul GP: NED</title>
+</programme>
+<programme start="20250701033000 +0000" stop="20250701073000 +0000" channel="SPOTV 2.mncvision">
+    <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV 2.mncvision">
+    <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250701113000 +0000" stop="20250701115500 +0000" channel="SPOTV 2.mncvision">
+    <title>2024/25 A-League Men HL</title>
+</programme>
+<programme start="20250701115500 +0000" stop="20250701160000 +0000" channel="SPOTV 2.mncvision">
+    <title>Wimbledon 2025: Singles (L)</title>
+</programme>
+<programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="SPOTV 2.mncvision">
+    <title>Wimbledon 2025: Singles (L)</title>
+</programme>
+<programme start="20250630200000 +0000" stop="20250630203000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Rewind: Aragon</title>
+</programme>
+<programme start="20250630203000 +0000" stop="20250630223000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Roshn Saudi League 2024-25</title>
+</programme>
+<programme start="20250630223000 +0000" stop="20250630231500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250630231500 +0000" stop="20250701001000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250701001000 +0000" stop="20250701023000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250701023000 +0000" stop="20250701033000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 MotoE Motul GP: NED</title>
+</programme>
+<programme start="20250701033000 +0000" stop="20250701073000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250701113000 +0000" stop="20250701115500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2024/25 A-League Men HL</title>
+</programme>
+<programme start="20250701115500 +0000" stop="20250701160000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Wimbledon 2025: Singles (L)</title>
+</programme>
+<programme start="20250701160000 +0000" stop="20250701163000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Wimbledon 2025: Singles (L)</title>
+</programme>
+<programme start="20250630210000 +0000" stop="20250630220000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 Isle Of Man TT</title>
+</programme>
+<programme start="20250630220000 +0000" stop="20250630230000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 Isle Of Man TT</title>
+</programme>
+<programme start="20250630230000 +0000" stop="20250701000000 +0000" channel="SPOTV HD.mncvision">
+    <title>Supercars: Darwin Triple Crown</title>
+</programme>
+<programme start="20250701000000 +0000" stop="20250701010000 +0000" channel="SPOTV HD.mncvision">
+    <title>Supercars: Darwin Triple Crown</title>
+</programme>
+<programme start="20250701010000 +0000" stop="20250701020000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 Isle Of Man TT</title>
+</programme>
+<programme start="20250701020000 +0000" stop="20250701030000 +0000" channel="SPOTV HD.mncvision">
+    <title>The C&#039;ships, Wimbledon &#039;25</title>
+</programme>
+<programme start="20250701030000 +0000" stop="20250701073000 +0000" channel="SPOTV HD.mncvision">
+    <title>The C&#039;ships, Wimbledon &#039;25</title>
+</programme>
+<programme start="20250701073000 +0000" stop="20250701113000 +0000" channel="SPOTV HD.mncvision">
+    <title>The C&#039;ships, Wimbledon &#039;25</title>
+</programme>
+<programme start="20250701113000 +0000" stop="20250701122500 +0000" channel="SPOTV HD.mncvision">
+    <title>The C&#039;ships, Wimbledon &#039;25</title>
+</programme>
+<programme start="20250701122500 +0000" stop="20250701162500 +0000" channel="SPOTV HD.mncvision">
+    <title>The C&#039;ships, Wimbledon &#039;25 (L)</title>
+</programme>
+<programme start="20250701162500 +0000" stop="20250701165500 +0000" channel="SPOTV HD.mncvision">
+    <title>The C&#039;ships, Wimbledon &#039;25 (L)</title>
+</programme>
+<programme start="20250630171000 +0000" stop="20250630190000 +0000" channel="Studio Universal.mncvision">
+    <title>How The Grinch Stole Christmas</title>
+</programme>
+<programme start="20250630190000 +0000" stop="20250630204000 +0000" channel="Studio Universal.mncvision">
+    <title>Evan Almighty</title>
+</programme>
+<programme start="20250630204000 +0000" stop="20250630230000 +0000" channel="Studio Universal.mncvision">
+    <title>The Sting</title>
+</programme>
+<programme start="20250630230000 +0000" stop="20250701002500 +0000" channel="Studio Universal.mncvision">
+    <title>Balto</title>
+</programme>
+<programme start="20250701002500 +0000" stop="20250701021500 +0000" channel="Studio Universal.mncvision">
+    <title>How The Grinch Stole Christmas</title>
+</programme>
+<programme start="20250701021500 +0000" stop="20250701034500 +0000" channel="Studio Universal.mncvision">
+    <title>Evan Almighty</title>
+</programme>
+<programme start="20250701034500 +0000" stop="20250701055500 +0000" channel="Studio Universal.mncvision">
+    <title>The Sting</title>
+</programme>
+<programme start="20250701055500 +0000" stop="20250701080000 +0000" channel="Studio Universal.mncvision">
+    <title>Downton Abbey</title>
+</programme>
+<programme start="20250701080000 +0000" stop="20250701095500 +0000" channel="Studio Universal.mncvision">
+    <title>Junior</title>
+</programme>
+<programme start="20250701095500 +0000" stop="20250701115500 +0000" channel="Studio Universal.mncvision">
+    <title>Million Ways To Die In The West</title>
+</programme>
+<programme start="20250701115500 +0000" stop="20250701143000 +0000" channel="Studio Universal.mncvision">
+    <title>Ray</title>
+</programme>
+<programme start="20250701143000 +0000" stop="20250701164000 +0000" channel="Studio Universal.mncvision">
+    <title>Cape Fear</title>
+</programme>
+<programme start="20250701164000 +0000" stop="20250630171000 +0000" channel="Studio Universal.mncvision">
+    <title>Junior</title>
+</programme>
 <programme start="20250630171000 +0000" stop="20250630190000 +0000" channel="Studio Universal HD.mncvision">
     <title>How The Grinch Stole Christmas</title>
 </programme>
