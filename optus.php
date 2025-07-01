@@ -88,6 +88,9 @@
     <programme start="20250713185000 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
         <title>UEFA Women&#039;s Championship - Netherlands v France</title>
     </programme>
+    <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="Optus Sport 11.optus">
+        <title>N/A - PL Stories: Keep it in the Family</title>
+    </programme>
     <programme start="20250718102000 +0000" stop="20250718124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Suwon FC v Gwangju</title>
     </programme>
