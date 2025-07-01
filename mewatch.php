@@ -142,10 +142,10 @@
     <programme start="20250701110045 +0000" stop="20250701113016 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7913</title>
     </programme>
-    <programme start="20250701113016 +0000" stop="20250701123017 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701113016 +0000" stop="20250701123027 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 8</title>
     </programme>
-    <programme start="20250701123017 +0000" stop="20250701130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701123027 +0000" stop="20250701130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 92</title>
     </programme>
     <programme start="20250701130000 +0000" stop="20250701132959 +0000" channel="Channel 5.mewatch">
@@ -154,17 +154,14 @@
     <programme start="20250701132959 +0000" stop="20250701140011 +0000" channel="Channel 5.mewatch">
         <title>In Search of Heat - EP 4</title>
     </programme>
-    <programme start="20250701140011 +0000" stop="20250701141554 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701140011 +0000" stop="20250701141559 +0000" channel="Channel 5.mewatch">
         <title>Scene City: Boy On The Fringes</title>
     </programme>
-    <programme start="20250701141554 +0000" stop="20250701151010 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701141559 +0000" stop="20250701151015 +0000" channel="Channel 5.mewatch">
         <title>Paris Has Fallen S1 - EP 3</title>
     </programme>
-    <programme start="20250701151010 +0000" stop="20250701160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701151015 +0000" stop="20250701160005 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S4 - EP 2</title>
-    </programme>
-    <programme start="20250701160000 +0000" stop="20250701163009 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 92</title>
     </programme>
     <programme start="20250630150121 +0000" stop="20250630160106 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 26</title>
@@ -265,32 +262,29 @@
     <programme start="20250701093023 +0000" stop="20250701103000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 56</title>
     </programme>
-    <programme start="20250701103000 +0000" stop="20250701113000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701103000 +0000" stop="20250701113020 +0000" channel="Channel 8.mewatch">
         <title>Hello Singapore - EP 66</title>
     </programme>
-    <programme start="20250701113000 +0000" stop="20250701120000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701113020 +0000" stop="20250701115938 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 16</title>
     </programme>
-    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701115938 +0000" stop="20250701123035 +0000" channel="Channel 8.mewatch">
         <title>Jason&#039;s Daily Eats S2 - EP 9</title>
     </programme>
-    <programme start="20250701123000 +0000" stop="20250701130000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701123035 +0000" stop="20250701130011 +0000" channel="Channel 8.mewatch">
         <title>HERE WE GO, Off The Beaten Roads - EP 14</title>
     </programme>
-    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701130011 +0000" stop="20250701140000 +0000" channel="Channel 8.mewatch">
         <title>The Heir to the Throne - EP 29</title>
     </programme>
-    <programme start="20250701140000 +0000" stop="20250701143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701140000 +0000" stop="20250701143055 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250701143000 +0000" stop="20250701150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701143055 +0000" stop="20250701150125 +0000" channel="Channel 8.mewatch">
         <title>Beyond the Script S3 - EP 1</title>
     </programme>
-    <programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701150125 +0000" stop="20250701160035 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 27</title>
-    </programme>
-    <programme start="20250701160000 +0000" stop="20250701170000 +0000" channel="Channel 8.mewatch">
-        <title>Lost You Forever - EP 10</title>
     </programme>
     <programme start="20250630153245 +0000" stop="20250630163102 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - All Over Taiwan S4 - EP 3</title>
@@ -416,7 +410,7 @@
         <title>Air Tangan - EP 7</title>
     </programme>
     <programme start="20250701020010 +0000" stop="20250701030008 +0000" channel="Suria.mewatch">
-        <title>Gerimis Di Hati Sr 2 - EP 5</title>
+        <title>Gerimis Di Hati S2 - EP 5</title>
     </programme>
     <programme start="20250701030008 +0000" stop="20250701040009 +0000" channel="Suria.mewatch">
         <title>Bukan Puteri Lindungan Bulan - EP 16</title>
@@ -448,19 +442,19 @@
     <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Suria.mewatch">
         <title>Hai, Cinta Dengarkanlah - EP 22</title>
     </programme>
-    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Suria.mewatch">
+    <programme start="20250701120000 +0000" stop="20250701123004 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250701123000 +0000" stop="20250701133000 +0000" channel="Suria.mewatch">
+    <programme start="20250701123004 +0000" stop="20250701133005 +0000" channel="Suria.mewatch">
         <title>Sepahtu Reunion Live S6 - EP 2</title>
     </programme>
-    <programme start="20250701133000 +0000" stop="20250701143000 +0000" channel="Suria.mewatch">
+    <programme start="20250701133005 +0000" stop="20250701143002 +0000" channel="Suria.mewatch">
         <title>Di Hatiku Ada Kamu - EP 15</title>
     </programme>
-    <programme start="20250701143000 +0000" stop="20250701153000 +0000" channel="Suria.mewatch">
+    <programme start="20250701143002 +0000" stop="20250701153000 +0000" channel="Suria.mewatch">
         <title>Takdir Itu Milik Aku - EP 22</title>
     </programme>
-    <programme start="20250701153000 +0000" stop="20250701160244 +0000" channel="Suria.mewatch">
+    <programme start="20250701153000 +0000" stop="20250701160009 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
     <programme start="20250630153000 +0000" stop="20250630160103 +0000" channel="Vasantham.mewatch">
@@ -496,28 +490,28 @@
     <programme start="20250701080002 +0000" stop="20250701110000 +0000" channel="Vasantham.mewatch">
         <title>Nimir</title>
     </programme>
-    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701110000 +0000" stop="20250701120002 +0000" channel="Vasantham.mewatch">
         <title>Suvai 4 - EP 2</title>
     </programme>
-    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701120002 +0000" stop="20250701123000 +0000" channel="Vasantham.mewatch">
         <title>Uppu Roti Chidambaram - EP 4</title>
     </programme>
     <programme start="20250701123000 +0000" stop="20250701130000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250701130000 +0000" stop="20250701133000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701130000 +0000" stop="20250701132959 +0000" channel="Vasantham.mewatch">
         <title>Knock Knock - EP 23</title>
     </programme>
-    <programme start="20250701133000 +0000" stop="20250701140000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701132959 +0000" stop="20250701135958 +0000" channel="Vasantham.mewatch">
         <title>Udayam S4 - EP 12</title>
     </programme>
-    <programme start="20250701140000 +0000" stop="20250701143000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701135958 +0000" stop="20250701143000 +0000" channel="Vasantham.mewatch">
         <title>Manmadha Bullets - EP 4</title>
     </programme>
-    <programme start="20250701143000 +0000" stop="20250701150000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701143000 +0000" stop="20250701145959 +0000" channel="Vasantham.mewatch">
         <title>Aathmaan - EP 21</title>
     </programme>
-    <programme start="20250701150000 +0000" stop="20250701153000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701145959 +0000" stop="20250701153000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 9</title>
     </programme>
     <programme start="20250701153000 +0000" stop="20250701160152 +0000" channel="Vasantham.mewatch">
@@ -580,23 +574,20 @@
     <programme start="20250701095958 +0000" stop="20250701110000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="CNA.mewatch">
+    <programme start="20250701110000 +0000" stop="20250701120001 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 1</title>
     </programme>
-    <programme start="20250701120000 +0000" stop="20250701130000 +0000" channel="CNA.mewatch">
+    <programme start="20250701120001 +0000" stop="20250701130016 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250701130000 +0000" stop="20250701140000 +0000" channel="CNA.mewatch">
+    <programme start="20250701130016 +0000" stop="20250701140003 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 4</title>
     </programme>
-    <programme start="20250701140000 +0000" stop="20250701150000 +0000" channel="CNA.mewatch">
+    <programme start="20250701140003 +0000" stop="20250701150018 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250701150000 +0000" stop="20250701160000 +0000" channel="CNA.mewatch">
+    <programme start="20250701150018 +0000" stop="20250701160001 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 3</title>
-    </programme>
-    <programme start="20250701160000 +0000" stop="20250701160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250630155959 +0000" stop="20250630170011 +0000" channel="Oktolidays.mewatch">
         <title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
@@ -796,70 +787,70 @@
     <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Lost</title>
     </programme>
-    <programme start="20250701013000 +0000" stop="20250701020000 +0000" channel="Animax.mewatch">
+    <programme start="20250701013000 +0000" stop="20250701020001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Perspective</title>
     </programme>
-    <programme start="20250701020000 +0000" stop="20250701023000 +0000" channel="Animax.mewatch">
+    <programme start="20250701020001 +0000" stop="20250701023001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - First Time</title>
     </programme>
-    <programme start="20250701023000 +0000" stop="20250701030000 +0000" channel="Animax.mewatch">
+    <programme start="20250701023001 +0000" stop="20250701030001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - B Komachi</title>
     </programme>
-    <programme start="20250701030000 +0000" stop="20250701033000 +0000" channel="Animax.mewatch">
+    <programme start="20250701030001 +0000" stop="20250701033001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Dawn</title>
     </programme>
-    <programme start="20250701033000 +0000" stop="20250701040000 +0000" channel="Animax.mewatch">
+    <programme start="20250701033001 +0000" stop="20250701040001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Three Problems</title>
     </programme>
-    <programme start="20250701040000 +0000" stop="20250701043000 +0000" channel="Animax.mewatch">
+    <programme start="20250701040001 +0000" stop="20250701043001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - The Guild Is Facing A Crisis!!</title>
     </programme>
-    <programme start="20250701043000 +0000" stop="20250701050000 +0000" channel="Animax.mewatch">
+    <programme start="20250701043001 +0000" stop="20250701050001 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
     </programme>
-    <programme start="20250701050000 +0000" stop="20250701053000 +0000" channel="Animax.mewatch">
+    <programme start="20250701050001 +0000" stop="20250701053001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Lost</title>
     </programme>
-    <programme start="20250701053000 +0000" stop="20250701060000 +0000" channel="Animax.mewatch">
+    <programme start="20250701053001 +0000" stop="20250701060001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Perspective</title>
     </programme>
-    <programme start="20250701060000 +0000" stop="20250701063000 +0000" channel="Animax.mewatch">
+    <programme start="20250701060001 +0000" stop="20250701063001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - First Time</title>
     </programme>
-    <programme start="20250701063000 +0000" stop="20250701070000 +0000" channel="Animax.mewatch">
+    <programme start="20250701063001 +0000" stop="20250701070001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - B Komachi</title>
     </programme>
-    <programme start="20250701070000 +0000" stop="20250701073000 +0000" channel="Animax.mewatch">
+    <programme start="20250701070001 +0000" stop="20250701073001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Dawn</title>
     </programme>
-    <programme start="20250701073000 +0000" stop="20250701080000 +0000" channel="Animax.mewatch">
+    <programme start="20250701073001 +0000" stop="20250701080001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Three Problems</title>
     </programme>
-    <programme start="20250701080000 +0000" stop="20250701083000 +0000" channel="Animax.mewatch">
+    <programme start="20250701080001 +0000" stop="20250701083001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Lost</title>
     </programme>
-    <programme start="20250701083000 +0000" stop="20250701090000 +0000" channel="Animax.mewatch">
+    <programme start="20250701083001 +0000" stop="20250701090001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Perspective</title>
     </programme>
-    <programme start="20250701090000 +0000" stop="20250701093000 +0000" channel="Animax.mewatch">
+    <programme start="20250701090001 +0000" stop="20250701093001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - First Time</title>
     </programme>
-    <programme start="20250701093000 +0000" stop="20250701100000 +0000" channel="Animax.mewatch">
+    <programme start="20250701093001 +0000" stop="20250701100001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - B Komachi</title>
     </programme>
-    <programme start="20250701100000 +0000" stop="20250701103000 +0000" channel="Animax.mewatch">
+    <programme start="20250701100001 +0000" stop="20250701103001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Perspective</title>
     </programme>
-    <programme start="20250701103000 +0000" stop="20250701110000 +0000" channel="Animax.mewatch">
+    <programme start="20250701103001 +0000" stop="20250701110001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - &quot;Take It Easy&quot;</title>
     </programme>
-    <programme start="20250701110000 +0000" stop="20250701113000 +0000" channel="Animax.mewatch">
+    <programme start="20250701110001 +0000" stop="20250701113001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Three Problems</title>
     </programme>
-    <programme start="20250701113000 +0000" stop="20250701120000 +0000" channel="Animax.mewatch">
+    <programme start="20250701113001 +0000" stop="20250701120001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - As Pitch Black As It Gets</title>
     </programme>
-    <programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Animax.mewatch">
+    <programme start="20250701120001 +0000" stop="20250701123000 +0000" channel="Animax.mewatch">
         <title>My Love Story With Yamada-Kun At Lv999 - I&#039;ll Definitely Be Hurt Someday</title>
     </programme>
     <programme start="20250701123000 +0000" stop="20250701130000 +0000" channel="Animax.mewatch">

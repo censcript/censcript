@@ -2522,13 +2522,13 @@
         <title>#805</title>
     </programme>
     <programme start="20250701000000 +0000" stop="20250701020000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>QF3: 1C vs B</title>
+        <title>Concacaf Gold Cup 2025 QF3: Canada vs Guatemala</title>
     </programme>
     <programme start="20250701020000 +0000" stop="20250701040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Singapore Cup 2024/25 SF 2 (1st Leg): Brunei DPMM FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20250701040000 +0000" stop="20250701060000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>QF1: 1D vs A</title>
+        <title>Concacaf Gold Cup 2025 QF1: Panama vs Honduras</title>
     </programme>
     <programme start="20250701060000 +0000" stop="20250701070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 2</title>
@@ -2549,7 +2549,7 @@
         <title>UFC 2025 UFC 317: Topuria vs Oliveira</title>
     </programme>
     <programme start="20250701140000 +0000" stop="20250701160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>QF1: 1D vs A</title>
+        <title>Concacaf Gold Cup 2025 QF1: Panama vs Honduras</title>
     </programme>
     <programme start="20250630150000 +0000" stop="20250630170000 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -6569,13 +6569,13 @@
         <title>#805</title>
     </programme>
     <programme start="20250701000000 +0000" stop="20250701020000 +0000" channel="TestChannel 995.starhub">
-        <title>QF3: 1C vs B</title>
+        <title>Concacaf Gold Cup 2025 QF3: Canada vs Guatemala</title>
     </programme>
     <programme start="20250701020000 +0000" stop="20250701040000 +0000" channel="TestChannel 995.starhub">
         <title>Singapore Cup 2024/25 SF 2 (1st Leg): Brunei DPMM FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20250701040000 +0000" stop="20250701060000 +0000" channel="TestChannel 995.starhub">
-        <title>QF1: 1D vs A</title>
+        <title>Concacaf Gold Cup 2025 QF1: Panama vs Honduras</title>
     </programme>
     <programme start="20250701060000 +0000" stop="20250701070000 +0000" channel="TestChannel 995.starhub">
         <title>Round 2</title>
@@ -6596,7 +6596,7 @@
         <title>UFC 2025 UFC 317: Topuria vs Oliveira</title>
     </programme>
     <programme start="20250701140000 +0000" stop="20250701160000 +0000" channel="TestChannel 995.starhub">
-        <title>QF1: 1D vs A</title>
+        <title>Concacaf Gold Cup 2025 QF1: Panama vs Honduras</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250630163000 +0000" channel="CNBC HD.starhub">
         <title>Us Halftime Report</title>
