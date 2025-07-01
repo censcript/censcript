@@ -6893,7 +6893,7 @@
         <title>Sur La Dalle</title>
     </programme>
     <programme start="20250630160000 +0000" stop="20250630170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI World Tour - Volta Ciclista a Catalunya Highlights</title>
+        <title>UCI World Tour - Volta Ciclista a Catalunya H/Ls</title>
     </programme>
     <programme start="20250630170000 +0000" stop="20250630230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Group F: Netherlands vs Germany</title>

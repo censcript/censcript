@@ -511,6 +511,132 @@
 <programme start="20250702114500 +0000" stop="20250702130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20250630234500 +0000" stop="20250701004500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701004500 +0000" stop="20250701013000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701013000 +0000" stop="20250701023000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701023000 +0000" stop="20250701031500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701031500 +0000" stop="20250701041500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701041500 +0000" stop="20250701050000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701050000 +0000" stop="20250701054500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701054500 +0000" stop="20250701063000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701063000 +0000" stop="20250701073000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701073000 +0000" stop="20250701081500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701081500 +0000" stop="20250701090000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701090000 +0000" stop="20250701100000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701100000 +0000" stop="20250701110000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701110000 +0000" stop="20250701120000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701120000 +0000" stop="20250701123000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701123000 +0000" stop="20250701131500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701131500 +0000" stop="20250701143000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701143000 +0000" stop="20250701154500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701154500 +0000" stop="20250701163000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701163000 +0000" stop="20250701171500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701171500 +0000" stop="20250701174500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701174500 +0000" stop="20250701181500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701181500 +0000" stop="20250701193000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701193000 +0000" stop="20250701204500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701204500 +0000" stop="20250701210000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701210000 +0000" stop="20250701214500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701214500 +0000" stop="20250701223000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701223000 +0000" stop="20250701234500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250701234500 +0000" stop="20250702004500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702004500 +0000" stop="20250702013000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702013000 +0000" stop="20250702023000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702023000 +0000" stop="20250702031500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702031500 +0000" stop="20250702041500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702041500 +0000" stop="20250702050000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702050000 +0000" stop="20250702054500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702054500 +0000" stop="20250702063000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702063000 +0000" stop="20250702073000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702073000 +0000" stop="20250702081500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702081500 +0000" stop="20250702090000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702090000 +0000" stop="20250702100000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702100000 +0000" stop="20250702110000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20250702110000 +0000" stop="20250702120000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
 <programme start="20250701000000 +0000" stop="20250701020000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
@@ -1371,130 +1497,4 @@
 </programme>
 <programme start="20250701173000 +0000" stop="20250701180000 +0000" channel="SEA Today.vision">
 <title>SEA Today</title>
-</programme>
-<programme start="20250701180000 +0000" stop="20250701183000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701183000 +0000" stop="20250701190000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701190000 +0000" stop="20250701193000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701193000 +0000" stop="20250701200000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701200000 +0000" stop="20250701203000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701203000 +0000" stop="20250701210000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701210000 +0000" stop="20250701213000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701213000 +0000" stop="20250701220000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701220000 +0000" stop="20250701223000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701223000 +0000" stop="20250701230000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250701230000 +0000" stop="20250702020000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702020000 +0000" stop="20250702023000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702023000 +0000" stop="20250702030000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702030000 +0000" stop="20250702033000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702033000 +0000" stop="20250702040000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702040000 +0000" stop="20250702043000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702043000 +0000" stop="20250702050000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702050000 +0000" stop="20250702053000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702053000 +0000" stop="20250702060000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702060000 +0000" stop="20250702063000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702063000 +0000" stop="20250702070000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702070000 +0000" stop="20250702073000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702073000 +0000" stop="20250702080000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702080000 +0000" stop="20250702083000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702083000 +0000" stop="20250702090000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702090000 +0000" stop="20250702093000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702093000 +0000" stop="20250702100000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250702100000 +0000" stop="20250702130000 +0000" channel="SEA Today.vision">
-<title>SEA Today</title>
-</programme>
-<programme start="20250630233500 +0000" stop="20250701011500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701011500 +0000" stop="20250701030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701030000 +0000" stop="20250701044000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701044000 +0000" stop="20250701061000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701061000 +0000" stop="20250701074000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701074000 +0000" stop="20250701092000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701092000 +0000" stop="20250701110000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701110000 +0000" stop="20250701123500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701123500 +0000" stop="20250701140000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701140000 +0000" stop="20250701153500 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701153500 +0000" stop="20250701171000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701171000 +0000" stop="20250701190000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701190000 +0000" stop="20250701203000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250701203000 +0000" stop="20250701221000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>
