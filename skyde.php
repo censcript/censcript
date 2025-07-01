@@ -925,6 +925,54 @@
 <programme start="20250702213500 +0000" stop="20250702222500 +0000" channel="Crime + Investigation.skyde">
     <title>Court Cam - Auf der Anklagebank</title>
 </programme>
+<programme start="20250701220000 +0000" stop="20250702060000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20250702060000 +0000" stop="20250702063000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A Highlightshow 2024/25: 36. Spieltag</title>
+</programme>
+<programme start="20250702063000 +0000" stop="20250702070000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A Highlightshow 2024/25: 37. Spieltag</title>
+</programme>
+<programme start="20250702070000 +0000" stop="20250702073000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250702073000 +0000" stop="20250702093000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Nations League: Spanien - Frankreich</title>
+</programme>
+<programme start="20250702093000 +0000" stop="20250702113000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Nations League: Deutschland - Portugal</title>
+</programme>
+<programme start="20250702113000 +0000" stop="20250702120000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250702120000 +0000" stop="20250702140000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Primera División: FC Barcelona - Real Madrid</title>
+</programme>
+<programme start="20250702140000 +0000" stop="20250702143000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 20. Spieltag</title>
+</programme>
+<programme start="20250702143000 +0000" stop="20250702150000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Ligue 1 Highlightshow 2024/25: 31. Spieltag</title>
+</programme>
+<programme start="20250702150000 +0000" stop="20250702155000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Women&#039;s Championship 2025 Switzerland: Island - Finnland</title>
+</programme>
+<programme start="20250702181000 +0000" stop="20250702185000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250702185000 +0000" stop="20250702210000 +0000" channel="DAZN 1 HD.skyde">
+    <title>UEFA Women&#039;s Championship 2025 Switzerland: Schweiz - Norwegen</title>
+</programme>
+<programme start="20250702210000 +0000" stop="20250702213000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Ligue 1 Highlightshow 2024/25: 33. Spieltag</title>
+</programme>
+<programme start="20250702213000 +0000" stop="20250702220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20250701220000 +0000" stop="20250702060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2313,111 +2361,6 @@
 </programme>
 <programme start="20250702213000 +0000" stop="20250702221500 +0000" channel="Sky Nature HD.skyde">
     <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20250701220000 +0000" stop="20250701224500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250701224500 +0000" stop="20250701233000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie: Feds</title>
-</programme>
-<programme start="20250701233000 +0000" stop="20250702001000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie: Feds</title>
-</programme>
-<programme start="20250702001000 +0000" stop="20250702003500 +0000" channel="Sky One HD.skyde">
-    <title>Die Goldbergs</title>
-</programme>
-<programme start="20250702003500 +0000" stop="20250702005500 +0000" channel="Sky One HD.skyde">
-    <title>Die Goldbergs</title>
-</programme>
-<programme start="20250702005500 +0000" stop="20250702011500 +0000" channel="Sky One HD.skyde">
-    <title>Die Goldbergs</title>
-</programme>
-<programme start="20250702011500 +0000" stop="20250702014000 +0000" channel="Sky One HD.skyde">
-    <title>Die Goldbergs</title>
-</programme>
-<programme start="20250702014000 +0000" stop="20250702020000 +0000" channel="Sky One HD.skyde">
-    <title>Die Goldbergs</title>
-</programme>
-<programme start="20250702020000 +0000" stop="20250702022500 +0000" channel="Sky One HD.skyde">
-    <title>Die Goldbergs</title>
-</programme>
-<programme start="20250702022500 +0000" stop="20250702030500 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250702030500 +0000" stop="20250702034500 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250702034500 +0000" stop="20250702043000 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250702043000 +0000" stop="20250702052000 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250702052000 +0000" stop="20250702060500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702060500 +0000" stop="20250702065000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702065000 +0000" stop="20250702074000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702074000 +0000" stop="20250702082500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie: Feds</title>
-</programme>
-<programme start="20250702082500 +0000" stop="20250702091000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie: Feds</title>
-</programme>
-<programme start="20250702091000 +0000" stop="20250702095500 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250702095500 +0000" stop="20250702104000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250702104000 +0000" stop="20250702112500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20250702112500 +0000" stop="20250702121000 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20250702121000 +0000" stop="20250702125500 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250702125500 +0000" stop="20250702134000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250702134000 +0000" stop="20250702143000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702143000 +0000" stop="20250702151500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702151500 +0000" stop="20250702160000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702160000 +0000" stop="20250702164500 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250702164500 +0000" stop="20250702173000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250702173000 +0000" stop="20250702181500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20250702181500 +0000" stop="20250702191000 +0000" channel="Sky One HD.skyde">
-    <title>Poker Face</title>
-</programme>
-<programme start="20250702191000 +0000" stop="20250702200500 +0000" channel="Sky One HD.skyde">
-    <title>Poker Face</title>
-</programme>
-<programme start="20250702200500 +0000" stop="20250702205000 +0000" channel="Sky One HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250702205000 +0000" stop="20250702213500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250702213500 +0000" stop="20250702222000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
 </programme>
 <programme start="20250701220000 +0000" stop="20250701224000 +0000" channel="Sky Replay HD.skyde">
     <title>S.W.A.T.</title>
