@@ -3265,8 +3265,11 @@
 <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Italian Open</title>
 </programme>
-<programme start="20250701013000 +0000" stop="20250701040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250701013000 +0000" stop="20250701033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: T. Fritz (USA) - J. Brooksby (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+</programme>
+<programme start="20250701033000 +0000" stop="20250701040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Rennen Kompakt - GP Österreich</title>
 </programme>
 <programme start="20250701040000 +0000" stop="20250701070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Italian Open, 4. Tag in Porto Ercole (Italien)</title>
@@ -3529,7 +3532,7 @@
 <programme start="20250701211500 +0000" stop="20250701220000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago P.D.</title>
 </programme>
-<programme start="20250630222000 +0000" stop="20250630224000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250630221500 +0000" stop="20250630224000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
 <programme start="20250630224000 +0000" stop="20250630230500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3538,13 +3541,13 @@
 <programme start="20250630230500 +0000" stop="20250630233000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250630233000 +0000" stop="20250630235500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250630233000 +0000" stop="20250630235000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20250630235500 +0000" stop="20250701001500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250630235000 +0000" stop="20250701001000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty: The Anime</title>
 </programme>
-<programme start="20250701001500 +0000" stop="20250701002500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701001000 +0000" stop="20250701002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20250701002500 +0000" stop="20250701003500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3583,52 +3586,52 @@
 <programme start="20250701041500 +0000" stop="20250701044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250701044500 +0000" stop="20250701051000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701044500 +0000" stop="20250701051500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250701051000 +0000" stop="20250701054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701051500 +0000" stop="20250701054000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250701054000 +0000" stop="20250701060500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701054000 +0000" stop="20250701061000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250701060500 +0000" stop="20250701063500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701061000 +0000" stop="20250701063500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
 <programme start="20250701063500 +0000" stop="20250701070000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250701070000 +0000" stop="20250701072500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701070000 +0000" stop="20250701073000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250701072500 +0000" stop="20250701075000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701073000 +0000" stop="20250701075500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250701075000 +0000" stop="20250701081500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701075500 +0000" stop="20250701082000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250701081500 +0000" stop="20250701084000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701082000 +0000" stop="20250701084500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250701084000 +0000" stop="20250701090500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701084500 +0000" stop="20250701091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250701090500 +0000" stop="20250701093000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701091000 +0000" stop="20250701093500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250701093000 +0000" stop="20250701095500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701093500 +0000" stop="20250701100000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Mr. Mayor</title>
 </programme>
-<programme start="20250701095500 +0000" stop="20250701102000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701100000 +0000" stop="20250701102500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Mr. Mayor</title>
 </programme>
-<programme start="20250701102000 +0000" stop="20250701104500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701102500 +0000" stop="20250701105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Mr. Mayor</title>
 </programme>
-<programme start="20250701104500 +0000" stop="20250701111000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701105000 +0000" stop="20250701111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Mr. Mayor</title>
 </programme>
-<programme start="20250701111000 +0000" stop="20250701114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701111500 +0000" stop="20250701114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250701114000 +0000" stop="20250701120500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3655,10 +3658,10 @@
 <programme start="20250701143500 +0000" stop="20250701150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250701150000 +0000" stop="20250701152500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701150000 +0000" stop="20250701153000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250701152500 +0000" stop="20250701155000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701153000 +0000" stop="20250701155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20250701155000 +0000" stop="20250701161500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3673,10 +3676,10 @@
 <programme start="20250701170500 +0000" stop="20250701173000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20250701173000 +0000" stop="20250701175000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701173000 +0000" stop="20250701175500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20250701175000 +0000" stop="20250701181500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701175500 +0000" stop="20250701181500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20250701181500 +0000" stop="20250701184000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3688,10 +3691,10 @@
 <programme start="20250701190500 +0000" stop="20250701193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250701193000 +0000" stop="20250701195500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701193000 +0000" stop="20250701195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250701195500 +0000" stop="20250701202000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250701195000 +0000" stop="20250701202000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20250701202000 +0000" stop="20250701204500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3790,10 +3793,10 @@
 <programme start="20250701031500 +0000" stop="20250701033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250701033000 +0000" stop="20250701042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250701033000 +0000" stop="20250701041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250701042500 +0000" stop="20250701051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250701041500 +0000" stop="20250701051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250701051500 +0000" stop="20250701060500 +0000" channel="Warner TV Serie HD.skyde">

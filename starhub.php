@@ -8245,10 +8245,10 @@
     <programme start="20250630163000 +0000" stop="20250630190000 +0000" channel="Asianet Movies.starhub">
         <title>Love Action Drama</title>
     </programme>
-    <programme start="20250630190000 +0000" stop="20250630220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250630190000 +0000" stop="20250630211500 +0000" channel="Asianet Movies.starhub">
         <title>Ambili</title>
     </programme>
-    <programme start="20250630220000 +0000" stop="20250630233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250630211500 +0000" stop="20250630233000 +0000" channel="Asianet Movies.starhub">
         <title>Black Cat</title>
     </programme>
     <programme start="20250630233000 +0000" stop="20250701013000 +0000" channel="Asianet Movies.starhub">
@@ -8653,14 +8653,14 @@
     <programme start="20250701033000 +0000" stop="20250701043000 +0000" channel="ADITHYA TV.starhub">
         <title>Adithya Paarunga Sirichute Irunga</title>
     </programme>
-    <programme start="20250701043000 +0000" stop="20250701050000 +0000" channel="ADITHYA TV.starhub">
+    <programme start="20250701043000 +0000" stop="20250701053000 +0000" channel="ADITHYA TV.starhub">
+        <title>Idaividaatha Comedy</title>
+    </programme>
+    <programme start="20250701053000 +0000" stop="20250701060000 +0000" channel="ADITHYA TV.starhub">
         <title>Comedy Marathon</title>
     </programme>
-    <programme start="20250701050000 +0000" stop="20250701053000 +0000" channel="ADITHYA TV.starhub">
+    <programme start="20250701060000 +0000" stop="20250701063000 +0000" channel="ADITHYA TV.starhub">
         <title>Master Piece</title>
-    </programme>
-    <programme start="20250701053000 +0000" stop="20250701063000 +0000" channel="ADITHYA TV.starhub">
-        <title>Combo Comedy Special</title>
     </programme>
     <programme start="20250701063000 +0000" stop="20250701073000 +0000" channel="ADITHYA TV.starhub">
         <title>Orupada Comedy</title>
