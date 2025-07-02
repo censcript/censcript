@@ -2212,7 +2212,114 @@
 <programme start="20250702160000 +0000" stop="20250702163000 +0000" channel="CGTN.mncvision">
     <title>Global Business</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250701170000 +0000" stop="20250701173000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701173000 +0000" stop="20250701180000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701180000 +0000" stop="20250701190000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701190000 +0000" stop="20250701193000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701193000 +0000" stop="20250701200000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701200000 +0000" stop="20250701210000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701210000 +0000" stop="20250701213000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701213000 +0000" stop="20250701220000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701220000 +0000" stop="20250701230000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701230000 +0000" stop="20250701233000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250701233000 +0000" stop="20250702000000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702010000 +0000" stop="20250702013000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702013000 +0000" stop="20250702020000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702020000 +0000" stop="20250702030000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702030000 +0000" stop="20250702033000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702033000 +0000" stop="20250702040000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702040000 +0000" stop="20250702050000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702050000 +0000" stop="20250702053000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702053000 +0000" stop="20250702060000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702060000 +0000" stop="20250702070000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702070000 +0000" stop="20250702073000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702073000 +0000" stop="20250702080000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702080000 +0000" stop="20250702090000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702090000 +0000" stop="20250702093000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702093000 +0000" stop="20250702100000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702100000 +0000" stop="20250702110000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702110000 +0000" stop="20250702113000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702113000 +0000" stop="20250702120000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702120000 +0000" stop="20250702130000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702130000 +0000" stop="20250702133000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702133000 +0000" stop="20250702140000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702140000 +0000" stop="20250702150000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702150000 +0000" stop="20250702153000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702153000 +0000" stop="20250702160000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
+<programme start="20250702160000 +0000" stop="20250702163000 +0000" channel="CGTN Documentary.mncvision">
+    <title>CGTN Documentary</title>
+</programme>
 <programme start="20250701170000 +0000" stop="20250701180000 +0000" channel="Channel News Asia.mncvision">
     <title>Dare To Dream, Ep 1</title>
 </programme>
@@ -2282,9 +2389,135 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250702160300 +0000" stop="20250702163300 +0000" channel="Channel News Asia.mncvision">
     <title>East Asia Tonight</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250701173900 +0000" stop="20250701194700 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250701194700 +0000" stop="20250701214400 +0000" channel="CINEEDGE.mncvision">
+    <title>Kandahar</title>
+</programme>
+<programme start="20250701214400 +0000" stop="20250701233800 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250701233800 +0000" stop="20250702012900 +0000" channel="CINEEDGE.mncvision">
+    <title>Control</title>
+</programme>
+<programme start="20250702012900 +0000" stop="20250702035400 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702035400 +0000" stop="20250702052800 +0000" channel="CINEEDGE.mncvision">
+    <title>Bridge Of Dragons</title>
+</programme>
+<programme start="20250702052800 +0000" stop="20250702074200 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702074200 +0000" stop="20250702091500 +0000" channel="CINEEDGE.mncvision">
+    <title>Rampage</title>
+</programme>
+<programme start="20250702091500 +0000" stop="20250702112200 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702112200 +0000" stop="20250702125300 +0000" channel="CINEEDGE.mncvision">
+    <title>Derailed</title>
+</programme>
+<programme start="20250702125300 +0000" stop="20250702151500 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702151500 +0000" stop="20250702165600 +0000" channel="CINEEDGE.mncvision">
+    <title>Submerged</title>
+</programme>
+<programme start="20250702165600 +0000" stop="20250701172600 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250701173900 +0000" stop="20250701194700 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250701194700 +0000" stop="20250701214400 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Kandahar</title>
+</programme>
+<programme start="20250701214400 +0000" stop="20250701233800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250701233800 +0000" stop="20250702012900 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Control</title>
+</programme>
+<programme start="20250702012900 +0000" stop="20250702035400 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702035400 +0000" stop="20250702052800 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Bridge Of Dragons</title>
+</programme>
+<programme start="20250702052800 +0000" stop="20250702074200 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702074200 +0000" stop="20250702091500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Rampage</title>
+</programme>
+<programme start="20250702091500 +0000" stop="20250702112200 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702112200 +0000" stop="20250702125300 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Derailed</title>
+</programme>
+<programme start="20250702125300 +0000" stop="20250702151500 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250702151500 +0000" stop="20250702165600 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Submerged</title>
+</programme>
+<programme start="20250702165600 +0000" stop="20250701172600 +0000" channel="CINEEDGE HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250701170000 +0000" stop="20250701180000 +0000" channel="CNBC.mncvision">
+    <title>The Exchange</title>
+</programme>
+<programme start="20250701180000 +0000" stop="20250701190000 +0000" channel="CNBC.mncvision">
+    <title>Power Lunch</title>
+</programme>
+<programme start="20250701190000 +0000" stop="20250701200000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell</title>
+</programme>
+<programme start="20250701200000 +0000" stop="20250701210000 +0000" channel="CNBC.mncvision">
+    <title>Closing Bell: Overtime</title>
+</programme>
+<programme start="20250701210000 +0000" stop="20250701220000 +0000" channel="CNBC.mncvision">
+    <title>Fast Money</title>
+</programme>
+<programme start="20250701220000 +0000" stop="20250701230000 +0000" channel="CNBC.mncvision">
+    <title>U.S. Markets Edition</title>
+</programme>
+<programme start="20250701230000 +0000" stop="20250702020000 +0000" channel="CNBC.mncvision">
+    <title>Squawk Box Asia</title>
+</programme>
+<programme start="20250702020000 +0000" stop="20250702030000 +0000" channel="CNBC.mncvision">
+    <title>The China Connection</title>
+</programme>
+<programme start="20250702030000 +0000" stop="20250702040000 +0000" channel="CNBC.mncvision">
+    <title>Inside India</title>
+</programme>
+<programme start="20250702040000 +0000" stop="20250702050000 +0000" channel="CNBC.mncvision">
+    <title>Access Middle East</title>
+</programme>
+<programme start="20250702050000 +0000" stop="20250702060000 +0000" channel="CNBC.mncvision">
+    <title>Europe Early Edition</title>
+</programme>
+<programme start="20250702060000 +0000" stop="20250702090000 +0000" channel="CNBC.mncvision">
+    <title>Squawk Box Europe</title>
+</programme>
+<programme start="20250702090000 +0000" stop="20250702100000 +0000" channel="CNBC.mncvision">
+    <title>Worldwide Exchange</title>
+</programme>
+<programme start="20250702100000 +0000" stop="20250702130000 +0000" channel="CNBC.mncvision">
+    <title>US Squawk Box</title>
+</programme>
+<programme start="20250702130000 +0000" stop="20250702150000 +0000" channel="CNBC.mncvision">
+    <title>Squawk On The Street</title>
+</programme>
+<programme start="20250702150000 +0000" stop="20250702160000 +0000" channel="CNBC.mncvision">
+    <title>Money Movers</title>
+</programme>
+<programme start="20250702160000 +0000" stop="20250702163000 +0000" channel="CNBC.mncvision">
+    <title>Halftime Report</title>
+</programme>
 <programme start="20250701172000 +0000" stop="20250701174500 +0000" channel="Crime Investigation.mncvision">
     <title>My Strange Arrest S2, Ep 2</title>
 </programme>
