@@ -94,59 +94,29 @@
 <programme start="20250702211500 +0000" stop="20250702220000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250706220000 +0000" stop="20250706223500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rosetti Casting</title>
+<programme start="20250701230500 +0000" stop="20250702003000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pärchentausch Spezial: Die Alm-Swinger</title>
 </programme>
-<programme start="20250706223500 +0000" stop="20250706230000 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Art of Kissing</title>
-</programme>
-<programme start="20250706230000 +0000" stop="20250706231000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rowe: Sextipps vom Profi</title>
-</programme>
-<programme start="20250706231000 +0000" stop="20250706232500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rowe: Sextipps vom Profi</title>
-</programme>
-<programme start="20250706232500 +0000" stop="20250706234000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rowe: Sextipps vom Profi</title>
-</programme>
-<programme start="20250706234000 +0000" stop="20250707001000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Pärchentausch</title>
-</programme>
-<programme start="20250707001000 +0000" stop="20250707003000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Erasmus Orgasmus</title>
-</programme>
-<programme start="20250707003000 +0000" stop="20250707013500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Skinny Dip</title>
-</programme>
-<programme start="20250707013500 +0000" stop="20250707015500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tat &amp; Wahrheit</title>
-</programme>
-<programme start="20250707015500 +0000" stop="20250707021000 +0000" channel="Beate Uhse HD.skyde">
-    <title>XConfessions</title>
-</programme>
-<programme start="20250707021000 +0000" stop="20250707034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Stallgelüste</title>
-</programme>
-<programme start="20250707034500 +0000" stop="20250707181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20250707181500 +0000" stop="20250707184000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Geheime Momente</title>
-</programme>
-<programme start="20250707184000 +0000" stop="20250707185000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Feel Naked</title>
-</programme>
-<programme start="20250707185000 +0000" stop="20250707201500 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20250702003000 +0000" stop="20250702015500 +0000" channel="Beate Uhse HD.skyde">
     <title>Die Steifeprüfung</title>
 </programme>
-<programme start="20250707201500 +0000" stop="20250707213500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Pizza Girls</title>
+<programme start="20250702015500 +0000" stop="20250702022000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Geile Pärchen</title>
 </programme>
-<programme start="20250707213500 +0000" stop="20250707215000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Wonneproppen</title>
+<programme start="20250702022000 +0000" stop="20250702034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Meine heiße Schwester</title>
 </programme>
-<programme start="20250707215000 +0000" stop="20250707230500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Matinee Idol</title>
+<programme start="20250702034500 +0000" stop="20250702181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20250702181500 +0000" stop="20250702193000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Poly+Love</title>
+</programme>
+<programme start="20250702193000 +0000" stop="20250702205000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Meine Frau will mehr</title>
+</programme>
+<programme start="20250702205000 +0000" stop="20250702221000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Body Language</title>
 </programme>
 <programme start="20250701220000 +0000" stop="20250701221000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
