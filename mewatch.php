@@ -613,32 +613,71 @@
     <programme start="20250701150000 +0000" stop="20250701200000 +0000" channel="now-80s.mewatch">
         <title>Every Song A Number 1! - EP1</title>
     </programme>
-    <programme start="20250701200000 +0000" stop="20250701210000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max! - EP1</title>
+    <programme start="20250701160000 +0000" stop="20250701164500 +0000" channel="now-80s.mewatch">
+        <title>Hey You! Get Into My Car! Top 10 - EP1</title>
     </programme>
-    <programme start="20250701210000 +0000" stop="20250701220000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping - EP1</title>
+    <programme start="20250701164500 +0000" stop="20250701170000 +0000" channel="now-80s.mewatch">
+        <title>Every Song A Number 1! - EP1</title>
+    </programme>
+    <programme start="20250701170000 +0000" stop="20250701180000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
+    </programme>
+    <programme start="20250701180000 +0000" stop="20250701211500 +0000" channel="now-80s.mewatch">
+        <title>Bruno Brookes UK Top 40 Of The 80s - EP1</title>
+    </programme>
+    <programme start="20250701211500 +0000" stop="20250701220000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
     <programme start="20250701220000 +0000" stop="20250701230000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go! - EP1</title>
+        <title>Rock Movie Monsters! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250701230000 +0000" stop="20250702030000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
+    <programme start="20250701230000 +0000" stop="20250702000000 +0000" channel="now-80s.mewatch">
+        <title>With Love From The Movies Xx - EP1</title>
     </programme>
-    <programme start="20250702030000 +0000" stop="20250702040000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!) - EP1</title>
+    <programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
     </programme>
-    <programme start="20250702040000 +0000" stop="20250702090000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
+    <programme start="20250702010000 +0000" stop="20250702033500 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20250702090000 +0000" stop="20250702100000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s! - EP1</title>
+    <programme start="20250702033500 +0000" stop="20250702040000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
     </programme>
-    <programme start="20250702100000 +0000" stop="20250702150000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit! - EP1</title>
+    <programme start="20250702040000 +0000" stop="20250702045000 +0000" channel="now-80s.mewatch">
+        <title>Soundtrack Smashes: 1984 - EP1</title>
     </programme>
-    <programme start="20250702150000 +0000" stop="20250702200000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night! - EP1</title>
+    <programme start="20250702045000 +0000" stop="20250702050000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
+    </programme>
+    <programme start="20250702050000 +0000" stop="20250702060000 +0000" channel="now-80s.mewatch">
+        <title>Soundtrack Smashes: 1986 - EP1</title>
+    </programme>
+    <programme start="20250702060000 +0000" stop="20250702083000 +0000" channel="now-80s.mewatch">
+        <title>30 Movie Monsters With Pat Sharp - EP1</title>
+    </programme>
+    <programme start="20250702083000 +0000" stop="20250702090000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
+    </programme>
+    <programme start="20250702090000 +0000" stop="20250702093000 +0000" channel="now-80s.mewatch">
+        <title>40 From The Flicks! - EP1</title>
+    </programme>
+    <programme start="20250702093000 +0000" stop="20250702103000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
+    </programme>
+    <programme start="20250702103000 +0000" stop="20250702121000 +0000" channel="now-80s.mewatch">
+        <title>40 From The Flicks! - EP1</title>
+    </programme>
+    <programme start="20250702121000 +0000" stop="20250702130000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
+    </programme>
+    <programme start="20250702130000 +0000" stop="20250702153000 +0000" channel="now-80s.mewatch">
+        <title>30 Big Selling Movie Songs Of 80s - EP1</title>
+    </programme>
+    <programme start="20250702153000 +0000" stop="20250702160000 +0000" channel="now-80s.mewatch">
+        <title>Cinema Soundtracks - All Day! - EP1</title>
+    </programme>
+    <programme start="20250702160000 +0000" stop="20250702170000 +0000" channel="now-80s.mewatch">
+        <title>Action Movies! 1980-1989 - EP1</title>
     </programme>
     <programme start="20250701090000 +0000" stop="20250701190000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
@@ -979,13 +1018,7 @@
     <programme start="20250702150000 +0000" stop="20250702160000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 3rd July, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250702160000 +0000" stop="20250703110000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 3rd July, Thursday 7pm. The Wonder Shop Home Shopping</title>
-    </programme>
     <programme start="20250701160000 +0000" stop="20250702160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
-    </programme>
-    <programme start="20250702160000 +0000" stop="20250703160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 4th July, Friday 8.30pm. ONE Friday Fights 115</title>
     </programme>
     <programme start="20250630160001 +0000" stop="20250701160001 +0000" channel="Live 5.mewatch">

@@ -440,10 +440,10 @@
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
 <programme start="20250702143000 +0000" stop="20250702163000 +0000" channel="ANTV.mncvision">
-    <title>Boleh Dong Untung Terus</title>
+    <title>Mandala Dari Sungai Ular</title>
 </programme>
 <programme start="20250702163000 +0000" stop="20250701170000 +0000" channel="ANTV.mncvision">
-    <title>The Seventh Curse</title>
+    <title>The Young Master</title>
 </programme>
 <programme start="20250701170000 +0000" stop="20250701173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
