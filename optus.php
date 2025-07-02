@@ -1,10 +1,10 @@
-    <programme start="20250702155000 +0000" stop="20250702181000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250702154930 +0000" stop="20250702181000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - Iceland v Finland</title>
     </programme>
     <programme start="20250702170000 +0000" stop="20250702173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Manager Rivalries</title>
     </programme>
-    <programme start="20250702184500 +0000" stop="20250702211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250702184430 +0000" stop="20250702211000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - Switzerland v Norway</title>
     </programme>
     <programme start="20250703155000 +0000" stop="20250703181000 +0000" channel="Optus Sport 1.optus">
