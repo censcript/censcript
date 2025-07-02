@@ -2659,7 +2659,13 @@
     <programme start="20250701220000 +0000" stop="20250702040000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250702040000 +0000" stop="20250702100000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20250702040000 +0000" stop="20250702060000 +0000" channel="Hub Premier 2 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250702060000 +0000" stop="20250702080000 +0000" channel="Hub Premier 2 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20250702080000 +0000" stop="20250702100000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250702100000 +0000" stop="20250702160000 +0000" channel="Hub Premier 2 HD.starhub">
