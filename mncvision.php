@@ -8741,7 +8741,7 @@
     <title>2025 Isle Of Man TT</title>
 </programme>
 <programme start="20250701230000 +0000" stop="20250702000000 +0000" channel="SPOTV.mncvision">
-    <title>WSL Replay: Rio Pro</title>
+    <title>WSL Replay: Rio Pro HL</title>
 </programme>
 <programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="SPOTV.mncvision">
     <title>2025 WorldSBK C&#039;ship</title>
@@ -8852,7 +8852,7 @@
     <title>2025 Isle Of Man TT</title>
 </programme>
 <programme start="20250701230000 +0000" stop="20250702000000 +0000" channel="SPOTV HD.mncvision">
-    <title>WSL Replay: Rio Pro</title>
+    <title>WSL Replay: Rio Pro HL</title>
 </programme>
 <programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 WorldSBK C&#039;ship</title>
