@@ -94,29 +94,59 @@
 <programme start="20250702211500 +0000" stop="20250702220000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250701230500 +0000" stop="20250702003000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Pärchentausch Spezial: Die Alm-Swinger</title>
+<programme start="20250706220000 +0000" stop="20250706223500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Rosetti Casting</title>
 </programme>
-<programme start="20250702003000 +0000" stop="20250702015500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Steifeprüfung</title>
+<programme start="20250706223500 +0000" stop="20250706230000 +0000" channel="Beate Uhse HD.skyde">
+    <title>The Art of Kissing</title>
 </programme>
-<programme start="20250702015500 +0000" stop="20250702022000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Geile Pärchen</title>
+<programme start="20250706230000 +0000" stop="20250706231000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Rowe: Sextipps vom Profi</title>
 </programme>
-<programme start="20250702022000 +0000" stop="20250702034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Meine heiße Schwester</title>
+<programme start="20250706231000 +0000" stop="20250706232500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Rowe: Sextipps vom Profi</title>
 </programme>
-<programme start="20250702034500 +0000" stop="20250702181500 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20250706232500 +0000" stop="20250706234000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Rowe: Sextipps vom Profi</title>
+</programme>
+<programme start="20250706234000 +0000" stop="20250707001000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pärchentausch</title>
+</programme>
+<programme start="20250707001000 +0000" stop="20250707003000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Erasmus Orgasmus</title>
+</programme>
+<programme start="20250707003000 +0000" stop="20250707013500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Skinny Dip</title>
+</programme>
+<programme start="20250707013500 +0000" stop="20250707015500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Tat &amp; Wahrheit</title>
+</programme>
+<programme start="20250707015500 +0000" stop="20250707021000 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
+</programme>
+<programme start="20250707021000 +0000" stop="20250707034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Stallgelüste</title>
+</programme>
+<programme start="20250707034500 +0000" stop="20250707181500 +0000" channel="Beate Uhse HD.skyde">
     <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
 </programme>
-<programme start="20250702181500 +0000" stop="20250702193000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Poly+Love</title>
+<programme start="20250707181500 +0000" stop="20250707184000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Geheime Momente</title>
 </programme>
-<programme start="20250702193000 +0000" stop="20250702205000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Meine Frau will mehr</title>
+<programme start="20250707184000 +0000" stop="20250707185000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Feel Naked</title>
 </programme>
-<programme start="20250702205000 +0000" stop="20250702221000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Body Language</title>
+<programme start="20250707185000 +0000" stop="20250707201500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Die Steifeprüfung</title>
+</programme>
+<programme start="20250707201500 +0000" stop="20250707213500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pizza Girls</title>
+</programme>
+<programme start="20250707213500 +0000" stop="20250707215000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Wonneproppen</title>
+</programme>
+<programme start="20250707215000 +0000" stop="20250707230500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Matinee Idol</title>
 </programme>
 <programme start="20250701220000 +0000" stop="20250701221000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
@@ -2361,6 +2391,111 @@
 </programme>
 <programme start="20250702213000 +0000" stop="20250702221500 +0000" channel="Sky Nature HD.skyde">
     <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20250701220000 +0000" stop="20250701224500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250701224500 +0000" stop="20250701233000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250701233000 +0000" stop="20250702001000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250702001000 +0000" stop="20250702003500 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250702003500 +0000" stop="20250702005500 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250702005500 +0000" stop="20250702011500 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250702011500 +0000" stop="20250702014000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250702014000 +0000" stop="20250702020000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250702020000 +0000" stop="20250702022500 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250702022500 +0000" stop="20250702030500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250702030500 +0000" stop="20250702034500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250702034500 +0000" stop="20250702043000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250702043000 +0000" stop="20250702052000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250702052000 +0000" stop="20250702060500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702060500 +0000" stop="20250702065000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702065000 +0000" stop="20250702074000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702074000 +0000" stop="20250702082500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250702082500 +0000" stop="20250702091000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250702091000 +0000" stop="20250702095500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250702095500 +0000" stop="20250702104000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250702104000 +0000" stop="20250702112500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250702112500 +0000" stop="20250702121000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250702121000 +0000" stop="20250702125500 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250702125500 +0000" stop="20250702134000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250702134000 +0000" stop="20250702143000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702143000 +0000" stop="20250702151500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702151500 +0000" stop="20250702160000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702160000 +0000" stop="20250702164500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250702164500 +0000" stop="20250702173000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250702173000 +0000" stop="20250702181500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250702181500 +0000" stop="20250702191000 +0000" channel="Sky One HD.skyde">
+    <title>Poker Face</title>
+</programme>
+<programme start="20250702191000 +0000" stop="20250702200500 +0000" channel="Sky One HD.skyde">
+    <title>Poker Face</title>
+</programme>
+<programme start="20250702200500 +0000" stop="20250702205000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250702205000 +0000" stop="20250702213500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250702213500 +0000" stop="20250702222000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
 </programme>
 <programme start="20250701220000 +0000" stop="20250701224000 +0000" channel="Sky Replay HD.skyde">
     <title>S.W.A.T.</title>

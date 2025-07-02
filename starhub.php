@@ -7712,7 +7712,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250701233000 +0000" stop="20250702000000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>The Media Show</title>
     </programme>
     <programme start="20250702000000 +0000" stop="20250702003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7864,13 +7864,16 @@
     <programme start="20250702035000 +0000" stop="20250702054000 +0000" channel="Premier Sports.starhub">
         <title>Super Rugby Crusaders v Chiefs</title>
     </programme>
-    <programme start="20250702054000 +0000" stop="20250702073000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250702054000 +0000" stop="20250702055500 +0000" channel="Premier Sports.starhub">
+        <title>Premier Sports Extra</title>
+    </programme>
+    <programme start="20250702055500 +0000" stop="20250702074500 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Lions v Argentina</title>
     </programme>
-    <programme start="20250702073000 +0000" stop="20250702091500 +0000" channel="Premier Sports.starhub">
+    <programme start="20250702074500 +0000" stop="20250702093000 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Force v Lions</title>
     </programme>
-    <programme start="20250702091500 +0000" stop="20250702121500 +0000" channel="Premier Sports.starhub">
+    <programme start="20250702093000 +0000" stop="20250702121500 +0000" channel="Premier Sports.starhub">
         <title>LIVE International Rugby LIVE Reds v Lions</title>
     </programme>
     <programme start="20250702121500 +0000" stop="20250702123000 +0000" channel="Premier Sports.starhub">
@@ -8290,10 +8293,10 @@
     <programme start="20250701213000 +0000" stop="20250701233000 +0000" channel="Asianet Movies.starhub">
         <title>Chembarathipoo</title>
     </programme>
-    <programme start="20250701233000 +0000" stop="20250702013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250701233000 +0000" stop="20250702014000 +0000" channel="Asianet Movies.starhub">
         <title>Finger Print</title>
     </programme>
-    <programme start="20250702013000 +0000" stop="20250702043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250702014000 +0000" stop="20250702043000 +0000" channel="Asianet Movies.starhub">
         <title>Niram</title>
     </programme>
     <programme start="20250702043000 +0000" stop="20250702073000 +0000" channel="Asianet Movies.starhub">

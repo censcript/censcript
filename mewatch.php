@@ -1,28 +1,28 @@
     <programme start="20250701151015 +0000" stop="20250701160005 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S4 - EP 2</title>
     </programme>
-    <programme start="20250701160005 +0000" stop="20250701163014 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701160042 +0000" stop="20250701163051 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 92</title>
     </programme>
-    <programme start="20250701163014 +0000" stop="20250701173033 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701163051 +0000" stop="20250701173109 +0000" channel="Channel 5.mewatch">
         <title>CSI: Vegas S2 - EP 6</title>
     </programme>
-    <programme start="20250701173033 +0000" stop="20250701180013 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701173109 +0000" stop="20250701180050 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 7913</title>
     </programme>
-    <programme start="20250701180013 +0000" stop="20250701190016 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701180050 +0000" stop="20250701190023 +0000" channel="Channel 5.mewatch">
         <title>MasterChef Junior USA S9 - EP 8</title>
     </programme>
-    <programme start="20250701190016 +0000" stop="20250701200033 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701190023 +0000" stop="20250701200040 +0000" channel="Channel 5.mewatch">
         <title>Celebrity Catch Phrase S10 - EP 10</title>
     </programme>
-    <programme start="20250701200033 +0000" stop="20250701203049 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701200040 +0000" stop="20250701203056 +0000" channel="Channel 5.mewatch">
         <title>Arts 21 - EP 405</title>
     </programme>
-    <programme start="20250701203049 +0000" stop="20250701210000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701203056 +0000" stop="20250701210006 +0000" channel="Channel 5.mewatch">
         <title>Deal Or No Deal Australia S12 - EP 179</title>
     </programme>
-    <programme start="20250701210000 +0000" stop="20250701220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250701210006 +0000" stop="20250701220000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S8 - EP 2</title>
     </programme>
     <programme start="20250701220000 +0000" stop="20250701221410 +0000" channel="Channel 5.mewatch">
@@ -151,34 +151,31 @@
     <programme start="20250702132959 +0000" stop="20250702143026 +0000" channel="Channel 5.mewatch">
         <title>Dead Alone In Singapore - EP 1</title>
     </programme>
-    <programme start="20250702143026 +0000" stop="20250702153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250702143026 +0000" stop="20250702153013 +0000" channel="Channel 5.mewatch">
         <title>Impossible Engineering S2 - EP 4</title>
     </programme>
-    <programme start="20250702153000 +0000" stop="20250702160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250702153013 +0000" stop="20250702160011 +0000" channel="Channel 5.mewatch">
         <title>Whispers Of The Dead S2 - EP 5</title>
-    </programme>
-    <programme start="20250702160000 +0000" stop="20250702163000 +0000" channel="Channel 5.mewatch">
-        <title>Provocative - EP 93</title>
     </programme>
     <programme start="20250701150125 +0000" stop="20250701160035 +0000" channel="Channel 8.mewatch">
         <title>Joy of Life 2 - EP 27</title>
     </programme>
-    <programme start="20250701160035 +0000" stop="20250701170042 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701160112 +0000" stop="20250701170118 +0000" channel="Channel 8.mewatch">
         <title>Lost You Forever - EP 10</title>
     </programme>
-    <programme start="20250701170042 +0000" stop="20250701180019 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701170118 +0000" stop="20250701180054 +0000" channel="Channel 8.mewatch">
         <title>Cool Hotels - EP 2</title>
     </programme>
-    <programme start="20250701180019 +0000" stop="20250701190031 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701180054 +0000" stop="20250701190026 +0000" channel="Channel 8.mewatch">
         <title>Your Hand In Mine - EP 10</title>
     </programme>
-    <programme start="20250701190031 +0000" stop="20250701200051 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701190026 +0000" stop="20250701200046 +0000" channel="Channel 8.mewatch">
         <title>Your Hand In Mine - EP 11</title>
     </programme>
-    <programme start="20250701200051 +0000" stop="20250701210042 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701200046 +0000" stop="20250701210036 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 55</title>
     </programme>
-    <programme start="20250701210042 +0000" stop="20250701220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250701210036 +0000" stop="20250701220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 56</title>
     </programme>
     <programme start="20250701220000 +0000" stop="20250701225929 +0000" channel="Channel 8.mewatch">
@@ -283,10 +280,10 @@
     <programme start="20250701152959 +0000" stop="20250701163017 +0000" channel="Channel U.mewatch">
         <title>Island Odyssey - EP 10</title>
     </programme>
-    <programme start="20250701163017 +0000" stop="20250701172810 +0000" channel="Channel U.mewatch">
+    <programme start="20250701163053 +0000" stop="20250701172846 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 60</title>
     </programme>
-    <programme start="20250701172810 +0000" stop="20250701220000 +0000" channel="Channel U.mewatch">
+    <programme start="20250701172846 +0000" stop="20250701220000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 61</title>
     </programme>
     <programme start="20250701220000 +0000" stop="20250702025808 +0000" channel="Channel U.mewatch">
@@ -400,9 +397,6 @@
     <programme start="20250701153000 +0000" stop="20250701160009 +0000" channel="Suria.mewatch">
         <title>Berita</title>
     </programme>
-    <programme start="20250701160009 +0000" stop="20250702010000 +0000" channel="Suria.mewatch">
-        <title>End of Transmission</title>
-    </programme>
     <programme start="20250702010000 +0000" stop="20250702013006 +0000" channel="Suria.mewatch">
         <title>Beyblade Burst Surge - EP 3</title>
     </programme>
@@ -463,10 +457,10 @@
     <programme start="20250702160000 +0000" stop="20250703010000 +0000" channel="Suria.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250701153000 +0000" stop="20250701160152 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701153000 +0000" stop="20250701160137 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20250701160152 +0000" stop="20250702010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250701160043 +0000" stop="20250702010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250702010000 +0000" stop="20250702012959 +0000" channel="Vasantham.mewatch">
@@ -541,25 +535,25 @@
     <programme start="20250701150018 +0000" stop="20250701160001 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 3</title>
     </programme>
-    <programme start="20250701160001 +0000" stop="20250701160306 +0000" channel="CNA.mewatch">
+    <programme start="20250701160000 +0000" stop="20250701160321 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250701160306 +0000" stop="20250701170001 +0000" channel="CNA.mewatch">
+    <programme start="20250701160321 +0000" stop="20250701170018 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250701170001 +0000" stop="20250701180003 +0000" channel="CNA.mewatch">
+    <programme start="20250701170018 +0000" stop="20250701180000 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 1</title>
     </programme>
-    <programme start="20250701180003 +0000" stop="20250701190003 +0000" channel="CNA.mewatch">
+    <programme start="20250701180000 +0000" stop="20250701190001 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250701190003 +0000" stop="20250701200002 +0000" channel="CNA.mewatch">
+    <programme start="20250701190001 +0000" stop="20250701200000 +0000" channel="CNA.mewatch">
         <title>Power To The People - EP 4</title>
     </programme>
-    <programme start="20250701200002 +0000" stop="20250701210002 +0000" channel="CNA.mewatch">
+    <programme start="20250701200000 +0000" stop="20250701205959 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250701210002 +0000" stop="20250701220000 +0000" channel="CNA.mewatch">
+    <programme start="20250701205959 +0000" stop="20250701220000 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 4</title>
     </programme>
     <programme start="20250701220000 +0000" stop="20250701225959 +0000" channel="CNA.mewatch">
