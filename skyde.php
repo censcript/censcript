@@ -3367,103 +3367,94 @@
 <programme start="20250702083000 +0000" stop="20250702090000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Test Sport 10</title>
 </programme>
-<programme start="20250701223000 +0000" stop="20250701231000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Discovery</title>
+<programme start="20250706225000 +0000" stop="20250707010000 +0000" channel="SYFY HD.skyde">
+    <title>Planet der Affen - Revolution</title>
 </programme>
-<programme start="20250701231000 +0000" stop="20250701233000 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Space Debris</title>
-</programme>
-<programme start="20250701233000 +0000" stop="20250702001500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250702001500 +0000" stop="20250702010000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250702010000 +0000" stop="20250702014500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250702014500 +0000" stop="20250702023000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20250702023000 +0000" stop="20250702031500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20250702031500 +0000" stop="20250702035500 +0000" channel="SYFY HD.skyde">
+<programme start="20250707010000 +0000" stop="20250707014500 +0000" channel="SYFY HD.skyde">
     <title>Van Helsing</title>
 </programme>
-<programme start="20250702035500 +0000" stop="20250702040500 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
-</programme>
-<programme start="20250702040500 +0000" stop="20250702050000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Discovery</title>
-</programme>
-<programme start="20250702050000 +0000" stop="20250702055000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250702055000 +0000" stop="20250702063500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250702063500 +0000" stop="20250702072500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250702072500 +0000" stop="20250702081000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20250702081000 +0000" stop="20250702090000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20250702090000 +0000" stop="20250702094500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250702094500 +0000" stop="20250702103500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250702103500 +0000" stop="20250702112500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250702112500 +0000" stop="20250702120500 +0000" channel="SYFY HD.skyde">
+<programme start="20250707014500 +0000" stop="20250707023000 +0000" channel="SYFY HD.skyde">
     <title>Van Helsing</title>
 </programme>
-<programme start="20250702120500 +0000" stop="20250702121500 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
+<programme start="20250707023000 +0000" stop="20250707031500 +0000" channel="SYFY HD.skyde">
+    <title>Van Helsing</title>
 </programme>
-<programme start="20250702121500 +0000" stop="20250702122500 +0000" channel="SYFY HD.skyde">
-    <title>Sci Xpert - Leschs Universum</title>
+<programme start="20250707031500 +0000" stop="20250707035500 +0000" channel="SYFY HD.skyde">
+    <title>Van Helsing</title>
 </programme>
-<programme start="20250702122500 +0000" stop="20250702132000 +0000" channel="SYFY HD.skyde">
+<programme start="20250707035500 +0000" stop="20250707041000 +0000" channel="SYFY HD.skyde">
+    <title>SYFY Inside: Destination Star Trek</title>
+</programme>
+<programme start="20250707041000 +0000" stop="20250707050000 +0000" channel="SYFY HD.skyde">
     <title>Star Trek: Discovery</title>
 </programme>
-<programme start="20250702132000 +0000" stop="20250702141500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Picard</title>
+<programme start="20250707050000 +0000" stop="20250707055000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
 </programme>
-<programme start="20250702141500 +0000" stop="20250702150500 +0000" channel="SYFY HD.skyde">
+<programme start="20250707055000 +0000" stop="20250707063500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250707063500 +0000" stop="20250707072500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250707072500 +0000" stop="20250707081000 +0000" channel="SYFY HD.skyde">
     <title>Stargate Universe</title>
 </programme>
-<programme start="20250702150500 +0000" stop="20250702155000 +0000" channel="SYFY HD.skyde">
+<programme start="20250707081000 +0000" stop="20250707090000 +0000" channel="SYFY HD.skyde">
     <title>Stargate Universe</title>
 </programme>
-<programme start="20250702155000 +0000" stop="20250702164000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
+<programme start="20250707090000 +0000" stop="20250707094500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20250702164000 +0000" stop="20250702172500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
+<programme start="20250707094500 +0000" stop="20250707103500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20250702172500 +0000" stop="20250702181500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
+<programme start="20250707103500 +0000" stop="20250707112500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20250702181500 +0000" stop="20250702191000 +0000" channel="SYFY HD.skyde">
+<programme start="20250707112500 +0000" stop="20250707121000 +0000" channel="SYFY HD.skyde">
+    <title>Van Helsing</title>
+</programme>
+<programme start="20250707121000 +0000" stop="20250707123000 +0000" channel="SYFY HD.skyde">
+    <title>SYFY Inside: Gamescom</title>
+</programme>
+<programme start="20250707123000 +0000" stop="20250707132000 +0000" channel="SYFY HD.skyde">
     <title>Star Trek: Discovery</title>
 </programme>
-<programme start="20250702191000 +0000" stop="20250702201000 +0000" channel="SYFY HD.skyde">
+<programme start="20250707132000 +0000" stop="20250707141500 +0000" channel="SYFY HD.skyde">
     <title>Star Trek: Picard</title>
 </programme>
-<programme start="20250702201000 +0000" stop="20250702205500 +0000" channel="SYFY HD.skyde">
+<programme start="20250707141500 +0000" stop="20250707150500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20250707150500 +0000" stop="20250707155000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20250707155000 +0000" stop="20250707164000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250707164000 +0000" stop="20250707172500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250707172500 +0000" stop="20250707181500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250707181500 +0000" stop="20250707190500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20250707190500 +0000" stop="20250707195500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Picard</title>
+</programme>
+<programme start="20250707195500 +0000" stop="20250707201500 +0000" channel="SYFY HD.skyde">
+    <title>SYFY Inside: Gamescom</title>
+</programme>
+<programme start="20250707201500 +0000" stop="20250707210000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20250702205500 +0000" stop="20250702214500 +0000" channel="SYFY HD.skyde">
+<programme start="20250707210000 +0000" stop="20250707215000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20250702214500 +0000" stop="20250702223000 +0000" channel="SYFY HD.skyde">
+<programme start="20250707215000 +0000" stop="20250707223500 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
 <programme start="20250701220000 +0000" stop="20250701224500 +0000" channel="Universal TV HD.skyde">
