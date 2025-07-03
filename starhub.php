@@ -8350,14 +8350,8 @@
     <programme start="20250703020000 +0000" stop="20250703030000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250703030000 +0000" stop="20250703033000 +0000" channel="SPOTV2.starhub">
-        <title>SPOTV ENCORE: WTT Star Contender Ljubljana 2025</title>
-    </programme>
-    <programme start="20250703033000 +0000" stop="20250703113000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250703030000 +0000" stop="20250703115500 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Second Round</title>
-    </programme>
-    <programme start="20250703113000 +0000" stop="20250703115500 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250703115500 +0000" stop="20250703200000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Second Round</title>

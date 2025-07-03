@@ -2836,6 +2836,12 @@
 <programme start="20250703060000 +0000" stop="20250703061500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
+<programme start="20250702075000 +0000" stop="20250702082000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Test Bundesliga 02</title>
+</programme>
+<programme start="20250702095000 +0000" stop="20250702102000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Test Bundesliga 02</title>
+</programme>
 <programme start="20250702220000 +0000" stop="20250702234500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: Highlights: 24h-Rennen Spa 2025</title>
 </programme>
