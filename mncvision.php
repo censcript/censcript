@@ -7751,7 +7751,7 @@
     <title>Crispy</title>
 </programme>
 <programme start="20250702210000 +0000" stop="20250702230000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun S8</title>
 </programme>
 <programme start="20250702230000 +0000" stop="20250702234500 +0000" channel="RCTI.mncvision">
     <title>Silet</title>
@@ -7805,7 +7805,7 @@
     <title>Crispy</title>
 </programme>
 <programme start="20250702210000 +0000" stop="20250702230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun S8</title>
 </programme>
 <programme start="20250702230000 +0000" stop="20250702234500 +0000" channel="RCTI HD.mncvision">
     <title>Silet</title>
