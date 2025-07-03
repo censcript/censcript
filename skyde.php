@@ -2899,6 +2899,72 @@
 <programme start="20250703203000 +0000" stop="20250703223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
+<programme start="20250702220000 +0000" stop="20250702223000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250702223000 +0000" stop="20250702233000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights Amundi German Masters</title>
+</programme>
+<programme start="20250702233000 +0000" stop="20250703000000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Italian Open</title>
+</programme>
+<programme start="20250703000000 +0000" stop="20250703030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Rocket Mortgage Classic, 4. Tag in Detroit, MI (USA)</title>
+</programme>
+<programme start="20250703030000 +0000" stop="20250703033000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250703033000 +0000" stop="20250703034500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (1)</title>
+</programme>
+<programme start="20250703034500 +0000" stop="20250703040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (2)</title>
+</programme>
+<programme start="20250703040000 +0000" stop="20250703041500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (3)</title>
+</programme>
+<programme start="20250703041500 +0000" stop="20250703044500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
+</programme>
+<programme start="20250703044500 +0000" stop="20250703051500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
+</programme>
+<programme start="20250703051500 +0000" stop="20250703054500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (3)</title>
+</programme>
+<programme start="20250703054500 +0000" stop="20250703061500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20250703061500 +0000" stop="20250703064500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20250703064500 +0000" stop="20250703071500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (6)</title>
+</programme>
+<programme start="20250703071500 +0000" stop="20250703080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
+</programme>
+<programme start="20250703080000 +0000" stop="20250703084500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: The Legend of Bernhard Langer</title>
+</programme>
+<programme start="20250703084500 +0000" stop="20250703093000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tiger 2000</title>
+</programme>
+<programme start="20250703093000 +0000" stop="20250703100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Le Vaudreuil Golf Challenge</title>
+</programme>
+<programme start="20250703100000 +0000" stop="20250703103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250703103000 +0000" stop="20250703160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: BMW International Open, 1. Tag in Eichenried</title>
+</programme>
+<programme start="20250703160000 +0000" stop="20250703200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: John Deere Classic, 1. Tag (Early Coverage)</title>
+</programme>
+<programme start="20250703200000 +0000" stop="20250703230000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: John Deere Classic, 1. Tag in Silvis, IL (USA)</title>
+</programme>
 <programme start="20250702220000 +0000" stop="20250702230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
 </programme>
@@ -3010,131 +3076,137 @@
 <programme start="20250703210000 +0000" stop="20250703220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20250702221500 +0000" stop="20250702231500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250701220000 +0000" stop="20250701221500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Greatest Games: Norwich City - Manchester City (2019)</title>
+</programme>
+<programme start="20250701221500 +0000" stop="20250701224500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Liverpool Classic Match: FC Liverpool - Crystal Palace (2018/2019)</title>
+</programme>
+<programme start="20250701224500 +0000" stop="20250701230000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Greatest Games: FC Arsenal - Aston Villa (2019)</title>
+</programme>
+<programme start="20250701230000 +0000" stop="20250701233000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Liverpool Classic Match: Newcastle United - FC Liverpool (2018/2019)</title>
+</programme>
+<programme start="20250701233000 +0000" stop="20250702000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: Manchester United - FC Burnley (2019/2020)</title>
+</programme>
+<programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2024/2025</title>
 </programme>
-<programme start="20250702231500 +0000" stop="20250703000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Yaya Toure)</title>
+<programme start="20250702010000 +0000" stop="20250702020000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Volleys</title>
 </programme>
-<programme start="20250703000000 +0000" stop="20250703010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Ruud Gullit)</title>
+<programme start="20250702020000 +0000" stop="20250702040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>WSL: FC Chelsea - FC Liverpool, 22. Spieltag</title>
 </programme>
-<programme start="20250703010000 +0000" stop="20250703020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Dwight Yorke)</title>
+<programme start="20250702040000 +0000" stop="20250702050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Jürgen Klopp)</title>
 </programme>
-<programme start="20250703020000 +0000" stop="20250703030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Review of the Season 2024/25</title>
+<programme start="20250702050000 +0000" stop="20250702053000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Ipswich Town: Back after 22 years)</title>
 </programme>
-<programme start="20250703030000 +0000" stop="20250703040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Wayne Rooney)</title>
+<programme start="20250702053000 +0000" stop="20250702054500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Ipswich Town)</title>
 </programme>
-<programme start="20250703040000 +0000" stop="20250703043000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - MCI, 1. Spieltag</title>
+<programme start="20250702054500 +0000" stop="20250702061500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Sven-Göran Eriksson)</title>
 </programme>
-<programme start="20250703043000 +0000" stop="20250703050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - BRE, 2. Spieltag</title>
+<programme start="20250702061500 +0000" stop="20250702064500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Ashley Cole)</title>
 </programme>
-<programme start="20250703050000 +0000" stop="20250703053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - LIV, 3. Spieltag</title>
+<programme start="20250702064500 +0000" stop="20250702071500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Legends)</title>
 </programme>
-<programme start="20250703053000 +0000" stop="20250703060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - ARS, 4. Spieltag</title>
+<programme start="20250702071500 +0000" stop="20250702074500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Kaoru Mitoma)</title>
 </programme>
-<programme start="20250703060000 +0000" stop="20250703063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - ARS, 5. Spieltag</title>
+<programme start="20250702074500 +0000" stop="20250702081500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (John Terry)</title>
 </programme>
-<programme start="20250703063000 +0000" stop="20250703070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - TOT, 6. Spieltag</title>
+<programme start="20250702081500 +0000" stop="20250702084500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (The Rivalry: Ferguson v Wenger)</title>
 </programme>
-<programme start="20250703070000 +0000" stop="20250703073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRI - TOT, 7. Spieltag</title>
+<programme start="20250702084500 +0000" stop="20250702091500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Roberto di Matteo)</title>
 </programme>
-<programme start="20250703073000 +0000" stop="20250703080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - CHE, 8. Spieltag</title>
+<programme start="20250702091500 +0000" stop="20250702094500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Claudio Ranieri)</title>
 </programme>
-<programme start="20250703080000 +0000" stop="20250703083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - LIV, 9. Spieltag</title>
+<programme start="20250702094500 +0000" stop="20250702101500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Sports Science)</title>
 </programme>
-<programme start="20250703083000 +0000" stop="20250703090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - CHE, 10. Spieltag</title>
+<programme start="20250702101500 +0000" stop="20250702104500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (The Greatest Game Ever Played)</title>
 </programme>
-<programme start="20250703090000 +0000" stop="20250703093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - ARS, 11. Spieltag</title>
+<programme start="20250702104500 +0000" stop="20250702110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Game of the Century, FC Liverpool - Newcastle United (1995/96)</title>
 </programme>
-<programme start="20250703093000 +0000" stop="20250703100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - TOT, 12. Spieltag</title>
+<programme start="20250702110000 +0000" stop="20250702113000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Icons: David Beckham</title>
 </programme>
-<programme start="20250703100000 +0000" stop="20250703103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - MCI, 13. Spieltag</title>
+<programme start="20250702113000 +0000" stop="20250702120000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Thomas Tuchel)</title>
 </programme>
-<programme start="20250703103000 +0000" stop="20250703110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - MUN, 14. Spieltag</title>
+<programme start="20250702120000 +0000" stop="20250702121500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Crystal Palace)</title>
 </programme>
-<programme start="20250703110000 +0000" stop="20250703113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - CHE, 15. Spieltag</title>
+<programme start="20250702121500 +0000" stop="20250702124500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Cesc Fabregas)</title>
 </programme>
-<programme start="20250703113000 +0000" stop="20250703120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - MUN, 16. Spieltag</title>
+<programme start="20250702124500 +0000" stop="20250702131500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Andy Robertson)</title>
 </programme>
-<programme start="20250703120000 +0000" stop="20250703123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - LIV, 17. Spieltag</title>
+<programme start="20250702131500 +0000" stop="20250702133000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (North London Derby)</title>
 </programme>
-<programme start="20250703123000 +0000" stop="20250703130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - LEI, 18. Spieltag</title>
+<programme start="20250702133000 +0000" stop="20250702140000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (She&#039;s in the Game)</title>
 </programme>
-<programme start="20250703130000 +0000" stop="20250703133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WHU - LIV, 19. Spieltag</title>
+<programme start="20250702140000 +0000" stop="20250702141500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Tottenham Hotspur)</title>
 </programme>
-<programme start="20250703133000 +0000" stop="20250703140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - MUN, 20. Spieltag</title>
+<programme start="20250702141500 +0000" stop="20250702144500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Title Run in - True Turning Points)</title>
 </programme>
-<programme start="20250703140000 +0000" stop="20250703143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - TOT, 21. Spieltag</title>
+<programme start="20250702144500 +0000" stop="20250702151500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Mohamed Salah)</title>
 </programme>
-<programme start="20250703143000 +0000" stop="20250703150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - WOL, 22. Spieltag</title>
+<programme start="20250702151500 +0000" stop="20250702161500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Champion&#039;s Story)</title>
 </programme>
-<programme start="20250703150000 +0000" stop="20250703153000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - CHE, 23. Spieltag</title>
+<programme start="20250702161500 +0000" stop="20250702164500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
 </programme>
-<programme start="20250703153000 +0000" stop="20250703160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - MCI, 24. Spieltag</title>
+<programme start="20250702164500 +0000" stop="20250702174000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Mission to Burnley: Vincent Kompanys Traum vom Aufstieg</title>
 </programme>
-<programme start="20250703160000 +0000" stop="20250703163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - MUN, 25. Spieltag</title>
+<programme start="20250702174000 +0000" stop="20250702182500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Mission to Burnley: Vincent Kompanys Traum vom Aufstieg</title>
 </programme>
-<programme start="20250703163000 +0000" stop="20250703170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - LIV, 26. Spieltag</title>
+<programme start="20250702182500 +0000" stop="20250702191500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Mission to Burnley: Vincent Kompanys Traum vom Aufstieg</title>
 </programme>
-<programme start="20250703170000 +0000" stop="20250703173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - MCI, 27. Spieltag</title>
+<programme start="20250702191500 +0000" stop="20250702201000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Mission to Burnley: Vincent Kompanys Traum vom Aufstieg</title>
 </programme>
-<programme start="20250703173000 +0000" stop="20250703180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - ARS, 28. Spieltag</title>
+<programme start="20250702201000 +0000" stop="20250702202500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Ipswich Town)</title>
 </programme>
-<programme start="20250703180000 +0000" stop="20250703183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - CHE, 29. Spieltag</title>
+<programme start="20250702202500 +0000" stop="20250702205500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Manager Rivalries)</title>
 </programme>
-<programme start="20250703183000 +0000" stop="20250703190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - TOT, 30. Spieltag</title>
+<programme start="20250702205500 +0000" stop="20250702211000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Aston Villa)</title>
 </programme>
-<programme start="20250703190000 +0000" stop="20250703193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - MCI, 31. Spieltag</title>
+<programme start="20250702211000 +0000" stop="20250702212500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (West Ham United)</title>
 </programme>
-<programme start="20250703193000 +0000" stop="20250703200000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NEW - MUN, 32. Spieltag</title>
+<programme start="20250702212500 +0000" stop="20250702215500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Goodbye Goodison)</title>
 </programme>
-<programme start="20250703200000 +0000" stop="20250703203000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LEI - LIV, 33. Spieltag</title>
-</programme>
-<programme start="20250703203000 +0000" stop="20250703210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - TOT, 34. Spieltag</title>
-</programme>
-<programme start="20250703210000 +0000" stop="20250703213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - LIV, 35. Spieltag</title>
-</programme>
-<programme start="20250703213000 +0000" stop="20250703220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - ARS, 36. Spieltag</title>
+<programme start="20250702215500 +0000" stop="20250702221500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
 </programme>
 <programme start="20250702220000 +0000" stop="20250702230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Doha</title>
