@@ -3293,10 +3293,10 @@
         <title>News</title>
     </programme>
     <programme start="20250702171500 +0000" stop="20250702173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why stagnant economic growth in Latin America is linked to its below par transport infrastructure</title>
     </programme>
     <programme start="20250702173000 +0000" stop="20250702180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>All That Glitters - Mass-Produced Fashion Jewelry</title>
     </programme>
     <programme start="20250702180000 +0000" stop="20250702183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,7 +3308,7 @@
         <title>News</title>
     </programme>
     <programme start="20250702190200 +0000" stop="20250702193000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>Memory - how does it work and how can we help it?</title>
     </programme>
     <programme start="20250702193000 +0000" stop="20250702200000 +0000" channel="DW English HD.starhub">
         <title>The Magazine for Africa&#039;s Youth</title>
@@ -3323,7 +3323,7 @@
         <title>News</title>
     </programme>
     <programme start="20250702210200 +0000" stop="20250702211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why stagnant economic growth in Latin America is linked to its below par transport infrastructure</title>
     </programme>
     <programme start="20250702211500 +0000" stop="20250702220000 +0000" channel="DW English HD.starhub">
         <title>Cape Verde - The Reality Behind the Resorts</title>
@@ -3335,13 +3335,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250702223000 +0000" stop="20250702230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tourism and mobility: from Earth to orbit</title>
     </programme>
     <programme start="20250702230000 +0000" stop="20250702231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250702231500 +0000" stop="20250702233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why stagnant economic growth in Latin America is linked to its below par transport infrastructure</title>
     </programme>
     <programme start="20250702233000 +0000" stop="20250703000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -3974,7 +3974,7 @@
         <title>Haiku Poetry</title>
     </programme>
     <programme start="20250702170500 +0000" stop="20250702171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>This World is Filled with Wants 5min.</title>
+        <title>Fish Masters 5min (R)</title>
     </programme>
     <programme start="20250702171000 +0000" stop="20250702173000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
@@ -4061,7 +4061,7 @@
         <title>News</title>
     </programme>
     <programme start="20250703032500 +0000" stop="20250703033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>The Great Nature 5min.</title>
     </programme>
     <programme start="20250703033000 +0000" stop="20250703034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Toto Nee-Chan: Fatherly Sister&quot; Encore Eps. 42</title>
@@ -4072,13 +4072,13 @@
     <programme start="20250703040000 +0000" stop="20250703040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250703040500 +0000" stop="20250703045000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Yokoyama Takako&#039;s Shinshu Cooking Letter (R)</title>
+    <programme start="20250703040500 +0000" stop="20250703041500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Points at Issue</title>
     </programme>
-    <programme start="20250703045000 +0000" stop="20250703045500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+    <programme start="20250703041500 +0000" stop="20250703050000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Lifestyle Lab for The Prime Generation (R)</title>
     </programme>
-    <programme start="20250703045500 +0000" stop="20250703054900 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250703050000 +0000" stop="20250703054900 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250703054900 +0000" stop="20250703055000 +0000" channel="NHK World Premium HD.starhub">
