@@ -3353,7 +3353,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250703003000 +0000" stop="20250703010000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Connecting Worlds</title>
     </programme>
     <programme start="20250703010000 +0000" stop="20250703011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3368,16 +3368,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250703023000 +0000" stop="20250703030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tourism and mobility: from Earth to orbit</title>
     </programme>
     <programme start="20250703030000 +0000" stop="20250703031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250703031500 +0000" stop="20250703033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why stagnant economic growth in Latin America is linked to its below par transport infrastructure</title>
     </programme>
     <programme start="20250703033000 +0000" stop="20250703040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How we live with water - crisis and comeback</title>
     </programme>
     <programme start="20250703040000 +0000" stop="20250703041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3398,10 +3398,10 @@
         <title>News</title>
     </programme>
     <programme start="20250703061500 +0000" stop="20250703063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why stagnant economic growth in Latin America is linked to its below par transport infrastructure</title>
     </programme>
     <programme start="20250703063000 +0000" stop="20250703070000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tourism and mobility: from Earth to orbit</title>
     </programme>
     <programme start="20250703070000 +0000" stop="20250703073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3425,7 +3425,7 @@
         <title>News</title>
     </programme>
     <programme start="20250703103000 +0000" stop="20250703110000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How we live with water - crisis and comeback</title>
     </programme>
     <programme start="20250703110000 +0000" stop="20250703113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3443,7 +3443,7 @@
         <title>News</title>
     </programme>
     <programme start="20250703131500 +0000" stop="20250703133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>From Mujica’s Beetle to the streets of Uruguay: Why classic cars are everywhere</title>
     </programme>
     <programme start="20250703133000 +0000" stop="20250703140000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -3458,7 +3458,7 @@
         <title>News</title>
     </programme>
     <programme start="20250703153000 +0000" stop="20250703160000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>Memory - how does it work and how can we help it?</title>
     </programme>
     <programme start="20250702160000 +0000" stop="20250702220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
