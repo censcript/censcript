@@ -8830,17 +8830,11 @@
 <programme start="20250703020000 +0000" stop="20250703030000 +0000" channel="SPOTV 2.mncvision">
     <title>FIA TCR World Tour Monza</title>
 </programme>
-<programme start="20250703030000 +0000" stop="20250703033000 +0000" channel="SPOTV 2.mncvision">
-    <title>WTT Star Contender Ljubljana</title>
-</programme>
-<programme start="20250703033000 +0000" stop="20250703073000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250703030000 +0000" stop="20250703073000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250703073000 +0000" stop="20250703113000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250703073000 +0000" stop="20250703115500 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
-</programme>
-<programme start="20250703113000 +0000" stop="20250703115500 +0000" channel="SPOTV 2.mncvision">
-    <title>2024/25 A-League Men HL</title>
 </programme>
 <programme start="20250703115500 +0000" stop="20250703160000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles (L)</title>
@@ -8869,17 +8863,11 @@
 <programme start="20250703020000 +0000" stop="20250703030000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>FIA TCR World Tour Monza</title>
 </programme>
-<programme start="20250703030000 +0000" stop="20250703033000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>WTT Star Contender Ljubljana</title>
-</programme>
-<programme start="20250703033000 +0000" stop="20250703073000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250703030000 +0000" stop="20250703073000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250703073000 +0000" stop="20250703113000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250703073000 +0000" stop="20250703115500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
-</programme>
-<programme start="20250703113000 +0000" stop="20250703115500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2024/25 A-League Men HL</title>
 </programme>
 <programme start="20250703115500 +0000" stop="20250703160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles (L)</title>
