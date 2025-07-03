@@ -2899,6 +2899,72 @@
 <programme start="20250703203000 +0000" stop="20250703223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
+<programme start="20250702220000 +0000" stop="20250702223000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250702223000 +0000" stop="20250702233000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights Amundi German Masters</title>
+</programme>
+<programme start="20250702233000 +0000" stop="20250703000000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Italian Open</title>
+</programme>
+<programme start="20250703000000 +0000" stop="20250703030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Rocket Mortgage Classic, 4. Tag in Detroit, MI (USA)</title>
+</programme>
+<programme start="20250703030000 +0000" stop="20250703033000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250703033000 +0000" stop="20250703034500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (1)</title>
+</programme>
+<programme start="20250703034500 +0000" stop="20250703040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (2)</title>
+</programme>
+<programme start="20250703040000 +0000" stop="20250703041500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (3)</title>
+</programme>
+<programme start="20250703041500 +0000" stop="20250703044500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
+</programme>
+<programme start="20250703044500 +0000" stop="20250703051500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
+</programme>
+<programme start="20250703051500 +0000" stop="20250703054500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (3)</title>
+</programme>
+<programme start="20250703054500 +0000" stop="20250703061500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20250703061500 +0000" stop="20250703064500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20250703064500 +0000" stop="20250703071500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (6)</title>
+</programme>
+<programme start="20250703071500 +0000" stop="20250703080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
+</programme>
+<programme start="20250703080000 +0000" stop="20250703084500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: The Legend of Bernhard Langer</title>
+</programme>
+<programme start="20250703084500 +0000" stop="20250703093000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tiger 2000</title>
+</programme>
+<programme start="20250703093000 +0000" stop="20250703100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Le Vaudreuil Golf Challenge</title>
+</programme>
+<programme start="20250703100000 +0000" stop="20250703103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Cut</title>
+</programme>
+<programme start="20250703103000 +0000" stop="20250703160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: BMW International Open, 1. Tag in Eichenried</title>
+</programme>
+<programme start="20250703160000 +0000" stop="20250703200000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: John Deere Classic, 1. Tag (Early Coverage)</title>
+</programme>
+<programme start="20250703200000 +0000" stop="20250703230000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: John Deere Classic, 1. Tag in Silvis, IL (USA)</title>
+</programme>
 <programme start="20250702220000 +0000" stop="20250702230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
 </programme>

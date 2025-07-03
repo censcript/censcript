@@ -3008,7 +3008,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250703003000 +0000" stop="20250703010000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Connecting</title>
 </programme>
 <programme start="20250703010000 +0000" stop="20250703011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3023,16 +3023,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250703023000 +0000" stop="20250703030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Tourism</title>
 </programme>
 <programme start="20250703030000 +0000" stop="20250703031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250703031500 +0000" stop="20250703033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Transforming Business</title>
 </programme>
 <programme start="20250703033000 +0000" stop="20250703040000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Crisis And Comeback</title>
 </programme>
 <programme start="20250703040000 +0000" stop="20250703041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3053,10 +3053,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20250703061500 +0000" stop="20250703063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Transforming Business</title>
 </programme>
 <programme start="20250703063000 +0000" stop="20250703070000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Tourism</title>
 </programme>
 <programme start="20250703070000 +0000" stop="20250703073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3080,7 +3080,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250703103000 +0000" stop="20250703110000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Crisis And Comeback</title>
 </programme>
 <programme start="20250703110000 +0000" stop="20250703113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -8484,168 +8484,6 @@
 </programme>
 <programme start="20250703153000 +0000" stop="20250703160000 +0000" channel="Sportstars.mncvision">
     <title>Volleyball Nations League Men</title>
-</programme>
-<programme start="20250702173000 +0000" stop="20250702190000 +0000" channel="Sportstars 2.mncvision">
-    <title>GAMMA World MMA C&#039;ship 2024</title>
-</programme>
-<programme start="20250702190000 +0000" stop="20250702210000 +0000" channel="Sportstars 2.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20250702210000 +0000" stop="20250702233000 +0000" channel="Sportstars 2.mncvision">
-    <title>Kapal Api Indonesia Open 2025</title>
-</programme>
-<programme start="20250702233000 +0000" stop="20250703000000 +0000" channel="Sportstars 2.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20250703000000 +0000" stop="20250703003000 +0000" channel="Sportstars 2.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20250703003000 +0000" stop="20250703023000 +0000" channel="Sportstars 2.mncvision">
-    <title>FIBA Asia Cup Qualifiers</title>
-</programme>
-<programme start="20250703023000 +0000" stop="20250703030000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20250703030000 +0000" stop="20250703050000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC Asian Qualifiers Road To 26</title>
-</programme>
-<programme start="20250703050000 +0000" stop="20250703070000 +0000" channel="Sportstars 2.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20250703070000 +0000" stop="20250703083000 +0000" channel="Sportstars 2.mncvision">
-    <title>GAMMA World MMA C&#039;ship 2024</title>
-</programme>
-<programme start="20250703083000 +0000" stop="20250703103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC Asian Qualifiers Road To 26</title>
-</programme>
-<programme start="20250703103000 +0000" stop="20250703130000 +0000" channel="Sportstars 2.mncvision">
-    <title>Kapal Api Indonesia Open 2025</title>
-</programme>
-<programme start="20250703130000 +0000" stop="20250703150000 +0000" channel="Sportstars 2.mncvision">
-    <title>FIBA Asia Cup Qualifiers</title>
-</programme>
-<programme start="20250703150000 +0000" stop="20250703153000 +0000" channel="Sportstars 2.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250703153000 +0000" stop="20250703160000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250702173000 +0000" stop="20250702190000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>GAMMA World MMA C&#039;ship 2024</title>
-</programme>
-<programme start="20250702190000 +0000" stop="20250702210000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20250702210000 +0000" stop="20250702233000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Kapal Api Indonesia Open 2025</title>
-</programme>
-<programme start="20250702233000 +0000" stop="20250703000000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20250703000000 +0000" stop="20250703003000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20250703003000 +0000" stop="20250703023000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>FIBA Asia Cup Qualifiers</title>
-</programme>
-<programme start="20250703023000 +0000" stop="20250703030000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20250703030000 +0000" stop="20250703050000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC Asian Qualifiers Road To 26</title>
-</programme>
-<programme start="20250703050000 +0000" stop="20250703070000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20250703070000 +0000" stop="20250703083000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>GAMMA World MMA C&#039;ship 2024</title>
-</programme>
-<programme start="20250703083000 +0000" stop="20250703103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC Asian Qualifiers Road To 26</title>
-</programme>
-<programme start="20250703103000 +0000" stop="20250703130000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Kapal Api Indonesia Open 2025</title>
-</programme>
-<programme start="20250703130000 +0000" stop="20250703150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>FIBA Asia Cup Qualifiers</title>
-</programme>
-<programme start="20250703150000 +0000" stop="20250703153000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250703153000 +0000" stop="20250703160000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sportacular Match</title>
-</programme>
-<programme start="20250702170000 +0000" stop="20250702190000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2: DTS Vs PSB</title>
-</programme>
-<programme start="20250702190000 +0000" stop="20250702210000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1: PSO Vs PSJ</title>
-</programme>
-<programme start="20250702210000 +0000" stop="20250702230000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250702230000 +0000" stop="20250703010000 +0000" channel="Sportstars 3.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20250703010000 +0000" stop="20250703030000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2: DTS Vs PSB</title>
-</programme>
-<programme start="20250703030000 +0000" stop="20250703050000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1: PSO Vs PSJ</title>
-</programme>
-<programme start="20250703050000 +0000" stop="20250703070000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250703070000 +0000" stop="20250703090000 +0000" channel="Sportstars 3.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20250703090000 +0000" stop="20250703110000 +0000" channel="Sportstars 3.mncvision">
-    <title>Liga 2: BFC Vs JAP</title>
-</programme>
-<programme start="20250703110000 +0000" stop="20250703130000 +0000" channel="Sportstars 3.mncvision">
-    <title>BRI Liga 1: PSJ Vs PSB</title>
-</programme>
-<programme start="20250703130000 +0000" stop="20250703150000 +0000" channel="Sportstars 3.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250703150000 +0000" stop="20250703153000 +0000" channel="Sportstars 3.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20250702170000 +0000" stop="20250702190000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: DTS Vs PSB</title>
-</programme>
-<programme start="20250702190000 +0000" stop="20250702210000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSO Vs PSJ</title>
-</programme>
-<programme start="20250702210000 +0000" stop="20250702230000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250702230000 +0000" stop="20250703010000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20250703010000 +0000" stop="20250703030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: DTS Vs PSB</title>
-</programme>
-<programme start="20250703030000 +0000" stop="20250703050000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSO Vs PSJ</title>
-</programme>
-<programme start="20250703050000 +0000" stop="20250703070000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250703070000 +0000" stop="20250703090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20250703090000 +0000" stop="20250703110000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Liga 2: BFC Vs JAP</title>
-</programme>
-<programme start="20250703110000 +0000" stop="20250703130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>BRI Liga 1: PSJ Vs PSB</title>
-</programme>
-<programme start="20250703130000 +0000" stop="20250703150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250703150000 +0000" stop="20250703153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>UEFA Nations League</title>
 </programme>
 <programme start="20250702170000 +0000" stop="20250702190000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
