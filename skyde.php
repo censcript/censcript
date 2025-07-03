@@ -943,19 +943,19 @@
 <programme start="20250704063000 +0000" stop="20250704070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 22. Spieltag</title>
 </programme>
-<programme start="20250704070000 +0000" stop="20250704073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704070000 +0000" stop="20250704074000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250704073000 +0000" stop="20250704093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704074000 +0000" stop="20250704094000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20250704093000 +0000" stop="20250704113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704094000 +0000" stop="20250704113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20250704113000 +0000" stop="20250704120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704113000 +0000" stop="20250704121000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250704120000 +0000" stop="20250704140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704121000 +0000" stop="20250704140000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
 <programme start="20250704140000 +0000" stop="20250704143000 +0000" channel="DAZN 1 HD.skyde">
@@ -970,10 +970,10 @@
 <programme start="20250704155000 +0000" stop="20250704180000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Women&#039;s Championship 2025 Switzerland: Dänemark - Schweden</title>
 </programme>
-<programme start="20250704180000 +0000" stop="20250704184000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704180000 +0000" stop="20250704183000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250704184000 +0000" stop="20250704210000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250704183000 +0000" stop="20250704210000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Women&#039;s Championship 2025 Switzerland: Deutschland - Polen</title>
 </programme>
 <programme start="20250704210000 +0000" stop="20250704213000 +0000" channel="DAZN 1 HD.skyde">
@@ -2812,8 +2812,11 @@
 <programme start="20250704211500 +0000" stop="20250704231500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Karlsruher SC - 1. FC Kaiserslautern, 32. Spieltag</title>
 </programme>
-<programme start="20250703223000 +0000" stop="20250703233000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Opening Show Sky UK</title>
+<programme start="20250703223000 +0000" stop="20250703231500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Hardenacke trifft... (Gast: Sebastian Vettel)</title>
+</programme>
+<programme start="20250703231500 +0000" stop="20250703233000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Warm Up - Das Motorsport Spezial</title>
 </programme>
 <programme start="20250703233000 +0000" stop="20250704000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: GP Confidential</title>
@@ -2846,13 +2849,13 @@
     <title>Live F3: Training - GP Großbritannien</title>
 </programme>
 <programme start="20250704084000 +0000" stop="20250704090000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 7. Episode</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250704090000 +0000" stop="20250704095500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Training - GP Großbritannien</title>
 </programme>
 <programme start="20250704095500 +0000" stop="20250704110000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Opening Show Sky UK</title>
+    <title>F1: Pressekonferenz Fahrer - GP Großbritannien</title>
 </programme>
 <programme start="20250704110000 +0000" stop="20250704111500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Warm Up - Das Motorsport Spezial</title>
@@ -2864,7 +2867,7 @@
     <title>Live F3: Qualifying - GP Großbritannien</title>
 </programme>
 <programme start="20250704134000 +0000" stop="20250704135500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 7. Episode</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250704135500 +0000" stop="20250704143500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Großbritannien</title>
@@ -2888,7 +2891,7 @@
     <title>F1: 2. Freies Training - GP Großbritannien</title>
 </programme>
 <programme start="20250704210000 +0000" stop="20250704220000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Opening Show Sky UK</title>
+    <title>F1: Pressekonferenz Fahrer - GP Großbritannien</title>
 </programme>
 <programme start="20250703230000 +0000" stop="20250704020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW International Open, 1. Tag in Eichenried</title>
@@ -3224,7 +3227,7 @@
     <title>Live F3: Training - GP Großbritannien</title>
 </programme>
 <programme start="20250704084000 +0000" stop="20250704090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Chasing the Dream: 7. Episode</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250704090000 +0000" stop="20250704095500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: Training - GP Großbritannien</title>
@@ -3293,7 +3296,7 @@
     <title>Live F3: Training - GP Großbritannien</title>
 </programme>
 <programme start="20250704084000 +0000" stop="20250704090000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: 7. Episode</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250704090000 +0000" stop="20250704095500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Training - GP Großbritannien</title>
@@ -3311,7 +3314,7 @@
     <title>Live F3: Qualifying - GP Großbritannien</title>
 </programme>
 <programme start="20250704134000 +0000" stop="20250704135500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: 7. Episode</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250704135500 +0000" stop="20250704143500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Qualifying - GP Großbritannien</title>
@@ -3343,7 +3346,7 @@
 <programme start="20250704144000 +0000" stop="20250704150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250704150000 +0000" stop="20250704180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250704150000 +0000" stop="20250704190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf Ladies ET: KPMG Women&#039;s Irish Open, 2. Tag in Maynooth (Irland)</title>
 </programme>
 <programme start="20250703223000 +0000" stop="20250703232500 +0000" channel="SYFY HD.skyde">
