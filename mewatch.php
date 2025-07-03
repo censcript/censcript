@@ -166,19 +166,19 @@
     <programme start="20250702160000 +0000" stop="20250702170000 +0000" channel="Channel 8.mewatch">
         <title>Lost You Forever - EP 11</title>
     </programme>
-    <programme start="20250702170000 +0000" stop="20250702180000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250702170000 +0000" stop="20250702180100 +0000" channel="Channel 8.mewatch">
         <title>Heart Warmers - EP 6</title>
     </programme>
-    <programme start="20250702180000 +0000" stop="20250702190100 +0000" channel="Channel 8.mewatch">
+    <programme start="20250702180100 +0000" stop="20250702190200 +0000" channel="Channel 8.mewatch">
         <title>Your Hand In Mine - EP 12</title>
     </programme>
-    <programme start="20250702190100 +0000" stop="20250702200100 +0000" channel="Channel 8.mewatch">
+    <programme start="20250702190200 +0000" stop="20250702200200 +0000" channel="Channel 8.mewatch">
         <title>Your Hand In Mine - EP 13</title>
     </programme>
-    <programme start="20250702200100 +0000" stop="20250702205900 +0000" channel="Channel 8.mewatch">
+    <programme start="20250702200200 +0000" stop="20250702210000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 57</title>
     </programme>
-    <programme start="20250702205900 +0000" stop="20250702220000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250702210000 +0000" stop="20250702220000 +0000" channel="Channel 8.mewatch">
         <title>Golden City - EP 58</title>
     </programme>
     <programme start="20250702220000 +0000" stop="20250702230000 +0000" channel="Channel 8.mewatch">
@@ -283,13 +283,13 @@
     <programme start="20250702153119 +0000" stop="20250702163100 +0000" channel="Channel U.mewatch">
         <title>Against All Odds - EP 8</title>
     </programme>
-    <programme start="20250702163000 +0000" stop="20250702172900 +0000" channel="Channel U.mewatch">
+    <programme start="20250702163100 +0000" stop="20250702173000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 62</title>
     </programme>
-    <programme start="20250702172900 +0000" stop="20250702182900 +0000" channel="Channel U.mewatch">
+    <programme start="20250702173000 +0000" stop="20250702183000 +0000" channel="Channel U.mewatch">
         <title>The Secret House - EP 63</title>
     </programme>
-    <programme start="20250702182900 +0000" stop="20250703025800 +0000" channel="Channel U.mewatch">
+    <programme start="20250702183000 +0000" stop="20250703025800 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20250703025800 +0000" stop="20250703031200 +0000" channel="Channel U.mewatch">
@@ -541,22 +541,22 @@
     <programme start="20250702160000 +0000" stop="20250702160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20250702160300 +0000" stop="20250702170000 +0000" channel="CNA.mewatch">
+    <programme start="20250702160300 +0000" stop="20250702170100 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20250702170000 +0000" stop="20250702180000 +0000" channel="CNA.mewatch">
+    <programme start="20250702170100 +0000" stop="20250702180000 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 2</title>
     </programme>
-    <programme start="20250702180000 +0000" stop="20250702190000 +0000" channel="CNA.mewatch">
+    <programme start="20250702180000 +0000" stop="20250702185900 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20250702190000 +0000" stop="20250702195900 +0000" channel="CNA.mewatch">
+    <programme start="20250702185900 +0000" stop="20250702200000 +0000" channel="CNA.mewatch">
         <title>Dare To Dream - EP 1</title>
     </programme>
-    <programme start="20250702195900 +0000" stop="20250702205900 +0000" channel="CNA.mewatch">
+    <programme start="20250702200000 +0000" stop="20250702210100 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
-    <programme start="20250702205900 +0000" stop="20250702212900 +0000" channel="CNA.mewatch">
+    <programme start="20250702210100 +0000" stop="20250702212900 +0000" channel="CNA.mewatch">
         <title>In Search of Heat S2 - EP 5</title>
     </programme>
     <programme start="20250702212900 +0000" stop="20250702220000 +0000" channel="CNA.mewatch">

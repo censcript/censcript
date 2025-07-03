@@ -8203,10 +8203,10 @@
     <programme start="20250702233000 +0000" stop="20250703013000 +0000" channel="Asianet Movies.starhub">
         <title>By The People</title>
     </programme>
-    <programme start="20250703013000 +0000" stop="20250703043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250703013000 +0000" stop="20250703042500 +0000" channel="Asianet Movies.starhub">
         <title>Crazy Gopalan</title>
     </programme>
-    <programme start="20250703043000 +0000" stop="20250703073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250703042500 +0000" stop="20250703073000 +0000" channel="Asianet Movies.starhub">
         <title>Lucifer</title>
     </programme>
     <programme start="20250703073000 +0000" stop="20250703103000 +0000" channel="Asianet Movies.starhub">
