@@ -5356,8 +5356,11 @@
     <programme start="20250703020000 +0000" stop="20250703030000 +0000" channel="SPOTV.starhub">
         <title>Highlights Day 3</title>
     </programme>
-    <programme start="20250703030000 +0000" stop="20250703113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250703030000 +0000" stop="20250703093000 +0000" channel="SPOTV.starhub">
         <title>Gentlemen&#039;s and Ladies Singles Second Round</title>
+    </programme>
+    <programme start="20250703093000 +0000" stop="20250703113000 +0000" channel="SPOTV.starhub">
+        <title>Race 2</title>
     </programme>
     <programme start="20250703113000 +0000" stop="20250703122500 +0000" channel="SPOTV.starhub">
         <title>Highlights Day 3</title>
