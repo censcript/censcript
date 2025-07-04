@@ -488,7 +488,7 @@
         <title>Vadi Ready Vedi 2 - EP 8</title>
     </programme>
     <programme start="20250704080000 +0000" stop="20250704103000 +0000" channel="Vasantham.mewatch">
-        <title>Repeat Shoe</title>
+        <title>Johnny</title>
     </programme>
     <programme start="20250704103000 +0000" stop="20250704110000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 4 - EP 31</title>
