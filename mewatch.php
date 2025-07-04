@@ -580,7 +580,7 @@
     <programme start="20250704150000 +0000" stop="20250704160000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 11</title>
     </programme>
-    <programme start="20250704160000 +0000" stop="20250704160300 +0000" channel="CNA.mewatch">
+    <programme start="20250704160000 +0000" stop="20250705160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250703160000 +0000" stop="20250704160000 +0000" channel="Oktolidays.mewatch">

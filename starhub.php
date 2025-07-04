@@ -7313,7 +7313,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250704023000 +0000" stop="20250704030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Natural and Cultual Delights</title>
     </programme>
     <programme start="20250704030000 +0000" stop="20250704033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7343,7 +7343,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250704073000 +0000" stop="20250704080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Natural and Cultual Delights</title>
     </programme>
     <programme start="20250704080000 +0000" stop="20250704083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7388,7 +7388,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250704133000 +0000" stop="20250704140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Natural and Cultual Delights</title>
     </programme>
     <programme start="20250704140000 +0000" stop="20250704143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
