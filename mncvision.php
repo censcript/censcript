@@ -8719,14 +8719,17 @@
 <programme start="20250704030500 +0000" stop="20250704033000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 World Sailing Show, Ep 6</title>
 </programme>
-<programme start="20250704033000 +0000" stop="20250704073000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250704033000 +0000" stop="20250704063000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250704073000 +0000" stop="20250704113000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250704063000 +0000" stop="20250704095500 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250704113000 +0000" stop="20250704115500 +0000" channel="SPOTV 2.mncvision">
-    <title>2024/25 A-League Men HL</title>
+<programme start="20250704095500 +0000" stop="20250704104500 +0000" channel="SPOTV 2.mncvision">
+    <title>PSA: Manchester Open 2025 HL</title>
+</programme>
+<programme start="20250704104500 +0000" stop="20250704115500 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT Champions Chongqing &#039;25</title>
 </programme>
 <programme start="20250704115500 +0000" stop="20250704160000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles (L)</title>
@@ -8755,14 +8758,17 @@
 <programme start="20250704030500 +0000" stop="20250704033000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 World Sailing Show, Ep 6</title>
 </programme>
-<programme start="20250704033000 +0000" stop="20250704073000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250704033000 +0000" stop="20250704063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250704073000 +0000" stop="20250704113000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250704063000 +0000" stop="20250704095500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250704113000 +0000" stop="20250704115500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2024/25 A-League Men HL</title>
+<programme start="20250704095500 +0000" stop="20250704104500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>PSA: Manchester Open 2025 HL</title>
+</programme>
+<programme start="20250704104500 +0000" stop="20250704115500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT Champions Chongqing &#039;25</title>
 </programme>
 <programme start="20250704115500 +0000" stop="20250704160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles (L)</title>

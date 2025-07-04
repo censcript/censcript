@@ -5048,7 +5048,7 @@
         <title>Ishttam Mathram</title>
     </programme>
     <programme start="20250703233000 +0000" stop="20250704020000 +0000" channel="Asianet.starhub">
-        <title>Midhunam</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250704020000 +0000" stop="20250704023000 +0000" channel="Asianet.starhub">
         <title>Mounaragam</title>
@@ -5069,7 +5069,7 @@
         <title>Chempaneerpovu</title>
     </programme>
     <programme start="20250704050000 +0000" stop="20250704073000 +0000" channel="Asianet.starhub">
-        <title>Malayankunju</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250704073000 +0000" stop="20250704080000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -8314,19 +8314,19 @@
     <programme start="20250703214000 +0000" stop="20250703230700 +0000" channel="SPOTV2.starhub">
         <title>Practice - MotoGP</title>
     </programme>
-    <programme start="20250703230700 +0000" stop="20250704020000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250703230700 +0000" stop="20250704023000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025: Regular season Toronto Blue Jays vs New York Yankees</title>
     </programme>
-    <programme start="20250704020000 +0000" stop="20250704030500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250704023000 +0000" stop="20250704034000 +0000" channel="SPOTV2.starhub">
         <title>Rd8 Race</title>
     </programme>
-    <programme start="20250704030500 +0000" stop="20250704033000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250704034000 +0000" stop="20250704040500 +0000" channel="SPOTV2.starhub">
         <title>2025 World Sailing Show</title>
     </programme>
-    <programme start="20250704033000 +0000" stop="20250704113000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250704040500 +0000" stop="20250704104000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Second Round</title>
     </programme>
-    <programme start="20250704113000 +0000" stop="20250704115500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250704104000 +0000" stop="20250704115500 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20250704115500 +0000" stop="20250704200000 +0000" channel="SPOTV2.starhub">
