@@ -295,14 +295,11 @@
     <programme start="20250704150000 +0000" stop="20250704173000 +0000" channel="Zee Thirai.starhub">
         <title>Movie - Thumbaa</title>
     </programme>
-    <programme start="20250703160000 +0000" stop="20250703163000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
-    </programme>
-    <programme start="20250703163000 +0000" stop="20250703170000 +0000" channel="Zee TV.starhub">
+    <programme start="20250703160000 +0000" stop="20250703170000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
     </programme>
     <programme start="20250703170000 +0000" stop="20250703173000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Bhabi Ji Ghar Par Hain!</title>
     </programme>
     <programme start="20250703173000 +0000" stop="20250703180000 +0000" channel="Zee TV.starhub">
         <title>Kumkum Bhagya</title>
@@ -314,22 +311,19 @@
         <title>Jamai No.1</title>
     </programme>
     <programme start="20250703190000 +0000" stop="20250703193000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Bhabi Ji Ghar Par Hain!</title>
     </programme>
     <programme start="20250703193000 +0000" stop="20250703200000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
     </programme>
     <programme start="20250703200000 +0000" stop="20250703203000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti</title>
+        <title>Saru</title>
     </programme>
     <programme start="20250703203000 +0000" stop="20250703210000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>
     </programme>
-    <programme start="20250703210000 +0000" stop="20250703213000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
-    </programme>
-    <programme start="20250703213000 +0000" stop="20250703220000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+    <programme start="20250703210000 +0000" stop="20250703220000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti</title>
     </programme>
     <programme start="20250703220000 +0000" stop="20250703230000 +0000" channel="Zee TV.starhub">
         <title>Gurbani</title>
@@ -343,14 +337,11 @@
     <programme start="20250704000000 +0000" stop="20250704003000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
     </programme>
-    <programme start="20250704003000 +0000" stop="20250704010000 +0000" channel="Zee TV.starhub">
+    <programme start="20250704003000 +0000" stop="20250704013000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
     </programme>
-    <programme start="20250704010000 +0000" stop="20250704013000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
-    </programme>
     <programme start="20250704013000 +0000" stop="20250704020000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20250704020000 +0000" stop="20250704023000 +0000" channel="Zee TV.starhub">
         <title>Jamai No.1</title>
@@ -362,7 +353,7 @@
         <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20250704033000 +0000" stop="20250704040000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Bhabi Ji Ghar Par Hain!</title>
     </programme>
     <programme start="20250704040000 +0000" stop="20250704070000 +0000" channel="Zee TV.starhub">
         <title>Raazi</title>
@@ -373,29 +364,23 @@
     <programme start="20250704080000 +0000" stop="20250704083000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>
     </programme>
-    <programme start="20250704083000 +0000" stop="20250704090000 +0000" channel="Zee TV.starhub">
+    <programme start="20250704083000 +0000" stop="20250704093000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
     </programme>
-    <programme start="20250704090000 +0000" stop="20250704093000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
-    </programme>
-    <programme start="20250704093000 +0000" stop="20250704103000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
-    </programme>
-    <programme start="20250704103000 +0000" stop="20250704110000 +0000" channel="Zee TV.starhub">
-        <title>Jagriti</title>
-    </programme>
-    <programme start="20250704110000 +0000" stop="20250704113000 +0000" channel="Zee TV.starhub">
+    <programme start="20250704093000 +0000" stop="20250704100000 +0000" channel="Zee TV.starhub">
         <title>Jamai No.1</title>
     </programme>
-    <programme start="20250704113000 +0000" stop="20250704120000 +0000" channel="Zee TV.starhub">
+    <programme start="20250704100000 +0000" stop="20250704103000 +0000" channel="Zee TV.starhub">
         <title>Saru</title>
     </programme>
-    <programme start="20250704120000 +0000" stop="20250704123000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
+    <programme start="20250704103000 +0000" stop="20250704113000 +0000" channel="Zee TV.starhub">
+        <title>Jagriti</title>
     </programme>
-    <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+    <programme start="20250704113000 +0000" stop="20250704121500 +0000" channel="Zee TV.starhub">
+        <title>Jamai No.1</title>
+    </programme>
+    <programme start="20250704121500 +0000" stop="20250704130000 +0000" channel="Zee TV.starhub">
+        <title>Saru</title>
     </programme>
     <programme start="20250704130000 +0000" stop="20250704133000 +0000" channel="Zee TV.starhub">
         <title>Kumkum Bhagya</title>
@@ -404,10 +389,10 @@
         <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20250704140000 +0000" stop="20250704143000 +0000" channel="Zee TV.starhub">
-        <title>Jamai No.1</title>
+        <title>Vasudha</title>
     </programme>
     <programme start="20250704143000 +0000" stop="20250704150000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Bhabi Ji Ghar Par Hain!</title>
     </programme>
     <programme start="20250704150000 +0000" stop="20250704153000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>

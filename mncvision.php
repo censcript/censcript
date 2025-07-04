@@ -199,42 +199,7 @@
 <programme start="20250704163000 +0000" stop="20250703170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Boycott: The Template</title>
 </programme>
-<programme start="20250703170000 +0000" stop="20250703190000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250703190000 +0000" stop="20250703210000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250703210000 +0000" stop="20250703230000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250703230000 +0000" stop="20250704010000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704010000 +0000" stop="20250704030000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704030000 +0000" stop="20250704050000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704050000 +0000" stop="20250704070000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704070000 +0000" stop="20250704090000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704090000 +0000" stop="20250704110000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704110000 +0000" stop="20250704130000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704130000 +0000" stop="20250704150000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250704150000 +0000" stop="20250704153000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250703170000 +0000" stop="20250703173000 +0000" channel="Animax.mncvision">
     <title>Buddy Daddies, Ep 7</title>
 </programme>
@@ -1699,51 +1664,7 @@
 <programme start="20250704160000 +0000" stop="20250704163000 +0000" channel="BTV.mncvision">
     <title>Mitos Tengah Malam</title>
 </programme>
-<programme start="20250703170500 +0000" stop="20250703183400 +0000" channel="BUDDY STARS.mncvision">
-    <title>The Snow Queen</title>
-</programme>
-<programme start="20250703183400 +0000" stop="20250703201100 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250703201100 +0000" stop="20250703215500 +0000" channel="BUDDY STARS.mncvision">
-    <title>Lena And Snowball</title>
-</programme>
-<programme start="20250703215500 +0000" stop="20250703234000 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250703234000 +0000" stop="20250704012800 +0000" channel="BUDDY STARS.mncvision">
-    <title>Playmobil: The Movie</title>
-</programme>
-<programme start="20250704012800 +0000" stop="20250704031900 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250704031900 +0000" stop="20250704045400 +0000" channel="BUDDY STARS.mncvision">
-    <title>Back To The Jurassic</title>
-</programme>
-<programme start="20250704045400 +0000" stop="20250704062900 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250704062900 +0000" stop="20250704080000 +0000" channel="BUDDY STARS.mncvision">
-    <title>Dreambuilders</title>
-</programme>
-<programme start="20250704080000 +0000" stop="20250704094000 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250704094000 +0000" stop="20250704111900 +0000" channel="BUDDY STARS.mncvision">
-    <title>The Christmas Project</title>
-</programme>
-<programme start="20250704111900 +0000" stop="20250704130100 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250704130100 +0000" stop="20250704145300 +0000" channel="BUDDY STARS.mncvision">
-    <title>Code M</title>
-</programme>
-<programme start="20250704145300 +0000" stop="20250704163700 +0000" channel="BUDDY STARS.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20250704163700 +0000" stop="20250703170700 +0000" channel="BUDDY STARS.mncvision">
-    <title>Pokemon: Zoroark Master Of...</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250703170500 +0000" stop="20250703183400 +0000" channel="BUDDY STARS HD.mncvision">
     <title>The Snow Queen</title>
 </programme>
@@ -3100,63 +3021,7 @@
 <programme start="20250704121500 +0000" stop="20250704124500 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
-<programme start="20250703180000 +0000" stop="20250703190000 +0000" channel="Entertainment.mncvision">
-    <title>Untold Story</title>
-</programme>
-<programme start="20250703190000 +0000" stop="20250703200000 +0000" channel="Entertainment.mncvision">
-    <title>Siapa Berani?</title>
-</programme>
-<programme start="20250703200000 +0000" stop="20250703210000 +0000" channel="Entertainment.mncvision">
-    <title>Uang Kaget Lagi</title>
-</programme>
-<programme start="20250703210000 +0000" stop="20250703220000 +0000" channel="Entertainment.mncvision">
-    <title>Masihkah Kau Mencintaiku</title>
-</programme>
-<programme start="20250703220000 +0000" stop="20250703233000 +0000" channel="Entertainment.mncvision">
-    <title>The Singing Bee Indonesia</title>
-</programme>
-<programme start="20250703233000 +0000" stop="20250704010000 +0000" channel="Entertainment.mncvision">
-    <title>Asal (Asli Atau Palsu)</title>
-</programme>
-<programme start="20250704010000 +0000" stop="20250704013000 +0000" channel="Entertainment.mncvision">
-    <title>Legenda Sang Penunggu</title>
-</programme>
-<programme start="20250704013000 +0000" stop="20250704030000 +0000" channel="Entertainment.mncvision">
-    <title>Family 100</title>
-</programme>
-<programme start="20250704030000 +0000" stop="20250704040000 +0000" channel="Entertainment.mncvision">
-    <title>Uang Kaget Lagi</title>
-</programme>
-<programme start="20250704040000 +0000" stop="20250704050000 +0000" channel="Entertainment.mncvision">
-    <title>Bus Jutawan</title>
-</programme>
-<programme start="20250704050000 +0000" stop="20250704060000 +0000" channel="Entertainment.mncvision">
-    <title>Superdeal Indonesia</title>
-</programme>
-<programme start="20250704060000 +0000" stop="20250704080000 +0000" channel="Entertainment.mncvision">
-    <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20250704080000 +0000" stop="20250704090000 +0000" channel="Entertainment.mncvision">
-    <title>Lucky Spinner Indonesia</title>
-</programme>
-<programme start="20250704090000 +0000" stop="20250704100000 +0000" channel="Entertainment.mncvision">
-    <title>Siapa Berani?</title>
-</programme>
-<programme start="20250704100000 +0000" stop="20250704113000 +0000" channel="Entertainment.mncvision">
-    <title>Asal (Asli Atau Palsu)</title>
-</programme>
-<programme start="20250704113000 +0000" stop="20250704123000 +0000" channel="Entertainment.mncvision">
-    <title>Untold Story</title>
-</programme>
-<programme start="20250704123000 +0000" stop="20250704143000 +0000" channel="Entertainment.mncvision">
-    <title>The Voice All Stars Indonesia</title>
-</programme>
-<programme start="20250704143000 +0000" stop="20250704163000 +0000" channel="Entertainment.mncvision">
-    <title>Masihkah Kau Mencintaiku</title>
-</programme>
-<programme start="20250704163000 +0000" stop="20250703170000 +0000" channel="Entertainment.mncvision">
-    <title>The Singing Bee Indonesia</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250703170000 +0000" stop="20250703171500 +0000" channel="EURONEWS.mncvision">
     <title>The European Debrief</title>
 </programme>
@@ -4930,87 +4795,7 @@
 <programme start="20250704163000 +0000" stop="20250703170000 +0000" channel="iNews.mncvision">
     <title>New Top Files</title>
 </programme>
-<programme start="20250703170000 +0000" stop="20250703173000 +0000" channel="iNews HD.mncvision">
-    <title>Realita</title>
-</programme>
-<programme start="20250703173000 +0000" stop="20250703190000 +0000" channel="iNews HD.mncvision">
-    <title>AFC Asian Cup Qatar: VIE Vs IDN</title>
-</programme>
-<programme start="20250703190000 +0000" stop="20250703194500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20250703194500 +0000" stop="20250703201500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam</title>
-</programme>
-<programme start="20250703201500 +0000" stop="20250703210000 +0000" channel="iNews HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20250703210000 +0000" stop="20250703211500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20250703211500 +0000" stop="20250703230000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20250703230000 +0000" stop="20250703230200 +0000" channel="iNews HD.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20250703230200 +0000" stop="20250703233000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport Pagi (L)</title>
-</programme>
-<programme start="20250703233000 +0000" stop="20250704000000 +0000" channel="iNews HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20250704000000 +0000" stop="20250704003000 +0000" channel="iNews HD.mncvision">
-    <title>iBreak: One Enterpreneur</title>
-</programme>
-<programme start="20250704003000 +0000" stop="20250704010000 +0000" channel="iNews HD.mncvision">
-    <title>Morning Update</title>
-</programme>
-<programme start="20250704010000 +0000" stop="20250704013000 +0000" channel="iNews HD.mncvision">
-    <title>OMG</title>
-</programme>
-<programme start="20250704013000 +0000" stop="20250704023000 +0000" channel="iNews HD.mncvision">
-    <title>Lapor Polisi (L)</title>
-</programme>
-<programme start="20250704023000 +0000" stop="20250704040000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Today (L)</title>
-</programme>
-<programme start="20250704040000 +0000" stop="20250704060000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Siang (L)</title>
-</programme>
-<programme start="20250704060000 +0000" stop="20250704063000 +0000" channel="iNews HD.mncvision">
-    <title>Pemimpin Rakyat (L)</title>
-</programme>
-<programme start="20250704063000 +0000" stop="20250704070000 +0000" channel="iNews HD.mncvision">
-    <title>Silet</title>
-</programme>
-<programme start="20250704070000 +0000" stop="20250704083000 +0000" channel="iNews HD.mncvision">
-    <title>iSeleb (L)</title>
-</programme>
-<programme start="20250704083000 +0000" stop="20250704100000 +0000" channel="iNews HD.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20250704100000 +0000" stop="20250704120000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20250704120000 +0000" stop="20250704130000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20250704130000 +0000" stop="20250704140000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20250704140000 +0000" stop="20250704150000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20250704150000 +0000" stop="20250704160000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20250704160000 +0000" stop="20250704163000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20250704163000 +0000" stop="20250703170000 +0000" channel="iNews HD.mncvision">
-    <title>New Top Files</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250703230000 +0000" stop="20250703233000 +0000" channel="JAKTV.mncvision">
     <title>Inovator</title>
 </programme>
