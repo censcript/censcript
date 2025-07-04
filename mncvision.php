@@ -1019,7 +1019,7 @@
     <title>BBC News Now</title>
 </programme>
 <programme start="20250704133000 +0000" stop="20250704134500 +0000" channel="BBC World News.mncvision">
-    <title>Business Today: NYSE</title>
+    <title>Business Today</title>
 </programme>
 <programme start="20250704134500 +0000" stop="20250704140000 +0000" channel="BBC World News.mncvision">
     <title>BBC News Now</title>

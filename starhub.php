@@ -2065,13 +2065,16 @@
     <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="beIN Sports 3.starhub">
         <title>Brussels P2</title>
     </programme>
-    <programme start="20250704130000 +0000" stop="20250704131500 +0000" channel="beIN Sports 3.starhub">
-        <title>Qatar Major Men&#039;s Final</title>
+    <programme start="20250704130000 +0000" stop="20250704132000 +0000" channel="beIN Sports 3.starhub">
+        <title>Acapulco P1 Women&#039;s Final</title>
     </programme>
-    <programme start="20250704131500 +0000" stop="20250704154500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250704132000 +0000" stop="20250704153500 +0000" channel="beIN Sports 3.starhub">
         <title>World Rugby U20 Championship 2025 Australia vs Scotland</title>
     </programme>
-    <programme start="20250704154500 +0000" stop="20250704181500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250704153500 +0000" stop="20250704155000 +0000" channel="beIN Sports 3.starhub">
+        <title>Riyadh P1 Men&#039;s Final</title>
+    </programme>
+    <programme start="20250704155000 +0000" stop="20250704180500 +0000" channel="beIN Sports 3.starhub">
         <title>World Rugby U20 Championship 2025 New Zealand vs Georgia</title>
     </programme>
     <programme start="20250703153000 +0000" stop="20250703163000 +0000" channel="Sun Music.starhub">
@@ -2306,22 +2309,25 @@
         <title>Acapulco</title>
     </programme>
     <programme start="20250704090000 +0000" stop="20250704103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Day 5 Women&#039;s Singles Rd 2 Andreeva v Krueger</title>
+        <title>Day 5 Women&#039;s Singles Rd 2 Andreeva v Krueger</title>
     </programme>
     <programme start="20250704103000 +0000" stop="20250704123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2025: Day 5 Men&#039;s Singles Rd 2 De Minaur v Bublik</title>
+        <title>Day 5 Men&#039;s Singles Rd 2 De Minaur v Bublik</title>
     </programme>
     <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
-    <programme start="20250704130000 +0000" stop="20250704131500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Sinner Feature</title>
+    <programme start="20250704130000 +0000" stop="20250704132000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>The Time Travel Challenge</title>
     </programme>
-    <programme start="20250704131500 +0000" stop="20250704154500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby U20 C&#039;ship 2025: France vs Wales</title>
+    <programme start="20250704132000 +0000" stop="20250704153500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>France vs Wales</title>
     </programme>
-    <programme start="20250704154500 +0000" stop="20250704181500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby U20 C&#039;ship 2025: England vs South Africa</title>
+    <programme start="20250704153500 +0000" stop="20250704155000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Sinner Feature</title>
+    </programme>
+    <programme start="20250704155000 +0000" stop="20250704180500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>England vs South Africa</title>
     </programme>
     <programme start="20250703160000 +0000" stop="20250703170000 +0000" channel="TVB Xing He.starhub">
         <title>KUNG FU MASTER, THE</title>
@@ -5036,7 +5042,7 @@
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
     </programme>
     <programme start="20250703190000 +0000" stop="20250703220000 +0000" channel="Asianet.starhub">
-        <title>Marakkar-Arabikkadalinte Simham</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250703220000 +0000" stop="20250703223000 +0000" channel="Asianet.starhub">
         <title>Star Singer Season 10 (Short Version)</title>
