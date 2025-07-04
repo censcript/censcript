@@ -226,7 +226,7 @@
     <programme start="20250705140000 +0000" stop="20250705143000 +0000" channel="Channel 8.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250705143000 +0000" stop="20250705160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250705143000 +0000" stop="20250705170000 +0000" channel="Channel 8.mewatch">
         <title>A Simple Life</title>
     </programme>
     <programme start="20250704153000 +0000" stop="20250704163000 +0000" channel="Channel U.mewatch">
