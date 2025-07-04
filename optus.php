@@ -1,6 +1,3 @@
-    <programme start="20250704184930 +0000" stop="20250704211000 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA Women&#039;s Championship - Germany v Poland</title>
-    </programme>
     <programme start="20250705085500 +0000" stop="20250705111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Machida v Shimizu</title>
     </programme>
