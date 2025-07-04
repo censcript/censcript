@@ -6545,7 +6545,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20250704073000 +0000" stop="20250704080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Natural And Cultural Delights</title>
 </programme>
 <programme start="20250704080000 +0000" stop="20250704083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6590,7 +6590,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20250704133000 +0000" stop="20250704140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Natural And Cultural Delights</title>
 </programme>
 <programme start="20250704140000 +0000" stop="20250704143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
