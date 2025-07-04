@@ -4160,7 +4160,7 @@
     <title>Rating 5</title>
 </programme>
 <programme start="20250704083000 +0000" stop="20250704100000 +0000" channel="GTV.mncvision">
-    <title>Nobita Dan Pulau Keajaiban</title>
+    <title>Shaun The Sheep</title>
 </programme>
 <programme start="20250704100000 +0000" stop="20250704110000 +0000" channel="GTV.mncvision">
     <title>Kisah Viral Specta</title>
@@ -4211,7 +4211,7 @@
     <title>Rating 5</title>
 </programme>
 <programme start="20250704083000 +0000" stop="20250704100000 +0000" channel="GTV HD.mncvision">
-    <title>Nobita Dan Pulau Keajaiban</title>
+    <title>Shaun The Sheep</title>
 </programme>
 <programme start="20250704100000 +0000" stop="20250704110000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Viral Specta</title>

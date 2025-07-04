@@ -3997,9 +3997,6 @@
     <programme start="20250703174500 +0000" stop="20250703180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Kid&#039;s Discovery (R)</title>
     </programme>
-    <programme start="20250703180000 +0000" stop="20250703182500 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother (R)</title>
-    </programme>
     <programme start="20250703182500 +0000" stop="20250703183000 +0000" channel="NHK World Premium HD.starhub">
         <title>Hello! NHK WORLD-JAPAN (R)</title>
     </programme>
