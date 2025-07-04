@@ -1,4 +1,4 @@
-    <programme start="20250704185000 +0000" stop="20250704211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250704184930 +0000" stop="20250704211000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - Germany v Poland</title>
     </programme>
     <programme start="20250705085500 +0000" stop="20250705111000 +0000" channel="Optus Sport 7.optus">
@@ -10,10 +10,10 @@
     <programme start="20250705095500 +0000" stop="20250705121000 +0000" channel="Optus Sport 8.optus">
         <title>J1 League - Yokohama FC v Yokohama FM</title>
     </programme>
-    <programme start="20250705155000 +0000" stop="20250705181000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250705154930 +0000" stop="20250705181000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
     </programme>
-    <programme start="20250705185000 +0000" stop="20250705211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250705184930 +0000" stop="20250705211000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - France v England</title>
     </programme>
     <programme start="20250706155000 +0000" stop="20250706181000 +0000" channel="Optus Sport 1.optus">
