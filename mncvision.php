@@ -6247,7 +6247,78 @@
 <programme start="20250705160000 +0000" stop="20250705163000 +0000" channel="MNCTV.mncvision">
     <title>Radio</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250704170000 +0000" stop="20250704173000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn 2</title>
+</programme>
+<programme start="20250704173000 +0000" stop="20250704190000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn 2</title>
+</programme>
+<programme start="20250704190000 +0000" stop="20250704200000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn 2</title>
+</programme>
+<programme start="20250704200000 +0000" stop="20250704203000 +0000" channel="MNCTV HD.mncvision">
+    <title>Bimbingan Rohani Kristen</title>
+</programme>
+<programme start="20250704203000 +0000" stop="20250704213000 +0000" channel="MNCTV HD.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20250704213000 +0000" stop="20250704220000 +0000" channel="MNCTV HD.mncvision">
+    <title>Jurnal Lintas iNews Pagi</title>
+</programme>
+<programme start="20250704220000 +0000" stop="20250704230000 +0000" channel="MNCTV HD.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250704230000 +0000" stop="20250705000000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kung Fu Panda Sang Pendekar</title>
+</programme>
+<programme start="20250705000000 +0000" stop="20250705003000 +0000" channel="MNCTV HD.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20250705003000 +0000" stop="20250705010000 +0000" channel="MNCTV HD.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20250705010000 +0000" stop="20250705013000 +0000" channel="MNCTV HD.mncvision">
+    <title>Simple Rudy</title>
+</programme>
+<programme start="20250705013000 +0000" stop="20250705020000 +0000" channel="MNCTV HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20250705020000 +0000" stop="20250705040000 +0000" channel="MNCTV HD.mncvision">
+    <title>Pro Futsal League 2024/2025 (L)</title>
+</programme>
+<programme start="20250705040000 +0000" stop="20250705060000 +0000" channel="MNCTV HD.mncvision">
+    <title>Pro Futsal League 2024/2025 (L)</title>
+</programme>
+<programme start="20250705060000 +0000" stop="20250705063000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250705063000 +0000" stop="20250705073000 +0000" channel="MNCTV HD.mncvision">
+    <title>Uang Kaget</title>
+</programme>
+<programme start="20250705073000 +0000" stop="20250705084500 +0000" channel="MNCTV HD.mncvision">
+    <title>Kembalinya Raden Kian Santang</title>
+</programme>
+<programme start="20250705084500 +0000" stop="20250705100000 +0000" channel="MNCTV HD.mncvision">
+    <title>Supermarket Sweep</title>
+</programme>
+<programme start="20250705100000 +0000" stop="20250705120000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250705120000 +0000" stop="20250705122500 +0000" channel="MNCTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250705122500 +0000" stop="20250705123000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kuis Berhadiah Motion Bank</title>
+</programme>
+<programme start="20250705123000 +0000" stop="20250705140000 +0000" channel="MNCTV HD.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250705140000 +0000" stop="20250705160000 +0000" channel="MNCTV HD.mncvision">
+    <title>DMD Panggung Rezeki (L)</title>
+</programme>
+<programme start="20250705160000 +0000" stop="20250705163000 +0000" channel="MNCTV HD.mncvision">
+    <title>Radio</title>
+</programme>
 <programme start="20250704171200 +0000" stop="20250704174000 +0000" channel="Moonbug.mncvision">
     <title>T-Rex Ranch</title>
 </programme>
@@ -7532,7 +7603,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250705154500 +0000" stop="20250705161500 +0000" channel="ONE HD.mncvision">
     <title>Running Man, Ep 669</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250704181400 +0000" stop="20250704214700 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250704214700 +0000" stop="20250704235500 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250704235500 +0000" stop="20250705020100 +0000" channel="ORIGINALS.mncvision">
+    <title>Flawless</title>
+</programme>
+<programme start="20250705020100 +0000" stop="20250705040100 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250705040100 +0000" stop="20250705055000 +0000" channel="ORIGINALS.mncvision">
+    <title>Kill Switch</title>
+</programme>
+<programme start="20250705055000 +0000" stop="20250705074000 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250705074000 +0000" stop="20250705093000 +0000" channel="ORIGINALS.mncvision">
+    <title>10 Years</title>
+</programme>
+<programme start="20250705093000 +0000" stop="20250705111800 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250705111800 +0000" stop="20250705125800 +0000" channel="ORIGINALS.mncvision">
+    <title>Trespass</title>
+</programme>
+<programme start="20250705125800 +0000" stop="20250705144500 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250705144500 +0000" stop="20250705164900 +0000" channel="ORIGINALS.mncvision">
+    <title>The Lost Husband</title>
+</programme>
+<programme start="20250705164900 +0000" stop="20250704171900 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20250704181400 +0000" stop="20250704214700 +0000" channel="ORIGINALS HD.mncvision">
     <title>Platinum</title>
 </programme>
@@ -7809,8 +7915,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250705160000 +0000" stop="20250705163000 +0000" channel="RCTI.mncvision">
     <title>Children Of Heaven</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250704180000 +0000" stop="20250704190000 +0000" channel="RCTI HD.mncvision">
+    <title>Rasa Kangenku Ojo Dibanding...</title>
+</programme>
+<programme start="20250704190000 +0000" stop="20250704201500 +0000" channel="RCTI HD.mncvision">
+    <title>I Love You Om Roy</title>
+</programme>
+<programme start="20250704201500 +0000" stop="20250704210000 +0000" channel="RCTI HD.mncvision">
+    <title>Tukang Tambal Ban Hatiku</title>
+</programme>
+<programme start="20250704210000 +0000" stop="20250704233000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S9</title>
+</programme>
+<programme start="20250704233000 +0000" stop="20250705010000 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20250705010000 +0000" stop="20250705013000 +0000" channel="RCTI HD.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20250705013000 +0000" stop="20250705050000 +0000" channel="RCTI HD.mncvision">
+    <title>Doraemon Series</title>
+</programme>
+<programme start="20250705050000 +0000" stop="20250705064500 +0000" channel="RCTI HD.mncvision">
+    <title>Boneka Misterius</title>
+</programme>
+<programme start="20250705064500 +0000" stop="20250705083000 +0000" channel="RCTI HD.mncvision">
+    <title>Nenek Gayung</title>
+</programme>
+<programme start="20250705083000 +0000" stop="20250705100000 +0000" channel="RCTI HD.mncvision">
+    <title>Get Lost: Urban Legend...</title>
+</programme>
+<programme start="20250705100000 +0000" stop="20250705110000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250705110000 +0000" stop="20250705121500 +0000" channel="RCTI HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250705121500 +0000" stop="20250705133000 +0000" channel="RCTI HD.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250705133000 +0000" stop="20250705150000 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250705150000 +0000" stop="20250705160000 +0000" channel="RCTI HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250705160000 +0000" stop="20250705163000 +0000" channel="RCTI HD.mncvision">
+    <title>Children Of Heaven</title>
+</programme>
+<programme start="20250704185500 +0000" stop="20250704204000 +0000" channel="Rock Action.mncvision">
+    <title>28 Days Later</title>
+</programme>
+<programme start="20250704204000 +0000" stop="20250704224500 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic Park</title>
+</programme>
+<programme start="20250704224500 +0000" stop="20250704231500 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
+</programme>
+<programme start="20250704231500 +0000" stop="20250705011500 +0000" channel="Rock Action.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20250705011500 +0000" stop="20250705033000 +0000" channel="Rock Action.mncvision">
+    <title>The Woman King</title>
+</programme>
+<programme start="20250705033000 +0000" stop="20250705052000 +0000" channel="Rock Action.mncvision">
+    <title>1408</title>
+</programme>
+<programme start="20250705052000 +0000" stop="20250705065000 +0000" channel="Rock Action.mncvision">
+    <title>Hotel Transylvania 2</title>
+</programme>
+<programme start="20250705065000 +0000" stop="20250705085000 +0000" channel="Rock Action.mncvision">
+    <title>Hellboy</title>
+</programme>
+<programme start="20250705085000 +0000" stop="20250705103000 +0000" channel="Rock Action.mncvision">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20250705103000 +0000" stop="20250705123500 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic Park</title>
+</programme>
+<programme start="20250705123500 +0000" stop="20250705130000 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
+</programme>
+<programme start="20250705130000 +0000" stop="20250705143000 +0000" channel="Rock Action.mncvision">
+    <title>Underworld: Blood Wars</title>
+</programme>
+<programme start="20250705143000 +0000" stop="20250705160000 +0000" channel="Rock Action.mncvision">
+    <title>Smurfs: The Lost Village</title>
+</programme>
+<programme start="20250705160000 +0000" stop="20250705163000 +0000" channel="Rock Action.mncvision">
+    <title>28 Days Later</title>
+</programme>
 <programme start="20250704172000 +0000" stop="20250704180500 +0000" channel="Rock Entertainment.mncvision">
     <title>The Good Fight S5, Ep 8</title>
 </programme>
