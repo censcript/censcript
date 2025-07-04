@@ -1285,13 +1285,16 @@
 <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour: This Week 2025, Ep 25</title>
 </programme>
-<programme start="20250704130000 +0000" stop="20250704131500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250704130000 +0000" stop="20250704132000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Doco Shorts</title>
 </programme>
-<programme start="20250704131500 +0000" stop="20250704154500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250704132000 +0000" stop="20250704153500 +0000" channel="beIN Sports 2.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
-<programme start="20250704154500 +0000" stop="20250704161500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250704153500 +0000" stop="20250704155000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Doco Shorts</title>
+</programme>
+<programme start="20250704155000 +0000" stop="20250704162000 +0000" channel="beIN Sports 2.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
 <programme start="20250703173000 +0000" stop="20250703184500 +0000" channel="beIN Sports 2 HD.mncvision">
@@ -1345,13 +1348,16 @@
 <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour: This Week 2025, Ep 25</title>
 </programme>
-<programme start="20250704130000 +0000" stop="20250704131500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250704130000 +0000" stop="20250704132000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Doco Shorts</title>
 </programme>
-<programme start="20250704131500 +0000" stop="20250704154500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250704132000 +0000" stop="20250704153500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
-<programme start="20250704154500 +0000" stop="20250704161500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250704153500 +0000" stop="20250704155000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Doco Shorts</title>
+</programme>
+<programme start="20250704155000 +0000" stop="20250704162000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
 <programme start="20250703180000 +0000" stop="20250703193000 +0000" channel="beIN Sports 3.mncvision">
@@ -1408,13 +1414,16 @@
 <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Highlights 2025</title>
 </programme>
-<programme start="20250704130000 +0000" stop="20250704131500 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250704130000 +0000" stop="20250704132000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Match HL 2025</title>
 </programme>
-<programme start="20250704131500 +0000" stop="20250704154500 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250704132000 +0000" stop="20250704153500 +0000" channel="beIN Sports 3.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
-<programme start="20250704154500 +0000" stop="20250704161500 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250704153500 +0000" stop="20250704155000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250704155000 +0000" stop="20250704162000 +0000" channel="beIN Sports 3.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
 <programme start="20250703180000 +0000" stop="20250703193000 +0000" channel="beIN Sports 3 HD.mncvision">
@@ -1471,13 +1480,16 @@
 <programme start="20250704123000 +0000" stop="20250704130000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Highlights 2025</title>
 </programme>
-<programme start="20250704130000 +0000" stop="20250704131500 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250704130000 +0000" stop="20250704132000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Match HL 2025</title>
 </programme>
-<programme start="20250704131500 +0000" stop="20250704154500 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250704132000 +0000" stop="20250704153500 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
-<programme start="20250704154500 +0000" stop="20250704161500 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250704153500 +0000" stop="20250704155000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250704155000 +0000" stop="20250704162000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
 <programme start="20250703170000 +0000" stop="20250703190000 +0000" channel="beIN SPORTS 4.mncvision">
