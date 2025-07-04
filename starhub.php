@@ -2201,7 +2201,7 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20250704080000 +0000" stop="20250704090000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Early Start</title>
     </programme>
     <programme start="20250704090000 +0000" stop="20250704100000 +0000" channel="CNN HD.starhub">
         <title>Early Start</title>
