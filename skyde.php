@@ -3727,47 +3727,44 @@
 <programme start="20250704214500 +0000" stop="20250704220000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250706220500 +0000" stop="20250706234500 +0000" channel="Warner TV Film.skyde">
-    <title>Der Tag an dem die Erde stillstand</title>
+<programme start="20250703222000 +0000" stop="20250704001500 +0000" channel="Warner TV Film.skyde">
+    <title>Blade Runner</title>
 </programme>
-<programme start="20250706234500 +0000" stop="20250707021500 +0000" channel="Warner TV Film.skyde">
-    <title>Batman v Superman: Dawn Of Justice</title>
+<programme start="20250704001500 +0000" stop="20250704015000 +0000" channel="Warner TV Film.skyde">
+    <title>Babylon A.D.</title>
 </programme>
-<programme start="20250707021500 +0000" stop="20250707033500 +0000" channel="Warner TV Film.skyde">
-    <title>Jurassic Park 3</title>
+<programme start="20250704015000 +0000" stop="20250704040000 +0000" channel="Warner TV Film.skyde">
+    <title>Große Lüge Lylah Clare</title>
 </programme>
-<programme start="20250707033500 +0000" stop="20250707040000 +0000" channel="Warner TV Film.skyde">
-    <title>New York on Set - Teil 2</title>
+<programme start="20250704040000 +0000" stop="20250704060000 +0000" channel="Warner TV Film.skyde">
+    <title>Warum hab&#039; ich ja gesagt?</title>
 </programme>
-<programme start="20250707040000 +0000" stop="20250707052500 +0000" channel="Warner TV Film.skyde">
-    <title>16 Uhr 50 ab Paddington</title>
+<programme start="20250704060000 +0000" stop="20250704063000 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Michael Caine</title>
 </programme>
-<programme start="20250707052500 +0000" stop="20250707065000 +0000" channel="Warner TV Film.skyde">
-    <title>Der Wachsblumenstrauß</title>
+<programme start="20250704063000 +0000" stop="20250704081000 +0000" channel="Warner TV Film.skyde">
+    <title>Jailhouse Rock</title>
 </programme>
-<programme start="20250707065000 +0000" stop="20250707073500 +0000" channel="Warner TV Film.skyde">
-    <title>Ein Abend mit... Wiedemann und Berg</title>
+<programme start="20250704081000 +0000" stop="20250704104500 +0000" channel="Warner TV Film.skyde">
+    <title>Agenten sterben einsam</title>
 </programme>
-<programme start="20250707073500 +0000" stop="20250707102500 +0000" channel="Warner TV Film.skyde">
-    <title>Das Land des Regenbaums</title>
+<programme start="20250704104500 +0000" stop="20250704121500 +0000" channel="Warner TV Film.skyde">
+    <title>Die Schlacht um den Planet der Affen</title>
 </programme>
-<programme start="20250707102500 +0000" stop="20250707121000 +0000" channel="Warner TV Film.skyde">
-    <title>Der Tag an dem die Erde stillstand</title>
+<programme start="20250704121500 +0000" stop="20250704141000 +0000" channel="Warner TV Film.skyde">
+    <title>Die Liga der außergewöhnlichen Gentlemen</title>
 </programme>
-<programme start="20250707121000 +0000" stop="20250707142000 +0000" channel="Warner TV Film.skyde">
-    <title>Vergessene Welt: Jurassic Park</title>
+<programme start="20250704141000 +0000" stop="20250704161000 +0000" channel="Warner TV Film.skyde">
+    <title>Das A-Team - Der Film</title>
 </programme>
-<programme start="20250707142000 +0000" stop="20250707155000 +0000" channel="Warner TV Film.skyde">
-    <title>Jurassic Park 3</title>
+<programme start="20250704161000 +0000" stop="20250704181500 +0000" channel="Warner TV Film.skyde">
+    <title>Batman Forever</title>
 </programme>
-<programme start="20250707155000 +0000" stop="20250707181500 +0000" channel="Warner TV Film.skyde">
-    <title>Superman</title>
+<programme start="20250704181500 +0000" stop="20250704202000 +0000" channel="Warner TV Film.skyde">
+    <title>Batman</title>
 </programme>
-<programme start="20250707181500 +0000" stop="20250707202000 +0000" channel="Warner TV Film.skyde">
-    <title>Superman II - Allein gegen alle</title>
-</programme>
-<programme start="20250707202000 +0000" stop="20250707220500 +0000" channel="Warner TV Film.skyde">
-    <title>16 Blocks</title>
+<programme start="20250704202000 +0000" stop="20250704221000 +0000" channel="Warner TV Film.skyde">
+    <title>Ein Riskanter Plan</title>
 </programme>
 <programme start="20250703222000 +0000" stop="20250704001500 +0000" channel="Warner TV Film HD.skyde">
     <title>Blade Runner</title>
