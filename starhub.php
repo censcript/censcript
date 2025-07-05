@@ -4975,7 +4975,7 @@
     <programme start="20250705133000 +0000" stop="20250705150000 +0000" channel="Vijay TV HD.starhub">
         <title>Cooku With Comali S06</title>
     </programme>
-    <programme start="20250705150000 +0000" stop="20250705163000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250705150000 +0000" stop="20250705160000 +0000" channel="Vijay TV HD.starhub">
         <title>Neeya Naana</title>
     </programme>
     <programme start="20250704160000 +0000" stop="20250704163000 +0000" channel="Asianet.starhub">
@@ -8185,10 +8185,10 @@
     <programme start="20250705043000 +0000" stop="20250705073000 +0000" channel="Asianet Movies.starhub">
         <title>Udayananu tharam</title>
     </programme>
-    <programme start="20250705073000 +0000" stop="20250705103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250705073000 +0000" stop="20250705104000 +0000" channel="Asianet Movies.starhub">
         <title>Naran</title>
     </programme>
-    <programme start="20250705103000 +0000" stop="20250705133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250705104000 +0000" stop="20250705133000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
     <programme start="20250705133000 +0000" stop="20250705163000 +0000" channel="Asianet Movies.starhub">
