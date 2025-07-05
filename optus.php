@@ -1,9 +1,3 @@
-    <programme start="20250705095500 +0000" stop="20250705121000 +0000" channel="Optus Sport 9.optus">
-        <title>J1 League - Cerezo v Gamba</title>
-    </programme>
-    <programme start="20250705095500 +0000" stop="20250705121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Yokohama FC v Yokohama FM</title>
-    </programme>
     <programme start="20250705154930 +0000" stop="20250705181000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
     </programme>
