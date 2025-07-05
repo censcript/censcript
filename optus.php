@@ -1,6 +1,3 @@
-    <programme start="20250705154930 +0000" stop="20250705181000 +0000" channel="Optus Sport 1.optus">
-        <title>UEFA Women&#039;s Championship - Wales v Netherlands</title>
-    </programme>
     <programme start="20250705184930 +0000" stop="20250705211000 +0000" channel="Optus Sport 1.optus">
         <title>UEFA Women&#039;s Championship - France v England</title>
     </programme>
