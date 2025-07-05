@@ -188,7 +188,7 @@
 <title>Haikyu</title>
 </programme>
 <programme start="20250705003000 +0000" stop="20250705023000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250705023000 +0000" stop="20250705030000 +0000" channel="GTV.vision">
 <title>Petualangan Kiko</title>
@@ -200,7 +200,7 @@
 <title>Naruto Shippuden</title>
 </programme>
 <programme start="20250705050000 +0000" stop="20250705060000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250705060000 +0000" stop="20250705080000 +0000" channel="GTV.vision">
 <title>Cats In The Museum</title>
@@ -248,7 +248,7 @@
 <title>Amazing Kids</title>
 </programme>
 <programme start="20250706003000 +0000" stop="20250706023000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250706023000 +0000" stop="20250706030000 +0000" channel="GTV.vision">
 <title>Petualangan Kiko</title>
@@ -260,7 +260,7 @@
 <title>Naruto Shippuden</title>
 </programme>
 <programme start="20250706050000 +0000" stop="20250706060000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250706060000 +0000" stop="20250706080000 +0000" channel="GTV.vision">
 <title>Balaya: A Magical Adventure</title>
