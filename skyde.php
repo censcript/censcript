@@ -629,10 +629,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250705081500 +0000" stop="20250705082500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250705082500 +0000" stop="20250705083500 +0000" channel="Cartoonito.skyde">
+<programme start="20250705082500 +0000" stop="20250705084000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250705083500 +0000" stop="20250705085500 +0000" channel="Cartoonito.skyde">
+<programme start="20250705084000 +0000" stop="20250705085500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250705085500 +0000" stop="20250705090500 +0000" channel="Cartoonito.skyde">
@@ -686,10 +686,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250705113500 +0000" stop="20250705115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250705115000 +0000" stop="20250705120000 +0000" channel="Cartoonito.skyde">
+<programme start="20250705115000 +0000" stop="20250705120500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250705120000 +0000" stop="20250705122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250705120500 +0000" stop="20250705122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250705122000 +0000" stop="20250705123000 +0000" channel="Cartoonito.skyde">
@@ -800,10 +800,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250705193000 +0000" stop="20250705193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250705193500 +0000" stop="20250705194000 +0000" channel="Cartoonito.skyde">
+<programme start="20250705193500 +0000" stop="20250705194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250705194000 +0000" stop="20250705195000 +0000" channel="Cartoonito.skyde">
+<programme start="20250705194500 +0000" stop="20250705195000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250705195000 +0000" stop="20250705200000 +0000" channel="Cartoonito.skyde">
