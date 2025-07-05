@@ -4340,13 +4340,13 @@
         <title>John Deere Classic Round 2</title>
     </programme>
     <programme start="20250705100000 +0000" stop="20250705103000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PGA Tour: The Cut 2025</title>
+        <title>Episode 27</title>
     </programme>
     <programme start="20250705103000 +0000" stop="20250705153000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>BMW International Open Day 3</title>
     </programme>
-    <programme start="20250705153000 +0000" stop="20250705160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Le Vaudreuil Golf Challenge</title>
+    <programme start="20250705153000 +0000" stop="20250705200000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>John Deere Classic Round 3 (JIP)</title>
     </programme>
     <programme start="20250704160000 +0000" stop="20250704162000 +0000" channel="France24.starhub">
         <title>News</title>

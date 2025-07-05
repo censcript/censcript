@@ -2990,7 +2990,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250705040000 +0000" stop="20250705070000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20250705070000 +0000" stop="20250705100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250705070000 +0000" stop="20250705090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250705090000 +0000" stop="20250705093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Schalke Spezial - Der nächste Neuanfang</title>
+</programme>
+<programme start="20250705093000 +0000" stop="20250705100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250705100000 +0000" stop="20250705130000 +0000" channel="Sky Sport News HD.skyde">
