@@ -2830,13 +2830,13 @@
 <programme start="20250706213000 +0000" stop="20250706220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Großbritannien</title>
 </programme>
-<programme start="20250705220000 +0000" stop="20250705223000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250705221500 +0000" stop="20250705224500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Pilot von Dellingshausen - mit dem Golfprofi im Cockpit</title>
 </programme>
-<programme start="20250705223000 +0000" stop="20250705233000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250705224500 +0000" stop="20250705233500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
 </programme>
-<programme start="20250705233000 +0000" stop="20250706023000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250705233500 +0000" stop="20250706023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW International Open, 3. Tag in Eichenried</title>
 </programme>
 <programme start="20250706023000 +0000" stop="20250706030000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3268,7 +3268,7 @@
 <programme start="20250706124000 +0000" stop="20250706130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250706130000 +0000" stop="20250706160000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250706130000 +0000" stop="20250706180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf Ladies ET: KPMG Women&#039;s Irish Open, 4. Tag in Maynooth (Irland)</title>
 </programme>
 <programme start="20250705224000 +0000" stop="20250706002500 +0000" channel="SYFY HD.skyde">

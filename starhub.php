@@ -7894,13 +7894,13 @@
     <programme start="20250705213000 +0000" stop="20250705233000 +0000" channel="Asianet Movies.starhub">
         <title>Goal</title>
     </programme>
-    <programme start="20250705233000 +0000" stop="20250706013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250705233000 +0000" stop="20250706013500 +0000" channel="Asianet Movies.starhub">
         <title>Monayi Angane Aanaayi</title>
     </programme>
-    <programme start="20250706013000 +0000" stop="20250706043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250706013500 +0000" stop="20250706043500 +0000" channel="Asianet Movies.starhub">
         <title>Mannar Mathai Speaking 2</title>
     </programme>
-    <programme start="20250706043000 +0000" stop="20250706073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250706043500 +0000" stop="20250706073000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr</title>
     </programme>
     <programme start="20250706073000 +0000" stop="20250706103000 +0000" channel="Asianet Movies.starhub">
