@@ -121,8 +121,116 @@
     <programme start="20250706143000 +0000" stop="20250706163000 +0000" channel="Channel 5.mewatch">
         <title>Maid in Manhattan</title>
     </programme>
-    <programme start="20250705160000 +0000" stop="20250706170000 +0000" channel="Channel 8.mewatch">
-        <title>Game Plan - EP 9</title>
+    <programme start="20250705170000 +0000" stop="20250705180000 +0000" channel="Channel 8.mewatch">
+        <title>A Quest To Heal - EP 17</title>
+    </programme>
+    <programme start="20250705180000 +0000" stop="20250705190000 +0000" channel="Channel 8.mewatch">
+        <title>A Quest To Heal - EP 18</title>
+    </programme>
+    <programme start="20250705190000 +0000" stop="20250705195500 +0000" channel="Channel 8.mewatch">
+        <title>Neighbourhood Chef - EP 3</title>
+    </programme>
+    <programme start="20250705195500 +0000" stop="20250705202000 +0000" channel="Channel 8.mewatch">
+        <title>I Eat Therefore I Am - EP 9</title>
+    </programme>
+    <programme start="20250705202000 +0000" stop="20250705211000 +0000" channel="Channel 8.mewatch">
+        <title>My Buddy - EP 7</title>
+    </programme>
+    <programme start="20250705211000 +0000" stop="20250705220000 +0000" channel="Channel 8.mewatch">
+        <title>My Buddy - EP 8</title>
+    </programme>
+    <programme start="20250705220000 +0000" stop="20250705225000 +0000" channel="Channel 8.mewatch">
+        <title>Play House - EP 5</title>
+    </programme>
+    <programme start="20250705225000 +0000" stop="20250705232000 +0000" channel="Channel 8.mewatch">
+        <title>News Tonight</title>
+    </programme>
+    <programme start="20250705232000 +0000" stop="20250706001000 +0000" channel="Channel 8.mewatch">
+        <title>Blessings - EP 5</title>
+    </programme>
+    <programme start="20250706001000 +0000" stop="20250706010000 +0000" channel="Channel 8.mewatch">
+        <title>Blessings - EP 6</title>
+    </programme>
+    <programme start="20250706010000 +0000" stop="20250706011500 +0000" channel="Channel 8.mewatch">
+        <title>Super BOOMi S5 - EP 23</title>
+    </programme>
+    <programme start="20250706011500 +0000" stop="20250706013000 +0000" channel="Channel 8.mewatch">
+        <title>Super BOOMi S5 - EP 24</title>
+    </programme>
+    <programme start="20250706013000 +0000" stop="20250706020000 +0000" channel="Channel 8.mewatch">
+        <title>New Doraemon - EP 18</title>
+    </programme>
+    <programme start="20250706020000 +0000" stop="20250706023000 +0000" channel="Channel 8.mewatch">
+        <title>Little Globetrotters - EP 1</title>
+    </programme>
+    <programme start="20250706023000 +0000" stop="20250706024500 +0000" channel="Channel 8.mewatch">
+        <title>Glory Alliance S1 and S2 - EP 37</title>
+    </programme>
+    <programme start="20250706024500 +0000" stop="20250706030000 +0000" channel="Channel 8.mewatch">
+        <title>Glory Alliance S1 and S2 - EP 38</title>
+    </programme>
+    <programme start="20250706030000 +0000" stop="20250706033000 +0000" channel="Channel 8.mewatch">
+        <title>Tuesday Report : On The Road - EP 1</title>
+    </programme>
+    <programme start="20250706033000 +0000" stop="20250706034400 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 249</title>
+    </programme>
+    <programme start="20250706034400 +0000" stop="20250706034600 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 192</title>
+    </programme>
+    <programme start="20250706034600 +0000" stop="20250706040000 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 267</title>
+    </programme>
+    <programme start="20250706040000 +0000" stop="20250706050000 +0000" channel="Channel 8.mewatch">
+        <title>Court Lady - EP 48</title>
+    </programme>
+    <programme start="20250706050000 +0000" stop="20250706060000 +0000" channel="Channel 8.mewatch">
+        <title>Court Lady - EP 49</title>
+    </programme>
+    <programme start="20250706060000 +0000" stop="20250706063000 +0000" channel="Channel 8.mewatch">
+        <title>Health 123 S7 - EP 5</title>
+    </programme>
+    <programme start="20250706063000 +0000" stop="20250706064400 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 259</title>
+    </programme>
+    <programme start="20250706064400 +0000" stop="20250706064600 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 114</title>
+    </programme>
+    <programme start="20250706064600 +0000" stop="20250706070000 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 234</title>
+    </programme>
+    <programme start="20250706070000 +0000" stop="20250706071400 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 235</title>
+    </programme>
+    <programme start="20250706071400 +0000" stop="20250706071600 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 153</title>
+    </programme>
+    <programme start="20250706071600 +0000" stop="20250706073000 +0000" channel="Channel 8.mewatch">
+        <title>The Wonder Shop - EP 252</title>
+    </programme>
+    <programme start="20250706073000 +0000" stop="20250706083000 +0000" channel="Channel 8.mewatch">
+        <title>With Love, Becks - EP 5</title>
+    </programme>
+    <programme start="20250706083000 +0000" stop="20250706090000 +0000" channel="Channel 8.mewatch">
+        <title>Taste Of Satisfaction - EP 1</title>
+    </programme>
+    <programme start="20250706090000 +0000" stop="20250706103000 +0000" channel="Channel 8.mewatch">
+        <title>Star Awards 2025 - Walk Of Fame</title>
+    </programme>
+    <programme start="20250706103000 +0000" stop="20250706110000 +0000" channel="Channel 8.mewatch">
+        <title>Singapore Today</title>
+    </programme>
+    <programme start="20250706110000 +0000" stop="20250706140000 +0000" channel="Channel 8.mewatch">
+        <title>Star Awards 2025 - Award Ceremony</title>
+    </programme>
+    <programme start="20250706140000 +0000" stop="20250706143000 +0000" channel="Channel 8.mewatch">
+        <title>News Tonight</title>
+    </programme>
+    <programme start="20250706143000 +0000" stop="20250706153000 +0000" channel="Channel 8.mewatch">
+        <title>Super Taste Hungry Generations - EP 13</title>
+    </programme>
+    <programme start="20250706153000 +0000" stop="20250706170000 +0000" channel="Channel 8.mewatch">
+        <title>Frontline - EP 11</title>
     </programme>
     <programme start="20250705153000 +0000" stop="20250705163000 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 7</title>
