@@ -229,8 +229,11 @@
     <programme start="20250706143000 +0000" stop="20250706153000 +0000" channel="Channel 8.mewatch">
         <title>Super Taste Hungry Generations - EP 13</title>
     </programme>
-    <programme start="20250706153000 +0000" stop="20250706170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250706153000 +0000" stop="20250706160000 +0000" channel="Channel 8.mewatch">
         <title>Frontline - EP 11</title>
+    </programme>
+    <programme start="20250706160000 +0000" stop="20250706170000 +0000" channel="Channel 8.mewatch">
+        <title>Game Plan - EP 9</title>
     </programme>
     <programme start="20250705153000 +0000" stop="20250705163000 +0000" channel="Channel U.mewatch">
         <title>Jirisan - EP 7</title>
@@ -425,6 +428,9 @@
         <title>Sarpatta Parambarai</title>
     </programme>
     <programme start="20250704160000 +0000" stop="20250705160300 +0000" channel="CNA.mewatch">
+        <title>Headline News</title>
+    </programme>
+    <programme start="20250705160000 +0000" stop="20250705160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20250705160300 +0000" stop="20250705163000 +0000" channel="CNA.mewatch">
