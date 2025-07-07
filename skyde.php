@@ -1972,93 +1972,6 @@
 <programme start="20250707212000 +0000" stop="20250707230500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Lisa Frankenstein</title>
 </programme>
-<programme start="20250706220000 +0000" stop="20250706225000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20250706225000 +0000" stop="20250706234000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20250706234000 +0000" stop="20250707004000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unter Wasser: Das Verschwinden der Kim Wall</title>
-</programme>
-<programme start="20250707004000 +0000" stop="20250707014000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unter Wasser: Das Verschwinden der Kim Wall</title>
-</programme>
-<programme start="20250707014000 +0000" stop="20250707022500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20250707022500 +0000" stop="20250707030500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20250707030500 +0000" stop="20250707035000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20250707035000 +0000" stop="20250707043500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20250707043500 +0000" stop="20250707052000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20250707052000 +0000" stop="20250707060500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250707060500 +0000" stop="20250707065500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250707065500 +0000" stop="20250707073500 +0000" channel="Sky Crime HD.skyde">
-    <title>Zum Töten gern</title>
-</programme>
-<programme start="20250707073500 +0000" stop="20250707082000 +0000" channel="Sky Crime HD.skyde">
-    <title>Zum Töten gern</title>
-</programme>
-<programme start="20250707082000 +0000" stop="20250707095000 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20250707095000 +0000" stop="20250707102500 +0000" channel="Sky Crime HD.skyde">
-    <title>Ermittler!</title>
-</programme>
-<programme start="20250707102500 +0000" stop="20250707110000 +0000" channel="Sky Crime HD.skyde">
-    <title>Ermittler!</title>
-</programme>
-<programme start="20250707110000 +0000" stop="20250707113000 +0000" channel="Sky Crime HD.skyde">
-    <title>Ermittler!</title>
-</programme>
-<programme start="20250707113000 +0000" stop="20250707121500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250707121500 +0000" stop="20250707130500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250707130500 +0000" stop="20250707141000 +0000" channel="Sky Crime HD.skyde">
-    <title>Unter Wasser: Das Verschwinden der Kim Wall</title>
-</programme>
-<programme start="20250707141000 +0000" stop="20250707151500 +0000" channel="Sky Crime HD.skyde">
-    <title>Unter Wasser: Das Verschwinden der Kim Wall</title>
-</programme>
-<programme start="20250707151500 +0000" stop="20250707160000 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20250707160000 +0000" stop="20250707164500 +0000" channel="Sky Crime HD.skyde">
-    <title>The First 48</title>
-</programme>
-<programme start="20250707164500 +0000" stop="20250707181500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
-</programme>
-<programme start="20250707181500 +0000" stop="20250707190500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20250707190500 +0000" stop="20250707195500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
-</programme>
-<programme start="20250707195500 +0000" stop="20250707204000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit einem Serienkiller</title>
-</programme>
-<programme start="20250707204000 +0000" stop="20250707213000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit einem Serienkiller</title>
-</programme>
-<programme start="20250707213000 +0000" stop="20250707225500 +0000" channel="Sky Crime HD.skyde">
-    <title>Der Golden State Killer: Das Monster in Uniform</title>
-</programme>
 <programme start="20250706220000 +0000" stop="20250706225500 +0000" channel="Sky Documentaries HD.skyde">
     <title>David Frost vs.</title>
 </programme>
@@ -2899,13 +2812,10 @@
 <programme start="20250707203000 +0000" stop="20250707223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Honda Indy 200 at Mid-Ohio</title>
 </programme>
-<programme start="20250706223000 +0000" stop="20250706231500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tiger 2000</title>
-</programme>
-<programme start="20250706231500 +0000" stop="20250706233000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250706224500 +0000" stop="20250706230500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (3)</title>
 </programme>
-<programme start="20250706233000 +0000" stop="20250707020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250706230500 +0000" stop="20250707020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: KPMG Women&#039;s Irish Open, 4. Tag in Maynooth (Irland)</title>
 </programme>
 <programme start="20250707020000 +0000" stop="20250707030000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3214,10 +3124,10 @@
 <programme start="20250707203000 +0000" stop="20250707230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Machac (CZE) - A. Davidovich Fokina (ESP), Abierto Mexicano Telcel in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20250706223000 +0000" stop="20250707000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250706224500 +0000" stop="20250707003500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250707000000 +0000" stop="20250707030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250707003500 +0000" stop="20250707030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf Ladies ET: KPMG Women&#039;s Irish Open, 4. Tag in Maynooth (Irland)</title>
 </programme>
 <programme start="20250707030000 +0000" stop="20250707043000 +0000" channel="Sky Sport Top Event HD.skyde">
