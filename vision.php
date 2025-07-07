@@ -656,64 +656,67 @@
 <title>On The Spot</title>
 </programme>
 <programme start="20250706230000 +0000" stop="20250707010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jurus Dewa Naga</title>
 </programme>
 <programme start="20250707010000 +0000" stop="20250707023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250707023000 +0000" stop="20250707060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Trimurti</title>
 </programme>
 <programme start="20250707060000 +0000" stop="20250707084500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Radha Mohan</title>
 </programme>
 <programme start="20250707084500 +0000" stop="20250707100000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Bhagya Lakshmi</title>
 </programme>
 <programme start="20250707100000 +0000" stop="20250707110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Vaishno Devi</title>
 </programme>
 <programme start="20250707110000 +0000" stop="20250707123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Catatan Hati</title>
 </programme>
 <programme start="20250707123000 +0000" stop="20250707143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250707143000 +0000" stop="20250707163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250707143000 +0000" stop="20250707160000 +0000" channel="ANTV.vision">
+<title>Sangkuriang</title>
 </programme>
-<programme start="20250707163000 +0000" stop="20250707180000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250707160000 +0000" stop="20250707180000 +0000" channel="ANTV.vision">
+<title>Mismathched Couples</title>
 </programme>
-<programme start="20250707180000 +0000" stop="20250707190000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250707180000 +0000" stop="20250707200000 +0000" channel="ANTV.vision">
+<title>Troublesome Night 2</title>
 </programme>
-<programme start="20250707190000 +0000" stop="20250707210000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250707200000 +0000" stop="20250707213000 +0000" channel="ANTV.vision">
+<title>Dukun Ilmu Hitam</title>
 </programme>
-<programme start="20250707210000 +0000" stop="20250707220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250707213000 +0000" stop="20250707223000 +0000" channel="ANTV.vision">
+<title>Nadin</title>
 </programme>
-<programme start="20250707220000 +0000" stop="20250707230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250707223000 +0000" stop="20250707230000 +0000" channel="ANTV.vision">
+<title>Senyum Iman</title>
 </programme>
 <programme start="20250707230000 +0000" stop="20250708010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Menumpas Petualangan Cinta</title>
 </programme>
 <programme start="20250708010000 +0000" stop="20250708023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Catatan Hati Perempuan</title>
 </programme>
 <programme start="20250708023000 +0000" stop="20250708060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Pardes</title>
 </programme>
-<programme start="20250708060000 +0000" stop="20250708090000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250708060000 +0000" stop="20250708084500 +0000" channel="ANTV.vision">
+<title>Radha Mohan</title>
 </programme>
-<programme start="20250708090000 +0000" stop="20250708103000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250708084500 +0000" stop="20250708100000 +0000" channel="ANTV.vision">
+<title>Bhagya Lakshmi</title>
 </programme>
-<programme start="20250708103000 +0000" stop="20250708120000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250708100000 +0000" stop="20250708110000 +0000" channel="ANTV.vision">
+<title>Vaishno Devi</title>
+</programme>
+<programme start="20250708110000 +0000" stop="20250708123000 +0000" channel="ANTV.vision">
+<title>Catatan Hati</title>
 </programme>
 <programme start="20250706230000 +0000" stop="20250707003000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250708030000 +0000" stop="20250708034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
-</programme>
-<programme start="20250708034500 +0000" stop="20250708040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
