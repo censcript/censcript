@@ -3997,8 +3997,14 @@
     <programme start="20250706231500 +0000" stop="20250707000500 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20250707000500 +0000" stop="20250707005500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250707000500 +0000" stop="20250707005000 +0000" channel="NHK World Premium HD.starhub">
         <title>History Detective &quot;Food Culture in Edo Period&quot; (R)</title>
+    </programme>
+    <programme start="20250707005000 +0000" stop="20250707005400 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20250707005400 +0000" stop="20250707005500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
     </programme>
     <programme start="20250707005500 +0000" stop="20250707010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Exercise for Everyone</title>

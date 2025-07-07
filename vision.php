@@ -1397,104 +1397,104 @@
 <title>Primetime News</title>
 </programme>
 <programme start="20250706230300 +0000" stop="20250707003000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Jalan Dakwah</title>
 </programme>
 <programme start="20250707003000 +0000" stop="20250707011500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20250707011500 +0000" stop="20250707021500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250707021500 +0000" stop="20250707030000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Endeus</title>
 </programme>
-<programme start="20250707030000 +0000" stop="20250707040000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250707030000 +0000" stop="20250707033000 +0000" channel="BTV.vision">
+<title>30 Minute With ICDX</title>
 </programme>
-<programme start="20250707040000 +0000" stop="20250707060000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250707033000 +0000" stop="20250707040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
-<programme start="20250707060000 +0000" stop="20250707070000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250707040000 +0000" stop="20250707050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20250707050000 +0000" stop="20250707070000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
 </programme>
 <programme start="20250707070000 +0000" stop="20250707080000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Kuyliner</title>
 </programme>
 <programme start="20250707080000 +0000" stop="20250707090000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250707090000 +0000" stop="20250707100000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20250707100000 +0000" stop="20250707110000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Mantra News</title>
 </programme>
 <programme start="20250707110000 +0000" stop="20250707120000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Dunia Binatang</title>
 </programme>
 <programme start="20250707120000 +0000" stop="20250707130000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Viral</title>
 </programme>
 <programme start="20250707130000 +0000" stop="20250707140000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Ketulusan Hati</title>
 </programme>
-<programme start="20250707140000 +0000" stop="20250707150000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250707140000 +0000" stop="20250707143000 +0000" channel="BTV.vision">
+<title>Jendela Dunia</title>
+</programme>
+<programme start="20250707143000 +0000" stop="20250707150000 +0000" channel="BTV.vision">
+<title>Ekspos</title>
 </programme>
 <programme start="20250707150000 +0000" stop="20250707160000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Satu Malam</title>
 </programme>
 <programme start="20250707160000 +0000" stop="20250707170000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Mitos Tengah Malam</title>
 </programme>
 <programme start="20250707170000 +0000" stop="20250707180000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>ONE Vault</title>
 </programme>
 <programme start="20250707180000 +0000" stop="20250707180300 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Tanah Airku</title>
 </programme>
 <programme start="20250707180300 +0000" stop="20250707190000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>ONE Vault</title>
 </programme>
 <programme start="20250707190000 +0000" stop="20250707200000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Mitos Tengah Malam</title>
 </programme>
 <programme start="20250707200000 +0000" stop="20250707210000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Ketulusan Hati</title>
 </programme>
 <programme start="20250707210000 +0000" stop="20250707213000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Viral</title>
 </programme>
 <programme start="20250707213000 +0000" stop="20250707223000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Satu Pagi</title>
 </programme>
 <programme start="20250707223000 +0000" stop="20250707230000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Jendela Dunia</title>
 </programme>
 <programme start="20250707230000 +0000" stop="20250707230300 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20250707230300 +0000" stop="20250708003000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Jalan Dakwah</title>
 </programme>
 <programme start="20250708003000 +0000" stop="20250708011500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20250708011500 +0000" stop="20250708021500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250708021500 +0000" stop="20250708030000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Endeus</title>
 </programme>
-<programme start="20250708030000 +0000" stop="20250708040000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250708030000 +0000" stop="20250708034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
 </programme>
-<programme start="20250708040000 +0000" stop="20250708050000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250708050000 +0000" stop="20250708060000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250708060000 +0000" stop="20250708070000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250708034500 +0000" stop="20250708040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
