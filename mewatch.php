@@ -610,59 +610,137 @@
     <programme start="20250706150000 +0000" stop="20250706180000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems! - EP1</title>
     </programme>
-    <programme start="20250706180000 +0000" stop="20250706200000 +0000" channel="now-80s.mewatch">
-        <title>Nothing But 80s Love Songs - EP1</title>
+    <programme start="20250706160000 +0000" stop="20250706170000 +0000" channel="now-80s.mewatch">
+        <title>Simon Bates Golden Hour: 1986 - EP1</title>
     </programme>
-    <programme start="20250706200000 +0000" stop="20250706210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night! - EP1</title>
+    <programme start="20250706170000 +0000" stop="20250706180000 +0000" channel="now-80s.mewatch">
+        <title>It Spent How Long At No.1 ?! - EP1</title>
     </programme>
-    <programme start="20250706210000 +0000" stop="20250706220000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping - EP1</title>
+    <programme start="20250706180000 +0000" stop="20250706190000 +0000" channel="now-80s.mewatch">
+        <title>Say I&#039;m Your Number 1! - EP1</title>
     </programme>
-    <programme start="20250706220000 +0000" stop="20250706230000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go! - EP1</title>
+    <programme start="20250706190000 +0000" stop="20250706210500 +0000" channel="now-80s.mewatch">
+        <title>Bruno&#039;s Can You Believe It?! - EP1</title>
     </programme>
-    <programme start="20250706230000 +0000" stop="20250707030000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
+    <programme start="20250706210500 +0000" stop="20250706220000 +0000" channel="now-80s.mewatch">
+        <title>1986 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250707030000 +0000" stop="20250707040000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!) - EP1</title>
+    <programme start="20250706220000 +0000" stop="20250707002500 +0000" channel="now-80s.mewatch">
+        <title>Every Song From Now 1 - 1983 - EP1</title>
     </programme>
-    <programme start="20250707040000 +0000" stop="20250707090000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
+    <programme start="20250707002500 +0000" stop="20250707010000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers! - EP1</title>
     </programme>
-    <programme start="20250707090000 +0000" stop="20250707100000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s! - EP1</title>
+    <programme start="20250707010000 +0000" stop="20250707050000 +0000" channel="now-80s.mewatch">
+        <title>Top Of The 80s Charts - EP1</title>
     </programme>
-    <programme start="20250707100000 +0000" stop="20250707110000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit! - EP1</title>
+    <programme start="20250707050000 +0000" stop="20250707073500 +0000" channel="now-80s.mewatch">
+        <title>Pop Gold! 80s V 90s - EP1</title>
     </programme>
-    <programme start="20250707110000 +0000" stop="20250707200000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies! - EP1</title>
+    <programme start="20250707073500 +0000" stop="20250707090000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
+    </programme>
+    <programme start="20250707090000 +0000" stop="20250707093000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    </programme>
+    <programme start="20250707093000 +0000" stop="20250707103000 +0000" channel="now-80s.mewatch">
+        <title>It Spent How Long At No.1 ?! - EP1</title>
+    </programme>
+    <programme start="20250707103000 +0000" stop="20250707104500 +0000" channel="now-80s.mewatch">
+        <title>1983&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    </programme>
+    <programme start="20250707104500 +0000" stop="20250707110000 +0000" channel="now-80s.mewatch">
+        <title>1983 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250707110000 +0000" stop="20250707115000 +0000" channel="now-80s.mewatch">
+        <title>1985&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    </programme>
+    <programme start="20250707115000 +0000" stop="20250707120000 +0000" channel="now-80s.mewatch">
+        <title>1985 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250707120000 +0000" stop="20250707124500 +0000" channel="now-80s.mewatch">
+        <title>1987&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    </programme>
+    <programme start="20250707124500 +0000" stop="20250707130000 +0000" channel="now-80s.mewatch">
+        <title>1987 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250707130000 +0000" stop="20250707140000 +0000" channel="now-80s.mewatch">
+        <title>1989&#039;s One-Hit-Wonders! Top 12 - EP1</title>
+    </programme>
+    <programme start="20250707140000 +0000" stop="20250707161500 +0000" channel="now-80s.mewatch">
+        <title>Matt Goss&#039; Famous Pop Of The 80s! - EP1</title>
     </programme>
     <programme start="20250706090000 +0000" stop="20250706190000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
     </programme>
-    <programme start="20250706190000 +0000" stop="20250706200000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest! - EP1</title>
+    <programme start="20250706160000 +0000" stop="20250706162500 +0000" channel="now-70s.mewatch">
+        <title>Summer Loving! - EP1</title>
     </programme>
-    <programme start="20250706200000 +0000" stop="20250706210000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
+    <programme start="20250706162500 +0000" stop="20250706174000 +0000" channel="now-70s.mewatch">
+        <title>Better Known For Other Things! - EP1</title>
+    </programme>
+    <programme start="20250706174000 +0000" stop="20250706182500 +0000" channel="now-70s.mewatch">
+        <title>We Will Rock You! - EP1</title>
+    </programme>
+    <programme start="20250706182500 +0000" stop="20250706202500 +0000" channel="now-70s.mewatch">
+        <title>Rick Wakeman&#039;s Wild Things! - EP1</title>
+    </programme>
+    <programme start="20250706202500 +0000" stop="20250706210000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Night! - EP1</title>
     </programme>
     <programme start="20250706210000 +0000" stop="20250706220000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping - EP1</title>
+        <title>Grease V Saturday Night Fever! - EP1</title>
     </programme>
-    <programme start="20250706220000 +0000" stop="20250706230000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
+    <programme start="20250706220000 +0000" stop="20250707002500 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Disco Explosion! - EP1</title>
     </programme>
-    <programme start="20250706230000 +0000" stop="20250707080000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
+    <programme start="20250707002500 +0000" stop="20250707010000 +0000" channel="now-70s.mewatch">
+        <title>1977 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250707010000 +0000" stop="20250707020000 +0000" channel="now-70s.mewatch">
+        <title>The 1977 Power Hour With Bam! - EP1</title>
+    </programme>
+    <programme start="20250707020000 +0000" stop="20250707050000 +0000" channel="now-70s.mewatch">
+        <title>The Now Yearbook 1977 - EP1</title>
+    </programme>
+    <programme start="20250707050000 +0000" stop="20250707070000 +0000" channel="now-70s.mewatch">
+        <title>Surely Not A Cover? Top 30 - EP1</title>
+    </programme>
+    <programme start="20250707070000 +0000" stop="20250707080000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
     </programme>
     <programme start="20250707080000 +0000" stop="20250707090000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;clock Groovy Zone! - EP1</title>
+        <title>Abba Gold! 1974-1979 - EP1</title>
     </programme>
-    <programme start="20250707090000 +0000" stop="20250707190000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
+    <programme start="20250707090000 +0000" stop="20250707093000 +0000" channel="now-70s.mewatch">
+        <title>A Massive 70s Party! Top 50 - EP1</title>
+    </programme>
+    <programme start="20250707093000 +0000" stop="20250707095500 +0000" channel="now-70s.mewatch">
+        <title>Summer Loving! - EP1</title>
+    </programme>
+    <programme start="20250707095500 +0000" stop="20250707103000 +0000" channel="now-70s.mewatch">
+        <title>Better Known For Other Things! - EP1</title>
+    </programme>
+    <programme start="20250707103000 +0000" stop="20250707123000 +0000" channel="now-70s.mewatch">
+        <title>A Massive 70s Party! Top 50 - EP1</title>
+    </programme>
+    <programme start="20250707123000 +0000" stop="20250707130000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly! - EP1</title>
+    </programme>
+    <programme start="20250707130000 +0000" stop="20250707144500 +0000" channel="now-70s.mewatch">
+        <title>Glen Matlock&#039;s Punk &amp; New Wave 25 - EP1</title>
+    </programme>
+    <programme start="20250707144500 +0000" stop="20250707150000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly! - EP1</title>
+    </programme>
+    <programme start="20250707150000 +0000" stop="20250707152000 +0000" channel="now-70s.mewatch">
+        <title>The Sex Pistols 1976 - 1979 - EP1</title>
+    </programme>
+    <programme start="20250707152000 +0000" stop="20250707160000 +0000" channel="now-70s.mewatch">
+        <title>Punk &amp; Disorderly! - EP1</title>
+    </programme>
+    <programme start="20250707160000 +0000" stop="20250707175500 +0000" channel="now-70s.mewatch">
+        <title>A Massive 70s Party! Top 50 - EP1</title>
     </programme>
     <programme start="20250706160000 +0000" stop="20250706220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
