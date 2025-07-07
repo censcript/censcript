@@ -2899,10 +2899,13 @@
 <programme start="20250707203000 +0000" stop="20250707223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Honda Indy 200 at Mid-Ohio</title>
 </programme>
-<programme start="20250706224500 +0000" stop="20250706230500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250706220000 +0000" stop="20250706224500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tiger 2000</title>
+</programme>
+<programme start="20250706224500 +0000" stop="20250706230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (3)</title>
 </programme>
-<programme start="20250706230500 +0000" stop="20250707020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250706230000 +0000" stop="20250707020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: KPMG Women&#039;s Irish Open, 4. Tag in Maynooth (Irland)</title>
 </programme>
 <programme start="20250707020000 +0000" stop="20250707030000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3211,10 +3214,10 @@
 <programme start="20250707203000 +0000" stop="20250707230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Machac (CZE) - A. Davidovich Fokina (ESP), Abierto Mexicano Telcel in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20250706224500 +0000" stop="20250707003500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250706220000 +0000" stop="20250707000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250707003500 +0000" stop="20250707030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250707000000 +0000" stop="20250707030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf Ladies ET: KPMG Women&#039;s Irish Open, 4. Tag in Maynooth (Irland)</title>
 </programme>
 <programme start="20250707030000 +0000" stop="20250707043000 +0000" channel="Sky Sport Top Event HD.skyde">
