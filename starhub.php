@@ -2843,7 +2843,7 @@
         <title>Mounam Pesiyathey</title>
     </programme>
     <programme start="20250706230000 +0000" stop="20250706233000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05 Mega Auditions</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250706233000 +0000" stop="20250707000000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
