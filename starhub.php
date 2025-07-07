@@ -2846,13 +2846,13 @@
         <title>Saregamapa Seniors S05 Mega Auditions</title>
     </programme>
     <programme start="20250706233000 +0000" stop="20250707000000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05 Mega Auditions</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250707000000 +0000" stop="20250707003000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05 Mega Auditions</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250707003000 +0000" stop="20250707033000 +0000" channel="Zee Tamil.starhub">
-        <title>Dikkilona</title>
+        <title>En Peru Surya En Veedu India</title>
     </programme>
     <programme start="20250707033000 +0000" stop="20250707040000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -2869,38 +2869,53 @@
     <programme start="20250707053000 +0000" stop="20250707060000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
-    <programme start="20250707060000 +0000" stop="20250707063000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Dhanusha Raasi Neyargale</title>
-    </programme>
-    <programme start="20250707063000 +0000" stop="20250707090000 +0000" channel="Zee Tamil.starhub">
-        <title>Thiru Maanickam</title>
+    <programme start="20250707060000 +0000" stop="20250707090000 +0000" channel="Zee Tamil.starhub">
+        <title>Irumbu Thirai</title>
     </programme>
     <programme start="20250707090000 +0000" stop="20250707093000 +0000" channel="Zee Tamil.starhub">
         <title>Maari</title>
     </programme>
-    <programme start="20250707093000 +0000" stop="20250707120000 +0000" channel="Zee Tamil.starhub">
-        <title>Rajini Murugan</title>
+    <programme start="20250707093000 +0000" stop="20250707100000 +0000" channel="Zee Tamil.starhub">
+        <title>Manasellam</title>
+    </programme>
+    <programme start="20250707100000 +0000" stop="20250707103000 +0000" channel="Zee Tamil.starhub">
+        <title>Varisu</title>
+    </programme>
+    <programme start="20250707103000 +0000" stop="20250707113000 +0000" channel="Zee Tamil.starhub">
+        <title>Gettimelam</title>
+    </programme>
+    <programme start="20250707113000 +0000" stop="20250707120000 +0000" channel="Zee Tamil.starhub">
+        <title>Anna</title>
     </programme>
     <programme start="20250707120000 +0000" stop="20250707123000 +0000" channel="Zee Tamil.starhub">
-        <title>Dance Jodi Dance Reloaded S03</title>
+        <title>Veera</title>
     </programme>
     <programme start="20250707123000 +0000" stop="20250707130000 +0000" channel="Zee Tamil.starhub">
-        <title>Dance Jodi Dance Reloaded S03</title>
+        <title>Ayali</title>
     </programme>
     <programme start="20250707130000 +0000" stop="20250707133000 +0000" channel="Zee Tamil.starhub">
-        <title>Dance Jodi Dance Reloaded S03</title>
+        <title>Karthigai Deepam</title>
     </programme>
     <programme start="20250707133000 +0000" stop="20250707140000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05</title>
+        <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250707140000 +0000" stop="20250707143000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05</title>
+    <programme start="20250707140000 +0000" stop="20250707141500 +0000" channel="Zee Tamil.starhub">
+        <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250707143000 +0000" stop="20250707150000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05</title>
+    <programme start="20250707141500 +0000" stop="20250707143000 +0000" channel="Zee Tamil.starhub">
+        <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250707150000 +0000" stop="20250707170000 +0000" channel="Zee Tamil.starhub">
-        <title>Ammani</title>
+    <programme start="20250707143000 +0000" stop="20250707144500 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20250707144500 +0000" stop="20250707150000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20250707150000 +0000" stop="20250707153000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20250707153000 +0000" stop="20250707160000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
     </programme>
     <programme start="20250706160000 +0000" stop="20250706163000 +0000" channel="ANC.starhub">
         <title>Insights: Israel And Middle East</title>
@@ -7054,14 +7069,11 @@
     <programme start="20250707121500 +0000" stop="20250707125000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025</title>
     </programme>
-    <programme start="20250707125000 +0000" stop="20250707140500 +0000" channel="beIN Sports HD.starhub">
-        <title>LFCTV Classic 2024/25: Brentford vs Liverpool 2024/25</title>
+    <programme start="20250707125000 +0000" stop="20250707142000 +0000" channel="beIN Sports HD.starhub">
+        <title>DTM Race 2025: Norisring Race 1</title>
     </programme>
-    <programme start="20250707140500 +0000" stop="20250707143500 +0000" channel="beIN Sports HD.starhub">
-        <title>LFC Trending 2024/25</title>
-    </programme>
-    <programme start="20250707143500 +0000" stop="20250707155000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFCTV Classic 2024/25: Bournemouth vs Liverpool 2024/25</title>
+    <programme start="20250707142000 +0000" stop="20250707155000 +0000" channel="beIN Sports HD.starhub">
+        <title>DTM Race 2025: Norisring Race 2</title>
     </programme>
     <programme start="20250707155000 +0000" stop="20250707180000 +0000" channel="beIN Sports HD.starhub">
         <title>Total Women&#039;s Africa Cup of Nations, Morocco 2024: South Africa vs Ghana (Live)</title>
