@@ -5347,114 +5347,6 @@
 <programme start="20250707163000 +0000" stop="20250706170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-<programme start="20250706170000 +0000" stop="20250706173000 +0000" channel="LIFE.mncvision">
-    <title>Solusi</title>
-</programme>
-<programme start="20250706173000 +0000" stop="20250706180000 +0000" channel="LIFE.mncvision">
-    <title>Generasi Penerobos</title>
-</programme>
-<programme start="20250706180000 +0000" stop="20250706190000 +0000" channel="LIFE.mncvision">
-    <title>GEBADA: Gerakan Baca Dengar...</title>
-</programme>
-<programme start="20250706190000 +0000" stop="20250706200000 +0000" channel="LIFE.mncvision">
-    <title>Rumah CGN Keluarga</title>
-</programme>
-<programme start="20250706200000 +0000" stop="20250706210000 +0000" channel="LIFE.mncvision">
-    <title>Bukan Untuk Orang Sempurna</title>
-</programme>
-<programme start="20250706210000 +0000" stop="20250706220000 +0000" channel="LIFE.mncvision">
-    <title>AnugerahNya</title>
-</programme>
-<programme start="20250706220000 +0000" stop="20250706230000 +0000" channel="LIFE.mncvision">
-    <title>Suara Alfa Omega</title>
-</programme>
-<programme start="20250706230000 +0000" stop="20250707000000 +0000" channel="LIFE.mncvision">
-    <title>R.O.C.K Series</title>
-</programme>
-<programme start="20250707000000 +0000" stop="20250707010000 +0000" channel="LIFE.mncvision">
-    <title>Glow Series</title>
-</programme>
-<programme start="20250707010000 +0000" stop="20250707013000 +0000" channel="LIFE.mncvision">
-    <title>Masih Ada Harapan</title>
-</programme>
-<programme start="20250707013000 +0000" stop="20250707020000 +0000" channel="LIFE.mncvision">
-    <title>Superbook Kids Club</title>
-</programme>
-<programme start="20250707020000 +0000" stop="20250707030000 +0000" channel="LIFE.mncvision">
-    <title>GBI Victorious Family</title>
-</programme>
-<programme start="20250707030000 +0000" stop="20250707040000 +0000" channel="LIFE.mncvision">
-    <title>Good News</title>
-</programme>
-<programme start="20250707040000 +0000" stop="20250707043000 +0000" channel="LIFE.mncvision">
-    <title>Household Of Faith</title>
-</programme>
-<programme start="20250707043000 +0000" stop="20250707050000 +0000" channel="LIFE.mncvision">
-    <title>Shalom Doc</title>
-</programme>
-<programme start="20250707050000 +0000" stop="20250707053000 +0000" channel="LIFE.mncvision">
-    <title>Way Out</title>
-</programme>
-<programme start="20250707053000 +0000" stop="20250707060000 +0000" channel="LIFE.mncvision">
-    <title>This Is My Song</title>
-</programme>
-<programme start="20250707060000 +0000" stop="20250707063000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20250707063000 +0000" stop="20250707070000 +0000" channel="LIFE.mncvision">
-    <title>Rhema</title>
-</programme>
-<programme start="20250707070000 +0000" stop="20250707080000 +0000" channel="LIFE.mncvision">
-    <title>Bukan Untuk Orang Sempurna</title>
-</programme>
-<programme start="20250707080000 +0000" stop="20250707083000 +0000" channel="LIFE.mncvision">
-    <title>Life Study</title>
-</programme>
-<programme start="20250707083000 +0000" stop="20250707090000 +0000" channel="LIFE.mncvision">
-    <title>Superyouth</title>
-</programme>
-<programme start="20250707090000 +0000" stop="20250707093000 +0000" channel="LIFE.mncvision">
-    <title>Joy Kids</title>
-</programme>
-<programme start="20250707093000 +0000" stop="20250707100000 +0000" channel="LIFE.mncvision">
-    <title>AOC Teens</title>
-</programme>
-<programme start="20250707100000 +0000" stop="20250707110000 +0000" channel="LIFE.mncvision">
-    <title>Building A Better You</title>
-</programme>
-<programme start="20250707110000 +0000" stop="20250707113000 +0000" channel="LIFE.mncvision">
-    <title>Life Unlimited</title>
-</programme>
-<programme start="20250707113000 +0000" stop="20250707120000 +0000" channel="LIFE.mncvision">
-    <title>This Is My Song</title>
-</programme>
-<programme start="20250707120000 +0000" stop="20250707123000 +0000" channel="LIFE.mncvision">
-    <title>Household Of Faith</title>
-</programme>
-<programme start="20250707123000 +0000" stop="20250707130000 +0000" channel="LIFE.mncvision">
-    <title>Shalom Doc</title>
-</programme>
-<programme start="20250707130000 +0000" stop="20250707133000 +0000" channel="LIFE.mncvision">
-    <title>Way Out</title>
-</programme>
-<programme start="20250707133000 +0000" stop="20250707140000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20250707140000 +0000" stop="20250707143000 +0000" channel="LIFE.mncvision">
-    <title>Love Revolution</title>
-</programme>
-<programme start="20250707143000 +0000" stop="20250707150000 +0000" channel="LIFE.mncvision">
-    <title>Rhema</title>
-</programme>
-<programme start="20250707150000 +0000" stop="20250707153000 +0000" channel="LIFE.mncvision">
-    <title>Today Breakthrough</title>
-</programme>
-<programme start="20250707153000 +0000" stop="20250707160000 +0000" channel="LIFE.mncvision">
-    <title>Life Music</title>
-</programme>
-<programme start="20250707160000 +0000" stop="20250707163000 +0000" channel="LIFE.mncvision">
-    <title>Pelita Hati</title>
-</programme>
 <programme start="20250706171000 +0000" stop="20250706184500 +0000" channel="Lifetime.mncvision">
     <title>The Killer I Picked Up</title>
 </programme>
@@ -8627,19 +8519,19 @@
     <title>Bundesliga</title>
 </programme>
 <programme start="20250707070000 +0000" stop="20250707090000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sportacular Match</title>
+    <title>UEFA Nations League</title>
 </programme>
 <programme start="20250707090000 +0000" stop="20250707110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: PRJ Vs DJN</title>
 </programme>
 <programme start="20250707110000 +0000" stop="20250707130000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: PSB Vs PBY</title>
 </programme>
 <programme start="20250707130000 +0000" stop="20250707150000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
 </programme>
 <programme start="20250707150000 +0000" stop="20250707153000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sportacular Match</title>
+    <title>UEFA Nations League</title>
 </programme>
 <programme start="20250706170000 +0000" stop="20250706190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Liga 2</title>
@@ -8663,19 +8555,19 @@
     <title>Bundesliga</title>
 </programme>
 <programme start="20250707070000 +0000" stop="20250707090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sportacular Match</title>
+    <title>UEFA Nations League</title>
 </programme>
 <programme start="20250707090000 +0000" stop="20250707110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+    <title>Liga 2: PRJ Vs DJN</title>
 </programme>
 <programme start="20250707110000 +0000" stop="20250707130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1</title>
+    <title>BRI Liga 1: PSB Vs PBY</title>
 </programme>
 <programme start="20250707130000 +0000" stop="20250707150000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
 <programme start="20250707150000 +0000" stop="20250707153000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sportacular Match</title>
+    <title>UEFA Nations League</title>
 </programme>
 <programme start="20250706170000 +0000" stop="20250706173000 +0000" channel="Sportstars HD.mncvision">
     <title>World Classic Sports</title>
