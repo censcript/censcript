@@ -8452,8 +8452,11 @@
     <programme start="20250708044500 +0000" stop="20250708053000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 2 (Rd 24)</title>
     </programme>
-    <programme start="20250708053000 +0000" stop="20250708110000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250708053000 +0000" stop="20250708103000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Fourth Round</title>
+    </programme>
+    <programme start="20250708103000 +0000" stop="20250708110000 +0000" channel="SPOTV2.starhub">
+        <title>Season 5</title>
     </programme>
     <programme start="20250708110000 +0000" stop="20250708113000 +0000" channel="SPOTV2.starhub">
         <title>ROLEX SAILGP</title>
