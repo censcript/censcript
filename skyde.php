@@ -601,10 +601,10 @@
 <programme start="20250708055500 +0000" stop="20250708060000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250708060000 +0000" stop="20250708060500 +0000" channel="Cartoonito.skyde">
+<programme start="20250708060000 +0000" stop="20250708061000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250708060500 +0000" stop="20250708062000 +0000" channel="Cartoonito.skyde">
+<programme start="20250708061000 +0000" stop="20250708062000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250708062000 +0000" stop="20250708063000 +0000" channel="Cartoonito.skyde">
@@ -625,10 +625,10 @@
 <programme start="20250708073000 +0000" stop="20250708074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250708074500 +0000" stop="20250708075500 +0000" channel="Cartoonito.skyde">
+<programme start="20250708074500 +0000" stop="20250708080000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250708075500 +0000" stop="20250708081500 +0000" channel="Cartoonito.skyde">
+<programme start="20250708080000 +0000" stop="20250708081500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250708081500 +0000" stop="20250708082500 +0000" channel="Cartoonito.skyde">
@@ -643,10 +643,10 @@
 <programme start="20250708085500 +0000" stop="20250708090000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250708090000 +0000" stop="20250708090500 +0000" channel="Cartoonito.skyde">
+<programme start="20250708090000 +0000" stop="20250708091000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250708090500 +0000" stop="20250708092500 +0000" channel="Cartoonito.skyde">
+<programme start="20250708091000 +0000" stop="20250708092500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250708092500 +0000" stop="20250708093000 +0000" channel="Cartoonito.skyde">
@@ -655,10 +655,10 @@
 <programme start="20250708093000 +0000" stop="20250708093800 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250708093800 +0000" stop="20250708093900 +0000" channel="Cartoonito.skyde">
+<programme start="20250708093800 +0000" stop="20250708094000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250708093900 +0000" stop="20250708095500 +0000" channel="Cartoonito.skyde">
+<programme start="20250708094000 +0000" stop="20250708095500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250708095500 +0000" stop="20250708100000 +0000" channel="Cartoonito.skyde">
@@ -730,13 +730,13 @@
 <programme start="20250708143000 +0000" stop="20250708143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250708143500 +0000" stop="20250708144300 +0000" channel="Cartoonito.skyde">
+<programme start="20250708143500 +0000" stop="20250708144000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250708144300 +0000" stop="20250708144700 +0000" channel="Cartoonito.skyde">
+<programme start="20250708144000 +0000" stop="20250708144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250708144700 +0000" stop="20250708150000 +0000" channel="Cartoonito.skyde">
+<programme start="20250708144500 +0000" stop="20250708150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250708150000 +0000" stop="20250708151000 +0000" channel="Cartoonito.skyde">
@@ -3433,10 +3433,10 @@
 <programme start="20250708000000 +0000" stop="20250708002000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty: The Anime</title>
 </programme>
-<programme start="20250708002000 +0000" stop="20250708003000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708002000 +0000" stop="20250708003500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250708003000 +0000" stop="20250708004500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708003500 +0000" stop="20250708004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20250708004500 +0000" stop="20250708005500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3457,19 +3457,19 @@
 <programme start="20250708021000 +0000" stop="20250708023500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250708023500 +0000" stop="20250708025500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708023500 +0000" stop="20250708030000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250708025500 +0000" stop="20250708032000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708030000 +0000" stop="20250708032000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20250708032000 +0000" stop="20250708034000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250708034000 +0000" stop="20250708040000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708034000 +0000" stop="20250708040500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250708040000 +0000" stop="20250708043000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708040500 +0000" stop="20250708043000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20250708043000 +0000" stop="20250708050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3523,10 +3523,10 @@
 <programme start="20250708111000 +0000" stop="20250708113500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250708113500 +0000" stop="20250708120500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708113500 +0000" stop="20250708120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250708120500 +0000" stop="20250708122500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708120000 +0000" stop="20250708122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250708122500 +0000" stop="20250708125500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3589,10 +3589,10 @@
 <programme start="20250708202000 +0000" stop="20250708204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250708204500 +0000" stop="20250708211000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708204500 +0000" stop="20250708210500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Royal Crackers</title>
 </programme>
-<programme start="20250708211000 +0000" stop="20250708212000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250708210500 +0000" stop="20250708212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20250708212000 +0000" stop="20250708213500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3604,7 +3604,7 @@
 <programme start="20250708214500 +0000" stop="20250708220000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250707220500 +0000" stop="20250707234500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250707221000 +0000" stop="20250707234500 +0000" channel="Warner TV Film.skyde">
     <title>Der Unerbittliche</title>
 </programme>
 <programme start="20250707234500 +0000" stop="20250708015000 +0000" channel="Warner TV Film.skyde">
