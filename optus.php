@@ -1,7 +1,7 @@
-    <programme start="20250708154930 +0000" stop="20250708181000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250708154930 +0000" stop="20250708181000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Germany v Denmark</title>
     </programme>
-    <programme start="20250708184930 +0000" stop="20250708211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250708184930 +0000" stop="20250708211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Poland v Sweden</title>
     </programme>
     <programme start="20250709154930 +0000" stop="20250709181000 +0000" channel="Optus Sport 1.optus">
