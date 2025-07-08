@@ -8815,8 +8815,11 @@
 <programme start="20250708053000 +0000" stop="20250708083000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250708083000 +0000" stop="20250708110000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250708083000 +0000" stop="20250708103000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250708103000 +0000" stop="20250708110000 +0000" channel="SPOTV 2.mncvision">
+    <title>SailGP: Racing On The Edge</title>
 </programme>
 <programme start="20250708110000 +0000" stop="20250708113000 +0000" channel="SPOTV 2.mncvision">
     <title>Rolex Spirit Of Yachting</title>
@@ -8854,8 +8857,11 @@
 <programme start="20250708053000 +0000" stop="20250708083000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250708083000 +0000" stop="20250708110000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250708083000 +0000" stop="20250708103000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250708103000 +0000" stop="20250708110000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Racing On The Edge</title>
 </programme>
 <programme start="20250708110000 +0000" stop="20250708113000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Rolex Spirit Of Yachting</title>
