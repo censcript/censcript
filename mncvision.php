@@ -155,7 +155,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250708043000 +0000" stop="20250708050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Gaza</title>
 </programme>
 <programme start="20250708050000 +0000" stop="20250708053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250708143000 +0000" stop="20250708150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Gaza</title>
 </programme>
 <programme start="20250708150000 +0000" stop="20250708160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -2878,9 +2878,363 @@
 <programme start="20250708130000 +0000" stop="20250708133000 +0000" channel="Dreamworks HD.mncvision">
     <title>Boss Baby: Back In Business</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250707170000 +0000" stop="20250707171500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707171500 +0000" stop="20250707173000 +0000" channel="DW English.mncvision">
+    <title>Planet A: How Difficult Is...</title>
+</programme>
+<programme start="20250707173000 +0000" stop="20250707180000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Experiencing...</title>
+</programme>
+<programme start="20250707180000 +0000" stop="20250707183000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707183000 +0000" stop="20250707190000 +0000" channel="DW English.mncvision">
+    <title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20250707190000 +0000" stop="20250707190200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707190200 +0000" stop="20250707193000 +0000" channel="DW English.mncvision">
+    <title>Afrimaxx: African Lifestyle</title>
+</programme>
+<programme start="20250707193000 +0000" stop="20250707200000 +0000" channel="DW English.mncvision">
+    <title>Global Us: What Connects Us All</title>
+</programme>
+<programme start="20250707200000 +0000" stop="20250707203000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707203000 +0000" stop="20250707210000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250707210000 +0000" stop="20250707210200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707210200 +0000" stop="20250707211500 +0000" channel="DW English.mncvision">
+    <title>Planet A: How Difficult Is...</title>
+</programme>
+<programme start="20250707211500 +0000" stop="20250707220000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250707220000 +0000" stop="20250707220200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707220200 +0000" stop="20250707223000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250707223000 +0000" stop="20250707230000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250707230000 +0000" stop="20250707231500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707231500 +0000" stop="20250707233000 +0000" channel="DW English.mncvision">
+    <title>Planet A: How Difficult Is...</title>
+</programme>
+<programme start="20250707233000 +0000" stop="20250708000000 +0000" channel="DW English.mncvision">
+    <title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20250708000000 +0000" stop="20250708000200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708000200 +0000" stop="20250708003000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250708003000 +0000" stop="20250708010000 +0000" channel="DW English.mncvision">
+    <title>Eco Africa: Soil-Free Farming</title>
+</programme>
+<programme start="20250708010000 +0000" stop="20250708011500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708011500 +0000" stop="20250708020000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250708020000 +0000" stop="20250708020200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708020200 +0000" stop="20250708023000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250708023000 +0000" stop="20250708030000 +0000" channel="DW English.mncvision">
+    <title>REV: Auto &amp; Mobility Show</title>
+</programme>
+<programme start="20250708030000 +0000" stop="20250708031500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708031500 +0000" stop="20250708033000 +0000" channel="DW English.mncvision">
+    <title>Planet A: How Difficult Is...</title>
+</programme>
+<programme start="20250708033000 +0000" stop="20250708040000 +0000" channel="DW English.mncvision">
+    <title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20250708040000 +0000" stop="20250708041500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708041500 +0000" stop="20250708050000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250708050000 +0000" stop="20250708050200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708050200 +0000" stop="20250708053000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20250708053000 +0000" stop="20250708060000 +0000" channel="DW English.mncvision">
+    <title>Eco India: The Planet&#039;s Health</title>
+</programme>
+<programme start="20250708060000 +0000" stop="20250708061500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708061500 +0000" stop="20250708063000 +0000" channel="DW English.mncvision">
+    <title>Planet A: How Difficult Is...</title>
+</programme>
+<programme start="20250708063000 +0000" stop="20250708070000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Experiencing...</title>
+</programme>
+<programme start="20250708070000 +0000" stop="20250708073000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708073000 +0000" stop="20250708080000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20250708080000 +0000" stop="20250708083000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708083000 +0000" stop="20250708090000 +0000" channel="DW English.mncvision">
+    <title>Eco Africa: Soil-Free Farming</title>
+</programme>
+<programme start="20250708090000 +0000" stop="20250708091500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708091500 +0000" stop="20250708094500 +0000" channel="DW English.mncvision">
+    <title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20250708094500 +0000" stop="20250708100000 +0000" channel="DW English.mncvision">
+    <title>Reporter: On Location</title>
+</programme>
+<programme start="20250708100000 +0000" stop="20250708103000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708103000 +0000" stop="20250708110000 +0000" channel="DW English.mncvision">
+    <title>Tomorrow Today: Science</title>
+</programme>
+<programme start="20250708110000 +0000" stop="20250708113000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250708113000 +0000" stop="20250708120000 +0000" channel="DW English.mncvision">
+    <title>In Good Shape: Lymphatic System</title>
+</programme>
+<programme start="20250708120000 +0000" stop="20250708123000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20250707180000 +0000" stop="20250707190000 +0000" channel="Entertainment.mncvision">
+    <title>Lucky Spinner Indonesia</title>
+</programme>
+<programme start="20250707190000 +0000" stop="20250707200000 +0000" channel="Entertainment.mncvision">
+    <title>Siapa Berani?</title>
+</programme>
+<programme start="20250707200000 +0000" stop="20250707210000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250707210000 +0000" stop="20250707220000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250707220000 +0000" stop="20250707230000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250707230000 +0000" stop="20250708003000 +0000" channel="Entertainment.mncvision">
+    <title>Asal (Asli Atau Palsu)</title>
+</programme>
+<programme start="20250708003000 +0000" stop="20250708013000 +0000" channel="Entertainment.mncvision">
+    <title>Lucky Spinner Indonesia</title>
+</programme>
+<programme start="20250708013000 +0000" stop="20250708030000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250708030000 +0000" stop="20250708040000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250708040000 +0000" stop="20250708050000 +0000" channel="Entertainment.mncvision">
+    <title>Siapa Berani?</title>
+</programme>
+<programme start="20250708050000 +0000" stop="20250708060000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250708060000 +0000" stop="20250708080000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250708080000 +0000" stop="20250708090000 +0000" channel="Entertainment.mncvision">
+    <title>Lucky Spinner Indonesia</title>
+</programme>
+<programme start="20250708090000 +0000" stop="20250708100000 +0000" channel="Entertainment.mncvision">
+    <title>Siapa Berani?</title>
+</programme>
+<programme start="20250708100000 +0000" stop="20250708113000 +0000" channel="Entertainment.mncvision">
+    <title>Asal (Asli Atau Palsu)</title>
+</programme>
+<programme start="20250708113000 +0000" stop="20250708123000 +0000" channel="Entertainment.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250708123000 +0000" stop="20250708143000 +0000" channel="Entertainment.mncvision">
+    <title>The Voice All Stars Indonesia</title>
+</programme>
+<programme start="20250708143000 +0000" stop="20250708163000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250708163000 +0000" stop="20250707170000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250707170000 +0000" stop="20250707171600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707171600 +0000" stop="20250707173000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707173000 +0000" stop="20250707180000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707180000 +0000" stop="20250707181600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707181600 +0000" stop="20250707183000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707183000 +0000" stop="20250707184700 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707184700 +0000" stop="20250707190000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250707190000 +0000" stop="20250707191600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707191600 +0000" stop="20250707193000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707193000 +0000" stop="20250707200000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707200000 +0000" stop="20250707201500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707201500 +0000" stop="20250707203000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707203000 +0000" stop="20250707204600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707204600 +0000" stop="20250707210000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250707210000 +0000" stop="20250707211600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707211600 +0000" stop="20250707213000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707213000 +0000" stop="20250707220000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707220000 +0000" stop="20250707221600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707221600 +0000" stop="20250707223000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707223000 +0000" stop="20250707230000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707230000 +0000" stop="20250707231500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707231500 +0000" stop="20250707233000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250707233000 +0000" stop="20250708000000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708000000 +0000" stop="20250708001600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708001600 +0000" stop="20250708003000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708003000 +0000" stop="20250708010000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708010000 +0000" stop="20250708011400 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708011400 +0000" stop="20250708013000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708013000 +0000" stop="20250708014600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708014600 +0000" stop="20250708020000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250708020000 +0000" stop="20250708021600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708021600 +0000" stop="20250708023000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708023000 +0000" stop="20250708030000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708030000 +0000" stop="20250708031600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708031600 +0000" stop="20250708033000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708033000 +0000" stop="20250708040000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250708040000 +0000" stop="20250708041500 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708041500 +0000" stop="20250708043000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708043000 +0000" stop="20250708050000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708050000 +0000" stop="20250708051500 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708051500 +0000" stop="20250708053000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708053000 +0000" stop="20250708060000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708060000 +0000" stop="20250708061500 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708061500 +0000" stop="20250708063000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708063000 +0000" stop="20250708070000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708070000 +0000" stop="20250708071500 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708071500 +0000" stop="20250708073000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708073000 +0000" stop="20250708080000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20250708080000 +0000" stop="20250708081500 +0000" channel="EURONEWS.mncvision">
+    <title>Euronews Now</title>
+</programme>
+<programme start="20250708081500 +0000" stop="20250708084500 +0000" channel="EURONEWS.mncvision">
+    <title>Euronews Now</title>
+</programme>
 <programme start="20250707170000 +0000" stop="20250707190000 +0000" channel="Fight Sports.mncvision">
     <title>Mega Fights S1, Ep 43</title>
 </programme>
@@ -6226,7 +6580,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250708164500 +0000" stop="20250707171500 +0000" channel="Muslim TV.mncvision">
     <title>Wayang Ramadan</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250707170000 +0000" stop="20250707173000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250707173000 +0000" stop="20250707174500 +0000" channel="NHK World.mncvision">
+    <title>Activate Your Japanese!</title>
+</programme>
+<programme start="20250707174500 +0000" stop="20250707175500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Be Prepared</title>
+</programme>
+<programme start="20250707175500 +0000" stop="20250707180000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250707180000 +0000" stop="20250707182800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250707182800 +0000" stop="20250707184300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250707184300 +0000" stop="20250707185500 +0000" channel="NHK World.mncvision">
+    <title>Matsuri: The Heartbeat Of Japan</title>
+</programme>
+<programme start="20250707185500 +0000" stop="20250707190000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Sparks Fly?</title>
+</programme>
+<programme start="20250707190000 +0000" stop="20250707193000 +0000" channel="NHK World.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250707193000 +0000" stop="20250707200000 +0000" channel="NHK World.mncvision">
+    <title>Seasoning The Seasons</title>
+</programme>
+<programme start="20250707200000 +0000" stop="20250707203000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250707203000 +0000" stop="20250707210000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250707210000 +0000" stop="20250707213000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250707213000 +0000" stop="20250707220000 +0000" channel="NHK World.mncvision">
+    <title>Where We Call Home</title>
+</programme>
+<programme start="20250707220000 +0000" stop="20250707223000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250707223000 +0000" stop="20250707224500 +0000" channel="NHK World.mncvision">
+    <title>Activate Your Japanese!</title>
+</programme>
+<programme start="20250707224500 +0000" stop="20250707225500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Be Prepared</title>
+</programme>
+<programme start="20250707225500 +0000" stop="20250707230000 +0000" channel="NHK World.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20250707230000 +0000" stop="20250707233000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250707233000 +0000" stop="20250707235700 +0000" channel="NHK World.mncvision">
+    <title>Hometown Stories</title>
+</programme>
+<programme start="20250707235700 +0000" stop="20250708000000 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese</title>
+</programme>
+<programme start="20250708000000 +0000" stop="20250708003000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708003000 +0000" stop="20250708010000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250708010000 +0000" stop="20250708013000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708013000 +0000" stop="20250708020000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20250708020000 +0000" stop="20250708023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708023000 +0000" stop="20250708030000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20250708030000 +0000" stop="20250708033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708033000 +0000" stop="20250708040000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250708040000 +0000" stop="20250708043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708043000 +0000" stop="20250708044500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20250708044500 +0000" stop="20250708045500 +0000" channel="NHK World.mncvision">
+    <title>Dig More Japan</title>
+</programme>
+<programme start="20250708045500 +0000" stop="20250708050000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef Mini</title>
+</programme>
+<programme start="20250708050000 +0000" stop="20250708053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708053000 +0000" stop="20250708060000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250708060000 +0000" stop="20250708063000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250708063000 +0000" stop="20250708070000 +0000" channel="NHK World.mncvision">
+    <title>Dining With The Chef</title>
+</programme>
+<programme start="20250708070000 +0000" stop="20250708073000 +0000" channel="NHK World.mncvision">
+    <title>Newsline Asia 24</title>
+</programme>
+<programme start="20250708073000 +0000" stop="20250708080000 +0000" channel="NHK World.mncvision">
+    <title>Document 72 Hours</title>
+</programme>
+<programme start="20250708080000 +0000" stop="20250708083000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708083000 +0000" stop="20250708084500 +0000" channel="NHK World.mncvision">
+    <title>Deeper Look</title>
+</programme>
+<programme start="20250708084500 +0000" stop="20250708090000 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Home Flooding</title>
+</programme>
+<programme start="20250708090000 +0000" stop="20250708093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250708093000 +0000" stop="20250708100000 +0000" channel="NHK World.mncvision">
+    <title>Medical Frontiers</title>
+</programme>
+<programme start="20250708100000 +0000" stop="20250708103000 +0000" channel="NHK World.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20250708103000 +0000" stop="20250708110000 +0000" channel="NHK World.mncvision">
+    <title>Journeys In Japan</title>
+</programme>
+<programme start="20250708110000 +0000" stop="20250708112800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250708112800 +0000" stop="20250708114300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250708114300 +0000" stop="20250708115500 +0000" channel="NHK World.mncvision">
+    <title>Matsuri: The Heartbeat Of Japan</title>
+</programme>
+<programme start="20250708115500 +0000" stop="20250708122500 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Star Festival</title>
+</programme>
 <programme start="20250707170900 +0000" stop="20250707171000 +0000" channel="NHK World Premium.mncvision">
     <title>Election Information</title>
 </programme>
@@ -9366,7 +9869,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Once Upon A Time In Chinatown</title>
 </programme>
 <programme start="20250708150000 +0000" stop="20250708153000 +0000" channel="Vision Prime.mncvision">
-    <title>Sweet 20</title>
+    <title>Manmarziyan</title>
 </programme>
 <programme start="20250707170000 +0000" stop="20250707180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Teka-Teki Kata</title>
@@ -9441,5 +9944,5 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Once Upon A Time In Chinatown</title>
 </programme>
 <programme start="20250708150000 +0000" stop="20250708153000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Sweet 20</title>
+    <title>Manmarziyan</title>
 </programme>
