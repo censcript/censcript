@@ -992,7 +992,7 @@
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250708113000 +0000" stop="20250708132500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Premier League Darts: Playoffs - London</title>
+    <title>UEFA Nations League: Spanien - Frankreich</title>
 </programme>
 <programme start="20250708132500 +0000" stop="20250708140000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -3073,10 +3073,10 @@
 <programme start="20250708124500 +0000" stop="20250708131500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Andrey Rublev - Breaking Back</title>
 </programme>
-<programme start="20250708131500 +0000" stop="20250708153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250708131500 +0000" stop="20250708151500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - P. Kudermetova, Brisbane International in Brisbane (AUS), Finale</title>
 </programme>
-<programme start="20250708153000 +0000" stop="20250708174500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250708151500 +0000" stop="20250708174500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - M. Keys (USA), Adelaide International in Adelaide (AUS), Finale</title>
 </programme>
 <programme start="20250708174500 +0000" stop="20250708201500 +0000" channel="Sky Sport Tennis HD.skyde">
