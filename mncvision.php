@@ -1318,63 +1318,7 @@
 <programme start="20250709155000 +0000" stop="20250709162000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
-<programme start="20250708170000 +0000" stop="20250708184000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga Classic: ELC Vs VIL</title>
-</programme>
-<programme start="20250708184000 +0000" stop="20250708204000 +0000" channel="beIN Sports 3.mncvision">
-    <title>TGL: Jupiter Links Vs New York</title>
-</programme>
-<programme start="20250708204000 +0000" stop="20250708214000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga Highlights 2024/25</title>
-</programme>
-<programme start="20250708214000 +0000" stop="20250708224000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 Highlights 2024/25</title>
-</programme>
-<programme start="20250708224000 +0000" stop="20250709003000 +0000" channel="beIN Sports 3.mncvision">
-    <title>CAF Confederation: CSC Vs CSS</title>
-</programme>
-<programme start="20250709003000 +0000" stop="20250709010000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV HL 2024/25: MUN Vs SOU</title>
-</programme>
-<programme start="20250709010000 +0000" stop="20250709025000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2024/25: OSA Vs LPM</title>
-</programme>
-<programme start="20250709025000 +0000" stop="20250709044500 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2 2024/25: RAC Vs ALB</title>
-</programme>
-<programme start="20250709044500 +0000" stop="20250709061500 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel &#039;25: Buenos Aires</title>
-</programme>
-<programme start="20250709061500 +0000" stop="20250709080500 +0000" channel="beIN Sports 3.mncvision">
-    <title>CAF Champions: CRB Vs PIR</title>
-</programme>
-<programme start="20250709080500 +0000" stop="20250709084000 +0000" channel="beIN Sports 3.mncvision">
-    <title>32nd LaLiga Futures: RMA Vs GIR</title>
-</programme>
-<programme start="20250709084000 +0000" stop="20250709091000 +0000" channel="beIN Sports 3.mncvision">
-    <title>32nd LaLiga Futures: VIL Vs RAY</title>
-</programme>
-<programme start="20250709091000 +0000" stop="20250709094000 +0000" channel="beIN Sports 3.mncvision">
-    <title>RIDE FEI Originals 2025</title>
-</programme>
-<programme start="20250709094000 +0000" stop="20250709113000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga 2024/25: VIL Vs BAR</title>
-</programme>
-<programme start="20250709113000 +0000" stop="20250709123000 +0000" channel="beIN Sports 3.mncvision">
-    <title>LaLiga Specials 2024/25</title>
-</programme>
-<programme start="20250709123000 +0000" stop="20250709132000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Specials: FA Cup Final</title>
-</programme>
-<programme start="20250709132000 +0000" stop="20250709153500 +0000" channel="beIN Sports 3.mncvision">
-    <title>World Rugby U20 C&#039;ship 2025 (L)</title>
-</programme>
-<programme start="20250709153500 +0000" stop="20250709155000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Top 10: League Cup Heroes</title>
-</programme>
-<programme start="20250709155000 +0000" stop="20250709162000 +0000" channel="beIN Sports 3.mncvision">
-    <title>World Rugby U20 C&#039;ship 2025 (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250708170000 +0000" stop="20250708184000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>LaLiga Classic: ELC Vs VIL</title>
 </programme>
@@ -1432,78 +1376,8 @@
 <programme start="20250709155000 +0000" stop="20250709162000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
-<programme start="20250708170000 +0000" stop="20250708190000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250708190000 +0000" stop="20250708210000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250708210000 +0000" stop="20250708230000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250708230000 +0000" stop="20250709010000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709010000 +0000" stop="20250709030000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709030000 +0000" stop="20250709050000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709050000 +0000" stop="20250709070000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709070000 +0000" stop="20250709090000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709090000 +0000" stop="20250709110000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709110000 +0000" stop="20250709130000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709130000 +0000" stop="20250709150000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250709150000 +0000" stop="20250709153000 +0000" channel="beIN SPORTS 4.mncvision">
-    <title>beIN Sports 4</title>
-</programme>
-<programme start="20250708170000 +0000" stop="20250708190000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250708190000 +0000" stop="20250708210000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250708210000 +0000" stop="20250708230000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250708230000 +0000" stop="20250709010000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709010000 +0000" stop="20250709030000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709030000 +0000" stop="20250709050000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709050000 +0000" stop="20250709070000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709070000 +0000" stop="20250709090000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709090000 +0000" stop="20250709110000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709110000 +0000" stop="20250709130000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709130000 +0000" stop="20250709150000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20250709150000 +0000" stop="20250709153000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250708170000 +0000" stop="20250708180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -9409,78 +9283,8 @@
 <programme start="20250709161500 +0000" stop="20250709164500 +0000" channel="tvN HD.mncvision">
     <title>Killer&#039;s Shopping List, Ep 6</title>
 </programme>
-<programme start="20250708175500 +0000" stop="20250708195000 +0000" channel="tvN Movies.mncvision">
-    <title>Hello Ghost</title>
-</programme>
-<programme start="20250708195000 +0000" stop="20250708220500 +0000" channel="tvN Movies.mncvision">
-    <title>Cobweb</title>
-</programme>
-<programme start="20250708220500 +0000" stop="20250708232500 +0000" channel="tvN Movies.mncvision">
-    <title>Don&#039;t Go Too Far</title>
-</programme>
-<programme start="20250708232500 +0000" stop="20250709013000 +0000" channel="tvN Movies.mncvision">
-    <title>Love 911</title>
-</programme>
-<programme start="20250709013000 +0000" stop="20250709035000 +0000" channel="tvN Movies.mncvision">
-    <title>Decision To Leave</title>
-</programme>
-<programme start="20250709035000 +0000" stop="20250709053000 +0000" channel="tvN Movies.mncvision">
-    <title>Gate</title>
-</programme>
-<programme start="20250709053000 +0000" stop="20250709073500 +0000" channel="tvN Movies.mncvision">
-    <title>Enemies In-Law</title>
-</programme>
-<programme start="20250709073500 +0000" stop="20250709094500 +0000" channel="tvN Movies.mncvision">
-    <title>I Am The King</title>
-</programme>
-<programme start="20250709094500 +0000" stop="20250709114000 +0000" channel="tvN Movies.mncvision">
-    <title>Hello Ghost</title>
-</programme>
-<programme start="20250709114000 +0000" stop="20250709140000 +0000" channel="tvN Movies.mncvision">
-    <title>The Witch, Pt 2</title>
-</programme>
-<programme start="20250709140000 +0000" stop="20250709154500 +0000" channel="tvN Movies.mncvision">
-    <title>Nocturnal</title>
-</programme>
-<programme start="20250709154500 +0000" stop="20250709161500 +0000" channel="tvN Movies.mncvision">
-    <title>6/45: Lucky Lotto</title>
-</programme>
-<programme start="20250708175500 +0000" stop="20250708195000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Hello Ghost</title>
-</programme>
-<programme start="20250708195000 +0000" stop="20250708220500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Cobweb</title>
-</programme>
-<programme start="20250708220500 +0000" stop="20250708232500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Don&#039;t Go Too Far</title>
-</programme>
-<programme start="20250708232500 +0000" stop="20250709013000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Love 911</title>
-</programme>
-<programme start="20250709013000 +0000" stop="20250709035000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Decision To Leave</title>
-</programme>
-<programme start="20250709035000 +0000" stop="20250709053000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Gate</title>
-</programme>
-<programme start="20250709053000 +0000" stop="20250709073500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Enemies In-Law</title>
-</programme>
-<programme start="20250709073500 +0000" stop="20250709094500 +0000" channel="tvN Movies HD.mncvision">
-    <title>I Am The King</title>
-</programme>
-<programme start="20250709094500 +0000" stop="20250709114000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Hello Ghost</title>
-</programme>
-<programme start="20250709114000 +0000" stop="20250709140000 +0000" channel="tvN Movies HD.mncvision">
-    <title>The Witch, Pt 2</title>
-</programme>
-<programme start="20250709140000 +0000" stop="20250709154500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Nocturnal</title>
-</programme>
-<programme start="20250709154500 +0000" stop="20250709161500 +0000" channel="tvN Movies HD.mncvision">
-    <title>6/45: Lucky Lotto</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250708170000 +0000" stop="20250708173000 +0000" channel="tvOne.mncvision">
     <title>Kabar Hari Ini</title>
 </programme>
