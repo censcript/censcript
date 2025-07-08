@@ -947,109 +947,106 @@
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
 <programme start="20250708000000 +0000" stop="20250708023000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Pagi</title>
 </programme>
-<programme start="20250708023000 +0000" stop="20250708030000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708023000 +0000" stop="20250708033000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
-<programme start="20250708030000 +0000" stop="20250708040000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708033000 +0000" stop="20250708040000 +0000" channel="Kompas TV.vision">
+<title>Borgol</title>
 </programme>
 <programme start="20250708040000 +0000" stop="20250708060000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Siang</title>
 </programme>
 <programme start="20250708060000 +0000" stop="20250708070000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Siang</title>
 </programme>
 <programme start="20250708070000 +0000" stop="20250708073000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>News Or Hoax</title>
 </programme>
 <programme start="20250708073000 +0000" stop="20250708080000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Jurnal Merah Putih</title>
 </programme>
 <programme start="20250708080000 +0000" stop="20250708083000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Indonesia Update</title>
 </programme>
 <programme start="20250708083000 +0000" stop="20250708090000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Borgol</title>
 </programme>
 <programme start="20250708090000 +0000" stop="20250708103000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Petang</title>
 </programme>
 <programme start="20250708103000 +0000" stop="20250708123000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20250708123000 +0000" stop="20250708133000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berita Utama</title>
 </programme>
 <programme start="20250708133000 +0000" stop="20250708143000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Malam</title>
 </programme>
-<programme start="20250708143000 +0000" stop="20250708153000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708143000 +0000" stop="20250708150000 +0000" channel="Kompas TV.vision">
+<title>Laporan Khusus</title>
 </programme>
-<programme start="20250708153000 +0000" stop="20250708163000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708150000 +0000" stop="20250708160000 +0000" channel="Kompas TV.vision">
+<title>B-Talk</title>
+</programme>
+<programme start="20250708160000 +0000" stop="20250708163000 +0000" channel="Kompas TV.vision">
+<title>Berkas Kompas</title>
 </programme>
 <programme start="20250708163000 +0000" stop="20250708170000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kilas Kompas</title>
 </programme>
 <programme start="20250708170000 +0000" stop="20250708173000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Sport</title>
 </programme>
-<programme start="20250708173000 +0000" stop="20250708180000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250708180000 +0000" stop="20250708183000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250708183000 +0000" stop="20250708190000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708173000 +0000" stop="20250708190000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
 </programme>
 <programme start="20250708190000 +0000" stop="20250708200000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berita Utama</title>
 </programme>
 <programme start="20250708200000 +0000" stop="20250708210000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Malam</title>
 </programme>
-<programme start="20250708210000 +0000" stop="20250708213000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708210000 +0000" stop="20250708220000 +0000" channel="Kompas TV.vision">
+<title>Syiar Syair</title>
 </programme>
-<programme start="20250708213000 +0000" stop="20250709000000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250708220000 +0000" stop="20250709000000 +0000" channel="Kompas TV.vision">
+<title>Kompas Pagi</title>
 </programme>
 <programme start="20250709000000 +0000" stop="20250709023000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Pagi</title>
 </programme>
-<programme start="20250709023000 +0000" stop="20250709030000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250709023000 +0000" stop="20250709033000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
-<programme start="20250709030000 +0000" stop="20250709040000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250709033000 +0000" stop="20250709040000 +0000" channel="Kompas TV.vision">
+<title>Borgol</title>
 </programme>
 <programme start="20250709040000 +0000" stop="20250709060000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Siang</title>
 </programme>
 <programme start="20250709060000 +0000" stop="20250709070000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Siang</title>
 </programme>
 <programme start="20250709070000 +0000" stop="20250709073000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Laporan Khusus</title>
 </programme>
 <programme start="20250709073000 +0000" stop="20250709080000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Jurnal Merah Putih</title>
 </programme>
 <programme start="20250709080000 +0000" stop="20250709083000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Indonesia Update</title>
 </programme>
 <programme start="20250709083000 +0000" stop="20250709090000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Borgol</title>
 </programme>
 <programme start="20250709090000 +0000" stop="20250709103000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Petang</title>
 </programme>
 <programme start="20250709103000 +0000" stop="20250709123000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20250708000000 +0000" stop="20250708000500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250709030000 +0000" stop="20250709034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
+</programme>
+<programme start="20250709034500 +0000" stop="20250709040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
