@@ -1,37 +1,37 @@
-    <programme start="20250709154930 +0000" stop="20250709181000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250709154930 +0000" stop="20250709181000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - England v Netherlands</title>
     </programme>
     <programme start="20250709170000 +0000" stop="20250709173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Claude Makelele</title>
     </programme>
-    <programme start="20250709184930 +0000" stop="20250709211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250709184930 +0000" stop="20250709211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - France v Wales</title>
     </programme>
-    <programme start="20250710184930 +0000" stop="20250710211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250710184930 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Norway v Iceland</title>
     </programme>
-    <programme start="20250710184930 +0000" stop="20250710211000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250710184930 +0000" stop="20250710211000 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Women&#039;s Championship - Finland v Switzerland</title>
     </programme>
-    <programme start="20250711184930 +0000" stop="20250711211000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250711184930 +0000" stop="20250711211000 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Women&#039;s Championship - Portugal v Belgium</title>
     </programme>
-    <programme start="20250711184930 +0000" stop="20250711211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250711184930 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Italy v Spain</title>
     </programme>
     <programme start="20250712095000 +0000" stop="20250712121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Ulsan v Daegu</title>
     </programme>
-    <programme start="20250712184930 +0000" stop="20250712211000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250712184930 +0000" stop="20250712211000 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
     </programme>
-    <programme start="20250712184930 +0000" stop="20250712211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250712184930 +0000" stop="20250712211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Sweden v Germany</title>
     </programme>
-    <programme start="20250713184930 +0000" stop="20250713211000 +0000" channel="Optus Sport 1.optus">
+    <programme start="20250713184930 +0000" stop="20250713211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - England v Wales</title>
     </programme>
-    <programme start="20250713184930 +0000" stop="20250713211000 +0000" channel="Optus Sport 2.optus">
+    <programme start="20250713184930 +0000" stop="20250713211000 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Women&#039;s Championship - Netherlands v France</title>
     </programme>
     <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="Optus Sport 11.optus">

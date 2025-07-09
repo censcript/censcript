@@ -3022,7 +3022,13 @@
 <programme start="20250708220000 +0000" stop="20250709040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250709040000 +0000" stop="20250709100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250709040000 +0000" stop="20250709090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250709090000 +0000" stop="20250709093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Leipzig-PK mit Ole Werner</title>
+</programme>
+<programme start="20250709093000 +0000" stop="20250709100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250709100000 +0000" stop="20250709130000 +0000" channel="Sky Sport News HD.skyde">

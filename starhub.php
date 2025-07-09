@@ -1232,7 +1232,7 @@
         <title>Wanderlei Silva, Donald Cerrone, Frank Mir and more!</title>
     </programme>
     <programme start="20250709040000 +0000" stop="20250709050000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>TF2 - The Fighter David vs. Goliath</title>
+        <title>David vs. Goliath</title>
     </programme>
     <programme start="20250709050000 +0000" stop="20250709070000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>MEGA Fights Carlos Manuel Baldomir vs. Arturo Gatti</title>
@@ -1256,7 +1256,7 @@
         <title>Wanderlei Silva, Donald Cerrone, Frank Mir and more!</title>
     </programme>
     <programme start="20250709100000 +0000" stop="20250709110000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>TF2 - The Fighter David vs. Goliath</title>
+        <title>David vs. Goliath</title>
     </programme>
     <programme start="20250709110000 +0000" stop="20250709130000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>WCCB Tim Tszyu vs. Sebastian Fundora</title>
@@ -4901,7 +4901,7 @@
         <title>Bol Radha Bol</title>
     </programme>
     <programme start="20250709110000 +0000" stop="20250709140000 +0000" channel="Zee Cinema.starhub">
-        <title>Parmanu: The Story of Pokhran</title>
+        <title>Parmanu - The Story Of Pokhran</title>
     </programme>
     <programme start="20250709140000 +0000" stop="20250709163000 +0000" channel="Zee Cinema.starhub">
         <title>Jango</title>
