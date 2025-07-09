@@ -9044,10 +9044,10 @@
         <title>Must Love Dogs</title>
     </programme>
     <programme start="20250708221000 +0000" stop="20250708223500 +0000" channel="HBO Family HD.starhub">
-        <title>Crashbox S1</title>
+        <title>Episode 6</title>
     </programme>
     <programme start="20250708223500 +0000" stop="20250708230500 +0000" channel="HBO Family HD.starhub">
-        <title>Crashbox S1</title>
+        <title>Episode 7</title>
     </programme>
     <programme start="20250708230500 +0000" stop="20250708232500 +0000" channel="HBO Family HD.starhub">
         <title>Boys &amp; Girls</title>
