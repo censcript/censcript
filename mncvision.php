@@ -5159,10 +5159,10 @@
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20250709120000 +0000" stop="20250709123000 +0000" channel="Kids TV.mncvision">
-    <title>Rat A Tat</title>
+    <title>Blaze &amp; The Monster Machines</title>
 </programme>
 <programme start="20250709123000 +0000" stop="20250709130000 +0000" channel="Kids TV.mncvision">
-    <title>Blaze &amp; The Monster Machines</title>
+    <title>Rat A Tat</title>
 </programme>
 <programme start="20250709130000 +0000" stop="20250709133000 +0000" channel="Kids TV.mncvision">
     <title>Shaun The Sheep</title>
@@ -5276,10 +5276,10 @@
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20250709120000 +0000" stop="20250709123000 +0000" channel="Kids TV HD.mncvision">
-    <title>Rat A Tat</title>
+    <title>Blaze &amp; The Monster Machines</title>
 </programme>
 <programme start="20250709123000 +0000" stop="20250709130000 +0000" channel="Kids TV HD.mncvision">
-    <title>Blaze &amp; The Monster Machines</title>
+    <title>Rat A Tat</title>
 </programme>
 <programme start="20250709130000 +0000" stop="20250709133000 +0000" channel="Kids TV HD.mncvision">
     <title>Shaun The Sheep</title>
