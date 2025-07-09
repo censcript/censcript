@@ -3311,10 +3311,10 @@
         <title>News</title>
     </programme>
     <programme start="20250708161500 +0000" stop="20250708164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dialogue in the Middle East - Palestinians and Israelis Dream of Peace</title>
     </programme>
     <programme start="20250708164500 +0000" stop="20250708170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Adoption in Bangladesh - Searching for Your Roots</title>
     </programme>
     <programme start="20250708170000 +0000" stop="20250708171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3353,7 +3353,7 @@
         <title>Migration</title>
     </programme>
     <programme start="20250708211500 +0000" stop="20250708214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dialogue in the Middle East - Palestinians and Israelis Dream of Peace</title>
     </programme>
     <programme start="20250708214500 +0000" stop="20250708220000 +0000" channel="DW English HD.starhub">
         <title>Beyond the grave: AI and the virtual afterlife</title>
@@ -3365,7 +3365,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250708223000 +0000" stop="20250708230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Kenya, one year after the protests</title>
     </programme>
     <programme start="20250708230000 +0000" stop="20250708231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
