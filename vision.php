@@ -232,19 +232,19 @@
 <programme start="20250709223000 +0000" stop="20250709233000 +0000" channel="GTV.vision">
 <title>Warbiasak</title>
 </programme>
-<programme start="20250707233000 +0000" stop="20250708010000 +0000" channel="GTV.vision">
+<programme start="20250709233000 +0000" stop="20250710010000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20250708010000 +0000" stop="20250708020000 +0000" channel="GTV.vision">
+<programme start="20250710010000 +0000" stop="20250710020000 +0000" channel="GTV.vision">
 <title>Ini Faktanya</title>
 </programme>
-<programme start="20250708020000 +0000" stop="20250708030000 +0000" channel="GTV.vision">
+<programme start="20250710020000 +0000" stop="20250710030000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250708030000 +0000" stop="20250708040000 +0000" channel="GTV.vision">
+<programme start="20250710030000 +0000" stop="20250710040000 +0000" channel="GTV.vision">
 <title>Hot Spot Viral</title>
 </programme>
-<programme start="20250708040000 +0000" stop="20250708050000 +0000" channel="GTV.vision">
+<programme start="20250710040000 +0000" stop="20250710050000 +0000" channel="GTV.vision">
 <title>Kuliner Nusantara</title>
 </programme>
 <programme start="20250710050000 +0000" stop="20250710080000 +0000" channel="GTV.vision">
