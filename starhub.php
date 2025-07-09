@@ -9115,14 +9115,14 @@
     <programme start="20250709070700 +0000" stop="20250709071800 +0000" channel="HBO Family HD.starhub">
         <title>Club Kidney-Ki</title>
     </programme>
-    <programme start="20250709071800 +0000" stop="20250709072900 +0000" channel="HBO Family HD.starhub">
-        <title>Handy Helper</title>
-    </programme>
-    <programme start="20250709072900 +0000" stop="20250709074000 +0000" channel="HBO Family HD.starhub">
-        <title>Love Sick</title>
-    </programme>
-    <programme start="20250709074000 +0000" stop="20250709080000 +0000" channel="HBO Family HD.starhub">
+    <programme start="20250709071800 +0000" stop="20250709073000 +0000" channel="HBO Family HD.starhub">
         <title>Hello Dolly</title>
+    </programme>
+    <programme start="20250709073000 +0000" stop="20250709074100 +0000" channel="HBO Family HD.starhub">
+        <title>Over Cooked Beans</title>
+    </programme>
+    <programme start="20250709074100 +0000" stop="20250709080000 +0000" channel="HBO Family HD.starhub">
+        <title>The Battle Of Pimpleback Mountain</title>
     </programme>
     <programme start="20250709080000 +0000" stop="20250709082200 +0000" channel="HBO Family HD.starhub">
         <title>Shnitzel Quits</title>
