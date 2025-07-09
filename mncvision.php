@@ -9821,10 +9821,10 @@
     <title>Menggapai Ikatan Cinta</title>
 </programme>
 <programme start="20250709143000 +0000" stop="20250709150000 +0000" channel="Vision Prime.mncvision">
-    <title>Beyond Creator Indonesian...</title>
+    <title>Once Upon A Time In Chinatown</title>
 </programme>
 <programme start="20250709150000 +0000" stop="20250709153000 +0000" channel="Vision Prime.mncvision">
-    <title>Dream Zindagi</title>
+    <title>Manmarziyan</title>
 </programme>
 <programme start="20250708173000 +0000" stop="20250708180000 +0000" channel="Vision Prime HD.mncvision">
     <title>OMG</title>
@@ -9890,8 +9890,8 @@
     <title>Menggapai Ikatan Cinta</title>
 </programme>
 <programme start="20250709143000 +0000" stop="20250709150000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Beyond Creator Indonesian...</title>
+    <title>Once Upon A Time In Chinatown</title>
 </programme>
 <programme start="20250709150000 +0000" stop="20250709153000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Dream Zindagi</title>
+    <title>Manmarziyan</title>
 </programme>
