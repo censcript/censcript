@@ -8803,8 +8803,11 @@
 <programme start="20250709053000 +0000" stop="20250709083000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250709083000 +0000" stop="20250709110000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250709083000 +0000" stop="20250709103000 +0000" channel="SPOTV 2.mncvision">
     <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250709103000 +0000" stop="20250709110000 +0000" channel="SPOTV 2.mncvision">
+    <title>2024/25 A-League Men HL</title>
 </programme>
 <programme start="20250709110000 +0000" stop="20250709115500 +0000" channel="SPOTV 2.mncvision">
     <title>2025 Asian Tour: Morocco HL</title>
@@ -8842,8 +8845,11 @@
 <programme start="20250709053000 +0000" stop="20250709083000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
 </programme>
-<programme start="20250709083000 +0000" stop="20250709110000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250709083000 +0000" stop="20250709103000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Wimbledon 2025: Singles</title>
+</programme>
+<programme start="20250709103000 +0000" stop="20250709110000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2024/25 A-League Men HL</title>
 </programme>
 <programme start="20250709110000 +0000" stop="20250709115500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 Asian Tour: Morocco HL</title>

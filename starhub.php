@@ -8482,8 +8482,11 @@
     <programme start="20250709044500 +0000" stop="20250709053000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2 (Rd 16)</title>
     </programme>
-    <programme start="20250709053000 +0000" stop="20250709110000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250709053000 +0000" stop="20250709103000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Quarter-finals</title>
+    </programme>
+    <programme start="20250709103000 +0000" stop="20250709110000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250709110000 +0000" stop="20250709115500 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
