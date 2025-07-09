@@ -1336,7 +1336,69 @@
 <programme start="20250710164500 +0000" stop="20250709171500 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV: 20 Goals By Dutch Reds</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 0
+<programme start="20250709180500 +0000" stop="20250709182000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Top 10: Fergie Time Goals</title>
+</programme>
+<programme start="20250709182000 +0000" stop="20250709203500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>World Rugby U20 C&#039;ship 2025 (L)</title>
+</programme>
+<programme start="20250709203500 +0000" stop="20250709204500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250709204500 +0000" stop="20250709214000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250709214000 +0000" stop="20250709224000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250709224000 +0000" stop="20250710003000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Confederation: JAR Vs ASE</title>
+</programme>
+<programme start="20250710003000 +0000" stop="20250710010000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV HL 2024/25: MUN Vs RAN</title>
+</programme>
+<programme start="20250710010000 +0000" stop="20250710025000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: ATH Vs CEL</title>
+</programme>
+<programme start="20250710025000 +0000" stop="20250710044000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 2024/25: OVI Vs BUR</title>
+</programme>
+<programme start="20250710044000 +0000" stop="20250710061000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel &#039;25: Buenos Aires</title>
+</programme>
+<programme start="20250710061000 +0000" stop="20250710080000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Champions: TUN Vs DJO</title>
+</programme>
+<programme start="20250710080000 +0000" stop="20250710083500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>32nd LaLiga Futures: SEV Vs BAR</title>
+</programme>
+<programme start="20250710083500 +0000" stop="20250710091000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>32nd LaLiga Futures: ESP Vs VIL</title>
+</programme>
+<programme start="20250710091000 +0000" stop="20250710094000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: Tony Whelan</title>
+</programme>
+<programme start="20250710094000 +0000" stop="20250710111000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel &#039;25: Buenos Aires</title>
+</programme>
+<programme start="20250710111000 +0000" stop="20250710130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: RSO Vs VAL</title>
+</programme>
+<programme start="20250710130000 +0000" stop="20250710140000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250710140000 +0000" stop="20250710153000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>SailGP S5: Los Angeles</title>
+</programme>
+<programme start="20250710153000 +0000" stop="20250710163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: David Beckham</title>
+</programme>
+<programme start="20250710163000 +0000" stop="20250710164500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV: 20 Goals By Portuguese...</title>
+</programme>
+<programme start="20250710164500 +0000" stop="20250709171500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV: 20 Goals By Dutch Reds</title>
+</programme>
 <programme start="20250709170000 +0000" stop="20250709190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
@@ -4121,97 +4183,97 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250710160000 +0000" stop="20250710163000 +0000" channel="GTV HD.mncvision">
     <title>The Intern</title>
 </programme>
-<programme start="20250709180000 +0000" stop="20250709183000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
-</programme>
-<programme start="20250709183000 +0000" stop="20250709190000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Komedi Jowo</title>
-</programme>
-<programme start="20250709190000 +0000" stop="20250709200000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Misteri Gunung Merapi</title>
-</programme>
-<programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250709210000 +0000" stop="20250709213000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250709213000 +0000" stop="20250709220000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250709220000 +0000" stop="20250709223000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Duo Bocil</title>
-</programme>
-<programme start="20250709223000 +0000" stop="20250709230000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Komedi Jowo</title>
-</programme>
-<programme start="20250709230000 +0000" stop="20250710000000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ken Arok</title>
-</programme>
-<programme start="20250710000000 +0000" stop="20250710010000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250710010000 +0000" stop="20250710030000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
-</programme>
-<programme start="20250710030000 +0000" stop="20250710040000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ken Arok</title>
-</programme>
-<programme start="20250710040000 +0000" stop="20250710043000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kaca Benggala</title>
-</programme>
-<programme start="20250710043000 +0000" stop="20250710053000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Misteri Gunung Merapi</title>
-</programme>
-<programme start="20250710053000 +0000" stop="20250710063000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250710063000 +0000" stop="20250710070000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250710070000 +0000" stop="20250710073000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250710073000 +0000" stop="20250710083000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250710083000 +0000" stop="20250710090000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Duo Bocil</title>
-</programme>
-<programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ken Arok</title>
-</programme>
-<programme start="20250710100000 +0000" stop="20250710103000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kaca Benggala</title>
-</programme>
-<programme start="20250710103000 +0000" stop="20250710110000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250710110000 +0000" stop="20250710120000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250710120000 +0000" stop="20250710123000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250710123000 +0000" stop="20250710130000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Duo Bocil</title>
-</programme>
-<programme start="20250710130000 +0000" stop="20250710133000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Komedi Jowo</title>
-</programme>
-<programme start="20250710133000 +0000" stop="20250710140000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
-</programme>
-<programme start="20250710140000 +0000" stop="20250710150000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Misteri Gunung Merapi</title>
-</programme>
-<programme start="20250710150000 +0000" stop="20250710160000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250710160000 +0000" stop="20250710163000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
-</programme>
 Error: Unable to fetch data. HTTP Status Code: 0
+<programme start="20250709173500 +0000" stop="20250709183000 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S10, Ep 20</title>
+</programme>
+<programme start="20250709183000 +0000" stop="20250709185500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 1</title>
+</programme>
+<programme start="20250709185500 +0000" stop="20250709192500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 2</title>
+</programme>
+<programme start="20250709192500 +0000" stop="20250709202000 +0000" channel="History.mncvision">
+    <title>The Bermuda Triangle S1, Ep 2</title>
+</programme>
+<programme start="20250709202000 +0000" stop="20250709211500 +0000" channel="History.mncvision">
+    <title>Alone S11, Ep 9</title>
+</programme>
+<programme start="20250709211500 +0000" stop="20250709221000 +0000" channel="History.mncvision">
+    <title>Mountain Men S12, Ep 7</title>
+</programme>
+<programme start="20250709221000 +0000" stop="20250709230500 +0000" channel="History.mncvision">
+    <title>Secret Skinwalker... S4, Ep 7</title>
+</programme>
+<programme start="20250709230500 +0000" stop="20250710000000 +0000" channel="History.mncvision">
+    <title>The Bermuda Triangle S1, Ep 2</title>
+</programme>
+<programme start="20250710000000 +0000" stop="20250710005500 +0000" channel="History.mncvision">
+    <title>Alone S11, Ep 9</title>
+</programme>
+<programme start="20250710005500 +0000" stop="20250710015500 +0000" channel="History.mncvision">
+    <title>Mountain Men S11, Ep 150</title>
+</programme>
+<programme start="20250710015500 +0000" stop="20250710025000 +0000" channel="History.mncvision">
+    <title>Mountain Men S12, Ep 7</title>
+</programme>
+<programme start="20250710025000 +0000" stop="20250710034500 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S10, Ep 20</title>
+</programme>
+<programme start="20250710034500 +0000" stop="20250710041000 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 1</title>
+</programme>
+<programme start="20250710041000 +0000" stop="20250710044000 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 2</title>
+</programme>
+<programme start="20250710044000 +0000" stop="20250710053500 +0000" channel="History.mncvision">
+    <title>Secret Skinwalker... S4, Ep 7</title>
+</programme>
+<programme start="20250710053500 +0000" stop="20250710063000 +0000" channel="History.mncvision">
+    <title>The Bermuda Triangle S1, Ep 2</title>
+</programme>
+<programme start="20250710063000 +0000" stop="20250710072500 +0000" channel="History.mncvision">
+    <title>Mountain Men S12, Ep 7</title>
+</programme>
+<programme start="20250710072500 +0000" stop="20250710075000 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 1</title>
+</programme>
+<programme start="20250710075000 +0000" stop="20250710082000 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 2</title>
+</programme>
+<programme start="20250710082000 +0000" stop="20250710092000 +0000" channel="History.mncvision">
+    <title>Alone S11, Ep 9</title>
+</programme>
+<programme start="20250710092000 +0000" stop="20250710101500 +0000" channel="History.mncvision">
+    <title>Mountain Men S11, Ep 150</title>
+</programme>
+<programme start="20250710101500 +0000" stop="20250710111000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S3, Ep 7</title>
+</programme>
+<programme start="20250710111000 +0000" stop="20250710120500 +0000" channel="History.mncvision">
+    <title>Greatest Escapes S2, Ep 9</title>
+</programme>
+<programme start="20250710120500 +0000" stop="20250710130000 +0000" channel="History.mncvision">
+    <title>Mega-Brands That Built..., Ep 4</title>
+</programme>
+<programme start="20250710130000 +0000" stop="20250710135500 +0000" channel="History.mncvision">
+    <title>Forged In Fire S9, Ep 14</title>
+</programme>
+<programme start="20250710135500 +0000" stop="20250710145000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S1, Ep 2</title>
+</programme>
+<programme start="20250710145000 +0000" stop="20250710151500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 11</title>
+</programme>
+<programme start="20250710151500 +0000" stop="20250710154500 +0000" channel="History.mncvision">
+    <title>Alone: Skills Challenge, Ep 12</title>
+</programme>
+<programme start="20250710154500 +0000" stop="20250710164000 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 96</title>
+</programme>
+<programme start="20250710164000 +0000" stop="20250709171000 +0000" channel="History.mncvision">
+    <title>Mega-Brands That Built..., Ep 4</title>
+</programme>
 <programme start="20250709170000 +0000" stop="20250709180000 +0000" channel="HITS.mncvision">
     <title>Murder, She Wrote S8, Ep 15</title>
 </programme>
@@ -4836,93 +4898,7 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="iNews HD.mncvision">
     <title>New Top Files</title>
 </programme>
-<programme start="20250709230000 +0000" stop="20250709233000 +0000" channel="JAKTV.mncvision">
-    <title>Inovator</title>
-</programme>
-<programme start="20250709233000 +0000" stop="20250710000000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710000000 +0000" stop="20250710003000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710003000 +0000" stop="20250710013000 +0000" channel="JAKTV.mncvision">
-    <title>Lejel</title>
-</programme>
-<programme start="20250710013000 +0000" stop="20250710023000 +0000" channel="JAKTV.mncvision">
-    <title>Lejel</title>
-</programme>
-<programme start="20250710023000 +0000" stop="20250710030000 +0000" channel="JAKTV.mncvision">
-    <title>Dunia Kita</title>
-</programme>
-<programme start="20250710030000 +0000" stop="20250710033000 +0000" channel="JAKTV.mncvision">
-    <title>Cooking Time</title>
-</programme>
-<programme start="20250710033000 +0000" stop="20250710040000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710040000 +0000" stop="20250710043000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710043000 +0000" stop="20250710053000 +0000" channel="JAKTV.mncvision">
-    <title>Lejel</title>
-</programme>
-<programme start="20250710053000 +0000" stop="20250710063000 +0000" channel="JAKTV.mncvision">
-    <title>Berkah Shop</title>
-</programme>
-<programme start="20250710063000 +0000" stop="20250710070000 +0000" channel="JAKTV.mncvision">
-    <title>Noice Ibu Negara Andara</title>
-</programme>
-<programme start="20250710070000 +0000" stop="20250710073000 +0000" channel="JAKTV.mncvision">
-    <title>Retro Hour</title>
-</programme>
-<programme start="20250710073000 +0000" stop="20250710083000 +0000" channel="JAKTV.mncvision">
-    <title>Berkah Shop</title>
-</programme>
-<programme start="20250710083000 +0000" stop="20250710090000 +0000" channel="JAKTV.mncvision">
-    <title>Kiddies World</title>
-</programme>
-<programme start="20250710090000 +0000" stop="20250710093000 +0000" channel="JAKTV.mncvision">
-    <title>Vlogger On The Road</title>
-</programme>
-<programme start="20250710093000 +0000" stop="20250710100000 +0000" channel="JAKTV.mncvision">
-    <title>Cooking Time</title>
-</programme>
-<programme start="20250710100000 +0000" stop="20250710103000 +0000" channel="JAKTV.mncvision">
-    <title>Muslimpedia</title>
-</programme>
-<programme start="20250710103000 +0000" stop="20250710110000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710110000 +0000" stop="20250710113000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710113000 +0000" stop="20250710120000 +0000" channel="JAKTV.mncvision">
-    <title>Creative Talk</title>
-</programme>
-<programme start="20250710120000 +0000" stop="20250710123000 +0000" channel="JAKTV.mncvision">
-    <title>Inovator</title>
-</programme>
-<programme start="20250710123000 +0000" stop="20250710130000 +0000" channel="JAKTV.mncvision">
-    <title>Garasi</title>
-</programme>
-<programme start="20250710130000 +0000" stop="20250710133000 +0000" channel="JAKTV.mncvision">
-    <title>Animal Action</title>
-</programme>
-<programme start="20250710133000 +0000" stop="20250710143000 +0000" channel="JAKTV.mncvision">
-    <title>Jendela Sarawak</title>
-</programme>
-<programme start="20250710143000 +0000" stop="20250710150000 +0000" channel="JAKTV.mncvision">
-    <title>Dunia Kita</title>
-</programme>
-<programme start="20250710150000 +0000" stop="20250710153000 +0000" channel="JAKTV.mncvision">
-    <title>Noice</title>
-</programme>
-<programme start="20250710153000 +0000" stop="20250710160000 +0000" channel="JAKTV.mncvision">
-    <title>Mirror Story</title>
-</programme>
-<programme start="20250710160000 +0000" stop="20250710163000 +0000" channel="JAKTV.mncvision">
-    <title>Retro Hour</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250709170000 +0000" stop="20250709173000 +0000" channel="Kids TV.mncvision">
     <title>Little Angel</title>
 </programme>
@@ -7272,78 +7248,8 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250710162000 +0000" stop="20250710165000 +0000" channel="ONE HD.mncvision">
     <title>Oh My Ghost Clients, Ep 1</title>
 </programme>
-<programme start="20250709185500 +0000" stop="20250709222400 +0000" channel="ORIGINALS.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250709222400 +0000" stop="20250710001000 +0000" channel="ORIGINALS.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250710001000 +0000" stop="20250710021300 +0000" channel="ORIGINALS.mncvision">
-    <title>The Lost Husband</title>
-</programme>
-<programme start="20250710021300 +0000" stop="20250710041800 +0000" channel="ORIGINALS.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710041800 +0000" stop="20250710054700 +0000" channel="ORIGINALS.mncvision">
-    <title>10 Items Or Less</title>
-</programme>
-<programme start="20250710054700 +0000" stop="20250710073500 +0000" channel="ORIGINALS.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250710073500 +0000" stop="20250710090400 +0000" channel="ORIGINALS.mncvision">
-    <title>Auggie</title>
-</programme>
-<programme start="20250710090400 +0000" stop="20250710104800 +0000" channel="ORIGINALS.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710104800 +0000" stop="20250710123600 +0000" channel="ORIGINALS.mncvision">
-    <title>Hard Cash</title>
-</programme>
-<programme start="20250710123600 +0000" stop="20250710142800 +0000" channel="ORIGINALS.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250710142800 +0000" stop="20250710163000 +0000" channel="ORIGINALS.mncvision">
-    <title>An Innocent Kiss</title>
-</programme>
-<programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="ORIGINALS.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250709185500 +0000" stop="20250709222400 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250709222400 +0000" stop="20250710001000 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250710001000 +0000" stop="20250710021300 +0000" channel="ORIGINALS HD.mncvision">
-    <title>The Lost Husband</title>
-</programme>
-<programme start="20250710021300 +0000" stop="20250710041800 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710041800 +0000" stop="20250710054700 +0000" channel="ORIGINALS HD.mncvision">
-    <title>10 Items Or Less</title>
-</programme>
-<programme start="20250710054700 +0000" stop="20250710073500 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250710073500 +0000" stop="20250710090400 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Auggie</title>
-</programme>
-<programme start="20250710090400 +0000" stop="20250710104800 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710104800 +0000" stop="20250710123600 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Hard Cash</title>
-</programme>
-<programme start="20250710123600 +0000" stop="20250710142800 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20250710142800 +0000" stop="20250710163000 +0000" channel="ORIGINALS HD.mncvision">
-    <title>An Innocent Kiss</title>
-</programme>
-<programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="ORIGINALS HD.mncvision">
-    <title>Platinum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250709170000 +0000" stop="20250709173000 +0000" channel="Outdoor Channel.mncvision">
     <title>Jade Fever S6, Ep 7</title>
 </programme>
@@ -8040,81 +7946,7 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="SEA TODAY.mncvision">
     <title>SEAfood</title>
 </programme>
-<programme start="20250709170000 +0000" stop="20250709173000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20250709173000 +0000" stop="20250709180000 +0000" channel="Sindo News TV.mncvision">
-    <title>New Top Files</title>
-</programme>
-<programme start="20250709180000 +0000" stop="20250709190000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Malam</title>
-</programme>
-<programme start="20250709190000 +0000" stop="20250709200000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20250709200000 +0000" stop="20250709210000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20250709210000 +0000" stop="20250709220000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20250709220000 +0000" stop="20250709230000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20250709230000 +0000" stop="20250710000000 +0000" channel="Sindo News TV.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20250710000000 +0000" stop="20250710003000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20250710003000 +0000" stop="20250710020000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Today</title>
-</programme>
-<programme start="20250710020000 +0000" stop="20250710030000 +0000" channel="Sindo News TV.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20250710030000 +0000" stop="20250710033000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Sport Pagi</title>
-</programme>
-<programme start="20250710033000 +0000" stop="20250710050000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Siang</title>
-</programme>
-<programme start="20250710050000 +0000" stop="20250710053000 +0000" channel="Sindo News TV.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20250710053000 +0000" stop="20250710070000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Today</title>
-</programme>
-<programme start="20250710070000 +0000" stop="20250710073000 +0000" channel="Sindo News TV.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20250710073000 +0000" stop="20250710090000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Siang</title>
-</programme>
-<programme start="20250710090000 +0000" stop="20250710093000 +0000" channel="Sindo News TV.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20250710093000 +0000" stop="20250710110000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20250710110000 +0000" stop="20250710120000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20250710120000 +0000" stop="20250710133000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20250710133000 +0000" stop="20250710143000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20250710143000 +0000" stop="20250710153000 +0000" channel="Sindo News TV.mncvision">
-    <title>The Prime Show</title>
-</programme>
-<programme start="20250710153000 +0000" stop="20250710163000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="Sindo News TV.mncvision">
-    <title>OMG</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250709170000 +0000" stop="20250709173000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8235,108 +8067,8 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2024/25: KSV Vs SCF</title>
 </programme>
-<programme start="20250709183000 +0000" stop="20250709203000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Qual.: JPN Vs IDN</title>
-</programme>
-<programme start="20250709203000 +0000" stop="20250709210000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20250709210000 +0000" stop="20250709213000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250709213000 +0000" stop="20250709233000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Timnas Special: IDN Vs YEM</title>
-</programme>
-<programme start="20250709233000 +0000" stop="20250710013000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Qual.: JPN Vs IDN</title>
-</programme>
-<programme start="20250710013000 +0000" stop="20250710033000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2024/25: BOC Vs M05</title>
-</programme>
-<programme start="20250710033000 +0000" stop="20250710040000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250710040000 +0000" stop="20250710060000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League Women</title>
-</programme>
-<programme start="20250710060000 +0000" stop="20250710080000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20250710080000 +0000" stop="20250710100000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2024/25: KSV Vs SCF</title>
-</programme>
-<programme start="20250710100000 +0000" stop="20250710103000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250710103000 +0000" stop="20250710123000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Qual.: KOR Vs KUW</title>
-</programme>
-<programme start="20250710123000 +0000" stop="20250710143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Timnas Special: AFG Vs IDN</title>
-</programme>
-<programme start="20250710143000 +0000" stop="20250710163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League Women</title>
-</programme>
-<programme start="20250710163000 +0000" stop="20250709170000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2024/25: KSV Vs SCF</title>
-</programme>
-<programme start="20250709173000 +0000" stop="20250709200000 +0000" channel="Sportstars.mncvision">
-    <title>Kapal Api Indonesia Open 2025</title>
-</programme>
-<programme start="20250709200000 +0000" stop="20250709203000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20250709203000 +0000" stop="20250709210000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20250709210000 +0000" stop="20250709230000 +0000" channel="Sportstars.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20250709230000 +0000" stop="20250709233000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20250709233000 +0000" stop="20250710000000 +0000" channel="Sportstars.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20250710000000 +0000" stop="20250710003000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20250710003000 +0000" stop="20250710023000 +0000" channel="Sportstars.mncvision">
-    <title>Volleyball Nations League Women</title>
-</programme>
-<programme start="20250710023000 +0000" stop="20250710043000 +0000" channel="Sportstars.mncvision">
-    <title>Volleyball Nations League Men</title>
-</programme>
-<programme start="20250710043000 +0000" stop="20250710050000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20250710050000 +0000" stop="20250710053000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20250710053000 +0000" stop="20250710080000 +0000" channel="Sportstars.mncvision">
-    <title>Kapal Api Indonesia Open 2025</title>
-</programme>
-<programme start="20250710080000 +0000" stop="20250710083000 +0000" channel="Sportstars.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20250710083000 +0000" stop="20250710090000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20250710090000 +0000" stop="20250710110000 +0000" channel="Sportstars.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20250710110000 +0000" stop="20250710130000 +0000" channel="Sportstars.mncvision">
-    <title>VNL Men Special</title>
-</programme>
-<programme start="20250710130000 +0000" stop="20250710133000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20250710133000 +0000" stop="20250710153000 +0000" channel="Sportstars.mncvision">
-    <title>Volleyball Nations League Women</title>
-</programme>
-<programme start="20250710153000 +0000" stop="20250710160000 +0000" channel="Sportstars.mncvision">
-    <title>Volleyball Nations League Men</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250709173000 +0000" stop="20250709190000 +0000" channel="Sportstars 2.mncvision">
     <title>GAMMA World MMA C&#039;ship 2024</title>
 </programme>
@@ -9624,42 +9356,7 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250710155100 +0000" stop="20250710162100 +0000" channel="UNIQUES.mncvision">
     <title>Embattled</title>
 </programme>
-<programme start="20250709180700 +0000" stop="20250709203100 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250709203100 +0000" stop="20250709223000 +0000" channel="UNIQUES HD.mncvision">
-    <title>Dreamland</title>
-</programme>
-<programme start="20250709223000 +0000" stop="20250710002700 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710002700 +0000" stop="20250710015900 +0000" channel="UNIQUES HD.mncvision">
-    <title>Coda</title>
-</programme>
-<programme start="20250710015900 +0000" stop="20250710035700 +0000" channel="UNIQUES HD.mncvision">
-    <title>Killerman</title>
-</programme>
-<programme start="20250710035700 +0000" stop="20250710054200 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710054200 +0000" stop="20250710073300 +0000" channel="UNIQUES HD.mncvision">
-    <title>What Just Happened</title>
-</programme>
-<programme start="20250710073300 +0000" stop="20250710095100 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710095100 +0000" stop="20250710112900 +0000" channel="UNIQUES HD.mncvision">
-    <title>Breaking</title>
-</programme>
-<programme start="20250710112900 +0000" stop="20250710134100 +0000" channel="UNIQUES HD.mncvision">
-    <title>I Think We&#039;re Alone Now</title>
-</programme>
-<programme start="20250710134100 +0000" stop="20250710155100 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250710155100 +0000" stop="20250710162100 +0000" channel="UNIQUES HD.mncvision">
-    <title>Embattled</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250709173000 +0000" stop="20250709180000 +0000" channel="Vision Prime.mncvision">
     <title>OMG</title>
 </programme>
