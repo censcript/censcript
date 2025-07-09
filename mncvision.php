@@ -5347,75 +5347,7 @@
 <programme start="20250709154000 +0000" stop="20250709161000 +0000" channel="KIX.mncvision">
     <title>Iron Squad W, Ep 3</title>
 </programme>
-<programme start="20250708170000 +0000" stop="20250708173000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Sport</title>
-</programme>
-<programme start="20250708173000 +0000" stop="20250708190000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Petang</title>
-</programme>
-<programme start="20250708190000 +0000" stop="20250708200000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20250708200000 +0000" stop="20250708210000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Malam</title>
-</programme>
-<programme start="20250708210000 +0000" stop="20250708220000 +0000" channel="Kompas TV.mncvision">
-    <title>Syiar Syair</title>
-</programme>
-<programme start="20250708220000 +0000" stop="20250709000000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Pagi</title>
-</programme>
-<programme start="20250709000000 +0000" stop="20250709023000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Pagi</title>
-</programme>
-<programme start="20250709023000 +0000" stop="20250709033000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20250709033000 +0000" stop="20250709040000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20250709040000 +0000" stop="20250709060000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Siang</title>
-</programme>
-<programme start="20250709060000 +0000" stop="20250709070000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Siang</title>
-</programme>
-<programme start="20250709070000 +0000" stop="20250709073000 +0000" channel="Kompas TV.mncvision">
-    <title>Laporan Khusus</title>
-</programme>
-<programme start="20250709073000 +0000" stop="20250709080000 +0000" channel="Kompas TV.mncvision">
-    <title>Jurnal Merah Putih</title>
-</programme>
-<programme start="20250709080000 +0000" stop="20250709083000 +0000" channel="Kompas TV.mncvision">
-    <title>Indonesia Update</title>
-</programme>
-<programme start="20250709083000 +0000" stop="20250709090000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20250709090000 +0000" stop="20250709103000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Petang</title>
-</programme>
-<programme start="20250709103000 +0000" stop="20250709123000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Malam</title>
-</programme>
-<programme start="20250709123000 +0000" stop="20250709133000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20250709133000 +0000" stop="20250709143000 +0000" channel="Kompas TV.mncvision">
-    <title>Satu Meja The Forum</title>
-</programme>
-<programme start="20250709143000 +0000" stop="20250709153000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Malam</title>
-</programme>
-<programme start="20250709153000 +0000" stop="20250709160000 +0000" channel="Kompas TV.mncvision">
-    <title>Sasaran</title>
-</programme>
-<programme start="20250709160000 +0000" stop="20250709163000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Sport</title>
-</programme>
-<programme start="20250709163000 +0000" stop="20250708170000 +0000" channel="Kompas TV.mncvision">
-    <title>Kilas Kompas</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250708170000 +0000" stop="20250708173000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>
 </programme>
