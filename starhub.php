@@ -1184,7 +1184,7 @@
         <title>The Vibe</title>
     </programme>
     <programme start="20250708160000 +0000" stop="20250708170000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>TF2 - The Fighter David vs. Goliath</title>
+        <title>David vs. Goliath</title>
     </programme>
     <programme start="20250708170000 +0000" stop="20250708190000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>MEGA Fights Carlos Manuel Baldomir vs. Arturo Gatti</title>
@@ -1208,7 +1208,7 @@
         <title>Wanderlei Silva, Donald Cerrone, Frank Mir and more!</title>
     </programme>
     <programme start="20250708220000 +0000" stop="20250708230000 +0000" channel="FIGHT SPORTS HD.starhub">
-        <title>TF2 - The Fighter David vs. Goliath</title>
+        <title>David vs. Goliath</title>
     </programme>
     <programme start="20250708230000 +0000" stop="20250709010000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>MEGA Fights Carlos Manuel Baldomir vs. Arturo Gatti</title>
@@ -4883,7 +4883,7 @@
         <title>100 Percent South Indian</title>
     </programme>
     <programme start="20250708170000 +0000" stop="20250708200000 +0000" channel="Zee Cinema.starhub">
-        <title>Parmanu: The Story of Pokhran</title>
+        <title>Parmanu - The Story Of Pokhran</title>
     </programme>
     <programme start="20250708200000 +0000" stop="20250708230000 +0000" channel="Zee Cinema.starhub">
         <title>Apaharan</title>
@@ -5443,8 +5443,17 @@
     <programme start="20250709020000 +0000" stop="20250709030000 +0000" channel="SPOTV.starhub">
         <title>Highlights Day 9</title>
     </programme>
-    <programme start="20250709030000 +0000" stop="20250709113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250709030000 +0000" stop="20250709081500 +0000" channel="SPOTV.starhub">
         <title>Gentlemen&#039;s and Ladies Singles Quarter Finals</title>
+    </programme>
+    <programme start="20250709081500 +0000" stop="20250709091500 +0000" channel="SPOTV.starhub">
+        <title>Ep13 Review Show 2</title>
+    </programme>
+    <programme start="20250709091500 +0000" stop="20250709101000 +0000" channel="SPOTV.starhub">
+        <title>Ep3 Dubrovnik</title>
+    </programme>
+    <programme start="20250709101000 +0000" stop="20250709113000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250709113000 +0000" stop="20250709122500 +0000" channel="SPOTV.starhub">
         <title>Highlights Day 9</title>
