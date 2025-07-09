@@ -2954,7 +2954,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250709003000 +0000" stop="20250709010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Independence</title>
 </programme>
 <programme start="20250709010000 +0000" stop="20250709011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2969,7 +2969,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250709023000 +0000" stop="20250709030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: From Rainforests...</title>
 </programme>
 <programme start="20250709030000 +0000" stop="20250709031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2993,7 +2993,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250709053000 +0000" stop="20250709060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Independence</title>
 </programme>
 <programme start="20250709060000 +0000" stop="20250709061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3008,7 +3008,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250709073000 +0000" stop="20250709080000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Dialogue</title>
 </programme>
 <programme start="20250709080000 +0000" stop="20250709083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3026,13 +3026,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20250709103000 +0000" stop="20250709110000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Dialogue</title>
 </programme>
 <programme start="20250709110000 +0000" stop="20250709113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250709113000 +0000" stop="20250709120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Independence</title>
 </programme>
 <programme start="20250709120000 +0000" stop="20250709123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>

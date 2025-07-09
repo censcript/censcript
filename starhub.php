@@ -3374,7 +3374,7 @@
         <title>Migration</title>
     </programme>
     <programme start="20250708233000 +0000" stop="20250709000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>From rainforests to the sea - Fighting taboos and pollution</title>
     </programme>
     <programme start="20250709000000 +0000" stop="20250709000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3383,7 +3383,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250709003000 +0000" stop="20250709010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Independence through new ideas: mobility, energy, nutrition</title>
     </programme>
     <programme start="20250709010000 +0000" stop="20250709011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3398,7 +3398,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250709023000 +0000" stop="20250709030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>From rainforests to the sea - Fighting taboos and pollution</title>
     </programme>
     <programme start="20250709030000 +0000" stop="20250709031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3422,7 +3422,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250709053000 +0000" stop="20250709060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Independence through new ideas: mobility, energy, nutrition</title>
     </programme>
     <programme start="20250709060000 +0000" stop="20250709061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3437,7 +3437,7 @@
         <title>News</title>
     </programme>
     <programme start="20250709073000 +0000" stop="20250709080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dialogue in the Middle East - Palestinians and Israelis Dream of Peace</title>
     </programme>
     <programme start="20250709080000 +0000" stop="20250709083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3455,13 +3455,13 @@
         <title>News</title>
     </programme>
     <programme start="20250709103000 +0000" stop="20250709110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dialogue in the Middle East - Palestinians and Israelis Dream of Peace</title>
     </programme>
     <programme start="20250709110000 +0000" stop="20250709113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250709113000 +0000" stop="20250709120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Independence through new ideas: mobility, energy, nutrition</title>
     </programme>
     <programme start="20250709120000 +0000" stop="20250709121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3482,7 +3482,7 @@
         <title>News</title>
     </programme>
     <programme start="20250709143000 +0000" stop="20250709150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Independence through new ideas: mobility, energy, nutrition</title>
     </programme>
     <programme start="20250709150000 +0000" stop="20250709153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
