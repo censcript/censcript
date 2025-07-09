@@ -1,6 +1,3 @@
-    <programme start="20250709184930 +0000" stop="20250709211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - France v Wales</title>
-    </programme>
     <programme start="20250710184930 +0000" stop="20250710211000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Norway v Iceland</title>
     </programme>
