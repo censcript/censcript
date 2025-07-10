@@ -559,10 +559,10 @@
 <programme start="20250710005000 +0000" stop="20250710010000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250710010000 +0000" stop="20250710012000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710010000 +0000" stop="20250710011500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250710012000 +0000" stop="20250710013000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710011500 +0000" stop="20250710013000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250710013000 +0000" stop="20250710014500 +0000" channel="Cartoonito.skyde">
@@ -574,10 +574,10 @@
 <programme start="20250710015500 +0000" stop="20250710020500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250710020500 +0000" stop="20250710022500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710020500 +0000" stop="20250710022000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250710022500 +0000" stop="20250710023500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710022000 +0000" stop="20250710023500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250710023500 +0000" stop="20250710024500 +0000" channel="Cartoonito.skyde">
@@ -700,10 +700,10 @@
 <programme start="20250710100500 +0000" stop="20250710102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710102000 +0000" stop="20250710103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710102000 +0000" stop="20250710102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710103000 +0000" stop="20250710103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710102500 +0000" stop="20250710103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250710103500 +0000" stop="20250710104000 +0000" channel="Cartoonito.skyde">
@@ -835,10 +835,10 @@
 <programme start="20250710192500 +0000" stop="20250710193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710193000 +0000" stop="20250710194000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710193000 +0000" stop="20250710193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710194000 +0000" stop="20250710194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710193500 +0000" stop="20250710194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250710194500 +0000" stop="20250710200000 +0000" channel="Cartoonito.skyde">
@@ -856,10 +856,10 @@
 <programme start="20250710203500 +0000" stop="20250710205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250710205000 +0000" stop="20250710210500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710205000 +0000" stop="20250710210000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250710210500 +0000" stop="20250710212000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710210000 +0000" stop="20250710212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20250710212000 +0000" stop="20250710213000 +0000" channel="Cartoonito.skyde">
