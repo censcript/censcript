@@ -667,6 +667,9 @@
 <programme start="20250710010000 +0000" stop="20250710023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
+<programme start="20250710023000 +0000" stop="20250710060000 +0000" channel="ANTV.vision">
+<title>Rab Ne Bana Di Jodi</title>
+</programme>
 <programme start="20250710060000 +0000" stop="20250710084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
@@ -1424,10 +1427,10 @@
 <title>Kuyliner</title>
 </programme>
 <programme start="20250710080000 +0000" stop="20250710090000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20250710100000 +0000" stop="20250710110000 +0000" channel="BTV.vision">
 <title>Mantra News</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250711030000 +0000" stop="20250711034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
-</programme>
-<programme start="20250711034500 +0000" stop="20250711040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
