@@ -967,6 +967,9 @@
     <programme start="20250710160001 +0000" stop="20250711160001 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 12th July, Saturday 9am. ONE Fight Night 33</title>
     </programme>
+    <programme start="20250711160000 +0000" stop="20250712010000 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 12th July, Saturday 9am. ONE Fight Night 33: Rodrigues Vs. Persson</title>
+    </programme>
     <programme start="20250709160001 +0000" stop="20250710160001 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
     </programme>
@@ -979,15 +982,15 @@
     <programme start="20250710160001 +0000" stop="20250711160001 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
     </programme>
-    <programme start="20250709160001 +0000" stop="20250710160001 +0000" channel="Live 7.mewatch">
+    <programme start="20250710160000 +0000" stop="20250711093000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 11th July, Friday 5.30pm. Wrexham Down Under Tour</title>
     </programme>
-    <programme start="20250710160001 +0000" stop="20250711093001 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 11th July, Friday 5.30pm. Wrexham Down Under Tour</title>
-    </programme>
-    <programme start="20250711093001 +0000" stop="20250711113001 +0000" channel="Live 7.mewatch">
+    <programme start="20250711093000 +0000" stop="20250711113000 +0000" channel="Live 7.mewatch">
         <title>Wrexham Down Under Tour: Melbourne Victory vs Wrexham AFC</title>
     </programme>
-    <programme start="20250711113001 +0000" stop="20250711160001 +0000" channel="Live 7.mewatch">
+    <programme start="20250711113000 +0000" stop="20250711160000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 5.30pm. Wrexham Down Under Tour</title>
+    </programme>
+    <programme start="20250711160000 +0000" stop="20250712160000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 15th July, Tuesday 5.30pm. Wrexham Down Under Tour</title>
     </programme>
