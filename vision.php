@@ -667,6 +667,9 @@
 <programme start="20250710010000 +0000" stop="20250710023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
+<programme start="20250710023000 +0000" stop="20250710060000 +0000" channel="ANTV.vision">
+<title>Rab Ne Bana Di Jodi</title>
+</programme>
 <programme start="20250710060000 +0000" stop="20250710084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250711030000 +0000" stop="20250711034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
-</programme>
-<programme start="20250711034500 +0000" stop="20250711040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
