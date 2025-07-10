@@ -973,31 +973,31 @@
 <programme start="20250710063000 +0000" stop="20250710073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
 </programme>
-<programme start="20250710073000 +0000" stop="20250710092000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710073000 +0000" stop="20250710093000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20250710092000 +0000" stop="20250710111000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710093000 +0000" stop="20250710113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1: PSG - Olympique Marseille</title>
 </programme>
-<programme start="20250710111000 +0000" stop="20250710120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710113000 +0000" stop="20250710120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250710120000 +0000" stop="20250710140000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250710140000 +0000" stop="20250710142000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710140000 +0000" stop="20250710143000 +0000" channel="DAZN 1 HD.skyde">
     <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250710142000 +0000" stop="20250710150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710143000 +0000" stop="20250710150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
 </programme>
-<programme start="20250710150000 +0000" stop="20250710152000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710150000 +0000" stop="20250710153000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250710152000 +0000" stop="20250710172000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710153000 +0000" stop="20250710173000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20250710172000 +0000" stop="20250710174500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710173000 +0000" stop="20250710174500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250710174500 +0000" stop="20250710181500 +0000" channel="DAZN 1 HD.skyde">
@@ -1006,10 +1006,10 @@
 <programme start="20250710181500 +0000" stop="20250710185000 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
 </programme>
-<programme start="20250710185000 +0000" stop="20250710210000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710185000 +0000" stop="20250710211000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Women&#039;s Championship 2025 Switzerland: Finnland - Schweiz</title>
 </programme>
-<programme start="20250710210000 +0000" stop="20250710213500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250710211000 +0000" stop="20250710213500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250710213500 +0000" stop="20250710220000 +0000" channel="DAZN 1 HD.skyde">
@@ -3352,7 +3352,7 @@
 <programme start="20250710094000 +0000" stop="20250710100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250710100000 +0000" stop="20250710161000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250710100000 +0000" stop="20250710180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: The Amundi Evian Championship, 1. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250709223500 +0000" stop="20250709232500 +0000" channel="SYFY HD.skyde">
