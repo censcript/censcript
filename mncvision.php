@@ -1586,10 +1586,10 @@
     <title>Kuyliner</title>
 </programme>
 <programme start="20250710080000 +0000" stop="20250710090000 +0000" channel="BTV.mncvision">
-    <title>Masak Seru Gaes</title>
+    <title>Figur Publik</title>
 </programme>
 <programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="BTV.mncvision">
-    <title>Figur Publik</title>
+    <title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250710100000 +0000" stop="20250710110000 +0000" channel="BTV.mncvision">
     <title>Mantra News</title>
