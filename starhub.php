@@ -8257,26 +8257,23 @@
     <programme start="20250709190000 +0000" stop="20250709220000 +0000" channel="Asianet Movies.starhub">
         <title>Parking</title>
     </programme>
-    <programme start="20250709220000 +0000" stop="20250710003000 +0000" channel="Asianet Movies.starhub">
-        <title>World Famous Lover</title>
+    <programme start="20250709233000 +0000" stop="20250710013000 +0000" channel="Asianet Movies.starhub">
+        <title>Vikrithi</title>
     </programme>
-    <programme start="20250710003000 +0000" stop="20250710033000 +0000" channel="Asianet Movies.starhub">
-        <title>TBA</title>
+    <programme start="20250710013000 +0000" stop="20250710043500 +0000" channel="Asianet Movies.starhub">
+        <title>Srungaravelan</title>
     </programme>
-    <programme start="20250710033000 +0000" stop="20250710063000 +0000" channel="Asianet Movies.starhub">
-        <title>TBA</title>
+    <programme start="20250710043500 +0000" stop="20250710073000 +0000" channel="Asianet Movies.starhub">
+        <title>Romeo</title>
     </programme>
-    <programme start="20250710063000 +0000" stop="20250710093000 +0000" channel="Asianet Movies.starhub">
-        <title>TBA</title>
+    <programme start="20250710073000 +0000" stop="20250710103000 +0000" channel="Asianet Movies.starhub">
+        <title>Sunday Holiday</title>
     </programme>
-    <programme start="20250710093000 +0000" stop="20250710123000 +0000" channel="Asianet Movies.starhub">
-        <title>TBA</title>
+    <programme start="20250710103000 +0000" stop="20250710133000 +0000" channel="Asianet Movies.starhub">
+        <title>Lucky Baskhar</title>
     </programme>
-    <programme start="20250710123000 +0000" stop="20250710153000 +0000" channel="Asianet Movies.starhub">
-        <title>TBA</title>
-    </programme>
-    <programme start="20250710153000 +0000" stop="20250710163000 +0000" channel="Asianet Movies.starhub">
-        <title>TBA</title>
+    <programme start="20250710133000 +0000" stop="20250710163000 +0000" channel="Asianet Movies.starhub">
+        <title>Neru</title>
     </programme>
     <programme start="20250709160000 +0000" stop="20250709170000 +0000" channel="Astro Warna HD.starhub">
         <title>Dr. Pontianak</title>
