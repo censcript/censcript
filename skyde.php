@@ -559,10 +559,10 @@
 <programme start="20250710005000 +0000" stop="20250710010000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250710010000 +0000" stop="20250710011500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710010000 +0000" stop="20250710012000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250710011500 +0000" stop="20250710013000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710012000 +0000" stop="20250710013000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250710013000 +0000" stop="20250710014500 +0000" channel="Cartoonito.skyde">
@@ -574,10 +574,10 @@
 <programme start="20250710015500 +0000" stop="20250710020500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250710020500 +0000" stop="20250710022000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710020500 +0000" stop="20250710022500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250710022000 +0000" stop="20250710023500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710022500 +0000" stop="20250710023500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250710023500 +0000" stop="20250710024500 +0000" channel="Cartoonito.skyde">
@@ -700,10 +700,10 @@
 <programme start="20250710100500 +0000" stop="20250710102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710102000 +0000" stop="20250710102500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710102000 +0000" stop="20250710103000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710102500 +0000" stop="20250710103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710103000 +0000" stop="20250710103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250710103500 +0000" stop="20250710104000 +0000" channel="Cartoonito.skyde">
@@ -835,10 +835,10 @@
 <programme start="20250710192500 +0000" stop="20250710193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710193000 +0000" stop="20250710193500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710193000 +0000" stop="20250710194000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250710193500 +0000" stop="20250710194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250710194000 +0000" stop="20250710194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250710194500 +0000" stop="20250710200000 +0000" channel="Cartoonito.skyde">
@@ -856,10 +856,10 @@
 <programme start="20250710203500 +0000" stop="20250710205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250710205000 +0000" stop="20250710210000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710205000 +0000" stop="20250710210500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250710210000 +0000" stop="20250710212000 +0000" channel="Cartoonito.skyde">
+<programme start="20250710210500 +0000" stop="20250710212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20250710212000 +0000" stop="20250710213000 +0000" channel="Cartoonito.skyde">
@@ -3238,20 +3238,26 @@
 <programme start="20250710050000 +0000" stop="20250710060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20250710060000 +0000" stop="20250710070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710060000 +0000" stop="20250710080500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - B. Shelton (USA), BMW Open in München, Finale</title>
+</programme>
+<programme start="20250710080500 +0000" stop="20250710090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250710070000 +0000" stop="20250710080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
 </programme>
-<programme start="20250710080000 +0000" stop="20250710090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710100000 +0000" stop="20250710110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
-<programme start="20250710090000 +0000" stop="20250710093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250710110000 +0000" stop="20250710111500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250710093000 +0000" stop="20250710120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J. Lehecka (CZE) - R. Opelka (USA), Brisbane International in Brisbane (AUS), Finale</title>
+<programme start="20250710111500 +0000" stop="20250710113000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Greatest 50</title>
+</programme>
+<programme start="20250710113000 +0000" stop="20250710120000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20250710120000 +0000" stop="20250710143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: G. Monfils (FRA) - Z. Bergs (BEL) , ASB Classic in Auckland (NZL), Finale</title>
