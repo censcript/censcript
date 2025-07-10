@@ -3238,26 +3238,20 @@
 <programme start="20250710050000 +0000" stop="20250710060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20250710060000 +0000" stop="20250710080500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - B. Shelton (USA), BMW Open in München, Finale</title>
-</programme>
-<programme start="20250710080500 +0000" stop="20250710090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710060000 +0000" stop="20250710070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710070000 +0000" stop="20250710080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Hamburg</title>
 </programme>
-<programme start="20250710100000 +0000" stop="20250710110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710080000 +0000" stop="20250710090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
-<programme start="20250710110000 +0000" stop="20250710111500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: Greatest 50</title>
-</programme>
-<programme start="20250710111500 +0000" stop="20250710113000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: Greatest 50</title>
-</programme>
-<programme start="20250710113000 +0000" stop="20250710120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250710090000 +0000" stop="20250710093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
+</programme>
+<programme start="20250710093000 +0000" stop="20250710120000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: J. Lehecka (CZE) - R. Opelka (USA), Brisbane International in Brisbane (AUS), Finale</title>
 </programme>
 <programme start="20250710120000 +0000" stop="20250710143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: G. Monfils (FRA) - Z. Bergs (BEL) , ASB Classic in Auckland (NZL), Finale</title>
@@ -3352,7 +3346,7 @@
 <programme start="20250710094000 +0000" stop="20250710100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250710100000 +0000" stop="20250710160000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250710100000 +0000" stop="20250710180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: The Amundi Evian Championship, 1. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250709223500 +0000" stop="20250709232500 +0000" channel="SYFY HD.skyde">

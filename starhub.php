@@ -2228,7 +2228,7 @@
         <title>CNN Newsroom</title>
     </programme>
     <programme start="20250710080000 +0000" stop="20250710090000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Early Start</title>
     </programme>
     <programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="CNN HD.starhub">
         <title>Early Start</title>
@@ -7661,10 +7661,10 @@
         <title>The Context</title>
     </programme>
     <programme start="20250709200000 +0000" stop="20250709203000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>The Context USA</title>
     </programme>
     <programme start="20250709203000 +0000" stop="20250709210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>The Context USA</title>
     </programme>
     <programme start="20250709210000 +0000" stop="20250709213000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
@@ -7691,7 +7691,7 @@
         <title>Newsday</title>
     </programme>
     <programme start="20250710013000 +0000" stop="20250710020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>The Media Show: Gaza Documentary Controversy</title>
     </programme>
     <programme start="20250710020000 +0000" stop="20250710023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -8251,11 +8251,14 @@
     <programme start="20250709133000 +0000" stop="20250709163000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20250709163000 +0000" stop="20250709190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250709163000 +0000" stop="20250709191000 +0000" channel="Asianet Movies.starhub">
         <title>Sherlock Toms</title>
     </programme>
-    <programme start="20250709190000 +0000" stop="20250709220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250709191000 +0000" stop="20250709211000 +0000" channel="Asianet Movies.starhub">
         <title>Parking</title>
+    </programme>
+    <programme start="20250709211000 +0000" stop="20250709233000 +0000" channel="Asianet Movies.starhub">
+        <title>World Famous Lover</title>
     </programme>
     <programme start="20250709233000 +0000" stop="20250710013000 +0000" channel="Asianet Movies.starhub">
         <title>Vikrithi</title>
@@ -8428,8 +8431,14 @@
     <programme start="20250710044500 +0000" stop="20250710053000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 2 (QF)</title>
     </programme>
-    <programme start="20250710053000 +0000" stop="20250710115500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250710053000 +0000" stop="20250710102500 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Quarter-finals</title>
+    </programme>
+    <programme start="20250710102500 +0000" stop="20250710112500 +0000" channel="SPOTV2.starhub">
+        <title>Day 9</title>
+    </programme>
+    <programme start="20250710112500 +0000" stop="20250710115500 +0000" channel="SPOTV2.starhub">
+        <title>MotoGP 2025 Rewind - GP of Netherlands</title>
     </programme>
     <programme start="20250710115500 +0000" stop="20250710180000 +0000" channel="SPOTV2.starhub">
         <title>Gents&#039; &amp; Ladies&#039; Singles Quarter-finals</title>
