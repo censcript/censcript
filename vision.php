@@ -667,11 +667,17 @@
 <programme start="20250710010000 +0000" stop="20250710023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
+<programme start="20250710023000 +0000" stop="20250710060000 +0000" channel="ANTV.vision">
+<title>Rab Ne Bana Di Jodi</title>
+</programme>
 <programme start="20250710060000 +0000" stop="20250710084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250710084500 +0000" stop="20250710110000 +0000" channel="ANTV.vision">
+<programme start="20250710084500 +0000" stop="20250710100000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
+</programme>
+<programme start="20250710100000 +0000" stop="20250710110000 +0000" channel="ANTV.vision">
+<title>Vaishno Devi</title>
 </programme>
 <programme start="20250710110000 +0000" stop="20250710123000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
@@ -686,16 +692,13 @@
 <title>Lucky Stars Go Places</title>
 </programme>
 <programme start="20250710180000 +0000" stop="20250710200000 +0000" channel="ANTV.vision">
-<title>In The Line Of Duty 3</title>
+<title>Bioskop Asia</title>
 </programme>
 <programme start="20250710200000 +0000" stop="20250710213000 +0000" channel="ANTV.vision">
 <title>Tuyul Perempuan</title>
 </programme>
-<programme start="20250710213000 +0000" stop="20250710220000 +0000" channel="ANTV.vision">
+<programme start="20250710213000 +0000" stop="20250710223000 +0000" channel="ANTV.vision">
 <title>Nadin</title>
-</programme>
-<programme start="20250710220000 +0000" stop="20250710223000 +0000" channel="ANTV.vision">
-<title>Vaishno Devi</title>
 </programme>
 <programme start="20250710223000 +0000" stop="20250710230000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
@@ -712,8 +715,11 @@
 <programme start="20250711060000 +0000" stop="20250711084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250711084500 +0000" stop="20250711110000 +0000" channel="ANTV.vision">
+<programme start="20250711084500 +0000" stop="20250711100000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
+</programme>
+<programme start="20250711100000 +0000" stop="20250711110000 +0000" channel="ANTV.vision">
+<title>Vaishno Devi</title>
 </programme>
 <programme start="20250711110000 +0000" stop="20250711123000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
@@ -1424,10 +1430,10 @@
 <title>Kuyliner</title>
 </programme>
 <programme start="20250710080000 +0000" stop="20250710090000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250710090000 +0000" stop="20250710100000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
+<title>Figur Publik</title>
 </programme>
 <programme start="20250710100000 +0000" stop="20250710110000 +0000" channel="BTV.vision">
 <title>Mantra News</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250711021500 +0000" stop="20250711030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
-</programme>
-<programme start="20250711030000 +0000" stop="20250711034500 +0000" channel="BTV.vision">
-<title>Kids Universe</title>
-</programme>
-<programme start="20250711034500 +0000" stop="20250711040000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
