@@ -2531,13 +2531,13 @@
         <title>#544</title>
     </programme>
     <programme start="20250711103000 +0000" stop="20250711110000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#804</title>
+        <title>#804:</title>
     </programme>
     <programme start="20250711110000 +0000" stop="20250711130000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Concacaf Gold Cup 2025 SF2: United States vs Guatemala</title>
     </programme>
     <programme start="20250711130000 +0000" stop="20250711133000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#805</title>
+        <title>#805:</title>
     </programme>
     <programme start="20250711133000 +0000" stop="20250711140000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#544</title>
@@ -6632,13 +6632,13 @@
         <title>#544</title>
     </programme>
     <programme start="20250711103000 +0000" stop="20250711110000 +0000" channel="TestChannel 995.starhub">
-        <title>#804</title>
+        <title>#804:</title>
     </programme>
     <programme start="20250711110000 +0000" stop="20250711130000 +0000" channel="TestChannel 995.starhub">
         <title>Concacaf Gold Cup 2025 SF2: United States vs Guatemala</title>
     </programme>
     <programme start="20250711130000 +0000" stop="20250711133000 +0000" channel="TestChannel 995.starhub">
-        <title>#805</title>
+        <title>#805:</title>
     </programme>
     <programme start="20250711133000 +0000" stop="20250711140000 +0000" channel="TestChannel 995.starhub">
         <title>#544</title>
