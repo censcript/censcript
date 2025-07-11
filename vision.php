@@ -640,6 +640,9 @@
 <programme start="20250712110000 +0000" stop="20250712120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
+<programme start="20250710230000 +0000" stop="20250711010000 +0000" channel="ANTV.vision">
+<title>Rajawali Sakti</title>
+</programme>
 <programme start="20250711010000 +0000" stop="20250711023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250712040000 +0000" stop="20250712050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
-</programme>
-<programme start="20250712050000 +0000" stop="20250712070000 +0000" channel="BTV.vision">
-<title>Swaragini</title>
 </programme>
