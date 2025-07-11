@@ -128,7 +128,7 @@
         <title>TV Guide</title>
     </programme>
     <programme start="20250710175000 +0000" stop="20250710180000 +0000" channel="CCTV-4.starhub">
-        <title>Nostalgia</title>
+        <title>Nostalgia - Pian Duan Zhan Bo</title>
     </programme>
     <programme start="20250710180000 +0000" stop="20250710183000 +0000" channel="CCTV-4.starhub">
         <title>Network News</title>
