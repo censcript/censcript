@@ -931,13 +931,13 @@
 <programme start="20250710220000 +0000" stop="20250711060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20250711060000 +0000" stop="20250711070000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250711060000 +0000" stop="20250711071500 +0000" channel="DAZN 1 HD.skyde">
     <title>Get Wild: Lange Version</title>
 </programme>
-<programme start="20250711070000 +0000" stop="20250711084000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250711071500 +0000" stop="20250711091000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1: PSG - Olympique Marseille</title>
 </programme>
-<programme start="20250711084000 +0000" stop="20250711103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250711091000 +0000" stop="20250711103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: Real Madrid - Real Sociedad San Sebastian</title>
 </programme>
 <programme start="20250711103000 +0000" stop="20250711110000 +0000" channel="DAZN 1 HD.skyde">
@@ -3337,7 +3337,7 @@
 <programme start="20250711094000 +0000" stop="20250711100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250711100000 +0000" stop="20250711180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250711100000 +0000" stop="20250711160000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: The Amundi Evian Championship, 2. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250710223500 +0000" stop="20250710234000 +0000" channel="SYFY HD.skyde">

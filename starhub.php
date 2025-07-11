@@ -218,7 +218,7 @@
         <title>Around China</title>
     </programme>
     <programme start="20250711090000 +0000" stop="20250711091000 +0000" channel="CCTV-4.starhub">
-        <title>Nostalgia</title>
+        <title>Nostalgia - Pian Duan Zhan Bo</title>
     </programme>
     <programme start="20250711091000 +0000" stop="20250711091500 +0000" channel="CCTV-4.starhub">
         <title>TV Guide</title>
