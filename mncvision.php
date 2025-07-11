@@ -6686,7 +6686,7 @@
     <title>NHK News 7</title>
 </programme>
 <programme start="20250711103000 +0000" stop="20250711110000 +0000" channel="NHK World.mncvision">
-    <title>Asia Insight</title>
+    <title>Reintegration Of Former...</title>
 </programme>
 <programme start="20250711110000 +0000" stop="20250711112800 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
