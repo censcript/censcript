@@ -2527,8 +2527,11 @@
     <programme start="20250712003000 +0000" stop="20250712010000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Juan Conversations with Rose Eclarinal</title>
     </programme>
-    <programme start="20250712010000 +0000" stop="20250712020000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250712010000 +0000" stop="20250712013000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Tulong Ko Pasa Mo</title>
+    </programme>
+    <programme start="20250712013000 +0000" stop="20250712020000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Darna</title>
     </programme>
     <programme start="20250712020000 +0000" stop="20250712023000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Tao Po</title>
@@ -2536,22 +2539,19 @@
     <programme start="20250712023000 +0000" stop="20250712030000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Ano Na, Bev S3</title>
     </programme>
-    <programme start="20250712030000 +0000" stop="20250712040000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Darna</title>
-    </programme>
-    <programme start="20250712040000 +0000" stop="20250712063000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250712030000 +0000" stop="20250712053000 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime (Sat) LIVE</title>
     </programme>
-    <programme start="20250712063000 +0000" stop="20250712070000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250712053000 +0000" stop="20250712060000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Pamilya Talk With Tita Jing S3</title>
     </programme>
-    <programme start="20250712070000 +0000" stop="20250712073000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250712060000 +0000" stop="20250712063000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Astig Vegan S2</title>
     </programme>
-    <programme start="20250712073000 +0000" stop="20250712080000 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250712063000 +0000" stop="20250712070000 +0000" channel="The Filipino Channel HD.starhub">
         <title>Wow</title>
     </programme>
-    <programme start="20250712080000 +0000" stop="20250712084500 +0000" channel="The Filipino Channel HD.starhub">
+    <programme start="20250712070000 +0000" stop="20250712084500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Home Away From Home S3</title>
     </programme>
     <programme start="20250712084500 +0000" stop="20250712091500 +0000" channel="The Filipino Channel HD.starhub">

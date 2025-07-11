@@ -1,9 +1,3 @@
-    <programme start="20250711184930 +0000" stop="20250711211000 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA Women&#039;s Championship - Portugal v Belgium</title>
-    </programme>
-    <programme start="20250711184930 +0000" stop="20250711211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Italy v Spain</title>
-    </programme>
     <programme start="20250712095000 +0000" stop="20250712121000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Ulsan v Daegu</title>
     </programme>
