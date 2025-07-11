@@ -406,11 +406,11 @@
 <programme start="20250711060000 +0000" stop="20250711084500 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20250711084500 +0000" stop="20250711110000 +0000" channel="ANTV.mncvision">
+<programme start="20250711084500 +0000" stop="20250711103000 +0000" channel="ANTV.mncvision">
     <title>Bhagya Lakshmi</title>
 </programme>
-<programme start="20250711110000 +0000" stop="20250711123000 +0000" channel="ANTV.mncvision">
-    <title>Catatan Hati</title>
+<programme start="20250711103000 +0000" stop="20250711123000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
 <programme start="20250711123000 +0000" stop="20250711143000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
@@ -3023,7 +3023,7 @@
     <title>REV: Driving Her Dream</title>
 </programme>
 <programme start="20250711063000 +0000" stop="20250711070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Ukraine</title>
 </programme>
 <programme start="20250711070000 +0000" stop="20250711073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3047,7 +3047,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250711103000 +0000" stop="20250711110000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Ukraine</title>
 </programme>
 <programme start="20250711110000 +0000" stop="20250711113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4138,11 +4138,11 @@
 <programme start="20250711123000 +0000" stop="20250711140000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250711140000 +0000" stop="20250711160000 +0000" channel="GTV.mncvision">
-    <title>Daddy&#039;s Home 2</title>
+<programme start="20250711140000 +0000" stop="20250711153000 +0000" channel="GTV.mncvision">
+    <title>The Great Magician</title>
 </programme>
-<programme start="20250711160000 +0000" stop="20250711163000 +0000" channel="GTV.mncvision">
-    <title>US Seal</title>
+<programme start="20250711153000 +0000" stop="20250711160000 +0000" channel="GTV.mncvision">
+    <title>The Mob</title>
 </programme>
 <programme start="20250710170000 +0000" stop="20250710180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4192,11 +4192,11 @@
 <programme start="20250711123000 +0000" stop="20250711140000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250711140000 +0000" stop="20250711160000 +0000" channel="GTV HD.mncvision">
-    <title>Daddy&#039;s Home 2</title>
+<programme start="20250711140000 +0000" stop="20250711153000 +0000" channel="GTV HD.mncvision">
+    <title>The Great Magician</title>
 </programme>
-<programme start="20250711160000 +0000" stop="20250711163000 +0000" channel="GTV HD.mncvision">
-    <title>US Seal</title>
+<programme start="20250711153000 +0000" stop="20250711160000 +0000" channel="GTV HD.mncvision">
+    <title>The Mob</title>
 </programme>
 <programme start="20250710180000 +0000" stop="20250710183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>

@@ -3356,7 +3356,7 @@
         <title>Driving her dream: A 10-year-old Indian girl races go-karts</title>
     </programme>
     <programme start="20250710233000 +0000" stop="20250711000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Helping Ukraine defeat Russia is doable - Estonia&#039;s prepared, not scared</title>
     </programme>
     <programme start="20250711000000 +0000" stop="20250711000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3413,7 +3413,7 @@
         <title>Driving her dream: A 10-year-old Indian girl races go-karts</title>
     </programme>
     <programme start="20250711063000 +0000" stop="20250711070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Helping Ukraine defeat Russia is doable - Estonia&#039;s prepared, not scared</title>
     </programme>
     <programme start="20250711070000 +0000" stop="20250711073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3437,7 +3437,7 @@
         <title>News</title>
     </programme>
     <programme start="20250711103000 +0000" stop="20250711110000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Helping Ukraine defeat Russia is doable - Estonia&#039;s prepared, not scared</title>
     </programme>
     <programme start="20250711110000 +0000" stop="20250711113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
