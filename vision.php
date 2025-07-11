@@ -302,58 +302,58 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20250711170000 +0000" stop="20250711173000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20250711173000 +0000" stop="20250711190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20250711190000 +0000" stop="20250711194500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Air Mata Surga</title>
 </programme>
 <programme start="20250711194500 +0000" stop="20250711201500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Malam</title>
 </programme>
 <programme start="20250711201500 +0000" stop="20250711210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250711210000 +0000" stop="20250711211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250711211500 +0000" stop="20250711225800 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>AFC Qatar 2023: TJK Vs UAE (L)</title>
 </programme>
 <programme start="20250711225800 +0000" stop="20250711230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20250711230000 +0000" stop="20250711233000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20250711233000 +0000" stop="20250712000000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Merial</title>
 </programme>
-<programme start="20250712000000 +0000" stop="20250712010000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250712000000 +0000" stop="20250712013000 +0000" channel="iNews.vision">
+<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
-<programme start="20250712010000 +0000" stop="20250712020000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250712013000 +0000" stop="20250712023000 +0000" channel="iNews.vision">
+<title>The Prime Show (iNews)</title>
 </programme>
-<programme start="20250712020000 +0000" stop="20250712030000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250712023000 +0000" stop="20250712033000 +0000" channel="iNews.vision">
+<title>iNews Files</title>
 </programme>
-<programme start="20250712030000 +0000" stop="20250712050000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250712033000 +0000" stop="20250712053000 +0000" channel="iNews.vision">
+<title>iNews Siang (L)</title>
 </programme>
-<programme start="20250712050000 +0000" stop="20250712070000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250712053000 +0000" stop="20250712073000 +0000" channel="iNews.vision">
+<title>Cahaya Hati Indonesia (L)</title>
 </programme>
-<programme start="20250712070000 +0000" stop="20250712083000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250712073000 +0000" stop="20250712083000 +0000" channel="iNews.vision">
+<title>iSeleb</title>
 </programme>
 <programme start="20250712083000 +0000" stop="20250712100000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita (L)</title>
 </programme>
 <programme start="20250712100000 +0000" stop="20250712120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>BUMN Awards</title>
 </programme>
 <programme start="20250710230000 +0000" stop="20250711004500 +0000" channel="SindoNews.vision">
 <title>SindoNews TV</title>
@@ -535,9 +535,6 @@
 <programme start="20250711063000 +0000" stop="20250711071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
 </programme>
-<programme start="20250711071500 +0000" stop="20250711081500 +0000" channel="Trans 7.vision">
-<title>Redaksi</title>
-</programme>
 <programme start="20250711081500 +0000" stop="20250711091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -640,14 +637,8 @@
 <programme start="20250712110000 +0000" stop="20250712120000 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
-<programme start="20250710230000 +0000" stop="20250711010000 +0000" channel="ANTV.vision">
-<title>Rajawali Sakti</title>
-</programme>
 <programme start="20250711010000 +0000" stop="20250711023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
-</programme>
-<programme start="20250711023000 +0000" stop="20250711060000 +0000" channel="ANTV.vision">
-<title>Dhoom</title>
 </programme>
 <programme start="20250711060000 +0000" stop="20250711084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250712040000 +0000" stop="20250712050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250712050000 +0000" stop="20250712070000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250712070000 +0000" stop="20250712080000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250712080000 +0000" stop="20250712090000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>
