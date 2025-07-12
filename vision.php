@@ -517,9 +517,6 @@
 <programme start="20250712003000 +0000" stop="20250712013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250712071500 +0000" stop="20250712081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20250712081500 +0000" stop="20250712090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="BTV.vision">
 <title>Mantra News</title>
+</programme>
+<programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
