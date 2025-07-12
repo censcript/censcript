@@ -2224,14 +2224,26 @@
     <programme start="20250711200000 +0000" stop="20250711220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250711220000 +0000" stop="20250712040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250711223000 +0000" stop="20250712010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kondaan Koduthaan</title>
     </programme>
-    <programme start="20250712040000 +0000" stop="20250712100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250712010000 +0000" stop="20250712013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250712100000 +0000" stop="20250712160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250712013000 +0000" stop="20250712043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Mugavari</title>
+    </programme>
+    <programme start="20250712043000 +0000" stop="20250712073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Vathiyaar</title>
+    </programme>
+    <programme start="20250712073000 +0000" stop="20250712103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Narasimha</title>
+    </programme>
+    <programme start="20250712103000 +0000" stop="20250712133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Singam Puli</title>
+    </programme>
+    <programme start="20250712133000 +0000" stop="20250712170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Komban</title>
     </programme>
     <programme start="20250711160000 +0000" stop="20250711172500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Acapulco Day 2 Tiafoe v Muller</title>
@@ -7373,7 +7385,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250712051000 +0000" stop="20250712054000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Blue Whirlwind: A Ukrainian Sumo</title>
     </programme>
     <programme start="20250712054000 +0000" stop="20250712055500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Bosai: Science That Can Save Your Life</title>
@@ -7424,7 +7436,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250712111000 +0000" stop="20250712114000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Blue Whirlwind: A Ukrainian Sumo</title>
     </programme>
     <programme start="20250712114000 +0000" stop="20250712115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Bosai: Science That Can Save Your Life</title>

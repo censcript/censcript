@@ -514,9 +514,6 @@
 <programme start="20250713114500 +0000" stop="20250713130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250712000000 +0000" stop="20250712003000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250712003000 +0000" stop="20250712013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
@@ -639,9 +636,6 @@
 </programme>
 <programme start="20250713110000 +0000" stop="20250713120000 +0000" channel="Trans 7.vision">
 <title>Trans 7</title>
-</programme>
-<programme start="20250711230000 +0000" stop="20250712010000 +0000" channel="ANTV.vision">
-<title>Misteri 8 Pendekar</title>
 </programme>
 <programme start="20250712010000 +0000" stop="20250712023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250713013000 +0000" stop="20250713021500 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250713021500 +0000" stop="20250713023000 +0000" channel="BTV.vision">
+<title>Endeus</title>
+</programme>
+<programme start="20250713023000 +0000" stop="20250713030000 +0000" channel="BTV.vision">
+<title>Rumah Punya Cerita</title>
 </programme>
