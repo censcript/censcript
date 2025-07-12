@@ -2221,8 +2221,8 @@
     <programme start="20250711170000 +0000" stop="20250711200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Naan Avan Illai</title>
     </programme>
-    <programme start="20250711200000 +0000" stop="20250711220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250711200000 +0000" stop="20250711223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Paarthanabagam Illayo</title>
     </programme>
     <programme start="20250711223000 +0000" stop="20250712010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kondaan Koduthaan</title>
@@ -7322,7 +7322,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250711213000 +0000" stop="20250711220000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Asia Insight</title>
+        <title>Reintegration of Former Terrorists</title>
     </programme>
     <programme start="20250711220000 +0000" stop="20250711223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>

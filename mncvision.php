@@ -73,7 +73,126 @@
 <programme start="20250712165000 +0000" stop="20250711172000 +0000" channel="ABC Australia.mncvision">
     <title>Larapinta</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250711170000 +0000" stop="20250711173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250711173000 +0000" stop="20250711180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250711180000 +0000" stop="20250711190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250711190000 +0000" stop="20250711193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250711193000 +0000" stop="20250711200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Shifa Hospital</title>
+</programme>
+<programme start="20250711200000 +0000" stop="20250711203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250711203000 +0000" stop="20250711210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250711210000 +0000" stop="20250711220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250711220000 +0000" stop="20250711223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250711223000 +0000" stop="20250711230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20250711230000 +0000" stop="20250711233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250711233000 +0000" stop="20250712000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Not In My Name</title>
+</programme>
+<programme start="20250712000000 +0000" stop="20250712003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712003000 +0000" stop="20250712010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250712010000 +0000" stop="20250712020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Palestine Laboratory</title>
+</programme>
+<programme start="20250712020000 +0000" stop="20250712023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712023000 +0000" stop="20250712030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Nambia</title>
+</programme>
+<programme start="20250712030000 +0000" stop="20250712033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712033000 +0000" stop="20250712040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: India</title>
+</programme>
+<programme start="20250712040000 +0000" stop="20250712043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712043000 +0000" stop="20250712050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Shifa Hospital</title>
+</programme>
+<programme start="20250712050000 +0000" stop="20250712053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712053000 +0000" stop="20250712060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250712060000 +0000" stop="20250712063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712063000 +0000" stop="20250712070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20250712070000 +0000" stop="20250712080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250712080000 +0000" stop="20250712083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712083000 +0000" stop="20250712090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20250712090000 +0000" stop="20250712093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712093000 +0000" stop="20250712100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Irish Solidarity</title>
+</programme>
+<programme start="20250712100000 +0000" stop="20250712110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250712110000 +0000" stop="20250712113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712113000 +0000" stop="20250712120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250712120000 +0000" stop="20250712130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: To Die For...</title>
+</programme>
+<programme start="20250712130000 +0000" stop="20250712140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250712140000 +0000" stop="20250712143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712143000 +0000" stop="20250712150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Shifa Hospital</title>
+</programme>
+<programme start="20250712150000 +0000" stop="20250712160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250712160000 +0000" stop="20250712163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250712163000 +0000" stop="20250711170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Nambia</title>
+</programme>
 <programme start="20250711170000 +0000" stop="20250711190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -8735,7 +8854,72 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250712145500 +0000" stop="20250712152500 +0000" channel="SPOTV.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25 (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250711180000 +0000" stop="20250711190000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Netherlands</title>
+</programme>
+<programme start="20250711190000 +0000" stop="20250711214500 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT United States Smash (L)</title>
+</programme>
+<programme start="20250711214500 +0000" stop="20250711230000 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT United States Smash (L)</title>
+</programme>
+<programme start="20250711230000 +0000" stop="20250711234500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025 Spotlight: Enea</title>
+</programme>
+<programme start="20250711234500 +0000" stop="20250712010000 +0000" channel="SPOTV 2.mncvision">
+    <title>FIA TCR World Tour Vila</title>
+</programme>
+<programme start="20250712010000 +0000" stop="20250712041500 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT United States Smash (L)</title>
+</programme>
+<programme start="20250712041500 +0000" stop="20250712050000 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT United States Smash (L)</title>
+</programme>
+<programme start="20250712050000 +0000" stop="20250712053000 +0000" channel="SPOTV 2.mncvision">
+    <title>WTT Star Contender Ljubljana</title>
+</programme>
+<programme start="20250712053000 +0000" stop="20250712060000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025 Rewind: NED</title>
+</programme>
+<programme start="20250712060000 +0000" stop="20250712063500 +0000" channel="SPOTV 2.mncvision">
+    <title>Rolex Spirit Of Yachting</title>
+</programme>
+<programme start="20250712063500 +0000" stop="20250712072000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712072000 +0000" stop="20250712080000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712080000 +0000" stop="20250712084000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712084000 +0000" stop="20250712094500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712094500 +0000" stop="20250712104500 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 Asian Tour: Morocco HL</title>
+</programme>
+<programme start="20250712104500 +0000" stop="20250712114500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712114500 +0000" stop="20250712124500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712124500 +0000" stop="20250712140500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP: GP Of Germany (L)</title>
+</programme>
+<programme start="20250712140500 +0000" stop="20250712150500 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 Red Bull Rookies Cup (L)</title>
+</programme>
+<programme start="20250712150500 +0000" stop="20250712160000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 Northern Talent Cup (L)</title>
+</programme>
+<programme start="20250712160000 +0000" stop="20250712163000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025 Spotlight: Fabio</title>
+</programme>
+<programme start="20250712163000 +0000" stop="20250711170000 +0000" channel="SPOTV 2.mncvision">
+    <title>SailGP: Racing On The Edge</title>
+</programme>
 <programme start="20250711180000 +0000" stop="20250711190000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: GP Of Netherlands</title>
 </programme>

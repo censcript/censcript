@@ -517,12 +517,6 @@
 <programme start="20250712003000 +0000" stop="20250712013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250712013000 +0000" stop="20250712023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250712023000 +0000" stop="20250712033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
 <programme start="20250712033000 +0000" stop="20250712041500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250713023000 +0000" stop="20250713030000 +0000" channel="BTV.vision">
 <title>Rumah Punya Cerita</title>
+</programme>
+<programme start="20250713030000 +0000" stop="20250713034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
+</programme>
+<programme start="20250713034500 +0000" stop="20250713040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
