@@ -1,6 +1,3 @@
-    <programme start="20250712095000 +0000" stop="20250712121000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Ulsan v Daegu</title>
-    </programme>
     <programme start="20250712184930 +0000" stop="20250712211000 +0000" channel="Optus Sport 4.optus">
         <title>UEFA Women&#039;s Championship - Poland v Denmark</title>
     </programme>

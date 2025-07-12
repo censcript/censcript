@@ -4264,66 +4264,7 @@
 <programme start="20250712153000 +0000" stop="20250712160000 +0000" channel="GTV.mncvision">
     <title>Predator: PBC Indonesia Open</title>
 </programme>
-<programme start="20250711170000 +0000" stop="20250711180000 +0000" channel="GTV HD.mncvision">
-    <title>Buletin iNews Malam</title>
-</programme>
-<programme start="20250711180000 +0000" stop="20250711190000 +0000" channel="GTV HD.mncvision">
-    <title>Konon Katanya</title>
-</programme>
-<programme start="20250711190000 +0000" stop="20250711210000 +0000" channel="GTV HD.mncvision">
-    <title>Crime.KV</title>
-</programme>
-<programme start="20250711210000 +0000" stop="20250711223000 +0000" channel="GTV HD.mncvision">
-    <title>Konon Katanya</title>
-</programme>
-<programme start="20250711223000 +0000" stop="20250711233000 +0000" channel="GTV HD.mncvision">
-    <title>Warbiasak</title>
-</programme>
-<programme start="20250711233000 +0000" stop="20250712000000 +0000" channel="GTV HD.mncvision">
-    <title>Bima-S</title>
-</programme>
-<programme start="20250712000000 +0000" stop="20250712003000 +0000" channel="GTV HD.mncvision">
-    <title>Bleach</title>
-</programme>
-<programme start="20250712003000 +0000" stop="20250712023000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
-</programme>
-<programme start="20250712023000 +0000" stop="20250712030000 +0000" channel="GTV HD.mncvision">
-    <title>Petualangan Kiko</title>
-</programme>
-<programme start="20250712030000 +0000" stop="20250712040000 +0000" channel="GTV HD.mncvision">
-    <title>Zak Storm</title>
-</programme>
-<programme start="20250712040000 +0000" stop="20250712050000 +0000" channel="GTV HD.mncvision">
-    <title>Naruto Shippuden</title>
-</programme>
-<programme start="20250712050000 +0000" stop="20250712060000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
-</programme>
-<programme start="20250712060000 +0000" stop="20250712070000 +0000" channel="GTV HD.mncvision">
-    <title>Kera Sakti</title>
-</programme>
-<programme start="20250712070000 +0000" stop="20250712080000 +0000" channel="GTV HD.mncvision">
-    <title>TV Champions</title>
-</programme>
-<programme start="20250712080000 +0000" stop="20250712090000 +0000" channel="GTV HD.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20250712090000 +0000" stop="20250712110000 +0000" channel="GTV HD.mncvision">
-    <title>Kisah Viral Specta</title>
-</programme>
-<programme start="20250712110000 +0000" stop="20250712113000 +0000" channel="GTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20250712113000 +0000" stop="20250712130000 +0000" channel="GTV HD.mncvision">
-    <title>Tad, The Lost Explorer</title>
-</programme>
-<programme start="20250712130000 +0000" stop="20250712153000 +0000" channel="GTV HD.mncvision">
-    <title>Mission: Impossible 2</title>
-</programme>
-<programme start="20250712153000 +0000" stop="20250712160000 +0000" channel="GTV HD.mncvision">
-    <title>Predator: PBC Indonesia Open</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250711180000 +0000" stop="20250711183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
 </programme>
