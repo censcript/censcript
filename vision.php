@@ -517,9 +517,6 @@
 <programme start="20250712003000 +0000" stop="20250712013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250712033000 +0000" stop="20250712041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
 <programme start="20250712041500 +0000" stop="20250712050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250713034500 +0000" stop="20250713040000 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
+</programme>
+<programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
