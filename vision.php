@@ -517,9 +517,6 @@
 <programme start="20250712003000 +0000" stop="20250712013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250712063000 +0000" stop="20250712071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
 <programme start="20250712071500 +0000" stop="20250712081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250713100000 +0000" stop="20250713110000 +0000" channel="BTV.vision">
+<title>Mantra News</title>
 </programme>
