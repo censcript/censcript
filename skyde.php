@@ -3217,7 +3217,7 @@
 <programme start="20250712074000 +0000" stop="20250712080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250712080000 +0000" stop="20250712160000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250712080000 +0000" stop="20250712142000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: The Amundi Evian Championship, 3. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250711223500 +0000" stop="20250711233000 +0000" channel="SYFY HD.skyde">
