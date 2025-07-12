@@ -517,24 +517,6 @@
 <programme start="20250712003000 +0000" stop="20250712013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250712013000 +0000" stop="20250712023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250712023000 +0000" stop="20250712033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250712033000 +0000" stop="20250712041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250712041500 +0000" stop="20250712050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20250712050000 +0000" stop="20250712054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250712054500 +0000" stop="20250712063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
 <programme start="20250712063000 +0000" stop="20250712071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
@@ -639,9 +621,6 @@
 </programme>
 <programme start="20250712010000 +0000" stop="20250712023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
-</programme>
-<programme start="20250712023000 +0000" stop="20250712060000 +0000" channel="ANTV.vision">
-<title>Dhoom 2</title>
 </programme>
 <programme start="20250712060000 +0000" stop="20250712084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20250713023000 +0000" stop="20250713030000 +0000" channel="BTV.vision">
 <title>Rumah Punya Cerita</title>
+</programme>
+<programme start="20250713030000 +0000" stop="20250713034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
+</programme>
+<programme start="20250713034500 +0000" stop="20250713040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250713040000 +0000" stop="20250713050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20250713050000 +0000" stop="20250713070000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250713070000 +0000" stop="20250713080000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250713080000 +0000" stop="20250713090000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
 </programme>
