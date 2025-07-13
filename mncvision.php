@@ -9019,45 +9019,7 @@
 <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Studio Universal.mncvision">
     <title>Scarface</title>
 </programme>
-<programme start="20250712174000 +0000" stop="20250712192500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Lost In Translation</title>
-</programme>
-<programme start="20250712192500 +0000" stop="20250712213500 +0000" channel="Studio Universal HD.mncvision">
-    <title>One True Thing</title>
-</programme>
-<programme start="20250712213500 +0000" stop="20250712230000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Spirit: Stallion Of Cimarron</title>
-</programme>
-<programme start="20250712230000 +0000" stop="20250713010500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Blues Brothers 2000</title>
-</programme>
-<programme start="20250713010500 +0000" stop="20250713024000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Along Came Polly</title>
-</programme>
-<programme start="20250713024000 +0000" stop="20250713043000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Bird On A Wire</title>
-</programme>
-<programme start="20250713043000 +0000" stop="20250713062500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Kindergarten Cop</title>
-</programme>
-<programme start="20250713062500 +0000" stop="20250713075000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Spirit: Stallion Of Cimarron</title>
-</programme>
-<programme start="20250713075000 +0000" stop="20250713092500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Shrek 2</title>
-</programme>
-<programme start="20250713092500 +0000" stop="20250713105500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Beethoven</title>
-</programme>
-<programme start="20250713105500 +0000" stop="20250713140500 +0000" channel="Studio Universal HD.mncvision">
-    <title>The Green Mile</title>
-</programme>
-<programme start="20250713140500 +0000" stop="20250713160000 +0000" channel="Studio Universal HD.mncvision">
-    <title>The Huntsman: Winter&#039;s War</title>
-</programme>
-<programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Scarface</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250712173600 +0000" stop="20250712193600 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
@@ -9298,87 +9260,7 @@
 <programme start="20250713161500 +0000" stop="20250713164500 +0000" channel="Thrill.mncvision">
     <title>Never Leave</title>
 </programme>
-<programme start="20250712171500 +0000" stop="20250712180000 +0000" channel="Trans 7.mncvision">
-    <title>MotoGP Sprint Raace: Germany</title>
-</programme>
-<programme start="20250712180000 +0000" stop="20250712184500 +0000" channel="Trans 7.mncvision">
-    <title>Superbike 2025: UK</title>
-</programme>
-<programme start="20250712184500 +0000" stop="20250712190000 +0000" channel="Trans 7.mncvision">
-    <title>Best Fishing</title>
-</programme>
-<programme start="20250712190000 +0000" stop="20250712194500 +0000" channel="Trans 7.mncvision">
-    <title>Skill Gokil</title>
-</programme>
-<programme start="20250712194500 +0000" stop="20250712201500 +0000" channel="Trans 7.mncvision">
-    <title>Foodies</title>
-</programme>
-<programme start="20250712201500 +0000" stop="20250712210000 +0000" channel="Trans 7.mncvision">
-    <title>Just For Laughs Gags</title>
-</programme>
-<programme start="20250712210000 +0000" stop="20250712213000 +0000" channel="Trans 7.mncvision">
-    <title>LOL ComediHa!</title>
-</programme>
-<programme start="20250712213000 +0000" stop="20250712221500 +0000" channel="Trans 7.mncvision">
-    <title>Jejak Al Qur&#039;an</title>
-</programme>
-<programme start="20250712221500 +0000" stop="20250712230000 +0000" channel="Trans 7.mncvision">
-    <title>Jalur Langit</title>
-</programme>
-<programme start="20250712230000 +0000" stop="20250713000000 +0000" channel="Trans 7.mncvision">
-    <title>Redaksi Pagi Akhir Pekan</title>
-</programme>
-<programme start="20250713000000 +0000" stop="20250713003000 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita Pagi On The Weekend</title>
-</programme>
-<programme start="20250713003000 +0000" stop="20250713013000 +0000" channel="Trans 7.mncvision">
-    <title>Spotlite</title>
-</programme>
-<programme start="20250713013000 +0000" stop="20250713023000 +0000" channel="Trans 7.mncvision">
-    <title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250713023000 +0000" stop="20250713033000 +0000" channel="Trans 7.mncvision">
-    <title>Heits Abis</title>
-</programme>
-<programme start="20250713033000 +0000" stop="20250713041500 +0000" channel="Trans 7.mncvision">
-    <title>Bikin Seneng</title>
-</programme>
-<programme start="20250713041500 +0000" stop="20250713050000 +0000" channel="Trans 7.mncvision">
-    <title>Enaknya Mantul</title>
-</programme>
-<programme start="20250713050000 +0000" stop="20250713054500 +0000" channel="Trans 7.mncvision">
-    <title>Cuan Bos</title>
-</programme>
-<programme start="20250713054500 +0000" stop="20250713063000 +0000" channel="Trans 7.mncvision">
-    <title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20250713063000 +0000" stop="20250713074500 +0000" channel="Trans 7.mncvision">
-    <title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20250713074500 +0000" stop="20250713081500 +0000" channel="Trans 7.mncvision">
-    <title>Redaksi</title>
-</programme>
-<programme start="20250713081500 +0000" stop="20250713090000 +0000" channel="Trans 7.mncvision">
-    <title>Jejak Si Gundul</title>
-</programme>
-<programme start="20250713090000 +0000" stop="20250713100000 +0000" channel="Trans 7.mncvision">
-    <title>Makan Receh</title>
-</programme>
-<programme start="20250713100000 +0000" stop="20250713130000 +0000" channel="Trans 7.mncvision">
-    <title>MotoGP 2025: Germany (L)</title>
-</programme>
-<programme start="20250713130000 +0000" stop="20250713141500 +0000" channel="Trans 7.mncvision">
-    <title>Arisan</title>
-</programme>
-<programme start="20250713141500 +0000" stop="20250713153000 +0000" channel="Trans 7.mncvision">
-    <title>BTS</title>
-</programme>
-<programme start="20250713153000 +0000" stop="20250713161500 +0000" channel="Trans 7.mncvision">
-    <title>The Police</title>
-</programme>
-<programme start="20250713161500 +0000" stop="20250713164500 +0000" channel="Trans 7.mncvision">
-    <title>Malu-Malu Mau</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250712180000 +0000" stop="20250712220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
 </programme>
