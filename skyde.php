@@ -1054,80 +1054,95 @@
 <programme start="20250713213000 +0000" stop="20250713233000 +0000" channel="Heimatkanal.skyde">
     <title>Der Sternsteinhof</title>
 </programme>
-<programme start="20250712225000 +0000" stop="20250712234000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
+<programme start="20250718221000 +0000" stop="20250718230000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Aufbruch ins All</title>
 </programme>
-<programme start="20250712234000 +0000" stop="20250713003000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
+<programme start="20250718230000 +0000" stop="20250718234500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Aufbruch ins All</title>
 </programme>
-<programme start="20250713003000 +0000" stop="20250713012500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
+<programme start="20250718234500 +0000" stop="20250719003000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Aufbruch ins All</title>
 </programme>
-<programme start="20250713012500 +0000" stop="20250713021000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719003000 +0000" stop="20250719012500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das U-Boot</title>
 </programme>
-<programme start="20250713021000 +0000" stop="20250713025500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719012500 +0000" stop="20250719022000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das U-Boot</title>
 </programme>
-<programme start="20250713025500 +0000" stop="20250713034000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719022000 +0000" stop="20250719030000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
 </programme>
-<programme start="20250713034000 +0000" stop="20250713042500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719030000 +0000" stop="20250719034000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
 </programme>
-<programme start="20250713042500 +0000" stop="20250713051500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719034000 +0000" stop="20250719043000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
 </programme>
-<programme start="20250713051500 +0000" stop="20250713060000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719043000 +0000" stop="20250719051500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20250713060000 +0000" stop="20250713064500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719051500 +0000" stop="20250719060000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20250713064500 +0000" stop="20250713073000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719060000 +0000" stop="20250719065000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20250713073000 +0000" stop="20250713081500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719065000 +0000" stop="20250719073500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20250713081500 +0000" stop="20250713090000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719073500 +0000" stop="20250719082500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
 </programme>
-<programme start="20250713090000 +0000" stop="20250713095000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719082500 +0000" stop="20250719091000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
 </programme>
-<programme start="20250713095000 +0000" stop="20250713104000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aliens im Outback</title>
+<programme start="20250719091000 +0000" stop="20250719095500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
 </programme>
-<programme start="20250713104000 +0000" stop="20250713121000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Die Ursprünge</title>
+<programme start="20250719095500 +0000" stop="20250719104500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20250713121000 +0000" stop="20250713134000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Die Ursprünge</title>
+<programme start="20250719104500 +0000" stop="20250719113500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20250713134000 +0000" stop="20250713151000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Die Ursprünge</title>
+<programme start="20250719113500 +0000" stop="20250719122500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20250713151000 +0000" stop="20250713163500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Die Ursprünge</title>
+<programme start="20250719122500 +0000" stop="20250719131500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens Mythen und Legenden</title>
 </programme>
-<programme start="20250713163500 +0000" stop="20250713172500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Rätselhafte Phänomene</title>
+<programme start="20250719131500 +0000" stop="20250719140500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20250713172500 +0000" stop="20250713181500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Rätselhafte Phänomene</title>
+<programme start="20250719140500 +0000" stop="20250719145500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20250713181500 +0000" stop="20250713190500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Oak Island - Fluch und Legende</title>
+<programme start="20250719145500 +0000" stop="20250719154500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20250713190500 +0000" stop="20250713201000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Britanniens verborgene Schätze</title>
+<programme start="20250719154500 +0000" stop="20250719163500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20250713201000 +0000" stop="20250713211500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Britanniens verborgene Schätze</title>
+<programme start="20250719163500 +0000" stop="20250719172500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
 </programme>
-<programme start="20250713211500 +0000" stop="20250713224500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Die Ursprünge</title>
+<programme start="20250719172500 +0000" stop="20250719181500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Europas Mythen und Kreaturen</title>
+</programme>
+<programme start="20250719181500 +0000" stop="20250719191000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20250719191000 +0000" stop="20250719200500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20250719200500 +0000" stop="20250719210000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20250719210000 +0000" stop="20250719215500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20250719215500 +0000" stop="20250719225000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
 </programme>
 <programme start="20250712220000 +0000" stop="20250713000000 +0000" channel="Jukebox.skyde">
     <title>PARTY BOX</title>
