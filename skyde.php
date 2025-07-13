@@ -3409,6 +3409,48 @@
 <programme start="20250713215500 +0000" stop="20250713221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
+<programme start="20250712220000 +0000" stop="20250712234500 +0000" channel="Warner TV Film.skyde">
+    <title>16 Blocks</title>
+</programme>
+<programme start="20250712234500 +0000" stop="20250713020000 +0000" channel="Warner TV Film.skyde">
+    <title>The Rock - Entscheidung auf Alcatraz</title>
+</programme>
+<programme start="20250713020000 +0000" stop="20250713040000 +0000" channel="Warner TV Film.skyde">
+    <title>Batman</title>
+</programme>
+<programme start="20250713040000 +0000" stop="20250713045000 +0000" channel="Warner TV Film.skyde">
+    <title>Lutz van der Horst - Der Filmtalker</title>
+</programme>
+<programme start="20250713045000 +0000" stop="20250713064500 +0000" channel="Warner TV Film.skyde">
+    <title>Arsen und Spitzenhäubchen</title>
+</programme>
+<programme start="20250713064500 +0000" stop="20250713090000 +0000" channel="Warner TV Film.skyde">
+    <title>Erbarmungslos</title>
+</programme>
+<programme start="20250713090000 +0000" stop="20250713104500 +0000" channel="Warner TV Film.skyde">
+    <title>Spuren im Sand</title>
+</programme>
+<programme start="20250713104500 +0000" stop="20250713121500 +0000" channel="Warner TV Film.skyde">
+    <title>Dumm und dümmerer</title>
+</programme>
+<programme start="20250713121500 +0000" stop="20250713143500 +0000" channel="Warner TV Film.skyde">
+    <title>Mystic River</title>
+</programme>
+<programme start="20250713143500 +0000" stop="20250713164000 +0000" channel="Warner TV Film.skyde">
+    <title>Der Schakal</title>
+</programme>
+<programme start="20250713164000 +0000" stop="20250713181500 +0000" channel="Warner TV Film.skyde">
+    <title>Flightplan - Ohne jede Spur</title>
+</programme>
+<programme start="20250713181500 +0000" stop="20250713195000 +0000" channel="Warner TV Film.skyde">
+    <title>Aliens vs. Predator 2</title>
+</programme>
+<programme start="20250713195000 +0000" stop="20250713215500 +0000" channel="Warner TV Film.skyde">
+    <title>Prometheus - Dunkle Zeichen</title>
+</programme>
+<programme start="20250713215500 +0000" stop="20250713235000 +0000" channel="Warner TV Film.skyde">
+    <title>Death Race</title>
+</programme>
 <programme start="20250712220000 +0000" stop="20250712234500 +0000" channel="Warner TV Film HD.skyde">
     <title>16 Blocks</title>
 </programme>
