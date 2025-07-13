@@ -670,9 +670,6 @@
 <programme start="20250713123000 +0000" stop="20250713143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250713143000 +0000" stop="20250713163000 +0000" channel="ANTV.vision">
-<title>Pembalasan Setan Karang Bolong</title>
-</programme>
 <programme start="20250713163000 +0000" stop="20250713183000 +0000" channel="ANTV.vision">
 <title>City War</title>
 </programme>
@@ -861,12 +858,6 @@
 </programme>
 <programme start="20250713140000 +0000" stop="20250713150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
-</programme>
-<programme start="20250713150000 +0000" stop="20250713160000 +0000" channel="TVOne.vision">
-<title>Distrik</title>
-</programme>
-<programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="TVOne.vision">
-<title>Benang Merah</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713173000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1496,5 +1487,14 @@
 <title>BTV</title>
 </programme>
 <programme start="20250714060000 +0000" stop="20250714070000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714070000 +0000" stop="20250714080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714080000 +0000" stop="20250714090000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714090000 +0000" stop="20250714100000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
