@@ -2248,210 +2248,6 @@
     <programme start="20250714233000 +0000" stop="20250714235959 +0000" channel="946942.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250713000000 +0000" stop="20250713000500 +0000" channel="946938.shahid">
-        <title>Mojaz Al Akhbar</title>
-    </programme>
-    <programme start="20250713000500 +0000" stop="20250713004500 +0000" channel="946938.shahid">
-        <title>E&#039;mar Al Ardh 2</title>
-    </programme>
-    <programme start="20250713004500 +0000" stop="20250713010000 +0000" channel="946938.shahid">
-        <title>Jawhom Reyadhi</title>
-    </programme>
-    <programme start="20250713010000 +0000" stop="20250713013000 +0000" channel="946938.shahid">
-        <title>Al Ayyam Al Khaleyah 5</title>
-    </programme>
-    <programme start="20250713013000 +0000" stop="20250713020000 +0000" channel="946938.shahid">
-        <title>Salat Al Fajr</title>
-    </programme>
-    <programme start="20250713020000 +0000" stop="20250713023000 +0000" channel="946938.shahid">
-        <title>Fatawa</title>
-    </programme>
-    <programme start="20250713023000 +0000" stop="20250713040000 +0000" channel="946938.shahid">
-        <title>Dawreena Gheer</title>
-    </programme>
-    <programme start="20250713040000 +0000" stop="20250713043000 +0000" channel="946938.shahid">
-        <title>Reshah</title>
-    </programme>
-    <programme start="20250713043000 +0000" stop="20250713060000 +0000" channel="946938.shahid">
-        <title>Men Al Saudia</title>
-    </programme>
-    <programme start="20250713060000 +0000" stop="20250713060500 +0000" channel="946938.shahid">
-        <title>Mojaz Al Akhbar</title>
-    </programme>
-    <programme start="20250713060500 +0000" stop="20250713070000 +0000" channel="946938.shahid">
-        <title>Semaat</title>
-    </programme>
-    <programme start="20250713070000 +0000" stop="20250713090000 +0000" channel="946938.shahid">
-        <title>Sabah Al Saudiah</title>
-    </programme>
-    <programme start="20250713090000 +0000" stop="20250713093000 +0000" channel="946938.shahid">
-        <title>Tajrobah Fareedah 3</title>
-    </programme>
-    <programme start="20250713093000 +0000" stop="20250713100000 +0000" channel="946938.shahid">
-        <title>Zaman A&#039;wal</title>
-    </programme>
-    <programme start="20250713100000 +0000" stop="20250713100500 +0000" channel="946938.shahid">
-        <title>Mojaz Al Akhbar</title>
-    </programme>
-    <programme start="20250713100500 +0000" stop="20250713113000 +0000" channel="946938.shahid">
-        <title>Dawreena Gheer</title>
-    </programme>
-    <programme start="20250713113000 +0000" stop="20250713120000 +0000" channel="946938.shahid">
-        <title>Reshah</title>
-    </programme>
-    <programme start="20250713120000 +0000" stop="20250713123000 +0000" channel="946938.shahid">
-        <title>Fatawa</title>
-    </programme>
-    <programme start="20250713123000 +0000" stop="20250713133000 +0000" channel="946938.shahid">
-        <title>Al Akhbar</title>
-    </programme>
-    <programme start="20250713133000 +0000" stop="20250713143000 +0000" channel="946938.shahid">
-        <title>Sayf Deratona</title>
-    </programme>
-    <programme start="20250713143000 +0000" stop="20250713153000 +0000" channel="946938.shahid">
-        <title>Semaat</title>
-    </programme>
-    <programme start="20250713153000 +0000" stop="20250713160000 +0000" channel="946938.shahid">
-        <title>Al Ayyam Al Khaleyah 5</title>
-    </programme>
-    <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="946938.shahid">
-        <title>Salat Al Maghreb</title>
-    </programme>
-    <programme start="20250713163000 +0000" stop="20250713170000 +0000" channel="946938.shahid">
-        <title>Tajrobah Fareedah 3</title>
-    </programme>
-    <programme start="20250713170000 +0000" stop="20250713173000 +0000" channel="946938.shahid">
-        <title>Aanathak</title>
-    </programme>
-    <programme start="20250713173000 +0000" stop="20250713180000 +0000" channel="946938.shahid">
-        <title>Salat Al Isha</title>
-    </programme>
-    <programme start="20250713180000 +0000" stop="20250713183000 +0000" channel="946938.shahid">
-        <title>Rejal Abdulaziz</title>
-    </programme>
-    <programme start="20250713183000 +0000" stop="20250713190000 +0000" channel="946938.shahid">
-        <title>Al Akhbar</title>
-    </programme>
-    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="946938.shahid">
-        <title>Al Share&#039; Al Saudi</title>
-    </programme>
-    <programme start="20250713200000 +0000" stop="20250713213000 +0000" channel="946938.shahid">
-        <title>Dawreena Gheer</title>
-    </programme>
-    <programme start="20250713213000 +0000" stop="20250713214500 +0000" channel="946938.shahid">
-        <title>Al Akhbar</title>
-    </programme>
-    <programme start="20250713214500 +0000" stop="20250713230000 +0000" channel="946938.shahid">
-        <title>Sayf Deratona</title>
-    </programme>
-    <programme start="20250713230000 +0000" stop="20250714000000 +0000" channel="946938.shahid">
-        <title>Al Share&#039; Al Saudi</title>
-    </programme>
-    <programme start="20250714000000 +0000" stop="20250714000500 +0000" channel="946938.shahid">
-        <title>Mojaz Al Akhbar</title>
-    </programme>
-    <programme start="20250714000500 +0000" stop="20250714004500 +0000" channel="946938.shahid">
-        <title>Rejal Abdulaziz</title>
-    </programme>
-    <programme start="20250714004500 +0000" stop="20250714010000 +0000" channel="946938.shahid">
-        <title>Tajrobah Fareedah 3</title>
-    </programme>
-    <programme start="20250714010000 +0000" stop="20250714013000 +0000" channel="946938.shahid">
-        <title>Al Ayyam Al Khaleyah 5</title>
-    </programme>
-    <programme start="20250714013000 +0000" stop="20250714020000 +0000" channel="946938.shahid">
-        <title>Salat Al Fajr</title>
-    </programme>
-    <programme start="20250714020000 +0000" stop="20250714023000 +0000" channel="946938.shahid">
-        <title>Fatawa</title>
-    </programme>
-    <programme start="20250714023000 +0000" stop="20250714040000 +0000" channel="946938.shahid">
-        <title>Dawreena Gheer</title>
-    </programme>
-    <programme start="20250714040000 +0000" stop="20250714050000 +0000" channel="946938.shahid">
-        <title>Al Share&#039; Al Saudi</title>
-    </programme>
-    <programme start="20250714050000 +0000" stop="20250714053000 +0000" channel="946938.shahid">
-        <title>Aanathak</title>
-    </programme>
-    <programme start="20250714053000 +0000" stop="20250714060000 +0000" channel="946938.shahid">
-        <title>Tajrobah Fareedah 3</title>
-    </programme>
-    <programme start="20250714060000 +0000" stop="20250714060500 +0000" channel="946938.shahid">
-        <title>Mojaz Al Akhbar</title>
-    </programme>
-    <programme start="20250714060500 +0000" stop="20250714070000 +0000" channel="946938.shahid">
-        <title>Sayf Deratona</title>
-    </programme>
-    <programme start="20250714070000 +0000" stop="20250714090000 +0000" channel="946938.shahid">
-        <title>Sabah Al Saudiah</title>
-    </programme>
-    <programme start="20250714090000 +0000" stop="20250714093000 +0000" channel="946938.shahid">
-        <title>Tajrobah Fareedah 3</title>
-    </programme>
-    <programme start="20250714093000 +0000" stop="20250714100000 +0000" channel="946938.shahid">
-        <title>Aanathak</title>
-    </programme>
-    <programme start="20250714100000 +0000" stop="20250714100500 +0000" channel="946938.shahid">
-        <title>Mojaz Al Akhbar</title>
-    </programme>
-    <programme start="20250714100500 +0000" stop="20250714113000 +0000" channel="946938.shahid">
-        <title>Dawreena Gheer</title>
-    </programme>
-    <programme start="20250714113000 +0000" stop="20250714120000 +0000" channel="946938.shahid">
-        <title>Rejal Abdulaziz</title>
-    </programme>
-    <programme start="20250714120000 +0000" stop="20250714123000 +0000" channel="946938.shahid">
-        <title>Fatawa</title>
-    </programme>
-    <programme start="20250714123000 +0000" stop="20250714133000 +0000" channel="946938.shahid">
-        <title>Al Akhbar</title>
-    </programme>
-    <programme start="20250714133000 +0000" stop="20250714143000 +0000" channel="946938.shahid">
-        <title>Sayf Deratona</title>
-    </programme>
-    <programme start="20250714143000 +0000" stop="20250714150000 +0000" channel="946938.shahid">
-        <title>E&#039;mar Al Ardh 2</title>
-    </programme>
-    <programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="946938.shahid">
-        <title>Reshah</title>
-    </programme>
-    <programme start="20250714153000 +0000" stop="20250714160000 +0000" channel="946938.shahid">
-        <title>Al Ayyam Al Khaleyah 5</title>
-    </programme>
-    <programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="946938.shahid">
-        <title>Salat Al Maghreb</title>
-    </programme>
-    <programme start="20250714163000 +0000" stop="20250714170000 +0000" channel="946938.shahid">
-        <title>Tajrobah Fareedah 3</title>
-    </programme>
-    <programme start="20250714170000 +0000" stop="20250714173000 +0000" channel="946938.shahid">
-        <title>Josour</title>
-    </programme>
-    <programme start="20250714173000 +0000" stop="20250714180000 +0000" channel="946938.shahid">
-        <title>Salat Al Isha</title>
-    </programme>
-    <programme start="20250714180000 +0000" stop="20250714183000 +0000" channel="946938.shahid">
-        <title>Kheerha Be Nasha 2</title>
-    </programme>
-    <programme start="20250714183000 +0000" stop="20250714190000 +0000" channel="946938.shahid">
-        <title>Al Akhbar</title>
-    </programme>
-    <programme start="20250714190000 +0000" stop="20250714200000 +0000" channel="946938.shahid">
-        <title>Al Share&#039; Al Saudi</title>
-    </programme>
-    <programme start="20250714200000 +0000" stop="20250714213000 +0000" channel="946938.shahid">
-        <title>Dawreena Gheer</title>
-    </programme>
-    <programme start="20250714213000 +0000" stop="20250714214500 +0000" channel="946938.shahid">
-        <title>Al Akhbar</title>
-    </programme>
-    <programme start="20250714214500 +0000" stop="20250714230000 +0000" channel="946938.shahid">
-        <title>Sayf Deratona</title>
-    </programme>
-    <programme start="20250714230000 +0000" stop="20250715000000 +0000" channel="946938.shahid">
-        <title>Al Share&#039; Al Saudi</title>
-    </programme>
     <programme start="20250713000000 +0000" stop="20250713000145 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 3 Episode 20</title>
     </programme>
@@ -2775,6 +2571,210 @@
     </programme>
     <programme start="20250714235118 +0000" stop="20250714235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250713000000 +0000" stop="20250713000500 +0000" channel="946938.shahid">
+        <title>Mojaz Al Akhbar</title>
+    </programme>
+    <programme start="20250713000500 +0000" stop="20250713004500 +0000" channel="946938.shahid">
+        <title>E&#039;mar Al Ardh 2</title>
+    </programme>
+    <programme start="20250713004500 +0000" stop="20250713010000 +0000" channel="946938.shahid">
+        <title>Jawhom Reyadhi</title>
+    </programme>
+    <programme start="20250713010000 +0000" stop="20250713013000 +0000" channel="946938.shahid">
+        <title>Al Ayyam Al Khaleyah 5</title>
+    </programme>
+    <programme start="20250713013000 +0000" stop="20250713020000 +0000" channel="946938.shahid">
+        <title>Salat Al Fajr</title>
+    </programme>
+    <programme start="20250713020000 +0000" stop="20250713023000 +0000" channel="946938.shahid">
+        <title>Fatawa</title>
+    </programme>
+    <programme start="20250713023000 +0000" stop="20250713040000 +0000" channel="946938.shahid">
+        <title>Dawreena Gheer</title>
+    </programme>
+    <programme start="20250713040000 +0000" stop="20250713043000 +0000" channel="946938.shahid">
+        <title>Reshah</title>
+    </programme>
+    <programme start="20250713043000 +0000" stop="20250713060000 +0000" channel="946938.shahid">
+        <title>Men Al Saudia</title>
+    </programme>
+    <programme start="20250713060000 +0000" stop="20250713060500 +0000" channel="946938.shahid">
+        <title>Mojaz Al Akhbar</title>
+    </programme>
+    <programme start="20250713060500 +0000" stop="20250713070000 +0000" channel="946938.shahid">
+        <title>Semaat</title>
+    </programme>
+    <programme start="20250713070000 +0000" stop="20250713090000 +0000" channel="946938.shahid">
+        <title>Sabah Al Saudiah</title>
+    </programme>
+    <programme start="20250713090000 +0000" stop="20250713093000 +0000" channel="946938.shahid">
+        <title>Tajrobah Fareedah 3</title>
+    </programme>
+    <programme start="20250713093000 +0000" stop="20250713100000 +0000" channel="946938.shahid">
+        <title>Zaman A&#039;wal</title>
+    </programme>
+    <programme start="20250713100000 +0000" stop="20250713100500 +0000" channel="946938.shahid">
+        <title>Mojaz Al Akhbar</title>
+    </programme>
+    <programme start="20250713100500 +0000" stop="20250713113000 +0000" channel="946938.shahid">
+        <title>Dawreena Gheer</title>
+    </programme>
+    <programme start="20250713113000 +0000" stop="20250713120000 +0000" channel="946938.shahid">
+        <title>Reshah</title>
+    </programme>
+    <programme start="20250713120000 +0000" stop="20250713123000 +0000" channel="946938.shahid">
+        <title>Fatawa</title>
+    </programme>
+    <programme start="20250713123000 +0000" stop="20250713133000 +0000" channel="946938.shahid">
+        <title>Al Akhbar</title>
+    </programme>
+    <programme start="20250713133000 +0000" stop="20250713143000 +0000" channel="946938.shahid">
+        <title>Sayf Deratona</title>
+    </programme>
+    <programme start="20250713143000 +0000" stop="20250713153000 +0000" channel="946938.shahid">
+        <title>Semaat</title>
+    </programme>
+    <programme start="20250713153000 +0000" stop="20250713160000 +0000" channel="946938.shahid">
+        <title>Al Ayyam Al Khaleyah 5</title>
+    </programme>
+    <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="946938.shahid">
+        <title>Salat Al Maghreb</title>
+    </programme>
+    <programme start="20250713163000 +0000" stop="20250713170000 +0000" channel="946938.shahid">
+        <title>Tajrobah Fareedah 3</title>
+    </programme>
+    <programme start="20250713170000 +0000" stop="20250713173000 +0000" channel="946938.shahid">
+        <title>Aanathak</title>
+    </programme>
+    <programme start="20250713173000 +0000" stop="20250713180000 +0000" channel="946938.shahid">
+        <title>Salat Al Isha</title>
+    </programme>
+    <programme start="20250713180000 +0000" stop="20250713183000 +0000" channel="946938.shahid">
+        <title>Rejal Abdulaziz</title>
+    </programme>
+    <programme start="20250713183000 +0000" stop="20250713190000 +0000" channel="946938.shahid">
+        <title>Al Akhbar</title>
+    </programme>
+    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="946938.shahid">
+        <title>Al Share&#039; Al Saudi</title>
+    </programme>
+    <programme start="20250713200000 +0000" stop="20250713213000 +0000" channel="946938.shahid">
+        <title>Dawreena Gheer</title>
+    </programme>
+    <programme start="20250713213000 +0000" stop="20250713214500 +0000" channel="946938.shahid">
+        <title>Al Akhbar</title>
+    </programme>
+    <programme start="20250713214500 +0000" stop="20250713230000 +0000" channel="946938.shahid">
+        <title>Sayf Deratona</title>
+    </programme>
+    <programme start="20250713230000 +0000" stop="20250714000000 +0000" channel="946938.shahid">
+        <title>Al Share&#039; Al Saudi</title>
+    </programme>
+    <programme start="20250714000000 +0000" stop="20250714000500 +0000" channel="946938.shahid">
+        <title>Mojaz Al Akhbar</title>
+    </programme>
+    <programme start="20250714000500 +0000" stop="20250714004500 +0000" channel="946938.shahid">
+        <title>Rejal Abdulaziz</title>
+    </programme>
+    <programme start="20250714004500 +0000" stop="20250714010000 +0000" channel="946938.shahid">
+        <title>Tajrobah Fareedah 3</title>
+    </programme>
+    <programme start="20250714010000 +0000" stop="20250714013000 +0000" channel="946938.shahid">
+        <title>Al Ayyam Al Khaleyah 5</title>
+    </programme>
+    <programme start="20250714013000 +0000" stop="20250714020000 +0000" channel="946938.shahid">
+        <title>Salat Al Fajr</title>
+    </programme>
+    <programme start="20250714020000 +0000" stop="20250714023000 +0000" channel="946938.shahid">
+        <title>Fatawa</title>
+    </programme>
+    <programme start="20250714023000 +0000" stop="20250714040000 +0000" channel="946938.shahid">
+        <title>Dawreena Gheer</title>
+    </programme>
+    <programme start="20250714040000 +0000" stop="20250714050000 +0000" channel="946938.shahid">
+        <title>Al Share&#039; Al Saudi</title>
+    </programme>
+    <programme start="20250714050000 +0000" stop="20250714053000 +0000" channel="946938.shahid">
+        <title>Aanathak</title>
+    </programme>
+    <programme start="20250714053000 +0000" stop="20250714060000 +0000" channel="946938.shahid">
+        <title>Tajrobah Fareedah 3</title>
+    </programme>
+    <programme start="20250714060000 +0000" stop="20250714060500 +0000" channel="946938.shahid">
+        <title>Mojaz Al Akhbar</title>
+    </programme>
+    <programme start="20250714060500 +0000" stop="20250714070000 +0000" channel="946938.shahid">
+        <title>Sayf Deratona</title>
+    </programme>
+    <programme start="20250714070000 +0000" stop="20250714090000 +0000" channel="946938.shahid">
+        <title>Sabah Al Saudiah</title>
+    </programme>
+    <programme start="20250714090000 +0000" stop="20250714093000 +0000" channel="946938.shahid">
+        <title>Tajrobah Fareedah 3</title>
+    </programme>
+    <programme start="20250714093000 +0000" stop="20250714100000 +0000" channel="946938.shahid">
+        <title>Aanathak</title>
+    </programme>
+    <programme start="20250714100000 +0000" stop="20250714100500 +0000" channel="946938.shahid">
+        <title>Mojaz Al Akhbar</title>
+    </programme>
+    <programme start="20250714100500 +0000" stop="20250714113000 +0000" channel="946938.shahid">
+        <title>Dawreena Gheer</title>
+    </programme>
+    <programme start="20250714113000 +0000" stop="20250714120000 +0000" channel="946938.shahid">
+        <title>Rejal Abdulaziz</title>
+    </programme>
+    <programme start="20250714120000 +0000" stop="20250714123000 +0000" channel="946938.shahid">
+        <title>Fatawa</title>
+    </programme>
+    <programme start="20250714123000 +0000" stop="20250714133000 +0000" channel="946938.shahid">
+        <title>Al Akhbar</title>
+    </programme>
+    <programme start="20250714133000 +0000" stop="20250714143000 +0000" channel="946938.shahid">
+        <title>Sayf Deratona</title>
+    </programme>
+    <programme start="20250714143000 +0000" stop="20250714150000 +0000" channel="946938.shahid">
+        <title>E&#039;mar Al Ardh 2</title>
+    </programme>
+    <programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="946938.shahid">
+        <title>Reshah</title>
+    </programme>
+    <programme start="20250714153000 +0000" stop="20250714160000 +0000" channel="946938.shahid">
+        <title>Al Ayyam Al Khaleyah 5</title>
+    </programme>
+    <programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="946938.shahid">
+        <title>Salat Al Maghreb</title>
+    </programme>
+    <programme start="20250714163000 +0000" stop="20250714170000 +0000" channel="946938.shahid">
+        <title>Tajrobah Fareedah 3</title>
+    </programme>
+    <programme start="20250714170000 +0000" stop="20250714173000 +0000" channel="946938.shahid">
+        <title>Josour</title>
+    </programme>
+    <programme start="20250714173000 +0000" stop="20250714180000 +0000" channel="946938.shahid">
+        <title>Salat Al Isha</title>
+    </programme>
+    <programme start="20250714180000 +0000" stop="20250714183000 +0000" channel="946938.shahid">
+        <title>Kheerha Be Nasha 2</title>
+    </programme>
+    <programme start="20250714183000 +0000" stop="20250714190000 +0000" channel="946938.shahid">
+        <title>Al Akhbar</title>
+    </programme>
+    <programme start="20250714190000 +0000" stop="20250714200000 +0000" channel="946938.shahid">
+        <title>Al Share&#039; Al Saudi</title>
+    </programme>
+    <programme start="20250714200000 +0000" stop="20250714213000 +0000" channel="946938.shahid">
+        <title>Dawreena Gheer</title>
+    </programme>
+    <programme start="20250714213000 +0000" stop="20250714214500 +0000" channel="946938.shahid">
+        <title>Al Akhbar</title>
+    </programme>
+    <programme start="20250714214500 +0000" stop="20250714230000 +0000" channel="946938.shahid">
+        <title>Sayf Deratona</title>
+    </programme>
+    <programme start="20250714230000 +0000" stop="20250715000000 +0000" channel="946938.shahid">
+        <title>Al Share&#039; Al Saudi</title>
     </programme>
     <programme start="20250713000000 +0000" stop="20250713000022 +0000" channel="49923172215352.shahid">
         <title>Sa&#039;altak Habibi</title>
@@ -5728,336 +5728,6 @@
     <programme start="20250714233632 +0000" stop="20250714235959 +0000" channel="1007223.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250713000000 +0000" stop="20250713001109 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713001109 +0000" stop="20250713003435 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713003435 +0000" stop="20250713010155 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713010155 +0000" stop="20250713012552 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713012552 +0000" stop="20250713015252 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713015252 +0000" stop="20250713021537 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713021537 +0000" stop="20250713030555 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713030555 +0000" stop="20250713031456 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 20</title>
-    </programme>
-    <programme start="20250713031456 +0000" stop="20250713034057 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713034057 +0000" stop="20250713040825 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 20</title>
-    </programme>
-    <programme start="20250713040825 +0000" stop="20250713043233 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713043233 +0000" stop="20250713050025 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713050025 +0000" stop="20250713052635 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713052635 +0000" stop="20250713054957 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713054957 +0000" stop="20250713061719 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713061719 +0000" stop="20250713064115 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713064115 +0000" stop="20250713070824 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713070824 +0000" stop="20250713073112 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713073112 +0000" stop="20250713082135 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713082135 +0000" stop="20250713083033 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 20</title>
-    </programme>
-    <programme start="20250713083033 +0000" stop="20250713085634 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713085634 +0000" stop="20250713092414 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 20</title>
-    </programme>
-    <programme start="20250713092414 +0000" stop="20250713094818 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713094818 +0000" stop="20250713101614 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713101614 +0000" stop="20250713104221 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713104221 +0000" stop="20250713110546 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713110546 +0000" stop="20250713113300 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713113300 +0000" stop="20250713120000 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713120000 +0000" stop="20250713122402 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 20</title>
-    </programme>
-    <programme start="20250713122402 +0000" stop="20250713124954 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713124954 +0000" stop="20250713131526 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713131526 +0000" stop="20250713134354 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713134354 +0000" stop="20250713141049 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713141049 +0000" stop="20250713143813 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713143813 +0000" stop="20250713145959 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713145959 +0000" stop="20250713152836 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713152836 +0000" stop="20250713154929 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713154929 +0000" stop="20250713162634 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713162634 +0000" stop="20250713164924 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 21</title>
-    </programme>
-    <programme start="20250713164924 +0000" stop="20250713171539 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713171539 +0000" stop="20250713174356 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 21</title>
-    </programme>
-    <programme start="20250713174356 +0000" stop="20250713180951 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713180951 +0000" stop="20250713183520 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713183520 +0000" stop="20250713190351 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713190351 +0000" stop="20250713193052 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713193052 +0000" stop="20250713195806 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713195806 +0000" stop="20250713201956 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713201956 +0000" stop="20250713204826 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713204826 +0000" stop="20250713210916 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713210916 +0000" stop="20250713214624 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713214624 +0000" stop="20250713220915 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 21</title>
-    </programme>
-    <programme start="20250713220915 +0000" stop="20250713223529 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713223529 +0000" stop="20250713230338 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 21</title>
-    </programme>
-    <programme start="20250713230338 +0000" stop="20250713232939 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713232939 +0000" stop="20250713235505 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250713235505 +0000" stop="20250714002333 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714002333 +0000" stop="20250714005028 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714005028 +0000" stop="20250714011745 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714011745 +0000" stop="20250714013932 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714013932 +0000" stop="20250714020810 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714020810 +0000" stop="20250714022859 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714022859 +0000" stop="20250714030607 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714030607 +0000" stop="20250714032904 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 21</title>
-    </programme>
-    <programme start="20250714032904 +0000" stop="20250714035519 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714035519 +0000" stop="20250714042334 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 21</title>
-    </programme>
-    <programme start="20250714042334 +0000" stop="20250714044930 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714044930 +0000" stop="20250714051459 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714051459 +0000" stop="20250714054328 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714054328 +0000" stop="20250714061032 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714061032 +0000" stop="20250714063746 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714063746 +0000" stop="20250714065936 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714065936 +0000" stop="20250714072805 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714072805 +0000" stop="20250714074851 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714074851 +0000" stop="20250714082557 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714082557 +0000" stop="20250714084851 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 21</title>
-    </programme>
-    <programme start="20250714084851 +0000" stop="20250714091503 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714091503 +0000" stop="20250714094317 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 21</title>
-    </programme>
-    <programme start="20250714094317 +0000" stop="20250714100909 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714100909 +0000" stop="20250714103442 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714103442 +0000" stop="20250714110309 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714110309 +0000" stop="20250714113010 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714113010 +0000" stop="20250714120000 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714120000 +0000" stop="20250714121915 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250714121915 +0000" stop="20250714124352 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714124352 +0000" stop="20250714130909 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714130909 +0000" stop="20250714133511 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714133511 +0000" stop="20250714140105 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714140105 +0000" stop="20250714142736 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714142736 +0000" stop="20250714144700 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714144700 +0000" stop="20250714151600 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714151600 +0000" stop="20250714153720 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714153720 +0000" stop="20250714160858 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714160858 +0000" stop="20250714163656 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 22</title>
-    </programme>
-    <programme start="20250714163656 +0000" stop="20250714170256 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714170256 +0000" stop="20250714172937 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 22</title>
-    </programme>
-    <programme start="20250714172937 +0000" stop="20250714175411 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714175411 +0000" stop="20250714181938 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714181938 +0000" stop="20250714184543 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714184543 +0000" stop="20250714191137 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Ard Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714191137 +0000" stop="20250714193806 +0000" channel="49923088781412.shahid">
-        <title>Ramez Taht Al Sifr Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714193806 +0000" stop="20250714195727 +0000" channel="49923088781412.shahid">
-        <title>Ramez Fi Al Shallal Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714195727 +0000" stop="20250714202626 +0000" channel="49923088781412.shahid">
-        <title>Ramez Majnoun Rasmi Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714202626 +0000" stop="20250714204744 +0000" channel="49923088781412.shahid">
-        <title>Ramez Aqlo Tar Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714204744 +0000" stop="20250714211915 +0000" channel="49923088781412.shahid">
-        <title>Ramez Movie Star Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714211915 +0000" stop="20250714214723 +0000" channel="49923088781412.shahid">
-        <title>Ramez Never Ends Season 2023 Episode 22</title>
-    </programme>
-    <programme start="20250714214723 +0000" stop="20250714221327 +0000" channel="49923088781412.shahid">
-        <title>Ramez Gab Min El Akher Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714221327 +0000" stop="20250714224014 +0000" channel="49923088781412.shahid">
-        <title>Ramez Elon Masr Season 2025 Episode 22</title>
-    </programme>
-    <programme start="20250714224014 +0000" stop="20250714230449 +0000" channel="49923088781412.shahid">
-        <title>Ramez Qersh Al Bahr Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714230449 +0000" stop="20250714233012 +0000" channel="49923088781412.shahid">
-        <title>Ramez Wakel Al Jaw  Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250714233012 +0000" stop="20250714235959 +0000" channel="49923088781412.shahid">
-        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 22</title>
-    </programme>
     <programme start="20250713000000 +0000" stop="20250713000500 +0000" channel="862837.shahid">
         <title>Akhbar Asharq</title>
     </programme>
@@ -6429,6 +6099,336 @@
     </programme>
     <programme start="20250714210000 +0000" stop="20250714235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250713000000 +0000" stop="20250713001109 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713001109 +0000" stop="20250713003435 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713003435 +0000" stop="20250713010155 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713010155 +0000" stop="20250713012552 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713012552 +0000" stop="20250713015252 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713015252 +0000" stop="20250713021537 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713021537 +0000" stop="20250713030555 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713030555 +0000" stop="20250713031456 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 20</title>
+    </programme>
+    <programme start="20250713031456 +0000" stop="20250713034057 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713034057 +0000" stop="20250713040825 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 20</title>
+    </programme>
+    <programme start="20250713040825 +0000" stop="20250713043233 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713043233 +0000" stop="20250713050025 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713050025 +0000" stop="20250713052635 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713052635 +0000" stop="20250713054957 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713054957 +0000" stop="20250713061719 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713061719 +0000" stop="20250713064115 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713064115 +0000" stop="20250713070824 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713070824 +0000" stop="20250713073112 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713073112 +0000" stop="20250713082135 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713082135 +0000" stop="20250713083033 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 20</title>
+    </programme>
+    <programme start="20250713083033 +0000" stop="20250713085634 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713085634 +0000" stop="20250713092414 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 20</title>
+    </programme>
+    <programme start="20250713092414 +0000" stop="20250713094818 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713094818 +0000" stop="20250713101614 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713101614 +0000" stop="20250713104221 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713104221 +0000" stop="20250713110546 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713110546 +0000" stop="20250713113300 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713113300 +0000" stop="20250713120000 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713120000 +0000" stop="20250713122402 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 20</title>
+    </programme>
+    <programme start="20250713122402 +0000" stop="20250713124954 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713124954 +0000" stop="20250713131526 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713131526 +0000" stop="20250713134354 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713134354 +0000" stop="20250713141049 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713141049 +0000" stop="20250713143813 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713143813 +0000" stop="20250713145959 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713145959 +0000" stop="20250713152836 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713152836 +0000" stop="20250713154929 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713154929 +0000" stop="20250713162634 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713162634 +0000" stop="20250713164924 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 21</title>
+    </programme>
+    <programme start="20250713164924 +0000" stop="20250713171539 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713171539 +0000" stop="20250713174356 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 21</title>
+    </programme>
+    <programme start="20250713174356 +0000" stop="20250713180951 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713180951 +0000" stop="20250713183520 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713183520 +0000" stop="20250713190351 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713190351 +0000" stop="20250713193052 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713193052 +0000" stop="20250713195806 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713195806 +0000" stop="20250713201956 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713201956 +0000" stop="20250713204826 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713204826 +0000" stop="20250713210916 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713210916 +0000" stop="20250713214624 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713214624 +0000" stop="20250713220915 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 21</title>
+    </programme>
+    <programme start="20250713220915 +0000" stop="20250713223529 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713223529 +0000" stop="20250713230338 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 21</title>
+    </programme>
+    <programme start="20250713230338 +0000" stop="20250713232939 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713232939 +0000" stop="20250713235505 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250713235505 +0000" stop="20250714002333 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714002333 +0000" stop="20250714005028 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714005028 +0000" stop="20250714011745 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714011745 +0000" stop="20250714013932 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714013932 +0000" stop="20250714020810 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714020810 +0000" stop="20250714022859 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714022859 +0000" stop="20250714030607 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714030607 +0000" stop="20250714032904 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 21</title>
+    </programme>
+    <programme start="20250714032904 +0000" stop="20250714035519 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714035519 +0000" stop="20250714042334 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 21</title>
+    </programme>
+    <programme start="20250714042334 +0000" stop="20250714044930 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714044930 +0000" stop="20250714051459 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714051459 +0000" stop="20250714054328 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714054328 +0000" stop="20250714061032 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714061032 +0000" stop="20250714063746 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714063746 +0000" stop="20250714065936 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714065936 +0000" stop="20250714072805 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714072805 +0000" stop="20250714074851 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714074851 +0000" stop="20250714082557 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714082557 +0000" stop="20250714084851 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 21</title>
+    </programme>
+    <programme start="20250714084851 +0000" stop="20250714091503 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714091503 +0000" stop="20250714094317 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 21</title>
+    </programme>
+    <programme start="20250714094317 +0000" stop="20250714100909 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714100909 +0000" stop="20250714103442 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714103442 +0000" stop="20250714110309 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714110309 +0000" stop="20250714113010 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714113010 +0000" stop="20250714120000 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714120000 +0000" stop="20250714121915 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250714121915 +0000" stop="20250714124352 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714124352 +0000" stop="20250714130909 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714130909 +0000" stop="20250714133511 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714133511 +0000" stop="20250714140105 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714140105 +0000" stop="20250714142736 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714142736 +0000" stop="20250714144700 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714144700 +0000" stop="20250714151600 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714151600 +0000" stop="20250714153720 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714153720 +0000" stop="20250714160858 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714160858 +0000" stop="20250714163656 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 22</title>
+    </programme>
+    <programme start="20250714163656 +0000" stop="20250714170256 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714170256 +0000" stop="20250714172937 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 22</title>
+    </programme>
+    <programme start="20250714172937 +0000" stop="20250714175411 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714175411 +0000" stop="20250714181938 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714181938 +0000" stop="20250714184543 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714184543 +0000" stop="20250714191137 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Ard Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714191137 +0000" stop="20250714193806 +0000" channel="49923088781412.shahid">
+        <title>Ramez Taht Al Sifr Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714193806 +0000" stop="20250714195727 +0000" channel="49923088781412.shahid">
+        <title>Ramez Fi Al Shallal Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714195727 +0000" stop="20250714202626 +0000" channel="49923088781412.shahid">
+        <title>Ramez Majnoun Rasmi Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714202626 +0000" stop="20250714204744 +0000" channel="49923088781412.shahid">
+        <title>Ramez Aqlo Tar Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714204744 +0000" stop="20250714211915 +0000" channel="49923088781412.shahid">
+        <title>Ramez Movie Star Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714211915 +0000" stop="20250714214723 +0000" channel="49923088781412.shahid">
+        <title>Ramez Never Ends Season 2023 Episode 22</title>
+    </programme>
+    <programme start="20250714214723 +0000" stop="20250714221327 +0000" channel="49923088781412.shahid">
+        <title>Ramez Gab Min El Akher Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714221327 +0000" stop="20250714224014 +0000" channel="49923088781412.shahid">
+        <title>Ramez Elon Masr Season 2025 Episode 22</title>
+    </programme>
+    <programme start="20250714224014 +0000" stop="20250714230449 +0000" channel="49923088781412.shahid">
+        <title>Ramez Qersh Al Bahr Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714230449 +0000" stop="20250714233012 +0000" channel="49923088781412.shahid">
+        <title>Ramez Wakel Al Jaw  Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250714233012 +0000" stop="20250714235959 +0000" channel="49923088781412.shahid">
+        <title>Ramez Beyla&#039;ab Bel Nar Season 1 Episode 22</title>
     </programme>
     <programme start="20250713000000 +0000" stop="20250713000217 +0000" channel="49923086914927.shahid">
         <title>Studio 23 Season 3 Episode 8</title>
@@ -6934,6 +6934,120 @@
     <programme start="20250714222856 +0000" stop="20250714235959 +0000" channel="989622.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20250713000000 +0000" stop="20250713002700 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 13</title>
+    </programme>
+    <programme start="20250713002700 +0000" stop="20250713012300 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713012300 +0000" stop="20250713015400 +0000" channel="49923122575716.shahid">
+        <title>Ameera Bila Taj Season 1 Episode 39</title>
+    </programme>
+    <programme start="20250713015400 +0000" stop="20250713024400 +0000" channel="49923122575716.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 4</title>
+    </programme>
+    <programme start="20250713024400 +0000" stop="20250713033000 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713033000 +0000" stop="20250713042600 +0000" channel="49923122575716.shahid">
+        <title>El Maddah: Ostouret El Ishq Season 3 Episode 14</title>
+    </programme>
+    <programme start="20250713042600 +0000" stop="20250713052000 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 13</title>
+    </programme>
+    <programme start="20250713052000 +0000" stop="20250713060500 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713060500 +0000" stop="20250713065400 +0000" channel="49923122575716.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 4</title>
+    </programme>
+    <programme start="20250713065400 +0000" stop="20250713074100 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713074100 +0000" stop="20250713083900 +0000" channel="49923122575716.shahid">
+        <title>El Maddah: Ostouret El Ishq Season 3 Episode 14</title>
+    </programme>
+    <programme start="20250713083900 +0000" stop="20250713093600 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 13</title>
+    </programme>
+    <programme start="20250713093600 +0000" stop="20250713102600 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713102600 +0000" stop="20250713110200 +0000" channel="49923122575716.shahid">
+        <title>Ameera Bila Taj Season 1 Episode 39</title>
+    </programme>
+    <programme start="20250713110200 +0000" stop="20250713115100 +0000" channel="49923122575716.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 4</title>
+    </programme>
+    <programme start="20250713115100 +0000" stop="20250713123800 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713123800 +0000" stop="20250713134000 +0000" channel="49923122575716.shahid">
+        <title>El Maddah: Ostouret El Ishq Season 3 Episode 14</title>
+    </programme>
+    <programme start="20250713134000 +0000" stop="20250713143400 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 13</title>
+    </programme>
+    <programme start="20250713143400 +0000" stop="20250713151900 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713151900 +0000" stop="20250713155700 +0000" channel="49923122575716.shahid">
+        <title>Ameera Bila Taj Season 1 Episode 40</title>
+    </programme>
+    <programme start="20250713155700 +0000" stop="20250713164800 +0000" channel="49923122575716.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 5</title>
+    </programme>
+    <programme start="20250713164800 +0000" stop="20250713173200 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250713173200 +0000" stop="20250713183300 +0000" channel="49923122575716.shahid">
+        <title>El Maddah: Ostouret El Ishq Season 3 Episode 15</title>
+    </programme>
+    <programme start="20250713183300 +0000" stop="20250713193400 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250713193400 +0000" stop="20250713202500 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250713202500 +0000" stop="20250713210100 +0000" channel="49923122575716.shahid">
+        <title>Ameera Bila Taj Season 1 Episode 40</title>
+    </programme>
+    <programme start="20250713210100 +0000" stop="20250713214900 +0000" channel="49923122575716.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 5</title>
+    </programme>
+    <programme start="20250713214900 +0000" stop="20250713223100 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250713223100 +0000" stop="20250713232500 +0000" channel="49923122575716.shahid">
+        <title>El Maddah: Ostouret El Ishq Season 3 Episode 15</title>
+    </programme>
+    <programme start="20250713232500 +0000" stop="20250714002100 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250714002100 +0000" stop="20250714011000 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250714011000 +0000" stop="20250714015000 +0000" channel="49923122575716.shahid">
+        <title>Ameera Bila Taj Season 1 Episode 40</title>
+    </programme>
+    <programme start="20250714015000 +0000" stop="20250714023900 +0000" channel="49923122575716.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 5</title>
+    </programme>
+    <programme start="20250714023900 +0000" stop="20250714031900 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250714031900 +0000" stop="20250714041500 +0000" channel="49923122575716.shahid">
+        <title>El Maddah: Ostouret El Ishq Season 3 Episode 15</title>
+    </programme>
+    <programme start="20250714041500 +0000" stop="20250714051100 +0000" channel="49923122575716.shahid">
+        <title>Selat Rahem Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250714051100 +0000" stop="20250714060000 +0000" channel="49923122575716.shahid">
+        <title>Nisr Al Sa&#039;eed Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250714060000 +0000" stop="20250714235959 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250713000000 +0000" stop="20250713002554 +0000" channel="992538.shahid">
         <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 21</title>
     </programme>
@@ -7160,120 +7274,6 @@
         <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
     </programme>
     <programme start="20250714233104 +0000" stop="20250714235959 +0000" channel="992538.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250713000000 +0000" stop="20250713002700 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 13</title>
-    </programme>
-    <programme start="20250713002700 +0000" stop="20250713012300 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713012300 +0000" stop="20250713015400 +0000" channel="49923122575716.shahid">
-        <title>Ameera Bila Taj Season 1 Episode 39</title>
-    </programme>
-    <programme start="20250713015400 +0000" stop="20250713024400 +0000" channel="49923122575716.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 4</title>
-    </programme>
-    <programme start="20250713024400 +0000" stop="20250713033000 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713033000 +0000" stop="20250713042600 +0000" channel="49923122575716.shahid">
-        <title>El Maddah: Ostouret El Ishq Season 3 Episode 14</title>
-    </programme>
-    <programme start="20250713042600 +0000" stop="20250713052000 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 13</title>
-    </programme>
-    <programme start="20250713052000 +0000" stop="20250713060500 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713060500 +0000" stop="20250713065400 +0000" channel="49923122575716.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 4</title>
-    </programme>
-    <programme start="20250713065400 +0000" stop="20250713074100 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713074100 +0000" stop="20250713083900 +0000" channel="49923122575716.shahid">
-        <title>El Maddah: Ostouret El Ishq Season 3 Episode 14</title>
-    </programme>
-    <programme start="20250713083900 +0000" stop="20250713093600 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 13</title>
-    </programme>
-    <programme start="20250713093600 +0000" stop="20250713102600 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713102600 +0000" stop="20250713110200 +0000" channel="49923122575716.shahid">
-        <title>Ameera Bila Taj Season 1 Episode 39</title>
-    </programme>
-    <programme start="20250713110200 +0000" stop="20250713115100 +0000" channel="49923122575716.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 4</title>
-    </programme>
-    <programme start="20250713115100 +0000" stop="20250713123800 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713123800 +0000" stop="20250713134000 +0000" channel="49923122575716.shahid">
-        <title>El Maddah: Ostouret El Ishq Season 3 Episode 14</title>
-    </programme>
-    <programme start="20250713134000 +0000" stop="20250713143400 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 13</title>
-    </programme>
-    <programme start="20250713143400 +0000" stop="20250713151900 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713151900 +0000" stop="20250713155700 +0000" channel="49923122575716.shahid">
-        <title>Ameera Bila Taj Season 1 Episode 40</title>
-    </programme>
-    <programme start="20250713155700 +0000" stop="20250713164800 +0000" channel="49923122575716.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 5</title>
-    </programme>
-    <programme start="20250713164800 +0000" stop="20250713173200 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250713173200 +0000" stop="20250713183300 +0000" channel="49923122575716.shahid">
-        <title>El Maddah: Ostouret El Ishq Season 3 Episode 15</title>
-    </programme>
-    <programme start="20250713183300 +0000" stop="20250713193400 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250713193400 +0000" stop="20250713202500 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250713202500 +0000" stop="20250713210100 +0000" channel="49923122575716.shahid">
-        <title>Ameera Bila Taj Season 1 Episode 40</title>
-    </programme>
-    <programme start="20250713210100 +0000" stop="20250713214900 +0000" channel="49923122575716.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 5</title>
-    </programme>
-    <programme start="20250713214900 +0000" stop="20250713223100 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250713223100 +0000" stop="20250713232500 +0000" channel="49923122575716.shahid">
-        <title>El Maddah: Ostouret El Ishq Season 3 Episode 15</title>
-    </programme>
-    <programme start="20250713232500 +0000" stop="20250714002100 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250714002100 +0000" stop="20250714011000 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250714011000 +0000" stop="20250714015000 +0000" channel="49923122575716.shahid">
-        <title>Ameera Bila Taj Season 1 Episode 40</title>
-    </programme>
-    <programme start="20250714015000 +0000" stop="20250714023900 +0000" channel="49923122575716.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 5</title>
-    </programme>
-    <programme start="20250714023900 +0000" stop="20250714031900 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250714031900 +0000" stop="20250714041500 +0000" channel="49923122575716.shahid">
-        <title>El Maddah: Ostouret El Ishq Season 3 Episode 15</title>
-    </programme>
-    <programme start="20250714041500 +0000" stop="20250714051100 +0000" channel="49923122575716.shahid">
-        <title>Selat Rahem Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250714051100 +0000" stop="20250714060000 +0000" channel="49923122575716.shahid">
-        <title>Nisr Al Sa&#039;eed Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250714060000 +0000" stop="20250714235959 +0000" channel="49923122575716.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250713000000 +0000" stop="20250713003000 +0000" channel="946940.shahid">
@@ -7708,6 +7708,9 @@
     <programme start="20250713000000 +0000" stop="20250714235959 +0000" channel="986014.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20250713000000 +0000" stop="20250714235959 +0000" channel="49922904934759.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250713000000 +0000" stop="20250713000000 +0000" channel="387294.shahid">
         <title>Arabs Got Talent Season 7 Clip 2</title>
     </programme>
@@ -7820,9 +7823,6 @@
         <title>Heera  </title>
     </programme>
     <programme start="20250714062000 +0000" stop="20250714235959 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250713000000 +0000" stop="20250714235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250713000000 +0000" stop="20250714235959 +0000" channel="49922763891977.shahid">
