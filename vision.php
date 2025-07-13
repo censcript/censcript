@@ -838,15 +838,6 @@
 <programme start="20250713020000 +0000" stop="20250713023000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
 </programme>
-<programme start="20250713023000 +0000" stop="20250713030000 +0000" channel="TVOne.vision">
-<title>Mimpi Itu Nyata</title>
-</programme>
-<programme start="20250713030000 +0000" stop="20250713033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20250713033000 +0000" stop="20250713040000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
-</programme>
 <programme start="20250713040000 +0000" stop="20250713053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1496,5 +1487,14 @@
 <title>BTV</title>
 </programme>
 <programme start="20250714021500 +0000" stop="20250714030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714030000 +0000" stop="20250714040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714040000 +0000" stop="20250714050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714050000 +0000" stop="20250714060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
