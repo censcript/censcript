@@ -6487,8 +6487,237 @@
 <programme start="20250713153000 +0000" stop="20250713160000 +0000" channel="Music TV HD.mncvision">
     <title>Salaam-E-Ishq</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250712171500 +0000" stop="20250712184500 +0000" channel="Muslim TV.mncvision">
+    <title>Tabligh Akbar</title>
+</programme>
+<programme start="20250712184500 +0000" stop="20250712194500 +0000" channel="Muslim TV.mncvision">
+    <title>Satu</title>
+</programme>
+<programme start="20250712194500 +0000" stop="20250712204500 +0000" channel="Muslim TV.mncvision">
+    <title>Kisah Ruqyahku</title>
+</programme>
+<programme start="20250712204500 +0000" stop="20250712220000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250712220000 +0000" stop="20250712233000 +0000" channel="Muslim TV.mncvision">
+    <title>Tabligh Akbar</title>
+</programme>
+<programme start="20250712233000 +0000" stop="20250713010000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20250713010000 +0000" stop="20250713020000 +0000" channel="Muslim TV.mncvision">
+    <title>Bintang Di Hatiku</title>
+</programme>
+<programme start="20250713020000 +0000" stop="20250713031500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250713031500 +0000" stop="20250713041500 +0000" channel="Muslim TV.mncvision">
+    <title>Aku Bukan Ustadz</title>
+</programme>
+<programme start="20250713041500 +0000" stop="20250713044500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20250713044500 +0000" stop="20250713053000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250713053000 +0000" stop="20250713063000 +0000" channel="Muslim TV.mncvision">
+    <title>Kisah Ruqyahku</title>
+</programme>
+<programme start="20250713063000 +0000" stop="20250713070000 +0000" channel="Muslim TV.mncvision">
+    <title>KSNS The Journey</title>
+</programme>
+<programme start="20250713070000 +0000" stop="20250713083000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20250713083000 +0000" stop="20250713090000 +0000" channel="Muslim TV.mncvision">
+    <title>Kajian Bioskop</title>
+</programme>
+<programme start="20250713090000 +0000" stop="20250713093000 +0000" channel="Muslim TV.mncvision">
+    <title>Para Malaikat Di Sekitar Kita</title>
+</programme>
+<programme start="20250713093000 +0000" stop="20250713100000 +0000" channel="Muslim TV.mncvision">
+    <title>Yang Tobat-Tobat Aja</title>
+</programme>
+<programme start="20250713100000 +0000" stop="20250713111500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250713111500 +0000" stop="20250713114500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20250713114500 +0000" stop="20250713115500 +0000" channel="Muslim TV.mncvision">
+    <title>Rahmatan Lil &#039;Alamin</title>
+</programme>
+<programme start="20250713115500 +0000" stop="20250713130000 +0000" channel="Muslim TV.mncvision">
+    <title>Sampeyan Muslim??</title>
+</programme>
+<programme start="20250713130000 +0000" stop="20250713143000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20250713143000 +0000" stop="20250713153000 +0000" channel="Muslim TV.mncvision">
+    <title>Cinta Anak Soleh</title>
+</programme>
+<programme start="20250713153000 +0000" stop="20250713160000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Muslim TV.mncvision">
+    <title>Yang Tobat-Tobat Aja</title>
+</programme>
+<programme start="20250713163000 +0000" stop="20250713164500 +0000" channel="Muslim TV.mncvision">
+    <title>Rahmatan Lil &#039;Alamin</title>
+</programme>
+<programme start="20250713164500 +0000" stop="20250712171500 +0000" channel="Muslim TV.mncvision">
+    <title>Para Malaikat Di Sekitar Kita</title>
+</programme>
+<programme start="20250712170000 +0000" stop="20250712171000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712171000 +0000" stop="20250712174000 +0000" channel="NHK World.mncvision">
+    <title>Blue Whirlwind: Ukrainian Sumo</title>
+</programme>
+<programme start="20250712174000 +0000" stop="20250712175500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI</title>
+</programme>
+<programme start="20250712175500 +0000" stop="20250712180000 +0000" channel="NHK World.mncvision">
+    <title>The Playfulness Of Plasterers</title>
+</programme>
+<programme start="20250712180000 +0000" stop="20250712181000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712181000 +0000" stop="20250712190000 +0000" channel="NHK World.mncvision">
+    <title>Game Planet</title>
+</programme>
+<programme start="20250712190000 +0000" stop="20250712191000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712191000 +0000" stop="20250712200000 +0000" channel="NHK World.mncvision">
+    <title>Amazing View From The Trail</title>
+</programme>
+<programme start="20250712200000 +0000" stop="20250712201000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712201000 +0000" stop="20250712204000 +0000" channel="NHK World.mncvision">
+    <title>Biz Stream</title>
+</programme>
+<programme start="20250712204000 +0000" stop="20250712205000 +0000" channel="NHK World.mncvision">
+    <title>Viewpoint Science</title>
+</programme>
+<programme start="20250712205000 +0000" stop="20250712210000 +0000" channel="NHK World.mncvision">
+    <title>Story Land</title>
+</programme>
+<programme start="20250712210000 +0000" stop="20250712211000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712211000 +0000" stop="20250712220000 +0000" channel="NHK World.mncvision">
+    <title>Cycle Around Japan</title>
+</programme>
+<programme start="20250712220000 +0000" stop="20250712221000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712221000 +0000" stop="20250712224000 +0000" channel="NHK World.mncvision">
+    <title>Blue Whirlwind: Ukrainian Sumo</title>
+</programme>
+<programme start="20250712224000 +0000" stop="20250712225500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI</title>
+</programme>
+<programme start="20250712225500 +0000" stop="20250712230000 +0000" channel="NHK World.mncvision">
+    <title>The Playfulness Of Plasterers</title>
+</programme>
+<programme start="20250712230000 +0000" stop="20250712231000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250712231000 +0000" stop="20250712234000 +0000" channel="NHK World.mncvision">
+    <title>Samurai Wisdom</title>
+</programme>
+<programme start="20250712234000 +0000" stop="20250713000000 +0000" channel="NHK World.mncvision">
+    <title>My Street Piano</title>
+</programme>
+<programme start="20250713000000 +0000" stop="20250713001000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713001000 +0000" stop="20250713010000 +0000" channel="NHK World.mncvision">
+    <title>Food: Globalized Japanese...</title>
+</programme>
+<programme start="20250713010000 +0000" stop="20250713011000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713011000 +0000" stop="20250713020000 +0000" channel="NHK World.mncvision">
+    <title>Manben: BTS Of Manga</title>
+</programme>
+<programme start="20250713020000 +0000" stop="20250713021000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713021000 +0000" stop="20250713024000 +0000" channel="NHK World.mncvision">
+    <title>J-Melo</title>
+</programme>
+<programme start="20250713024000 +0000" stop="20250713025000 +0000" channel="NHK World.mncvision">
+    <title>Little Charo</title>
+</programme>
+<programme start="20250713025000 +0000" stop="20250713025500 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus Mini</title>
+</programme>
+<programme start="20250713025500 +0000" stop="20250713030000 +0000" channel="NHK World.mncvision">
+    <title>A Cat&#039;s-Eye View Of Japan</title>
+</programme>
+<programme start="20250713030000 +0000" stop="20250713031000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713031000 +0000" stop="20250713034000 +0000" channel="NHK World.mncvision">
+    <title>Cycle Around Japan</title>
+</programme>
+<programme start="20250713034000 +0000" stop="20250713035000 +0000" channel="NHK World.mncvision">
+    <title>Story Land In Classical...</title>
+</programme>
+<programme start="20250713035000 +0000" stop="20250713040000 +0000" channel="NHK World.mncvision">
+    <title>Take Tech</title>
+</programme>
+<programme start="20250713040000 +0000" stop="20250713041000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713041000 +0000" stop="20250713045200 +0000" channel="NHK World.mncvision">
+    <title>Somewhere Street</title>
+</programme>
+<programme start="20250713045200 +0000" stop="20250713045500 +0000" channel="NHK World.mncvision">
+    <title>Time-Lapse Journey</title>
+</programme>
+<programme start="20250713045500 +0000" stop="20250713050000 +0000" channel="NHK World.mncvision">
+    <title>National Parks: Daisen-Oki</title>
+</programme>
+<programme start="20250713050000 +0000" stop="20250713051000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713051000 +0000" stop="20250713052500 +0000" channel="NHK World.mncvision">
+    <title>Ramen Japan</title>
+</programme>
+<programme start="20250713052500 +0000" stop="20250713053000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto Mini</title>
+</programme>
+<programme start="20250713053000 +0000" stop="20250713054500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese For Work</title>
+</programme>
+<programme start="20250713054500 +0000" stop="20250713060000 +0000" channel="NHK World.mncvision">
+    <title>Zero Waste Life</title>
+</programme>
+<programme start="20250713060000 +0000" stop="20250713061000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713061000 +0000" stop="20250713070000 +0000" channel="NHK World.mncvision">
+    <title>Food: Globalized Japanese...</title>
+</programme>
+<programme start="20250713070000 +0000" stop="20250713071000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713071000 +0000" stop="20250713080000 +0000" channel="NHK World.mncvision">
+    <title>Manben: BTS Of Manga</title>
+</programme>
+<programme start="20250713080000 +0000" stop="20250713081000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250713081000 +0000" stop="20250713090000 +0000" channel="NHK World.mncvision">
+    <title>Grand Sumo (L)</title>
+</programme>
+<programme start="20250713090000 +0000" stop="20250713093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
 <programme start="20250712170000 +0000" stop="20250712170500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
