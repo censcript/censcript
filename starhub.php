@@ -4280,7 +4280,7 @@
         <title>The Amundi Evian Championship Round 4</title>
     </programme>
     <programme start="20250713140000 +0000" stop="20250713170000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>ISCO Championship Round 3</title>
+        <title>ISCO Championship Round 1</title>
     </programme>
     <programme start="20250712160000 +0000" stop="20250712161500 +0000" channel="France24.starhub">
         <title>News</title>
@@ -6706,10 +6706,10 @@
     <programme start="20250713050000 +0000" stop="20250713100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX Canada Open (Super 300): Finals</title>
     </programme>
-    <programme start="20250713100000 +0000" stop="20250713133000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Day 4 Evening Session: Semi-Finals &amp; Finals</title>
+    <programme start="20250713100000 +0000" stop="20250713120000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>The HSBC Championships (500) Final</title>
     </programme>
-    <programme start="20250713133000 +0000" stop="20250713190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250713120000 +0000" stop="20250713180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Genesis Scottish Open Day 4</title>
     </programme>
     <programme start="20250712141500 +0000" stop="20250712161900 +0000" channel="SONY MAX.starhub">

@@ -2638,8 +2638,8 @@
 <programme start="20250713213000 +0000" stop="20250713233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Freiburg - Borussia Dortmund, 28. Spieltag</title>
 </programme>
-<programme start="20250712220000 +0000" stop="20250713003000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Live IndyCar: Synk 275</title>
+<programme start="20250712233000 +0000" stop="20250713003000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Indy NXT: Indy NXT by Firestone at Iowa Speedway</title>
 </programme>
 <programme start="20250713003000 +0000" stop="20250713020000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: EKO Rally Acropolis Greece - SS17 Tarzan 2 (Wolf Power Stage)</title>
@@ -2689,22 +2689,22 @@
 <programme start="20250713210000 +0000" stop="20250713230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250712230000 +0000" stop="20250713020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250712224500 +0000" stop="20250713014500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Amundi Evian Championship, 3. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
-<programme start="20250713020000 +0000" stop="20250713023000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250713014500 +0000" stop="20250713021500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Chronicles of A Champion Golfer - Paul Lawrie</title>
 </programme>
-<programme start="20250713023000 +0000" stop="20250713050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: ISCO Championship, 3. Tag in Louisville, KY (USA)</title>
-</programme>
-<programme start="20250713050000 +0000" stop="20250713053000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250713021500 +0000" stop="20250713024500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Korn Ferry Tour: Bound for Greatness</title>
 </programme>
-<programme start="20250713053000 +0000" stop="20250713060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250713024500 +0000" stop="20250713031500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Korn Ferry Tour: Re-Bound</title>
 </programme>
-<programme start="20250713060000 +0000" stop="20250713090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250713031500 +0000" stop="20250713035000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Chronicles of A Champion Golfer - Paul Lawrie</title>
+</programme>
+<programme start="20250713035000 +0000" stop="20250713090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Genesis Scottish Open, 3. Tag in North Berwick (Schottland)</title>
 </programme>
 <programme start="20250713090000 +0000" stop="20250713133000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2995,8 +2995,11 @@
 <programme start="20250713210000 +0000" stop="20250713230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Rublev - F. Cobolli (ITA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
+<programme start="20250712220000 +0000" stop="20250712233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live IndyCar: Synk 275</title>
+</programme>
 <programme start="20250712233000 +0000" stop="20250713003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Qualifying - GP Deutschland</title>
+    <title>Indy NXT: Indy NXT by Firestone at Iowa Speedway</title>
 </programme>
 <programme start="20250713003000 +0000" stop="20250713013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Deutschland</title>
@@ -3058,7 +3061,7 @@
 <programme start="20250713074000 +0000" stop="20250713080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250713080000 +0000" stop="20250713140000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250713080000 +0000" stop="20250713160000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Golf: The Amundi Evian Championship, 4. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250712225000 +0000" stop="20250713010000 +0000" channel="SYFY HD.skyde">
