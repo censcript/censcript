@@ -655,6 +655,9 @@
 <programme start="20250714110000 +0000" stop="20250714120000 +0000" channel="Trans 7.vision">
 <title>Trans 7</title>
 </programme>
+<programme start="20250712230000 +0000" stop="20250713010000 +0000" channel="ANTV.vision">
+<title>Angkara Membara</title>
+</programme>
 <programme start="20250713010000 +0000" stop="20250713023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250714011500 +0000" stop="20250714021500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250714021500 +0000" stop="20250714030000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
