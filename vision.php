@@ -658,9 +658,6 @@
 <programme start="20250713010000 +0000" stop="20250713023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250713023000 +0000" stop="20250713060000 +0000" channel="ANTV.vision">
-<title>Dhoom 3</title>
-</programme>
 <programme start="20250713060000 +0000" stop="20250713084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250714050000 +0000" stop="20250714060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250714060000 +0000" stop="20250714070000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
