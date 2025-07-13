@@ -1,9 +1,3 @@
-    <programme start="20250713184930 +0000" stop="20250713211000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - England v Wales</title>
-    </programme>
-    <programme start="20250713184930 +0000" stop="20250713211000 +0000" channel="Optus Sport 4.optus">
-        <title>UEFA Women&#039;s Championship - Netherlands v France</title>
-    </programme>
     <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="Optus Sport 11.optus">
         <title>N/A - PL Stories: Keep it in the Family</title>
     </programme>
