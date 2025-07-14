@@ -2702,7 +2702,7 @@
     <title>F1: Best Onboards: Sebastian Vettel</title>
 </programme>
 <programme start="20250714063000 +0000" stop="20250714080000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: Training in Newton, Iowa</title>
+    <title>WRC: EKO Rally Acropolis Greece - SS17 Tarzan 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20250714080000 +0000" stop="20250714090000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Newton, Iowa</title>
@@ -3052,13 +3052,13 @@
 <programme start="20250714203000 +0000" stop="20250714223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Topspiel</title>
 </programme>
-<programme start="20250713230000 +0000" stop="20250714000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250713223000 +0000" stop="20250713233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Deutschland</title>
 </programme>
-<programme start="20250714000000 +0000" stop="20250714010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250713233000 +0000" stop="20250714003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Deutschland</title>
 </programme>
-<programme start="20250714010000 +0000" stop="20250714040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250714003000 +0000" stop="20250714040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: The Amundi Evian Championship, 4. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250714040000 +0000" stop="20250714043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3145,7 +3145,7 @@
 <programme start="20250714111000 +0000" stop="20250714113000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250714113000 +0000" stop="20250714173000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250714113000 +0000" stop="20250714193000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 1. Tag</title>
 </programme>
 <programme start="20250713225000 +0000" stop="20250714001500 +0000" channel="SYFY HD.skyde">

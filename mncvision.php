@@ -1420,6 +1420,12 @@
 <programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3.mncvision">
     <title>LaLiga Specials 2024/25</title>
 </programme>
+<programme start="20250714153000 +0000" stop="20250714154800 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250714154800 +0000" stop="20250714161800 +0000" channel="beIN Sports 3.mncvision">
+    <title>World Rugby U20 C&#039;ship 2025 (L)</title>
+</programme>
 <programme start="20250713180000 +0000" stop="20250713183000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Champions Of The Water 2025</title>
 </programme>
@@ -1479,6 +1485,12 @@
 </programme>
 <programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250714153000 +0000" stop="20250714154800 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250714154800 +0000" stop="20250714161800 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>World Rugby U20 C&#039;ship 2025 (L)</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713200000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>

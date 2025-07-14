@@ -8329,14 +8329,23 @@
     <programme start="20250713163000 +0000" stop="20250713220000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250713220000 +0000" stop="20250714040000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250713233000 +0000" stop="20250714013500 +0000" channel="Asianet Movies.starhub">
+        <title>Panthayakkozhi</title>
     </programme>
-    <programme start="20250714040000 +0000" stop="20250714100000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250714013500 +0000" stop="20250714043000 +0000" channel="Asianet Movies.starhub">
+        <title>Pulival Kalyanam</title>
     </programme>
-    <programme start="20250714100000 +0000" stop="20250714163000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250714043000 +0000" stop="20250714074500 +0000" channel="Asianet Movies.starhub">
+        <title>Kochi Rajavu</title>
+    </programme>
+    <programme start="20250714074500 +0000" stop="20250714102000 +0000" channel="Asianet Movies.starhub">
+        <title>Vaazha</title>
+    </programme>
+    <programme start="20250714102000 +0000" stop="20250714133000 +0000" channel="Asianet Movies.starhub">
+        <title>RRR</title>
+    </programme>
+    <programme start="20250714133000 +0000" stop="20250714164000 +0000" channel="Asianet Movies.starhub">
+        <title>Jaya Jaya Jaya Jaya Hey</title>
     </programme>
     <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Astro Warna HD.starhub">
         <title>Jihan Show</title>
