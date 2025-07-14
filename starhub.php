@@ -3047,7 +3047,7 @@
         <title>Arts.21</title>
     </programme>
     <programme start="20250714063000 +0000" stop="20250714070000 +0000" channel="ANC.starhub">
-        <title>America&#039;s Hidden History</title>
+        <title>ANC Spotlight 2</title>
     </programme>
     <programme start="20250714070000 +0000" stop="20250714080000 +0000" channel="ANC.starhub">
         <title>Market Edge</title>
@@ -3055,11 +3055,11 @@
     <programme start="20250714080000 +0000" stop="20250714083000 +0000" channel="ANC.starhub">
         <title>The A-List</title>
     </programme>
-    <programme start="20250714083000 +0000" stop="20250714090000 +0000" channel="ANC.starhub">
-        <title>My Italy With Margarita</title>
-    </programme>
-    <programme start="20250714090000 +0000" stop="20250714100000 +0000" channel="ANC.starhub">
+    <programme start="20250714083000 +0000" stop="20250714093000 +0000" channel="ANC.starhub">
         <title>Top Story</title>
+    </programme>
+    <programme start="20250714093000 +0000" stop="20250714100000 +0000" channel="ANC.starhub">
+        <title>My Italy With Margarita</title>
     </programme>
     <programme start="20250714100000 +0000" stop="20250714103000 +0000" channel="ANC.starhub">
         <title>Executive Class</title>
@@ -5374,10 +5374,10 @@
     <programme start="20250714030000 +0000" stop="20250714060000 +0000" channel="SPOTV.starhub">
         <title>Prosecco DOC UK Round: Race 2</title>
     </programme>
-    <programme start="20250714060000 +0000" stop="20250714083000 +0000" channel="SPOTV.starhub">
+    <programme start="20250714060000 +0000" stop="20250714084500 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250714083000 +0000" stop="20250714133000 +0000" channel="SPOTV.starhub">
+    <programme start="20250714084500 +0000" stop="20250714133000 +0000" channel="SPOTV.starhub">
         <title>Ladies&#039; Doubles and Gentlemen&#039;s Singles Finals</title>
     </programme>
     <programme start="20250714133000 +0000" stop="20250714143000 +0000" channel="SPOTV.starhub">
