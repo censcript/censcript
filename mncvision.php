@@ -4138,87 +4138,7 @@
 <programme start="20250715153000 +0000" stop="20250715160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
 </programme>
-<programme start="20250714180000 +0000" stop="20250714183000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
-</programme>
-<programme start="20250714183000 +0000" stop="20250714190000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Dagelan Mbah Minto</title>
-</programme>
-<programme start="20250714190000 +0000" stop="20250714200000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Nyi Roro Kidul</title>
-</programme>
-<programme start="20250714200000 +0000" stop="20250714210000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250714210000 +0000" stop="20250714213000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250714213000 +0000" stop="20250714220000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250714220000 +0000" stop="20250714230000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jaka Tarub &amp; 7 Bidadari</title>
-</programme>
-<programme start="20250714230000 +0000" stop="20250715000000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ken Arok</title>
-</programme>
-<programme start="20250715000000 +0000" stop="20250715010000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250715010000 +0000" stop="20250715030000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
-</programme>
-<programme start="20250715030000 +0000" stop="20250715040000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ken Arok</title>
-</programme>
-<programme start="20250715040000 +0000" stop="20250715043000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kaca Benggala</title>
-</programme>
-<programme start="20250715043000 +0000" stop="20250715053000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Nyi Roro Kidul</title>
-</programme>
-<programme start="20250715053000 +0000" stop="20250715063000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250715063000 +0000" stop="20250715073000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jaka Tarub &amp; 7 Bidadari</title>
-</programme>
-<programme start="20250715073000 +0000" stop="20250715083000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250715083000 +0000" stop="20250715090000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Dagelan Mbah Minto</title>
-</programme>
-<programme start="20250715090000 +0000" stop="20250715100000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ken Arok</title>
-</programme>
-<programme start="20250715100000 +0000" stop="20250715103000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kaca Benggala</title>
-</programme>
-<programme start="20250715103000 +0000" stop="20250715110000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250715110000 +0000" stop="20250715120000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250715120000 +0000" stop="20250715123000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250715123000 +0000" stop="20250715133000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kendi Air Zam Zam Ki Cokrojoyo</title>
-</programme>
-<programme start="20250715133000 +0000" stop="20250715140000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
-</programme>
-<programme start="20250715140000 +0000" stop="20250715150000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Nyi Roro Kidul</title>
-</programme>
-<programme start="20250715150000 +0000" stop="20250715160000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250715160000 +0000" stop="20250715163000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250714170500 +0000" stop="20250714173500 +0000" channel="History.mncvision">
     <title>Storage Wars S14, Ep 308</title>
 </programme>
@@ -9262,54 +9182,7 @@
 <programme start="20250715163000 +0000" stop="20250714170000 +0000" channel="Trans 7.mncvision">
     <title>Newstainment</title>
 </programme>
-<programme start="20250714180000 +0000" stop="20250714220000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia Connected</title>
-</programme>
-<programme start="20250714220000 +0000" stop="20250714233000 +0000" channel="Trans TV.mncvision">
-    <title>Islam Itu Indah</title>
-</programme>
-<programme start="20250714233000 +0000" stop="20250715003000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Pagi (L)</title>
-</programme>
-<programme start="20250715003000 +0000" stop="20250715013000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia Good Morning</title>
-</programme>
-<programme start="20250715013000 +0000" stop="20250715033000 +0000" channel="Trans TV.mncvision">
-    <title>Pagi-Pagi Ambyar</title>
-</programme>
-<programme start="20250715033000 +0000" stop="20250715053000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Siang</title>
-</programme>
-<programme start="20250715053000 +0000" stop="20250715070000 +0000" channel="Trans TV.mncvision">
-    <title>Brownis (Obrowlan Manis)</title>
-</programme>
-<programme start="20250715070000 +0000" stop="20250715080000 +0000" channel="Trans TV.mncvision">
-    <title>Rumpi: No Secret</title>
-</programme>
-<programme start="20250715080000 +0000" stop="20250715090000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Today</title>
-</programme>
-<programme start="20250715090000 +0000" stop="20250715093000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20250715093000 +0000" stop="20250715103000 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
-</programme>
-<programme start="20250715103000 +0000" stop="20250715114500 +0000" channel="Trans TV.mncvision">
-    <title>Bikin Laper</title>
-</programme>
-<programme start="20250715114500 +0000" stop="20250715130000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Story</title>
-</programme>
-<programme start="20250715130000 +0000" stop="20250715140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20250715140000 +0000" stop="20250715160000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20250715160000 +0000" stop="20250715163000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250714194500 +0000" stop="20250714204500 +0000" channel="tvN.mncvision">
     <title>Walking Through Village, Ep 1</title>
 </programme>
