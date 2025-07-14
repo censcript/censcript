@@ -22,6 +22,9 @@
     <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shonan v Cerezo</title>
     </programme>
+    <programme start="20250719185000 +0000" stop="20250719221000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - France v Germany</title>
+    </programme>
     <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Kashiwa</title>
     </programme>
