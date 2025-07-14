@@ -2053,7 +2053,7 @@
     <programme start="20250714153000 +0000" stop="20250714154800 +0000" channel="beIN Sports 3.starhub">
         <title>Best Goalkeeper</title>
     </programme>
-    <programme start="20250714154800 +0000" stop="20250714173000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250714154800 +0000" stop="20250714180000 +0000" channel="beIN Sports 3.starhub">
         <title>World Rugby U20 Championship 2025 France vs New Zealand</title>
     </programme>
     <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Sun Music.starhub">
@@ -2330,7 +2330,7 @@
         <title>Mini Match - Roland Garros 2025: Women&#039;s Doubles Final Paolini/Errani v Krunic/D</title>
     </programme>
     <programme start="20250714153000 +0000" stop="20250714173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad Day 1 Match 4</title>
+        <title>ATP Tour 250 2025: Gstaad Day 1 Herbert v Stricker</title>
     </programme>
     <programme start="20250713160000 +0000" stop="20250713170000 +0000" channel="TVB Xing He.starhub">
         <title>Young Charioteers</title>
@@ -8329,11 +8329,17 @@
     <programme start="20250714150000 +0000" stop="20250714160000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250713153000 +0000" stop="20250713163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250713153000 +0000" stop="20250713162000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20250713163000 +0000" stop="20250713220000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250713162000 +0000" stop="20250713190000 +0000" channel="Asianet Movies.starhub">
+        <title>Nerariyan C.B.I.</title>
+    </programme>
+    <programme start="20250713190000 +0000" stop="20250713211000 +0000" channel="Asianet Movies.starhub">
+        <title>Aattam</title>
+    </programme>
+    <programme start="20250713211000 +0000" stop="20250713233000 +0000" channel="Asianet Movies.starhub">
+        <title>Sooryan</title>
     </programme>
     <programme start="20250713233000 +0000" stop="20250714013500 +0000" channel="Asianet Movies.starhub">
         <title>Panthayakkozhi</title>

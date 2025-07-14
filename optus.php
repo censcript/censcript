@@ -4,6 +4,9 @@
     <programme start="20250716185000 +0000" stop="20250716221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Norway v Italy</title>
     </programme>
+    <programme start="20250717185000 +0000" stop="20250717221000 +0000" channel="Optus Sport 3.optus">
+        <title>UEFA Women&#039;s Championship - Sweden v England</title>
+    </programme>
     <programme start="20250718102000 +0000" stop="20250718124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Suwon FC v Gwangju</title>
     </programme>

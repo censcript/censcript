@@ -3145,7 +3145,7 @@
 <programme start="20250714111000 +0000" stop="20250714113000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250714113000 +0000" stop="20250714173000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250714113000 +0000" stop="20250714193000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 1. Tag</title>
 </programme>
 <programme start="20250713225000 +0000" stop="20250714001500 +0000" channel="SYFY HD.skyde">
@@ -3237,6 +3237,102 @@
 </programme>
 <programme start="20250714213500 +0000" stop="20250714222000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250713220000 +0000" stop="20250713225000 +0000" channel="Universal TV HD.skyde">
+    <title>Matlock</title>
+</programme>
+<programme start="20250713225000 +0000" stop="20250713231000 +0000" channel="Universal TV HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20250713231000 +0000" stop="20250713235500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250713235500 +0000" stop="20250714003500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714003500 +0000" stop="20250714011500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714011500 +0000" stop="20250714015500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714015500 +0000" stop="20250714023500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714023500 +0000" stop="20250714031500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714031500 +0000" stop="20250714035500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714035500 +0000" stop="20250714044000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714044000 +0000" stop="20250714053000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714053000 +0000" stop="20250714061500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714061500 +0000" stop="20250714070000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714070000 +0000" stop="20250714074500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714074500 +0000" stop="20250714083000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20250714083000 +0000" stop="20250714091500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20250714091500 +0000" stop="20250714100000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714100000 +0000" stop="20250714104500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714104500 +0000" stop="20250714113500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714113500 +0000" stop="20250714122000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714122000 +0000" stop="20250714130500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714130500 +0000" stop="20250714135500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250714135500 +0000" stop="20250714150000 +0000" channel="Universal TV HD.skyde">
+    <title>Outlander</title>
+</programme>
+<programme start="20250714150000 +0000" stop="20250714160000 +0000" channel="Universal TV HD.skyde">
+    <title>Outlander</title>
+</programme>
+<programme start="20250714160000 +0000" stop="20250714164500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20250714164500 +0000" stop="20250714173000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20250714173000 +0000" stop="20250714181500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20250714181500 +0000" stop="20250714190000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20250714190000 +0000" stop="20250714194500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250714194500 +0000" stop="20250714203000 +0000" channel="Universal TV HD.skyde">
+    <title>Matlock</title>
+</programme>
+<programme start="20250714203000 +0000" stop="20250714211500 +0000" channel="Universal TV HD.skyde">
+    <title>Matlock</title>
+</programme>
+<programme start="20250714211500 +0000" stop="20250714220000 +0000" channel="Universal TV HD.skyde">
+    <title>Matlock</title>
 </programme>
 <programme start="20250713221500 +0000" stop="20250713224000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
