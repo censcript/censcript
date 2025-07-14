@@ -398,7 +398,7 @@
     <title>The Killer</title>
 </programme>
 <programme start="20250713200000 +0000" stop="20250713213000 +0000" channel="ANTV.mncvision">
-    <title>Tragedi Bintaro</title>
+    <title>Catatan Si Boy 1</title>
 </programme>
 <programme start="20250713213000 +0000" stop="20250713220000 +0000" channel="ANTV.mncvision">
     <title>Nadin</title>
@@ -1408,14 +1408,17 @@
 <programme start="20250714110000 +0000" stop="20250714113000 +0000" channel="beIN Sports 3.mncvision">
     <title>LaLiga Specials 2024/25</title>
 </programme>
-<programme start="20250714113000 +0000" stop="20250714133000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250714113000 +0000" stop="20250714123000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
-<programme start="20250714133000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250714123000 +0000" stop="20250714143000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
-<programme start="20250714153000 +0000" stop="20250714160000 +0000" channel="beIN Sports 3.mncvision">
-    <title>ATP Tour 250 2025: Bastad (L)</title>
+<programme start="20250714143000 +0000" stop="20250714150000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Specials 2024/25</title>
 </programme>
 <programme start="20250713180000 +0000" stop="20250713183000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Champions Of The Water 2025</title>
@@ -1465,14 +1468,17 @@
 <programme start="20250714110000 +0000" stop="20250714113000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>LaLiga Specials 2024/25</title>
 </programme>
-<programme start="20250714113000 +0000" stop="20250714133000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250714113000 +0000" stop="20250714123000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
-<programme start="20250714133000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250714123000 +0000" stop="20250714143000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
-<programme start="20250714153000 +0000" stop="20250714160000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>ATP Tour 250 2025: Bastad (L)</title>
+<programme start="20250714143000 +0000" stop="20250714150000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713200000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
@@ -4736,43 +4742,40 @@
     <title>Mama &amp; Aa Beraksi</title>
 </programme>
 <programme start="20250713213000 +0000" stop="20250713230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250713230000 +0000" stop="20250714010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250714010000 +0000" stop="20250714030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250714030000 +0000" stop="20250714040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250714040000 +0000" stop="20250714043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250714043000 +0000" stop="20250714050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250714050000 +0000" stop="20250714063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250714063000 +0000" stop="20250714080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250714080000 +0000" stop="20250714100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20250714100000 +0000" stop="20250714120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250714120000 +0000" stop="20250714140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250714120000 +0000" stop="20250714150000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250714140000 +0000" stop="20250714163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20250714163000 +0000" stop="20250713170000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713190000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4784,43 +4787,40 @@
     <title>Mama &amp; Aa Beraksi</title>
 </programme>
 <programme start="20250713213000 +0000" stop="20250713230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250713230000 +0000" stop="20250714010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250714010000 +0000" stop="20250714030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250714030000 +0000" stop="20250714040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250714040000 +0000" stop="20250714043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250714043000 +0000" stop="20250714050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250714050000 +0000" stop="20250714063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250714063000 +0000" stop="20250714080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250714080000 +0000" stop="20250714100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20250714100000 +0000" stop="20250714120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250714120000 +0000" stop="20250714140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250714120000 +0000" stop="20250714150000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250714140000 +0000" stop="20250714163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20250714163000 +0000" stop="20250713170000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713173000 +0000" channel="iNews.mncvision">
     <title>Realita</title>
@@ -5749,73 +5749,213 @@
 <programme start="20250714163500 +0000" stop="20250713170500 +0000" channel="Love Nature HD.mncvision">
     <title>Wildlife ER S3, Ep 6</title>
 </programme>
-<programme start="20250713184500 +0000" stop="20250713193500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713183500 +0000" stop="20250713203500 +0000" channel="MDTV.mncvision">
+    <title>Cahaya Cinta</title>
 </programme>
-<programme start="20250713193500 +0000" stop="20250713202500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713203500 +0000" stop="20250713220000 +0000" channel="MDTV.mncvision">
+    <title>Di Balik Mitos</title>
 </programme>
-<programme start="20250713202500 +0000" stop="20250713215500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="MDTV.mncvision">
+    <title>Top Spot</title>
 </programme>
-<programme start="20250713215500 +0000" stop="20250713230000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713230000 +0000" stop="20250713235000 +0000" channel="MDTV.mncvision">
+    <title>Dinoman</title>
 </programme>
-<programme start="20250713230000 +0000" stop="20250714000000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713235000 +0000" stop="20250714005500 +0000" channel="MDTV.mncvision">
+    <title>All Hail King Julien</title>
 </programme>
-<programme start="20250714000000 +0000" stop="20250714010500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714005500 +0000" stop="20250714020500 +0000" channel="MDTV.mncvision">
+    <title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
-<programme start="20250714010500 +0000" stop="20250714020000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
-</programme>
-<programme start="20250714020000 +0000" stop="20250714030000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714020500 +0000" stop="20250714030000 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
 </programme>
 <programme start="20250714030000 +0000" stop="20250714040000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>New SensasiHot</title>
 </programme>
 <programme start="20250714040000 +0000" stop="20250714053000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>Cerita Nyata</title>
 </programme>
 <programme start="20250714053000 +0000" stop="20250714063000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>Cinta Fitri S3</title>
 </programme>
 <programme start="20250714063000 +0000" stop="20250714073000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>Makan Enak</title>
 </programme>
 <programme start="20250714073000 +0000" stop="20250714083000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>Masak Gesss!!!</title>
 </programme>
 <programme start="20250714083000 +0000" stop="20250714093000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20250714093000 +0000" stop="20250714100000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714093000 +0000" stop="20250714105500 +0000" channel="MDTV.mncvision">
+    <title>Mozachiko</title>
 </programme>
-<programme start="20250714100000 +0000" stop="20250714105500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714105500 +0000" stop="20250714122000 +0000" channel="MDTV.mncvision">
+    <title>Dia Anakku</title>
 </programme>
-<programme start="20250714105500 +0000" stop="20250714122500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714122000 +0000" stop="20250714134000 +0000" channel="MDTV.mncvision">
+    <title>Nada Cinta</title>
 </programme>
-<programme start="20250714122500 +0000" stop="20250714134000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714134000 +0000" stop="20250714150000 +0000" channel="MDTV.mncvision">
+    <title>Kupu Malam</title>
 </programme>
-<programme start="20250714134000 +0000" stop="20250714145500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714150000 +0000" stop="20250714160000 +0000" channel="MDTV.mncvision">
+    <title>Whats Wrong With Secretary...</title>
 </programme>
-<programme start="20250714145500 +0000" stop="20250714155000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="MDTV.mncvision">
+    <title>The World Of Married</title>
 </programme>
-<programme start="20250714155000 +0000" stop="20250714164500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713170000 +0000" stop="20250713170500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
 </programme>
-<programme start="20250714164500 +0000" stop="20250713171500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20250713170500 +0000" stop="20250713173000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250713173000 +0000" stop="20250713180000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250713180000 +0000" stop="20250713180500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250713180500 +0000" stop="20250713183000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250713183000 +0000" stop="20250713184500 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250713184500 +0000" stop="20250713190000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250713190000 +0000" stop="20250713190500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250713190500 +0000" stop="20250713193000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20250713193000 +0000" stop="20250713200000 +0000" channel="Metro TV.mncvision">
+    <title>Authentic Indonesia</title>
+</programme>
+<programme start="20250713200000 +0000" stop="20250713200500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250713200500 +0000" stop="20250713203000 +0000" channel="Metro TV.mncvision">
+    <title>Metro This Week</title>
+</programme>
+<programme start="20250713203000 +0000" stop="20250713210000 +0000" channel="Metro TV.mncvision">
+    <title>Gaspoll</title>
+</programme>
+<programme start="20250713210000 +0000" stop="20250713210500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250713210500 +0000" stop="20250713213000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250713213000 +0000" stop="20250713220000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20250713220000 +0000" stop="20250713220500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250713220500 +0000" stop="20250713223000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250713223000 +0000" stop="20250713230000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250713230000 +0000" stop="20250713230500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250713230500 +0000" stop="20250713233000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20250713233000 +0000" stop="20250714000000 +0000" channel="Metro TV.mncvision">
+    <title>Go Healthy</title>
+</programme>
+<programme start="20250714000000 +0000" stop="20250714000500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250714000500 +0000" stop="20250714003000 +0000" channel="Metro TV.mncvision">
+    <title>Editorial Media Indonesia</title>
+</programme>
+<programme start="20250714003000 +0000" stop="20250714010000 +0000" channel="Metro TV.mncvision">
+    <title>The One</title>
+</programme>
+<programme start="20250714010000 +0000" stop="20250714010500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250714010500 +0000" stop="20250714013000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20250714013000 +0000" stop="20250714015500 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250714015500 +0000" stop="20250714020000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250714020000 +0000" stop="20250714020500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250714020500 +0000" stop="20250714023000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250714023000 +0000" stop="20250714030000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250714030000 +0000" stop="20250714030500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250714030500 +0000" stop="20250714033000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20250714033000 +0000" stop="20250714040000 +0000" channel="Metro TV.mncvision">
+    <title>Zona Bisnis</title>
+</programme>
+<programme start="20250714040000 +0000" stop="20250714040500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250714040500 +0000" stop="20250714043000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20250714043000 +0000" stop="20250714050000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250714050000 +0000" stop="20250714053000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250714053000 +0000" stop="20250714055500 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250714055500 +0000" stop="20250714060000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250714060000 +0000" stop="20250714062500 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250714062500 +0000" stop="20250714063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20250714063000 +0000" stop="20250714065500 +0000" channel="Metro TV.mncvision">
+    <title>Prioritas Indonesia</title>
+</programme>
+<programme start="20250714065500 +0000" stop="20250714070000 +0000" channel="Metro TV.mncvision">
+    <title>Prioritas Indonesia</title>
+</programme>
+<programme start="20250714070000 +0000" stop="20250714070500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20250714070500 +0000" stop="20250714072500 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20250714072500 +0000" stop="20250714073000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20250714073000 +0000" stop="20250714075500 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20250714075500 +0000" stop="20250714082500 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
 <programme start="20250713170000 +0000" stop="20250713173000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
 </programme>
@@ -7820,50 +7960,50 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250713201500 +0000" stop="20250713210000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250713210000 +0000" stop="20250713213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250713210000 +0000" stop="20250713212400 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250713213000 +0000" stop="20250713230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250713212400 +0000" stop="20250713225800 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250713230000 +0000" stop="20250713233000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250713225800 +0000" stop="20250714000500 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250713233000 +0000" stop="20250714000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714000500 +0000" stop="20250714013600 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250714000000 +0000" stop="20250714013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714013600 +0000" stop="20250714030400 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250714013000 +0000" stop="20250714030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714030400 +0000" stop="20250714050300 +0000" channel="SCTV.mncvision">
+    <title>Kapan Nikah? Vs Doain Aja</title>
 </programme>
-<programme start="20250714030000 +0000" stop="20250714050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714050300 +0000" stop="20250714053600 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250714050000 +0000" stop="20250714053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714053600 +0000" stop="20250714064500 +0000" channel="SCTV.mncvision">
+    <title>Preman Pasar Itu Ayahku</title>
 </programme>
-<programme start="20250714053000 +0000" stop="20250714071500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714064500 +0000" stop="20250714080100 +0000" channel="SCTV.mncvision">
+    <title>Santri Pilihan Bunda</title>
 </programme>
-<programme start="20250714071500 +0000" stop="20250714081500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714080100 +0000" stop="20250714100000 +0000" channel="SCTV.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250714081500 +0000" stop="20250714100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714100000 +0000" stop="20250714120900 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250714100000 +0000" stop="20250714114500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714120900 +0000" stop="20250714132500 +0000" channel="SCTV.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250714114500 +0000" stop="20250714140000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714132500 +0000" stop="20250714144100 +0000" channel="SCTV.mncvision">
+    <title>Seharum Cinta Melati</title>
 </programme>
-<programme start="20250714140000 +0000" stop="20250714160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714144100 +0000" stop="20250714160900 +0000" channel="SCTV.mncvision">
+    <title>Luka Cinta</title>
 </programme>
-<programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250714160900 +0000" stop="20250714163900 +0000" channel="SCTV.mncvision">
+    <title>Jatuh Cinta Kedua Kali</title>
 </programme>
 <programme start="20250713180000 +0000" stop="20250713190000 +0000" channel="SCTV HD.mncvision">
     <title>Gebetan Cinta Di Balapan...</title>
@@ -7874,50 +8014,50 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250713201500 +0000" stop="20250713210000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250713210000 +0000" stop="20250713213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250713210000 +0000" stop="20250713212400 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250713213000 +0000" stop="20250713230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250713212400 +0000" stop="20250713225800 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250713230000 +0000" stop="20250713233000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250713225800 +0000" stop="20250714000500 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250713233000 +0000" stop="20250714000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714000500 +0000" stop="20250714013600 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250714000000 +0000" stop="20250714013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714013600 +0000" stop="20250714030400 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250714013000 +0000" stop="20250714030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714030400 +0000" stop="20250714050300 +0000" channel="SCTV HD.mncvision">
+    <title>Kapan Nikah? Vs Doain Aja</title>
 </programme>
-<programme start="20250714030000 +0000" stop="20250714050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714050300 +0000" stop="20250714053600 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250714050000 +0000" stop="20250714053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714053600 +0000" stop="20250714064500 +0000" channel="SCTV HD.mncvision">
+    <title>Preman Pasar Itu Ayahku</title>
 </programme>
-<programme start="20250714053000 +0000" stop="20250714071500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714064500 +0000" stop="20250714080100 +0000" channel="SCTV HD.mncvision">
+    <title>Santri Pilihan Bunda</title>
 </programme>
-<programme start="20250714071500 +0000" stop="20250714081500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714080100 +0000" stop="20250714100000 +0000" channel="SCTV HD.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250714081500 +0000" stop="20250714100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714100000 +0000" stop="20250714120900 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250714100000 +0000" stop="20250714114500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714120900 +0000" stop="20250714132500 +0000" channel="SCTV HD.mncvision">
+    <title>Ketika Cinta Memanggilmu</title>
 </programme>
-<programme start="20250714114500 +0000" stop="20250714140000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714132500 +0000" stop="20250714144100 +0000" channel="SCTV HD.mncvision">
+    <title>Seharum Cinta Melati</title>
 </programme>
-<programme start="20250714140000 +0000" stop="20250714160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714144100 +0000" stop="20250714160900 +0000" channel="SCTV HD.mncvision">
+    <title>Luka Cinta</title>
 </programme>
-<programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250714160900 +0000" stop="20250714163900 +0000" channel="SCTV HD.mncvision">
+    <title>Jatuh Cinta Kedua Kali</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713173000 +0000" channel="SEA TODAY.mncvision">
     <title>The New Zealanders</title>
@@ -8526,13 +8666,19 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>BRI Liga 1: PSB Vs PSS</title>
 </programme>
 <programme start="20250714050000 +0000" stop="20250714070000 +0000" channel="Sportstars 4.mncvision">
-    <title>Bundesliga</title>
+    <title>Liga 2: JOG Vs DTS</title>
 </programme>
-<programme start="20250714070000 +0000" stop="20250714090000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2: PSB Vs RFC</title>
+<programme start="20250714070000 +0000" stop="20250714073000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sportrivia</title>
 </programme>
-<programme start="20250714090000 +0000" stop="20250714110000 +0000" channel="Sportstars 4.mncvision">
-    <title>UEFA Nations League</title>
+<programme start="20250714073000 +0000" stop="20250714080000 +0000" channel="Sportstars 4.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250714080000 +0000" stop="20250714081500 +0000" channel="Sportstars 4.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250714081500 +0000" stop="20250714110000 +0000" channel="Sportstars 4.mncvision">
+    <title>The C&#039;ships Wimbledon 2025</title>
 </programme>
 <programme start="20250714110000 +0000" stop="20250714130000 +0000" channel="Sportstars 4.mncvision">
     <title>BRI Liga 1: DWU Vs PSM</title>
@@ -8562,13 +8708,19 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>BRI Liga 1: PSB Vs PSS</title>
 </programme>
 <programme start="20250714050000 +0000" stop="20250714070000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
+    <title>Liga 2: JOG Vs DTS</title>
 </programme>
-<programme start="20250714070000 +0000" stop="20250714090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: PSB Vs RFC</title>
+<programme start="20250714070000 +0000" stop="20250714073000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Sportrivia</title>
 </programme>
-<programme start="20250714090000 +0000" stop="20250714110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>UEFA Nations League</title>
+<programme start="20250714073000 +0000" stop="20250714080000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250714080000 +0000" stop="20250714081500 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250714081500 +0000" stop="20250714110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>The C&#039;ships Wimbledon 2025</title>
 </programme>
 <programme start="20250714110000 +0000" stop="20250714130000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>BRI Liga 1: DWU Vs PSM</title>
@@ -8654,10 +8806,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250714030000 +0000" stop="20250714060000 +0000" channel="SPOTV.mncvision">
     <title>2025 WorldSBK C&#039;ship</title>
 </programme>
-<programme start="20250714060000 +0000" stop="20250714083000 +0000" channel="SPOTV.mncvision">
+<programme start="20250714060000 +0000" stop="20250714084500 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250714083000 +0000" stop="20250714133000 +0000" channel="SPOTV.mncvision">
+<programme start="20250714084500 +0000" stop="20250714133000 +0000" channel="SPOTV.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25</title>
 </programme>
 <programme start="20250714133000 +0000" stop="20250714143000 +0000" channel="SPOTV.mncvision">
@@ -8768,10 +8920,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250714030000 +0000" stop="20250714060000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 WorldSBK C&#039;ship</title>
 </programme>
-<programme start="20250714060000 +0000" stop="20250714083000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250714060000 +0000" stop="20250714084500 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250714083000 +0000" stop="20250714133000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250714084500 +0000" stop="20250714133000 +0000" channel="SPOTV HD.mncvision">
     <title>The C&#039;ships, Wimbledon &#039;25</title>
 </programme>
 <programme start="20250714133000 +0000" stop="20250714143000 +0000" channel="SPOTV HD.mncvision">

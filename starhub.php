@@ -2038,14 +2038,17 @@
     <programme start="20250714110000 +0000" stop="20250714113000 +0000" channel="beIN Sports 3.starhub">
         <title>Team Of The Season</title>
     </programme>
-    <programme start="20250714113000 +0000" stop="20250714133000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 1 Match 1</title>
+    <programme start="20250714113000 +0000" stop="20250714123000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Bastad Day 1 De Jong v Rejchtman Vinciguerra</title>
     </programme>
-    <programme start="20250714133000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 1 Match 2</title>
+    <programme start="20250714123000 +0000" stop="20250714143000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Bastad Day 1 Darderi v Collignon</title>
     </programme>
-    <programme start="20250714153000 +0000" stop="20250714173000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 1 Match 3</title>
+    <programme start="20250714143000 +0000" stop="20250714150000 +0000" channel="beIN Sports 3.starhub">
+        <title>Team Of The Season</title>
+    </programme>
+    <programme start="20250714150000 +0000" stop="20250714173000 +0000" channel="beIN Sports 3.starhub">
+        <title>Promoted Teams</title>
     </programme>
     <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Sun Music.starhub">
         <title>Hits Of Meena</title>
@@ -2984,7 +2987,7 @@
         <title>Rev+</title>
     </programme>
     <programme start="20250713180000 +0000" stop="20250713183000 +0000" channel="ANC.starhub">
-        <title>On Cue</title>
+        <title>America&#039;s Hidden History</title>
     </programme>
     <programme start="20250713183000 +0000" stop="20250713190000 +0000" channel="ANC.starhub">
         <title>Dayaw</title>
@@ -5359,8 +5362,11 @@
     <programme start="20250713115500 +0000" stop="20250713180000 +0000" channel="SPOTV.starhub">
         <title>Ladies&#039; Doubles and Gentlemen&#039;s Singles Finals</title>
     </programme>
-    <programme start="20250713180000 +0000" stop="20250713230000 +0000" channel="SPOTV.starhub">
+    <programme start="20250713180000 +0000" stop="20250713220000 +0000" channel="SPOTV.starhub">
         <title>Gentlemen&#039;s Doubles and Ladies&#039; Singles Finals</title>
+    </programme>
+    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="SPOTV.starhub">
+        <title>Highlights Day 13</title>
     </programme>
     <programme start="20250713230000 +0000" stop="20250714013000 +0000" channel="SPOTV.starhub">
         <title>Major League Soccer 2025 Week 18 - St. Louis CITY SC vs Portland Timbers</title>
