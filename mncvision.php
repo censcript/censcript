@@ -1688,7 +1688,7 @@
     <title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250714100000 +0000" stop="20250714110000 +0000" channel="BTV.mncvision">
-    <title>Mantra News</title>
+    <title>Cetar: Celeb On Target</title>
 </programme>
 <programme start="20250714110000 +0000" stop="20250714120000 +0000" channel="BTV.mncvision">
     <title>Dunia Binatang</title>
