@@ -3142,11 +3142,11 @@
 <programme start="20250714113000 +0000" stop="20250714193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 250: MSC Hamburg Ladies Open in Hamburg, 1. Tag</title>
 </programme>
-<programme start="20250714111000 +0000" stop="20250714113000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live Tennis ATP</title>
+<programme start="20250724144000 +0000" stop="20250724150000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250714113000 +0000" stop="20250714193000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: Nordea Open in Bastad (SWE), 1. Tag</title>
+<programme start="20250724150000 +0000" stop="20250725020000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
 <programme start="20250713225000 +0000" stop="20250714001500 +0000" channel="SYFY HD.skyde">
     <title>Chronicle - Wozu bist du fähig?</title>
