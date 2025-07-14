@@ -2764,7 +2764,7 @@
 <programme start="20250714214500 +0000" stop="20250714220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: 8. Episode</title>
 </programme>
-<programme start="20250713230000 +0000" stop="20250714020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250713223000 +0000" stop="20250714020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Amundi Evian Championship, 4. Tag in Évian-les-Bains (Frankreich)</title>
 </programme>
 <programme start="20250714020000 +0000" stop="20250714023000 +0000" channel="Sky Sport Golf HD.skyde">

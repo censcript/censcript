@@ -2047,8 +2047,14 @@
     <programme start="20250714143000 +0000" stop="20250714150000 +0000" channel="beIN Sports 3.starhub">
         <title>Team Of The Season</title>
     </programme>
-    <programme start="20250714150000 +0000" stop="20250714173000 +0000" channel="beIN Sports 3.starhub">
-        <title>Promoted Teams</title>
+    <programme start="20250714150000 +0000" stop="20250714153000 +0000" channel="beIN Sports 3.starhub">
+        <title>Top Scorer</title>
+    </programme>
+    <programme start="20250714153000 +0000" stop="20250714154800 +0000" channel="beIN Sports 3.starhub">
+        <title>Best Goalkeeper</title>
+    </programme>
+    <programme start="20250714154800 +0000" stop="20250714173000 +0000" channel="beIN Sports 3.starhub">
+        <title>World Rugby U20 Championship 2025 France vs New Zealand</title>
     </programme>
     <programme start="20250713160000 +0000" stop="20250713163000 +0000" channel="Sun Music.starhub">
         <title>Hits Of Meena</title>
