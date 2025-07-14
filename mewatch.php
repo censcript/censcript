@@ -616,35 +616,68 @@
     <programme start="20250713150000 +0000" stop="20250713180000 +0000" channel="now-80s.mewatch">
         <title>Only The Biggest 80s Anthems! - EP1</title>
     </programme>
-    <programme start="20250713180000 +0000" stop="20250713200000 +0000" channel="now-80s.mewatch">
-        <title>Nothing But 80s Love Songs - EP1</title>
+    <programme start="20250713160000 +0000" stop="20250713164500 +0000" channel="now-80s.mewatch">
+        <title>They Did It With Gloss &amp; Glitter! - EP1</title>
     </programme>
-    <programme start="20250713200000 +0000" stop="20250713210000 +0000" channel="now-80s.mewatch">
-        <title>80s Dance Party Night! - EP1</title>
+    <programme start="20250713164500 +0000" stop="20250713170000 +0000" channel="now-80s.mewatch">
+        <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250713210000 +0000" stop="20250713220000 +0000" channel="now-80s.mewatch">
-        <title>Teleshopping - EP1</title>
+    <programme start="20250713170000 +0000" stop="20250713170500 +0000" channel="now-80s.mewatch">
+        <title>Tucker &amp; Roland&#039;s School Disco 50! - EP1</title>
     </programme>
-    <programme start="20250713220000 +0000" stop="20250713230000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go! - EP1</title>
+    <programme start="20250713170500 +0000" stop="20250713180000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250713230000 +0000" stop="20250714030000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
+    <programme start="20250713180000 +0000" stop="20250713184500 +0000" channel="now-80s.mewatch">
+        <title>Messin&#039; About On The River! - EP1</title>
     </programme>
-    <programme start="20250714030000 +0000" stop="20250714040000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!) - EP1</title>
+    <programme start="20250713184500 +0000" stop="20250713190000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250714040000 +0000" stop="20250714090000 +0000" channel="now-80s.mewatch">
-        <title>Only The Biggest 80s Anthems! - EP1</title>
+    <programme start="20250713190000 +0000" stop="20250713200000 +0000" channel="now-80s.mewatch">
+        <title>All At Sea In The 80s! - EP1</title>
     </programme>
-    <programme start="20250714090000 +0000" stop="20250714100000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s! - EP1</title>
+    <programme start="20250713200000 +0000" stop="20250713220000 +0000" channel="now-80s.mewatch">
+        <title>60 Summer Sizzlers! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250714100000 +0000" stop="20250714110000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit! - EP1</title>
+    <programme start="20250713220000 +0000" stop="20250714001500 +0000" channel="now-80s.mewatch">
+        <title>Matt Goss&#039; Famous Pop Of The 80s! - EP1</title>
     </programme>
-    <programme start="20250714110000 +0000" stop="20250714200000 +0000" channel="now-80s.mewatch">
+    <programme start="20250714001500 +0000" stop="20250714010000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
+    </programme>
+    <programme start="20250714010000 +0000" stop="20250714045000 +0000" channel="now-80s.mewatch">
+        <title>Gbh! Great Brit Hits Of The 80s - EP1</title>
+    </programme>
+    <programme start="20250714045000 +0000" stop="20250714050000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
+    </programme>
+    <programme start="20250714050000 +0000" stop="20250714073500 +0000" channel="now-80s.mewatch">
+        <title>Denise&#039;s 5*star Families - Top 30! - EP1</title>
+    </programme>
+    <programme start="20250714073500 +0000" stop="20250714090000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop! - EP1</title>
+    </programme>
+    <programme start="20250714090000 +0000" stop="20250714110500 +0000" channel="now-80s.mewatch">
+        <title>Big Name Nicknames! Top 25 - EP1</title>
+    </programme>
+    <programme start="20250714110500 +0000" stop="20250714120000 +0000" channel="now-80s.mewatch">
         <title>Monday Night At The Movies! - EP1</title>
+    </programme>
+    <programme start="20250714120000 +0000" stop="20250714130000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.2s Of 1981 - EP1</title>
+    </programme>
+    <programme start="20250714130000 +0000" stop="20250714140000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.2s Of 1983 - EP1</title>
+    </programme>
+    <programme start="20250714140000 +0000" stop="20250714150000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.2s Of 1985 - EP1</title>
+    </programme>
+    <programme start="20250714150000 +0000" stop="20250714160000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.2s Of 1987 - EP1</title>
+    </programme>
+    <programme start="20250714160000 +0000" stop="20250714170000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.2s Of 1989 - EP1</title>
     </programme>
     <programme start="20250713090000 +0000" stop="20250713190000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>

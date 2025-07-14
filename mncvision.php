@@ -8540,7 +8540,7 @@
     <title>World Classic League</title>
 </programme>
 <programme start="20250714153000 +0000" stop="20250714160000 +0000" channel="Sportstars 2.mncvision">
-    <title>Bundesliga</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20250713173000 +0000" stop="20250713190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>GAMMA World MMA C&#039;ship 2024</title>
@@ -8585,7 +8585,7 @@
     <title>World Classic League</title>
 </programme>
 <programme start="20250714153000 +0000" stop="20250714160000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Bundesliga</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20250713170000 +0000" stop="20250713190000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2: PRJ Vs PKU</title>
