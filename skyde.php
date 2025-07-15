@@ -2698,7 +2698,7 @@
 <programme start="20250716084000 +0000" stop="20250716090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20250716090000 +0000" stop="20250716190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250716090000 +0000" stop="20250716170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 3. Tag</title>
 </programme>
 <programme start="20250716080000 +0000" stop="20250716100000 +0000" channel="Sky Sport Austria 3 HD.skyde">
