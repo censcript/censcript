@@ -7543,9 +7543,6 @@
     <programme start="20250714210000 +0000" stop="20250714213000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
     </programme>
-    <programme start="20250714213000 +0000" stop="20250714220000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
-    </programme>
     <programme start="20250714220000 +0000" stop="20250714222000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
@@ -7554,9 +7551,6 @@
     </programme>
     <programme start="20250714225000 +0000" stop="20250714232000 +0000" channel="COLORS.starhub">
         <title>Ram Bhavan</title>
-    </programme>
-    <programme start="20250714232000 +0000" stop="20250714235000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
     </programme>
     <programme start="20250714235000 +0000" stop="20250715001000 +0000" channel="COLORS.starhub">
         <title>Meri Bhavya Life</title>
@@ -7577,12 +7571,9 @@
         <title>Shiv Shakti: Tap Tyaag Taandav</title>
     </programme>
     <programme start="20250715023000 +0000" stop="20250715030000 +0000" channel="COLORS.starhub">
-        <title>Ram Bhavan</title>
-    </programme>
-    <programme start="20250715030000 +0000" stop="20250715033000 +0000" channel="COLORS.starhub">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250715033000 +0000" stop="20250715040000 +0000" channel="COLORS.starhub">
+    <programme start="20250715030000 +0000" stop="20250715040000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250715040000 +0000" stop="20250715043000 +0000" channel="COLORS.starhub">
@@ -7606,17 +7597,14 @@
     <programme start="20250715070000 +0000" stop="20250715080000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250715080000 +0000" stop="20250715083000 +0000" channel="COLORS.starhub">
+    <programme start="20250715080000 +0000" stop="20250715090000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
-    </programme>
-    <programme start="20250715083000 +0000" stop="20250715090000 +0000" channel="COLORS.starhub">
-        <title>Ram Bhavan</title>
     </programme>
     <programme start="20250715090000 +0000" stop="20250715093000 +0000" channel="COLORS.starhub">
-        <title>Parineetii</title>
+        <title>Meri Bhavya Life</title>
     </programme>
     <programme start="20250715093000 +0000" stop="20250715100000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
+        <title>Parineetii</title>
     </programme>
     <programme start="20250715100000 +0000" stop="20250715103000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7639,17 +7627,14 @@
     <programme start="20250715130000 +0000" stop="20250715140000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250715140000 +0000" stop="20250715143000 +0000" channel="COLORS.starhub">
+    <programme start="20250715140000 +0000" stop="20250715150000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
-    </programme>
-    <programme start="20250715143000 +0000" stop="20250715150000 +0000" channel="COLORS.starhub">
-        <title>Ram Bhavan</title>
     </programme>
     <programme start="20250715150000 +0000" stop="20250715153000 +0000" channel="COLORS.starhub">
         <title>Meri Bhavya Life</title>
     </programme>
     <programme start="20250715153000 +0000" stop="20250715160000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="BBC World News HD.starhub">
         <title>Verified Live</title>

@@ -721,31 +721,31 @@
     <programme start="20250715160000 +0000" stop="20250715220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
     </programme>
-    <programme start="20250714160000 +0000" stop="20250714163000 +0000" channel="Animax.mewatch">
+    <programme start="20250714160001 +0000" stop="20250714163001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Hard Luck And Home Visit</title>
     </programme>
-    <programme start="20250714163000 +0000" stop="20250714170000 +0000" channel="Animax.mewatch">
+    <programme start="20250714163001 +0000" stop="20250714170001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Ordinary Person’s Present</title>
     </programme>
-    <programme start="20250714170000 +0000" stop="20250714173000 +0000" channel="Animax.mewatch">
+    <programme start="20250714170001 +0000" stop="20250714173001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Opening</title>
     </programme>
-    <programme start="20250714173000 +0000" stop="20250714180000 +0000" channel="Animax.mewatch">
+    <programme start="20250714173001 +0000" stop="20250714180001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Growing</title>
     </programme>
-    <programme start="20250714180000 +0000" stop="20250714183000 +0000" channel="Animax.mewatch">
+    <programme start="20250714180001 +0000" stop="20250714183001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Vivid</title>
     </programme>
-    <programme start="20250714183000 +0000" stop="20250714190000 +0000" channel="Animax.mewatch">
+    <programme start="20250714183001 +0000" stop="20250714190001 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - The Second Day</title>
     </programme>
-    <programme start="20250714190000 +0000" stop="20250714193000 +0000" channel="Animax.mewatch">
+    <programme start="20250714190001 +0000" stop="20250714193001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Hard Luck And Home Visit</title>
     </programme>
-    <programme start="20250714193000 +0000" stop="20250714200000 +0000" channel="Animax.mewatch">
+    <programme start="20250714193001 +0000" stop="20250714200001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Ordinary Person’s Present</title>
     </programme>
-    <programme start="20250714200000 +0000" stop="20250714203001 +0000" channel="Animax.mewatch">
+    <programme start="20250714200001 +0000" stop="20250714203001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Blue Rose&#039;s Confession</title>
     </programme>
     <programme start="20250714203001 +0000" stop="20250714210001 +0000" channel="Animax.mewatch">
@@ -784,55 +784,55 @@
     <programme start="20250715020001 +0000" stop="20250715023001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Opening</title>
     </programme>
-    <programme start="20250715023001 +0000" stop="20250715030001 +0000" channel="Animax.mewatch">
+    <programme start="20250715023001 +0000" stop="20250715030000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Growing</title>
     </programme>
-    <programme start="20250715030001 +0000" stop="20250715033001 +0000" channel="Animax.mewatch">
+    <programme start="20250715030000 +0000" stop="20250715033000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Blue Rose&#039;s Confession</title>
     </programme>
-    <programme start="20250715033001 +0000" stop="20250715040001 +0000" channel="Animax.mewatch">
+    <programme start="20250715033000 +0000" stop="20250715040000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Clues</title>
     </programme>
-    <programme start="20250715040001 +0000" stop="20250715043001 +0000" channel="Animax.mewatch">
+    <programme start="20250715040000 +0000" stop="20250715043000 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Hard Luck And Home Visit</title>
     </programme>
-    <programme start="20250715043001 +0000" stop="20250715050001 +0000" channel="Animax.mewatch">
+    <programme start="20250715043000 +0000" stop="20250715050000 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Ordinary Person’s Present</title>
     </programme>
-    <programme start="20250715050001 +0000" stop="20250715053001 +0000" channel="Animax.mewatch">
+    <programme start="20250715050000 +0000" stop="20250715053000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Vivid</title>
     </programme>
-    <programme start="20250715053001 +0000" stop="20250715060001 +0000" channel="Animax.mewatch">
+    <programme start="20250715053000 +0000" stop="20250715060000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - The Second Day</title>
     </programme>
-    <programme start="20250715060001 +0000" stop="20250715063001 +0000" channel="Animax.mewatch">
+    <programme start="20250715060000 +0000" stop="20250715063000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Opening</title>
     </programme>
-    <programme start="20250715063001 +0000" stop="20250715070001 +0000" channel="Animax.mewatch">
+    <programme start="20250715063000 +0000" stop="20250715070000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Growing</title>
     </programme>
-    <programme start="20250715070001 +0000" stop="20250715073001 +0000" channel="Animax.mewatch">
+    <programme start="20250715070000 +0000" stop="20250715073000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Blue Rose&#039;s Confession</title>
     </programme>
-    <programme start="20250715073001 +0000" stop="20250715080001 +0000" channel="Animax.mewatch">
+    <programme start="20250715073000 +0000" stop="20250715080000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Clues</title>
     </programme>
-    <programme start="20250715080001 +0000" stop="20250715083001 +0000" channel="Animax.mewatch">
+    <programme start="20250715080000 +0000" stop="20250715083000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Vivid</title>
     </programme>
-    <programme start="20250715083001 +0000" stop="20250715090001 +0000" channel="Animax.mewatch">
+    <programme start="20250715083000 +0000" stop="20250715090000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - The Second Day</title>
     </programme>
-    <programme start="20250715090001 +0000" stop="20250715093001 +0000" channel="Animax.mewatch">
+    <programme start="20250715090000 +0000" stop="20250715093000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Opening</title>
     </programme>
-    <programme start="20250715093001 +0000" stop="20250715100001 +0000" channel="Animax.mewatch">
+    <programme start="20250715093000 +0000" stop="20250715100000 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Growing</title>
     </programme>
-    <programme start="20250715100001 +0000" stop="20250715103001 +0000" channel="Animax.mewatch">
+    <programme start="20250715100000 +0000" stop="20250715103000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - The Second Day</title>
     </programme>
-    <programme start="20250715103001 +0000" stop="20250715110000 +0000" channel="Animax.mewatch">
+    <programme start="20250715103000 +0000" stop="20250715110000 +0000" channel="Animax.mewatch">
         <title>Haikyu!! 4th Season - Rhythm</title>
     </programme>
     <programme start="20250715110000 +0000" stop="20250715113000 +0000" channel="Animax.mewatch">
@@ -841,32 +841,29 @@
     <programme start="20250715113000 +0000" stop="20250715120000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - To The Heart Kingdom!</title>
     </programme>
-    <programme start="20250715120000 +0000" stop="20250715123000 +0000" channel="Animax.mewatch">
+    <programme start="20250715120000 +0000" stop="20250715123001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Ordinary Person’s Present</title>
     </programme>
-    <programme start="20250715123000 +0000" stop="20250715130000 +0000" channel="Animax.mewatch">
+    <programme start="20250715123001 +0000" stop="20250715130001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - The Red Heart And The Gift’s Owner</title>
     </programme>
-    <programme start="20250715130000 +0000" stop="20250715133000 +0000" channel="Animax.mewatch">
+    <programme start="20250715130001 +0000" stop="20250715133001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Clues</title>
     </programme>
-    <programme start="20250715133000 +0000" stop="20250715140000 +0000" channel="Animax.mewatch">
+    <programme start="20250715133001 +0000" stop="20250715140001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - To The Heart Kingdom!</title>
     </programme>
-    <programme start="20250715140000 +0000" stop="20250715143000 +0000" channel="Animax.mewatch">
+    <programme start="20250715140001 +0000" stop="20250715143001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - The Sun</title>
     </programme>
-    <programme start="20250715143000 +0000" stop="20250715150000 +0000" channel="Animax.mewatch">
+    <programme start="20250715143001 +0000" stop="20250715150001 +0000" channel="Animax.mewatch">
         <title>Oshi No Ko - Trigger</title>
     </programme>
-    <programme start="20250715150000 +0000" stop="20250715153000 +0000" channel="Animax.mewatch">
+    <programme start="20250715150001 +0000" stop="20250715153001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Clues</title>
     </programme>
-    <programme start="20250715153000 +0000" stop="20250715160000 +0000" channel="Animax.mewatch">
+    <programme start="20250715153001 +0000" stop="20250715160001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - To The Heart Kingdom!</title>
-    </programme>
-    <programme start="20250715160000 +0000" stop="20250715163000 +0000" channel="Animax.mewatch">
-        <title>Kubo Won&#039;t Let Me Be Invisible - Ordinary Person’s Present</title>
     </programme>
     <programme start="20250714152000 +0000" stop="20250714165000 +0000" channel="cinemaworld.mewatch">
         <title>Murder Up North: Sievers And The Woman On The Train</title>
