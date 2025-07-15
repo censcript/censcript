@@ -3157,10 +3157,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20250715043000 +0000" stop="20250715063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: N. Schunk (GER) - M. Uchijima (JPN), MSC Hamburg Ladies Open in Hamburg, 1. Tag</title>
+    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 1. Tag</title>
 </programme>
 <programme start="20250715063000 +0000" stop="20250715083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: R. Collignon (BEL) - L. Darderi (ITA), Nordea Open in Bastad (SWE), 1. Tag</title>
+    <title>ATP 250: Topspiel</title>
 </programme>
 <programme start="20250715083000 +0000" stop="20250715190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3172,7 +3172,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 2. Tag</title>
 </programme>
 <programme start="20250715213000 +0000" stop="20250715233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 2. Tag</title>
+    <title>ATP 250: Topspiel</title>
 </programme>
 <programme start="20250714220500 +0000" stop="20250714230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
@@ -3246,7 +3246,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715084000 +0000" stop="20250715090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250715090000 +0000" stop="20250715220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250715090000 +0000" stop="20250715170000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 2. Tag</title>
 </programme>
 <programme start="20250714222000 +0000" stop="20250714231000 +0000" channel="SYFY HD.skyde">
@@ -3495,10 +3495,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715032500 +0000" stop="20250715035000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250715035000 +0000" stop="20250715041000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250715035000 +0000" stop="20250715041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250715041000 +0000" stop="20250715044000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250715041500 +0000" stop="20250715044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20250715044000 +0000" stop="20250715050500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3570,16 +3570,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715134500 +0000" stop="20250715141000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250715141000 +0000" stop="20250715144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250715141000 +0000" stop="20250715143500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250715144000 +0000" stop="20250715150000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250715143500 +0000" stop="20250715150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250715150000 +0000" stop="20250715153000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250715150000 +0000" stop="20250715152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250715153000 +0000" stop="20250715155000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250715152500 +0000" stop="20250715155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20250715155000 +0000" stop="20250715161500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3651,10 +3651,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715071500 +0000" stop="20250715085000 +0000" channel="Warner TV Film.skyde">
     <title>Red Dawn</title>
 </programme>
-<programme start="20250715085000 +0000" stop="20250715114500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250715085000 +0000" stop="20250715114000 +0000" channel="Warner TV Film.skyde">
     <title>Pearl Harbor</title>
 </programme>
-<programme start="20250715114500 +0000" stop="20250715141500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250715114000 +0000" stop="20250715141500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
 <programme start="20250715141500 +0000" stop="20250715162000 +0000" channel="Warner TV Film.skyde">
@@ -3732,13 +3732,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715023000 +0000" stop="20250715032000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250715032000 +0000" stop="20250715041000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715032000 +0000" stop="20250715041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250715041000 +0000" stop="20250715050000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715041500 +0000" stop="20250715050500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250715050000 +0000" stop="20250715055500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715050500 +0000" stop="20250715055500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250715055500 +0000" stop="20250715064000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3750,10 +3750,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715073000 +0000" stop="20250715082500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250715082500 +0000" stop="20250715091000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715082500 +0000" stop="20250715091500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250715091000 +0000" stop="20250715100500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715091500 +0000" stop="20250715100500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250715100500 +0000" stop="20250715105500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3795,9 +3795,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250715194500 +0000" stop="20250715203000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250715203000 +0000" stop="20250715212000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715203000 +0000" stop="20250715211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20250715212000 +0000" stop="20250715220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250715211500 +0000" stop="20250715220500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>

@@ -655,9 +655,6 @@
 <programme start="20250715010000 +0000" stop="20250715023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250715023000 +0000" stop="20250715060000 +0000" channel="ANTV.vision">
-<title>Main Hoon Na</title>
-</programme>
 <programme start="20250715060000 +0000" stop="20250715084500 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250716110000 +0000" stop="20250716120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
+</programme>
+<programme start="20250714233500 +0000" stop="20250715011000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
