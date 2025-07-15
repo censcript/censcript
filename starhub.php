@@ -2528,7 +2528,7 @@
         <title>#1276</title>
     </programme>
     <programme start="20250715123000 +0000" stop="20250715130000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#804:</title>
+        <title>#804</title>
     </programme>
     <programme start="20250715130000 +0000" stop="20250715160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC Fight Night 2025 EFN 192: Lewis vs Teixeira</title>
@@ -5362,19 +5362,19 @@
     <programme start="20250714220000 +0000" stop="20250714230000 +0000" channel="SPOTV.starhub">
         <title>Highlights Day 14</title>
     </programme>
-    <programme start="20250714230000 +0000" stop="20250715014500 +0000" channel="SPOTV.starhub">
+    <programme start="20250714230000 +0000" stop="20250715011500 +0000" channel="SPOTV.starhub">
         <title>Compound Team Finals</title>
     </programme>
-    <programme start="20250715014500 +0000" stop="20250715040000 +0000" channel="SPOTV.starhub">
+    <programme start="20250715011500 +0000" stop="20250715040000 +0000" channel="SPOTV.starhub">
         <title>Compound Individual Finals</title>
     </programme>
     <programme start="20250715040000 +0000" stop="20250715050000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 3</title>
     </programme>
-    <programme start="20250715050000 +0000" stop="20250715070000 +0000" channel="SPOTV.starhub">
+    <programme start="20250715050000 +0000" stop="20250715065000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250715070000 +0000" stop="20250715093000 +0000" channel="SPOTV.starhub">
+    <programme start="20250715065000 +0000" stop="20250715093000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
     <programme start="20250715093000 +0000" stop="20250715103000 +0000" channel="SPOTV.starhub">
@@ -5386,10 +5386,10 @@
     <programme start="20250715110000 +0000" stop="20250715120500 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250715120500 +0000" stop="20250715140000 +0000" channel="SPOTV.starhub">
+    <programme start="20250715120500 +0000" stop="20250715140500 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250715140000 +0000" stop="20250715160000 +0000" channel="SPOTV.starhub">
+    <programme start="20250715140500 +0000" stop="20250715160000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20250714153500 +0000" stop="20250714165000 +0000" channel="KBS World HD.starhub">
@@ -6602,7 +6602,7 @@
         <title>#1276</title>
     </programme>
     <programme start="20250715123000 +0000" stop="20250715130000 +0000" channel="TestChannel 995.starhub">
-        <title>#804:</title>
+        <title>#804</title>
     </programme>
     <programme start="20250715130000 +0000" stop="20250715160000 +0000" channel="TestChannel 995.starhub">
         <title>UFC Fight Night 2025 EFN 192: Lewis vs Teixeira</title>

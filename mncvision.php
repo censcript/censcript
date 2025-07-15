@@ -8707,10 +8707,10 @@
 <programme start="20250715040000 +0000" stop="20250715050000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250715050000 +0000" stop="20250715070000 +0000" channel="SPOTV.mncvision">
+<programme start="20250715050000 +0000" stop="20250715065000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250715070000 +0000" stop="20250715093000 +0000" channel="SPOTV.mncvision">
+<programme start="20250715065000 +0000" stop="20250715093000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
 <programme start="20250715093000 +0000" stop="20250715103000 +0000" channel="SPOTV.mncvision">
@@ -8722,10 +8722,10 @@
 <programme start="20250715110000 +0000" stop="20250715120500 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge America &#039;25</title>
 </programme>
-<programme start="20250715120500 +0000" stop="20250715140000 +0000" channel="SPOTV.mncvision">
+<programme start="20250715120500 +0000" stop="20250715140500 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge America &#039;25</title>
 </programme>
-<programme start="20250715140000 +0000" stop="20250715160000 +0000" channel="SPOTV.mncvision">
+<programme start="20250715140500 +0000" stop="20250715160000 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge America &#039;25</title>
 </programme>
 <programme start="20250715160000 +0000" stop="20250715163000 +0000" channel="SPOTV.mncvision">
@@ -8827,10 +8827,10 @@
 <programme start="20250715040000 +0000" stop="20250715050000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250715050000 +0000" stop="20250715070000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250715050000 +0000" stop="20250715065000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250715070000 +0000" stop="20250715093000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250715065000 +0000" stop="20250715093000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
 <programme start="20250715093000 +0000" stop="20250715103000 +0000" channel="SPOTV HD.mncvision">
@@ -8842,10 +8842,10 @@
 <programme start="20250715110000 +0000" stop="20250715120500 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge America &#039;25</title>
 </programme>
-<programme start="20250715120500 +0000" stop="20250715140000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250715120500 +0000" stop="20250715140500 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge America &#039;25</title>
 </programme>
-<programme start="20250715140000 +0000" stop="20250715160000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250715140500 +0000" stop="20250715160000 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge America &#039;25</title>
 </programme>
 <programme start="20250715160000 +0000" stop="20250715163000 +0000" channel="SPOTV HD.mncvision">
