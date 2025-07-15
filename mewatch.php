@@ -994,9 +994,6 @@
     <programme start="20250715150000 +0000" stop="20250715160000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 16th July, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250715160000 +0000" stop="20250716110000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 16th July, Wednesday 7pm. The Wonder Shop Home Shopping</title>
-    </programme>
     <programme start="20250714160000 +0000" stop="20250715160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 11th July, Friday 8.30pm. ONE Friday Fights 116</title>
     </programme>
