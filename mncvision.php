@@ -149,7 +149,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250715043000 +0000" stop="20250715050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Tested In Gaza</title>
 </programme>
 <programme start="20250715050000 +0000" stop="20250715053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -197,7 +197,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250715143000 +0000" stop="20250715150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Tested In Gaza</title>
 </programme>
 <programme start="20250715150000 +0000" stop="20250715160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>

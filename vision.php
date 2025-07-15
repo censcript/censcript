@@ -652,9 +652,6 @@
 <programme start="20250716114500 +0000" stop="20250716121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250714230000 +0000" stop="20250715010000 +0000" channel="ANTV.vision">
-<title>Lelaki Sejati</title>
-</programme>
 <programme start="20250715010000 +0000" stop="20250715023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
@@ -828,9 +825,6 @@
 </programme>
 <programme start="20250714233000 +0000" stop="20250715013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
-</programme>
-<programme start="20250715013000 +0000" stop="20250715020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat (L)</title>
 </programme>
 <programme start="20250715020000 +0000" stop="20250715023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="BTV.vision">
+<title>Mantra News</title>
+</programme>
+<programme start="20250716110000 +0000" stop="20250716120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
