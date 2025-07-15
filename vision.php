@@ -1409,7 +1409,7 @@
 <title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250715100000 +0000" stop="20250715110000 +0000" channel="BTV.vision">
-<title>Mantra News</title>
+<title>Cetar: Celeb On Target</title>
 </programme>
 <programme start="20250715110000 +0000" stop="20250715120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
@@ -1493,7 +1493,7 @@
 <title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="BTV.vision">
-<title>Mantra News</title>
+<title>Cetar: Celeb On Target</title>
 </programme>
 <programme start="20250716110000 +0000" stop="20250716120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>

@@ -412,14 +412,11 @@
 <programme start="20250715023000 +0000" stop="20250715060000 +0000" channel="ANTV.mncvision">
     <title>Main Hoon Na</title>
 </programme>
-<programme start="20250715060000 +0000" stop="20250715084500 +0000" channel="ANTV.mncvision">
+<programme start="20250715060000 +0000" stop="20250715090000 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20250715084500 +0000" stop="20250715103000 +0000" channel="ANTV.mncvision">
-    <title>Bhagya Lakshmi</title>
-</programme>
-<programme start="20250715103000 +0000" stop="20250715123000 +0000" channel="ANTV.mncvision">
-    <title>Aini: Malaikat Tak Bersayap</title>
+<programme start="20250715090000 +0000" stop="20250715123000 +0000" channel="ANTV.mncvision">
+    <title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20250715123000 +0000" stop="20250715143000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
