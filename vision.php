@@ -652,17 +652,20 @@
 <programme start="20250716114500 +0000" stop="20250716121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250714230000 +0000" stop="20250715010000 +0000" channel="ANTV.vision">
+<title>Lelaki Sejati</title>
+</programme>
 <programme start="20250715010000 +0000" stop="20250715023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250715060000 +0000" stop="20250715084500 +0000" channel="ANTV.vision">
+<programme start="20250715023000 +0000" stop="20250715060000 +0000" channel="ANTV.vision">
+<title>Main Hoon Na</title>
+</programme>
+<programme start="20250715060000 +0000" stop="20250715090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250715084500 +0000" stop="20250715103000 +0000" channel="ANTV.vision">
-<title>Bhagya Lakshmi</title>
-</programme>
-<programme start="20250715103000 +0000" stop="20250715123000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
+<programme start="20250715090000 +0000" stop="20250715123000 +0000" channel="ANTV.vision">
+<title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20250715123000 +0000" stop="20250715143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -682,6 +685,9 @@
 <programme start="20250715213000 +0000" stop="20250715220000 +0000" channel="ANTV.vision">
 <title>Nadin</title>
 </programme>
+<programme start="20250715213000 +0000" stop="20250715220000 +0000" channel="ANTV.vision">
+<title>Nadin</title>
+</programme>
 <programme start="20250715220000 +0000" stop="20250715223000 +0000" channel="ANTV.vision">
 <title>Vaishno Devi</title>
 </programme>
@@ -697,14 +703,14 @@
 <programme start="20250716023000 +0000" stop="20250716060000 +0000" channel="ANTV.vision">
 <title>Fan</title>
 </programme>
-<programme start="20250716060000 +0000" stop="20250716084500 +0000" channel="ANTV.vision">
+<programme start="20250716060000 +0000" stop="20250716090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
 <programme start="20250716084500 +0000" stop="20250716103000 +0000" channel="ANTV.vision">
 <title>Bhagya Lakshmi</title>
 </programme>
-<programme start="20250716103000 +0000" stop="20250716123000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
+<programme start="20250716090000 +0000" stop="20250716123000 +0000" channel="ANTV.vision">
+<title>Dil Hai Tumhara</title>
 </programme>
 <programme start="20250714230000 +0000" stop="20250715003000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1485,16 +1491,4 @@
 </programme>
 <programme start="20250716080000 +0000" stop="20250716090000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
-</programme>
-<programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
-</programme>
-<programme start="20250716110000 +0000" stop="20250716120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20250714233500 +0000" stop="20250715011000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
