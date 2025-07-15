@@ -649,26 +649,41 @@
     <programme start="20250714090000 +0000" stop="20250714190000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
     </programme>
-    <programme start="20250714190000 +0000" stop="20250714200000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget The Rest! - EP1</title>
+    <programme start="20250714160000 +0000" stop="20250714191000 +0000" channel="now-70s.mewatch">
+        <title>NOW 70s Presents Now 60s! - EP1</title>
     </programme>
-    <programme start="20250714200000 +0000" stop="20250714210000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
-    </programme>
-    <programme start="20250714210000 +0000" stop="20250714220000 +0000" channel="now-70s.mewatch">
-        <title>Teleshopping - EP1</title>
-    </programme>
-    <programme start="20250714220000 +0000" stop="20250714230000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
-    </programme>
-    <programme start="20250714230000 +0000" stop="20250715080000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
-    </programme>
-    <programme start="20250715080000 +0000" stop="20250715090000 +0000" channel="now-70s.mewatch">
+    <programme start="20250714191000 +0000" stop="20250714200000 +0000" channel="now-70s.mewatch">
         <title>The 5 O&#039;clock Groovy Zone! - EP1</title>
     </programme>
-    <programme start="20250715090000 +0000" stop="20250715190000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
+    <programme start="20250714200000 +0000" stop="20250714210000 +0000" channel="now-70s.mewatch">
+        <title>Rosko&#039;s Hellraisers! Top 25 - EP1</title>
+    </programme>
+    <programme start="20250714210000 +0000" stop="20250715000000 +0000" channel="now-70s.mewatch">
+        <title>What The Heck Kept This Off No.1? - EP1</title>
+    </programme>
+    <programme start="20250715000000 +0000" stop="20250715020000 +0000" channel="now-70s.mewatch">
+        <title>Rick Wakeman&#039;s Wild Things! - EP1</title>
+    </programme>
+    <programme start="20250715020000 +0000" stop="20250715030000 +0000" channel="now-70s.mewatch">
+        <title>1970 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250715030000 +0000" stop="20250715074000 +0000" channel="now-70s.mewatch">
+        <title>100% Superstars! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20250715074000 +0000" stop="20250715090000 +0000" channel="now-70s.mewatch">
+        <title>The 5 O&#039;clock Groovy Zone! - EP1</title>
+    </programme>
+    <programme start="20250715090000 +0000" stop="20250715121000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop Reloaded! - EP1</title>
+    </programme>
+    <programme start="20250715121000 +0000" stop="20250715130000 +0000" channel="now-70s.mewatch">
+        <title>Retro Rewind! 70s Edition - EP1</title>
+    </programme>
+    <programme start="20250715130000 +0000" stop="20250715160000 +0000" channel="now-70s.mewatch">
+        <title>The Complete Queen! 1972-1989 - EP1</title>
+    </programme>
+    <programme start="20250715160000 +0000" stop="20250715184000 +0000" channel="now-70s.mewatch">
+        <title>100% Superstars! 1970-1979 - EP1</title>
     </programme>
     <programme start="20250714160000 +0000" stop="20250714220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
@@ -991,16 +1006,16 @@
     <programme start="20250713160001 +0000" stop="20250714160001 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
     </programme>
-    <programme start="20250714160001 +0000" stop="20250715100001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
+    <programme start="20250714160001 +0000" stop="20250715093401 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 5.34pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
     </programme>
-    <programme start="20250715100001 +0000" stop="20250715120001 +0000" channel="Live 5.mewatch">
+    <programme start="20250715093401 +0000" stop="20250715120001 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
     </programme>
-    <programme start="20250715120001 +0000" stop="20250715130001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Brunei</title>
+    <programme start="20250715120001 +0000" stop="20250715123401 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Brunei</title>
     </programme>
-    <programme start="20250715130001 +0000" stop="20250715150001 +0000" channel="Live 5.mewatch">
+    <programme start="20250715123401 +0000" stop="20250715150001 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Brunei</title>
     </programme>
     <programme start="20250715150001 +0000" stop="20250715160001 +0000" channel="Live 5.mewatch">
