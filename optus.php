@@ -1,6 +1,3 @@
-    <programme start="20250716184930 +0000" stop="20250716221000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Norway v Italy</title>
-    </programme>
     <programme start="20250717184930 +0000" stop="20250717221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Sweden v England</title>
     </programme>
