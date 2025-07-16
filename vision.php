@@ -73,13 +73,13 @@
 <programme start="20250717074500 +0000" stop="20250717090000 +0000" channel="RCTI.vision">
 <title>Bangsal 13</title>
 </programme>
-<programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="RCTI.vision">
+<programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="RCTI.vision">
 <title>Jack Dan Danil</title>
 </programme>
-<programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="RCTI.vision">
+<programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250716110000 +0000" stop="20250716121500 +0000" channel="RCTI.vision">
+<programme start="20250717110000 +0000" stop="20250717121500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250715234500 +0000" stop="20250716001500 +0000" channel="MNCTV.vision">

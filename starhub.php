@@ -2101,7 +2101,7 @@
     <programme start="20250716123000 +0000" stop="20250716143000 +0000" channel="beIN Sports 3.starhub">
         <title>ATP Tour 250 2025 Bastad Day 3 Griekspoor v Pellegrino</title>
     </programme>
-    <programme start="20250716143000 +0000" stop="20250716170000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250716143000 +0000" stop="20250716163000 +0000" channel="beIN Sports 3.starhub">
         <title>ATP Tour 250 2025 Bastad Day 3 Darderi v Ymer</title>
     </programme>
     <programme start="20250715153000 +0000" stop="20250715163000 +0000" channel="Sun Music.starhub">
