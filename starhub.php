@@ -2093,16 +2093,16 @@
         <title>32nd LaLiga FC Futures National Tournament Barcelona vs Celta Vigo</title>
     </programme>
     <programme start="20250716090000 +0000" stop="20250716110000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 3 Match 1</title>
+        <title>ATP Tour 250 2025 Bastad Day 3 Moller v Misolic</title>
     </programme>
-    <programme start="20250716110000 +0000" stop="20250716130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 3 Match 2</title>
+    <programme start="20250716110000 +0000" stop="20250716123000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 (To be Continued) Bastad Day 3 Van de Zandschulp v Ymer</title>
     </programme>
-    <programme start="20250716130000 +0000" stop="20250716150000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 3 Match 3</title>
+    <programme start="20250716123000 +0000" stop="20250716143000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Bastad Day 3 Griekspoor v Pellegrino</title>
     </programme>
-    <programme start="20250716150000 +0000" stop="20250716170000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 3 Match 4</title>
+    <programme start="20250716143000 +0000" stop="20250716170000 +0000" channel="beIN Sports 3.starhub">
+        <title>ATP Tour 250 2025 Bastad Day 3 Darderi v Ymer</title>
     </programme>
     <programme start="20250715153000 +0000" stop="20250715163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -8290,13 +8290,13 @@
     <programme start="20250715133000 +0000" stop="20250715163000 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
-    <programme start="20250715163000 +0000" stop="20250715190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250715163000 +0000" stop="20250715183000 +0000" channel="Asianet Movies.starhub">
         <title>Kuberan</title>
     </programme>
-    <programme start="20250715190000 +0000" stop="20250715220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250715183000 +0000" stop="20250715212500 +0000" channel="Asianet Movies.starhub">
         <title>Nakhangal</title>
     </programme>
-    <programme start="20250715220000 +0000" stop="20250715233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250715212500 +0000" stop="20250715233000 +0000" channel="Asianet Movies.starhub">
         <title>Remo</title>
     </programme>
     <programme start="20250715233000 +0000" stop="20250716013000 +0000" channel="Asianet Movies.starhub">

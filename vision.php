@@ -652,6 +652,9 @@
 <programme start="20250717114500 +0000" stop="20250717121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250715230000 +0000" stop="20250716010000 +0000" channel="ANTV.vision">
+<title>Arya Penangsang</title>
+</programme>
 <programme start="20250716010000 +0000" stop="20250716023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
 </programme>
