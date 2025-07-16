@@ -97,7 +97,7 @@
 <programme start="20250716033000 +0000" stop="20250716043000 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
-<programme start="20250710053000 +0000" stop="20250710063000 +0000" channel="MNCTV.vision">
+<programme start="20250716043000 +0000" stop="20250716050000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250716050000 +0000" stop="20250716063000 +0000" channel="MNCTV.vision">
@@ -112,7 +112,7 @@
 <programme start="20250716084500 +0000" stop="20250716100000 +0000" channel="MNCTV.vision">
 <title>Supermarket Sweep</title>
 </programme>
-<programme start="20250713100000 +0000" stop="20250713120000 +0000" channel="MNCTV.vision">
+<programme start="20250716100000 +0000" stop="20250716120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250716120000 +0000" stop="20250716122500 +0000" channel="MNCTV.vision">
@@ -163,7 +163,7 @@
 <programme start="20250717023000 +0000" stop="20250717033000 +0000" channel="MNCTV.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20250711033000 +0000" stop="20250711043000 +0000" channel="MNCTV.vision">
+<programme start="20250717033000 +0000" stop="20250717043000 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
 <programme start="20250717043000 +0000" stop="20250717050000 +0000" channel="MNCTV.vision">
@@ -181,7 +181,7 @@
 <programme start="20250717084500 +0000" stop="20250717100000 +0000" channel="MNCTV.vision">
 <title>Supermarket Sweep</title>
 </programme>
-<programme start="20250711100000 +0000" stop="20250711120000 +0000" channel="MNCTV.vision">
+<programme start="20250717100000 +0000" stop="20250717120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250715233000 +0000" stop="20250716003000 +0000" channel="GTV.vision">
