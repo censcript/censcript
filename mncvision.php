@@ -1372,7 +1372,10 @@
 <programme start="20250716123000 +0000" stop="20250716143000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
-<programme start="20250716143000 +0000" stop="20250716150000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250716143000 +0000" stop="20250716163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250716163000 +0000" stop="20250715170000 +0000" channel="beIN Sports 3.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
 <programme start="20250715170000 +0000" stop="20250715185000 +0000" channel="beIN Sports 3 HD.mncvision">
@@ -1426,7 +1429,10 @@
 <programme start="20250716123000 +0000" stop="20250716143000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
-<programme start="20250716143000 +0000" stop="20250716150000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250716143000 +0000" stop="20250716163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250716163000 +0000" stop="20250715170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>ATP Tour 250 2025: Bastad (L)</title>
 </programme>
 <programme start="20250715170000 +0000" stop="20250715190000 +0000" channel="beIN SPORTS 4.mncvision">
