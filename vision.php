@@ -73,13 +73,13 @@
 <programme start="20250717074500 +0000" stop="20250717090000 +0000" channel="RCTI.vision">
 <title>Bangsal 13</title>
 </programme>
-<programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="RCTI.vision">
+<programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="RCTI.vision">
 <title>Jack Dan Danil</title>
 </programme>
-<programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="RCTI.vision">
+<programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250717110000 +0000" stop="20250717121500 +0000" channel="RCTI.vision">
+<programme start="20250716110000 +0000" stop="20250716121500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250715234500 +0000" stop="20250716001500 +0000" channel="MNCTV.vision">
@@ -583,6 +583,9 @@
 <programme start="20250716154500 +0000" stop="20250716163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20250716163000 +0000" stop="20250716171500 +0000" channel="Trans 7.vision">
+<title>Newstainment</title>
+</programme>
 <programme start="20250716171500 +0000" stop="20250716174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -658,8 +661,17 @@
 <programme start="20250716060000 +0000" stop="20250716090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
+<programme start="20250716090000 +0000" stop="20250716123000 +0000" channel="ANTV.vision">
+<title>Dil Hai Tumhara</title>
+</programme>
 <programme start="20250716123000 +0000" stop="20250716143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250716143000 +0000" stop="20250716163000 +0000" channel="ANTV.vision">
+<title>Jampang 1</title>
+</programme>
+<programme start="20250716163000 +0000" stop="20250716183000 +0000" channel="ANTV.vision">
+<title>Slaughter In San Francisco</title>
 </programme>
 <programme start="20250716183000 +0000" stop="20250716200000 +0000" channel="ANTV.vision">
 <title>A Chinese Ghost Story 3</title>
@@ -843,6 +855,9 @@
 </programme>
 <programme start="20250716110000 +0000" stop="20250716130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20250716130000 +0000" stop="20250716140000 +0000" channel="TVOne.vision">
+<title>Indonesia Business Forum (L)</title>
 </programme>
 <programme start="20250716140000 +0000" stop="20250716150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
-</programme>
-<programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20250715230000 +0000" stop="20250716004000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250716004000 +0000" stop="20250716022000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250716022000 +0000" stop="20250716035000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250716035000 +0000" stop="20250716054000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

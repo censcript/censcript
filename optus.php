@@ -1,13 +1,13 @@
-    <programme start="20250716185000 +0000" stop="20250716221000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250716184930 +0000" stop="20250716221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Norway v Italy</title>
     </programme>
-    <programme start="20250717185000 +0000" stop="20250717221000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250717184930 +0000" stop="20250717221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Sweden v England</title>
     </programme>
     <programme start="20250718102000 +0000" stop="20250718124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Suwon FC v Gwangju</title>
     </programme>
-    <programme start="20250718185000 +0000" stop="20250718221000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250718184930 +0000" stop="20250718221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Spain v Switzerland</title>
     </programme>
     <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 9.optus">
@@ -19,7 +19,7 @@
     <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Shonan v Cerezo</title>
     </programme>
-    <programme start="20250719185000 +0000" stop="20250719221000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250719184930 +0000" stop="20250719221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - France v Germany</title>
     </programme>
     <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
