@@ -2755,29 +2755,20 @@
 <programme start="20250716210000 +0000" stop="20250716230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 1. FC Magdeburg - Preußen Münster, 32. Spieltag</title>
 </programme>
-<programme start="20250707063000 +0000" stop="20250707083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - TSG Hoffenheim, 17. Spieltag</title>
+<programme start="20250715223000 +0000" stop="20250716003000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: Fortuna Düsseldorf  - 1. FC Nürnberg, tipico Topspiel der Woche, 31. Spieltag</title>
 </programme>
-<programme start="20250707083000 +0000" stop="20250707103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Holstein Kiel - Borussia Dortmund, 17. Spieltag</title>
+<programme start="20250716003000 +0000" stop="20250716023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: RB Leipzig - FC Bayern München, 32. Spieltag</title>
 </programme>
-<programme start="20250707103000 +0000" stop="20250707123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: 1. FC Nürnberg - Eintracht Braunschweig, tipico Topspiel der Woche, 17. Spieltag</title>
+<programme start="20250716023000 +0000" stop="20250716043000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Borussia Dortmund - VfL Wolfsburg, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20250707123000 +0000" stop="20250707143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - VfL Wolfsburg, 18. Spieltag</title>
+<programme start="20250716043000 +0000" stop="20250716063000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: 1. FC Köln - Jahn Regensburg, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20250707143000 +0000" stop="20250707163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Bayer Leverkusen - Borussia Mönchengladbach, tipico Topspiel der Woche, 18. Spieltag</title>
-</programme>
-<programme start="20250707163000 +0000" stop="20250707183000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: Hamburger SV - 1. FC Köln tipico Topspiel der Woche, 18. Spieltag</title>
-</programme>
-<programme start="20250707183000 +0000" stop="20250707203000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: SC Freiburg - FC Bayern München, 19. Spieltag</title>
-</programme>
-<programme start="20250707203000 +0000" stop="20250707223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Borussia Mönchengladbach - VfL Bochum, tipico Topspiel der Woche, 19. Spieltag</title>
+<programme start="20250716063000 +0000" stop="20250716064500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Info: UHD</title>
 </programme>
 <programme start="20250715220000 +0000" stop="20250715230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Farm to Finish 275</title>
