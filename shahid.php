@@ -1,6 +1,3 @@
-    <programme start="20250716000000 +0000" stop="20250717235959 +0000" channel="946945.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250716000000 +0000" stop="20250716003000 +0000" channel="946946.shahid">
         <title>Al Quran Al Kareem</title>
     </programme>
@@ -6955,6 +6952,9 @@
     <programme start="20250717230500 +0000" stop="20250717235959 +0000" channel="862837.shahid">
         <title>Rihlat Ma&#039;a Al Taqa S2 - Episode 2</title>
     </programme>
+    <programme start="20250716000000 +0000" stop="20250717235959 +0000" channel="999927.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250716000000 +0000" stop="20250716002445 +0000" channel="1005232.shahid">
         <title>Selfie Season 3 Episode 12</title>
     </programme>
@@ -7194,9 +7194,6 @@
     </programme>
     <programme start="20250717232746 +0000" stop="20250717235959 +0000" channel="1005232.shahid">
         <title>Selfie Season 3 Episode 29</title>
-    </programme>
-    <programme start="20250716000000 +0000" stop="20250717235959 +0000" channel="999927.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20250716000000 +0000" stop="20250716003000 +0000" channel="946948.shahid">
         <title>Al Akhbar</title>
@@ -7504,123 +7501,6 @@
     <programme start="20250717230500 +0000" stop="20250718000000 +0000" channel="946948.shahid">
         <title>Huna Al Reyad</title>
     </programme>
-    <programme start="20250716000000 +0000" stop="20250716003000 +0000" channel="995495.shahid">
-        <title>Mediterranean With Simon Reeve</title>
-    </programme>
-    <programme start="20250716003000 +0000" stop="20250716013000 +0000" channel="995495.shahid">
-        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
-    </programme>
-    <programme start="20250716013000 +0000" stop="20250716023100 +0000" channel="995495.shahid">
-        <title>Hakaya Al Maraya Episode 18</title>
-    </programme>
-    <programme start="20250716023100 +0000" stop="20250716033600 +0000" channel="995495.shahid">
-        <title>Mediterranean With Simon Reeve</title>
-    </programme>
-    <programme start="20250716033600 +0000" stop="20250716043800 +0000" channel="995495.shahid">
-        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
-    </programme>
-    <programme start="20250716043800 +0000" stop="20250716053700 +0000" channel="995495.shahid">
-        <title>Qawl Ala Qawl Season 1 Episode 3</title>
-    </programme>
-    <programme start="20250716053700 +0000" stop="20250716060000 +0000" channel="995495.shahid">
-        <title>Asateer Al Awaleen Season 1 Episode 10</title>
-    </programme>
-    <programme start="20250716060000 +0000" stop="20250716070000 +0000" channel="995495.shahid">
-        <title>Hakaya Al Maraya Episode 18</title>
-    </programme>
-    <programme start="20250716070000 +0000" stop="20250716073000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya Season 1 Episode 394</title>
-    </programme>
-    <programme start="20250716073000 +0000" stop="20250716083000 +0000" channel="995495.shahid">
-        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
-    </programme>
-    <programme start="20250716083000 +0000" stop="20250716093000 +0000" channel="995495.shahid">
-        <title>Qawl Ala Qawl Season 1 Episode 3</title>
-    </programme>
-    <programme start="20250716093000 +0000" stop="20250716104300 +0000" channel="995495.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 13</title>
-    </programme>
-    <programme start="20250716104300 +0000" stop="20250716115500 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh Season 1 Episode 43</title>
-    </programme>
-    <programme start="20250716115500 +0000" stop="20250716123000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya Season 1 Episode 394</title>
-    </programme>
-    <programme start="20250716123000 +0000" stop="20250716133000 +0000" channel="995495.shahid">
-        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
-    </programme>
-    <programme start="20250716133000 +0000" stop="20250716142500 +0000" channel="995495.shahid">
-        <title>Qawl Ala Qawl Season 1 Episode 3</title>
-    </programme>
-    <programme start="20250716142500 +0000" stop="20250716150100 +0000" channel="995495.shahid">
-        <title>The World From Above</title>
-    </programme>
-    <programme start="20250716150100 +0000" stop="20250716160100 +0000" channel="995495.shahid">
-        <title>Hakaya Al Maraya Episode 19</title>
-    </programme>
-    <programme start="20250716160100 +0000" stop="20250716170000 +0000" channel="995495.shahid">
-        <title>Revolutions: The Ideas That Changed The World Season 1 Episode 1</title>
-    </programme>
-    <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20250716173000 +0000" stop="20250716173400 +0000" channel="995495.shahid">
-        <title>Cultural Origins: Short Documentaries</title>
-    </programme>
-    <programme start="20250716173400 +0000" stop="20250716180700 +0000" channel="995495.shahid">
-        <title>Al Yamama</title>
-    </programme>
-    <programme start="20250716180700 +0000" stop="20250716190300 +0000" channel="995495.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250716190300 +0000" stop="20250716200000 +0000" channel="995495.shahid">
-        <title>Ketab Wa Mon&#039;ataf Season 1 Episode 3</title>
-    </programme>
-    <programme start="20250716200000 +0000" stop="20250716202500 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20250716202500 +0000" stop="20250716205700 +0000" channel="995495.shahid">
-        <title>Al Yamama</title>
-    </programme>
-    <programme start="20250716205700 +0000" stop="20250716211100 +0000" channel="995495.shahid">
-        <title>Cultural Origins: Short Documentaries</title>
-    </programme>
-    <programme start="20250716211100 +0000" stop="20250716215900 +0000" channel="995495.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250716215900 +0000" stop="20250716230000 +0000" channel="995495.shahid">
-        <title>Ketab Wa Mon&#039;ataf Season 1 Episode 3</title>
-    </programme>
-    <programme start="20250716230000 +0000" stop="20250716233000 +0000" channel="995495.shahid">
-        <title>Masaa AlThaqafeya</title>
-    </programme>
-    <programme start="20250716233000 +0000" stop="20250717003000 +0000" channel="995495.shahid">
-        <title>Revolutions: The Ideas That Changed The World Season 1 Episode 1</title>
-    </programme>
-    <programme start="20250717003000 +0000" stop="20250717013000 +0000" channel="995495.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250717013000 +0000" stop="20250717023000 +0000" channel="995495.shahid">
-        <title>Hakaya Al Maraya Episode 19</title>
-    </programme>
-    <programme start="20250717023000 +0000" stop="20250717032500 +0000" channel="995495.shahid">
-        <title>Revolutions: The Ideas That Changed The World Season 1 Episode 1</title>
-    </programme>
-    <programme start="20250717032500 +0000" stop="20250717035700 +0000" channel="995495.shahid">
-        <title>Al Yamama</title>
-    </programme>
-    <programme start="20250717035700 +0000" stop="20250717040200 +0000" channel="995495.shahid">
-        <title>Cultural Origins: Short Documentaries</title>
-    </programme>
-    <programme start="20250717040200 +0000" stop="20250717050300 +0000" channel="995495.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250717050300 +0000" stop="20250717060000 +0000" channel="995495.shahid">
-        <title>Ketab Wa Mon&#039;ataf Season 1 Episode 3</title>
-    </programme>
-    <programme start="20250717060000 +0000" stop="20250717235959 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250716000000 +0000" stop="20250716002141 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 7 Episode 23</title>
     </programme>
@@ -7768,6 +7648,180 @@
     <programme start="20250717115959 +0000" stop="20250717235959 +0000" channel="975435.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20250716000000 +0000" stop="20250716003000 +0000" channel="995495.shahid">
+        <title>Mediterranean With Simon Reeve</title>
+    </programme>
+    <programme start="20250716003000 +0000" stop="20250716013000 +0000" channel="995495.shahid">
+        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
+    </programme>
+    <programme start="20250716013000 +0000" stop="20250716023100 +0000" channel="995495.shahid">
+        <title>Hakaya Al Maraya Episode 18</title>
+    </programme>
+    <programme start="20250716023100 +0000" stop="20250716033600 +0000" channel="995495.shahid">
+        <title>Mediterranean With Simon Reeve</title>
+    </programme>
+    <programme start="20250716033600 +0000" stop="20250716043800 +0000" channel="995495.shahid">
+        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
+    </programme>
+    <programme start="20250716043800 +0000" stop="20250716053700 +0000" channel="995495.shahid">
+        <title>Qawl Ala Qawl Season 1 Episode 3</title>
+    </programme>
+    <programme start="20250716053700 +0000" stop="20250716060000 +0000" channel="995495.shahid">
+        <title>Asateer Al Awaleen Season 1 Episode 10</title>
+    </programme>
+    <programme start="20250716060000 +0000" stop="20250716070000 +0000" channel="995495.shahid">
+        <title>Hakaya Al Maraya Episode 18</title>
+    </programme>
+    <programme start="20250716070000 +0000" stop="20250716073000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya Season 1 Episode 394</title>
+    </programme>
+    <programme start="20250716073000 +0000" stop="20250716083000 +0000" channel="995495.shahid">
+        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
+    </programme>
+    <programme start="20250716083000 +0000" stop="20250716093000 +0000" channel="995495.shahid">
+        <title>Qawl Ala Qawl Season 1 Episode 3</title>
+    </programme>
+    <programme start="20250716093000 +0000" stop="20250716104300 +0000" channel="995495.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 13</title>
+    </programme>
+    <programme start="20250716104300 +0000" stop="20250716115500 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh Season 1 Episode 43</title>
+    </programme>
+    <programme start="20250716115500 +0000" stop="20250716123000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya Season 1 Episode 394</title>
+    </programme>
+    <programme start="20250716123000 +0000" stop="20250716133000 +0000" channel="995495.shahid">
+        <title>Hatha Howa: Ahmed Ibrahim Al Faqih</title>
+    </programme>
+    <programme start="20250716133000 +0000" stop="20250716142500 +0000" channel="995495.shahid">
+        <title>Qawl Ala Qawl Season 1 Episode 3</title>
+    </programme>
+    <programme start="20250716142500 +0000" stop="20250716150100 +0000" channel="995495.shahid">
+        <title>The World From Above</title>
+    </programme>
+    <programme start="20250716150100 +0000" stop="20250716160100 +0000" channel="995495.shahid">
+        <title>Hakaya Al Maraya Episode 19</title>
+    </programme>
+    <programme start="20250716160100 +0000" stop="20250716170000 +0000" channel="995495.shahid">
+        <title>Revolutions: The Ideas That Changed The World Season 1 Episode 1</title>
+    </programme>
+    <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20250716173000 +0000" stop="20250716173400 +0000" channel="995495.shahid">
+        <title>Cultural Origins: Short Documentaries</title>
+    </programme>
+    <programme start="20250716173400 +0000" stop="20250716180700 +0000" channel="995495.shahid">
+        <title>Al Yamama</title>
+    </programme>
+    <programme start="20250716180700 +0000" stop="20250716190300 +0000" channel="995495.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250716190300 +0000" stop="20250716200000 +0000" channel="995495.shahid">
+        <title>Ketab Wa Mon&#039;ataf Season 1 Episode 3</title>
+    </programme>
+    <programme start="20250716200000 +0000" stop="20250716202500 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20250716202500 +0000" stop="20250716205700 +0000" channel="995495.shahid">
+        <title>Al Yamama</title>
+    </programme>
+    <programme start="20250716205700 +0000" stop="20250716211100 +0000" channel="995495.shahid">
+        <title>Cultural Origins: Short Documentaries</title>
+    </programme>
+    <programme start="20250716211100 +0000" stop="20250716215900 +0000" channel="995495.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250716215900 +0000" stop="20250716230000 +0000" channel="995495.shahid">
+        <title>Ketab Wa Mon&#039;ataf Season 1 Episode 3</title>
+    </programme>
+    <programme start="20250716230000 +0000" stop="20250716233000 +0000" channel="995495.shahid">
+        <title>Masaa AlThaqafeya</title>
+    </programme>
+    <programme start="20250716233000 +0000" stop="20250717003000 +0000" channel="995495.shahid">
+        <title>Revolutions: The Ideas That Changed The World Season 1 Episode 1</title>
+    </programme>
+    <programme start="20250717003000 +0000" stop="20250717013000 +0000" channel="995495.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250717013000 +0000" stop="20250717023000 +0000" channel="995495.shahid">
+        <title>Hakaya Al Maraya Episode 19</title>
+    </programme>
+    <programme start="20250717023000 +0000" stop="20250717032500 +0000" channel="995495.shahid">
+        <title>Revolutions: The Ideas That Changed The World Season 1 Episode 1</title>
+    </programme>
+    <programme start="20250717032500 +0000" stop="20250717035700 +0000" channel="995495.shahid">
+        <title>Al Yamama</title>
+    </programme>
+    <programme start="20250717035700 +0000" stop="20250717040200 +0000" channel="995495.shahid">
+        <title>Cultural Origins: Short Documentaries</title>
+    </programme>
+    <programme start="20250717040200 +0000" stop="20250717050300 +0000" channel="995495.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250717050300 +0000" stop="20250717060000 +0000" channel="995495.shahid">
+        <title>Ketab Wa Mon&#039;ataf Season 1 Episode 3</title>
+    </programme>
+    <programme start="20250717060000 +0000" stop="20250717235959 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250716000000 +0000" stop="20250716030000 +0000" channel="388566.shahid">
+        <title>Song</title>
+    </programme>
+    <programme start="20250716030000 +0000" stop="20250716070000 +0000" channel="388566.shahid">
+        <title>Ahla Sabah</title>
+    </programme>
+    <programme start="20250716070000 +0000" stop="20250716100000 +0000" channel="388566.shahid">
+        <title>Panorama Cafe</title>
+    </programme>
+    <programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="388566.shahid">
+        <title>Hoda Wa Hunna</title>
+    </programme>
+    <programme start="20250716110000 +0000" stop="20250716140000 +0000" channel="388566.shahid">
+        <title>Siwaqa Time</title>
+    </programme>
+    <programme start="20250716140000 +0000" stop="20250716180000 +0000" channel="388566.shahid">
+        <title>Batwanes Beat</title>
+    </programme>
+    <programme start="20250716180000 +0000" stop="20250716183000 +0000" channel="388566.shahid">
+        <title>Chat Zone</title>
+    </programme>
+    <programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="388566.shahid">
+        <title>Chat Zone</title>
+    </programme>
+    <programme start="20250716190000 +0000" stop="20250716210000 +0000" channel="388566.shahid">
+        <title>Sahraneen</title>
+    </programme>
+    <programme start="20250716210000 +0000" stop="20250717030000 +0000" channel="388566.shahid">
+        <title>Song</title>
+    </programme>
+    <programme start="20250717030000 +0000" stop="20250717070000 +0000" channel="388566.shahid">
+        <title>Ahla Sabah</title>
+    </programme>
+    <programme start="20250717070000 +0000" stop="20250717100000 +0000" channel="388566.shahid">
+        <title>Panorama Cafe</title>
+    </programme>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="388566.shahid">
+        <title>Hoda Wa Hunna</title>
+    </programme>
+    <programme start="20250717110000 +0000" stop="20250717140000 +0000" channel="388566.shahid">
+        <title>Siwaqa Time</title>
+    </programme>
+    <programme start="20250717140000 +0000" stop="20250717180000 +0000" channel="388566.shahid">
+        <title>Batwanes Beat</title>
+    </programme>
+    <programme start="20250717180000 +0000" stop="20250717183000 +0000" channel="388566.shahid">
+        <title>Chat Zone</title>
+    </programme>
+    <programme start="20250717183000 +0000" stop="20250717190000 +0000" channel="388566.shahid">
+        <title>Chat Zone</title>
+    </programme>
+    <programme start="20250717190000 +0000" stop="20250717210000 +0000" channel="388566.shahid">
+        <title>Sahraneen</title>
+    </programme>
+    <programme start="20250717210000 +0000" stop="20250717235959 +0000" channel="388566.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250716000000 +0000" stop="20250716004442 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 3 Episode 3</title>
     </programme>
@@ -7879,61 +7933,121 @@
     <programme start="20250717234545 +0000" stop="20250717235959 +0000" channel="983124.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250716000000 +0000" stop="20250716030000 +0000" channel="388566.shahid">
-        <title>Song</title>
+    <programme start="20250716000000 +0000" stop="20250716010000 +0000" channel="387251.shahid">
+        <title>Endama Yaktamil Al Qamar  </title>
     </programme>
-    <programme start="20250716030000 +0000" stop="20250716070000 +0000" channel="388566.shahid">
-        <title>Ahla Sabah</title>
+    <programme start="20250716010000 +0000" stop="20250716020000 +0000" channel="387251.shahid">
+        <title>Al Thaman  </title>
     </programme>
-    <programme start="20250716070000 +0000" stop="20250716100000 +0000" channel="388566.shahid">
-        <title>Panorama Cafe</title>
+    <programme start="20250716020000 +0000" stop="20250716023000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 4</title>
     </programme>
-    <programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="388566.shahid">
-        <title>Hoda Wa Hunna</title>
+    <programme start="20250716023000 +0000" stop="20250716030000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 5</title>
     </programme>
-    <programme start="20250716110000 +0000" stop="20250716140000 +0000" channel="388566.shahid">
-        <title>Siwaqa Time</title>
+    <programme start="20250716030000 +0000" stop="20250716035500 +0000" channel="387251.shahid">
+        <title>Wa Tabqa Layla Season 1 Episode 107</title>
     </programme>
-    <programme start="20250716140000 +0000" stop="20250716180000 +0000" channel="388566.shahid">
-        <title>Batwanes Beat</title>
+    <programme start="20250716035500 +0000" stop="20250716050000 +0000" channel="387251.shahid">
+        <title>Dayman Amer  </title>
     </programme>
-    <programme start="20250716180000 +0000" stop="20250716183000 +0000" channel="388566.shahid">
-        <title>Chat Zone</title>
+    <programme start="20250716050000 +0000" stop="20250716053000 +0000" channel="387251.shahid">
+        <title>Al Malika Season 1 Episode 52</title>
     </programme>
-    <programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="388566.shahid">
-        <title>Chat Zone</title>
+    <programme start="20250716053000 +0000" stop="20250716060000 +0000" channel="387251.shahid">
+        <title>Ameel Al Hob Season 1 Episode 42</title>
     </programme>
-    <programme start="20250716190000 +0000" stop="20250716210000 +0000" channel="388566.shahid">
-        <title>Sahraneen</title>
+    <programme start="20250716060000 +0000" stop="20250716070000 +0000" channel="387251.shahid">
+        <title>Fareed  </title>
     </programme>
-    <programme start="20250716210000 +0000" stop="20250717030000 +0000" channel="388566.shahid">
-        <title>Song</title>
+    <programme start="20250716070000 +0000" stop="20250716080000 +0000" channel="387251.shahid">
+        <title>Lahm Ghazal  </title>
     </programme>
-    <programme start="20250717030000 +0000" stop="20250717070000 +0000" channel="388566.shahid">
-        <title>Ahla Sabah</title>
+    <programme start="20250716080000 +0000" stop="20250716083000 +0000" channel="387251.shahid">
+        <title>Al Malika Season 1 Episode 52</title>
     </programme>
-    <programme start="20250717070000 +0000" stop="20250717100000 +0000" channel="388566.shahid">
-        <title>Panorama Cafe</title>
+    <programme start="20250716083000 +0000" stop="20250716090000 +0000" channel="387251.shahid">
+        <title>Ameel Al Hob Season 1 Episode 42</title>
     </programme>
-    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="388566.shahid">
-        <title>Hoda Wa Hunna</title>
+    <programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="387251.shahid">
+        <title>Endama Yaktamil Al Qamar  </title>
     </programme>
-    <programme start="20250717110000 +0000" stop="20250717140000 +0000" channel="388566.shahid">
-        <title>Siwaqa Time</title>
+    <programme start="20250716100000 +0000" stop="20250716103000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 4</title>
     </programme>
-    <programme start="20250717140000 +0000" stop="20250717180000 +0000" channel="388566.shahid">
-        <title>Batwanes Beat</title>
+    <programme start="20250716103000 +0000" stop="20250716110000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 5</title>
     </programme>
-    <programme start="20250717180000 +0000" stop="20250717183000 +0000" channel="388566.shahid">
-        <title>Chat Zone</title>
+    <programme start="20250716110000 +0000" stop="20250716115500 +0000" channel="387251.shahid">
+        <title>Wa Tabqa Layla Season 1 Episode 107</title>
     </programme>
-    <programme start="20250717183000 +0000" stop="20250717190000 +0000" channel="388566.shahid">
-        <title>Chat Zone</title>
+    <programme start="20250716115500 +0000" stop="20250716130000 +0000" channel="387251.shahid">
+        <title>Dayman Amer  </title>
     </programme>
-    <programme start="20250717190000 +0000" stop="20250717210000 +0000" channel="388566.shahid">
-        <title>Sahraneen</title>
+    <programme start="20250716130000 +0000" stop="20250716140000 +0000" channel="387251.shahid">
+        <title>Al Thaman  </title>
     </programme>
-    <programme start="20250717210000 +0000" stop="20250717235959 +0000" channel="388566.shahid">
+    <programme start="20250716140000 +0000" stop="20250716150000 +0000" channel="387251.shahid">
+        <title>Fareed  </title>
+    </programme>
+    <programme start="20250716150000 +0000" stop="20250716160000 +0000" channel="387251.shahid">
+        <title>Lahm Ghazal  </title>
+    </programme>
+    <programme start="20250716160000 +0000" stop="20250716170000 +0000" channel="387251.shahid">
+        <title>Endama Yaktamil Al Qamar  </title>
+    </programme>
+    <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="387251.shahid">
+        <title>Al Malika Season 1 Episode 53</title>
+    </programme>
+    <programme start="20250716173000 +0000" stop="20250716180000 +0000" channel="387251.shahid">
+        <title>Ameel Al Hob Season 1 Episode 43</title>
+    </programme>
+    <programme start="20250716180000 +0000" stop="20250716183000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 22</title>
+    </programme>
+    <programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 29</title>
+    </programme>
+    <programme start="20250716190000 +0000" stop="20250716195500 +0000" channel="387251.shahid">
+        <title>Wa Tabqa Layla Season 1 Episode 108</title>
+    </programme>
+    <programme start="20250716195500 +0000" stop="20250716210000 +0000" channel="387251.shahid">
+        <title>Dayman Amer  </title>
+    </programme>
+    <programme start="20250716210000 +0000" stop="20250716220000 +0000" channel="387251.shahid">
+        <title>Al Thaman  </title>
+    </programme>
+    <programme start="20250716220000 +0000" stop="20250716230000 +0000" channel="387251.shahid">
+        <title>Fareed  </title>
+    </programme>
+    <programme start="20250716230000 +0000" stop="20250717000000 +0000" channel="387251.shahid">
+        <title>Lahm Ghazal  </title>
+    </programme>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="387251.shahid">
+        <title>Endama Yaktamil Al Qamar  </title>
+    </programme>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="387251.shahid">
+        <title>Al Thaman  </title>
+    </programme>
+    <programme start="20250717020000 +0000" stop="20250717023000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 22</title>
+    </programme>
+    <programme start="20250717023000 +0000" stop="20250717030000 +0000" channel="387251.shahid">
+        <title>Selfie Season 3 Episode 29</title>
+    </programme>
+    <programme start="20250717030000 +0000" stop="20250717035500 +0000" channel="387251.shahid">
+        <title>Wa Tabqa Layla Season 1 Episode 108</title>
+    </programme>
+    <programme start="20250717035500 +0000" stop="20250717050000 +0000" channel="387251.shahid">
+        <title>Dayman Amer  </title>
+    </programme>
+    <programme start="20250717050000 +0000" stop="20250717053000 +0000" channel="387251.shahid">
+        <title>Al Malika Season 1 Episode 53</title>
+    </programme>
+    <programme start="20250717053000 +0000" stop="20250717061200 +0000" channel="387251.shahid">
+        <title>Ameel Al Hob Season 1 Episode 43</title>
+    </programme>
+    <programme start="20250717061200 +0000" stop="20250717235959 +0000" channel="387251.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250716000000 +0000" stop="20250716003000 +0000" channel="946940.shahid">
@@ -8103,123 +8217,6 @@
     </programme>
     <programme start="20250717233000 +0000" stop="20250718000000 +0000" channel="946940.shahid">
         <title>Le Akher Nafas</title>
-    </programme>
-    <programme start="20250716000000 +0000" stop="20250716010000 +0000" channel="387251.shahid">
-        <title>Endama Yaktamil Al Qamar  </title>
-    </programme>
-    <programme start="20250716010000 +0000" stop="20250716020000 +0000" channel="387251.shahid">
-        <title>Al Thaman  </title>
-    </programme>
-    <programme start="20250716020000 +0000" stop="20250716023000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 4</title>
-    </programme>
-    <programme start="20250716023000 +0000" stop="20250716030000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 5</title>
-    </programme>
-    <programme start="20250716030000 +0000" stop="20250716035500 +0000" channel="387251.shahid">
-        <title>Wa Tabqa Layla Season 1 Episode 107</title>
-    </programme>
-    <programme start="20250716035500 +0000" stop="20250716050000 +0000" channel="387251.shahid">
-        <title>Dayman Amer  </title>
-    </programme>
-    <programme start="20250716050000 +0000" stop="20250716053000 +0000" channel="387251.shahid">
-        <title>Al Malika Season 1 Episode 52</title>
-    </programme>
-    <programme start="20250716053000 +0000" stop="20250716060000 +0000" channel="387251.shahid">
-        <title>Ameel Al Hob Season 1 Episode 42</title>
-    </programme>
-    <programme start="20250716060000 +0000" stop="20250716070000 +0000" channel="387251.shahid">
-        <title>Fareed  </title>
-    </programme>
-    <programme start="20250716070000 +0000" stop="20250716080000 +0000" channel="387251.shahid">
-        <title>Lahm Ghazal  </title>
-    </programme>
-    <programme start="20250716080000 +0000" stop="20250716083000 +0000" channel="387251.shahid">
-        <title>Al Malika Season 1 Episode 52</title>
-    </programme>
-    <programme start="20250716083000 +0000" stop="20250716090000 +0000" channel="387251.shahid">
-        <title>Ameel Al Hob Season 1 Episode 42</title>
-    </programme>
-    <programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="387251.shahid">
-        <title>Endama Yaktamil Al Qamar  </title>
-    </programme>
-    <programme start="20250716100000 +0000" stop="20250716103000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 4</title>
-    </programme>
-    <programme start="20250716103000 +0000" stop="20250716110000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 5</title>
-    </programme>
-    <programme start="20250716110000 +0000" stop="20250716115500 +0000" channel="387251.shahid">
-        <title>Wa Tabqa Layla Season 1 Episode 107</title>
-    </programme>
-    <programme start="20250716115500 +0000" stop="20250716130000 +0000" channel="387251.shahid">
-        <title>Dayman Amer  </title>
-    </programme>
-    <programme start="20250716130000 +0000" stop="20250716140000 +0000" channel="387251.shahid">
-        <title>Al Thaman  </title>
-    </programme>
-    <programme start="20250716140000 +0000" stop="20250716150000 +0000" channel="387251.shahid">
-        <title>Fareed  </title>
-    </programme>
-    <programme start="20250716150000 +0000" stop="20250716160000 +0000" channel="387251.shahid">
-        <title>Lahm Ghazal  </title>
-    </programme>
-    <programme start="20250716160000 +0000" stop="20250716170000 +0000" channel="387251.shahid">
-        <title>Endama Yaktamil Al Qamar  </title>
-    </programme>
-    <programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="387251.shahid">
-        <title>Al Malika Season 1 Episode 53</title>
-    </programme>
-    <programme start="20250716173000 +0000" stop="20250716180000 +0000" channel="387251.shahid">
-        <title>Ameel Al Hob Season 1 Episode 43</title>
-    </programme>
-    <programme start="20250716180000 +0000" stop="20250716183000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 22</title>
-    </programme>
-    <programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 29</title>
-    </programme>
-    <programme start="20250716190000 +0000" stop="20250716195500 +0000" channel="387251.shahid">
-        <title>Wa Tabqa Layla Season 1 Episode 108</title>
-    </programme>
-    <programme start="20250716195500 +0000" stop="20250716210000 +0000" channel="387251.shahid">
-        <title>Dayman Amer  </title>
-    </programme>
-    <programme start="20250716210000 +0000" stop="20250716220000 +0000" channel="387251.shahid">
-        <title>Al Thaman  </title>
-    </programme>
-    <programme start="20250716220000 +0000" stop="20250716230000 +0000" channel="387251.shahid">
-        <title>Fareed  </title>
-    </programme>
-    <programme start="20250716230000 +0000" stop="20250717000000 +0000" channel="387251.shahid">
-        <title>Lahm Ghazal  </title>
-    </programme>
-    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="387251.shahid">
-        <title>Endama Yaktamil Al Qamar  </title>
-    </programme>
-    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="387251.shahid">
-        <title>Al Thaman  </title>
-    </programme>
-    <programme start="20250717020000 +0000" stop="20250717023000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 22</title>
-    </programme>
-    <programme start="20250717023000 +0000" stop="20250717030000 +0000" channel="387251.shahid">
-        <title>Selfie Season 3 Episode 29</title>
-    </programme>
-    <programme start="20250717030000 +0000" stop="20250717035500 +0000" channel="387251.shahid">
-        <title>Wa Tabqa Layla Season 1 Episode 108</title>
-    </programme>
-    <programme start="20250717035500 +0000" stop="20250717050000 +0000" channel="387251.shahid">
-        <title>Dayman Amer  </title>
-    </programme>
-    <programme start="20250717050000 +0000" stop="20250717053000 +0000" channel="387251.shahid">
-        <title>Al Malika Season 1 Episode 53</title>
-    </programme>
-    <programme start="20250717053000 +0000" stop="20250717061200 +0000" channel="387251.shahid">
-        <title>Ameel Al Hob Season 1 Episode 43</title>
-    </programme>
-    <programme start="20250717061200 +0000" stop="20250717235959 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20250716000000 +0000" stop="20250717235959 +0000" channel="986024.shahid">
         <title>TV guide is not available</title>
@@ -8463,4 +8460,187 @@
     </programme>
     <programme start="20250717235034 +0000" stop="20250717235959 +0000" channel="963543.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250716000000 +0000" stop="20250716010000 +0000" channel="946945.shahid">
+        <title>Malik Ebn Anas A&#039;alem Al Madinah</title>
+    </programme>
+    <programme start="20250716010000 +0000" stop="20250716020000 +0000" channel="946945.shahid">
+        <title>Mosara Hora</title>
+    </programme>
+    <programme start="20250716020000 +0000" stop="20250716023000 +0000" channel="946945.shahid">
+        <title>A&#039;ta&#039; Men Ajl Al Insan</title>
+    </programme>
+    <programme start="20250716023000 +0000" stop="20250716030000 +0000" channel="946945.shahid">
+        <title>Safeenat Al Asdeqaa</title>
+    </programme>
+    <programme start="20250716030000 +0000" stop="20250716033000 +0000" channel="946945.shahid">
+        <title>Al Bo&#039;asa&#039;</title>
+    </programme>
+    <programme start="20250716033000 +0000" stop="20250716040000 +0000" channel="946945.shahid">
+        <title>Mosabqaat Khafefa</title>
+    </programme>
+    <programme start="20250716040000 +0000" stop="20250716050000 +0000" channel="946945.shahid">
+        <title>Khotowaat Nahwa Al Mostaheel</title>
+    </programme>
+    <programme start="20250716050000 +0000" stop="20250716060000 +0000" channel="946945.shahid">
+        <title>Ahlam Ramdia</title>
+    </programme>
+    <programme start="20250716060000 +0000" stop="20250716070000 +0000" channel="946945.shahid">
+        <title>Al Soqoot Fi Al Haaweyah</title>
+    </programme>
+    <programme start="20250716070000 +0000" stop="20250716073000 +0000" channel="946945.shahid">
+        <title>Safeenat Al Asdeqaa</title>
+    </programme>
+    <programme start="20250716073000 +0000" stop="20250716080000 +0000" channel="946945.shahid">
+        <title>Al Bo&#039;asa&#039;</title>
+    </programme>
+    <programme start="20250716080000 +0000" stop="20250716083000 +0000" channel="946945.shahid">
+        <title>Mosabqaat Khafefa</title>
+    </programme>
+    <programme start="20250716083000 +0000" stop="20250716090000 +0000" channel="946945.shahid">
+        <title>A&#039;ta&#039; Men Ajl Al Insan</title>
+    </programme>
+    <programme start="20250716090000 +0000" stop="20250716100000 +0000" channel="946945.shahid">
+        <title>Malik Ebn Anas A&#039;alem Al Madinah</title>
+    </programme>
+    <programme start="20250716100000 +0000" stop="20250716110000 +0000" channel="946945.shahid">
+        <title>Mosara Hora</title>
+    </programme>
+    <programme start="20250716110000 +0000" stop="20250716120000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250716120000 +0000" stop="20250716130000 +0000" channel="946945.shahid">
+        <title>Al Soqoot Fi Al Haaweyah</title>
+    </programme>
+    <programme start="20250716130000 +0000" stop="20250716133000 +0000" channel="946945.shahid">
+        <title>Al Bo&#039;asa&#039;</title>
+    </programme>
+    <programme start="20250716133000 +0000" stop="20250716140000 +0000" channel="946945.shahid">
+        <title>Safeenat Al Asdeqaa</title>
+    </programme>
+    <programme start="20250716140000 +0000" stop="20250716143000 +0000" channel="946945.shahid">
+        <title>Mosabqaat Khafefa</title>
+    </programme>
+    <programme start="20250716143000 +0000" stop="20250716153000 +0000" channel="946945.shahid">
+        <title>Ahlam Ramdia</title>
+    </programme>
+    <programme start="20250716153000 +0000" stop="20250716163000 +0000" channel="946945.shahid">
+        <title>Malik Ebn Anas A&#039;alem Al Madinah</title>
+    </programme>
+    <programme start="20250716163000 +0000" stop="20250716173000 +0000" channel="946945.shahid">
+        <title>Khotowaat Nahwa Al Mostaheel</title>
+    </programme>
+    <programme start="20250716173000 +0000" stop="20250716180000 +0000" channel="946945.shahid">
+        <title>A&#039;ta&#039; Men Ajl Al Insan</title>
+    </programme>
+    <programme start="20250716180000 +0000" stop="20250716183000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250716190000 +0000" stop="20250716200000 +0000" channel="946945.shahid">
+        <title>Al Soqoot Fi Al Haaweyah</title>
+    </programme>
+    <programme start="20250716200000 +0000" stop="20250716210000 +0000" channel="946945.shahid">
+        <title>Majallat Al Telfezyoon</title>
+    </programme>
+    <programme start="20250716210000 +0000" stop="20250716220000 +0000" channel="946945.shahid">
+        <title>Ahlam Ramdia</title>
+    </programme>
+    <programme start="20250716220000 +0000" stop="20250716230000 +0000" channel="946945.shahid">
+        <title>Khotowaat Nahwa Al Mostaheel</title>
+    </programme>
+    <programme start="20250716230000 +0000" stop="20250717000000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="946945.shahid">
+        <title>Malik Ebn Anas A&#039;alem Al Madinah</title>
+    </programme>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="946945.shahid">
+        <title>Majallat Al Telfezyoon</title>
+    </programme>
+    <programme start="20250717020000 +0000" stop="20250717023000 +0000" channel="946945.shahid">
+        <title>A&#039;ta&#039; Men Ajl Al Insan</title>
+    </programme>
+    <programme start="20250717023000 +0000" stop="20250717030000 +0000" channel="946945.shahid">
+        <title>Safeenat Al Asdeqaa</title>
+    </programme>
+    <programme start="20250717030000 +0000" stop="20250717033000 +0000" channel="946945.shahid">
+        <title>Al Bo&#039;asa&#039;</title>
+    </programme>
+    <programme start="20250717033000 +0000" stop="20250717040000 +0000" channel="946945.shahid">
+        <title>Mosabqaat Khafefa</title>
+    </programme>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="946945.shahid">
+        <title>Khotowaat Nahwa Al Mostaheel</title>
+    </programme>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="946945.shahid">
+        <title>Ahlam Ramdia</title>
+    </programme>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="946945.shahid">
+        <title>Al Soqoot Fi Al Haaweyah</title>
+    </programme>
+    <programme start="20250717070000 +0000" stop="20250717073000 +0000" channel="946945.shahid">
+        <title>Safeenat Al Asdeqaa</title>
+    </programme>
+    <programme start="20250717073000 +0000" stop="20250717080000 +0000" channel="946945.shahid">
+        <title>Al Bo&#039;asa&#039;</title>
+    </programme>
+    <programme start="20250717080000 +0000" stop="20250717083000 +0000" channel="946945.shahid">
+        <title>Mosabqaat Khafefa</title>
+    </programme>
+    <programme start="20250717083000 +0000" stop="20250717090000 +0000" channel="946945.shahid">
+        <title>A&#039;ta&#039; Men Ajl Al Insan</title>
+    </programme>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="946945.shahid">
+        <title>Malik Ebn Anas A&#039;alem Al Madinah</title>
+    </programme>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="946945.shahid">
+        <title>Majallat Al Telfezyoon</title>
+    </programme>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="946945.shahid">
+        <title>Al Soqoot Fi Al Haaweyah</title>
+    </programme>
+    <programme start="20250717130000 +0000" stop="20250717133000 +0000" channel="946945.shahid">
+        <title>Al Bo&#039;asa&#039;</title>
+    </programme>
+    <programme start="20250717133000 +0000" stop="20250717140000 +0000" channel="946945.shahid">
+        <title>Safeenat Al Asdeqaa</title>
+    </programme>
+    <programme start="20250717140000 +0000" stop="20250717143000 +0000" channel="946945.shahid">
+        <title>Mosabqaat Khafefa</title>
+    </programme>
+    <programme start="20250717143000 +0000" stop="20250717153000 +0000" channel="946945.shahid">
+        <title>Ahlam Ramdia</title>
+    </programme>
+    <programme start="20250717153000 +0000" stop="20250717163000 +0000" channel="946945.shahid">
+        <title>Malik Ebn Anas A&#039;alem Al Madinah</title>
+    </programme>
+    <programme start="20250717163000 +0000" stop="20250717173000 +0000" channel="946945.shahid">
+        <title>Khotowaat Nahwa Al Mostaheel</title>
+    </programme>
+    <programme start="20250717173000 +0000" stop="20250717180000 +0000" channel="946945.shahid">
+        <title>A&#039;ta&#039; Men Ajl Al Insan</title>
+    </programme>
+    <programme start="20250717180000 +0000" stop="20250717183000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250717183000 +0000" stop="20250717190000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
+    </programme>
+    <programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="946945.shahid">
+        <title>Al Soqoot Fi Al Haaweyah</title>
+    </programme>
+    <programme start="20250717200000 +0000" stop="20250717220000 +0000" channel="946945.shahid">
+        <title>Sahrah Cinema&#039;eyyah</title>
+    </programme>
+    <programme start="20250717220000 +0000" stop="20250717230000 +0000" channel="946945.shahid">
+        <title>Khotowaat Nahwa Al Mostaheel</title>
+    </programme>
+    <programme start="20250717230000 +0000" stop="20250718000000 +0000" channel="946945.shahid">
+        <title>Neqat Malmosah</title>
     </programme>
