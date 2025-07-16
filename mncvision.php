@@ -4630,8 +4630,138 @@
 <programme start="20250717163000 +0000" stop="20250716170000 +0000" channel="IDX.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250716173000 +0000" stop="20250716183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250716183000 +0000" stop="20250716193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250716193000 +0000" stop="20250716203000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250716203000 +0000" stop="20250716213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250716213000 +0000" stop="20250716220000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250716220000 +0000" stop="20250716230000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250716230000 +0000" stop="20250717000000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250717010000 +0000" stop="20250717013000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250717013000 +0000" stop="20250717023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20250717023000 +0000" stop="20250717033000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250717033000 +0000" stop="20250717043000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250717043000 +0000" stop="20250717050000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250717050000 +0000" stop="20250717053000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20250717053000 +0000" stop="20250717063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250717063000 +0000" stop="20250717070000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250717070000 +0000" stop="20250717073000 +0000" channel="IDX HD.mncvision">
+    <title>Rasa Indonesia</title>
+</programme>
+<programme start="20250717073000 +0000" stop="20250717083000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250717083000 +0000" stop="20250717093000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20250717093000 +0000" stop="20250717103000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250717103000 +0000" stop="20250717110000 +0000" channel="IDX HD.mncvision">
+    <title>Rasa Indonesia</title>
+</programme>
+<programme start="20250717110000 +0000" stop="20250717113000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250717113000 +0000" stop="20250717120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review (L)</title>
+</programme>
+<programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250717163000 +0000" stop="20250716170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250716175000 +0000" stop="20250716191500 +0000" channel="IMC.mncvision">
+    <title>Drop Out</title>
+</programme>
+<programme start="20250716191500 +0000" stop="20250716210500 +0000" channel="IMC.mncvision">
+    <title>Petualangan 100 Jam</title>
+</programme>
+<programme start="20250716210500 +0000" stop="20250716222500 +0000" channel="IMC.mncvision">
+    <title>Tumbal 97</title>
+</programme>
+<programme start="20250716222500 +0000" stop="20250717000000 +0000" channel="IMC.mncvision">
+    <title>2 Dari 3 Laki-Laki</title>
+</programme>
+<programme start="20250717000000 +0000" stop="20250717015000 +0000" channel="IMC.mncvision">
+    <title>5 Cowok Jagoan</title>
+</programme>
+<programme start="20250717015000 +0000" stop="20250717032000 +0000" channel="IMC.mncvision">
+    <title>Nazar</title>
+</programme>
+<programme start="20250717032000 +0000" stop="20250717050000 +0000" channel="IMC.mncvision">
+    <title>Punk In Love</title>
+</programme>
+<programme start="20250717050000 +0000" stop="20250717063500 +0000" channel="IMC.mncvision">
+    <title>Mencari Hilal</title>
+</programme>
+<programme start="20250717063500 +0000" stop="20250717080500 +0000" channel="IMC.mncvision">
+    <title>Abdullah Dan Takeshi</title>
+</programme>
+<programme start="20250717080500 +0000" stop="20250717093500 +0000" channel="IMC.mncvision">
+    <title>Warkop: Tahu Diri Dong</title>
+</programme>
+<programme start="20250717093500 +0000" stop="20250717112000 +0000" channel="IMC.mncvision">
+    <title>Arie Hanggara</title>
+</programme>
+<programme start="20250717112000 +0000" stop="20250717130000 +0000" channel="IMC.mncvision">
+    <title>Jamila Dan Sang Presiden</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717143500 +0000" channel="IMC.mncvision">
+    <title>Hantu Juga Selfie</title>
+</programme>
+<programme start="20250717143500 +0000" stop="20250717160000 +0000" channel="IMC.mncvision">
+    <title>Kirun+Adul Pengen Punya...</title>
+</programme>
+<programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="IMC.mncvision">
+    <title>Susah Jaga Keperawanan Di...</title>
+</programme>
 <programme start="20250716170000 +0000" stop="20250716183000 +0000" channel="Indosiar.mncvision">
     <title>Mega Film Asia</title>
 </programme>
@@ -6285,8 +6415,231 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250717163000 +0000" stop="20250716170000 +0000" channel="Music TV HD.mncvision">
     <title>Indonesian Idol 2024</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250716171500 +0000" stop="20250716191500 +0000" channel="Muslim TV.mncvision">
+    <title>Live Dari Mekkah (L)</title>
+</programme>
+<programme start="20250716191500 +0000" stop="20250716194500 +0000" channel="Muslim TV.mncvision">
+    <title>Para Malaikat Di Sekitar Kita</title>
+</programme>
+<programme start="20250716194500 +0000" stop="20250716204500 +0000" channel="Muslim TV.mncvision">
+    <title>Dzolim</title>
+</programme>
+<programme start="20250716204500 +0000" stop="20250716220000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250716220000 +0000" stop="20250716233000 +0000" channel="Muslim TV.mncvision">
+    <title>Hafiz Indonesia 2021</title>
+</programme>
+<programme start="20250716233000 +0000" stop="20250717010000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu, Ust. Dhanu</title>
+</programme>
+<programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="Muslim TV.mncvision">
+    <title>Bintang Di Hatiku</title>
+</programme>
+<programme start="20250717020000 +0000" stop="20250717031500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250717031500 +0000" stop="20250717041500 +0000" channel="Muslim TV.mncvision">
+    <title>Aku Bukan Ustadz</title>
+</programme>
+<programme start="20250717041500 +0000" stop="20250717044500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20250717044500 +0000" stop="20250717053000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20250717053000 +0000" stop="20250717063000 +0000" channel="Muslim TV.mncvision">
+    <title>Kisah Ruqyah</title>
+</programme>
+<programme start="20250717063000 +0000" stop="20250717080000 +0000" channel="Muslim TV.mncvision">
+    <title>Rahasia Batin</title>
+</programme>
+<programme start="20250717080000 +0000" stop="20250717083000 +0000" channel="Muslim TV.mncvision">
+    <title>Jejak Kebesaran-Mu</title>
+</programme>
+<programme start="20250717083000 +0000" stop="20250717093000 +0000" channel="Muslim TV.mncvision">
+    <title>Satu</title>
+</programme>
+<programme start="20250717093000 +0000" stop="20250717100000 +0000" channel="Muslim TV.mncvision">
+    <title>Kajian Bioskop</title>
+</programme>
+<programme start="20250717100000 +0000" stop="20250717111500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S6</title>
+</programme>
+<programme start="20250717111500 +0000" stop="20250717114500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20250717114500 +0000" stop="20250717115500 +0000" channel="Muslim TV.mncvision">
+    <title>Rahmatan Lil &#039;Alamin</title>
+</programme>
+<programme start="20250717115500 +0000" stop="20250717130000 +0000" channel="Muslim TV.mncvision">
+    <title>Sampeyan Muslim??</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717143000 +0000" channel="Muslim TV.mncvision">
+    <title>Rahasia Batin Ust. Dhanu</title>
+</programme>
+<programme start="20250717143000 +0000" stop="20250717153000 +0000" channel="Muslim TV.mncvision">
+    <title>Cinta Anak Soleh</title>
+</programme>
+<programme start="20250717153000 +0000" stop="20250717163000 +0000" channel="Muslim TV.mncvision">
+    <title>Satu</title>
+</programme>
+<programme start="20250717163000 +0000" stop="20250717164500 +0000" channel="Muslim TV.mncvision">
+    <title>Rahmatan Lil &#039;Alamin</title>
+</programme>
+<programme start="20250717164500 +0000" stop="20250716171500 +0000" channel="Muslim TV.mncvision">
+    <title>Jejak Kebesaran-Mu</title>
+</programme>
+<programme start="20250716170000 +0000" stop="20250716173000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250716173000 +0000" stop="20250716174500 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250716174500 +0000" stop="20250716180000 +0000" channel="NHK World.mncvision">
+    <title>Japan&#039;s Top Inventions</title>
+</programme>
+<programme start="20250716180000 +0000" stop="20250716182800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250716182800 +0000" stop="20250716184300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250716184300 +0000" stop="20250716185500 +0000" channel="NHK World.mncvision">
+    <title>Hall Of Laughter</title>
+</programme>
+<programme start="20250716185500 +0000" stop="20250716190000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Clam-Digging</title>
+</programme>
+<programme start="20250716190000 +0000" stop="20250716193000 +0000" channel="NHK World.mncvision">
+    <title>Biz Stream</title>
+</programme>
+<programme start="20250716193000 +0000" stop="20250716200000 +0000" channel="NHK World.mncvision">
+    <title>Frontrunners</title>
+</programme>
+<programme start="20250716200000 +0000" stop="20250716203000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250716203000 +0000" stop="20250716210000 +0000" channel="NHK World.mncvision">
+    <title>Trails To Oishii Tokyo</title>
+</programme>
+<programme start="20250716210000 +0000" stop="20250716213000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250716213000 +0000" stop="20250716220000 +0000" channel="NHK World.mncvision">
+    <title>Dive In Tokyo</title>
+</programme>
+<programme start="20250716220000 +0000" stop="20250716223000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250716223000 +0000" stop="20250716224500 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250716224500 +0000" stop="20250716230000 +0000" channel="NHK World.mncvision">
+    <title>Japan&#039;s Top Inventions</title>
+</programme>
+<programme start="20250716230000 +0000" stop="20250716233000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250716233000 +0000" stop="20250716235700 +0000" channel="NHK World.mncvision">
+    <title>Grand Sumo Highlights</title>
+</programme>
+<programme start="20250716235700 +0000" stop="20250717000000 +0000" channel="NHK World.mncvision">
+    <title>Sumopedia</title>
+</programme>
+<programme start="20250717000000 +0000" stop="20250717003000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717003000 +0000" stop="20250717010000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20250717010000 +0000" stop="20250717013000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717013000 +0000" stop="20250717020000 +0000" channel="NHK World.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250717020000 +0000" stop="20250717023000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717023000 +0000" stop="20250717030000 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20250717030000 +0000" stop="20250717033000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717033000 +0000" stop="20250717040000 +0000" channel="NHK World.mncvision">
+    <title>Trails To Oishii Tokyo</title>
+</programme>
+<programme start="20250717040000 +0000" stop="20250717043000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717043000 +0000" stop="20250717045700 +0000" channel="NHK World.mncvision">
+    <title>Grand Sumo Highlights</title>
+</programme>
+<programme start="20250717045700 +0000" stop="20250717050000 +0000" channel="NHK World.mncvision">
+    <title>Sumopedia</title>
+</programme>
+<programme start="20250717050000 +0000" stop="20250717053000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717053000 +0000" stop="20250717060000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20250717060000 +0000" stop="20250717063000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717063000 +0000" stop="20250717070000 +0000" channel="NHK World.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250717070000 +0000" stop="20250717073000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717073000 +0000" stop="20250717080000 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20250717080000 +0000" stop="20250717083000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717083000 +0000" stop="20250717085700 +0000" channel="NHK World.mncvision">
+    <title>Grand Sumo Highlights</title>
+</programme>
+<programme start="20250717085700 +0000" stop="20250717090000 +0000" channel="NHK World.mncvision">
+    <title>Sumopedia</title>
+</programme>
+<programme start="20250717090000 +0000" stop="20250717093000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20250717093000 +0000" stop="20250717100000 +0000" channel="NHK World.mncvision">
+    <title>Trails To Oishii Tokyo</title>
+</programme>
+<programme start="20250717100000 +0000" stop="20250717103000 +0000" channel="NHK World.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20250717103000 +0000" stop="20250717110000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20250717110000 +0000" stop="20250717112800 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250717112800 +0000" stop="20250717114300 +0000" channel="NHK World.mncvision">
+    <title>Direct Talk</title>
+</programme>
+<programme start="20250717114300 +0000" stop="20250717115500 +0000" channel="NHK World.mncvision">
+    <title>A Different Kind Of Fish</title>
+</programme>
+<programme start="20250717115500 +0000" stop="20250717120000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Takinogawa</title>
+</programme>
+<programme start="20250717120000 +0000" stop="20250717123000 +0000" channel="NHK World.mncvision">
+    <title>Newsroom Tokyo</title>
+</programme>
+<programme start="20250717123000 +0000" stop="20250717130000 +0000" channel="NHK World.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717133000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
 <programme start="20250716170500 +0000" stop="20250716171000 +0000" channel="NHK World Premium.mncvision">
     <title>Bijutune!</title>
 </programme>
