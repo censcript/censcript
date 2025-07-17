@@ -8395,7 +8395,7 @@
     <programme start="20250717113000 +0000" stop="20250717150000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 session 2</title>
     </programme>
-    <programme start="20250717150000 +0000" stop="20250717173000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250717150000 +0000" stop="20250717180000 +0000" channel="SPOTV2.starhub">
         <title>MLB All Stars Game 2025</title>
     </programme>
     <programme start="20250716153000 +0000" stop="20250716170000 +0000" channel="Dragon TV.starhub">
