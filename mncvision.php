@@ -8185,14 +8185,11 @@
 <programme start="20250717120000 +0000" stop="20250717133000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Prime</title>
 </programme>
-<programme start="20250717133000 +0000" stop="20250717143000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20250717143000 +0000" stop="20250717153000 +0000" channel="Sindo News TV.mncvision">
-    <title>The Prime Show</title>
+<programme start="20250717133000 +0000" stop="20250717153000 +0000" channel="Sindo News TV.mncvision">
+    <title>Rakyat Bersuara</title>
 </programme>
 <programme start="20250717153000 +0000" stop="20250717163000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Files</title>
+    <title>SINDO Malam</title>
 </programme>
 <programme start="20250717163000 +0000" stop="20250716170000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
@@ -8260,14 +8257,11 @@
 <programme start="20250717120000 +0000" stop="20250717133000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Prime</title>
 </programme>
-<programme start="20250717133000 +0000" stop="20250717143000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20250717143000 +0000" stop="20250717153000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>The Prime Show</title>
+<programme start="20250717133000 +0000" stop="20250717153000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Rakyat Bersuara</title>
 </programme>
 <programme start="20250717153000 +0000" stop="20250717163000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Files</title>
+    <title>SINDO Malam</title>
 </programme>
 <programme start="20250717163000 +0000" stop="20250716170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>OMG</title>
