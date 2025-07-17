@@ -2701,7 +2701,7 @@
 <programme start="20250717084000 +0000" stop="20250717090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20250717090000 +0000" stop="20250717170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250717090000 +0000" stop="20250717190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 4. Tag</title>
 </programme>
 <programme start="20250716230000 +0000" stop="20250716234000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3196,7 +3196,7 @@
 <programme start="20250717084000 +0000" stop="20250717090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250717090000 +0000" stop="20250717170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250717090000 +0000" stop="20250717190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 250: MSC Hamburg Ladies Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20250717084000 +0000" stop="20250717090000 +0000" channel="Sky Sport 2 HD.skyde">

@@ -661,8 +661,14 @@
 <programme start="20250718114500 +0000" stop="20250718121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250716230000 +0000" stop="20250717010000 +0000" channel="ANTV.vision">
+<title>Singa Lodaya</title>
+</programme>
 <programme start="20250717010000 +0000" stop="20250717023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
+</programme>
+<programme start="20250717023000 +0000" stop="20250717060000 +0000" channel="ANTV.vision">
+<title>Chalte Chalte</title>
 </programme>
 <programme start="20250717060000 +0000" stop="20250717090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250718070000 +0000" stop="20250718080000 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
-</programme>
-<programme start="20250718080000 +0000" stop="20250718090000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20250718090000 +0000" stop="20250718100000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
 </programme>
