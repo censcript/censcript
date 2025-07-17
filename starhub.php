@@ -4742,7 +4742,7 @@
         <title>Peter Orszag, Lazard CEO</title>
     </programme>
     <programme start="20250717113000 +0000" stop="20250717120000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Luisa Gómez Bravo</title>
+        <title>Luisa Gomez Bravo</title>
     </programme>
     <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Surveillance</title>
