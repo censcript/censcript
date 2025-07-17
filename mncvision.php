@@ -580,7 +580,87 @@
 <programme start="20250717130000 +0000" stop="20250717133000 +0000" channel="Arirang.mncvision">
     <title>Home To Table</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250716172500 +0000" stop="20250716182000 +0000" channel="AXN.mncvision">
+    <title>Fantasy Island S2, Ep 7</title>
+</programme>
+<programme start="20250716182000 +0000" stop="20250716191500 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S1, Ep 9</title>
+</programme>
+<programme start="20250716191500 +0000" stop="20250716201000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 3</title>
+</programme>
+<programme start="20250716201000 +0000" stop="20250716210500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S2, Ep 7</title>
+</programme>
+<programme start="20250716210500 +0000" stop="20250716220000 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 13</title>
+</programme>
+<programme start="20250716220000 +0000" stop="20250716225000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S1, Ep 9</title>
+</programme>
+<programme start="20250716225000 +0000" stop="20250716234000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S2, Ep 7</title>
+</programme>
+<programme start="20250716234000 +0000" stop="20250717003500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S2, Ep 4</title>
+</programme>
+<programme start="20250717003500 +0000" stop="20250717013000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 4</title>
+</programme>
+<programme start="20250717013000 +0000" stop="20250717022000 +0000" channel="AXN.mncvision">
+    <title>Fantasy Island S2, Ep 7</title>
+</programme>
+<programme start="20250717022000 +0000" stop="20250717031000 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S2, Ep 7</title>
+</programme>
+<programme start="20250717031000 +0000" stop="20250717040000 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 13</title>
+</programme>
+<programme start="20250717040000 +0000" stop="20250717045500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S2, Ep 4</title>
+</programme>
+<programme start="20250717045500 +0000" stop="20250717054500 +0000" channel="AXN.mncvision">
+    <title>Fantasy Island S2, Ep 7</title>
+</programme>
+<programme start="20250717054500 +0000" stop="20250717064000 +0000" channel="AXN.mncvision">
+    <title>The Amazing Race S34, Ep 4</title>
+</programme>
+<programme start="20250717064000 +0000" stop="20250717073000 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 13</title>
+</programme>
+<programme start="20250717073000 +0000" stop="20250717082500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S2, Ep 4</title>
+</programme>
+<programme start="20250717082500 +0000" stop="20250717091500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S2, Ep 7</title>
+</programme>
+<programme start="20250717091500 +0000" stop="20250717101000 +0000" channel="AXN.mncvision">
+    <title>Fantasy Island S2, Ep 8</title>
+</programme>
+<programme start="20250717101000 +0000" stop="20250717110000 +0000" channel="AXN.mncvision">
+    <title>FBI: International S4, Ep 9</title>
+</programme>
+<programme start="20250717110000 +0000" stop="20250717115500 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S1, Ep 10</title>
+</programme>
+<programme start="20250717115500 +0000" stop="20250717125000 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 14</title>
+</programme>
+<programme start="20250717125000 +0000" stop="20250717134500 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S2, Ep 5</title>
+</programme>
+<programme start="20250717134500 +0000" stop="20250717144000 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S2, Ep 15</title>
+</programme>
+<programme start="20250717144000 +0000" stop="20250717152500 +0000" channel="AXN.mncvision">
+    <title>S.W.A.T. S2, Ep 8</title>
+</programme>
+<programme start="20250717152500 +0000" stop="20250717162000 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S2, Ep 15</title>
+</programme>
+<programme start="20250717162000 +0000" stop="20250717165000 +0000" channel="AXN.mncvision">
+    <title>Sight Unseen S2, Ep 5</title>
+</programme>
 <programme start="20250716172500 +0000" stop="20250716182000 +0000" channel="AXN HD.mncvision">
     <title>Fantasy Island S2, Ep 7</title>
 </programme>
@@ -1157,7 +1237,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250717070000 +0000" stop="20250717083000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Gstaad Day 3</title>
 </programme>
-<programme start="20250717083000 +0000" stop="20250717103000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250717083000 +0000" stop="20250717100000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Gstaad (L)</title>
+</programme>
+<programme start="20250717100000 +0000" stop="20250717103000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Gstaad (L)</title>
 </programme>
 <programme start="20250717103000 +0000" stop="20250717123000 +0000" channel="beIN Sports 2.mncvision">
@@ -1214,7 +1297,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250717070000 +0000" stop="20250717083000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Gstaad Day 3</title>
 </programme>
-<programme start="20250717083000 +0000" stop="20250717103000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250717083000 +0000" stop="20250717100000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Gstaad (L)</title>
+</programme>
+<programme start="20250717100000 +0000" stop="20250717103000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Gstaad (L)</title>
 </programme>
 <programme start="20250717103000 +0000" stop="20250717123000 +0000" channel="beIN Sports 2 HD.mncvision">
@@ -1232,8 +1318,114 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250717153000 +0000" stop="20250717160000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Gstaad (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20250716190000 +0000" stop="20250716200000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250716200000 +0000" stop="20250716210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250716210000 +0000" stop="20250716211500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Match HL: SEV Vs RMA</title>
+</programme>
+<programme start="20250716211500 +0000" stop="20250716214500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250716214500 +0000" stop="20250716221500 +0000" channel="beIN Sports 3.mncvision">
+    <title>RIDE FEI Originals 2025</title>
+</programme>
+<programme start="20250716221500 +0000" stop="20250717000000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Confederation: ASE Vs ORU</title>
+</programme>
+<programme start="20250717000000 +0000" stop="20250717003000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2024/25: MUN Vs ARS</title>
+</programme>
+<programme start="20250717003000 +0000" stop="20250717022000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: GIR Vs ESP</title>
+</programme>
+<programme start="20250717022000 +0000" stop="20250717041000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 2024/25: RAC Vs BUR</title>
+</programme>
+<programme start="20250717041000 +0000" stop="20250717060000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Champions: DJO Vs PYR</title>
+</programme>
+<programme start="20250717060000 +0000" stop="20250717075000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: LPM Vs MLL</title>
+</programme>
+<programme start="20250717075000 +0000" stop="20250717082500 +0000" channel="beIN Sports 3.mncvision">
+    <title>32nd LaLiga Futures: RMA Vs RSO</title>
+</programme>
+<programme start="20250717082500 +0000" stop="20250717090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>32nd LaLiga Futures: ESP Vs RSO</title>
+</programme>
+<programme start="20250717090000 +0000" stop="20250717110000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250717110000 +0000" stop="20250717130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717150000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250717150000 +0000" stop="20250717153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250716183000 +0000" stop="20250716190000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>The Outdoor Sports Show 2025</title>
+</programme>
+<programme start="20250716190000 +0000" stop="20250716200000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Highlights 2024/25</title>
+</programme>
+<programme start="20250716200000 +0000" stop="20250716210000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 Highlights 2024/25</title>
+</programme>
+<programme start="20250716210000 +0000" stop="20250716211500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Match HL: SEV Vs RMA</title>
+</programme>
+<programme start="20250716211500 +0000" stop="20250716214500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250716214500 +0000" stop="20250716221500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>RIDE FEI Originals 2025</title>
+</programme>
+<programme start="20250716221500 +0000" stop="20250717000000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Confederation: ASE Vs ORU</title>
+</programme>
+<programme start="20250717000000 +0000" stop="20250717003000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV HL 2024/25: MUN Vs ARS</title>
+</programme>
+<programme start="20250717003000 +0000" stop="20250717022000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: GIR Vs ESP</title>
+</programme>
+<programme start="20250717022000 +0000" stop="20250717041000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 2024/25: RAC Vs BUR</title>
+</programme>
+<programme start="20250717041000 +0000" stop="20250717060000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Champions: DJO Vs PYR</title>
+</programme>
+<programme start="20250717060000 +0000" stop="20250717075000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: LPM Vs MLL</title>
+</programme>
+<programme start="20250717075000 +0000" stop="20250717082500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>32nd LaLiga Futures: RMA Vs RSO</title>
+</programme>
+<programme start="20250717082500 +0000" stop="20250717090000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>32nd LaLiga Futures: ESP Vs RSO</title>
+</programme>
+<programme start="20250717090000 +0000" stop="20250717110000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250717110000 +0000" stop="20250717130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717150000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
+<programme start="20250717150000 +0000" stop="20250717153000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad (L)</title>
+</programme>
 <programme start="20250716170000 +0000" stop="20250716190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
@@ -5726,13 +5918,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Editorial Media Indonesia</title>
 </programme>
 <programme start="20250717003000 +0000" stop="20250717010000 +0000" channel="Metro TV.mncvision">
-    <title>The One</title>
+    <title>Metro Sport</title>
 </programme>
 <programme start="20250717010000 +0000" stop="20250717010500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
 <programme start="20250717010500 +0000" stop="20250717013000 +0000" channel="Metro TV.mncvision">
-    <title>Metro Sport</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20250717013000 +0000" stop="20250717015500 +0000" channel="Metro TV.mncvision">
     <title>Selamat Pagi Indonesia</title>

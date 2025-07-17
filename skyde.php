@@ -3136,14 +3136,14 @@
 <programme start="20250717203000 +0000" stop="20250717223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 4. Tag</title>
 </programme>
-<programme start="20250717000000 +0000" stop="20250717003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore - letzter Spieltag</title>
+<programme start="20250716220000 +0000" stop="20250717003000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - RB Leipzig U17, Finale</title>
 </programme>
 <programme start="20250717003000 +0000" stop="20250717023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 3. Tag</title>
+    <title>WTA 250: T. Maria (GER) - V. Tomova (BUL), MSC Hamburg Ladies Open in Hamburg, 3. Tag</title>
 </programme>
 <programme start="20250717023000 +0000" stop="20250717043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 3. Tag</title>
+    <title>ATP 250: A. Pellegrino (ITA) - T. Griekspoor (NED), Nordea Open in Bastad (SWE), 3. Tag</title>
 </programme>
 <programme start="20250717043000 +0000" stop="20250717053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
@@ -3151,10 +3151,10 @@
 <programme start="20250717053000 +0000" stop="20250717083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live The Open: 1. Tag in Portrush (Nordirland)</title>
 </programme>
-<programme start="20250717083000 +0000" stop="20250717173000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250717083000 +0000" stop="20250717170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20250717173000 +0000" stop="20250717193000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250717170000 +0000" stop="20250717193000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live The Open: 1. Tag in Portrush (Nordirland)</title>
 </programme>
 <programme start="20250717193000 +0000" stop="20250717203000 +0000" channel="Sky Sport Top Event HD.skyde">

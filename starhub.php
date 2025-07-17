@@ -2209,8 +2209,11 @@
     <programme start="20250717044500 +0000" stop="20250717050000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="CNN HD.starhub">
+    <programme start="20250717050000 +0000" stop="20250717054500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250717054500 +0000" stop="20250717060000 +0000" channel="CNN HD.starhub">
+        <title>AI &amp; Robotics in Asia</title>
     </programme>
     <programme start="20250717060000 +0000" stop="20250717064500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
@@ -2312,34 +2315,37 @@
         <title>ATP Tour 250 2025: Gstaad Day 3 Match 2</title>
     </programme>
     <programme start="20250717010000 +0000" stop="20250717030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Los Cabos Day 3 Match 1</title>
+        <title>Los Cabos Day 3 Shapovalov v Nanda</title>
     </programme>
     <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Los Cabos Day 3 Match 2</title>
+        <title>Los Cabos Day 3 Rublev v Hernandez</title>
     </programme>
     <programme start="20250717040000 +0000" stop="20250717070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Los Cabos Day 3 Match 3</title>
+        <title>Los Cabos Day 3 Duckworth v Davidovich Fokina</title>
     </programme>
     <programme start="20250717070000 +0000" stop="20250717083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad Day 3 Match 3</title>
+        <title>Gstaad Day 3 Ruud v Stricker</title>
     </programme>
-    <programme start="20250717083000 +0000" stop="20250717103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad Day 4 Match 1</title>
+    <programme start="20250717083000 +0000" stop="20250717100000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Gstaad Day 4 Comesana v Carballes Baena</title>
+    </programme>
+    <programme start="20250717100000 +0000" stop="20250717103000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Gstaad Day 4 Cerundolo v Goffin</title>
     </programme>
     <programme start="20250717103000 +0000" stop="20250717123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad Day 4 Match 2</title>
+        <title>Gstaad Day 4 Etcheverry v Cazaux</title>
     </programme>
     <programme start="20250717123000 +0000" stop="20250717130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour: This Week 2025</title>
+        <title>Episode Number 27</title>
     </programme>
     <programme start="20250717130000 +0000" stop="20250717150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad Day 4 Match 3</title>
+        <title>Gstaad Day 4 Bublik v Shevchenko</title>
     </programme>
     <programme start="20250717150000 +0000" stop="20250717153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Roland Garros 2025: Men&#039;s Singles SF 1 Alcaraz v Musetti</title>
+        <title>Men&#039;s Singles SF 1 Alcaraz v Musetti</title>
     </programme>
     <programme start="20250717153000 +0000" stop="20250717173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad Day 4 Match 4</title>
+        <title>Gstaad Day 4 Passaro v Kym</title>
     </programme>
     <programme start="20250716160000 +0000" stop="20250716170000 +0000" channel="TVB Xing He.starhub">
         <title>KUNG FU MASTER, THE</title>
@@ -6514,35 +6520,77 @@
     <programme start="20250717140000 +0000" stop="20250717160500 +0000" channel="HBO Signature HD.starhub">
         <title>American Beauty</title>
     </programme>
-    <programme start="20250716160000 +0000" stop="20250716200000 +0000" channel="TestChannel 995.starhub">
-        <title>YONEX Taipei Open (Super 300): SF Session 1</title>
+    <programme start="20250716160000 +0000" stop="20250716170000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
     </programme>
-    <programme start="20250716200000 +0000" stop="20250716220000 +0000" channel="TestChannel 995.starhub">
-        <title>Singapore Premier League 2024/25 Albirex Niigata FC (S) vs Young Lions</title>
+    <programme start="20250716170000 +0000" stop="20250716180000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
     </programme>
-    <programme start="20250716220000 +0000" stop="20250716223000 +0000" channel="TestChannel 995.starhub">
-        <title>Season 4, Episode 7 - Italian Footballer</title>
+    <programme start="20250716180000 +0000" stop="20250716190000 +0000" channel="TestChannel 995.starhub">
+        <title>Billionaire Story</title>
     </programme>
-    <programme start="20250716223000 +0000" stop="20250716230000 +0000" channel="TestChannel 995.starhub">
-        <title>Season 4, Episode 8 - Real Madrid Player</title>
+    <programme start="20250716190000 +0000" stop="20250716200000 +0000" channel="TestChannel 995.starhub">
+        <title>Hot Door Night 23</title>
+    </programme>
+    <programme start="20250716200000 +0000" stop="20250716210000 +0000" channel="TestChannel 995.starhub">
+        <title>The Way To Happiness</title>
+    </programme>
+    <programme start="20250716210000 +0000" stop="20250716220000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250716220000 +0000" stop="20250716230000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
     </programme>
     <programme start="20250716230000 +0000" stop="20250717000000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC Main Event 2025 UFC 304: Edwards vs Muhammad 2</title>
+        <title>Billionaire Story</title>
     </programme>
-    <programme start="20250717000000 +0000" stop="20250717040000 +0000" channel="TestChannel 995.starhub">
-        <title>DAIHATSU Japan Open (Super 750): Rd 16 Session 1 (Court 2)</title>
+    <programme start="20250717000000 +0000" stop="20250717010000 +0000" channel="TestChannel 995.starhub">
+        <title>Hot Door Night 23</title>
     </programme>
-    <programme start="20250717040000 +0000" stop="20250717080000 +0000" channel="TestChannel 995.starhub">
-        <title>DAIHATSU Japan Open (Super 750): Rd 16 Session 2 (Court 2)</title>
+    <programme start="20250717010000 +0000" stop="20250717020000 +0000" channel="TestChannel 995.starhub">
+        <title>The Way To Happiness</title>
+    </programme>
+    <programme start="20250717020000 +0000" stop="20250717030000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250717030000 +0000" stop="20250717040000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250717040000 +0000" stop="20250717050000 +0000" channel="TestChannel 995.starhub">
+        <title>Billionaire Story</title>
+    </programme>
+    <programme start="20250717050000 +0000" stop="20250717060000 +0000" channel="TestChannel 995.starhub">
+        <title>Hot Door Night 23</title>
+    </programme>
+    <programme start="20250717060000 +0000" stop="20250717070000 +0000" channel="TestChannel 995.starhub">
+        <title>The Way To Happiness</title>
+    </programme>
+    <programme start="20250717070000 +0000" stop="20250717080000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
     </programme>
     <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="TestChannel 995.starhub">
-        <title>#1994</title>
+        <title>Golden City</title>
     </programme>
-    <programme start="20250717090000 +0000" stop="20250717150000 +0000" channel="TestChannel 995.starhub">
-        <title>MSC Hamburg Ladies Open (250) Rd 16</title>
+    <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="TestChannel 995.starhub">
+        <title>Billionaire Story</title>
+    </programme>
+    <programme start="20250717100000 +0000" stop="20250717110000 +0000" channel="TestChannel 995.starhub">
+        <title>The Way To Happiness</title>
+    </programme>
+    <programme start="20250717110000 +0000" stop="20250717120000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250717120000 +0000" stop="20250717130000 +0000" channel="TestChannel 995.starhub">
+        <title>Golden City</title>
+    </programme>
+    <programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="TestChannel 995.starhub">
+        <title>Billionaire Story</title>
+    </programme>
+    <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="TestChannel 995.starhub">
+        <title>Hot Door Night 23</title>
     </programme>
     <programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="TestChannel 995.starhub">
-        <title>#1994</title>
+        <title>The Way To Happiness</title>
     </programme>
     <programme start="20250716160000 +0000" stop="20250716163000 +0000" channel="CNBC HD.starhub">
         <title>Us Halftime Report</title>
@@ -7631,7 +7679,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20250717055500 +0000" stop="20250717060000 +0000" channel="BBC World News HD.starhub">
-        <title>Selma and the South: Atlanta</title>
+        <title>The Travel Show</title>
     </programme>
     <programme start="20250717060000 +0000" stop="20250717063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7640,7 +7688,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20250717065500 +0000" stop="20250717070000 +0000" channel="BBC World News HD.starhub">
-        <title>Selma and the South: Atlanta</title>
+        <title>The Travel Show</title>
     </programme>
     <programme start="20250717070000 +0000" stop="20250717073000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7655,7 +7703,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250717085500 +0000" stop="20250717090000 +0000" channel="BBC World News HD.starhub">
-        <title>Selma and the South: Atlanta</title>
+        <title>The Travel Show</title>
     </programme>
     <programme start="20250717090000 +0000" stop="20250717093000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7673,7 +7721,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250717105500 +0000" stop="20250717110000 +0000" channel="BBC World News HD.starhub">
-        <title>Selma and the South: Atlanta</title>
+        <title>The Travel Show</title>
     </programme>
     <programme start="20250717110000 +0000" stop="20250717113000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>

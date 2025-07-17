@@ -526,7 +526,7 @@
     <programme start="20250717153000 +0000" stop="20250717160000 +0000" channel="Vasantham.mewatch">
         <title>Ethiroli S22 - EP 12</title>
     </programme>
-    <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="Vasantham.mewatch">
+    <programme start="20250717160000 +0000" stop="20250717164500 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
     <programme start="20250716160000 +0000" stop="20250716160300 +0000" channel="CNA.mewatch">
