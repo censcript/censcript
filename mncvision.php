@@ -6040,11 +6040,8 @@
 <programme start="20250717063000 +0000" stop="20250717073000 +0000" channel="MNCTV.mncvision">
     <title>Uang Kaget</title>
 </programme>
-<programme start="20250717073000 +0000" stop="20250717084500 +0000" channel="MNCTV.mncvision">
+<programme start="20250717073000 +0000" stop="20250717100000 +0000" channel="MNCTV.mncvision">
     <title>Bedah Rumah</title>
-</programme>
-<programme start="20250717084500 +0000" stop="20250717100000 +0000" channel="MNCTV.mncvision">
-    <title>Supermarket Sweep</title>
 </programme>
 <programme start="20250717100000 +0000" stop="20250717120000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -6062,7 +6059,7 @@
     <title>Dangdut 24 Karat</title>
 </programme>
 <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn 2</title>
+    <title>Suparman Reborn</title>
 </programme>
 <programme start="20250716173000 +0000" stop="20250716190000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
@@ -6109,11 +6106,8 @@
 <programme start="20250717063000 +0000" stop="20250717073000 +0000" channel="MNCTV HD.mncvision">
     <title>Uang Kaget</title>
 </programme>
-<programme start="20250717073000 +0000" stop="20250717084500 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250717073000 +0000" stop="20250717100000 +0000" channel="MNCTV HD.mncvision">
     <title>Bedah Rumah</title>
-</programme>
-<programme start="20250717084500 +0000" stop="20250717100000 +0000" channel="MNCTV HD.mncvision">
-    <title>Supermarket Sweep</title>
 </programme>
 <programme start="20250717100000 +0000" stop="20250717120000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -6131,7 +6125,7 @@
     <title>Dangdut 24 Karat</title>
 </programme>
 <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn 2</title>
+    <title>Suparman Reborn</title>
 </programme>
 <programme start="20250716170800 +0000" stop="20250716174500 +0000" channel="Moonbug.mncvision">
     <title>Blippi</title>
