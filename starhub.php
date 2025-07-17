@@ -7079,7 +7079,7 @@
         <title>Mini Match - UEFA Europa League 2024/25: AZ Alkmaar vs Tottenham - RD 16,1st Leg</title>
     </programme>
     <programme start="20250717033000 +0000" stop="20250717050000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Malaga P1 Day 3 Match 7</title>
+        <title>Premier Padel 2025: Malaga P1 Day 3 Match 6</title>
     </programme>
     <programme start="20250717050000 +0000" stop="20250717053000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>
@@ -7604,7 +7604,7 @@
         <title>Newsday</title>
     </programme>
     <programme start="20250717013000 +0000" stop="20250717020000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Oasis Concert Photo Row</title>
     </programme>
     <programme start="20250717020000 +0000" stop="20250717023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7627,14 +7627,20 @@
     <programme start="20250717050000 +0000" stop="20250717053000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20250717053000 +0000" stop="20250717060000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20250717053000 +0000" stop="20250717055500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
+    </programme>
+    <programme start="20250717055500 +0000" stop="20250717060000 +0000" channel="BBC World News HD.starhub">
+        <title>Selma and the South: Atlanta</title>
     </programme>
     <programme start="20250717060000 +0000" stop="20250717063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20250717063000 +0000" stop="20250717070000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20250717063000 +0000" stop="20250717065500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
+    </programme>
+    <programme start="20250717065500 +0000" stop="20250717070000 +0000" channel="BBC World News HD.starhub">
+        <title>Selma and the South: Atlanta</title>
     </programme>
     <programme start="20250717070000 +0000" stop="20250717073000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7645,8 +7651,11 @@
     <programme start="20250717080000 +0000" stop="20250717083000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20250717083000 +0000" stop="20250717090000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20250717083000 +0000" stop="20250717085500 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
+    </programme>
+    <programme start="20250717085500 +0000" stop="20250717090000 +0000" channel="BBC World News HD.starhub">
+        <title>Selma and the South: Atlanta</title>
     </programme>
     <programme start="20250717090000 +0000" stop="20250717093000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7660,8 +7669,11 @@
     <programme start="20250717103000 +0000" stop="20250717104500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
-    <programme start="20250717104500 +0000" stop="20250717110000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20250717104500 +0000" stop="20250717105500 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
+    </programme>
+    <programme start="20250717105500 +0000" stop="20250717110000 +0000" channel="BBC World News HD.starhub">
+        <title>Selma and the South: Atlanta</title>
     </programme>
     <programme start="20250717110000 +0000" stop="20250717113000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>
@@ -7672,8 +7684,11 @@
     <programme start="20250717120000 +0000" stop="20250717123000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>
     </programme>
-    <programme start="20250717123000 +0000" stop="20250717130000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20250717123000 +0000" stop="20250717125500 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>
+    </programme>
+    <programme start="20250717125500 +0000" stop="20250717130000 +0000" channel="BBC World News HD.starhub">
+        <title>The Travel Show</title>
     </programme>
     <programme start="20250717130000 +0000" stop="20250717133000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>
@@ -7696,8 +7711,11 @@
     <programme start="20250717153000 +0000" stop="20250717154500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
-    <programme start="20250717154500 +0000" stop="20250717160000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20250717154500 +0000" stop="20250717155500 +0000" channel="BBC World News HD.starhub">
         <title>Verified Live</title>
+    </programme>
+    <programme start="20250717155500 +0000" stop="20250717160000 +0000" channel="BBC World News HD.starhub">
+        <title>The Travel Show</title>
     </programme>
     <programme start="20250716150000 +0000" stop="20250716165000 +0000" channel="Premier Sports.starhub">
         <title>International Rugby New Zealand v France</title>
@@ -8176,10 +8194,10 @@
     <programme start="20250716211000 +0000" stop="20250716233000 +0000" channel="Asianet Movies.starhub">
         <title>Minnaminnikkoottam</title>
     </programme>
-    <programme start="20250716233000 +0000" stop="20250717013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250716233000 +0000" stop="20250717013500 +0000" channel="Asianet Movies.starhub">
         <title>Malayali</title>
     </programme>
-    <programme start="20250717013000 +0000" stop="20250717043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250717013500 +0000" stop="20250717043000 +0000" channel="Asianet Movies.starhub">
         <title>Aadu Oru Bheekara Jeevi Aanu</title>
     </programme>
     <programme start="20250717043000 +0000" stop="20250717073000 +0000" channel="Asianet Movies.starhub">
