@@ -3208,7 +3208,7 @@
 <programme start="20250717080000 +0000" stop="20250717100000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test Sport 03</title>
 </programme>
-<programme start="20250717080000 +0000" stop="20250717100000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250717080000 +0000" stop="20250717101500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Test Sport 04</title>
 </programme>
 <programme start="20250717080000 +0000" stop="20250717100000 +0000" channel="Sky Sport 5 HD.skyde">
