@@ -3103,23 +3103,23 @@
 <programme start="20250717213000 +0000" stop="20250717220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: NFO - CHE, 38. Spieltag</title>
 </programme>
-<programme start="20250716220000 +0000" stop="20250716223000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250716233000 +0000" stop="20250717000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250716223000 +0000" stop="20250717003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 3. Tag</title>
-</programme>
-<programme start="20250717003000 +0000" stop="20250717023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250717000000 +0000" stop="20250717020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Zverev (GER) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
+<programme start="20250717020000 +0000" stop="20250717023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
 <programme start="20250717023000 +0000" stop="20250717043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 3. Tag</title>
+    <title>ATP 250: A. Pellegrino (ITA) - T. Griekspoor (NED), Nordea Open in Bastad (SWE), 3. Tag</title>
 </programme>
-<programme start="20250717043000 +0000" stop="20250717063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 3. Tag</title>
+<programme start="20250717043000 +0000" stop="20250717062500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 250: T. Maria (GER) - V. Tomova (BUL), MSC Hamburg Ladies Open in Hamburg, 3. Tag</title>
 </programme>
-<programme start="20250717063000 +0000" stop="20250717083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 3. Tag</title>
+<programme start="20250717062500 +0000" stop="20250717083000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: A. Pellegrino (ITA) - T. Griekspoor (NED), Nordea Open in Bastad (SWE), 3. Tag</title>
 </programme>
 <programme start="20250717083000 +0000" stop="20250717170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3131,10 +3131,10 @@
     <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20250717183000 +0000" stop="20250717203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 4. Tag</title>
+    <title>WTA 250: C. Werner (GER) - E. Alexandrova, MSC Hamburg Ladies Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20250717203000 +0000" stop="20250717223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 4. Tag</title>
+    <title>ATP 250: F. Misolic (AUT) - N. Borges (POR), Nordea Open in Bastad (SWE), 4. Tag</title>
 </programme>
 <programme start="20250716220000 +0000" stop="20250717003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Nachwuchsliga: Borussia M&#039;gladbach U17 - RB Leipzig U17, Finale</title>
@@ -3196,7 +3196,7 @@
 <programme start="20250717084000 +0000" stop="20250717090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250717090000 +0000" stop="20250717170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250717090000 +0000" stop="20250717190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 250: MSC Hamburg Ladies Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20250717084000 +0000" stop="20250717090000 +0000" channel="Sky Sport 2 HD.skyde">

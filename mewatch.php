@@ -1043,10 +1043,10 @@
         <title>No programme available now. Next broadcast on 18th July, Friday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250716160000 +0000" stop="20250717160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 11th July, Friday 8.30pm. ONE Friday Fights 116</title>
+        <title>No programme available now. Next broadcast on 18th July, Friday 8.30pm. ONE Friday Fights 116</title>
     </programme>
     <programme start="20250717160000 +0000" stop="20250718123000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 11th July, Friday 8.30pm. ONE Friday Fights 116</title>
+        <title>No programme available now. Next broadcast on 18th July, Friday 8.30pm. ONE Friday Fights 116</title>
     </programme>
     <programme start="20250716150001 +0000" stop="20250716160001 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 18th July, Friday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Brunei vs Malaysia</title>
