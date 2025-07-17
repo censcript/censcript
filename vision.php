@@ -667,8 +667,20 @@
 <programme start="20250717060000 +0000" stop="20250717090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
+<programme start="20250717090000 +0000" stop="20250717123000 +0000" channel="ANTV.vision">
+<title>Mann</title>
+</programme>
 <programme start="20250717123000 +0000" stop="20250717143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250717143000 +0000" stop="20250717163000 +0000" channel="ANTV.vision">
+<title>Jampang 2</title>
+</programme>
+<programme start="20250717163000 +0000" stop="20250717183000 +0000" channel="ANTV.vision">
+<title>Prince Charming</title>
+</programme>
+<programme start="20250717183000 +0000" stop="20250717200000 +0000" channel="ANTV.vision">
+<title>The Prodigal Son</title>
 </programme>
 <programme start="20250717200000 +0000" stop="20250717213000 +0000" channel="ANTV.vision">
 <title>Jeritan Si Buyung</title>
@@ -846,6 +858,9 @@
 </programme>
 <programme start="20250717110000 +0000" stop="20250717130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20250717130000 +0000" stop="20250717140000 +0000" channel="TVOne.vision">
+<title>Dua Sisi (L)</title>
 </programme>
 <programme start="20250717140000 +0000" stop="20250717150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20250718090000 +0000" stop="20250718100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250718100000 +0000" stop="20250718110000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
-</programme>
-<programme start="20250718110000 +0000" stop="20250718120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20250716230500 +0000" stop="20250717005000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250717005000 +0000" stop="20250717022500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250717022500 +0000" stop="20250717040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
