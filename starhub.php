@@ -2090,7 +2090,7 @@
         <title>Bastad Day 4 Match 3</title>
     </programme>
     <programme start="20250717150000 +0000" stop="20250717170000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad Day 4 Match 4</title>
+        <title>ATP Tour 250 2025 Bastad Day 4 Dzumhur v Gaston</title>
     </programme>
     <programme start="20250716153000 +0000" stop="20250716163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>

@@ -4154,16 +4154,19 @@
     <title>Entong</title>
 </programme>
 <programme start="20250717113000 +0000" stop="20250717123000 +0000" channel="GTV.mncvision">
-    <title>Kisah Viral Specta</title>
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
 </programme>
-<programme start="20250717123000 +0000" stop="20250717140000 +0000" channel="GTV.mncvision">
+<programme start="20250717123000 +0000" stop="20250717133000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250717140000 +0000" stop="20250717160000 +0000" channel="GTV.mncvision">
-    <title>Indiana Jones &amp; Kingdom Of...</title>
+<programme start="20250717133000 +0000" stop="20250717150000 +0000" channel="GTV.mncvision">
+    <title>The Taichi Master</title>
+</programme>
+<programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="GTV.mncvision">
+    <title>Crazy Beggar Suqier</title>
 </programme>
 <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="GTV.mncvision">
-    <title>The Intern</title>
+    <title>The One</title>
 </programme>
 <programme start="20250716170000 +0000" stop="20250716180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4208,16 +4211,19 @@
     <title>Entong</title>
 </programme>
 <programme start="20250717113000 +0000" stop="20250717123000 +0000" channel="GTV HD.mncvision">
-    <title>Kisah Viral Specta</title>
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
 </programme>
-<programme start="20250717123000 +0000" stop="20250717140000 +0000" channel="GTV HD.mncvision">
+<programme start="20250717123000 +0000" stop="20250717133000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250717140000 +0000" stop="20250717160000 +0000" channel="GTV HD.mncvision">
-    <title>Indiana Jones &amp; Kingdom Of...</title>
+<programme start="20250717133000 +0000" stop="20250717150000 +0000" channel="GTV HD.mncvision">
+    <title>The Taichi Master</title>
+</programme>
+<programme start="20250717150000 +0000" stop="20250717160000 +0000" channel="GTV HD.mncvision">
+    <title>Crazy Beggar Suqier</title>
 </programme>
 <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="GTV HD.mncvision">
-    <title>The Intern</title>
+    <title>The One</title>
 </programme>
 <programme start="20250716180000 +0000" stop="20250716183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
