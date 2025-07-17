@@ -3946,9 +3946,6 @@
     <programme start="20250716164000 +0000" stop="20250716170500 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
-    <programme start="20250716170500 +0000" stop="20250716171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Bijutune!</title>
-    </programme>
     <programme start="20250716171000 +0000" stop="20250716173000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
     </programme>

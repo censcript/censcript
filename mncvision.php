@@ -1532,7 +1532,7 @@
     <title>Bloomberg: The Opening Trade</title>
 </programme>
 <programme start="20250717080000 +0000" stop="20250717090000 +0000" channel="Bloomberg.mncvision">
-    <title>Pulse With Francine Lacqua</title>
+    <title>The Pulse With Francine Lacqua</title>
 </programme>
 <programme start="20250717090000 +0000" stop="20250717100000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Brief</title>
