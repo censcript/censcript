@@ -1,6 +1,246 @@
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250717172000 +0000" stop="20250717173000 +0000" channel="ABC Australia.mncvision">
+    <title>Beyond Awesome</title>
+</programme>
+<programme start="20250717173000 +0000" stop="20250717180000 +0000" channel="ABC Australia.mncvision">
+    <title>Extraordinary Animals</title>
+</programme>
+<programme start="20250717180000 +0000" stop="20250717183000 +0000" channel="ABC Australia.mncvision">
+    <title>Beyond Awesome</title>
+</programme>
+<programme start="20250717183000 +0000" stop="20250717185500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250717185500 +0000" stop="20250717190000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250717200000 +0000" stop="20250717230000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250718020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20250718020000 +0000" stop="20250718030000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20250718030000 +0000" stop="20250718040000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20250718040000 +0000" stop="20250718044500 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20250718044500 +0000" stop="20250718050000 +0000" channel="ABC Australia.mncvision">
+    <title>Things That Made Australia</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718053000 +0000" channel="ABC Australia.mncvision">
+    <title>Back Roads</title>
+</programme>
+<programme start="20250718053000 +0000" stop="20250718060000 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20250718060000 +0000" stop="20250718070000 +0000" channel="ABC Australia.mncvision">
+    <title>Afternoon Briefing</title>
+</programme>
+<programme start="20250718070000 +0000" stop="20250718080000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20250718080000 +0000" stop="20250718085500 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20250718085500 +0000" stop="20250718092500 +0000" channel="ABC Australia.mncvision">
+    <title>Back Roads</title>
+</programme>
+<programme start="20250718092500 +0000" stop="20250718122500 +0000" channel="ABC Australia.mncvision">
+    <title>AFL: Lions Vs Bulldogs</title>
+</programme>
+<programme start="20250718122500 +0000" stop="20250718125500 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250718125500 +0000" stop="20250718130000 +0000" channel="ABC Australia.mncvision">
+    <title>Beyond Awesome</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718134500 +0000" channel="ABC Australia.mncvision">
+    <title>Planet America: Weekend Edition</title>
+</programme>
+<programme start="20250718134500 +0000" stop="20250718141500 +0000" channel="ABC Australia.mncvision">
+    <title>Close Of Business</title>
+</programme>
+<programme start="20250718141500 +0000" stop="20250718143000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="ABC Australia.mncvision">
+    <title>Asia News Week</title>
+</programme>
+<programme start="20250718150000 +0000" stop="20250718153000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250718153000 +0000" stop="20250718163000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20250718163000 +0000" stop="20250717170000 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20250717170000 +0000" stop="20250717173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250717173000 +0000" stop="20250717180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250717190000 +0000" stop="20250717193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250717193000 +0000" stop="20250717200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Passports</title>
+</programme>
+<programme start="20250717200000 +0000" stop="20250717203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250717203000 +0000" stop="20250717210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250717220000 +0000" stop="20250717223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250717223000 +0000" stop="20250717230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Philippines</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250717233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250717233000 +0000" stop="20250718000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Yuli Novak</title>
+</programme>
+<programme start="20250718000000 +0000" stop="20250718003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718003000 +0000" stop="20250718010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250718010000 +0000" stop="20250718020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Donga&#039;s Diaries</title>
+</programme>
+<programme start="20250718020000 +0000" stop="20250718023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718023000 +0000" stop="20250718030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Restitution: Stolen Art</title>
+</programme>
+<programme start="20250718030000 +0000" stop="20250718033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718033000 +0000" stop="20250718040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Cost Of Control</title>
+</programme>
+<programme start="20250718040000 +0000" stop="20250718043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718043000 +0000" stop="20250718050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Passports</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718053000 +0000" stop="20250718060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250718060000 +0000" stop="20250718063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718063000 +0000" stop="20250718070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Yuli Novak</title>
+</programme>
+<programme start="20250718070000 +0000" stop="20250718080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250718080000 +0000" stop="20250718083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718083000 +0000" stop="20250718090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Philippines</title>
+</programme>
+<programme start="20250718090000 +0000" stop="20250718093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718093000 +0000" stop="20250718100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Stand Up For Madinah</title>
+</programme>
+<programme start="20250718100000 +0000" stop="20250718110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250718110000 +0000" stop="20250718113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718113000 +0000" stop="20250718120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250718120000 +0000" stop="20250718123000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20250718123000 +0000" stop="20250718130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Israel: Above The Law?</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250718140000 +0000" stop="20250718143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Passports</title>
+</programme>
+<programme start="20250718150000 +0000" stop="20250718160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250718160000 +0000" stop="20250718163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250718163000 +0000" stop="20250717170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Restitution: Stolen Art</title>
+</programme>
+<programme start="20250717170000 +0000" stop="20250717190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250717190000 +0000" stop="20250717210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250717210000 +0000" stop="20250717230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250718010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718010000 +0000" stop="20250718030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718030000 +0000" stop="20250718050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718070000 +0000" stop="20250718090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718090000 +0000" stop="20250718110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718110000 +0000" stop="20250718130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20250718150000 +0000" stop="20250718153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20250717170000 +0000" stop="20250717173000 +0000" channel="Animax.mncvision">
     <title>In/Spectre S2, Ep 1</title>
 </programme>
@@ -1246,9 +1486,192 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250718150000 +0000" stop="20250718153000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: Balance Of Power</title>
+</programme>
+<programme start="20250717180000 +0000" stop="20250717190000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Businessweek Daily</title>
+</programme>
+<programme start="20250717190000 +0000" stop="20250717210000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg The Close</title>
+</programme>
+<programme start="20250717210000 +0000" stop="20250717220000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: Balance Of Power</title>
+</programme>
+<programme start="20250717220000 +0000" stop="20250717223000 +0000" channel="Bloomberg.mncvision">
+    <title>Bullish: Rules Of Investing</title>
+</programme>
+<programme start="20250717223000 +0000" stop="20250717230000 +0000" channel="Bloomberg.mncvision">
+    <title>Bullish: Women Of Wall Street</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250718010000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The Asia Trade</title>
+</programme>
+<programme start="20250718010000 +0000" stop="20250718030000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The China Show</title>
+</programme>
+<programme start="20250718030000 +0000" stop="20250718040000 +0000" channel="Bloomberg.mncvision">
+    <title>Insight With Haslinda Amin</title>
+</programme>
+<programme start="20250718040000 +0000" stop="20250718050000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Horizons</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718060000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Daybreak: Europe</title>
+</programme>
+<programme start="20250718060000 +0000" stop="20250718080000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The Opening Trade</title>
+</programme>
+<programme start="20250718080000 +0000" stop="20250718090000 +0000" channel="Bloomberg.mncvision">
+    <title>The Pulse With Francine Lacqua</title>
+</programme>
+<programme start="20250718090000 +0000" stop="20250718100000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Brief</title>
+</programme>
+<programme start="20250718100000 +0000" stop="20250718130000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Surveillance</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718150000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Open Interest</title>
+</programme>
+<programme start="20250718150000 +0000" stop="20250718160000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Tech</title>
+</programme>
+<programme start="20250718160000 +0000" stop="20250718163000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Real Yield</title>
+</programme>
+<programme start="20250718163000 +0000" stop="20250717170000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Markets</title>
+</programme>
+<programme start="20250717170000 +0000" stop="20250717180000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20250717180000 +0000" stop="20250717180300 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20250717180300 +0000" stop="20250717190000 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20250717190000 +0000" stop="20250717200000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250717200000 +0000" stop="20250717210000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250717210000 +0000" stop="20250717213000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250717213000 +0000" stop="20250717223000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250717223000 +0000" stop="20250717230000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250717230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250717230300 +0000" stop="20250718003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250718003000 +0000" stop="20250718011500 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20250718011500 +0000" stop="20250718021500 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250718021500 +0000" stop="20250718030000 +0000" channel="BTV.mncvision">
+    <title>Selera Rasa</title>
+</programme>
+<programme start="20250718030000 +0000" stop="20250718034500 +0000" channel="BTV.mncvision">
+    <title>Kids Universe</title>
+</programme>
+<programme start="20250718034500 +0000" stop="20250718040000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250718040000 +0000" stop="20250718050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718070000 +0000" channel="BTV.mncvision">
+    <title>Swaragini</title>
+</programme>
+<programme start="20250718070000 +0000" stop="20250718080000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250718080000 +0000" stop="20250718090000 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20250718090000 +0000" stop="20250718100000 +0000" channel="BTV.mncvision">
+    <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250718100000 +0000" stop="20250718110000 +0000" channel="BTV.mncvision">
+    <title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250718110000 +0000" stop="20250718120000 +0000" channel="BTV.mncvision">
+    <title>Dunia Binatang</title>
+</programme>
+<programme start="20250718120000 +0000" stop="20250718130000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718140000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250718140000 +0000" stop="20250718143000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="BTV.mncvision">
+    <title>Saksi Mata</title>
+</programme>
+<programme start="20250718150000 +0000" stop="20250718160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20250718160000 +0000" stop="20250718163000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250717171500 +0000" stop="20250717184400 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Queen&#039;s Corgi</title>
+</programme>
+<programme start="20250717184400 +0000" stop="20250717201000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250717201000 +0000" stop="20250717214900 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Snow Queen</title>
+</programme>
+<programme start="20250717214900 +0000" stop="20250717233800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250717233800 +0000" stop="20250718012000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250718012000 +0000" stop="20250718025200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250718025200 +0000" stop="20250718042700 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Christmas Project Reunion</title>
+</programme>
+<programme start="20250718042700 +0000" stop="20250718061500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250718061500 +0000" stop="20250718075400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250718075400 +0000" stop="20250718093200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250718093200 +0000" stop="20250718112900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Cool Kids Don&#039;t Cry</title>
+</programme>
+<programme start="20250718112900 +0000" stop="20250718130700 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250718130700 +0000" stop="20250718150500 +0000" channel="BUDDY STARS.mncvision">
+    <title>First Dog</title>
+</programme>
+<programme start="20250718150500 +0000" stop="20250718163600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250718163600 +0000" stop="20250717170600 +0000" channel="BUDDY STARS.mncvision">
+    <title>UglyDolls</title>
+</programme>
 <programme start="20250717171500 +0000" stop="20250717184400 +0000" channel="BUDDY STARS HD.mncvision">
     <title>The Queen&#039;s Corgi</title>
 </programme>
