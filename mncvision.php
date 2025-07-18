@@ -1165,60 +1165,7 @@
 <programme start="20250719155000 +0000" stop="20250719162000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>World Rugby U20: FRA Vs ARG (L)</title>
 </programme>
-<programme start="20250718173000 +0000" stop="20250718184000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 500 2025: Munich Day 2</title>
-</programme>
-<programme start="20250718184000 +0000" stop="20250718185000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Doco Shorts</title>
-</programme>
-<programme start="20250718185000 +0000" stop="20250718210000 +0000" channel="beIN Sports 2.mncvision">
-    <title>WAFCON 2024: MAR Vs MLI (L)</title>
-</programme>
-<programme start="20250718210000 +0000" stop="20250718213000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 27</title>
-</programme>
-<programme start="20250718213000 +0000" stop="20250718230000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Bastad QF 3</title>
-</programme>
-<programme start="20250718230000 +0000" stop="20250719003000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Bastad QF 4</title>
-</programme>
-<programme start="20250719003000 +0000" stop="20250719020000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Gstaad QF 2</title>
-</programme>
-<programme start="20250719020000 +0000" stop="20250719023000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 27</title>
-</programme>
-<programme start="20250719023000 +0000" stop="20250719040000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 &#039;25: Los Cabos (L)</title>
-</programme>
-<programme start="20250719040000 +0000" stop="20250719060000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 &#039;25: Los Cabos (L)</title>
-</programme>
-<programme start="20250719060000 +0000" stop="20250719073000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Gstaad QF 3</title>
-</programme>
-<programme start="20250719073000 +0000" stop="20250719090000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Gstaad QF 4</title>
-</programme>
-<programme start="20250719090000 +0000" stop="20250719110000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Gstaad (L)</title>
-</programme>
-<programme start="20250719110000 +0000" stop="20250719113000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour: This Week 2025, Ep 27</title>
-</programme>
-<programme start="20250719113000 +0000" stop="20250719133000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Gstaad (L)</title>
-</programme>
-<programme start="20250719133000 +0000" stop="20250719135500 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Doco Shorts</title>
-</programme>
-<programme start="20250719135500 +0000" stop="20250719155500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Pre Season 2025: BBR Vs EVE (L)</title>
-</programme>
-<programme start="20250719155500 +0000" stop="20250719162500 +0000" channel="beIN Sports 2.mncvision">
-    <title>WAFCON 2024: ALG Vs GHA (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250718173000 +0000" stop="20250718184000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Munich Day 2</title>
 </programme>
