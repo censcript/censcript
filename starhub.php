@@ -2209,11 +2209,11 @@
     <programme start="20250718170000 +0000" stop="20250718200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Eyarkai</title>
     </programme>
-    <programme start="20250718200000 +0000" stop="20250718220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250718200000 +0000" stop="20250718223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aadatha Aatemellam</title>
     </programme>
-    <programme start="20250718220000 +0000" stop="20250719040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250718223000 +0000" stop="20250719010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aadu Puli Aatam (New)</title>
     </programme>
     <programme start="20250719040000 +0000" stop="20250719100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>

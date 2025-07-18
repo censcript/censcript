@@ -1,6 +1,3 @@
-    <programme start="20250718184930 +0000" stop="20250718221000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - Spain v Switzerland</title>
-    </programme>
     <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Gangwon v Daejeon</title>
     </programme>
