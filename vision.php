@@ -649,14 +649,8 @@
 <programme start="20250719114500 +0000" stop="20250719121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250717230000 +0000" stop="20250718010000 +0000" channel="ANTV.vision">
-<title>Lara Jonggrang</title>
-</programme>
 <programme start="20250718010000 +0000" stop="20250718023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
-</programme>
-<programme start="20250718023000 +0000" stop="20250718060000 +0000" channel="ANTV.vision">
-<title>Fanaa</title>
 </programme>
 <programme start="20250718060000 +0000" stop="20250718090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -982,59 +976,65 @@
 <programme start="20250718163000 +0000" stop="20250718170000 +0000" channel="Kompas TV.vision">
 <title>Kilas Kompas</title>
 </programme>
-<programme start="20250718170000 +0000" stop="20250718180000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250718170000 +0000" stop="20250718183000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
 </programme>
-<programme start="20250718180000 +0000" stop="20250718183000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250718183000 +0000" stop="20250718193000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
-<programme start="20250718183000 +0000" stop="20250718190000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250718193000 +0000" stop="20250718203000 +0000" channel="Kompas TV.vision">
+<title>Kompas Malam</title>
 </programme>
-<programme start="20250718190000 +0000" stop="20250718200000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250718200000 +0000" stop="20250718210000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250718203000 +0000" stop="20250718210000 +0000" channel="Kompas TV.vision">
+<title>Kalam Hati</title>
 </programme>
 <programme start="20250718210000 +0000" stop="20250718213000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Sport</title>
 </programme>
 <programme start="20250718213000 +0000" stop="20250719000000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Pagi Akhir Pekan</title>
 </programme>
-<programme start="20250719000000 +0000" stop="20250719023000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719000000 +0000" stop="20250719013000 +0000" channel="Kompas TV.vision">
+<title>Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20250719013000 +0000" stop="20250719020000 +0000" channel="Kompas TV.vision">
+<title>Sasaran</title>
+</programme>
+<programme start="20250719020000 +0000" stop="20250719023000 +0000" channel="Kompas TV.vision">
+<title>Jalan-Jalan</title>
 </programme>
 <programme start="20250719023000 +0000" stop="20250719030000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Pop News</title>
 </programme>
-<programme start="20250719030000 +0000" stop="20250719040000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719030000 +0000" stop="20250719033000 +0000" channel="Kompas TV.vision">
+<title>Kompas Sepekan</title>
 </programme>
-<programme start="20250719040000 +0000" stop="20250719060000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719033000 +0000" stop="20250719040000 +0000" channel="Kompas TV.vision">
+<title>Cerita Rasa</title>
+</programme>
+<programme start="20250719040000 +0000" stop="20250719050000 +0000" channel="Kompas TV.vision">
+<title>Kompas Siang</title>
+</programme>
+<programme start="20250719050000 +0000" stop="20250719053000 +0000" channel="Kompas TV.vision">
+<title>Borgol</title>
+</programme>
+<programme start="20250719053000 +0000" stop="20250719060000 +0000" channel="Kompas TV.vision">
+<title>News Or Hoax</title>
 </programme>
 <programme start="20250719060000 +0000" stop="20250719070000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Dipo Investigasi</title>
 </programme>
-<programme start="20250719070000 +0000" stop="20250719073000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719070000 +0000" stop="20250719080000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
-<programme start="20250719073000 +0000" stop="20250719080000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719080000 +0000" stop="20250719090000 +0000" channel="Kompas TV.vision">
+<title>Cerita Militer</title>
 </programme>
-<programme start="20250719080000 +0000" stop="20250719083000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719090000 +0000" stop="20250719110000 +0000" channel="Kompas TV.vision">
+<title>Kompas Petang</title>
 </programme>
-<programme start="20250719083000 +0000" stop="20250719090000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250719090000 +0000" stop="20250719103000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
-</programme>
-<programme start="20250719103000 +0000" stop="20250719123000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20250719110000 +0000" stop="20250719120000 +0000" channel="Kompas TV.vision">
+<title>Gelar Perkara</title>
 </programme>
 <programme start="20250718000000 +0000" stop="20250718000500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
