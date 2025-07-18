@@ -948,16 +948,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718063000 +0000" stop="20250718073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
 </programme>
-<programme start="20250718073000 +0000" stop="20250718093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250718073000 +0000" stop="20250718092000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20250718093000 +0000" stop="20250718113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250718092000 +0000" stop="20250718111000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250718113000 +0000" stop="20250718120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250718111000 +0000" stop="20250718121000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250718120000 +0000" stop="20250718140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250718121000 +0000" stop="20250718140000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
 </programme>
 <programme start="20250718140000 +0000" stop="20250718143000 +0000" channel="DAZN 1 HD.skyde">
@@ -966,17 +966,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="DAZN 1 HD.skyde">
     <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250718150000 +0000" stop="20250718152000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250718152000 +0000" stop="20250718183500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250718150000 +0000" stop="20250718181500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Nations League: Portugal - Spanien</title>
 </programme>
-<programme start="20250718183500 +0000" stop="20250718185000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250718181500 +0000" stop="20250718185000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250718185000 +0000" stop="20250718211000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Women&#039;s Championship 2025 Switzerland: TBC - Schweiz</title>
+    <title>UEFA Women&#039;s Championship 2025 Switzerland: Spanien - Schweiz</title>
 </programme>
 <programme start="20250718211000 +0000" stop="20250718214000 +0000" channel="DAZN 1 HD.skyde">
     <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
@@ -2694,7 +2691,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718084000 +0000" stop="20250718090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20250718090000 +0000" stop="20250718170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250718090000 +0000" stop="20250718190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 5. Tag</title>
 </programme>
 <programme start="20250717234000 +0000" stop="20250718002000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3117,25 +3114,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718213000 +0000" stop="20250718220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: AVL - NEW, 33. Spieltag</title>
 </programme>
-<programme start="20250717223000 +0000" stop="20250717230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250717224500 +0000" stop="20250717231500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250717230000 +0000" stop="20250718010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250717231500 +0000" stop="20250718011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20250718010000 +0000" stop="20250718030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250718011500 +0000" stop="20250718033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Misolic (AUT) - N. Borges (POR), Nordea Open in Bastad (SWE), 4. Tag</title>
 </programme>
-<programme start="20250718030000 +0000" stop="20250718040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250718033000 +0000" stop="20250718043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
-<programme start="20250718040000 +0000" stop="20250718060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250718043000 +0000" stop="20250718055000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: C. Werner (GER) - E. Alexandrova, MSC Hamburg Ladies Open in Hamburg, 4. Tag</title>
 </programme>
-<programme start="20250718060000 +0000" stop="20250718063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250718055000 +0000" stop="20250718062000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250718063000 +0000" stop="20250718083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250718062000 +0000" stop="20250718083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Misolic (AUT) - N. Borges (POR), Nordea Open in Bastad (SWE), 4. Tag</title>
 </programme>
 <programme start="20250718083000 +0000" stop="20250718173000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3228,13 +3225,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718084000 +0000" stop="20250718090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250718090000 +0000" stop="20250718170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250718090000 +0000" stop="20250718190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 250: MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
 </programme>
 <programme start="20250718084000 +0000" stop="20250718090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250718090000 +0000" stop="20250718170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250718090000 +0000" stop="20250718190000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: Nordea Open in Bastad (SWE), 5. Tag</title>
 </programme>
 <programme start="20250717222000 +0000" stop="20250717231500 +0000" channel="SYFY HD.skyde">

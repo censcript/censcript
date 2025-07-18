@@ -128,7 +128,7 @@
         <title>World Aquatics Championships Singapore 2025 : Daily Highlight - EP 3</title>
     </programme>
     <programme start="20250718075000 +0000" stop="20250718091000 +0000" channel="Channel 5.mewatch">
-        <title>World Aquatics Championships Singapore 2025 : Water Polo - EP 29</title>
+        <title>(Live) World Aquatics Championships Singapore 2025 : Water Polo - EP 29</title>
     </programme>
     <programme start="20250718091000 +0000" stop="20250718094000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 102</title>
@@ -140,7 +140,7 @@
         <title>Spider-Man: Across The Spider-Verse</title>
     </programme>
     <programme start="20250718130000 +0000" stop="20250718133000 +0000" channel="Channel 5.mewatch">
-        <title>News Tonight</title>
+        <title>(Live) News Tonight</title>
     </programme>
     <programme start="20250718133000 +0000" stop="20250718140000 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 10</title>
@@ -179,7 +179,7 @@
         <title>The Spirit Hunter - EP 11</title>
     </programme>
     <programme start="20250718010000 +0000" stop="20250718013000 +0000" channel="Channel 8.mewatch">
-        <title>Morning Express</title>
+        <title>(Live) Morning Express</title>
     </programme>
     <programme start="20250718013000 +0000" stop="20250718020000 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 28</title>
@@ -209,7 +209,7 @@
         <title>The Wonder Shop - EP 263</title>
     </programme>
     <programme start="20250718050000 +0000" stop="20250718053000 +0000" channel="Channel 8.mewatch">
-        <title>News 8 at One</title>
+        <title>(Live) News 8 at One</title>
     </programme>
     <programme start="20250718053000 +0000" stop="20250718060000 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1307</title>
@@ -239,7 +239,7 @@
         <title>Golden City - EP 82</title>
     </programme>
     <programme start="20250718103000 +0000" stop="20250718113000 +0000" channel="Channel 8.mewatch">
-        <title>Hello Singapore - EP 79</title>
+        <title>(Live) Hello Singapore - EP 79</title>
     </programme>
     <programme start="20250718113000 +0000" stop="20250718120000 +0000" channel="Channel 8.mewatch">
         <title>No Return - EP 29</title>
@@ -254,7 +254,7 @@
         <title>The Spirit Hunter - EP 12</title>
     </programme>
     <programme start="20250718140000 +0000" stop="20250718143000 +0000" channel="Channel 8.mewatch">
-        <title>News Tonight</title>
+        <title>(Live) News Tonight</title>
     </programme>
     <programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="Channel 8.mewatch">
         <title>Kongfulicious S4 - EP 4</title>
@@ -425,7 +425,7 @@
         <title>My Lovely Driver - EP 7</title>
     </programme>
     <programme start="20250718120000 +0000" stop="20250718123000 +0000" channel="Suria.mewatch">
-        <title>Berita</title>
+        <title>(Live) Berita</title>
     </programme>
     <programme start="20250718123000 +0000" stop="20250718130000 +0000" channel="Suria.mewatch">
         <title>Ini Baru Rare! Australia Barat - EP 3</title>
@@ -497,7 +497,7 @@
         <title>Indian Beat S16 - EP 16</title>
     </programme>
     <programme start="20250718123000 +0000" stop="20250718130000 +0000" channel="Vasantham.mewatch">
-        <title>Seithi</title>
+        <title>(Live) Seithi</title>
     </programme>
     <programme start="20250718130000 +0000" stop="20250718140000 +0000" channel="Vasantham.mewatch">
         <title>Acham Yenbathu Madamaiyadaa S3 - EP 9</title>
@@ -530,13 +530,13 @@
         <title>Singapore Tonight</title>
     </programme>
     <programme start="20250717230000 +0000" stop="20250718020000 +0000" channel="CNA.mewatch">
-        <title>Asia First</title>
+        <title>(Live) Asia First</title>
     </programme>
     <programme start="20250718020000 +0000" stop="20250718030000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 13</title>
     </programme>
     <programme start="20250718030000 +0000" stop="20250718050000 +0000" channel="CNA.mewatch">
-        <title>Asia Now</title>
+        <title>(Live) Asia Now</title>
     </programme>
     <programme start="20250718050000 +0000" stop="20250718053000 +0000" channel="CNA.mewatch">
         <title>Lunch With Us - EP 1</title>
@@ -545,13 +545,13 @@
         <title>CNA Correspondent - EP 12</title>
     </programme>
     <programme start="20250718060000 +0000" stop="20250718080000 +0000" channel="CNA.mewatch">
-        <title>Asia Now</title>
+        <title>(Live) Asia Now</title>
     </programme>
     <programme start="20250718080000 +0000" stop="20250718090000 +0000" channel="CNA.mewatch">
         <title>The Nuclear Option - EP 1</title>
     </programme>
     <programme start="20250718090000 +0000" stop="20250718090200 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
+        <title>(Live) Headline News</title>
     </programme>
     <programme start="20250718090200 +0000" stop="20250718093000 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 8</title>
@@ -560,19 +560,19 @@
         <title>The New Locals - EP 6</title>
     </programme>
     <programme start="20250718100000 +0000" stop="20250718110000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight</title>
+        <title>(Live) East Asia Tonight</title>
     </programme>
     <programme start="20250718110000 +0000" stop="20250718120000 +0000" channel="CNA.mewatch">
         <title>Limitless - EP 2</title>
     </programme>
     <programme start="20250718120000 +0000" stop="20250718130000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
+        <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20250718130000 +0000" stop="20250718140000 +0000" channel="CNA.mewatch">
         <title>Japan Hour [English Subtitles] - EP 28</title>
     </programme>
     <programme start="20250718140000 +0000" stop="20250718150000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
+        <title>(Live) Singapore Tonight</title>
     </programme>
     <programme start="20250718150000 +0000" stop="20250718160000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 13</title>
@@ -1079,8 +1079,5 @@
         <title>World Aquatics Championships - Singapore 2025: Open Water Swimming - Men&#039;s 5km Final</title>
     </programme>
     <programme start="20250718040000 +0000" stop="20250718160000 +0000" channel="WCH CH03.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th July, Saturday 7.47am. World Aquatics Championships - Singapore 2025</title>
-    </programme>
-    <programme start="20250718160000 +0000" stop="20250718234700 +0000" channel="WCH CH03.mewatch">
         <title>No Programme available now. Next Broadcast on 19th July, Saturday 7.47am. World Aquatics Championships - Singapore 2025</title>
     </programme>

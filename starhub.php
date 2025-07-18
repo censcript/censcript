@@ -293,7 +293,7 @@
         <title>Jagriti</title>
     </programme>
     <programme start="20250717170000 +0000" stop="20250717173000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hain!</title>
+        <title>Bhabi Ji Ghar Par Hai!</title>
     </programme>
     <programme start="20250717173000 +0000" stop="20250717180000 +0000" channel="Zee TV.starhub">
         <title>Kumkum Bhagya</title>
@@ -305,7 +305,7 @@
         <title>Jamai No.1</title>
     </programme>
     <programme start="20250717190000 +0000" stop="20250717193000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hain!</title>
+        <title>Bhabi Ji Ghar Par Hai!</title>
     </programme>
     <programme start="20250717193000 +0000" stop="20250717200000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
@@ -2768,13 +2768,13 @@
         <title>Running Man</title>
     </programme>
     <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20250717163000 +0000" stop="20250717230000 +0000" channel="Sun TV.starhub">
-        <title>SONGS</title>
+        <title>Songs</title>
     </programme>
     <programme start="20250717230000 +0000" stop="20250717233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20250717233000 +0000" stop="20250718000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
