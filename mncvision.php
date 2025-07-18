@@ -6512,7 +6512,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20250718073000 +0000" stop="20250718080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20250718080000 +0000" stop="20250718083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6557,7 +6557,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20250718133000 +0000" stop="20250718140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20250717171000 +0000" stop="20250717173500 +0000" channel="NHK World Premium.mncvision">
     <title>Haru&#039;s At Old House Cafe</title>
