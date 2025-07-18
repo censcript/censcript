@@ -8788,9 +8788,111 @@
 <programme start="20250718150000 +0000" stop="20250718153000 +0000" channel="SPOTV HD.mncvision">
     <title>The 153rd Open &#039;25: Round 2 (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250717171000 +0000" stop="20250717191500 +0000" channel="Studio Universal.mncvision">
+    <title>Parenthood</title>
+</programme>
+<programme start="20250717191500 +0000" stop="20250717205500 +0000" channel="Studio Universal.mncvision">
+    <title>Happy Gilmore</title>
+</programme>
+<programme start="20250717205500 +0000" stop="20250717230000 +0000" channel="Studio Universal.mncvision">
+    <title>The Bourne Ultimatum</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250718014000 +0000" channel="Studio Universal.mncvision">
+    <title>Out Of Africa</title>
+</programme>
+<programme start="20250718014000 +0000" stop="20250718034500 +0000" channel="Studio Universal.mncvision">
+    <title>Parenthood</title>
+</programme>
+<programme start="20250718034500 +0000" stop="20250718052000 +0000" channel="Studio Universal.mncvision">
+    <title>Happy Gilmore</title>
+</programme>
+<programme start="20250718052000 +0000" stop="20250718071500 +0000" channel="Studio Universal.mncvision">
+    <title>The Bourne Ultimatum</title>
+</programme>
+<programme start="20250718071500 +0000" stop="20250718095500 +0000" channel="Studio Universal.mncvision">
+    <title>Out Of Africa</title>
+</programme>
+<programme start="20250718095500 +0000" stop="20250718112500 +0000" channel="Studio Universal.mncvision">
+    <title>The Borrowers</title>
+</programme>
+<programme start="20250718112500 +0000" stop="20250718132500 +0000" channel="Studio Universal.mncvision">
+    <title>Patch Adams</title>
+</programme>
+<programme start="20250718132500 +0000" stop="20250718152500 +0000" channel="Studio Universal.mncvision">
+    <title>The Chronicles Of Riddick</title>
+</programme>
+<programme start="20250718152500 +0000" stop="20250718155500 +0000" channel="Studio Universal.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20250717171000 +0000" stop="20250717191500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Parenthood</title>
+</programme>
+<programme start="20250717191500 +0000" stop="20250717205500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Happy Gilmore</title>
+</programme>
+<programme start="20250717205500 +0000" stop="20250717230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Bourne Ultimatum</title>
+</programme>
+<programme start="20250717230000 +0000" stop="20250718014000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Out Of Africa</title>
+</programme>
+<programme start="20250718014000 +0000" stop="20250718034500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Parenthood</title>
+</programme>
+<programme start="20250718034500 +0000" stop="20250718052000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Happy Gilmore</title>
+</programme>
+<programme start="20250718052000 +0000" stop="20250718071500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Bourne Ultimatum</title>
+</programme>
+<programme start="20250718071500 +0000" stop="20250718095500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Out Of Africa</title>
+</programme>
+<programme start="20250718095500 +0000" stop="20250718112500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Borrowers</title>
+</programme>
+<programme start="20250718112500 +0000" stop="20250718132500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Patch Adams</title>
+</programme>
+<programme start="20250718132500 +0000" stop="20250718152500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Chronicles Of Riddick</title>
+</programme>
+<programme start="20250718152500 +0000" stop="20250718155500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20250717181600 +0000" stop="20250717203600 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250717203600 +0000" stop="20250717223500 +0000" channel="Superrix.mncvision">
+    <title>Little Boy</title>
+</programme>
+<programme start="20250717223500 +0000" stop="20250718004400 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250718004400 +0000" stop="20250718030900 +0000" channel="Superrix.mncvision">
+    <title>Occupation: Rainfall</title>
+</programme>
+<programme start="20250718030900 +0000" stop="20250718051700 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250718051700 +0000" stop="20250718070900 +0000" channel="Superrix.mncvision">
+    <title>Home Again</title>
+</programme>
+<programme start="20250718070900 +0000" stop="20250718092600 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250718092600 +0000" stop="20250718111100 +0000" channel="Superrix.mncvision">
+    <title>The Locksmith</title>
+</programme>
+<programme start="20250718111100 +0000" stop="20250718130100 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250718130100 +0000" stop="20250718145800 +0000" channel="Superrix.mncvision">
+    <title>Nothing Like The Holidays</title>
+</programme>
+<programme start="20250718145800 +0000" stop="20250718152800 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
 <programme start="20250717181600 +0000" stop="20250717203600 +0000" channel="Superrix HD.mncvision">
     <title>Platinum</title>
 </programme>
@@ -8947,8 +9049,189 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250718163000 +0000" stop="20250717170000 +0000" channel="Tawaf TV.mncvision">
     <title>Jelajah Surau</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250717181500 +0000" stop="20250717193500 +0000" channel="Thrill.mncvision">
+    <title>Zombie Island</title>
+</programme>
+<programme start="20250717193500 +0000" stop="20250717210000 +0000" channel="Thrill.mncvision">
+    <title>Chop Chop</title>
+</programme>
+<programme start="20250717210000 +0000" stop="20250717223500 +0000" channel="Thrill.mncvision">
+    <title>Jealousy</title>
+</programme>
+<programme start="20250717223500 +0000" stop="20250717233500 +0000" channel="Thrill.mncvision">
+    <title>Sinister, Ep 3</title>
+</programme>
+<programme start="20250717233500 +0000" stop="20250718005500 +0000" channel="Thrill.mncvision">
+    <title>An Unquiet Grave</title>
+</programme>
+<programme start="20250718005500 +0000" stop="20250718021500 +0000" channel="Thrill.mncvision">
+    <title>The Occupant</title>
+</programme>
+<programme start="20250718021500 +0000" stop="20250718033500 +0000" channel="Thrill.mncvision">
+    <title>Zombie Island</title>
+</programme>
+<programme start="20250718033500 +0000" stop="20250718050000 +0000" channel="Thrill.mncvision">
+    <title>Chop Chop</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718063500 +0000" channel="Thrill.mncvision">
+    <title>Jealousy</title>
+</programme>
+<programme start="20250718063500 +0000" stop="20250718073500 +0000" channel="Thrill.mncvision">
+    <title>Sinister, Ep 3</title>
+</programme>
+<programme start="20250718073500 +0000" stop="20250718085500 +0000" channel="Thrill.mncvision">
+    <title>An Unquiet Grave</title>
+</programme>
+<programme start="20250718085500 +0000" stop="20250718101500 +0000" channel="Thrill.mncvision">
+    <title>The Occupant</title>
+</programme>
+<programme start="20250718101500 +0000" stop="20250718113500 +0000" channel="Thrill.mncvision">
+    <title>Zombie Island</title>
+</programme>
+<programme start="20250718113500 +0000" stop="20250718130000 +0000" channel="Thrill.mncvision">
+    <title>Chop Chop</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718143000 +0000" channel="Thrill.mncvision">
+    <title>They Wait In The Dark</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718155000 +0000" channel="Thrill.mncvision">
+    <title>Impermanence</title>
+</programme>
+<programme start="20250718155000 +0000" stop="20250718162000 +0000" channel="Thrill.mncvision">
+    <title>Inside The Boys</title>
+</programme>
+<programme start="20250717171500 +0000" stop="20250717174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20250717174500 +0000" stop="20250717183000 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20250717183000 +0000" stop="20250717193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20250717193000 +0000" stop="20250717203000 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20250717203000 +0000" stop="20250717211500 +0000" channel="Trans 7.mncvision">
+    <title>Just For Laughs</title>
+</programme>
+<programme start="20250717211500 +0000" stop="20250717214500 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20250717214500 +0000" stop="20250717223000 +0000" channel="Trans 7.mncvision">
+    <title>Big Heits</title>
+</programme>
+<programme start="20250717223000 +0000" stop="20250717234500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20250717234500 +0000" stop="20250718004500 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20250718004500 +0000" stop="20250718013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20250718013000 +0000" stop="20250718023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20250718023000 +0000" stop="20250718031500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20250718031500 +0000" stop="20250718041500 +0000" channel="Trans 7.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20250718041500 +0000" stop="20250718050000 +0000" channel="Trans 7.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20250718050000 +0000" stop="20250718054500 +0000" channel="Trans 7.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20250718054500 +0000" stop="20250718063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang</title>
+</programme>
+<programme start="20250718063000 +0000" stop="20250718071500 +0000" channel="Trans 7.mncvision">
+    <title>Kepo</title>
+</programme>
+<programme start="20250718071500 +0000" stop="20250718081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20250718081500 +0000" stop="20250718091500 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250718091500 +0000" stop="20250718101500 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20250718101500 +0000" stop="20250718110000 +0000" channel="Trans 7.mncvision">
+    <title>Xpose Uncensored</title>
+</programme>
+<programme start="20250718110000 +0000" stop="20250718114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20250718114500 +0000" stop="20250718121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20250718121500 +0000" stop="20250718130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20250718154500 +0000" stop="20250718163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20250718163000 +0000" stop="20250717170000 +0000" channel="Trans 7.mncvision">
+    <title>Misteri Dunia</title>
+</programme>
+<programme start="20250717180000 +0000" stop="20250717220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia Connected</title>
+</programme>
+<programme start="20250717220000 +0000" stop="20250717233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20250717233000 +0000" stop="20250718003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20250718003000 +0000" stop="20250718013000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia Good Morning</title>
+</programme>
+<programme start="20250718013000 +0000" stop="20250718033000 +0000" channel="Trans TV.mncvision">
+    <title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20250718033000 +0000" stop="20250718053000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20250718053000 +0000" stop="20250718070000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis (Obrowlan Manis)</title>
+</programme>
+<programme start="20250718070000 +0000" stop="20250718080000 +0000" channel="Trans TV.mncvision">
+    <title>Rumpi: No Secret</title>
+</programme>
+<programme start="20250718080000 +0000" stop="20250718090000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Today</title>
+</programme>
+<programme start="20250718090000 +0000" stop="20250718093000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20250718093000 +0000" stop="20250718103000 +0000" channel="Trans TV.mncvision">
+    <title>Dream Box Indonesia</title>
+</programme>
+<programme start="20250718103000 +0000" stop="20250718114500 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper</title>
+</programme>
+<programme start="20250718114500 +0000" stop="20250718130000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20250718130000 +0000" stop="20250718140000 +0000" channel="Trans TV.mncvision">
+    <title>Dunia Punya Cerita</title>
+</programme>
+<programme start="20250718140000 +0000" stop="20250718160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20250718160000 +0000" stop="20250718163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
 <programme start="20250717180000 +0000" stop="20250717184500 +0000" channel="tvN.mncvision">
     <title>Cheongdam Int&#039;l... S2, Ep 5</title>
 </programme>
