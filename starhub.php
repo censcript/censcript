@@ -2102,7 +2102,7 @@
         <title>Bastad QF 3</title>
     </programme>
     <programme start="20250718150000 +0000" stop="20250718170000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bastad QF 4</title>
+        <title>ATP Tour 250 2025: Bastad QF 4 Cerundolo v Dzumhur (Live)</title>
     </programme>
     <programme start="20250717153000 +0000" stop="20250717163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -2336,7 +2336,7 @@
         <title>Mini Match - Roland Garros 2025: Men&#039;s Singles SF 2 Sinner v Djokovic</title>
     </programme>
     <programme start="20250718153000 +0000" stop="20250718173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Gstaad QF 4</title>
+        <title>ATP Tour 250 2025: Gstaad QF 4 Cazaux v Kym</title>
     </programme>
     <programme start="20250717160000 +0000" stop="20250717170000 +0000" channel="TVB Xing He.starhub">
         <title>KUNG FU MASTER, THE</title>
@@ -7358,7 +7358,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250718023000 +0000" stop="20250718030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250718030000 +0000" stop="20250718033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7391,7 +7391,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250718073000 +0000" stop="20250718080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250718080000 +0000" stop="20250718083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7436,7 +7436,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250718133000 +0000" stop="20250718140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250718140000 +0000" stop="20250718143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
