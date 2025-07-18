@@ -535,9 +535,6 @@
 <programme start="20250718050000 +0000" stop="20250718054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250718054500 +0000" stop="20250718063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang</title>
-</programme>
 <programme start="20250718063000 +0000" stop="20250718071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
 </programme>
@@ -649,14 +646,8 @@
 <programme start="20250719114500 +0000" stop="20250719121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250717230000 +0000" stop="20250718010000 +0000" channel="ANTV.vision">
-<title>Lara Jonggrang</title>
-</programme>
 <programme start="20250718010000 +0000" stop="20250718023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
-</programme>
-<programme start="20250718023000 +0000" stop="20250718060000 +0000" channel="ANTV.vision">
-<title>Fanaa</title>
 </programme>
 <programme start="20250718060000 +0000" stop="20250718090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250719080000 +0000" stop="20250719090000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20250719090000 +0000" stop="20250719100000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250719100000 +0000" stop="20250719110000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250719110000 +0000" stop="20250719120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>

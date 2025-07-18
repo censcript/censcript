@@ -1069,15 +1069,15 @@
     <programme start="20250717160001 +0000" stop="20250718160001 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 19th July, Saturday 1.52pm. World Aquatics Championships - Singapore 2032</title>
     </programme>
-    <programme start="20250717160000 +0000" stop="20250717231700 +0000" channel="WCH CH03.mewatch">
+    <programme start="20250717160001 +0000" stop="20250717231701 +0000" channel="WCH CH03.mewatch">
         <title>No Programme available now. Next Broadcast on 18th July, Friday 7.17am. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250717231700 +0000" stop="20250718014500 +0000" channel="WCH CH03.mewatch">
+    <programme start="20250717231701 +0000" stop="20250718014501 +0000" channel="WCH CH03.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Open Water Swimming - Women&#039;s 5km Final</title>
     </programme>
-    <programme start="20250718014500 +0000" stop="20250718040000 +0000" channel="WCH CH03.mewatch">
+    <programme start="20250718014501 +0000" stop="20250718034501 +0000" channel="WCH CH03.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Open Water Swimming - Men&#039;s 5km Final</title>
     </programme>
-    <programme start="20250718040000 +0000" stop="20250718160000 +0000" channel="WCH CH03.mewatch">
+    <programme start="20250718034501 +0000" stop="20250718160001 +0000" channel="WCH CH03.mewatch">
         <title>No Programme available now. Next Broadcast on 19th July, Saturday 7.47am. World Aquatics Championships - Singapore 2025</title>
     </programme>
