@@ -353,7 +353,7 @@
         <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20250718033000 +0000" stop="20250718040000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hain!</title>
+        <title>Bhabi Ji Ghar Par Hai!</title>
     </programme>
     <programme start="20250718040000 +0000" stop="20250718070000 +0000" channel="Zee TV.starhub">
         <title>Aitraaz</title>
@@ -401,7 +401,7 @@
         <title>Vasudha</title>
     </programme>
     <programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hain!</title>
+        <title>Bhabi Ji Ghar Par Hai!</title>
     </programme>
     <programme start="20250718150000 +0000" stop="20250718153000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
@@ -2780,7 +2780,7 @@
         <title>Vanakkam Thamizha</title>
     </programme>
     <programme start="20250718000000 +0000" stop="20250718003000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
+        <title>Ethirneechal Thodargiradhu</title>
     </programme>
     <programme start="20250718003000 +0000" stop="20250718010000 +0000" channel="Sun TV.starhub">
         <title>Singapenne</title>
@@ -2801,34 +2801,34 @@
         <title>Punitha</title>
     </programme>
     <programme start="20250718043000 +0000" stop="20250718050000 +0000" channel="Sun TV.starhub">
-        <title>MANAMAGALE VAA</title>
+        <title>Manamagale Vaa</title>
     </programme>
     <programme start="20250718050000 +0000" stop="20250718053000 +0000" channel="Sun TV.starhub">
-        <title>VINODHINI</title>
+        <title>Vinodhini</title>
     </programme>
     <programme start="20250718053000 +0000" stop="20250718060000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20250718060000 +0000" stop="20250718063000 +0000" channel="Sun TV.starhub">
-        <title>ilakkiya</title>
+        <title>Ilakkiya</title>
     </programme>
     <programme start="20250718063000 +0000" stop="20250718070000 +0000" channel="Sun TV.starhub">
-        <title>LAKSHMI</title>
+        <title>Lakshmi</title>
     </programme>
     <programme start="20250718070000 +0000" stop="20250718073000 +0000" channel="Sun TV.starhub">
-        <title>ANANDA RAGAM</title>
+        <title>Ananda Ragam</title>
     </programme>
     <programme start="20250718073000 +0000" stop="20250718080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - TIK TIK TIK (NEW)</title>
+        <title>Movie - Tik Tik Tik (New)</title>
     </programme>
     <programme start="20250718080000 +0000" stop="20250718083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250718083000 +0000" stop="20250718103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd - TIK TIK TIK (NEW)</title>
+        <title>Movie Contd - Tik Tik Tik (New)</title>
     </programme>
     <programme start="20250718103000 +0000" stop="20250718110000 +0000" channel="Sun TV.starhub">
-        <title>RAMAYANAM</title>
+        <title>Ramayanam</title>
     </programme>
     <programme start="20250718110000 +0000" stop="20250718113000 +0000" channel="Sun TV.starhub">
         <title>Annam</title>
@@ -2849,16 +2849,16 @@
         <title>News</title>
     </programme>
     <programme start="20250718140000 +0000" stop="20250718143000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
+        <title>Ethirneechal Thodargiradhu</title>
     </programme>
     <programme start="20250718143000 +0000" stop="20250718150000 +0000" channel="Sun TV.starhub">
-        <title>AADUKALAM</title>
+        <title>Aadukalam</title>
     </programme>
     <programme start="20250718150000 +0000" stop="20250718153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20250718153000 +0000" stop="20250718160000 +0000" channel="Sun TV.starhub">
-        <title>ANANDARAGAM - Serial</title>
+        <title>Anandaragam - Serial</title>
     </programme>
     <programme start="20250717160000 +0000" stop="20250717163000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
@@ -7183,20 +7183,14 @@
     <programme start="20250718123000 +0000" stop="20250718130000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>
     </programme>
-    <programme start="20250718130000 +0000" stop="20250718133000 +0000" channel="beIN Sports HD.starhub">
-        <title>Santiago P1</title>
-    </programme>
-    <programme start="20250718133000 +0000" stop="20250718140000 +0000" channel="beIN Sports HD.starhub">
-        <title>Qatar Major</title>
-    </programme>
-    <programme start="20250718140000 +0000" stop="20250718153000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250718130000 +0000" stop="20250718143000 +0000" channel="beIN Sports HD.starhub">
         <title>Premier Padel 2025: Malaga P1 Day 5 QF Match 4 (Live)</title>
     </programme>
-    <programme start="20250718153000 +0000" stop="20250718155000 +0000" channel="beIN Sports HD.starhub">
-        <title>Seville P2 Women&#039;s Final</title>
+    <programme start="20250718143000 +0000" stop="20250718155000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2025: Malaga P1 Day 5 QF Match 5 (Live)</title>
     </programme>
     <programme start="20250718155000 +0000" stop="20250718180000 +0000" channel="beIN Sports HD.starhub">
-        <title>Total Women&#039;s Africa Cup of Nations, Morocco 2024: QF1 (Live)</title>
+        <title>Total Women&#039;s Africa Cup of Nations, Morocco 2024: Nigeria vs Zambia - QF1 (Live</title>
     </programme>
     <programme start="20250717152000 +0000" stop="20250717161500 +0000" channel="TestChannel2.starhub">
         <title>The Unexpected Marriage</title>
@@ -7840,14 +7834,17 @@
     <programme start="20250718044000 +0000" stop="20250718051000 +0000" channel="Premier Sports.starhub">
         <title>5 &amp; 6 Nations Classics 2004 - France v England</title>
     </programme>
-    <programme start="20250718051000 +0000" stop="20250718070000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250718051000 +0000" stop="20250718054000 +0000" channel="Premier Sports.starhub">
+        <title>5 &amp; 6 Nations Classics 2004 - Scotland v France</title>
+    </programme>
+    <programme start="20250718054000 +0000" stop="20250718072500 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Fiji v Scotland</title>
     </programme>
-    <programme start="20250718070000 +0000" stop="20250718075500 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time</title>
-    </programme>
-    <programme start="20250718075500 +0000" stop="20250718095500 +0000" channel="Premier Sports.starhub">
+    <programme start="20250718072500 +0000" stop="20250718093000 +0000" channel="Premier Sports.starhub">
         <title>LIVE International Rugby LIVE Samoa v Scotland</title>
+    </programme>
+    <programme start="20250718093000 +0000" stop="20250718095500 +0000" channel="Premier Sports.starhub">
+        <title>5 &amp; 6 Nations Classics 2011 - England v Scotland</title>
     </programme>
     <programme start="20250718095500 +0000" stop="20250718120000 +0000" channel="Premier Sports.starhub">
         <title>LIVE NRL LIVE Panthers v Rabbitohs</title>

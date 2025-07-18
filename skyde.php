@@ -225,76 +225,76 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718041000 +0000" stop="20250718042000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718042000 +0000" stop="20250718043000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718042000 +0000" stop="20250718043500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718043000 +0000" stop="20250718044500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718043500 +0000" stop="20250718044500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250718044500 +0000" stop="20250718045500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718045500 +0000" stop="20250718050500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718045500 +0000" stop="20250718051000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718050500 +0000" stop="20250718051500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718051000 +0000" stop="20250718052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718051500 +0000" stop="20250718053000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718052000 +0000" stop="20250718053000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718053000 +0000" stop="20250718054000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718053000 +0000" stop="20250718054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718054000 +0000" stop="20250718055500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718054500 +0000" stop="20250718055500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250718055500 +0000" stop="20250718060500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718060500 +0000" stop="20250718061500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718060500 +0000" stop="20250718062000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718061500 +0000" stop="20250718063000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718062000 +0000" stop="20250718063000 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
 <programme start="20250718063000 +0000" stop="20250718064000 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
-<programme start="20250718064000 +0000" stop="20250718065000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718064000 +0000" stop="20250718065500 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
-<programme start="20250718065000 +0000" stop="20250718070000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718065500 +0000" stop="20250718070500 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
-<programme start="20250718070000 +0000" stop="20250718071500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718070500 +0000" stop="20250718072000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250718071500 +0000" stop="20250718072500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718072000 +0000" stop="20250718073000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250718072500 +0000" stop="20250718073500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718073000 +0000" stop="20250718074000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250718073500 +0000" stop="20250718074500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718074000 +0000" stop="20250718074500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250718074500 +0000" stop="20250718080500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718074500 +0000" stop="20250718081000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20250718080500 +0000" stop="20250718082000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718081000 +0000" stop="20250718082500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718082000 +0000" stop="20250718083000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718082500 +0000" stop="20250718083500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718083000 +0000" stop="20250718084000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718083500 +0000" stop="20250718084500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718084000 +0000" stop="20250718085000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718084500 +0000" stop="20250718085500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718085000 +0000" stop="20250718090500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718085500 +0000" stop="20250718090500 +0000" channel="Cartoon Network.skyde">
     <title>Uncle Grandpa</title>
 </programme>
 <programme start="20250718090500 +0000" stop="20250718091500 +0000" channel="Cartoon Network.skyde">
@@ -318,10 +318,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718102500 +0000" stop="20250718103500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250718103500 +0000" stop="20250718105000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718103500 +0000" stop="20250718104500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250718105000 +0000" stop="20250718110000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718104500 +0000" stop="20250718110000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
 <programme start="20250718110000 +0000" stop="20250718111000 +0000" channel="Cartoon Network.skyde">
@@ -330,10 +330,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718111000 +0000" stop="20250718112000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250718112000 +0000" stop="20250718113500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718112000 +0000" stop="20250718113000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250718113500 +0000" stop="20250718114500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718113000 +0000" stop="20250718114500 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
 <programme start="20250718114500 +0000" stop="20250718115500 +0000" channel="Cartoon Network.skyde">
@@ -345,10 +345,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718120500 +0000" stop="20250718121500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250718121500 +0000" stop="20250718123000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718121500 +0000" stop="20250718122500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250718123000 +0000" stop="20250718124000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718122500 +0000" stop="20250718124000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250718124000 +0000" stop="20250718125000 +0000" channel="Cartoon Network.skyde">
@@ -363,40 +363,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718131500 +0000" stop="20250718134000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250718134000 +0000" stop="20250718135500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718134000 +0000" stop="20250718135000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250718135500 +0000" stop="20250718140500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718135000 +0000" stop="20250718140000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250718140500 +0000" stop="20250718141500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718140000 +0000" stop="20250718141000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250718141500 +0000" stop="20250718142300 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718141000 +0000" stop="20250718142200 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250718142300 +0000" stop="20250718142700 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718142200 +0000" stop="20250718142600 +0000" channel="Cartoon Network.skyde">
     <title>Beast Boy: Lone Wolf</title>
 </programme>
-<programme start="20250718142700 +0000" stop="20250718144000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718142600 +0000" stop="20250718144000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250718144000 +0000" stop="20250718145000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718145000 +0000" stop="20250718150500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718145000 +0000" stop="20250718150000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718150500 +0000" stop="20250718151500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718150000 +0000" stop="20250718151000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718151500 +0000" stop="20250718152500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718151000 +0000" stop="20250718152500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250718152500 +0000" stop="20250718154000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718152500 +0000" stop="20250718153500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250718154000 +0000" stop="20250718155000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250718153500 +0000" stop="20250718155000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
 <programme start="20250718155000 +0000" stop="20250718160000 +0000" channel="Cartoon Network.skyde">
@@ -2730,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250718120000 +0000" stop="20250718140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Karlsruher SC - Eintracht Braunschweig, 21. Spieltag</title>
 </programme>
-<programme start="20250718140500 +0000" stop="20250718160500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250718140000 +0000" stop="20250718160500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - SV Darmstadt 98, 22. Spieltag</title>
 </programme>
 <programme start="20250718160500 +0000" stop="20250718164500 +0000" channel="Sky Sport Bundesliga HD.skyde">
