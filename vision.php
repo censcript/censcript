@@ -649,6 +649,9 @@
 <programme start="20250719114500 +0000" stop="20250719121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250717230000 +0000" stop="20250718010000 +0000" channel="ANTV.vision">
+<title>Lara Jonggrang</title>
+</programme>
 <programme start="20250718010000 +0000" stop="20250718023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250719080000 +0000" stop="20250719090000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
-</programme>
-<programme start="20250719090000 +0000" stop="20250719100000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
 </programme>
