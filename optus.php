@@ -1,6 +1,3 @@
-    <programme start="20250718102000 +0000" stop="20250718124000 +0000" channel="Optus Sport 7.optus">
-        <title>N/A - Suwon FC v Gwangju</title>
-    </programme>
     <programme start="20250718184930 +0000" stop="20250718221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Spain v Switzerland</title>
     </programme>
