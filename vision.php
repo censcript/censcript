@@ -649,9 +649,6 @@
 <programme start="20250718123000 +0000" stop="20250718143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250718143000 +0000" stop="20250718163000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
-</programme>
 <programme start="20250718163000 +0000" stop="20250718183000 +0000" channel="ANTV.vision">
 <title>Teenage Mutant Ninja Turtles</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Dunia Binatang</title>
 </programme>
 <programme start="20250717230000 +0000" stop="20250718003500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250718003500 +0000" stop="20250718021500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
