@@ -4117,8 +4117,11 @@
 <programme start="20250718123000 +0000" stop="20250718133000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250718133000 +0000" stop="20250718153000 +0000" channel="GTV.mncvision">
+<programme start="20250718133000 +0000" stop="20250718143000 +0000" channel="GTV.mncvision">
     <title>The Great Magician</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718153000 +0000" channel="GTV.mncvision">
+    <title>The Big Explosion</title>
 </programme>
 <programme start="20250718153000 +0000" stop="20250718160000 +0000" channel="GTV.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -4171,8 +4174,11 @@
 <programme start="20250718123000 +0000" stop="20250718133000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250718133000 +0000" stop="20250718153000 +0000" channel="GTV HD.mncvision">
+<programme start="20250718133000 +0000" stop="20250718143000 +0000" channel="GTV HD.mncvision">
     <title>The Great Magician</title>
+</programme>
+<programme start="20250718143000 +0000" stop="20250718153000 +0000" channel="GTV HD.mncvision">
+    <title>The Big Explosion</title>
 </programme>
 <programme start="20250718153000 +0000" stop="20250718160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -8366,7 +8372,7 @@
     <title>World Classic League</title>
 </programme>
 <programme start="20250718153000 +0000" stop="20250718160000 +0000" channel="Sportstars 2.mncvision">
-    <title>Predator PBC Indonesia Open</title>
+    <title>GAMMA World MMA C&#039;ship 2024</title>
 </programme>
 <programme start="20250717173000 +0000" stop="20250717190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>GAMMA World MMA C&#039;ship 2024</title>
@@ -8411,7 +8417,7 @@
     <title>World Classic League</title>
 </programme>
 <programme start="20250718153000 +0000" stop="20250718160000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Predator PBC Indonesia Open</title>
+    <title>GAMMA World MMA C&#039;ship 2024</title>
 </programme>
 <programme start="20250717170000 +0000" stop="20250717190000 +0000" channel="Sportstars 3.mncvision">
     <title>Liga 2: DTS Vs PRJ</title>
