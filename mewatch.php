@@ -1066,6 +1066,9 @@
     <programme start="20250719113801 +0000" stop="20250719160001 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 20th July, Sunday 6.22pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
+    <programme start="20250719160000 +0000" stop="20250720102200 +0000" channel="WCH CH02.mewatch">
+        <title>No Programme available now. Next Broadcast on 20th July, Sunday 6.22pm. World Aquatics Championships - Singapore 2025</title>
+    </programme>
     <programme start="20250718034501 +0000" stop="20250718160001 +0000" channel="WCH CH03.mewatch">
         <title>No Programme available now. Next Broadcast on 19th July, Saturday 7.47am. World Aquatics Championships - Singapore 2025</title>
     </programme>

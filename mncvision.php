@@ -2434,90 +2434,8 @@
 <programme start="20250719163000 +0000" stop="20250718170000 +0000" channel="Channel News Asia.mncvision">
     <title>Money Mind, Ep 12</title>
 </programme>
-<programme start="20250718172800 +0000" stop="20250718192600 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250718192600 +0000" stop="20250718205800 +0000" channel="CINEEDGE.mncvision">
-    <title>Standoff</title>
-</programme>
-<programme start="20250718205800 +0000" stop="20250718230600 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250718230600 +0000" stop="20250719004600 +0000" channel="CINEEDGE.mncvision">
-    <title>Code Name Banshee</title>
-</programme>
-<programme start="20250719004600 +0000" stop="20250719025600 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719025600 +0000" stop="20250719043100 +0000" channel="CINEEDGE.mncvision">
-    <title>Double Identity</title>
-</programme>
-<programme start="20250719043100 +0000" stop="20250719061100 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719061100 +0000" stop="20250719074400 +0000" channel="CINEEDGE.mncvision">
-    <title>Rampage</title>
-</programme>
-<programme start="20250719074400 +0000" stop="20250719092700 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719092700 +0000" stop="20250719110800 +0000" channel="CINEEDGE.mncvision">
-    <title>Mercenary For Justice</title>
-</programme>
-<programme start="20250719110800 +0000" stop="20250719124900 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719124900 +0000" stop="20250719143500 +0000" channel="CINEEDGE.mncvision">
-    <title>Agent Jade Black</title>
-</programme>
-<programme start="20250719143500 +0000" stop="20250719164700 +0000" channel="CINEEDGE.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719164700 +0000" stop="20250718171700 +0000" channel="CINEEDGE.mncvision">
-    <title>Renegades</title>
-</programme>
-<programme start="20250718172800 +0000" stop="20250718192600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250718192600 +0000" stop="20250718205800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Standoff</title>
-</programme>
-<programme start="20250718205800 +0000" stop="20250718230600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250718230600 +0000" stop="20250719004600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Code Name Banshee</title>
-</programme>
-<programme start="20250719004600 +0000" stop="20250719025600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719025600 +0000" stop="20250719043100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Double Identity</title>
-</programme>
-<programme start="20250719043100 +0000" stop="20250719061100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719061100 +0000" stop="20250719074400 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Rampage</title>
-</programme>
-<programme start="20250719074400 +0000" stop="20250719092700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719092700 +0000" stop="20250719110800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Mercenary For Justice</title>
-</programme>
-<programme start="20250719110800 +0000" stop="20250719124900 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719124900 +0000" stop="20250719143500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Agent Jade Black</title>
-</programme>
-<programme start="20250719143500 +0000" stop="20250719164700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250719164700 +0000" stop="20250718171700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Renegades</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250718170000 +0000" stop="20250718180000 +0000" channel="CNBC.mncvision">
     <title>The Exchange</title>
 </programme>
@@ -7789,48 +7707,7 @@
 <programme start="20250719160000 +0000" stop="20250719163000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Ice Pilots NWT S4, Ep 11</title>
 </programme>
-<programme start="20250718180000 +0000" stop="20250718190000 +0000" channel="RCTI.mncvision">
-    <title>Insyaallah Jodoh</title>
-</programme>
-<programme start="20250718190000 +0000" stop="20250718210000 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali: Kakus Kasus</title>
-</programme>
-<programme start="20250718210000 +0000" stop="20250718234500 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun</title>
-</programme>
-<programme start="20250718234500 +0000" stop="20250719010000 +0000" channel="RCTI.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20250719010000 +0000" stop="20250719013000 +0000" channel="RCTI.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20250719013000 +0000" stop="20250719060000 +0000" channel="RCTI.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20250719060000 +0000" stop="20250719080000 +0000" channel="RCTI.mncvision">
-    <title>TAD: The Lost Explorer</title>
-</programme>
-<programme start="20250719080000 +0000" stop="20250719100000 +0000" channel="RCTI.mncvision">
-    <title>Rahasia Kelam Panti Asuhan</title>
-</programme>
-<programme start="20250719100000 +0000" stop="20250719110000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20250719110000 +0000" stop="20250719121500 +0000" channel="RCTI.mncvision">
-    <title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20250719121500 +0000" stop="20250719133000 +0000" channel="RCTI.mncvision">
-    <title>Tebaran Hati</title>
-</programme>
-<programme start="20250719133000 +0000" stop="20250719150000 +0000" channel="RCTI.mncvision">
-    <title>Mencintaimu Sekali Lagi</title>
-</programme>
-<programme start="20250719150000 +0000" stop="20250719160000 +0000" channel="RCTI.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20250719160000 +0000" stop="20250719163000 +0000" channel="RCTI.mncvision">
-    <title>Children Of Heaven</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250718180000 +0000" stop="20250718190000 +0000" channel="RCTI HD.mncvision">
     <title>Insyaallah Jodoh</title>
 </programme>

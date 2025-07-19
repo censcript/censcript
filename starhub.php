@@ -2215,11 +2215,23 @@
     <programme start="20250718223000 +0000" stop="20250719010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Aadu Puli Aatam (New)</title>
     </programme>
-    <programme start="20250719040000 +0000" stop="20250719100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250719010000 +0000" stop="20250719013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250719100000 +0000" stop="20250719160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250719013000 +0000" stop="20250719043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Arudhra</title>
+    </programme>
+    <programme start="20250719043000 +0000" stop="20250719073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kedi</title>
+    </programme>
+    <programme start="20250719073000 +0000" stop="20250719103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Maanagara kaaval</title>
+    </programme>
+    <programme start="20250719103000 +0000" stop="20250719133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaadhala kaadhala</title>
+    </programme>
+    <programme start="20250719133000 +0000" stop="20250719170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sivappu Manjal Pachai</title>
     </programme>
     <programme start="20250718153000 +0000" stop="20250718173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Gstaad QF 4 Cazaux v Kym</title>
@@ -5000,7 +5012,7 @@
         <title>Thangamagal Ilam Dhevadhaigalin Kadhai</title>
     </programme>
     <programme start="20250719093000 +0000" stop="20250719120000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Irugapatru</title>
     </programme>
     <programme start="20250719120000 +0000" stop="20250719123000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
@@ -5014,7 +5026,7 @@
     <programme start="20250719133000 +0000" stop="20250719150000 +0000" channel="Vijay TV HD.starhub">
         <title>Cooku With Comali S06</title>
     </programme>
-    <programme start="20250719150000 +0000" stop="20250719163000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250719150000 +0000" stop="20250719160000 +0000" channel="Vijay TV HD.starhub">
         <title>Neeya Naana</title>
     </programme>
     <programme start="20250718160000 +0000" stop="20250718163000 +0000" channel="Asianet.starhub">
