@@ -971,7 +971,7 @@
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250719095000 +0000" stop="20250719115500 +0000" channel="DAZN 2 HD.skyde">
-    <title>E1 Series: Monaco : Group Stages</title>
+    <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
 <programme start="20250719115500 +0000" stop="20250719121000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -979,29 +979,26 @@
 <programme start="20250719121000 +0000" stop="20250719124000 +0000" channel="DAZN 2 HD.skyde">
     <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250719124000 +0000" stop="20250719131000 +0000" channel="DAZN 2 HD.skyde">
-    <title>E1 Series: Monaco : Race Off</title>
-</programme>
-<programme start="20250719131000 +0000" stop="20250719134000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250719124000 +0000" stop="20250719130500 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A Highlightshow 2024/25: 38. Spieltag</title>
 </programme>
-<programme start="20250719134000 +0000" stop="20250719140000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250719130500 +0000" stop="20250719133000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250719140000 +0000" stop="20250719153500 +0000" channel="DAZN 2 HD.skyde">
-    <title>E1 Series: Monaco : Finals</title>
-</programme>
-<programme start="20250719153500 +0000" stop="20250719160000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20250719133000 +0000" stop="20250719160000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Coppa Italia: FC Bologna - AC Mailand</title>
 </programme>
 <programme start="20250719160000 +0000" stop="20250719164500 +0000" channel="DAZN 2 HD.skyde">
     <title>Darts Features: International Darts Open Finale: Martin Schindler - Gerwyn Price</title>
 </programme>
-<programme start="20250719164500 +0000" stop="20250719180000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250719164500 +0000" stop="20250719181000 +0000" channel="DAZN 2 HD.skyde">
     <title>PDC World Darts Championship 2025: Features: Price - Cullen (3. Runde)</title>
 </programme>
-<programme start="20250719180000 +0000" stop="20250719213000 +0000" channel="DAZN 2 HD.skyde">
-    <title>World Matchplay: Tag 1</title>
+<programme start="20250719181000 +0000" stop="20250719203500 +0000" channel="DAZN 2 HD.skyde">
+    <title>World Darts Championship: Finale</title>
+</programme>
+<programme start="20250719203500 +0000" stop="20250719213000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Get Wild: Lange Version</title>
 </programme>
 <programme start="20250719213000 +0000" stop="20250719220000 +0000" channel="DAZN 2 HD.skyde">
     <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
