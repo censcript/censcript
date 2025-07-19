@@ -2684,10 +2684,10 @@
     <title>ATP World Tour: Es folgt</title>
 </programme>
 <programme start="20250719110000 +0000" stop="20250719130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: HF1, Nordea Open in Bastad (SWE), Halbfinale 1</title>
+    <title>Live ATP 250: C. Ugo Carabelli (ARG) - J. De Jong (NLD), Nordea Open in Bastad (SWE), Halbfinale 1</title>
 </programme>
-<programme start="20250719130000 +0000" stop="20250719150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: HF2, Nordea Open in Bastad (SWE), Halbfinale 2</title>
+<programme start="20250719130000 +0000" stop="20250719180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA),  Nordea Open in Bastad (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20250718224000 +0000" stop="20250718232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - Saison 24-25</title>
