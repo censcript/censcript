@@ -3221,10 +3221,10 @@
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250719120000 +0000" stop="20250719140000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 250: Halbfinale, MSC Hamburg Ladies Open in Hamburg, Halbfinale 1</title>
+    <title>Live WTA 250: A. Bondár (HUN) - K. Juvan (SVN), MSC Hamburg Ladies Open in Hamburg, Halbfinale 1</title>
 </programme>
-<programme start="20250719140000 +0000" stop="20250719160000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 250: Halbfinale, MSC Hamburg Ladies Open in Hamburg, Halbfinale 2</title>
+<programme start="20250719140000 +0000" stop="20250719180000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 250: L. Boisson (FRA) - D. Yastremska (UKR), MSC Hamburg Ladies Open in Hamburg, Halbfinale 2</title>
 </programme>
 <programme start="20250719104000 +0000" stop="20250719110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
