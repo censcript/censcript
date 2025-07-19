@@ -2683,10 +2683,10 @@
 <programme start="20250719104000 +0000" stop="20250719110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20250719110000 +0000" stop="20250719131500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250719110000 +0000" stop="20250719130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: C. Ugo Carabelli (ARG) - J. De Jong (NLD), Nordea Open in Bastad (SWE), Halbfinale 1</title>
 </programme>
-<programme start="20250719131500 +0000" stop="20250719180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250719130000 +0000" stop="20250719180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA),  Nordea Open in Bastad (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20250718224000 +0000" stop="20250718232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3229,10 +3229,10 @@
 <programme start="20250719104000 +0000" stop="20250719110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250719110000 +0000" stop="20250719130000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250719110000 +0000" stop="20250719131500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: C. Ugo Carabelli (ARG) - J. De Jong (NLD), Nordea Open in Bastad (SWE), Halbfinale 1</title>
 </programme>
-<programme start="20250719130000 +0000" stop="20250719180000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250719131500 +0000" stop="20250719180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA),  Nordea Open in Bastad (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20250718222000 +0000" stop="20250718230500 +0000" channel="SYFY HD.skyde">

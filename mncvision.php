@@ -4720,7 +4720,99 @@
 <programme start="20250720163000 +0000" stop="20250719170000 +0000" channel="IDX.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250719173000 +0000" stop="20250719183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250719183000 +0000" stop="20250719193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250719193000 +0000" stop="20250719203000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250719203000 +0000" stop="20250719213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250719213000 +0000" stop="20250719223000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250719223000 +0000" stop="20250719230000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250719230000 +0000" stop="20250719233000 +0000" channel="IDX HD.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250719233000 +0000" stop="20250720003000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250720003000 +0000" stop="20250720013000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250720013000 +0000" stop="20250720023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250720023000 +0000" stop="20250720033000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250720033000 +0000" stop="20250720040000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250720040000 +0000" stop="20250720043000 +0000" channel="IDX HD.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250720043000 +0000" stop="20250720053000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250720053000 +0000" stop="20250720063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250720063000 +0000" stop="20250720073000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250720073000 +0000" stop="20250720080000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250720080000 +0000" stop="20250720083000 +0000" channel="IDX HD.mncvision">
+    <title>Small Space</title>
+</programme>
+<programme start="20250720083000 +0000" stop="20250720090000 +0000" channel="IDX HD.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250720090000 +0000" stop="20250720093000 +0000" channel="IDX HD.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250720093000 +0000" stop="20250720103000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250720103000 +0000" stop="20250720110000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250720110000 +0000" stop="20250720113000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250720113000 +0000" stop="20250720120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250720120000 +0000" stop="20250720130000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250720130000 +0000" stop="20250720140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250720140000 +0000" stop="20250720150000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250720150000 +0000" stop="20250720153000 +0000" channel="IDX HD.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250720153000 +0000" stop="20250720160000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250720160000 +0000" stop="20250720163000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250720163000 +0000" stop="20250719170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20250719172000 +0000" stop="20250719185000 +0000" channel="IMC.mncvision">
     <title>Cinta Dalam Sepotong Roti</title>
 </programme>
@@ -9929,4 +10021,69 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250720150000 +0000" stop="20250720153000 +0000" channel="Vision Prime.mncvision">
     <title>Mission: Impossible Rouge...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250719170000 +0000" stop="20250719180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250719180000 +0000" stop="20250719190000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250719190000 +0000" stop="20250719200000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250719200000 +0000" stop="20250719210000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250719210000 +0000" stop="20250719220000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250719220000 +0000" stop="20250719230000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250719230000 +0000" stop="20250719233000 +0000" channel="Vision Prime HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250719233000 +0000" stop="20250720010000 +0000" channel="Vision Prime HD.mncvision">
+    <title>TOP: Tukang Ojek Preman</title>
+</programme>
+<programme start="20250720010000 +0000" stop="20250720020000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Si Mamat Anak Pasar Jangkrik</title>
+</programme>
+<programme start="20250720020000 +0000" stop="20250720030000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250720030000 +0000" stop="20250720040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250720040000 +0000" stop="20250720050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250720050000 +0000" stop="20250720070000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mission: Impossible Rouge...</title>
+</programme>
+<programme start="20250720070000 +0000" stop="20250720090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Critical Eleven</title>
+</programme>
+<programme start="20250720090000 +0000" stop="20250720100000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250720100000 +0000" stop="20250720110000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250720110000 +0000" stop="20250720120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250720120000 +0000" stop="20250720130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250720130000 +0000" stop="20250720140000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250720140000 +0000" stop="20250720143000 +0000" channel="Vision Prime HD.mncvision">
+    <title>12 Hari</title>
+</programme>
+<programme start="20250720143000 +0000" stop="20250720150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>7 Kadam</title>
+</programme>
+<programme start="20250720150000 +0000" stop="20250720153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mission: Impossible Rouge...</title>
+</programme>

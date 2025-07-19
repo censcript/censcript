@@ -574,17 +574,8 @@
 <programme start="20250719154500 +0000" stop="20250719163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250719163000 +0000" stop="20250719171500 +0000" channel="Trans 7.vision">
-<title>Starting Grid MotoGP: Czechia</title>
-</programme>
-<programme start="20250719171500 +0000" stop="20250719180000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race: Czechia</title>
-</programme>
 <programme start="20250719180000 +0000" stop="20250719190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
-</programme>
-<programme start="20250719190000 +0000" stop="20250719194500 +0000" channel="Trans 7.vision">
-<title>Ayah &amp; Ayu</title>
 </programme>
 <programme start="20250719194500 +0000" stop="20250719201500 +0000" channel="Trans 7.vision">
 <title>Foodies</title>
@@ -654,15 +645,6 @@
 </programme>
 <programme start="20250719123000 +0000" stop="20250719143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250719143000 +0000" stop="20250719163000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
-</programme>
-<programme start="20250719163000 +0000" stop="20250719183000 +0000" channel="ANTV.vision">
-<title>Teenage Mutant Ninja Turtles 2</title>
-</programme>
-<programme start="20250719183000 +0000" stop="20250719200000 +0000" channel="ANTV.vision">
-<title>Born Wild</title>
 </programme>
 <programme start="20250719200000 +0000" stop="20250719213000 +0000" channel="ANTV.vision">
 <title>Mekar Diguncang Prahara</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250720030000 +0000" stop="20250720034500 +0000" channel="BTV.vision">
 <title>Kids Universe</title>
+</programme>
+<programme start="20250720034500 +0000" stop="20250720040000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250720040000 +0000" stop="20250720050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20250720050000 +0000" stop="20250720070000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250720070000 +0000" stop="20250720080000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250720080000 +0000" stop="20250720090000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
+</programme>
+<programme start="20250720090000 +0000" stop="20250720100000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
 </programme>
