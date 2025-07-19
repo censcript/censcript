@@ -1,6 +1,3 @@
-    <programme start="20250719184930 +0000" stop="20250719221000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - France v Germany</title>
-    </programme>
     <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Kashima v Kashiwa</title>
     </programme>
