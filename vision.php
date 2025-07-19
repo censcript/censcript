@@ -649,14 +649,8 @@
 <programme start="20250719010000 +0000" stop="20250719023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250719023000 +0000" stop="20250719060000 +0000" channel="ANTV.vision">
-<title>Raees</title>
-</programme>
 <programme start="20250719060000 +0000" stop="20250719090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20250719090000 +0000" stop="20250719123000 +0000" channel="ANTV.vision">
-<title>Ek Tha Tiger</title>
 </programme>
 <programme start="20250719123000 +0000" stop="20250719143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250720021500 +0000" stop="20250720023000 +0000" channel="BTV.vision">
 <title>Endeus</title>
+</programme>
+<programme start="20250720023000 +0000" stop="20250720030000 +0000" channel="BTV.vision">
+<title>Rumah Punya Cerita</title>
+</programme>
+<programme start="20250720030000 +0000" stop="20250720034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
 </programme>
