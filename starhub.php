@@ -8296,19 +8296,19 @@
     <programme start="20250718133000 +0000" stop="20250718163000 +0000" channel="Asianet Movies.starhub">
         <title>Premalu</title>
     </programme>
-    <programme start="20250718163000 +0000" stop="20250718190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250718163000 +0000" stop="20250718193500 +0000" channel="Asianet Movies.starhub">
         <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
-    <programme start="20250718190000 +0000" stop="20250718220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250718193500 +0000" stop="20250718213000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha Samvidhanam Kunchacko</title>
     </programme>
-    <programme start="20250718220000 +0000" stop="20250718233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250718213000 +0000" stop="20250718233000 +0000" channel="Asianet Movies.starhub">
         <title>Anwar</title>
     </programme>
-    <programme start="20250718233000 +0000" stop="20250719013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250718233000 +0000" stop="20250719014500 +0000" channel="Asianet Movies.starhub">
         <title>Helen</title>
     </programme>
-    <programme start="20250719013000 +0000" stop="20250719043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250719014500 +0000" stop="20250719043000 +0000" channel="Asianet Movies.starhub">
         <title>Aravindhante Athidhikal</title>
     </programme>
     <programme start="20250719043000 +0000" stop="20250719073000 +0000" channel="Asianet Movies.starhub">
@@ -8320,7 +8320,7 @@
     <programme start="20250719103000 +0000" stop="20250719133000 +0000" channel="Asianet Movies.starhub">
         <title>Classmates</title>
     </programme>
-    <programme start="20250719133000 +0000" stop="20250719183000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250719133000 +0000" stop="20250719175000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa 2: The Rule</title>
     </programme>
     <programme start="20250718160000 +0000" stop="20250718170000 +0000" channel="Astro Warna HD.starhub">
