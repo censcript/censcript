@@ -1003,7 +1003,7 @@
     <programme start="20250717160001 +0000" stop="20250718160001 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
     </programme>
-    <programme start="20250718160001 +0000" stop="20250719160001 +0000" channel="Live 6.mewatch">
+    <programme start="20250718160000 +0000" stop="20250719160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
     </programme>
     <programme start="20250719160000 +0000" stop="20250720160000 +0000" channel="Live 6.mewatch">

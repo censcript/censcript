@@ -2687,10 +2687,10 @@
     <title>ATP World Tour: Es folgt</title>
 </programme>
 <programme start="20250719110000 +0000" stop="20250719130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: HF1, Nordea Open in Bastad (SWE), Halbfinale 1</title>
+    <title>Live ATP 250: C. Ugo Carabelli (ARG) - J. De Jong (NLD), Nordea Open in Bastad (SWE), Halbfinale 1</title>
 </programme>
-<programme start="20250719130000 +0000" stop="20250719150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: HF2, Nordea Open in Bastad (SWE), Halbfinale 2</title>
+<programme start="20250719130000 +0000" stop="20250719180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA),  Nordea Open in Bastad (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20250718224000 +0000" stop="20250718232000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - Saison 24-25</title>
@@ -3127,38 +3127,35 @@
 <programme start="20250719213000 +0000" stop="20250719220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Goals: Manchester City - Liverpool</title>
 </programme>
-<programme start="20250719000000 +0000" stop="20250719003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250718221500 +0000" stop="20250719004500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Vondrousova (CZE) - X. Wang (CHN), BERLIN TENNIS OPEN by HYLO in Berlin, Finale</title>
 </programme>
-<programme start="20250719003000 +0000" stop="20250719023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
+<programme start="20250719004500 +0000" stop="20250719025000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 250: D. Gálfi (HUN) - D. Yastremska (UKR) MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
 </programme>
-<programme start="20250719023000 +0000" stop="20250719043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 5. Tag</title>
+<programme start="20250719025000 +0000" stop="20250719045000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Topspiel, Francisco Cerundolo (ARG) - Damir Dzumhur (BOS) Nordea Open in Bastad (SWE), 5. Tag</title>
 </programme>
-<programme start="20250719043000 +0000" stop="20250719050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Rom</title>
+<programme start="20250719045000 +0000" stop="20250719065500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 250: D. Gálfi (HUN) - D. Yastremska (UKR) MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
 </programme>
-<programme start="20250719050000 +0000" stop="20250719070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
-</programme>
-<programme start="20250719070000 +0000" stop="20250719090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 5. Tag</title>
+<programme start="20250719065500 +0000" stop="20250719090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Topspiel, Francisco Cerundolo (ARG) - Damir Dzumhur (BOS) Nordea Open in Bastad (SWE), 5. Tag</title>
 </programme>
 <programme start="20250719090000 +0000" stop="20250719160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20250719160000 +0000" stop="20250719180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Halbfinale, MSC Hamburg Ladies Open in Hamburg, Halbfinale 1</title>
+    <title>WTA 250: A. Bondár (HUN) - K. Juvan (SVN), MSC Hamburg Ladies Open in Hamburg, Halbfinale 1</title>
 </programme>
 <programme start="20250719180000 +0000" stop="20250719200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: Halbfinale, MSC Hamburg Ladies Open in Hamburg, Halbfinale 2</title>
+    <title>WTA 250: L. Boisson (FRA) - D. Yastremska (UKR), MSC Hamburg Ladies Open in Hamburg, Halbfinale 2</title>
 </programme>
 <programme start="20250719200000 +0000" stop="20250719203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250719203000 +0000" stop="20250719223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF1, Nordea Open in Bastad (SWE), Halbfinale 1</title>
+    <title>ATP 250: C. Ugo Carabelli (ARG) - J. De Jong (NLD), Nordea Open in Bastad (SWE), Halbfinale 1</title>
 </programme>
 <programme start="20250718220000 +0000" stop="20250719010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Barracuda Championship, 2. Tag in Truckee, CA (USA)</title>
@@ -3167,10 +3164,10 @@
     <title>Fußball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
 </programme>
 <programme start="20250719013000 +0000" stop="20250719033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 250: Topspiel, MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
+    <title>WTA 250: D. Gálfi (HUN) - D. Yastremska (UKR) MSC Hamburg Ladies Open in Hamburg, 5. Tag</title>
 </programme>
 <programme start="20250719033000 +0000" stop="20250719053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Topspiel, Nordea Open in Bastad (SWE), 5. Tag</title>
+    <title>ATP 250: Topspiel, Francisco Cerundolo (ARG) - Damir Dzumhur (BOS) Nordea Open in Bastad (SWE), 5. Tag</title>
 </programme>
 <programme start="20250719053000 +0000" stop="20250719063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review of the Season 2024/25</title>
@@ -3187,22 +3184,13 @@
 <programme start="20250719084500 +0000" stop="20250719100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Qualifying - GP Tschechien</title>
 </programme>
-<programme start="20250719100000 +0000" stop="20250719104500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250719100000 +0000" stop="20250719123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live The Open: 3. Tag in Portrush (Nordirland)</title>
-</programme>
-<programme start="20250719104500 +0000" stop="20250719113500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto3: Qualifying - GP Tschechien</title>
-</programme>
-<programme start="20250719113500 +0000" stop="20250719123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto2: Qualifying - GP Tschechien</title>
 </programme>
 <programme start="20250719123000 +0000" stop="20250719140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Sprint - GP Tschechien</title>
 </programme>
-<programme start="20250719140000 +0000" stop="20250719153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Testspiel: Kickers Emden - Werder Bremen, Testspiel in Emden</title>
-</programme>
-<programme start="20250719153000 +0000" stop="20250719190000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250719140000 +0000" stop="20250719190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live The Open: 3. Tag in Portrush (Nordirland)</title>
 </programme>
 <programme start="20250719190000 +0000" stop="20250719200000 +0000" channel="Sky Sport Top Event HD.skyde">
