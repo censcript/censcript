@@ -2225,10 +2225,10 @@
         <title>Movie - Kedi</title>
     </programme>
     <programme start="20250719073000 +0000" stop="20250719103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Maanagara kaaval</title>
+        <title>Movie - Maanagara Kaaval</title>
     </programme>
     <programme start="20250719103000 +0000" stop="20250719133000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Kaadhala kaadhala</title>
+        <title>Movie - Kaadhala Kaadhala</title>
     </programme>
     <programme start="20250719133000 +0000" stop="20250719170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Sivappu Manjal Pachai</title>

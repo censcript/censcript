@@ -982,22 +982,19 @@
     <programme start="20250718150001 +0000" stop="20250718160001 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 19th July, Saturday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Laos vs Vietnam</title>
     </programme>
-    <programme start="20250718160001 +0000" stop="20250719100001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th July, Saturday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Laos vs Vietnam</title>
+    <programme start="20250718160001 +0000" stop="20250719093401 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th July, Saturday 5.34pm. ASEAN U-23 Mandiri Cup™ 2025: Laos vs Vietnam</title>
     </programme>
-    <programme start="20250719100001 +0000" stop="20250719120001 +0000" channel="Live 5.mewatch">
+    <programme start="20250719093401 +0000" stop="20250719120001 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Laos vs Vietnam</title>
     </programme>
-    <programme start="20250719120001 +0000" stop="20250719130001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th July, Saturday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Timor-Leste vs Thailand</title>
+    <programme start="20250719120001 +0000" stop="20250719123401 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th July, Saturday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Timor-Leste vs Thailand</title>
     </programme>
-    <programme start="20250719130001 +0000" stop="20250719150001 +0000" channel="Live 5.mewatch">
+    <programme start="20250719123401 +0000" stop="20250719150001 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Timor-Leste vs Thailand</title>
     </programme>
     <programme start="20250719150001 +0000" stop="20250719160001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
-    </programme>
-    <programme start="20250719160000 +0000" stop="20250720160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
     </programme>
     <programme start="20250717160001 +0000" stop="20250718160001 +0000" channel="Live 6.mewatch">
