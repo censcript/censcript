@@ -2670,7 +2670,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250720100000 +0000" stop="20250720120000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Tennis: Tommy Haas (GER) - Dominic Thiem (AUT), Exhibition Match in Hamburg</title>
 </programme>
-<programme start="20250720120000 +0000" stop="20250720143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250720120000 +0000" stop="20250720163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: Finale, Nordea Open in Bastad (SWE), Finale</title>
 </programme>
 <programme start="20250719223000 +0000" stop="20250719231000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3195,7 +3195,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250720100000 +0000" stop="20250720120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Tennis: Tommy Haas (GER) - Dominic Thiem (AUT), Exhibition Match in Hamburg</title>
 </programme>
-<programme start="20250720120000 +0000" stop="20250720143000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250720120000 +0000" stop="20250720163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 250: Finale, MSC Hamburg Ladies Open in Hamburg, Finale</title>
 </programme>
 <programme start="20250720114000 +0000" stop="20250720120000 +0000" channel="Sky Sport 2 HD.skyde">
