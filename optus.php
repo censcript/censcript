@@ -1,12 +1,3 @@
-    <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Gangwon v Daejeon</title>
-    </programme>
-    <programme start="20250719095000 +0000" stop="20250719121000 +0000" channel="Optus Sport 8.optus">
-        <title>N/A - Pohang v Jeonbuk</title>
-    </programme>
-    <programme start="20250719095500 +0000" stop="20250719121000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Shonan v Cerezo</title>
-    </programme>
     <programme start="20250719184930 +0000" stop="20250719221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - France v Germany</title>
     </programme>
