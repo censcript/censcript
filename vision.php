@@ -547,9 +547,6 @@
 <programme start="20250720090000 +0000" stop="20250720100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250720100000 +0000" stop="20250720130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Czecha (L)</title>
-</programme>
 <programme start="20250720130000 +0000" stop="20250720143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -628,20 +625,11 @@
 <programme start="20250721114500 +0000" stop="20250721121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250719230000 +0000" stop="20250720010000 +0000" channel="ANTV.vision">
-<title>Gadis Pendekar</title>
-</programme>
 <programme start="20250720010000 +0000" stop="20250720023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
-<programme start="20250720023000 +0000" stop="20250720060000 +0000" channel="ANTV.vision">
-<title>War</title>
-</programme>
 <programme start="20250720060000 +0000" stop="20250720090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20250720090000 +0000" stop="20250720123000 +0000" channel="ANTV.vision">
-<title>Tiger Zinda Hai</title>
 </programme>
 <programme start="20250720123000 +0000" stop="20250720143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -799,9 +787,6 @@
 <programme start="20250720020000 +0000" stop="20250720023000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
 </programme>
-<programme start="20250720023000 +0000" stop="20250720030000 +0000" channel="TVOne.vision">
-<title>Metropolitan</title>
-</programme>
 <programme start="20250720030000 +0000" stop="20250720033000 +0000" channel="TVOne.vision">
 <title>Dunia Dalam Kamera</title>
 </programme>
@@ -828,9 +813,6 @@
 </programme>
 <programme start="20250720110000 +0000" stop="20250720120000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20250720120000 +0000" stop="20250720133000 +0000" channel="TVOne.vision">
-<title>Kongres PSI (L)</title>
 </programme>
 <programme start="20250720133000 +0000" stop="20250720150000 +0000" channel="TVOne.vision">
 <title>Renungan Jiwa (L)</title>
@@ -1496,5 +1478,23 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250720021000 +0000" stop="20250720040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720040000 +0000" stop="20250720055000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720055000 +0000" stop="20250720073000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720073000 +0000" stop="20250720090500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720090500 +0000" stop="20250720105000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720105000 +0000" stop="20250720122000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720122000 +0000" stop="20250720140000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
