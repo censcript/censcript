@@ -8719,6 +8719,78 @@
     <programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="Travelxp HD.starhub">
         <title>Bruges 2</title>
     </programme>
+    <programme start="20250720153000 +0000" stop="20250720163000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vedi Sirippu</title>
+    </programme>
+    <programme start="20250720163000 +0000" stop="20250720173000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vaivittu Siringa</title>
+    </programme>
+    <programme start="20250720173000 +0000" stop="20250720183000 +0000" channel="ADITHYA TV.starhub">
+        <title>Comedy Galatta</title>
+    </programme>
+    <programme start="20250720183000 +0000" stop="20250720203000 +0000" channel="ADITHYA TV.starhub">
+        <title>Sirika Sirika Sirippu</title>
+    </programme>
+    <programme start="20250720203000 +0000" stop="20250720223000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adrasakka</title>
+    </programme>
+    <programme start="20250720223000 +0000" stop="20250721003000 +0000" channel="ADITHYA TV.starhub">
+        <title>Sirigama Pathani</title>
+    </programme>
+    <programme start="20250721003000 +0000" stop="20250721013000 +0000" channel="ADITHYA TV.starhub">
+        <title>Konjam Coffee Neraiya Comedy</title>
+    </programme>
+    <programme start="20250721013000 +0000" stop="20250721020000 +0000" channel="ADITHYA TV.starhub">
+        <title>Yogam Rajayogam</title>
+    </programme>
+    <programme start="20250721020000 +0000" stop="20250721023000 +0000" channel="ADITHYA TV.starhub">
+        <title>Good Morning Adithyans</title>
+    </programme>
+    <programme start="20250721023000 +0000" stop="20250721033000 +0000" channel="ADITHYA TV.starhub">
+        <title>Anbudan Adithya</title>
+    </programme>
+    <programme start="20250721033000 +0000" stop="20250721043000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adithya Paarunga Sirichute Irunga</title>
+    </programme>
+    <programme start="20250721043000 +0000" stop="20250721053000 +0000" channel="ADITHYA TV.starhub">
+        <title>Idaividaatha Comedy</title>
+    </programme>
+    <programme start="20250721053000 +0000" stop="20250721060000 +0000" channel="ADITHYA TV.starhub">
+        <title>Comedy Marathon</title>
+    </programme>
+    <programme start="20250721060000 +0000" stop="20250721063000 +0000" channel="ADITHYA TV.starhub">
+        <title>Master Piece</title>
+    </programme>
+    <programme start="20250721063000 +0000" stop="20250721073000 +0000" channel="ADITHYA TV.starhub">
+        <title>Orupada Comedy</title>
+    </programme>
+    <programme start="20250721073000 +0000" stop="20250721083000 +0000" channel="ADITHYA TV.starhub">
+        <title>Goundamani Senthil Spl</title>
+    </programme>
+    <programme start="20250721083000 +0000" stop="20250721093000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vivek Special</title>
+    </programme>
+    <programme start="20250721093000 +0000" stop="20250721103000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vadivelu Special</title>
+    </programme>
+    <programme start="20250721103000 +0000" stop="20250721113000 +0000" channel="ADITHYA TV.starhub">
+        <title>Combo Comedy Special</title>
+    </programme>
+    <programme start="20250721113000 +0000" stop="20250721123000 +0000" channel="ADITHYA TV.starhub">
+        <title>Adithya Paarunga Aarokyama Irunga</title>
+    </programme>
+    <programme start="20250721123000 +0000" stop="20250721133000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vaanga Sirikkalam</title>
+    </programme>
+    <programme start="20250721133000 +0000" stop="20250721143000 +0000" channel="ADITHYA TV.starhub">
+        <title>Natchathira Comedy</title>
+    </programme>
+    <programme start="20250721143000 +0000" stop="20250721153000 +0000" channel="ADITHYA TV.starhub">
+        <title>Orupada Comedy</title>
+    </programme>
+    <programme start="20250721153000 +0000" stop="20250721163000 +0000" channel="ADITHYA TV.starhub">
+        <title>Vedi Sirippu</title>
+    </programme>
     <programme start="20250720140000 +0000" stop="20250720163000 +0000" channel="Hub E City HD.starhub">
         <title>Lee Rock I</title>
     </programme>
