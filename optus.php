@@ -1,9 +1,3 @@
-    <programme start="20250720095000 +0000" stop="20250720121000 +0000" channel="Optus Sport 9.optus">
-        <title>N/A - Seoul v Ulsan</title>
-    </programme>
-    <programme start="20250720095500 +0000" stop="20250720121000 +0000" channel="Optus Sport 8.optus">
-        <title>J1 League - Gamba v Kawasaki</title>
-    </programme>
     <programme start="20250721085500 +0000" stop="20250721111000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Avispa v Kyoto</title>
     </programme>

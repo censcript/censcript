@@ -8617,8 +8617,87 @@
 <programme start="20250720153000 +0000" stop="20250720160000 +0000" channel="Sportstars 2.mncvision">
     <title>GAMMA World MMA C&#039;ship 2024</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250719170000 +0000" stop="20250719190000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250719190000 +0000" stop="20250719210000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250719210000 +0000" stop="20250719233000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250719233000 +0000" stop="20250720000000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250720000000 +0000" stop="20250720003000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250720003000 +0000" stop="20250720023000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250720023000 +0000" stop="20250720030000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250720030000 +0000" stop="20250720050000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250720050000 +0000" stop="20250720070000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250720070000 +0000" stop="20250720083000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250720083000 +0000" stop="20250720103000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250720103000 +0000" stop="20250720130000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250720130000 +0000" stop="20250720150000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250720150000 +0000" stop="20250720153000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Sports Today: Viral</title>
+</programme>
+<programme start="20250720153000 +0000" stop="20250720160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250719170000 +0000" stop="20250719190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2: DTS Vs JOG</title>
+</programme>
+<programme start="20250719190000 +0000" stop="20250719210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1: DWU Vs TGR</title>
+</programme>
+<programme start="20250719210000 +0000" stop="20250719230000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250719230000 +0000" stop="20250720010000 +0000" channel="Sportstars 3.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250720010000 +0000" stop="20250720030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2: DTS Vs JOG</title>
+</programme>
+<programme start="20250720030000 +0000" stop="20250720050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1: DWU Vs TGR</title>
+</programme>
+<programme start="20250720050000 +0000" stop="20250720070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250720070000 +0000" stop="20250720090000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2: PRJ Vs DTS</title>
+</programme>
+<programme start="20250720090000 +0000" stop="20250720110000 +0000" channel="Sportstars 3.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250720110000 +0000" stop="20250720130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1: DWU Vs BIK</title>
+</programme>
+<programme start="20250720130000 +0000" stop="20250720150000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250720150000 +0000" stop="20250720153000 +0000" channel="Sportstars 3.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
 <programme start="20250719170000 +0000" stop="20250719190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2: DTS Vs JOG</title>
 </programme>
