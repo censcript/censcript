@@ -1,6 +1,3 @@
-    <programme start="20250720085500 +0000" stop="20250720111000 +0000" channel="Optus Sport 7.optus">
-        <title>J1 League - Kashima v Kashiwa</title>
-    </programme>
     <programme start="20250720095000 +0000" stop="20250720121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Seoul v Ulsan</title>
     </programme>
