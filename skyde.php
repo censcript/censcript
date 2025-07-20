@@ -93,36 +93,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250720211500 +0000" stop="20250720220000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20250719225000 +0000" stop="20250720002500 +0000" channel="Beate Uhse HD.skyde">
-    <title>A Rooftop Romance</title>
-</programme>
-<programme start="20250720002500 +0000" stop="20250720015500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Crazy Italian Holidays</title>
-</programme>
-<programme start="20250720015500 +0000" stop="20250720021500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tat &amp; Wahrheit</title>
-</programme>
-<programme start="20250720021500 +0000" stop="20250720034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Chloè - Eine unanständige Geschichte</title>
-</programme>
-<programme start="20250720034500 +0000" stop="20250720181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20250720181500 +0000" stop="20250720193000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Wie Männer Pornos sehen</title>
-</programme>
-<programme start="20250720193000 +0000" stop="20250720205500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Forever Young</title>
-</programme>
-<programme start="20250720205500 +0000" stop="20250720212500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rosetti Casting</title>
-</programme>
-<programme start="20250720212500 +0000" stop="20250720215000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Straßenflirts</title>
-</programme>
-<programme start="20250720215000 +0000" stop="20250720222000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Pärchentausch</title>
-</programme>
 <programme start="20250719220000 +0000" stop="20250719221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
