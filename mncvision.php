@@ -1,5 +1,225 @@
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="ABC Australia.mncvision">
+    <title>Loving Gluten Free</title>
+</programme>
+<programme start="20250720173000 +0000" stop="20250720180000 +0000" channel="ABC Australia.mncvision">
+    <title>The Streets Hong Kong</title>
+</programme>
+<programme start="20250720180000 +0000" stop="20250720185500 +0000" channel="ABC Australia.mncvision">
+    <title>Landline</title>
+</programme>
+<programme start="20250720185500 +0000" stop="20250720193000 +0000" channel="ABC Australia.mncvision">
+    <title>Offsiders</title>
+</programme>
+<programme start="20250720193000 +0000" stop="20250720200000 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20250720200000 +0000" stop="20250720230000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250721020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20250721020000 +0000" stop="20250721030000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721032500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250721032500 +0000" stop="20250721033000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250721033000 +0000" stop="20250721040000 +0000" channel="ABC Australia.mncvision">
+    <title>Foreign Correspondent</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="ABC Australia.mncvision">
+    <title>First Weapons</title>
+</programme>
+<programme start="20250721043000 +0000" stop="20250721050000 +0000" channel="ABC Australia.mncvision">
+    <title>Culture By Design</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721060000 +0000" channel="ABC Australia.mncvision">
+    <title>Grand Designs Transformations</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721070000 +0000" channel="ABC Australia.mncvision">
+    <title>Afternoon Briefing</title>
+</programme>
+<programme start="20250721070000 +0000" stop="20250721080000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20250721080000 +0000" stop="20250721082500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20250721082500 +0000" stop="20250721083000 +0000" channel="ABC Australia.mncvision">
+    <title>This Place</title>
+</programme>
+<programme start="20250721083000 +0000" stop="20250721090000 +0000" channel="ABC Australia.mncvision">
+    <title>Foreign Correspondent</title>
+</programme>
+<programme start="20250721090000 +0000" stop="20250721093000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20250721093000 +0000" stop="20250721100000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721103000 +0000" channel="ABC Australia.mncvision">
+    <title>First Weapons</title>
+</programme>
+<programme start="20250721103000 +0000" stop="20250721110000 +0000" channel="ABC Australia.mncvision">
+    <title>Culture By Design</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721120000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250721120000 +0000" stop="20250721130000 +0000" channel="ABC Australia.mncvision">
+    <title>Grand Designs Transformations</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721133000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250721133000 +0000" stop="20250721140000 +0000" channel="ABC Australia.mncvision">
+    <title>Foreign Correspondent</title>
+</programme>
+<programme start="20250721140000 +0000" stop="20250721141500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250721141500 +0000" stop="20250721143000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721150000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20250721150000 +0000" stop="20250721160000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721161500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20250721161500 +0000" stop="20250721163000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="ABC Australia.mncvision">
+    <title>First Weapons</title>
+</programme>
+<programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250720173000 +0000" stop="20250720180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250720180000 +0000" stop="20250720190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250720190000 +0000" stop="20250720193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250720193000 +0000" stop="20250720200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20250720200000 +0000" stop="20250720203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250720203000 +0000" stop="20250720210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250720210000 +0000" stop="20250720220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250720220000 +0000" stop="20250720223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250720223000 +0000" stop="20250720230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Ahmed Masoud</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250720233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Cost Of Control</title>
+</programme>
+<programme start="20250721000000 +0000" stop="20250721003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721003000 +0000" stop="20250721010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250721010000 +0000" stop="20250721020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Palestine &#039;20</title>
+</programme>
+<programme start="20250721020000 +0000" stop="20250721023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721023000 +0000" stop="20250721030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>This Is Europe: Undocumented</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721033000 +0000" stop="20250721040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Dying Earth: Beyond The Oil Age</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721043000 +0000" stop="20250721050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721053000 +0000" stop="20250721060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721063000 +0000" stop="20250721070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: Cost Of Control</title>
+</programme>
+<programme start="20250721070000 +0000" stop="20250721080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250721080000 +0000" stop="20250721083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721083000 +0000" stop="20250721090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Ahmed Masoud</title>
+</programme>
+<programme start="20250721090000 +0000" stop="20250721093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721093000 +0000" stop="20250721100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721113000 +0000" stop="20250721120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250721120000 +0000" stop="20250721130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Palestine Laboratory</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250721140000 +0000" stop="20250721143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20250721150000 +0000" stop="20250721160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
 <programme start="20250720170000 +0000" stop="20250720190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -1719,7 +1939,102 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="CCM.mncvision">
     <title>Hex</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720170000 +0000" stop="20250720180000 +0000" channel="Celebrities TV.mncvision">
+    <title>Ngebor Rezeki</title>
+</programme>
+<programme start="20250720180000 +0000" stop="20250720190000 +0000" channel="Celebrities TV.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20250720190000 +0000" stop="20250720200000 +0000" channel="Celebrities TV.mncvision">
+    <title>Bisa Di Bantu</title>
+</programme>
+<programme start="20250720200000 +0000" stop="20250720210000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20250720210000 +0000" stop="20250720213000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20250720213000 +0000" stop="20250720220000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20250720220000 +0000" stop="20250720230000 +0000" channel="Celebrities TV.mncvision">
+    <title>Menebar Berkah Ala Bensu</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250720233000 +0000" channel="Celebrities TV.mncvision">
+    <title>Selebriti Berbagi</title>
+</programme>
+<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20250721000000 +0000" stop="20250721003000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb De Sitter</title>
+</programme>
+<programme start="20250721003000 +0000" stop="20250721013000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20250721013000 +0000" stop="20250721020000 +0000" channel="Celebrities TV.mncvision">
+    <title>Barista</title>
+</programme>
+<programme start="20250721020000 +0000" stop="20250721023000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20250721023000 +0000" stop="20250721030000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721040000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="Celebrities TV.mncvision">
+    <title>Selebriti Berbagi</title>
+</programme>
+<programme start="20250721043000 +0000" stop="20250721050000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb De Sitter</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721060000 +0000" channel="Celebrities TV.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721070000 +0000" channel="Celebrities TV.mncvision">
+    <title>Menebar Berkah Ala Bensu</title>
+</programme>
+<programme start="20250721070000 +0000" stop="20250721083000 +0000" channel="Celebrities TV.mncvision">
+    <title>D&#039; Power Of Emak-Emak</title>
+</programme>
+<programme start="20250721083000 +0000" stop="20250721093000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20250721093000 +0000" stop="20250721100000 +0000" channel="Celebrities TV.mncvision">
+    <title>Barista</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721103000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb De Sitter</title>
+</programme>
+<programme start="20250721103000 +0000" stop="20250721110000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721120000 +0000" channel="Celebrities TV.mncvision">
+    <title>iSeleb</title>
+</programme>
+<programme start="20250721120000 +0000" stop="20250721123000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20250721123000 +0000" stop="20250721130000 +0000" channel="Celebrities TV.mncvision">
+    <title>Barista</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721133000 +0000" channel="Celebrities TV.mncvision">
+    <title>Selebriti Berbagi</title>
+</programme>
+<programme start="20250721133000 +0000" stop="20250721143000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721160000 +0000" channel="Celebrities TV.mncvision">
+    <title>D&#039; Power Of Emak-Emak</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
 <programme start="20250720180000 +0000" stop="20250720194000 +0000" channel="Celestial Movies.mncvision">
     <title>Europe Raiders</title>
 </programme>
@@ -3043,7 +3358,117 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: McLellan Vs Du Plessis</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720170000 +0000" stop="20250720200000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>MasterChef Indonesia S10</title>
+</programme>
+<programme start="20250720200000 +0000" stop="20250720203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kitchen Beb</title>
+</programme>
+<programme start="20250720203000 +0000" stop="20250720210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Top Destination</title>
+</programme>
+<programme start="20250720210000 +0000" stop="20250720213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Mancing Liar</title>
+</programme>
+<programme start="20250720213000 +0000" stop="20250720220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250720220000 +0000" stop="20250720223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20250720223000 +0000" stop="20250720230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250720233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250721000000 +0000" stop="20250721003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250721003000 +0000" stop="20250721010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250721010000 +0000" stop="20250721013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250721013000 +0000" stop="20250721020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kung Fu Chef</title>
+</programme>
+<programme start="20250721020000 +0000" stop="20250721023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250721023000 +0000" stop="20250721030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Hunter</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250721063000 +0000" stop="20250721070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250721070000 +0000" stop="20250721073000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250721073000 +0000" stop="20250721080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Hunter</title>
+</programme>
+<programme start="20250721080000 +0000" stop="20250721090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20250721090000 +0000" stop="20250721100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Makan Bareng Artis</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250721113000 +0000" stop="20250721120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250721120000 +0000" stop="20250721123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250721123000 +0000" stop="20250721130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Hunter</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250721133000 +0000" stop="20250721140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250721140000 +0000" stop="20250721143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250721150000 +0000" stop="20250721153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Mancing Liar</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kung Fu Chef</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Orderan Masak Besar</title>
+</programme>
 <programme start="20250720170000 +0000" stop="20250720200000 +0000" channel="Food Travel HD.mncvision">
     <title>MasterChef Indonesia S10</title>
 </programme>
@@ -8414,7 +8839,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP: Rolex Great Britain</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720173000 +0000" stop="20250720180000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Racing On The Edge</title>
+</programme>
+<programme start="20250720180000 +0000" stop="20250720190000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>NTI Townsville 500</title>
+</programme>
+<programme start="20250720190000 +0000" stop="20250720203000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Rolex Great Britain</title>
+</programme>
+<programme start="20250720203000 +0000" stop="20250720215500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Czechia</title>
+</programme>
+<programme start="20250720215500 +0000" stop="20250720231000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Czechia</title>
+</programme>
+<programme start="20250720231000 +0000" stop="20250721010000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Czechia</title>
+</programme>
+<programme start="20250721010000 +0000" stop="20250721013000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Racing On The Edge</title>
+</programme>
+<programme start="20250721013000 +0000" stop="20250721030000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Rolex Great Britain</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721040000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 Northern Talent Cup</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721050000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 Northern Talent Cup</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721083000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Golf: The 153rd Open 2025</title>
+</programme>
+<programme start="20250721083000 +0000" stop="20250721090000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT United States Smash</title>
+</programme>
+<programme start="20250721090000 +0000" stop="20250721100000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>NTI Townsville 500</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721112500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Czechia</title>
+</programme>
+<programme start="20250721112500 +0000" stop="20250721124000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Czechia</title>
+</programme>
+<programme start="20250721124000 +0000" stop="20250721143000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP: GP Of Czechia</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721150000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Spotlight: Franco</title>
+</programme>
+<programme start="20250721150000 +0000" stop="20250721153000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Racing On The Edge</title>
+</programme>
+<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Rolex Great Britain</title>
+</programme>
 <programme start="20250720180000 +0000" stop="20250720183000 +0000" channel="SPOTV HD.mncvision">
     <title>SPOTV Encore: RSL Matchweek</title>
 </programme>
@@ -8484,8 +8965,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721161000 +0000" stop="20250721164000 +0000" channel="Studio Universal.mncvision">
     <title>Turbo</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720184000 +0000" stop="20250720204000 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Chronicles Of Riddick</title>
+</programme>
+<programme start="20250720204000 +0000" stop="20250720221500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Breakfast Club</title>
+</programme>
+<programme start="20250720221500 +0000" stop="20250720230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Defying Gravity: The Curtain...</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250721004000 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Invention Of Lying</title>
+</programme>
+<programme start="20250721004000 +0000" stop="20250721024000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Serenity</title>
+</programme>
+<programme start="20250721024000 +0000" stop="20250721042000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Sixteen Candles</title>
+</programme>
+<programme start="20250721042000 +0000" stop="20250721062000 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Chronicles Of Riddick</title>
+</programme>
+<programme start="20250721062000 +0000" stop="20250721075500 +0000" channel="Studio Universal HD.mncvision">
+    <title>The Breakfast Club</title>
+</programme>
+<programme start="20250721075500 +0000" stop="20250721093500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20250721093500 +0000" stop="20250721111000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Trolls</title>
+</programme>
+<programme start="20250721111000 +0000" stop="20250721125500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Uncle Buck</title>
+</programme>
+<programme start="20250721125500 +0000" stop="20250721161000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Schindler&#039;s List</title>
+</programme>
+<programme start="20250721161000 +0000" stop="20250721164000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Turbo</title>
+</programme>
+<programme start="20250720170300 +0000" stop="20250720184800 +0000" channel="Superrix.mncvision">
+    <title>American Siege</title>
+</programme>
+<programme start="20250720184800 +0000" stop="20250720204900 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250720204900 +0000" stop="20250720224200 +0000" channel="Superrix.mncvision">
+    <title>Equals</title>
+</programme>
+<programme start="20250720224200 +0000" stop="20250721010100 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250721010100 +0000" stop="20250721024700 +0000" channel="Superrix.mncvision">
+    <title>Poker Face</title>
+</programme>
+<programme start="20250721024700 +0000" stop="20250721044300 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250721044300 +0000" stop="20250721064700 +0000" channel="Superrix.mncvision">
+    <title>Mothers And Daughters</title>
+</programme>
+<programme start="20250721064700 +0000" stop="20250721084400 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250721084400 +0000" stop="20250721102900 +0000" channel="Superrix.mncvision">
+    <title>An Ordinary Man</title>
+</programme>
+<programme start="20250721102900 +0000" stop="20250721124500 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250721124500 +0000" stop="20250721144100 +0000" channel="Superrix.mncvision">
+    <title>Mothers And Daughters</title>
+</programme>
+<programme start="20250721144100 +0000" stop="20250721164200 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250721164200 +0000" stop="20250720171200 +0000" channel="Superrix.mncvision">
+    <title>Black Flowers</title>
+</programme>
 <programme start="20250720170300 +0000" stop="20250720184800 +0000" channel="Superrix HD.mncvision">
     <title>American Siege</title>
 </programme>

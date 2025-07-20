@@ -628,9 +628,6 @@
 <programme start="20250721114500 +0000" stop="20250721121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250719230000 +0000" stop="20250720010000 +0000" channel="ANTV.vision">
-<title>Gadis Pendekar</title>
-</programme>
 <programme start="20250720010000 +0000" stop="20250720023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati Perempuan</title>
 </programme>
@@ -798,9 +795,6 @@
 </programme>
 <programme start="20250720020000 +0000" stop="20250720023000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
-</programme>
-<programme start="20250720023000 +0000" stop="20250720030000 +0000" channel="TVOne.vision">
-<title>Metropolitan</title>
 </programme>
 <programme start="20250720030000 +0000" stop="20250720033000 +0000" channel="TVOne.vision">
 <title>Dunia Dalam Kamera</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250720021000 +0000" stop="20250720040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720040000 +0000" stop="20250720055000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250720055000 +0000" stop="20250720073000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
