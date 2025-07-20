@@ -2671,7 +2671,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Tennis: Tommy Haas (GER) - Dominic Thiem (AUT), Exhibition Match in Hamburg</title>
 </programme>
 <programme start="20250720120000 +0000" stop="20250720163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: Finale, Nordea Open in Bastad (SWE), Finale</title>
+    <title>Live ATP 250: L. Darderi (ITA) - J. de Jong (NED), Nordea Open in Bastad (SWE), Finale</title>
 </programme>
 <programme start="20250719223000 +0000" stop="20250719231000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Werder Bremen - Saison 24-25</title>
@@ -3078,14 +3078,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250720213000 +0000" stop="20250720220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Julián Álvarez)</title>
 </programme>
-<programme start="20250719223000 +0000" stop="20250720003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250719230000 +0000" stop="20250720010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: A. Bondár (HUN) - K. Juvan (SVN), MSC Hamburg Ladies Open in Hamburg, Halbfinale 1</title>
 </programme>
-<programme start="20250720003000 +0000" stop="20250720023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250720010000 +0000" stop="20250720030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA),  Nordea Open in Bastad (SWE), Halbfinale 2</title>
-</programme>
-<programme start="20250720023000 +0000" stop="20250720030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20250720030000 +0000" stop="20250720053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Finale, Mifel Tennis Open by Telcel Oppo in Los Cabos (MEX), Finale</title>
@@ -3097,7 +3094,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: F. Cerúndolo (ARG) - L. Darderi (ITA),  Nordea Open in Bastad (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20250720093000 +0000" stop="20250720120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, EFG Swiss Open in Gstaad (SUI), Finale</title>
+    <title>Live ATP 250: J. M. Cerundolo (ARG) - A. Bublik (KAZ), EFG Swiss Open in Gstaad (SUI), Finale</title>
 </programme>
 <programme start="20250720120000 +0000" stop="20250720143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Finale, Nordea Open in Bastad (SWE), Finale</title>
@@ -3106,7 +3103,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250720150000 +0000" stop="20250720173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, EFG Swiss Open in Gstaad (SUI), Finale</title>
+    <title>ATP 250: J. M. Cerundolo (ARG) - A. Bublik (KAZ), EFG Swiss Open in Gstaad (SUI), Finale</title>
 </programme>
 <programme start="20250720173000 +0000" stop="20250720200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: Finale, MSC Hamburg Ladies Open in Hamburg, Finale</title>
@@ -3196,7 +3193,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Tennis: Tommy Haas (GER) - Dominic Thiem (AUT), Exhibition Match in Hamburg</title>
 </programme>
 <programme start="20250720120000 +0000" stop="20250720163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 250: Finale, MSC Hamburg Ladies Open in Hamburg, Finale</title>
+    <title>Live WTA 250: L. Boisson (FRA) - A. Bondar (HUN), MSC Hamburg Ladies Open in Hamburg, Finale</title>
 </programme>
 <programme start="20250720114000 +0000" stop="20250720120000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
