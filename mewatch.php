@@ -1034,7 +1034,7 @@
         <title>World Aquatics Championships - Singapore 2025: Water Polo - Men&#039;s Quarter-final - CRO vs HUN</title>
     </programme>
     <programme start="20250720135501 +0000" stop="20250720160001 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st July, Monday 3.48pm. World Aquatics Championships - Singapore 2025</title>
+        <title>No Programme available now. Next Broadcast on 21st July, Monday 3.47pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250719113801 +0000" stop="20250719160001 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 20th July, Sunday 6.22pm. World Aquatics Championships - Singapore 2025</title>
