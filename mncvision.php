@@ -5966,7 +5966,7 @@
     <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
 <programme start="20250721000000 +0000" stop="20250721010000 +0000" channel="MNCTV.mncvision">
-    <title>Putri Duyung Dan 1001 Keajaiban</title>
+    <title>Kun Anta</title>
 </programme>
 <programme start="20250721010000 +0000" stop="20250721023000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -6026,7 +6026,7 @@
     <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
 <programme start="20250721000000 +0000" stop="20250721010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Putri Duyung Dan 1001 Keajaiban</title>
+    <title>Kun Anta</title>
 </programme>
 <programme start="20250721010000 +0000" stop="20250721023000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
