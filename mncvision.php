@@ -1987,141 +1987,7 @@
 <programme start="20250722160000 +0000" stop="20250722163000 +0000" channel="Celestial Movies.mncvision">
     <title>Lost Love</title>
 </programme>
-<programme start="20250721170000 +0000" stop="20250721180000 +0000" channel="CGTN.mncvision">
-    <title>Africa Live</title>
-</programme>
-<programme start="20250721180000 +0000" stop="20250721190000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20250721190000 +0000" stop="20250721193000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250721193000 +0000" stop="20250721200000 +0000" channel="CGTN.mncvision">
-    <title>World Insight With Tian Wei</title>
-</programme>
-<programme start="20250721200000 +0000" stop="20250721203000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250721203000 +0000" stop="20250721210000 +0000" channel="CGTN.mncvision">
-    <title>Dialogue</title>
-</programme>
-<programme start="20250721210000 +0000" stop="20250721213000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20250721213000 +0000" stop="20250721220000 +0000" channel="CGTN.mncvision">
-    <title>The Point With Liu Xin</title>
-</programme>
-<programme start="20250721220000 +0000" stop="20250721223000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250721223000 +0000" stop="20250721230000 +0000" channel="CGTN.mncvision">
-    <title>Rediscovering China</title>
-</programme>
-<programme start="20250721230000 +0000" stop="20250721233000 +0000" channel="CGTN.mncvision">
-    <title>The Heat</title>
-</programme>
-<programme start="20250721233000 +0000" stop="20250722000000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722000000 +0000" stop="20250722010000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20250722010000 +0000" stop="20250722013000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722013000 +0000" stop="20250722020000 +0000" channel="CGTN.mncvision">
-    <title>China 24</title>
-</programme>
-<programme start="20250722020000 +0000" stop="20250722023000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722023000 +0000" stop="20250722030000 +0000" channel="CGTN.mncvision">
-    <title>World Insight With Tian Wei</title>
-</programme>
-<programme start="20250722030000 +0000" stop="20250722031500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722031500 +0000" stop="20250722033000 +0000" channel="CGTN.mncvision">
-    <title>Sports Scene</title>
-</programme>
-<programme start="20250722033000 +0000" stop="20250722040000 +0000" channel="CGTN.mncvision">
-    <title>The Hub With Wang Guan</title>
-</programme>
-<programme start="20250722040000 +0000" stop="20250722050000 +0000" channel="CGTN.mncvision">
-    <title>Global Watch</title>
-</programme>
-<programme start="20250722050000 +0000" stop="20250722051500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722051500 +0000" stop="20250722053000 +0000" channel="CGTN.mncvision">
-    <title>Sports Scene</title>
-</programme>
-<programme start="20250722053000 +0000" stop="20250722060000 +0000" channel="CGTN.mncvision">
-    <title>Rediscovering China</title>
-</programme>
-<programme start="20250722060000 +0000" stop="20250722063000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722063000 +0000" stop="20250722070000 +0000" channel="CGTN.mncvision">
-    <title>The Heat</title>
-</programme>
-<programme start="20250722070000 +0000" stop="20250722073000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722073000 +0000" stop="20250722080000 +0000" channel="CGTN.mncvision">
-    <title>Sports Scene</title>
-</programme>
-<programme start="20250722080000 +0000" stop="20250722081500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722081500 +0000" stop="20250722090000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20250722090000 +0000" stop="20250722093000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722093000 +0000" stop="20250722100000 +0000" channel="CGTN.mncvision">
-    <title>The Vibe</title>
-</programme>
-<programme start="20250722100000 +0000" stop="20250722101500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722101500 +0000" stop="20250722110000 +0000" channel="CGTN.mncvision">
-    <title>Africa Live</title>
-</programme>
-<programme start="20250722110000 +0000" stop="20250722113000 +0000" channel="CGTN.mncvision">
-    <title>Asia Today</title>
-</programme>
-<programme start="20250722113000 +0000" stop="20250722120000 +0000" channel="CGTN.mncvision">
-    <title>Dialogue</title>
-</programme>
-<programme start="20250722120000 +0000" stop="20250722121500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722121500 +0000" stop="20250722130000 +0000" channel="CGTN.mncvision">
-    <title>China 24</title>
-</programme>
-<programme start="20250722130000 +0000" stop="20250722133000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20250722133000 +0000" stop="20250722140000 +0000" channel="CGTN.mncvision">
-    <title>The Hub With Wang Guan</title>
-</programme>
-<programme start="20250722140000 +0000" stop="20250722143000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="CGTN.mncvision">
-    <title>World Insight With Tian Wei</title>
-</programme>
-<programme start="20250722150000 +0000" stop="20250722153000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20250722153000 +0000" stop="20250722160000 +0000" channel="CGTN.mncvision">
-    <title>The Vibe</title>
-</programme>
-<programme start="20250722160000 +0000" stop="20250722163000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721170000 +0000" stop="20250721173000 +0000" channel="CGTN Documentary.mncvision">
     <title>Razor: Brain Organoid Computers</title>
 </programme>
@@ -3763,51 +3629,7 @@
 <programme start="20250722163500 +0000" stop="20250721170500 +0000" channel="Galaxy.mncvision">
     <title>Knight Of Badassdom</title>
 </programme>
-<programme start="20250721173000 +0000" stop="20250721191500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Elysium</title>
-</programme>
-<programme start="20250721191500 +0000" stop="20250721210000 +0000" channel="Galaxy Premium.mncvision">
-    <title>Resident Evil: Final Chapter</title>
-</programme>
-<programme start="20250721210000 +0000" stop="20250721224500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Spider-Man: Into Spider-Verse</title>
-</programme>
-<programme start="20250721224500 +0000" stop="20250722001500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Bad Teacher</title>
-</programme>
-<programme start="20250722001500 +0000" stop="20250722014500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Hotel Transylvania 3</title>
-</programme>
-<programme start="20250722014500 +0000" stop="20250722031500 +0000" channel="Galaxy Premium.mncvision">
-    <title>A Dog&#039;s Way Home</title>
-</programme>
-<programme start="20250722031500 +0000" stop="20250722044500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Underworld: Rise Of The Lycans</title>
-</programme>
-<programme start="20250722044500 +0000" stop="20250722063500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Charlie&#039;s Angels</title>
-</programme>
-<programme start="20250722063500 +0000" stop="20250722080500 +0000" channel="Galaxy Premium.mncvision">
-    <title>Underworld: Blood Wars</title>
-</programme>
-<programme start="20250722080500 +0000" stop="20250722095000 +0000" channel="Galaxy Premium.mncvision">
-    <title>The Front Runner</title>
-</programme>
-<programme start="20250722095000 +0000" stop="20250722120500 +0000" channel="Galaxy Premium.mncvision">
-    <title>The Lovely Bones</title>
-</programme>
-<programme start="20250722120500 +0000" stop="20250722140000 +0000" channel="Galaxy Premium.mncvision">
-    <title>Concussion</title>
-</programme>
-<programme start="20250722140000 +0000" stop="20250722152000 +0000" channel="Galaxy Premium.mncvision">
-    <title>Like A Boss</title>
-</programme>
-<programme start="20250722152000 +0000" stop="20250722165000 +0000" channel="Galaxy Premium.mncvision">
-    <title>Honey Boy</title>
-</programme>
-<programme start="20250722165000 +0000" stop="20250721172000 +0000" channel="Galaxy Premium.mncvision">
-    <title>Instant Family</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721170500 +0000" stop="20250721175000 +0000" channel="Global Trekker.mncvision">
     <title>Air Warriors S11, Ep 1</title>
 </programme>
@@ -6184,8 +6006,138 @@
 <programme start="20250722140000 +0000" stop="20250722143000 +0000" channel="MTV 90's.mncvision">
     <title>2 For 1: 90s Double Drop!</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250721170000 +0000" stop="20250721180000 +0000" channel="MTV LIVE.mncvision">
+    <title>Rock.Alt.Indie</title>
+</programme>
+<programme start="20250721180000 +0000" stop="20250721184500 +0000" channel="MTV LIVE.mncvision">
+    <title>Storytellers: Rod Stewart</title>
+</programme>
+<programme start="20250721184500 +0000" stop="20250721193000 +0000" channel="MTV LIVE.mncvision">
+    <title>Storytellers: Lenny Kravitz</title>
+</programme>
+<programme start="20250721193000 +0000" stop="20250721210000 +0000" channel="MTV LIVE.mncvision">
+    <title>HD Hits!</title>
+</programme>
+<programme start="20250721210000 +0000" stop="20250721220000 +0000" channel="MTV LIVE.mncvision">
+    <title>Turning 10 In 2025!</title>
+</programme>
+<programme start="20250721220000 +0000" stop="20250721233000 +0000" channel="MTV LIVE.mncvision">
+    <title>MTV&#039;s 20 Covers &amp; Samples</title>
+</programme>
+<programme start="20250721233000 +0000" stop="20250722000000 +0000" channel="MTV LIVE.mncvision">
+    <title>MTV Live Vault!</title>
+</programme>
+<programme start="20250722000000 +0000" stop="20250722010000 +0000" channel="MTV LIVE.mncvision">
+    <title>Rock.Alt.Indie</title>
+</programme>
+<programme start="20250722010000 +0000" stop="20250722014500 +0000" channel="MTV LIVE.mncvision">
+    <title>Storytellers: Tom Petty</title>
+</programme>
+<programme start="20250722014500 +0000" stop="20250722023000 +0000" channel="MTV LIVE.mncvision">
+    <title>Storytellers: Billy Joel</title>
+</programme>
+<programme start="20250722023000 +0000" stop="20250722040000 +0000" channel="MTV LIVE.mncvision">
+    <title>HD Hits!</title>
+</programme>
+<programme start="20250722040000 +0000" stop="20250722050000 +0000" channel="MTV LIVE.mncvision">
+    <title>Global Beats!</title>
+</programme>
+<programme start="20250722050000 +0000" stop="20250722060000 +0000" channel="MTV LIVE.mncvision">
+    <title>MTV Rewind: 2016</title>
+</programme>
+<programme start="20250722060000 +0000" stop="20250722073000 +0000" channel="MTV LIVE.mncvision">
+    <title>Charli XCX x Benson x Sabrina</title>
+</programme>
+<programme start="20250722073000 +0000" stop="20250722080000 +0000" channel="MTV LIVE.mncvision">
+    <title>Happy B&#039;day Selena Gomez!</title>
+</programme>
+<programme start="20250722080000 +0000" stop="20250722090000 +0000" channel="MTV LIVE.mncvision">
+    <title>Eat, Sleep, Dance, Repeat!</title>
+</programme>
+<programme start="20250722090000 +0000" stop="20250722100000 +0000" channel="MTV LIVE.mncvision">
+    <title>Rock.Alt.Indie</title>
+</programme>
+<programme start="20250722100000 +0000" stop="20250722104500 +0000" channel="MTV LIVE.mncvision">
+    <title>Storytellers: Tom Petty</title>
+</programme>
+<programme start="20250722104500 +0000" stop="20250722113000 +0000" channel="MTV LIVE.mncvision">
+    <title>Storytellers: Billy Joel</title>
+</programme>
+<programme start="20250722113000 +0000" stop="20250722130000 +0000" channel="MTV LIVE.mncvision">
+    <title>HD Hits!</title>
+</programme>
+<programme start="20250722130000 +0000" stop="20250722140000 +0000" channel="MTV LIVE.mncvision">
+    <title>MTV Rewind: 2016</title>
+</programme>
+<programme start="20250722140000 +0000" stop="20250722153000 +0000" channel="MTV LIVE.mncvision">
+    <title>Charli XCX x Benson x Sabrina</title>
+</programme>
+<programme start="20250722153000 +0000" stop="20250722160000 +0000" channel="MTV LIVE.mncvision">
+    <title>Happy B&#039;day Selena Gomez!</title>
+</programme>
+<programme start="20250722160000 +0000" stop="20250722163000 +0000" channel="MTV LIVE.mncvision">
+    <title>Eat, Sleep, Dance, Repeat!</title>
+</programme>
+<programme start="20250721190000 +0000" stop="20250721203000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250721203000 +0000" stop="20250721213000 +0000" channel="Music TV.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20250721213000 +0000" stop="20250721223000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20250721223000 +0000" stop="20250721233000 +0000" channel="Music TV.mncvision">
+    <title>One Hour With Local</title>
+</programme>
+<programme start="20250721233000 +0000" stop="20250722010000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250722010000 +0000" stop="20250722013000 +0000" channel="Music TV.mncvision">
+    <title>XOXO</title>
+</programme>
+<programme start="20250722013000 +0000" stop="20250722023000 +0000" channel="Music TV.mncvision">
+    <title>#ThrowbackTime</title>
+</programme>
+<programme start="20250722023000 +0000" stop="20250722033000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20250722033000 +0000" stop="20250722041500 +0000" channel="Music TV.mncvision">
+    <title>One Hour With Local</title>
+</programme>
+<programme start="20250722041500 +0000" stop="20250722054500 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20250722054500 +0000" stop="20250722063000 +0000" channel="Music TV.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20250722063000 +0000" stop="20250722073000 +0000" channel="Music TV.mncvision">
+    <title>Hidden Talent</title>
+</programme>
+<programme start="20250722073000 +0000" stop="20250722100000 +0000" channel="Music TV.mncvision">
+    <title>Indonesian Idol 2024</title>
+</programme>
+<programme start="20250722100000 +0000" stop="20250722110000 +0000" channel="Music TV.mncvision">
+    <title>Seoultrack</title>
+</programme>
+<programme start="20250722110000 +0000" stop="20250722120000 +0000" channel="Music TV.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20250722120000 +0000" stop="20250722130000 +0000" channel="Music TV.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20250722130000 +0000" stop="20250722140000 +0000" channel="Music TV.mncvision">
+    <title>Musik Asyik</title>
+</programme>
+<programme start="20250722140000 +0000" stop="20250722153000 +0000" channel="Music TV.mncvision">
+    <title>Mega Konser Metamorfosa</title>
+</programme>
+<programme start="20250722153000 +0000" stop="20250722163000 +0000" channel="Music TV.mncvision">
+    <title>Romansa Kampung Dangdut</title>
+</programme>
+<programme start="20250722163000 +0000" stop="20250721170000 +0000" channel="Music TV.mncvision">
+    <title>Indonesian Idol 2024</title>
+</programme>
 <programme start="20250721190000 +0000" stop="20250721203000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
@@ -9537,5 +9489,153 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250722152300 +0000" stop="20250722155300 +0000" channel="UNIQUES HD.mncvision">
     <title>High Heat</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250721170000 +0000" stop="20250721180000 +0000" channel="Vision Prime.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250721180000 +0000" stop="20250721190000 +0000" channel="Vision Prime.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250721190000 +0000" stop="20250721200000 +0000" channel="Vision Prime.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250721200000 +0000" stop="20250721210000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250721210000 +0000" stop="20250721220000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250721220000 +0000" stop="20250721230000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250721230000 +0000" stop="20250721233000 +0000" channel="Vision Prime.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250721233000 +0000" stop="20250722010000 +0000" channel="Vision Prime.mncvision">
+    <title>TOP: Tukang Ojek Preman</title>
+</programme>
+<programme start="20250722010000 +0000" stop="20250722020000 +0000" channel="Vision Prime.mncvision">
+    <title>Si Mamat Anak Pasar Jangkrik</title>
+</programme>
+<programme start="20250722020000 +0000" stop="20250722030000 +0000" channel="Vision Prime.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250722030000 +0000" stop="20250722040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250722040000 +0000" stop="20250722050000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250722050000 +0000" stop="20250722053000 +0000" channel="Vision Prime.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250722053000 +0000" stop="20250722063000 +0000" channel="Vision Prime.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250722063000 +0000" stop="20250722073000 +0000" channel="Vision Prime.mncvision">
+    <title>Mantan IPA &amp; IPS</title>
+</programme>
+<programme start="20250722073000 +0000" stop="20250722083000 +0000" channel="Vision Prime.mncvision">
+    <title>Awas Banyak Copet</title>
+</programme>
+<programme start="20250722083000 +0000" stop="20250722090000 +0000" channel="Vision Prime.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250722090000 +0000" stop="20250722100000 +0000" channel="Vision Prime.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250722100000 +0000" stop="20250722110000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250722110000 +0000" stop="20250722120000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250722120000 +0000" stop="20250722130000 +0000" channel="Vision Prime.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250722130000 +0000" stop="20250722140000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250722140000 +0000" stop="20250722143000 +0000" channel="Vision Prime.mncvision">
+    <title>12 Hari</title>
+</programme>
+<programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="Vision Prime.mncvision">
+    <title>Beyond Creator Indonesian...</title>
+</programme>
+<programme start="20250722150000 +0000" stop="20250722153000 +0000" channel="Vision Prime.mncvision">
+    <title>Critical Eleven</title>
+</programme>
+<programme start="20250721170000 +0000" stop="20250721180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250721180000 +0000" stop="20250721190000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250721190000 +0000" stop="20250721200000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250721200000 +0000" stop="20250721210000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250721210000 +0000" stop="20250721220000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250721220000 +0000" stop="20250721230000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250721230000 +0000" stop="20250721233000 +0000" channel="Vision Prime HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250721233000 +0000" stop="20250722010000 +0000" channel="Vision Prime HD.mncvision">
+    <title>TOP: Tukang Ojek Preman</title>
+</programme>
+<programme start="20250722010000 +0000" stop="20250722020000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Si Mamat Anak Pasar Jangkrik</title>
+</programme>
+<programme start="20250722020000 +0000" stop="20250722030000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250722030000 +0000" stop="20250722040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250722040000 +0000" stop="20250722050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250722050000 +0000" stop="20250722053000 +0000" channel="Vision Prime HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250722053000 +0000" stop="20250722063000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250722063000 +0000" stop="20250722073000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mantan IPA &amp; IPS</title>
+</programme>
+<programme start="20250722073000 +0000" stop="20250722083000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Awas Banyak Copet</title>
+</programme>
+<programme start="20250722083000 +0000" stop="20250722090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250722090000 +0000" stop="20250722100000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250722100000 +0000" stop="20250722110000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250722110000 +0000" stop="20250722120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250722120000 +0000" stop="20250722130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250722130000 +0000" stop="20250722140000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250722140000 +0000" stop="20250722143000 +0000" channel="Vision Prime HD.mncvision">
+    <title>12 Hari</title>
+</programme>
+<programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Beyond Creator Indonesian...</title>
+</programme>
+<programme start="20250722150000 +0000" stop="20250722153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Critical Eleven</title>
+</programme>

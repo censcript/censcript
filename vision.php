@@ -649,12 +649,6 @@
 <programme start="20250721123000 +0000" stop="20250721143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250721143000 +0000" stop="20250721163000 +0000" channel="ANTV.vision">
-<title>Perhitungaan Terakhr</title>
-</programme>
-<programme start="20250721163000 +0000" stop="20250721183000 +0000" channel="ANTV.vision">
-<title>The Conman</title>
-</programme>
 <programme start="20250721183000 +0000" stop="20250721200000 +0000" channel="ANTV.vision">
 <title>Sword Man</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250721040500 +0000" stop="20250721054500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721054500 +0000" stop="20250721073500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721073500 +0000" stop="20250721091000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
