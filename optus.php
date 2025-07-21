@@ -25,12 +25,6 @@
     <programme start="20250726095000 +0000" stop="20250726121000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Suwon FC v Anyang</title>
     </programme>
-    <programme start="20250726195000 +0000" stop="20250726221000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Everton v Bournemouth</title>
-    </programme>
-    <programme start="20250726225000 +0000" stop="20250727011000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Manchester United v West Ham United</title>
-    </programme>
     <programme start="20250727095000 +0000" stop="20250727121000 +0000" channel="Optus Sport 9.optus">
         <title>N/A - Daejeon v Seoul</title>
     </programme>
@@ -39,10 +33,4 @@
     </programme>
     <programme start="20250727102500 +0000" stop="20250727124000 +0000" channel="Optus Sport 7.optus">
         <title>J1 League - Urawa Red Diamonds v Avispa</title>
-    </programme>
-    <programme start="20250730222000 +0000" stop="20250731004000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - West Ham United v Everton</title>
-    </programme>
-    <programme start="20250731012000 +0000" stop="20250731034000 +0000" channel="Optus Sport 1.optus">
-        <title>N/A - Manchester United v Bournemouth</title>
     </programme>
