@@ -1021,26 +1021,29 @@
     <programme start="20250719160001 +0000" stop="20250720160001 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
     </programme>
-    <programme start="20250720160001 +0000" stop="20250721130001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
+    <programme start="20250720160000 +0000" stop="20250721123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st July, Monday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
     </programme>
-    <programme start="20250721130001 +0000" stop="20250721150001 +0000" channel="Live 5.mewatch">
+    <programme start="20250721123400 +0000" stop="20250721150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
     </programme>
-    <programme start="20250721150001 +0000" stop="20250721160001 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Cambodia</title>
+    <programme start="20250721150000 +0000" stop="20250721160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Cambodia</title>
     </programme>
-    <programme start="20250720160000 +0000" stop="20250721130000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
+    <programme start="20250721160000 +0000" stop="20250722123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Cambodia</title>
     </programme>
-    <programme start="20250721130000 +0000" stop="20250721150000 +0000" channel="Live 6.mewatch">
+    <programme start="20250720160000 +0000" stop="20250721123400 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st July, Monday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
+    </programme>
+    <programme start="20250721123400 +0000" stop="20250721150000 +0000" channel="Live 6.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
     </programme>
     <programme start="20250721150000 +0000" stop="20250721160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar</title>
+        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar</title>
     </programme>
-    <programme start="20250721160000 +0000" stop="20250722130000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar</title>
+    <programme start="20250721160000 +0000" stop="20250722123400 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar</title>
     </programme>
     <programme start="20250720160000 +0000" stop="20250721160000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.30pm. Singapore Festival of Football 2025</title>
@@ -1088,6 +1091,9 @@
         <title>World Aquatics Championships - Singapore 2025: Artistic Swimming - Women&#039;s Duet Technical Final</title>
     </programme>
     <programme start="20250721114201 +0000" stop="20250721160001 +0000" channel="WCH CH02.mewatch">
+        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9.52am. World Aquatics Championships - Singapore 2025</title>
+    </programme>
+    <programme start="20250721160000 +0000" stop="20250722015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250720020001 +0000" stop="20250720160001 +0000" channel="WCH CH03.mewatch">

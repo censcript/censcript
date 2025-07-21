@@ -2404,99 +2404,6 @@
 <programme start="20250721211500 +0000" stop="20250721220000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20250720221500 +0000" stop="20250720224000 +0000" channel="Sky Replay HD.skyde">
-    <title>Kapitelweise</title>
-</programme>
-<programme start="20250720224000 +0000" stop="20250720234000 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250720234000 +0000" stop="20250721004000 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721004000 +0000" stop="20250721014000 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721014000 +0000" stop="20250721023500 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721023500 +0000" stop="20250721033500 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721033500 +0000" stop="20250721044000 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721044000 +0000" stop="20250721054500 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721054500 +0000" stop="20250721065500 +0000" channel="Sky Replay HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20250721065500 +0000" stop="20250721074000 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721074000 +0000" stop="20250721081000 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721081000 +0000" stop="20250721085000 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721085000 +0000" stop="20250721094500 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721094500 +0000" stop="20250721102500 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721102500 +0000" stop="20250721111000 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721111000 +0000" stop="20250721115000 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721115000 +0000" stop="20250721123500 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721123500 +0000" stop="20250721131500 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721131500 +0000" stop="20250721135000 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721135000 +0000" stop="20250721142500 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721142500 +0000" stop="20250721152000 +0000" channel="Sky Replay HD.skyde">
-    <title>Lass es, Larry!</title>
-</programme>
-<programme start="20250721152000 +0000" stop="20250721160000 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721160000 +0000" stop="20250721164500 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721164500 +0000" stop="20250721173000 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721173000 +0000" stop="20250721181500 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721181500 +0000" stop="20250721190000 +0000" channel="Sky Replay HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250721190000 +0000" stop="20250721194000 +0000" channel="Sky Replay HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250721194000 +0000" stop="20250721202500 +0000" channel="Sky Replay HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250721202500 +0000" stop="20250721211000 +0000" channel="Sky Replay HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250721211000 +0000" stop="20250721215500 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250721215500 +0000" stop="20250721223500 +0000" channel="Sky Replay HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
 <programme start="20250720223000 +0000" stop="20250720232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die wilden Inseln Irlands</title>
 </programme>
@@ -2586,6 +2493,102 @@
 </programme>
 <programme start="20250721214000 +0000" stop="20250721223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Überleben am Amazonas</title>
+</programme>
+<programme start="20250720222000 +0000" stop="20250720225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
+</programme>
+<programme start="20250720225000 +0000" stop="20250720232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
+</programme>
+<programme start="20250720232000 +0000" stop="20250720235000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
+</programme>
+<programme start="20250720235000 +0000" stop="20250721001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
+</programme>
+<programme start="20250721001500 +0000" stop="20250721021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - LASK, Europacup-Playoffs, Finale Rückspiel</title>
+</programme>
+<programme start="20250721021500 +0000" stop="20250721024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Lara Vadlau)</title>
+</programme>
+<programme start="20250721024500 +0000" stop="20250721031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Nico Langmann)</title>
+</programme>
+<programme start="20250721031500 +0000" stop="20250721034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Reinfried Herbst)</title>
+</programme>
+<programme start="20250721034500 +0000" stop="20250721054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA Youth League: FC Salzburg - Trabzonspor, Halbfinale</title>
+</programme>
+<programme start="20250721054500 +0000" stop="20250721074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA Youth League: Trabzonspor - FC Barcelona, Finale in Nyon (SUI)</title>
+</programme>
+<programme start="20250721074500 +0000" stop="20250721093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Tennis: Tommy Haas (GER) - Dominic Thiem (AUT), Exhibition Match in Hamburg</title>
+</programme>
+<programme start="20250721093000 +0000" stop="20250721100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 1. Spieltag</title>
+</programme>
+<programme start="20250721103000 +0000" stop="20250721110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 2. Spieltag</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 3. Spieltag</title>
+</programme>
+<programme start="20250721113000 +0000" stop="20250721120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 4. Spieltag</title>
+</programme>
+<programme start="20250721120000 +0000" stop="20250721123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 5. Spieltag</title>
+</programme>
+<programme start="20250721123000 +0000" stop="20250721130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 6. Spieltag</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 7. Spieltag</title>
+</programme>
+<programme start="20250721133000 +0000" stop="20250721143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Hinspiele</title>
+</programme>
+<programme start="20250721144500 +0000" stop="20250721151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
+</programme>
+<programme start="20250721151500 +0000" stop="20250721153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Achtelfinale, Hinspiele</title>
+</programme>
+<programme start="20250721153000 +0000" stop="20250721154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Achtelfinale, Rückspiele</title>
+</programme>
+<programme start="20250721154500 +0000" stop="20250721160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Rückspiele</title>
+</programme>
+<programme start="20250721161500 +0000" stop="20250721163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Highlights XXL: ARS - PSG, Halbfinale, Hinspiel</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250721164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Highlights XXL: INT - BAR, Halbfinale, Rückspiel</title>
+</programme>
+<programme start="20250721164500 +0000" stop="20250721191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - Inter Mailand, Finale 2025 in München</title>
+</programme>
+<programme start="20250721191500 +0000" stop="20250721201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Saisonrückblick</title>
+</programme>
+<programme start="20250721201500 +0000" stop="20250721211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Saisonrückblick</title>
+</programme>
+<programme start="20250721211500 +0000" stop="20250721221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: Saisonrückblick</title>
 </programme>
 <programme start="20250720233000 +0000" stop="20250721013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Fortuna Düsseldorf  - 1. FC Nürnberg, tipico Topspiel der Woche, 31. Spieltag</title>
@@ -3085,7 +3088,7 @@
 <programme start="20250721144000 +0000" stop="20250721150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250721150000 +0000" stop="20250722020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250721150000 +0000" stop="20250722080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250720221000 +0000" stop="20250720235500 +0000" channel="SYFY HD.skyde">
