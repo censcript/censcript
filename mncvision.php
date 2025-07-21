@@ -1987,7 +1987,141 @@
 <programme start="20250722160000 +0000" stop="20250722163000 +0000" channel="Celestial Movies.mncvision">
     <title>Lost Love</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250721170000 +0000" stop="20250721180000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20250721180000 +0000" stop="20250721190000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250721190000 +0000" stop="20250721193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250721193000 +0000" stop="20250721200000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250721200000 +0000" stop="20250721203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250721203000 +0000" stop="20250721210000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20250721210000 +0000" stop="20250721213000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250721213000 +0000" stop="20250721220000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20250721220000 +0000" stop="20250721223000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250721223000 +0000" stop="20250721230000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20250721230000 +0000" stop="20250721233000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20250721233000 +0000" stop="20250722000000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722000000 +0000" stop="20250722010000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250722010000 +0000" stop="20250722013000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722013000 +0000" stop="20250722020000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20250722020000 +0000" stop="20250722023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722023000 +0000" stop="20250722030000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250722030000 +0000" stop="20250722031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722031500 +0000" stop="20250722033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250722033000 +0000" stop="20250722040000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20250722040000 +0000" stop="20250722050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20250722050000 +0000" stop="20250722051500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722051500 +0000" stop="20250722053000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250722053000 +0000" stop="20250722060000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20250722060000 +0000" stop="20250722063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722063000 +0000" stop="20250722070000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20250722070000 +0000" stop="20250722073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722073000 +0000" stop="20250722080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250722080000 +0000" stop="20250722081500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722081500 +0000" stop="20250722090000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250722090000 +0000" stop="20250722093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722093000 +0000" stop="20250722100000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20250722100000 +0000" stop="20250722101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722101500 +0000" stop="20250722110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20250722110000 +0000" stop="20250722113000 +0000" channel="CGTN.mncvision">
+    <title>Asia Today</title>
+</programme>
+<programme start="20250722113000 +0000" stop="20250722120000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20250722120000 +0000" stop="20250722121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722121500 +0000" stop="20250722130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20250722130000 +0000" stop="20250722133000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250722133000 +0000" stop="20250722140000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20250722140000 +0000" stop="20250722143000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250722150000 +0000" stop="20250722153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250722153000 +0000" stop="20250722160000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20250722160000 +0000" stop="20250722163000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
 <programme start="20250721170000 +0000" stop="20250721173000 +0000" channel="CGTN Documentary.mncvision">
     <title>Razor: Brain Organoid Computers</title>
 </programme>
@@ -3629,7 +3763,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250722163500 +0000" stop="20250721170500 +0000" channel="Galaxy.mncvision">
     <title>Knight Of Badassdom</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250721173000 +0000" stop="20250721191500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Elysium</title>
+</programme>
+<programme start="20250721191500 +0000" stop="20250721210000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Resident Evil: Final Chapter</title>
+</programme>
+<programme start="20250721210000 +0000" stop="20250721224500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Spider-Man: Into Spider-Verse</title>
+</programme>
+<programme start="20250721224500 +0000" stop="20250722001500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Bad Teacher</title>
+</programme>
+<programme start="20250722001500 +0000" stop="20250722014500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Hotel Transylvania 3</title>
+</programme>
+<programme start="20250722014500 +0000" stop="20250722031500 +0000" channel="Galaxy Premium.mncvision">
+    <title>A Dog&#039;s Way Home</title>
+</programme>
+<programme start="20250722031500 +0000" stop="20250722044500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Underworld: Rise Of The Lycans</title>
+</programme>
+<programme start="20250722044500 +0000" stop="20250722063500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Charlie&#039;s Angels</title>
+</programme>
+<programme start="20250722063500 +0000" stop="20250722080500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Underworld: Blood Wars</title>
+</programme>
+<programme start="20250722080500 +0000" stop="20250722095000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Front Runner</title>
+</programme>
+<programme start="20250722095000 +0000" stop="20250722120500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Lovely Bones</title>
+</programme>
+<programme start="20250722120500 +0000" stop="20250722140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Concussion</title>
+</programme>
+<programme start="20250722140000 +0000" stop="20250722152000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Like A Boss</title>
+</programme>
+<programme start="20250722152000 +0000" stop="20250722165000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Honey Boy</title>
+</programme>
+<programme start="20250722165000 +0000" stop="20250721172000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Instant Family</title>
+</programme>
 <programme start="20250721170500 +0000" stop="20250721175000 +0000" channel="Global Trekker.mncvision">
     <title>Air Warriors S11, Ep 1</title>
 </programme>
