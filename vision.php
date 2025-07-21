@@ -38,46 +38,46 @@
 <title>Asisten Cantik Naik Pangkat</title>
 </programme>
 <programme start="20250721180000 +0000" stop="20250721190000 +0000" channel="RCTI.vision">
-<title>Cinta Kejar Tayang</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250721190000 +0000" stop="20250721201500 +0000" channel="RCTI.vision">
-<title>Tukang Ojek Butuh Liburan</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250721201500 +0000" stop="20250721210000 +0000" channel="RCTI.vision">
-<title>Crispy</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250721210000 +0000" stop="20250721230000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250721230000 +0000" stop="20250721234500 +0000" channel="RCTI.vision">
-<title>Barista</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250721234500 +0000" stop="20250722010000 +0000" channel="RCTI.vision">
-<title>Upin Ipin</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722010000 +0000" stop="20250722013000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722013000 +0000" stop="20250722044500 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722044500 +0000" stop="20250722053000 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722053000 +0000" stop="20250722073000 +0000" channel="RCTI.vision">
-<title>Take Me Out Indonesia</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722073000 +0000" stop="20250722090000 +0000" channel="RCTI.vision">
-<title>Mega Film Tv Manusia Harimau</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722090000 +0000" stop="20250722100000 +0000" channel="RCTI.vision">
-<title>Jack Dan Danil</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722100000 +0000" stop="20250722110000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun X</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250722110000 +0000" stop="20250722121500 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250721000000 +0000" stop="20250721010000 +0000" channel="MNCTV.vision">
 <title>Kun Anta</title>
@@ -634,56 +634,41 @@
 <programme start="20250722114500 +0000" stop="20250722121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250720230000 +0000" stop="20250721010000 +0000" channel="ANTV.vision">
-<title>Jaka Sembung &amp; Dewi Samudra</title>
+<programme start="20250721000000 +0000" stop="20250721030000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721010000 +0000" stop="20250721023000 +0000" channel="ANTV.vision">
-<title>Catatan Hati</title>
-</programme>
-<programme start="20250721023000 +0000" stop="20250721060000 +0000" channel="ANTV.vision">
-<title>Khushi</title>
+<programme start="20250721030000 +0000" stop="20250721060000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20250721060000 +0000" stop="20250721090000 +0000" channel="ANTV.vision">
-<title>Radha Mohan</title>
+<title>ANTV</title>
 </programme>
-<programme start="20250721123000 +0000" stop="20250721143000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
+<programme start="20250721090000 +0000" stop="20250721120000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721143000 +0000" stop="20250721163000 +0000" channel="ANTV.vision">
-<title>Perhitungaan Terakhr</title>
+<programme start="20250721120000 +0000" stop="20250721150000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721163000 +0000" stop="20250721183000 +0000" channel="ANTV.vision">
-<title>The Conman</title>
+<programme start="20250721150000 +0000" stop="20250721180000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721183000 +0000" stop="20250721200000 +0000" channel="ANTV.vision">
-<title>Sword Man</title>
+<programme start="20250721180000 +0000" stop="20250721210000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721200000 +0000" stop="20250721213000 +0000" channel="ANTV.vision">
-<title>Nini Towok</title>
+<programme start="20250721210000 +0000" stop="20250722000000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721213000 +0000" stop="20250721220000 +0000" channel="ANTV.vision">
-<title>Nadin</title>
+<programme start="20250722000000 +0000" stop="20250722030000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20250721220000 +0000" stop="20250721223000 +0000" channel="ANTV.vision">
-<title>Vaishno Devi</title>
-</programme>
-<programme start="20250721223000 +0000" stop="20250721230000 +0000" channel="ANTV.vision">
-<title>Senyum Iman</title>
-</programme>
-<programme start="20250721230000 +0000" stop="20250722010000 +0000" channel="ANTV.vision">
-<title>Lima Harimau Nusantara</title>
-</programme>
-<programme start="20250722010000 +0000" stop="20250722023000 +0000" channel="ANTV.vision">
-<title>Catatan Hati</title>
-</programme>
-<programme start="20250722023000 +0000" stop="20250722060000 +0000" channel="ANTV.vision">
-<title>Shakti The Power</title>
+<programme start="20250722030000 +0000" stop="20250722060000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20250722060000 +0000" stop="20250722090000 +0000" channel="ANTV.vision">
-<title>Radha Mohan</title>
+<title>ANTV</title>
 </programme>
-<programme start="20250722090000 +0000" stop="20250722123000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
+<programme start="20250722090000 +0000" stop="20250722120000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20250721000000 +0000" stop="20250721010000 +0000" channel="RTV.vision">
 <title>RTV</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250721040500 +0000" stop="20250721054500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721054500 +0000" stop="20250721073500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721073500 +0000" stop="20250721091000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721091000 +0000" stop="20250721104500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721104500 +0000" stop="20250721122000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250721122000 +0000" stop="20250721140000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

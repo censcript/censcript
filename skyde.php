@@ -2773,6 +2773,78 @@
 <programme start="20250721213000 +0000" stop="20250721233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund  - RB Leipzig, tipico Topspiel der Woche, 9. Spieltag</title>
 </programme>
+<programme start="20250720220000 +0000" stop="20250720233000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Delfi Rally Estonia - SS20 Käärlku 2 (Wolf Power Stage)</title>
+</programme>
+<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: GP Confidential</title>
+</programme>
+<programme start="20250721000000 +0000" stop="20250721010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Ferrari Challenge Europe: Coppa Shell - 2. Rennen in Barcelona</title>
+</programme>
+<programme start="20250721010000 +0000" stop="20250721020000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Ferrari Challenge Europe: Trofeo Pirelli - 2. Rennen in Barcelona</title>
+</programme>
+<programme start="20250721020000 +0000" stop="20250721030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Ferrari Challenge Europe: Coppa Shell AM - 2. Rennen in Barcelona</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721033000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: GP Confidential</title>
+</programme>
+<programme start="20250721033000 +0000" stop="20250721040000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen Kompakt - GP Monaco</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721050000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 1. Rennen - GP Großbritannien</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721060000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 2. Rennen - GP Großbritannien</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721070000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 1. Rennen - GP Großbritannien</title>
+</programme>
+<programme start="20250721070000 +0000" stop="20250721080000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F2: 2. Rennen - GP Großbritannien</title>
+</programme>
+<programme start="20250721080000 +0000" stop="20250721083000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: GP Confidential</title>
+</programme>
+<programme start="20250721083000 +0000" stop="20250721093000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Training in Toronto, Ontario</title>
+</programme>
+<programme start="20250721093000 +0000" stop="20250721110000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Qualifying in Toronto, Ontario</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721130000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Ontario Honda Dealers Indy Toronto</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721133000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen Kompakt - GP Kanada</title>
+</programme>
+<programme start="20250721133000 +0000" stop="20250721140000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen Kompakt - GP Österreich</title>
+</programme>
+<programme start="20250721140000 +0000" stop="20250721160000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Großbritannien</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721180000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Ontario Honda Dealers Indy Toronto</title>
+</programme>
+<programme start="20250721180000 +0000" stop="20250721193000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Delfi Rally Estonia - SS20 Käärlku 2 (Wolf Power Stage)</title>
+</programme>
+<programme start="20250721193000 +0000" stop="20250721200000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: GP Confidential</title>
+</programme>
+<programme start="20250721200000 +0000" stop="20250721204500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>PMSC: Rennen - GP Österreich</title>
+</programme>
+<programme start="20250721204500 +0000" stop="20250721210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Top 20: Boxenstopp Chaos</title>
+</programme>
+<programme start="20250721210000 +0000" stop="20250721230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Monaco</title>
+</programme>
 <programme start="20250720220000 +0000" stop="20250721010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Barracuda Championship, 4. Tag in Truckee, CA (USA)</title>
 </programme>
