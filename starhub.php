@@ -8243,7 +8243,7 @@
         <title>The Significance of the Waterways to Wangal People</title>
     </programme>
     <programme start="20250721033000 +0000" stop="20250721040000 +0000" channel="ABC Australia HD.starhub">
-        <title>Foreign Correspondent (2025)</title>
+        <title>Trump&#039;s Wellness Warriors - USA</title>
     </programme>
     <programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="ABC Australia HD.starhub">
         <title>Returning Boomerang</title>
@@ -8267,7 +8267,7 @@
         <title>The Significance of the Waterways to Wangal People</title>
     </programme>
     <programme start="20250721083000 +0000" stop="20250721090000 +0000" channel="ABC Australia HD.starhub">
-        <title>Foreign Correspondent (2025)</title>
+        <title>Trump&#039;s Wellness Warriors - USA</title>
     </programme>
     <programme start="20250721090000 +0000" stop="20250721093000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC National News (2025)</title>
@@ -8291,7 +8291,7 @@
         <title>ABC Late News (2025)</title>
     </programme>
     <programme start="20250721133000 +0000" stop="20250721140000 +0000" channel="ABC Australia HD.starhub">
-        <title>Foreign Correspondent (2025)</title>
+        <title>Trump&#039;s Wellness Warriors - USA</title>
     </programme>
     <programme start="20250721140000 +0000" stop="20250721141500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>

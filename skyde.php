@@ -2404,6 +2404,99 @@
 <programme start="20250721211500 +0000" stop="20250721220000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20250720221500 +0000" stop="20250720224000 +0000" channel="Sky Replay HD.skyde">
+    <title>Kapitelweise</title>
+</programme>
+<programme start="20250720224000 +0000" stop="20250720234000 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250720234000 +0000" stop="20250721004000 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721004000 +0000" stop="20250721014000 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721014000 +0000" stop="20250721023500 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721023500 +0000" stop="20250721033500 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721033500 +0000" stop="20250721044000 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721044000 +0000" stop="20250721054500 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721054500 +0000" stop="20250721065500 +0000" channel="Sky Replay HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250721065500 +0000" stop="20250721074000 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721074000 +0000" stop="20250721081000 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721081000 +0000" stop="20250721085000 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721085000 +0000" stop="20250721094500 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721094500 +0000" stop="20250721102500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721102500 +0000" stop="20250721111000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721111000 +0000" stop="20250721115000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721115000 +0000" stop="20250721123500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721123500 +0000" stop="20250721131500 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721131500 +0000" stop="20250721135000 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721135000 +0000" stop="20250721142500 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721142500 +0000" stop="20250721152000 +0000" channel="Sky Replay HD.skyde">
+    <title>Lass es, Larry!</title>
+</programme>
+<programme start="20250721152000 +0000" stop="20250721160000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721164500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721164500 +0000" stop="20250721173000 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721173000 +0000" stop="20250721181500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721181500 +0000" stop="20250721190000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250721190000 +0000" stop="20250721194000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250721194000 +0000" stop="20250721202500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250721202500 +0000" stop="20250721211000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250721211000 +0000" stop="20250721215500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250721215500 +0000" stop="20250721223500 +0000" channel="Sky Replay HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
 <programme start="20250720223000 +0000" stop="20250720232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die wilden Inseln Irlands</title>
 </programme>
