@@ -256,8 +256,189 @@
 <programme start="20250721150000 +0000" stop="20250721153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 4</title>
+</programme>
+<programme start="20250720173000 +0000" stop="20250720180000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 5</title>
+</programme>
+<programme start="20250720180000 +0000" stop="20250720183000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 2</title>
+</programme>
+<programme start="20250720183000 +0000" stop="20250720190000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 3</title>
+</programme>
+<programme start="20250720190000 +0000" stop="20250720193000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 1</title>
+</programme>
+<programme start="20250720193000 +0000" stop="20250720200000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 2</title>
+</programme>
+<programme start="20250720200000 +0000" stop="20250720203000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 3</title>
+</programme>
+<programme start="20250720203000 +0000" stop="20250720210000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 25</title>
+</programme>
+<programme start="20250720210000 +0000" stop="20250720213000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 26</title>
+</programme>
+<programme start="20250720213000 +0000" stop="20250720220000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 27</title>
+</programme>
+<programme start="20250720220000 +0000" stop="20250720223000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 16</title>
+</programme>
+<programme start="20250720223000 +0000" stop="20250720230000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 17</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250720233000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 2</title>
+</programme>
+<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 3</title>
+</programme>
+<programme start="20250721000000 +0000" stop="20250721003000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 5</title>
+</programme>
+<programme start="20250721003000 +0000" stop="20250721010000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 6</title>
+</programme>
+<programme start="20250721010000 +0000" stop="20250721013000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 16</title>
+</programme>
+<programme start="20250721013000 +0000" stop="20250721020000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 17</title>
+</programme>
+<programme start="20250721020000 +0000" stop="20250721023000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 2</title>
+</programme>
+<programme start="20250721023000 +0000" stop="20250721030000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 3</title>
+</programme>
+<programme start="20250721030000 +0000" stop="20250721033000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 2</title>
+</programme>
+<programme start="20250721033000 +0000" stop="20250721040000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 3</title>
+</programme>
+<programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 5</title>
+</programme>
+<programme start="20250721043000 +0000" stop="20250721050000 +0000" channel="Animax.mncvision">
+    <title>My Deer Friend Nokotan, Ep 6</title>
+</programme>
+<programme start="20250721050000 +0000" stop="20250721053000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 16</title>
+</programme>
+<programme start="20250721053000 +0000" stop="20250721060000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 17</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721063000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 2</title>
+</programme>
+<programme start="20250721063000 +0000" stop="20250721070000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 3</title>
+</programme>
+<programme start="20250721070000 +0000" stop="20250721073000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 2</title>
+</programme>
+<programme start="20250721073000 +0000" stop="20250721080000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 3</title>
+</programme>
+<programme start="20250721080000 +0000" stop="20250721083000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 16</title>
+</programme>
+<programme start="20250721083000 +0000" stop="20250721090000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 17</title>
+</programme>
+<programme start="20250721090000 +0000" stop="20250721093000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 2</title>
+</programme>
+<programme start="20250721093000 +0000" stop="20250721100000 +0000" channel="Animax.mncvision">
+    <title>In/Spectre S2, Ep 3</title>
+</programme>
+<programme start="20250721100000 +0000" stop="20250721103000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 17</title>
+</programme>
+<programme start="20250721103000 +0000" stop="20250721110000 +0000" channel="Animax.mncvision">
+    <title>Haikyu!! S4, Ep 18</title>
+</programme>
+<programme start="20250721110000 +0000" stop="20250721113000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 27</title>
+</programme>
+<programme start="20250721113000 +0000" stop="20250721120000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 28</title>
+</programme>
+<programme start="20250721120000 +0000" stop="20250721123000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 5</title>
+</programme>
+<programme start="20250721123000 +0000" stop="20250721130000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 6</title>
+</programme>
+<programme start="20250721130000 +0000" stop="20250721133000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 27</title>
+</programme>
+<programme start="20250721133000 +0000" stop="20250721140000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 28</title>
+</programme>
+<programme start="20250721140000 +0000" stop="20250721143000 +0000" channel="Animax.mncvision">
+    <title>Oshi No Ko, Ep 20</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721150000 +0000" channel="Animax.mncvision">
+    <title>Oshi No Ko, Ep 21</title>
+</programme>
+<programme start="20250721150000 +0000" stop="20250721153000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 27</title>
+</programme>
+<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 28</title>
+</programme>
+<programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 5</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="Animax.mncvision">
+    <title>Kubo Won&#039;t Let Me Be..., Ep 6</title>
+</programme>
+<programme start="20250720183000 +0000" stop="20250720200000 +0000" channel="ANTV.mncvision">
+    <title>The Champions</title>
+</programme>
+<programme start="20250720200000 +0000" stop="20250720213000 +0000" channel="ANTV.mncvision">
+    <title>Perjanjian Terlarang</title>
+</programme>
+<programme start="20250720213000 +0000" stop="20250720220000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
+</programme>
+<programme start="20250720220000 +0000" stop="20250720223000 +0000" channel="ANTV.mncvision">
+    <title>Vaishno Devi</title>
+</programme>
+<programme start="20250720223000 +0000" stop="20250720230000 +0000" channel="ANTV.mncvision">
+    <title>Senyum Iman</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250721010000 +0000" channel="ANTV.mncvision">
+    <title>Jaka Sembung &amp; Dewi Samudra</title>
+</programme>
+<programme start="20250721010000 +0000" stop="20250721023000 +0000" channel="ANTV.mncvision">
+    <title>Catatan Hati</title>
+</programme>
+<programme start="20250721023000 +0000" stop="20250721060000 +0000" channel="ANTV.mncvision">
+    <title>Khushi</title>
+</programme>
+<programme start="20250721060000 +0000" stop="20250721090000 +0000" channel="ANTV.mncvision">
+    <title>Radha Mohan</title>
+</programme>
+<programme start="20250721090000 +0000" stop="20250721123000 +0000" channel="ANTV.mncvision">
+    <title>Om Shanti Om</title>
+</programme>
+<programme start="20250721123000 +0000" stop="20250721143000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250721143000 +0000" stop="20250721163000 +0000" channel="ANTV.mncvision">
+    <title>Perhitungaan Terakhr</title>
+</programme>
+<programme start="20250721163000 +0000" stop="20250720170000 +0000" channel="ANTV.mncvision">
+    <title>The Conman</title>
+</programme>
 <programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="Arirang.mncvision">
     <title>Premium Collection</title>
 </programme>
@@ -1473,7 +1654,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="BTV.mncvision">
     <title>Mitos Tengah Malam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720170200 +0000" stop="20250720184600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dogtanian &amp; Three Muskehounds</title>
+</programme>
+<programme start="20250720184600 +0000" stop="20250720202600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250720202600 +0000" stop="20250720222400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Skellig: The Owl Man</title>
+</programme>
+<programme start="20250720222400 +0000" stop="20250721000200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250721000200 +0000" stop="20250721014800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Jeremy Fink &amp; Meaning Of Life</title>
+</programme>
+<programme start="20250721014800 +0000" stop="20250721034700 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250721034700 +0000" stop="20250721052500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pil&#039;s Adventures</title>
+</programme>
+<programme start="20250721052500 +0000" stop="20250721065200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250721065200 +0000" stop="20250721083500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Five Children And It</title>
+</programme>
+<programme start="20250721083500 +0000" stop="20250721101800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250721101800 +0000" stop="20250721115900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Come Away</title>
+</programme>
+<programme start="20250721115900 +0000" stop="20250721134200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250721134200 +0000" stop="20250721151000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dreambuilders</title>
+</programme>
+<programme start="20250721151000 +0000" stop="20250721165000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20250721165000 +0000" stop="20250720172000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Cool Kids Don&#039;t Cry</title>
+</programme>
 <programme start="20250720170200 +0000" stop="20250720184600 +0000" channel="BUDDY STARS HD.mncvision">
     <title>Dogtanian &amp; Three Muskehounds</title>
 </programme>
@@ -1519,7 +1744,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721165000 +0000" stop="20250720172000 +0000" channel="BUDDY STARS HD.mncvision">
     <title>Cool Kids Don&#039;t Cry</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250720170500 +0000" stop="20250720171500 +0000" channel="CBeebies.mncvision">
+    <title>Teletubbies S1, Ep 73</title>
+</programme>
+<programme start="20250720171500 +0000" stop="20250720172000 +0000" channel="CBeebies.mncvision">
+    <title>Teletubbies Ready... S1, Ep 6</title>
+</programme>
+<programme start="20250720172000 +0000" stop="20250720173000 +0000" channel="CBeebies.mncvision">
+    <title>Pop Paper City S1, Ep 10</title>
+</programme>
+<programme start="20250720173000 +0000" stop="20250720174000 +0000" channel="CBeebies.mncvision">
+    <title>Dog Loves Books S1, Ep 50</title>
+</programme>
+<programme start="20250720174000 +0000" stop="20250720175000 +0000" channel="CBeebies.mncvision">
+    <title>Messy Goes To Okido S1, Ep 21</title>
+</programme>
+<programme start="20250720175000 +0000" stop="20250720180000 +0000" channel="CBeebies.mncvision">
+    <title>Messy Goes To Okido S1, Ep 22</title>
+</programme>
+<programme start="20250720180000 +0000" stop="20250720181000 +0000" channel="CBeebies.mncvision">
+    <title>Kazoops! S1, Ep 12</title>
+</programme>
+<programme start="20250720181000 +0000" stop="20250720182000 +0000" channel="CBeebies.mncvision">
+    <title>Jojo &amp; Gran Gran S2, Ep 21</title>
+</programme>
+<programme start="20250720182000 +0000" stop="20250720183000 +0000" channel="CBeebies.mncvision">
+    <title>Jojo &amp; Gran Gran S2, Ep 20</title>
+</programme>
+<programme start="20250720183000 +0000" stop="20250720183700 +0000" channel="CBeebies.mncvision">
+    <title>Sarah And Duck S3, Ep 32</title>
+</programme>
+<programme start="20250720183700 +0000" stop="20250720184500 +0000" channel="CBeebies.mncvision">
+    <title>Sarah And Duck S3, Ep 33</title>
+</programme>
+<programme start="20250720184500 +0000" stop="20250720185500 +0000" channel="CBeebies.mncvision">
+    <title>Thomas &amp; Friends S23, Ep 19</title>
+</programme>
+<programme start="20250720185500 +0000" stop="20250720190200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 33</title>
+</programme>
+<programme start="20250720190200 +0000" stop="20250720190900 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 34</title>
+</programme>
+<programme start="20250720190900 +0000" stop="20250720191500 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 35</title>
+</programme>
+<programme start="20250720191500 +0000" stop="20250720192500 +0000" channel="CBeebies.mncvision">
+    <title>Supertato S2, Ep 11</title>
+</programme>
+<programme start="20250720192500 +0000" stop="20250720193200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S2, Ep 9</title>
+</programme>
+<programme start="20250720193200 +0000" stop="20250720193900 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S2, Ep 10</title>
+</programme>
+<programme start="20250720193900 +0000" stop="20250720194500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S2, Ep 11</title>
+</programme>
+<programme start="20250720194500 +0000" stop="20250720195600 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S3, Ep 34</title>
+</programme>
+<programme start="20250720195600 +0000" stop="20250720200700 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S3, Ep 35</title>
+</programme>
+<programme start="20250720200700 +0000" stop="20250720202000 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S3, Ep 36</title>
+</programme>
+<programme start="20250720202000 +0000" stop="20250720203500 +0000" channel="CBeebies.mncvision">
+    <title>My World Kitchen S4, Ep 8</title>
+</programme>
+<programme start="20250720203500 +0000" stop="20250720205000 +0000" channel="CBeebies.mncvision">
+    <title>Andy&#039;s Global Adv. S1, Ep 18</title>
+</programme>
+<programme start="20250720205000 +0000" stop="20250720211500 +0000" channel="CBeebies.mncvision">
+    <title>Swashbuckle S8, Ep 7</title>
+</programme>
+<programme start="20250720211500 +0000" stop="20250720212800 +0000" channel="CBeebies.mncvision">
+    <title>Panda And Krash S1, Ep 16</title>
+</programme>
+<programme start="20250720212800 +0000" stop="20250720213500 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 34</title>
+</programme>
+<programme start="20250720213500 +0000" stop="20250720214200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 35</title>
+</programme>
+<programme start="20250720214200 +0000" stop="20250720215000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 36</title>
+</programme>
+<programme start="20250720215000 +0000" stop="20250720220000 +0000" channel="CBeebies.mncvision">
+    <title>Supertato S1, Ep 48</title>
+</programme>
+<programme start="20250720220000 +0000" stop="20250720221000 +0000" channel="CBeebies.mncvision">
+    <title>Teletubbies S1, Ep 71</title>
+</programme>
+<programme start="20250720221000 +0000" stop="20250720221500 +0000" channel="CBeebies.mncvision">
+    <title>Yakka Dee S1, Ep 11</title>
+</programme>
+<programme start="20250720221500 +0000" stop="20250720222500 +0000" channel="CBeebies.mncvision">
+    <title>Pop Paper City S1, Ep 30</title>
+</programme>
+<programme start="20250720222500 +0000" stop="20250720224000 +0000" channel="CBeebies.mncvision">
+    <title>Messy Goes To Okido S1, Ep 8</title>
+</programme>
+<programme start="20250720224000 +0000" stop="20250720224700 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 29</title>
+</programme>
+<programme start="20250720224700 +0000" stop="20250720230000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 28</title>
+</programme>
+<programme start="20250720230000 +0000" stop="20250720230700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 1</title>
+</programme>
+<programme start="20250720230700 +0000" stop="20250720231500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 10</title>
+</programme>
+<programme start="20250720231500 +0000" stop="20250720232200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 3</title>
+</programme>
+<programme start="20250720232200 +0000" stop="20250720233000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 4</title>
+</programme>
+<programme start="20250720233000 +0000" stop="20250720234500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S2, Ep 7</title>
+</programme>
+<programme start="20250720234500 +0000" stop="20250720235200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 3</title>
+</programme>
+<programme start="20250720235200 +0000" stop="20250721000000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 2</title>
+</programme>
+<programme start="20250721000000 +0000" stop="20250721001500 +0000" channel="CBeebies.mncvision">
+    <title>Andy&#039;s Baby Animal... S1, Ep 15</title>
+</programme>
+<programme start="20250721001500 +0000" stop="20250721002500 +0000" channel="CBeebies.mncvision">
+    <title>Dog Squad S2, Ep 11</title>
+</programme>
+<programme start="20250721002500 +0000" stop="20250721003000 +0000" channel="CBeebies.mncvision">
+    <title>Aneeshwar &amp; Lizzie Go..., Ep 11</title>
+</programme>
+<programme start="20250721003000 +0000" stop="20250721005500 +0000" channel="CBeebies.mncvision">
+    <title>Swashbuckle S8, Ep 1</title>
+</programme>
+<programme start="20250721005500 +0000" stop="20250721010200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S4, Ep 5</title>
+</programme>
+<programme start="20250721010200 +0000" stop="20250721010900 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S4, Ep 4</title>
+</programme>
+<programme start="20250721010900 +0000" stop="20250721013900 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S4, Ep 3</title>
+</programme>
 <programme start="20250720182500 +0000" stop="20250720195000 +0000" channel="CCM.mncvision">
     <title>River Of Tears</title>
 </programme>
@@ -3542,46 +3916,46 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250720220000 +0000" stop="20250720225500 +0000" channel="Global Trekker.mncvision">
     <title>Exceptional... S2, Ep 1</title>
 </programme>
-<programme start="20250720225500 +0000" stop="20250720234500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250720225500 +0000" stop="20250720235000 +0000" channel="Global Trekker.mncvision">
     <title>Exceptional... S2, Ep 2</title>
 </programme>
-<programme start="20250720234500 +0000" stop="20250721003500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250720235000 +0000" stop="20250721004500 +0000" channel="Global Trekker.mncvision">
     <title>Exceptional... S2, Ep 3</title>
 </programme>
-<programme start="20250721003500 +0000" stop="20250721013000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721004500 +0000" stop="20250721014000 +0000" channel="Global Trekker.mncvision">
     <title>Exceptional... S2, Ep 1</title>
 </programme>
-<programme start="20250721013000 +0000" stop="20250721022500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721014000 +0000" stop="20250721023500 +0000" channel="Global Trekker.mncvision">
     <title>Exceptional... S2, Ep 2</title>
 </programme>
-<programme start="20250721022500 +0000" stop="20250721031500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721023500 +0000" stop="20250721033000 +0000" channel="Global Trekker.mncvision">
     <title>Costa Rica: Rise Of..., Ep 3</title>
 </programme>
-<programme start="20250721031500 +0000" stop="20250721040500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721033000 +0000" stop="20250721041500 +0000" channel="Global Trekker.mncvision">
     <title>Atlantic: In The Wild, Ep 1</title>
 </programme>
-<programme start="20250721040500 +0000" stop="20250721045500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721041500 +0000" stop="20250721050000 +0000" channel="Global Trekker.mncvision">
     <title>Atlantic: In The Wild, Ep 2</title>
 </programme>
-<programme start="20250721045500 +0000" stop="20250721054000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721050000 +0000" stop="20250721054000 +0000" channel="Global Trekker.mncvision">
     <title>Leguizamo Does America, Ep 4</title>
 </programme>
-<programme start="20250721054000 +0000" stop="20250721062500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721054000 +0000" stop="20250721062000 +0000" channel="Global Trekker.mncvision">
     <title>Leguizamo Does America, Ep 5</title>
 </programme>
-<programme start="20250721062500 +0000" stop="20250721071000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721062000 +0000" stop="20250721070500 +0000" channel="Global Trekker.mncvision">
     <title>Leguizamo Does America, Ep 6</title>
 </programme>
-<programme start="20250721071000 +0000" stop="20250721080000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721070500 +0000" stop="20250721075500 +0000" channel="Global Trekker.mncvision">
     <title>American Princesses S2, Ep 1</title>
 </programme>
-<programme start="20250721080000 +0000" stop="20250721085000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721075500 +0000" stop="20250721084500 +0000" channel="Global Trekker.mncvision">
     <title>American Princesses S2, Ep 2</title>
 </programme>
-<programme start="20250721085000 +0000" stop="20250721094000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721084500 +0000" stop="20250721093500 +0000" channel="Global Trekker.mncvision">
     <title>American Princesses S2, Ep 3</title>
 </programme>
-<programme start="20250721094000 +0000" stop="20250721103000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721093500 +0000" stop="20250721103000 +0000" channel="Global Trekker.mncvision">
     <title>Secrets Of Great White Shark</title>
 </programme>
 <programme start="20250721103000 +0000" stop="20250721112000 +0000" channel="Global Trekker.mncvision">
@@ -3602,10 +3976,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721144000 +0000" stop="20250721153000 +0000" channel="Global Trekker.mncvision">
     <title>Edge Of Existence, Ep 1</title>
 </programme>
-<programme start="20250721153000 +0000" stop="20250721162000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721153000 +0000" stop="20250721161500 +0000" channel="Global Trekker.mncvision">
     <title>Edge Of Existence, Ep 2</title>
 </programme>
-<programme start="20250721162000 +0000" stop="20250721165000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250721161500 +0000" stop="20250721164500 +0000" channel="Global Trekker.mncvision">
     <title>Edge Of Existence, Ep 3</title>
 </programme>
 <programme start="20250720171000 +0000" stop="20250720174000 +0000" channel="Global Trekker HD.mncvision">
@@ -3635,46 +4009,46 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250720220000 +0000" stop="20250720225500 +0000" channel="Global Trekker HD.mncvision">
     <title>Exceptional... S2, Ep 1</title>
 </programme>
-<programme start="20250720225500 +0000" stop="20250720234500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250720225500 +0000" stop="20250720235000 +0000" channel="Global Trekker HD.mncvision">
     <title>Exceptional... S2, Ep 2</title>
 </programme>
-<programme start="20250720234500 +0000" stop="20250721003500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250720235000 +0000" stop="20250721004500 +0000" channel="Global Trekker HD.mncvision">
     <title>Exceptional... S2, Ep 3</title>
 </programme>
-<programme start="20250721003500 +0000" stop="20250721013000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721004500 +0000" stop="20250721014000 +0000" channel="Global Trekker HD.mncvision">
     <title>Exceptional... S2, Ep 1</title>
 </programme>
-<programme start="20250721013000 +0000" stop="20250721022500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721014000 +0000" stop="20250721023500 +0000" channel="Global Trekker HD.mncvision">
     <title>Exceptional... S2, Ep 2</title>
 </programme>
-<programme start="20250721022500 +0000" stop="20250721031500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721023500 +0000" stop="20250721033000 +0000" channel="Global Trekker HD.mncvision">
     <title>Costa Rica: Rise Of..., Ep 3</title>
 </programme>
-<programme start="20250721031500 +0000" stop="20250721040500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721033000 +0000" stop="20250721041500 +0000" channel="Global Trekker HD.mncvision">
     <title>Atlantic: In The Wild, Ep 1</title>
 </programme>
-<programme start="20250721040500 +0000" stop="20250721045500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721041500 +0000" stop="20250721050000 +0000" channel="Global Trekker HD.mncvision">
     <title>Atlantic: In The Wild, Ep 2</title>
 </programme>
-<programme start="20250721045500 +0000" stop="20250721054000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721050000 +0000" stop="20250721054000 +0000" channel="Global Trekker HD.mncvision">
     <title>Leguizamo Does America, Ep 4</title>
 </programme>
-<programme start="20250721054000 +0000" stop="20250721062500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721054000 +0000" stop="20250721062000 +0000" channel="Global Trekker HD.mncvision">
     <title>Leguizamo Does America, Ep 5</title>
 </programme>
-<programme start="20250721062500 +0000" stop="20250721071000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721062000 +0000" stop="20250721070500 +0000" channel="Global Trekker HD.mncvision">
     <title>Leguizamo Does America, Ep 6</title>
 </programme>
-<programme start="20250721071000 +0000" stop="20250721080000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721070500 +0000" stop="20250721075500 +0000" channel="Global Trekker HD.mncvision">
     <title>American Princesses S2, Ep 1</title>
 </programme>
-<programme start="20250721080000 +0000" stop="20250721085000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721075500 +0000" stop="20250721084500 +0000" channel="Global Trekker HD.mncvision">
     <title>American Princesses S2, Ep 2</title>
 </programme>
-<programme start="20250721085000 +0000" stop="20250721094000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721084500 +0000" stop="20250721093500 +0000" channel="Global Trekker HD.mncvision">
     <title>American Princesses S2, Ep 3</title>
 </programme>
-<programme start="20250721094000 +0000" stop="20250721103000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721093500 +0000" stop="20250721103000 +0000" channel="Global Trekker HD.mncvision">
     <title>Secrets Of Great White Shark</title>
 </programme>
 <programme start="20250721103000 +0000" stop="20250721112000 +0000" channel="Global Trekker HD.mncvision">
@@ -3695,10 +4069,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250721144000 +0000" stop="20250721153000 +0000" channel="Global Trekker HD.mncvision">
     <title>Edge Of Existence, Ep 1</title>
 </programme>
-<programme start="20250721153000 +0000" stop="20250721162000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721153000 +0000" stop="20250721161500 +0000" channel="Global Trekker HD.mncvision">
     <title>Edge Of Existence, Ep 2</title>
 </programme>
-<programme start="20250721162000 +0000" stop="20250721165000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250721161500 +0000" stop="20250721164500 +0000" channel="Global Trekker HD.mncvision">
     <title>Edge Of Existence, Ep 3</title>
 </programme>
 <programme start="20250720170000 +0000" stop="20250720180000 +0000" channel="GTV.mncvision">
@@ -4350,40 +4724,40 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mama &amp; Aa Beraksi</title>
 </programme>
 <programme start="20250720213000 +0000" stop="20250720230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250720230000 +0000" stop="20250721010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250721010000 +0000" stop="20250721030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250721030000 +0000" stop="20250721040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250721043000 +0000" stop="20250721050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250721050000 +0000" stop="20250721063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250721063000 +0000" stop="20250721080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250721080000 +0000" stop="20250721100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20250721100000 +0000" stop="20250721120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250721120000 +0000" stop="20250721153000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250721120000 +0000" stop="20250721150000 +0000" channel="Indosiar.mncvision">
+    <title>ASEAN U-23 C&#039;ship Mandiri Cup</title>
 </programme>
-<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250721150000 +0000" stop="20250721153000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250720173000 +0000" stop="20250720193000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4395,40 +4769,40 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Mama &amp; Aa Beraksi</title>
 </programme>
 <programme start="20250720213000 +0000" stop="20250720230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250720230000 +0000" stop="20250721010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250721010000 +0000" stop="20250721030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250721030000 +0000" stop="20250721040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250721040000 +0000" stop="20250721043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250721043000 +0000" stop="20250721050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250721050000 +0000" stop="20250721063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250721063000 +0000" stop="20250721080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250721080000 +0000" stop="20250721100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20250721100000 +0000" stop="20250721120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250721120000 +0000" stop="20250721153000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250721120000 +0000" stop="20250721150000 +0000" channel="Indosiar HD.mncvision">
+    <title>ASEAN U-23 C&#039;ship Mandiri Cup</title>
 </programme>
-<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250721150000 +0000" stop="20250721153000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="iNews.mncvision">
     <title>Realita</title>
@@ -7556,50 +7930,44 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250720201500 +0000" stop="20250720210000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250720210000 +0000" stop="20250720213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250720210000 +0000" stop="20250720212400 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250720213000 +0000" stop="20250720230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250720212400 +0000" stop="20250720225600 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250720230000 +0000" stop="20250720233000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250720225600 +0000" stop="20250721000000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721000000 +0000" stop="20250721013400 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250721000000 +0000" stop="20250721013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721013400 +0000" stop="20250721030400 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250721013000 +0000" stop="20250721030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721030400 +0000" stop="20250721045700 +0000" channel="SCTV.mncvision">
+    <title>Miss Biduan I Love You Sekebon</title>
 </programme>
-<programme start="20250721030000 +0000" stop="20250721050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721045700 +0000" stop="20250721053300 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250721050000 +0000" stop="20250721053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721053300 +0000" stop="20250721064500 +0000" channel="SCTV.mncvision">
+    <title>Pemuda Kaya Salah Asuhan</title>
 </programme>
-<programme start="20250721053000 +0000" stop="20250721071500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721064500 +0000" stop="20250721082000 +0000" channel="SCTV.mncvision">
+    <title>Bantu Jual Ikan Get Love Free</title>
 </programme>
-<programme start="20250721071500 +0000" stop="20250721081500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721082000 +0000" stop="20250721101100 +0000" channel="SCTV.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250721081500 +0000" stop="20250721100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721101100 +0000" stop="20250721120000 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250721100000 +0000" stop="20250721114500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721120000 +0000" stop="20250721153000 +0000" channel="SCTV.mncvision">
+    <title>ASEAN U-23 Mandiri Cup &#039;25 (L)</title>
 </programme>
-<programme start="20250721114500 +0000" stop="20250721140000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250721140000 +0000" stop="20250721160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="SCTV.mncvision">
+    <title>Serigala Terakhir</title>
 </programme>
 <programme start="20250720180000 +0000" stop="20250720190000 +0000" channel="SCTV HD.mncvision">
     <title>FTV Utama</title>
@@ -7610,50 +7978,44 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250720201500 +0000" stop="20250720210000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250720210000 +0000" stop="20250720213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250720210000 +0000" stop="20250720212400 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250720213000 +0000" stop="20250720230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250720212400 +0000" stop="20250720225600 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250720230000 +0000" stop="20250720233000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250720225600 +0000" stop="20250721000000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250720233000 +0000" stop="20250721000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721000000 +0000" stop="20250721013400 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250721000000 +0000" stop="20250721013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721013400 +0000" stop="20250721030400 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250721013000 +0000" stop="20250721030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721030400 +0000" stop="20250721045700 +0000" channel="SCTV HD.mncvision">
+    <title>Miss Biduan I Love You Sekebon</title>
 </programme>
-<programme start="20250721030000 +0000" stop="20250721050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721045700 +0000" stop="20250721053300 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250721050000 +0000" stop="20250721053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721053300 +0000" stop="20250721064500 +0000" channel="SCTV HD.mncvision">
+    <title>Pemuda Kaya Salah Asuhan</title>
 </programme>
-<programme start="20250721053000 +0000" stop="20250721071500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721064500 +0000" stop="20250721082000 +0000" channel="SCTV HD.mncvision">
+    <title>Bantu Jual Ikan Get Love Free</title>
 </programme>
-<programme start="20250721071500 +0000" stop="20250721081500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721082000 +0000" stop="20250721101100 +0000" channel="SCTV HD.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250721081500 +0000" stop="20250721100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721101100 +0000" stop="20250721120000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250721100000 +0000" stop="20250721114500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721120000 +0000" stop="20250721153000 +0000" channel="SCTV HD.mncvision">
+    <title>ASEAN U-23 Mandiri Cup &#039;25 (L)</title>
 </programme>
-<programme start="20250721114500 +0000" stop="20250721140000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250721140000 +0000" stop="20250721160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250721160000 +0000" stop="20250721163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250721153000 +0000" stop="20250721160000 +0000" channel="SCTV HD.mncvision">
+    <title>Serigala Terakhir</title>
 </programme>
 <programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="SEA TODAY.mncvision">
     <title>The New Zealanders</title>

@@ -2683,17 +2683,14 @@
 <programme start="20250721211500 +0000" stop="20250721221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: Saisonrückblick</title>
 </programme>
-<programme start="20250720231500 +0000" stop="20250721011500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250720233000 +0000" stop="20250721013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Fortuna Düsseldorf  - 1. FC Nürnberg, tipico Topspiel der Woche, 31. Spieltag</title>
 </programme>
-<programme start="20250721011500 +0000" stop="20250721014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250721013000 +0000" stop="20250721020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: KOE - REG, 32.Spieltag</title>
 </programme>
-<programme start="20250721014500 +0000" stop="20250721034500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250721020000 +0000" stop="20250721040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Hamburger SV - SSV Ulm 1846, tipico Topspiel der Woche, 33. Spieltag</title>
-</programme>
-<programme start="20250721034500 +0000" stop="20250721040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 34. Spieltag</title>
 </programme>
 <programme start="20250721040000 +0000" stop="20250721044000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: FC Bayern München - Saison 24-25</title>
@@ -3103,16 +3100,16 @@
 <programme start="20250721213000 +0000" stop="20250721220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MUN - NEW, 19. Spieltag</title>
 </programme>
-<programme start="20250720223000 +0000" stop="20250721010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250720225500 +0000" stop="20250721004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Finale, Mifel Tennis Open by Telcel Oppo in Los Cabos (MEX), Finale</title>
 </programme>
-<programme start="20250721010000 +0000" stop="20250721013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250721004500 +0000" stop="20250721011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Rom</title>
 </programme>
-<programme start="20250721013000 +0000" stop="20250721040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250721011500 +0000" stop="20250721034500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. M. Cerundolo (ARG) - A. Bublik (KAZ), EFG Swiss Open in Gstaad (SUI), Finale</title>
 </programme>
-<programme start="20250721040000 +0000" stop="20250721063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250721034500 +0000" stop="20250721063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - J. de Jong (NED), Nordea Open in Bastad (SWE), Finale</title>
 </programme>
 <programme start="20250721063000 +0000" stop="20250721090000 +0000" channel="Sky Sport Tennis HD.skyde">
