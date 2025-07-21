@@ -8212,11 +8212,14 @@
     <programme start="20250720160000 +0000" stop="20250720170000 +0000" channel="ABC Australia HD.starhub">
         <title>Alone Australia S3</title>
     </programme>
-    <programme start="20250720170000 +0000" stop="20250720173000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250720170000 +0000" stop="20250720172500 +0000" channel="ABC Australia HD.starhub">
         <title>Loving Gluten Free S1</title>
     </programme>
-    <programme start="20250720173000 +0000" stop="20250720180000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250720172500 +0000" stop="20250720175500 +0000" channel="ABC Australia HD.starhub">
         <title>The Streets Hong Kong S1</title>
+    </programme>
+    <programme start="20250720175500 +0000" stop="20250720180000 +0000" channel="ABC Australia HD.starhub">
+        <title>Blake from Birchip, VIC</title>
     </programme>
     <programme start="20250720180000 +0000" stop="20250720185500 +0000" channel="ABC Australia HD.starhub">
         <title>Landline (2025)</title>
