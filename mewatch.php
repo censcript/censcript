@@ -613,47 +613,53 @@
     <programme start="20250720150000 +0000" stop="20250720163000 +0000" channel="now-80s.mewatch">
         <title>London Calling! Top 20 - EP1</title>
     </programme>
-    <programme start="20250720163000 +0000" stop="20250720170000 +0000" channel="now-80s.mewatch">
-        <title>Night Moves! - EP1</title>
+    <programme start="20250720160000 +0000" stop="20250720170000 +0000" channel="now-80s.mewatch">
+        <title>No.1 Power Ballads Of The 80s - EP1</title>
     </programme>
-    <programme start="20250720170000 +0000" stop="20250720170500 +0000" channel="now-80s.mewatch">
-        <title>Every Number 1 Of The 80s! - EP1</title>
+    <programme start="20250720170000 +0000" stop="20250720191500 +0000" channel="now-80s.mewatch">
+        <title>Fashion Overload! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250720170500 +0000" stop="20250720180000 +0000" channel="now-80s.mewatch">
+    <programme start="20250720191500 +0000" stop="20250720200000 +0000" channel="now-80s.mewatch">
         <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250720180000 +0000" stop="20250720202500 +0000" channel="now-80s.mewatch">
-        <title>Easter&#039;s Biggest Hits: 1980-1989 - EP1</title>
+    <programme start="20250720200000 +0000" stop="20250720220000 +0000" channel="now-80s.mewatch">
+        <title>Gone...But Not Forgotten Top 30 - EP1</title>
     </programme>
-    <programme start="20250720202500 +0000" stop="20250720210000 +0000" channel="now-80s.mewatch">
-        <title>Wow! What A Party! - EP1</title>
+    <programme start="20250720220000 +0000" stop="20250720230000 +0000" channel="now-80s.mewatch">
+        <title>Depeche Mode: 1981-1989 - EP1</title>
     </programme>
-    <programme start="20250720210000 +0000" stop="20250720220000 +0000" channel="now-80s.mewatch">
-        <title>London Calling! Top 20 - EP1</title>
+    <programme start="20250720230000 +0000" stop="20250720234500 +0000" channel="now-80s.mewatch">
+        <title>Elton John In The 80s! - EP1</title>
     </programme>
-    <programme start="20250720220000 +0000" stop="20250721083000 +0000" channel="now-80s.mewatch">
-        <title>Gary Davies: Video Hall Of Fame! - EP1</title>
+    <programme start="20250720234500 +0000" stop="20250721000000 +0000" channel="now-80s.mewatch">
+        <title>Magic Moments! The 80s - EP1</title>
     </programme>
-    <programme start="20250721083000 +0000" stop="20250721090000 +0000" channel="now-80s.mewatch">
-        <title>1985 Unleashed! - EP1</title>
+    <programme start="20250721000000 +0000" stop="20250721010000 +0000" channel="now-80s.mewatch">
+        <title>Simple Minds V Deacon Blue - EP1</title>
     </programme>
-    <programme start="20250721090000 +0000" stop="20250721093000 +0000" channel="now-80s.mewatch">
-        <title>Soundtrack Smashes: 1985 - EP1</title>
+    <programme start="20250721010000 +0000" stop="20250721020000 +0000" channel="now-80s.mewatch">
+        <title>Lionel Richie: 1981-1986 - EP1</title>
     </programme>
-    <programme start="20250721093000 +0000" stop="20250721093500 +0000" channel="now-80s.mewatch">
-        <title>Every Number 1 Of The 80s! - EP1</title>
+    <programme start="20250721020000 +0000" stop="20250721040000 +0000" channel="now-80s.mewatch">
+        <title>Karaoke For Your Kids! Top 25 - EP1</title>
     </programme>
-    <programme start="20250721093500 +0000" stop="20250721103000 +0000" channel="now-80s.mewatch">
-        <title>Wow! What A Party! - EP1</title>
+    <programme start="20250721040000 +0000" stop="20250721063500 +0000" channel="now-80s.mewatch">
+        <title>Start Your Party With A Fizz! - EP1</title>
     </programme>
-    <programme start="20250721103000 +0000" stop="20250721130000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1985 - EP1</title>
+    <programme start="20250721063500 +0000" stop="20250721070000 +0000" channel="now-80s.mewatch">
+        <title>We&#039;re Feelin&#039; 80s All Over! - EP1</title>
     </programme>
-    <programme start="20250721130000 +0000" stop="20250721140000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1985 - EP1</title>
+    <programme start="20250721070000 +0000" stop="20250721113500 +0000" channel="now-80s.mewatch">
+        <title>Dirty Dancing! Top 60 - EP1</title>
     </programme>
-    <programme start="20250721140000 +0000" stop="20250721161000 +0000" channel="now-80s.mewatch">
-        <title>Alternative 80s! With Wayne Hussey - EP1</title>
+    <programme start="20250721113500 +0000" stop="20250721120000 +0000" channel="now-80s.mewatch">
+        <title>1988 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20250721120000 +0000" stop="20250721150000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1988 - EP1</title>
+    </programme>
+    <programme start="20250721150000 +0000" stop="20250721170000 +0000" channel="now-80s.mewatch">
+        <title>Trev &amp; Simon&#039;s Swing Your Pants! - EP1</title>
     </programme>
     <programme start="20250720160000 +0000" stop="20250720174500 +0000" channel="now-70s.mewatch">
         <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
@@ -1075,6 +1081,9 @@
     <programme start="20250721144501 +0000" stop="20250721160001 +0000" channel="WCH CH01.mewatch">
         <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 3.47pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
+    <programme start="20250721160000 +0000" stop="20250722074700 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 3.47pm. World Aquatics Championships - Singapore 2025</title>
+    </programme>
     <programme start="20250720115901 +0000" stop="20250720160001 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 21st July, Monday 1.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
@@ -1091,9 +1100,6 @@
         <title>World Aquatics Championships - Singapore 2025: Artistic Swimming - Women&#039;s Duet Technical Final</title>
     </programme>
     <programme start="20250721114201 +0000" stop="20250721160001 +0000" channel="WCH CH02.mewatch">
-        <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9.52am. World Aquatics Championships - Singapore 2025</title>
-    </programme>
-    <programme start="20250721160000 +0000" stop="20250722015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250720020001 +0000" stop="20250720160001 +0000" channel="WCH CH03.mewatch">
