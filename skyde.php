@@ -3211,9 +3211,6 @@
 <programme start="20250722213000 +0000" stop="20250722220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Icons: David Beckham</title>
 </programme>
-<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
-</programme>
 <programme start="20250722020000 +0000" stop="20250722040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Sakkari (GRE) - K. Boulter (GBR), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
