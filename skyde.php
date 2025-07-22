@@ -3298,7 +3298,7 @@
 <programme start="20250722144000 +0000" stop="20250722150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250722150000 +0000" stop="20250723020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250722150000 +0000" stop="20250723080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
 <programme start="20250721223000 +0000" stop="20250721232000 +0000" channel="SYFY HD.skyde">

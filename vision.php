@@ -631,6 +631,9 @@
 <programme start="20250723114500 +0000" stop="20250723121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250721230000 +0000" stop="20250722010000 +0000" channel="ANTV.vision">
+<title>Lima Harimau Nusantara</title>
+</programme>
 <programme start="20250722010000 +0000" stop="20250722023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -807,6 +810,9 @@
 </programme>
 <programme start="20250721233000 +0000" stop="20250722013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20250722013000 +0000" stop="20250722020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat (L)</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250722005500 +0000" stop="20250722023500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722023500 +0000" stop="20250722041500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722041500 +0000" stop="20250722055000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
