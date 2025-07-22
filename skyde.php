@@ -616,10 +616,10 @@
 <programme start="20250722070000 +0000" stop="20250722071500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722071500 +0000" stop="20250722072500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722071500 +0000" stop="20250722073000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722072500 +0000" stop="20250722074500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722073000 +0000" stop="20250722074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250722074500 +0000" stop="20250722075500 +0000" channel="Cartoonito.skyde">
@@ -634,13 +634,13 @@
 <programme start="20250722082500 +0000" stop="20250722083500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722083500 +0000" stop="20250722085000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722083500 +0000" stop="20250722085500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722085000 +0000" stop="20250722085500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722085500 +0000" stop="20250722090000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250722085500 +0000" stop="20250722090500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722090000 +0000" stop="20250722090500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250722090500 +0000" stop="20250722091500 +0000" channel="Cartoonito.skyde">
@@ -652,10 +652,10 @@
 <programme start="20250722092500 +0000" stop="20250722093000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722093000 +0000" stop="20250722093500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722093000 +0000" stop="20250722094000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722093500 +0000" stop="20250722095500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722094000 +0000" stop="20250722095500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250722095500 +0000" stop="20250722100000 +0000" channel="Cartoonito.skyde">
@@ -691,10 +691,10 @@
 <programme start="20250722113500 +0000" stop="20250722115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722115000 +0000" stop="20250722120500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722115000 +0000" stop="20250722120000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722120500 +0000" stop="20250722122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722120000 +0000" stop="20250722122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250722122000 +0000" stop="20250722123000 +0000" channel="Cartoonito.skyde">
@@ -727,10 +727,10 @@
 <programme start="20250722143000 +0000" stop="20250722143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722143500 +0000" stop="20250722144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722143500 +0000" stop="20250722144000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722144500 +0000" stop="20250722150000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722144000 +0000" stop="20250722150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250722150000 +0000" stop="20250722151000 +0000" channel="Cartoonito.skyde">
@@ -799,10 +799,10 @@
 <programme start="20250722192500 +0000" stop="20250722193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250722193000 +0000" stop="20250722194000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722193000 +0000" stop="20250722193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250722194000 +0000" stop="20250722194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722193500 +0000" stop="20250722194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250722194500 +0000" stop="20250722200000 +0000" channel="Cartoonito.skyde">
@@ -2825,7 +2825,7 @@
     <title>BL: BVB 09 - Stories who we are (Legendär)</title>
 </programme>
 <programme start="20250722154500 +0000" stop="20250722180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel am Tegernsee</title>
+    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel in Rottach-Egern</title>
 </programme>
 <programme start="20250722180000 +0000" stop="20250722184000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia M&#039;gladbach - Saison 24-25</title>
@@ -3229,6 +3229,9 @@
 <programme start="20250722170000 +0000" stop="20250723020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
+<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
+</programme>
 <programme start="20250722020000 +0000" stop="20250722030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Barracuda Championship</title>
 </programme>
@@ -3298,7 +3301,7 @@
 <programme start="20250722144000 +0000" stop="20250722150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250722150000 +0000" stop="20250723080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250722150000 +0000" stop="20250723020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
 <programme start="20250721223000 +0000" stop="20250721232000 +0000" channel="SYFY HD.skyde">
@@ -3544,13 +3547,13 @@
 <programme start="20250722030000 +0000" stop="20250722032000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250722032000 +0000" stop="20250722034000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250722032000 +0000" stop="20250722034500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250722034000 +0000" stop="20250722040500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250722034500 +0000" stop="20250722041000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250722040500 +0000" stop="20250722043500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250722041000 +0000" stop="20250722043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20250722043500 +0000" stop="20250722050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3730,19 +3733,19 @@
 <programme start="20250722063500 +0000" stop="20250722082500 +0000" channel="Warner TV Film HD.skyde">
     <title>Air America</title>
 </programme>
-<programme start="20250722082500 +0000" stop="20250722105000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250722082500 +0000" stop="20250722104500 +0000" channel="Warner TV Film HD.skyde">
     <title>Stoßtrupp Gold</title>
 </programme>
-<programme start="20250722105000 +0000" stop="20250722124000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250722104500 +0000" stop="20250722124000 +0000" channel="Warner TV Film HD.skyde">
     <title>New York Für Anfänger</title>
 </programme>
 <programme start="20250722124000 +0000" stop="20250722144000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Hexen von Eastwick</title>
 </programme>
-<programme start="20250722144000 +0000" stop="20250722162000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250722144000 +0000" stop="20250722161500 +0000" channel="Warner TV Film HD.skyde">
     <title>Grand Budapest Hotel</title>
 </programme>
-<programme start="20250722162000 +0000" stop="20250722181500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250722161500 +0000" stop="20250722181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Das erstaunliche Leben des Walter Mitty</title>
 </programme>
 <programme start="20250722181500 +0000" stop="20250722204000 +0000" channel="Warner TV Film HD.skyde">
@@ -3772,19 +3775,19 @@
 <programme start="20250722024500 +0000" stop="20250722033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250722033000 +0000" stop="20250722042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722033000 +0000" stop="20250722042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250722042500 +0000" stop="20250722051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722042000 +0000" stop="20250722051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722051500 +0000" stop="20250722060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722051000 +0000" stop="20250722060000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722060500 +0000" stop="20250722065500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722060000 +0000" stop="20250722065000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722065500 +0000" stop="20250722074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722065000 +0000" stop="20250722074000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250722074000 +0000" stop="20250722083000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3793,10 +3796,10 @@
 <programme start="20250722083000 +0000" stop="20250722092000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722092000 +0000" stop="20250722101500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722092000 +0000" stop="20250722101000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250722101500 +0000" stop="20250722110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722101000 +0000" stop="20250722110500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250722110500 +0000" stop="20250722115500 +0000" channel="Warner TV Serie HD.skyde">
