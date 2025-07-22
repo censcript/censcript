@@ -2885,7 +2885,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250722003000 +0000" stop="20250722010000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Healing Planet...</title>
 </programme>
 <programme start="20250722010000 +0000" stop="20250722011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2906,10 +2906,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20250722031500 +0000" stop="20250722033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Mapped Out: How Gold...</title>
 </programme>
 <programme start="20250722033000 +0000" stop="20250722040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Nitrous Oxide</title>
 </programme>
 <programme start="20250722040000 +0000" stop="20250722041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2924,16 +2924,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250722053000 +0000" stop="20250722060000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Resourceful...</title>
 </programme>
 <programme start="20250722060000 +0000" stop="20250722061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250722061500 +0000" stop="20250722063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Mapped Out: How Gold...</title>
 </programme>
 <programme start="20250722063000 +0000" stop="20250722070000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Art See Africa</title>
 </programme>
 <programme start="20250722070000 +0000" stop="20250722073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2945,31 +2945,31 @@
     <title>DW News</title>
 </programme>
 <programme start="20250722083000 +0000" stop="20250722090000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Healing Planet...</title>
 </programme>
 <programme start="20250722090000 +0000" stop="20250722091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250722091500 +0000" stop="20250722094500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Nitrous Oxide</title>
 </programme>
 <programme start="20250722094500 +0000" stop="20250722100000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Nun Criticizing...</title>
 </programme>
-<programme start="20250722100000 +0000" stop="20250722103000 +0000" channel="DW English.mncvision">
+<programme start="20250722100000 +0000" stop="20250722101500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
+</programme>
+<programme start="20250722101500 +0000" stop="20250722103000 +0000" channel="DW English.mncvision">
+    <title>Mapped Out: How Gold...</title>
 </programme>
 <programme start="20250722103000 +0000" stop="20250722110000 +0000" channel="DW English.mncvision">
     <title>Tomorrow Today: Science</title>
 </programme>
-<programme start="20250722110000 +0000" stop="20250722113000 +0000" channel="DW English.mncvision">
+<programme start="20250722110000 +0000" stop="20250722110200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20250722113000 +0000" stop="20250722120000 +0000" channel="DW English.mncvision">
-    <title>In Good Shape: How To Lose...</title>
-</programme>
-<programme start="20250722120000 +0000" stop="20250722123000 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
+<programme start="20250722110200 +0000" stop="20250722113200 +0000" channel="DW English.mncvision">
+    <title>REV: Auto &amp; Mobility Show</title>
 </programme>
 <programme start="20250721180000 +0000" stop="20250721190000 +0000" channel="Entertainment.mncvision">
     <title>Lucky Spinner Indonesia</title>

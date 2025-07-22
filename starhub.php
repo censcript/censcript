@@ -3269,16 +3269,16 @@
         <title>News</title>
     </programme>
     <programme start="20250721171500 +0000" stop="20250721173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How gold keeps Sudan at war</title>
     </programme>
     <programme start="20250721173000 +0000" stop="20250721180000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Art.See.Africa: Dakar</title>
     </programme>
     <programme start="20250721180000 +0000" stop="20250721183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250721183000 +0000" stop="20250721190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Nitrous Oxide - No Laughing Matter</title>
     </programme>
     <programme start="20250721190000 +0000" stop="20250721190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3287,7 +3287,7 @@
         <title>Modern African Lifestyle</title>
     </programme>
     <programme start="20250721193000 +0000" stop="20250721200000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>International Society of Waste Management (ISWMAW)</title>
     </programme>
     <programme start="20250721200000 +0000" stop="20250721203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3299,7 +3299,7 @@
         <title>News</title>
     </programme>
     <programme start="20250721210200 +0000" stop="20250721211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How gold keeps Sudan at war</title>
     </programme>
     <programme start="20250721211500 +0000" stop="20250721220000 +0000" channel="DW English HD.starhub">
         <title>Chasing Immortality - Eternal Life with Biohacking?</title>
@@ -3317,10 +3317,10 @@
         <title>News</title>
     </programme>
     <programme start="20250721231500 +0000" stop="20250721233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How gold keeps Sudan at war</title>
     </programme>
     <programme start="20250721233000 +0000" stop="20250722000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Nitrous Oxide - No Laughing Matter</title>
     </programme>
     <programme start="20250722000000 +0000" stop="20250722000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3329,7 +3329,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250722003000 +0000" stop="20250722010000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Healing the planet one step at a time</title>
     </programme>
     <programme start="20250722010000 +0000" stop="20250722011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3350,10 +3350,10 @@
         <title>News</title>
     </programme>
     <programme start="20250722031500 +0000" stop="20250722033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How gold keeps Sudan at war</title>
     </programme>
     <programme start="20250722033000 +0000" stop="20250722040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Nitrous Oxide - No Laughing Matter</title>
     </programme>
     <programme start="20250722040000 +0000" stop="20250722041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3368,16 +3368,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250722053000 +0000" stop="20250722060000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Resourceful solutions to environmental challenges</title>
     </programme>
     <programme start="20250722060000 +0000" stop="20250722061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250722061500 +0000" stop="20250722063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How gold keeps Sudan at war</title>
     </programme>
     <programme start="20250722063000 +0000" stop="20250722070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Art.See.Africa: Dakar</title>
     </programme>
     <programme start="20250722070000 +0000" stop="20250722073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3389,25 +3389,31 @@
         <title>News</title>
     </programme>
     <programme start="20250722083000 +0000" stop="20250722090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Healing the planet one step at a time</title>
     </programme>
     <programme start="20250722090000 +0000" stop="20250722091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250722091500 +0000" stop="20250722094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Nitrous Oxide - No Laughing Matter</title>
     </programme>
     <programme start="20250722094500 +0000" stop="20250722100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The Nun Criticizing Russia&#039;s War</title>
     </programme>
-    <programme start="20250722100000 +0000" stop="20250722103000 +0000" channel="DW English HD.starhub">
+    <programme start="20250722100000 +0000" stop="20250722101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250722101500 +0000" stop="20250722103000 +0000" channel="DW English HD.starhub">
+        <title>How gold keeps Sudan at war</title>
     </programme>
     <programme start="20250722103000 +0000" stop="20250722110000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
     </programme>
-    <programme start="20250722110000 +0000" stop="20250722113000 +0000" channel="DW English HD.starhub">
+    <programme start="20250722110000 +0000" stop="20250722110200 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250722110200 +0000" stop="20250722113000 +0000" channel="DW English HD.starhub">
+        <title>The Global Auto and Mobility Show</title>
     </programme>
     <programme start="20250722113000 +0000" stop="20250722120000 +0000" channel="DW English HD.starhub">
         <title>How to lose weight healthily and long time</title>
@@ -3416,31 +3422,31 @@
         <title>News</title>
     </programme>
     <programme start="20250722121500 +0000" stop="20250722124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Nitrous Oxide - No Laughing Matter</title>
     </programme>
     <programme start="20250722124500 +0000" stop="20250722130000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Is Dr. AI better than a human?</title>
     </programme>
     <programme start="20250722130000 +0000" stop="20250722131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250722131500 +0000" stop="20250722133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>We are science</title>
     </programme>
     <programme start="20250722133000 +0000" stop="20250722140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Resourceful solutions to environmental challenges</title>
     </programme>
     <programme start="20250722140000 +0000" stop="20250722143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>International Society of Waste Management (ISWMAW)</title>
     </programme>
     <programme start="20250722150000 +0000" stop="20250722153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250722153000 +0000" stop="20250722160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Healing the planet one step at a time</title>
     </programme>
     <programme start="20250721160000 +0000" stop="20250721220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

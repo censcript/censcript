@@ -3211,11 +3211,8 @@
 <programme start="20250722213000 +0000" stop="20250722220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Icons: David Beckham</title>
 </programme>
-<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
-</programme>
 <programme start="20250722020000 +0000" stop="20250722040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Sakkari (GRE) - K. Boulter (GBR), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
+    <title>ATP 250: J. Schwaerzler (AUT) - M. Fucsovics (HUN), Generali Open in Kitzbühel (AUT), 1. Tag</title>
 </programme>
 <programme start="20250722040000 +0000" stop="20250722043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3304,7 +3301,7 @@
 <programme start="20250722144000 +0000" stop="20250722150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250722150000 +0000" stop="20250723020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250722150000 +0000" stop="20250723080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
 <programme start="20250721223000 +0000" stop="20250721232000 +0000" channel="SYFY HD.skyde">
