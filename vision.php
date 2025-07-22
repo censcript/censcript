@@ -451,19 +451,16 @@
 <programme start="20250722114500 +0000" stop="20250722130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250722130000 +0000" stop="20250722143000 +0000" channel="Trans TV.vision">
-<title>Jogetin Shaaay</title>
-</programme>
-<programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="Trans TV.vision">
+<programme start="20250722130000 +0000" stop="20250722140000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250722150000 +0000" stop="20250722170000 +0000" channel="Trans TV.vision">
+<programme start="20250722140000 +0000" stop="20250722160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250722170000 +0000" stop="20250722190000 +0000" channel="Trans TV.vision">
+<programme start="20250722160000 +0000" stop="20250722180000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250722190000 +0000" stop="20250722220000 +0000" channel="Trans TV.vision">
+<programme start="20250722180000 +0000" stop="20250722220000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Connected</title>
 </programme>
 <programme start="20250722220000 +0000" stop="20250722233000 +0000" channel="Trans TV.vision">
@@ -522,6 +519,9 @@
 </programme>
 <programme start="20250722050000 +0000" stop="20250722054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
+</programme>
+<programme start="20250722054500 +0000" stop="20250722063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
 </programme>
 <programme start="20250722063000 +0000" stop="20250722071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
@@ -633,9 +633,6 @@
 </programme>
 <programme start="20250722060000 +0000" stop="20250722090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20250722090000 +0000" stop="20250722123000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
 </programme>
 <programme start="20250722123000 +0000" stop="20250722143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250722073000 +0000" stop="20250722090500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250722090500 +0000" stop="20250722103500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
