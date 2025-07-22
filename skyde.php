@@ -3074,7 +3074,7 @@
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20250722154500 +0000" stop="20250722180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel am Tegernsee</title>
+    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel in Rottach-Egern</title>
 </programme>
 <programme start="20250722180000 +0000" stop="20250722183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -3212,7 +3212,7 @@
     <title>PL: Icons: David Beckham</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Generali Open in Kitzbühel (AUT), 1. Tag</title>
+    <title>WTA 500: M. Sakkari (GRE) - K. Boulter (GBR), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722040000 +0000" stop="20250722043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3221,16 +3221,13 @@
     <title>ATP 250: J. M. Cerundolo (ARG) - A. Bublik (KAZ), EFG Swiss Open in Gstaad (SUI), Finale</title>
 </programme>
 <programme start="20250722070000 +0000" stop="20250722090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
+    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722090000 +0000" stop="20250722170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Generali Open in Kitzbühel (AUT), 2. Tag</title>
 </programme>
 <programme start="20250722170000 +0000" stop="20250723020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
-</programme>
-<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Barracuda Championship</title>
@@ -3547,13 +3544,13 @@
 <programme start="20250722030000 +0000" stop="20250722032000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250722032000 +0000" stop="20250722034500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250722032000 +0000" stop="20250722034000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250722034500 +0000" stop="20250722041000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250722034000 +0000" stop="20250722040500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250722041000 +0000" stop="20250722043500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250722040500 +0000" stop="20250722043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20250722043500 +0000" stop="20250722050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3700,19 +3697,19 @@
 <programme start="20250722063500 +0000" stop="20250722082500 +0000" channel="Warner TV Film.skyde">
     <title>Air America</title>
 </programme>
-<programme start="20250722082500 +0000" stop="20250722105000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250722082500 +0000" stop="20250722104500 +0000" channel="Warner TV Film.skyde">
     <title>Stoßtrupp Gold</title>
 </programme>
-<programme start="20250722105000 +0000" stop="20250722124000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250722104500 +0000" stop="20250722124000 +0000" channel="Warner TV Film.skyde">
     <title>New York Für Anfänger</title>
 </programme>
 <programme start="20250722124000 +0000" stop="20250722144000 +0000" channel="Warner TV Film.skyde">
     <title>Die Hexen von Eastwick</title>
 </programme>
-<programme start="20250722144000 +0000" stop="20250722162000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250722144000 +0000" stop="20250722161500 +0000" channel="Warner TV Film.skyde">
     <title>Grand Budapest Hotel</title>
 </programme>
-<programme start="20250722162000 +0000" stop="20250722181500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250722161500 +0000" stop="20250722181500 +0000" channel="Warner TV Film.skyde">
     <title>Das erstaunliche Leben des Walter Mitty</title>
 </programme>
 <programme start="20250722181500 +0000" stop="20250722204000 +0000" channel="Warner TV Film.skyde">
