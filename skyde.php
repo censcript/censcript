@@ -3211,8 +3211,11 @@
 <programme start="20250722213000 +0000" stop="20250722220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Icons: David Beckham</title>
 </programme>
+<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
+</programme>
 <programme start="20250722020000 +0000" stop="20250722040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J. Schwaerzler (AUT) - M. Fucsovics (HUN), Generali Open in Kitzbühel (AUT), 1. Tag</title>
+    <title>WTA 500: M. Sakkari (GRE) - K. Boulter (GBR), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722040000 +0000" stop="20250722043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3228,9 +3231,6 @@
 </programme>
 <programme start="20250722170000 +0000" stop="20250723020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
-</programme>
-<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Barracuda Championship</title>
