@@ -2825,7 +2825,7 @@
     <title>BL: BVB 09 - Stories who we are (Legendär)</title>
 </programme>
 <programme start="20250722154500 +0000" stop="20250722180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel in Rottach-Egern</title>
+    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel am Tegernsee</title>
 </programme>
 <programme start="20250722180000 +0000" stop="20250722184000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Borussia M&#039;gladbach - Saison 24-25</title>
@@ -3074,7 +3074,7 @@
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20250722154500 +0000" stop="20250722180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel in Rottach-Egern</title>
+    <title>Live Testspiel: Borussia M&#039;gladbach - FK Metalist Charkiw, Testspiel am Tegernsee</title>
 </programme>
 <programme start="20250722180000 +0000" stop="20250722183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -3212,7 +3212,7 @@
     <title>PL: Icons: David Beckham</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Sakkari (GRE) - K. Boulter (GBR), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
+    <title>ATP 250: Topspiel, Generali Open in Kitzbühel (AUT), 1. Tag</title>
 </programme>
 <programme start="20250722040000 +0000" stop="20250722043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3221,7 +3221,7 @@
     <title>ATP 250: J. M. Cerundolo (ARG) - A. Bublik (KAZ), EFG Swiss Open in Gstaad (SUI), Finale</title>
 </programme>
 <programme start="20250722070000 +0000" stop="20250722090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
+    <title>ATP 500: Topspiel, Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722090000 +0000" stop="20250722170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Generali Open in Kitzbühel (AUT), 2. Tag</title>
@@ -3298,7 +3298,7 @@
 <programme start="20250722144000 +0000" stop="20250722150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250722150000 +0000" stop="20250723020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250722150000 +0000" stop="20250723080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
 <programme start="20250721223000 +0000" stop="20250721232000 +0000" channel="SYFY HD.skyde">
@@ -3772,19 +3772,19 @@
 <programme start="20250722024500 +0000" stop="20250722033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250722033000 +0000" stop="20250722042000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722033000 +0000" stop="20250722042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250722042000 +0000" stop="20250722051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722042500 +0000" stop="20250722051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722051000 +0000" stop="20250722060000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722051500 +0000" stop="20250722060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722060000 +0000" stop="20250722065000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722060500 +0000" stop="20250722065500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722065000 +0000" stop="20250722074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722065500 +0000" stop="20250722074000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250722074000 +0000" stop="20250722083000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3793,10 +3793,10 @@
 <programme start="20250722083000 +0000" stop="20250722092000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250722092000 +0000" stop="20250722101000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722092000 +0000" stop="20250722101500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250722101000 +0000" stop="20250722110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250722101500 +0000" stop="20250722110500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250722110500 +0000" stop="20250722115500 +0000" channel="Warner TV Serie HD.skyde">
