@@ -1,6 +1,3 @@
-    <programme start="20250722184930 +0000" stop="20250722221000 +0000" channel="Optus Sport 3.optus">
-        <title>UEFA Women&#039;s Championship - England v Italy</title>
-    </programme>
     <programme start="20250723102000 +0000" stop="20250723124000 +0000" channel="Optus Sport 8.optus">
         <title>N/A - Jeonbuk v Gangwon</title>
     </programme>
