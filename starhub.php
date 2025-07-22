@@ -2488,8 +2488,11 @@
     <programme start="20250722043000 +0000" stop="20250722053000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC Main Event 2025 UFC 300: Gaethje vs Holloway</title>
     </programme>
-    <programme start="20250722053000 +0000" stop="20250722100000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250722053000 +0000" stop="20250722093000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Day 1</title>
+    </programme>
+    <programme start="20250722093000 +0000" stop="20250722100000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Season 4, Episode 5 - Manager</title>
     </programme>
     <programme start="20250722100000 +0000" stop="20250722143000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Day 2 Afternoon Session</title>

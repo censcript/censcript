@@ -643,47 +643,41 @@
     <programme start="20250722160000 +0000" stop="20250722170000 +0000" channel="now-80s.mewatch">
         <title>The 1986 Power Hour! - EP1</title>
     </programme>
-    <programme start="20250721160000 +0000" stop="20250721162500 +0000" channel="now-70s.mewatch">
-        <title>Disco Bling! Top 25 - EP1</title>
+    <programme start="20250721160000 +0000" stop="20250721201500 +0000" channel="now-70s.mewatch">
+        <title>Who Won Wot? 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250721162500 +0000" stop="20250721210000 +0000" channel="now-70s.mewatch">
-        <title>NOW 70s Presents Now 60s! - EP1</title>
+    <programme start="20250721201500 +0000" stop="20250721210000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
     </programme>
-    <programme start="20250721210000 +0000" stop="20250722032500 +0000" channel="now-70s.mewatch">
-        <title>Essential 70s - The No 2s - EP1</title>
+    <programme start="20250721210000 +0000" stop="20250721230000 +0000" channel="now-70s.mewatch">
+        <title>Blimey! Wasn&#039;t It Bigger? 1970-79 - EP1</title>
     </programme>
-    <programme start="20250722032500 +0000" stop="20250722040000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20250721230000 +0000" stop="20250722000000 +0000" channel="now-70s.mewatch">
+        <title>Daydreamers: A Whole Day Of Love! - EP1</title>
     </programme>
-    <programme start="20250722040000 +0000" stop="20250722061000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Surely Not A Cover?! - EP1</title>
+    <programme start="20250722000000 +0000" stop="20250722073500 +0000" channel="now-70s.mewatch">
+        <title>Now 100 Hits: Love Songs! - EP1</title>
     </programme>
-    <programme start="20250722061000 +0000" stop="20250722070000 +0000" channel="now-70s.mewatch">
-        <title>70s Love Songs - EP1</title>
+    <programme start="20250722073500 +0000" stop="20250722080000 +0000" channel="now-70s.mewatch">
+        <title>Daydreamers: A Whole Day Of Love! - EP1</title>
     </programme>
-    <programme start="20250722070000 +0000" stop="20250722090000 +0000" channel="now-70s.mewatch">
-        <title>Essentials! 70s Folk Rock - EP1</title>
+    <programme start="20250722080000 +0000" stop="20250722100000 +0000" channel="now-70s.mewatch">
+        <title>Sweet Soul Music! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250722090000 +0000" stop="20250722093000 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Singersongwriters - EP1</title>
+    <programme start="20250722100000 +0000" stop="20250722115000 +0000" channel="now-70s.mewatch">
+        <title>Mike Read&#039;s Pop Quiz: 1979 - EP1</title>
     </programme>
-    <programme start="20250722093000 +0000" stop="20250722095500 +0000" channel="now-70s.mewatch">
-        <title>Disco Bling! Top 25 - EP1</title>
+    <programme start="20250722115000 +0000" stop="20250722130000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250722095500 +0000" stop="20250722103000 +0000" channel="now-70s.mewatch">
-        <title>NOW 70s Presents Now 60s! - EP1</title>
+    <programme start="20250722130000 +0000" stop="20250722155000 +0000" channel="now-70s.mewatch">
+        <title>The Now Yearbook 1978 - EP1</title>
     </programme>
-    <programme start="20250722103000 +0000" stop="20250722120000 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Singersongwriters - EP1</title>
+    <programme start="20250722155000 +0000" stop="20250722160000 +0000" channel="now-70s.mewatch">
+        <title>Help Me Make It Through The Night! - EP1</title>
     </programme>
-    <programme start="20250722120000 +0000" stop="20250722152500 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
-    </programme>
-    <programme start="20250722152500 +0000" stop="20250722160000 +0000" channel="now-70s.mewatch">
-        <title>1976 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20250722160000 +0000" stop="20250722172500 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Singersongwriters - EP1</title>
+    <programme start="20250722160000 +0000" stop="20250722183500 +0000" channel="now-70s.mewatch">
+        <title>Now 100 Hits: Love Songs! - EP1</title>
     </programme>
     <programme start="20250721160000 +0000" stop="20250721220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>

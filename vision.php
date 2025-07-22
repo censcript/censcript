@@ -523,6 +523,9 @@
 <programme start="20250722050000 +0000" stop="20250722054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20250722054500 +0000" stop="20250722063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20250722063000 +0000" stop="20250722071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -630,6 +633,9 @@
 </programme>
 <programme start="20250722010000 +0000" stop="20250722023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
+</programme>
+<programme start="20250722023000 +0000" stop="20250722060000 +0000" channel="ANTV.vision">
+<title>Shakti The Power</title>
 </programme>
 <programme start="20250722060000 +0000" stop="20250722090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250722041500 +0000" stop="20250722055000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722055000 +0000" stop="20250722073000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722073000 +0000" stop="20250722090500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

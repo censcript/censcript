@@ -616,10 +616,10 @@
 <programme start="20250722070000 +0000" stop="20250722071500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722071500 +0000" stop="20250722073000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722071500 +0000" stop="20250722072500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722073000 +0000" stop="20250722074500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722072500 +0000" stop="20250722074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250722074500 +0000" stop="20250722075500 +0000" channel="Cartoonito.skyde">
@@ -634,13 +634,13 @@
 <programme start="20250722082500 +0000" stop="20250722083500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722083500 +0000" stop="20250722085500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722083500 +0000" stop="20250722085000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722085500 +0000" stop="20250722090000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722085000 +0000" stop="20250722085500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250722090000 +0000" stop="20250722090500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722085500 +0000" stop="20250722090500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250722090500 +0000" stop="20250722091500 +0000" channel="Cartoonito.skyde">
@@ -652,10 +652,10 @@
 <programme start="20250722092500 +0000" stop="20250722093000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722093000 +0000" stop="20250722094000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722093000 +0000" stop="20250722093500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722094000 +0000" stop="20250722095500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722093500 +0000" stop="20250722095500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250722095500 +0000" stop="20250722100000 +0000" channel="Cartoonito.skyde">
@@ -691,10 +691,10 @@
 <programme start="20250722113500 +0000" stop="20250722115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722115000 +0000" stop="20250722120000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722115000 +0000" stop="20250722120500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250722120000 +0000" stop="20250722122000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722120500 +0000" stop="20250722122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250722122000 +0000" stop="20250722123000 +0000" channel="Cartoonito.skyde">
@@ -727,10 +727,10 @@
 <programme start="20250722143000 +0000" stop="20250722143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722143500 +0000" stop="20250722144000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722143500 +0000" stop="20250722144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250722144000 +0000" stop="20250722150000 +0000" channel="Cartoonito.skyde">
+<programme start="20250722144500 +0000" stop="20250722150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250722150000 +0000" stop="20250722151000 +0000" channel="Cartoonito.skyde">
@@ -799,10 +799,10 @@
 <programme start="20250722192500 +0000" stop="20250722193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250722193000 +0000" stop="20250722193500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722193000 +0000" stop="20250722194000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250722193500 +0000" stop="20250722194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250722194000 +0000" stop="20250722194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250722194500 +0000" stop="20250722200000 +0000" channel="Cartoonito.skyde">
@@ -3211,9 +3211,6 @@
 <programme start="20250722213000 +0000" stop="20250722220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Icons: David Beckham</title>
 </programme>
-<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
-</programme>
 <programme start="20250722020000 +0000" stop="20250722040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Sakkari (GRE) - K. Boulter (GBR), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
@@ -3231,9 +3228,6 @@
 </programme>
 <programme start="20250722170000 +0000" stop="20250723020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
-</programme>
-<programme start="20250722000000 +0000" stop="20250722020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Daniel Altmaier (GER) - M. Arnaldi (ITA), Mubadala Citi DC Open in Washington D.C. (USA), 1. Tag</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Barracuda Championship</title>
