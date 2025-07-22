@@ -634,9 +634,6 @@
 <programme start="20250722060000 +0000" stop="20250722090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250722090000 +0000" stop="20250722123000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
-</programme>
 <programme start="20250722123000 +0000" stop="20250722143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250722073000 +0000" stop="20250722090500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250722090500 +0000" stop="20250722103500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
