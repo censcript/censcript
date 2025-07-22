@@ -451,16 +451,19 @@
 <programme start="20250722114500 +0000" stop="20250722130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250722130000 +0000" stop="20250722140000 +0000" channel="Trans TV.vision">
+<programme start="20250722130000 +0000" stop="20250722143000 +0000" channel="Trans TV.vision">
+<title>Jogetin Shaaay</title>
+</programme>
+<programme start="20250722143000 +0000" stop="20250722150000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250722140000 +0000" stop="20250722160000 +0000" channel="Trans TV.vision">
+<programme start="20250722150000 +0000" stop="20250722170000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250722160000 +0000" stop="20250722180000 +0000" channel="Trans TV.vision">
+<programme start="20250722170000 +0000" stop="20250722190000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20250722180000 +0000" stop="20250722220000 +0000" channel="Trans TV.vision">
+<programme start="20250722190000 +0000" stop="20250722220000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Connected</title>
 </programme>
 <programme start="20250722220000 +0000" stop="20250722233000 +0000" channel="Trans TV.vision">
@@ -628,11 +631,20 @@
 <programme start="20250723114500 +0000" stop="20250723121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250721230000 +0000" stop="20250722010000 +0000" channel="ANTV.vision">
+<title>Lima Harimau Nusantara</title>
+</programme>
 <programme start="20250722010000 +0000" stop="20250722023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250722023000 +0000" stop="20250722060000 +0000" channel="ANTV.vision">
+<title>Shakti The Power</title>
+</programme>
 <programme start="20250722060000 +0000" stop="20250722090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
+</programme>
+<programme start="20250722090000 +0000" stop="20250722123000 +0000" channel="ANTV.vision">
+<title>Kaho Naa Pyaar Hai</title>
 </programme>
 <programme start="20250722123000 +0000" stop="20250722143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -798,6 +810,9 @@
 </programme>
 <programme start="20250721233000 +0000" stop="20250722013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20250722013000 +0000" stop="20250722020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat (L)</title>
 </programme>
 <programme start="20250722020000 +0000" stop="20250722023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1481,20 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250722005500 +0000" stop="20250722023500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722023500 +0000" stop="20250722041500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722041500 +0000" stop="20250722055000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722055000 +0000" stop="20250722073000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722073000 +0000" stop="20250722090500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250722090500 +0000" stop="20250722103500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

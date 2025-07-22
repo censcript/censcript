@@ -1,4 +1,4 @@
-    <programme start="20250722185000 +0000" stop="20250722221000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250722184930 +0000" stop="20250722221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - England v Italy</title>
     </programme>
     <programme start="20250723102000 +0000" stop="20250723124000 +0000" channel="Optus Sport 8.optus">
@@ -7,7 +7,7 @@
     <programme start="20250723102000 +0000" stop="20250723124000 +0000" channel="Optus Sport 7.optus">
         <title>N/A - Ulsan v Daejeon</title>
     </programme>
-    <programme start="20250723185000 +0000" stop="20250723221000 +0000" channel="Optus Sport 3.optus">
+    <programme start="20250723184930 +0000" stop="20250723221000 +0000" channel="Optus Sport 3.optus">
         <title>UEFA Women&#039;s Championship - Germany v Spain</title>
     </programme>
     <programme start="20250726095000 +0000" stop="20250726121000 +0000" channel="Optus Sport 8.optus">
