@@ -8563,7 +8563,7 @@
     <programme start="20250723141900 +0000" stop="20250723144400 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250723144400 +0000" stop="20250723170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250723144400 +0000" stop="20250723171100 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20250722160000 +0000" stop="20250722163000 +0000" channel="Travelxp HD.starhub">
