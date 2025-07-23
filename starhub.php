@@ -8296,13 +8296,13 @@
     <programme start="20250722133000 +0000" stop="20250722163000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20250722163000 +0000" stop="20250722190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250722164500 +0000" stop="20250722192000 +0000" channel="Asianet Movies.starhub">
         <title>Action Hero Biju</title>
     </programme>
-    <programme start="20250722190000 +0000" stop="20250722220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250722192000 +0000" stop="20250722214000 +0000" channel="Asianet Movies.starhub">
         <title>Iruvattam Manavatty</title>
     </programme>
-    <programme start="20250722220000 +0000" stop="20250722233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250722214000 +0000" stop="20250722233000 +0000" channel="Asianet Movies.starhub">
         <title>Rosapoo</title>
     </programme>
     <programme start="20250722233000 +0000" stop="20250723013000 +0000" channel="Asianet Movies.starhub">
