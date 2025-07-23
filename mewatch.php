@@ -1027,10 +1027,10 @@
     <programme start="20250723160000 +0000" stop="20250724160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250722160000 +0000" stop="20250723113000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.30pm. Singapore Festival of Football 2025</title>
+    <programme start="20250722160000 +0000" stop="20250723112000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.20pm. Singapore Festival of Football 2025</title>
     </programme>
-    <programme start="20250723113000 +0000" stop="20250723133000 +0000" channel="Live 7.mewatch">
+    <programme start="20250723112000 +0000" stop="20250723133000 +0000" channel="Live 7.mewatch">
         <title>Singapore Festival of Football 2025: Arsenal F.C. vs AC Milan</title>
     </programme>
     <programme start="20250723133000 +0000" stop="20250723160000 +0000" channel="Live 7.mewatch">

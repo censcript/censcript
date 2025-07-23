@@ -637,9 +637,6 @@
 <programme start="20250723060000 +0000" stop="20250723090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250723090000 +0000" stop="20250723123000 +0000" channel="ANTV.vision">
-<title>My Name Is Khan</title>
-</programme>
 <programme start="20250723123000 +0000" stop="20250723143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250723054500 +0000" stop="20250723070500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250723070500 +0000" stop="20250723084500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
