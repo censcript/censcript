@@ -1016,10 +1016,10 @@
         <title>No programme available now. Next broadcast on 25th July, Friday 8.30pm. ONE Friday Fights 117</title>
     </programme>
     <programme start="20250722160000 +0000" stop="20250723160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 1</title>
+        <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Philippines</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250724160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 1</title>
+        <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Philippines</title>
     </programme>
     <programme start="20250722160000 +0000" stop="20250723160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
