@@ -4130,10 +4130,10 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250723133000 +0000" stop="20250723150000 +0000" channel="GTV.mncvision">
-    <title>Daddy&#039;s Home</title>
+    <title>Snake 2</title>
 </programme>
 <programme start="20250723150000 +0000" stop="20250723160000 +0000" channel="GTV.mncvision">
-    <title>Blade Of Flame</title>
+    <title>Tai Chi Hero</title>
 </programme>
 <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="GTV.mncvision">
     <title>The One</title>
@@ -4187,10 +4187,10 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250723133000 +0000" stop="20250723150000 +0000" channel="GTV HD.mncvision">
-    <title>Daddy&#039;s Home</title>
+    <title>Snake 2</title>
 </programme>
 <programme start="20250723150000 +0000" stop="20250723160000 +0000" channel="GTV HD.mncvision">
-    <title>Blade Of Flame</title>
+    <title>Tai Chi Hero</title>
 </programme>
 <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="GTV HD.mncvision">
     <title>The One</title>
@@ -7668,108 +7668,6 @@
 </programme>
 <programme start="20250723163000 +0000" stop="20250722170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Bear Grylls: The Wild S1, Ep 10</title>
-</programme>
-<programme start="20250722180000 +0000" stop="20250722190000 +0000" channel="RCTI.mncvision">
-    <title>Badluck Membawa Cinta</title>
-</programme>
-<programme start="20250722190000 +0000" stop="20250722210000 +0000" channel="RCTI.mncvision">
-    <title>Kesempatan Kedua</title>
-</programme>
-<programme start="20250722210000 +0000" stop="20250722230000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun</title>
-</programme>
-<programme start="20250722230000 +0000" stop="20250722234500 +0000" channel="RCTI.mncvision">
-    <title>Barista</title>
-</programme>
-<programme start="20250722234500 +0000" stop="20250723010000 +0000" channel="RCTI.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20250723010000 +0000" stop="20250723013000 +0000" channel="RCTI.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20250723013000 +0000" stop="20250723044500 +0000" channel="RCTI.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20250723044500 +0000" stop="20250723053000 +0000" channel="RCTI.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20250723053000 +0000" stop="20250723073000 +0000" channel="RCTI.mncvision">
-    <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20250723073000 +0000" stop="20250723090000 +0000" channel="RCTI.mncvision">
-    <title>Makhluk Kecil Dalam Botol</title>
-</programme>
-<programme start="20250723090000 +0000" stop="20250723100000 +0000" channel="RCTI.mncvision">
-    <title>Jack Dan Danil</title>
-</programme>
-<programme start="20250723100000 +0000" stop="20250723110000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20250723110000 +0000" stop="20250723121500 +0000" channel="RCTI.mncvision">
-    <title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20250723121500 +0000" stop="20250723133000 +0000" channel="RCTI.mncvision">
-    <title>Tebaran Hati</title>
-</programme>
-<programme start="20250723133000 +0000" stop="20250723150000 +0000" channel="RCTI.mncvision">
-    <title>Mencintaimu Sekali Lagi</title>
-</programme>
-<programme start="20250723150000 +0000" stop="20250723161500 +0000" channel="RCTI.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20250723161500 +0000" stop="20250723164500 +0000" channel="RCTI.mncvision">
-    <title>Penghulu Ganteng Cari Jodoh</title>
-</programme>
-<programme start="20250722180000 +0000" stop="20250722190000 +0000" channel="RCTI HD.mncvision">
-    <title>Badluck Membawa Cinta</title>
-</programme>
-<programme start="20250722190000 +0000" stop="20250722210000 +0000" channel="RCTI HD.mncvision">
-    <title>Kesempatan Kedua</title>
-</programme>
-<programme start="20250722210000 +0000" stop="20250722230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun</title>
-</programme>
-<programme start="20250722230000 +0000" stop="20250722234500 +0000" channel="RCTI HD.mncvision">
-    <title>Barista</title>
-</programme>
-<programme start="20250722234500 +0000" stop="20250723010000 +0000" channel="RCTI HD.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20250723010000 +0000" stop="20250723013000 +0000" channel="RCTI HD.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20250723013000 +0000" stop="20250723044500 +0000" channel="RCTI HD.mncvision">
-    <title>Doraemon Series</title>
-</programme>
-<programme start="20250723044500 +0000" stop="20250723053000 +0000" channel="RCTI HD.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20250723053000 +0000" stop="20250723073000 +0000" channel="RCTI HD.mncvision">
-    <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20250723073000 +0000" stop="20250723090000 +0000" channel="RCTI HD.mncvision">
-    <title>Makhluk Kecil Dalam Botol</title>
-</programme>
-<programme start="20250723090000 +0000" stop="20250723100000 +0000" channel="RCTI HD.mncvision">
-    <title>Jack Dan Danil</title>
-</programme>
-<programme start="20250723100000 +0000" stop="20250723110000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20250723110000 +0000" stop="20250723121500 +0000" channel="RCTI HD.mncvision">
-    <title>Terbelenggu Rindu</title>
-</programme>
-<programme start="20250723121500 +0000" stop="20250723133000 +0000" channel="RCTI HD.mncvision">
-    <title>Tebaran Hati</title>
-</programme>
-<programme start="20250723133000 +0000" stop="20250723150000 +0000" channel="RCTI HD.mncvision">
-    <title>Mencintaimu Sekali Lagi</title>
-</programme>
-<programme start="20250723150000 +0000" stop="20250723161500 +0000" channel="RCTI HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20250723161500 +0000" stop="20250723164500 +0000" channel="RCTI HD.mncvision">
-    <title>Penghulu Ganteng Cari Jodoh</title>
 </programme>
 <programme start="20250722182000 +0000" stop="20250722201000 +0000" channel="Rock Action.mncvision">
     <title>Tears Of The Sun</title>
