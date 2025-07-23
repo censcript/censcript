@@ -8383,62 +8383,62 @@
     <programme start="20250723230000 +0000" stop="20250724010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20250724010000 +0000" stop="20250724020000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724010000 +0000" stop="20250724020500 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20250724020000 +0000" stop="20250724030000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724020500 +0000" stop="20250724030900 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20250724030000 +0000" stop="20250724033000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724030900 +0000" stop="20250724033400 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20250724033000 +0000" stop="20250724040000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724033400 +0000" stop="20250724040000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250724040000 +0000" stop="20250724043000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724040000 +0000" stop="20250724042700 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
     </programme>
-    <programme start="20250724043000 +0000" stop="20250724060000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724042700 +0000" stop="20250724060900 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20250724060000 +0000" stop="20250724063000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724060900 +0000" stop="20250724063400 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
-    <programme start="20250724063000 +0000" stop="20250724070000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724063400 +0000" stop="20250724070100 +0000" channel="Dragon TV.starhub">
         <title>I LOVE SHANGHAI</title>
     </programme>
-    <programme start="20250724070000 +0000" stop="20250724090000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724070100 +0000" stop="20250724084400 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20250724090000 +0000" stop="20250724093500 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724084400 +0000" stop="20250724090900 +0000" channel="Dragon TV.starhub">
+        <title>Searching for flavor</title>
+    </programme>
+    <programme start="20250724090900 +0000" stop="20250724093400 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20250724093500 +0000" stop="20250724100000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724093400 +0000" stop="20250724100000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724100000 +0000" stop="20250724105800 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20250724110000 +0000" stop="20250724114000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724105800 +0000" stop="20250724114800 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
-    <programme start="20250724114000 +0000" stop="20250724120000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724114800 +0000" stop="20250724121300 +0000" channel="Dragon TV.starhub">
         <title>I LOVE SHANGHAI</title>
     </programme>
-    <programme start="20250724120000 +0000" stop="20250724140000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724121300 +0000" stop="20250724142700 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20250724140000 +0000" stop="20250724150000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724142700 +0000" stop="20250724151800 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20250724150000 +0000" stop="20250724153000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724151800 +0000" stop="20250724154300 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20250724153000 +0000" stop="20250724155500 +0000" channel="Dragon TV.starhub">
+    <programme start="20250724154300 +0000" stop="20250724160800 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
-    </programme>
-    <programme start="20250724155500 +0000" stop="20250724170000 +0000" channel="Dragon TV.starhub">
-        <title>Cheer up!small shops</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="Travelxp HD.starhub">
         <title>Nazareth, Israel</title>

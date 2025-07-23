@@ -3784,6 +3784,42 @@
 <programme start="20250723215500 +0000" stop="20250723222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
+<programme start="20250722224000 +0000" stop="20250723003500 +0000" channel="Warner TV Film.skyde">
+    <title>The Shining</title>
+</programme>
+<programme start="20250723003500 +0000" stop="20250723020500 +0000" channel="Warner TV Film.skyde">
+    <title>Marihuana</title>
+</programme>
+<programme start="20250723020500 +0000" stop="20250723040000 +0000" channel="Warner TV Film.skyde">
+    <title>1917</title>
+</programme>
+<programme start="20250723040000 +0000" stop="20250723053000 +0000" channel="Warner TV Film.skyde">
+    <title>Liebling, laß das Lügen</title>
+</programme>
+<programme start="20250723053000 +0000" stop="20250723055500 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Peter Fonda</title>
+</programme>
+<programme start="20250723055500 +0000" stop="20250723073000 +0000" channel="Warner TV Film.skyde">
+    <title>Is&#039; was Sheriff</title>
+</programme>
+<programme start="20250723073000 +0000" stop="20250723110000 +0000" channel="Warner TV Film.skyde">
+    <title>Ben-Hur</title>
+</programme>
+<programme start="20250723110000 +0000" stop="20250723140000 +0000" channel="Warner TV Film.skyde">
+    <title>Meuterei auf der Bounty</title>
+</programme>
+<programme start="20250723140000 +0000" stop="20250723155000 +0000" channel="Warner TV Film.skyde">
+    <title>1917</title>
+</programme>
+<programme start="20250723155000 +0000" stop="20250723181500 +0000" channel="Warner TV Film.skyde">
+    <title>Gefährten</title>
+</programme>
+<programme start="20250723181500 +0000" stop="20250723201000 +0000" channel="Warner TV Film.skyde">
+    <title>I, Robot</title>
+</programme>
+<programme start="20250723201000 +0000" stop="20250723222500 +0000" channel="Warner TV Film.skyde">
+    <title>Battleship</title>
+</programme>
 <programme start="20250722224000 +0000" stop="20250723003500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Shining</title>
 </programme>
