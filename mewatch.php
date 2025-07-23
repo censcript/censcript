@@ -1022,10 +1022,10 @@
         <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 1</title>
     </programme>
     <programme start="20250722160000 +0000" stop="20250723160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 2</title>
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250724160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 2</title>
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250722160000 +0000" stop="20250723113000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.30pm. Singapore Festival of Football 2025</title>
