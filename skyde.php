@@ -3289,14 +3289,14 @@
 <programme start="20250723213000 +0000" stop="20250723220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Liverpool Classic Match: Newcastle United - FC Liverpool (2018/2019)</title>
 </programme>
-<programme start="20250723020000 +0000" stop="20250723040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Generali Open in Kitzbühel (AUT), 2. Tag</title>
+<programme start="20250723020000 +0000" stop="20250723030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: S. Ofner (AUT) - J.-L. Struff (GER), Generali Open in Kitzbühel (AUT), 2. Tag</title>
 </programme>
 <programme start="20250723040000 +0000" stop="20250723063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - J. de Jong (NED), Nordea Open in Bastad (SWE), Finale</title>
 </programme>
 <programme start="20250723063000 +0000" stop="20250723083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
+    <title>WTA 500: T. Maria (GER) - T. Townsend (USA), Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
 <programme start="20250723083000 +0000" stop="20250723090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3335,7 +3335,7 @@
     <title>BL: FC Bayern München - Saison 24-25</title>
 </programme>
 <programme start="20250723082000 +0000" stop="20250723102000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Topspiel, Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
+    <title>WTA 500: T. Maria (GER) - T. Townsend (USA), Mubadala Citi DC Open in Washington D.C. (USA), 2. Tag</title>
 </programme>
 <programme start="20250723102000 +0000" stop="20250723112500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Highlights: Delfi Rally Estonia</title>
@@ -3391,7 +3391,7 @@
 <programme start="20250723144000 +0000" stop="20250723150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250723150000 +0000" stop="20250724020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250723150000 +0000" stop="20250724080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 3. Tag</title>
 </programme>
 <programme start="20250722223000 +0000" stop="20250722231500 +0000" channel="SYFY HD.skyde">

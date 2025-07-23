@@ -1066,8 +1066,168 @@
 <programme start="20250723163000 +0000" stop="20250722170000 +0000" channel="BBC World News.mncvision">
     <title>Focus On Africa</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250722180000 +0000" stop="20250722181000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250722181000 +0000" stop="20250722182000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250722182000 +0000" stop="20250722185000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20250722185000 +0000" stop="20250722210000 +0000" channel="beIN Sports 1.mncvision">
+    <title>WAFCON 2024 (L)</title>
+</programme>
+<programme start="20250722210000 +0000" stop="20250722213000 +0000" channel="beIN Sports 1.mncvision">
+    <title>GP Confidential 2025, Ep 13</title>
+</programme>
+<programme start="20250722213000 +0000" stop="20250722223000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA World Rally C&#039;ship HL 2025</title>
+</programme>
+<programme start="20250722223000 +0000" stop="20250722230000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match UCL: CLU Vs JUV</title>
+</programme>
+<programme start="20250722230000 +0000" stop="20250722233000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match UCL: LIV Vs LIL</title>
+</programme>
+<programme start="20250722233000 +0000" stop="20250723000000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match UEL: TOT Vs SGE</title>
+</programme>
+<programme start="20250723000000 +0000" stop="20250723003000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match UEL: ATH Vs RAN</title>
+</programme>
+<programme start="20250723003000 +0000" stop="20250723021500 +0000" channel="beIN Sports 1.mncvision">
+    <title>UYL 2024/25: AVL Vs BAR</title>
+</programme>
+<programme start="20250723021500 +0000" stop="20250723042000 +0000" channel="beIN Sports 1.mncvision">
+    <title>U-17 AFCON 2025: CIV Vs BFA</title>
+</programme>
+<programme start="20250723042000 +0000" stop="20250723061000 +0000" channel="beIN Sports 1.mncvision">
+    <title>UECL 2024/25: HJK Vs DIM</title>
+</programme>
+<programme start="20250723061000 +0000" stop="20250723070000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Formula Regional European Race</title>
+</programme>
+<programme start="20250723070000 +0000" stop="20250723075000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Formula Regional European Race</title>
+</programme>
+<programme start="20250723075000 +0000" stop="20250723080000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250723080000 +0000" stop="20250723100000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Classic: LIV Vs BOU</title>
+</programme>
+<programme start="20250723100000 +0000" stop="20250723103000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFC Trending 2024/25, Ep 47</title>
+</programme>
+<programme start="20250723103000 +0000" stop="20250723110000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Specials 2024/25</title>
+</programme>
+<programme start="20250723110000 +0000" stop="20250723113000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Porsche Carrera Cup Germany HL</title>
+</programme>
+<programme start="20250723113000 +0000" stop="20250723120000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FastZone 2025, Ep 15</title>
+</programme>
+<programme start="20250723120000 +0000" stop="20250723130000 +0000" channel="beIN Sports 1.mncvision">
+    <title>DTM Highlights 2025: Norisring</title>
+</programme>
+<programme start="20250723130000 +0000" stop="20250723140000 +0000" channel="beIN Sports 1.mncvision">
+    <title>SailGP S5 HL: Portsmouth</title>
+</programme>
+<programme start="20250723140000 +0000" stop="20250723150000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Ferrari Challenge Europe Race</title>
+</programme>
+<programme start="20250723150000 +0000" stop="20250723160000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Ferrari Challenge Europe Race</title>
+</programme>
+<programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FastZone 2025, Ep 15</title>
+</programme>
+<programme start="20250723163000 +0000" stop="20250722170000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20250722180000 +0000" stop="20250722181000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250722181000 +0000" stop="20250722182000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250722182000 +0000" stop="20250722185000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20250722185000 +0000" stop="20250722210000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>WAFCON 2024 (L)</title>
+</programme>
+<programme start="20250722210000 +0000" stop="20250722213000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 13</title>
+</programme>
+<programme start="20250722213000 +0000" stop="20250722223000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally C&#039;ship HL 2025</title>
+</programme>
+<programme start="20250722223000 +0000" stop="20250722230000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UCL: CLU Vs JUV</title>
+</programme>
+<programme start="20250722230000 +0000" stop="20250722233000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UCL: LIV Vs LIL</title>
+</programme>
+<programme start="20250722233000 +0000" stop="20250723000000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UEL: TOT Vs SGE</title>
+</programme>
+<programme start="20250723000000 +0000" stop="20250723003000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match UEL: ATH Vs RAN</title>
+</programme>
+<programme start="20250723003000 +0000" stop="20250723021500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UYL 2024/25: AVL Vs BAR</title>
+</programme>
+<programme start="20250723021500 +0000" stop="20250723042000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>U-17 AFCON 2025: CIV Vs BFA</title>
+</programme>
+<programme start="20250723042000 +0000" stop="20250723061000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UECL 2024/25: HJK Vs DIM</title>
+</programme>
+<programme start="20250723061000 +0000" stop="20250723070000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Formula Regional European Race</title>
+</programme>
+<programme start="20250723070000 +0000" stop="20250723075000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Formula Regional European Race</title>
+</programme>
+<programme start="20250723075000 +0000" stop="20250723080000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20250723080000 +0000" stop="20250723100000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Classic: LIV Vs BOU</title>
+</programme>
+<programme start="20250723100000 +0000" stop="20250723103000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2024/25, Ep 47</title>
+</programme>
+<programme start="20250723103000 +0000" stop="20250723110000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Specials 2024/25</title>
+</programme>
+<programme start="20250723110000 +0000" stop="20250723113000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Porsche Carrera Cup Germany HL</title>
+</programme>
+<programme start="20250723113000 +0000" stop="20250723120000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 15</title>
+</programme>
+<programme start="20250723120000 +0000" stop="20250723130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>DTM Highlights 2025: Norisring</title>
+</programme>
+<programme start="20250723130000 +0000" stop="20250723140000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>SailGP S5 HL: Portsmouth</title>
+</programme>
+<programme start="20250723140000 +0000" stop="20250723150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Ferrari Challenge Europe Race</title>
+</programme>
+<programme start="20250723150000 +0000" stop="20250723160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Ferrari Challenge Europe Race</title>
+</programme>
+<programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 15</title>
+</programme>
+<programme start="20250723163000 +0000" stop="20250722170000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Motorsport Events HL 2025</title>
+</programme>
 <programme start="20250722183000 +0000" stop="20250722220000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500: Washington (L)</title>
 </programme>
@@ -3921,7 +4081,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="Global Trekker HD.mncvision">
     <title>JLo: Triple Threat</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250722170000 +0000" stop="20250722180000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Malam</title>
+</programme>
+<programme start="20250722180000 +0000" stop="20250722190000 +0000" channel="GTV.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250722190000 +0000" stop="20250722210000 +0000" channel="GTV.mncvision">
+    <title>Crime.KV</title>
+</programme>
+<programme start="20250722210000 +0000" stop="20250722223000 +0000" channel="GTV.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250722223000 +0000" stop="20250722233000 +0000" channel="GTV.mncvision">
+    <title>Warbiasak</title>
+</programme>
+<programme start="20250722233000 +0000" stop="20250723003000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20250723003000 +0000" stop="20250723013000 +0000" channel="GTV.mncvision">
+    <title>Ini Faktanya</title>
+</programme>
+<programme start="20250723013000 +0000" stop="20250723023000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebirtis</title>
+</programme>
+<programme start="20250723023000 +0000" stop="20250723040000 +0000" channel="GTV.mncvision">
+    <title>Hot Spot Viral</title>
+</programme>
+<programme start="20250723040000 +0000" stop="20250723050000 +0000" channel="GTV.mncvision">
+    <title>Kuliner Nusantara</title>
+</programme>
+<programme start="20250723050000 +0000" stop="20250723080000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250723080000 +0000" stop="20250723090000 +0000" channel="GTV.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250723090000 +0000" stop="20250723110000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250723110000 +0000" stop="20250723113000 +0000" channel="GTV.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250723113000 +0000" stop="20250723123000 +0000" channel="GTV.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20250723123000 +0000" stop="20250723133000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250723133000 +0000" stop="20250723150000 +0000" channel="GTV.mncvision">
+    <title>Daddy&#039;s Home</title>
+</programme>
+<programme start="20250723150000 +0000" stop="20250723160000 +0000" channel="GTV.mncvision">
+    <title>Blade Of Flame</title>
+</programme>
+<programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="GTV.mncvision">
+    <title>The One</title>
+</programme>
 <programme start="20250722170000 +0000" stop="20250722180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
 </programme>
@@ -8218,9 +8434,132 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250723153000 +0000" stop="20250723160000 +0000" channel="Sportstars.mncvision">
     <title>Volleyball Nations League Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250722170000 +0000" stop="20250722190000 +0000" channel="Sportstars 2.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250722190000 +0000" stop="20250722210000 +0000" channel="Sportstars 2.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250722210000 +0000" stop="20250722233000 +0000" channel="Sportstars 2.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250722233000 +0000" stop="20250723000000 +0000" channel="Sportstars 2.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250723000000 +0000" stop="20250723003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250723003000 +0000" stop="20250723023000 +0000" channel="Sportstars 2.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250723023000 +0000" stop="20250723030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250723030000 +0000" stop="20250723033000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250723033000 +0000" stop="20250723050000 +0000" channel="Sportstars 2.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250723050000 +0000" stop="20250723073000 +0000" channel="Sportstars 2.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250723073000 +0000" stop="20250723103000 +0000" channel="Sportstars 2.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250723103000 +0000" stop="20250723130000 +0000" channel="Sportstars 2.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250723130000 +0000" stop="20250723150000 +0000" channel="Sportstars 2.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250723150000 +0000" stop="20250723153000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250723153000 +0000" stop="20250723160000 +0000" channel="Sportstars 2.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250722170000 +0000" stop="20250722190000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250722190000 +0000" stop="20250722210000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250722210000 +0000" stop="20250722233000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250722233000 +0000" stop="20250723000000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20250723000000 +0000" stop="20250723003000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250723003000 +0000" stop="20250723023000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250723023000 +0000" stop="20250723030000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250723030000 +0000" stop="20250723033000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250723033000 +0000" stop="20250723050000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250723050000 +0000" stop="20250723073000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250723073000 +0000" stop="20250723103000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250723103000 +0000" stop="20250723130000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Kapal Api Indonesia Open 2025</title>
+</programme>
+<programme start="20250723130000 +0000" stop="20250723150000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250723150000 +0000" stop="20250723153000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>World Classic League</title>
+</programme>
+<programme start="20250723153000 +0000" stop="20250723160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250722170000 +0000" stop="20250722190000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2: BJN Vs RNS</title>
+</programme>
+<programme start="20250722190000 +0000" stop="20250722210000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1: MLT Vs PSS</title>
+</programme>
+<programme start="20250722210000 +0000" stop="20250722230000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250722230000 +0000" stop="20250723010000 +0000" channel="Sportstars 3.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250723010000 +0000" stop="20250723030000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2: BJN Vs RNS</title>
+</programme>
+<programme start="20250723030000 +0000" stop="20250723050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1: MLT Vs PSS</title>
+</programme>
+<programme start="20250723050000 +0000" stop="20250723070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250723070000 +0000" stop="20250723090000 +0000" channel="Sportstars 3.mncvision">
+    <title>Liga 2: DTS Vs BJN</title>
+</programme>
+<programme start="20250723090000 +0000" stop="20250723110000 +0000" channel="Sportstars 3.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250723110000 +0000" stop="20250723130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1: MLT Vs AFC</title>
+</programme>
+<programme start="20250723130000 +0000" stop="20250723150000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250723150000 +0000" stop="20250723153000 +0000" channel="Sportstars 3.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
 <programme start="20250722170000 +0000" stop="20250722190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Liga 2: BJN Vs RNS</title>
 </programme>
