@@ -646,6 +646,9 @@
 <programme start="20250724060000 +0000" stop="20250724090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
+<programme start="20250724090000 +0000" stop="20250724123000 +0000" channel="ANTV.vision">
+<title>Prem Ratan Dhan Payo</title>
+</programme>
 <programme start="20250724123000 +0000" stop="20250724143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250724021500 +0000" stop="20250724035000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250724035000 +0000" stop="20250724054000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
