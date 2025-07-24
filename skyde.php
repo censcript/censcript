@@ -2936,28 +2936,28 @@
     <title>Info: UHD</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Test BL01</title>
+    <title>Bundesliga 01</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Test BL02</title>
+    <title>Bundesliga 02</title>
 </programme>
 <programme start="20250724080000 +0000" stop="20250724082000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>TEST BL03: Fußball: Bundesliga TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
+    <title>BL: TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>Test BL03</title>
+    <title>Bundesliga 03</title>
 </programme>
 <programme start="20250724200000 +0000" stop="20250724202000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>TEST BL03: Fußball: Bundesliga TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
+    <title>BL: TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
 </programme>
 <programme start="20250724080000 +0000" stop="20250724082000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Test BL04: Fußball: Bundesliga RB Leipzig - VfB Stuttgart, 34. Spieltag</title>
+    <title>BL: RB Leipzig - VfB Stuttgart, 34. Spieltag</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Test BL04</title>
+    <title>Bundesliga 04</title>
 </programme>
 <programme start="20250724200000 +0000" stop="20250724202000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Test BL04: Fußball: Bundesliga RB Leipzig - VfB Stuttgart, 34. Spieltag</title>
+    <title>BL: RB Leipzig - VfB Stuttgart, 34. Spieltag</title>
 </programme>
 <programme start="20250724080000 +0000" stop="20250724082000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Test BL05 Fußball: Bundesliga 1. FC Heidenheim - Werder Bremen, 34. Spieltag</title>
@@ -2972,16 +2972,16 @@
     <title>Test BL06</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
-    <title>Bundesliga 07</title>
+    <title>Test BL07</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Test BL08</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
-    <title>Test BL09</title>
+    <title>Bundesliga 09</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
-    <title>Test BL10</title>
+    <title>Bundesliga 10</title>
 </programme>
 <programme start="20250723220000 +0000" stop="20250723230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP China</title>
@@ -3365,12 +3365,12 @@
     <title>PL: Tottenham Hotspur - FC Chelsea, Match of the Week, 15. Spieltag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Sport 01</title>
+    <title>Test Sport 01</title>
 </programme>
 <programme start="20250724164000 +0000" stop="20250724170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250724170000 +0000" stop="20250725020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250724170000 +0000" stop="20250725080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3383,22 +3383,22 @@
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Sport 03</title>
+    <title>Test Sport 03</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Sport 04</title>
+    <title>Test Sport 04</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Test Sport 05</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Sport 06</title>
+    <title>Test Sport 06</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Sport 07</title>
+    <title>Test Sport 07</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Sport 08</title>
+    <title>Test Sport 08</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Test Sport 09</title>

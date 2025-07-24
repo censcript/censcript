@@ -8777,7 +8777,7 @@
     <title>WTT United States Smash</title>
 </programme>
 <programme start="20250724133000 +0000" stop="20250724160000 +0000" channel="SPOTV 2.mncvision">
-    <title>SailGP: Rolex Great Britain</title>
+    <title>SailGP: Rolex Great Britain HL</title>
 </programme>
 <programme start="20250724160000 +0000" stop="20250724163000 +0000" channel="SPOTV 2.mncvision">
     <title>NTI Townsville 500</title>
@@ -8810,7 +8810,7 @@
     <title>WTT United States Smash</title>
 </programme>
 <programme start="20250724133000 +0000" stop="20250724160000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SailGP: Rolex Great Britain</title>
+    <title>SailGP: Rolex Great Britain HL</title>
 </programme>
 <programme start="20250724160000 +0000" stop="20250724163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>NTI Townsville 500</title>

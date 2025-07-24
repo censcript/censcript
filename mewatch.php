@@ -955,85 +955,88 @@
     <programme start="20250723150001 +0000" stop="20250723160001 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 24th July, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250723160001 +0000" stop="20250724110001 +0000" channel="Live 1.mewatch">
+    <programme start="20250723160000 +0000" stop="20250724110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 24th July, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20250724110001 +0000" stop="20250724111401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724110000 +0000" stop="20250724111400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Nature&#039;s Farm® Krill Oil 180s</title>
     </programme>
-    <programme start="20250724111401 +0000" stop="20250724111601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724111400 +0000" stop="20250724111600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Vac Pac Go</title>
     </programme>
-    <programme start="20250724111601 +0000" stop="20250724113001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724111600 +0000" stop="20250724113000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Kale Powder</title>
     </programme>
-    <programme start="20250724113001 +0000" stop="20250724114401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724113000 +0000" stop="20250724114400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Thermos Shuttle Chef Thermal Cooker</title>
     </programme>
-    <programme start="20250724114401 +0000" stop="20250724114601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724114400 +0000" stop="20250724114600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
     </programme>
-    <programme start="20250724114601 +0000" stop="20250724120001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724114600 +0000" stop="20250724120000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Thomson Probiotic</title>
     </programme>
-    <programme start="20250724120001 +0000" stop="20250724121401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724120000 +0000" stop="20250724121400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Dr Wu</title>
     </programme>
-    <programme start="20250724121401 +0000" stop="20250724121601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724121400 +0000" stop="20250724121600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
     </programme>
-    <programme start="20250724121601 +0000" stop="20250724123001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724121600 +0000" stop="20250724123000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Wolfberry Goji</title>
     </programme>
-    <programme start="20250724123001 +0000" stop="20250724123701 +0000" channel="Live 1.mewatch">
+    <programme start="20250724123000 +0000" stop="20250724123700 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Ultimo Kleen 5-in-1 Laundry Pods</title>
     </programme>
-    <programme start="20250724123701 +0000" stop="20250724124401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724123700 +0000" stop="20250724124400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Derm Derm Herbal Toothpaste Propolis</title>
     </programme>
-    <programme start="20250724124401 +0000" stop="20250724124601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724124400 +0000" stop="20250724124600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
     </programme>
-    <programme start="20250724124601 +0000" stop="20250724130001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724124600 +0000" stop="20250724130000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Nutripack Snow Fungus</title>
     </programme>
-    <programme start="20250724130001 +0000" stop="20250724131401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724130000 +0000" stop="20250724131400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - HQ Ling Zhi</title>
     </programme>
-    <programme start="20250724131401 +0000" stop="20250724131601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724131400 +0000" stop="20250724131600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
     </programme>
-    <programme start="20250724131601 +0000" stop="20250724133001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724131600 +0000" stop="20250724133000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - PHS HAIRSCIENCE HOM/FEM Anti-Hair Loss Bundle</title>
     </programme>
-    <programme start="20250724133001 +0000" stop="20250724134401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724133000 +0000" stop="20250724134400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Omron Knee TENS</title>
     </programme>
-    <programme start="20250724134401 +0000" stop="20250724134601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724134400 +0000" stop="20250724134600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
     </programme>
-    <programme start="20250724134601 +0000" stop="20250724140001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724134600 +0000" stop="20250724140000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Beauty One Shakura</title>
     </programme>
-    <programme start="20250724140001 +0000" stop="20250724141401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724140000 +0000" stop="20250724141400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Health+ Dampness &amp; Blood supplement</title>
     </programme>
-    <programme start="20250724141401 +0000" stop="20250724141601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724141400 +0000" stop="20250724141600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
     </programme>
-    <programme start="20250724141601 +0000" stop="20250724143001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724141600 +0000" stop="20250724143000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - [24 Bottles] Kinohimitsu Bird&#039;s Nest Red Dates &amp; Wolfberry + Bird&#039;s Nest Chinese Ginseng</title>
     </programme>
-    <programme start="20250724143001 +0000" stop="20250724144401 +0000" channel="Live 1.mewatch">
+    <programme start="20250724143000 +0000" stop="20250724144400 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - La Gourmet Healthy Electrical Pressure Cooker 4L with Crystalline Air Fryer 4L Bundle</title>
     </programme>
-    <programme start="20250724144401 +0000" stop="20250724144601 +0000" channel="Live 1.mewatch">
+    <programme start="20250724144400 +0000" stop="20250724144600 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Zoom Vision</title>
     </programme>
-    <programme start="20250724144601 +0000" stop="20250724150001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724144600 +0000" stop="20250724150000 +0000" channel="Live 1.mewatch">
         <title>The Wonder Shop (Home Shopping) - Mobot Opula Lite 4 Wheels Mobility Scooter</title>
     </programme>
-    <programme start="20250724150001 +0000" stop="20250724160001 +0000" channel="Live 1.mewatch">
+    <programme start="20250724150000 +0000" stop="20250724160000 +0000" channel="Live 1.mewatch">
+        <title>No programme available now. Next broadcast on 25th July, Friday 7pm. The Wonder Shop Home Shopping</title>
+    </programme>
+    <programme start="20250724160000 +0000" stop="20250725110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 25th July, Friday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250724160000 +0000" channel="Live 2.mewatch">
