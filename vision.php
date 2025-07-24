@@ -646,8 +646,17 @@
 <programme start="20250724060000 +0000" stop="20250724090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
+<programme start="20250724090000 +0000" stop="20250724123000 +0000" channel="ANTV.vision">
+<title>Prem Ratan Dhan Payo</title>
+</programme>
 <programme start="20250724123000 +0000" stop="20250724143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20250724143000 +0000" stop="20250724163000 +0000" channel="ANTV.vision">
+<title>Si Buta Lawan Jaka Sembung</title>
+</programme>
+<programme start="20250724163000 +0000" stop="20250724183000 +0000" channel="ANTV.vision">
+<title>Zu: Warriors From The Magic...</title>
 </programme>
 <programme start="20250724183000 +0000" stop="20250724200000 +0000" channel="ANTV.vision">
 <title>Aces Go Places 3</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250724021500 +0000" stop="20250724035000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250724035000 +0000" stop="20250724054000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250724054000 +0000" stop="20250724071000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250724071000 +0000" stop="20250724084500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
