@@ -6547,57 +6547,6 @@
     <programme start="20250723220000 +0000" stop="20250723230000 +0000" channel="TestChannel 995.starhub">
         <title>Golden City</title>
     </programme>
-    <programme start="20250723230000 +0000" stop="20250724000000 +0000" channel="TestChannel 995.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20250724000000 +0000" stop="20250724010000 +0000" channel="TestChannel 995.starhub">
-        <title>Hot Door Night 23</title>
-    </programme>
-    <programme start="20250724010000 +0000" stop="20250724020000 +0000" channel="TestChannel 995.starhub">
-        <title>The Way To Happiness</title>
-    </programme>
-    <programme start="20250724020000 +0000" stop="20250724030000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250724030000 +0000" stop="20250724040000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250724040000 +0000" stop="20250724050000 +0000" channel="TestChannel 995.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20250724050000 +0000" stop="20250724060000 +0000" channel="TestChannel 995.starhub">
-        <title>Hot Door Night 23</title>
-    </programme>
-    <programme start="20250724060000 +0000" stop="20250724070000 +0000" channel="TestChannel 995.starhub">
-        <title>The Way To Happiness</title>
-    </programme>
-    <programme start="20250724070000 +0000" stop="20250724080000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250724080000 +0000" stop="20250724090000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250724090000 +0000" stop="20250724100000 +0000" channel="TestChannel 995.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="TestChannel 995.starhub">
-        <title>The Way To Happiness</title>
-    </programme>
-    <programme start="20250724110000 +0000" stop="20250724120000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250724120000 +0000" stop="20250724130000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250724130000 +0000" stop="20250724140000 +0000" channel="TestChannel 995.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20250724140000 +0000" stop="20250724150000 +0000" channel="TestChannel 995.starhub">
-        <title>Hot Door Night 23</title>
-    </programme>
-    <programme start="20250724150000 +0000" stop="20250724160000 +0000" channel="TestChannel 995.starhub">
-        <title>The Way To Happiness</title>
-    </programme>
     <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="CNBC HD.starhub">
         <title>Us Halftime Report</title>
     </programme>
