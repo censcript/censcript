@@ -2057,25 +2057,25 @@
         <title>MUTV Highlights 2024/25 Man United vs Athletic Bilbao - UEL</title>
     </programme>
     <programme start="20250725013000 +0000" stop="20250725032000 +0000" channel="beIN Sports 3.starhub">
-        <title>LaLiga 2024/25: Villarreal vs Mallorca</title>
+        <title>LaLiga 2024/25 Villarreal vs Mallorca</title>
     </programme>
     <programme start="20250725032000 +0000" stop="20250725050500 +0000" channel="beIN Sports 3.starhub">
-        <title>LaLiga 2 2024/25: Racing de Santander vs Mirandes</title>
+        <title>LaLiga 2 2024/25 Racing de Santander vs Mirandes</title>
     </programme>
     <programme start="20250725050500 +0000" stop="20250725070000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies CAF Champions League 2024/25: Sundowns vs Casablanca</title>
+        <title>TotalEnergies CAF Champions League 2024/25 Sundowns vs Casablanca</title>
     </programme>
     <programme start="20250725070000 +0000" stop="20250725083000 +0000" channel="beIN Sports 3.starhub">
-        <title>Premier Padel 2025: Italy Major Day 5 SF 1 - Women</title>
+        <title>Italy Major Day 5 SF 1 - Women</title>
     </programme>
     <programme start="20250725083000 +0000" stop="20250725100000 +0000" channel="beIN Sports 3.starhub">
-        <title>Premier Padel 2025: Italy Major Day 5 SF 1 - Men</title>
+        <title>Italy Major Day 5 SF 1 - Men</title>
     </programme>
     <programme start="20250725100000 +0000" stop="20250725115000 +0000" channel="beIN Sports 3.starhub">
-        <title>LaLiga 2 2024/25: Granada vs Racing de Santander</title>
+        <title>LaLiga 2 2024/25 Granada vs Racing de Santander</title>
     </programme>
     <programme start="20250725115000 +0000" stop="20250725134000 +0000" channel="beIN Sports 3.starhub">
-        <title>LaLiga 2024/25: Barcelona vs Valencia</title>
+        <title>LaLiga 2024/25 Barcelona vs Valencia</title>
     </programme>
     <programme start="20250725134000 +0000" stop="20250725141000 +0000" channel="beIN Sports 3.starhub">
         <title>Top Saves</title>
@@ -2084,7 +2084,7 @@
         <title>Supporting Each Other</title>
     </programme>
     <programme start="20250725143000 +0000" stop="20250725163000 +0000" channel="beIN Sports 3.starhub">
-        <title>TGL 2025: New York Golf Club vs Los Angeles Golf Club</title>
+        <title>TGL 2025 New York Golf Club vs Los Angeles Golf Club</title>
     </programme>
     <programme start="20250724153000 +0000" stop="20250724163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>

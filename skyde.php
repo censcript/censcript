@@ -955,19 +955,16 @@
 <programme start="20250725063000 +0000" stop="20250725070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow 2024/25: 35. Spieltag</title>
 </programme>
-<programme start="20250725070000 +0000" stop="20250725073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250725070000 +0000" stop="20250725072000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 20. Spieltag</title>
 </programme>
-<programme start="20250725073000 +0000" stop="20250725095500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250725072000 +0000" stop="20250725094500 +0000" channel="DAZN 1 HD.skyde">
     <title>Coppa Italia: FC Bologna - AC Mailand</title>
 </programme>
-<programme start="20250725095500 +0000" stop="20250725101500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250725101500 +0000" stop="20250725113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250725094500 +0000" stop="20250725110000 +0000" channel="DAZN 1 HD.skyde">
     <title>Darts Features: Halbfinale &amp; Finale Martin Schindler : Austrian Darts Open 2025</title>
 </programme>
-<programme start="20250725113000 +0000" stop="20250725120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250725110000 +0000" stop="20250725120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250725120000 +0000" stop="20250725173000 +0000" channel="DAZN 1 HD.skyde">
@@ -982,14 +979,11 @@
 <programme start="20250725183500 +0000" stop="20250725204500 +0000" channel="DAZN 1 HD.skyde">
     <title>First Division A: Royal Antwerp FC - Union Saint-Gilloise</title>
 </programme>
-<programme start="20250725204500 +0000" stop="20250725210500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250725204500 +0000" stop="20250725213000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250725210500 +0000" stop="20250725213000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
 </programme>
 <programme start="20250725213000 +0000" stop="20250725220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+    <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
 </programme>
 <programme start="20250724220000 +0000" stop="20250725060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
