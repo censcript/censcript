@@ -2962,6 +2962,9 @@
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Test BL06</title>
 </programme>
+<programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>Test BL07</title>
+</programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Test BL08</title>
 </programme>
@@ -3259,20 +3262,17 @@
 <programme start="20250724210000 +0000" stop="20250724220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2018/2019</title>
 </programme>
-<programme start="20250724020000 +0000" stop="20250724023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250724023000 +0000" stop="20250724043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Generali Open in Kitzbühel (AUT), 3. Tag</title>
+<programme start="20250724024500 +0000" stop="20250724043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Y. Hanfmann (GER) - S. Baez (ARG), Generali Open in Kitzbühel (AUT), 3. Tag</title>
 </programme>
 <programme start="20250724043000 +0000" stop="20250724063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Mubadala Citi DC Open in Washington D.C. (USA), 3. Tag</title>
+    <title>WTA 500: M. Sakkari (GRE) - E. Navarro (USA), Mubadala Citi DC Open in Washington D.C. (USA), 3. Tag</title>
 </programme>
 <programme start="20250724063000 +0000" stop="20250724070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250724070000 +0000" stop="20250724090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Generali Open in Kitzbühel (AUT), 3. Tag</title>
+    <title>ATP 250: Y. Hanfmann (GER) - S. Baez (ARG), Generali Open in Kitzbühel (AUT), 3. Tag</title>
 </programme>
 <programme start="20250724090000 +0000" stop="20250724170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Generali Open in Kitzbühel (AUT), Viertelfinals</title>
@@ -3373,8 +3373,17 @@
 <programme start="20250724150000 +0000" stop="20250725080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Test Sport 04</title>
+</programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Test Sport 05</title>
+</programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Test Sport 06</title>
+</programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Test Sport 07</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Test Sport 08</title>

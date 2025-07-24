@@ -2257,8 +2257,8 @@
     <programme start="20250723170000 +0000" stop="20250723200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rasikkum Seemanae</title>
     </programme>
-    <programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250723200000 +0000" stop="20250723223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Anbu Magan</title>
     </programme>
     <programme start="20250723223000 +0000" stop="20250724010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Andha June 16AM Naal</title>
@@ -2300,31 +2300,31 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250724023000 +0000" stop="20250724040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel Day 3 Match 4</title>
+        <title>Kitzbuhel Day 3 Bautista Agut v Seyboth Wild</title>
     </programme>
     <programme start="20250724040000 +0000" stop="20250724053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 3 Match 1</title>
+        <title>Washington Day 3 Rublev v Tien</title>
     </programme>
     <programme start="20250724053000 +0000" stop="20250724060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250724060000 +0000" stop="20250724073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 3 Match 3</title>
+        <title>Washington Day 3 Medvedev v Opelka</title>
     </programme>
     <programme start="20250724073000 +0000" stop="20250724090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 3 Match 5</title>
+        <title>Washington Day 3 Tiafoe v Kovacevic</title>
     </programme>
     <programme start="20250724090000 +0000" stop="20250724110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel QF 1</title>
+        <title>Kitzbuhel QF 1 Rinderknech v Hanfmann</title>
     </programme>
     <programme start="20250724110000 +0000" stop="20250724130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel QF 2</title>
+        <title>Kitzbuhel QF 2 Cazaux v Struff</title>
     </programme>
     <programme start="20250724130000 +0000" stop="20250724150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel QF 3</title>
+        <title>Kitzbuhel QF 3 Bublik v Shevchenko</title>
     </programme>
     <programme start="20250724150000 +0000" stop="20250724170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 4 Match 1</title>
+        <title>Washington Day 4 Medvedev v Wu</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250723170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
@@ -2759,10 +2759,13 @@
         <title>The Half-Star Hotel In Lost Island</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20250723163000 +0000" stop="20250723230000 +0000" channel="Sun TV.starhub">
-        <title>Songs</title>
+        <title>SONGS</title>
+    </programme>
+    <programme start="20250723230000 +0000" stop="20250723233000 +0000" channel="Sun TV.starhub">
+        <title>NEWS</title>
     </programme>
     <programme start="20250723233000 +0000" stop="20250724000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
@@ -6525,27 +6528,6 @@
     </programme>
     <programme start="20250724155000 +0000" stop="20250724164000 +0000" channel="HBO Signature HD.starhub">
         <title>Harvey Weinstein: Id Breaking Now</title>
-    </programme>
-    <programme start="20250723160000 +0000" stop="20250723170000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250723170000 +0000" stop="20250723180000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250723180000 +0000" stop="20250723190000 +0000" channel="TestChannel 995.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20250723190000 +0000" stop="20250723200000 +0000" channel="TestChannel 995.starhub">
-        <title>Hot Door Night 23</title>
-    </programme>
-    <programme start="20250723200000 +0000" stop="20250723210000 +0000" channel="TestChannel 995.starhub">
-        <title>The Way To Happiness</title>
-    </programme>
-    <programme start="20250723210000 +0000" stop="20250723220000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
-    </programme>
-    <programme start="20250723220000 +0000" stop="20250723230000 +0000" channel="TestChannel 995.starhub">
-        <title>Golden City</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="CNBC HD.starhub">
         <title>Us Halftime Report</title>
