@@ -640,20 +640,11 @@
 <programme start="20250725114500 +0000" stop="20250725121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250723230000 +0000" stop="20250724010000 +0000" channel="ANTV.vision">
-<title>Lebak Membara</title>
-</programme>
 <programme start="20250724010000 +0000" stop="20250724023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250724023000 +0000" stop="20250724060000 +0000" channel="ANTV.vision">
-<title>Mujhse Shaadi Karogi</title>
-</programme>
 <programme start="20250724060000 +0000" stop="20250724090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20250724090000 +0000" stop="20250724123000 +0000" channel="ANTV.vision">
-<title>Prem Ratan Dhan Payo</title>
 </programme>
 <programme start="20250724123000 +0000" stop="20250724143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1496,5 +1487,14 @@
 <title>Dunia Binatang</title>
 </programme>
 <programme start="20250723230000 +0000" stop="20250724005000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250724005000 +0000" stop="20250724021500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250724021500 +0000" stop="20250724035000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250724035000 +0000" stop="20250724054000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
