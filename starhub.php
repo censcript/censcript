@@ -2324,7 +2324,7 @@
         <title>Kitzbuhel QF 3 Bublik v Shevchenko</title>
     </programme>
     <programme start="20250724150000 +0000" stop="20250724170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Washington Day 4 Medvedev v Wu</title>
+        <title>ATP Tour 500 2025: Washington Day 4 Medvedev v Wu</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250723170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
@@ -3413,7 +3413,7 @@
         <title>News</title>
     </programme>
     <programme start="20250724131500 +0000" stop="20250724133000 +0000" channel="DW English HD.starhub">
-        <title>How China outsmarted Europe and the US on rare earths - Part 1</title>
+        <title>Anne Applebaum - If you want peace, you must arm Ukraine</title>
     </programme>
     <programme start="20250724133000 +0000" stop="20250724140000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
