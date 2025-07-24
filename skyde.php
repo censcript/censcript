@@ -967,25 +967,22 @@
 <programme start="20250724073000 +0000" stop="20250724104500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Nations League: Portugal - Spanien</title>
 </programme>
-<programme start="20250724104500 +0000" stop="20250724110000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724104500 +0000" stop="20250724111000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250724110000 +0000" stop="20250724125000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724111000 +0000" stop="20250724130000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
-</programme>
-<programme start="20250724125000 +0000" stop="20250724130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250724130000 +0000" stop="20250724150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20250724150000 +0000" stop="20250724153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724150000 +0000" stop="20250724152000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow 2024/25: 37. Spieltag</title>
 </programme>
-<programme start="20250724153000 +0000" stop="20250724173000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724152000 +0000" stop="20250724172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Primera División: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20250724173000 +0000" stop="20250724180000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724172000 +0000" stop="20250724180000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250724180000 +0000" stop="20250724183000 +0000" channel="DAZN 1 HD.skyde">
@@ -994,10 +991,10 @@
 <programme start="20250724183000 +0000" stop="20250724190000 +0000" channel="DAZN 1 HD.skyde">
     <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
 </programme>
-<programme start="20250724190000 +0000" stop="20250724191500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724190000 +0000" stop="20250724192500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250724191500 +0000" stop="20250724211000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250724192500 +0000" stop="20250724211000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
 </programme>
 <programme start="20250724211000 +0000" stop="20250724213000 +0000" channel="DAZN 1 HD.skyde">
@@ -3295,7 +3292,10 @@
 <programme start="20250724024500 +0000" stop="20250724030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: The Cut</title>
 </programme>
-<programme start="20250724030000 +0000" stop="20250724033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250724030000 +0000" stop="20250724031500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20250724031500 +0000" stop="20250724033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore - letzter Spieltag</title>
 </programme>
 <programme start="20250724033000 +0000" stop="20250724040000 +0000" channel="Sky Sport Top Event HD.skyde">
