@@ -2978,7 +2978,7 @@
     <title>Test BL08</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
-    <title>Bundesliga 09</title>
+    <title>Test BL09</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Test BL10</title>
@@ -3153,6 +3153,48 @@
 </programme>
 <programme start="20250724210000 +0000" stop="20250724220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
+</programme>
+<programme start="20250723220000 +0000" stop="20250724040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250724040000 +0000" stop="20250724100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250724100000 +0000" stop="20250724130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20250724130000 +0000" stop="20250724143000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250724143000 +0000" stop="20250724144500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live F1: Warm Up - Das Motorsport Spezial</title>
+</programme>
+<programme start="20250724144500 +0000" stop="20250724150000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250724150000 +0000" stop="20250724160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250724160000 +0000" stop="20250724163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250724163000 +0000" stop="20250724170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - DFB-Frauen: Die Analyse</title>
+</programme>
+<programme start="20250724170000 +0000" stop="20250724183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250724183000 +0000" stop="20250724203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20250724203000 +0000" stop="20250724204500 +0000" channel="Sky Sport News HD.skyde">
+    <title>F1: Warm Up - Das Motorsport Spezial</title>
+</programme>
+<programme start="20250724204500 +0000" stop="20250724210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20250724210000 +0000" stop="20250724220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20250723220000 +0000" stop="20250724000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Testspiel: FC Arsenal - AC Mailand, Testspiel in Singapur</title>
@@ -3337,20 +3379,20 @@
 <programme start="20250724144000 +0000" stop="20250724150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250724150000 +0000" stop="20250725020000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250724150000 +0000" stop="20250725080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test Sport 03</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Sport 04</title>
+    <title>Test Sport 04</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Test Sport 05</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Sport 06</title>
+    <title>Test Sport 06</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Test Sport 07</title>
