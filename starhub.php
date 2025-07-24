@@ -2260,14 +2260,26 @@
     <programme start="20250723200000 +0000" stop="20250723220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250723220000 +0000" stop="20250724040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250723223000 +0000" stop="20250724010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Andha June 16AM Naal</title>
     </programme>
-    <programme start="20250724040000 +0000" stop="20250724100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250724010000 +0000" stop="20250724013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250724100000 +0000" stop="20250724160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250724013000 +0000" stop="20250724043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Simla Special</title>
+    </programme>
+    <programme start="20250724043000 +0000" stop="20250724073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Naalaya Theerpu</title>
+    </programme>
+    <programme start="20250724073000 +0000" stop="20250724103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Maravan</title>
+    </programme>
+    <programme start="20250724103000 +0000" stop="20250724133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thee (Old)</title>
+    </programme>
+    <programme start="20250724133000 +0000" stop="20250724170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nimirnthu Nil</title>
     </programme>
     <programme start="20250723150000 +0000" stop="20250723163000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Washington Day 3 Match 1</title>
@@ -2752,14 +2764,11 @@
     <programme start="20250723163000 +0000" stop="20250723230000 +0000" channel="Sun TV.starhub">
         <title>Songs</title>
     </programme>
-    <programme start="20250723230000 +0000" stop="20250723233000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20250723233000 +0000" stop="20250724000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
     <programme start="20250724000000 +0000" stop="20250724003000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneechal Thodargiradhu</title>
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
     <programme start="20250724003000 +0000" stop="20250724010000 +0000" channel="Sun TV.starhub">
         <title>Singapenne</title>
@@ -2780,34 +2789,34 @@
         <title>Punitha</title>
     </programme>
     <programme start="20250724043000 +0000" stop="20250724050000 +0000" channel="Sun TV.starhub">
-        <title>Manamagale Vaa</title>
+        <title>MANAMAGALE VAA</title>
     </programme>
     <programme start="20250724050000 +0000" stop="20250724053000 +0000" channel="Sun TV.starhub">
-        <title>Vinodhini</title>
+        <title>VINODHINI</title>
     </programme>
     <programme start="20250724053000 +0000" stop="20250724060000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20250724060000 +0000" stop="20250724063000 +0000" channel="Sun TV.starhub">
-        <title>Ilakkiya</title>
+        <title>ilakkiya</title>
     </programme>
     <programme start="20250724063000 +0000" stop="20250724070000 +0000" channel="Sun TV.starhub">
-        <title>Lakshmi</title>
+        <title>LAKSHMI</title>
     </programme>
     <programme start="20250724070000 +0000" stop="20250724073000 +0000" channel="Sun TV.starhub">
-        <title>Ananda Ragam</title>
+        <title>ANANDA RAGAM</title>
     </programme>
     <programme start="20250724073000 +0000" stop="20250724080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Chathrapathi</title>
+        <title>Movie - CHATHRAPATHI</title>
     </programme>
     <programme start="20250724080000 +0000" stop="20250724083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250724083000 +0000" stop="20250724103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd - Chathrapathi</title>
+        <title>Movie Contd - CHATHRAPATHI</title>
     </programme>
     <programme start="20250724103000 +0000" stop="20250724110000 +0000" channel="Sun TV.starhub">
-        <title>Ramayanam</title>
+        <title>RAMAYANAM</title>
     </programme>
     <programme start="20250724110000 +0000" stop="20250724113000 +0000" channel="Sun TV.starhub">
         <title>Annam</title>
@@ -2828,16 +2837,16 @@
         <title>News</title>
     </programme>
     <programme start="20250724140000 +0000" stop="20250724143000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneechal Thodargiradhu</title>
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
     <programme start="20250724143000 +0000" stop="20250724150000 +0000" channel="Sun TV.starhub">
-        <title>Aadukalam</title>
+        <title>AADUKALAM</title>
     </programme>
     <programme start="20250724150000 +0000" stop="20250724153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20250724153000 +0000" stop="20250724160000 +0000" channel="Sun TV.starhub">
-        <title>Anandaragam - Serial</title>
+        <title>ANANDARAGAM - Serial</title>
     </programme>
     <programme start="20250723160000 +0000" stop="20250723163000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
@@ -7774,11 +7783,8 @@
     <programme start="20250724144000 +0000" stop="20250724150000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Collingwood v Fremantle</title>
     </programme>
-    <programme start="20250724150000 +0000" stop="20250724152000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights Adelaide v Gold Coast</title>
-    </programme>
-    <programme start="20250724152000 +0000" stop="20250724175000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Adelaide v Gold Coast</title>
+    <programme start="20250724150000 +0000" stop="20250724164000 +0000" channel="Premier Sports.starhub">
+        <title>Super League St Helens v Leigh</title>
     </programme>
     <programme start="20250723143000 +0000" stop="20250723163000 +0000" channel="Hub Premier 1.starhub">
         <title>FUL v LIV</title>
