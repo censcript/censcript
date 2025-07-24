@@ -2972,7 +2972,7 @@
     <title>Test BL06</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
-    <title>Test BL07</title>
+    <title>Bundesliga 07</title>
 </programme>
 <programme start="20250724100000 +0000" stop="20250724110000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Test BL08</title>
@@ -3365,12 +3365,12 @@
     <title>PL: Tottenham Hotspur - FC Chelsea, Match of the Week, 15. Spieltag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Test Sport 01</title>
+    <title>Sport 01</title>
 </programme>
 <programme start="20250724164000 +0000" stop="20250724170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250724170000 +0000" stop="20250725080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250724170000 +0000" stop="20250725020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3383,16 +3383,28 @@
     <title>Live ATP 500: Mubadala Citi DC Open in Washington D.C. (USA), 4. Tag</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03</title>
+    <title>Sport 03</title>
+</programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Sport 04</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Sport 05</title>
+    <title>Test Sport 05</title>
+</programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Sport 06</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Sport 07</title>
 </programme>
 <programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Sport 08</title>
+</programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 9 HD.skyde">
+    <title>Test Sport 09</title>
+</programme>
+<programme start="20250724111000 +0000" stop="20250724121000 +0000" channel="Sky Sport 10 HD.skyde">
+    <title>Test Sport 10</title>
 </programme>
 <programme start="20250723223000 +0000" stop="20250723231500 +0000" channel="SYFY HD.skyde">
     <title>Star Trek: Discovery</title>
