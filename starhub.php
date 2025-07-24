@@ -2036,7 +2036,7 @@
         <title>Tag&#039;s First Day</title>
     </programme>
     <programme start="20250724160000 +0000" stop="20250724180000 +0000" channel="beIN Sports 3.starhub">
-        <title>ATP Tour 250 2025: Umag QF 2 (Live)</title>
+        <title>ATP Tour 250 2025 Umag QF 2 Darderi v Prizmic (Live)</title>
     </programme>
     <programme start="20250724180000 +0000" stop="20250724183000 +0000" channel="beIN Sports 3.starhub">
         <title>Carlos Marchena</title>
@@ -2045,13 +2045,13 @@
         <title>Gaizka Mendieta</title>
     </programme>
     <programme start="20250724190000 +0000" stop="20250724210000 +0000" channel="beIN Sports 3.starhub">
-        <title>ATP Tour 250 2025: Umag QF 4 (Live)</title>
+        <title>ATP Tour 250 2025 Umag QF 4 Dzumhur v Droguet (Live)</title>
     </programme>
     <programme start="20250724210000 +0000" stop="20250724230000 +0000" channel="beIN Sports 3.starhub">
-        <title>TGL 2025: Jupiter Links Golf Club vs Atlanta Drive Golf Club</title>
+        <title>TGL 2025 Jupiter Links Golf Club vs Atlanta Drive Golf Club</title>
     </programme>
     <programme start="20250724230000 +0000" stop="20250725010000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies CAF Confederation Cup 2024/25: Simba SC vs Al Masry</title>
+        <title>TotalEnergies CAF Confederation Cup 2024/25 Simba SC vs Al Masry</title>
     </programme>
     <programme start="20250725010000 +0000" stop="20250725013000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV Highlights 2024/25 Man United vs Athletic Bilbao - UEL</title>
