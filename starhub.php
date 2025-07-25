@@ -2291,34 +2291,34 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250725020000 +0000" stop="20250725033000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Umag QF 3 De Jong v Taberner</title>
+        <title>Umag QF 3 De Jong v Taberner</title>
     </programme>
     <programme start="20250725033000 +0000" stop="20250725050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 4 Medvedev v Wu</title>
+        <title>Washington Day 4 Medvedev v Wu</title>
     </programme>
     <programme start="20250725050000 +0000" stop="20250725063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 4 De Minaur v Lehecka</title>
+        <title>Washington Day 4 De Minaur v Lehecka</title>
     </programme>
     <programme start="20250725063000 +0000" stop="20250725080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 4 Shelton v Diallo</title>
+        <title>Washington Day 4 Fritz v Arnaldi</title>
     </programme>
     <programme start="20250725080000 +0000" stop="20250725090000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>London</title>
     </programme>
     <programme start="20250725090000 +0000" stop="20250725103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel QF 4 Van de Zandschulp v Seyboth Wild</title>
+        <title>Kitzbuhel QF 4 Van de Zandschulp v Seyboth Wild</title>
     </programme>
-    <programme start="20250725103000 +0000" stop="20250725120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel SF 1</title>
+    <programme start="20250725103000 +0000" stop="20250725123000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Kitzbuhel SF 1 Rinderknech v Cazaux</title>
     </programme>
-    <programme start="20250725120000 +0000" stop="20250725140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Kitzbuhel SF 2</title>
+    <programme start="20250725123000 +0000" stop="20250725143000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Kitzbuhel SF 2 Bublik v Van de Zandschulp</title>
     </programme>
-    <programme start="20250725140000 +0000" stop="20250725153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Umag QF 4 Dzumhur v Droguet</title>
+    <programme start="20250725143000 +0000" stop="20250725153000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Halle</title>
     </programme>
     <programme start="20250725153000 +0000" stop="20250725170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Day 4 Match 4</title>
+        <title>Washington Day 4 Tiafoe v Cobolli</title>
     </programme>
     <programme start="20250724160000 +0000" stop="20250724170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
@@ -7652,13 +7652,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250725003000 +0000" stop="20250725010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>A Superinjunction That Gagged the Media</title>
     </programme>
     <programme start="20250725010000 +0000" stop="20250725013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
     </programme>
     <programme start="20250725013000 +0000" stop="20250725020000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Lithium Mining: The Impact</title>
     </programme>
     <programme start="20250725020000 +0000" stop="20250725023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>

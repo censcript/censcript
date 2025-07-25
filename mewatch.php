@@ -511,8 +511,26 @@
     <programme start="20250725140000 +0000" stop="20250725163000 +0000" channel="Vasantham.mewatch">
         <title>Thudikkum Karangal</title>
     </programme>
-    <programme start="20250724160000 +0000" stop="20250724220000 +0000" channel="CNA.mewatch">
+    <programme start="20250724160000 +0000" stop="20250724160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
+    </programme>
+    <programme start="20250724160300 +0000" stop="20250724170000 +0000" channel="CNA.mewatch">
+        <title>East Asia Tonight</title>
+    </programme>
+    <programme start="20250724170000 +0000" stop="20250724180000 +0000" channel="CNA.mewatch">
+        <title>Limitless - EP 3</title>
+    </programme>
+    <programme start="20250724180000 +0000" stop="20250724190000 +0000" channel="CNA.mewatch">
+        <title>Singapore Tonight</title>
+    </programme>
+    <programme start="20250724190000 +0000" stop="20250724200000 +0000" channel="CNA.mewatch">
+        <title>I Am Canlaken</title>
+    </programme>
+    <programme start="20250724200000 +0000" stop="20250724210000 +0000" channel="CNA.mewatch">
+        <title>Asia Tonight</title>
+    </programme>
+    <programme start="20250724210000 +0000" stop="20250724220000 +0000" channel="CNA.mewatch">
+        <title>Insight - EP 14</title>
     </programme>
     <programme start="20250724220000 +0000" stop="20250724230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>

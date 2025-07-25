@@ -1273,14 +1273,14 @@
 <programme start="20250725090000 +0000" stop="20250725103000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Kitzbuhel</title>
 </programme>
-<programme start="20250725103000 +0000" stop="20250725120000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250725103000 +0000" stop="20250725123000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 &#039;25: Kitzbuhel (L)</title>
 </programme>
-<programme start="20250725120000 +0000" stop="20250725140000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250725123000 +0000" stop="20250725143000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 &#039;25: Kitzbuhel (L)</title>
 </programme>
-<programme start="20250725140000 +0000" stop="20250725153000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Umag QF 4</title>
+<programme start="20250725143000 +0000" stop="20250725153000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour Review Show 2025</title>
 </programme>
 <programme start="20250725153000 +0000" stop="20250725160000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 2025: Washington</title>
@@ -1318,22 +1318,192 @@
 <programme start="20250725090000 +0000" stop="20250725103000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Kitzbuhel</title>
 </programme>
-<programme start="20250725103000 +0000" stop="20250725120000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250725103000 +0000" stop="20250725123000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Kitzbuhel (L)</title>
 </programme>
-<programme start="20250725120000 +0000" stop="20250725140000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250725123000 +0000" stop="20250725143000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 &#039;25: Kitzbuhel (L)</title>
 </programme>
-<programme start="20250725140000 +0000" stop="20250725153000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Umag QF 4</title>
+<programme start="20250725143000 +0000" stop="20250725153000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour Review Show 2025</title>
 </programme>
 <programme start="20250725153000 +0000" stop="20250725160000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 2025: Washington</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250724180000 +0000" stop="20250724183000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Best 11: Carlos Marchena</title>
+</programme>
+<programme start="20250724183000 +0000" stop="20250724190000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Best 11: Gaizka Mendieta</title>
+</programme>
+<programme start="20250724190000 +0000" stop="20250724210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Umag (L)</title>
+</programme>
+<programme start="20250724210000 +0000" stop="20250724230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>TGL: Jupiter Links Vs Atlanta</title>
+</programme>
+<programme start="20250724230000 +0000" stop="20250725010000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Confederation: SIM Vs MAS</title>
+</programme>
+<programme start="20250725010000 +0000" stop="20250725013000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2024/25: MUN Vs ATH</title>
+</programme>
+<programme start="20250725013000 +0000" stop="20250725032000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: VIL Vs MLL</title>
+</programme>
+<programme start="20250725032000 +0000" stop="20250725050500 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 2024/25: RAC Vs MIR</title>
+</programme>
+<programme start="20250725050500 +0000" stop="20250725070000 +0000" channel="beIN Sports 3.mncvision">
+    <title>CAF Champions: MSU Vs RAJ</title>
+</programme>
+<programme start="20250725070000 +0000" stop="20250725083000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Italy</title>
+</programme>
+<programme start="20250725083000 +0000" stop="20250725100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Italy</title>
+</programme>
+<programme start="20250725100000 +0000" stop="20250725115000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2 2024/25: GRA Vs RAC</title>
+</programme>
+<programme start="20250725115000 +0000" stop="20250725134000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga 2024/25: BAR Vs VAL</title>
+</programme>
+<programme start="20250725134000 +0000" stop="20250725141000 +0000" channel="beIN Sports 3.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250725141000 +0000" stop="20250725143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV: Supporting Each Other</title>
+</programme>
+<programme start="20250725143000 +0000" stop="20250725163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>TGL: New York Vs Los Angeles</title>
+</programme>
+<programme start="20250725163000 +0000" stop="20250724170000 +0000" channel="beIN Sports 3.mncvision">
+    <title>ATP Tour 250 2025: Umag (L)</title>
+</programme>
+<programme start="20250724180000 +0000" stop="20250724183000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Best 11: Carlos Marchena</title>
+</programme>
+<programme start="20250724183000 +0000" stop="20250724190000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Best 11: Gaizka Mendieta</title>
+</programme>
+<programme start="20250724190000 +0000" stop="20250724210000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Umag (L)</title>
+</programme>
+<programme start="20250724210000 +0000" stop="20250724230000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>TGL: Jupiter Links Vs Atlanta</title>
+</programme>
+<programme start="20250724230000 +0000" stop="20250725010000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Confederation: SIM Vs MAS</title>
+</programme>
+<programme start="20250725010000 +0000" stop="20250725013000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV HL 2024/25: MUN Vs ATH</title>
+</programme>
+<programme start="20250725013000 +0000" stop="20250725032000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: VIL Vs MLL</title>
+</programme>
+<programme start="20250725032000 +0000" stop="20250725050500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 2024/25: RAC Vs MIR</title>
+</programme>
+<programme start="20250725050500 +0000" stop="20250725070000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>CAF Champions: MSU Vs RAJ</title>
+</programme>
+<programme start="20250725070000 +0000" stop="20250725083000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Italy</title>
+</programme>
+<programme start="20250725083000 +0000" stop="20250725100000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Italy</title>
+</programme>
+<programme start="20250725100000 +0000" stop="20250725115000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2 2024/25: GRA Vs RAC</title>
+</programme>
+<programme start="20250725115000 +0000" stop="20250725134000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga 2024/25: BAR Vs VAL</title>
+</programme>
+<programme start="20250725134000 +0000" stop="20250725141000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250725141000 +0000" stop="20250725143000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV: Supporting Each Other</title>
+</programme>
+<programme start="20250725143000 +0000" stop="20250725163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>TGL: New York Vs Los Angeles</title>
+</programme>
+<programme start="20250725163000 +0000" stop="20250724170000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>ATP Tour 250 2025: Umag (L)</title>
+</programme>
+<programme start="20250724170000 +0000" stop="20250724190000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250724190000 +0000" stop="20250724210000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250724210000 +0000" stop="20250724230000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250724230000 +0000" stop="20250725010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725010000 +0000" stop="20250725030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725030000 +0000" stop="20250725050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725050000 +0000" stop="20250725070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725070000 +0000" stop="20250725090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725090000 +0000" stop="20250725110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725110000 +0000" stop="20250725130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725130000 +0000" stop="20250725150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250725150000 +0000" stop="20250725153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20250724170000 +0000" stop="20250724190000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250724190000 +0000" stop="20250724210000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250724210000 +0000" stop="20250724230000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250724230000 +0000" stop="20250725010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725010000 +0000" stop="20250725030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725030000 +0000" stop="20250725050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725050000 +0000" stop="20250725070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725070000 +0000" stop="20250725090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725090000 +0000" stop="20250725110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725110000 +0000" stop="20250725130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725130000 +0000" stop="20250725150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250725150000 +0000" stop="20250725153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20250724170000 +0000" stop="20250724180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -8687,7 +8857,57 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250725163000 +0000" stop="20250724170000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP: Rolex Great Britain</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250724173000 +0000" stop="20250724180000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Racing On The Edge</title>
+</programme>
+<programme start="20250724180000 +0000" stop="20250724193000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>FIA TCR World Tour Vila Real</title>
+</programme>
+<programme start="20250724193000 +0000" stop="20250724204500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Drew Gibson In Focus Highlights</title>
+</programme>
+<programme start="20250724204500 +0000" stop="20250725011500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT United States Smash</title>
+</programme>
+<programme start="20250725011500 +0000" stop="20250725053000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT United States Smash</title>
+</programme>
+<programme start="20250725053000 +0000" stop="20250725061500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>The Valentino Rossi Story</title>
+</programme>
+<programme start="20250725061500 +0000" stop="20250725071500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>NTI Townsville 500</title>
+</programme>
+<programme start="20250725071500 +0000" stop="20250725081500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Fantastic Four London E-Prix</title>
+</programme>
+<programme start="20250725081500 +0000" stop="20250725091500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WorldSBK 2025: Hungarian (L)</title>
+</programme>
+<programme start="20250725091500 +0000" stop="20250725094500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 World Sailing Show, Ep 6</title>
+</programme>
+<programme start="20250725094500 +0000" stop="20250725120500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WTT United States Smash</title>
+</programme>
+<programme start="20250725120500 +0000" stop="20250725125500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>World WCR 2025: Hungarian (L)</title>
+</programme>
+<programme start="20250725125500 +0000" stop="20250725135500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WorldSBK 2025: Hungarian (L)</title>
+</programme>
+<programme start="20250725135500 +0000" stop="20250725145500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WorldSBK 2025: Hungarian (L)</title>
+</programme>
+<programme start="20250725145500 +0000" stop="20250725160000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Fantastic Four London E-Prix (L)</title>
+</programme>
+<programme start="20250725160000 +0000" stop="20250725163000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Spotlight: Fabio</title>
+</programme>
+<programme start="20250725163000 +0000" stop="20250724170000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Rolex Great Britain</title>
+</programme>
 <programme start="20250724180000 +0000" stop="20250724182500 +0000" channel="SPOTV HD.mncvision">
     <title>Ras Al Khaima Half Marathon HL</title>
 </programme>
