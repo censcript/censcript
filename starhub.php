@@ -7138,22 +7138,19 @@
     <programme start="20250725102500 +0000" stop="20250725113000 +0000" channel="beIN Sports HD.starhub">
         <title>Formula 1 Practice 2025: FORMULA 1 MOET &amp; CHANDON BELGIAN GRAND PRIX 2025 Practi</title>
     </programme>
-    <programme start="20250725113000 +0000" stop="20250725115800 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250725113000 +0000" stop="20250725120000 +0000" channel="beIN Sports HD.starhub">
         <title>Norisring</title>
     </programme>
-    <programme start="20250725115800 +0000" stop="20250725123000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA Formula 3 Championship Qualifying 2025: Spa-Francorchamps, Belgium (Live)</title>
+    <programme start="20250725120000 +0000" stop="20250725123000 +0000" channel="beIN Sports HD.starhub">
+        <title>FIA Formula 3 Championship Practice 2025: Spa-Francorchamps, Belgium (Live)</title>
     </programme>
-    <programme start="20250725123000 +0000" stop="20250725124000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga Club Classic Archive: Barcelona vs Real Madrid - 2018/19</title>
+    <programme start="20250725123000 +0000" stop="20250725125800 +0000" channel="beIN Sports HD.starhub">
+        <title>GP Confidential 2025</title>
     </programme>
-    <programme start="20250725124000 +0000" stop="20250725125300 +0000" channel="beIN Sports HD.starhub">
-        <title>UCL Classic Matches Chelsea vs PSG (2014/15)</title>
-    </programme>
-    <programme start="20250725125300 +0000" stop="20250725132500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250725125800 +0000" stop="20250725133000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 2 Championship Qualifying 2025: Spa-Francorchamps, Belgium (Live)</title>
     </programme>
-    <programme start="20250725132500 +0000" stop="20250725140000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250725133000 +0000" stop="20250725140000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>
     </programme>
     <programme start="20250725140000 +0000" stop="20250725142600 +0000" channel="beIN Sports HD.starhub">
@@ -7251,186 +7248,6 @@
     </programme>
     <programme start="20250725152000 +0000" stop="20250725161500 +0000" channel="TestChannel2.starhub">
         <title>The Unexpected Marriage</title>
-    </programme>
-    <programme start="20250724160000 +0000" stop="20250724163000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250724163000 +0000" stop="20250724165700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20250724165700 +0000" stop="20250724170000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Sumopedia</title>
-    </programme>
-    <programme start="20250724170000 +0000" stop="20250724173000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250724173000 +0000" stop="20250724180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Today&#039;s Close-Up</title>
-    </programme>
-    <programme start="20250724180000 +0000" stop="20250724182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20250724182800 +0000" stop="20250724184300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Direct Talk</title>
-    </programme>
-    <programme start="20250724184300 +0000" stop="20250724185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Trails to Oishii Tokyo mini</title>
-    </programme>
-    <programme start="20250724185500 +0000" stop="20250724190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Ukiyo-e Edo-Life</title>
-    </programme>
-    <programme start="20250724190000 +0000" stop="20250724192700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Hometown Stories</title>
-    </programme>
-    <programme start="20250724192700 +0000" stop="20250724193000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Easy Japanese</title>
-    </programme>
-    <programme start="20250724193000 +0000" stop="20250724200000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Japanology Plus</title>
-    </programme>
-    <programme start="20250724200000 +0000" stop="20250724203000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250724203000 +0000" stop="20250724210000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Japan Railway Journal</title>
-    </programme>
-    <programme start="20250724210000 +0000" stop="20250724213000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250724213000 +0000" stop="20250724220000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Core Kyoto</title>
-    </programme>
-    <programme start="20250724220000 +0000" stop="20250724223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250724223000 +0000" stop="20250724230000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Today&#039;s Close-Up</title>
-    </programme>
-    <programme start="20250724230000 +0000" stop="20250724233000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250724233000 +0000" stop="20250724235700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20250724235700 +0000" stop="20250725000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Sumopedia</title>
-    </programme>
-    <programme start="20250725000000 +0000" stop="20250725003000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725003000 +0000" stop="20250725010000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Asia Insight</title>
-    </programme>
-    <programme start="20250725010000 +0000" stop="20250725013000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725013000 +0000" stop="20250725020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Today&#039;s Close-Up</title>
-    </programme>
-    <programme start="20250725020000 +0000" stop="20250725023000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725023000 +0000" stop="20250725025500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Spiritual Explorers</title>
-    </programme>
-    <programme start="20250725025500 +0000" stop="20250725030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>History of a Traditional Fabric</title>
-    </programme>
-    <programme start="20250725030000 +0000" stop="20250725033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725033000 +0000" stop="20250725040000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Japan Railway Journal</title>
-    </programme>
-    <programme start="20250725040000 +0000" stop="20250725043000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725043000 +0000" stop="20250725045700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20250725045700 +0000" stop="20250725050000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Sumopedia</title>
-    </programme>
-    <programme start="20250725050000 +0000" stop="20250725053000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725053000 +0000" stop="20250725060000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Asia Insight</title>
-    </programme>
-    <programme start="20250725060000 +0000" stop="20250725063000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Newsline Asia 24</title>
-    </programme>
-    <programme start="20250725063000 +0000" stop="20250725070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Today&#039;s Close-Up</title>
-    </programme>
-    <programme start="20250725070000 +0000" stop="20250725073000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Newsline Asia 24</title>
-    </programme>
-    <programme start="20250725073000 +0000" stop="20250725075500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Spiritual Explorers</title>
-    </programme>
-    <programme start="20250725075500 +0000" stop="20250725080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>History of a Traditional Fabric</title>
-    </programme>
-    <programme start="20250725080000 +0000" stop="20250725083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725083000 +0000" stop="20250725085700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20250725085700 +0000" stop="20250725090000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Sumopedia</title>
-    </programme>
-    <programme start="20250725090000 +0000" stop="20250725093000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725093000 +0000" stop="20250725100000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Japan Railway Journal</title>
-    </programme>
-    <programme start="20250725100000 +0000" stop="20250725103000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK News 7</title>
-    </programme>
-    <programme start="20250725103000 +0000" stop="20250725110000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Asia Insight</title>
-    </programme>
-    <programme start="20250725110000 +0000" stop="20250725112800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20250725112800 +0000" stop="20250725114300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Direct Talk</title>
-    </programme>
-    <programme start="20250725114300 +0000" stop="20250725115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Impacts: Climates Change the World</title>
-    </programme>
-    <programme start="20250725115500 +0000" stop="20250725120000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Trouble Renting in Japan?</title>
-    </programme>
-    <programme start="20250725120000 +0000" stop="20250725123000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20250725123000 +0000" stop="20250725130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Today&#039;s Close-Up</title>
-    </programme>
-    <programme start="20250725130000 +0000" stop="20250725133000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725133000 +0000" stop="20250725135500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Spiritual Explorers</title>
-    </programme>
-    <programme start="20250725135500 +0000" stop="20250725140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>History of a Traditional Fabric</title>
-    </programme>
-    <programme start="20250725140000 +0000" stop="20250725143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725143000 +0000" stop="20250725150000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Design X Stories</title>
-    </programme>
-    <programme start="20250725150000 +0000" stop="20250725153000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
-    </programme>
-    <programme start="20250725153000 +0000" stop="20250725160000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Asia Insight</title>
     </programme>
     <programme start="20250724143000 +0000" stop="20250724162000 +0000" channel="ONE (Malay).starhub">
         <title>The Half-Star Hotel In Lost Island</title>

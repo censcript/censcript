@@ -1108,22 +1108,19 @@
 <programme start="20250725102500 +0000" stop="20250725113000 +0000" channel="beIN Sports 1.mncvision">
     <title>F1 Practice &#039;25: Belgian GP (L)</title>
 </programme>
-<programme start="20250725113000 +0000" stop="20250725115800 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250725113000 +0000" stop="20250725120000 +0000" channel="beIN Sports 1.mncvision">
     <title>Porsche Carrera Cup Germany HL</title>
 </programme>
-<programme start="20250725115800 +0000" stop="20250725123000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250725120000 +0000" stop="20250725123000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA Formula 3 2025: Belgium (L)</title>
 </programme>
-<programme start="20250725123000 +0000" stop="20250725124000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Club Classic: BAR Vs RMA</title>
+<programme start="20250725123000 +0000" stop="20250725125800 +0000" channel="beIN Sports 1.mncvision">
+    <title>GP Confidential 2025, Ep 13</title>
 </programme>
-<programme start="20250725124000 +0000" stop="20250725125300 +0000" channel="beIN Sports 1.mncvision">
-    <title>UCL Classic Matches: CHE Vs PSG</title>
-</programme>
-<programme start="20250725125300 +0000" stop="20250725132500 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250725125800 +0000" stop="20250725133000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA Formula 2 2025: Belgium (L)</title>
 </programme>
-<programme start="20250725132500 +0000" stop="20250725140000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250725133000 +0000" stop="20250725140000 +0000" channel="beIN Sports 1.mncvision">
     <title>FastZone 2025, Ep 15</title>
 </programme>
 <programme start="20250725140000 +0000" stop="20250725142600 +0000" channel="beIN Sports 1.mncvision">
@@ -1139,7 +1136,7 @@
     <title>Porsche Mobil 1 Supercup (L)</title>
 </programme>
 <programme start="20250725164500 +0000" stop="20250724171500 +0000" channel="beIN Sports 1.mncvision">
-    <title>Porsche Carrera Cup Germany HL</title>
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20250724180000 +0000" stop="20250724183000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Porsche Carrera Cup Germany HL</title>
@@ -1207,22 +1204,19 @@
 <programme start="20250725102500 +0000" stop="20250725113000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>F1 Practice &#039;25: Belgian GP (L)</title>
 </programme>
-<programme start="20250725113000 +0000" stop="20250725115800 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250725113000 +0000" stop="20250725120000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Porsche Carrera Cup Germany HL</title>
 </programme>
-<programme start="20250725115800 +0000" stop="20250725123000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250725120000 +0000" stop="20250725123000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA Formula 3 2025: Belgium (L)</title>
 </programme>
-<programme start="20250725123000 +0000" stop="20250725124000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Club Classic: BAR Vs RMA</title>
+<programme start="20250725123000 +0000" stop="20250725125800 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 13</title>
 </programme>
-<programme start="20250725124000 +0000" stop="20250725125300 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>UCL Classic Matches: CHE Vs PSG</title>
-</programme>
-<programme start="20250725125300 +0000" stop="20250725132500 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250725125800 +0000" stop="20250725133000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA Formula 2 2025: Belgium (L)</title>
 </programme>
-<programme start="20250725132500 +0000" stop="20250725140000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250725133000 +0000" stop="20250725140000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FastZone 2025, Ep 15</title>
 </programme>
 <programme start="20250725140000 +0000" stop="20250725142600 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -1238,7 +1232,7 @@
     <title>Porsche Mobil 1 Supercup (L)</title>
 </programme>
 <programme start="20250725164500 +0000" stop="20250724171500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Porsche Carrera Cup Germany HL</title>
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20250724170000 +0000" stop="20250724190000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500: Washington (L)</title>
@@ -4172,7 +4166,7 @@
     <title>Jack Reacher: Never Go Back</title>
 </programme>
 <programme start="20250725153000 +0000" stop="20250725160000 +0000" channel="GTV.mncvision">
-    <title>The Mob</title>
+    <title>Out For A Kill</title>
 </programme>
 <programme start="20250724170000 +0000" stop="20250724180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4229,7 +4223,7 @@
     <title>Jack Reacher: Never Go Back</title>
 </programme>
 <programme start="20250725153000 +0000" stop="20250725160000 +0000" channel="GTV HD.mncvision">
-    <title>The Mob</title>
+    <title>Out For A Kill</title>
 </programme>
 <programme start="20250724180000 +0000" stop="20250724183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>

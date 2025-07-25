@@ -143,7 +143,7 @@
         <title>Despicable Me 3</title>
     </programme>
     <programme start="20250725112300 +0000" stop="20250725130000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) World Aquatics Championships Singapore 2025 : Artistic Swimming - EP 11</title>
+        <title>World Aquatics Championships Singapore 2025 : Artistic Swimming - EP 11</title>
     </programme>
     <programme start="20250725130000 +0000" stop="20250725133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>

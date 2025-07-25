@@ -712,7 +712,7 @@
 <programme start="20250725100000 +0000" stop="20250725103000 +0000" channel="RTV.vision">
 <title>RTV</title>
 </programme>
-<programme start="20250725103000 +0000" stop="20250725120000 +0000" channel="RTV.vision">
+<programme start="20250725103000 +0000" stop="20250725110000 +0000" channel="RTV.vision">
 <title>RTV</title>
 </programme>
 <programme start="20250725110000 +0000" stop="20250725132900 +0000" channel="RTV.vision">
