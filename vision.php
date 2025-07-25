@@ -523,6 +523,9 @@
 <programme start="20250725050000 +0000" stop="20250725054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20250725054500 +0000" stop="20250725063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang</title>
+</programme>
 <programme start="20250725063000 +0000" stop="20250725071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
 </programme>
@@ -636,6 +639,9 @@
 </programme>
 <programme start="20250725010000 +0000" stop="20250725023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
+</programme>
+<programme start="20250725023000 +0000" stop="20250725060000 +0000" channel="ANTV.vision">
+<title>Duplicate</title>
 </programme>
 <programme start="20250725060000 +0000" stop="20250725090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250726100000 +0000" stop="20250726110000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
-</programme>
-<programme start="20250726110000 +0000" stop="20250726120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20250724232000 +0000" stop="20250725010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

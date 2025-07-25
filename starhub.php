@@ -2318,7 +2318,7 @@
         <title>Halle</title>
     </programme>
     <programme start="20250725153000 +0000" stop="20250725170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Washington Day 4 Tiafoe v Cobolli</title>
+        <title>ATP Tour 500 2025: Washington Day 4 Tiafoe v Cobolli</title>
     </programme>
     <programme start="20250724160000 +0000" stop="20250724170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>

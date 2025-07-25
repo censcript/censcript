@@ -8368,60 +8368,6 @@
 <programme start="20250725163000 +0000" stop="20250724170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2024/25: VFB Vs FCA</title>
 </programme>
-<programme start="20250724183000 +0000" stop="20250724203000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Qual.: IRN Vs UAE</title>
-</programme>
-<programme start="20250724203000 +0000" stop="20250724210000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250724210000 +0000" stop="20250724213000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250724213000 +0000" stop="20250724233000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Timnas Special: IDN Vs NMI</title>
-</programme>
-<programme start="20250724233000 +0000" stop="20250725013000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Asian Qual.: IRN Vs UAE</title>
-</programme>
-<programme start="20250725013000 +0000" stop="20250725020000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250725020000 +0000" stop="20250725040000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League Women (L)</title>
-</programme>
-<programme start="20250725040000 +0000" stop="20250725060000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League 2024/25</title>
-</programme>
-<programme start="20250725060000 +0000" stop="20250725080000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League Women (L)</title>
-</programme>
-<programme start="20250725080000 +0000" stop="20250725083000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250725083000 +0000" stop="20250725090000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250725090000 +0000" stop="20250725110000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League 2024/25 (L)</title>
-</programme>
-<programme start="20250725110000 +0000" stop="20250725113000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250725113000 +0000" stop="20250725120000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20250725120000 +0000" stop="20250725140000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League 2024/25 (L)</title>
-</programme>
-<programme start="20250725140000 +0000" stop="20250725143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic League</title>
-</programme>
-<programme start="20250725143000 +0000" stop="20250725163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League 2024/25</title>
-</programme>
-<programme start="20250725163000 +0000" stop="20250724170000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2024/25: VFB Vs FCA</title>
-</programme>
 <programme start="20250724173000 +0000" stop="20250724200000 +0000" channel="Sportstars.mncvision">
     <title>Kapal Api Indonesia Open 2025</title>
 </programme>
