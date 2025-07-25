@@ -2179,11 +2179,11 @@
     <programme start="20250725170000 +0000" stop="20250725200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rasayaa</title>
     </programme>
-    <programme start="20250725200000 +0000" stop="20250725220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250725200000 +0000" stop="20250725223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Athai Madi Methaiadi</title>
     </programme>
-    <programme start="20250725220000 +0000" stop="20250726040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250725223000 +0000" stop="20250726010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Azhagiya Asura</title>
     </programme>
     <programme start="20250726040000 +0000" stop="20250726100000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
@@ -8108,7 +8108,7 @@
         <title>Good Night</title>
     </programme>
     <programme start="20250725211500 +0000" stop="20250725233000 +0000" channel="Asianet Movies.starhub">
-        <title>Oru Mexican Aparatha</title>
+        <title>Oru Mexcan Aparatha</title>
     </programme>
     <programme start="20250725233000 +0000" stop="20250726013000 +0000" channel="Asianet Movies.starhub">
         <title>Sudani From Nigeria</title>
