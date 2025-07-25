@@ -1021,10 +1021,10 @@
     <programme start="20250725110000 +0000" stop="20250725130000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 25th July, Friday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Thailand</title>
     </programme>
-    <programme start="20250725130000 +0000" stop="20250725150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250725130000 +0000" stop="20250725153000 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Thailand</title>
     </programme>
-    <programme start="20250725150000 +0000" stop="20250725160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250725153000 +0000" stop="20250725160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place</title>
     </programme>
     <programme start="20250725160000 +0000" stop="20250726160000 +0000" channel="Live 5.mewatch">

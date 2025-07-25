@@ -637,6 +637,9 @@
 <programme start="20250726114500 +0000" stop="20250726121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250724230000 +0000" stop="20250725010000 +0000" channel="ANTV.vision">
+<title>Pukulan Berantai</title>
+</programme>
 <programme start="20250725010000 +0000" stop="20250725023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250726090000 +0000" stop="20250726100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250726100000 +0000" stop="20250726110000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
 </programme>
