@@ -9509,7 +9509,7 @@
     <title>12.12: The Day</title>
 </programme>
 <programme start="20250725121000 +0000" stop="20250725140000 +0000" channel="tvN Movies.mncvision">
-    <title>Hidden Face</title>
+    <title>Cadaver</title>
 </programme>
 <programme start="20250725140000 +0000" stop="20250725160500 +0000" channel="tvN Movies.mncvision">
     <title>Rebound</title>
@@ -9545,7 +9545,7 @@
     <title>12.12: The Day</title>
 </programme>
 <programme start="20250725121000 +0000" stop="20250725140000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Hidden Face</title>
+    <title>Cadaver</title>
 </programme>
 <programme start="20250725140000 +0000" stop="20250725160500 +0000" channel="tvN Movies HD.mncvision">
     <title>Rebound</title>
