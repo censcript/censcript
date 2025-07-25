@@ -7021,8 +7021,11 @@
     <programme start="20250725230000 +0000" stop="20250726013500 +0000" channel="beIN Sports HD.starhub">
         <title>Hockenheimring</title>
     </programme>
-    <programme start="20250726013500 +0000" stop="20250726022000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250726013500 +0000" stop="20250726020500 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 3 Championship Practice 2025: Spa-Francorchamps, Belgium</title>
+    </programme>
+    <programme start="20250726020500 +0000" stop="20250726022000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga Club Classic Archive: Barcelona vs Real Madrid - 2023/24</title>
     </programme>
     <programme start="20250726022000 +0000" stop="20250726030500 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 2 Championship Practice 2025: Spa-Francorchamps, Belgium</title>
