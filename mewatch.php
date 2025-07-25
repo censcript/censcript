@@ -511,26 +511,8 @@
     <programme start="20250725140000 +0000" stop="20250725163000 +0000" channel="Vasantham.mewatch">
         <title>Thudikkum Karangal</title>
     </programme>
-    <programme start="20250724160000 +0000" stop="20250724160300 +0000" channel="CNA.mewatch">
+    <programme start="20250724160000 +0000" stop="20250724220000 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
-    </programme>
-    <programme start="20250724160300 +0000" stop="20250724170000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight</title>
-    </programme>
-    <programme start="20250724170000 +0000" stop="20250724180000 +0000" channel="CNA.mewatch">
-        <title>Limitless - EP 3</title>
-    </programme>
-    <programme start="20250724180000 +0000" stop="20250724190000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
-    </programme>
-    <programme start="20250724190000 +0000" stop="20250724200000 +0000" channel="CNA.mewatch">
-        <title>I Am Canlaken</title>
-    </programme>
-    <programme start="20250724200000 +0000" stop="20250724210000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
-    </programme>
-    <programme start="20250724210000 +0000" stop="20250724220000 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 14</title>
     </programme>
     <programme start="20250724220000 +0000" stop="20250724230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
@@ -1037,10 +1019,10 @@
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250724160000 +0000" stop="20250725160000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th July, Saturday 7.30pm. Hong Kong Football Festival</title>
+        <title>No Programme available now. Next Broadcast on 26th July, Saturday 7.20pm. Hong Kong Football Festival</title>
     </programme>
-    <programme start="20250725160000 +0000" stop="20250726113000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th July, Saturday 7.30pm. Hong Kong Football Festival</title>
+    <programme start="20250725160000 +0000" stop="20250726112000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 26th July, Saturday 7.20pm. Hong Kong Football Festival</title>
     </programme>
     <programme start="20250724160000 +0000" stop="20250725160000 +0000" channel="WCH CH01.mewatch">
         <title>No Programme available now. Next Broadcast on 26th July, Saturday 3.30pm. World Aquatics Championships - Singapore 2025</title>
