@@ -2515,6 +2515,93 @@
 <programme start="20250726215000 +0000" stop="20250726224500 +0000" channel="Sky Replay HD.skyde">
     <title>Big Little Lies</title>
 </programme>
+<programme start="20250725220000 +0000" stop="20250725223000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20250725223000 +0000" stop="20250725230000 +0000" channel="Sky Showcase HD.skyde">
+    <title>FARID - Magic Unplugged: Sports Edition</title>
+</programme>
+<programme start="20250725230000 +0000" stop="20250725235000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250725235000 +0000" stop="20250726004000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726004000 +0000" stop="20250726012500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20250726012500 +0000" stop="20250726021000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20250726021000 +0000" stop="20250726030000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Death in Paradise</title>
+</programme>
+<programme start="20250726030000 +0000" stop="20250726041000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Death in Paradise</title>
+</programme>
+<programme start="20250726041000 +0000" stop="20250726045500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250726045500 +0000" stop="20250726054000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250726054000 +0000" stop="20250726062500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250726062500 +0000" stop="20250726070500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250726070500 +0000" stop="20250726075500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20250726075500 +0000" stop="20250726084500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726084500 +0000" stop="20250726094000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726094000 +0000" stop="20250726103000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726103000 +0000" stop="20250726112500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726112500 +0000" stop="20250726121500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726121500 +0000" stop="20250726131000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726131000 +0000" stop="20250726140500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726140500 +0000" stop="20250726145500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726145500 +0000" stop="20250726155000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726155000 +0000" stop="20250726164000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20250726164000 +0000" stop="20250726173000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Whistleblower</title>
+</programme>
+<programme start="20250726173000 +0000" stop="20250726181500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Whistleblower</title>
+</programme>
+<programme start="20250726181500 +0000" stop="20250726194500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Survivalist</title>
+</programme>
+<programme start="20250726194500 +0000" stop="20250726205000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Gilded Age</title>
+</programme>
+<programme start="20250726205000 +0000" stop="20250726213500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Whistleblower</title>
+</programme>
+<programme start="20250726213500 +0000" stop="20250726222000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Whistleblower</title>
+</programme>
 <programme start="20250725234500 +0000" stop="20250726013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Historisches Derby: ALU-ALT (2013/2014)</title>
 </programme>
