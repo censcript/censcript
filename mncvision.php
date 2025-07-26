@@ -1213,7 +1213,60 @@
 <programme start="20250727163000 +0000" stop="20250726170000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 1000 2025: Toronto (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250726173000 +0000" stop="20250726180000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 28</title>
+</programme>
+<programme start="20250726180000 +0000" stop="20250726200000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Umag (L)</title>
+</programme>
+<programme start="20250726200000 +0000" stop="20250726210000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20250726210000 +0000" stop="20250726213000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 28</title>
+</programme>
+<programme start="20250726213000 +0000" stop="20250726230000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Washington</title>
+</programme>
+<programme start="20250726230000 +0000" stop="20250727010000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500: Washington (L)</title>
+</programme>
+<programme start="20250727010000 +0000" stop="20250727030000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500: Washington (L)</title>
+</programme>
+<programme start="20250727030000 +0000" stop="20250727040000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20250727040000 +0000" stop="20250727053000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Umag Final</title>
+</programme>
+<programme start="20250727053000 +0000" stop="20250727070000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Washington</title>
+</programme>
+<programme start="20250727070000 +0000" stop="20250727083000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Washington</title>
+</programme>
+<programme start="20250727083000 +0000" stop="20250727100000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Kitzbuhel</title>
+</programme>
+<programme start="20250727100000 +0000" stop="20250727113000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 2025: Washington</title>
+</programme>
+<programme start="20250727113000 +0000" stop="20250727120000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 28</title>
+</programme>
+<programme start="20250727120000 +0000" stop="20250727133000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Umag Final</title>
+</programme>
+<programme start="20250727133000 +0000" stop="20250727150000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Kitzbuhel</title>
+</programme>
+<programme start="20250727150000 +0000" stop="20250727163000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Toronto (L)</title>
+</programme>
+<programme start="20250727163000 +0000" stop="20250726170000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Toronto (L)</title>
+</programme>
 <programme start="20250726180000 +0000" stop="20250726183000 +0000" channel="beIN Sports 3.mncvision">
     <title>LaLiga Best 11: Luis Garcia</title>
 </programme>
@@ -4049,9 +4102,198 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250727162500 +0000" stop="20250727165500 +0000" channel="Global Trekker HD.mncvision">
     <title>Atlantic: In The Wild, Ep 3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250726170000 +0000" stop="20250726180000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20250726180000 +0000" stop="20250726190000 +0000" channel="GTV.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250726190000 +0000" stop="20250726210000 +0000" channel="GTV.mncvision">
+    <title>Ragam Pagi</title>
+</programme>
+<programme start="20250726210000 +0000" stop="20250726223000 +0000" channel="GTV.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250726223000 +0000" stop="20250726233000 +0000" channel="GTV.mncvision">
+    <title>Goks Abis</title>
+</programme>
+<programme start="20250726233000 +0000" stop="20250727003000 +0000" channel="GTV.mncvision">
+    <title>Haikyu</title>
+</programme>
+<programme start="20250727003000 +0000" stop="20250727023000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250727023000 +0000" stop="20250727033000 +0000" channel="GTV.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20250727033000 +0000" stop="20250727053000 +0000" channel="GTV.mncvision">
+    <title>Naruto Shippuden</title>
+</programme>
+<programme start="20250727053000 +0000" stop="20250727063000 +0000" channel="GTV.mncvision">
+    <title>Kuliner Nusantara</title>
+</programme>
+<programme start="20250727063000 +0000" stop="20250727083000 +0000" channel="GTV.mncvision">
+    <title>Kera Sakti</title>
+</programme>
+<programme start="20250727083000 +0000" stop="20250727100000 +0000" channel="GTV.mncvision">
+    <title>Hot Spot Viral Weekend</title>
+</programme>
+<programme start="20250727100000 +0000" stop="20250727110000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250727110000 +0000" stop="20250727130000 +0000" channel="GTV.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250727130000 +0000" stop="20250727143000 +0000" channel="GTV.mncvision">
+    <title>Monster&#039;s Battlefield</title>
+</programme>
+<programme start="20250727143000 +0000" stop="20250727153000 +0000" channel="GTV.mncvision">
+    <title>Vanquishing The Demons</title>
+</programme>
+<programme start="20250727153000 +0000" stop="20250727160000 +0000" channel="GTV.mncvision">
+    <title>Predator: PBC Indonesia Open</title>
+</programme>
+<programme start="20250726170000 +0000" stop="20250726180000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20250726180000 +0000" stop="20250726190000 +0000" channel="GTV HD.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250726190000 +0000" stop="20250726210000 +0000" channel="GTV HD.mncvision">
+    <title>Ragam Pagi</title>
+</programme>
+<programme start="20250726210000 +0000" stop="20250726223000 +0000" channel="GTV HD.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20250726223000 +0000" stop="20250726233000 +0000" channel="GTV HD.mncvision">
+    <title>Goks Abis</title>
+</programme>
+<programme start="20250726233000 +0000" stop="20250727003000 +0000" channel="GTV HD.mncvision">
+    <title>Haikyu</title>
+</programme>
+<programme start="20250727003000 +0000" stop="20250727023000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20250727023000 +0000" stop="20250727033000 +0000" channel="GTV HD.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20250727033000 +0000" stop="20250727053000 +0000" channel="GTV HD.mncvision">
+    <title>Naruto Shippuden</title>
+</programme>
+<programme start="20250727053000 +0000" stop="20250727063000 +0000" channel="GTV HD.mncvision">
+    <title>Kuliner Nusantara</title>
+</programme>
+<programme start="20250727063000 +0000" stop="20250727083000 +0000" channel="GTV HD.mncvision">
+    <title>Kera Sakti</title>
+</programme>
+<programme start="20250727083000 +0000" stop="20250727100000 +0000" channel="GTV HD.mncvision">
+    <title>Hot Spot Viral Weekend</title>
+</programme>
+<programme start="20250727100000 +0000" stop="20250727110000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250727110000 +0000" stop="20250727130000 +0000" channel="GTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20250727130000 +0000" stop="20250727143000 +0000" channel="GTV HD.mncvision">
+    <title>Monster&#039;s Battlefield</title>
+</programme>
+<programme start="20250727143000 +0000" stop="20250727153000 +0000" channel="GTV HD.mncvision">
+    <title>Vanquishing The Demons</title>
+</programme>
+<programme start="20250727153000 +0000" stop="20250727160000 +0000" channel="GTV HD.mncvision">
+    <title>Predator: PBC Indonesia Open</title>
+</programme>
+<programme start="20250726180000 +0000" stop="20250726183000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250726183000 +0000" stop="20250726190000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20250726190000 +0000" stop="20250726200000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Nyi Roro Kidul</title>
+</programme>
+<programme start="20250726200000 +0000" stop="20250726210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250726210000 +0000" stop="20250726213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250726213000 +0000" stop="20250726220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250726220000 +0000" stop="20250726223000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Mbah Minto</title>
+</programme>
+<programme start="20250726223000 +0000" stop="20250726230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20250726230000 +0000" stop="20250727000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arjuna</title>
+</programme>
+<programme start="20250727000000 +0000" stop="20250727010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250727010000 +0000" stop="20250727030000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit</title>
+</programme>
+<programme start="20250727030000 +0000" stop="20250727040000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arjuna</title>
+</programme>
+<programme start="20250727040000 +0000" stop="20250727043000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Kaca Benggala</title>
+</programme>
+<programme start="20250727043000 +0000" stop="20250727053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Nyi Roro Kidul</title>
+</programme>
+<programme start="20250727053000 +0000" stop="20250727063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250727063000 +0000" stop="20250727070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250727070000 +0000" stop="20250727073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250727073000 +0000" stop="20250727083000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250727083000 +0000" stop="20250727090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Komedi Jowo</title>
+</programme>
+<programme start="20250727090000 +0000" stop="20250727100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arjuna</title>
+</programme>
+<programme start="20250727100000 +0000" stop="20250727103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Kaca Benggala</title>
+</programme>
+<programme start="20250727103000 +0000" stop="20250727110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250727110000 +0000" stop="20250727120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250727120000 +0000" stop="20250727123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250727123000 +0000" stop="20250727130000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Mbah Minto</title>
+</programme>
+<programme start="20250727130000 +0000" stop="20250727133000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20250727133000 +0000" stop="20250727140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250727140000 +0000" stop="20250727150000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Nyi Roro Kidul</title>
+</programme>
+<programme start="20250727150000 +0000" stop="20250727160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250727160000 +0000" stop="20250727163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit</title>
+</programme>
 <programme start="20250726173500 +0000" stop="20250726183000 +0000" channel="History.mncvision">
     <title>Mountain Men S12, Ep 9</title>
 </programme>
@@ -4307,7 +4549,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250727163000 +0000" stop="20250726170000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Knight And Day</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250726173000 +0000" stop="20250726183000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250726183000 +0000" stop="20250726193000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250726193000 +0000" stop="20250726203000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250726203000 +0000" stop="20250726213000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250726213000 +0000" stop="20250726223000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250726223000 +0000" stop="20250726230000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250726230000 +0000" stop="20250726233000 +0000" channel="IDX.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250726233000 +0000" stop="20250727003000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250727013000 +0000" stop="20250727023000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250727023000 +0000" stop="20250727033000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250727033000 +0000" stop="20250727040000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250727040000 +0000" stop="20250727043000 +0000" channel="IDX.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250727043000 +0000" stop="20250727053000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250727053000 +0000" stop="20250727063000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250727063000 +0000" stop="20250727073000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250727073000 +0000" stop="20250727080000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250727080000 +0000" stop="20250727083000 +0000" channel="IDX.mncvision">
+    <title>Small Space</title>
+</programme>
+<programme start="20250727083000 +0000" stop="20250727090000 +0000" channel="IDX.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250727090000 +0000" stop="20250727093000 +0000" channel="IDX.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250727093000 +0000" stop="20250727103000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250727103000 +0000" stop="20250727110000 +0000" channel="IDX.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250727110000 +0000" stop="20250727113000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250727113000 +0000" stop="20250727120000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250727120000 +0000" stop="20250727130000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250727130000 +0000" stop="20250727140000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250727140000 +0000" stop="20250727150000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250727150000 +0000" stop="20250727153000 +0000" channel="IDX.mncvision">
+    <title>Special Dialog</title>
+</programme>
+<programme start="20250727153000 +0000" stop="20250727160000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250727160000 +0000" stop="20250727163000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250727163000 +0000" stop="20250726170000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20250726173000 +0000" stop="20250726183000 +0000" channel="IDX HD.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
