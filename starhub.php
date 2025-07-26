@@ -2185,11 +2185,23 @@
     <programme start="20250725223000 +0000" stop="20250726010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Azhagiya Asura</title>
     </programme>
-    <programme start="20250726040000 +0000" stop="20250726100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250726010000 +0000" stop="20250726013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250726100000 +0000" stop="20250726160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250726013000 +0000" stop="20250726043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pongalo Pongal</title>
+    </programme>
+    <programme start="20250726043000 +0000" stop="20250726073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaadhal Sadugudu</title>
+    </programme>
+    <programme start="20250726073000 +0000" stop="20250726103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Vallavan</title>
+    </programme>
+    <programme start="20250726103000 +0000" stop="20250726133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Jana</title>
+    </programme>
+    <programme start="20250726133000 +0000" stop="20250726170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aranmanai</title>
     </programme>
     <programme start="20250725153000 +0000" stop="20250725170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 500 2025: Washington Day 4 Tiafoe v Cobolli</title>
