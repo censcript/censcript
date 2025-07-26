@@ -964,10 +964,10 @@
     <programme start="20250725160000 +0000" stop="20250726024700 +0000" channel="WCH CH03.mewatch">
         <title>No Programme available now. Next Broadcast on 26th July, Saturday 10.47am. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250726024700 +0000" stop="20250726050000 +0000" channel="WCH CH03.mewatch">
+    <programme start="20250726024700 +0000" stop="20250726061500 +0000" channel="WCH CH03.mewatch">
         <title>World Aquatics Championships - Singapore 2025: High Diving - Women&#039;s 20m - Round 5 &amp; 6 Final</title>
     </programme>
-    <programme start="20250726050000 +0000" stop="20250726160000 +0000" channel="WCH CH03.mewatch">
+    <programme start="20250726061500 +0000" stop="20250726160000 +0000" channel="WCH CH03.mewatch">
         <title>No Programme available now. Next Broadcast on 27th July, Sunday 10.47am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250726160000 +0000" stop="20250727024700 +0000" channel="WCH CH03.mewatch">

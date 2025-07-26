@@ -3121,26 +3121,23 @@
 <programme start="20250726195000 +0000" stop="20250726220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live PL: FC Everton - AFC Bournemouth, Summer Series in New Jersey</title>
 </programme>
-<programme start="20250726030000 +0000" stop="20250726050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Halbfinale, Generali Open in Kitzbühel (AUT), Halbfinale 2</title>
-</programme>
 <programme start="20250726050000 +0000" stop="20250726060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
 <programme start="20250726060000 +0000" stop="20250726080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Mubadala Citi DC Open in Washington D.C. (USA), Viertelfinale</title>
+    <title>ATP 500: D. Medvedev - C. Moutet (FRA), Mubadala Citi DC Open in Washington D.C. (USA), Viertelfinale</title>
 </programme>
 <programme start="20250726080000 +0000" stop="20250726083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250726083000 +0000" stop="20250726103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Halbfinale, Generali Open in Kitzbühel (AUT), Halbfinale 1</title>
+    <title>ATP 250: A. Cazaux (FRA) - A. Rinderknech (FRA), Generali Open in Kitzbühel (AUT), Halbfinale 1</title>
 </programme>
 <programme start="20250726103000 +0000" stop="20250726123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Halbfinale, Generali Open in Kitzbühel (AUT), Halbfinale 2</title>
+    <title>ATP 250: A. Bublik (KAZ) - B. van de Zandschulp (NLD), Generali Open in Kitzbühel (AUT), Halbfinale 2</title>
 </programme>
 <programme start="20250726123000 +0000" stop="20250726150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Generali Open in Kitzbühel (AUT), Finale</title>
+    <title>Live ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250726150000 +0000" stop="20250726153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3149,15 +3146,15 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250726160000 +0000" stop="20250726183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Generali Open in Kitzbühel (AUT), Finale</title>
+    <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250726183000 +0000" stop="20250726203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
+    <title>Live WTA 500: L. Fernandez (CAN) -  E. Rybakina (KAZ), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250726040000 +0000" stop="20250726063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250726050000 +0000" stop="20250726063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: 3M Open, 2. Tag in Blaine, MN (USA)</title>
 </programme>
 <programme start="20250726063000 +0000" stop="20250726070500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3191,7 +3188,7 @@
     <title>Live ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250725220000 +0000" stop="20250725233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 1. Freies Training - GP Belgien</title>
@@ -3265,8 +3262,8 @@
 <programme start="20250726174000 +0000" stop="20250726180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250726180000 +0000" stop="20250726203000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: Finale, Plava Laguna Croatia Open in Umag (CRO), Finale</title>
+<programme start="20250726180000 +0000" stop="20250726223000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250726120000 +0000" stop="20250726160000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 3. Tag in Troon (Schottland)</title>
