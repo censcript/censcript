@@ -586,31 +586,31 @@
 <programme start="20250726070000 +0000" stop="20250726071500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726071500 +0000" stop="20250726073000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726071500 +0000" stop="20250726072500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726073000 +0000" stop="20250726074500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726072500 +0000" stop="20250726074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250726074500 +0000" stop="20250726075500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726075500 +0000" stop="20250726081500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726075500 +0000" stop="20250726081000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726081500 +0000" stop="20250726082500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726081000 +0000" stop="20250726082000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726082500 +0000" stop="20250726083500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726082000 +0000" stop="20250726083000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726083500 +0000" stop="20250726085000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726083000 +0000" stop="20250726085000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726085000 +0000" stop="20250726090000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726085000 +0000" stop="20250726085500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250726090000 +0000" stop="20250726090500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726085500 +0000" stop="20250726090500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250726090500 +0000" stop="20250726091500 +0000" channel="Cartoonito.skyde">
@@ -694,16 +694,16 @@
 <programme start="20250726134000 +0000" stop="20250726140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250726140000 +0000" stop="20250726143000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726140000 +0000" stop="20250726142500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250726143000 +0000" stop="20250726143400 +0000" channel="Cartoonito.skyde">
+<programme start="20250726142500 +0000" stop="20250726143000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250726143400 +0000" stop="20250726143800 +0000" channel="Cartoonito.skyde">
+<programme start="20250726143000 +0000" stop="20250726143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250726143800 +0000" stop="20250726144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726143500 +0000" stop="20250726144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250726144500 +0000" stop="20250726150000 +0000" channel="Cartoonito.skyde">
@@ -715,16 +715,16 @@
 <programme start="20250726151000 +0000" stop="20250726152500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726152500 +0000" stop="20250726153500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726152500 +0000" stop="20250726154000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726153500 +0000" stop="20250726155500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726154000 +0000" stop="20250726155500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726155500 +0000" stop="20250726160000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726155500 +0000" stop="20250726160500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250726160000 +0000" stop="20250726161000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726160500 +0000" stop="20250726161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250726161000 +0000" stop="20250726162500 +0000" channel="Cartoonito.skyde">
@@ -754,10 +754,10 @@
 <programme start="20250726181000 +0000" stop="20250726182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726182500 +0000" stop="20250726183500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726182500 +0000" stop="20250726184000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250726183500 +0000" stop="20250726185500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726184000 +0000" stop="20250726185500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250726185500 +0000" stop="20250726190500 +0000" channel="Cartoonito.skyde">
@@ -793,10 +793,10 @@
 <programme start="20250726203500 +0000" stop="20250726205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250726205000 +0000" stop="20250726210000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726205000 +0000" stop="20250726210500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250726210000 +0000" stop="20250726212000 +0000" channel="Cartoonito.skyde">
+<programme start="20250726210500 +0000" stop="20250726212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20250726212000 +0000" stop="20250726213000 +0000" channel="Cartoonito.skyde">
@@ -805,10 +805,7 @@
 <programme start="20250726213000 +0000" stop="20250726214500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20250726214500 +0000" stop="20250726215500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20250726215500 +0000" stop="20250726221500 +0000" channel="Cartoonito.skyde">
+<programme start="20250726214500 +0000" stop="20250726220000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250725222500 +0000" stop="20250725231000 +0000" channel="Crime + Investigation.skyde">
@@ -3154,7 +3151,7 @@
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250726050000 +0000" stop="20250726063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250726040000 +0000" stop="20250726063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: 3M Open, 2. Tag in Blaine, MN (USA)</title>
 </programme>
 <programme start="20250726063000 +0000" stop="20250726070500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3188,7 +3185,7 @@
     <title>Live ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250725220000 +0000" stop="20250725233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 1. Freies Training - GP Belgien</title>
@@ -3262,8 +3259,8 @@
 <programme start="20250726174000 +0000" stop="20250726180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250726180000 +0000" stop="20250726203000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: Finale, Plava Laguna Croatia Open in Umag (CRO), Finale</title>
+<programme start="20250726180000 +0000" stop="20250726223000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250726114000 +0000" stop="20250726120000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Golf: Es folgt</title>
