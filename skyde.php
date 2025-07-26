@@ -2515,93 +2515,6 @@
 <programme start="20250726215000 +0000" stop="20250726224500 +0000" channel="Sky Replay HD.skyde">
     <title>Big Little Lies</title>
 </programme>
-<programme start="20250725220000 +0000" stop="20250725223000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20250725223000 +0000" stop="20250725230000 +0000" channel="Sky Showcase HD.skyde">
-    <title>FARID - Magic Unplugged: Sports Edition</title>
-</programme>
-<programme start="20250725230000 +0000" stop="20250725235000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250725235000 +0000" stop="20250726004000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726004000 +0000" stop="20250726012500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20250726012500 +0000" stop="20250726021000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20250726021000 +0000" stop="20250726030000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Death in Paradise</title>
-</programme>
-<programme start="20250726030000 +0000" stop="20250726041000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Death in Paradise</title>
-</programme>
-<programme start="20250726041000 +0000" stop="20250726045500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250726045500 +0000" stop="20250726054000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250726054000 +0000" stop="20250726062500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250726062500 +0000" stop="20250726070500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250726070500 +0000" stop="20250726075500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20250726075500 +0000" stop="20250726084500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726084500 +0000" stop="20250726094000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726094000 +0000" stop="20250726103000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726103000 +0000" stop="20250726112500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726112500 +0000" stop="20250726121500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726121500 +0000" stop="20250726131000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726131000 +0000" stop="20250726140500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726140500 +0000" stop="20250726145500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726145500 +0000" stop="20250726155000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726155000 +0000" stop="20250726164000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20250726164000 +0000" stop="20250726173000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Whistleblower</title>
-</programme>
-<programme start="20250726173000 +0000" stop="20250726181500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Whistleblower</title>
-</programme>
-<programme start="20250726181500 +0000" stop="20250726194500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Survivalist</title>
-</programme>
-<programme start="20250726194500 +0000" stop="20250726205000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Gilded Age</title>
-</programme>
-<programme start="20250726205000 +0000" stop="20250726213500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Whistleblower</title>
-</programme>
-<programme start="20250726213500 +0000" stop="20250726222000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Whistleblower</title>
-</programme>
 <programme start="20250725234500 +0000" stop="20250726013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Historisches Derby: ALU-ALT (2013/2014)</title>
 </programme>
@@ -3118,9 +3031,6 @@
 <programme start="20250726195000 +0000" stop="20250726220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live PL: FC Everton - AFC Bournemouth, Summer Series in New Jersey</title>
 </programme>
-<programme start="20250726040000 +0000" stop="20250726050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: A. Bublik (KAZ) - B. van de Zandschulp (NLD), Generali Open in Kitzbühel (AUT), Halbfinale 2</title>
-</programme>
 <programme start="20250726050000 +0000" stop="20250726060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
@@ -3149,12 +3059,12 @@
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250726183000 +0000" stop="20250726203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
+    <title>Live WTA 500: L. Fernandez (CAN) -  E. Rybakina (KAZ), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250726040000 +0000" stop="20250726063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250726050000 +0000" stop="20250726063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: 3M Open, 2. Tag in Blaine, MN (USA)</title>
 </programme>
 <programme start="20250726063000 +0000" stop="20250726070500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3188,7 +3098,7 @@
     <title>Live ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250725220000 +0000" stop="20250725233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 1. Freies Training - GP Belgien</title>
@@ -3268,7 +3178,7 @@
 <programme start="20250726114000 +0000" stop="20250726120000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Golf: Es folgt</title>
 </programme>
-<programme start="20250726120000 +0000" stop="20250726160000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250726120000 +0000" stop="20250726180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 3. Tag in Troon (Schottland)</title>
 </programme>
 <programme start="20250725223000 +0000" stop="20250725232500 +0000" channel="SYFY HD.skyde">
