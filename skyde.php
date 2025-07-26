@@ -3118,10 +3118,13 @@
 <programme start="20250726195000 +0000" stop="20250726220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live PL: FC Everton - AFC Bournemouth, Summer Series in New Jersey</title>
 </programme>
-<programme start="20250726060000 +0000" stop="20250726070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250726030000 +0000" stop="20250726050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: A. Bublik (KAZ) - B. van de Zandschulp (NLD), Generali Open in Kitzbühel (AUT), Halbfinale 2</title>
+</programme>
+<programme start="20250726050000 +0000" stop="20250726060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
-<programme start="20250726070000 +0000" stop="20250726080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250726060000 +0000" stop="20250726080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: D. Medvedev - C. Moutet (FRA), Mubadala Citi DC Open in Washington D.C. (USA), Viertelfinale</title>
 </programme>
 <programme start="20250726080000 +0000" stop="20250726083000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3146,10 +3149,10 @@
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250726183000 +0000" stop="20250726203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: L. Fernandez (CAN) -  E. Rybakina (KAZ), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
+    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
 <programme start="20250726203000 +0000" stop="20250726223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live WTA 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250726030000 +0000" stop="20250726040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Sprint Qualifying - GP Belgien</title>
