@@ -634,14 +634,8 @@
 <programme start="20250726010000 +0000" stop="20250726023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250726023000 +0000" stop="20250726060000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
-</programme>
 <programme start="20250726060000 +0000" stop="20250726090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20250726090000 +0000" stop="20250726123000 +0000" channel="ANTV.vision">
-<title>Simmba</title>
 </programme>
 <programme start="20250726123000 +0000" stop="20250726143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250727051500 +0000" stop="20250727070000 +0000" channel="BTV.vision">
 <title>Swaragini</title>
+</programme>
+<programme start="20250727070000 +0000" stop="20250727080000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250727080000 +0000" stop="20250727090000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>
