@@ -2978,7 +2978,7 @@
     <title>Live ATP 500: C. Moutet (FRA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
 <programme start="20250727010000 +0000" stop="20250727030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: T. Fritz (USA) / A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live ATP 500: A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250727030000 +0000" stop="20250727033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -2999,7 +2999,7 @@
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250727110000 +0000" stop="20250727130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: T. Fritz (USA) / A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>ATP 500: A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250727130000 +0000" stop="20250727150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
@@ -3014,7 +3014,7 @@
     <title>Live Testspiel: Eintracht Frankfurt - Aston Villa, Testspiel in Louisville (USA)</title>
 </programme>
 <programme start="20250727010000 +0000" stop="20250727030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: Halbfinale, Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+    <title>Live ATP 500: T. Fritz (USA) / A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250727030000 +0000" stop="20250727033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3163,13 +3163,13 @@
 <programme start="20250727183000 +0000" stop="20250727210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
-<programme start="20250727210000 +0000" stop="20250727233000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250727210000 +0000" stop="20250728080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250727104000 +0000" stop="20250727110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250727110000 +0000" stop="20250727170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250727110000 +0000" stop="20250727150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 4. Tag in Troon (Schottland)</title>
 </programme>
 <programme start="20250726224000 +0000" stop="20250727002500 +0000" channel="SYFY HD.skyde">
