@@ -631,14 +631,8 @@
 <programme start="20250727114500 +0000" stop="20250727121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250725230000 +0000" stop="20250726010000 +0000" channel="ANTV.vision">
-<title>Menantang Prahara</title>
-</programme>
 <programme start="20250726010000 +0000" stop="20250726023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250726023000 +0000" stop="20250726060000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
 </programme>
 <programme start="20250726060000 +0000" stop="20250726090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250727050000 +0000" stop="20250727051500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20250727051500 +0000" stop="20250727070000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250727070000 +0000" stop="20250727080000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
 </programme>
