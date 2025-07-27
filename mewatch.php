@@ -935,7 +935,7 @@
         <title>No programme available now. Next broadcast on 1st August, Friday 8.30pm. ONE Friday Fights 118</title>
     </programme>
     <programme start="20250726160000 +0000" stop="20250727160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place</title>
+        <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place Match : Philippines vs Thailand</title>
     </programme>
     <programme start="20250727160000 +0000" stop="20250728130000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place</title>
