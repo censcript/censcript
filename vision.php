@@ -427,9 +427,6 @@
 <programme start="20250726233000 +0000" stop="20250727003000 +0000" channel="Trans TV.vision">
 <title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20250727013000 +0000" stop="20250727033000 +0000" channel="Trans TV.vision">
-<title>Ambyar In Weekend</title>
-</programme>
 <programme start="20250727033000 +0000" stop="20250727043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
@@ -507,18 +504,6 @@
 </programme>
 <programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250727013000 +0000" stop="20250727023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250727023000 +0000" stop="20250727033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250727033000 +0000" stop="20250727041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250727041500 +0000" stop="20250727050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
 </programme>
 <programme start="20250727050000 +0000" stop="20250727054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20250728090000 +0000" stop="20250728100000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20250728100000 +0000" stop="20250728110000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250728110000 +0000" stop="20250728120000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250726230000 +0000" stop="20250727003000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727003000 +0000" stop="20250727015500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727015500 +0000" stop="20250727032000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

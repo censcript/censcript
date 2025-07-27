@@ -938,7 +938,7 @@
         <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place Match : Philippines vs Thailand</title>
     </programme>
     <programme start="20250727160000 +0000" stop="20250728130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place</title>
+        <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place Match : Philippines vs Thailand</title>
     </programme>
     <programme start="20250726160000 +0000" stop="20250727160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
