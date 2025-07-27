@@ -2599,7 +2599,7 @@
 <programme start="20250727144000 +0000" stop="20250727150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP World Tour: Es folgt</title>
 </programme>
-<programme start="20250727150000 +0000" stop="20250728030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250727150000 +0000" stop="20250728080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 1. Tag</title>
 </programme>
 <programme start="20250726220000 +0000" stop="20250726221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2764,10 +2764,10 @@
 <programme start="20250727213000 +0000" stop="20250727220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Belgien</title>
 </programme>
-<programme start="20250726220000 +0000" stop="20250727020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250726221000 +0000" stop="20250727021000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 3. Tag in Troon (Schottland)</title>
 </programme>
-<programme start="20250727020000 +0000" stop="20250727050000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250727021000 +0000" stop="20250727050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: 3M Open, 3. Tag in Blaine, MN (USA)</title>
 </programme>
 <programme start="20250727050000 +0000" stop="20250727080000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2870,7 +2870,7 @@
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20250727112500 +0000" stop="20250727133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Testspiel: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
+    <title>Live PL: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
 </programme>
 <programme start="20250727133000 +0000" stop="20250727160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
@@ -2912,7 +2912,7 @@
     <title>PL: PL Rewind: MCI vs. QPR 2011/12</title>
 </programme>
 <programme start="20250727020000 +0000" stop="20250727040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: FC Everton - AFC Bournemouth, Summer Series in New Jersey</title>
+    <title>Testspiel: FC Liverpool - AC Mailand, Testspiel in Hongkong</title>
 </programme>
 <programme start="20250727040000 +0000" stop="20250727060000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester United - West Ham United, Summer Series in New Jersey</title>
@@ -2945,13 +2945,13 @@
     <title>PL: Under the Skin (Newcastle United)</title>
 </programme>
 <programme start="20250727112500 +0000" stop="20250727133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live Testspiel: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
+    <title>Live PL: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
 </programme>
 <programme start="20250727133000 +0000" stop="20250727140000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Cesc Fabregas)</title>
 </programme>
 <programme start="20250727140000 +0000" stop="20250727160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Testspiel: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
+    <title>PL: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
 </programme>
 <programme start="20250727160000 +0000" stop="20250727163000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Thomas Tuchel)</title>
@@ -2971,13 +2971,13 @@
 <programme start="20250727200000 +0000" stop="20250727220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Testspiel: FC Liverpool - AC Mailand, Testspiel in Hongkong</title>
 </programme>
-<programme start="20250726223000 +0000" stop="20250726230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+<programme start="20250726220000 +0000" stop="20250727000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250726230000 +0000" stop="20250727010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250727000000 +0000" stop="20250727021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: C. Moutet (FRA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
-<programme start="20250727010000 +0000" stop="20250727030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250727021500 +0000" stop="20250727030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250727030000 +0000" stop="20250727033000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3007,14 +3007,17 @@
 <programme start="20250727150000 +0000" stop="20250728030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Toronto, WTA Montreal (1. Tag) &amp; ATP/WTA Washington (Finals)</title>
 </programme>
-<programme start="20250726223000 +0000" stop="20250726230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+<programme start="20250726220000 +0000" stop="20250726230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 500: A. Kalinskaya - E. Raducanu (GBR), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250726230000 +0000" stop="20250727010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Testspiel: Eintracht Frankfurt - Aston Villa, Testspiel in Louisville (USA)</title>
 </programme>
-<programme start="20250727010000 +0000" stop="20250727030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: T. Fritz (USA) / A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
+<programme start="20250727010000 +0000" stop="20250727021500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 500: C. Moutet (FRA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
+</programme>
+<programme start="20250727021500 +0000" stop="20250727030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 500: A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250727030000 +0000" stop="20250727033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3161,7 +3164,7 @@
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250727183000 +0000" stop="20250727210000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+    <title>Live WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250727210000 +0000" stop="20250728080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
@@ -3169,7 +3172,7 @@
 <programme start="20250727104000 +0000" stop="20250727110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250727110000 +0000" stop="20250727150000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250727110000 +0000" stop="20250727170000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 4. Tag in Troon (Schottland)</title>
 </programme>
 <programme start="20250726224000 +0000" stop="20250727002500 +0000" channel="SYFY HD.skyde">
