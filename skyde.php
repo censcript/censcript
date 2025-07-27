@@ -2977,13 +2977,13 @@
 <programme start="20250727000000 +0000" stop="20250727021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: C. Moutet (FRA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
-<programme start="20250727021500 +0000" stop="20250727035000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250727021500 +0000" stop="20250727030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250727035000 +0000" stop="20250727035500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250727030000 +0000" stop="20250727033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250727035500 +0000" stop="20250727040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250727033000 +0000" stop="20250727040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250727040000 +0000" stop="20250727060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3016,13 +3016,13 @@
 <programme start="20250727010000 +0000" stop="20250727021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: C. Moutet (FRA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 1</title>
 </programme>
-<programme start="20250727021500 +0000" stop="20250727035000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250727021500 +0000" stop="20250727030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: A. Davidovich Fokina (ESP) - B. Shelton (USA), Mubadala Citi DC Open in Washington D.C. (USA), Halbfinale 2</title>
 </programme>
-<programme start="20250727035000 +0000" stop="20250727035500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250727030000 +0000" stop="20250727033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250727035500 +0000" stop="20250727040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250727033000 +0000" stop="20250727040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250727040000 +0000" stop="20250727050000 +0000" channel="Sky Sport Top Event HD.skyde">
