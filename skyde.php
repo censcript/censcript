@@ -3167,7 +3167,7 @@
     <title>Live WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250727210000 +0000" stop="20250728080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 500: A. Davidovich Fokina (ESP) / B. Shelton (USA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+    <title>Live ATP 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250727104000 +0000" stop="20250727110000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Golf</title>
