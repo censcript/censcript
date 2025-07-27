@@ -3080,7 +3080,7 @@
     <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728053000 +0000" stop="20250728080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Davidovich Fokina (ESP) / B. Shelton (USA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+    <title>ATP 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728080000 +0000" stop="20250728100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Topspiel, National Bank Open Presented By Rogers in Montreal (CAN), 1. Tag</title>
@@ -3107,7 +3107,7 @@
     <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728080000 +0000" stop="20250728103000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: A. Davidovich Fokina (ESP) / B. Shelton (USA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+    <title>ATP 500: Finale, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728103000 +0000" stop="20250728104500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (34)</title>
