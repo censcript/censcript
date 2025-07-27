@@ -427,6 +427,9 @@
 <programme start="20250726233000 +0000" stop="20250727003000 +0000" channel="Trans TV.vision">
 <title>Blockbuster Sahur Movie</title>
 </programme>
+<programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="Trans TV.vision">
+<title>Kajian Hati</title>
+</programme>
 <programme start="20250727013000 +0000" stop="20250727033000 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
 </programme>
@@ -504,6 +507,9 @@
 </programme>
 <programme start="20250728114500 +0000" stop="20250728130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
+</programme>
+<programme start="20250727000000 +0000" stop="20250727003000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
 </programme>
 <programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
@@ -627,6 +633,9 @@
 </programme>
 <programme start="20250728114500 +0000" stop="20250728121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250726230000 +0000" stop="20250727010000 +0000" channel="ANTV.vision">
+<title>Tangkuban Perahu</title>
 </programme>
 <programme start="20250727010000 +0000" stop="20250727023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
@@ -1487,14 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250728073000 +0000" stop="20250728081500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250728081500 +0000" stop="20250728083000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250728083000 +0000" stop="20250728090000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250728090000 +0000" stop="20250728100000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

@@ -961,13 +961,13 @@
     <programme start="20250726160000 +0000" stop="20250727070000 +0000" channel="WCH CH01.mewatch">
         <title>No Programme available now. Next Broadcast on 27th July, Sunday 3pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250727070000 +0000" stop="20250727083500 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250727070000 +0000" stop="20250727082500 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Mixed 10m Platform Synchronised Final</title>
     </programme>
-    <programme start="20250727083500 +0000" stop="20250727093000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 27th July, Sunday 5.30pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250727082500 +0000" stop="20250727092200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 27th July, Sunday 5.22pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250727093000 +0000" stop="20250727110000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250727092200 +0000" stop="20250727110000 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Men&#039;s 1m Springboard Final</title>
     </programme>
     <programme start="20250727110000 +0000" stop="20250727160000 +0000" channel="WCH CH01.mewatch">
