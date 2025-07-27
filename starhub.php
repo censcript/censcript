@@ -4807,23 +4807,20 @@
     <programme start="20250727230000 +0000" stop="20250728020000 +0000" channel="Zee Cinema.starhub">
         <title>Judaai</title>
     </programme>
-    <programme start="20250728003000 +0000" stop="20250728033000 +0000" channel="Zee Cinema.starhub">
-        <title>Movie</title>
+    <programme start="20250728020000 +0000" stop="20250728050000 +0000" channel="Zee Cinema.starhub">
+        <title>Squad</title>
     </programme>
-    <programme start="20250728033000 +0000" stop="20250728063000 +0000" channel="Zee Cinema.starhub">
-        <title>Movie</title>
+    <programme start="20250728050000 +0000" stop="20250728080000 +0000" channel="Zee Cinema.starhub">
+        <title>Good Boy Bad Boy</title>
     </programme>
-    <programme start="20250728063000 +0000" stop="20250728093000 +0000" channel="Zee Cinema.starhub">
-        <title>Movie</title>
+    <programme start="20250728080000 +0000" stop="20250728110000 +0000" channel="Zee Cinema.starhub">
+        <title>Phool Aur Kante</title>
     </programme>
-    <programme start="20250728093000 +0000" stop="20250728123000 +0000" channel="Zee Cinema.starhub">
-        <title>Movie</title>
+    <programme start="20250728110000 +0000" stop="20250728140000 +0000" channel="Zee Cinema.starhub">
+        <title>Bawaal</title>
     </programme>
-    <programme start="20250728123000 +0000" stop="20250728153000 +0000" channel="Zee Cinema.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20250728153000 +0000" stop="20250728200000 +0000" channel="Zee Cinema.starhub">
-        <title>Movie</title>
+    <programme start="20250728140000 +0000" stop="20250728163000 +0000" channel="Zee Cinema.starhub">
+        <title>Rangrezz</title>
     </programme>
     <programme start="20250727155000 +0000" stop="20250727164000 +0000" channel="Citra Entertainment.starhub">
         <title>BARAKALLAH 2023</title>
