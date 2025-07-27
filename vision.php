@@ -430,9 +430,6 @@
 <programme start="20250727033000 +0000" stop="20250727043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
-<programme start="20250727053000 +0000" stop="20250727070000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
-</programme>
 <programme start="20250727070000 +0000" stop="20250727080000 +0000" channel="Trans TV.vision">
 <title>Rumpi: No Secret</title>
 </programme>
@@ -501,9 +498,6 @@
 </programme>
 <programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250727063000 +0000" stop="20250727071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
 </programme>
 <programme start="20250727071500 +0000" stop="20250727081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250727075500 +0000" stop="20250727094000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727094000 +0000" stop="20250727110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727110000 +0000" stop="20250727123000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
