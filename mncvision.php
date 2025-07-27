@@ -7777,7 +7777,48 @@
 <programme start="20250727161500 +0000" stop="20250727164500 +0000" channel="RCTI HD.mncvision">
     <title>Aroma Asmara Si Putri Duren</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250726182500 +0000" stop="20250726195500 +0000" channel="Rock Action.mncvision">
+    <title>The One</title>
+</programme>
+<programme start="20250726195500 +0000" stop="20250726220000 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic Park</title>
+</programme>
+<programme start="20250726220000 +0000" stop="20250726222500 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
+</programme>
+<programme start="20250726222500 +0000" stop="20250727001500 +0000" channel="Rock Action.mncvision">
+    <title>Tears Of The Sun</title>
+</programme>
+<programme start="20250727001500 +0000" stop="20250727023000 +0000" channel="Rock Action.mncvision">
+    <title>Spider-Man: Homecoming</title>
+</programme>
+<programme start="20250727023000 +0000" stop="20250727042000 +0000" channel="Rock Action.mncvision">
+    <title>Terminator Salvation</title>
+</programme>
+<programme start="20250727042000 +0000" stop="20250727062500 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20250727062500 +0000" stop="20250727065300 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World Rebirth: New Era</title>
+</programme>
+<programme start="20250727065300 +0000" stop="20250727085500 +0000" channel="Rock Action.mncvision">
+    <title>Hellboy</title>
+</programme>
+<programme start="20250727085500 +0000" stop="20250727102500 +0000" channel="Rock Action.mncvision">
+    <title>Smurfs: The Lost Village</title>
+</programme>
+<programme start="20250727102500 +0000" stop="20250727125500 +0000" channel="Rock Action.mncvision">
+    <title>Blade Runner 2049</title>
+</programme>
+<programme start="20250727125500 +0000" stop="20250727144500 +0000" channel="Rock Action.mncvision">
+    <title>Tears Of The Sun</title>
+</programme>
+<programme start="20250727144500 +0000" stop="20250727161000 +0000" channel="Rock Action.mncvision">
+    <title>Underworld: Blood Wars</title>
+</programme>
+<programme start="20250727161000 +0000" stop="20250727164000 +0000" channel="Rock Action.mncvision">
+    <title>The Legend Of Zorro</title>
+</programme>
 <programme start="20250726173000 +0000" stop="20250726192000 +0000" channel="Rock Entertainment.mncvision">
     <title>The Competition</title>
 </programme>

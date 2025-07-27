@@ -505,12 +505,6 @@
 <programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250727033000 +0000" stop="20250727041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250727041500 +0000" stop="20250727050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
 <programme start="20250727050000 +0000" stop="20250727054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>BTV</title>
 </programme>
 <programme start="20250726230000 +0000" stop="20250727003000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727003000 +0000" stop="20250727015500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727015500 +0000" stop="20250727032000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
