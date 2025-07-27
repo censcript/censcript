@@ -430,9 +430,6 @@
 <programme start="20250727033000 +0000" stop="20250727043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
-<programme start="20250727043000 +0000" stop="20250727053000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
-</programme>
 <programme start="20250727053000 +0000" stop="20250727070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
@@ -504,12 +501,6 @@
 </programme>
 <programme start="20250727003000 +0000" stop="20250727013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
-</programme>
-<programme start="20250727050000 +0000" stop="20250727054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250727054500 +0000" stop="20250727063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
 </programme>
 <programme start="20250727063000 +0000" stop="20250727071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
@@ -615,9 +606,6 @@
 </programme>
 <programme start="20250727010000 +0000" stop="20250727023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250727023000 +0000" stop="20250727060000 +0000" channel="ANTV.vision">
-<title>Student Of The Year</title>
 </programme>
 <programme start="20250727060000 +0000" stop="20250727090000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250727015500 +0000" stop="20250727032000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727032000 +0000" stop="20250727045500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727045500 +0000" stop="20250727061500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727061500 +0000" stop="20250727075500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250727075500 +0000" stop="20250727094000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
