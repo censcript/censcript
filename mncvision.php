@@ -6728,7 +6728,7 @@
     <title>NHK News</title>
 </programme>
 <programme start="20250728103000 +0000" stop="20250728110000 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK World Premium</title>
+    <title>Go Around Expo 2025 Osaka</title>
 </programme>
 <programme start="20250727170000 +0000" stop="20250727172500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Blaze &amp; The Monster Machines</title>

@@ -3076,6 +3076,27 @@
 <programme start="20250728213000 +0000" stop="20250728220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BRE - BRI, 33. Spieltag</title>
 </programme>
+<programme start="20250728030000 +0000" stop="20250728053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+</programme>
+<programme start="20250728053000 +0000" stop="20250728080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Davidovich Fokina (ESP) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+</programme>
+<programme start="20250728080000 +0000" stop="20250728100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: M. Vondrousova (CZE) - A. Eala (PHI), National Bank Open Presented By Rogers in Montreal (CAN), 1. Tag</title>
+</programme>
+<programme start="20250728100000 +0000" stop="20250728103000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+</programme>
+<programme start="20250728103000 +0000" stop="20250728130000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
+</programme>
+<programme start="20250728130000 +0000" stop="20250728150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: S. Ofner (AUT) - R. Opelka (USA), National Bank Open Presented By Rogers in Toronto (CAN), 1. Tag</title>
+</programme>
+<programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 2. Tag</title>
+</programme>
 <programme start="20250728030000 +0000" stop="20250728050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Java House Grand Prix of Monterey</title>
 </programme>

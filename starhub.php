@@ -4141,8 +4141,11 @@
     <programme start="20250728100000 +0000" stop="20250728103000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 7 (B)</title>
     </programme>
-    <programme start="20250728103000 +0000" stop="20250728105700 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+    <programme start="20250728103000 +0000" stop="20250728105400 +0000" channel="NHK World Premium HD.starhub">
+        <title>Go Around EXPO 2025 Osaka (R)</title>
+    </programme>
+    <programme start="20250728105400 +0000" stop="20250728105700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250728105700 +0000" stop="20250728114300 +0000" channel="NHK World Premium HD.starhub">
         <title>Tsurube&#039;s Salute to Families &quot;Hiraizumi Sei in Oiso Town, Kanagawa Prefecture&quot;</title>
@@ -7093,7 +7096,7 @@
     <programme start="20250728135000 +0000" stop="20250728155000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2024/25: Liverpool vs Milan - Friendly</title>
     </programme>
-    <programme start="20250728155000 +0000" stop="20250728163500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728155000 +0000" stop="20250728162500 +0000" channel="beIN Sports HD.starhub">
         <title>The Reds Roundtable: Istanbul Special</title>
     </programme>
     <programme start="20250727152500 +0000" stop="20250727164000 +0000" channel="TestChannel2.starhub">
