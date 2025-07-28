@@ -2674,7 +2674,7 @@
 <programme start="20250728144000 +0000" stop="20250728150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250728150000 +0000" stop="20250729080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 2. Tag</title>
 </programme>
 <programme start="20250727220000 +0000" stop="20250727223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2785,16 +2785,16 @@
 <programme start="20250728210000 +0000" stop="20250728230000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Preußen Münster  - FC Schalke 04,  tipcio Topspiel der Woche, 7. Spieltag</title>
 </programme>
-<programme start="20250727220000 +0000" stop="20250727230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250727222000 +0000" stop="20250727230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Indy NXT: Grand Prix of Monterey - Race 2</title>
 </programme>
 <programme start="20250727230000 +0000" stop="20250728010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728010000 +0000" stop="20250728020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250728010000 +0000" stop="20250728014500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 2. Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728020000 +0000" stop="20250728030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250728020000 +0000" stop="20250728024500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Belgien</title>
 </programme>
 <programme start="20250728030000 +0000" stop="20250728040000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2845,16 +2845,16 @@
 <programme start="20250728210000 +0000" stop="20250728230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Java House Grand Prix of Monterey</title>
 </programme>
-<programme start="20250727220000 +0000" stop="20250728020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250727220500 +0000" stop="20250728020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: ISPS Handa Women&#039;s Scottish Open, 4. Tag in Troon (Schottland)</title>
 </programme>
-<programme start="20250728020000 +0000" stop="20250728050000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250728020000 +0000" stop="20250728051000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: 3M Open, 4. Tag in Blaine, MN (USA)</title>
 </programme>
-<programme start="20250728050000 +0000" stop="20250728080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250728051000 +0000" stop="20250728081000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: ISPS Handa Senior Open, 4. Tag in Berkshire (England)</title>
 </programme>
-<programme start="20250728080000 +0000" stop="20250728090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250728081000 +0000" stop="20250728090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Unfiltered at the Genesis Scottish Open</title>
 </programme>
 <programme start="20250728090000 +0000" stop="20250728120000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3107,7 +3107,7 @@
     <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728080000 +0000" stop="20250728103000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: A. Davidovich Fokina (ESP) / B. Shelton (USA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+    <title>ATP 500: A. Davidovich Fokina (ESP) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728103000 +0000" stop="20250728104500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (34)</title>
@@ -3127,19 +3127,19 @@
 <programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 2. Tag</title>
 </programme>
-<programme start="20250727220000 +0000" stop="20250728000000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250727230000 +0000" stop="20250728010000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728000000 +0000" stop="20250728010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250728010000 +0000" stop="20250728020000 +0000" channel="Sky Sport UHD.skyde">
     <title>PMSC: Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728010000 +0000" stop="20250728020000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250728020000 +0000" stop="20250728030000 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728020000 +0000" stop="20250728030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250728030000 +0000" stop="20250728040000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728030000 +0000" stop="20250728043000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250728040000 +0000" stop="20250728043000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Belgien</title>
 </programme>
 <programme start="20250728043000 +0000" stop="20250728063000 +0000" channel="Sky Sport UHD.skyde">
