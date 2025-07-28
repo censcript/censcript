@@ -658,13 +658,13 @@
 <programme start="20250729090000 +0000" stop="20250729090500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250729090500 +0000" stop="20250729092000 +0000" channel="Cartoonito.skyde">
+<programme start="20250729090500 +0000" stop="20250729092400 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250729092000 +0000" stop="20250729092500 +0000" channel="Cartoonito.skyde">
+<programme start="20250729092400 +0000" stop="20250729092800 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250729092500 +0000" stop="20250729093000 +0000" channel="Cartoonito.skyde">
+<programme start="20250729092800 +0000" stop="20250729093000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250729093000 +0000" stop="20250729093500 +0000" channel="Cartoonito.skyde">
@@ -736,13 +736,13 @@
 <programme start="20250729134000 +0000" stop="20250729140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250729140000 +0000" stop="20250729142900 +0000" channel="Cartoonito.skyde">
+<programme start="20250729140000 +0000" stop="20250729142500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250729142900 +0000" stop="20250729143300 +0000" channel="Cartoonito.skyde">
+<programme start="20250729142500 +0000" stop="20250729143000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250729143300 +0000" stop="20250729143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250729143000 +0000" stop="20250729143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250729143500 +0000" stop="20250729144500 +0000" channel="Cartoonito.skyde">
@@ -2710,7 +2710,7 @@
 <programme start="20250729144000 +0000" stop="20250729150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250729150000 +0000" stop="20250730030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250729150000 +0000" stop="20250730080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 3. Tag</title>
 </programme>
 <programme start="20250728225000 +0000" stop="20250728230500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2986,10 +2986,10 @@
 <programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Indy NXT: Grand Prix of Monterey - Race 1</title>
 </programme>
-<programme start="20250729160000 +0000" stop="20250729170000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Indy NXT: Grand Prix of Monterey - Race 2</title>
 </programme>
-<programme start="20250729170000 +0000" stop="20250729173000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250729163000 +0000" stop="20250729170000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Belgien</title>
 </programme>
 <programme start="20250729173000 +0000" stop="20250729180000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3748,13 +3748,13 @@
 <programme start="20250729033000 +0000" stop="20250729035000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250729035000 +0000" stop="20250729042000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250729035000 +0000" stop="20250729041000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250729042000 +0000" stop="20250729044500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250729041000 +0000" stop="20250729044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250729044500 +0000" stop="20250729051000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250729044000 +0000" stop="20250729051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20250729051000 +0000" stop="20250729053500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3901,16 +3901,16 @@
 <programme start="20250729040000 +0000" stop="20250729054000 +0000" channel="Warner TV Film.skyde">
     <title>Der Mackintosh-Mann</title>
 </programme>
-<programme start="20250729054000 +0000" stop="20250729073000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250729054000 +0000" stop="20250729072500 +0000" channel="Warner TV Film.skyde">
     <title>Meteor</title>
 </programme>
-<programme start="20250729073000 +0000" stop="20250729092000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250729072500 +0000" stop="20250729091500 +0000" channel="Warner TV Film.skyde">
     <title>Outland - Planet der Verdammten</title>
 </programme>
-<programme start="20250729092000 +0000" stop="20250729111000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250729091500 +0000" stop="20250729110500 +0000" channel="Warner TV Film.skyde">
     <title>Mars Attacks!</title>
 </programme>
-<programme start="20250729111000 +0000" stop="20250729134000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250729110500 +0000" stop="20250729134000 +0000" channel="Warner TV Film.skyde">
     <title>Terminator 2 - Tag der Abrechnung (Director&#039;s Cut)</title>
 </programme>
 <programme start="20250729134000 +0000" stop="20250729155000 +0000" channel="Warner TV Film.skyde">
@@ -3919,10 +3919,10 @@
 <programme start="20250729155000 +0000" stop="20250729181500 +0000" channel="Warner TV Film.skyde">
     <title>Die Verurteilten</title>
 </programme>
-<programme start="20250729181500 +0000" stop="20250729202000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250729181500 +0000" stop="20250729202500 +0000" channel="Warner TV Film.skyde">
     <title>Déjà Vu - Wettlauf gegen die Zeit</title>
 </programme>
-<programme start="20250729202000 +0000" stop="20250729222000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250729202500 +0000" stop="20250729222000 +0000" channel="Warner TV Film.skyde">
     <title>The Beach</title>
 </programme>
 <programme start="20250728222000 +0000" stop="20250729000000 +0000" channel="Warner TV Film HD.skyde">
