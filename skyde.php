@@ -3080,10 +3080,10 @@
     <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728053000 +0000" stop="20250728080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Davidovich Fokina (ESP) / B. Shelton (USA) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
+    <title>ATP 500: A. Davidovich Fokina (ESP) - A. de Minaur (AUS), Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250728080000 +0000" stop="20250728100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, National Bank Open Presented By Rogers in Montreal (CAN), 1. Tag</title>
+    <title>WTA 1000: M. Vondrousova (CZE) - A. Eala (PHI), National Bank Open Presented By Rogers in Montreal (CAN), 1. Tag</title>
 </programme>
 <programme start="20250728100000 +0000" stop="20250728103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3092,7 +3092,7 @@
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250728130000 +0000" stop="20250728150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, National Bank Open Presented By Rogers in Toronto (CAN), 1. Tag</title>
+    <title>ATP 1000: S. Ofner (AUT) - R. Opelka (USA), National Bank Open Presented By Rogers in Toronto (CAN), 1. Tag</title>
 </programme>
 <programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 2. Tag</title>
@@ -3154,7 +3154,7 @@
 <programme start="20250728144000 +0000" stop="20250728150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250728150000 +0000" stop="20250729080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 2. Tag</title>
 </programme>
 <programme start="20250727225000 +0000" stop="20250728002500 +0000" channel="SYFY HD.skyde">

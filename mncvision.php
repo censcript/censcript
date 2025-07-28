@@ -5693,10 +5693,10 @@
     <title>Antara Cinta Dan Dusta</title>
 </programme>
 <programme start="20250728151000 +0000" stop="20250728161500 +0000" channel="MDTV.mncvision">
-    <title>Whats Wrong With Secretary...</title>
+    <title>The World Of Married</title>
 </programme>
 <programme start="20250728161500 +0000" stop="20250728164500 +0000" channel="MDTV.mncvision">
-    <title>The World Of Married</title>
+    <title>I See Dead People</title>
 </programme>
 <programme start="20250727170000 +0000" stop="20250727170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
@@ -8659,10 +8659,10 @@
 <programme start="20250727200000 +0000" stop="20250727220000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250727220000 +0000" stop="20250728003000 +0000" channel="SPOTV.mncvision">
+<programme start="20250727220000 +0000" stop="20250728004000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250728003000 +0000" stop="20250728033000 +0000" channel="SPOTV.mncvision">
+<programme start="20250728004000 +0000" stop="20250728033000 +0000" channel="SPOTV.mncvision">
     <title>ISPS Handa Senior Open</title>
 </programme>
 <programme start="20250728033000 +0000" stop="20250728060000 +0000" channel="SPOTV.mncvision">
@@ -8812,10 +8812,10 @@
 <programme start="20250727200000 +0000" stop="20250727220000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250727220000 +0000" stop="20250728003000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250727220000 +0000" stop="20250728004000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S11: Berlin E-Prix</title>
 </programme>
-<programme start="20250728003000 +0000" stop="20250728033000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250728004000 +0000" stop="20250728033000 +0000" channel="SPOTV HD.mncvision">
     <title>ISPS Handa Senior Open</title>
 </programme>
 <programme start="20250728033000 +0000" stop="20250728060000 +0000" channel="SPOTV HD.mncvision">

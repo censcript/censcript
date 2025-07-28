@@ -8200,13 +8200,13 @@
     <programme start="20250727133000 +0000" stop="20250727163000 +0000" channel="Asianet Movies.starhub">
         <title>Evidam Swargamanu</title>
     </programme>
-    <programme start="20250727163000 +0000" stop="20250727190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250727163000 +0000" stop="20250727185000 +0000" channel="Asianet Movies.starhub">
         <title>Romeo</title>
     </programme>
-    <programme start="20250727190000 +0000" stop="20250727220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250727185000 +0000" stop="20250727212000 +0000" channel="Asianet Movies.starhub">
         <title>Maamannan</title>
     </programme>
-    <programme start="20250727220000 +0000" stop="20250727233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250727212000 +0000" stop="20250727233000 +0000" channel="Asianet Movies.starhub">
         <title>Boy Friend</title>
     </programme>
     <programme start="20250727233000 +0000" stop="20250728013000 +0000" channel="Asianet Movies.starhub">
