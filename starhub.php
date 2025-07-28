@@ -7051,29 +7051,29 @@
     <programme start="20250728063000 +0000" stop="20250728070000 +0000" channel="beIN Sports HD.starhub">
         <title>Rally Finland</title>
     </programme>
-    <programme start="20250728070000 +0000" stop="20250728080000 +0000" channel="beIN Sports HD.starhub">
-        <title>Festival of Speed I</title>
+    <programme start="20250728070000 +0000" stop="20250728085000 +0000" channel="beIN Sports HD.starhub">
+        <title>Pre Season Friendly 2025: Kaiserslautern vs Roma</title>
     </programme>
-    <programme start="20250728080000 +0000" stop="20250728090000 +0000" channel="beIN Sports HD.starhub">
-        <title>Festival of Speed II</title>
-    </programme>
-    <programme start="20250728090000 +0000" stop="20250728095000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728085000 +0000" stop="20250728094000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 3 Championship Feature Race 2025: Spa-Francorchamps, Belgium</title>
     </programme>
-    <programme start="20250728095000 +0000" stop="20250728105500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728094000 +0000" stop="20250728104000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 2 Championship Feature Race 2025: Spa-Francorchamps, Belgium</title>
     </programme>
-    <programme start="20250728105500 +0000" stop="20250728113000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728104000 +0000" stop="20250728111500 +0000" channel="beIN Sports HD.starhub">
         <title>Porsche Mobil 1 Supercup Race 2025: Spa-Francorchamps, Belgium</title>
     </programme>
-    <programme start="20250728113000 +0000" stop="20250728133000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728111500 +0000" stop="20250728131500 +0000" channel="beIN Sports HD.starhub">
         <title>Formula 1 Main Race 2025: FORMULA 1 MOET &amp; CHANDON BELGIAN GRAND PRIX 2025</title>
     </programme>
-    <programme start="20250728133000 +0000" stop="20250728140500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728131500 +0000" stop="20250728135000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 MOET &amp; CHANDON BELGIAN GRAND PRIX 2025</title>
     </programme>
-    <programme start="20250728140500 +0000" stop="20250728160500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250728135000 +0000" stop="20250728155000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2024/25: Liverpool vs Milan - Friendly</title>
+    </programme>
+    <programme start="20250728155000 +0000" stop="20250728163500 +0000" channel="beIN Sports HD.starhub">
+        <title>The Reds Roundtable: Istanbul Special</title>
     </programme>
     <programme start="20250727152500 +0000" stop="20250727164000 +0000" channel="TestChannel2.starhub">
         <title>The Escape of the Seven</title>
