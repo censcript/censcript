@@ -2285,31 +2285,31 @@
         <title>ATP Tour 1000 2025: Toronto Day 1 Match 6</title>
     </programme>
     <programme start="20250728030000 +0000" stop="20250728043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 1 Match 1</title>
+        <title>Toronto Day 1 Walton v Bonzi</title>
     </programme>
     <programme start="20250728043000 +0000" stop="20250728060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 1 Match 2</title>
+        <title>Toronto Day 1 Opelka v Ofner</title>
     </programme>
     <programme start="20250728060000 +0000" stop="20250728073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Final</title>
+        <title>Washington Final De Minaur v Davidovich Fokina</title>
     </programme>
     <programme start="20250728073000 +0000" stop="20250728090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 1 Match 3</title>
+        <title>Toronto Day 1 Monfils v Barrios Vera</title>
     </programme>
     <programme start="20250728090000 +0000" stop="20250728103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 1 Match 4</title>
+        <title>Toronto Day 1 Walton v Bonzi</title>
     </programme>
     <programme start="20250728103000 +0000" stop="20250728120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 1 Match 5</title>
+        <title>Toronto Day 1 Bagnis v Pospisil</title>
     </programme>
     <programme start="20250728120000 +0000" stop="20250728133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 1 Match 6</title>
+        <title>Toronto Day 1 Monfils v Barrios Vera</title>
     </programme>
     <programme start="20250728133000 +0000" stop="20250728150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Washington Final</title>
+        <title>Washington Final De Minaur v Davidovich Fokina</title>
     </programme>
     <programme start="20250728150000 +0000" stop="20250728163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 1</title>
+        <title>Toronto Day 2 Goffin v McDonald</title>
     </programme>
     <programme start="20250727160000 +0000" stop="20250727170000 +0000" channel="TVB Xing He.starhub">
         <title>Young Charioteers</title>
@@ -2891,13 +2891,13 @@
         <title>Saregamapa Seniors S05 Mega Auditions</title>
     </programme>
     <programme start="20250727233000 +0000" stop="20250728000000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05 Mega Auditions</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250728000000 +0000" stop="20250728003000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05 Mega Auditions</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20250728003000 +0000" stop="20250728033000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+        <title>Kedi Billa Killadi Rangga</title>
     </programme>
     <programme start="20250728033000 +0000" stop="20250728040000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -2914,38 +2914,59 @@
     <programme start="20250728053000 +0000" stop="20250728060000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
-    <programme start="20250728060000 +0000" stop="20250728063000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Dhanusha Raasi Neyargale</title>
+    <programme start="20250728060000 +0000" stop="20250728083000 +0000" channel="Zee Tamil.starhub">
+        <title>Mishan Impossible</title>
     </programme>
-    <programme start="20250728063000 +0000" stop="20250728090000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20250728083000 +0000" stop="20250728090000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Oru Kidariyin Karunai Manu</title>
     </programme>
     <programme start="20250728090000 +0000" stop="20250728093000 +0000" channel="Zee Tamil.starhub">
         <title>Maari</title>
     </programme>
-    <programme start="20250728093000 +0000" stop="20250728120000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20250728093000 +0000" stop="20250728100000 +0000" channel="Zee Tamil.starhub">
+        <title>Manasellam</title>
+    </programme>
+    <programme start="20250728100000 +0000" stop="20250728103000 +0000" channel="Zee Tamil.starhub">
+        <title>Varisu</title>
+    </programme>
+    <programme start="20250728103000 +0000" stop="20250728110000 +0000" channel="Zee Tamil.starhub">
+        <title>Gettimelam</title>
+    </programme>
+    <programme start="20250728110000 +0000" stop="20250728113000 +0000" channel="Zee Tamil.starhub">
+        <title>Chinnanjiru Kiliye</title>
+    </programme>
+    <programme start="20250728113000 +0000" stop="20250728120000 +0000" channel="Zee Tamil.starhub">
+        <title>Veera</title>
     </programme>
     <programme start="20250728120000 +0000" stop="20250728123000 +0000" channel="Zee Tamil.starhub">
-        <title>Dance Jodi Dance Reloaded S03</title>
+        <title>Anna</title>
     </programme>
     <programme start="20250728123000 +0000" stop="20250728130000 +0000" channel="Zee Tamil.starhub">
-        <title>Dance Jodi Dance Reloaded S03</title>
+        <title>Ayali</title>
     </programme>
-    <programme start="20250728130000 +0000" stop="20250728133000 +0000" channel="Zee Tamil.starhub">
-        <title>Dance Jodi Dance Reloaded S03</title>
+    <programme start="20250728130000 +0000" stop="20250728134500 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250728133000 +0000" stop="20250728140000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05</title>
+    <programme start="20250728134500 +0000" stop="20250728140000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250728140000 +0000" stop="20250728143000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05</title>
+    <programme start="20250728140000 +0000" stop="20250728141500 +0000" channel="Zee Tamil.starhub">
+        <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250728143000 +0000" stop="20250728150000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05</title>
+    <programme start="20250728141500 +0000" stop="20250728143000 +0000" channel="Zee Tamil.starhub">
+        <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250728150000 +0000" stop="20250728170000 +0000" channel="Zee Tamil.starhub">
-        <title>Ammani</title>
+    <programme start="20250728143000 +0000" stop="20250728144500 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20250728144500 +0000" stop="20250728150000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20250728150000 +0000" stop="20250728153000 +0000" channel="Zee Tamil.starhub">
+        <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20250728153000 +0000" stop="20250728160000 +0000" channel="Zee Tamil.starhub">
+        <title>Karthigai Deepam</title>
     </programme>
     <programme start="20250727160000 +0000" stop="20250727163000 +0000" channel="ANC.starhub">
         <title>Insights: Israel And Middle East</title>
@@ -5335,10 +5356,10 @@
     <programme start="20250727200000 +0000" stop="20250727220000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250727220000 +0000" stop="20250728003000 +0000" channel="SPOTV.starhub">
+    <programme start="20250727220000 +0000" stop="20250728004000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250728003000 +0000" stop="20250728060000 +0000" channel="SPOTV.starhub">
+    <programme start="20250728004000 +0000" stop="20250728060000 +0000" channel="SPOTV.starhub">
         <title>Round 3</title>
     </programme>
     <programme start="20250728060000 +0000" stop="20250728070000 +0000" channel="SPOTV.starhub">
