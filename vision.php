@@ -850,12 +850,6 @@
 <programme start="20250728110000 +0000" stop="20250728130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20250728130000 +0000" stop="20250728143000 +0000" channel="TVOne.vision">
-<title>Talkshow Special (L)</title>
-</programme>
-<programme start="20250728143000 +0000" stop="20250728153000 +0000" channel="TVOne.vision">
-<title>Fakta (L)</title>
-</programme>
 <programme start="20250728153000 +0000" stop="20250728163000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250729100000 +0000" stop="20250729110000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20250729110000 +0000" stop="20250729120000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250727230000 +0000" stop="20250728004500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
