@@ -2888,7 +2888,7 @@
         <title>Mounam Pesiyathey</title>
     </programme>
     <programme start="20250727230000 +0000" stop="20250727233000 +0000" channel="Zee Tamil.starhub">
-        <title>Saregamapa Seniors S05 Mega Auditions</title>
+        <title>Naane Varuvean</title>
     </programme>
     <programme start="20250727233000 +0000" stop="20250728000000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
@@ -5353,10 +5353,10 @@
     <programme start="20250727180000 +0000" stop="20250727190000 +0000" channel="SPOTV.starhub">
         <title>Prosecco DOC UK Round: Race 1</title>
     </programme>
-    <programme start="20250727190000 +0000" stop="20250727200000 +0000" channel="SPOTV.starhub">
+    <programme start="20250727190000 +0000" stop="20250727195500 +0000" channel="SPOTV.starhub">
         <title>Prosecco DOC UK Round: Race 2</title>
     </programme>
-    <programme start="20250727200000 +0000" stop="20250727220000 +0000" channel="SPOTV.starhub">
+    <programme start="20250727195500 +0000" stop="20250727220000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
     <programme start="20250727220000 +0000" stop="20250728004000 +0000" channel="SPOTV.starhub">
