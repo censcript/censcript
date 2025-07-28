@@ -2674,7 +2674,7 @@
 <programme start="20250728144000 +0000" stop="20250728150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250728150000 +0000" stop="20250729080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 2. Tag</title>
 </programme>
 <programme start="20250727220000 +0000" stop="20250727223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2794,14 +2794,8 @@
 <programme start="20250728010000 +0000" stop="20250728014500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 2. Rennen - GP Belgien</title>
 </programme>
-<programme start="20250728014500 +0000" stop="20250728020000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Qualifying Kompakt - GP Belgien</title>
-</programme>
 <programme start="20250728020000 +0000" stop="20250728024500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Belgien</title>
-</programme>
-<programme start="20250728024500 +0000" stop="20250728030000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint Kompakt - GP Belgien</title>
 </programme>
 <programme start="20250728030000 +0000" stop="20250728040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>PMSC: Rennen - GP Belgien</title>
@@ -3160,7 +3154,7 @@
 <programme start="20250728144000 +0000" stop="20250728150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250728150000 +0000" stop="20250729080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250728150000 +0000" stop="20250729030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 2. Tag</title>
 </programme>
 <programme start="20250727225000 +0000" stop="20250728002500 +0000" channel="SYFY HD.skyde">

@@ -1000,17 +1000,17 @@
     <programme start="20250728160000 +0000" stop="20250729160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 1st August, Friday 8.30pm. ONE Friday Fights 118</title>
     </programme>
-    <programme start="20250727160000 +0000" stop="20250728130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28th July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place Match : Philippines vs Thailand</title>
+    <programme start="20250727160000 +0000" stop="20250728123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 28th July, Monday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place Match : Philippines vs Thailand</title>
     </programme>
-    <programme start="20250728130000 +0000" stop="20250728150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250728123400 +0000" stop="20250728150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN U-23 Mandiri Cup™ 2025: 3rd &amp; 4th Place Match : Philippines vs Thailand</title>
     </programme>
     <programme start="20250728150000 +0000" stop="20250728160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Final : Vietnam vs Indonesia</title>
+        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Final : Vietnam vs Indonesia</title>
     </programme>
-    <programme start="20250728160000 +0000" stop="20250729130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Final : Vietnam vs Indonesia</title>
+    <programme start="20250728160000 +0000" stop="20250729123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 8.34pm. ASEAN U-23 Mandiri Cup™ 2025: Final : Vietnam vs Indonesia</title>
     </programme>
     <programme start="20250727160000 +0000" stop="20250728160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

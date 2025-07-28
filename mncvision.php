@@ -1940,7 +1940,7 @@
     <title>Obrolan Seputar Selebriti</title>
 </programme>
 <programme start="20250728093000 +0000" stop="20250728100000 +0000" channel="Celebrities TV.mncvision">
-    <title>Barista</title>
+    <title>Go Spot</title>
 </programme>
 <programme start="20250728100000 +0000" stop="20250728103000 +0000" channel="Celebrities TV.mncvision">
     <title>Seleb De Sitter</title>
@@ -7606,20 +7606,17 @@
 <programme start="20250728163000 +0000" stop="20250727170000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Experience Australia S1, Ep 4</title>
 </programme>
-<programme start="20250727180000 +0000" stop="20250727190000 +0000" channel="RCTI.mncvision">
-    <title>Menjemput Jodoh Si Sopir Cantik</title>
+<programme start="20250727181500 +0000" stop="20250727190000 +0000" channel="RCTI.mncvision">
+    <title>Awas Banyak Copet</title>
 </programme>
-<programme start="20250727190000 +0000" stop="20250727201500 +0000" channel="RCTI.mncvision">
-    <title>Sule Sok British</title>
+<programme start="20250727190000 +0000" stop="20250727203000 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20250727201500 +0000" stop="20250727210000 +0000" channel="RCTI.mncvision">
-    <title>Crispy</title>
-</programme>
-<programme start="20250727210000 +0000" stop="20250727230000 +0000" channel="RCTI.mncvision">
+<programme start="20250727203000 +0000" stop="20250727230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun</title>
 </programme>
 <programme start="20250727230000 +0000" stop="20250727234500 +0000" channel="RCTI.mncvision">
-    <title>Barista</title>
+    <title>Go Spot</title>
 </programme>
 <programme start="20250727234500 +0000" stop="20250728010000 +0000" channel="RCTI.mncvision">
     <title>Upin Ipin</title>
@@ -7658,22 +7655,19 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250728161500 +0000" stop="20250728164500 +0000" channel="RCTI.mncvision">
-    <title>Bubarnya Geng Jomblo</title>
+    <title>Amanah Wali</title>
 </programme>
-<programme start="20250727180000 +0000" stop="20250727190000 +0000" channel="RCTI HD.mncvision">
-    <title>Menjemput Jodoh Si Sopir Cantik</title>
+<programme start="20250727181500 +0000" stop="20250727190000 +0000" channel="RCTI HD.mncvision">
+    <title>Awas Banyak Copet</title>
 </programme>
-<programme start="20250727190000 +0000" stop="20250727201500 +0000" channel="RCTI HD.mncvision">
-    <title>Sule Sok British</title>
+<programme start="20250727190000 +0000" stop="20250727203000 +0000" channel="RCTI HD.mncvision">
+    <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20250727201500 +0000" stop="20250727210000 +0000" channel="RCTI HD.mncvision">
-    <title>Crispy</title>
-</programme>
-<programme start="20250727210000 +0000" stop="20250727230000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250727203000 +0000" stop="20250727230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun</title>
 </programme>
 <programme start="20250727230000 +0000" stop="20250727234500 +0000" channel="RCTI HD.mncvision">
-    <title>Barista</title>
+    <title>Go Spot</title>
 </programme>
 <programme start="20250727234500 +0000" stop="20250728010000 +0000" channel="RCTI HD.mncvision">
     <title>Upin Ipin</title>
@@ -7712,7 +7706,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250728161500 +0000" stop="20250728164500 +0000" channel="RCTI HD.mncvision">
-    <title>Bubarnya Geng Jomblo</title>
+    <title>Amanah Wali</title>
 </programme>
 <programme start="20250727182000 +0000" stop="20250727202500 +0000" channel="Rock Action.mncvision">
     <title>Jurassic World</title>
