@@ -34,47 +34,50 @@
 <programme start="20250728150000 +0000" stop="20250728161500 +0000" channel="RCTI.vision">
 <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20250728161500 +0000" stop="20250728181500 +0000" channel="RCTI.vision">
-<title>Amanah Wali</title>
+<programme start="20250728161500 +0000" stop="20250728180000 +0000" channel="RCTI.vision">
+<title>Bubarnya Geng Jomblo</title>
 </programme>
-<programme start="20250728181500 +0000" stop="20250728190000 +0000" channel="RCTI.vision">
-<title>Awas Banyak Copet</title>
+<programme start="20250728180000 +0000" stop="20250728190000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20250728190000 +0000" stop="20250728203000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
+<programme start="20250728190000 +0000" stop="20250728201500 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
-<programme start="20250728203000 +0000" stop="20250728230000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S2</title>
+<programme start="20250728201500 +0000" stop="20250728210000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
+</programme>
+<programme start="20250728210000 +0000" stop="20250728230000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
 <programme start="20250728230000 +0000" stop="20250728234500 +0000" channel="RCTI.vision">
-<title>Go Spot</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250728234500 +0000" stop="20250729010000 +0000" channel="RCTI.vision">
-<title>Upin Ipin</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729010000 +0000" stop="20250729013000 +0000" channel="RCTI.vision">
-<title>Kiko</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729013000 +0000" stop="20250729044500 +0000" channel="RCTI.vision">
-<title>Doraemon (RCTI)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729044500 +0000" stop="20250729053000 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729053000 +0000" stop="20250729073000 +0000" channel="RCTI.vision">
-<title>Take Me Out Indonesia</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729073000 +0000" stop="20250729090000 +0000" channel="RCTI.vision">
-<title>Misteri Hewan Hitam</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729090000 +0000" stop="20250729100000 +0000" channel="RCTI.vision">
-<title>Jack Dan Danil</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729100000 +0000" stop="20250729110000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun X</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250729110000 +0000" stop="20250729121500 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu</title>
+<title>RCTI</title>
 </programme>
 <programme start="20250728000000 +0000" stop="20250728001500 +0000" channel="MNCTV.vision">
 <title>Sinema Spesial Upin &amp; Ipin</title>
@@ -122,55 +125,55 @@
 <title>Beyond Creator Indonesia...</title>
 </programme>
 <programme start="20250728170000 +0000" stop="20250728173000 +0000" channel="MNCTV.vision">
-<title>Rumahnya Keluarga</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728173000 +0000" stop="20250728190000 +0000" channel="MNCTV.vision">
-<title>Rumahnya Keluarga</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728190000 +0000" stop="20250728203000 +0000" channel="MNCTV.vision">
-<title>Rumahnya Keluarga</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728203000 +0000" stop="20250728213000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Pagi</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728213000 +0000" stop="20250728220000 +0000" channel="MNCTV.vision">
-<title>Jurnal Lintas iNews Pagi</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728220000 +0000" stop="20250728230000 +0000" channel="MNCTV.vision">
-<title>Siraman Qolbu</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728230000 +0000" stop="20250728233000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250728233000 +0000" stop="20250729000000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729000000 +0000" stop="20250729001500 +0000" channel="MNCTV.vision">
-<title>Sinema Spesial Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729001500 +0000" stop="20250729010000 +0000" channel="MNCTV.vision">
-<title>Pada Zaman Dahulu</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729010000 +0000" stop="20250729023000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729023000 +0000" stop="20250729033000 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Siang</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729033000 +0000" stop="20250729040000 +0000" channel="MNCTV.vision">
-<title>Seleb On News</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729040000 +0000" stop="20250729060000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729060000 +0000" stop="20250729080000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729080000 +0000" stop="20250729100000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250729100000 +0000" stop="20250729120000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>MNC TV</title>
 </programme>
 <programme start="20250727233000 +0000" stop="20250728013000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
@@ -206,58 +209,49 @@
 <title>Untold Story</title>
 </programme>
 <programme start="20250728133000 +0000" stop="20250728153000 +0000" channel="GTV.vision">
-<title>Detention</title>
+<title>Jack Reacher</title>
 </programme>
 <programme start="20250728153000 +0000" stop="20250728170000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20250728170000 +0000" stop="20250728180000 +0000" channel="GTV.vision">
-<title>Buletin iNews Malam</title>
+<title>GTV</title>
 </programme>
 <programme start="20250728180000 +0000" stop="20250728190000 +0000" channel="GTV.vision">
-<title>Konon Katanya</title>
+<title>GTV</title>
 </programme>
-<programme start="20250728190000 +0000" stop="20250728210000 +0000" channel="GTV.vision">
-<title>Legenda Sang Penunggu</title>
+<programme start="20250728190000 +0000" stop="20250728193000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250728210000 +0000" stop="20250728223000 +0000" channel="GTV.vision">
-<title>Konon Katanya</title>
+<programme start="20250728193000 +0000" stop="20250728230000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250728223000 +0000" stop="20250728233000 +0000" channel="GTV.vision">
-<title>Goks Abis</title>
+<programme start="20250728230000 +0000" stop="20250729001000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250728233000 +0000" stop="20250729003000 +0000" channel="GTV.vision">
-<title>CoComelon Dan Sahabat</title>
+<programme start="20250729001000 +0000" stop="20250729013000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250729003000 +0000" stop="20250729013000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<programme start="20250729013000 +0000" stop="20250729043000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250729013000 +0000" stop="20250729023000 +0000" channel="GTV.vision">
-<title>Obrolan Seputar Selebirtis</title>
+<programme start="20250729043000 +0000" stop="20250729063000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250729023000 +0000" stop="20250729040000 +0000" channel="GTV.vision">
-<title>Crime.KV</title>
+<programme start="20250729063000 +0000" stop="20250729080000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250729040000 +0000" stop="20250729063000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20250729080000 +0000" stop="20250729093000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20250729063000 +0000" stop="20250729073000 +0000" channel="GTV.vision">
-<title>Kera Sakti</title>
-</programme>
-<programme start="20250729073000 +0000" stop="20250729083000 +0000" channel="GTV.vision">
-<title>Rating 5 (GTV)</title>
-</programme>
-<programme start="20250729083000 +0000" stop="20250729100000 +0000" channel="GTV.vision">
-<title>Hot Spot Viral</title>
-</programme>
-<programme start="20250729100000 +0000" stop="20250729110000 +0000" channel="GTV.vision">
-<title>Kisah Viral Specta</title>
+<programme start="20250729093000 +0000" stop="20250729110000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20250729110000 +0000" stop="20250729113000 +0000" channel="GTV.vision">
-<title>Entong (GTV)</title>
+<title>GTV</title>
 </programme>
-<programme start="20250729113000 +0000" stop="20250729123000 +0000" channel="GTV.vision">
-<title>Fo.Mo (Food and Moving)</title>
+<programme start="20250729113000 +0000" stop="20250729133000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20250728000000 +0000" stop="20250728010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -307,65 +301,62 @@
 <programme start="20250728170000 +0000" stop="20250728173000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250728173000 +0000" stop="20250728180000 +0000" channel="iNews.vision">
-<title>GX</title>
-</programme>
-<programme start="20250728180000 +0000" stop="20250728191500 +0000" channel="iNews.vision">
+<programme start="20250728173000 +0000" stop="20250728190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250728191500 +0000" stop="20250728194500 +0000" channel="iNews.vision">
-<title>Air Mata Surga</title>
+<programme start="20250728190000 +0000" stop="20250728194500 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20250728194500 +0000" stop="20250728201500 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews</title>
 </programme>
 <programme start="20250728201500 +0000" stop="20250728210000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250728210000 +0000" stop="20250728211500 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<title>iNews</title>
 </programme>
 <programme start="20250728211500 +0000" stop="20250728225800 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: TJK Vs UAE (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250728225800 +0000" stop="20250728230000 +0000" channel="iNews.vision">
-<title>Indonesia Raya</title>
+<title>iNews</title>
 </programme>
 <programme start="20250728230000 +0000" stop="20250728233000 +0000" channel="iNews.vision">
-<title>iNews Sport Pagi (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250728233000 +0000" stop="20250729000000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729000000 +0000" stop="20250729010000 +0000" channel="iNews.vision">
-<title>Morning Update</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729010000 +0000" stop="20250729013000 +0000" channel="iNews.vision">
-<title>Terekam</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729013000 +0000" stop="20250729023000 +0000" channel="iNews.vision">
-<title>Lapor Polisi (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729023000 +0000" stop="20250729040000 +0000" channel="iNews.vision">
-<title>iNews Today (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729040000 +0000" stop="20250729060000 +0000" channel="iNews.vision">
-<title>iNews Siang (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729060000 +0000" stop="20250729063000 +0000" channel="iNews.vision">
-<title>Pemimpin Rakyat (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729063000 +0000" stop="20250729070000 +0000" channel="iNews.vision">
-<title>Silet</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729070000 +0000" stop="20250729083000 +0000" channel="iNews.vision">
-<title>Intens Reborn</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729083000 +0000" stop="20250729100000 +0000" channel="iNews.vision">
-<title>Realita (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250729100000 +0000" stop="20250729120000 +0000" channel="iNews.vision">
-<title>BUMN Awards</title>
+<title>iNews</title>
 </programme>
 <programme start="20250727230000 +0000" stop="20250728004500 +0000" channel="SindoNews.vision">
 <title>SindoNews TV</title>
@@ -537,6 +528,9 @@
 </programme>
 <programme start="20250728054500 +0000" stop="20250728063000 +0000" channel="Trans 7.vision">
 <title>Indonesiaku</title>
+</programme>
+<programme start="20250728063000 +0000" stop="20250728071500 +0000" channel="Trans 7.vision">
+<title>Ujung-Ujungnya Damkar</title>
 </programme>
 <programme start="20250728071500 +0000" stop="20250728081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
@@ -849,6 +843,12 @@
 </programme>
 <programme start="20250728110000 +0000" stop="20250728130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20250728130000 +0000" stop="20250728143000 +0000" channel="TVOne.vision">
+<title>Talkshow Special (L)</title>
+</programme>
+<programme start="20250728143000 +0000" stop="20250728153000 +0000" channel="TVOne.vision">
+<title>Fakta (L)</title>
 </programme>
 <programme start="20250728153000 +0000" stop="20250728163000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>

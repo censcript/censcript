@@ -2794,8 +2794,14 @@
 <programme start="20250728010000 +0000" stop="20250728014500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 2. Rennen - GP Belgien</title>
 </programme>
+<programme start="20250728014500 +0000" stop="20250728020000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Qualifying Kompakt - GP Belgien</title>
+</programme>
 <programme start="20250728020000 +0000" stop="20250728024500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Belgien</title>
+</programme>
+<programme start="20250728024500 +0000" stop="20250728030000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Sprint Kompakt - GP Belgien</title>
 </programme>
 <programme start="20250728030000 +0000" stop="20250728040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>PMSC: Rennen - GP Belgien</title>
