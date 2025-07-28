@@ -217,42 +217,7 @@
 <programme start="20250729163000 +0000" stop="20250728170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Dying Earth: The Final Breath</title>
 </programme>
-<programme start="20250728170000 +0000" stop="20250728190000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250728190000 +0000" stop="20250728210000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250728210000 +0000" stop="20250728230000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250728230000 +0000" stop="20250729010000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729010000 +0000" stop="20250729030000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729030000 +0000" stop="20250729050000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729050000 +0000" stop="20250729070000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729070000 +0000" stop="20250729090000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729090000 +0000" stop="20250729110000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729110000 +0000" stop="20250729130000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729130000 +0000" stop="20250729150000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20250729150000 +0000" stop="20250729153000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250728170000 +0000" stop="20250728173000 +0000" channel="Animax.mncvision">
     <title>Oshi No Ko, Ep 23</title>
 </programme>
@@ -1960,45 +1925,7 @@
 <programme start="20250729163000 +0000" stop="20250728170000 +0000" channel="Celebrities TV.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250728171000 +0000" stop="20250728185000 +0000" channel="Celestial Movies.mncvision">
-    <title>Tales From Occult: Malevolence</title>
-</programme>
-<programme start="20250728185000 +0000" stop="20250728205500 +0000" channel="Celestial Movies.mncvision">
-    <title>Shock Wave 2</title>
-</programme>
-<programme start="20250728205500 +0000" stop="20250728225000 +0000" channel="Celestial Movies.mncvision">
-    <title>Old Fox</title>
-</programme>
-<programme start="20250728225000 +0000" stop="20250729002000 +0000" channel="Celestial Movies.mncvision">
-    <title>Everything Is Unknown</title>
-</programme>
-<programme start="20250729002000 +0000" stop="20250729022500 +0000" channel="Celestial Movies.mncvision">
-    <title>Over My Dead Body</title>
-</programme>
-<programme start="20250729022500 +0000" stop="20250729040500 +0000" channel="Celestial Movies.mncvision">
-    <title>Wo Hu</title>
-</programme>
-<programme start="20250729040500 +0000" stop="20250729062500 +0000" channel="Celestial Movies.mncvision">
-    <title>A Guilty Conscience</title>
-</programme>
-<programme start="20250729062500 +0000" stop="20250729083500 +0000" channel="Celestial Movies.mncvision">
-    <title>Raging Fire</title>
-</programme>
-<programme start="20250729083500 +0000" stop="20250729103000 +0000" channel="Celestial Movies.mncvision">
-    <title>Leio</title>
-</programme>
-<programme start="20250729103000 +0000" stop="20250729122500 +0000" channel="Celestial Movies.mncvision">
-    <title>Song Of Spring</title>
-</programme>
-<programme start="20250729122500 +0000" stop="20250729140000 +0000" channel="Celestial Movies.mncvision">
-    <title>Chasing The Dragon (2020)</title>
-</programme>
-<programme start="20250729140000 +0000" stop="20250729153500 +0000" channel="Celestial Movies.mncvision">
-    <title>Lan Kwai Fong</title>
-</programme>
-<programme start="20250729153500 +0000" stop="20250729160500 +0000" channel="Celestial Movies.mncvision">
-    <title>The Moon Thieves</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250728170000 +0000" stop="20250728180000 +0000" channel="CGTN.mncvision">
     <title>Africa Live</title>
 </programme>
@@ -2389,60 +2316,7 @@
 <programme start="20250729151300 +0000" stop="20250729154300 +0000" channel="CINEEDGE HD.mncvision">
     <title>Platinum</title>
 </programme>
-<programme start="20250728170000 +0000" stop="20250728180000 +0000" channel="CNBC.mncvision">
-    <title>The Exchange</title>
-</programme>
-<programme start="20250728180000 +0000" stop="20250728190000 +0000" channel="CNBC.mncvision">
-    <title>Power Lunch</title>
-</programme>
-<programme start="20250728190000 +0000" stop="20250728200000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell</title>
-</programme>
-<programme start="20250728200000 +0000" stop="20250728210000 +0000" channel="CNBC.mncvision">
-    <title>Closing Bell: Overtime</title>
-</programme>
-<programme start="20250728210000 +0000" stop="20250728220000 +0000" channel="CNBC.mncvision">
-    <title>Fast Money</title>
-</programme>
-<programme start="20250728220000 +0000" stop="20250728230000 +0000" channel="CNBC.mncvision">
-    <title>U.S. Markets Edition</title>
-</programme>
-<programme start="20250728230000 +0000" stop="20250729020000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Asia</title>
-</programme>
-<programme start="20250729020000 +0000" stop="20250729030000 +0000" channel="CNBC.mncvision">
-    <title>The China Connection</title>
-</programme>
-<programme start="20250729030000 +0000" stop="20250729040000 +0000" channel="CNBC.mncvision">
-    <title>Inside India</title>
-</programme>
-<programme start="20250729040000 +0000" stop="20250729050000 +0000" channel="CNBC.mncvision">
-    <title>Access Middle East</title>
-</programme>
-<programme start="20250729050000 +0000" stop="20250729060000 +0000" channel="CNBC.mncvision">
-    <title>Europe Early Edition</title>
-</programme>
-<programme start="20250729060000 +0000" stop="20250729090000 +0000" channel="CNBC.mncvision">
-    <title>Squawk Box Europe</title>
-</programme>
-<programme start="20250729090000 +0000" stop="20250729100000 +0000" channel="CNBC.mncvision">
-    <title>Worldwide Exchange</title>
-</programme>
-<programme start="20250729100000 +0000" stop="20250729130000 +0000" channel="CNBC.mncvision">
-    <title>US Squawk Box</title>
-</programme>
-<programme start="20250729130000 +0000" stop="20250729140000 +0000" channel="CNBC.mncvision">
-    <title>Squawk On The Street</title>
-</programme>
-<programme start="20250729140000 +0000" stop="20250729150000 +0000" channel="CNBC.mncvision">
-    <title>Squawk On The Street</title>
-</programme>
-<programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="CNBC.mncvision">
-    <title>Money Movers</title>
-</programme>
-<programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="CNBC.mncvision">
-    <title>Halftime Report</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250728172000 +0000" stop="20250728181500 +0000" channel="Crime Investigation.mncvision">
     <title>Beyond Headlines: E. Thomas</title>
 </programme>
@@ -4126,87 +4000,7 @@
 <programme start="20250729153000 +0000" stop="20250729160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
 </programme>
-<programme start="20250728180000 +0000" stop="20250728183000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
-</programme>
-<programme start="20250728183000 +0000" stop="20250728190000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Dagelan Mbah Minto</title>
-</programme>
-<programme start="20250728190000 +0000" stop="20250728200000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Nyi Roro Kidul</title>
-</programme>
-<programme start="20250728200000 +0000" stop="20250728210000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250728210000 +0000" stop="20250728213000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250728213000 +0000" stop="20250728220000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250728220000 +0000" stop="20250728230000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kyai Ageng Brondong</title>
-</programme>
-<programme start="20250728230000 +0000" stop="20250729000000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arjuna</title>
-</programme>
-<programme start="20250729000000 +0000" stop="20250729010000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250729010000 +0000" stop="20250729030000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
-</programme>
-<programme start="20250729030000 +0000" stop="20250729040000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arjuna</title>
-</programme>
-<programme start="20250729040000 +0000" stop="20250729043000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kaca Benggala</title>
-</programme>
-<programme start="20250729043000 +0000" stop="20250729053000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Nyi Roro Kidul</title>
-</programme>
-<programme start="20250729053000 +0000" stop="20250729063000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250729063000 +0000" stop="20250729073000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kyai Ageng Brondong</title>
-</programme>
-<programme start="20250729073000 +0000" stop="20250729083000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250729083000 +0000" stop="20250729090000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Dagelan Mbah Minto</title>
-</programme>
-<programme start="20250729090000 +0000" stop="20250729100000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arjuna</title>
-</programme>
-<programme start="20250729100000 +0000" stop="20250729103000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Kaca Benggala</title>
-</programme>
-<programme start="20250729103000 +0000" stop="20250729110000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
-</programme>
-<programme start="20250729110000 +0000" stop="20250729120000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20250729120000 +0000" stop="20250729123000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Pawartos Jawi</title>
-</programme>
-<programme start="20250729123000 +0000" stop="20250729133000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Dewi Srengene</title>
-</programme>
-<programme start="20250729133000 +0000" stop="20250729140000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Arwah Lelembut</title>
-</programme>
-<programme start="20250729140000 +0000" stop="20250729150000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Nyi Roro Kidul</title>
-</programme>
-<programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250728170500 +0000" stop="20250728173500 +0000" channel="History.mncvision">
     <title>Storage Wars S14, Ep 312</title>
 </programme>
@@ -5662,66 +5456,7 @@
 <programme start="20250729163500 +0000" stop="20250728170500 +0000" channel="Love Nature HD.mncvision">
     <title>Dawn To Dusk S1, Ep 4</title>
 </programme>
-<programme start="20250728180000 +0000" stop="20250728190000 +0000" channel="MDTV.mncvision">
-    <title>Inilah Kisahnya</title>
-</programme>
-<programme start="20250728190000 +0000" stop="20250728201500 +0000" channel="MDTV.mncvision">
-    <title>Di Balik Mitos</title>
-</programme>
-<programme start="20250728201500 +0000" stop="20250728213000 +0000" channel="MDTV.mncvision">
-    <title>Keajaiban Dunia</title>
-</programme>
-<programme start="20250728213000 +0000" stop="20250728224500 +0000" channel="MDTV.mncvision">
-    <title>Top Spot</title>
-</programme>
-<programme start="20250728224500 +0000" stop="20250728234500 +0000" channel="MDTV.mncvision">
-    <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20250728234500 +0000" stop="20250729005500 +0000" channel="MDTV.mncvision">
-    <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20250729005500 +0000" stop="20250729015500 +0000" channel="MDTV.mncvision">
-    <title>Fakta +62</title>
-</programme>
-<programme start="20250729015500 +0000" stop="20250729025500 +0000" channel="MDTV.mncvision">
-    <title>SensasiHot</title>
-</programme>
-<programme start="20250729025500 +0000" stop="20250729042500 +0000" channel="MDTV.mncvision">
-    <title>Cerita Nyata Pagi</title>
-</programme>
-<programme start="20250729042500 +0000" stop="20250729055500 +0000" channel="MDTV.mncvision">
-    <title>Cerita Nyata</title>
-</programme>
-<programme start="20250729055500 +0000" stop="20250729065500 +0000" channel="MDTV.mncvision">
-    <title>Cinta Fitri S3</title>
-</programme>
-<programme start="20250729065500 +0000" stop="20250729075500 +0000" channel="MDTV.mncvision">
-    <title>Makan Enak</title>
-</programme>
-<programme start="20250729075500 +0000" stop="20250729085500 +0000" channel="MDTV.mncvision">
-    <title>Masak Gesss!!!</title>
-</programme>
-<programme start="20250729085500 +0000" stop="20250729093000 +0000" channel="MDTV.mncvision">
-    <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20250729093000 +0000" stop="20250729110000 +0000" channel="MDTV.mncvision">
-    <title>Nada Cinta</title>
-</programme>
-<programme start="20250729110000 +0000" stop="20250729123000 +0000" channel="MDTV.mncvision">
-    <title>Dia Anakku</title>
-</programme>
-<programme start="20250729123000 +0000" stop="20250729135000 +0000" channel="MDTV.mncvision">
-    <title>Kupu Malam</title>
-</programme>
-<programme start="20250729135000 +0000" stop="20250729151000 +0000" channel="MDTV.mncvision">
-    <title>Antara Cinta Dan Dusta</title>
-</programme>
-<programme start="20250729151000 +0000" stop="20250729161500 +0000" channel="MDTV.mncvision">
-    <title>The World Of Married</title>
-</programme>
-<programme start="20250729161500 +0000" stop="20250729164500 +0000" channel="MDTV.mncvision">
-    <title>I See Dead People</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250728170000 +0000" stop="20250728170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
