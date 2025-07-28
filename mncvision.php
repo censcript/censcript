@@ -1117,11 +1117,11 @@
 <programme start="20250728135000 +0000" stop="20250728155000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV 2024/25: LIV Vs MIL</title>
 </programme>
-<programme start="20250728155000 +0000" stop="20250728163500 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250728155000 +0000" stop="20250728162500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Specials 2024/25</title>
 </programme>
-<programme start="20250728163500 +0000" stop="20250727170500 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Goals Galore 2024/25</title>
+<programme start="20250728162500 +0000" stop="20250728165500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFC Trending 2024/25, Ep 48</title>
 </programme>
 <programme start="20250727170000 +0000" stop="20250727193500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>DTM eSports Championship 2025</title>
@@ -1177,11 +1177,11 @@
 <programme start="20250728135000 +0000" stop="20250728155000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV 2024/25: LIV Vs MIL</title>
 </programme>
-<programme start="20250728155000 +0000" stop="20250728163500 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250728155000 +0000" stop="20250728162500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Specials 2024/25</title>
 </programme>
-<programme start="20250728163500 +0000" stop="20250727170500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Goals Galore 2024/25</title>
+<programme start="20250728162500 +0000" stop="20250728165500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2024/25, Ep 48</title>
 </programme>
 <programme start="20250727183000 +0000" stop="20250727210000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 1000 2025: Toronto (L)</title>
