@@ -76,13 +76,16 @@
     <programme start="20250729020000 +0000" stop="20250729040000 +0000" channel="Channel 5.mewatch">
         <title>World Aquatics Championships Singapore 2025 : Swimming - EP 5</title>
     </programme>
-    <programme start="20250729040000 +0000" stop="20250729061000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729040000 +0000" stop="20250729050000 +0000" channel="Channel 5.mewatch">
         <title>World Aquatics Championships Singapore 2025 : Daily Highlight - EP 14</title>
     </programme>
-    <programme start="20250729061000 +0000" stop="20250729063500 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729050000 +0000" stop="20250729060000 +0000" channel="Channel 5.mewatch">
+        <title>Sketch Meets Ubin Boy: The Magical Adventures</title>
+    </programme>
+    <programme start="20250729060000 +0000" stop="20250729063000 +0000" channel="Channel 5.mewatch">
         <title>Petronix Defenders - EP 15</title>
     </programme>
-    <programme start="20250729063500 +0000" stop="20250729070000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729063000 +0000" stop="20250729070000 +0000" channel="Channel 5.mewatch">
         <title>Pokemon Ultimate Journeys: The Series [S25] - EP 44</title>
     </programme>
     <programme start="20250729070000 +0000" stop="20250729073000 +0000" channel="Channel 5.mewatch">

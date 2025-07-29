@@ -158,7 +158,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250729043000 +0000" stop="20250729050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Newsfluencers</title>
 </programme>
 <programme start="20250729050000 +0000" stop="20250729053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -206,7 +206,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250729143000 +0000" stop="20250729150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Newsfluencers</title>
 </programme>
 <programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -2443,7 +2443,96 @@
 <programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="CNBC.mncvision">
     <title>Halftime Report</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250728172000 +0000" stop="20250728181500 +0000" channel="Crime Investigation.mncvision">
+    <title>Beyond Headlines: E. Thomas</title>
+</programme>
+<programme start="20250728181500 +0000" stop="20250728191000 +0000" channel="Crime Investigation.mncvision">
+    <title>City Confidential, Ep 11</title>
+</programme>
+<programme start="20250728191000 +0000" stop="20250728200500 +0000" channel="Crime Investigation.mncvision">
+    <title>The Braemar Hill Murders</title>
+</programme>
+<programme start="20250728200500 +0000" stop="20250728210000 +0000" channel="Crime Investigation.mncvision">
+    <title>Anatomy Of A Crime, Ep 4</title>
+</programme>
+<programme start="20250728210000 +0000" stop="20250728220000 +0000" channel="Crime Investigation.mncvision">
+    <title>Anatomy Of A Crime, Ep 5</title>
+</programme>
+<programme start="20250728220000 +0000" stop="20250728222500 +0000" channel="Crime Investigation.mncvision">
+    <title>Court Cam: Outrageous Judges 3</title>
+</programme>
+<programme start="20250728222500 +0000" stop="20250728225000 +0000" channel="Crime Investigation.mncvision">
+    <title>Taking The Stand S1, Ep 3</title>
+</programme>
+<programme start="20250728225000 +0000" stop="20250728234500 +0000" channel="Crime Investigation.mncvision">
+    <title>Undercover: Caught On..., Ep 9</title>
+</programme>
+<programme start="20250728234500 +0000" stop="20250729004000 +0000" channel="Crime Investigation.mncvision">
+    <title>Hoarders S14, Ep 6</title>
+</programme>
+<programme start="20250729004000 +0000" stop="20250729013500 +0000" channel="Crime Investigation.mncvision">
+    <title>The Braemar Hill Murders</title>
+</programme>
+<programme start="20250729013500 +0000" stop="20250729023000 +0000" channel="Crime Investigation.mncvision">
+    <title>Anatomy Of A Crime, Ep 4</title>
+</programme>
+<programme start="20250729023000 +0000" stop="20250729032500 +0000" channel="Crime Investigation.mncvision">
+    <title>Anatomy Of A Crime, Ep 5</title>
+</programme>
+<programme start="20250729032500 +0000" stop="20250729042000 +0000" channel="Crime Investigation.mncvision">
+    <title>Murdered At First... S1, Ep 7</title>
+</programme>
+<programme start="20250729042000 +0000" stop="20250729051500 +0000" channel="Crime Investigation.mncvision">
+    <title>Beyond Headlines: E. Thomas</title>
+</programme>
+<programme start="20250729051500 +0000" stop="20250729061000 +0000" channel="Crime Investigation.mncvision">
+    <title>City Confidential, Ep 11</title>
+</programme>
+<programme start="20250729061000 +0000" stop="20250729063500 +0000" channel="Crime Investigation.mncvision">
+    <title>Court Cam: Outrageous Judges 3</title>
+</programme>
+<programme start="20250729063500 +0000" stop="20250729070500 +0000" channel="Crime Investigation.mncvision">
+    <title>Taking The Stand S1, Ep 3</title>
+</programme>
+<programme start="20250729070500 +0000" stop="20250729080000 +0000" channel="Crime Investigation.mncvision">
+    <title>Undercover: Caught On..., Ep 9</title>
+</programme>
+<programme start="20250729080000 +0000" stop="20250729085500 +0000" channel="Crime Investigation.mncvision">
+    <title>Hoarders S14, Ep 6</title>
+</programme>
+<programme start="20250729085500 +0000" stop="20250729094500 +0000" channel="Crime Investigation.mncvision">
+    <title>The Garden City Butcher</title>
+</programme>
+<programme start="20250729094500 +0000" stop="20250729103500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 35</title>
+</programme>
+<programme start="20250729103500 +0000" stop="20250729112500 +0000" channel="Crime Investigation.mncvision">
+    <title>Cold Case Files S3, Ep 36</title>
+</programme>
+<programme start="20250729112500 +0000" stop="20250729121500 +0000" channel="Crime Investigation.mncvision">
+    <title>Accused: Guilty Or... S3, Ep 13</title>
+</programme>
+<programme start="20250729121500 +0000" stop="20250729130500 +0000" channel="Crime Investigation.mncvision">
+    <title>Surviving R. Kelly S3, Ep 2</title>
+</programme>
+<programme start="20250729130500 +0000" stop="20250729135500 +0000" channel="Crime Investigation.mncvision">
+    <title>Interrogation Raw S1, Ep 11</title>
+</programme>
+<programme start="20250729135500 +0000" stop="20250729142000 +0000" channel="Crime Investigation.mncvision">
+    <title>My Strange Arrest S2, Ep 6</title>
+</programme>
+<programme start="20250729142000 +0000" stop="20250729144500 +0000" channel="Crime Investigation.mncvision">
+    <title>My Strange Arrest S1, Ep 6</title>
+</programme>
+<programme start="20250729144500 +0000" stop="20250729153500 +0000" channel="Crime Investigation.mncvision">
+    <title>#TextMeWhenYouGetHome S2, Ep 13</title>
+</programme>
+<programme start="20250729153500 +0000" stop="20250729162500 +0000" channel="Crime Investigation.mncvision">
+    <title>Undercover: Caught On..., Ep 5</title>
+</programme>
+<programme start="20250729162500 +0000" stop="20250729165500 +0000" channel="Crime Investigation.mncvision">
+    <title>Interrogation Raw S1, Ep 11</title>
+</programme>
 <programme start="20250728171000 +0000" stop="20250728173500 +0000" channel="Dreamworks.mncvision">
     <title>Kung Fu Panda: Dragon Knight</title>
 </programme>
@@ -4358,7 +4447,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250729163000 +0000" stop="20250728170000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Traffic</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250728173000 +0000" stop="20250728183000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250728183000 +0000" stop="20250728193000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250728193000 +0000" stop="20250728203000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250728203000 +0000" stop="20250728213000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250728213000 +0000" stop="20250728220000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250728220000 +0000" stop="20250728230000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250728230000 +0000" stop="20250729000000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250729000000 +0000" stop="20250729010000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250729010000 +0000" stop="20250729013000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250729013000 +0000" stop="20250729023000 +0000" channel="IDX.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20250729023000 +0000" stop="20250729033000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250729033000 +0000" stop="20250729043000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250729043000 +0000" stop="20250729050000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250729050000 +0000" stop="20250729053000 +0000" channel="IDX.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20250729053000 +0000" stop="20250729063000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250729063000 +0000" stop="20250729070000 +0000" channel="IDX.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250729070000 +0000" stop="20250729073000 +0000" channel="IDX.mncvision">
+    <title>Rasa Indonesia</title>
+</programme>
+<programme start="20250729073000 +0000" stop="20250729083000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250729083000 +0000" stop="20250729093000 +0000" channel="IDX.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20250729093000 +0000" stop="20250729103000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250729103000 +0000" stop="20250729110000 +0000" channel="IDX.mncvision">
+    <title>Rasa Indonesia</title>
+</programme>
+<programme start="20250729110000 +0000" stop="20250729113000 +0000" channel="IDX.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250729113000 +0000" stop="20250729120000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250729120000 +0000" stop="20250729130000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250729130000 +0000" stop="20250729140000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20250729140000 +0000" stop="20250729150000 +0000" channel="IDX.mncvision">
+    <title>Market Review (L)</title>
+</programme>
+<programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250729163000 +0000" stop="20250728170000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20250728173000 +0000" stop="20250728183000 +0000" channel="IDX HD.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -5967,7 +6142,33 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250729163000 +0000" stop="20250728170000 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250728170000 +0000" stop="20250728200000 +0000" channel="MTV 90's.mncvision">
+    <title>Boys Vs Girls: 90s Hits!</title>
+</programme>
+<programme start="20250728200000 +0000" stop="20250728210000 +0000" channel="MTV 90's.mncvision">
+    <title>Alternative Nation!</title>
+</programme>
+<programme start="20250728210000 +0000" stop="20250729000000 +0000" channel="MTV 90's.mncvision">
+    <title>Ultimate 90s Playlist!</title>
+</programme>
+<programme start="20250729000000 +0000" stop="20250729030000 +0000" channel="MTV 90's.mncvision">
+    <title>90s Mixtape!</title>
+</programme>
+<programme start="20250729030000 +0000" stop="20250729060000 +0000" channel="MTV 90's.mncvision">
+    <title>Ultimate 90s Playlist!</title>
+</programme>
+<programme start="20250729060000 +0000" stop="20250729070000 +0000" channel="MTV 90's.mncvision">
+    <title>Girl Power Hour!</title>
+</programme>
+<programme start="20250729070000 +0000" stop="20250729100000 +0000" channel="MTV 90's.mncvision">
+    <title>Mmm Bop! Perfect Pop</title>
+</programme>
+<programme start="20250729100000 +0000" stop="20250729140000 +0000" channel="MTV 90's.mncvision">
+    <title>I Like To Move It! Top 50 90s</title>
+</programme>
+<programme start="20250729140000 +0000" stop="20250729143000 +0000" channel="MTV 90's.mncvision">
+    <title>2 For 1: 90s Double Drop!</title>
+</programme>
 <programme start="20250728170000 +0000" stop="20250728180000 +0000" channel="MTV LIVE.mncvision">
     <title>Rock.Alt.Indie</title>
 </programme>
