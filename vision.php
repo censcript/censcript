@@ -652,9 +652,6 @@
 <programme start="20250729120000 +0000" stop="20250729140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250729140000 +0000" stop="20250729160000 +0000" channel="ANTV.vision">
-<title>Prabu Angling Dharma 2</title>
-</programme>
 <programme start="20250729160000 +0000" stop="20250729180000 +0000" channel="ANTV.vision">
 <title>The Wesley&#039;s Mysterious File</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250729042000 +0000" stop="20250729060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250729060000 +0000" stop="20250729073500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
