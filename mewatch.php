@@ -607,56 +607,44 @@
     <programme start="20250729150000 +0000" stop="20250729170000 +0000" channel="now-80s.mewatch">
         <title>Complete George Michael: 1982-1989 - EP1</title>
     </programme>
-    <programme start="20250728160000 +0000" stop="20250728171000 +0000" channel="now-70s.mewatch">
-        <title>American Rock Gods! 1970-1979 - EP1</title>
+    <programme start="20250728160000 +0000" stop="20250728191000 +0000" channel="now-70s.mewatch">
+        <title>The Now 100 Of The 70s - EP1</title>
     </programme>
-    <programme start="20250728171000 +0000" stop="20250728172500 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
+    <programme start="20250728191000 +0000" stop="20250728210000 +0000" channel="now-70s.mewatch">
+        <title>School&#039;s Out For Summer! - EP1</title>
     </programme>
-    <programme start="20250728172500 +0000" stop="20250728193000 +0000" channel="now-70s.mewatch">
-        <title>Carol Decker&#039;s 70s Rock Gods! - EP1</title>
+    <programme start="20250728210000 +0000" stop="20250729020000 +0000" channel="now-70s.mewatch">
+        <title>Top Singalongs! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250728193000 +0000" stop="20250728202500 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
+    <programme start="20250729020000 +0000" stop="20250729041000 +0000" channel="now-70s.mewatch">
+        <title>Blackburn&#039;s 25 Blue Sky Belters! - EP1</title>
     </programme>
-    <programme start="20250728202500 +0000" stop="20250728210000 +0000" channel="now-70s.mewatch">
-        <title>Meat Loaf 1975-1995 - EP1</title>
+    <programme start="20250729041000 +0000" stop="20250729050000 +0000" channel="now-70s.mewatch">
+        <title>School&#039;s Out For Summer! - EP1</title>
     </programme>
-    <programme start="20250728210000 +0000" stop="20250728220000 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1975 - EP1</title>
+    <programme start="20250729050000 +0000" stop="20250729070500 +0000" channel="now-70s.mewatch">
+        <title>30 Dead Catchy Choruses! - EP1</title>
     </programme>
-    <programme start="20250728220000 +0000" stop="20250728230000 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1976 - EP1</title>
+    <programme start="20250729070500 +0000" stop="20250729080000 +0000" channel="now-70s.mewatch">
+        <title>School&#039;s Out For Summer! - EP1</title>
     </programme>
-    <programme start="20250728230000 +0000" stop="20250729000000 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1977 - EP1</title>
+    <programme start="20250729080000 +0000" stop="20250729110000 +0000" channel="now-70s.mewatch">
+        <title>What The Heck Kept This Off No.1? - EP1</title>
     </programme>
-    <programme start="20250729000000 +0000" stop="20250729021500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Forgotten No.1s - EP1</title>
+    <programme start="20250729110000 +0000" stop="20250729125000 +0000" channel="now-70s.mewatch">
+        <title>One Hit Wonders! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250729021500 +0000" stop="20250729030000 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
+    <programme start="20250729125000 +0000" stop="20250729130000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
     </programme>
-    <programme start="20250729030000 +0000" stop="20250729040000 +0000" channel="now-70s.mewatch">
-        <title>American No.1s Of 1972 - EP1</title>
+    <programme start="20250729130000 +0000" stop="20250729152500 +0000" channel="now-70s.mewatch">
+        <title>Great Song - Stupid Title! 1970-79 - EP1</title>
     </programme>
-    <programme start="20250729040000 +0000" stop="20250729050000 +0000" channel="now-70s.mewatch">
-        <title>American No.1s Of 1974 - EP1</title>
+    <programme start="20250729152500 +0000" stop="20250729160000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
     </programme>
-    <programme start="20250729050000 +0000" stop="20250729093000 +0000" channel="now-70s.mewatch">
-        <title>Every No.1 Of The 70s! - EP1</title>
-    </programme>
-    <programme start="20250729093000 +0000" stop="20250729103000 +0000" channel="now-70s.mewatch">
-        <title>American Rock Gods! 1970-1979 - EP1</title>
-    </programme>
-    <programme start="20250729103000 +0000" stop="20250729153500 +0000" channel="now-70s.mewatch">
-        <title>Every No.1 Of The 70s! - EP1</title>
-    </programme>
-    <programme start="20250729153500 +0000" stop="20250729160000 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
-    </programme>
-    <programme start="20250729160000 +0000" stop="20250729210000 +0000" channel="now-70s.mewatch">
-        <title>Every No.1 Of The 70s! - EP1</title>
+    <programme start="20250729160000 +0000" stop="20250729180500 +0000" channel="now-70s.mewatch">
+        <title>30 Dead Catchy Choruses! - EP1</title>
     </programme>
     <programme start="20250728160000 +0000" stop="20250728220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>

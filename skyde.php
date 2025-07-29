@@ -2972,7 +2972,7 @@
     <title>F1: Ted`s Notebook: GP Belgien</title>
 </programme>
 <programme start="20250729083000 +0000" stop="20250729093000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: Training in Monterey</title>
+    <title>Indy NXT: Grand Prix of Monterey - Race 1</title>
 </programme>
 <programme start="20250729093000 +0000" stop="20250729110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Monterey</title>
@@ -2986,11 +2986,14 @@
 <programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Indy NXT: Grand Prix of Monterey - Race 1</title>
 </programme>
-<programme start="20250729160000 +0000" stop="20250729170000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Indy NXT: Grand Prix of Monterey - Race 2</title>
 </programme>
-<programme start="20250729170000 +0000" stop="20250729173000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250729163000 +0000" stop="20250729170000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Belgien</title>
+</programme>
+<programme start="20250729170000 +0000" stop="20250729173000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted`s Notebook: GP Belgien</title>
 </programme>
 <programme start="20250729173000 +0000" stop="20250729180000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: FIA Karting - Highlights: Mülsen (GER)</title>

@@ -4064,7 +4064,7 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250729133000 +0000" stop="20250729153000 +0000" channel="GTV.mncvision">
-    <title>Jack Reacher</title>
+    <title>Drive Angry</title>
 </programme>
 <programme start="20250729153000 +0000" stop="20250729160000 +0000" channel="GTV.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -4121,7 +4121,7 @@
     <title>Untold Story</title>
 </programme>
 <programme start="20250729133000 +0000" stop="20250729153000 +0000" channel="GTV HD.mncvision">
-    <title>Jack Reacher</title>
+    <title>Drive Angry</title>
 </programme>
 <programme start="20250729153000 +0000" stop="20250729160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
