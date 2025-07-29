@@ -2312,31 +2312,31 @@
         <title>Halle</title>
     </programme>
     <programme start="20250729040000 +0000" stop="20250729053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 1</title>
+        <title>Toronto Day 2 Goffin v McDonald</title>
     </programme>
     <programme start="20250729053000 +0000" stop="20250729070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 2</title>
+        <title>Toronto Day 2 Carreno Busta v Draxl</title>
     </programme>
     <programme start="20250729070000 +0000" stop="20250729083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 3</title>
+        <title>Toronto Day 2 Schoolkate v Fonseca</title>
     </programme>
     <programme start="20250729083000 +0000" stop="20250729093000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Washington</title>
     </programme>
     <programme start="20250729093000 +0000" stop="20250729110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 4</title>
+        <title>Toronto Day 2 Goffin v McDonald</title>
     </programme>
     <programme start="20250729110000 +0000" stop="20250729123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 5</title>
+        <title>Toronto Day 2 Carreno Busta v Draxl</title>
     </programme>
     <programme start="20250729123000 +0000" stop="20250729140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 2 Match 6</title>
+        <title>Toronto Day 2 Rinderknech v Galarneau</title>
     </programme>
     <programme start="20250729140000 +0000" stop="20250729150000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Washington</title>
     </programme>
     <programme start="20250729150000 +0000" stop="20250729163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 3 Match 1</title>
+        <title>Toronto Day 3 Humbert v Nava</title>
     </programme>
     <programme start="20250728160000 +0000" stop="20250728170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
