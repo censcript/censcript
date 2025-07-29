@@ -3160,7 +3160,7 @@
 <programme start="20250729130000 +0000" stop="20250729160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250729160000 +0000" stop="20250729183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250729163000 +0000" stop="20250729183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250729183000 +0000" stop="20250729210000 +0000" channel="Sky Sport News HD.skyde">
@@ -3441,6 +3441,12 @@
 </programme>
 <programme start="20250729115500 +0000" stop="20250729121000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Test Sport 04</title>
+</programme>
+<programme start="20250729144000 +0000" stop="20250729150000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>WTA: Es folgt</title>
+</programme>
+<programme start="20250729150000 +0000" stop="20250729153000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>TEST: Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 3. Tag</title>
 </programme>
 <programme start="20250729111000 +0000" stop="20250729112500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Test Live Sport 05</title>
