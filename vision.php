@@ -820,9 +820,6 @@
 <programme start="20250728233000 +0000" stop="20250729013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20250729013000 +0000" stop="20250729020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat (L)</title>
-</programme>
 <programme start="20250729020000 +0000" stop="20250729023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250730091500 +0000" stop="20250730100000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250730100000 +0000" stop="20250730110000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

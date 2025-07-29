@@ -73,10 +73,10 @@
     <programme start="20250729015300 +0000" stop="20250729020000 +0000" channel="Channel 5.mewatch">
         <title>Yakka Dee: Sr1 - EP 12</title>
     </programme>
-    <programme start="20250729020000 +0000" stop="20250729050700 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729020000 +0000" stop="20250729040000 +0000" channel="Channel 5.mewatch">
         <title>World Aquatics Championships Singapore 2025 : Swimming - EP 5</title>
     </programme>
-    <programme start="20250729050700 +0000" stop="20250729061000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729040000 +0000" stop="20250729061000 +0000" channel="Channel 5.mewatch">
         <title>World Aquatics Championships Singapore 2025 : Daily Highlight - EP 14</title>
     </programme>
     <programme start="20250729061000 +0000" stop="20250729063500 +0000" channel="Channel 5.mewatch">
