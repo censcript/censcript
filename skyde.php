@@ -3301,7 +3301,7 @@
 <programme start="20250729200000 +0000" stop="20250729220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
 </programme>
-<programme start="20250729033000 +0000" stop="20250729040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250729035000 +0000" stop="20250729040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Washington</title>
 </programme>
 <programme start="20250729040000 +0000" stop="20250729060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3330,9 +3330,6 @@
 </programme>
 <programme start="20250729150000 +0000" stop="20250730030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 3. Tag</title>
-</programme>
-<programme start="20250729033000 +0000" stop="20250729040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Review Washington</title>
 </programme>
 <programme start="20250729040000 +0000" stop="20250729050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PMSC: Rennen - GP Belgien</title>
@@ -3409,7 +3406,7 @@
 <programme start="20250729144000 +0000" stop="20250729150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250729150000 +0000" stop="20250730080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250729150000 +0000" stop="20250730030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 3. Tag</title>
 </programme>
 <programme start="20250729111000 +0000" stop="20250729112500 +0000" channel="Sky Sport 2 HD.skyde">
