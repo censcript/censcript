@@ -2710,7 +2710,7 @@
 <programme start="20250729144000 +0000" stop="20250729150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250729150000 +0000" stop="20250730080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250729150000 +0000" stop="20250730030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 3. Tag</title>
 </programme>
 <programme start="20250728225000 +0000" stop="20250728230500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3300,9 +3300,6 @@
 </programme>
 <programme start="20250729200000 +0000" stop="20250729220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Arsenal - Newcastle United, Testspiel in Singapur</title>
-</programme>
-<programme start="20250729033000 +0000" stop="20250729040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Washington</title>
 </programme>
 <programme start="20250729040000 +0000" stop="20250729060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: T. Maria (GER) - L. Siegemund (GER), National Bank Open Presented By Rogers in Montreal (CAN), 2. Tag</title>
