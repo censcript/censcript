@@ -2860,23 +2860,23 @@
 <programme start="20250730203000 +0000" stop="20250730223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Hamburger SV - FC Schalke 04, tipico Topspiel der Woche, 13. Spieltag</title>
 </programme>
-<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>TEST: Live BL: TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
+<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+    <title>TEST: Live BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
 </programme>
-<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>TEST: BL: TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
+<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+    <title>TEST: BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
 </programme>
-<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
-    <title>TEST: Live 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
+<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+    <title>TEST: Live BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
 </programme>
-<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
-    <title>TEST: 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
+<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+    <title>TEST: BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
 </programme>
 <programme start="20250729220000 +0000" stop="20250729230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Java House Grand Prix of Monterey</title>
@@ -3253,10 +3253,19 @@
 <programme start="20250730060000 +0000" stop="20250730061500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
+<programme start="20250730111000 +0000" stop="20250730112000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>TEST: F1: Es folgt</title>
+</programme>
+<programme start="20250730112000 +0000" stop="20250730114500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>TEST: Live F1: Rennen - GP Belgien</title>
+</programme>
+<programme start="20250730114500 +0000" stop="20250730121000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>TEST: F1: Rennen - GP Belgien</title>
+</programme>
 <programme start="20250730144000 +0000" stop="20250730150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250730150000 +0000" stop="20250731030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250730150000 +0000" stop="20250731080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 4. Tag</title>
 </programme>
 <programme start="20250729223500 +0000" stop="20250729232000 +0000" channel="SYFY HD.skyde">
