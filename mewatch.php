@@ -118,10 +118,10 @@
     <programme start="20250729140000 +0000" stop="20250729142000 +0000" channel="Channel 5.mewatch">
         <title>Scene City: Trails Of Yue</title>
     </programme>
-    <programme start="20250729142000 +0000" stop="20250729151000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729142000 +0000" stop="20250729151500 +0000" channel="Channel 5.mewatch">
         <title>Paris Has Fallen S1 - EP 7</title>
     </programme>
-    <programme start="20250729151000 +0000" stop="20250729163000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250729151500 +0000" stop="20250729161000 +0000" channel="Channel 5.mewatch">
         <title>The Librarians S4 - EP 6</title>
     </programme>
     <programme start="20250728160000 +0000" stop="20250728170000 +0000" channel="Channel 8.mewatch">
@@ -559,71 +559,53 @@
     <programme start="20250728160000 +0000" stop="20250729160000 +0000" channel="spl01.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250728160000 +0000" stop="20250728164000 +0000" channel="now-80s.mewatch">
-        <title>Rod Stewart In The 80s! - EP1</title>
+    <programme start="20250728160000 +0000" stop="20250728170000 +0000" channel="now-80s.mewatch">
+        <title>Monday Night At The Movies! - EP1</title>
     </programme>
-    <programme start="20250728164000 +0000" stop="20250728170000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
+    <programme start="20250728170000 +0000" stop="20250728171500 +0000" channel="now-80s.mewatch">
+        <title>Matt Goss&#039; Famous Pop Of The 80s! - EP1</title>
     </programme>
-    <programme start="20250728170000 +0000" stop="20250728181000 +0000" channel="now-80s.mewatch">
-        <title>Now Electronic! Top 30 - EP1</title>
+    <programme start="20250728171500 +0000" stop="20250728180000 +0000" channel="now-80s.mewatch">
+        <title>1989 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250728181000 +0000" stop="20250728190000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
+    <programme start="20250728180000 +0000" stop="20250728190000 +0000" channel="now-80s.mewatch">
+        <title>Way Back When! 1989 - EP1</title>
     </programme>
-    <programme start="20250728190000 +0000" stop="20250728213500 +0000" channel="now-80s.mewatch">
-        <title>Clare Grogan&#039;s Tartan Top 30 - EP1</title>
+    <programme start="20250728190000 +0000" stop="20250728200000 +0000" channel="now-80s.mewatch">
+        <title>Who Won Wot In 1989? - EP1</title>
     </programme>
-    <programme start="20250728213500 +0000" stop="20250728220000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
+    <programme start="20250728200000 +0000" stop="20250728220000 +0000" channel="now-80s.mewatch">
+        <title>Most Weeks In UK Chart? Top 100 - EP1</title>
     </programme>
-    <programme start="20250728220000 +0000" stop="20250729014500 +0000" channel="now-80s.mewatch">
-        <title>What? They Only Peaked At 11? - EP1</title>
+    <programme start="20250728220000 +0000" stop="20250729020000 +0000" channel="now-80s.mewatch">
+        <title>Top Of The 80s Charts - EP1</title>
     </programme>
-    <programme start="20250729014500 +0000" stop="20250729020000 +0000" channel="now-80s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20250729020000 +0000" stop="20250729043500 +0000" channel="now-80s.mewatch">
+        <title>Denise&#039;s 5*star Families - Top 30! - EP1</title>
     </programme>
-    <programme start="20250729020000 +0000" stop="20250729042500 +0000" channel="now-80s.mewatch">
-        <title>The Heat Is On! Top 30 - EP1</title>
+    <programme start="20250729043500 +0000" stop="20250729050000 +0000" channel="now-80s.mewatch">
+        <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250729042500 +0000" stop="20250729050000 +0000" channel="now-80s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20250729050000 +0000" stop="20250729074000 +0000" channel="now-80s.mewatch">
+        <title>High Nrg! 1984-1989 - EP1</title>
     </programme>
-    <programme start="20250729050000 +0000" stop="20250729075000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1989 - EP1</title>
+    <programme start="20250729074000 +0000" stop="20250729080000 +0000" channel="now-80s.mewatch">
+        <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250729075000 +0000" stop="20250729080000 +0000" channel="now-80s.mewatch">
-        <title>1982 Unleashed! - EP1</title>
+    <programme start="20250729080000 +0000" stop="20250729104000 +0000" channel="now-80s.mewatch">
+        <title>Tight Fit&#039;s 30 Fantasy Islands! - EP1</title>
     </programme>
-    <programme start="20250729080000 +0000" stop="20250729084500 +0000" channel="now-80s.mewatch">
-        <title>1982&#039;s One-Hit-Wonders! Top 10 - EP1</title>
+    <programme start="20250729104000 +0000" stop="20250729110000 +0000" channel="now-80s.mewatch">
+        <title>Hits That Missed! - EP1</title>
     </programme>
-    <programme start="20250729084500 +0000" stop="20250729090000 +0000" channel="now-80s.mewatch">
-        <title>1982 Unleashed! - EP1</title>
+    <programme start="20250729110000 +0000" stop="20250729142500 +0000" channel="now-80s.mewatch">
+        <title>40 Hits ... That Missed! - EP1</title>
     </programme>
-    <programme start="20250729090000 +0000" stop="20250729093000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1982 - EP1</title>
+    <programme start="20250729142500 +0000" stop="20250729150000 +0000" channel="now-80s.mewatch">
+        <title>Chart Toppers! - EP1</title>
     </programme>
-    <programme start="20250729093000 +0000" stop="20250729103000 +0000" channel="now-80s.mewatch">
-        <title>Now Electronic! Top 30 - EP1</title>
-    </programme>
-    <programme start="20250729103000 +0000" stop="20250729113500 +0000" channel="now-80s.mewatch">
-        <title>Doris &amp; Bruno&#039;s Top 20 Fame Songs! - EP1</title>
-    </programme>
-    <programme start="20250729113500 +0000" stop="20250729120000 +0000" channel="now-80s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
-    </programme>
-    <programme start="20250729120000 +0000" stop="20250729143500 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
-    </programme>
-    <programme start="20250729143500 +0000" stop="20250729150000 +0000" channel="now-80s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
-    </programme>
-    <programme start="20250729150000 +0000" stop="20250729160000 +0000" channel="now-80s.mewatch">
-        <title>Kate Bush 1978-1989 - EP1</title>
-    </programme>
-    <programme start="20250729160000 +0000" stop="20250729165000 +0000" channel="now-80s.mewatch">
-        <title>The Amazing Whitney Houston! - EP1</title>
+    <programme start="20250729150000 +0000" stop="20250729170000 +0000" channel="now-80s.mewatch">
+        <title>Complete George Michael: 1982-1989 - EP1</title>
     </programme>
     <programme start="20250728160000 +0000" stop="20250728171000 +0000" channel="now-70s.mewatch">
         <title>American Rock Gods! 1970-1979 - EP1</title>

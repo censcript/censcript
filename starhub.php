@@ -6884,7 +6884,7 @@
         <title>Final</title>
     </programme>
     <programme start="20250729093000 +0000" stop="20250729103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Tour de Hongrie H/Ls</title>
+        <title>UCI Pro Series - Tour de Hongrie Highlights</title>
     </programme>
     <programme start="20250729103000 +0000" stop="20250729104500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 118</title>
