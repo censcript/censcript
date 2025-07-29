@@ -2489,7 +2489,7 @@
         <title>Le Tour Auto</title>
     </programme>
     <programme start="20250728210000 +0000" stop="20250728230000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Singapore Premier League 2024/25 BG Tampines Rovers FC vs Balestier Khalsa FC</title>
+        <title>Singapore Premier Lge 2024/25 BG Tampines Rovers FC vs Balestier Khalsa FC</title>
     </programme>
     <programme start="20250728230000 +0000" stop="20250728233000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Season 5, Episode 1 - Basketballers</title>
