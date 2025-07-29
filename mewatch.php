@@ -1024,16 +1024,16 @@
     <programme start="20250729160000 +0000" stop="20250730103000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 30th July, Wednesday 6.30pm. Meiji Yasuda J.League World Challenge 2025</title>
     </programme>
-    <programme start="20250728160000 +0000" stop="20250729073000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 3.30pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250728160000 +0000" stop="20250729072200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 3.22pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250729073000 +0000" stop="20250729083000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250729072200 +0000" stop="20250729083000 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Women&#039;s 3m Springboard Synchronised Final</title>
     </programme>
-    <programme start="20250729083000 +0000" stop="20250729093000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 5.30pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250729083000 +0000" stop="20250729092200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 29th July, Tuesday 5.22pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250729093000 +0000" stop="20250729104000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250729092200 +0000" stop="20250729104000 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Men&#039;s 10m Platform Synchronised Final</title>
     </programme>
     <programme start="20250729104000 +0000" stop="20250729160000 +0000" channel="WCH CH01.mewatch">
@@ -1045,16 +1045,16 @@
     <programme start="20250728160000 +0000" stop="20250729015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 29th July, Tuesday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250729015200 +0000" stop="20250729051100 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250729015200 +0000" stop="20250729034100 +0000" channel="WCH CH02.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Swimming - Men&#039;s &amp; Women&#039;s Heats</title>
     </programme>
-    <programme start="20250729051100 +0000" stop="20250729105200 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250729034100 +0000" stop="20250729105200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 29th July, Tuesday 6.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250729105200 +0000" stop="20250729130300 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250729105200 +0000" stop="20250729130700 +0000" channel="WCH CH02.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Swimming - Men&#039;s &amp; Women&#039;s Semi-finals &amp; Finals</title>
     </programme>
-    <programme start="20250729130300 +0000" stop="20250729160000 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250729130700 +0000" stop="20250729160000 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 30th July, Wednesday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250729160000 +0000" stop="20250730015200 +0000" channel="WCH CH02.mewatch">

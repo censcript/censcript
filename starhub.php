@@ -8431,10 +8431,10 @@
     <programme start="20250728143600 +0000" stop="20250728162100 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
-    <programme start="20250728162100 +0000" stop="20250728171900 +0000" channel="Dragon TV.starhub">
+    <programme start="20250728162100 +0000" stop="20250728170000 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
-    <programme start="20250728171900 +0000" stop="20250728220000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250728170000 +0000" stop="20250728220000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
     <programme start="20250728220000 +0000" stop="20250728223000 +0000" channel="Dragon TV.starhub">
