@@ -8269,13 +8269,13 @@
     <programme start="20250729133000 +0000" stop="20250729163000 +0000" channel="Asianet Movies.starhub">
         <title>Rdx</title>
     </programme>
-    <programme start="20250729163000 +0000" stop="20250729190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250729163000 +0000" stop="20250729192500 +0000" channel="Asianet Movies.starhub">
         <title>Kammatti Paadam</title>
     </programme>
-    <programme start="20250729190000 +0000" stop="20250729220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250729192500 +0000" stop="20250729213000 +0000" channel="Asianet Movies.starhub">
         <title>Padheyam</title>
     </programme>
-    <programme start="20250729220000 +0000" stop="20250729233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250729213000 +0000" stop="20250729233000 +0000" channel="Asianet Movies.starhub">
         <title>Junior Senior</title>
     </programme>
     <programme start="20250729233000 +0000" stop="20250730013000 +0000" channel="Asianet Movies.starhub">
