@@ -7682,7 +7682,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250730003000 +0000" stop="20250730010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Sagrada Família: Can Tech Help Complete It?</title>
     </programme>
     <programme start="20250730010000 +0000" stop="20250730013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>

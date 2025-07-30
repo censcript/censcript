@@ -1021,10 +1021,10 @@
     <programme start="20250730160000 +0000" stop="20250731113000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 31st July, Thursday 7.30pm. Hong Kong Football Festival</title>
     </programme>
-    <programme start="20250729160000 +0000" stop="20250730090000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250729160000 +0000" stop="20250730085200 +0000" channel="WCH CH01.mewatch">
         <title>No Programme available now. Next Broadcast on 30th July, Wednesday 5pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250730090000 +0000" stop="20250730111000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250730085200 +0000" stop="20250730111000 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Mixed 3m Springboard Synchronised Final</title>
     </programme>
     <programme start="20250730111000 +0000" stop="20250730160000 +0000" channel="WCH CH01.mewatch">

@@ -925,57 +925,6 @@
 <programme start="20250730213500 +0000" stop="20250730222500 +0000" channel="Crime + Investigation.skyde">
     <title>Court Cam - Auf der Anklagebank</title>
 </programme>
-<programme start="20250729220000 +0000" stop="20250730060000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20250730060000 +0000" stop="20250730070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>3. Liga Highlightshow 2024/25: 36. Spieltag</title>
-</programme>
-<programme start="20250730070000 +0000" stop="20250730073000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
-</programme>
-<programme start="20250730073000 +0000" stop="20250730093000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Nations League: Spanien - Frankreich</title>
-</programme>
-<programme start="20250730093000 +0000" stop="20250730112000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Nations League: Deutschland - Portugal</title>
-</programme>
-<programme start="20250730112000 +0000" stop="20250730115000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250730115000 +0000" stop="20250730125500 +0000" channel="DAZN 1 HD.skyde">
-    <title>World Darts Championship: Finale</title>
-</programme>
-<programme start="20250730125500 +0000" stop="20250730141000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
-</programme>
-<programme start="20250730141000 +0000" stop="20250730151000 +0000" channel="DAZN 1 HD.skyde">
-    <title>3. Liga Highlightshow 2024/25: 36. Spieltag</title>
-</programme>
-<programme start="20250730151000 +0000" stop="20250730153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250730153000 +0000" stop="20250730173000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
-</programme>
-<programme start="20250730173000 +0000" stop="20250730180000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250730180000 +0000" stop="20250730183000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LALIGA Monthly 2024/25: Saisonrückblick 2024/25</title>
-</programme>
-<programme start="20250730183000 +0000" stop="20250730190000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Decoded 2023/24: Decoded Masterclass: Dino Toppmüller</title>
-</programme>
-<programme start="20250730190000 +0000" stop="20250730193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2024/25: 34. Spieltag</title>
-</programme>
-<programme start="20250730193000 +0000" stop="20250730213000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
-</programme>
-<programme start="20250730213000 +0000" stop="20250730220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20250729220000 +0000" stop="20250730060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2860,23 +2809,23 @@
 <programme start="20250730203000 +0000" stop="20250730223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Hamburger SV - FC Schalke 04, tipico Topspiel der Woche, 13. Spieltag</title>
 </programme>
-<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>TEST: Live BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
+<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>TEST: Live BL: FC St. Pauli - VfL Bochum, 34. Spieltag</title>
 </programme>
-<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>TEST: BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
+<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>TEST: BL: FC St. Pauli - VfL Bochum, 34. Spieltag</title>
 </programme>
-<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20250730100000 +0000" stop="20250730101000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
-    <title>TEST: Live BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
+<programme start="20250730101000 +0000" stop="20250730103500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+    <title>TEST: Live 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
-<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
-    <title>TEST: BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
+<programme start="20250730103500 +0000" stop="20250730110000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+    <title>TEST: 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
 <programme start="20250729220000 +0000" stop="20250729230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Java House Grand Prix of Monterey</title>
@@ -3209,10 +3158,10 @@
     <title>IndyCar: Highlights: Java House Grand Prix of Monterey</title>
 </programme>
 <programme start="20250730053000 +0000" stop="20250730073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: Topspiel, National Bank Open Presented By Rogers in Montreal (CAN), 3. Tag</title>
+    <title>WTA 1000: C. Gauff (USA) - D. Collins (USA), National Bank Open Presented By Rogers in Montreal (CAN), 3. Tag</title>
 </programme>
 <programme start="20250730073000 +0000" stop="20250730093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Topspiel, National Bank Open Presented By Rogers in Toronto (CAN), 3. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - A. Walton (AUS), National Bank Open Presented By Rogers in Toronto (CAN), 3. Tag</title>
 </programme>
 <programme start="20250730093000 +0000" stop="20250730102500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
@@ -3267,6 +3216,15 @@
 </programme>
 <programme start="20250730150000 +0000" stop="20250731080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 4. Tag</title>
+</programme>
+<programme start="20250730111000 +0000" stop="20250730112000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>TEST:F1: Es folgt</title>
+</programme>
+<programme start="20250730112000 +0000" stop="20250730114500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>TEST:Live F1: Rennen - GP Großbritannien</title>
+</programme>
+<programme start="20250730114500 +0000" stop="20250730121000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>TEST:F1: Rennen - GP Großbritannien</title>
 </programme>
 <programme start="20250729223500 +0000" stop="20250729232000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
