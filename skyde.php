@@ -646,10 +646,10 @@
 <programme start="20250731072000 +0000" stop="20250731073000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250731073000 +0000" stop="20250731075000 +0000" channel="Cartoonito.skyde">
+<programme start="20250731073000 +0000" stop="20250731074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250731075000 +0000" stop="20250731080000 +0000" channel="Cartoonito.skyde">
+<programme start="20250731074500 +0000" stop="20250731080000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250731080000 +0000" stop="20250731081500 +0000" channel="Cartoonito.skyde">
@@ -658,10 +658,10 @@
 <programme start="20250731081500 +0000" stop="20250731082500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250731082500 +0000" stop="20250731084000 +0000" channel="Cartoonito.skyde">
+<programme start="20250731082500 +0000" stop="20250731083500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250731084000 +0000" stop="20250731085500 +0000" channel="Cartoonito.skyde">
+<programme start="20250731083500 +0000" stop="20250731085500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250731085500 +0000" stop="20250731090000 +0000" channel="Cartoonito.skyde">
@@ -691,10 +691,10 @@
 <programme start="20250731100500 +0000" stop="20250731102000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250731102000 +0000" stop="20250731103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250731102000 +0000" stop="20250731102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250731103000 +0000" stop="20250731103500 +0000" channel="Cartoonito.skyde">
+<programme start="20250731102500 +0000" stop="20250731103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250731103500 +0000" stop="20250731104000 +0000" channel="Cartoonito.skyde">
@@ -745,13 +745,13 @@
 <programme start="20250731134000 +0000" stop="20250731140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250731140000 +0000" stop="20250731142800 +0000" channel="Cartoonito.skyde">
+<programme start="20250731140000 +0000" stop="20250731142900 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250731142800 +0000" stop="20250731143200 +0000" channel="Cartoonito.skyde">
+<programme start="20250731142900 +0000" stop="20250731143300 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250731143200 +0000" stop="20250731143500 +0000" channel="Cartoonito.skyde">
+<programme start="20250731143300 +0000" stop="20250731143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250731143500 +0000" stop="20250731144500 +0000" channel="Cartoonito.skyde">
@@ -1408,16 +1408,16 @@
 <programme start="20250731014500 +0000" stop="20250731020500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250731020500 +0000" stop="20250731021000 +0000" channel="Nick Jr..skyde">
+<programme start="20250731020500 +0000" stop="20250731021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250731021000 +0000" stop="20250731022000 +0000" channel="Nick Jr..skyde">
+<programme start="20250731021500 +0000" stop="20250731022000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250731022000 +0000" stop="20250731022500 +0000" channel="Nick Jr..skyde">
+<programme start="20250731022000 +0000" stop="20250731023000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250731022500 +0000" stop="20250731025000 +0000" channel="Nick Jr..skyde">
+<programme start="20250731023000 +0000" stop="20250731025000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250731025000 +0000" stop="20250731030000 +0000" channel="Nick Jr..skyde">
@@ -2809,12 +2809,6 @@
 <programme start="20250731214500 +0000" stop="20250731221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20250731144000 +0000" stop="20250731150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Live Tennis ATP</title>
-</programme>
-<programme start="20250731150000 +0000" stop="20250801030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 5. Tag</title>
-</programme>
 <programme start="20250730220000 +0000" stop="20250730223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: HvK und Tusche - Dein Zweitliga-Talk</title>
 </programme>
@@ -2968,15 +2962,6 @@
 <programme start="20250731103500 +0000" stop="20250731110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>TEST: BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
 </programme>
-<programme start="20250731100000 +0000" stop="20250731101000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST: BL: Es folgt</title>
-</programme>
-<programme start="20250731101000 +0000" stop="20250731103500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST: Live BL: 1. FSV Mainz 05 - Bayer Leverkusen, 34. Spieltag</title>
-</programme>
-<programme start="20250731103500 +0000" stop="20250731110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST: BL: 1. FSV Mainz 05 - Bayer Leverkusen, 34. Spieltag</title>
-</programme>
 <programme start="20250731100000 +0000" stop="20250731101000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
@@ -3013,22 +2998,22 @@
 <programme start="20250731103500 +0000" stop="20250731110000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: BL: Borussia M&#039;gladbach - VfL Wolfsburg, 34. Spieltag</title>
 </programme>
-<programme start="20250731100000 +0000" stop="20250731101000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250731101000 +0000" stop="20250731103500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20250731081000 +0000" stop="20250731083500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: Live BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
 </programme>
-<programme start="20250731103500 +0000" stop="20250731110000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
 </programme>
-<programme start="20250731100000 +0000" stop="20250731101000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250731101000 +0000" stop="20250731103500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731081000 +0000" stop="20250731083500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: Live 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
-<programme start="20250731103500 +0000" stop="20250731110000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
 <programme start="20250730220000 +0000" stop="20250731000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3487,22 +3472,22 @@
 <programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>TEST: F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20250731090000 +0000" stop="20250731091000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731091000 +0000" stop="20250731093500 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 9 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Saudi-Arabien</title>
 </programme>
-<programme start="20250731093500 +0000" stop="20250731100000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>TEST: F1: Rennen - GP Saudi-Arabien</title>
 </programme>
-<programme start="20250731090000 +0000" stop="20250731091000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731091000 +0000" stop="20250731093500 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 10 HD.skyde">
     <title>TEST: TEST: Live F1: Rennen - GP Bahrain</title>
 </programme>
-<programme start="20250731093500 +0000" stop="20250731100000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>TEST: F1: Rennen - GP Bahrain</title>
 </programme>
 <programme start="20250730222000 +0000" stop="20250730231500 +0000" channel="SYFY HD.skyde">
