@@ -6604,6 +6604,15 @@
     <programme start="20250730154000 +0000" stop="20250730175000 +0000" channel="HBO Signature HD.starhub">
         <title>The Kite Runner</title>
     </programme>
+    <programme start="20250729160000 +0000" stop="20250729210000 +0000" channel="TestChannel 995.starhub">
+        <title>TOYOTA Thailand Open (Super 500): QF Session 1</title>
+    </programme>
+    <programme start="20250729210000 +0000" stop="20250729230000 +0000" channel="TestChannel 995.starhub">
+        <title>Singapore Premier Lge 2024/25 BG Tampines Rovers FC vs Young Lions</title>
+    </programme>
+    <programme start="20250729230000 +0000" stop="20250729233000 +0000" channel="TestChannel 995.starhub">
+        <title>Season 5, Episode 2 - Rugby Union Players</title>
+    </programme>
     <programme start="20250729233000 +0000" stop="20250730000000 +0000" channel="TestChannel 995.starhub">
         <title>#1278</title>
     </programme>
