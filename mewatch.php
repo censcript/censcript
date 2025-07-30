@@ -1028,10 +1028,10 @@
         <title>World Aquatics Championships - Singapore 2025: Diving - Mixed 3m Springboard Synchronised Final</title>
     </programme>
     <programme start="20250730111000 +0000" stop="20250730160000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st July, Thursday 3.30pm. World Aquatics Championships - Singapore 2025</title>
+        <title>No Programme available now. Next Broadcast on 31st July, Thursday 3.22pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250730160000 +0000" stop="20250731073000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st July, Thursday 3.30pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250730160000 +0000" stop="20250731072200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 31st July, Thursday 3.22pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250729160000 +0000" stop="20250730015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 30th July, Wednesday 9.52am. World Aquatics Championships - Singapore 2025</title>

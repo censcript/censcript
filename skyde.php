@@ -3238,7 +3238,7 @@
 <programme start="20250730202000 +0000" stop="20250730222000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester United - West Ham United, Summer Series in New Jersey</title>
 </programme>
-<programme start="20250730030500 +0000" stop="20250730033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250730030000 +0000" stop="20250730033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250730033000 +0000" stop="20250730053000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3268,13 +3268,13 @@
 <programme start="20250729232500 +0000" stop="20250730013500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Testspiel: Eintracht Frankfurt - Louisville City FC, Testspiel in Louisville (USA)</title>
 </programme>
-<programme start="20250730013500 +0000" stop="20250730030500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250730013500 +0000" stop="20250730030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 3. Tag</title>
 </programme>
-<programme start="20250730030500 +0000" stop="20250730033500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250730030000 +0000" stop="20250730033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250730033500 +0000" stop="20250730043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250730033000 +0000" stop="20250730043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf Ladies ET: Highlights ISPS WANDA Women&#039;s Scottish Open</title>
 </programme>
 <programme start="20250730043000 +0000" stop="20250730053000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3286,10 +3286,10 @@
 <programme start="20250730073000 +0000" stop="20250730093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - A. Walton (AUS), National Bank Open Presented By Rogers in Toronto (CAN), 3. Tag</title>
 </programme>
-<programme start="20250730093000 +0000" stop="20250730103000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250730093000 +0000" stop="20250730102500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
-<programme start="20250730103000 +0000" stop="20250730123000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250730102500 +0000" stop="20250730123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Testspiel: Yokohama F. Marinos - FC Liverpool, Testspiel in Yokohama</title>
 </programme>
 <programme start="20250730123000 +0000" stop="20250730150000 +0000" channel="Sky Sport Top Event HD.skyde">
