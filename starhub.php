@@ -6604,6 +6604,48 @@
     <programme start="20250730154000 +0000" stop="20250730175000 +0000" channel="HBO Signature HD.starhub">
         <title>The Kite Runner</title>
     </programme>
+    <programme start="20250729233000 +0000" stop="20250730000000 +0000" channel="TestChannel 995.starhub">
+        <title>#1278</title>
+    </programme>
+    <programme start="20250730000000 +0000" stop="20250730020000 +0000" channel="TestChannel 995.starhub">
+        <title>NBA Playoffs 2025 ECFG2: Indiana Pacers vs New York Knicks</title>
+    </programme>
+    <programme start="20250730020000 +0000" stop="20250730070000 +0000" channel="TestChannel 995.starhub">
+        <title>DAIHATSU Japan Open (Super 750): SF Session 1</title>
+    </programme>
+    <programme start="20250730070000 +0000" stop="20250730073000 +0000" channel="TestChannel 995.starhub">
+        <title>Season 5, Episode 2 - Rugby Union Players</title>
+    </programme>
+    <programme start="20250730073000 +0000" stop="20250730074500 +0000" channel="TestChannel 995.starhub">
+        <title>FIA World Championship - South African Safari Rally Stage 2 Highlights</title>
+    </programme>
+    <programme start="20250730074500 +0000" stop="20250730080000 +0000" channel="TestChannel 995.starhub">
+        <title>FIA World Championship - South African Safari Rally Stage 3 Highlights</title>
+    </programme>
+    <programme start="20250730080000 +0000" stop="20250730110000 +0000" channel="TestChannel 995.starhub">
+        <title>UFC Reloaded UFC 314: Volkanovski vs Lopes</title>
+    </programme>
+    <programme start="20250730110000 +0000" stop="20250730113000 +0000" channel="TestChannel 995.starhub">
+        <title>Season 5, Episode 3 - Formula 1 Team</title>
+    </programme>
+    <programme start="20250730113000 +0000" stop="20250730114500 +0000" channel="TestChannel 995.starhub">
+        <title>FIA World Championship - South African Safari Rally Stage 4 Highlights</title>
+    </programme>
+    <programme start="20250730114500 +0000" stop="20250730120000 +0000" channel="TestChannel 995.starhub">
+        <title>FIA World Championship - South African Safari Rally Stage 5 Highlights</title>
+    </programme>
+    <programme start="20250730120000 +0000" stop="20250730130000 +0000" channel="TestChannel 995.starhub">
+        <title>UFC Main Event 2025 UFC 300: Gaethje vs Holloway</title>
+    </programme>
+    <programme start="20250730130000 +0000" stop="20250730150000 +0000" channel="TestChannel 995.starhub">
+        <title>NBA Playoffs 2025 ECFG3: New York Knicks vs Indiana Pacers</title>
+    </programme>
+    <programme start="20250730150000 +0000" stop="20250730153000 +0000" channel="TestChannel 995.starhub">
+        <title>Quarter Finals</title>
+    </programme>
+    <programme start="20250730153000 +0000" stop="20250730160000 +0000" channel="TestChannel 995.starhub">
+        <title>Season 5, Episode 3 - Formula 1 Team</title>
+    </programme>
     <programme start="20250729160000 +0000" stop="20250729163000 +0000" channel="CNBC HD.starhub">
         <title>Us Halftime Report</title>
     </programme>
