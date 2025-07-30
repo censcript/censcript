@@ -706,9 +706,6 @@
 <programme start="20250731114500 +0000" stop="20250731121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250729233000 +0000" stop="20250730013000 +0000" channel="ANTV.vision">
-<title>Tombak Pamungkas</title>
-</programme>
 <programme start="20250730013000 +0000" stop="20250730030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250730180000 +0000" stop="20250730180300 +0000" channel="BTV.vision">
 <title>Tanah Airku</title>
+</programme>
+<programme start="20250730180300 +0000" stop="20250730190000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
 </programme>

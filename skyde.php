@@ -3238,7 +3238,7 @@
 <programme start="20250730202000 +0000" stop="20250730222000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester United - West Ham United, Summer Series in New Jersey</title>
 </programme>
-<programme start="20250730030000 +0000" stop="20250730033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250730030500 +0000" stop="20250730033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250730033000 +0000" stop="20250730053000 +0000" channel="Sky Sport Tennis HD.skyde">
