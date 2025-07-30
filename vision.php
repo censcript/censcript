@@ -176,15 +176,15 @@
 <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20250730003000 +0000" stop="20250730013000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250730013000 +0000" stop="20250730023000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebirtis</title>
 </programme>
-<programme start="20250730023000 +0000" stop="20250730040000 +0000" channel="GTV.vision">
+<programme start="20250730023000 +0000" stop="20250730030000 +0000" channel="GTV.vision">
 <title>Crime.KV</title>
 </programme>
-<programme start="20250730040000 +0000" stop="20250730063000 +0000" channel="GTV.vision">
+<programme start="20250730030000 +0000" stop="20250730063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250730063000 +0000" stop="20250730073000 +0000" channel="GTV.vision">
@@ -193,11 +193,11 @@
 <programme start="20250730073000 +0000" stop="20250730083000 +0000" channel="GTV.vision">
 <title>Rating 5 (GTV)</title>
 </programme>
-<programme start="20250730083000 +0000" stop="20250730100000 +0000" channel="GTV.vision">
-<title>Hot Spot Viral</title>
-</programme>
-<programme start="20250730100000 +0000" stop="20250730110000 +0000" channel="GTV.vision">
+<programme start="20250730083000 +0000" stop="20250730093000 +0000" channel="GTV.vision">
 <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250730093000 +0000" stop="20250730110000 +0000" channel="GTV.vision">
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250730110000 +0000" stop="20250730113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -230,21 +230,21 @@
 <title>Konon Katanya</title>
 </programme>
 <programme start="20250730223000 +0000" stop="20250730233000 +0000" channel="GTV.vision">
-<title>Goks Abis</title>
+<title>Warbiasak</title>
 </programme>
 <programme start="20250730233000 +0000" stop="20250731003000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20250731003000 +0000" stop="20250731013000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250731013000 +0000" stop="20250731023000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebirtis</title>
 </programme>
-<programme start="20250731023000 +0000" stop="20250731040000 +0000" channel="GTV.vision">
+<programme start="20250731023000 +0000" stop="20250731030000 +0000" channel="GTV.vision">
 <title>Crime.KV</title>
 </programme>
-<programme start="20250731040000 +0000" stop="20250731063000 +0000" channel="GTV.vision">
+<programme start="20250731030000 +0000" stop="20250731063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250731063000 +0000" stop="20250731073000 +0000" channel="GTV.vision">
@@ -253,11 +253,11 @@
 <programme start="20250731073000 +0000" stop="20250731083000 +0000" channel="GTV.vision">
 <title>Rating 5 (GTV)</title>
 </programme>
-<programme start="20250731083000 +0000" stop="20250731100000 +0000" channel="GTV.vision">
-<title>Hot Spot Viral</title>
-</programme>
-<programme start="20250731100000 +0000" stop="20250731110000 +0000" channel="GTV.vision">
+<programme start="20250731083000 +0000" stop="20250731093000 +0000" channel="GTV.vision">
 <title>Kisah Viral Specta</title>
+</programme>
+<programme start="20250731093000 +0000" stop="20250731110000 +0000" channel="GTV.vision">
+<title>Shaun The Sheep</title>
 </programme>
 <programme start="20250731110000 +0000" stop="20250731113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -311,7 +311,7 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20250730170000 +0000" stop="20250730173000 +0000" channel="iNews.vision">
-<title>Begimen</title>
+<title>Realita</title>
 </programme>
 <programme start="20250730173000 +0000" stop="20250730190000 +0000" channel="iNews.vision">
 <title>iNews</title>
@@ -352,11 +352,11 @@
 <programme start="20250731023000 +0000" stop="20250731040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
-<programme start="20250731040000 +0000" stop="20250731060000 +0000" channel="iNews.vision">
+<programme start="20250731040000 +0000" stop="20250731053000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
-<programme start="20250731060000 +0000" stop="20250731063000 +0000" channel="iNews.vision">
-<title>Pemimpin Rakyat (L)</title>
+<programme start="20250731053000 +0000" stop="20250731063000 +0000" channel="iNews.vision">
+<title>Polri Presisi (L)</title>
 </programme>
 <programme start="20250731063000 +0000" stop="20250731070000 +0000" channel="iNews.vision">
 <title>Silet</title>
@@ -601,9 +601,6 @@
 <programme start="20250730054500 +0000" stop="20250730063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
 </programme>
-<programme start="20250730063000 +0000" stop="20250730071500 +0000" channel="Trans 7.vision">
-<title>Speak Up!</title>
-</programme>
 <programme start="20250730071500 +0000" stop="20250730081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -706,11 +703,14 @@
 <programme start="20250731114500 +0000" stop="20250731121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250729233000 +0000" stop="20250730013000 +0000" channel="ANTV.vision">
+<title>Tombak Pamungkas</title>
+</programme>
 <programme start="20250730013000 +0000" stop="20250730030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
 <programme start="20250730030000 +0000" stop="20250730063000 +0000" channel="ANTV.vision">
-<title>Student Of The Year</title>
+<title>Bang Bang</title>
 </programme>
 <programme start="20250730063000 +0000" stop="20250730090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
