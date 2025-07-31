@@ -508,9 +508,6 @@
 <programme start="20250731031500 +0000" stop="20250731041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20250731121500 +0000" stop="20250731130000 +0000" channel="Trans 7.vision">
-<title>POV (Pasti Obrolan Viral)</title>
-</programme>
 <programme start="20250731130000 +0000" stop="20250731143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250731160000 +0000" stop="20250731170000 +0000" channel="TV 9.vision">
 <title>Wayang Santri</title>
+</programme>
+<programme start="20250731000000 +0000" stop="20250731003000 +0000" channel="Tawaf.vision">
+<title>Nabi Sulaiman</title>
 </programme>
