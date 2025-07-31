@@ -158,7 +158,7 @@
         <title> Hồ sơ công tố-Kiểm sát</title>
     </programme>
     <programme start="20250731205500 +0000" stop="20250731210000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Có anh,nơi ấy bình yên - Tập 3</title>
+        <title> Phim truyện: Có anh nơi ấy bình yên - Tập 3</title>
     </programme>
     <programme start="20250731210000 +0000" stop="20250731213000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>
