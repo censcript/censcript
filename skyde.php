@@ -1408,16 +1408,16 @@
 <programme start="20250731014500 +0000" stop="20250731020500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250731020500 +0000" stop="20250731021000 +0000" channel="Nick Jr..skyde">
+<programme start="20250731020500 +0000" stop="20250731021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250731021000 +0000" stop="20250731022000 +0000" channel="Nick Jr..skyde">
+<programme start="20250731021500 +0000" stop="20250731022000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250731022000 +0000" stop="20250731022500 +0000" channel="Nick Jr..skyde">
+<programme start="20250731022000 +0000" stop="20250731023000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250731022500 +0000" stop="20250731025000 +0000" channel="Nick Jr..skyde">
+<programme start="20250731023000 +0000" stop="20250731025000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250731025000 +0000" stop="20250731030000 +0000" channel="Nick Jr..skyde">
@@ -3043,13 +3043,13 @@
 <programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
 </programme>
-<programme start="20250731100000 +0000" stop="20250731101000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731102000 +0000" stop="20250731103000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250731101000 +0000" stop="20250731103500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731103000 +0000" stop="20250731105500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: Live 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
-<programme start="20250731103500 +0000" stop="20250731110000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731105500 +0000" stop="20250731112000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
 <programme start="20250730220000 +0000" stop="20250731000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3463,13 +3463,13 @@
 <programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>TEST: F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Kanada</title>
 </programme>
-<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>TEST: F1: Rennen - GP Kanada</title>
 </programme>
 <programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3481,13 +3481,13 @@
 <programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>TEST: F1: Rennen - GP Spanien</title>
 </programme>
-<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250731090000 +0000" stop="20250731091000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731093500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Monaco</title>
 </programme>
-<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250731093500 +0000" stop="20250731100000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>TEST: F1: Rennen - GP Monaco</title>
 </programme>
 <programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 7 HD.skyde">
