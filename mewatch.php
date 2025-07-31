@@ -968,10 +968,10 @@
         <title>World Aquatics Championships - Singapore 2025: Diving - Women&#039;s 10m Platform Final</title>
     </programme>
     <programme start="20250731113200 +0000" stop="20250731160000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st August, Friday 2pm. World Aquatics Championships - Singapore 2025</title>
+        <title>No Programme available now. Next Broadcast on 1st August, Friday 1.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250731160000 +0000" stop="20250801060000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st August, Friday 2pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250731160000 +0000" stop="20250801055200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 1st August, Friday 1.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250730160000 +0000" stop="20250731015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 31st July, Thursday 9.52am. World Aquatics Championships - Singapore 2025</title>

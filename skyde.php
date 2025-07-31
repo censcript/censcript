@@ -2962,9 +2962,6 @@
 <programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>TEST: BL: Borussia Dortmund - Holstein Kiel, 34. Spieltag</title>
 </programme>
-<programme start="20250731004000 +0000" stop="20250731034000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>TEST: Live BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
-</programme>
 <programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
@@ -3367,10 +3364,10 @@
 <programme start="20250731204500 +0000" stop="20250731224500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester United - AFC Bournemouth, Summer Series in Chicago</title>
 </programme>
-<programme start="20250731030000 +0000" stop="20250731033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250731033000 +0000" stop="20250731035500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250731033000 +0000" stop="20250731051500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250731035500 +0000" stop="20250731051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250731051500 +0000" stop="20250731061500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3433,37 +3430,37 @@
 <programme start="20250731180000 +0000" stop="20250801030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 5. Tag</title>
 </programme>
-<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Belgien</title>
 </programme>
-<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>TEST: F1: Rennen - GP Belgien</title>
 </programme>
 <programme start="20250731161000 +0000" stop="20250731163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250731163000 +0000" stop="20250801030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250731163000 +0000" stop="20250801080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 5. Tag</title>
 </programme>
-<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>TEST: F1: Rennen - GP Großbritannien</title>
 </programme>
-<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>TEST: F1: Rennen - GP Österreich</title>
 </programme>
 <programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3475,13 +3472,13 @@
 <programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>TEST: F1: Rennen - GP Kanada</title>
 </programme>
-<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Spanien</title>
 </programme>
-<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>TEST: F1: Rennen - GP Spanien</title>
 </programme>
 <programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3493,13 +3490,13 @@
 <programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>TEST: F1: Rennen - GP Monaco</title>
 </programme>
-<programme start="20250731111000 +0000" stop="20250731112000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>TEST: F1: Es folgt</title>
 </programme>
-<programme start="20250731112000 +0000" stop="20250731114500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20250731092000 +0000" stop="20250731094500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>TEST: Live F1: Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250731114500 +0000" stop="20250731121000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20250731094500 +0000" stop="20250731101000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>TEST: F1: Rennen - GP Emilia Romagna</title>
 </programme>
 <programme start="20250731091000 +0000" stop="20250731092000 +0000" channel="Sky Sport 8 HD.skyde">
