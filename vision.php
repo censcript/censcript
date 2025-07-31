@@ -364,9 +364,6 @@
 <programme start="20250731163000 +0000" stop="20250731171500 +0000" channel="Trans 7.vision">
 <title>Misteri Dunia</title>
 </programme>
-<programme start="20250730233000 +0000" stop="20250731013000 +0000" channel="ANTV.vision">
-<title>Darna Ajaib</title>
-</programme>
 <programme start="20250731013000 +0000" stop="20250731030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250731112000 +0000" stop="20250731132700 +0000" channel="Buddy Star.vision">
 <title>Autumn &amp; The Black Jaguar</title>
+</programme>
+<programme start="20250731132700 +0000" stop="20250731150100 +0000" channel="Buddy Star.vision">
+<title>Silver</title>
 </programme>
