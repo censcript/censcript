@@ -376,12 +376,6 @@
 <programme start="20250731031500 +0000" stop="20250731041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
 </programme>
-<programme start="20250731050000 +0000" stop="20250731054500 +0000" channel="Trans 7.vision">
-<title>Bocah Petualang</title>
-</programme>
-<programme start="20250731054500 +0000" stop="20250731063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang</title>
-</programme>
 <programme start="20250731063000 +0000" stop="20250731071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
 </programme>
@@ -420,9 +414,6 @@
 </programme>
 <programme start="20250731013000 +0000" stop="20250731030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250731030000 +0000" stop="20250731063000 +0000" channel="ANTV.vision">
-<title>Phir Bhi Dil Hai Hindustani</title>
 </programme>
 <programme start="20250731063000 +0000" stop="20250731090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250730224900 +0000" stop="20250731003100 +0000" channel="Originals.vision">
 <title>Ike Boys</title>
+</programme>
+<programme start="20250731003100 +0000" stop="20250731022500 +0000" channel="Originals.vision">
+<title>Platinum</title>
+</programme>
+<programme start="20250731022500 +0000" stop="20250731040300 +0000" channel="Originals.vision">
+<title>John Henry</title>
+</programme>
+<programme start="20250731040300 +0000" stop="20250731061000 +0000" channel="Originals.vision">
+<title>Gold</title>
 </programme>
