@@ -997,11 +997,11 @@
 <programme start="20250801113000 +0000" stop="20250801132500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250801132500 +0000" stop="20250801134500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250801132500 +0000" stop="20250801135000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250801134500 +0000" stop="20250801154500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
+<programme start="20250801135000 +0000" stop="20250801154500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Primera División: Espanyol Barcelona - FC Barcelona</title>
 </programme>
 <programme start="20250801154500 +0000" stop="20250801173500 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1: PSG - Olympique Marseille</title>
@@ -2885,7 +2885,7 @@
     <title>Live F3: Training - GP Ungarn</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801090500 +0000" stop="20250801100000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Training - GP Ungarn</title>
@@ -2903,7 +2903,7 @@
     <title>Live F3: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801135500 +0000" stop="20250801143500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Ungarn</title>
@@ -3304,7 +3304,7 @@
 <programme start="20250801161000 +0000" stop="20250801163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250801163000 +0000" stop="20250802030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250801163000 +0000" stop="20250802080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 6. Tag</title>
 </programme>
 <programme start="20250731221500 +0000" stop="20250731230500 +0000" channel="SYFY HD.skyde">
