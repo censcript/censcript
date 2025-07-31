@@ -3043,13 +3043,13 @@
 <programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: BL: FC Augsburg - 1. FC Union Berlin, 34. Spieltag</title>
 </programme>
-<programme start="20250731102000 +0000" stop="20250731103000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
-<programme start="20250731103000 +0000" stop="20250731105500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731081000 +0000" stop="20250731083500 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: Live 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
-<programme start="20250731105500 +0000" stop="20250731112000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: 2. BL: FC Schalke 04 - SV Elversberg, 34. Spieltag</title>
 </programme>
 <programme start="20250730220000 +0000" stop="20250731000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3367,10 +3367,10 @@
 <programme start="20250731204500 +0000" stop="20250731224500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester United - AFC Bournemouth, Summer Series in Chicago</title>
 </programme>
-<programme start="20250731030000 +0000" stop="20250731033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250731033000 +0000" stop="20250731035500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250731033000 +0000" stop="20250731051500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250731035500 +0000" stop="20250731051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Fernandez (CAN) - A. Kalinskaya, Mubadala Citi DC Open in Washington D.C. (USA), Finale</title>
 </programme>
 <programme start="20250731051500 +0000" stop="20250731061500 +0000" channel="Sky Sport Tennis HD.skyde">

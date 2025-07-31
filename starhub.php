@@ -3007,10 +3007,10 @@
     <programme start="20250731123000 +0000" stop="20250731130000 +0000" channel="Zee Tamil.starhub">
         <title>Ayali</title>
     </programme>
-    <programme start="20250731130000 +0000" stop="20250731134500 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250731130000 +0000" stop="20250731133000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250731134500 +0000" stop="20250731140000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250731133000 +0000" stop="20250731140000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
     <programme start="20250731140000 +0000" stop="20250731143000 +0000" channel="Zee Tamil.starhub">
@@ -4024,9 +4024,6 @@
     <programme start="20250730174500 +0000" stop="20250730180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Kid&#039;s Discovery (R)</title>
     </programme>
-    <programme start="20250730180000 +0000" stop="20250730182500 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother (R)</title>
-    </programme>
     <programme start="20250730182500 +0000" stop="20250730183000 +0000" channel="NHK World Premium HD.starhub">
         <title>Natural Grandeur of the East Mini</title>
     </programme>
@@ -4035,9 +4032,6 @@
     </programme>
     <programme start="20250730184500 +0000" stop="20250730191200 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20250730191200 +0000" stop="20250730191500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20250730191500 +0000" stop="20250730200000 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Omu-rice&quot; (R)</title>
@@ -4050,9 +4044,6 @@
     </programme>
     <programme start="20250730202500 +0000" stop="20250730205600 +0000" channel="NHK World Premium HD.starhub">
         <title>Transcending Happiness (R)</title>
-    </programme>
-    <programme start="20250730205600 +0000" stop="20250730210000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20250730210000 +0000" stop="20250730220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
@@ -4076,19 +4067,16 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20250731010500 +0000" stop="20250731015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Omu-rice&quot; (R)</title>
+        <title>Lifestyle Lab for The Prime Generation (R)</title>
     </programme>
-    <programme start="20250731015000 +0000" stop="20250731021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20250731021700 +0000" stop="20250731022000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+    <programme start="20250731015000 +0000" stop="20250731022000 +0000" channel="NHK World Premium HD.starhub">
+        <title>SCIENCE ZERO (R)</title>
     </programme>
     <programme start="20250731022000 +0000" stop="20250731025000 +0000" channel="NHK World Premium HD.starhub">
         <title>Outside in Lost in Academia (R)</title>
     </programme>
     <programme start="20250731025000 +0000" stop="20250731025600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
+        <title>Breaking News</title>
     </programme>
     <programme start="20250731025600 +0000" stop="20250731030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -4103,15 +4091,18 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20250731033000 +0000" stop="20250731034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Toto Nee-Chan: Fatherly Sister&quot; Encore Eps. 62</title>
+        <title>Drama Serial &quot;Toto Nee-Chan: Fatherly Sister&quot; Encore Eps. 61</title>
     </programme>
     <programme start="20250731034500 +0000" stop="20250731040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Anpan&quot; Eps. 89 (R)</title>
+        <title>Drama Serial &quot;Anpan&quot; Eps. 88 (R)</title>
     </programme>
     <programme start="20250731040000 +0000" stop="20250731040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250731040500 +0000" stop="20250731055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250731040500 +0000" stop="20250731042000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;Anpan&quot; Eps. 89 (R)</title>
+    </programme>
+    <programme start="20250731042000 +0000" stop="20250731055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250731055000 +0000" stop="20250731055500 +0000" channel="NHK World Premium HD.starhub">
@@ -4129,14 +4120,23 @@
     <programme start="20250731064000 +0000" stop="20250731065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mimicries--Natural Science for Kids</title>
     </programme>
-    <programme start="20250731065000 +0000" stop="20250731073500 +0000" channel="NHK World Premium HD.starhub">
-        <title>History Detective (R)</title>
+    <programme start="20250731065000 +0000" stop="20250731072000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Exciting New World</title>
     </programme>
-    <programme start="20250731073500 +0000" stop="20250731080500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250731072000 +0000" stop="20250731072500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fish Masters 5min (R)</title>
+    </programme>
+    <programme start="20250731072500 +0000" stop="20250731073200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Cruising from the Sky Mini</title>
+    </programme>
+    <programme start="20250731073200 +0000" stop="20250731073600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Breaking News</title>
+    </programme>
+    <programme start="20250731073600 +0000" stop="20250731080700 +0000" channel="NHK World Premium HD.starhub">
         <title>Welcome to Special Zoo Tour (R)</title>
     </programme>
-    <programme start="20250731080500 +0000" stop="20250731081000 +0000" channel="NHK World Premium HD.starhub">
-        <title>See, Learn, Explore--A Deep Travelogue in Tohoku (R)</title>
+    <programme start="20250731080700 +0000" stop="20250731081000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250731081000 +0000" stop="20250731082000 +0000" channel="NHK World Premium HD.starhub">
         <title>City-Scope</title>
