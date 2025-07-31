@@ -2986,6 +2986,9 @@
 <programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>TEST: BL: 1. FSV Mainz 05 - Bayer Leverkusen, 34. Spieltag</title>
 </programme>
+<programme start="20250731004000 +0000" stop="20250731034000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+    <title>TEST: Live BL: RB Leipzig - VfB Stuttgart, 34. Spieltag</title>
+</programme>
 <programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
@@ -3007,6 +3010,9 @@
 <programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>TEST: BL: 1. FC Heidenheim - Werder Bremen, 34. Spieltag</title>
 </programme>
+<programme start="20250731004000 +0000" stop="20250731034000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>TEST: Live BL: FC St. Pauli - VfL Bochum, 34. Spieltag</title>
+</programme>
 <programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>TEST: BL: Es folgt</title>
 </programme>
@@ -3015,6 +3021,9 @@
 </programme>
 <programme start="20250731083500 +0000" stop="20250731090000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>TEST: BL: FC St. Pauli - VfL Bochum, 34. Spieltag</title>
+</programme>
+<programme start="20250731004000 +0000" stop="20250731034000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+    <title>TEST: Live BL: Borussia M&#039;gladbach - VfL Wolfsburg, 34. Spieltag</title>
 </programme>
 <programme start="20250731080000 +0000" stop="20250731081000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: BL: Es folgt</title>
