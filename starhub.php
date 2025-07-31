@@ -4003,38 +4003,35 @@
     <programme start="20250730153000 +0000" stop="20250730161500 +0000" channel="NHK World Premium HD.starhub">
         <title>We Hope Our Healthy Lives That Do Not Lead to Disease</title>
     </programme>
-    <programme start="20250730161500 +0000" stop="20250730164000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250730163000 +0000" stop="20250730165500 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
-    <programme start="20250730164000 +0000" stop="20250730170500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250730165500 +0000" stop="20250730172000 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
-    <programme start="20250730170500 +0000" stop="20250730171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Ultra Heavy Machinery 5min.</title>
-    </programme>
-    <programme start="20250730171000 +0000" stop="20250730173000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250730172000 +0000" stop="20250730174000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
     </programme>
-    <programme start="20250730173000 +0000" stop="20250730174000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250730174000 +0000" stop="20250730175000 +0000" channel="NHK World Premium HD.starhub">
         <title>Real-Life Travel English</title>
     </programme>
-    <programme start="20250730174000 +0000" stop="20250730174500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250730174500 +0000" stop="20250730180000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250730175000 +0000" stop="20250730180500 +0000" channel="NHK World Premium HD.starhub">
         <title>Kid&#039;s Discovery (R)</title>
     </programme>
-    <programme start="20250730182500 +0000" stop="20250730183000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Natural Grandeur of the East Mini</title>
+    <programme start="20250730180500 +0000" stop="20250730183000 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother</title>
     </programme>
     <programme start="20250730183000 +0000" stop="20250730184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 88 (R)</title>
     </programme>
-    <programme start="20250730184500 +0000" stop="20250730191200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
+    <programme start="20250730184500 +0000" stop="20250730185500 +0000" channel="NHK World Premium HD.starhub">
+        <title>MIX Bijutune!</title>
     </programme>
-    <programme start="20250730191500 +0000" stop="20250730200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Omu-rice&quot; (R)</title>
+    <programme start="20250730185500 +0000" stop="20250730191000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Peek-a-boo</title>
+    </programme>
+    <programme start="20250730191000 +0000" stop="20250730200000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Last Lecture (R)</title>
     </programme>
     <programme start="20250730200000 +0000" stop="20250730201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -4044,6 +4041,9 @@
     </programme>
     <programme start="20250730202500 +0000" stop="20250730205600 +0000" channel="NHK World Premium HD.starhub">
         <title>Transcending Happiness (R)</title>
+    </programme>
+    <programme start="20250730205600 +0000" stop="20250730210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
     </programme>
     <programme start="20250730210000 +0000" stop="20250730220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
