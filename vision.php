@@ -73,10 +73,10 @@
 <programme start="20250801090000 +0000" stop="20250801100000 +0000" channel="RCTI.vision">
 <title>Iiihh Serrreemm</title>
 </programme>
-<programme start="20250801100000 +0000" stop="20250801111500 +0000" channel="RCTI.vision">
+<programme start="20250729100000 +0000" stop="20250729110000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250801111500 +0000" stop="20250801123000 +0000" channel="RCTI.vision">
+<programme start="20250729110000 +0000" stop="20250729121500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250731000000 +0000" stop="20250731001500 +0000" channel="MNCTV.vision">
@@ -181,7 +181,7 @@
 <programme start="20250731023000 +0000" stop="20250731030000 +0000" channel="GTV.vision">
 <title>Crime.KV</title>
 </programme>
-<programme start="20250731030000 +0000" stop="20250731063000 +0000" channel="GTV.vision">
+<programme start="20250729040000 +0000" stop="20250729063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250731063000 +0000" stop="20250731073000 +0000" channel="GTV.vision">
@@ -196,7 +196,7 @@
 <programme start="20250731093000 +0000" stop="20250731110000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250731110000 +0000" stop="20250731113000 +0000" channel="GTV.vision">
+<programme start="20250729110000 +0000" stop="20250729113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20250731113000 +0000" stop="20250731123000 +0000" channel="GTV.vision">
@@ -238,7 +238,10 @@
 <programme start="20250801013000 +0000" stop="20250801023000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebritis</title>
 </programme>
-<programme start="20250801023000 +0000" stop="20250801063000 +0000" channel="GTV.vision">
+<programme start="20250801023000 +0000" stop="20250801030000 +0000" channel="GTV.vision">
+<title>Crime.KV</title>
+</programme>
+<programme start="20250801030000 +0000" stop="20250801063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250801063000 +0000" stop="20250801073000 +0000" channel="GTV.vision">
@@ -248,7 +251,7 @@
 <title>Rating 5 (GTV)</title>
 </programme>
 <programme start="20250801083000 +0000" stop="20250801093000 +0000" channel="GTV.vision">
-<title>Kisah Viral Specta</title>
+<title>Hot Spot Viral Weekend</title>
 </programme>
 <programme start="20250801093000 +0000" stop="20250801110000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
@@ -257,7 +260,7 @@
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20250801113000 +0000" stop="20250801123000 +0000" channel="GTV.vision">
-<title>Untold Story</title>
+<title>Fo.Mo (Food and Moving)</title>
 </programme>
 <programme start="20250731000000 +0000" stop="20250731010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -305,10 +308,10 @@
 <title>iNews Sport (L)</title>
 </programme>
 <programme start="20250731163000 +0000" stop="20250731170000 +0000" channel="iNews.vision">
-<title>New Top Files</title>
+<title>iNews</title>
 </programme>
 <programme start="20250731170000 +0000" stop="20250731173000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Begimen</title>
 </programme>
 <programme start="20250731173000 +0000" stop="20250731190000 +0000" channel="iNews.vision">
 <title>iNews</title>
@@ -507,6 +510,24 @@
 </programme>
 <programme start="20250731031500 +0000" stop="20250731041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
+</programme>
+<programme start="20250731081500 +0000" stop="20250731091500 +0000" channel="Trans 7.vision">
+<title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250731091500 +0000" stop="20250731101500 +0000" channel="Trans 7.vision">
+<title>Makan Receh</title>
+</programme>
+<programme start="20250731101500 +0000" stop="20250731110000 +0000" channel="Trans 7.vision">
+<title>Xpose Uncensored</title>
+</programme>
+<programme start="20250731110000 +0000" stop="20250731114500 +0000" channel="Trans 7.vision">
+<title>On The Spot</title>
+</programme>
+<programme start="20250731114500 +0000" stop="20250731121500 +0000" channel="Trans 7.vision">
+<title>Secret Story</title>
+</programme>
+<programme start="20250731121500 +0000" stop="20250731130000 +0000" channel="Trans 7.vision">
+<title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20250731130000 +0000" stop="20250731143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -1476,25 +1497,4 @@
 </programme>
 <programme start="20250731120000 +0000" stop="20250731130000 +0000" channel="TV 9.vision">
 <title>Kiswah Female: Bunyai Durotun</title>
-</programme>
-<programme start="20250731130000 +0000" stop="20250731133000 +0000" channel="TV 9.vision">
-<title>Sinema Religi: Mariam</title>
-</programme>
-<programme start="20250731133000 +0000" stop="20250731140000 +0000" channel="TV 9.vision">
-<title>WISATA RELIGI</title>
-</programme>
-<programme start="20250731140000 +0000" stop="20250731150000 +0000" channel="TV 9.vision">
-<title>Kiswah Bersama BHS</title>
-</programme>
-<programme start="20250731150000 +0000" stop="20250731153000 +0000" channel="TV 9.vision">
-<title>MUSIK RELIGI UMI KULTSUM</title>
-</programme>
-<programme start="20250731153000 +0000" stop="20250731160000 +0000" channel="TV 9.vision">
-<title>Dragonmen</title>
-</programme>
-<programme start="20250731160000 +0000" stop="20250731170000 +0000" channel="TV 9.vision">
-<title>Wayang Santri</title>
-</programme>
-<programme start="20250731000000 +0000" stop="20250731003000 +0000" channel="Tawaf.vision">
-<title>Nabi Sulaiman</title>
 </programme>
