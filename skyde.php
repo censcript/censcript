@@ -979,43 +979,40 @@
 <programme start="20250801213000 +0000" stop="20250801220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250807220000 +0000" stop="20250808060000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250731220000 +0000" stop="20250801060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20250808060000 +0000" stop="20250808080000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250801060000 +0000" stop="20250801080000 +0000" channel="DAZN 2 HD.skyde">
     <title>Primera División: Real Madrid - Real Sociedad San Sebastian</title>
 </programme>
-<programme start="20250808080000 +0000" stop="20250808083000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250801080000 +0000" stop="20250801100000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Primera División: FC Barcelona - Real Madrid</title>
+</programme>
+<programme start="20250801100000 +0000" stop="20250801103000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Serie A Highlightshow 2024/25: 38. Spieltag</title>
+</programme>
+<programme start="20250801103000 +0000" stop="20250801110000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 20. Spieltag</title>
+</programme>
+<programme start="20250801110000 +0000" stop="20250801113000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250808083000 +0000" stop="20250808114500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA Nations League: Portugal - Spanien</title>
+<programme start="20250801113000 +0000" stop="20250801132500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250808114500 +0000" stop="20250808122000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250801132500 +0000" stop="20250801135000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250808122000 +0000" stop="20250808132500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
-</programme>
-<programme start="20250808132500 +0000" stop="20250808140000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250808140000 +0000" stop="20250808160000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250801135000 +0000" stop="20250801154500 +0000" channel="DAZN 2 HD.skyde">
     <title>Primera División: Espanyol Barcelona - FC Barcelona</title>
 </programme>
-<programme start="20250808160000 +0000" stop="20250808180000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Primera División: Real Madrid - Real Sociedad San Sebastian</title>
+<programme start="20250801154500 +0000" stop="20250801173500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Ligue 1: PSG - Olympique Marseille</title>
 </programme>
-<programme start="20250808180000 +0000" stop="20250808183000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20250801173500 +0000" stop="20250801210000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Serie A: SSC Neapel - Cagliari Calcio</title>
 </programme>
-<programme start="20250808183000 +0000" stop="20250808202000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA Nations League: Spanien - Frankreich</title>
-</programme>
-<programme start="20250808202000 +0000" stop="20250808210000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250808210000 +0000" stop="20250808220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250801210000 +0000" stop="20250801220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: FightZone</title>
 </programme>
 <programme start="20250731220500 +0000" stop="20250731225500 +0000" channel="Heimatkanal.skyde">
@@ -1789,44 +1786,41 @@
 <programme start="20250801211500 +0000" stop="20250801222000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Game of Thrones - Das Lied von Eis und Feuer</title>
 </programme>
-<programme start="20250807220500 +0000" stop="20250808001000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Hellboy - Call of Darkness</title>
+<programme start="20250731231500 +0000" stop="20250801011000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>10.000 BC</title>
 </programme>
-<programme start="20250808001000 +0000" stop="20250808021000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Godzilla x Kong: The New Empire</title>
+<programme start="20250801011000 +0000" stop="20250801025000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Boneyard</title>
 </programme>
-<programme start="20250808021000 +0000" stop="20250808034500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo</title>
+<programme start="20250801025000 +0000" stop="20250801043500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Boss Level</title>
 </programme>
-<programme start="20250808034500 +0000" stop="20250808062000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Transformers: The Last Knight</title>
+<programme start="20250801043500 +0000" stop="20250801063000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Inheritance</title>
 </programme>
-<programme start="20250808062000 +0000" stop="20250808080000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Bis an die Grenze</title>
+<programme start="20250801063000 +0000" stop="20250801082500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Top Gun - Sie fürchten weder Tod noch Teufel</title>
 </programme>
-<programme start="20250808080000 +0000" stop="20250808100000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Collateral</title>
+<programme start="20250801082500 +0000" stop="20250801100500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Gasoline Alley</title>
 </programme>
-<programme start="20250808100000 +0000" stop="20250808120000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Die Bourne Identität</title>
+<programme start="20250801100500 +0000" stop="20250801121500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Fast &amp; Furious 6</title>
 </programme>
-<programme start="20250808120000 +0000" stop="20250808135000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Die Bourne Verschwörung</title>
+<programme start="20250801121500 +0000" stop="20250801140000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Boss Level</title>
 </programme>
-<programme start="20250808135000 +0000" stop="20250808161000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Fast &amp; Furious 8</title>
+<programme start="20250801140000 +0000" stop="20250801162000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Godzilla</title>
 </programme>
-<programme start="20250808161000 +0000" stop="20250808181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Hellboy - Call of Darkness</title>
+<programme start="20250801162000 +0000" stop="20250801181500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Inheritance</title>
 </programme>
-<programme start="20250808181500 +0000" stop="20250808200000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Great Wall</title>
+<programme start="20250801181500 +0000" stop="20250801201000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>San Andreas</title>
 </programme>
-<programme start="20250808200000 +0000" stop="20250808215000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Jack Ryan: Shadow Recruit</title>
-</programme>
-<programme start="20250808215000 +0000" stop="20250808235000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Lara Croft Tomb Raider - Die Wiege des Lebens</title>
+<programme start="20250801201000 +0000" stop="20250801221500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Der Anschlag</title>
 </programme>
 <programme start="20250731231000 +0000" stop="20250801011500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Mord</title>
@@ -3163,7 +3157,7 @@
 <programme start="20250801210000 +0000" stop="20250801230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: West Ham United - FC Everton, Summer Series in Chicago</title>
 </programme>
-<programme start="20250801033000 +0000" stop="20250801053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250801043000 +0000" stop="20250801053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250801053000 +0000" stop="20250801073000 +0000" channel="Sky Sport Tennis HD.skyde">

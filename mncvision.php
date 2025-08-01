@@ -4096,11 +4096,11 @@
 <programme start="20250801113000 +0000" stop="20250801123000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250801123000 +0000" stop="20250801133000 +0000" channel="GTV.mncvision">
-    <title>Untold Story</title>
-</programme>
-<programme start="20250801133000 +0000" stop="20250801153000 +0000" channel="GTV.mncvision">
+<programme start="20250801123000 +0000" stop="20250801143000 +0000" channel="GTV.mncvision">
     <title>Mission: Impossible Rogue...</title>
+</programme>
+<programme start="20250801143000 +0000" stop="20250801153000 +0000" channel="GTV.mncvision">
+    <title>The Big Explosion</title>
 </programme>
 <programme start="20250801153000 +0000" stop="20250801160000 +0000" channel="GTV.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -4150,11 +4150,11 @@
 <programme start="20250801113000 +0000" stop="20250801123000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-<programme start="20250801123000 +0000" stop="20250801133000 +0000" channel="GTV HD.mncvision">
-    <title>Untold Story</title>
-</programme>
-<programme start="20250801133000 +0000" stop="20250801153000 +0000" channel="GTV HD.mncvision">
+<programme start="20250801123000 +0000" stop="20250801143000 +0000" channel="GTV HD.mncvision">
     <title>Mission: Impossible Rogue...</title>
+</programme>
+<programme start="20250801143000 +0000" stop="20250801153000 +0000" channel="GTV HD.mncvision">
+    <title>The Big Explosion</title>
 </programme>
 <programme start="20250801153000 +0000" stop="20250801160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -9012,54 +9012,6 @@
 </programme>
 <programme start="20250801163000 +0000" stop="20250731170000 +0000" channel="Trans 7.mncvision">
     <title>Misteri Dunia</title>
-</programme>
-<programme start="20250731180000 +0000" stop="20250731220000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia Connected</title>
-</programme>
-<programme start="20250731220000 +0000" stop="20250731233000 +0000" channel="Trans TV.mncvision">
-    <title>Islam Itu Indah</title>
-</programme>
-<programme start="20250731233000 +0000" stop="20250801003000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Pagi (L)</title>
-</programme>
-<programme start="20250801003000 +0000" stop="20250801013000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia Good Morning</title>
-</programme>
-<programme start="20250801013000 +0000" stop="20250801033000 +0000" channel="Trans TV.mncvision">
-    <title>Pagi-Pagi Ambyar</title>
-</programme>
-<programme start="20250801033000 +0000" stop="20250801053000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Siang</title>
-</programme>
-<programme start="20250801053000 +0000" stop="20250801070000 +0000" channel="Trans TV.mncvision">
-    <title>Brownis (Obrowlan Manis)</title>
-</programme>
-<programme start="20250801070000 +0000" stop="20250801080000 +0000" channel="Trans TV.mncvision">
-    <title>Rumpi: No Secret</title>
-</programme>
-<programme start="20250801080000 +0000" stop="20250801090000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Today</title>
-</programme>
-<programme start="20250801090000 +0000" stop="20250801093000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20250801093000 +0000" stop="20250801103000 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
-</programme>
-<programme start="20250801103000 +0000" stop="20250801114500 +0000" channel="Trans TV.mncvision">
-    <title>Bikin Laper</title>
-</programme>
-<programme start="20250801114500 +0000" stop="20250801130000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Story</title>
-</programme>
-<programme start="20250801130000 +0000" stop="20250801140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20250801140000 +0000" stop="20250801160000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20250801160000 +0000" stop="20250801163000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20250731174000 +0000" stop="20250731181000 +0000" channel="tvN.mncvision">
     <title>Chansung&#039;s Cooking, Ep 3</title>

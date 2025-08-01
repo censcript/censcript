@@ -2336,7 +2336,7 @@
         <title>Toronto Day 5 Zverev v Arnaldi</title>
     </programme>
     <programme start="20250801150000 +0000" stop="20250801163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Toronto Day 6 Mensik v Davidovich Fokina</title>
+        <title>ATP Tour 1000 2025: Toronto Day 6 Mensik v Davidovich Fokina</title>
     </programme>
     <programme start="20250731160000 +0000" stop="20250731170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
@@ -4172,7 +4172,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20250801153000 +0000" stop="20250801161300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Samurai Drama &quot;Sinbei--A Samurai With a Child&quot; Eps. 4 (R)</title>
+        <title>Samurai Drama Selections &quot;Sinbei--A Samurai With a Child&quot; Eps. 4 (R)</title>
     </programme>
     <programme start="20250731151500 +0000" stop="20250731164500 +0000" channel="HBO HD.starhub">
         <title>Dìdi</title>
@@ -7394,13 +7394,16 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250801013000 +0000" stop="20250801020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>Iwata&#039;s Grandma</title>
     </programme>
     <programme start="20250801020000 +0000" stop="20250801023000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20250801023000 +0000" stop="20250801030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+    <programme start="20250801023000 +0000" stop="20250801025000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Time-Lapse Journey</title>
+    </programme>
+    <programme start="20250801025000 +0000" stop="20250801030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Nun&#039;s Seasonal Calendar</title>
     </programme>
     <programme start="20250801030000 +0000" stop="20250801033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7424,13 +7427,16 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250801063000 +0000" stop="20250801070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>Iwata&#039;s Grandma</title>
     </programme>
     <programme start="20250801070000 +0000" stop="20250801073000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20250801073000 +0000" stop="20250801080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+    <programme start="20250801073000 +0000" stop="20250801075000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Time-Lapse Journey</title>
+    </programme>
+    <programme start="20250801075000 +0000" stop="20250801080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Nun&#039;s Seasonal Calendar</title>
     </programme>
     <programme start="20250801080000 +0000" stop="20250801083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7466,13 +7472,16 @@
         <title>Newsroom Tokyo</title>
     </programme>
     <programme start="20250801123000 +0000" stop="20250801130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>Iwata&#039;s Grandma</title>
     </programme>
     <programme start="20250801130000 +0000" stop="20250801133000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20250801133000 +0000" stop="20250801140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+    <programme start="20250801133000 +0000" stop="20250801135000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Time-Lapse Journey</title>
+    </programme>
+    <programme start="20250801135000 +0000" stop="20250801140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Nun&#039;s Seasonal Calendar</title>
     </programme>
     <programme start="20250801140000 +0000" stop="20250801143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
