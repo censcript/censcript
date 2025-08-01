@@ -7373,7 +7373,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250731223000 +0000" stop="20250731225000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>The A-Bomb Experience</title>
     </programme>
     <programme start="20250731225000 +0000" stop="20250731230000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Matsuri: The Heartbeat of Japan</title>
@@ -9744,6 +9744,9 @@
     </programme>
     <programme start="20250801150000 +0000" stop="20250801160000 +0000" channel="TestChannel 993.starhub">
         <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250731160000 +0000" stop="20250731220000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
     </programme>
     <programme start="20250731220000 +0000" stop="20250801040000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
