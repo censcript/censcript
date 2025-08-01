@@ -974,16 +974,16 @@
         <title>ONE Friday Fights 118</title>
     </programme>
     <programme start="20250731160000 +0000" stop="20250801160000 +0000" channel="Live 5.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 6th August, Wednesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
     <programme start="20250801160000 +0000" stop="20250802160000 +0000" channel="Live 5.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 6th August, Wednesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
     <programme start="20250731160000 +0000" stop="20250801160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
     <programme start="20250801160000 +0000" stop="20250802160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
     <programme start="20250731160000 +0000" stop="20250801160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
