@@ -2888,7 +2888,7 @@
     <title>Live F3: Training - GP Ungarn</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801090500 +0000" stop="20250801100000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Training - GP Ungarn</title>
@@ -2906,7 +2906,7 @@
     <title>Live F3: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801135500 +0000" stop="20250801143500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Ungarn</title>
@@ -3037,13 +3037,13 @@
 <programme start="20250801100000 +0000" stop="20250801130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Pressekonferenzen live</title>
 </programme>
-<programme start="20250801130000 +0000" stop="20250801153000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250801130000 +0000" stop="20250801160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250801153000 +0000" stop="20250801160000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250801160000 +0000" stop="20250801163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show</title>
 </programme>
-<programme start="20250801160000 +0000" stop="20250801173000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250801163000 +0000" stop="20250801173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250801173000 +0000" stop="20250801210000 +0000" channel="Sky Sport News HD.skyde">
@@ -3200,7 +3200,7 @@
     <title>Live F3: Training - GP Ungarn</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801090500 +0000" stop="20250801100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: Training - GP Ungarn</title>
@@ -3218,7 +3218,7 @@
     <title>Live F3: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801135500 +0000" stop="20250801143500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: Qualifying - GP Ungarn</title>
@@ -3251,10 +3251,10 @@
     <title>Live F3: Training - GP Ungarn</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Spa enttäuscht nie!</title>
+    <title>Chasing the Dream: 9. Episode</title>
 </programme>
 <programme start="20250801090500 +0000" stop="20250801100000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Training - GP Ungarn</title>
@@ -3278,10 +3278,10 @@
     <title>Live F3: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Spa enttäuscht nie!</title>
+    <title>Chasing the Dream: 9. Episode</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801135500 +0000" stop="20250801143500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Qualifying - GP Ungarn</title>
@@ -3298,7 +3298,7 @@
 <programme start="20250801161000 +0000" stop="20250801163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250801163000 +0000" stop="20250802030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250801163000 +0000" stop="20250802080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 6. Tag</title>
 </programme>
 <programme start="20250731221500 +0000" stop="20250731230500 +0000" channel="SYFY HD.skyde">
@@ -3808,10 +3808,10 @@
 <programme start="20250801092500 +0000" stop="20250801101500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250801101500 +0000" stop="20250801110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250801101500 +0000" stop="20250801111000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250801110500 +0000" stop="20250801120000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250801111000 +0000" stop="20250801120000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250801120000 +0000" stop="20250801125000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3832,10 +3832,10 @@
 <programme start="20250801155500 +0000" stop="20250801164000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250801164000 +0000" stop="20250801172500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250801164000 +0000" stop="20250801173000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20250801172500 +0000" stop="20250801181500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250801173000 +0000" stop="20250801181500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
 <programme start="20250801181500 +0000" stop="20250801190000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3844,10 +3844,10 @@
 <programme start="20250801190000 +0000" stop="20250801194500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250801194500 +0000" stop="20250801202500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250801194500 +0000" stop="20250801203000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20250801202500 +0000" stop="20250801211500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250801203000 +0000" stop="20250801211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20250801211500 +0000" stop="20250801220000 +0000" channel="Warner TV Serie HD.skyde">
