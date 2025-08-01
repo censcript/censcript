@@ -2318,25 +2318,25 @@
         <title>ATP Tour 1000 2025: Toronto Day 5 Match 2</title>
     </programme>
     <programme start="20250801070000 +0000" stop="20250801083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 5 Match 3</title>
+        <title>Toronto Day 5 Ruud v Borges</title>
     </programme>
     <programme start="20250801083000 +0000" stop="20250801090000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250801090000 +0000" stop="20250801103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 5 Match 4</title>
+        <title>Toronto Day 5 Tien v Opelka</title>
     </programme>
     <programme start="20250801103000 +0000" stop="20250801120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 5 Match 6</title>
+        <title>Toronto Day 5 Medvedev v Popyrin</title>
     </programme>
     <programme start="20250801120000 +0000" stop="20250801133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 5 Match 1</title>
+        <title>Toronto Day 5 Ruud v Borges</title>
     </programme>
     <programme start="20250801133000 +0000" stop="20250801150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 5 Match 5</title>
+        <title>Toronto Day 5 Zverev v Arnaldi</title>
     </programme>
     <programme start="20250801150000 +0000" stop="20250801163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Day 6 Match 1</title>
+        <title>Toronto Day 6 Mensik v Davidovich Fokina</title>
     </programme>
     <programme start="20250731160000 +0000" stop="20250731170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
@@ -9735,6 +9735,15 @@
     </programme>
     <programme start="20250801150000 +0000" stop="20250801160000 +0000" channel="TestChannel 993.starhub">
         <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20250731220000 +0000" stop="20250801040000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250801040000 +0000" stop="20250801100000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250801100000 +0000" stop="20250801160000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
     </programme>
     <programme start="20250731095000 +0000" stop="20250731173100 +0000" channel="Cricbuzz.starhub">
         <title>LIVE: ENG v IND, 5th Test, Day 1</title>
