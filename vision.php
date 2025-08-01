@@ -14,7 +14,7 @@
 <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20250801073000 +0000" stop="20250801090000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
+<title>Rumah Sakit Yang Menyeramkan</title>
 </programme>
 <programme start="20250801090000 +0000" stop="20250801100000 +0000" channel="RCTI.vision">
 <title>Iiihh Serrreemm</title>
@@ -35,19 +35,16 @@
 <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250801160000 +0000" stop="20250801180000 +0000" channel="RCTI.vision">
-<title>Layar Drama Indonesia</title>
+<title>Paycheck</title>
 </programme>
 <programme start="20250801180000 +0000" stop="20250801190000 +0000" channel="RCTI.vision">
+<title>Awas Banyak Copet</title>
+</programme>
+<programme start="20250801190000 +0000" stop="20250801203000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20250801190000 +0000" stop="20250801201500 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
-</programme>
-<programme start="20250801201500 +0000" stop="20250801210000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
-</programme>
-<programme start="20250801210000 +0000" stop="20250801234500 +0000" channel="RCTI.vision">
-<title>Preman Pensiun</title>
+<programme start="20250801203000 +0000" stop="20250801234500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S2</title>
 </programme>
 <programme start="20250801234500 +0000" stop="20250802010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
@@ -59,16 +56,16 @@
 <title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250802060000 +0000" stop="20250802080000 +0000" channel="RCTI.vision">
-<title>TAD: The Lost Explorer And...</title>
+<title>Tad: The Lost Explorer</title>
 </programme>
 <programme start="20250802080000 +0000" stop="20250802100000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
+<title>Tangisan Dari Dunia Lain</title>
 </programme>
-<programme start="20250802100000 +0000" stop="20250802111500 +0000" channel="RCTI.vision">
+<programme start="20250802100000 +0000" stop="20250802113000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250802111500 +0000" stop="20250802123000 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu</title>
+<programme start="20250802113000 +0000" stop="20250802140000 +0000" channel="RCTI.vision">
+<title>RCTI Premium Sports (L)</title>
 </programme>
 <programme start="20250731234500 +0000" stop="20250801010000 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -136,23 +133,23 @@
 <programme start="20250802010000 +0000" stop="20250802013000 +0000" channel="MNCTV.vision">
 <title>Simple Rudy</title>
 </programme>
-<programme start="20250802013000 +0000" stop="20250802020000 +0000" channel="MNCTV.vision">
-<title>Dapur Ngebor</title>
+<programme start="20250802013000 +0000" stop="20250802030000 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20250802020000 +0000" stop="20250802043000 +0000" channel="MNCTV.vision">
-<title>FTV Legenda</title>
+<programme start="20250802030000 +0000" stop="20250802043000 +0000" channel="MNCTV.vision">
+<title>Ikan Pari &amp; 7 Kebaikan</title>
 </programme>
 <programme start="20250802043000 +0000" stop="20250802060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
 <programme start="20250802060000 +0000" stop="20250802080000 +0000" channel="MNCTV.vision">
-<title>Uang Kaget</title>
+<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20250802080000 +0000" stop="20250802100000 +0000" channel="MNCTV.vision">
 <title>Kiko In The Deep Sea</title>
 </programme>
 <programme start="20250802100000 +0000" stop="20250802120000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250731233000 +0000" stop="20250801003000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
@@ -184,14 +181,14 @@
 <programme start="20250801113000 +0000" stop="20250801123000 +0000" channel="GTV.vision">
 <title>Untold Story</title>
 </programme>
-<programme start="20250801123000 +0000" stop="20250801133000 +0000" channel="GTV.vision">
-<title>Untold Story</title>
-</programme>
-<programme start="20250801133000 +0000" stop="20250801153000 +0000" channel="GTV.vision">
+<programme start="20250801123000 +0000" stop="20250801143000 +0000" channel="GTV.vision">
 <title>Mission: Impossible Rogue...</title>
 </programme>
+<programme start="20250801143000 +0000" stop="20250801153000 +0000" channel="GTV.vision">
+<title>The Big Explosion</title>
+</programme>
 <programme start="20250801153000 +0000" stop="20250801170000 +0000" channel="GTV.vision">
-<title>Predator: PBC Indonesia Open</title>
+<title>GTV</title>
 </programme>
 <programme start="20250801170000 +0000" stop="20250801180000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
@@ -214,13 +211,13 @@
 <programme start="20250802000000 +0000" stop="20250802010000 +0000" channel="GTV.vision">
 <title>Bleach</title>
 </programme>
-<programme start="20250802010000 +0000" stop="20250802023000 +0000" channel="GTV.vision">
+<programme start="20250802010000 +0000" stop="20250802030000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250802023000 +0000" stop="20250802033000 +0000" channel="GTV.vision">
+<programme start="20250802030000 +0000" stop="20250802040000 +0000" channel="GTV.vision">
 <title>Zak Storm</title>
 </programme>
-<programme start="20250802033000 +0000" stop="20250802063000 +0000" channel="GTV.vision">
+<programme start="20250802040000 +0000" stop="20250802063000 +0000" channel="GTV.vision">
 <title>Naruto Shippuden</title>
 </programme>
 <programme start="20250802063000 +0000" stop="20250802073000 +0000" channel="GTV.vision">
@@ -484,13 +481,13 @@
 <programme start="20250802090000 +0000" stop="20250802093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20250802093000 +0000" stop="20250802103000 +0000" channel="Trans TV.vision">
-<title>Skena</title>
+<programme start="20250802093000 +0000" stop="20250802100000 +0000" channel="Trans TV.vision">
+<title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802114500 +0000" channel="Trans TV.vision">
+<programme start="20250802100000 +0000" stop="20250802110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20250802114500 +0000" stop="20250802130000 +0000" channel="Trans TV.vision">
+<programme start="20250802110000 +0000" stop="20250802120000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20250731234500 +0000" stop="20250801004500 +0000" channel="Trans 7.vision">
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250801085500 +0000" stop="20250801093000 +0000" channel="MDTV.vision">
 <title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20250801093000 +0000" stop="20250801110000 +0000" channel="MDTV.vision">
+<title>Nada Cinta</title>
 </programme>
