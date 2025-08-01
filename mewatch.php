@@ -967,6 +967,12 @@
     <programme start="20250801160000 +0000" stop="20250802110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 2nd August, Saturday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
+    <programme start="20250731160000 +0000" stop="20250801123000 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 1st August, Friday 8.30pm. ONE Friday Fights 118</title>
+    </programme>
+    <programme start="20250801123000 +0000" stop="20250801163000 +0000" channel="Live 2.mewatch">
+        <title>ONE Friday Fights 118</title>
+    </programme>
     <programme start="20250731160000 +0000" stop="20250801160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>

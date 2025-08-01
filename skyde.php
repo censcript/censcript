@@ -3157,7 +3157,7 @@
 <programme start="20250801210000 +0000" stop="20250801230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: West Ham United - FC Everton, Summer Series in Chicago</title>
 </programme>
-<programme start="20250801030000 +0000" stop="20250801053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250801043000 +0000" stop="20250801053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250801053000 +0000" stop="20250801073000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3181,13 +3181,13 @@
 <programme start="20250801150000 +0000" stop="20250802030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 6. Tag</title>
 </programme>
-<programme start="20250801030000 +0000" stop="20250801033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250801050000 +0000" stop="20250801051500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
-<programme start="20250801033000 +0000" stop="20250801040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250801051500 +0000" stop="20250801053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Newcastle United: Not In My Lifetime)</title>
 </programme>
-<programme start="20250801040000 +0000" stop="20250801063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250801053000 +0000" stop="20250801063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Pokal Junioren: Werder Bremen U19 - Karlsruher SC U19, Finale 2025 in Potsdam</title>
 </programme>
 <programme start="20250801063000 +0000" stop="20250801073000 +0000" channel="Sky Sport Top Event HD.skyde">
