@@ -865,129 +865,6 @@
     <programme start="20250802150000 +0000" stop="20250802160000 +0000" channel="Fox News Channel.starhub">
         <title>FOX News Live</title>
     </programme>
-    <programme start="20250801160000 +0000" stop="20250801170000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Intercontinental Express (2/8/25)</title>
-    </programme>
-    <programme start="20250801170000 +0000" stop="20250801173000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (1/8/25)</title>
-    </programme>
-    <programme start="20250801173000 +0000" stop="20250801180000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20250801180000 +0000" stop="20250801183000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>The Great Era</title>
-    </programme>
-    <programme start="20250801183000 +0000" stop="20250801190000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Asian Financial Insight</title>
-    </programme>
-    <programme start="20250801190000 +0000" stop="20250801193000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Global Updates</title>
-    </programme>
-    <programme start="20250801193000 +0000" stop="20250801200000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Zoom In</title>
-    </programme>
-    <programme start="20250801200000 +0000" stop="20250801203000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Cultural Canvas</title>
-    </programme>
-    <programme start="20250801203000 +0000" stop="20250801210000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>From Phoenix To The World (1/8/25)</title>
-    </programme>
-    <programme start="20250801210000 +0000" stop="20250801213000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (1/8/25)</title>
-    </programme>
-    <programme start="20250801213000 +0000" stop="20250801220000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Top View</title>
-    </programme>
-    <programme start="20250801220000 +0000" stop="20250801223000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>The Great Era</title>
-    </programme>
-    <programme start="20250801223000 +0000" stop="20250801230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Chief Editor&#039;S Time (1/8/25)</title>
-    </programme>
-    <programme start="20250801230000 +0000" stop="20250802000000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Morning Express (2/8/25 Pt1)</title>
-    </programme>
-    <programme start="20250802000000 +0000" stop="20250802010000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Morning Express (2/8/25 Pt2)</title>
-    </programme>
-    <programme start="20250802010000 +0000" stop="20250802013000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>From Phoenix To The World (1/8/25)</title>
-    </programme>
-    <programme start="20250802013000 +0000" stop="20250802020000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20250802020000 +0000" stop="20250802030000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News On The Hour (2/8/25)</title>
-    </programme>
-    <programme start="20250802030000 +0000" stop="20250802033000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Zoom In</title>
-    </programme>
-    <programme start="20250802033000 +0000" stop="20250802040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Perfect Pairings</title>
-    </programme>
-    <programme start="20250802040000 +0000" stop="20250802050000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Midday Express (2/8/25)</title>
-    </programme>
-    <programme start="20250802050000 +0000" stop="20250802052800 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Chief Editor&#039;S Time (1/8/25)</title>
-    </programme>
-    <programme start="20250802052800 +0000" stop="20250802053000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Dictum From You Bring Charm To The World - 17Th Global Chinese Awards</title>
-    </programme>
-    <programme start="20250802053000 +0000" stop="20250802060000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Dreamscapes, Architectural Wonders</title>
-    </programme>
-    <programme start="20250802060000 +0000" stop="20250802061500 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>My Hong Kong Story</title>
-    </programme>
-    <programme start="20250802061500 +0000" stop="20250802063000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>My Hong Kong Story</title>
-    </programme>
-    <programme start="20250802063000 +0000" stop="20250802070000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20250802070000 +0000" stop="20250802080000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News On The Hour (2/8/25)</title>
-    </programme>
-    <programme start="20250802080000 +0000" stop="20250802083000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Global Updates</title>
-    </programme>
-    <programme start="20250802083000 +0000" stop="20250802090000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>The Great Era</title>
-    </programme>
-    <programme start="20250802090000 +0000" stop="20250802093000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>China Insight</title>
-    </programme>
-    <programme start="20250802093000 +0000" stop="20250802100000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Perfect Pairings</title>
-    </programme>
-    <programme start="20250802100000 +0000" stop="20250802103000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Focus (2/8/25)</title>
-    </programme>
-    <programme start="20250802103000 +0000" stop="20250802110000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News Talk (2/8/25)</title>
-    </programme>
-    <programme start="20250802110000 +0000" stop="20250802113000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>We Are One</title>
-    </programme>
-    <programme start="20250802113000 +0000" stop="20250802120000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Fact Check On News</title>
-    </programme>
-    <programme start="20250802120000 +0000" stop="20250802130000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Tiger Talk</title>
-    </programme>
-    <programme start="20250802130000 +0000" stop="20250802140000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Evening Express (2/8/25)</title>
-    </programme>
-    <programme start="20250802140000 +0000" stop="20250802150000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Premium Spectacular</title>
-    </programme>
-    <programme start="20250802150000 +0000" stop="20250802153000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Fact Check On News</title>
-    </programme>
-    <programme start="20250802153000 +0000" stop="20250802160000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News Talk (2/8/25)</title>
-    </programme>
     <programme start="20250801160000 +0000" stop="20250801170000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
     </programme>
@@ -7622,7 +7499,7 @@
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250801180000 +0000" stop="20250801183000 +0000" channel="COLORS.starhub">
-        <title>Meri Bhavya Life</title>
+        <title>Noyontara</title>
     </programme>
     <programme start="20250801183000 +0000" stop="20250801193000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
