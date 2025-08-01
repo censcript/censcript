@@ -8269,10 +8269,10 @@
     <programme start="20250731163000 +0000" stop="20250731190000 +0000" channel="Asianet Movies.starhub">
         <title>China Town</title>
     </programme>
-    <programme start="20250731190000 +0000" stop="20250731220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250731190000 +0000" stop="20250731211000 +0000" channel="Asianet Movies.starhub">
         <title>Gods Own Country</title>
     </programme>
-    <programme start="20250731220000 +0000" stop="20250731233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250731211000 +0000" stop="20250731233000 +0000" channel="Asianet Movies.starhub">
         <title>Chacko Randaman</title>
     </programme>
     <programme start="20250731233000 +0000" stop="20250801013000 +0000" channel="Asianet Movies.starhub">
