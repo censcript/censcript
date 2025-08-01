@@ -3157,7 +3157,7 @@
 <programme start="20250801210000 +0000" stop="20250801230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: West Ham United - FC Everton, Summer Series in Chicago</title>
 </programme>
-<programme start="20250801043000 +0000" stop="20250801053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250801033000 +0000" stop="20250801053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Bublik (KAZ) - A. Cazaux (FRA), Generali Open in Kitzbühel (AUT), Finale</title>
 </programme>
 <programme start="20250801053000 +0000" stop="20250801073000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3251,10 +3251,10 @@
     <title>Live F3: Training - GP Ungarn</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Spa enttäuscht nie!</title>
+    <title>Chasing the Dream: 9. Episode</title>
 </programme>
 <programme start="20250801085000 +0000" stop="20250801090500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801090500 +0000" stop="20250801100000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Training - GP Ungarn</title>
@@ -3278,10 +3278,10 @@
     <title>Live F3: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: 9. Episode</title>
+    <title>Chasing the Dream: Spa enttäuscht nie!</title>
 </programme>
 <programme start="20250801134000 +0000" stop="20250801135500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Spa enttäuscht nie!</title>
+    <title>Chasing the Dream: 9. Episode</title>
 </programme>
 <programme start="20250801135500 +0000" stop="20250801143500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Qualifying - GP Ungarn</title>
