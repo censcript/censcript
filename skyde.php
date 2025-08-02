@@ -3238,60 +3238,6 @@
 <programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 7. Tag</title>
 </programme>
-<programme start="20250802030000 +0000" stop="20250802033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Icons: David Beckham</title>
-</programme>
-<programme start="20250802033000 +0000" stop="20250802053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: FC Schalke 04 - Hertha BSC, 1. Spieltag</title>
-</programme>
-<programme start="20250802053000 +0000" stop="20250802073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Luton Town - AFC Wimbledon, 1. Spieltag</title>
-</programme>
-<programme start="20250802073000 +0000" stop="20250802074500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP &amp; WTA: Best Shots 2025</title>
-</programme>
-<programme start="20250802074500 +0000" stop="20250802075500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Greatest Races: N. Lauda / Estoril 1984</title>
-</programme>
-<programme start="20250802075500 +0000" stop="20250802090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F3: 1. Rennen - GP Ungarn</title>
-</programme>
-<programme start="20250802090000 +0000" stop="20250802100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WRC: Secto Rally Finland - SS14 Leustu 1</title>
-</programme>
-<programme start="20250802100000 +0000" stop="20250802101500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Chasing the Dream: Spa enttäuscht nie!</title>
-</programme>
-<programme start="20250802101500 +0000" stop="20250802103000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Game of the Century, FC Liverpool - Newcastle United (1995/96)</title>
-</programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live 2. BL: Samstags-Konferenz, 1. Spieltag</title>
-</programme>
-<programme start="20250802130000 +0000" stop="20250802140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 1. Spieltag, Samstag</title>
-</programme>
-<programme start="20250802140000 +0000" stop="20250802153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F1: Qualifying - GP Ungarn</title>
-</programme>
-<programme start="20250802153000 +0000" stop="20250802170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Testspiel: Borussia Dortmund - OSC Lille, Testspiel in Iserlohn</title>
-</programme>
-<programme start="20250802170000 +0000" stop="20250802180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 7. Tag</title>
-</programme>
-<programme start="20250802180000 +0000" stop="20250802210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live 2. BL: Arminia Bielefeld - Fortuna Düsseldorf, tipico Topspiel der Woche, 1. Spieltag</title>
-</programme>
-<programme start="20250802210000 +0000" stop="20250802211500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Vereinsprofil 1. FSV Mainz 05</title>
-</programme>
-<programme start="20250802211500 +0000" stop="20250802212500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Vereinsprofil FC Augsburg</title>
-</programme>
-<programme start="20250802212500 +0000" stop="20250802233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Testspiel: Eintracht Frankfurt - Philadelphia Union, Testspiel in Philadelphia</title>
-</programme>
 <programme start="20250802054500 +0000" stop="20250802060000 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
@@ -3361,7 +3307,7 @@
 <programme start="20250802161000 +0000" stop="20250802163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250802163000 +0000" stop="20250803080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
 <programme start="20250801221500 +0000" stop="20250801231500 +0000" channel="SYFY HD.skyde">
