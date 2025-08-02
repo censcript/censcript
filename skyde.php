@@ -3211,7 +3211,7 @@
 <programme start="20250802214500 +0000" stop="20250802221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: TOT - MCI, 27. Spieltag</title>
 </programme>
-<programme start="20250802034500 +0000" stop="20250802054500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250802030000 +0000" stop="20250802053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250802053000 +0000" stop="20250802054500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3308,10 +3308,10 @@
     <title>Live F3: 1. Rennen - GP Ungarn</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250802091500 +0000" stop="20250802093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Chasing the Dream: Die Spannungen nehmen zu</title>
