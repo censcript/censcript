@@ -2860,13 +2860,13 @@
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - VfL Bochum, 1. Spieltag</title>
 </programme>
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - 1. FC Nürnberg, 1. Spieltag</title>
 </programme>
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2878,7 +2878,7 @@
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Holstein Kiel, 1. Spieltag</title>
 </programme>
 <programme start="20250801220000 +0000" stop="20250801233000 +0000" channel="Sky Sport F1 HD.skyde">
