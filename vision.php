@@ -433,9 +433,6 @@
 <programme start="20250802110000 +0000" stop="20250802120000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250802120000 +0000" stop="20250802143000 +0000" channel="Trans TV.vision">
-<title>TransFestival Vol. 2</title>
-</programme>
 <programme start="20250802143000 +0000" stop="20250802163000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250803030000 +0000" stop="20250803043000 +0000" channel="MDTV.vision">
 <title>Cerita Nyata Pagi</title>
+</programme>
+<programme start="20250803043000 +0000" stop="20250803060000 +0000" channel="MDTV.vision">
+<title>Cerita Nyata</title>
 </programme>
