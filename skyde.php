@@ -94,6 +94,45 @@
 <programme start="20250802211500 +0000" stop="20250802220000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20250801221000 +0000" stop="20250801233500 +0000" channel="Beate Uhse HD.skyde">
+    <title>London City Crypto Sex</title>
+</programme>
+<programme start="20250801233500 +0000" stop="20250802005500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Forever Young</title>
+</programme>
+<programme start="20250802005500 +0000" stop="20250802022500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Crazy Italian Holidays</title>
+</programme>
+<programme start="20250802022500 +0000" stop="20250802023500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Behind the Scenes - Der Klang der Karibik</title>
+</programme>
+<programme start="20250802023500 +0000" stop="20250802031000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pärchentausch</title>
+</programme>
+<programme start="20250802031000 +0000" stop="20250802034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pärchentausch</title>
+</programme>
+<programme start="20250802034500 +0000" stop="20250802181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20250802181500 +0000" stop="20250802183500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Job Crush</title>
+</programme>
+<programme start="20250802183500 +0000" stop="20250802190000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Horny Hostel</title>
+</programme>
+<programme start="20250802190000 +0000" stop="20250802192500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Nachbars geiler Garten</title>
+</programme>
+<programme start="20250802192500 +0000" stop="20250802195000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Lustgewinn mit Kamasutra</title>
+</programme>
+<programme start="20250802195000 +0000" stop="20250802204500 +0000" channel="Beate Uhse HD.skyde">
+    <title>The Blind Date</title>
+</programme>
+<programme start="20250802204500 +0000" stop="20250802222000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Das Biest von nebenan</title>
+</programme>
 <programme start="20250801220500 +0000" stop="20250801221500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe: Future</title>
 </programme>
@@ -3269,10 +3308,10 @@
     <title>Live F3: 1. Rennen - GP Ungarn</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250802091500 +0000" stop="20250802093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Chasing the Dream: Die Spannungen nehmen zu</title>
@@ -3322,7 +3361,7 @@
 <programme start="20250802161000 +0000" stop="20250802163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250802163000 +0000" stop="20250803080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
 <programme start="20250801221500 +0000" stop="20250801231500 +0000" channel="SYFY HD.skyde">
