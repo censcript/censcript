@@ -433,9 +433,6 @@
 <programme start="20250802110000 +0000" stop="20250802120000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250802120000 +0000" stop="20250802143000 +0000" channel="Trans TV.vision">
-<title>TransFestival Vol. 2</title>
-</programme>
 <programme start="20250802143000 +0000" stop="20250802163000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -540,9 +537,6 @@
 </programme>
 <programme start="20250802154500 +0000" stop="20250802163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20250802163000 +0000" stop="20250802181500 +0000" channel="Trans 7.vision">
-<title>Theater Malam</title>
 </programme>
 <programme start="20250802181500 +0000" stop="20250802190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250803030000 +0000" stop="20250803043000 +0000" channel="MDTV.vision">
 <title>Cerita Nyata Pagi</title>
+</programme>
+<programme start="20250803043000 +0000" stop="20250803060000 +0000" channel="MDTV.vision">
+<title>Cerita Nyata</title>
+</programme>
+<programme start="20250803060000 +0000" stop="20250803065000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S3</title>
 </programme>
