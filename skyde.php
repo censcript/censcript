@@ -3211,7 +3211,7 @@
 <programme start="20250802214500 +0000" stop="20250802221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: TOT - MCI, 27. Spieltag</title>
 </programme>
-<programme start="20250802030000 +0000" stop="20250802053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250802034500 +0000" stop="20250802054500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250802053000 +0000" stop="20250802054500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3361,7 +3361,7 @@
 <programme start="20250802161000 +0000" stop="20250802163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250802163000 +0000" stop="20250803080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
 <programme start="20250801221500 +0000" stop="20250801231500 +0000" channel="SYFY HD.skyde">
