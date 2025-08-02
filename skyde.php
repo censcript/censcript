@@ -2734,7 +2734,7 @@
 <programme start="20250802161000 +0000" stop="20250802163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250802163000 +0000" stop="20250803080000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
 <programme start="20250801230000 +0000" stop="20250802000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3308,10 +3308,10 @@
     <title>Live F3: 1. Rennen - GP Ungarn</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250802091500 +0000" stop="20250802093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Chasing the Dream: Die Spannungen nehmen zu</title>

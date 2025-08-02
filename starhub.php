@@ -7763,7 +7763,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250801223000 +0000" stop="20250801230000 +0000" channel="BBC World News HD.starhub">
-        <title>The President&#039;s Path</title>
+        <title>Trump&#039;s Grievances</title>
     </programme>
     <programme start="20250801230000 +0000" stop="20250801233000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
