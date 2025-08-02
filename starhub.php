@@ -7666,10 +7666,10 @@
     <programme start="20250802020000 +0000" stop="20250802023000 +0000" channel="COLORS.starhub">
         <title>Meri Bhavya Life</title>
     </programme>
-    <programme start="20250802023000 +0000" stop="20250802031500 +0000" channel="COLORS.starhub">
+    <programme start="20250802023000 +0000" stop="20250802033000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250802031500 +0000" stop="20250802040000 +0000" channel="COLORS.starhub">
+    <programme start="20250802033000 +0000" stop="20250802040000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250802040000 +0000" stop="20250802050000 +0000" channel="COLORS.starhub">

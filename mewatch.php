@@ -943,19 +943,19 @@
     <programme start="20250802160000 +0000" stop="20250803160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20250801160000 +0000" stop="20250802070000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 2nd August, Saturday 3pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250801160000 +0000" stop="20250802065200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 2nd August, Saturday 2.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250802070000 +0000" stop="20250802083000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250802065200 +0000" stop="20250802082300 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Women&#039;s 3m Springboard Semi-finals</title>
     </programme>
-    <programme start="20250802083000 +0000" stop="20250802100000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 2nd August, Saturday 6pm. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250802082300 +0000" stop="20250802095200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 2nd August, Saturday 5.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250802100000 +0000" stop="20250802112000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250802095200 +0000" stop="20250802112100 +0000" channel="WCH CH01.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Diving - Women&#039;s 3m Springboard Final</title>
     </programme>
-    <programme start="20250802112000 +0000" stop="20250802160000 +0000" channel="WCH CH01.mewatch">
+    <programme start="20250802112100 +0000" stop="20250802160000 +0000" channel="WCH CH01.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd August, Sunday 10am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250802160000 +0000" stop="20250803020000 +0000" channel="WCH CH01.mewatch">
@@ -964,16 +964,16 @@
     <programme start="20250801160000 +0000" stop="20250802015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd August, Saturday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250802015200 +0000" stop="20250802042800 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250802015200 +0000" stop="20250802043300 +0000" channel="WCH CH02.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Swimming - Men&#039;s &amp; Women&#039;s Heats</title>
     </programme>
-    <programme start="20250802042800 +0000" stop="20250802105200 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250802043300 +0000" stop="20250802105200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd August, Saturday 6.52pm. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250802105200 +0000" stop="20250802125900 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250802105200 +0000" stop="20250802130800 +0000" channel="WCH CH02.mewatch">
         <title>World Aquatics Championships - Singapore 2025: Swimming - Men&#039;s &amp; Women&#039;s Semi-finals &amp; Finals</title>
     </programme>
-    <programme start="20250802125900 +0000" stop="20250802160000 +0000" channel="WCH CH02.mewatch">
+    <programme start="20250802130800 +0000" stop="20250802160000 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd August, Sunday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250802160000 +0000" stop="20250803015200 +0000" channel="WCH CH02.mewatch">
