@@ -2635,7 +2635,7 @@
 <programme start="20250803143000 +0000" stop="20250803145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250803145000 +0000" stop="20250803170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250803145000 +0000" stop="20250803171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - FC Blau-Weiß Linz, 1. Runde</title>
 </programme>
 <programme start="20250803143000 +0000" stop="20250803145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2731,7 +2731,7 @@
 <programme start="20250803104000 +0000" stop="20250803110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250803110000 +0000" stop="20250803134500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250803110000 +0000" stop="20250803133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hannover 96 - 1. FC Kaiserslautern, 1. Spieltag</title>
 </programme>
 <programme start="20250803104000 +0000" stop="20250803110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -3202,13 +3202,13 @@
 <programme start="20250803161000 +0000" stop="20250803163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250803163000 +0000" stop="20250804080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250803163000 +0000" stop="20250804020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 8. Tag</title>
 </programme>
-<programme start="20250803135500 +0000" stop="20250803140000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250803134000 +0000" stop="20250803140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250803140000 +0000" stop="20250803183000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250803140000 +0000" stop="20250803173000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live Golf: DGL Final Four</title>
 </programme>
 <programme start="20250802225000 +0000" stop="20250803002500 +0000" channel="SYFY HD.skyde">
