@@ -3308,10 +3308,10 @@
     <title>Live F3: 1. Rennen - GP Ungarn</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250802091500 +0000" stop="20250802093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Chasing the Dream: Die Spannungen nehmen zu</title>
