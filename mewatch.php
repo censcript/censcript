@@ -956,10 +956,10 @@
         <title>World Aquatics Championships - Singapore 2025: Diving - Women&#039;s 3m Springboard Final</title>
     </programme>
     <programme start="20250802112100 +0000" stop="20250802160000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd August, Sunday 10am. World Aquatics Championships - Singapore 2025</title>
+        <title>No Programme available now. Next Broadcast on 3rd August, Sunday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
-    <programme start="20250802160000 +0000" stop="20250803020000 +0000" channel="WCH CH01.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd August, Sunday 10am. World Aquatics Championships - Singapore 2025</title>
+    <programme start="20250802160000 +0000" stop="20250803015200 +0000" channel="WCH CH01.mewatch">
+        <title>No Programme available now. Next Broadcast on 3rd August, Sunday 9.52am. World Aquatics Championships - Singapore 2025</title>
     </programme>
     <programme start="20250801160000 +0000" stop="20250802015200 +0000" channel="WCH CH02.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd August, Saturday 9.52am. World Aquatics Championships - Singapore 2025</title>
