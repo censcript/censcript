@@ -7775,7 +7775,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250802003000 +0000" stop="20250802010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>AI and the Future of Humanity</title>
     </programme>
     <programme start="20250802010000 +0000" stop="20250802013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7811,7 +7811,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250802063000 +0000" stop="20250802070000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>AI and the Future of Humanity</title>
     </programme>
     <programme start="20250802070000 +0000" stop="20250802073000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7838,7 +7838,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250802113000 +0000" stop="20250802120000 +0000" channel="BBC World News HD.starhub">
-        <title>Ukrainecast</title>
+        <title>Is Putin Listening to US Sanctions Threats?</title>
     </programme>
     <programme start="20250802120000 +0000" stop="20250802123000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

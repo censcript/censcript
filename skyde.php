@@ -1222,47 +1222,53 @@
 <programme start="20250801224500 +0000" stop="20250801231000 +0000" channel="Motorvision+.skyde">
     <title>EMX Quad European Championship 2024</title>
 </programme>
-<programme start="20250801231000 +0000" stop="20250801234000 +0000" channel="Motorvision+.skyde">
+<programme start="20250801231000 +0000" stop="20250801233500 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20250801234000 +0000" stop="20250802001000 +0000" channel="Motorvision+.skyde">
+<programme start="20250801233500 +0000" stop="20250802000500 +0000" channel="Motorvision+.skyde">
     <title>Cars + Life</title>
 </programme>
-<programme start="20250802001000 +0000" stop="20250802004000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802000500 +0000" stop="20250802003000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20250802004000 +0000" stop="20250802010500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802003000 +0000" stop="20250802005500 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20250802010500 +0000" stop="20250802013500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802005500 +0000" stop="20250802012500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20250802013500 +0000" stop="20250802020500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802012500 +0000" stop="20250802015000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250802020500 +0000" stop="20250802023000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802015000 +0000" stop="20250802021500 +0000" channel="Motorvision+.skyde">
+    <title>Classic</title>
+</programme>
+<programme start="20250802021500 +0000" stop="20250802023500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20250802023000 +0000" stop="20250802030000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802023500 +0000" stop="20250802030500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2023</title>
 </programme>
-<programme start="20250802030000 +0000" stop="20250802033000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802030500 +0000" stop="20250802033000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2024</title>
 </programme>
 <programme start="20250802033000 +0000" stop="20250802040000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20250802040000 +0000" stop="20250802045000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802040000 +0000" stop="20250802044500 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 6</title>
 </programme>
-<programme start="20250802045000 +0000" stop="20250802051500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802044500 +0000" stop="20250802045500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
+<programme start="20250802045500 +0000" stop="20250802052000 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2023</title>
 </programme>
-<programme start="20250802051500 +0000" stop="20250802054500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802052000 +0000" stop="20250802055000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20250802054500 +0000" stop="20250802061500 +0000" channel="Motorvision+.skyde">
-    <title>FIM World Motocross Championship 2023</title>
+<programme start="20250802055000 +0000" stop="20250802061500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Enduro World Championship 2024</title>
 </programme>
 <programme start="20250802061500 +0000" stop="20250802064500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
@@ -1279,73 +1285,76 @@
 <programme start="20250802081500 +0000" stop="20250802084500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250802084500 +0000" stop="20250802094500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802084500 +0000" stop="20250802094000 +0000" channel="Motorvision+.skyde">
     <title>Australian Superbike Championship 2023</title>
 </programme>
-<programme start="20250802094500 +0000" stop="20250802103000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802094000 +0000" stop="20250802103000 +0000" channel="Motorvision+.skyde">
     <title>Australian V8 Superboat Championship 2024</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802111500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802103000 +0000" stop="20250802112000 +0000" channel="Motorvision+.skyde">
     <title>Australian Circuit Boat Racing 2024</title>
 </programme>
-<programme start="20250802111500 +0000" stop="20250802114500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802112000 +0000" stop="20250802115000 +0000" channel="Motorvision+.skyde">
     <title>UIM Aquabike World Championship 2024</title>
 </programme>
-<programme start="20250802114500 +0000" stop="20250802121000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802115000 +0000" stop="20250802121000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2024</title>
 </programme>
-<programme start="20250802121000 +0000" stop="20250802123500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802121000 +0000" stop="20250802124000 +0000" channel="Motorvision+.skyde">
     <title>P1 Offshore Championship 2024</title>
 </programme>
-<programme start="20250802123500 +0000" stop="20250802130000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802124000 +0000" stop="20250802130000 +0000" channel="Motorvision+.skyde">
     <title>P1 Class 1 Offshore Championship 2024</title>
 </programme>
 <programme start="20250802130000 +0000" stop="20250802133000 +0000" channel="Motorvision+.skyde">
     <title>P1 AquaX Championship 2023</title>
 </programme>
-<programme start="20250802133000 +0000" stop="20250802141500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802133000 +0000" stop="20250802142000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20250802141500 +0000" stop="20250802144000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802142000 +0000" stop="20250802144500 +0000" channel="Motorvision+.skyde">
     <title>All Wheel Drive Safari Challenge 2023</title>
 </programme>
-<programme start="20250802144000 +0000" stop="20250802151000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802144500 +0000" stop="20250802151000 +0000" channel="Motorvision+.skyde">
     <title>Icelandic Formula Offroad 2024</title>
 </programme>
-<programme start="20250802151000 +0000" stop="20250802153000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802151000 +0000" stop="20250802153500 +0000" channel="Motorvision+.skyde">
     <title>US Pro Pulling 2023</title>
 </programme>
-<programme start="20250802153000 +0000" stop="20250802162500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802153500 +0000" stop="20250802162500 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2023</title>
 </programme>
 <programme start="20250802162500 +0000" stop="20250802165000 +0000" channel="Motorvision+.skyde">
     <title>Monster Jam Championship 2023</title>
 </programme>
-<programme start="20250802165000 +0000" stop="20250802172500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802165000 +0000" stop="20250802172000 +0000" channel="Motorvision+.skyde">
     <title>High Octane</title>
 </programme>
-<programme start="20250802172500 +0000" stop="20250802175500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802172000 +0000" stop="20250802175000 +0000" channel="Motorvision+.skyde">
     <title>EMX Quad European Championship 2024</title>
 </programme>
-<programme start="20250802175500 +0000" stop="20250802185000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802175000 +0000" stop="20250802180000 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20250802180000 +0000" stop="20250802185500 +0000" channel="Motorvision+.skyde">
     <title>World Rally Raid Championship 2024</title>
 </programme>
-<programme start="20250802185000 +0000" stop="20250802194000 +0000" channel="Motorvision+.skyde">
-    <title>BTRDA Rallycross 2025</title>
+<programme start="20250802185500 +0000" stop="20250802195000 +0000" channel="Motorvision+.skyde">
+    <title>BTRDA Rallycross 2024</title>
 </programme>
-<programme start="20250802194000 +0000" stop="20250802201000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802195000 +0000" stop="20250802202000 +0000" channel="Motorvision+.skyde">
     <title>Tour European Rally 2025</title>
 </programme>
-<programme start="20250802201000 +0000" stop="20250802204000 +0000" channel="Motorvision+.skyde">
-    <title>Africa Eco Race 2025</title>
+<programme start="20250802202000 +0000" stop="20250802205000 +0000" channel="Motorvision+.skyde">
+    <title>Tour European Rally 2025</title>
 </programme>
-<programme start="20250802204000 +0000" stop="20250802211000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802205000 +0000" stop="20250802211500 +0000" channel="Motorvision+.skyde">
     <title>Belgian Rally Championship 2025</title>
 </programme>
-<programme start="20250802211000 +0000" stop="20250802213500 +0000" channel="Motorvision+.skyde">
+<programme start="20250802211500 +0000" stop="20250802214000 +0000" channel="Motorvision+.skyde">
     <title>Deutsche Rallycross Meisetrschaft 2024</title>
 </programme>
-<programme start="20250802213500 +0000" stop="20250802220000 +0000" channel="Motorvision+.skyde">
+<programme start="20250802214000 +0000" stop="20250802220500 +0000" channel="Motorvision+.skyde">
     <title>Deutsche Rallycross Meisetrschaft 2024</title>
 </programme>
 <programme start="20250801220000 +0000" stop="20250801222000 +0000" channel="Nick Jr..skyde">
@@ -1408,10 +1417,10 @@
 <programme start="20250802035500 +0000" stop="20250802040000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802040000 +0000" stop="20250802040500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802040000 +0000" stop="20250802040400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802040500 +0000" stop="20250802041000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802040400 +0000" stop="20250802041000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250802041000 +0000" stop="20250802041500 +0000" channel="Nick Jr..skyde">
@@ -1435,10 +1444,10 @@
 <programme start="20250802052500 +0000" stop="20250802054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250802054500 +0000" stop="20250802060500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802054500 +0000" stop="20250802061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250802060500 +0000" stop="20250802063000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802061000 +0000" stop="20250802063000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20250802063000 +0000" stop="20250802064000 +0000" channel="Nick Jr..skyde">
@@ -1447,16 +1456,16 @@
 <programme start="20250802064000 +0000" stop="20250802070500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250802070500 +0000" stop="20250802073000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802070500 +0000" stop="20250802072500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250802073000 +0000" stop="20250802075000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802072500 +0000" stop="20250802075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250802075000 +0000" stop="20250802081000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802075000 +0000" stop="20250802081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250802081000 +0000" stop="20250802082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802081500 +0000" stop="20250802082000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250802082000 +0000" stop="20250802082500 +0000" channel="Nick Jr..skyde">
@@ -1468,25 +1477,25 @@
 <programme start="20250802083500 +0000" stop="20250802084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802084000 +0000" stop="20250802084500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802084000 +0000" stop="20250802084400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802084500 +0000" stop="20250802085000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802084400 +0000" stop="20250802085000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250802085000 +0000" stop="20250802085500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802085500 +0000" stop="20250802090000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802085500 +0000" stop="20250802085900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802090000 +0000" stop="20250802090500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802085900 +0000" stop="20250802090400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802090500 +0000" stop="20250802091000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802090400 +0000" stop="20250802090500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802091000 +0000" stop="20250802091500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802090500 +0000" stop="20250802091500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250802091500 +0000" stop="20250802094000 +0000" channel="Nick Jr..skyde">
@@ -1495,22 +1504,22 @@
 <programme start="20250802094000 +0000" stop="20250802100000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250802100000 +0000" stop="20250802102500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802100000 +0000" stop="20250802102000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250802102500 +0000" stop="20250802104500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802102000 +0000" stop="20250802104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250802104500 +0000" stop="20250802111000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802104500 +0000" stop="20250802110500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250802111000 +0000" stop="20250802113000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802110500 +0000" stop="20250802113000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250802113000 +0000" stop="20250802115500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802113000 +0000" stop="20250802115000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250802115500 +0000" stop="20250802121500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802115000 +0000" stop="20250802121500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250802121500 +0000" stop="20250802124000 +0000" channel="Nick Jr..skyde">
@@ -1558,25 +1567,25 @@
 <programme start="20250802162000 +0000" stop="20250802164000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250802164000 +0000" stop="20250802170000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802164000 +0000" stop="20250802170500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250802170000 +0000" stop="20250802172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802170500 +0000" stop="20250802172500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250802172500 +0000" stop="20250802174500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802172500 +0000" stop="20250802175000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250802174500 +0000" stop="20250802180500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802175000 +0000" stop="20250802181000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250802180500 +0000" stop="20250802183000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802181000 +0000" stop="20250802183000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250802183000 +0000" stop="20250802184000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802183000 +0000" stop="20250802184500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250802184000 +0000" stop="20250802190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802184500 +0000" stop="20250802190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250802190500 +0000" stop="20250802193000 +0000" channel="Nick Jr..skyde">
@@ -1585,34 +1594,34 @@
 <programme start="20250802193000 +0000" stop="20250802195000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250802195000 +0000" stop="20250802201000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802195000 +0000" stop="20250802201500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250802201000 +0000" stop="20250802202000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802201500 +0000" stop="20250802202000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250802202000 +0000" stop="20250802202500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250802202500 +0000" stop="20250802203500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802202500 +0000" stop="20250802203600 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250802203500 +0000" stop="20250802204000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802203600 +0000" stop="20250802204100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802204000 +0000" stop="20250802204500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802204100 +0000" stop="20250802204600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802204500 +0000" stop="20250802205000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802204600 +0000" stop="20250802205000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802205000 +0000" stop="20250802205500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802205000 +0000" stop="20250802205600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802205500 +0000" stop="20250802210000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802205600 +0000" stop="20250802210100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802210000 +0000" stop="20250802210500 +0000" channel="Nick Jr..skyde">
+<programme start="20250802210100 +0000" stop="20250802210500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250802210500 +0000" stop="20250802211000 +0000" channel="Nick Jr..skyde">
@@ -1621,10 +1630,10 @@
 <programme start="20250802211000 +0000" stop="20250802211500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250802211500 +0000" stop="20250802214000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802211500 +0000" stop="20250802213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250802214000 +0000" stop="20250802220000 +0000" channel="Nick Jr..skyde">
+<programme start="20250802213500 +0000" stop="20250802220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250801221000 +0000" stop="20250801234000 +0000" channel="Romance TV HD.skyde">
@@ -2713,19 +2722,19 @@
 <programme start="20250802143000 +0000" stop="20250802145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250802145000 +0000" stop="20250802171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250802145000 +0000" stop="20250802173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - SCR Altach, 1. Runde</title>
 </programme>
 <programme start="20250802143000 +0000" stop="20250802145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250802145000 +0000" stop="20250802171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250802145000 +0000" stop="20250802173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - TSV Egger Glas Hartberg, 1. Runde</title>
 </programme>
 <programme start="20250802161000 +0000" stop="20250802163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250802163000 +0000" stop="20250803080000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
 <programme start="20250801230000 +0000" stop="20250802000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2800,10 +2809,10 @@
 <programme start="20250802180000 +0000" stop="20250802210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - Fortuna Düsseldorf, tipico Topspiel der Woche, 1. Spieltag</title>
 </programme>
-<programme start="20250802210000 +0000" stop="20250802211500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250802210000 +0000" stop="20250802211000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Vereinsprofil 1. FSV Mainz 05</title>
 </programme>
-<programme start="20250802211500 +0000" stop="20250802212500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250802211000 +0000" stop="20250802212500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Vereinsprofil FC Augsburg</title>
 </programme>
 <programme start="20250802212500 +0000" stop="20250802233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2845,31 +2854,31 @@
 <programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 1. Spieltag</title>
 </programme>
-<programme start="20250802130000 +0000" stop="20250802140000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250802130000 +0000" stop="20250802141500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 1. Spieltag, Samstag</title>
 </programme>
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - VfL Bochum, 1. Spieltag</title>
 </programme>
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - 1. FC Nürnberg, 1. Spieltag</title>
 </programme>
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - Preußen Münster, 1. Spieltag</title>
 </programme>
 <programme start="20250802101000 +0000" stop="20250802103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250802103000 +0000" stop="20250802130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250802103000 +0000" stop="20250802131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Holstein Kiel, 1. Spieltag</title>
 </programme>
 <programme start="20250801220000 +0000" stop="20250801233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2953,11 +2962,11 @@
 <programme start="20250802203000 +0000" stop="20250802220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Ungarn</title>
 </programme>
-<programme start="20250801220000 +0000" stop="20250802010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: AIG Women&#039;s Open, 2. Tag in Royal Porthcawl (Wales)</title>
+<programme start="20250802000000 +0000" stop="20250802010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Players Official Film 2025</title>
 </programme>
 <programme start="20250802010000 +0000" stop="20250802033000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Wyndham Championship, 2. Tag in Greensboro, NC (USA)</title>
+    <title>Golf: Wyndham Championship, 1. Tag in Greensboro, NC (USA)</title>
 </programme>
 <programme start="20250802033000 +0000" stop="20250802034500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (3)</title>
@@ -2969,7 +2978,7 @@
     <title>Golf: AIG Women&#039;s Open, 2. Tag in Royal Porthcawl (Wales)</title>
 </programme>
 <programme start="20250802073000 +0000" stop="20250802100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Wyndham Championship, 2. Tag in Greensboro, NC (USA)</title>
+    <title>Golf: Wyndham Championship, 1. Tag in Greensboro, NC (USA)</title>
 </programme>
 <programme start="20250802100000 +0000" stop="20250802110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Credentialed: The Memorial Tournament 2025</title>
@@ -3212,7 +3221,7 @@
     <title>WTA 1000: E. Lys (GER) - I. Swiatek (POL) National Bank Open Presented By Rogers in Montreal (CAN), 6. Tag</title>
 </programme>
 <programme start="20250802074500 +0000" stop="20250802094500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: L. Sonego (ITA) - .A. Rublev, National Bank Open Presented By Rogers in Toronto (CAN), 6. Tag</title>
+    <title>ATP 1000: A. Rublev - L. Sonego (ITA), National Bank Open Presented By Rogers in Toronto (CAN), 6. Tag</title>
 </programme>
 <programme start="20250802094500 +0000" stop="20250802101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3224,7 +3233,7 @@
     <title>WTA 1000: E. Lys (GER) - I. Swiatek (POL) National Bank Open Presented By Rogers in Montreal (CAN), 6. Tag</title>
 </programme>
 <programme start="20250802143000 +0000" stop="20250802163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: L. Sonego (ITA) - .A. Rublev, National Bank Open Presented By Rogers in Toronto (CAN), 6. Tag</title>
+    <title>ATP 1000: A. Rublev - L. Sonego (ITA), National Bank Open Presented By Rogers in Toronto (CAN), 6. Tag</title>
 </programme>
 <programme start="20250802163000 +0000" stop="20250803030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 7. Tag</title>
@@ -3299,10 +3308,10 @@
     <title>Live F3: 1. Rennen - GP Ungarn</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Kein Raum für Fehler</title>
+    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
 </programme>
 <programme start="20250802090000 +0000" stop="20250802091500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Chasing the Dream: Verschoor erhöht den Druck</title>
+    <title>Chasing the Dream: Kein Raum für Fehler</title>
 </programme>
 <programme start="20250802091500 +0000" stop="20250802093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Chasing the Dream: Die Spannungen nehmen zu</title>
@@ -3739,10 +3748,10 @@
 <programme start="20250802155500 +0000" stop="20250802181500 +0000" channel="Warner TV Film.skyde">
     <title>Uhrwerk Orange</title>
 </programme>
-<programme start="20250802181500 +0000" stop="20250802202000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250802181500 +0000" stop="20250802201500 +0000" channel="Warner TV Film.skyde">
     <title>Spy</title>
 </programme>
-<programme start="20250802202000 +0000" stop="20250802220500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250802201500 +0000" stop="20250802220500 +0000" channel="Warner TV Film.skyde">
     <title>Let&#039;s Be Cops - Die Party Bullen</title>
 </programme>
 <programme start="20250801221000 +0000" stop="20250802001000 +0000" channel="Warner TV Film HD.skyde">
@@ -3772,10 +3781,10 @@
 <programme start="20250802155500 +0000" stop="20250802181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Uhrwerk Orange</title>
 </programme>
-<programme start="20250802181500 +0000" stop="20250802202000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250802181500 +0000" stop="20250802201500 +0000" channel="Warner TV Film HD.skyde">
     <title>Spy</title>
 </programme>
-<programme start="20250802202000 +0000" stop="20250802220500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250802201500 +0000" stop="20250802220500 +0000" channel="Warner TV Film HD.skyde">
     <title>Let&#039;s Be Cops - Die Party Bullen</title>
 </programme>
 <programme start="20250801220000 +0000" stop="20250801225000 +0000" channel="Warner TV Serie HD.skyde">
