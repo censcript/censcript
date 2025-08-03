@@ -496,6 +496,9 @@
 <programme start="20250804114500 +0000" stop="20250804130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20250803000000 +0000" stop="20250803003000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
+</programme>
 <programme start="20250803003000 +0000" stop="20250803013000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250803093000 +0000" stop="20250803110000 +0000" channel="MDTV.vision">
 <title>Nada Cinta</title>
-</programme>
-<programme start="20250803110000 +0000" stop="20250803123000 +0000" channel="MDTV.vision">
-<title>Dia Anakku</title>
 </programme>

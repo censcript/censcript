@@ -1015,72 +1015,6 @@
 <programme start="20250803194000 +0000" stop="20250803220000 +0000" channel="DAZN 2 HD.skyde">
     <title>World Darts Championship: Finale</title>
 </programme>
-<programme start="20250802224000 +0000" stop="20250803001000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Weibertausch</title>
-</programme>
-<programme start="20250803001000 +0000" stop="20250803014500 +0000" channel="Heimatkanal.skyde">
-    <title>Übermut im Salzkammergut</title>
-</programme>
-<programme start="20250803014500 +0000" stop="20250803031500 +0000" channel="Heimatkanal.skyde">
-    <title>Nachbarn sind zum Ärgern da</title>
-</programme>
-<programme start="20250803031500 +0000" stop="20250803034000 +0000" channel="Heimatkanal.skyde">
-    <title>Ottis Aquarium</title>
-</programme>
-<programme start="20250803034000 +0000" stop="20250803042500 +0000" channel="Heimatkanal.skyde">
-    <title>Ich heirate eine Familie...</title>
-</programme>
-<programme start="20250803042500 +0000" stop="20250803051500 +0000" channel="Heimatkanal.skyde">
-    <title>Ich heirate eine Familie...</title>
-</programme>
-<programme start="20250803051500 +0000" stop="20250803060500 +0000" channel="Heimatkanal.skyde">
-    <title>Ich heirate eine Familie...</title>
-</programme>
-<programme start="20250803060500 +0000" stop="20250803065000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250803065000 +0000" stop="20250803074000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250803074000 +0000" stop="20250803083000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250803083000 +0000" stop="20250803091000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250803091000 +0000" stop="20250803100000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250803100000 +0000" stop="20250803103000 +0000" channel="Heimatkanal.skyde">
-    <title>Musikparade</title>
-</programme>
-<programme start="20250803103000 +0000" stop="20250803120000 +0000" channel="Heimatkanal.skyde">
-    <title>Weißer Holunder</title>
-</programme>
-<programme start="20250803120000 +0000" stop="20250803133500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kapitän</title>
-</programme>
-<programme start="20250803133500 +0000" stop="20250803151500 +0000" channel="Heimatkanal.skyde">
-    <title>Käpt&#039;n Bay-Bay</title>
-</programme>
-<programme start="20250803151500 +0000" stop="20250803164000 +0000" channel="Heimatkanal.skyde">
-    <title>Die Mädels vom Immenhof</title>
-</programme>
-<programme start="20250803164000 +0000" stop="20250803172500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
-</programme>
-<programme start="20250803172500 +0000" stop="20250803181500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
-</programme>
-<programme start="20250803181500 +0000" stop="20250803194500 +0000" channel="Heimatkanal.skyde">
-    <title>Wenn süß das Mondlicht auf den Hügeln schläft</title>
-</programme>
-<programme start="20250803194500 +0000" stop="20250803212000 +0000" channel="Heimatkanal.skyde">
-    <title>Gustav Adolfs Page</title>
-</programme>
-<programme start="20250803212000 +0000" stop="20250803230000 +0000" channel="Heimatkanal.skyde">
-    <title>Buddenbrooks (1)</title>
-</programme>
 <programme start="20250802220000 +0000" stop="20250802222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Gangland Chronicles - Blut und Loyalität</title>
 </programme>
@@ -2635,26 +2569,23 @@
 <programme start="20250803143000 +0000" stop="20250803145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250803145000 +0000" stop="20250803170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250803145000 +0000" stop="20250803171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - FC Blau-Weiß Linz, 1. Runde</title>
 </programme>
 <programme start="20250803143000 +0000" stop="20250803145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250803145000 +0000" stop="20250803170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250803145000 +0000" stop="20250803171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - FK Austria Wien, 1. Runde</title>
 </programme>
 <programme start="20250803161000 +0000" stop="20250803163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250803163000 +0000" stop="20250804030000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250803163000 +0000" stop="20250804080000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: National Bank Open Presented By Rogers in Toronto (CAN), 8. Tag</title>
 </programme>
-<programme start="20250802233000 +0000" stop="20250803003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20250802234500 +0000" stop="20250803004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 1, Spieltag, Samstag komplett</title>
-</programme>
-<programme start="20250803003000 +0000" stop="20250803004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Highlights XXL: S04 - BSC, 1. Spieltag</title>
 </programme>
 <programme start="20250803004500 +0000" stop="20250803024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Arminia Bielefeld - Fortuna Düsseldorf, tipico Topspiel der Woche, 1. Spieltag</title>
@@ -2737,7 +2668,7 @@
 <programme start="20250803104000 +0000" stop="20250803110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250803110000 +0000" stop="20250803133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250803110000 +0000" stop="20250803134500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Eintracht Braunschweig, 1. Spieltag</title>
 </programme>
 <programme start="20250803104000 +0000" stop="20250803110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2830,7 +2761,7 @@
 <programme start="20250803210000 +0000" stop="20250803230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250802220000 +0000" stop="20250803010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250802221000 +0000" stop="20250803010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: AIG Women&#039;s Open, 3. Tag in Royal Porthcawl (Wales)</title>
 </programme>
 <programme start="20250803010000 +0000" stop="20250803040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3056,30 +2987,30 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250803033000 +0000" stop="20250803053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
+    <title>WTA 1000: C. Gauff (USA) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
 <programme start="20250803053000 +0000" stop="20250803073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
 <programme start="20250803073000 +0000" stop="20250803080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Rom</title>
 </programme>
 <programme start="20250803080000 +0000" stop="20250803100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
 <programme start="20250803100000 +0000" stop="20250803123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
 <programme start="20250803123000 +0000" stop="20250803143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
+    <title>WTA 1000: C. Gauff (USA) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
 <programme start="20250803143000 +0000" stop="20250803163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
 <programme start="20250803163000 +0000" stop="20250804030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 8. Tag</title>
 </programme>
-<programme start="20250802233000 +0000" stop="20250803030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250802234500 +0000" stop="20250803030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 7. Tag</title>
 </programme>
 <programme start="20250803030000 +0000" stop="20250803043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3205,10 +3136,10 @@
 <programme start="20250803163000 +0000" stop="20250804080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: National Bank Open Presented By Rogers in Montreal (CAN), 8. Tag</title>
 </programme>
-<programme start="20250803134000 +0000" stop="20250803140000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250803135500 +0000" stop="20250803140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Golf</title>
 </programme>
-<programme start="20250803140000 +0000" stop="20250803173000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250803140000 +0000" stop="20250803183000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live Golf: DGL Final Four</title>
 </programme>
 <programme start="20250802225000 +0000" stop="20250803002500 +0000" channel="SYFY HD.skyde">
