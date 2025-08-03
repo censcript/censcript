@@ -2131,17 +2131,32 @@
     <programme start="20250803150000 +0000" stop="20250803160000 +0000" channel="CNN HD.starhub">
         <title>Inside Politics</title>
     </programme>
-    <programme start="20250802160000 +0000" stop="20250802220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250802170000 +0000" stop="20250802200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sethu</title>
     </programme>
-    <programme start="20250802220000 +0000" stop="20250803040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250802200000 +0000" stop="20250802223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Gramathu Kiligal</title>
     </programme>
-    <programme start="20250803040000 +0000" stop="20250803100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250802223000 +0000" stop="20250803010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ilayavan</title>
     </programme>
-    <programme start="20250803100000 +0000" stop="20250803160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250803010000 +0000" stop="20250803013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
+    </programme>
+    <programme start="20250803013000 +0000" stop="20250803043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Idhu Enna Maayam</title>
+    </programme>
+    <programme start="20250803043000 +0000" stop="20250803073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Eetti</title>
+    </programme>
+    <programme start="20250803073000 +0000" stop="20250803103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Peranmai</title>
+    </programme>
+    <programme start="20250803103000 +0000" stop="20250803133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Captain Miller</title>
+    </programme>
+    <programme start="20250803133000 +0000" stop="20250803170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Raangi</title>
     </programme>
     <programme start="20250802160000 +0000" stop="20250802163000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
@@ -8432,10 +8447,13 @@
         <title>Good Morning Adithyans</title>
     </programme>
     <programme start="20250803023000 +0000" stop="20250803033000 +0000" channel="ADITHYA TV.starhub">
-        <title>Anbudan Adithya</title>
-    </programme>
-    <programme start="20250803033000 +0000" stop="20250803043000 +0000" channel="ADITHYA TV.starhub">
         <title>Adithya Paarunga Sirichute Irunga</title>
+    </programme>
+    <programme start="20250803033000 +0000" stop="20250803040000 +0000" channel="ADITHYA TV.starhub">
+        <title>Malarum Ninaivugal</title>
+    </programme>
+    <programme start="20250803040000 +0000" stop="20250803043000 +0000" channel="ADITHYA TV.starhub">
+        <title>Anbudan Adithya</title>
     </programme>
     <programme start="20250803043000 +0000" stop="20250803050000 +0000" channel="ADITHYA TV.starhub">
         <title>Laughing Theraphy</title>
