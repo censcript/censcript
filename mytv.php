@@ -29,7 +29,7 @@
         <title> Phim truyện : Mặt nạ gương - Tập 11 </title>
     </programme>
     <programme start="20250803041500 +0000" stop="20250803050500 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam </title>
+        <title> S - Việt Nam : Mùa biển nở hoa </title>
     </programme>
     <programme start="20250803050500 +0000" stop="20250803051000 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng : Giữ lửa trên sân khấu xiếc </title>
@@ -104,10 +104,10 @@
         <title> VTV kết nối </title>
     </programme>
     <programme start="20250803145500 +0000" stop="20250803151000 +0000" channel="VTV1 HD.mytv">
-        <title> Hòa nhạc thính phòng </title>
+        <title> Hòa nhạc thính phòng : Giới thiệu Opera thời kỳ cổ điển </title>
     </programme>
     <programme start="20250803151000 +0000" stop="20250803154500 +0000" channel="VTV1 HD.mytv">
-        <title> Khuyến học - Hành trình tri thức : Bác sĩ của vùng cao </title>
+        <title> Khuyến học - Hành trình tri thức </title>
     </programme>
     <programme start="20250803154500 +0000" stop="20250803155500 +0000" channel="VTV1 HD.mytv">
         <title> Cùng em đến trường : Tiếp sức học trò nghèo Tuyên Quang </title>
@@ -119,7 +119,7 @@
         <title> Văn hoá QĐND : Ẩm thực Cố đô </title>
     </programme>
     <programme start="20250803161500 +0000" stop="20250803164500 +0000" channel="VTV1 HD.mytv">
-        <title> Tuổi cao gương sáng </title>
+        <title> Tuổi cao gương sáng : Để người cao tuổi vững tin hội nhập </title>
     </programme>
     <programme start="20250803164500 +0000" stop="20250803170000 +0000" channel="VTV1 HD.mytv">
         <title> Nhật ký người Việt : Tiếng vọng từ tâm </title>
@@ -173,6 +173,6 @@
         <title> Hòa nhạc thính phòng : Giới thiệu Opera tác giả nước Nga </title>
     </programme>
     <programme start="20250803231500 +0000" stop="20250803234500 +0000" channel="VTV1 HD.mytv">
-        <title> Khám phá Việt Nam</title>
+        <title> Khám phá Việt Nam : Điệu múa nơi lưng trời</title>
     </programme>
     <channel>VTV1 HD</channel>
