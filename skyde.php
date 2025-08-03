@@ -1,99 +1,3 @@
-<programme start="20250802220000 +0000" stop="20250802224500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250802224500 +0000" stop="20250802232500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250802232500 +0000" stop="20250803000500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803000500 +0000" stop="20250803005000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
-</programme>
-<programme start="20250803005000 +0000" stop="20250803013500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
-</programme>
-<programme start="20250803013500 +0000" stop="20250803021500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
-</programme>
-<programme start="20250803021500 +0000" stop="20250803030000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
-</programme>
-<programme start="20250803030000 +0000" stop="20250803034000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
-</programme>
-<programme start="20250803034000 +0000" stop="20250803043000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250803043000 +0000" stop="20250803051500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250803051500 +0000" stop="20250803060000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250803060000 +0000" stop="20250803065000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250803065000 +0000" stop="20250803073500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250803073500 +0000" stop="20250803082000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
-</programme>
-<programme start="20250803082000 +0000" stop="20250803090500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
-</programme>
-<programme start="20250803090500 +0000" stop="20250803095000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
-</programme>
-<programme start="20250803095000 +0000" stop="20250803103500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
-</programme>
-<programme start="20250803103500 +0000" stop="20250803111500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803111500 +0000" stop="20250803120500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803120500 +0000" stop="20250803125000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803125000 +0000" stop="20250803133500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803133500 +0000" stop="20250803142000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803142000 +0000" stop="20250803150500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803150500 +0000" stop="20250803155000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803155000 +0000" stop="20250803163500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803163500 +0000" stop="20250803172500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250803172500 +0000" stop="20250803181500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250803181500 +0000" stop="20250803190000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20250803190000 +0000" stop="20250803194500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20250803194500 +0000" stop="20250803203000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20250803203000 +0000" stop="20250803211500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20250803211500 +0000" stop="20250803220000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
 <programme start="20250802222000 +0000" stop="20250802224000 +0000" channel="Beate Uhse HD.skyde">
     <title>XConfessions</title>
 </programme>
@@ -1014,6 +918,72 @@
 </programme>
 <programme start="20250803194000 +0000" stop="20250803220000 +0000" channel="DAZN 2 HD.skyde">
     <title>World Darts Championship: Finale</title>
+</programme>
+<programme start="20250802224000 +0000" stop="20250803001000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Weibertausch</title>
+</programme>
+<programme start="20250803001000 +0000" stop="20250803014500 +0000" channel="Heimatkanal.skyde">
+    <title>Übermut im Salzkammergut</title>
+</programme>
+<programme start="20250803014500 +0000" stop="20250803031500 +0000" channel="Heimatkanal.skyde">
+    <title>Nachbarn sind zum Ärgern da</title>
+</programme>
+<programme start="20250803031500 +0000" stop="20250803034000 +0000" channel="Heimatkanal.skyde">
+    <title>Ottis Aquarium</title>
+</programme>
+<programme start="20250803034000 +0000" stop="20250803042500 +0000" channel="Heimatkanal.skyde">
+    <title>Ich heirate eine Familie...</title>
+</programme>
+<programme start="20250803042500 +0000" stop="20250803051500 +0000" channel="Heimatkanal.skyde">
+    <title>Ich heirate eine Familie...</title>
+</programme>
+<programme start="20250803051500 +0000" stop="20250803060500 +0000" channel="Heimatkanal.skyde">
+    <title>Ich heirate eine Familie...</title>
+</programme>
+<programme start="20250803060500 +0000" stop="20250803065000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250803065000 +0000" stop="20250803074000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250803074000 +0000" stop="20250803083000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250803083000 +0000" stop="20250803091000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250803091000 +0000" stop="20250803100000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250803100000 +0000" stop="20250803103000 +0000" channel="Heimatkanal.skyde">
+    <title>Musikparade</title>
+</programme>
+<programme start="20250803103000 +0000" stop="20250803120000 +0000" channel="Heimatkanal.skyde">
+    <title>Weißer Holunder</title>
+</programme>
+<programme start="20250803120000 +0000" stop="20250803133500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kapitän</title>
+</programme>
+<programme start="20250803133500 +0000" stop="20250803151500 +0000" channel="Heimatkanal.skyde">
+    <title>Käpt&#039;n Bay-Bay</title>
+</programme>
+<programme start="20250803151500 +0000" stop="20250803164000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Mädels vom Immenhof</title>
+</programme>
+<programme start="20250803164000 +0000" stop="20250803172500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20250803172500 +0000" stop="20250803181500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20250803181500 +0000" stop="20250803194500 +0000" channel="Heimatkanal.skyde">
+    <title>Wenn süß das Mondlicht auf den Hügeln schläft</title>
+</programme>
+<programme start="20250803194500 +0000" stop="20250803212000 +0000" channel="Heimatkanal.skyde">
+    <title>Gustav Adolfs Page</title>
+</programme>
+<programme start="20250803212000 +0000" stop="20250803230000 +0000" channel="Heimatkanal.skyde">
+    <title>Buddenbrooks (1)</title>
 </programme>
 <programme start="20250802220000 +0000" stop="20250802222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Gangland Chronicles - Blut und Loyalität</title>
