@@ -74,10 +74,6 @@
     <title>Football: Olympique Lyonnais - Fotbal Club FCSB</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250803223000 +0700" stop="20250804003000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Celtic FC - St. Mirren (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250804003000 +0700" stop="20250804023500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Sparta Rotterdam</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20250804230000 +0700" stop="20250805010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al-Kholood</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805010000 +0700" stop="20250805031000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250803230000 +0700" stop="20250804013000 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,10 +254,6 @@
     <title>Basketball: Seattle Storm - Indiana Fever</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250803232000 +0700" stop="20250804002000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250804002000 +0700" stop="20250804011500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
@@ -352,6 +348,10 @@
 </programme>
 <programme start="20250805002500 +0700" stop="20250805014500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805014500 +0700" stop="20250805030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250803233000 +0700" stop="20250804013000 +0700" channel="COSMOTE Sport 6 HD">
