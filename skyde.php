@@ -3052,25 +3052,25 @@
 <programme start="20250803030000 +0000" stop="20250803033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250803033000 +0000" stop="20250803053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803033000 +0000" stop="20250803050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
-<programme start="20250803053000 +0000" stop="20250803073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803050000 +0000" stop="20250803063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
-<programme start="20250803073000 +0000" stop="20250803080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803063000 +0000" stop="20250803070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Rom</title>
 </programme>
-<programme start="20250803080000 +0000" stop="20250803100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803070000 +0000" stop="20250803083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
-<programme start="20250803100000 +0000" stop="20250803123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803083000 +0000" stop="20250803110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Darderi (ITA) - C. Taberner (ESP), Plava Laguna Croatia Open in Umag (CRO), Finale</title>
 </programme>
-<programme start="20250803123000 +0000" stop="20250803143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803110000 +0000" stop="20250803122500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), 7. Tag</title>
 </programme>
-<programme start="20250803143000 +0000" stop="20250803163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250803151000 +0000" stop="20250803163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), National Bank Open Presented By Rogers in Toronto (CAN), 7. Tag</title>
 </programme>
 <programme start="20250803163000 +0000" stop="20250804030000 +0000" channel="Sky Sport Tennis HD.skyde">
