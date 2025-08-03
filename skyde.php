@@ -1,97 +1,97 @@
-<programme start="20250802220000 +0000" stop="20250802224500 +0000" channel="13th Street HD.skyde">
+<programme start="20250807220500 +0000" stop="20250807225000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250807225000 +0000" stop="20250807233500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250807233500 +0000" stop="20250808001500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250808001500 +0000" stop="20250808010000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20250808010000 +0000" stop="20250808014500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20250808014500 +0000" stop="20250808022500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20250808022500 +0000" stop="20250808025000 +0000" channel="13th Street HD.skyde">
+    <title>Prost Mortem - Die letzte Runde</title>
+</programme>
+<programme start="20250808025000 +0000" stop="20250808033500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20250802224500 +0000" stop="20250802232500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
+<programme start="20250808033500 +0000" stop="20250808042500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250802232500 +0000" stop="20250803000500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
+<programme start="20250808042500 +0000" stop="20250808051000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803000500 +0000" stop="20250803005000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
+<programme start="20250808051000 +0000" stop="20250808055500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803005000 +0000" stop="20250803013500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
+<programme start="20250808055500 +0000" stop="20250808064000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803013500 +0000" stop="20250803021500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
+<programme start="20250808064000 +0000" stop="20250808072500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803021500 +0000" stop="20250803030000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
+<programme start="20250808072500 +0000" stop="20250808081500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803030000 +0000" stop="20250803034000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: L.A.</title>
+<programme start="20250808081500 +0000" stop="20250808090000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803034000 +0000" stop="20250803043000 +0000" channel="13th Street HD.skyde">
+<programme start="20250808090000 +0000" stop="20250808094500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250808094500 +0000" stop="20250808103500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250808103500 +0000" stop="20250808112000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250808112000 +0000" stop="20250808120500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250808120500 +0000" stop="20250808125000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20250808125000 +0000" stop="20250808133500 +0000" channel="13th Street HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250808133500 +0000" stop="20250808142500 +0000" channel="13th Street HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20250808142500 +0000" stop="20250808151000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250803043000 +0000" stop="20250803051500 +0000" channel="13th Street HD.skyde">
+<programme start="20250808151000 +0000" stop="20250808155500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250803051500 +0000" stop="20250803060000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20250808155500 +0000" stop="20250808164500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20250803060000 +0000" stop="20250803065000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20250808164500 +0000" stop="20250808172500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20250803065000 +0000" stop="20250803073500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
+<programme start="20250808172500 +0000" stop="20250808181500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20250803073500 +0000" stop="20250803082000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
+<programme start="20250808181500 +0000" stop="20250808190000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803082000 +0000" stop="20250803090500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
+<programme start="20250808190000 +0000" stop="20250808194500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803090500 +0000" stop="20250803095000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
+<programme start="20250808194500 +0000" stop="20250808203500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20250803095000 +0000" stop="20250803103500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: International</title>
-</programme>
-<programme start="20250803103500 +0000" stop="20250803111500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803111500 +0000" stop="20250803120500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803120500 +0000" stop="20250803125000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803125000 +0000" stop="20250803133500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803133500 +0000" stop="20250803142000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803142000 +0000" stop="20250803150500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803150500 +0000" stop="20250803155000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803155000 +0000" stop="20250803163500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250803163500 +0000" stop="20250803172500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250803172500 +0000" stop="20250803181500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250803181500 +0000" stop="20250803190000 +0000" channel="13th Street HD.skyde">
+<programme start="20250808203500 +0000" stop="20250808212000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20250803190000 +0000" stop="20250803194500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20250803194500 +0000" stop="20250803203000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20250803203000 +0000" stop="20250803211500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20250803211500 +0000" stop="20250803220000 +0000" channel="13th Street HD.skyde">
+<programme start="20250808212000 +0000" stop="20250808220000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
 <programme start="20250802222000 +0000" stop="20250802224000 +0000" channel="Beate Uhse HD.skyde">
