@@ -46,6 +46,14 @@
     <title>Football: Borussia Dortmund - Lille OSC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250805211000 +0700" stop="20250805214000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E35</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805214000 +0700" stop="20250805220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250804191500 +0700" stop="20250804213000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Ittihad - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +116,10 @@
 </programme>
 <programme start="20250805203000 +0700" stop="20250805210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2024-25 E38</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805210000 +0700" stop="20250805230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Nassr - Al-Kholood</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250804200000 +0700" stop="20250804220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,10 +230,6 @@
     <title>Basketball: Napoli - Varese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804194000 +0700" stop="20250804210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250804210000 +0700" stop="20250804220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
@@ -326,6 +334,10 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250805212500 +0700" stop="20250805222500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250804194000 +0700" stop="20250804221000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -375,6 +387,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805203000 +0700" stop="20250805212000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805212000 +0700" stop="20250805223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
