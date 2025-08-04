@@ -194,6 +194,10 @@
     <title>Football: Luton Town - Wimbledon</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250805155500 +0700" stop="20250805175000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Estoril - CF Estrela de Amadora</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250804140000 +0700" stop="20250804160000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Mersin MSK - Galatasaray</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +252,6 @@
 </programme>
 <programme start="20250805142500 +0700" stop="20250805161500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Tofas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250804135500 +0700" stop="20250804145500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250804145500 +0700" stop="20250804160500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,36 +366,40 @@
     <title>Sports Classics: Gearing Up 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804110000 +0700" stop="20250804150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250805152500 +0700" stop="20250805162500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804150000 +0700" stop="20250804190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250804150000 +0700" stop="20250804171000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Andrey Rublev - Alejandro Davidovich Fokina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804190000 +0700" stop="20250804193000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E7</title>
+<programme start="20250804171000 +0700" stop="20250804194000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Flavio Cobolli - Ben Shelton</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804193000 +0700" stop="20250804220000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250804194000 +0700" stop="20250804221000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804220000 +0700" stop="20250805020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250804221000 +0700" stop="20250805005000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Frances Tiafoe - Alex de Minaur</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805020000 +0700" stop="20250805060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250805005000 +0700" stop="20250805032500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Andrey Rublev - Alejandro Davidovich Fokina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805032500 +0700" stop="20250805060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Flavio Cobolli - Ben Shelton</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805060000 +0700" stop="20250805080000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Alexander Zverev - Alexei Popyrin (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250805080000 +0700" stop="20250805103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Alex Michelsen - Karen Khachanov (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250805103000 +0700" stop="20250805114000 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,12 +410,16 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805123000 +0700" stop="20250805143000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250805123000 +0700" stop="20250805142000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805143000 +0700" stop="20250805163000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250805142000 +0700" stop="20250805155500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805155500 +0700" stop="20250805163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250804140000 +0700" stop="20250804160000 +0700" channel="COSMOTE Sport 7 HD">
