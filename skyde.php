@@ -2992,7 +2992,7 @@
 <programme start="20250804213000 +0000" stop="20250804233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - West Ham United, Summer Series in Atlanta</title>
 </programme>
-<programme start="20250804030000 +0000" stop="20250804040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250804034500 +0000" stop="20250804040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Washington</title>
 </programme>
 <programme start="20250804040000 +0000" stop="20250804060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3028,10 +3028,16 @@
 <programme start="20250804200000 +0000" stop="20250804220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - A. de Minaur (AUS), National Bank Open Presented By Rogers in Toronto (CAN), 8. Tag</title>
 </programme>
-<programme start="20250803230000 +0000" stop="20250804051000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250803230000 +0000" stop="20250804034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 8. Tag</title>
 </programme>
-<programme start="20250804051000 +0000" stop="20250804060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250804034500 +0000" stop="20250804040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PMSC: Rennen - GP Ungarn</title>
+</programme>
+<programme start="20250804040000 +0000" stop="20250804050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PMSC: Rennen - GP Ungarn</title>
+</programme>
+<programme start="20250804050000 +0000" stop="20250804060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 1. Spieltag komplett</title>
 </programme>
 <programme start="20250804060000 +0000" stop="20250804070000 +0000" channel="Sky Sport Top Event HD.skyde">
