@@ -742,34 +742,34 @@
     <programme start="20250803155600 +0000" stop="20250803163000 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - Silent Children</title>
     </programme>
-    <programme start="20250803163000 +0000" stop="20250803170000 +0000" channel="Animax.mewatch">
+    <programme start="20250803163001 +0000" stop="20250803170001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - New Semester And New Class</title>
     </programme>
-    <programme start="20250803170000 +0000" stop="20250803173000 +0000" channel="Animax.mewatch">
+    <programme start="20250803170001 +0000" stop="20250803173001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Competing With Height</title>
     </programme>
-    <programme start="20250803173000 +0000" stop="20250803180000 +0000" channel="Animax.mewatch">
+    <programme start="20250803173001 +0000" stop="20250803180001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Cinema And Facial Expression</title>
     </programme>
-    <programme start="20250803180000 +0000" stop="20250803183000 +0000" channel="Animax.mewatch">
+    <programme start="20250803180001 +0000" stop="20250803183001 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Siblings And The Sea</title>
     </programme>
-    <programme start="20250803183000 +0000" stop="20250803190000 +0000" channel="Animax.mewatch">
+    <programme start="20250803183001 +0000" stop="20250803190001 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor</title>
     </programme>
-    <programme start="20250803190000 +0000" stop="20250803193000 +0000" channel="Animax.mewatch">
+    <programme start="20250803190001 +0000" stop="20250803193001 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - When You Wish Upon A Star</title>
     </programme>
-    <programme start="20250803193000 +0000" stop="20250803200000 +0000" channel="Animax.mewatch">
+    <programme start="20250803193001 +0000" stop="20250803200001 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - And The Ruler Is No More</title>
     </programme>
-    <programme start="20250803200000 +0000" stop="20250803203000 +0000" channel="Animax.mewatch">
+    <programme start="20250803200001 +0000" stop="20250803203001 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - Silent Children</title>
     </programme>
-    <programme start="20250803203000 +0000" stop="20250803210000 +0000" channel="Animax.mewatch">
+    <programme start="20250803203001 +0000" stop="20250803210001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The Lion Awakens, Continued</title>
     </programme>
-    <programme start="20250803210000 +0000" stop="20250803213000 +0000" channel="Animax.mewatch">
+    <programme start="20250803210001 +0000" stop="20250803213000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Those Who Have Been Gathered</title>
     </programme>
     <programme start="20250803213000 +0000" stop="20250803220000 +0000" channel="Animax.mewatch">
@@ -778,70 +778,70 @@
     <programme start="20250803220000 +0000" stop="20250803223000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace!</title>
     </programme>
-    <programme start="20250803223000 +0000" stop="20250803230001 +0000" channel="Animax.mewatch">
+    <programme start="20250803223000 +0000" stop="20250803230000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - Strive To Ease The Burden On Your Future Self!</title>
     </programme>
-    <programme start="20250803230001 +0000" stop="20250803233001 +0000" channel="Animax.mewatch">
+    <programme start="20250803230000 +0000" stop="20250803233000 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Siblings And The Sea</title>
     </programme>
-    <programme start="20250803233001 +0000" stop="20250804000001 +0000" channel="Animax.mewatch">
+    <programme start="20250803233000 +0000" stop="20250804000000 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor</title>
     </programme>
-    <programme start="20250804000001 +0000" stop="20250804003001 +0000" channel="Animax.mewatch">
+    <programme start="20250804000000 +0000" stop="20250804003000 +0000" channel="Animax.mewatch">
         <title>Fruits Basket Season 1 - See You After School</title>
     </programme>
-    <programme start="20250804003001 +0000" stop="20250804010001 +0000" channel="Animax.mewatch">
+    <programme start="20250804003000 +0000" stop="20250804010000 +0000" channel="Animax.mewatch">
         <title>Fruits Basket Season 1 - They’re All Animals!</title>
     </programme>
-    <programme start="20250804010001 +0000" stop="20250804013001 +0000" channel="Animax.mewatch">
+    <programme start="20250804010000 +0000" stop="20250804013000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace!</title>
     </programme>
-    <programme start="20250804013001 +0000" stop="20250804020001 +0000" channel="Animax.mewatch">
+    <programme start="20250804013000 +0000" stop="20250804020000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - Strive To Ease The Burden On Your Future Self!</title>
     </programme>
-    <programme start="20250804020001 +0000" stop="20250804023001 +0000" channel="Animax.mewatch">
+    <programme start="20250804020000 +0000" stop="20250804023000 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - And The Ruler Is No More</title>
     </programme>
-    <programme start="20250804023001 +0000" stop="20250804030001 +0000" channel="Animax.mewatch">
+    <programme start="20250804023000 +0000" stop="20250804030000 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - Silent Children</title>
     </programme>
-    <programme start="20250804030001 +0000" stop="20250804033001 +0000" channel="Animax.mewatch">
+    <programme start="20250804030000 +0000" stop="20250804033000 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Siblings And The Sea</title>
     </programme>
-    <programme start="20250804033001 +0000" stop="20250804040001 +0000" channel="Animax.mewatch">
+    <programme start="20250804033000 +0000" stop="20250804040000 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor</title>
     </programme>
-    <programme start="20250804040001 +0000" stop="20250804043001 +0000" channel="Animax.mewatch">
+    <programme start="20250804040000 +0000" stop="20250804043000 +0000" channel="Animax.mewatch">
         <title>Fruits Basket Season 1 - See You After School</title>
     </programme>
-    <programme start="20250804043001 +0000" stop="20250804050001 +0000" channel="Animax.mewatch">
+    <programme start="20250804043000 +0000" stop="20250804050000 +0000" channel="Animax.mewatch">
         <title>Fruits Basket Season 1 - They’re All Animals!</title>
     </programme>
-    <programme start="20250804050001 +0000" stop="20250804053001 +0000" channel="Animax.mewatch">
+    <programme start="20250804050000 +0000" stop="20250804053000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace!</title>
     </programme>
-    <programme start="20250804053001 +0000" stop="20250804060001 +0000" channel="Animax.mewatch">
+    <programme start="20250804053000 +0000" stop="20250804060000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - Strive To Ease The Burden On Your Future Self!</title>
     </programme>
-    <programme start="20250804060001 +0000" stop="20250804063001 +0000" channel="Animax.mewatch">
+    <programme start="20250804060000 +0000" stop="20250804063000 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - And The Ruler Is No More</title>
     </programme>
-    <programme start="20250804063001 +0000" stop="20250804070001 +0000" channel="Animax.mewatch">
+    <programme start="20250804063000 +0000" stop="20250804070000 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - Silent Children</title>
     </programme>
-    <programme start="20250804070001 +0000" stop="20250804073001 +0000" channel="Animax.mewatch">
+    <programme start="20250804070000 +0000" stop="20250804073000 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Siblings And The Sea</title>
     </programme>
-    <programme start="20250804073001 +0000" stop="20250804080001 +0000" channel="Animax.mewatch">
+    <programme start="20250804073000 +0000" stop="20250804080000 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor</title>
     </programme>
-    <programme start="20250804080001 +0000" stop="20250804083001 +0000" channel="Animax.mewatch">
+    <programme start="20250804080000 +0000" stop="20250804083000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace!</title>
     </programme>
-    <programme start="20250804083001 +0000" stop="20250804090001 +0000" channel="Animax.mewatch">
+    <programme start="20250804083000 +0000" stop="20250804090000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - Strive To Ease The Burden On Your Future Self!</title>
     </programme>
-    <programme start="20250804090001 +0000" stop="20250804093001 +0000" channel="Animax.mewatch">
+    <programme start="20250804090000 +0000" stop="20250804093001 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - And The Ruler Is No More</title>
     </programme>
     <programme start="20250804093001 +0000" stop="20250804100001 +0000" channel="Animax.mewatch">
@@ -853,38 +853,35 @@
     <programme start="20250804103001 +0000" stop="20250804110001 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency!</title>
     </programme>
-    <programme start="20250804110001 +0000" stop="20250804113000 +0000" channel="Animax.mewatch">
+    <programme start="20250804110001 +0000" stop="20250804113001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul</title>
     </programme>
-    <programme start="20250804113000 +0000" stop="20250804120000 +0000" channel="Animax.mewatch">
+    <programme start="20250804113001 +0000" stop="20250804120001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - A Black Deep-Sea Story</title>
     </programme>
-    <programme start="20250804120000 +0000" stop="20250804123000 +0000" channel="Animax.mewatch">
+    <programme start="20250804120001 +0000" stop="20250804123001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - Cinema And Facial Expression</title>
     </programme>
-    <programme start="20250804123000 +0000" stop="20250804130000 +0000" channel="Animax.mewatch">
+    <programme start="20250804123001 +0000" stop="20250804130001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - The Star And Celebration</title>
     </programme>
-    <programme start="20250804130000 +0000" stop="20250804133000 +0000" channel="Animax.mewatch">
+    <programme start="20250804130001 +0000" stop="20250804133001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul</title>
     </programme>
-    <programme start="20250804133000 +0000" stop="20250804140000 +0000" channel="Animax.mewatch">
+    <programme start="20250804133001 +0000" stop="20250804140001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - A Black Deep-Sea Story</title>
     </programme>
-    <programme start="20250804140000 +0000" stop="20250804143000 +0000" channel="Animax.mewatch">
+    <programme start="20250804140001 +0000" stop="20250804143001 +0000" channel="Animax.mewatch">
         <title>Suicide Squad Isekai - EP3</title>
     </programme>
-    <programme start="20250804143000 +0000" stop="20250804150000 +0000" channel="Animax.mewatch">
+    <programme start="20250804143001 +0000" stop="20250804150001 +0000" channel="Animax.mewatch">
         <title>Suicide Squad Isekai - EP4</title>
     </programme>
-    <programme start="20250804150000 +0000" stop="20250804153000 +0000" channel="Animax.mewatch">
+    <programme start="20250804150001 +0000" stop="20250804153001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul</title>
     </programme>
-    <programme start="20250804153000 +0000" stop="20250804160000 +0000" channel="Animax.mewatch">
+    <programme start="20250804153001 +0000" stop="20250804160001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - A Black Deep-Sea Story</title>
-    </programme>
-    <programme start="20250804160000 +0000" stop="20250804163000 +0000" channel="Animax.mewatch">
-        <title>Kubo Won&#039;t Let Me Be Invisible - Cinema And Facial Expression</title>
     </programme>
     <programme start="20250803143000 +0000" stop="20250803162000 +0000" channel="cinemaworld.mewatch">
         <title>Cloud Under The Roof</title>

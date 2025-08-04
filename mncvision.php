@@ -1337,7 +1337,7 @@
     <title>MUTV Specials: Green Devils</title>
 </programme>
 <programme start="20250804135300 +0000" stop="20250804160000 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON 2024: NIG Vs GUI (L)</title>
+    <title>CHAN 2024: NIG Vs GUI (L)</title>
 </programme>
 <programme start="20250804160000 +0000" stop="20250804163000 +0000" channel="beIN Sports 3.mncvision">
     <title>Inside Sailing 2025: August</title>
@@ -1346,7 +1346,7 @@
     <title>Premier Padel Match HL 2024</title>
 </programme>
 <programme start="20250804165300 +0000" stop="20250803172300 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON 2024: UGA Vs ALG (L)</title>
+    <title>CHAN 2024: UGA Vs ALG (L)</title>
 </programme>
 <programme start="20250803190000 +0000" stop="20250803193000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>The Outdoor Sports Show 2025</title>
@@ -1400,7 +1400,7 @@
     <title>MUTV Specials: Green Devils</title>
 </programme>
 <programme start="20250804135300 +0000" stop="20250804160000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>AFCON 2024: NIG Vs GUI (L)</title>
+    <title>CHAN 2024: NIG Vs GUI (L)</title>
 </programme>
 <programme start="20250804160000 +0000" stop="20250804163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Inside Sailing 2025: August</title>
@@ -1409,7 +1409,7 @@
     <title>Premier Padel Match HL 2024</title>
 </programme>
 <programme start="20250804165300 +0000" stop="20250803172300 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>AFCON 2024: UGA Vs ALG (L)</title>
+    <title>CHAN 2024: UGA Vs ALG (L)</title>
 </programme>
 <programme start="20250803170000 +0000" stop="20250803190000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
