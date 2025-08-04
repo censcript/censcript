@@ -114,6 +114,10 @@
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250806031500 +0700" stop="20250806052500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ahli - Al Ittihad</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250805020000 +0700" stop="20250805040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Heart of Midlothian - Aberdeen (L)</title>
     <desc>Live: Ya</desc>
@@ -160,6 +164,10 @@
 </programme>
 <programme start="20250806013000 +0700" stop="20250806033000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Motherwell - Rangers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806033000 +0700" stop="20250806053000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Gremio - Alianza Lima</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805020000 +0700" stop="20250805041500 +0700" channel="COSMOTE Sport 4 HD">
@@ -320,6 +328,18 @@
 </programme>
 <programme start="20250806024000 +0700" stop="20250806030500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP: Dream On E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806030500 +0700" stop="20250806033000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: Dream On E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806033000 +0700" stop="20250806035500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: Dream On E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806035500 +0700" stop="20250806043500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: There Can Be Only One S3 E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805005000 +0700" stop="20250805032500 +0700" channel="COSMOTE Sport 6 HD">

@@ -568,6 +568,9 @@
 <programme start="20250804054500 +0000" stop="20250804063000 +0000" channel="Trans 7.vision">
 <title>Indonesiaku</title>
 </programme>
+<programme start="20250804063000 +0000" stop="20250804071500 +0000" channel="Trans 7.vision">
+<title>Ujung-Ujungnya Damkar</title>
+</programme>
 <programme start="20250804071500 +0000" stop="20250804081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -684,15 +687,6 @@
 </programme>
 <programme start="20250804120000 +0000" stop="20250804140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250804140000 +0000" stop="20250804160000 +0000" channel="ANTV.vision">
-<title>Pendekar Ksatria</title>
-</programme>
-<programme start="20250804160000 +0000" stop="20250804180000 +0000" channel="ANTV.vision">
-<title>Story Of Ricky</title>
-</programme>
-<programme start="20250804180000 +0000" stop="20250804193000 +0000" channel="ANTV.vision">
-<title>Fly Me To Polaris</title>
 </programme>
 <programme start="20250804193000 +0000" stop="20250804210000 +0000" channel="ANTV.vision">
 <title>Macan Kampus</title>
@@ -870,9 +864,6 @@
 </programme>
 <programme start="20250804110000 +0000" stop="20250804130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20250804130000 +0000" stop="20250804140000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20250804140000 +0000" stop="20250804150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250805050000 +0000" stop="20250805053000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250805053000 +0000" stop="20250805063000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250805063000 +0000" stop="20250805070000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20250805070000 +0000" stop="20250805080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
