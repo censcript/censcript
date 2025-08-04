@@ -8437,8 +8437,11 @@
 <programme start="20250804003000 +0000" stop="20250804023000 +0000" channel="SPOTV.mncvision">
     <title>Como Cup 2025: AJA Vs CEL</title>
 </programme>
-<programme start="20250804023000 +0000" stop="20250804073000 +0000" channel="SPOTV.mncvision">
+<programme start="20250804023000 +0000" stop="20250804063000 +0000" channel="SPOTV.mncvision">
     <title>WTT Star Contender 2025</title>
+</programme>
+<programme start="20250804063000 +0000" stop="20250804073000 +0000" channel="SPOTV.mncvision">
+    <title>WSL Replay: Corona J-Bay Open</title>
 </programme>
 <programme start="20250804073000 +0000" stop="20250804123000 +0000" channel="SPOTV.mncvision">
     <title>WTT Star Contender 2025</title>
@@ -8518,8 +8521,11 @@
 <programme start="20250804003000 +0000" stop="20250804023000 +0000" channel="SPOTV HD.mncvision">
     <title>Como Cup 2025: AJA Vs CEL</title>
 </programme>
-<programme start="20250804023000 +0000" stop="20250804073000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250804023000 +0000" stop="20250804063000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Star Contender 2025</title>
+</programme>
+<programme start="20250804063000 +0000" stop="20250804073000 +0000" channel="SPOTV HD.mncvision">
+    <title>WSL Replay: Corona J-Bay Open</title>
 </programme>
 <programme start="20250804073000 +0000" stop="20250804123000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Star Contender 2025</title>

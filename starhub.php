@@ -5389,8 +5389,11 @@
     <programme start="20250804003000 +0000" stop="20250804023000 +0000" channel="SPOTV.starhub">
         <title>Como Cup 2025 AFC Ajax vs Celtic FC</title>
     </programme>
-    <programme start="20250804023000 +0000" stop="20250804073000 +0000" channel="SPOTV.starhub">
+    <programme start="20250804023000 +0000" stop="20250804063000 +0000" channel="SPOTV.starhub">
         <title>Day 1 Session 1</title>
+    </programme>
+    <programme start="20250804063000 +0000" stop="20250804073000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250804073000 +0000" stop="20250804123000 +0000" channel="SPOTV.starhub">
         <title>Day 1 Session 2</title>
