@@ -54,10 +54,6 @@
     <title>Football: Legia Warszawa - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804220000 +0700" stop="20250804230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Roshn Saudi Highlights 2024-25</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250804230000 +0700" stop="20250805010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al-Kholood</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20250805210000 +0700" stop="20250805230000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al-Kholood</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805230000 +0700" stop="20250806010500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Sparta Rotterdam</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250804220000 +0700" stop="20250805000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,10 +222,6 @@
     <title>Basketball: Galatasaray - Bursaspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804220000 +0700" stop="20250804225500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250804225500 +0700" stop="20250804235500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,8 +326,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250804194000 +0700" stop="20250804221000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250805232000 +0700" stop="20250806002500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250804221000 +0700" stop="20250805005000 +0700" channel="COSMOTE Sport 6 HD">
@@ -388,6 +384,10 @@
 </programme>
 <programme start="20250805223000 +0700" stop="20250805230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805230000 +0700" stop="20250806000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250804220000 +0700" stop="20250805000000 +0700" channel="COSMOTE Sport 7 HD">
