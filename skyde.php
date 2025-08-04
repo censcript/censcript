@@ -1027,66 +1027,6 @@
 <programme start="20250804183500 +0000" stop="20250804220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A: SSC Neapel - Cagliari Calcio</title>
 </programme>
-<programme start="20250803230000 +0000" stop="20250804004000 +0000" channel="Heimatkanal.skyde">
-    <title>Opernball</title>
-</programme>
-<programme start="20250804004000 +0000" stop="20250804020500 +0000" channel="Heimatkanal.skyde">
-    <title>Wenn am Sonntagabend die Dorfmusik spielt</title>
-</programme>
-<programme start="20250804020500 +0000" stop="20250804033000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Jäger vom Roteck</title>
-</programme>
-<programme start="20250804033000 +0000" stop="20250804051500 +0000" channel="Heimatkanal.skyde">
-    <title>Rosen im Herbst</title>
-</programme>
-<programme start="20250804051500 +0000" stop="20250804065500 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
-</programme>
-<programme start="20250804065500 +0000" stop="20250804074500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250804074500 +0000" stop="20250804083500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20250804083500 +0000" stop="20250804093000 +0000" channel="Heimatkanal.skyde">
-    <title>Großstadtrevier</title>
-</programme>
-<programme start="20250804093000 +0000" stop="20250804100000 +0000" channel="Heimatkanal.skyde">
-    <title>Königlich Bayerisches Amtsgericht</title>
-</programme>
-<programme start="20250804100000 +0000" stop="20250804112500 +0000" channel="Heimatkanal.skyde">
-    <title>Piefke, der Schrecken der Kompanie</title>
-</programme>
-<programme start="20250804112500 +0000" stop="20250804125500 +0000" channel="Heimatkanal.skyde">
-    <title>An der schönen blauen Donau</title>
-</programme>
-<programme start="20250804125500 +0000" stop="20250804143000 +0000" channel="Heimatkanal.skyde">
-    <title>Im Prater blüh&#039;n wieder die Bäume</title>
-</programme>
-<programme start="20250804143000 +0000" stop="20250804160500 +0000" channel="Heimatkanal.skyde">
-    <title>Morgens um sieben ist die Welt noch in Ordnung</title>
-</programme>
-<programme start="20250804160500 +0000" stop="20250804165500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20250804165500 +0000" stop="20250804172500 +0000" channel="Heimatkanal.skyde">
-    <title>Königlich Bayerisches Amtsgericht</title>
-</programme>
-<programme start="20250804172500 +0000" stop="20250804181500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250804181500 +0000" stop="20250804191500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20250804191500 +0000" stop="20250804201500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20250804201500 +0000" stop="20250804211500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kommissar</title>
-</programme>
-<programme start="20250804211500 +0000" stop="20250804222000 +0000" channel="Heimatkanal.skyde">
-    <title>Derrick</title>
-</programme>
 <programme start="20250803223500 +0000" stop="20250803235500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Die Ursprünge</title>
 </programme>
@@ -2296,6 +2236,105 @@
 <programme start="20250804215500 +0000" stop="20250804224000 +0000" channel="Sky Nature HD.skyde">
     <title>Bear Grylls: Stars am Limit</title>
 </programme>
+<programme start="20250803224500 +0000" stop="20250803232500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250803232500 +0000" stop="20250804000500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250804000500 +0000" stop="20250804003500 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20250804003500 +0000" stop="20250804010500 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20250804010500 +0000" stop="20250804013500 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20250804013500 +0000" stop="20250804020500 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20250804020500 +0000" stop="20250804023500 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20250804023500 +0000" stop="20250804031500 +0000" channel="Sky One HD.skyde">
+    <title>The Equalizer</title>
+</programme>
+<programme start="20250804031500 +0000" stop="20250804040000 +0000" channel="Sky One HD.skyde">
+    <title>The Equalizer</title>
+</programme>
+<programme start="20250804040000 +0000" stop="20250804044000 +0000" channel="Sky One HD.skyde">
+    <title>The Equalizer</title>
+</programme>
+<programme start="20250804044000 +0000" stop="20250804052500 +0000" channel="Sky One HD.skyde">
+    <title>The Equalizer</title>
+</programme>
+<programme start="20250804052500 +0000" stop="20250804061000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804061000 +0000" stop="20250804065500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804065500 +0000" stop="20250804074000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804074000 +0000" stop="20250804082500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250804082500 +0000" stop="20250804091000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250804091000 +0000" stop="20250804100000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250804100000 +0000" stop="20250804104000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250804104000 +0000" stop="20250804112500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250804112500 +0000" stop="20250804121500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250804121500 +0000" stop="20250804130000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250804130000 +0000" stop="20250804134500 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250804134500 +0000" stop="20250804143000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804143000 +0000" stop="20250804151500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804151500 +0000" stop="20250804160000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804160000 +0000" stop="20250804164500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250804164500 +0000" stop="20250804172500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250804172500 +0000" stop="20250804181500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250804181500 +0000" stop="20250804190000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20250804190000 +0000" stop="20250804194500 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250804194500 +0000" stop="20250804202500 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250804202500 +0000" stop="20250804211500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250804211500 +0000" stop="20250804220000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20250803222500 +0000" stop="20250803231500 +0000" channel="Sky Replay HD.skyde">
     <title>Halo</title>
 </programme>
@@ -3094,95 +3133,98 @@
 <programme start="20250804213000 +0000" stop="20250804221500 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20250802220000 +0000" stop="20250802224500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250803224000 +0000" stop="20250803232500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250802224500 +0000" stop="20250802232500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250803232500 +0000" stop="20250804000500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250802232500 +0000" stop="20250803001000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804000500 +0000" stop="20250804004500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250803001000 +0000" stop="20250803005000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250803005000 +0000" stop="20250803013000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250803013000 +0000" stop="20250803015000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804004500 +0000" stop="20250804010500 +0000" channel="Universal TV HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20250803015000 +0000" stop="20250803023500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804010500 +0000" stop="20250804015000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804015000 +0000" stop="20250804023000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804023000 +0000" stop="20250804031000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804031000 +0000" stop="20250804035000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804035000 +0000" stop="20250804044000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804044000 +0000" stop="20250804052500 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250804052500 +0000" stop="20250804061000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
+</programme>
+<programme start="20250804061000 +0000" stop="20250804065500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
+</programme>
+<programme start="20250804065500 +0000" stop="20250804074000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
+</programme>
+<programme start="20250804074000 +0000" stop="20250804083000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804083000 +0000" stop="20250804091500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804091500 +0000" stop="20250804100000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Fire</title>
+</programme>
+<programme start="20250804100000 +0000" stop="20250804113000 +0000" channel="Universal TV HD.skyde">
+    <title>Outlander</title>
+</programme>
+<programme start="20250804113000 +0000" stop="20250804122500 +0000" channel="Universal TV HD.skyde">
+    <title>Outlander</title>
+</programme>
+<programme start="20250804122500 +0000" stop="20250804125500 +0000" channel="Universal TV HD.skyde">
+    <title>Men in Kilts - Die Schotten kommen</title>
+</programme>
+<programme start="20250804125500 +0000" stop="20250804132500 +0000" channel="Universal TV HD.skyde">
+    <title>Men in Kilts - Die Schotten kommen</title>
+</programme>
+<programme start="20250804132500 +0000" stop="20250804140000 +0000" channel="Universal TV HD.skyde">
+    <title>Men in Kilts - Die Schotten kommen</title>
+</programme>
+<programme start="20250804140000 +0000" stop="20250804145500 +0000" channel="Universal TV HD.skyde">
+    <title>Outlander</title>
+</programme>
+<programme start="20250804145500 +0000" stop="20250804155500 +0000" channel="Universal TV HD.skyde">
+    <title>Outlander</title>
+</programme>
+<programme start="20250804155500 +0000" stop="20250804164000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250803023500 +0000" stop="20250803031500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804164000 +0000" stop="20250804172500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250803031500 +0000" stop="20250803040000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804172500 +0000" stop="20250804181500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250803040000 +0000" stop="20250803045000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250803045000 +0000" stop="20250803053500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250803053500 +0000" stop="20250803063000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803063000 +0000" stop="20250803072500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803072500 +0000" stop="20250803083000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803083000 +0000" stop="20250803093000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803093000 +0000" stop="20250803103000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803103000 +0000" stop="20250803113000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803113000 +0000" stop="20250803122500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803122500 +0000" stop="20250803133000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803133000 +0000" stop="20250803150000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803150000 +0000" stop="20250803155500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250803155500 +0000" stop="20250803164000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804181500 +0000" stop="20250804190000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20250803164000 +0000" stop="20250803172500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250804190000 +0000" stop="20250804194500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250803172500 +0000" stop="20250803181500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
+<programme start="20250804194500 +0000" stop="20250804203000 +0000" channel="Universal TV HD.skyde">
+    <title>Dr. House</title>
 </programme>
-<programme start="20250803181500 +0000" stop="20250803190000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
+<programme start="20250804203000 +0000" stop="20250804211500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
 </programme>
-<programme start="20250803190000 +0000" stop="20250803194500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250803194500 +0000" stop="20250803203000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250803203000 +0000" stop="20250803211500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250803211500 +0000" stop="20250803215500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250803215500 +0000" stop="20250803224000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
+<programme start="20250804211500 +0000" stop="20250804220000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
 </programme>
 <programme start="20250803221000 +0000" stop="20250803223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
