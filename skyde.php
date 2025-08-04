@@ -1027,6 +1027,66 @@
 <programme start="20250804183500 +0000" stop="20250804220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A: SSC Neapel - Cagliari Calcio</title>
 </programme>
+<programme start="20250803230000 +0000" stop="20250804004000 +0000" channel="Heimatkanal.skyde">
+    <title>Opernball</title>
+</programme>
+<programme start="20250804004000 +0000" stop="20250804020500 +0000" channel="Heimatkanal.skyde">
+    <title>Wenn am Sonntagabend die Dorfmusik spielt</title>
+</programme>
+<programme start="20250804020500 +0000" stop="20250804033000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Jäger vom Roteck</title>
+</programme>
+<programme start="20250804033000 +0000" stop="20250804051500 +0000" channel="Heimatkanal.skyde">
+    <title>Rosen im Herbst</title>
+</programme>
+<programme start="20250804051500 +0000" stop="20250804065500 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20250804065500 +0000" stop="20250804074500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250804074500 +0000" stop="20250804083500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250804083500 +0000" stop="20250804093000 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
+</programme>
+<programme start="20250804093000 +0000" stop="20250804100000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20250804100000 +0000" stop="20250804112500 +0000" channel="Heimatkanal.skyde">
+    <title>Piefke, der Schrecken der Kompanie</title>
+</programme>
+<programme start="20250804112500 +0000" stop="20250804125500 +0000" channel="Heimatkanal.skyde">
+    <title>An der schönen blauen Donau</title>
+</programme>
+<programme start="20250804125500 +0000" stop="20250804143000 +0000" channel="Heimatkanal.skyde">
+    <title>Im Prater blüh&#039;n wieder die Bäume</title>
+</programme>
+<programme start="20250804143000 +0000" stop="20250804160500 +0000" channel="Heimatkanal.skyde">
+    <title>Morgens um sieben ist die Welt noch in Ordnung</title>
+</programme>
+<programme start="20250804160500 +0000" stop="20250804165500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250804165500 +0000" stop="20250804172500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20250804172500 +0000" stop="20250804181500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250804181500 +0000" stop="20250804191500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250804191500 +0000" stop="20250804201500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250804201500 +0000" stop="20250804211500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kommissar</title>
+</programme>
+<programme start="20250804211500 +0000" stop="20250804222000 +0000" channel="Heimatkanal.skyde">
+    <title>Derrick</title>
+</programme>
 <programme start="20250803223500 +0000" stop="20250803235500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Die Ursprünge</title>
 </programme>
@@ -1894,95 +1954,95 @@
 <programme start="20250804214500 +0000" stop="20250804231000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Plattfuß - Ein Cop in Neapel: Rückkehr</title>
 </programme>
-<programme start="20250803224500 +0000" stop="20250803233000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250807223000 +0000" stop="20250807232000 +0000" channel="Sky Crime HD.skyde">
     <title>Tödliches Begehren</title>
 </programme>
-<programme start="20250803233000 +0000" stop="20250804002000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20250807232000 +0000" stop="20250808004500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Sleepwalker - Mord im Schlaf</title>
 </programme>
-<programme start="20250804002000 +0000" stop="20250804011000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20250808004500 +0000" stop="20250808011000 +0000" channel="Sky Crime HD.skyde">
+    <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20250804011000 +0000" stop="20250804021000 +0000" channel="Sky Crime HD.skyde">
-    <title>Parole - Bewährung oder Haft</title>
+<programme start="20250808011000 +0000" stop="20250808013500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20250804021000 +0000" stop="20250804031000 +0000" channel="Sky Crime HD.skyde">
-    <title>Parole - Bewährung oder Haft</title>
+<programme start="20250808013500 +0000" stop="20250808015500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20250804031000 +0000" stop="20250804033500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808015500 +0000" stop="20250808022000 +0000" channel="Sky Crime HD.skyde">
     <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
-<programme start="20250804033500 +0000" stop="20250804043000 +0000" channel="Sky Crime HD.skyde">
-    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
+<programme start="20250808022000 +0000" stop="20250808031500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
 </programme>
-<programme start="20250804043000 +0000" stop="20250804052500 +0000" channel="Sky Crime HD.skyde">
-    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
+<programme start="20250808031500 +0000" stop="20250808040500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
 </programme>
-<programme start="20250804052500 +0000" stop="20250804061000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808040500 +0000" stop="20250808045000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20250808045000 +0000" stop="20250808053500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20250808053500 +0000" stop="20250808062000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20250808062000 +0000" stop="20250808070500 +0000" channel="Sky Crime HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20250804061000 +0000" stop="20250804070000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808070500 +0000" stop="20250808075000 +0000" channel="Sky Crime HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20250804070000 +0000" stop="20250804075000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murdered At First Sight</title>
+<programme start="20250808075000 +0000" stop="20250808083500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder Nation</title>
 </programme>
-<programme start="20250804075000 +0000" stop="20250804084000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murdered At First Sight</title>
+<programme start="20250808083500 +0000" stop="20250808091500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder Nation</title>
 </programme>
-<programme start="20250804084000 +0000" stop="20250804092500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808091500 +0000" stop="20250808100500 +0000" channel="Sky Crime HD.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250804092500 +0000" stop="20250804101000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808100500 +0000" stop="20250808105000 +0000" channel="Sky Crime HD.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250804101000 +0000" stop="20250804104000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808105000 +0000" stop="20250808111500 +0000" channel="Sky Crime HD.skyde">
     <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20250804104000 +0000" stop="20250804110500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808111500 +0000" stop="20250808114000 +0000" channel="Sky Crime HD.skyde">
     <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20250804110500 +0000" stop="20250804113000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808114000 +0000" stop="20250808121000 +0000" channel="Sky Crime HD.skyde">
     <title>Hunde im Einsatz</title>
 </programme>
-<programme start="20250804113000 +0000" stop="20250804121500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808121000 +0000" stop="20250808125500 +0000" channel="Sky Crime HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20250804121500 +0000" stop="20250804130500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808125500 +0000" stop="20250808134000 +0000" channel="Sky Crime HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20250804130500 +0000" stop="20250804140500 +0000" channel="Sky Crime HD.skyde">
-    <title>Parole - Bewährung oder Haft</title>
+<programme start="20250808134000 +0000" stop="20250808151000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Sleepwalker - Mord im Schlaf</title>
 </programme>
-<programme start="20250804140500 +0000" stop="20250804151000 +0000" channel="Sky Crime HD.skyde">
-    <title>Parole - Bewährung oder Haft</title>
-</programme>
-<programme start="20250804151000 +0000" stop="20250804155500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808151000 +0000" stop="20250808155500 +0000" channel="Sky Crime HD.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250804155500 +0000" stop="20250804164000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808155500 +0000" stop="20250808164000 +0000" channel="Sky Crime HD.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250804164000 +0000" stop="20250804172500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808164000 +0000" stop="20250808172500 +0000" channel="Sky Crime HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20250804172500 +0000" stop="20250804181500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250808172500 +0000" stop="20250808181500 +0000" channel="Sky Crime HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20250804181500 +0000" stop="20250804190000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20250808181500 +0000" stop="20250808191500 +0000" channel="Sky Crime HD.skyde">
+    <title>Surveilled - Staatliche Kontrolle im digitalen Zeitalter</title>
 </programme>
-<programme start="20250804190000 +0000" stop="20250804195000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20250808191500 +0000" stop="20250808204000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Truth About Killer Robots</title>
 </programme>
-<programme start="20250804195000 +0000" stop="20250804204000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Performance - Manipulative Mörder</title>
-</programme>
-<programme start="20250804204000 +0000" stop="20250804213500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Performance - Manipulative Mörder</title>
-</programme>
-<programme start="20250804213500 +0000" stop="20250804223500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murdered In Paradise</title>
+<programme start="20250808204000 +0000" stop="20250808221000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Sleepwalker - Mord im Schlaf</title>
 </programme>
 <programme start="20250803223000 +0000" stop="20250803232500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Chimp Crazy: Bizarre Affenliebe</title>
