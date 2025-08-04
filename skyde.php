@@ -1027,6 +1027,66 @@
 <programme start="20250804183500 +0000" stop="20250804220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A: SSC Neapel - Cagliari Calcio</title>
 </programme>
+<programme start="20250803230000 +0000" stop="20250804004000 +0000" channel="Heimatkanal.skyde">
+    <title>Opernball</title>
+</programme>
+<programme start="20250804004000 +0000" stop="20250804020500 +0000" channel="Heimatkanal.skyde">
+    <title>Wenn am Sonntagabend die Dorfmusik spielt</title>
+</programme>
+<programme start="20250804020500 +0000" stop="20250804033000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Jäger vom Roteck</title>
+</programme>
+<programme start="20250804033000 +0000" stop="20250804051500 +0000" channel="Heimatkanal.skyde">
+    <title>Rosen im Herbst</title>
+</programme>
+<programme start="20250804051500 +0000" stop="20250804065500 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20250804065500 +0000" stop="20250804074500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250804074500 +0000" stop="20250804083500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250804083500 +0000" stop="20250804093000 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
+</programme>
+<programme start="20250804093000 +0000" stop="20250804100000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20250804100000 +0000" stop="20250804112500 +0000" channel="Heimatkanal.skyde">
+    <title>Piefke, der Schrecken der Kompanie</title>
+</programme>
+<programme start="20250804112500 +0000" stop="20250804125500 +0000" channel="Heimatkanal.skyde">
+    <title>An der schönen blauen Donau</title>
+</programme>
+<programme start="20250804125500 +0000" stop="20250804143000 +0000" channel="Heimatkanal.skyde">
+    <title>Im Prater blüh&#039;n wieder die Bäume</title>
+</programme>
+<programme start="20250804143000 +0000" stop="20250804160500 +0000" channel="Heimatkanal.skyde">
+    <title>Morgens um sieben ist die Welt noch in Ordnung</title>
+</programme>
+<programme start="20250804160500 +0000" stop="20250804165500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250804165500 +0000" stop="20250804172500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20250804172500 +0000" stop="20250804181500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250804181500 +0000" stop="20250804191500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250804191500 +0000" stop="20250804201500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250804201500 +0000" stop="20250804211500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kommissar</title>
+</programme>
+<programme start="20250804211500 +0000" stop="20250804222000 +0000" channel="Heimatkanal.skyde">
+    <title>Derrick</title>
+</programme>
 <programme start="20250803223500 +0000" stop="20250803235500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Ancient Aliens - Die Ursprünge</title>
 </programme>
@@ -2932,7 +2992,7 @@
 <programme start="20250804213000 +0000" stop="20250804233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - West Ham United, Summer Series in Atlanta</title>
 </programme>
-<programme start="20250804030000 +0000" stop="20250804040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250804034500 +0000" stop="20250804040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Washington</title>
 </programme>
 <programme start="20250804040000 +0000" stop="20250804060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2968,10 +3028,10 @@
 <programme start="20250804200000 +0000" stop="20250804220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - A. de Minaur (AUS), National Bank Open Presented By Rogers in Toronto (CAN), 8. Tag</title>
 </programme>
-<programme start="20250803230000 +0000" stop="20250804030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250803230000 +0000" stop="20250804034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Masters Toronto &amp; WTA Masters Montreal, 8. Tag</title>
 </programme>
-<programme start="20250804030000 +0000" stop="20250804040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250804034500 +0000" stop="20250804040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PMSC: Rennen - GP Ungarn</title>
 </programme>
 <programme start="20250804040000 +0000" stop="20250804050000 +0000" channel="Sky Sport Top Event HD.skyde">
