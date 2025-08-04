@@ -5849,7 +5849,7 @@
     <title>Bedah Rumah</title>
 </programme>
 <programme start="20250804090000 +0000" stop="20250804100000 +0000" channel="MNCTV.mncvision">
-    <title>Kiko</title>
+    <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250804100000 +0000" stop="20250804120000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -5912,7 +5912,7 @@
     <title>Bedah Rumah</title>
 </programme>
 <programme start="20250804090000 +0000" stop="20250804100000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kiko</title>
+    <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250804100000 +0000" stop="20250804120000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
