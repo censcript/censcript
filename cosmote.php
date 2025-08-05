@@ -58,10 +58,6 @@
     <title>Football: FK Bodo/Glimt - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805141000 +0700" stop="20250805161000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Nassr - Al-Kholood</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250805161000 +0700" stop="20250805182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -182,10 +178,6 @@
     <title>Football: SC Braga - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805142500 +0700" stop="20250805161500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Tofas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250805161500 +0700" stop="20250805180000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Baskonia - Tenerife</title>
     <desc>Live: Tidak</desc>
@@ -238,8 +230,8 @@
     <title>Basketball: Barcelona - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805152500 +0700" stop="20250805162500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+<programme start="20250806175500 +0700" stop="20250806200500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805162500 +0700" stop="20250805172500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +330,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805155500 +0700" stop="20250805163000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E7</title>
+<programme start="20250806173500 +0700" stop="20250806180000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: Dream On E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805163000 +0700" stop="20250805192500 +0700" channel="COSMOTE Sport 6 HD">
