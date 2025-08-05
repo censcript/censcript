@@ -50,6 +50,10 @@
     <title>Football: Hapoel Beer-Sheva - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807015500 +0700" stop="20250807040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Rangers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250805230000 +0700" stop="20250806010500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Sparta Rotterdam</title>
     <desc>Live: Tidak</desc>
@@ -174,6 +178,10 @@
     <title>Football: Cardiff City - Peterborough United</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807015000 +0700" stop="20250807034500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Falkirk - Dundee United</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806000000 +0700" stop="20250806020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Unicaja</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +232,6 @@
 </programme>
 <programme start="20250807000000 +0700" stop="20250807020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Andorra</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250805232000 +0700" stop="20250806002500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806002500 +0700" stop="20250806021000 +0700" channel="COSMOTE Sport 5 HD">
@@ -331,6 +335,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806235000 +0700" stop="20250807010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807010000 +0700" stop="20250807014500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807014500 +0700" stop="20250807024000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
