@@ -73,10 +73,7 @@
 <programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
-<programme start="20250804233000 +0000" stop="20250805003000 +0000" channel="MNCTV.vision">
-<title>Kung Fu Panda Sang Pendekar</title>
-</programme>
-<programme start="20250805003000 +0000" stop="20250805010000 +0000" channel="MNCTV.vision">
+<programme start="20250805000000 +0000" stop="20250805010000 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20250805010000 +0000" stop="20250805023000 +0000" channel="MNCTV.vision">
@@ -91,14 +88,14 @@
 <programme start="20250805043000 +0000" stop="20250805060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20250805060000 +0000" stop="20250805070000 +0000" channel="MNCTV.vision">
-<title>Uang Kaget</title>
+<programme start="20250805060000 +0000" stop="20250805073000 +0000" channel="MNCTV.vision">
+<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
-<programme start="20250805070000 +0000" stop="20250805090000 +0000" channel="MNCTV.vision">
+<programme start="20250805073000 +0000" stop="20250805090000 +0000" channel="MNCTV.vision">
 <title>Bedah Rumah</title>
 </programme>
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -133,13 +130,13 @@
 <programme start="20250805220000 +0000" stop="20250805230000 +0000" channel="MNCTV.vision">
 <title>Siraman Qolbu</title>
 </programme>
-<programme start="20250805230000 +0000" stop="20250805233000 +0000" channel="MNCTV.vision">
+<programme start="20250805230000 +0000" stop="20250805231500 +0000" channel="MNCTV.vision">
 <title>Sinema Spesial Upin &amp; Ipin</title>
 </programme>
-<programme start="20250805233000 +0000" stop="20250806003000 +0000" channel="MNCTV.vision">
+<programme start="20250805231500 +0000" stop="20250806000000 +0000" channel="MNCTV.vision">
 <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
-<programme start="20250806003000 +0000" stop="20250806010000 +0000" channel="MNCTV.vision">
+<programme start="20250806000000 +0000" stop="20250806010000 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20250806010000 +0000" stop="20250806023000 +0000" channel="MNCTV.vision">
@@ -154,14 +151,14 @@
 <programme start="20250806043000 +0000" stop="20250806060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20250806060000 +0000" stop="20250806070000 +0000" channel="MNCTV.vision">
-<title>Uang Kaget</title>
+<programme start="20250806060000 +0000" stop="20250806073000 +0000" channel="MNCTV.vision">
+<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
-<programme start="20250806070000 +0000" stop="20250806090000 +0000" channel="MNCTV.vision">
+<programme start="20250806073000 +0000" stop="20250806090000 +0000" channel="MNCTV.vision">
 <title>Bedah Rumah</title>
 </programme>
 <programme start="20250806090000 +0000" stop="20250806100000 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250806100000 +0000" stop="20250806120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -175,17 +172,17 @@
 <programme start="20250805023000 +0000" stop="20250805063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250805063000 +0000" stop="20250805073000 +0000" channel="GTV.vision">
+<programme start="20250805063000 +0000" stop="20250805080000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250805073000 +0000" stop="20250805090000 +0000" channel="GTV.vision">
+<programme start="20250805080000 +0000" stop="20250805090000 +0000" channel="GTV.vision">
 <title>Game Zone</title>
 </programme>
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="GTV.vision">
 <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="GTV.vision">
-<title>Amazing Kids</title>
+<title>Naruto Shippuden</title>
 </programme>
 <programme start="20250805110000 +0000" stop="20250805113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -197,7 +194,7 @@
 <title>Bull Demon King Rise Again</title>
 </programme>
 <programme start="20250805140000 +0000" stop="20250805153000 +0000" channel="GTV.vision">
-<title>Instant Family</title>
+<title>Daddy&#039;s Home</title>
 </programme>
 <programme start="20250805153000 +0000" stop="20250805170000 +0000" channel="GTV.vision">
 <title>GTV</title>
@@ -209,7 +206,7 @@
 <title>Konon Katanya</title>
 </programme>
 <programme start="20250805190000 +0000" stop="20250805210000 +0000" channel="GTV.vision">
-<title>Legenda Sang Penunggu</title>
+<title>Crime KV</title>
 </programme>
 <programme start="20250805210000 +0000" stop="20250805223000 +0000" channel="GTV.vision">
 <title>Konon Katanya</title>
@@ -226,17 +223,17 @@
 <programme start="20250806023000 +0000" stop="20250806063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250806063000 +0000" stop="20250806073000 +0000" channel="GTV.vision">
+<programme start="20250806063000 +0000" stop="20250806080000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250806073000 +0000" stop="20250806084500 +0000" channel="GTV.vision">
+<programme start="20250806080000 +0000" stop="20250806084500 +0000" channel="GTV.vision">
 <title>Game Zone</title>
 </programme>
 <programme start="20250806084500 +0000" stop="20250806113000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
 <programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="GTV.vision">
-<title>Fo.Mo (Food and Moving)</title>
+<title>Untold Story</title>
 </programme>
 <programme start="20250805000000 +0000" stop="20250805010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -669,9 +666,6 @@
 </programme>
 <programme start="20250805013000 +0000" stop="20250805030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250805030000 +0000" stop="20250805063000 +0000" channel="ANTV.vision">
-<title>Heropanti 2</title>
 </programme>
 <programme start="20250805063000 +0000" stop="20250805090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250806050000 +0000" stop="20250806053000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250806053000 +0000" stop="20250806063000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250806063000 +0000" stop="20250806070000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
