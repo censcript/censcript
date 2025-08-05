@@ -1,7 +1,3 @@
-<programme start="20250805124000 +0700" stop="20250805144000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PSV Eindhoven - Arsenal</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250805144000 +0700" stop="20250805172000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Legia Warszawa - Molde FK</title>
     <desc>Live: Tidak</desc>
@@ -56,10 +52,6 @@
 </programme>
 <programme start="20250806140000 +0700" stop="20250806160000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Legia Warszawa - Chelsea FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250805131000 +0700" stop="20250805141000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805141000 +0700" stop="20250805161000 +0700" channel="COSMOTE Sport 2 HD">
@@ -182,10 +174,6 @@
     <title>Football: Barnet - Fleetwood Town</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805121500 +0700" stop="20250805142500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Treviso - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250805142500 +0700" stop="20250805161500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Tofas</title>
     <desc>Live: Tidak</desc>
@@ -238,12 +226,8 @@
     <title>Basketball: Galatasaray - Bursaspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805135500 +0700" stop="20250805142500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250805142500 +0700" stop="20250805145500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250806155500 +0700" stop="20250806175500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Barcelona - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250805145500 +0700" stop="20250805152500 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,10 +330,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805123000 +0700" stop="20250805142000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250805142000 +0700" stop="20250805155500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -358,44 +338,44 @@
     <title>Watersports: Inside Sailing 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805163000 +0700" stop="20250805203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250805163000 +0700" stop="20250805192500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alexander Zverev - Alexei Popyrin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805203000 +0700" stop="20250805212000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250805192500 +0700" stop="20250805212000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alex Michelsen - Karen Khachanov</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250805212000 +0700" stop="20250805221000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805212000 +0700" stop="20250805223000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250805221000 +0700" stop="20250805232000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805223000 +0700" stop="20250805230000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250805232000 +0700" stop="20250806021500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alexander Zverev - Alexei Popyrin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806021500 +0700" stop="20250806041000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alex Michelsen - Karen Khachanov</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806041000 +0700" stop="20250806052500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806052500 +0700" stop="20250806060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805230000 +0700" stop="20250806000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806000000 +0700" stop="20250806040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806040000 +0700" stop="20250806051000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806051000 +0700" stop="20250806060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250806060000 +0700" stop="20250806080000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Andrey Rublev - Taylor Fritz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250806080000 +0700" stop="20250806103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Alex de Minaur - Ben Shelton (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250806103000 +0700" stop="20250806112000 +0700" channel="COSMOTE Sport 6 HD">

@@ -4003,13 +4003,10 @@
 <programme start="20250805023000 +0000" stop="20250805063000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250805063000 +0000" stop="20250805080000 +0000" channel="GTV.mncvision">
+<programme start="20250805063000 +0000" stop="20250805083000 +0000" channel="GTV.mncvision">
     <title>Kera Sakti</title>
 </programme>
-<programme start="20250805080000 +0000" stop="20250805090000 +0000" channel="GTV.mncvision">
-    <title>Game Zone</title>
-</programme>
-<programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="GTV.mncvision">
+<programme start="20250805083000 +0000" stop="20250805100000 +0000" channel="GTV.mncvision">
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="GTV.mncvision">
@@ -4025,7 +4022,7 @@
     <title>Bull Demon King Rise Again</title>
 </programme>
 <programme start="20250805140000 +0000" stop="20250805153000 +0000" channel="GTV.mncvision">
-    <title>Daddy&#039;s Home</title>
+    <title>Operation Delta Force</title>
 </programme>
 <programme start="20250805153000 +0000" stop="20250805160000 +0000" channel="GTV.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -4054,13 +4051,10 @@
 <programme start="20250805023000 +0000" stop="20250805063000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250805063000 +0000" stop="20250805080000 +0000" channel="GTV HD.mncvision">
+<programme start="20250805063000 +0000" stop="20250805083000 +0000" channel="GTV HD.mncvision">
     <title>Kera Sakti</title>
 </programme>
-<programme start="20250805080000 +0000" stop="20250805090000 +0000" channel="GTV HD.mncvision">
-    <title>Game Zone</title>
-</programme>
-<programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="GTV HD.mncvision">
+<programme start="20250805083000 +0000" stop="20250805100000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="GTV HD.mncvision">
@@ -4076,7 +4070,7 @@
     <title>Bull Demon King Rise Again</title>
 </programme>
 <programme start="20250805140000 +0000" stop="20250805153000 +0000" channel="GTV HD.mncvision">
-    <title>Daddy&#039;s Home</title>
+    <title>Operation Delta Force</title>
 </programme>
 <programme start="20250805153000 +0000" stop="20250805160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
