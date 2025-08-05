@@ -7013,7 +7013,7 @@
         <title>National Bank Open presented by Rogers (1000) QF 1 &amp; 2</title>
     </programme>
     <programme start="20250805020000 +0000" stop="20250805023000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Ultra World Championship</title>
+        <title>Spartan Ultra World C&#039;Ship</title>
     </programme>
     <programme start="20250805023000 +0000" stop="20250805024500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 119</title>
