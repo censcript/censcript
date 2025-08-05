@@ -664,62 +664,53 @@
 <programme start="20250806114500 +0000" stop="20250806121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250804233000 +0000" stop="20250805010000 +0000" channel="ANTV.vision">
-<title>Tongkat Sakti</title>
-</programme>
-<programme start="20250805010000 +0000" stop="20250805023000 +0000" channel="ANTV.vision">
+<programme start="20250805013000 +0000" stop="20250805030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250805023000 +0000" stop="20250805060000 +0000" channel="ANTV.vision">
-<title>Kabhi Alvida Naa Kehna</title>
-</programme>
-<programme start="20250805060000 +0000" stop="20250805083000 +0000" channel="ANTV.vision">
+<programme start="20250805063000 +0000" stop="20250805090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250805083000 +0000" stop="20250805110000 +0000" channel="ANTV.vision">
+<programme start="20250805090000 +0000" stop="20250805120000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20250805110000 +0000" stop="20250805130000 +0000" channel="ANTV.vision">
+<programme start="20250805120000 +0000" stop="20250805140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250805150000 +0000" stop="20250805170000 +0000" channel="ANTV.vision">
-<title>Sworn Brothers</title>
+<programme start="20250805140000 +0000" stop="20250805160000 +0000" channel="ANTV.vision">
+<title>Durjana Pemetik Bunga</title>
 </programme>
-<programme start="20250805170000 +0000" stop="20250805183000 +0000" channel="ANTV.vision">
+<programme start="20250805160000 +0000" stop="20250805180000 +0000" channel="ANTV.vision">
+<title>Millionaires Express</title>
+</programme>
+<programme start="20250805180000 +0000" stop="20250805193000 +0000" channel="ANTV.vision">
 <title>2002</title>
 </programme>
-<programme start="20250805183000 +0000" stop="20250805200000 +0000" channel="ANTV.vision">
-<title>Out Of Inferno</title>
-</programme>
-<programme start="20250805200000 +0000" stop="20250805213000 +0000" channel="ANTV.vision">
+<programme start="20250805193000 +0000" stop="20250805210000 +0000" channel="ANTV.vision">
 <title>Rumah Pasung</title>
 </programme>
-<programme start="20250805213000 +0000" stop="20250805220000 +0000" channel="ANTV.vision">
+<programme start="20250805210000 +0000" stop="20250805220000 +0000" channel="ANTV.vision">
 <title>Nadin</title>
 </programme>
 <programme start="20250805220000 +0000" stop="20250805223000 +0000" channel="ANTV.vision">
 <title>Vaishno Devi</title>
 </programme>
-<programme start="20250805223000 +0000" stop="20250805230000 +0000" channel="ANTV.vision">
+<programme start="20250805223000 +0000" stop="20250805233000 +0000" channel="ANTV.vision">
 <title>Senyum Iman</title>
 </programme>
-<programme start="20250805230000 +0000" stop="20250806010000 +0000" channel="ANTV.vision">
+<programme start="20250805233000 +0000" stop="20250806013000 +0000" channel="ANTV.vision">
 <title>Perawan Lembah Wilis</title>
 </programme>
-<programme start="20250806010000 +0000" stop="20250806023000 +0000" channel="ANTV.vision">
+<programme start="20250806013000 +0000" stop="20250806030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250806023000 +0000" stop="20250806060000 +0000" channel="ANTV.vision">
+<programme start="20250806030000 +0000" stop="20250806063000 +0000" channel="ANTV.vision">
 <title>Chenai Express</title>
 </programme>
-<programme start="20250806060000 +0000" stop="20250806083000 +0000" channel="ANTV.vision">
+<programme start="20250806063000 +0000" stop="20250806090000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250806083000 +0000" stop="20250806110000 +0000" channel="ANTV.vision">
+<programme start="20250806090000 +0000" stop="20250806120000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20250806110000 +0000" stop="20250806130000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
 </programme>
 <programme start="20250804230000 +0000" stop="20250805003000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250806050000 +0000" stop="20250806053000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20250806053000 +0000" stop="20250806063000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250806063000 +0000" stop="20250806070000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
