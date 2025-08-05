@@ -2740,10 +2740,10 @@
 <programme start="20250804224000 +0000" stop="20250804230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250804230000 +0000" stop="20250805013000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250804230000 +0000" stop="20250805010000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - A. Popyrin (AUS), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 1</title>
 </programme>
-<programme start="20250805013000 +0000" stop="20250805080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250805010000 +0000" stop="20250805080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: A. Michelsen (USA) - K. Khachanow, National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 2</title>
 </programme>
 <programme start="20250804234500 +0000" stop="20250805004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3172,25 +3172,25 @@
 <programme start="20250805020000 +0000" stop="20250805041000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Michelsen (USA) - K. Khachanow, National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 2</title>
 </programme>
-<programme start="20250805041000 +0000" stop="20250805050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250805041000 +0000" stop="20250805050500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F2: 1. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250805050000 +0000" stop="20250805060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250805050500 +0000" stop="20250805060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F2: 2. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250805060000 +0000" stop="20250805080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250805060500 +0000" stop="20250805070500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250805080000 +0000" stop="20250805090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250805070500 +0000" stop="20250805090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Wyndham Championship</title>
 </programme>
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Kompakt: 1. Spieltag</title>
 </programme>
-<programme start="20250805100000 +0000" stop="20250805120000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250805100000 +0000" stop="20250805123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - M. Kostyuk, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 1</title>
 </programme>
-<programme start="20250805120000 +0000" stop="20250805140500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250805123000 +0000" stop="20250805140500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - J. Bouzas Maneiro (ESP), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 2</title>
 </programme>
 <programme start="20250805140500 +0000" stop="20250805143500 +0000" channel="Sky Sport Top Event HD.skyde">

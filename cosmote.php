@@ -114,6 +114,10 @@
     <title>Football: AEK - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807030000 +0700" stop="20250807051000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ettifaq FC - Al Hilal</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806013000 +0700" stop="20250806033000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Motherwell - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -170,6 +174,10 @@
     <title>Football: Falkirk - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807034500 +0700" stop="20250807054500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Racing Club - Fortaleza CE</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806020000 +0700" stop="20250806041000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -220,14 +228,6 @@
 </programme>
 <programme start="20250807020000 +0700" stop="20250807041500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806002500 +0700" stop="20250806021000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806021000 +0700" stop="20250806024000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806024000 +0700" stop="20250806030500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +338,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250805232000 +0700" stop="20250806021500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexander Zverev - Alexei Popyrin</title>
+<programme start="20250807034500 +0700" stop="20250807041500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806021500 +0700" stop="20250806041000 +0700" channel="COSMOTE Sport 6 HD">
