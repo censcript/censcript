@@ -152,7 +152,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250805043000 +0000" stop="20250805050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: One Year On</title>
 </programme>
 <programme start="20250805050000 +0000" stop="20250805053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250805143000 +0000" stop="20250805150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: One Year On</title>
 </programme>
 <programme start="20250805150000 +0000" stop="20250805160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -409,29 +409,29 @@
 <programme start="20250804223000 +0000" stop="20250804233000 +0000" channel="ANTV.mncvision">
     <title>Senyum Iman</title>
 </programme>
-<programme start="20250804233000 +0000" stop="20250805013000 +0000" channel="ANTV.mncvision">
+<programme start="20250804233000 +0000" stop="20250805010000 +0000" channel="ANTV.mncvision">
     <title>Tongkat Sakti</title>
 </programme>
-<programme start="20250805013000 +0000" stop="20250805030000 +0000" channel="ANTV.mncvision">
+<programme start="20250805010000 +0000" stop="20250805023000 +0000" channel="ANTV.mncvision">
     <title>Catatan Hati</title>
 </programme>
-<programme start="20250805030000 +0000" stop="20250805063000 +0000" channel="ANTV.mncvision">
-    <title>Heropanti 2</title>
+<programme start="20250805023000 +0000" stop="20250805060000 +0000" channel="ANTV.mncvision">
+    <title>Kabhi Alvida Naa Kehna</title>
 </programme>
-<programme start="20250805063000 +0000" stop="20250805090000 +0000" channel="ANTV.mncvision">
+<programme start="20250805060000 +0000" stop="20250805083000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250805090000 +0000" stop="20250805120000 +0000" channel="ANTV.mncvision">
+<programme start="20250805083000 +0000" stop="20250805110000 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20250805120000 +0000" stop="20250805140000 +0000" channel="ANTV.mncvision">
+<programme start="20250805110000 +0000" stop="20250805130000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250805140000 +0000" stop="20250805160000 +0000" channel="ANTV.mncvision">
-    <title>Durjana Pemetik Bunga</title>
+<programme start="20250805130000 +0000" stop="20250805150000 +0000" channel="ANTV.mncvision">
+    <title>Mandala Penakluk Satria Tartar</title>
 </programme>
-<programme start="20250805160000 +0000" stop="20250805163000 +0000" channel="ANTV.mncvision">
-    <title>Millionaires Express</title>
+<programme start="20250805150000 +0000" stop="20250805153000 +0000" channel="ANTV.mncvision">
+    <title>Sworn Brothers</title>
 </programme>
 <programme start="20250804170000 +0000" stop="20250804173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
@@ -1078,17 +1078,8 @@
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA World Rally C&#039;ship HL 2025</title>
 </programme>
-<programme start="20250805100000 +0000" stop="20250805123000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20250805100000 +0000" stop="20250805142000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV 2024/25: LIV Vs ATH</title>
-</programme>
-<programme start="20250805123000 +0000" stop="20250805130000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFC Trending 2024/25, Ep 49</title>
-</programme>
-<programme start="20250805130000 +0000" stop="20250805133500 +0000" channel="beIN Sports 1.mncvision">
-    <title>F1 HL 2025: Hungarian GP</title>
-</programme>
-<programme start="20250805133500 +0000" stop="20250805142000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Porsche Mobil 1 Supercup 2025</title>
 </programme>
 <programme start="20250805142000 +0000" stop="20250805152000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA Formula 2 2025: Budapest</title>
@@ -1132,17 +1123,8 @@
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA World Rally C&#039;ship HL 2025</title>
 </programme>
-<programme start="20250805100000 +0000" stop="20250805123000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20250805100000 +0000" stop="20250805142000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV 2024/25: LIV Vs ATH</title>
-</programme>
-<programme start="20250805123000 +0000" stop="20250805130000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LFC Trending 2024/25, Ep 49</title>
-</programme>
-<programme start="20250805130000 +0000" stop="20250805133500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>F1 HL 2025: Hungarian GP</title>
-</programme>
-<programme start="20250805133500 +0000" stop="20250805142000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Porsche Mobil 1 Supercup 2025</title>
 </programme>
 <programme start="20250805142000 +0000" stop="20250805152000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA Formula 2 2025: Budapest</title>
@@ -4021,17 +4003,17 @@
 <programme start="20250805023000 +0000" stop="20250805063000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250805063000 +0000" stop="20250805073000 +0000" channel="GTV.mncvision">
+<programme start="20250805063000 +0000" stop="20250805080000 +0000" channel="GTV.mncvision">
     <title>Kera Sakti</title>
 </programme>
-<programme start="20250805073000 +0000" stop="20250805090000 +0000" channel="GTV.mncvision">
+<programme start="20250805080000 +0000" stop="20250805090000 +0000" channel="GTV.mncvision">
     <title>Game Zone</title>
 </programme>
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="GTV.mncvision">
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="GTV.mncvision">
-    <title>Amazing Kids</title>
+    <title>Naruto Shippuden</title>
 </programme>
 <programme start="20250805110000 +0000" stop="20250805113000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
@@ -4043,7 +4025,7 @@
     <title>Bull Demon King Rise Again</title>
 </programme>
 <programme start="20250805140000 +0000" stop="20250805153000 +0000" channel="GTV.mncvision">
-    <title>Instant Family</title>
+    <title>Daddy&#039;s Home</title>
 </programme>
 <programme start="20250805153000 +0000" stop="20250805160000 +0000" channel="GTV.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -4072,17 +4054,17 @@
 <programme start="20250805023000 +0000" stop="20250805063000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250805063000 +0000" stop="20250805073000 +0000" channel="GTV HD.mncvision">
+<programme start="20250805063000 +0000" stop="20250805080000 +0000" channel="GTV HD.mncvision">
     <title>Kera Sakti</title>
 </programme>
-<programme start="20250805073000 +0000" stop="20250805090000 +0000" channel="GTV HD.mncvision">
+<programme start="20250805080000 +0000" stop="20250805090000 +0000" channel="GTV HD.mncvision">
     <title>Game Zone</title>
 </programme>
 <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805110000 +0000" channel="GTV HD.mncvision">
-    <title>Amazing Kids</title>
+    <title>Naruto Shippuden</title>
 </programme>
 <programme start="20250805110000 +0000" stop="20250805113000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
@@ -4094,7 +4076,7 @@
     <title>Bull Demon King Rise Again</title>
 </programme>
 <programme start="20250805140000 +0000" stop="20250805153000 +0000" channel="GTV HD.mncvision">
-    <title>Instant Family</title>
+    <title>Daddy&#039;s Home</title>
 </programme>
 <programme start="20250805153000 +0000" stop="20250805160000 +0000" channel="GTV HD.mncvision">
     <title>Predator: PBC Indonesia Open</title>
@@ -5863,13 +5845,13 @@
 <programme start="20250804220000 +0000" stop="20250804230000 +0000" channel="MNCTV.mncvision">
     <title>Siraman Qolbu</title>
 </programme>
-<programme start="20250804230000 +0000" stop="20250804233000 +0000" channel="MNCTV.mncvision">
+<programme start="20250804230000 +0000" stop="20250804231500 +0000" channel="MNCTV.mncvision">
     <title>CoComelon</title>
 </programme>
-<programme start="20250804233000 +0000" stop="20250805003000 +0000" channel="MNCTV.mncvision">
+<programme start="20250804231500 +0000" stop="20250805000000 +0000" channel="MNCTV.mncvision">
     <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
-<programme start="20250805003000 +0000" stop="20250805010000 +0000" channel="MNCTV.mncvision">
+<programme start="20250805000000 +0000" stop="20250805010000 +0000" channel="MNCTV.mncvision">
     <title>Kiko</title>
 </programme>
 <programme start="20250805010000 +0000" stop="20250805023000 +0000" channel="MNCTV.mncvision">
@@ -5926,13 +5908,13 @@
 <programme start="20250804220000 +0000" stop="20250804230000 +0000" channel="MNCTV HD.mncvision">
     <title>Siraman Qolbu</title>
 </programme>
-<programme start="20250804230000 +0000" stop="20250804233000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250804230000 +0000" stop="20250804231500 +0000" channel="MNCTV HD.mncvision">
     <title>CoComelon</title>
 </programme>
-<programme start="20250804233000 +0000" stop="20250805003000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250804231500 +0000" stop="20250805000000 +0000" channel="MNCTV HD.mncvision">
     <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
-<programme start="20250805003000 +0000" stop="20250805010000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250805000000 +0000" stop="20250805010000 +0000" channel="MNCTV HD.mncvision">
     <title>Kiko</title>
 </programme>
 <programme start="20250805010000 +0000" stop="20250805023000 +0000" channel="MNCTV HD.mncvision">

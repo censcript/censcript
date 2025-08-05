@@ -7246,17 +7246,8 @@
     <programme start="20250805090000 +0000" stop="20250805100000 +0000" channel="beIN Sports HD.starhub">
         <title>Rally Finland</title>
     </programme>
-    <programme start="20250805100000 +0000" stop="20250805123000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250805100000 +0000" stop="20250805142000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2024/25: Liverpool vs Athletic Bilbao - Friendly</title>
-    </programme>
-    <programme start="20250805123000 +0000" stop="20250805130000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFC Trending 2024/25</title>
-    </programme>
-    <programme start="20250805130000 +0000" stop="20250805133500 +0000" channel="beIN Sports HD.starhub">
-        <title>FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025</title>
-    </programme>
-    <programme start="20250805133500 +0000" stop="20250805142000 +0000" channel="beIN Sports HD.starhub">
-        <title>Porsche Mobil 1 Supercup Race 2025: Budapest, Hungary</title>
     </programme>
     <programme start="20250805142000 +0000" stop="20250805152000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 2 Championship Feature Race 2025: Budapest, Hungary</title>
