@@ -3167,7 +3167,7 @@
     <title>WTA 1000: V. Mboko (CAN) - J. Bouzas Maneiro (ESP), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 2</title>
 </programme>
 <programme start="20250804220000 +0000" stop="20250804230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: M. Kostyuk (UKR) - E. Rybakina (KAZ), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 1</title>
+    <title>Live WTA 1000: E. Rybakina (KAZ) - M. Kostyuk, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 1</title>
 </programme>
 <programme start="20250804230000 +0000" stop="20250805010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - A. Popyrin (AUS), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 1</title>
@@ -3194,7 +3194,7 @@
     <title>2. BL Kompakt: 1. Spieltag</title>
 </programme>
 <programme start="20250805100000 +0000" stop="20250805120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: M. Kostyuk (UKR) - E. Rybakina (KAZ), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 1</title>
+    <title>WTA 1000: E. Rybakina (KAZ) - M. Kostyuk, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 1</title>
 </programme>
 <programme start="20250805120000 +0000" stop="20250805140500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - J. Bouzas Maneiro (ESP), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 2</title>
@@ -3652,7 +3652,7 @@
 <programme start="20250805215500 +0000" stop="20250805222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250804224500 +0000" stop="20250805010000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250804224000 +0000" stop="20250805010000 +0000" channel="Warner TV Film.skyde">
     <title>Batman Begins</title>
 </programme>
 <programme start="20250805010000 +0000" stop="20250805022500 +0000" channel="Warner TV Film.skyde">
@@ -3664,19 +3664,19 @@
 <programme start="20250805040000 +0000" stop="20250805071500 +0000" channel="Warner TV Film.skyde">
     <title>Giganten</title>
 </programme>
-<programme start="20250805071500 +0000" stop="20250805084500 +0000" channel="Warner TV Film.skyde">
-    <title>16 Uhr 50 ab Paddington</title>
+<programme start="20250805071500 +0000" stop="20250805085000 +0000" channel="Warner TV Film.skyde">
+    <title>Miss Marple - Vier Frauen und ein Mord</title>
 </programme>
-<programme start="20250805084500 +0000" stop="20250805105500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250805085000 +0000" stop="20250805105500 +0000" channel="Warner TV Film.skyde">
     <title>Batmans Rückkehr</title>
 </programme>
 <programme start="20250805105500 +0000" stop="20250805124000 +0000" channel="Warner TV Film.skyde">
     <title>Mortal Kombat</title>
 </programme>
-<programme start="20250805124000 +0000" stop="20250805151000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250805124000 +0000" stop="20250805151500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
-<programme start="20250805151000 +0000" stop="20250805165000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250805151500 +0000" stop="20250805165000 +0000" channel="Warner TV Film.skyde">
     <title>Haywire - Trau&#039; Keinem</title>
 </programme>
 <programme start="20250805165000 +0000" stop="20250805181500 +0000" channel="Warner TV Film.skyde">
@@ -3748,10 +3748,10 @@
 <programme start="20250805024000 +0000" stop="20250805033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250805033000 +0000" stop="20250805042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250805033000 +0000" stop="20250805041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250805042500 +0000" stop="20250805051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250805041500 +0000" stop="20250805051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250805051500 +0000" stop="20250805060500 +0000" channel="Warner TV Serie HD.skyde">
