@@ -667,6 +667,9 @@
 <programme start="20250806114500 +0000" stop="20250806121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250804233000 +0000" stop="20250805013000 +0000" channel="ANTV.vision">
+<title>Tongkat Sakti</title>
+</programme>
 <programme start="20250805013000 +0000" stop="20250805030000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
@@ -837,6 +840,9 @@
 </programme>
 <programme start="20250804233000 +0000" stop="20250805013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20250805013000 +0000" stop="20250805020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat (L)</title>
 </programme>
 <programme start="20250805020000 +0000" stop="20250805023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250806030000 +0000" stop="20250806040000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250806050000 +0000" stop="20250806053000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>

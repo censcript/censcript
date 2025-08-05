@@ -574,10 +574,10 @@
 <programme start="20250805031500 +0000" stop="20250805033000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250805033000 +0000" stop="20250805034200 +0000" channel="Cartoonito.skyde">
+<programme start="20250805033000 +0000" stop="20250805034000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250805034200 +0000" stop="20250805040000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805034000 +0000" stop="20250805040000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20250805040000 +0000" stop="20250805040500 +0000" channel="Cartoonito.skyde">
@@ -637,10 +637,10 @@
 <programme start="20250805070000 +0000" stop="20250805071500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250805071500 +0000" stop="20250805073000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805071500 +0000" stop="20250805072500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250805073000 +0000" stop="20250805074500 +0000" channel="Cartoonito.skyde">
+<programme start="20250805072500 +0000" stop="20250805074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250805074500 +0000" stop="20250805075500 +0000" channel="Cartoonito.skyde">
@@ -655,10 +655,10 @@
 <programme start="20250805082500 +0000" stop="20250805083500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250805083500 +0000" stop="20250805085500 +0000" channel="Cartoonito.skyde">
+<programme start="20250805083500 +0000" stop="20250805085000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250805085500 +0000" stop="20250805092000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805085000 +0000" stop="20250805092000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20250805092000 +0000" stop="20250805093000 +0000" channel="Cartoonito.skyde">
@@ -697,10 +697,10 @@
 <programme start="20250805110500 +0000" stop="20250805112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250805112000 +0000" stop="20250805113000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805112000 +0000" stop="20250805113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250805113000 +0000" stop="20250805115000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805113500 +0000" stop="20250805115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250805115000 +0000" stop="20250805120000 +0000" channel="Cartoonito.skyde">
@@ -745,10 +745,10 @@
 <programme start="20250805143000 +0000" stop="20250805143500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250805143500 +0000" stop="20250805144000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805143500 +0000" stop="20250805144500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250805144000 +0000" stop="20250805150000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805144500 +0000" stop="20250805150000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250805150000 +0000" stop="20250805151000 +0000" channel="Cartoonito.skyde">
@@ -769,10 +769,10 @@
 <programme start="20250805160000 +0000" stop="20250805161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250805161000 +0000" stop="20250805162000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805161000 +0000" stop="20250805162500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250805162000 +0000" stop="20250805163000 +0000" channel="Cartoonito.skyde">
+<programme start="20250805162500 +0000" stop="20250805163000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250805163000 +0000" stop="20250805163500 +0000" channel="Cartoonito.skyde">
@@ -3466,10 +3466,10 @@
 <programme start="20250804231000 +0000" stop="20250804233500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250804233500 +0000" stop="20250805000000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250804233500 +0000" stop="20250804235500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20250805000000 +0000" stop="20250805002000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250804235500 +0000" stop="20250805002000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
 <programme start="20250805002000 +0000" stop="20250805003000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3604,10 +3604,10 @@
 <programme start="20250805164000 +0000" stop="20250805170500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20250805170500 +0000" stop="20250805172500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250805170500 +0000" stop="20250805173000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20250805172500 +0000" stop="20250805175000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250805173000 +0000" stop="20250805175000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20250805175000 +0000" stop="20250805181500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3649,7 +3649,7 @@
 <programme start="20250805215500 +0000" stop="20250805222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
-<programme start="20250804224500 +0000" stop="20250805010000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250804224000 +0000" stop="20250805010000 +0000" channel="Warner TV Film.skyde">
     <title>Batman Begins</title>
 </programme>
 <programme start="20250805010000 +0000" stop="20250805022500 +0000" channel="Warner TV Film.skyde">
@@ -3661,19 +3661,19 @@
 <programme start="20250805040000 +0000" stop="20250805071500 +0000" channel="Warner TV Film.skyde">
     <title>Giganten</title>
 </programme>
-<programme start="20250805071500 +0000" stop="20250805084500 +0000" channel="Warner TV Film.skyde">
-    <title>16 Uhr 50 ab Paddington</title>
+<programme start="20250805071500 +0000" stop="20250805085000 +0000" channel="Warner TV Film.skyde">
+    <title>Miss Marple - Vier Frauen und ein Mord</title>
 </programme>
-<programme start="20250805084500 +0000" stop="20250805105500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250805085000 +0000" stop="20250805105500 +0000" channel="Warner TV Film.skyde">
     <title>Batmans Rückkehr</title>
 </programme>
 <programme start="20250805105500 +0000" stop="20250805124000 +0000" channel="Warner TV Film.skyde">
     <title>Mortal Kombat</title>
 </programme>
-<programme start="20250805124000 +0000" stop="20250805151000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250805124000 +0000" stop="20250805151500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
-<programme start="20250805151000 +0000" stop="20250805165000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250805151500 +0000" stop="20250805165000 +0000" channel="Warner TV Film.skyde">
     <title>Haywire - Trau&#039; Keinem</title>
 </programme>
 <programme start="20250805165000 +0000" stop="20250805181500 +0000" channel="Warner TV Film.skyde">
@@ -3745,10 +3745,10 @@
 <programme start="20250805024000 +0000" stop="20250805033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250805033000 +0000" stop="20250805042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250805033000 +0000" stop="20250805041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250805042500 +0000" stop="20250805051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250805041500 +0000" stop="20250805051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250805051500 +0000" stop="20250805060500 +0000" channel="Warner TV Serie HD.skyde">
