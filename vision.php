@@ -682,9 +682,6 @@
 <programme start="20250805110000 +0000" stop="20250805130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250805130000 +0000" stop="20250805150000 +0000" channel="ANTV.vision">
-<title>Mandala Penakluk Satria Tartar</title>
-</programme>
 <programme start="20250805150000 +0000" stop="20250805170000 +0000" channel="ANTV.vision">
 <title>Sworn Brothers</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250806030000 +0000" stop="20250806040000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
