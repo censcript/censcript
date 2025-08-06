@@ -50,9 +50,9 @@
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250806224000 +0700" stop="20250807004500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Ittihad - Al Orobah</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250808010000 +0700" stop="20250808030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - FC Shakhtar Donetsk (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250807004500 +0700" stop="20250807030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - PAOK</title>
@@ -108,6 +108,10 @@
 </programme>
 <programme start="20250807230000 +0700" stop="20250808010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Aris Limassol - AEK (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250808010000 +0700" stop="20250808020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250806235500 +0700" stop="20250807015000 +0700" channel="COSMOTE Sport 3 HD">
@@ -216,10 +220,6 @@
 </programme>
 <programme start="20250808000500 +0700" stop="20250808020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Badalona - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806235000 +0700" stop="20250807010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807010000 +0700" stop="20250807014500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,8 +334,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806220000 +0700" stop="20250807003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250808010000 +0700" stop="20250808020000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807003000 +0700" stop="20250807021000 +0700" channel="COSMOTE Sport 6 HD">
@@ -491,6 +491,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808000000 +0700" stop="20250808010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808010000 +0700" stop="20250808013000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808013000 +0700" stop="20250808020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
