@@ -50,10 +50,6 @@
     <title>Football: Olympique Lyonnais - Manchester United FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806141000 +0700" stop="20250806161500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al-Qadsiah - Al Ettifaq FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250806161500 +0700" stop="20250806182500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20250807154500 +0700" stop="20250807175500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807175500 +0700" stop="20250807200000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ettifaq FC - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806160000 +0700" stop="20250806180000 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,20 +330,36 @@
     <title>MotoGP: There Can Be Only One S3 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807170500 +0700" stop="20250807173500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: There Can Be Only One S3 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807173500 +0700" stop="20250807182000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: There Can Be Only One S3 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806160000 +0700" stop="20250806182000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806182000 +0700" stop="20250806213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250806182000 +0700" stop="20250806200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Andrey Rublev - Taylor Fritz</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806213000 +0700" stop="20250807000000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250806200000 +0700" stop="20250806220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alex de Minaur - Ben Shelton</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250806220000 +0700" stop="20250807003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807000000 +0700" stop="20250807040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250807003000 +0700" stop="20250807021000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Andrey Rublev - Taylor Fritz</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807021000 +0700" stop="20250807040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alex de Minaur - Ben Shelton</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807040000 +0700" stop="20250807045000 +0700" channel="COSMOTE Sport 6 HD">
@@ -355,11 +371,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807060000 +0700" stop="20250807080000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Alexander Zverev - Karen Khachanov (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250807080000 +0700" stop="20250807103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Ben Shelton - Taylor Fritz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250807103000 +0700" stop="20250807130000 +0700" channel="COSMOTE Sport 6 HD">
