@@ -50,8 +50,8 @@
     <title>Football: SL Benfica - FC Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806182500 +0700" stop="20250806203500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Ahli - Al Ittihad</title>
+<programme start="20250807215500 +0700" stop="20250808000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806203500 +0700" stop="20250806224000 +0700" channel="COSMOTE Sport 2 HD">
@@ -162,10 +162,6 @@
     <title>Football: Falkirk - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806175500 +0700" stop="20250806200500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250806200500 +0700" stop="20250806220500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -216,10 +212,6 @@
 </programme>
 <programme start="20250807202000 +0700" stop="20250807221000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Vanoli Cremona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806195000 +0700" stop="20250806205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806205000 +0700" stop="20250806220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -331,6 +323,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807200000 +0700" stop="20250807210000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807210000 +0700" stop="20250807220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
