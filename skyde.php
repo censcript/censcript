@@ -94,36 +94,6 @@
 <programme start="20250806212000 +0000" stop="20250806220500 +0000" channel="13th Street HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20250805220500 +0000" stop="20250805221500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Behind the Scenes - Der Klang der Karibik</title>
-</programme>
-<programme start="20250805221500 +0000" stop="20250805234500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex &amp; Lügen</title>
-</programme>
-<programme start="20250805234500 +0000" stop="20250806004500 +0000" channel="Beate Uhse HD.skyde">
-    <title>The Wedding - Eine Hochzeit voller Lust</title>
-</programme>
-<programme start="20250806004500 +0000" stop="20250806011500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Lust Pur</title>
-</programme>
-<programme start="20250806011500 +0000" stop="20250806022000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Versaute deutsche Milfs</title>
-</programme>
-<programme start="20250806022000 +0000" stop="20250806034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Muttis Toyboys</title>
-</programme>
-<programme start="20250806034500 +0000" stop="20250806181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20250806181500 +0000" stop="20250806193500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Forever Young</title>
-</programme>
-<programme start="20250806193500 +0000" stop="20250806205000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rocco Siffredi: Steamy Erection</title>
-</programme>
-<programme start="20250806205000 +0000" stop="20250806222500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Reiten auf der Ranch</title>
-</programme>
 <programme start="20250805220500 +0000" stop="20250805221500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe: Future</title>
 </programme>
@@ -1033,76 +1003,79 @@
 <programme start="20250806212500 +0000" stop="20250806220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250805220000 +0000" stop="20250805222500 +0000" channel="Heimatkanal.skyde">
-    <title>Königlich Bayerisches Amtsgericht</title>
-</programme>
-<programme start="20250805222500 +0000" stop="20250805231500 +0000" channel="Heimatkanal.skyde">
-    <title>Großstadtrevier</title>
-</programme>
-<programme start="20250805231500 +0000" stop="20250805235500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
-</programme>
-<programme start="20250805235500 +0000" stop="20250806004000 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
-</programme>
-<programme start="20250806004000 +0000" stop="20250806022000 +0000" channel="Heimatkanal.skyde">
-    <title>Hoch drob&#039;n auf dem Berg</title>
-</programme>
-<programme start="20250806022000 +0000" stop="20250806035000 +0000" channel="Heimatkanal.skyde">
-    <title>Wo die alten Wälder rauschen</title>
-</programme>
-<programme start="20250806035000 +0000" stop="20250806052500 +0000" channel="Heimatkanal.skyde">
-    <title>Sensation in San Remo</title>
-</programme>
-<programme start="20250806052500 +0000" stop="20250806060500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
-</programme>
-<programme start="20250806060500 +0000" stop="20250806065500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
-</programme>
-<programme start="20250806065500 +0000" stop="20250806074500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250806074500 +0000" stop="20250806083500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250807220500 +0000" stop="20250807225500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20250806083500 +0000" stop="20250806093000 +0000" channel="Heimatkanal.skyde">
-    <title>Großstadtrevier</title>
-</programme>
-<programme start="20250806093000 +0000" stop="20250806100000 +0000" channel="Heimatkanal.skyde">
+<programme start="20250807225500 +0000" stop="20250807231500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20250806100000 +0000" stop="20250806102500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250807231500 +0000" stop="20250808000500 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
+</programme>
+<programme start="20250808000500 +0000" stop="20250808010500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250808010500 +0000" stop="20250808020500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250808020500 +0000" stop="20250808030000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kommissar</title>
+</programme>
+<programme start="20250808030000 +0000" stop="20250808040000 +0000" channel="Heimatkanal.skyde">
+    <title>Derrick</title>
+</programme>
+<programme start="20250808040000 +0000" stop="20250808053000 +0000" channel="Heimatkanal.skyde">
+    <title>Liebe und Trompetenblasen</title>
+</programme>
+<programme start="20250808053000 +0000" stop="20250808065500 +0000" channel="Heimatkanal.skyde">
+    <title>Die kluge Schwiegermutter</title>
+</programme>
+<programme start="20250808065500 +0000" stop="20250808074500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20250808074500 +0000" stop="20250808083500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250808083500 +0000" stop="20250808093000 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
+</programme>
+<programme start="20250808093000 +0000" stop="20250808100000 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
+</programme>
+<programme start="20250808100000 +0000" stop="20250808102500 +0000" channel="Heimatkanal.skyde">
     <title>Musikparade</title>
 </programme>
-<programme start="20250806102500 +0000" stop="20250806111000 +0000" channel="Heimatkanal.skyde">
-    <title>Alles Liebe VIP: Thomas Fritsch</title>
+<programme start="20250808102500 +0000" stop="20250808111000 +0000" channel="Heimatkanal.skyde">
+    <title>Alles Liebe VIP: Uschi Glas</title>
 </programme>
-<programme start="20250806111000 +0000" stop="20250806125000 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
+<programme start="20250808111000 +0000" stop="20250808124500 +0000" channel="Heimatkanal.skyde">
+    <title>Alles für Papa</title>
 </programme>
-<programme start="20250806125000 +0000" stop="20250806143000 +0000" channel="Heimatkanal.skyde">
-    <title>Vater braucht eine Frau</title>
+<programme start="20250808124500 +0000" stop="20250808142500 +0000" channel="Heimatkanal.skyde">
+    <title>Blaue Jungs</title>
 </programme>
-<programme start="20250806143000 +0000" stop="20250806160500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Pfarrer von St. Michael</title>
+<programme start="20250808142500 +0000" stop="20250808160500 +0000" channel="Heimatkanal.skyde">
+    <title>Immer die Radfahrer</title>
 </programme>
-<programme start="20250806160500 +0000" stop="20250806165500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250808160500 +0000" stop="20250808165500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20250806165500 +0000" stop="20250806172500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250808165500 +0000" stop="20250808172500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20250806172500 +0000" stop="20250806181500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250808172500 +0000" stop="20250808181500 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20250806181500 +0000" stop="20250806200000 +0000" channel="Heimatkanal.skyde">
-    <title>Die Försterchristel</title>
+<programme start="20250808181500 +0000" stop="20250808190000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
 </programme>
-<programme start="20250806200000 +0000" stop="20250806213500 +0000" channel="Heimatkanal.skyde">
-    <title>Meine Nichte tut das nicht</title>
+<programme start="20250808190000 +0000" stop="20250808195000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
 </programme>
-<programme start="20250806213500 +0000" stop="20250806222000 +0000" channel="Heimatkanal.skyde">
+<programme start="20250808195000 +0000" stop="20250808212000 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20250808212000 +0000" stop="20250808221000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
 <programme start="20250805222500 +0000" stop="20250805231500 +0000" channel="HISTORY Channel HD.skyde">
@@ -3196,49 +3169,43 @@
 <programme start="20250805230000 +0000" stop="20250806004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806004500 +0000" stop="20250806023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806004500 +0000" stop="20250806040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806023000 +0000" stop="20250806041000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806041000 +0000" stop="20250806055000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806050000 +0000" stop="20250806070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806055000 +0000" stop="20250806062000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806070000 +0000" stop="20250806073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806062000 +0000" stop="20250806080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806073000 +0000" stop="20250806093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806080000 +0000" stop="20250806093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
-</programme>
-<programme start="20250806093000 +0000" stop="20250806110500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
-</programme>
-<programme start="20250806110500 +0000" stop="20250806124500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806093000 +0000" stop="20250806113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806124500 +0000" stop="20250806134500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250806134500 +0000" stop="20250806141500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806123000 +0000" stop="20250806130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806141500 +0000" stop="20250806155000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806130000 +0000" stop="20250806150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806155000 +0000" stop="20250806173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806150000 +0000" stop="20250806170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806173000 +0000" stop="20250806180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806170000 +0000" stop="20250806173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806180000 +0000" stop="20250806194500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806173000 +0000" stop="20250806193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806194500 +0000" stop="20250806213000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806193000 +0000" stop="20250806213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
 </programme>
 <programme start="20250806213000 +0000" stop="20250806215500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3253,40 +3220,37 @@
 <programme start="20250805230000 +0000" stop="20250806004500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806004500 +0000" stop="20250806033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806004500 +0000" stop="20250806040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806033000 +0000" stop="20250806043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F3: 1. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250806043000 +0000" stop="20250806053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806050000 +0000" stop="20250806060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F3: 2. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250806053000 +0000" stop="20250806060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806060000 +0000" stop="20250806063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Ungarn</title>
 </programme>
-<programme start="20250806060000 +0000" stop="20250806074000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806063000 +0000" stop="20250806083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806074000 +0000" stop="20250806091000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806083000 +0000" stop="20250806103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806091000 +0000" stop="20250806104500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
-</programme>
-<programme start="20250806104500 +0000" stop="20250806111000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806103000 +0000" stop="20250806110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806111000 +0000" stop="20250806141000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806110000 +0000" stop="20250806140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: AIG Women&#039;s Open, 4. Tag in Royal Porthcawl (Wales)</title>
 </programme>
-<programme start="20250806141000 +0000" stop="20250806164000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806140000 +0000" stop="20250806163000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
-<programme start="20250806164000 +0000" stop="20250806174000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806163000 +0000" stop="20250806173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review of the Season 2024/25</title>
 </programme>
-<programme start="20250806174000 +0000" stop="20250806183000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806173000 +0000" stop="20250806183000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
 <programme start="20250806183000 +0000" stop="20250806190000 +0000" channel="Sky Sport Top Event HD.skyde">

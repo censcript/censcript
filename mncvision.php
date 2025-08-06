@@ -4805,7 +4805,10 @@
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20250806160000 +0000" stop="20250806163000 +0000" channel="iNews.mncvision">
-    <title>MSIG Serenity Cup 2025</title>
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20250806163000 +0000" stop="20250805170000 +0000" channel="iNews.mncvision">
+    <title>New Top Files</title>
 </programme>
 <programme start="20250805170000 +0000" stop="20250805173000 +0000" channel="iNews HD.mncvision">
     <title>Highlight Formula E: London</title>
@@ -4883,7 +4886,10 @@
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20250806160000 +0000" stop="20250806163000 +0000" channel="iNews HD.mncvision">
-    <title>MSIG Serenity Cup 2025</title>
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20250806163000 +0000" stop="20250805170000 +0000" channel="iNews HD.mncvision">
+    <title>New Top Files</title>
 </programme>
 <programme start="20250805230000 +0000" stop="20250805233000 +0000" channel="JAKTV.mncvision">
     <title>Inovator</title>
