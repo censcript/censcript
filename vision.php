@@ -661,9 +661,6 @@
 <programme start="20250806110000 +0000" stop="20250806130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250806130000 +0000" stop="20250806150000 +0000" channel="ANTV.vision">
-<title>Pendekar Naga Mas</title>
-</programme>
 <programme start="20250806150000 +0000" stop="20250806170000 +0000" channel="ANTV.vision">
 <title>Millionaires Expres</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250807110000 +0000" stop="20250807120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
