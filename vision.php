@@ -35,43 +35,43 @@
 <title>Amanah Wali</title>
 </programme>
 <programme start="20250806181500 +0000" stop="20250806190000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Awas Banyak Copet</title>
 </programme>
 <programme start="20250806190000 +0000" stop="20250806203000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20250806203000 +0000" stop="20250806230000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun S4</title>
 </programme>
 <programme start="20250806230000 +0000" stop="20250806234500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Silet</title>
 </programme>
 <programme start="20250806234500 +0000" stop="20250807010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Upin Ipin</title>
 </programme>
 <programme start="20250807010000 +0000" stop="20250807013000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Kiko</title>
 </programme>
 <programme start="20250807013000 +0000" stop="20250807044500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250807044500 +0000" stop="20250807053000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Seputar iNews Siang</title>
 </programme>
 <programme start="20250807053000 +0000" stop="20250807073000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Take Me Out Indonesia (RCTI)</title>
 </programme>
 <programme start="20250807073000 +0000" stop="20250807090000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Serangan Malam Jumat</title>
 </programme>
 <programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Iiihh Serrreemm</title>
 </programme>
 <programme start="20250807100000 +0000" stop="20250807111500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun X (RCTI)</title>
 </programme>
 <programme start="20250807111500 +0000" stop="20250807123000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terbelenggu Rindu (RCTI)</title>
 </programme>
 <programme start="20250806000000 +0000" stop="20250806010000 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -651,9 +651,6 @@
 </programme>
 <programme start="20250806010000 +0000" stop="20250806023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250806023000 +0000" stop="20250806060000 +0000" channel="ANTV.vision">
-<title>Chenai Express</title>
 </programme>
 <programme start="20250806060000 +0000" stop="20250806083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
 </programme>
