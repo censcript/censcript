@@ -1571,7 +1571,7 @@
     <title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250806021500 +0000" stop="20250806030000 +0000" channel="BTV.mncvision">
-    <title>Endeus</title>
+    <title>Selera Rasa</title>
 </programme>
 <programme start="20250806030000 +0000" stop="20250806040000 +0000" channel="BTV.mncvision">
     <title>Masak Seru Gaes</title>
@@ -8431,29 +8431,32 @@
 <programme start="20250805210000 +0000" stop="20250805234500 +0000" channel="SPOTV.mncvision">
     <title>ISPS Handa Senior Open</title>
 </programme>
-<programme start="20250805234500 +0000" stop="20250806021500 +0000" channel="SPOTV.mncvision">
+<programme start="20250805234500 +0000" stop="20250806022000 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge Europe &#039;25</title>
 </programme>
-<programme start="20250806021500 +0000" stop="20250806024500 +0000" channel="SPOTV.mncvision">
+<programme start="20250806022000 +0000" stop="20250806025000 +0000" channel="SPOTV.mncvision">
     <title>WRT Le Mans &amp; Spa 24 Hours</title>
 </programme>
-<programme start="20250806024500 +0000" stop="20250806053000 +0000" channel="SPOTV.mncvision">
+<programme start="20250806025000 +0000" stop="20250806053000 +0000" channel="SPOTV.mncvision">
     <title>WTT Star Contender 2025</title>
 </programme>
 <programme start="20250806053000 +0000" stop="20250806071500 +0000" channel="SPOTV.mncvision">
     <title>WTT Star Contender 2025</title>
 </programme>
-<programme start="20250806071500 +0000" stop="20250806113000 +0000" channel="SPOTV.mncvision">
+<programme start="20250806071500 +0000" stop="20250806110000 +0000" channel="SPOTV.mncvision">
     <title>WTT Star Contender 2025</title>
 </programme>
-<programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="SPOTV.mncvision">
+<programme start="20250806110000 +0000" stop="20250806113000 +0000" channel="SPOTV.mncvision">
+    <title>2025 Le Mans Classic</title>
+</programme>
+<programme start="20250806113000 +0000" stop="20250806122000 +0000" channel="SPOTV.mncvision">
     <title>UIM E1 World C&#039;ship 2025 HL</title>
 </programme>
-<programme start="20250806123000 +0000" stop="20250806150000 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSbk C&#039;ship Round 7</title>
+<programme start="20250806122000 +0000" stop="20250806145500 +0000" channel="SPOTV.mncvision">
+    <title>2025 WorldSBK C&#039;ship Round 7</title>
 </programme>
-<programme start="20250806150000 +0000" stop="20250806153000 +0000" channel="SPOTV.mncvision">
-    <title>2025 WorldSbk C&#039;ship Round 7</title>
+<programme start="20250806145500 +0000" stop="20250806152500 +0000" channel="SPOTV.mncvision">
+    <title>2025 WorldSBK C&#039;ship Round 7</title>
 </programme>
 <programme start="20250805170000 +0000" stop="20250805180000 +0000" channel="SPOTV 2.mncvision">
     <title>NTI Townsville 500</title>
@@ -8533,29 +8536,32 @@
 <programme start="20250805210000 +0000" stop="20250805234500 +0000" channel="SPOTV HD.mncvision">
     <title>ISPS Handa Senior Open</title>
 </programme>
-<programme start="20250805234500 +0000" stop="20250806021500 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250805234500 +0000" stop="20250806022000 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge Europe &#039;25</title>
 </programme>
-<programme start="20250806021500 +0000" stop="20250806024500 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250806022000 +0000" stop="20250806025000 +0000" channel="SPOTV HD.mncvision">
     <title>WRT Le Mans &amp; Spa 24 Hours</title>
 </programme>
-<programme start="20250806024500 +0000" stop="20250806053000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250806025000 +0000" stop="20250806053000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Star Contender 2025</title>
 </programme>
 <programme start="20250806053000 +0000" stop="20250806071500 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Star Contender 2025</title>
 </programme>
-<programme start="20250806071500 +0000" stop="20250806113000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250806071500 +0000" stop="20250806110000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Star Contender 2025</title>
 </programme>
-<programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250806110000 +0000" stop="20250806113000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 Le Mans Classic</title>
+</programme>
+<programme start="20250806113000 +0000" stop="20250806122000 +0000" channel="SPOTV HD.mncvision">
     <title>UIM E1 World C&#039;ship 2025 HL</title>
 </programme>
-<programme start="20250806123000 +0000" stop="20250806150000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 WorldSbk C&#039;ship Round 7</title>
+<programme start="20250806122000 +0000" stop="20250806145500 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 WorldSBK C&#039;ship Round 7</title>
 </programme>
-<programme start="20250806150000 +0000" stop="20250806153000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 WorldSbk C&#039;ship Round 7</title>
+<programme start="20250806145500 +0000" stop="20250806152500 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 WorldSBK C&#039;ship Round 7</title>
 </programme>
 <programme start="20250805183000 +0000" stop="20250805204500 +0000" channel="Studio Universal.mncvision">
     <title>The Sting</title>

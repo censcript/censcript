@@ -5461,25 +5461,28 @@
     <programme start="20250805180000 +0000" stop="20250805234500 +0000" channel="SPOTV.starhub">
         <title>Round 2</title>
     </programme>
-    <programme start="20250805234500 +0000" stop="20250806021500 +0000" channel="SPOTV.starhub">
+    <programme start="20250805234500 +0000" stop="20250806022000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20250806021500 +0000" stop="20250806024500 +0000" channel="SPOTV.starhub">
+    <programme start="20250806022000 +0000" stop="20250806025000 +0000" channel="SPOTV.starhub">
         <title>WRT Le Mans &amp; Spa 24 Hours</title>
     </programme>
-    <programme start="20250806024500 +0000" stop="20250806071500 +0000" channel="SPOTV.starhub">
+    <programme start="20250806025000 +0000" stop="20250806071500 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 1</title>
     </programme>
-    <programme start="20250806071500 +0000" stop="20250806113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250806071500 +0000" stop="20250806110000 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="SPOTV.starhub">
+    <programme start="20250806110000 +0000" stop="20250806113000 +0000" channel="SPOTV.starhub">
+        <title>2025 Le Mans Classic</title>
+    </programme>
+    <programme start="20250806113000 +0000" stop="20250806122000 +0000" channel="SPOTV.starhub">
         <title>Ep4 Lago Maggiore</title>
     </programme>
-    <programme start="20250806123000 +0000" stop="20250806150000 +0000" channel="SPOTV.starhub">
+    <programme start="20250806122000 +0000" stop="20250806145500 +0000" channel="SPOTV.starhub">
         <title>Prosecco DOC UK Round: Race 1</title>
     </programme>
-    <programme start="20250806150000 +0000" stop="20250806173000 +0000" channel="SPOTV.starhub">
+    <programme start="20250806145500 +0000" stop="20250806173000 +0000" channel="SPOTV.starhub">
         <title>Prosecco DOC UK Round: Race 2</title>
     </programme>
     <programme start="20250805153500 +0000" stop="20250805165000 +0000" channel="KBS World HD.starhub">
