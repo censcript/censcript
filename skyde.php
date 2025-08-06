@@ -3196,43 +3196,49 @@
 <programme start="20250805230000 +0000" stop="20250806004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806004500 +0000" stop="20250806040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806004500 +0000" stop="20250806023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806023000 +0000" stop="20250806041000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806050000 +0000" stop="20250806070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806041000 +0000" stop="20250806055000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806070000 +0000" stop="20250806073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806055000 +0000" stop="20250806062000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806073000 +0000" stop="20250806093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806062000 +0000" stop="20250806080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806093000 +0000" stop="20250806113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806080000 +0000" stop="20250806093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
+</programme>
+<programme start="20250806093000 +0000" stop="20250806110500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
+</programme>
+<programme start="20250806110500 +0000" stop="20250806124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806113000 +0000" stop="20250806123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806124500 +0000" stop="20250806134500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20250806123000 +0000" stop="20250806130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806134500 +0000" stop="20250806141500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806130000 +0000" stop="20250806150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806141500 +0000" stop="20250806155000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806150000 +0000" stop="20250806170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806155000 +0000" stop="20250806173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806170000 +0000" stop="20250806173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806173000 +0000" stop="20250806180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806173000 +0000" stop="20250806193000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806180000 +0000" stop="20250806194500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806193000 +0000" stop="20250806213000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250806194500 +0000" stop="20250806213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
 </programme>
 <programme start="20250806213000 +0000" stop="20250806215500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3247,37 +3253,40 @@
 <programme start="20250805230000 +0000" stop="20250806004500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806004500 +0000" stop="20250806040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806004500 +0000" stop="20250806033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806040000 +0000" stop="20250806050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806033000 +0000" stop="20250806043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F3: 1. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250806050000 +0000" stop="20250806060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806043000 +0000" stop="20250806053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F3: 2. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250806060000 +0000" stop="20250806063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806053000 +0000" stop="20250806060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Ungarn</title>
 </programme>
-<programme start="20250806063000 +0000" stop="20250806083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806060000 +0000" stop="20250806074000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806083000 +0000" stop="20250806103000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806074000 +0000" stop="20250806091000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - E. Svitolina, National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 4</title>
 </programme>
-<programme start="20250806103000 +0000" stop="20250806110000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806091000 +0000" stop="20250806104500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA 1000: M. Keys (USA) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Viertelfinale 3</title>
+</programme>
+<programme start="20250806104500 +0000" stop="20250806111000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250806110000 +0000" stop="20250806140000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806111000 +0000" stop="20250806141000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: AIG Women&#039;s Open, 4. Tag in Royal Porthcawl (Wales)</title>
 </programme>
-<programme start="20250806140000 +0000" stop="20250806163000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806141000 +0000" stop="20250806164000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
-<programme start="20250806163000 +0000" stop="20250806173000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806164000 +0000" stop="20250806174000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review of the Season 2024/25</title>
 </programme>
-<programme start="20250806173000 +0000" stop="20250806183000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250806174000 +0000" stop="20250806183000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2024/25</title>
 </programme>
 <programme start="20250806183000 +0000" stop="20250806190000 +0000" channel="Sky Sport Top Event HD.skyde">

@@ -8083,14 +8083,8 @@
 <programme start="20250806131000 +0000" stop="20250806134000 +0000" channel="Sportstars.mncvision">
     <title>Sport Today</title>
 </programme>
-<programme start="20250806134000 +0000" stop="20250806141000 +0000" channel="Sportstars.mncvision">
-    <title>Sport Trivia</title>
-</programme>
-<programme start="20250806141000 +0000" stop="20250806144000 +0000" channel="Sportstars.mncvision">
-    <title>Bloopers</title>
-</programme>
-<programme start="20250806144000 +0000" stop="20250806150000 +0000" channel="Sportstars.mncvision">
-    <title>Europe</title>
+<programme start="20250806134000 +0000" stop="20250806150000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara</title>
 </programme>
 <programme start="20250806150000 +0000" stop="20250806153000 +0000" channel="Sportstars.mncvision">
     <title>FIBA Asia Cup: GUM Vs IRN (L)</title>
@@ -8413,14 +8407,8 @@
 <programme start="20250806131000 +0000" stop="20250806134000 +0000" channel="Sportstars HD.mncvision">
     <title>Sport Today</title>
 </programme>
-<programme start="20250806134000 +0000" stop="20250806141000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sport Trivia</title>
-</programme>
-<programme start="20250806141000 +0000" stop="20250806144000 +0000" channel="Sportstars HD.mncvision">
-    <title>Bloopers</title>
-</programme>
-<programme start="20250806144000 +0000" stop="20250806150000 +0000" channel="Sportstars HD.mncvision">
-    <title>Europe</title>
+<programme start="20250806134000 +0000" stop="20250806150000 +0000" channel="Sportstars HD.mncvision">
+    <title>Indonesia Juara</title>
 </programme>
 <programme start="20250806150000 +0000" stop="20250806153000 +0000" channel="Sportstars HD.mncvision">
     <title>FIBA Asia Cup: GUM Vs IRN (L)</title>
