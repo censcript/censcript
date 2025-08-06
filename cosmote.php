@@ -50,10 +50,6 @@
     <title>Football: NK Celje - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806134000 +0700" stop="20250806141000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Temples of Sport</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250806141000 +0700" stop="20250806161500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al-Qadsiah - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
@@ -110,6 +106,10 @@
     <title>Football: Al Ittihad - Al Orobah</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807154500 +0700" stop="20250807175500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806140000 +0700" stop="20250806160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Barnet - Fleetwood Town</title>
     <desc>Live: Tidak</desc>
@@ -162,10 +162,6 @@
     <title>Football: Bradford City A.F.C. - Wycombe Wanderers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806121000 +0700" stop="20250806140500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Napoli - Varese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250806140500 +0700" stop="20250806155500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Bursaspor</title>
     <desc>Live: Tidak</desc>
@@ -216,10 +212,6 @@
 </programme>
 <programme start="20250807141000 +0700" stop="20250807160500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bahcesehir</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806130500 +0700" stop="20250806144000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806144000 +0700" stop="20250806160000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,6 +322,14 @@
     <title>MotoGP: Dream On E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807152000 +0700" stop="20250807154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: Dream On E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807154500 +0700" stop="20250807162500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: There Can Be Only One S3 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806123000 +0700" stop="20250806160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -372,6 +372,10 @@
 </programme>
 <programme start="20250807130000 +0700" stop="20250807153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807153000 +0700" stop="20250807193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806140000 +0700" stop="20250806160000 +0700" channel="COSMOTE Sport 7 HD">
