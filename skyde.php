@@ -2743,11 +2743,11 @@
 <programme start="20250805224000 +0000" stop="20250805230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250805230000 +0000" stop="20250806010000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF3, National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
+<programme start="20250805230000 +0000" stop="20250806004500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: A. Rublev - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 3</title>
 </programme>
-<programme start="20250806010000 +0000" stop="20250806080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF4, National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
+<programme start="20250806004500 +0000" stop="20250806080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: A. de Minaur (AUS) - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Viertelfinale 4</title>
 </programme>
 <programme start="20250805221500 +0000" stop="20250806001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Samstags-Konferenz, 1. Spieltag</title>
@@ -2974,11 +2974,8 @@
 <programme start="20250806020000 +0000" stop="20250806023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20250806023000 +0000" stop="20250806030000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20250806030000 +0000" stop="20250806033000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+<programme start="20250806023000 +0000" stop="20250806033000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: Highlights: Secto Rally Finland</title>
 </programme>
 <programme start="20250806033000 +0000" stop="20250806060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>

@@ -8305,34 +8305,34 @@
     <programme start="20250806150000 +0000" stop="20250806160000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250805133000 +0000" stop="20250805163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250805133000 +0000" stop="20250805162000 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
-    <programme start="20250805163000 +0000" stop="20250805190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250805162000 +0000" stop="20250805190500 +0000" channel="Asianet Movies.starhub">
         <title>Premam</title>
     </programme>
-    <programme start="20250805190000 +0000" stop="20250805220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250805190500 +0000" stop="20250805214000 +0000" channel="Asianet Movies.starhub">
         <title>Kaththi</title>
     </programme>
-    <programme start="20250805220000 +0000" stop="20250805233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250805214000 +0000" stop="20250805233000 +0000" channel="Asianet Movies.starhub">
         <title>7th Day</title>
     </programme>
-    <programme start="20250805233000 +0000" stop="20250806013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250805233000 +0000" stop="20250806014500 +0000" channel="Asianet Movies.starhub">
         <title>Immini Nalloral</title>
     </programme>
-    <programme start="20250806013000 +0000" stop="20250806043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250806014500 +0000" stop="20250806043000 +0000" channel="Asianet Movies.starhub">
         <title>Avatharam</title>
     </programme>
-    <programme start="20250806043000 +0000" stop="20250806073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250806043000 +0000" stop="20250806071500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Marubhoomikkadha</title>
     </programme>
-    <programme start="20250806073000 +0000" stop="20250806103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250806071500 +0000" stop="20250806103000 +0000" channel="Asianet Movies.starhub">
         <title>One</title>
     </programme>
     <programme start="20250806103000 +0000" stop="20250806133000 +0000" channel="Asianet Movies.starhub">
         <title>Varikkuzhiyile Kolapathakam</title>
     </programme>
-    <programme start="20250806133000 +0000" stop="20250806163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250806133000 +0000" stop="20250806162000 +0000" channel="Asianet Movies.starhub">
         <title>Pachakkuthira</title>
     </programme>
     <programme start="20250805160000 +0000" stop="20250805163000 +0000" channel="Astro Warna HD.starhub">
