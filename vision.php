@@ -214,10 +214,10 @@
 <programme start="20250807023000 +0000" stop="20250807063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250807063000 +0000" stop="20250807083000 +0000" channel="GTV.vision">
+<programme start="20250807063000 +0000" stop="20250807080000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250807083000 +0000" stop="20250807100000 +0000" channel="GTV.vision">
+<programme start="20250807080000 +0000" stop="20250807100000 +0000" channel="GTV.vision">
 <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="GTV.vision">
