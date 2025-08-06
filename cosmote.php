@@ -50,9 +50,9 @@
     <title>Football: Panathinaikos - FC Shakhtar Donetsk (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250807004500 +0700" stop="20250807030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - PAOK</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250808030000 +0700" stop="20250808040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PostGame Show (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250807030000 +0700" stop="20250807051000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Ettifaq FC - Al Hilal</title>
@@ -222,10 +222,6 @@
     <title>Basketball: Brescia - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807014500 +0700" stop="20250807024000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250807024000 +0700" stop="20250807034500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,8 +334,12 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807003000 +0700" stop="20250807021000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Andrey Rublev - Taylor Fritz</title>
+<programme start="20250808030000 +0700" stop="20250808035500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808035500 +0700" stop="20250808043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807021000 +0700" stop="20250807040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -388,6 +388,10 @@
 </programme>
 <programme start="20250808023000 +0700" stop="20250808033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808033000 +0700" stop="20250808040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807020000 +0700" stop="20250807040000 +0700" channel="COSMOTE Sport 7 HD">

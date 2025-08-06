@@ -214,10 +214,10 @@
 <programme start="20250807023000 +0000" stop="20250807063000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250807063000 +0000" stop="20250807080000 +0000" channel="GTV.vision">
+<programme start="20250807063000 +0000" stop="20250807083000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250807080000 +0000" stop="20250807100000 +0000" channel="GTV.vision">
+<programme start="20250807083000 +0000" stop="20250807100000 +0000" channel="GTV.vision">
 <title>Kisah Viral Specta</title>
 </programme>
 <programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="GTV.vision">
@@ -577,9 +577,6 @@
 <programme start="20250806154500 +0000" stop="20250806163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250806163000 +0000" stop="20250806171500 +0000" channel="Trans 7.vision">
-<title>Newstainment</title>
-</programme>
 <programme start="20250806171500 +0000" stop="20250806174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -660,18 +657,6 @@
 </programme>
 <programme start="20250806110000 +0000" stop="20250806130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250806130000 +0000" stop="20250806150000 +0000" channel="ANTV.vision">
-<title>Pendekar Naga Mas</title>
-</programme>
-<programme start="20250806150000 +0000" stop="20250806170000 +0000" channel="ANTV.vision">
-<title>Millionaires Expres</title>
-</programme>
-<programme start="20250806170000 +0000" stop="20250806183000 +0000" channel="ANTV.vision">
-<title>Star Abyss</title>
-</programme>
-<programme start="20250806183000 +0000" stop="20250806200000 +0000" channel="ANTV.vision">
-<title>The Weird Forest</title>
 </programme>
 <programme start="20250806200000 +0000" stop="20250806213000 +0000" channel="ANTV.vision">
 <title>Lembah Duka</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250807110000 +0000" stop="20250807120000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20250805230000 +0000" stop="20250806003000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250806003000 +0000" stop="20250806020500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250806020500 +0000" stop="20250806034500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250806034500 +0000" stop="20250806052500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
