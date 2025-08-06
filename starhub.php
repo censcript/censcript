@@ -272,7 +272,7 @@
         <title>Nagarvalam</title>
     </programme>
     <programme start="20250805220000 +0000" stop="20250806003000 +0000" channel="Zee Thirai.starhub">
-        <title>Kaathirukka Neramillai</title>
+        <title>Chiyangal</title>
     </programme>
     <programme start="20250806003000 +0000" stop="20250806010000 +0000" channel="Zee Thirai.starhub">
         <title>Thirai Flix</title>

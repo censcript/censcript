@@ -110,6 +110,14 @@
     <title>Football: Al Ettifaq FC - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250807131000 +0700" stop="20250807134500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807134500 +0700" stop="20250807154500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ittihad - Al Orobah</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250806120000 +0700" stop="20250806140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Racing Club - Fortaleza CE</title>
     <desc>Live: Tidak</desc>
@@ -160,10 +168,6 @@
 </programme>
 <programme start="20250807120000 +0700" stop="20250807140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atletico Mineiro - Atletico Bucaramanga</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250806100000 +0700" stop="20250806121000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806121000 +0700" stop="20250806140500 +0700" channel="COSMOTE Sport 4 HD">
@@ -318,8 +322,8 @@
     <title>ROC Nations Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250806112000 +0700" stop="20250806123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250807131000 +0700" stop="20250807140500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250806123000 +0700" stop="20250806160000 +0700" channel="COSMOTE Sport 6 HD">
@@ -359,6 +363,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250807103000 +0700" stop="20250807130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250807130000 +0700" stop="20250807153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
