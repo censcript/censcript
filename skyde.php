@@ -961,31 +961,31 @@
 <programme start="20250808063000 +0000" stop="20250808070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 32. Spieltag</title>
 </programme>
-<programme start="20250808070000 +0000" stop="20250808073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808070000 +0000" stop="20250808074000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250808073000 +0000" stop="20250808093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808074000 +0000" stop="20250808093000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1: PSG - Olympique Marseille</title>
 </programme>
-<programme start="20250808093000 +0000" stop="20250808113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808093000 +0000" stop="20250808112000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Borussia Dortmund</title>
 </programme>
-<programme start="20250808113000 +0000" stop="20250808120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808112000 +0000" stop="20250808120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250808120000 +0000" stop="20250808140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808120000 +0000" stop="20250808134000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20250808140000 +0000" stop="20250808150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808134000 +0000" stop="20250808144000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
 </programme>
-<programme start="20250808150000 +0000" stop="20250808153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808144000 +0000" stop="20250808151000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250808153000 +0000" stop="20250808172000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808151000 +0000" stop="20250808171000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Nations League: Spanien - Frankreich</title>
 </programme>
-<programme start="20250808172000 +0000" stop="20250808174000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250808171000 +0000" stop="20250808174000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250808174000 +0000" stop="20250808182000 +0000" channel="DAZN 1 HD.skyde">
