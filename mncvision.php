@@ -7547,7 +7547,7 @@
     <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20250807073000 +0000" stop="20250807090000 +0000" channel="RCTI.mncvision">
-    <title>Serangan Malam Jumat</title>
+    <title>Iiihh Serrreemm</title>
 </programme>
 <programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="RCTI.mncvision">
     <title>Iiihh Serrreemm</title>
@@ -7598,7 +7598,7 @@
     <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20250807073000 +0000" stop="20250807090000 +0000" channel="RCTI HD.mncvision">
-    <title>Serangan Malam Jumat</title>
+    <title>Iiihh Serrreemm</title>
 </programme>
 <programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="RCTI HD.mncvision">
     <title>Iiihh Serrreemm</title>
