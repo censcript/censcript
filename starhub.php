@@ -4076,7 +4076,7 @@
         <title>Drama Serial &quot;Anpan&quot; Eps. 93 (R)</title>
     </programme>
     <programme start="20250806184500 +0000" stop="20250806195700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up 80 Years After the War Special &quot;Hope for Tomorrow as Told Throu</title>
+        <title>Today&#039;s Close-up 80 Years After the War Special&quot;Hope for Tomorrow as Told Throug</title>
     </programme>
     <programme start="20250806195700 +0000" stop="20250806200000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>

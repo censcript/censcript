@@ -54,6 +54,10 @@
     <title>Highlights: UEL &amp; UECL 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250808210000 +0700" stop="20250808230000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Al Taawon - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250807200000 +0700" stop="20250807220000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hapoel Beer-Sheva - AEK</title>
     <desc>Live: Tidak</desc>
@@ -122,10 +126,6 @@
     <title>Football: Al Nassr - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807180500 +0700" stop="20250807200500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Racing Club - Fortaleza CE</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250807200500 +0700" stop="20250807220500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Falkirk - Dundee United</title>
     <desc>Live: Tidak</desc>
@@ -190,10 +190,6 @@
     <title>Football: Port Vale - Cardiff City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807180500 +0700" stop="20250807202000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250807202000 +0700" stop="20250807221000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Vanoli Cremona</title>
     <desc>Live: Tidak</desc>
@@ -254,8 +250,8 @@
     <title>Basketball: Brescia - Scafati</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807200000 +0700" stop="20250807210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
+<programme start="20250808215500 +0700" stop="20250808234500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Karsiyaka</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807210000 +0700" stop="20250807220000 +0700" channel="COSMOTE Sport 5 HD">

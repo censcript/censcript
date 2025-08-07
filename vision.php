@@ -667,9 +667,6 @@
 <programme start="20250807010000 +0000" stop="20250807023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250807023000 +0000" stop="20250807060000 +0000" channel="ANTV.vision">
-<title>Players</title>
-</programme>
 <programme start="20250807060000 +0000" stop="20250807083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250808030000 +0000" stop="20250808040000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250808040000 +0000" stop="20250808050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
