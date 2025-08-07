@@ -1552,8 +1552,11 @@
 <programme start="20250807063000 +0000" stop="20250807070000 +0000" channel="BTV.mncvision">
     <title>Figur Publik</title>
 </programme>
-<programme start="20250807070000 +0000" stop="20250807090000 +0000" channel="BTV.mncvision">
+<programme start="20250807070000 +0000" stop="20250807080000 +0000" channel="BTV.mncvision">
     <title>Kuyliner</title>
+</programme>
+<programme start="20250807080000 +0000" stop="20250807090000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
 </programme>
 <programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="BTV.mncvision">
     <title>Masak Seru Gaes</title>
@@ -3859,16 +3862,16 @@
 <programme start="20250807155000 +0000" stop="20250807162000 +0000" channel="Galaxy Premium.mncvision">
     <title>Like A Boss</title>
 </programme>
-<programme start="20250806174500 +0000" stop="20250806184000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250806180000 +0000" stop="20250806185000 +0000" channel="Global Trekker.mncvision">
     <title>Aerial Italy, Ep 2</title>
 </programme>
-<programme start="20250806184000 +0000" stop="20250806193500 +0000" channel="Global Trekker.mncvision">
+<programme start="20250806185000 +0000" stop="20250806194000 +0000" channel="Global Trekker.mncvision">
     <title>Aerial Italy, Ep 3</title>
 </programme>
-<programme start="20250806193500 +0000" stop="20250806205000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250806194000 +0000" stop="20250806205500 +0000" channel="Global Trekker.mncvision">
     <title>Manny Pacquiao: Unstoppable...</title>
 </programme>
-<programme start="20250806205000 +0000" stop="20250806220000 +0000" channel="Global Trekker.mncvision">
+<programme start="20250806205500 +0000" stop="20250806220000 +0000" channel="Global Trekker.mncvision">
     <title>Muhammad Ali: The Greatest</title>
 </programme>
 <programme start="20250806220000 +0000" stop="20250806225000 +0000" channel="Global Trekker.mncvision">
@@ -3943,16 +3946,16 @@
 <programme start="20250807164500 +0000" stop="20250806171500 +0000" channel="Global Trekker.mncvision">
     <title>Dinosaur Cold Case</title>
 </programme>
-<programme start="20250806174500 +0000" stop="20250806184000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250806180000 +0000" stop="20250806185000 +0000" channel="Global Trekker HD.mncvision">
     <title>Aerial Italy, Ep 2</title>
 </programme>
-<programme start="20250806184000 +0000" stop="20250806193500 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250806185000 +0000" stop="20250806194000 +0000" channel="Global Trekker HD.mncvision">
     <title>Aerial Italy, Ep 3</title>
 </programme>
-<programme start="20250806193500 +0000" stop="20250806205000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250806194000 +0000" stop="20250806205500 +0000" channel="Global Trekker HD.mncvision">
     <title>Manny Pacquiao: Unstoppable...</title>
 </programme>
-<programme start="20250806205000 +0000" stop="20250806220000 +0000" channel="Global Trekker HD.mncvision">
+<programme start="20250806205500 +0000" stop="20250806220000 +0000" channel="Global Trekker HD.mncvision">
     <title>Muhammad Ali: The Greatest</title>
 </programme>
 <programme start="20250806220000 +0000" stop="20250806225000 +0000" channel="Global Trekker HD.mncvision">
@@ -4787,7 +4790,7 @@
     <title>Special Report</title>
 </programme>
 <programme start="20250806210000 +0000" stop="20250806211500 +0000" channel="iNews.mncvision">
-    <title>iNews Sport</title>
+    <title>Special Report</title>
 </programme>
 <programme start="20250806211500 +0000" stop="20250806230000 +0000" channel="iNews.mncvision">
     <title>iNews Pagi (L)</title>
@@ -4844,6 +4847,9 @@
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="iNews.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20250807163000 +0000" stop="20250806170000 +0000" channel="iNews.mncvision">
     <title>MSIG Serenity Cup 2025</title>
 </programme>
 <programme start="20250806170000 +0000" stop="20250806173000 +0000" channel="iNews HD.mncvision">
@@ -4865,7 +4871,7 @@
     <title>Special Report</title>
 </programme>
 <programme start="20250806210000 +0000" stop="20250806211500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport</title>
+    <title>Special Report</title>
 </programme>
 <programme start="20250806211500 +0000" stop="20250806230000 +0000" channel="iNews HD.mncvision">
     <title>iNews Pagi (L)</title>
@@ -4922,6 +4928,9 @@
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20250807163000 +0000" stop="20250806170000 +0000" channel="iNews HD.mncvision">
     <title>MSIG Serenity Cup 2025</title>
 </programme>
 <programme start="20250806230000 +0000" stop="20250806233000 +0000" channel="JAKTV.mncvision">
@@ -9545,60 +9554,63 @@
     <title>New Top Files</title>
 </programme>
 <programme start="20250806233000 +0000" stop="20250807000000 +0000" channel="Vision Prime.mncvision">
-    <title>Bumbu Rahasia</title>
-</programme>
-<programme start="20250807000000 +0000" stop="20250807003000 +0000" channel="Vision Prime.mncvision">
-    <title>Pedes Endeus</title>
-</programme>
-<programme start="20250807003000 +0000" stop="20250807013000 +0000" channel="Vision Prime.mncvision">
-    <title>Supermarket Sweep</title>
-</programme>
-<programme start="20250807013000 +0000" stop="20250807023000 +0000" channel="Vision Prime.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20250807023000 +0000" stop="20250807033000 +0000" channel="Vision Prime.mncvision">
-    <title>Ikatan Cinta</title>
-</programme>
-<programme start="20250807033000 +0000" stop="20250807043000 +0000" channel="Vision Prime.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20250807043000 +0000" stop="20250807050000 +0000" channel="Vision Prime.mncvision">
-    <title>New Top Files</title>
-</programme>
-<programme start="20250807050000 +0000" stop="20250807060000 +0000" channel="Vision Prime.mncvision">
-    <title>Teka-Teki Kata</title>
-</programme>
-<programme start="20250807060000 +0000" stop="20250807070000 +0000" channel="Vision Prime.mncvision">
-    <title>Mantan IPA &amp; IPS</title>
-</programme>
-<programme start="20250807070000 +0000" stop="20250807080000 +0000" channel="Vision Prime.mncvision">
-    <title>Awas Banyak Copet</title>
-</programme>
-<programme start="20250807080000 +0000" stop="20250807083000 +0000" channel="Vision Prime.mncvision">
     <title>OMG</title>
 </programme>
-<programme start="20250807083000 +0000" stop="20250807093000 +0000" channel="Vision Prime.mncvision">
-    <title>Tebaran Hati</title>
+<programme start="20250807000000 +0000" stop="20250807003000 +0000" channel="Vision Prime.mncvision">
+    <title>Bumbu Rahasia</title>
 </programme>
-<programme start="20250807093000 +0000" stop="20250807103000 +0000" channel="Vision Prime.mncvision">
-    <title>Mencintaimu Sekali Lagi</title>
+<programme start="20250807003000 +0000" stop="20250807010000 +0000" channel="Vision Prime.mncvision">
+    <title>Pedes Endeus</title>
 </programme>
-<programme start="20250807103000 +0000" stop="20250807113000 +0000" channel="Vision Prime.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
+<programme start="20250807010000 +0000" stop="20250807020000 +0000" channel="Vision Prime.mncvision">
+    <title>Supermarket Sweep</title>
 </programme>
-<programme start="20250807113000 +0000" stop="20250807123000 +0000" channel="Vision Prime.mncvision">
+<programme start="20250807020000 +0000" stop="20250807030000 +0000" channel="Vision Prime.mncvision">
     <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250807123000 +0000" stop="20250807133000 +0000" channel="Vision Prime.mncvision">
+<programme start="20250807030000 +0000" stop="20250807040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250807040000 +0000" stop="20250807050000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250807050000 +0000" stop="20250807053000 +0000" channel="Vision Prime.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250807053000 +0000" stop="20250807063000 +0000" channel="Vision Prime.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250807063000 +0000" stop="20250807073000 +0000" channel="Vision Prime.mncvision">
+    <title>Mantan IPA &amp; IPS</title>
+</programme>
+<programme start="20250807073000 +0000" stop="20250807083000 +0000" channel="Vision Prime.mncvision">
+    <title>Awas Banyak Copet</title>
+</programme>
+<programme start="20250807083000 +0000" stop="20250807090000 +0000" channel="Vision Prime.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="Vision Prime.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250807110000 +0000" stop="20250807120000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250807120000 +0000" stop="20250807130000 +0000" channel="Vision Prime.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250807130000 +0000" stop="20250807140000 +0000" channel="Vision Prime.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20250807133000 +0000" stop="20250807140000 +0000" channel="Vision Prime.mncvision">
+<programme start="20250807140000 +0000" stop="20250807143000 +0000" channel="Vision Prime.mncvision">
     <title>My Comic Boyfriend</title>
 </programme>
-<programme start="20250807140000 +0000" stop="20250807143000 +0000" channel="Vision Prime.mncvision">
+<programme start="20250807143000 +0000" stop="20250807150000 +0000" channel="Vision Prime.mncvision">
     <title>Katanya</title>
 </programme>
-<programme start="20250807143000 +0000" stop="20250807150000 +0000" channel="Vision Prime.mncvision">
+<programme start="20250807150000 +0000" stop="20250807153000 +0000" channel="Vision Prime.mncvision">
     <title>Laal Kaptaan</title>
 </programme>
 <programme start="20250806173000 +0000" stop="20250806180000 +0000" channel="Vision Prime HD.mncvision">
@@ -9623,59 +9635,62 @@
     <title>New Top Files</title>
 </programme>
 <programme start="20250806233000 +0000" stop="20250807000000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Bumbu Rahasia</title>
-</programme>
-<programme start="20250807000000 +0000" stop="20250807003000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Pedes Endeus</title>
-</programme>
-<programme start="20250807003000 +0000" stop="20250807013000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Supermarket Sweep</title>
-</programme>
-<programme start="20250807013000 +0000" stop="20250807023000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Preman Pensiun X</title>
-</programme>
-<programme start="20250807023000 +0000" stop="20250807033000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Ikatan Cinta</title>
-</programme>
-<programme start="20250807033000 +0000" stop="20250807043000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20250807043000 +0000" stop="20250807050000 +0000" channel="Vision Prime HD.mncvision">
-    <title>New Top Files</title>
-</programme>
-<programme start="20250807050000 +0000" stop="20250807060000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Teka-Teki Kata</title>
-</programme>
-<programme start="20250807060000 +0000" stop="20250807070000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mantan IPA &amp; IPS</title>
-</programme>
-<programme start="20250807070000 +0000" stop="20250807080000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Awas Banyak Copet</title>
-</programme>
-<programme start="20250807080000 +0000" stop="20250807083000 +0000" channel="Vision Prime HD.mncvision">
     <title>OMG</title>
 </programme>
-<programme start="20250807083000 +0000" stop="20250807093000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Tebaran Hati</title>
+<programme start="20250807000000 +0000" stop="20250807003000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Bumbu Rahasia</title>
 </programme>
-<programme start="20250807093000 +0000" stop="20250807103000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mencintaimu Sekali Lagi</title>
+<programme start="20250807003000 +0000" stop="20250807010000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Pedes Endeus</title>
 </programme>
-<programme start="20250807103000 +0000" stop="20250807113000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
+<programme start="20250807010000 +0000" stop="20250807020000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Supermarket Sweep</title>
 </programme>
-<programme start="20250807113000 +0000" stop="20250807123000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20250807020000 +0000" stop="20250807030000 +0000" channel="Vision Prime HD.mncvision">
     <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250807123000 +0000" stop="20250807133000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20250807030000 +0000" stop="20250807040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250807040000 +0000" stop="20250807050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250807050000 +0000" stop="20250807053000 +0000" channel="Vision Prime HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250807053000 +0000" stop="20250807063000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250807063000 +0000" stop="20250807073000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mantan IPA &amp; IPS</title>
+</programme>
+<programme start="20250807073000 +0000" stop="20250807083000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Awas Banyak Copet</title>
+</programme>
+<programme start="20250807083000 +0000" stop="20250807090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Tebaran Hati</title>
+</programme>
+<programme start="20250807100000 +0000" stop="20250807110000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250807110000 +0000" stop="20250807120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250807120000 +0000" stop="20250807130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20250807130000 +0000" stop="20250807140000 +0000" channel="Vision Prime HD.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20250807133000 +0000" stop="20250807140000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20250807140000 +0000" stop="20250807143000 +0000" channel="Vision Prime HD.mncvision">
     <title>My Comic Boyfriend</title>
 </programme>
-<programme start="20250807140000 +0000" stop="20250807143000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20250807143000 +0000" stop="20250807150000 +0000" channel="Vision Prime HD.mncvision">
     <title>Katanya</title>
 </programme>
-<programme start="20250807143000 +0000" stop="20250807150000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20250807150000 +0000" stop="20250807153000 +0000" channel="Vision Prime HD.mncvision">
     <title>Laal Kaptaan</title>
 </programme>

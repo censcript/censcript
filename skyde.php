@@ -2770,17 +2770,17 @@
 <programme start="20250806224000 +0000" stop="20250806230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250806230000 +0000" stop="20250807010000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250806230000 +0000" stop="20250807021500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20250807010000 +0000" stop="20250807080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: HF2, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
+<programme start="20250807021500 +0000" stop="20250807080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
 <programme start="20250807204000 +0000" stop="20250807210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
 <programme start="20250807210000 +0000" stop="20250807233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, National Bank Open Presented By Rogers in Toronto (CAN), Doppelfinale</title>
+    <title>Live ATP 1000: J. Salisbury (GBR) / N. Skupski (GBR) - J. Cash (GBR) / L. Glasspool (GBR), National Bank Open Presented By Rogers in Toronto (CAN), Doppelfinale</title>
 </programme>
 <programme start="20250807144000 +0000" stop="20250807150000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
@@ -3371,7 +3371,7 @@
     <title>PL: Ipswich Town - Manchester City, 22. Spieltag</title>
 </programme>
 <programme start="20250807000000 +0000" stop="20250807080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: HF2, National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 2</title>
+    <title>Live WTA 1000: N. Osaka (JPN) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 2</title>
 </programme>
 <programme start="20250807213000 +0000" stop="20250807215000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
@@ -3787,10 +3787,10 @@
 <programme start="20250807042000 +0000" stop="20250807064500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
-<programme start="20250807064500 +0000" stop="20250807085000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250807064500 +0000" stop="20250807084500 +0000" channel="Warner TV Film.skyde">
     <title>Batmans Rückkehr</title>
 </programme>
-<programme start="20250807085000 +0000" stop="20250807103000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250807084500 +0000" stop="20250807103000 +0000" channel="Warner TV Film.skyde">
     <title>Haben und Nichthaben</title>
 </programme>
 <programme start="20250807103000 +0000" stop="20250807120500 +0000" channel="Warner TV Film.skyde">
@@ -3826,10 +3826,10 @@
 <programme start="20250807042000 +0000" stop="20250807064500 +0000" channel="Warner TV Film HD.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
-<programme start="20250807064500 +0000" stop="20250807085000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250807064500 +0000" stop="20250807084500 +0000" channel="Warner TV Film HD.skyde">
     <title>Batmans Rückkehr</title>
 </programme>
-<programme start="20250807085000 +0000" stop="20250807103000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250807084500 +0000" stop="20250807103000 +0000" channel="Warner TV Film HD.skyde">
     <title>Haben und Nichthaben</title>
 </programme>
 <programme start="20250807103000 +0000" stop="20250807120500 +0000" channel="Warner TV Film HD.skyde">
