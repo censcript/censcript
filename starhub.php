@@ -4121,7 +4121,7 @@
         <title>RAMEN JAPAN 5min.</title>
     </programme>
     <programme start="20250807010500 +0000" stop="20250807021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up 80 Years After the War Special &quot;Hope for Tomorrow as Told Throu</title>
+        <title>Today&#039;s Close-up 80 Years After the War Special&quot;Hope for Tomorrow as Told Throug</title>
     </programme>
     <programme start="20250807021700 +0000" stop="20250807022000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -4145,22 +4145,19 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20250807033000 +0000" stop="20250807034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Toto Nee-Chan: Fatherly Sister&quot; Encore Eps. 66</title>
+        <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 66</title>
     </programme>
     <programme start="20250807034500 +0000" stop="20250807040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 94 (R)</title>
     </programme>
-    <programme start="20250807040000 +0000" stop="20250807040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250807040000 +0000" stop="20250807041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250807040500 +0000" stop="20250807043500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250807041000 +0000" stop="20250807044000 +0000" channel="NHK World Premium HD.starhub">
         <title>Solo Trip to Hot Springs &quot;Shikaribetsukyo Onsen, Hokkaido&quot;</title>
     </programme>
-    <programme start="20250807043500 +0000" stop="20250807045000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250807044000 +0000" stop="20250807045500 +0000" channel="NHK World Premium HD.starhub">
         <title>100 Beautiful Mountains of Japan Mini</title>
-    </programme>
-    <programme start="20250807045000 +0000" stop="20250807045500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20250807045500 +0000" stop="20250807055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
