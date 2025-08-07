@@ -3286,11 +3286,8 @@
     <programme start="20250807203000 +0000" stop="20250807220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250807220000 +0000" stop="20250807222000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250807220000 +0000" stop="20250808003500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20250807222000 +0000" stop="20250808031500 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>TATA Indian Premier League 2025: M32 - Delhi Capitals vs Rajasthan Royals</title>
     </programme>
     <programme start="20250808031500 +0000" stop="20250808075000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M33 - Mumbai Indians vs Sunrisers Hyderabad</title>

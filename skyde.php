@@ -3274,10 +3274,10 @@
 <programme start="20250806230000 +0000" stop="20250807021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20250807021500 +0000" stop="20250807043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807021500 +0000" stop="20250807040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
-<programme start="20250807043000 +0000" stop="20250807053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807040000 +0000" stop="20250807053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 1</title>
 </programme>
 <programme start="20250807053000 +0000" stop="20250807073000 +0000" channel="Sky Sport Tennis HD.skyde">
