@@ -3289,16 +3289,16 @@
     <programme start="20250807220000 +0000" stop="20250808003500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250808031500 +0000" stop="20250808075000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250808003500 +0000" stop="20250808053000 +0000" channel="Hub Sports 4 HD.starhub">
+        <title>TATA Indian Premier League 2025: M32 - Delhi Capitals vs Rajasthan Royals</title>
+    </programme>
+    <programme start="20250808053000 +0000" stop="20250808100500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>TATA Indian Premier League 2025: M33 - Mumbai Indians vs Sunrisers Hyderabad</title>
     </programme>
-    <programme start="20250808075000 +0000" stop="20250808105000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Women 2025: M02 - MO vs SB</title>
-    </programme>
-    <programme start="20250808105000 +0000" stop="20250808135000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250808100500 +0000" stop="20250808134500 +0000" channel="Hub Sports 4 HD.starhub">
         <title>The Hundred Men 2025: M02 - MO vs SB</title>
     </programme>
-    <programme start="20250808135000 +0000" stop="20250808173000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20250808134500 +0000" stop="20250808173000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>The Hundred Women 2025: M04 - BP vs TR</title>
     </programme>
     <programme start="20250807160000 +0000" stop="20250807161500 +0000" channel="DW English HD.starhub">
