@@ -122,6 +122,14 @@
     <title>Football: Al Hilal - Al Khaleej</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250808130500 +0700" stop="20250808133500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808133500 +0700" stop="20250808140500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250807120000 +0700" stop="20250807140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atletico Mineiro - Atletico Bucaramanga</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +194,6 @@
     <title>Football: Port Vale - Cardiff City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807100000 +0700" stop="20250807121500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250807121500 +0700" stop="20250807141000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -244,6 +248,10 @@
 </programme>
 <programme start="20250808120000 +0700" stop="20250808135000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Vanoli Cremona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808135000 +0700" stop="20250808154500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Bahcesehir - Turk Telekom</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807100000 +0700" stop="20250807131000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +366,8 @@
     <title>ROC Race of Champions 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807103000 +0700" stop="20250807130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250808130500 +0700" stop="20250808162000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ROC Nations Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807130000 +0700" stop="20250807153000 +0700" channel="COSMOTE Sport 6 HD">
@@ -408,6 +416,10 @@
 </programme>
 <programme start="20250808123000 +0700" stop="20250808130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808130000 +0700" stop="20250808153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807120000 +0700" stop="20250807140000 +0700" channel="COSMOTE Sport 7 HD">

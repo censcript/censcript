@@ -3371,7 +3371,7 @@
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250807215000 +0000" stop="20250808080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: V. Mboko (CAN) - N. Osaka (JPN)  / C. Tauson (DNK), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
+    <title>Live WTA 1000: Finale, National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
 </programme>
 <programme start="20250807144000 +0000" stop="20250807150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
