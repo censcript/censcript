@@ -2773,7 +2773,7 @@
 <programme start="20250806230000 +0000" stop="20250807021500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20250807021500 +0000" stop="20250807080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250807021500 +0000" stop="20250807044500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
 <programme start="20250807204000 +0000" stop="20250807210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -3277,19 +3277,19 @@
 <programme start="20250807021500 +0000" stop="20250807043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
-<programme start="20250807043000 +0000" stop="20250807053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807043000 +0000" stop="20250807061000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20250807053000 +0000" stop="20250807073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807061000 +0000" stop="20250807081000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: N. Osaka (JPN) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 2</title>
 </programme>
-<programme start="20250807073000 +0000" stop="20250807080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807081000 +0000" stop="20250807084000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250807080000 +0000" stop="20250807100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807084000 +0000" stop="20250807104000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20250807100000 +0000" stop="20250807120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250807104000 +0000" stop="20250807120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
 <programme start="20250807120000 +0000" stop="20250807123000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3307,19 +3307,19 @@
 <programme start="20250806230000 +0000" stop="20250807021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
-<programme start="20250807021500 +0000" stop="20250807043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807021500 +0000" stop="20250807041000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
-<programme start="20250807043000 +0000" stop="20250807050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807041000 +0000" stop="20250807043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: The Cut</title>
 </programme>
-<programme start="20250807050000 +0000" stop="20250807053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807043000 +0000" stop="20250807050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
-<programme start="20250807053000 +0000" stop="20250807060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807050000 +0000" stop="20250807053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250807060000 +0000" stop="20250807073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807053000 +0000" stop="20250807073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - V. Mboko (CAN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 1</title>
 </programme>
 <programme start="20250807073000 +0000" stop="20250807093000 +0000" channel="Sky Sport Top Event HD.skyde">

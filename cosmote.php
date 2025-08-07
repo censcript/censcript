@@ -54,6 +54,10 @@
     <title>Football: Panathinaikos - FC Shakhtar Donetsk</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250808175500 +0700" stop="20250808200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Aris Limassol - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250807154500 +0700" stop="20250807175500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +190,6 @@
     <title>Football: FC Porto - Nacional</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807141000 +0700" stop="20250807160500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Bahcesehir</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250807160500 +0700" stop="20250807180500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Andorra</title>
     <desc>Live: Tidak</desc>
@@ -246,8 +246,8 @@
     <title>Basketball: Badalona - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807154500 +0700" stop="20250807162500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP: There Can Be Only One S3 E1</title>
+<programme start="20250808174000 +0700" stop="20250808180500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807162500 +0700" stop="20250807170500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,8 +342,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250807153000 +0700" stop="20250807161000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250808172500 +0700" stop="20250808175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808175500 +0700" stop="20250808185500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807161000 +0700" stop="20250807193000 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,6 +404,10 @@
 </programme>
 <programme start="20250808160000 +0700" stop="20250808170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250808170000 +0700" stop="20250808193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Joe Salisbury/Neal Skupski - Julian Cash/Lloyd Glasspool</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250807160000 +0700" stop="20250807180000 +0700" channel="COSMOTE Sport 7 HD">
