@@ -2774,7 +2774,7 @@
     <title>Live ATP 1000: A. Zverev (GER) - K. Khachanov, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 1</title>
 </programme>
 <programme start="20250807010000 +0000" stop="20250807080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: B. Shelton (USA) - T. Fritz (USA), National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, National Bank Open Presented By Rogers in Toronto (CAN), Halbfinale 2</title>
 </programme>
 <programme start="20250807204000 +0000" stop="20250807210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>

@@ -4885,35 +4885,29 @@
     <programme start="20250807150000 +0000" stop="20250807160000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Tech</title>
     </programme>
-    <programme start="20250806140000 +0000" stop="20250806163000 +0000" channel="Zee Cinema.starhub">
-        <title>Time Story</title>
+    <programme start="20250806160000 +0000" stop="20250806190000 +0000" channel="Zee Cinema.starhub">
+        <title>Genius</title>
     </programme>
-    <programme start="20250806163000 +0000" stop="20250806170000 +0000" channel="Zee Cinema.starhub">
-        <title>Starry Nights S01</title>
+    <programme start="20250806190000 +0000" stop="20250806220000 +0000" channel="Zee Cinema.starhub">
+        <title>Manmarziyaan</title>
     </programme>
-    <programme start="20250806170000 +0000" stop="20250806200000 +0000" channel="Zee Cinema.starhub">
-        <title>Gully Boy</title>
+    <programme start="20250806220000 +0000" stop="20250807010000 +0000" channel="Zee Cinema.starhub">
+        <title>Half Girlfriend</title>
     </programme>
-    <programme start="20250806200000 +0000" stop="20250806230000 +0000" channel="Zee Cinema.starhub">
-        <title>Khalnayak</title>
+    <programme start="20250807010000 +0000" stop="20250807040000 +0000" channel="Zee Cinema.starhub">
+        <title>Happy Sardar</title>
     </programme>
-    <programme start="20250806230000 +0000" stop="20250807020000 +0000" channel="Zee Cinema.starhub">
-        <title>Dastak</title>
+    <programme start="20250807040000 +0000" stop="20250807070000 +0000" channel="Zee Cinema.starhub">
+        <title>The Tashkent Files</title>
     </programme>
-    <programme start="20250807020000 +0000" stop="20250807050000 +0000" channel="Zee Cinema.starhub">
-        <title>Time Story</title>
+    <programme start="20250807070000 +0000" stop="20250807100000 +0000" channel="Zee Cinema.starhub">
+        <title>Aravind Sametha</title>
     </programme>
-    <programme start="20250807050000 +0000" stop="20250807080000 +0000" channel="Zee Cinema.starhub">
-        <title>23rd March 1931 - Shaheed</title>
+    <programme start="20250807100000 +0000" stop="20250807130000 +0000" channel="Zee Cinema.starhub">
+        <title>Naam Shabana</title>
     </programme>
-    <programme start="20250807080000 +0000" stop="20250807110000 +0000" channel="Zee Cinema.starhub">
-        <title>Heartless</title>
-    </programme>
-    <programme start="20250807110000 +0000" stop="20250807140000 +0000" channel="Zee Cinema.starhub">
-        <title>Gully Boy</title>
-    </programme>
-    <programme start="20250807140000 +0000" stop="20250807163000 +0000" channel="Zee Cinema.starhub">
-        <title>Kismat Konnection</title>
+    <programme start="20250807130000 +0000" stop="20250807160000 +0000" channel="Zee Cinema.starhub">
+        <title>Dabangg</title>
     </programme>
     <programme start="20250806155000 +0000" stop="20250806164000 +0000" channel="Citra Entertainment.starhub">
         <title>BARAKALLAH 2023</title>
@@ -7201,32 +7195,23 @@
     <programme start="20250806220000 +0000" stop="20250806235000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2024/25: Villarreal vs Osasuna</title>
     </programme>
-    <programme start="20250806235000 +0000" stop="20250807014000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250806235000 +0000" stop="20250807013500 +0000" channel="beIN Sports HD.starhub">
         <title>Total U-20 Africa Cup of Nations, Egypt 2025: Tanzania vs Sierra Leone - Group S</title>
     </programme>
-    <programme start="20250807014000 +0000" stop="20250807033000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250807013500 +0000" stop="20250807032000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Conference League 2024/25: LASK vs Cercle Brugge - MD3</title>
     </programme>
-    <programme start="20250807033000 +0000" stop="20250807040000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250807032000 +0000" stop="20250807035000 +0000" channel="beIN Sports HD.starhub">
         <title>Budapest, Hungary</title>
     </programme>
-    <programme start="20250807040000 +0000" stop="20250807060500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250807035000 +0000" stop="20250807055500 +0000" channel="beIN Sports HD.starhub">
         <title>Formula 1 Main Race 2025: FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025</title>
     </programme>
-    <programme start="20250807060500 +0000" stop="20250807075000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250807055500 +0000" stop="20250807074000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2024/25: Atletico Madrid vs Rayo Vallecano</title>
     </programme>
-    <programme start="20250807075000 +0000" stop="20250807080000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga Club Classic Archive: Barcelona vs Real Madrid - 2022/23</title>
-    </programme>
-    <programme start="20250807080000 +0000" stop="20250807103000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250807074000 +0000" stop="20250807120000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2024/25: Liverpool vs Athletic Bilbao - Friendly</title>
-    </programme>
-    <programme start="20250807103000 +0000" stop="20250807110000 +0000" channel="beIN Sports HD.starhub">
-        <title>LFC Trending 2024/25</title>
-    </programme>
-    <programme start="20250807110000 +0000" stop="20250807120000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rally Finland</title>
     </programme>
     <programme start="20250807120000 +0000" stop="20250807123000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>
@@ -8312,22 +8297,22 @@
         <title>Pipinchuvattile Pranayam</title>
     </programme>
     <programme start="20250806233000 +0000" stop="20250807013000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Maharaja Talkies</title>
     </programme>
-    <programme start="20250807013000 +0000" stop="20250807043000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20250807013000 +0000" stop="20250807043500 +0000" channel="Asianet Movies.starhub">
+        <title>Srungaravelan</title>
     </programme>
-    <programme start="20250807043000 +0000" stop="20250807073000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20250807043500 +0000" stop="20250807074000 +0000" channel="Asianet Movies.starhub">
+        <title>Itti Mani made in China</title>
     </programme>
-    <programme start="20250807073000 +0000" stop="20250807103000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20250807074000 +0000" stop="20250807104500 +0000" channel="Asianet Movies.starhub">
+        <title>Bhramam</title>
     </programme>
-    <programme start="20250807103000 +0000" stop="20250807133000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20250807104500 +0000" stop="20250807133000 +0000" channel="Asianet Movies.starhub">
+        <title>Android Kunjappan V:5.25</title>
     </programme>
     <programme start="20250807133000 +0000" stop="20250807163000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Neymar</title>
     </programme>
     <programme start="20250806160000 +0000" stop="20250806163000 +0000" channel="Astro Warna HD.starhub">
         <title>Opah Popular</title>
