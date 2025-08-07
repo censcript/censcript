@@ -62,8 +62,8 @@
     <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808020000 +0700" stop="20250808040500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Aris Limassol - AEK</title>
+<programme start="20250809051000 +0700" stop="20250809060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808040500 +0700" stop="20250808060000 +0700" channel="COSMOTE Sport 2 HD">
@@ -132,6 +132,14 @@
 </programme>
 <programme start="20250809045500 +0700" stop="20250809052500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809052500 +0700" stop="20250809055500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809055500 +0700" stop="20250809080000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Fateh - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808040000 +0700" stop="20250808060000 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +266,6 @@
     <title>Basketball: Brescia - Scafati</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808035500 +0700" stop="20250808043000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250808043000 +0700" stop="20250808053000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
@@ -346,6 +350,10 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250809052500 +0700" stop="20250809063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250808040000 +0700" stop="20250808063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Joe Salisbury/Neal Skupski - Julian Cash/Lloyd Glasspool (L)</title>
     <desc>Live: Ya</desc>
@@ -393,14 +401,6 @@
 <programme start="20250809020000 +0700" stop="20250809060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250808040000 +0700" stop="20250808043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250808043000 +0700" stop="20250808050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808050000 +0700" stop="20250808080000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
@@ -457,6 +457,10 @@
 <programme start="20250809043000 +0700" stop="20250809050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809050000 +0700" stop="20250809080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250808020000 +0700" stop="20250808060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
