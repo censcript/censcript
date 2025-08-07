@@ -280,22 +280,19 @@
 <programme start="20250807150000 +0000" stop="20250807160000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
-<programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="iNews.vision">
-<title>iNews Sport (L)</title>
-</programme>
-<programme start="20250807163000 +0000" stop="20250807180000 +0000" channel="iNews.vision">
+<programme start="20250807160000 +0000" stop="20250807173000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250807180000 +0000" stop="20250807193000 +0000" channel="iNews.vision">
+<programme start="20250807173000 +0000" stop="20250807190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250807193000 +0000" stop="20250807200000 +0000" channel="iNews.vision">
+<programme start="20250807190000 +0000" stop="20250807194500 +0000" channel="iNews.vision">
 <title>Air Mata Surga</title>
 </programme>
-<programme start="20250807200000 +0000" stop="20250807203000 +0000" channel="iNews.vision">
+<programme start="20250807194500 +0000" stop="20250807201500 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
 </programme>
-<programme start="20250807203000 +0000" stop="20250807210000 +0000" channel="iNews.vision">
+<programme start="20250807201500 +0000" stop="20250807210000 +0000" channel="iNews.vision">
 <title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250807210000 +0000" stop="20250807211500 +0000" channel="iNews.vision">
@@ -664,8 +661,14 @@
 <programme start="20250808114500 +0000" stop="20250808121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250806230000 +0000" stop="20250807010000 +0000" channel="ANTV.vision">
+<title>Pertarungan</title>
+</programme>
 <programme start="20250807010000 +0000" stop="20250807023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
+</programme>
+<programme start="20250807023000 +0000" stop="20250807060000 +0000" channel="ANTV.vision">
+<title>Players</title>
 </programme>
 <programme start="20250807060000 +0000" stop="20250807083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1420,11 +1423,8 @@
 <programme start="20250807063000 +0000" stop="20250807070000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
 </programme>
-<programme start="20250807070000 +0000" stop="20250807080000 +0000" channel="BTV.vision">
+<programme start="20250807070000 +0000" stop="20250807090000 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
-</programme>
-<programme start="20250807080000 +0000" stop="20250807090000 +0000" channel="BTV.vision">
-<title>Ketulusan Hati</title>
 </programme>
 <programme start="20250807090000 +0000" stop="20250807100000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
