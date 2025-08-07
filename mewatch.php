@@ -1039,16 +1039,16 @@
     <programme start="20250807160000 +0000" stop="20250808123000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 8th August, Friday 8.30pm. ONE Friday Fights 119</title>
     </programme>
-    <programme start="20250806160000 +0000" stop="20250807093000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 7th August, Thursday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250806160000 +0000" stop="20250807090500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th August, Thursday 5.05pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250807093000 +0000" stop="20250807113000 +0000" channel="Live 5.mewatch">
+    <programme start="20250807090500 +0000" stop="20250807113000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Myanmar vs Australia</title>
     </programme>
-    <programme start="20250807113000 +0000" stop="20250807123000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 7th August, Thursday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250807113000 +0000" stop="20250807120400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th August, Thursday 8.04pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250807123000 +0000" stop="20250807143000 +0000" channel="Live 5.mewatch">
+    <programme start="20250807120400 +0000" stop="20250807143000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Philippines vs Timor-Leste</title>
     </programme>
     <programme start="20250807143000 +0000" stop="20250807160000 +0000" channel="Live 5.mewatch">
