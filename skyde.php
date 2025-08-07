@@ -3364,19 +3364,19 @@
 <programme start="20250807200000 +0000" stop="20250807220000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Ipswich Town - Manchester City, 22. Spieltag</title>
 </programme>
-<programme start="20250807000000 +0000" stop="20250807080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250807010000 +0000" stop="20250807032500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: N. Osaka (JPN) - C. Tauson (DEN), National Bank Open Presented By Rogers in Montreal (CAN), Halbfinale 2</title>
 </programme>
 <programme start="20250807213000 +0000" stop="20250807215000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250807215000 +0000" stop="20250808003000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: Finale, National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
+<programme start="20250807215000 +0000" stop="20250808080000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
 </programme>
 <programme start="20250807144000 +0000" stop="20250807150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250807150000 +0000" stop="20250808030000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250807150000 +0000" stop="20250808080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 1. Tag</title>
 </programme>
 <programme start="20250806221500 +0000" stop="20250806230000 +0000" channel="SYFY HD.skyde">
