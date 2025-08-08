@@ -311,7 +311,7 @@
         <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20250807183000 +0000" stop="20250807190000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
+        <title>Jamai No.1</title>
     </programme>
     <programme start="20250807190000 +0000" stop="20250807193000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
@@ -324,6 +324,9 @@
     </programme>
     <programme start="20250807203000 +0000" stop="20250807210000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>
+    </programme>
+    <programme start="20250807210000 +0000" stop="20250807213000 +0000" channel="Zee TV.starhub">
+        <title>Saru</title>
     </programme>
     <programme start="20250807213000 +0000" stop="20250807220000 +0000" channel="Zee TV.starhub">
         <title>Tum Se Tum Tak</title>

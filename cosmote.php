@@ -1,7 +1,3 @@
-<programme start="20250808200000 +0700" stop="20250808210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2024-25</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250808210000 +0700" stop="20250808230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Al Taawon - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
@@ -69,10 +65,6 @@
 <programme start="20250809203000 +0700" stop="20250809223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Union Berlin - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250808182000 +0700" stop="20250808202500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Hilal - Al Khaleej</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808202500 +0700" stop="20250808223500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al-Riyadh</title>
@@ -150,6 +142,10 @@
     <title>Serie A Full Impact 2024-25 E38</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250809210000 +0700" stop="20250809230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Fateh - Al Ittihad</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250808200000 +0700" stop="20250808220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Port Vale - Cardiff City</title>
     <desc>Live: Tidak</desc>
@@ -206,9 +202,9 @@
     <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808180500 +0700" stop="20250808200500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Brescia - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250809210000 +0700" stop="20250809230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Stoke City - Derby County (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250808200500 +0700" stop="20250808215500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Brescia - Scafati</title>
@@ -260,10 +256,6 @@
 </programme>
 <programme start="20250809202500 +0700" stop="20250809221000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Varese</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250808195500 +0700" stop="20250808205500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808205500 +0700" stop="20250808220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +348,10 @@
 </programme>
 <programme start="20250809200500 +0700" stop="20250809212500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809212500 +0700" stop="20250809224500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808193000 +0700" stop="20250808220000 +0700" channel="COSMOTE Sport 6 HD">
