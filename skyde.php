@@ -2725,7 +2725,7 @@
 <programme start="20250808210000 +0000" stop="20250808230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - FC Blau-Weiß Linz, 1. Runde</title>
 </programme>
-<programme start="20250807233000 +0000" stop="20250808041500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250807233000 +0000" stop="20250808080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
 </programme>
 <programme start="20250808144000 +0000" stop="20250808150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
