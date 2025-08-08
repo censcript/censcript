@@ -9718,6 +9718,15 @@
     <programme start="20250808150000 +0000" stop="20250808160000 +0000" channel="TestChannel 993.starhub">
         <title>Discover New Taiwan Step By Step</title>
     </programme>
+    <programme start="20250807220000 +0000" stop="20250808040000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250808040000 +0000" stop="20250808100000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
+    <programme start="20250808100000 +0000" stop="20250808160000 +0000" channel="Cricbuzz 2.starhub">
+        <title>No Transmission</title>
+    </programme>
     <programme start="20250807153100 +0000" stop="20250807160500 +0000" channel="Cricbuzz.starhub">
         <title>Highlights: PAK ODI Tri-Series, 2025 M1: PAK vs NZ</title>
     </programme>

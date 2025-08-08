@@ -391,19 +391,19 @@
 <programme start="20250807223000 +0000" stop="20250807230000 +0000" channel="ANTV.mncvision">
     <title>Senyum Iman</title>
 </programme>
-<programme start="20250807230000 +0000" stop="20250808010000 +0000" channel="ANTV.mncvision">
+<programme start="20250807230000 +0000" stop="20250808003000 +0000" channel="ANTV.mncvision">
     <title>Turangga</title>
 </programme>
-<programme start="20250808010000 +0000" stop="20250808023000 +0000" channel="ANTV.mncvision">
+<programme start="20250808003000 +0000" stop="20250808020000 +0000" channel="ANTV.mncvision">
     <title>Catatan Hati</title>
 </programme>
-<programme start="20250808023000 +0000" stop="20250808060000 +0000" channel="ANTV.mncvision">
+<programme start="20250808020000 +0000" stop="20250808053000 +0000" channel="ANTV.mncvision">
     <title>Antim: The Final Truth</title>
 </programme>
-<programme start="20250808060000 +0000" stop="20250808083000 +0000" channel="ANTV.mncvision">
+<programme start="20250808053000 +0000" stop="20250808080000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250808083000 +0000" stop="20250808110000 +0000" channel="ANTV.mncvision">
+<programme start="20250808080000 +0000" stop="20250808110000 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
 <programme start="20250808110000 +0000" stop="20250808130000 +0000" channel="ANTV.mncvision">
@@ -7987,20 +7987,20 @@
 <programme start="20250807230000 +0000" stop="20250808010000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Asian Qual.: PLE Vs IRQ</title>
 </programme>
-<programme start="20250808010000 +0000" stop="20250808013000 +0000" channel="Soccer Channel.mncvision">
-    <title>Extra Time</title>
+<programme start="20250808010000 +0000" stop="20250808030000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2024/25: SCF Vs LEV</title>
 </programme>
-<programme start="20250808013000 +0000" stop="20250808020000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20250808030000 +0000" stop="20250808033000 +0000" channel="Soccer Channel.mncvision">
     <title>The Ultimate Goals</title>
 </programme>
-<programme start="20250808020000 +0000" stop="20250808023000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20250808033000 +0000" stop="20250808040000 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
 </programme>
-<programme start="20250808023000 +0000" stop="20250808043000 +0000" channel="Soccer Channel.mncvision">
-    <title>Liga Futsal Nusantara (L)</title>
-</programme>
-<programme start="20250808043000 +0000" stop="20250808063000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20250808040000 +0000" stop="20250808060000 +0000" channel="Soccer Channel.mncvision">
     <title>Liga Futsal Nusantara</title>
+</programme>
+<programme start="20250808060000 +0000" stop="20250808063000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
 </programme>
 <programme start="20250808063000 +0000" stop="20250808083000 +0000" channel="Soccer Channel.mncvision">
     <title>Liga Futsal Nusantara (L)</title>
@@ -8044,20 +8044,20 @@
 <programme start="20250807230000 +0000" stop="20250808010000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Qual.: PLE Vs IRQ</title>
 </programme>
-<programme start="20250808010000 +0000" stop="20250808013000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Extra Time</title>
+<programme start="20250808010000 +0000" stop="20250808030000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2024/25: SCF Vs LEV</title>
 </programme>
-<programme start="20250808013000 +0000" stop="20250808020000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20250808030000 +0000" stop="20250808033000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>
 </programme>
-<programme start="20250808020000 +0000" stop="20250808023000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20250808033000 +0000" stop="20250808040000 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic Soccer</title>
 </programme>
-<programme start="20250808023000 +0000" stop="20250808043000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Liga Futsal Nusantara (L)</title>
-</programme>
-<programme start="20250808043000 +0000" stop="20250808063000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20250808040000 +0000" stop="20250808060000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Liga Futsal Nusantara</title>
+</programme>
+<programme start="20250808060000 +0000" stop="20250808063000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
 </programme>
 <programme start="20250808063000 +0000" stop="20250808083000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Liga Futsal Nusantara (L)</title>
