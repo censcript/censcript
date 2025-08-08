@@ -1,7 +1,3 @@
-<programme start="20250809014500 +0700" stop="20250809021500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E35</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250809021500 +0700" stop="20250809041500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Casa Pia - Sporting CP (L)</title>
     <desc>Live: Ya</desc>
@@ -61,10 +57,6 @@
 <programme start="20250810023000 +0700" stop="20250810043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Arouca - AVS Futebol (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250809010000 +0700" stop="20250809030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Taawon - Olympiacos</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250809030000 +0700" stop="20250809045500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al-Qadsiah - Al Nassr</title>
@@ -140,6 +132,10 @@
 </programme>
 <programme start="20250810013000 +0700" stop="20250810033500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Union Berlin - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250810033500 +0700" stop="20250810053500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ittihad - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250809020000 +0700" stop="20250809040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -352,6 +348,14 @@
 </programme>
 <programme start="20250810023500 +0700" stop="20250810031500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP: There Can Be Only One S3 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250810031500 +0700" stop="20250810035500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: There Can Be Only One S3 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250810035500 +0700" stop="20250810042500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP: There Can Be Only One S3 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250809020000 +0700" stop="20250809060000 +0700" channel="COSMOTE Sport 6 HD">
