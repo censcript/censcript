@@ -6338,7 +6338,7 @@
     <title>Rahmatan Lil &#039;Alamin</title>
 </programme>
 <programme start="20250808164500 +0000" stop="20250807171500 +0000" channel="Muslim TV.mncvision">
-    <title>Jejak Kebesaran-Mu</title>
+    <title>Jejak Kebesaran-Mu 2</title>
 </programme>
 <programme start="20250807170000 +0000" stop="20250807173000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>

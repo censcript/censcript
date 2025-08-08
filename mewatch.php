@@ -583,6 +583,12 @@
     <programme start="20250808160000 +0000" stop="20250808160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20250807160000 +0000" stop="20250808160000 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 16th August, Saturday 7.50pm. Singapore Premier League 2025/2026</title>
+    </programme>
+    <programme start="20250808160000 +0000" stop="20250809160000 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 16th August, Saturday 7.50pm. Singapore Premier League 2025/2026</title>
+    </programme>
     <programme start="20250807140000 +0000" stop="20250807165000 +0000" channel="now-80s.mewatch">
         <title>The Now Yearbook 1984 - EP1</title>
     </programme>

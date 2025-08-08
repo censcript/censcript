@@ -2725,7 +2725,7 @@
 <programme start="20250808210000 +0000" stop="20250808230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - FC Blau-Weiß Linz, 1. Runde</title>
 </programme>
-<programme start="20250807233000 +0000" stop="20250808080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250807233000 +0000" stop="20250808041500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
 </programme>
 <programme start="20250808144000 +0000" stop="20250808150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -3178,14 +3178,11 @@
 <programme start="20250808150000 +0000" stop="20250809030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
-<programme start="20250807233000 +0000" stop="20250808020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807233000 +0000" stop="20250808030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
 </programme>
-<programme start="20250808020000 +0000" stop="20250808043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250808030000 +0000" stop="20250808043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
-</programme>
-<programme start="20250808043000 +0000" stop="20250808053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 1. Spieltag komplett</title>
 </programme>
 <programme start="20250808053000 +0000" stop="20250808063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Kompakt: 1. Spieltag</title>
