@@ -553,8 +553,8 @@
 <programme start="20250808050000 +0000" stop="20250808054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250808063000 +0000" stop="20250808071500 +0000" channel="Trans 7.vision">
-<title>Kepo</title>
+<programme start="20250808054500 +0000" stop="20250808063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang</title>
 </programme>
 <programme start="20250808071500 +0000" stop="20250808081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
