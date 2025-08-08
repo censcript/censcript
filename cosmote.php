@@ -66,10 +66,6 @@
     <title>Football: Rangers FC - Athletic Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808140500 +0700" stop="20250808161500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Nassr - Al-Riyadh</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250808161500 +0700" stop="20250808182000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -258,10 +254,6 @@
     <title>Basketball: Manresa - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808130500 +0700" stop="20250808162000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ROC Nations Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250808162000 +0700" stop="20250808172500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -364,10 +356,6 @@
 </programme>
 <programme start="20250809165500 +0700" stop="20250809183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250808160000 +0700" stop="20250808170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808170000 +0700" stop="20250808193000 +0700" channel="COSMOTE Sport 6 HD">

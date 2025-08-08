@@ -4096,50 +4096,17 @@
     <programme start="20250807230000 +0000" stop="20250807231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 95</title>
     </programme>
-    <programme start="20250807231500 +0000" stop="20250808004500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Wildlife Photographer Iwago Mitsuaki&#039;s World &quot;Cats&quot; Travelogue Special: Yamanash</title>
+    <programme start="20250807231500 +0000" stop="20250808021000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Breaking News</title>
     </programme>
-    <programme start="20250808004500 +0000" stop="20250808005000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Camera-eyed Japan</title>
-    </programme>
-    <programme start="20250808005000 +0000" stop="20250808005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20250808005400 +0000" stop="20250808005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250808005500 +0000" stop="20250808010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20250808010000 +0000" stop="20250808010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>RAMEN JAPAN 5min.</title>
-    </programme>
-    <programme start="20250808010500 +0000" stop="20250808015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Saturday Drama &quot;I Would Rather Die Alone&quot; Eps. 6 (Final) (R)</title>
-    </programme>
-    <programme start="20250808015000 +0000" stop="20250808015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Natural Grandeur of the East Mini</title>
-    </programme>
-    <programme start="20250808015500 +0000" stop="20250808022300 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250808021000 +0000" stop="20250808023700 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals &quot;Scary Creatures&quot; (R)</title>
     </programme>
-    <programme start="20250808022300 +0000" stop="20250808024600 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250808023700 +0000" stop="20250808030000 +0000" channel="NHK World Premium HD.starhub">
         <title>Delicious Japan!</title>
     </programme>
-    <programme start="20250808024600 +0000" stop="20250808025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20250808025000 +0000" stop="20250808025600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
-    </programme>
-    <programme start="20250808025600 +0000" stop="20250808030000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250808030000 +0000" stop="20250808032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250808030000 +0000" stop="20250808033000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20250808032000 +0000" stop="20250808033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Local Exquisite Omusubi</title>
     </programme>
     <programme start="20250808033000 +0000" stop="20250808034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 67</title>
@@ -4147,13 +4114,13 @@
     <programme start="20250808034500 +0000" stop="20250808040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 95 (R)</title>
     </programme>
-    <programme start="20250808040000 +0000" stop="20250808040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250808040000 +0000" stop="20250808041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250808040500 +0000" stop="20250808045500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250808041000 +0000" stop="20250808050000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK Special &quot;Unfinished Stories&quot; Prime Ministers’ Wives: Witnesses to Power (R)</title>
     </programme>
-    <programme start="20250808045500 +0000" stop="20250808055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250808050000 +0000" stop="20250808055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250808055000 +0000" stop="20250808055500 +0000" channel="NHK World Premium HD.starhub">
@@ -4181,7 +4148,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20250808081000 +0000" stop="20250808082000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Blue &amp; Yellow 10min</title>
+        <title>Local Exquisite Omusubi</title>
     </programme>
     <programme start="20250808082000 +0000" stop="20250808083500 +0000" channel="NHK World Premium HD.starhub">
         <title>Peek-a-boo</title>
@@ -7409,7 +7376,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250808023000 +0000" stop="20250808030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Timeless Horizons of Setonaikai</title>
     </programme>
     <programme start="20250808030000 +0000" stop="20250808033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7439,7 +7406,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250808073000 +0000" stop="20250808080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Timeless Horizons of Setonaikai</title>
     </programme>
     <programme start="20250808080000 +0000" stop="20250808083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7484,7 +7451,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250808133000 +0000" stop="20250808140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Timeless Horizons of Setonaikai</title>
     </programme>
     <programme start="20250808140000 +0000" stop="20250808143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -8476,7 +8443,7 @@
     <programme start="20250808151300 +0000" stop="20250808153800 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250808153800 +0000" stop="20250808170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250808153800 +0000" stop="20250808170100 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>
     </programme>
     <programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="Travelxp HD.starhub">
