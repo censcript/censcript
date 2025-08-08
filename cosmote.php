@@ -1,7 +1,3 @@
-<programme start="20250808105500 +0700" stop="20250808125500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Barcelona - SL Benfica</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250808125500 +0700" stop="20250808155000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Liverpool FC - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
@@ -138,12 +134,12 @@
     <title>Football: Al-Qadsiah - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808102500 +0700" stop="20250808122500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Falkirk - Dundee United</title>
+<programme start="20250809130000 +0700" stop="20250809133000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808122500 +0700" stop="20250808125000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20250809133000 +0700" stop="20250809140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808125000 +0700" stop="20250808145000 +0700" channel="COSMOTE Sport 3 HD">
@@ -350,12 +346,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808100000 +0700" stop="20250808123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Joe Salisbury/Neal Skupski - Julian Cash/Lloyd Glasspool</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250808123000 +0700" stop="20250808130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250809130500 +0700" stop="20250809140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808130000 +0700" stop="20250808153000 +0700" channel="COSMOTE Sport 6 HD">

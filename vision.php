@@ -544,14 +544,14 @@
 <programme start="20250808023000 +0000" stop="20250808033000 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
+<programme start="20250808033000 +0000" stop="20250808041500 +0000" channel="Trans 7.vision">
+<title>Update Kehidupan</title>
+</programme>
 <programme start="20250808041500 +0000" stop="20250808050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
 <programme start="20250808050000 +0000" stop="20250808054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
-</programme>
-<programme start="20250808054500 +0000" stop="20250808063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang</title>
 </programme>
 <programme start="20250808063000 +0000" stop="20250808071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
