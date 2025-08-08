@@ -6446,7 +6446,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20250808073000 +0000" stop="20250808080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Timeless Horizons Of Setonaikai</title>
 </programme>
 <programme start="20250808080000 +0000" stop="20250808083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>

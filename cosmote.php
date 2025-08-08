@@ -66,10 +66,6 @@
     <title>Football: Aris Limassol - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808133500 +0700" stop="20250808140500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Temples of Sport</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250808140500 +0700" stop="20250808161500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
@@ -140,10 +136,6 @@
 </programme>
 <programme start="20250809140000 +0700" stop="20250809160500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Sparta Rotterdam</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250808125000 +0700" stop="20250808145000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Port Vale - Cardiff City</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808145000 +0700" stop="20250808154500 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,6 +250,10 @@
     <title>Basketball: Fenerbahce - Karsiyaka</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250809155500 +0700" stop="20250809181000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Manresa - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250808130500 +0700" stop="20250808162000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ROC Nations Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -352,6 +348,14 @@
 </programme>
 <programme start="20250809140000 +0700" stop="20250809150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809150500 +0700" stop="20250809153500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809153500 +0700" stop="20250809165500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808130000 +0700" stop="20250808153000 +0700" channel="COSMOTE Sport 6 HD">
