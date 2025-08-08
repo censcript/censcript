@@ -1,7 +1,3 @@
-<programme start="20250808210000 +0700" stop="20250808230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Al Taawon - Olympiacos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250808230000 +0700" stop="20250808231500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Worldies E1</title>
     <desc>Live: Tidak</desc>
@@ -70,8 +66,8 @@
     <title>Highlights: UEL &amp; UECL 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250808202500 +0700" stop="20250808223500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Nassr - Al-Riyadh</title>
+<programme start="20250809233000 +0700" stop="20250810000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football Countdowns E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250808223500 +0700" stop="20250809004000 +0700" channel="COSMOTE Sport 2 HD">
@@ -150,6 +146,14 @@
     <title>Football: Al Fateh - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250809230000 +0700" stop="20250809233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809233000 +0700" stop="20250810013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sheffield United - Bristol City (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250808220000 +0700" stop="20250809000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Crystal Palace - Aston Villa</title>
     <desc>Live: Tidak</desc>
@@ -204,6 +208,14 @@
 </programme>
 <programme start="20250809210000 +0700" stop="20250809230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Derby County (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250809230000 +0700" stop="20250809234500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Football Countdowns E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250809234500 +0700" stop="20250810014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rangers FC - Dundee (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250808215500 +0700" stop="20250808234500 +0700" channel="COSMOTE Sport 4 HD">
