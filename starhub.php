@@ -8243,15 +8243,15 @@
         <title>Chess</title>
     </programme>
     <programme start="20250807190000 +0000" stop="20250807211500 +0000" channel="Asianet Movies.starhub">
-        <title>Meri Aawas Suno</title>
+        <title>Meri Awas Suno</title>
     </programme>
     <programme start="20250807211500 +0000" stop="20250807233000 +0000" channel="Asianet Movies.starhub">
         <title>Rosapoo</title>
     </programme>
-    <programme start="20250807233000 +0000" stop="20250808013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250807233000 +0000" stop="20250808014000 +0000" channel="Asianet Movies.starhub">
         <title>Jamna Pyari</title>
     </programme>
-    <programme start="20250808013000 +0000" stop="20250808043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250808014000 +0000" stop="20250808043000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Indian Pranayakadha</title>
     </programme>
     <programme start="20250808043000 +0000" stop="20250808073000 +0000" channel="Asianet Movies.starhub">
@@ -8263,7 +8263,7 @@
     <programme start="20250808100000 +0000" stop="20250808113000 +0000" channel="Asianet Movies.starhub">
         <title>Love</title>
     </programme>
-    <programme start="20250808113000 +0000" stop="20250808163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250808113000 +0000" stop="20250808162000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa 2: The Rule</title>
     </programme>
     <programme start="20250807160000 +0000" stop="20250807163000 +0000" channel="Astro Warna HD.starhub">
