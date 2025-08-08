@@ -3178,10 +3178,10 @@
 <programme start="20250808150000 +0000" stop="20250809030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
-<programme start="20250807233000 +0000" stop="20250808020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250807233000 +0000" stop="20250808030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
 </programme>
-<programme start="20250808020000 +0000" stop="20250808043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250808030000 +0000" stop="20250808043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
 </programme>
 <programme start="20250808043000 +0000" stop="20250808053000 +0000" channel="Sky Sport Top Event HD.skyde">
