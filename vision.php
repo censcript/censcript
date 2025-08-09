@@ -532,18 +532,6 @@
 <programme start="20250809010000 +0000" stop="20250809013000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20250809013000 +0000" stop="20250809023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250809023000 +0000" stop="20250809033000 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20250809033000 +0000" stop="20250809041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
-<programme start="20250809041500 +0000" stop="20250809050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
 <programme start="20250809050000 +0000" stop="20250809054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -648,12 +636,6 @@
 </programme>
 <programme start="20250810110000 +0000" stop="20250810120000 +0000" channel="Trans 7.vision">
 <title>Trans7</title>
-</programme>
-<programme start="20250808233000 +0000" stop="20250809013000 +0000" channel="ANTV.vision">
-<title>Duel Naga Wulung</title>
-</programme>
-<programme start="20250809013000 +0000" stop="20250809050000 +0000" channel="ANTV.vision">
-<title>Sangdil Sanam</title>
 </programme>
 <programme start="20250809050000 +0000" stop="20250809063000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250809173000 +0000" stop="20250809180000 +0000" channel="BTV.vision">
 <title>Film Pendek Indonesia</title>
+</programme>
+<programme start="20250809180000 +0000" stop="20250809180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20250809180300 +0000" stop="20250809190000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20250809190000 +0000" stop="20250809200000 +0000" channel="BTV.vision">
+<title>Dunia Alam</title>
+</programme>
+<programme start="20250809200000 +0000" stop="20250809210000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
+</programme>
+<programme start="20250809210000 +0000" stop="20250809213000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20250809213000 +0000" stop="20250809223000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
 </programme>

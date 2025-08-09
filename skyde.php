@@ -3083,10 +3083,10 @@
     <title>WTA 1000: Review Montreal</title>
 </programme>
 <programme start="20250809043000 +0000" stop="20250809063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 2. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - P. Kudermetova, Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
 <programme start="20250809063000 +0000" stop="20250809083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 2. Tag</title>
+    <title>ATP 1000: D. Altmaier (GER) - R. Bautista Agut (ESP), Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
 <programme start="20250809083000 +0000" stop="20250809093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
@@ -3095,19 +3095,16 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250809100000 +0000" stop="20250809120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 2. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - P. Kudermetova, Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
 <programme start="20250809120000 +0000" stop="20250809140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 2. Tag</title>
+    <title>ATP 1000: D. Altmaier (GER) - R. Bautista Agut (ESP), Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
 <programme start="20250809140000 +0000" stop="20250809150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250809150000 +0000" stop="20250810030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 3. Tag</title>
-</programme>
-<programme start="20250808220000 +0000" stop="20250809030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 2. Tag</title>
 </programme>
 <programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Toronto</title>
