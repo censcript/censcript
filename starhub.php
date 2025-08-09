@@ -2191,14 +2191,26 @@
     <programme start="20250808200000 +0000" stop="20250808220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250808220000 +0000" stop="20250809040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250808223000 +0000" stop="20250809010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kangalal Kaidhusei</title>
     </programme>
-    <programme start="20250809040000 +0000" stop="20250809100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250809010000 +0000" stop="20250809013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250809100000 +0000" stop="20250809160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250809013000 +0000" stop="20250809043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Arindhum Ariyamalum</title>
+    </programme>
+    <programme start="20250809043000 +0000" stop="20250809073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Swayamvaram</title>
+    </programme>
+    <programme start="20250809073000 +0000" stop="20250809103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Oorkaavalan</title>
+    </programme>
+    <programme start="20250809103000 +0000" stop="20250809133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Minsara Kanavu</title>
+    </programme>
+    <programme start="20250809133000 +0000" stop="20250809170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Ramana</title>
     </programme>
     <programme start="20250808150000 +0000" stop="20250808170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 1000 2025: Cincinnati Day 2 Match 1</title>
@@ -7570,13 +7582,13 @@
     <programme start="20250809063000 +0000" stop="20250809070000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
-    <programme start="20250809070000 +0000" stop="20250809083000 +0000" channel="COLORS.starhub">
-        <title>Pati Patni Aur Panga</title>
+    <programme start="20250809070000 +0000" stop="20250809085000 +0000" channel="COLORS.starhub">
+        <title>Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     </programme>
-    <programme start="20250809083000 +0000" stop="20250809093000 +0000" channel="COLORS.starhub">
+    <programme start="20250809085000 +0000" stop="20250809094000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250809093000 +0000" stop="20250809100000 +0000" channel="COLORS.starhub">
+    <programme start="20250809094000 +0000" stop="20250809100000 +0000" channel="COLORS.starhub">
         <title>Parineetii</title>
     </programme>
     <programme start="20250809100000 +0000" stop="20250809103000 +0000" channel="COLORS.starhub">
@@ -7597,13 +7609,13 @@
     <programme start="20250809123000 +0000" stop="20250809130000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
-    <programme start="20250809130000 +0000" stop="20250809143000 +0000" channel="COLORS.starhub">
-        <title>Pati Patni Aur Panga</title>
+    <programme start="20250809130000 +0000" stop="20250809145000 +0000" channel="COLORS.starhub">
+        <title>Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     </programme>
-    <programme start="20250809143000 +0000" stop="20250809153000 +0000" channel="COLORS.starhub">
+    <programme start="20250809145000 +0000" stop="20250809154000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20250809153000 +0000" stop="20250809160000 +0000" channel="COLORS.starhub">
+    <programme start="20250809154000 +0000" stop="20250809160000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
     <programme start="20250808160000 +0000" stop="20250808163000 +0000" channel="BBC World News HD.starhub">
@@ -7676,7 +7688,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Taiwan&#039;s War Drama Tests Political Boundaries On Screen</title>
     </programme>
     <programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7721,7 +7733,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250809113000 +0000" stop="20250809120000 +0000" channel="BBC World News HD.starhub">
-        <title>Ukrainecast</title>
+        <title>Is a Frozen Conflict Inevitable?</title>
     </programme>
     <programme start="20250809120000 +0000" stop="20250809123000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7739,7 +7751,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250809143000 +0000" stop="20250809150000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Taiwan&#039;s War Drama Tests Political Boundaries On Screen</title>
     </programme>
     <programme start="20250809150000 +0000" stop="20250809153000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
