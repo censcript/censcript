@@ -3233,10 +3233,10 @@
         <title>The Hundred Men 2025: M03 - NS vs WF</title>
     </programme>
     <programme start="20250809094500 +0000" stop="20250809133000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Women 2025: M05 - OI vs MO</title>
+        <title>The Hundred Women 2025: M05 - OI vs MO (Live)</title>
     </programme>
     <programme start="20250809133000 +0000" stop="20250809170000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Men 2025: M05 - OI vs MO</title>
+        <title>The Hundred Men 2025: M05 - OI vs MO (Live)</title>
     </programme>
     <programme start="20250808160000 +0000" stop="20250808161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
