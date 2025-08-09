@@ -2677,7 +2677,7 @@
 <programme start="20250809143000 +0000" stop="20250809145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250809145000 +0000" stop="20250809173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250809145000 +0000" stop="20250809171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SV Oberbank Ried, 2. Runde</title>
 </programme>
 <programme start="20250809144000 +0000" stop="20250809150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3076,7 +3076,7 @@
 <programme start="20250809203000 +0000" stop="20250809223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Testspiel: Brighton &amp; Hove Albion - VfL Wolfsburg, Testspiel in Brighton</title>
 </programme>
-<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250809031500 +0000" stop="20250809040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3106,7 +3106,7 @@
 <programme start="20250809150000 +0000" stop="20250810030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
-<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250809040000 +0000" stop="20250809060000 +0000" channel="Sky Sport Top Event HD.skyde">

@@ -532,15 +532,6 @@
 <programme start="20250809010000 +0000" stop="20250809013000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20250809063000 +0000" stop="20250809071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20250809071500 +0000" stop="20250809081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
-<programme start="20250809081500 +0000" stop="20250809090000 +0000" channel="Trans 7.vision">
-<title>Jejak Si Gundul</title>
-</programme>
 <programme start="20250809090000 +0000" stop="20250809100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
@@ -849,9 +840,6 @@
 </programme>
 <programme start="20250809070000 +0000" stop="20250809073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20250809073000 +0000" stop="20250809080000 +0000" channel="TVOne.vision">
-<title>Sketsa Jendela Islam</title>
 </programme>
 <programme start="20250809080000 +0000" stop="20250809090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia... (L)</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250809230000 +0000" stop="20250809230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
+</programme>
+<programme start="20250809230300 +0000" stop="20250809233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250809233000 +0000" stop="20250810003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20250810003000 +0000" stop="20250810013000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250810013000 +0000" stop="20250810021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
