@@ -649,6 +649,9 @@
 <programme start="20250810110000 +0000" stop="20250810120000 +0000" channel="Trans 7.vision">
 <title>Trans7</title>
 </programme>
+<programme start="20250808233000 +0000" stop="20250809013000 +0000" channel="ANTV.vision">
+<title>Duel Naga Wulung</title>
+</programme>
 <programme start="20250809013000 +0000" stop="20250809050000 +0000" channel="ANTV.vision">
 <title>Sangdil Sanam</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250809173000 +0000" stop="20250809180000 +0000" channel="BTV.vision">
 <title>Film Pendek Indonesia</title>
-</programme>
-<programme start="20250809180000 +0000" stop="20250809180300 +0000" channel="BTV.vision">
-<title>Tanah Airku</title>
 </programme>

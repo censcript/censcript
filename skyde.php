@@ -1204,20 +1204,23 @@
 <programme start="20250808231000 +0000" stop="20250808233500 +0000" channel="Motorvision+.skyde">
     <title>Icelandic Formula Offroad 2024</title>
 </programme>
-<programme start="20250808233500 +0000" stop="20250809000500 +0000" channel="Motorvision+.skyde">
+<programme start="20250808233500 +0000" stop="20250809000000 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20250809000500 +0000" stop="20250809003000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809000000 +0000" stop="20250809002500 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20250809003000 +0000" stop="20250809005500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809002500 +0000" stop="20250809005000 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20250809005500 +0000" stop="20250809012000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809005000 +0000" stop="20250809011500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250809012000 +0000" stop="20250809014500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809011500 +0000" stop="20250809014000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
+</programme>
+<programme start="20250809014000 +0000" stop="20250809014500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
 </programme>
 <programme start="20250809014500 +0000" stop="20250809021500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2023</title>
@@ -1234,89 +1237,95 @@
 <programme start="20250809033500 +0000" stop="20250809040000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20250809040000 +0000" stop="20250809043000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809040000 +0000" stop="20250809042500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20250809043000 +0000" stop="20250809050000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809042500 +0000" stop="20250809045000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20250809050000 +0000" stop="20250809052500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809045000 +0000" stop="20250809052000 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2025</title>
 </programme>
-<programme start="20250809052500 +0000" stop="20250809055500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809052000 +0000" stop="20250809054500 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20250809055500 +0000" stop="20250809062000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809054500 +0000" stop="20250809062000 +0000" channel="Motorvision+.skyde">
     <title>Alpen Marathon</title>
 </programme>
-<programme start="20250809062000 +0000" stop="20250809065000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809062000 +0000" stop="20250809064500 +0000" channel="Motorvision+.skyde">
     <title>FIM Enduro World Championship 2025</title>
 </programme>
-<programme start="20250809065000 +0000" stop="20250809074000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809064500 +0000" stop="20250809073500 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2025</title>
 </programme>
-<programme start="20250809074000 +0000" stop="20250809084000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809073500 +0000" stop="20250809083000 +0000" channel="Motorvision+.skyde">
     <title>FIM X-Trial World Championship 2025</title>
 </programme>
-<programme start="20250809084000 +0000" stop="20250809093000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809083000 +0000" stop="20250809092000 +0000" channel="Motorvision+.skyde">
     <title>FIM Sidecarcross World Championship 2024</title>
 </programme>
-<programme start="20250809093000 +0000" stop="20250809100000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809092000 +0000" stop="20250809095000 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20250809100000 +0000" stop="20250809105500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809095000 +0000" stop="20250809104500 +0000" channel="Motorvision+.skyde">
     <title>Australian Motocross Championship 2023</title>
 </programme>
-<programme start="20250809105500 +0000" stop="20250809115000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Boat Racing 2025</title>
-</programme>
-<programme start="20250809115000 +0000" stop="20250809124000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809104500 +0000" stop="20250809113500 +0000" channel="Motorvision+.skyde">
     <title>Australian Circuit Boat Racing 2024</title>
 </programme>
-<programme start="20250809124000 +0000" stop="20250809130500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809113500 +0000" stop="20250809122000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Circuit Boat Racing 2024</title>
+</programme>
+<programme start="20250809122000 +0000" stop="20250809124500 +0000" channel="Motorvision+.skyde">
     <title>P1 Class 1 Offshore Championship 2024</title>
 </programme>
-<programme start="20250809130500 +0000" stop="20250809133000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809124500 +0000" stop="20250809131000 +0000" channel="Motorvision+.skyde">
     <title>P1 Offshore Championship 2024</title>
 </programme>
-<programme start="20250809133000 +0000" stop="20250809140000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809131000 +0000" stop="20250809133500 +0000" channel="Motorvision+.skyde">
     <title>P1 AquaX Championship 2024</title>
 </programme>
-<programme start="20250809140000 +0000" stop="20250809142500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809133500 +0000" stop="20250809135500 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2024</title>
 </programme>
-<programme start="20250809142500 +0000" stop="20250809151000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809135500 +0000" stop="20250809144000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20250809151000 +0000" stop="20250809154000 +0000" channel="Motorvision+.skyde">
-    <title>All Wheel Drive Safari Challenge 2025</title>
+<programme start="20250809144000 +0000" stop="20250809152500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20250809154000 +0000" stop="20250809160500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809152500 +0000" stop="20250809155000 +0000" channel="Motorvision+.skyde">
+    <title>All Wheel Drive Safari Challenge 2024</title>
+</programme>
+<programme start="20250809155000 +0000" stop="20250809161500 +0000" channel="Motorvision+.skyde">
     <title>US Pro Pulling 2023</title>
 </programme>
-<programme start="20250809160500 +0000" stop="20250809163500 +0000" channel="Motorvision+.skyde">
-    <title>Icelandic Formula Offroad 2025</title>
+<programme start="20250809161500 +0000" stop="20250809164500 +0000" channel="Motorvision+.skyde">
+    <title>Icelandic Formula Offroad 2024</title>
 </programme>
-<programme start="20250809163500 +0000" stop="20250809170500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809164500 +0000" stop="20250809171000 +0000" channel="Motorvision+.skyde">
     <title>EMX Quad European Championship 2024</title>
 </programme>
-<programme start="20250809170500 +0000" stop="20250809180000 +0000" channel="Motorvision+.skyde">
+<programme start="20250809171000 +0000" stop="20250809180000 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2024</title>
 </programme>
 <programme start="20250809180000 +0000" stop="20250809185500 +0000" channel="Motorvision+.skyde">
     <title>World Rally Raid Championship 2024</title>
 </programme>
-<programme start="20250809185500 +0000" stop="20250809194500 +0000" channel="Motorvision+.skyde">
-    <title>BTRDA Rallycross 2025</title>
+<programme start="20250809185500 +0000" stop="20250809195000 +0000" channel="Motorvision+.skyde">
+    <title>BTRDA Rallycross 2024</title>
 </programme>
-<programme start="20250809194500 +0000" stop="20250809201500 +0000" channel="Motorvision+.skyde">
+<programme start="20250809195000 +0000" stop="20250809202000 +0000" channel="Motorvision+.skyde">
     <title>Tour European Rally 2025</title>
 </programme>
-<programme start="20250809201500 +0000" stop="20250809204000 +0000" channel="Motorvision+.skyde">
-    <title>Africa Eco Race 2025</title>
+<programme start="20250809202000 +0000" stop="20250809205000 +0000" channel="Motorvision+.skyde">
+    <title>Belgian Rally Championship 2025</title>
 </programme>
-<programme start="20250809204000 +0000" stop="20250809214000 +0000" channel="Motorvision+.skyde">
-    <title>British Rally Championship 2025</title>
+<programme start="20250809205000 +0000" stop="20250809211500 +0000" channel="Motorvision+.skyde">
+    <title>Rally 2025</title>
+</programme>
+<programme start="20250809211500 +0000" stop="20250809214000 +0000" channel="Motorvision+.skyde">
+    <title>World Rally Raid Championship 2025</title>
 </programme>
 <programme start="20250809214000 +0000" stop="20250809221000 +0000" channel="Motorvision+.skyde">
     <title>Belgian Rally Championship 2025</title>
@@ -2662,19 +2671,19 @@
 <programme start="20250809143000 +0000" stop="20250809145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250809145000 +0000" stop="20250809171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250809145000 +0000" stop="20250809173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - TSV Egger Glas Hartberg, 2. Runde</title>
 </programme>
 <programme start="20250809143000 +0000" stop="20250809145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250809145000 +0000" stop="20250809171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250809145000 +0000" stop="20250809173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SV Oberbank Ried, 2. Runde</title>
 </programme>
 <programme start="20250809144000 +0000" stop="20250809150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250809150000 +0000" stop="20250810030000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250809150000 +0000" stop="20250810080000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
 <programme start="20250808230000 +0000" stop="20250809010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2776,25 +2785,25 @@
 <programme start="20250809103000 +0000" stop="20250809130000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 2. Spieltag</title>
 </programme>
-<programme start="20250809130000 +0000" stop="20250809140000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250809130000 +0000" stop="20250809141500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 2. Spieltag, Samstag</title>
 </programme>
 <programme start="20250809101000 +0000" stop="20250809103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250809103000 +0000" stop="20250809130000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250809103000 +0000" stop="20250809131500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - 1. FC Magdeburg, 2. Spieltag</title>
 </programme>
 <programme start="20250809101000 +0000" stop="20250809103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250809103000 +0000" stop="20250809130000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250809103000 +0000" stop="20250809131500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - Hannover 96, 2. Spieltag</title>
 </programme>
 <programme start="20250809101000 +0000" stop="20250809103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250809103000 +0000" stop="20250809130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250809103000 +0000" stop="20250809131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - SpVgg Greuther Fürth, 2. Spieltag</title>
 </programme>
 <programme start="20250808220000 +0000" stop="20250809000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3157,7 +3166,7 @@
 <programme start="20250809144000 +0000" stop="20250809150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250809150000 +0000" stop="20250810030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250809150000 +0000" stop="20250810080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
 <programme start="20250808221500 +0000" stop="20250808230500 +0000" channel="SYFY HD.skyde">
