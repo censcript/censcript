@@ -2188,8 +2188,8 @@
     <programme start="20250808170000 +0000" stop="20250808200000 +0000" channel="KTV HD.starhub">
         <title>Movie - London</title>
     </programme>
-    <programme start="20250808200000 +0000" stop="20250808220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250808200000 +0000" stop="20250808223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kadhal Solla Vandhen</title>
     </programme>
     <programme start="20250808223000 +0000" stop="20250809010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kangalal Kaidhusei</title>
@@ -7658,7 +7658,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250808223000 +0000" stop="20250808230000 +0000" channel="BBC World News HD.starhub">
-        <title>The President&#039;s Path</title>
+        <title>Democrats v Trump</title>
     </programme>
     <programme start="20250808230000 +0000" stop="20250808233000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
