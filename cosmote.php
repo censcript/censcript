@@ -186,10 +186,6 @@
     <title>Football: Arouca - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250809122000 +0700" stop="20250809140500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Brescia - Scafati</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250809140500 +0700" stop="20250809155500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Karsiyaka</title>
     <desc>Live: Tidak</desc>
@@ -335,6 +331,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250810144500 +0700" stop="20250810155000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250810155000 +0700" stop="20250810165500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

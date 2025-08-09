@@ -679,34 +679,34 @@
     <programme start="20250808183000 +0000" stop="20250808190000 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - A Good Warrior Isn’t Always A Good Boss</title>
     </programme>
-    <programme start="20250808190000 +0000" stop="20250808193000 +0000" channel="Animax.mewatch">
+    <programme start="20250808190000 +0000" stop="20250808193001 +0000" channel="Animax.mewatch">
         <title>Fruits Basket Season 1 - I’ve Been Fooling Myself</title>
     </programme>
-    <programme start="20250808193000 +0000" stop="20250808200000 +0000" channel="Animax.mewatch">
+    <programme start="20250808193001 +0000" stop="20250808200001 +0000" channel="Animax.mewatch">
         <title>Fruits Basket Season 1 - Perhaps We Should Invite Ourselves Over</title>
     </programme>
-    <programme start="20250808200000 +0000" stop="20250808203000 +0000" channel="Animax.mewatch">
+    <programme start="20250808200001 +0000" stop="20250808203001 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - Influenza And The Dawn Of Pharmacy</title>
     </programme>
-    <programme start="20250808203000 +0000" stop="20250808210000 +0000" channel="Animax.mewatch">
+    <programme start="20250808203001 +0000" stop="20250808210001 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Story Of A Certain Evil Man</title>
     </programme>
-    <programme start="20250808210000 +0000" stop="20250808213000 +0000" channel="Animax.mewatch">
+    <programme start="20250808210001 +0000" stop="20250808213001 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - Sleeping Murder</title>
     </programme>
-    <programme start="20250808213000 +0000" stop="20250808220000 +0000" channel="Animax.mewatch">
+    <programme start="20250808213001 +0000" stop="20250808220001 +0000" channel="Animax.mewatch">
         <title>In/spectre Season 2 - A Lucky Day At The Unagi Restaurant</title>
     </programme>
-    <programme start="20250808220000 +0000" stop="20250808223000 +0000" channel="Animax.mewatch">
+    <programme start="20250808220001 +0000" stop="20250808223001 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency!</title>
     </programme>
-    <programme start="20250808223000 +0000" stop="20250808230000 +0000" channel="Animax.mewatch">
+    <programme start="20250808223001 +0000" stop="20250808230001 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - The Drinking Party From Hell</title>
     </programme>
-    <programme start="20250808230000 +0000" stop="20250808233000 +0000" channel="Animax.mewatch">
+    <programme start="20250808230001 +0000" stop="20250808233001 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - If You Want To Quit, Talk It Out First</title>
     </programme>
-    <programme start="20250808233000 +0000" stop="20250809000001 +0000" channel="Animax.mewatch">
+    <programme start="20250808233001 +0000" stop="20250809000001 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - The Hero Shares His Tale Of Burden</title>
     </programme>
     <programme start="20250809000001 +0000" stop="20250809003001 +0000" channel="Animax.mewatch">
@@ -775,34 +775,34 @@
     <programme start="20250809102600 +0000" stop="20250809110000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - In Zara&#039;s Footsteps</title>
     </programme>
-    <programme start="20250809110000 +0000" stop="20250809112800 +0000" channel="Animax.mewatch">
+    <programme start="20250809110000 +0000" stop="20250809112801 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - Influenza And The Dawn Of Pharmacy</title>
     </programme>
-    <programme start="20250809112800 +0000" stop="20250809120000 +0000" channel="Animax.mewatch">
+    <programme start="20250809112801 +0000" stop="20250809120001 +0000" channel="Animax.mewatch">
         <title>Parallel World Pharmacy - The Story Of A Certain Evil Man</title>
     </programme>
-    <programme start="20250809120000 +0000" stop="20250809123000 +0000" channel="Animax.mewatch">
+    <programme start="20250809120001 +0000" stop="20250809123001 +0000" channel="Animax.mewatch">
         <title>Kubo Won&#039;t Let Me Be Invisible - The Star And Celebration</title>
     </programme>
-    <programme start="20250809123000 +0000" stop="20250809125800 +0000" channel="Animax.mewatch">
+    <programme start="20250809123001 +0000" stop="20250809125801 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Made A Deal</title>
     </programme>
-    <programme start="20250809125800 +0000" stop="20250809133000 +0000" channel="Animax.mewatch">
+    <programme start="20250809125801 +0000" stop="20250809133001 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Mada A Contract</title>
     </programme>
-    <programme start="20250809133000 +0000" stop="20250809135800 +0000" channel="Animax.mewatch">
+    <programme start="20250809133001 +0000" stop="20250809135801 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency!</title>
     </programme>
-    <programme start="20250809135800 +0000" stop="20250809142600 +0000" channel="Animax.mewatch">
+    <programme start="20250809135801 +0000" stop="20250809142601 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - The Drinking Party From Hell</title>
     </programme>
-    <programme start="20250809142600 +0000" stop="20250809145400 +0000" channel="Animax.mewatch">
+    <programme start="20250809142601 +0000" stop="20250809145401 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - If You Want To Quit, Talk It Out First</title>
     </programme>
-    <programme start="20250809145400 +0000" stop="20250809152200 +0000" channel="Animax.mewatch">
+    <programme start="20250809145401 +0000" stop="20250809152201 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - The Hero Shares His Tale Of Burden</title>
     </programme>
-    <programme start="20250809152200 +0000" stop="20250809160000 +0000" channel="Animax.mewatch">
+    <programme start="20250809152201 +0000" stop="20250809160001 +0000" channel="Animax.mewatch">
         <title>I&#039;m Quitting Heroing - A Good Warrior Isn’t Always A Good Boss</title>
     </programme>
     <programme start="20250808153500 +0000" stop="20250808172000 +0000" channel="cinemaworld.mewatch">

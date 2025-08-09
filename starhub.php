@@ -3215,7 +3215,7 @@
         <title>The Hundred Women 2025: M04 - BP vs TR</title>
     </programme>
     <programme start="20250808173000 +0000" stop="20250808203000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Men 2025: M04 - BP vs TR</title>
+        <title>The Hundred Men 2025: M04 - BP vs TR (Live)</title>
     </programme>
     <programme start="20250808203000 +0000" stop="20250808220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
