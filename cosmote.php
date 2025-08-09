@@ -54,10 +54,6 @@
     <title>Football: Club Atletico de Madrid - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250809110000 +0700" stop="20250809130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al-Qadsiah - Al Nassr</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250809130000 +0700" stop="20250809133000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Temples of Sport</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,14 @@
     <title>Football: Al Ittihad - Al Ettifaq FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250810131000 +0700" stop="20250810134000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250810134000 +0700" stop="20250810141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250809120000 +0700" stop="20250809140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - St. Mirren</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +190,6 @@
     <title>Football: Southampton - Wrexham</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250809100500 +0700" stop="20250809122000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Valencia Basket Club - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250809122000 +0700" stop="20250809140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Brescia - Scafati</title>
     <desc>Live: Tidak</desc>
@@ -240,10 +240,6 @@
 </programme>
 <programme start="20250810122000 +0700" stop="20250810140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Varese</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250809120000 +0700" stop="20250809122000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250809122000 +0700" stop="20250809130500 +0700" channel="COSMOTE Sport 5 HD">
@@ -339,6 +335,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250810125500 +0700" stop="20250810135000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250810135000 +0700" stop="20250810144500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

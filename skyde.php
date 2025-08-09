@@ -2683,7 +2683,7 @@
 <programme start="20250809144000 +0000" stop="20250809150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250809150000 +0000" stop="20250810080000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250809150000 +0000" stop="20250810030000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
 <programme start="20250808230000 +0000" stop="20250809010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3106,7 +3106,7 @@
 <programme start="20250809150000 +0000" stop="20250810030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
-<programme start="20250809030000 +0000" stop="20250809040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250809033000 +0000" stop="20250809040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250809040000 +0000" stop="20250809060000 +0000" channel="Sky Sport Top Event HD.skyde">

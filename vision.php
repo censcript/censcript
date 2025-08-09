@@ -532,12 +532,6 @@
 <programme start="20250809010000 +0000" stop="20250809013000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
-<programme start="20250809050000 +0000" stop="20250809054500 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
-<programme start="20250809054500 +0000" stop="20250809063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
 <programme start="20250809063000 +0000" stop="20250809071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250809213000 +0000" stop="20250809223000 +0000" channel="BTV.vision">
 <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20250809223000 +0000" stop="20250809230000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20250809230000 +0000" stop="20250809230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
 </programme>
