@@ -3034,31 +3034,31 @@
 <programme start="20250810210000 +0000" stop="20250810220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Robert Pires</title>
 </programme>
-<programme start="20250810034500 +0000" stop="20250810044000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250810030000 +0000" stop="20250810040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
-<programme start="20250810044000 +0000" stop="20250810064000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250810040000 +0000" stop="20250810060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - M. Keys (USA), Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
-<programme start="20250810073500 +0000" stop="20250810085500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250810060000 +0000" stop="20250810080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Elahi Galán (COL), Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
-<programme start="20250810085500 +0000" stop="20250810110500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250810080000 +0000" stop="20250810103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
 </programme>
-<programme start="20250810110500 +0000" stop="20250810113500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250810103000 +0000" stop="20250810110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250810113500 +0000" stop="20250810133500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Lys (GER) - M. Keys (USA), Cincinnati Open in Cincinnati (USA), 3. Tag</title>
+<programme start="20250810110000 +0000" stop="20250810130000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
-<programme start="20250810133500 +0000" stop="20250810150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250810130000 +0000" stop="20250810150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Elahi Galán (COL), Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
 <programme start="20250810150000 +0000" stop="20250811030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 4. Tag</title>
 </programme>
-<programme start="20250809220000 +0000" stop="20250810023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250809220000 +0000" stop="20250810030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 3. Tag</title>
 </programme>
 <programme start="20250810030000 +0000" stop="20250810050000 +0000" channel="Sky Sport Top Event HD.skyde">
