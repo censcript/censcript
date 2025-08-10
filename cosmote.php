@@ -50,14 +50,6 @@
     <title>Football: Athletic Club - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250810223000 +0700" stop="20250811003000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL - Levadiakos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250811003000 +0700" stop="20250811010000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811010000 +0700" stop="20250811030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panserraikos (L)</title>
     <desc>Live: Ya</desc>
@@ -124,14 +116,6 @@
 </programme>
 <programme start="20250812005500 +0700" stop="20250812025500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Taawon - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250810223000 +0700" stop="20250811003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Kifisia - Asteras Aktor (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250811003000 +0700" stop="20250811010000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Football Countdowns E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811010000 +0700" stop="20250811020000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,14 +246,6 @@
     <title>Basketball: Real Madrid - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811000000 +0700" stop="20250811003000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250811003000 +0700" stop="20250811010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811010000 +0700" stop="20250811023500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -366,6 +342,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250812010000 +0700" stop="20250812015500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812015500 +0700" stop="20250812025500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250810220000 +0700" stop="20250811020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -393,14 +377,6 @@
 <programme start="20250811220000 +0700" stop="20250812020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250810223000 +0700" stop="20250811003000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Leicester City FC - Sheffield Wednesday (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250811003000 +0700" stop="20250811010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811010000 +0700" stop="20250811020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
