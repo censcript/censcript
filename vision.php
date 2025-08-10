@@ -673,6 +673,12 @@
 <programme start="20250810110000 +0000" stop="20250810130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
+<programme start="20250810130000 +0000" stop="20250810150000 +0000" channel="ANTV.vision">
+<title>Naga Merah</title>
+</programme>
+<programme start="20250810150000 +0000" stop="20250810170000 +0000" channel="ANTV.vision">
+<title>The Inspector Wear Skirts</title>
+</programme>
 <programme start="20250810170000 +0000" stop="20250810183000 +0000" channel="ANTV.vision">
 <title>Mrs. Golden Snake</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250811011500 +0000" stop="20250811021500 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20250811021500 +0000" stop="20250811030000 +0000" channel="BTV.vision">
-<title>Selera Rasa</title>
-</programme>
-<programme start="20250811030000 +0000" stop="20250811040000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
 </programme>

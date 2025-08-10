@@ -50,10 +50,6 @@
     <title>Football: Aris Limassol - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811010000 +0700" stop="20250811030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Panserraikos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250811030000 +0700" stop="20250811050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Sports Classics: Worldies E12</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811020000 +0700" stop="20250811023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Football Countdowns E1</title>
+<programme start="20250812031500 +0700" stop="20250812051500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Nassr - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811023000 +0700" stop="20250811043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,10 +250,6 @@
     <title>Basketball: N.Y. Liberty - Minnesota Lynx</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811010000 +0700" stop="20250811023500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811023500 +0700" stop="20250811030500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -360,6 +352,10 @@
 </programme>
 <programme start="20250812025500 +0700" stop="20250812032500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812032500 +0700" stop="20250812050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811020000 +0700" stop="20250811060000 +0700" channel="COSMOTE Sport 6 HD">
