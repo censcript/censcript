@@ -1,7 +1,3 @@
-<programme start="20250810195500 +0700" stop="20250810210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E35</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250810210000 +0700" stop="20250810233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Crystal Palace - Liverpool FC (L)</title>
     <desc>Live: Ya</desc>
@@ -52,10 +48,6 @@
 </programme>
 <programme start="20250811200000 +0700" stop="20250811220000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Aston Villa - Club Brugge</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250810181500 +0700" stop="20250810201500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Hilal - Al Shabab</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250810201500 +0700" stop="20250810223000 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,10 +118,6 @@
     <title>Football: Damak - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250810183000 +0700" stop="20250810203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Aberdeen - Celtic FC (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250810203000 +0700" stop="20250810223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Racing Club - Fortaleza CE</title>
     <desc>Live: Tidak</desc>
@@ -192,10 +180,6 @@
 </programme>
 <programme start="20250811200000 +0700" stop="20250811223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Crystal Palace - Liverpool FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250810180000 +0700" stop="20250810202000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Galatasaray - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250810202000 +0700" stop="20250810222000 +0700" channel="COSMOTE Sport 4 HD">
@@ -265,10 +249,6 @@
 <programme start="20250811200000 +0700" stop="20250811222500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Trapani</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250810183000 +0700" stop="20250810200500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250810200500 +0700" stop="20250810211500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -378,8 +358,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250810183000 +0700" stop="20250810210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Fabian Marozsan</title>
+<programme start="20250811211500 +0700" stop="20250811224500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250810210000 +0700" stop="20250810220000 +0700" channel="COSMOTE Sport 6 HD">
