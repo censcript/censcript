@@ -50,10 +50,6 @@
     <title>Football: FC Bayern Munchen - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811110000 +0700" stop="20250811130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al-Qadsiah - Al-Kholood</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811130000 +0700" stop="20250811133000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Temples of Sport</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,14 @@
 </programme>
 <programme start="20250812110000 +0700" stop="20250812130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al Ittihad</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812130000 +0700" stop="20250812133000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E38</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812133000 +0700" stop="20250812153000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Raed - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811120000 +0700" stop="20250811140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,14 +250,6 @@
     <title>Basketball: Virtus Bologna - Trapani</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811120000 +0700" stop="20250811123000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Nations Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250811123000 +0700" stop="20250811130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: ROC Race of Champions 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811130000 +0700" stop="20250811133000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -360,6 +356,10 @@
 </programme>
 <programme start="20250812124500 +0700" stop="20250812133500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812133500 +0700" stop="20250812141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811100000 +0700" stop="20250811140000 +0700" channel="COSMOTE Sport 6 HD">

@@ -6400,20 +6400,23 @@
 <programme start="20250811043000 +0000" stop="20250811050000 +0000" channel="NHK World.mncvision">
     <title>Hometown Stories</title>
 </programme>
-<programme start="20250810180000 +0000" stop="20250810183000 +0000" channel="NHK World Premium.mncvision">
-    <title>What The Villains Have To Say</title>
+<programme start="20250810180000 +0000" stop="20250810182500 +0000" channel="NHK World Premium.mncvision">
+    <title>Journey Into The Scene Of...</title>
+</programme>
+<programme start="20250810182500 +0000" stop="20250810183000 +0000" channel="NHK World Premium.mncvision">
+    <title>See, Learn, Explore: Tohoku</title>
 </programme>
 <programme start="20250810183000 +0000" stop="20250810190000 +0000" channel="NHK World Premium.mncvision">
     <title>Science Zero</title>
 </programme>
-<programme start="20250810190000 +0000" stop="20250810195800 +0000" channel="NHK World Premium.mncvision">
-    <title>Fish Masters</title>
+<programme start="20250810190000 +0000" stop="20250810193000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Great Nature: Himalayas</title>
 </programme>
-<programme start="20250810195800 +0000" stop="20250810200000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
+<programme start="20250810193000 +0000" stop="20250810200000 +0000" channel="NHK World Premium.mncvision">
+    <title>Still, We Create Toilet Paper</title>
 </programme>
 <programme start="20250810200000 +0000" stop="20250810204500 +0000" channel="NHK World Premium.mncvision">
-    <title>Unbound</title>
+    <title>Unbound, Ep 30</title>
 </programme>
 <programme start="20250810204500 +0000" stop="20250810205000 +0000" channel="NHK World Premium.mncvision">
     <title>Ukiyoe Edo-Life</title>
@@ -6424,8 +6427,11 @@
 <programme start="20250810205600 +0000" stop="20250810210000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20250810210000 +0000" stop="20250810215300 +0000" channel="NHK World Premium.mncvision">
+<programme start="20250810210000 +0000" stop="20250810211000 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
+</programme>
+<programme start="20250810211000 +0000" stop="20250810215300 +0000" channel="NHK World Premium.mncvision">
+    <title>Nomura Mansai&#039;s Lucky Bag</title>
 </programme>
 <programme start="20250810215300 +0000" stop="20250810220000 +0000" channel="NHK World Premium.mncvision">
     <title>News &amp; Weather</title>
@@ -6434,7 +6440,7 @@
     <title>News: Good Morning, Japan</title>
 </programme>
 <programme start="20250810223000 +0000" stop="20250810225300 +0000" channel="NHK World Premium.mncvision">
-    <title>Holiday Interview</title>
+    <title>Holiday Interview: Seo Maiko</title>
 </programme>
 <programme start="20250810225300 +0000" stop="20250810225500 +0000" channel="NHK World Premium.mncvision">
     <title>Mini Program</title>
@@ -6442,26 +6448,23 @@
 <programme start="20250810225500 +0000" stop="20250810230000 +0000" channel="NHK World Premium.mncvision">
     <title>Weather</title>
 </programme>
-<programme start="20250810230000 +0000" stop="20250811005400 +0000" channel="NHK World Premium.mncvision">
-    <title>Anpan</title>
+<programme start="20250810230000 +0000" stop="20250810231500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan, Ep 96</title>
 </programme>
-<programme start="20250811005400 +0000" stop="20250811005500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
+<programme start="20250810231500 +0000" stop="20250811004500 +0000" channel="NHK World Premium.mncvision">
+    <title>Relaxing Life On Remote Islands</title>
 </programme>
-<programme start="20250811005500 +0000" stop="20250811010000 +0000" channel="NHK World Premium.mncvision">
-    <title>Exercise For Everyone</title>
+<programme start="20250811004500 +0000" stop="20250811014500 +0000" channel="NHK World Premium.mncvision">
+    <title>Seiji&#039;s Nomitetsu Railroad Trip</title>
 </programme>
-<programme start="20250811010000 +0000" stop="20250811015300 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
-</programme>
-<programme start="20250811015300 +0000" stop="20250811015500 +0000" channel="NHK World Premium.mncvision">
-    <title>Mini Program</title>
+<programme start="20250811014500 +0000" stop="20250811015500 +0000" channel="NHK World Premium.mncvision">
+    <title>Regional Bureau Short Story</title>
 </programme>
 <programme start="20250811015500 +0000" stop="20250811020500 +0000" channel="NHK World Premium.mncvision">
     <title>City-Scope</title>
 </programme>
 <programme start="20250811020500 +0000" stop="20250811025000 +0000" channel="NHK World Premium.mncvision">
-    <title>The Great Passage: I&#039;ll Make...</title>
+    <title>The Great Passage, Ep 8</title>
 </programme>
 <programme start="20250811025000 +0000" stop="20250811025600 +0000" channel="NHK World Premium.mncvision">
     <title>Songs For Everyone</title>
@@ -6469,32 +6472,38 @@
 <programme start="20250811025600 +0000" stop="20250811030000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20250811030000 +0000" stop="20250811032000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20250811030000 +0000" stop="20250811031500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20250811032000 +0000" stop="20250811032800 +0000" channel="NHK World Premium.mncvision">
-    <title>Information Worth Knowing...</title>
+<programme start="20250811031500 +0000" stop="20250811032500 +0000" channel="NHK World Premium.mncvision">
+    <title>Life Force</title>
+</programme>
+<programme start="20250811032500 +0000" stop="20250811032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
 </programme>
 <programme start="20250811032800 +0000" stop="20250811033000 +0000" channel="NHK World Premium.mncvision">
     <title>Mini Program</title>
 </programme>
 <programme start="20250811033000 +0000" stop="20250811034500 +0000" channel="NHK World Premium.mncvision">
-    <title>Toto Nee-Chan: Fatherly Sister</title>
+    <title>Toto Nee-Chan, Ep 68</title>
 </programme>
 <programme start="20250811034500 +0000" stop="20250811040000 +0000" channel="NHK World Premium.mncvision">
-    <title>Anpan</title>
+    <title>Anpan, Ep 96</title>
 </programme>
-<programme start="20250811040000 +0000" stop="20250811055000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20250811040000 +0000" stop="20250811040500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
+</programme>
+<programme start="20250811040500 +0000" stop="20250811053400 +0000" channel="NHK World Premium.mncvision">
+    <title>Journey To Farthest Scenic...</title>
+</programme>
+<programme start="20250811053400 +0000" stop="20250811055000 +0000" channel="NHK World Premium.mncvision">
+    <title>Magnificent Sight!</title>
 </programme>
 <programme start="20250811055000 +0000" stop="20250811055500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20250811055500 +0000" stop="20250811060000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Music Album</title>
-</programme>
-<programme start="20250811060000 +0000" stop="20250811061000 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
+<programme start="20250811055500 +0000" stop="20250811061000 +0000" channel="NHK World Premium.mncvision">
+    <title>100 Beautiful Mountains Of JPN</title>
 </programme>
 <programme start="20250811061000 +0000" stop="20250811063500 +0000" channel="NHK World Premium.mncvision">
     <title>My Gardening</title>
@@ -6503,7 +6512,7 @@
     <title>Kyoto&#039;s Hidamariya Garden Shop</title>
 </programme>
 <programme start="20250811064000 +0000" stop="20250811065000 +0000" channel="NHK World Premium.mncvision">
-    <title>Points At Issue</title>
+    <title>Trails To Oishii Tokyo</title>
 </programme>
 <programme start="20250811065000 +0000" stop="20250811073500 +0000" channel="NHK World Premium.mncvision">
     <title>Fountain Of Ancient Wisdom</title>
@@ -6526,8 +6535,11 @@
 <programme start="20250811085900 +0000" stop="20250811090000 +0000" channel="NHK World Premium.mncvision">
     <title>1-Minute Anime: Songs For SDGs</title>
 </programme>
-<programme start="20250811090000 +0000" stop="20250811091000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20250811090000 +0000" stop="20250811090500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
+</programme>
+<programme start="20250811090500 +0000" stop="20250811091000 +0000" channel="NHK World Premium.mncvision">
+    <title>This World Is Filled With Wants</title>
 </programme>
 <programme start="20250811091000 +0000" stop="20250811092500 +0000" channel="NHK World Premium.mncvision">
     <title>Kid&#039;s Discovery</title>
@@ -6535,20 +6547,8 @@
 <programme start="20250811092500 +0000" stop="20250811095600 +0000" channel="NHK World Premium.mncvision">
     <title>Nyan-Chu! Space! Broadcasting!</title>
 </programme>
-<programme start="20250811095600 +0000" stop="20250811100000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20250811095600 +0000" stop="20250811102600 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
-</programme>
-<programme start="20250811100000 +0000" stop="20250811114300 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK News</title>
-</programme>
-<programme start="20250811114300 +0000" stop="20250811114500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20250811114500 +0000" stop="20250811120000 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK News</title>
-</programme>
-<programme start="20250811120000 +0000" stop="20250811123000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Watch 9</title>
 </programme>
 <programme start="20250810170000 +0000" stop="20250810172500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
