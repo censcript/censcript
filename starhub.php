@@ -7163,7 +7163,7 @@
         <title>GP Confidential 2025</title>
     </programme>
     <programme start="20250811100000 +0000" stop="20250811110000 +0000" channel="beIN Sports HD.starhub">
-        <title>Pre Season</title>
+        <title>Promoted Teams</title>
     </programme>
     <programme start="20250811110000 +0000" stop="20250811124000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2025/26: Crystal Palace vs Liverpool - FA Community Shield</title>
