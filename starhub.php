@@ -3269,7 +3269,7 @@
         <title>The Hundred Men 2025: M06 - WF vs LS</title>
     </programme>
     <programme start="20250811134500 +0000" stop="20250811173000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Women 2025: M09 - MO vs LS (Live)</title>
+        <title>The Hundred Women 2025: M09 - MO vs LS</title>
     </programme>
     <programme start="20250810160000 +0000" stop="20250810161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
