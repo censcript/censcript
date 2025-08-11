@@ -5377,7 +5377,10 @@
     <programme start="20250811003000 +0000" stop="20250811010000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250811010000 +0000" stop="20250811040000 +0000" channel="SPOTV.starhub">
+    <programme start="20250811010000 +0000" stop="20250811013000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250811013000 +0000" stop="20250811040000 +0000" channel="SPOTV.starhub">
         <title>Day 5 Session 1</title>
     </programme>
     <programme start="20250811040000 +0000" stop="20250811080500 +0000" channel="SPOTV.starhub">
@@ -7184,7 +7187,7 @@
         <title>DTM Race 2025: Nurburgring Race 2</title>
     </programme>
     <programme start="20250811153000 +0000" stop="20250811160000 +0000" channel="beIN Sports HD.starhub">
-        <title>Team Of The Season</title>
+        <title>Top Scorer</title>
     </programme>
     <programme start="20250810151500 +0000" stop="20250810163000 +0000" channel="TestChannel2.starhub">
         <title>Evilive</title>
