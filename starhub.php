@@ -3248,7 +3248,7 @@
         <title>The Hundred Men 2025: M07 - SB vs BP (Live)</title>
     </programme>
     <programme start="20250810170000 +0000" stop="20250810200000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Men 2025: M08 - TR vs NS (Live)</title>
+        <title>The Hundred Men 2025: M08 - TR vs NS</title>
     </programme>
     <programme start="20250810200000 +0000" stop="20250810220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
