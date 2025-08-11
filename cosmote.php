@@ -46,6 +46,10 @@
     <title>Football: FC Barcelona - Borussia Dortmund</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250813054000 +0700" stop="20250813082500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SK Rapid Wien - Djurgarden</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250812031500 +0700" stop="20250812051500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Nassr - Al Ittihad</title>
     <desc>Live: Tidak</desc>
@@ -110,9 +114,9 @@
     <title>Football: AEL - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812024500 +0700" stop="20250812044500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - Vitoria Guimaraes (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250813052000 +0700" stop="20250813072500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Levadiakos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812044500 +0700" stop="20250812050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Worldies E9</title>
@@ -172,10 +176,6 @@
 </programme>
 <programme start="20250813040000 +0700" stop="20250813060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - Vitoria Guimaraes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250812022000 +0700" stop="20250812045000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: N.Y. Liberty - Minnesota Lynx</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812045000 +0700" stop="20250812071500 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,10 +244,6 @@
 </programme>
 <programme start="20250813043000 +0700" stop="20250813064000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trentino - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250812032500 +0700" stop="20250812050000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812050000 +0700" stop="20250812060000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,9 +346,9 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812020000 +0700" stop="20250812043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Benjamin Bonzi (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250813050000 +0700" stop="20250813060000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812043000 +0700" stop="20250812060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
@@ -390,12 +386,8 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812040000 +0700" stop="20250812043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250812043000 +0700" stop="20250812050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250813050000 +0700" stop="20250813060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812050000 +0700" stop="20250812080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -461,6 +453,10 @@
 <programme start="20250813043000 +0700" stop="20250813050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813050000 +0700" stop="20250813080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250812040000 +0700" stop="20250812060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
