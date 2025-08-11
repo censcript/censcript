@@ -50,10 +50,6 @@
     <title>Football: SK Rapid Wien - Djurgarden</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811181000 +0700" stop="20250811201500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Kifisia - Asteras Aktor</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811201500 +0700" stop="20250811222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Damak - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -242,10 +238,6 @@
     <title>Basketball: Trentino - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811191500 +0700" stop="20250811201500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811201500 +0700" stop="20250811211500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -348,6 +340,14 @@
 </programme>
 <programme start="20250812200000 +0700" stop="20250812210000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812210000 +0700" stop="20250812213000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812213000 +0700" stop="20250812222500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811180000 +0700" stop="20250811220000 +0700" channel="COSMOTE Sport 6 HD">
