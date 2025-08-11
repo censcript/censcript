@@ -50,10 +50,6 @@
     <title>Football: Arsenal - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811160500 +0700" stop="20250811181000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Panserraikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811181000 +0700" stop="20250811201500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -194,10 +190,6 @@
     <title>Football: Sheffield United - Bristol City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811154000 +0700" stop="20250811181000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: N.Y. Liberty - Minnesota Lynx</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811181000 +0700" stop="20250811200000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bilbao Basket - Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -252,10 +244,6 @@
 </programme>
 <programme start="20250812173000 +0700" stop="20250812200000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: N.Y. Liberty - Minnesota Lynx</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250811174500 +0700" stop="20250811183000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811183000 +0700" stop="20250811191500 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +348,10 @@
 </programme>
 <programme start="20250812180500 +0700" stop="20250812190500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250812190500 +0700" stop="20250812200000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811180000 +0700" stop="20250811220000 +0700" channel="COSMOTE Sport 6 HD">
