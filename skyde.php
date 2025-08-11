@@ -2689,7 +2689,7 @@
 <programme start="20250811144000 +0000" stop="20250811150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250811150000 +0000" stop="20250812080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250811150000 +0000" stop="20250812030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
 <programme start="20250810220000 +0000" stop="20250811000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3127,7 +3127,7 @@
 <programme start="20250811144000 +0000" stop="20250811150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250811150000 +0000" stop="20250812080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250811150000 +0000" stop="20250812030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
 <programme start="20250810222000 +0000" stop="20250810223500 +0000" channel="SYFY HD.skyde">
