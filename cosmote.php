@@ -50,14 +50,6 @@
     <title>Football: SS Lazio - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811201500 +0700" stop="20250811222000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Damak - Al Nassr</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250811222000 +0700" stop="20250811225500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Temples of Sport</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811225500 +0700" stop="20250812005500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Raed - Al Hilal</title>
     <desc>Live: Tidak</desc>
@@ -117,10 +109,6 @@
 <programme start="20250812223000 +0700" stop="20250813003500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL - Panserraikos (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250811200000 +0700" stop="20250811223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Crystal Palace - Liverpool FC</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811223000 +0700" stop="20250811232500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2024-25 - Highlights</title>
@@ -190,10 +178,6 @@
     <title>Football: Atletico Mineiro - Atletico Bucaramanga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250811200000 +0700" stop="20250811222500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Trapani</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250811222500 +0700" stop="20250812002000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Galatasaray</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +232,6 @@
 </programme>
 <programme start="20250812221000 +0700" stop="20250813001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Turk Telekom</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250811211500 +0700" stop="20250811224500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250811224500 +0700" stop="20250812001500 +0700" channel="COSMOTE Sport 5 HD">

@@ -3073,7 +3073,7 @@
 <programme start="20250811110000 +0000" stop="20250811130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Seidel (DEU) - E. Navarro (USA), Cincinnati Open in Cincinnati (USA), 4. Tag</title>
 </programme>
-<programme start="20250811133000 +0000" stop="20250811150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250811130000 +0000" stop="20250811150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (DEU) - N. Basavareddy (USA), Cincinnati Open in Cincinnati (USA), 4. Tag</title>
 </programme>
 <programme start="20250811150000 +0000" stop="20250812030000 +0000" channel="Sky Sport Tennis HD.skyde">
