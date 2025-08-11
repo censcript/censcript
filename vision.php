@@ -679,9 +679,6 @@
 <programme start="20250811113000 +0000" stop="20250811133000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250811133000 +0000" stop="20250811153000 +0000" channel="ANTV.vision">
-<title>Pancasona</title>
-</programme>
 <programme start="20250811153000 +0000" stop="20250811173000 +0000" channel="ANTV.vision">
 <title>Dreadnaught</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250812021500 +0000" stop="20250812030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
+</programme>
+<programme start="20250812030000 +0000" stop="20250812040000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
 </programme>
