@@ -35,7 +35,7 @@
         <title> Chào buổi sáng</title>
     </programme>
     <programme start="20250811053000 +0000" stop="20250811065800 +0000" channel="VTV1 HD.mytv">
-        <title> V - Việt Nam</title>
+        <title> V Việt Nam</title>
     </programme>
     <programme start="20250811065800 +0000" stop="20250811070000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>
@@ -155,7 +155,7 @@
         <title> Thuế và đời sống</title>
     </programme>
     <programme start="20250811205500 +0000" stop="20250811210000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Có anh,nơi ấy bình yên - Tập 9</title>
+        <title> Phim truyện: Có anh nơi ấy bình yên - Tập 9</title>
     </programme>
     <programme start="20250811210000 +0000" stop="20250811213000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>

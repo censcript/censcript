@@ -1109,7 +1109,10 @@
     <title>LaLiga Specials 2024/25</title>
 </programme>
 <programme start="20250811160000 +0000" stop="20250811163000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Specials 2025/26</title>
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250811163000 +0000" stop="20250810170000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Specials 2024/25</title>
 </programme>
 <programme start="20250810175000 +0000" stop="20250810193500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2024/25: ATM Vs RSO</title>
@@ -1169,7 +1172,10 @@
     <title>LaLiga Specials 2024/25</title>
 </programme>
 <programme start="20250811160000 +0000" stop="20250811163000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Specials 2025/26</title>
+    <title>LaLiga Specials 2024/25</title>
+</programme>
+<programme start="20250811163000 +0000" stop="20250810170000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Specials 2024/25</title>
 </programme>
 <programme start="20250810170000 +0000" stop="20250810190000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 1000: Cincinnati (L)</title>
@@ -4019,7 +4025,7 @@
     <title>IPA &amp; IPS</title>
 </programme>
 <programme start="20250811123000 +0000" stop="20250811143000 +0000" channel="GTV.mncvision">
-    <title>Jack Reacher: Never Go Back</title>
+    <title>Paycheck</title>
 </programme>
 <programme start="20250811143000 +0000" stop="20250811160000 +0000" channel="GTV.mncvision">
     <title>A Man Called Hero</title>
@@ -4067,7 +4073,7 @@
     <title>IPA &amp; IPS</title>
 </programme>
 <programme start="20250811123000 +0000" stop="20250811143000 +0000" channel="GTV HD.mncvision">
-    <title>Jack Reacher: Never Go Back</title>
+    <title>Paycheck</title>
 </programme>
 <programme start="20250811143000 +0000" stop="20250811160000 +0000" channel="GTV HD.mncvision">
     <title>A Man Called Hero</title>

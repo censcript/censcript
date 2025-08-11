@@ -2449,7 +2449,10 @@
     <programme start="20250811140000 +0000" stop="20250811160000 +0000" channel="Cinema One Global.starhub">
         <title>Ilawod</title>
     </programme>
-    <programme start="20250810160000 +0000" stop="20250810183000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250810135000 +0000" stop="20250810163000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>FA Community Shield 2025 Liverpool vs Crystal Palace (Live)</title>
+    </programme>
+    <programme start="20250810163000 +0000" stop="20250810183000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Day 1 Morning Session (Table 1): R1-1 (Kyren Wilson vs Lei Peifan)</title>
     </programme>
     <programme start="20250810183000 +0000" stop="20250810220000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -6589,7 +6592,10 @@
     <programme start="20250811140000 +0000" stop="20250811160500 +0000" channel="HBO Signature HD.starhub">
         <title>Duplicity</title>
     </programme>
-    <programme start="20250810160000 +0000" stop="20250810183000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250810135000 +0000" stop="20250810163000 +0000" channel="TestChannel 995.starhub">
+        <title>FA Community Shield 2025 Liverpool vs Crystal Palace (Live)</title>
+    </programme>
+    <programme start="20250810163000 +0000" stop="20250810183000 +0000" channel="TestChannel 995.starhub">
         <title>Day 1 Morning Session (Table 1): R1-1 (Kyren Wilson vs Lei Peifan)</title>
     </programme>
     <programme start="20250810183000 +0000" stop="20250810220000 +0000" channel="TestChannel 995.starhub">
@@ -8249,7 +8255,7 @@
         <title>Loving Gluten Free S1</title>
     </programme>
     <programme start="20250810172500 +0000" stop="20250810173000 +0000" channel="ABC Australia HD.starhub">
-        <title>Drewitt&#039;s Bulbs</title>
+        <title>My Garden Pa - Drewitt&#039;s Bulbs</title>
     </programme>
     <programme start="20250810173000 +0000" stop="20250810180000 +0000" channel="ABC Australia HD.starhub">
         <title>The Streets Hong Kong S1</title>
