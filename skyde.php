@@ -2689,7 +2689,7 @@
 <programme start="20250811144000 +0000" stop="20250811150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250811150000 +0000" stop="20250812030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250811150000 +0000" stop="20250812080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
 <programme start="20250810220000 +0000" stop="20250811000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2785,37 +2785,37 @@
 <programme start="20250811210000 +0000" stop="20250811230000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Kaiserslautern - FC Schalke 04, tipico Topspiel der Woche, 2. Spieltag</title>
 </programme>
-<programme start="20250810223000 +0000" stop="20250811003000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250810230000 +0000" stop="20250811010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: bitnile.com Grand Prix of Portland</title>
 </programme>
-<programme start="20250811003000 +0000" stop="20250811020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811010000 +0000" stop="20250811023000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Secto Rally Finland - SS20 Ouninpohja 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20250811020000 +0000" stop="20250811040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811023000 +0000" stop="20250811043000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20250811040000 +0000" stop="20250811060000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811043000 +0000" stop="20250811063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250811060000 +0000" stop="20250811070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811063000 +0000" stop="20250811073000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 1. Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250811070000 +0000" stop="20250811080000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811073000 +0000" stop="20250811083000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 2. Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250811080000 +0000" stop="20250811090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811083000 +0000" stop="20250811093000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>PMSC: Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250811090000 +0000" stop="20250811100000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811093000 +0000" stop="20250811103000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250811100000 +0000" stop="20250811110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811103000 +0000" stop="20250811113000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Emilia Romagna</title>
 </programme>
-<programme start="20250811110000 +0000" stop="20250811123000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811113000 +0000" stop="20250811130000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Safari Rally Kenia - SS21: Hell&#039;s Gate 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20250811123000 +0000" stop="20250811140000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250811130000 +0000" stop="20250811140000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Rally Islas Canarias - SS18 Maspalomas 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20250811140000 +0000" stop="20250811153000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2833,10 +2833,10 @@
 <programme start="20250811203000 +0000" stop="20250811220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Delfi Rally Estonia - SS20 Käärlku 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20250810220000 +0000" stop="20250811020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250810230500 +0000" stop="20250811030500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: PIF Championship, 3. Tag in Hertfordshire (England)</title>
 </programme>
-<programme start="20250811020000 +0000" stop="20250811050000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250811030500 +0000" stop="20250811050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Nexo Championship, 4. Tag in Aberdeenshire (Schottland)</title>
 </programme>
 <programme start="20250811050000 +0000" stop="20250811053000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3073,7 +3073,7 @@
 <programme start="20250811110000 +0000" stop="20250811130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Seidel (DEU) - E. Navarro (USA), Cincinnati Open in Cincinnati (USA), 4. Tag</title>
 </programme>
-<programme start="20250811130000 +0000" stop="20250811150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250811133000 +0000" stop="20250811150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (DEU) - N. Basavareddy (USA), Cincinnati Open in Cincinnati (USA), 4. Tag</title>
 </programme>
 <programme start="20250811150000 +0000" stop="20250812030000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3127,7 +3127,7 @@
 <programme start="20250811144000 +0000" stop="20250811150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250811150000 +0000" stop="20250812030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250811150000 +0000" stop="20250812080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
 <programme start="20250810222000 +0000" stop="20250810223500 +0000" channel="SYFY HD.skyde">

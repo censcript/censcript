@@ -427,16 +427,16 @@
 <programme start="20250811073000 +0000" stop="20250811093000 +0000" channel="ANTV.mncvision">
     <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20250811093000 +0000" stop="20250811113000 +0000" channel="ANTV.mncvision">
+<programme start="20250811093000 +0000" stop="20250811120000 +0000" channel="ANTV.mncvision">
     <title>Sama Juga Bohong</title>
 </programme>
-<programme start="20250811113000 +0000" stop="20250811133000 +0000" channel="ANTV.mncvision">
+<programme start="20250811120000 +0000" stop="20250811140000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250811133000 +0000" stop="20250811153000 +0000" channel="ANTV.mncvision">
+<programme start="20250811140000 +0000" stop="20250811160000 +0000" channel="ANTV.mncvision">
     <title>Pancasona</title>
 </programme>
-<programme start="20250811153000 +0000" stop="20250811160000 +0000" channel="ANTV.mncvision">
+<programme start="20250811160000 +0000" stop="20250811163000 +0000" channel="ANTV.mncvision">
     <title>Dreadnaught</title>
 </programme>
 <programme start="20250810170000 +0000" stop="20250810173000 +0000" channel="Arirang.mncvision">
@@ -8456,7 +8456,7 @@
     <title>Formula E Driver, Ep 2</title>
 </programme>
 <programme start="20250811145500 +0000" stop="20250811163000 +0000" channel="SPOTV 2.mncvision">
-    <title>SailGP: Rolex Great Britain HL</title>
+    <title>SailGP: Rolex Great Britain</title>
 </programme>
 <programme start="20250811163000 +0000" stop="20250810170000 +0000" channel="SPOTV 2.mncvision">
     <title>Ipswich Super 440</title>
@@ -8498,7 +8498,7 @@
     <title>Formula E Driver, Ep 2</title>
 </programme>
 <programme start="20250811145500 +0000" stop="20250811163000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SailGP: Rolex Great Britain HL</title>
+    <title>SailGP: Rolex Great Britain</title>
 </programme>
 <programme start="20250811163000 +0000" stop="20250810170000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Ipswich Super 440</title>
