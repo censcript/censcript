@@ -1849,6 +1849,48 @@
 <programme start="20250812200500 +0000" stop="20250812220000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Die totale Erinnerung - Total Recall</title>
 </programme>
+<programme start="20250811225500 +0000" stop="20250812004000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Monpti</title>
+</programme>
+<programme start="20250812004000 +0000" stop="20250812022000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Blumen des Schreckens</title>
+</programme>
+<programme start="20250812022000 +0000" stop="20250812034000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Brief einer Unbekannten</title>
+</programme>
+<programme start="20250812034000 +0000" stop="20250812052000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Letzte Zug von Gun Hill</title>
+</programme>
+<programme start="20250812052000 +0000" stop="20250812063500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Um Haaresbreite</title>
+</programme>
+<programme start="20250812063500 +0000" stop="20250812082500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Bis zur bitteren Neige</title>
+</programme>
+<programme start="20250812082500 +0000" stop="20250812101000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die Todesfaust des Cheng Li</title>
+</programme>
+<programme start="20250812101000 +0000" stop="20250812112000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die tätowierte Fremde</title>
+</programme>
+<programme start="20250812112000 +0000" stop="20250812125500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die Rache der Wikinger</title>
+</programme>
+<programme start="20250812125500 +0000" stop="20250812144000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Liselotte von der Pfalz</title>
+</programme>
+<programme start="20250812144000 +0000" stop="20250812161000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Schrecken von Texas</title>
+</programme>
+<programme start="20250812161000 +0000" stop="20250812181500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Im Auftrag des Drachen</title>
+</programme>
+<programme start="20250812181500 +0000" stop="20250812201000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die Flucht von Alcatraz</title>
+</programme>
+<programme start="20250812201000 +0000" stop="20250812221000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Reiter auf verbrannter Erde</title>
+</programme>
 <programme start="20250811232000 +0000" stop="20250812011000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Contra</title>
 </programme>
@@ -2695,7 +2737,7 @@
 <programme start="20250812144000 +0000" stop="20250812150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250812150000 +0000" stop="20250813080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250812150000 +0000" stop="20250813030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
 <programme start="20250811223000 +0000" stop="20250812003000 +0000" channel="Sky Sport Bundesliga HD.skyde">

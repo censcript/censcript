@@ -38,6 +38,10 @@
     <title>Football: Paris Saint Germain - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250813210000 +0700" stop="20250813230000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Betis Balompie - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250812194500 +0700" stop="20250812223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -104,6 +108,10 @@
 </programme>
 <programme start="20250813205000 +0700" stop="20250813212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2024-25 E38</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813212000 +0700" stop="20250813232000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Ittihad - Al Fayha</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812200000 +0700" stop="20250812220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -248,10 +256,6 @@
 </programme>
 <programme start="20250813200000 +0700" stop="20250813220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trentino - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250812200000 +0700" stop="20250812210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812210000 +0700" stop="20250812213000 +0700" channel="COSMOTE Sport 5 HD">
