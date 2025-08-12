@@ -5006,7 +5006,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20250812083000 +0000" stop="20250812090000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Magale En Marumagale</title>
     </programme>
     <programme start="20250812090000 +0000" stop="20250812093000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
@@ -7696,10 +7696,7 @@
     <programme start="20250812020000 +0000" stop="20250812023000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
-    <programme start="20250812023000 +0000" stop="20250812030000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
-    </programme>
-    <programme start="20250812030000 +0000" stop="20250812033000 +0000" channel="COLORS.starhub">
+    <programme start="20250812023000 +0000" stop="20250812033000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250812033000 +0000" stop="20250812040000 +0000" channel="COLORS.starhub">
