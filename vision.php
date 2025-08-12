@@ -19,16 +19,19 @@
 <programme start="20250812090000 +0000" stop="20250812100000 +0000" channel="RCTI.vision">
 <title>Joe &amp; Robot Kopi</title>
 </programme>
-<programme start="20250812100000 +0000" stop="20250812114500 +0000" channel="RCTI.vision">
+<programme start="20250812100000 +0000" stop="20250812113000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X (RCTI)</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="RCTI.vision">
+<programme start="20250812113000 +0000" stop="20250812133000 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
+</programme>
+<programme start="20250812133000 +0000" stop="20250812151500 +0000" channel="RCTI.vision">
+<title>Mencintaimu Sekali Lagi (RCTI)</title>
+</programme>
+<programme start="20250812151500 +0000" stop="20250812173000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20250812143000 +0000" stop="20250812161500 +0000" channel="RCTI.vision">
-<title>Kau Ditakdirkan Untukku (RCTI)</title>
-</programme>
-<programme start="20250812161500 +0000" stop="20250812181500 +0000" channel="RCTI.vision">
+<programme start="20250812173000 +0000" stop="20250812181500 +0000" channel="RCTI.vision">
 <title>Amanah Wali</title>
 </programme>
 <programme start="20250812181500 +0000" stop="20250812190000 +0000" channel="RCTI.vision">
@@ -651,9 +654,6 @@
 </programme>
 <programme start="20250812003000 +0000" stop="20250812020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250812020000 +0000" stop="20250812053000 +0000" channel="ANTV.vision">
-<title>Ram Jaane</title>
 </programme>
 <programme start="20250812053000 +0000" stop="20250812073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>

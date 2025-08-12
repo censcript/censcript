@@ -7397,7 +7397,7 @@
     <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20250812073000 +0000" stop="20250812090000 +0000" channel="RCTI.mncvision">
-    <title>Iiihh Serrreemm</title>
+    <title>Bumi Langit</title>
 </programme>
 <programme start="20250812090000 +0000" stop="20250812100000 +0000" channel="RCTI.mncvision">
     <title>Joe &amp; Robot Kopi</title>
@@ -7442,7 +7442,7 @@
     <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20250812073000 +0000" stop="20250812090000 +0000" channel="RCTI HD.mncvision">
-    <title>Iiihh Serrreemm</title>
+    <title>Bumi Langit</title>
 </programme>
 <programme start="20250812090000 +0000" stop="20250812100000 +0000" channel="RCTI HD.mncvision">
     <title>Joe &amp; Robot Kopi</title>

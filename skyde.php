@@ -3664,22 +3664,22 @@
 <programme start="20250812040000 +0000" stop="20250812060000 +0000" channel="Warner TV Film.skyde">
     <title>Kampf der Titanen</title>
 </programme>
-<programme start="20250812060000 +0000" stop="20250812074000 +0000" channel="Warner TV Film.skyde">
-    <title>Der Unerbittliche</title>
+<programme start="20250812060000 +0000" stop="20250812074500 +0000" channel="Warner TV Film.skyde">
+    <title>Die Zeitmaschine</title>
 </programme>
-<programme start="20250812074000 +0000" stop="20250812095000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812074500 +0000" stop="20250812095500 +0000" channel="Warner TV Film.skyde">
     <title>Erbarmungslos</title>
 </programme>
-<programme start="20250812095000 +0000" stop="20250812115000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812095500 +0000" stop="20250812115500 +0000" channel="Warner TV Film.skyde">
     <title>Bullitt</title>
 </programme>
-<programme start="20250812115000 +0000" stop="20250812142000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812115500 +0000" stop="20250812142500 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight</title>
 </programme>
-<programme start="20250812142000 +0000" stop="20250812162500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812142500 +0000" stop="20250812163000 +0000" channel="Warner TV Film.skyde">
     <title>Prometheus - Dunkle Zeichen</title>
 </programme>
-<programme start="20250812162500 +0000" stop="20250812181500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812163000 +0000" stop="20250812181500 +0000" channel="Warner TV Film.skyde">
     <title>Solaris</title>
 </programme>
 <programme start="20250812181500 +0000" stop="20250812202500 +0000" channel="Warner TV Film.skyde">
