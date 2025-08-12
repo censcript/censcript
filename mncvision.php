@@ -155,7 +155,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250812043000 +0000" stop="20250812050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Blue Zones</title>
 </programme>
 <programme start="20250812050000 +0000" stop="20250812053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Blue Zones</title>
 </programme>
 <programme start="20250812150000 +0000" stop="20250812160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -7402,17 +7402,17 @@
 <programme start="20250812090000 +0000" stop="20250812100000 +0000" channel="RCTI.mncvision">
     <title>Joe &amp; Robot Kopi</title>
 </programme>
-<programme start="20250812100000 +0000" stop="20250812114500 +0000" channel="RCTI.mncvision">
+<programme start="20250812100000 +0000" stop="20250812113000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="RCTI.mncvision">
-    <title>ASEAN Women&#039;s MSIG Serenity (L)</title>
+<programme start="20250812113000 +0000" stop="20250812133000 +0000" channel="RCTI.mncvision">
+    <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20250812143000 +0000" stop="20250812161500 +0000" channel="RCTI.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
+<programme start="20250812133000 +0000" stop="20250812151500 +0000" channel="RCTI.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
 </programme>
-<programme start="20250812161500 +0000" stop="20250812164500 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali</title>
+<programme start="20250812151500 +0000" stop="20250812154500 +0000" channel="RCTI.mncvision">
+    <title>ASEAN Women&#039;s MSIG Serenity</title>
 </programme>
 <programme start="20250811181500 +0000" stop="20250811190000 +0000" channel="RCTI HD.mncvision">
     <title>Awas Banyak Copet</title>
@@ -7447,17 +7447,17 @@
 <programme start="20250812090000 +0000" stop="20250812100000 +0000" channel="RCTI HD.mncvision">
     <title>Joe &amp; Robot Kopi</title>
 </programme>
-<programme start="20250812100000 +0000" stop="20250812114500 +0000" channel="RCTI HD.mncvision">
+<programme start="20250812100000 +0000" stop="20250812113000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="RCTI HD.mncvision">
-    <title>ASEAN Women&#039;s MSIG Serenity (L)</title>
+<programme start="20250812113000 +0000" stop="20250812133000 +0000" channel="RCTI HD.mncvision">
+    <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20250812143000 +0000" stop="20250812161500 +0000" channel="RCTI HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
+<programme start="20250812133000 +0000" stop="20250812151500 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
 </programme>
-<programme start="20250812161500 +0000" stop="20250812164500 +0000" channel="RCTI HD.mncvision">
-    <title>Amanah Wali</title>
+<programme start="20250812151500 +0000" stop="20250812154500 +0000" channel="RCTI HD.mncvision">
+    <title>ASEAN Women&#039;s MSIG Serenity</title>
 </programme>
 <programme start="20250811170500 +0000" stop="20250811190500 +0000" channel="Rock Action.mncvision">
     <title>xXx</title>
@@ -8050,10 +8050,10 @@
 <programme start="20250812083000 +0000" stop="20250812103000 +0000" channel="Sportstars 2.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20250812103000 +0000" stop="20250812114500 +0000" channel="Sportstars 2.mncvision">
+<programme start="20250812103000 +0000" stop="20250812123000 +0000" channel="Sportstars 2.mncvision">
     <title>Indonesia Juara</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20250812123000 +0000" stop="20250812143000 +0000" channel="Sportstars 2.mncvision">
     <title>ASEAN MSIG Serenity Cup (L)</title>
 </programme>
 <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="Sportstars 2.mncvision">
@@ -8101,10 +8101,10 @@
 <programme start="20250812083000 +0000" stop="20250812103000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20250812103000 +0000" stop="20250812114500 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20250812103000 +0000" stop="20250812123000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Indonesia Juara</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20250812123000 +0000" stop="20250812143000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>ASEAN MSIG Serenity Cup (L)</title>
 </programme>
 <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="Sportstars 2 HD.mncvision">

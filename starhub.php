@@ -4946,7 +4946,7 @@
         <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20250811203000 +0000" stop="20250811210000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Magale En Marumagale</title>
     </programme>
     <programme start="20250811210000 +0000" stop="20250811213000 +0000" channel="Vijay TV HD.starhub">
         <title>Dhanam - Ungalil Oruthi</title>
