@@ -661,9 +661,6 @@
 <programme start="20250812073000 +0000" stop="20250812093000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20250812093000 +0000" stop="20250812113000 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
-</programme>
 <programme start="20250812113000 +0000" stop="20250812133000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250813050000 +0000" stop="20250813053000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250813053000 +0000" stop="20250813063000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
 </programme>

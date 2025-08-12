@@ -38,6 +38,10 @@
     <title>Football: SS Lazio - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250813190000 +0700" stop="20250813210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Paris Saint Germain - Aston Villa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250812174500 +0700" stop="20250812194500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -96,6 +100,10 @@
 </programme>
 <programme start="20250813174500 +0700" stop="20250813195000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Hilal - Al Orobah</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813195000 +0700" stop="20250813202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812180000 +0700" stop="20250812200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +250,6 @@
     <title>Basketball: Barcelona - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812170500 +0700" stop="20250812180500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250812180500 +0700" stop="20250812190500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -348,6 +352,10 @@
 </programme>
 <programme start="20250813180000 +0700" stop="20250813190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813190000 +0700" stop="20250813203000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812180000 +0700" stop="20250812194000 +0700" channel="COSMOTE Sport 6 HD">

@@ -2737,7 +2737,7 @@
 <programme start="20250812144000 +0000" stop="20250812150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250812150000 +0000" stop="20250813080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250812150000 +0000" stop="20250813030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
 <programme start="20250811223000 +0000" stop="20250812003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3178,6 +3178,9 @@
 <programme start="20250812213000 +0000" stop="20250812223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Preview to the Season</title>
 </programme>
+<programme start="20250812030000 +0000" stop="20250812033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Montreal</title>
+</programme>
 <programme start="20250812033000 +0000" stop="20250812053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Raducanu (GBR), Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
@@ -3193,17 +3196,14 @@
 <programme start="20250812110000 +0000" stop="20250812130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Raducanu (GBR), Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
-<programme start="20250812130000 +0000" stop="20250812155500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250812130000 +0000" stop="20250812150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - G. Diallo (CAN), Cincinnati Open in Cincinnati (USA), 5. Tag</title>
 </programme>
-<programme start="20250812155500 +0000" stop="20250813030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250812150000 +0000" stop="20250813030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
-<programme start="20250812030000 +0000" stop="20250812050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250812033000 +0000" stop="20250812053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Raducanu (GBR), Cincinnati Open in Cincinnati (USA), 5. Tag</title>
-</programme>
-<programme start="20250812050000 +0000" stop="20250812053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 90in30: FCK - S04, 2. Spieltag</title>
 </programme>
 <programme start="20250812053000 +0000" stop="20250812060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Scottish Championship</title>
@@ -3222,9 +3222,6 @@
 </programme>
 <programme start="20250812090000 +0000" stop="20250812110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - G. Diallo (CAN), Cincinnati Open in Cincinnati (USA), 5. Tag</title>
-</programme>
-<programme start="20250812110000 +0000" stop="20250812130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 1. FC Nürnberg - SV Darmstadt 98, 2. Spieltag</title>
 </programme>
 <programme start="20250812130000 +0000" stop="20250812150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Fortuna Düsseldorf - Hannover 96, 2. Spieltag</title>
