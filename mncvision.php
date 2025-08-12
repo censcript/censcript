@@ -3988,17 +3988,17 @@
 <programme start="20250812090000 +0000" stop="20250812110000 +0000" channel="GTV.mncvision">
     <title>Indonesia&#039;s Got Talent</title>
 </programme>
-<programme start="20250812110000 +0000" stop="20250812114500 +0000" channel="GTV.mncvision">
+<programme start="20250812110000 +0000" stop="20250812113000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="GTV.mncvision">
-    <title>ASEAN Women&#039;s Championship</title>
+<programme start="20250812113000 +0000" stop="20250812123000 +0000" channel="GTV.mncvision">
+    <title>IPA &amp; IPS</title>
 </programme>
-<programme start="20250812143000 +0000" stop="20250812163000 +0000" channel="GTV.mncvision">
+<programme start="20250812123000 +0000" stop="20250812151000 +0000" channel="GTV.mncvision">
     <title>The Expendables 3</title>
 </programme>
-<programme start="20250812163000 +0000" stop="20250811170000 +0000" channel="GTV.mncvision">
-    <title>Buletin iNews Malam</title>
+<programme start="20250812151000 +0000" stop="20250812154000 +0000" channel="GTV.mncvision">
+    <title>ASEAN Women&#039;s MSIG Serenity Cup</title>
 </programme>
 <programme start="20250811170000 +0000" stop="20250811180000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4030,17 +4030,17 @@
 <programme start="20250812090000 +0000" stop="20250812110000 +0000" channel="GTV HD.mncvision">
     <title>Indonesia&#039;s Got Talent</title>
 </programme>
-<programme start="20250812110000 +0000" stop="20250812114500 +0000" channel="GTV HD.mncvision">
+<programme start="20250812110000 +0000" stop="20250812113000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="GTV HD.mncvision">
-    <title>ASEAN Women&#039;s Championship</title>
+<programme start="20250812113000 +0000" stop="20250812123000 +0000" channel="GTV HD.mncvision">
+    <title>IPA &amp; IPS</title>
 </programme>
-<programme start="20250812143000 +0000" stop="20250812163000 +0000" channel="GTV HD.mncvision">
+<programme start="20250812123000 +0000" stop="20250812151000 +0000" channel="GTV HD.mncvision">
     <title>The Expendables 3</title>
 </programme>
-<programme start="20250812163000 +0000" stop="20250811170000 +0000" channel="GTV HD.mncvision">
-    <title>Buletin iNews Malam</title>
+<programme start="20250812151000 +0000" stop="20250812154000 +0000" channel="GTV HD.mncvision">
+    <title>ASEAN Women&#039;s MSIG Serenity Cup</title>
 </programme>
 <programme start="20250811180000 +0000" stop="20250811183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
