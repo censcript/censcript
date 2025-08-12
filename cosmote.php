@@ -42,8 +42,8 @@
     <title>Football: FC Barcelona - Borussia Dortmund</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812110000 +0700" stop="20250812130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Nassr - Al Ittihad</title>
+<programme start="20250813132000 +0700" stop="20250813160500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SK Rapid Wien - Djurgarden</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812130000 +0700" stop="20250812133000 +0700" channel="COSMOTE Sport 2 HD">
@@ -100,6 +100,14 @@
 </programme>
 <programme start="20250813110000 +0700" stop="20250813130500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Hilal - Al Orobah</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813130500 +0700" stop="20250813132500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813132500 +0700" stop="20250813153500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812120000 +0700" stop="20250812140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -160,10 +168,6 @@
 </programme>
 <programme start="20250813120000 +0700" stop="20250813140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Bristol City</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250812120000 +0700" stop="20250812125500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812125500 +0700" stop="20250812152000 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,8 +246,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812120000 +0700" stop="20250812124500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20250813130000 +0700" stop="20250813133000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813133000 +0700" stop="20250813154000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Trentino - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812124500 +0700" stop="20250812133500 +0700" channel="COSMOTE Sport 5 HD">
@@ -348,6 +356,10 @@
 </programme>
 <programme start="20250813125500 +0700" stop="20250813135500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813135500 +0700" stop="20250813150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812100000 +0700" stop="20250812140000 +0700" channel="COSMOTE Sport 6 HD">
