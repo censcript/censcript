@@ -133,13 +133,13 @@
     <programme start="20250812093000 +0000" stop="20250812100000 +0000" channel="Channel 5.mewatch">
         <title>Mark Moriarty: Off Duty Chef - Series 3 - EP 6</title>
     </programme>
-    <programme start="20250812100000 +0000" stop="20250812110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250812100000 +0000" stop="20250812105500 +0000" channel="Channel 5.mewatch">
         <title>Lingo UK S3 - EP 13</title>
     </programme>
-    <programme start="20250812110000 +0000" stop="20250812113000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250812105500 +0000" stop="20250812112000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S41 - EP 8003</title>
     </programme>
-    <programme start="20250812113000 +0000" stop="20250812123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250812112000 +0000" stop="20250812123000 +0000" channel="Channel 5.mewatch">
         <title>The Maverick Academy - EP 3</title>
     </programme>
     <programme start="20250812123000 +0000" stop="20250812130000 +0000" channel="Channel 5.mewatch">
@@ -1024,10 +1024,10 @@
     <programme start="20250812160000 +0000" stop="20250813160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 15th August, Friday 8.30pm. ONE Friday Fights 120</title>
     </programme>
-    <programme start="20250811160000 +0000" stop="20250812123000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250811160000 +0000" stop="20250812120400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.04pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250812123000 +0000" stop="20250812143000 +0000" channel="Live 5.mewatch">
+    <programme start="20250812120400 +0000" stop="20250812143000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Indonesia vs Cambodia</title>
     </programme>
     <programme start="20250812143000 +0000" stop="20250812160000 +0000" channel="Live 5.mewatch">
@@ -1036,10 +1036,10 @@
     <programme start="20250812160000 +0000" stop="20250813123000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 13th August, Wednesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250811160000 +0000" stop="20250812123000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250811160000 +0000" stop="20250812120400 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.04pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250812123000 +0000" stop="20250812143000 +0000" channel="Live 6.mewatch">
+    <programme start="20250812120400 +0000" stop="20250812143000 +0000" channel="Live 6.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Thailand</title>
     </programme>
     <programme start="20250812143000 +0000" stop="20250812160000 +0000" channel="Live 6.mewatch">
