@@ -8050,10 +8050,10 @@
 <programme start="20250812083000 +0000" stop="20250812103000 +0000" channel="Sportstars 2.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20250812103000 +0000" stop="20250812123000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20250812103000 +0000" stop="20250812114500 +0000" channel="Sportstars 2.mncvision">
     <title>Indonesia Juara</title>
 </programme>
-<programme start="20250812123000 +0000" stop="20250812143000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="Sportstars 2.mncvision">
     <title>ASEAN MSIG Serenity Cup (L)</title>
 </programme>
 <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="Sportstars 2.mncvision">
@@ -8101,10 +8101,10 @@
 <programme start="20250812083000 +0000" stop="20250812103000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20250812103000 +0000" stop="20250812123000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20250812103000 +0000" stop="20250812114500 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Indonesia Juara</title>
 </programme>
-<programme start="20250812123000 +0000" stop="20250812143000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>ASEAN MSIG Serenity Cup (L)</title>
 </programme>
 <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="Sportstars 2 HD.mncvision">

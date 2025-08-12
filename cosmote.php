@@ -102,6 +102,10 @@
     <title>Football: Volos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250813174500 +0700" stop="20250813195000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Hilal - Al Orobah</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250812160000 +0700" stop="20250812180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Tondela</title>
     <desc>Live: Tidak</desc>
@@ -246,8 +250,8 @@
     <title>Basketball: Fenerbahce - Turk Telekom</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812151000 +0700" stop="20250812161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2024</title>
+<programme start="20250813174000 +0700" stop="20250813180000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812161000 +0700" stop="20250812170500 +0700" channel="COSMOTE Sport 5 HD">
@@ -352,6 +356,10 @@
 </programme>
 <programme start="20250813161500 +0700" stop="20250813170000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813170000 +0700" stop="20250813180000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812140000 +0700" stop="20250812180000 +0700" channel="COSMOTE Sport 6 HD">
