@@ -19,16 +19,19 @@
 <programme start="20250812090000 +0000" stop="20250812100000 +0000" channel="RCTI.vision">
 <title>Joe &amp; Robot Kopi</title>
 </programme>
-<programme start="20250812100000 +0000" stop="20250812114500 +0000" channel="RCTI.vision">
+<programme start="20250812100000 +0000" stop="20250812113000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X (RCTI)</title>
 </programme>
-<programme start="20250812114500 +0000" stop="20250812143000 +0000" channel="RCTI.vision">
+<programme start="20250812113000 +0000" stop="20250812133000 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
+</programme>
+<programme start="20250812133000 +0000" stop="20250812151500 +0000" channel="RCTI.vision">
+<title>Mencintaimu Sekali Lagi (RCTI)</title>
+</programme>
+<programme start="20250812151500 +0000" stop="20250812173000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20250812143000 +0000" stop="20250812161500 +0000" channel="RCTI.vision">
-<title>Kau Ditakdirkan Untukku (RCTI)</title>
-</programme>
-<programme start="20250812161500 +0000" stop="20250812181500 +0000" channel="RCTI.vision">
+<programme start="20250812173000 +0000" stop="20250812181500 +0000" channel="RCTI.vision">
 <title>Amanah Wali</title>
 </programme>
 <programme start="20250812181500 +0000" stop="20250812190000 +0000" channel="RCTI.vision">
@@ -652,29 +655,14 @@
 <programme start="20250812003000 +0000" stop="20250812020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250812020000 +0000" stop="20250812053000 +0000" channel="ANTV.vision">
-<title>Ram Jaane</title>
-</programme>
 <programme start="20250812053000 +0000" stop="20250812073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20250812073000 +0000" stop="20250812093000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20250812093000 +0000" stop="20250812113000 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
-</programme>
 <programme start="20250812113000 +0000" stop="20250812133000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250812133000 +0000" stop="20250812153000 +0000" channel="ANTV.vision">
-<title>Pendekar Mata Satu</title>
-</programme>
-<programme start="20250812153000 +0000" stop="20250812173000 +0000" channel="ANTV.vision">
-<title>Point Of No Return</title>
-</programme>
-<programme start="20250812173000 +0000" stop="20250812190000 +0000" channel="ANTV.vision">
-<title>Troublesome Night 2</title>
 </programme>
 <programme start="20250812190000 +0000" stop="20250812203000 +0000" channel="ANTV.vision">
 <title>The Kids Vs The Cop</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250813050000 +0000" stop="20250813053000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250813053000 +0000" stop="20250813063000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250813063000 +0000" stop="20250813070000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20250813070000 +0000" stop="20250813080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250813080000 +0000" stop="20250813090000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
 </programme>
