@@ -2737,7 +2737,7 @@
 <programme start="20250812144000 +0000" stop="20250812150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250812150000 +0000" stop="20250813030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250812150000 +0000" stop="20250813080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
 <programme start="20250811223000 +0000" stop="20250812003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3011,7 +3011,7 @@
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250812163000 +0000" stop="20250812165500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Fußball: Real Spezial - Alonsos neue &quot;Galácticos&quot;?!</title>
+    <title>Live Sky Sport News: Real Spezial - Alonsos neue &quot;Galácticos&quot;?!</title>
 </programme>
 <programme start="20250812165500 +0000" stop="20250812190000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Testspiel: WSG Tirol - Real Madrid, Testspiel in Innsbruck</title>
@@ -3202,11 +3202,8 @@
 <programme start="20250812150000 +0000" stop="20250813030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
-<programme start="20250812030000 +0000" stop="20250812050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250812033000 +0000" stop="20250812053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Raducanu (GBR), Cincinnati Open in Cincinnati (USA), 5. Tag</title>
-</programme>
-<programme start="20250812050000 +0000" stop="20250812053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 90in30: FCK - S04, 2. Spieltag</title>
 </programme>
 <programme start="20250812053000 +0000" stop="20250812060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Golf: Highlights Scottish Championship</title>
@@ -3667,22 +3664,22 @@
 <programme start="20250812040000 +0000" stop="20250812060000 +0000" channel="Warner TV Film.skyde">
     <title>Kampf der Titanen</title>
 </programme>
-<programme start="20250812060000 +0000" stop="20250812074000 +0000" channel="Warner TV Film.skyde">
-    <title>Der Unerbittliche</title>
+<programme start="20250812060000 +0000" stop="20250812074500 +0000" channel="Warner TV Film.skyde">
+    <title>Die Zeitmaschine</title>
 </programme>
-<programme start="20250812074000 +0000" stop="20250812095000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812074500 +0000" stop="20250812095500 +0000" channel="Warner TV Film.skyde">
     <title>Erbarmungslos</title>
 </programme>
-<programme start="20250812095000 +0000" stop="20250812115000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812095500 +0000" stop="20250812115500 +0000" channel="Warner TV Film.skyde">
     <title>Bullitt</title>
 </programme>
-<programme start="20250812115000 +0000" stop="20250812142000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812115500 +0000" stop="20250812142500 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight</title>
 </programme>
-<programme start="20250812142000 +0000" stop="20250812162500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812142500 +0000" stop="20250812163000 +0000" channel="Warner TV Film.skyde">
     <title>Prometheus - Dunkle Zeichen</title>
 </programme>
-<programme start="20250812162500 +0000" stop="20250812181500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250812163000 +0000" stop="20250812181500 +0000" channel="Warner TV Film.skyde">
     <title>Solaris</title>
 </programme>
 <programme start="20250812181500 +0000" stop="20250812202500 +0000" channel="Warner TV Film.skyde">
@@ -3706,22 +3703,22 @@
 <programme start="20250812040000 +0000" stop="20250812060000 +0000" channel="Warner TV Film HD.skyde">
     <title>Kampf der Titanen</title>
 </programme>
-<programme start="20250812060000 +0000" stop="20250812074000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Unerbittliche</title>
+<programme start="20250812060000 +0000" stop="20250812074500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Zeitmaschine</title>
 </programme>
-<programme start="20250812074000 +0000" stop="20250812095000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250812074500 +0000" stop="20250812095500 +0000" channel="Warner TV Film HD.skyde">
     <title>Erbarmungslos</title>
 </programme>
-<programme start="20250812095000 +0000" stop="20250812115000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250812095500 +0000" stop="20250812115500 +0000" channel="Warner TV Film HD.skyde">
     <title>Bullitt</title>
 </programme>
-<programme start="20250812115000 +0000" stop="20250812142000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250812115500 +0000" stop="20250812142500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Dark Knight</title>
 </programme>
-<programme start="20250812142000 +0000" stop="20250812162500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250812142500 +0000" stop="20250812163000 +0000" channel="Warner TV Film HD.skyde">
     <title>Prometheus - Dunkle Zeichen</title>
 </programme>
-<programme start="20250812162500 +0000" stop="20250812181500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250812163000 +0000" stop="20250812181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Solaris</title>
 </programme>
 <programme start="20250812181500 +0000" stop="20250812202500 +0000" channel="Warner TV Film HD.skyde">

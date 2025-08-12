@@ -102,6 +102,10 @@
     <title>Football: AEL - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250813153500 +0700" stop="20250813174500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250812140000 +0700" stop="20250812160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Internacional - Bahia</title>
     <desc>Live: Tidak</desc>
@@ -246,8 +250,8 @@
     <title>Basketball: Trentino - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250812133500 +0700" stop="20250812141000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E7</title>
+<programme start="20250813154000 +0700" stop="20250813174000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Turk Telekom</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812141000 +0700" stop="20250812151000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +354,14 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250813150000 +0700" stop="20250813153000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813153000 +0700" stop="20250813161500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250812140000 +0700" stop="20250812180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -396,6 +408,14 @@
 </programme>
 <programme start="20250813145000 +0700" stop="20250813152000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813152000 +0700" stop="20250813155000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Sailing to the Games 2025 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250813155000 +0700" stop="20250813180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250812140000 +0700" stop="20250812160000 +0700" channel="COSMOTE Sport 7 HD">
