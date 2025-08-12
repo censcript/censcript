@@ -592,68 +592,47 @@
     <programme start="20250811150000 +0000" stop="20250811161500 +0000" channel="now-80s.mewatch">
         <title>Every Video- Queen&#039;s Greatest Hits - EP1</title>
     </programme>
-    <programme start="20250811161500 +0000" stop="20250811170000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night! - EP1</title>
-    </programme>
     <programme start="20250811170000 +0000" stop="20250811180500 +0000" channel="now-80s.mewatch">
-        <title>Paul Young&#039;s 25 Classic Covers! - EP1</title>
+        <title>Great Song - Stupid Title! 1980-89 - EP1</title>
     </programme>
     <programme start="20250811180500 +0000" stop="20250811190000 +0000" channel="now-80s.mewatch">
-        <title>Soft Rock &amp; Power Pop! - EP1</title>
+        <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250811190000 +0000" stop="20250811210000 +0000" channel="now-80s.mewatch">
-        <title>Complete George Michael: 1982-1989 - EP1</title>
+    <programme start="20250811190000 +0000" stop="20250811220000 +0000" channel="now-80s.mewatch">
+        <title>The Ultimate Duets! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250811210000 +0000" stop="20250811220000 +0000" channel="now-80s.mewatch">
-        <title>Every Video- Queen&#039;s Greatest Hits - EP1</title>
+    <programme start="20250811220000 +0000" stop="20250812001500 +0000" channel="now-80s.mewatch">
+        <title>Every Song From Now 7 - 1986 - EP1</title>
     </programme>
-    <programme start="20250811220000 +0000" stop="20250812000000 +0000" channel="now-80s.mewatch">
-        <title>Strictly Dance Crazes Of The 80s! - EP1</title>
+    <programme start="20250812001500 +0000" stop="20250812010000 +0000" channel="now-80s.mewatch">
+        <title>Only The Biggest 80s Anthems! - EP1</title>
     </programme>
-    <programme start="20250812000000 +0000" stop="20250812014500 +0000" channel="now-80s.mewatch">
-        <title>Eurovision: The Highs &amp; Lows! - EP1</title>
+    <programme start="20250812010000 +0000" stop="20250812021000 +0000" channel="now-80s.mewatch">
+        <title>Tears For Fears: 1982-1989 - EP1</title>
     </programme>
-    <programme start="20250812014500 +0000" stop="20250812020000 +0000" channel="now-80s.mewatch">
-        <title>Cinema Soundtracks - All Day! - EP1</title>
+    <programme start="20250812021000 +0000" stop="20250812030000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250812020000 +0000" stop="20250812030000 +0000" channel="now-80s.mewatch">
-        <title>The Name&#039;s Bond - James Bond! - EP1</title>
+    <programme start="20250812030000 +0000" stop="20250812070500 +0000" channel="now-80s.mewatch">
+        <title>Tucker &amp; Roland&#039;s School Disco 50! - EP1</title>
     </programme>
-    <programme start="20250812030000 +0000" stop="20250812050000 +0000" channel="now-80s.mewatch">
-        <title>Love At The Movies! With Pat Sharp - EP1</title>
+    <programme start="20250812070500 +0000" stop="20250812080000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250812050000 +0000" stop="20250812060000 +0000" channel="now-80s.mewatch">
-        <title>Cinema Soundtracks - All Day! - EP1</title>
+    <programme start="20250812080000 +0000" stop="20250812113000 +0000" channel="now-80s.mewatch">
+        <title>Every No.1 From The Ladies! 80-89 - EP1</title>
     </programme>
-    <programme start="20250812060000 +0000" stop="20250812080000 +0000" channel="now-80s.mewatch">
-        <title>More Movie Madness! 1980-1989 - EP1</title>
+    <programme start="20250812113000 +0000" stop="20250812120000 +0000" channel="now-80s.mewatch">
+        <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250812080000 +0000" stop="20250812085000 +0000" channel="now-80s.mewatch">
-        <title>Soundtrack Smashes: 1984 - EP1</title>
+    <programme start="20250812120000 +0000" stop="20250812143000 +0000" channel="now-80s.mewatch">
+        <title>Sonia&#039;s 30 Great Girls! - EP1</title>
     </programme>
-    <programme start="20250812085000 +0000" stop="20250812090000 +0000" channel="now-80s.mewatch">
-        <title>Cinema Soundtracks - All Day! - EP1</title>
+    <programme start="20250812143000 +0000" stop="20250812150000 +0000" channel="now-80s.mewatch">
+        <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250812090000 +0000" stop="20250812093000 +0000" channel="now-80s.mewatch">
-        <title>Soundtrack Smashes: 1985 - EP1</title>
-    </programme>
-    <programme start="20250812093000 +0000" stop="20250812103000 +0000" channel="now-80s.mewatch">
-        <title>Paul Young&#039;s 25 Classic Covers! - EP1</title>
-    </programme>
-    <programme start="20250812103000 +0000" stop="20250812110000 +0000" channel="now-80s.mewatch">
-        <title>Soundtrack Smashes: 1986 - EP1</title>
-    </programme>
-    <programme start="20250812110000 +0000" stop="20250812133500 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
-    </programme>
-    <programme start="20250812133500 +0000" stop="20250812140000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies! - EP1</title>
-    </programme>
-    <programme start="20250812140000 +0000" stop="20250812150000 +0000" channel="now-80s.mewatch">
-        <title>Rock Movie Monsters! 1980-1989 - EP1</title>
-    </programme>
-    <programme start="20250812150000 +0000" stop="20250812163000 +0000" channel="now-80s.mewatch">
-        <title>Movie Monsters Of The 80s - EP1</title>
+    <programme start="20250812150000 +0000" stop="20250812170000 +0000" channel="now-80s.mewatch">
+        <title>Did They Think They Could Dance?! - EP1</title>
     </programme>
     <programme start="20250811160000 +0000" stop="20250811162500 +0000" channel="now-70s.mewatch">
         <title>All Day - They Hit The Top Spot! - EP1</title>
