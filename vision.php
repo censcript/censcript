@@ -652,9 +652,6 @@
 <programme start="20250813120000 +0000" stop="20250813140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250813140000 +0000" stop="20250813160000 +0000" channel="ANTV.vision">
-<title>Durjana Pemetik Bunga</title>
-</programme>
 <programme start="20250813160000 +0000" stop="20250813180000 +0000" channel="ANTV.vision">
 <title>I Love Maria</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250814110000 +0000" stop="20250814120000 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
+</programme>
+<programme start="20250812232000 +0000" stop="20250813005000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
