@@ -2342,34 +2342,34 @@
         <title>ATP Doco Shorts (CC): Andy Murray Championship Points and Trophy Lifts</title>
     </programme>
     <programme start="20250813033000 +0000" stop="20250813050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 1</title>
+        <title>Cincinnati Day 6 Rublev v Popyrin</title>
     </programme>
     <programme start="20250813050000 +0000" stop="20250813063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 2</title>
+        <title>Cincinnati Day 6 Alcaraz v Medjedovic</title>
     </programme>
     <programme start="20250813063000 +0000" stop="20250813070000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250813070000 +0000" stop="20250813083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 3</title>
+        <title>Cincinnati Day 6 Khachanov v Brooksby</title>
     </programme>
     <programme start="20250813083000 +0000" stop="20250813100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 4</title>
+        <title>Cincinnati Day 6 Alcaraz v Medjedovic</title>
     </programme>
     <programme start="20250813100000 +0000" stop="20250813103000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250813103000 +0000" stop="20250813120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 1</title>
+        <title>Cincinnati Day 6 Rublev v Popyrin</title>
     </programme>
     <programme start="20250813120000 +0000" stop="20250813133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 4</title>
+        <title>Cincinnati Day 6 Khachanov v Brooksby</title>
     </programme>
     <programme start="20250813133000 +0000" stop="20250813150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 6 Match 5</title>
+        <title>Cincinnati Day 6 Alcaraz v Medjedovic</title>
     </programme>
     <programme start="20250813150000 +0000" stop="20250813170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Day 7 Match 1</title>
+        <title>Cincinnati Day 7 Rune v Tiafoe</title>
     </programme>
     <programme start="20250812160000 +0000" stop="20250812170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
