@@ -118,6 +118,10 @@
     <title>Football: Al Raed - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250814131000 +0700" stop="20250814151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al-Okhdood Club - Al Nassr</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250813120000 +0700" stop="20250813140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Bristol City</title>
     <desc>Live: Tidak</desc>
@@ -176,14 +180,6 @@
 </programme>
 <programme start="20250814120000 +0700" stop="20250814140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Derby County</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250813120000 +0700" stop="20250813123000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250813123000 +0700" stop="20250813130000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250813130000 +0700" stop="20250813133000 +0700" channel="COSMOTE Sport 4 HD">
@@ -250,8 +246,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250813115500 +0700" stop="20250813125500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
+<programme start="20250814130000 +0700" stop="20250814133000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250814133000 +0700" stop="20250814153000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Trentino - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250813125500 +0700" stop="20250813135500 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,6 +362,10 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250814130000 +0700" stop="20250814140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250813100000 +0700" stop="20250813140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -416,6 +420,10 @@
 </programme>
 <programme start="20250814103000 +0700" stop="20250814130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250814130000 +0700" stop="20250814151000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250813120000 +0700" stop="20250813140000 +0700" channel="COSMOTE Sport 7 HD">

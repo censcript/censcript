@@ -1009,10 +1009,10 @@
     <programme start="20250813160000 +0000" stop="20250814160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 15th August, Friday 8.30pm. ONE Friday Fights 120</title>
     </programme>
-    <programme start="20250812160000 +0000" stop="20250813123000 +0000" channel="Live 5.mewatch">
+    <programme start="20250812160000 +0000" stop="20250813120400 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 13th August, Wednesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250813123000 +0000" stop="20250813143000 +0000" channel="Live 5.mewatch">
+    <programme start="20250813120400 +0000" stop="20250813143000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Australia vs Timor-Leste</title>
     </programme>
     <programme start="20250813143000 +0000" stop="20250813160000 +0000" channel="Live 5.mewatch">
