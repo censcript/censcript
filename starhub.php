@@ -2083,14 +2083,11 @@
     <programme start="20250812213000 +0000" stop="20250812231500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2024/25: Brest vs PSV - MD6</title>
     </programme>
-    <programme start="20250812231500 +0000" stop="20250812233000 +0000" channel="beIN Sports 3.starhub">
-        <title>Qatar Major Women&#039;s Final</title>
+    <programme start="20250812234000 +0000" stop="20250813024500 +0000" channel="beIN Sports 3.starhub">
+        <title>Group 11 Pairs Cup</title>
     </programme>
-    <programme start="20250812233000 +0000" stop="20250813024000 +0000" channel="beIN Sports 3.starhub">
-        <title>Ultimate Pool 2025: Group 11 Pairs Cup</title>
-    </programme>
-    <programme start="20250813024000 +0000" stop="20250813043000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2024/25: Hoffenheim vs FCSB - MD6</title>
+    <programme start="20250813024500 +0000" stop="20250813043000 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Europa League 2024/25 Hoffenheim vs FCSB - MD6</title>
     </programme>
     <programme start="20250813043000 +0000" stop="20250813050000 +0000" channel="beIN Sports 3.starhub">
         <title>Rolex SailGP</title>
@@ -2108,7 +2105,7 @@
         <title>Munich - The Documentary</title>
     </programme>
     <programme start="20250813083000 +0000" stop="20250813102000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga 2024/25: Stuttgart vs Werder Bremen</title>
+        <title>Bundesliga 2024/25 Stuttgart vs Werder Bremen</title>
     </programme>
     <programme start="20250813102000 +0000" stop="20250813103000 +0000" channel="beIN Sports 3.starhub">
         <title>Miami P1 Women</title>
@@ -2126,7 +2123,7 @@
         <title>Fearless</title>
     </programme>
     <programme start="20250813135300 +0000" stop="20250813160000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies African Nations C&#039;ship, KE-TZ-UG 2024: Madagascar vs Central Afric</title>
+        <title>TotalEnergies African Nations C&#039;ship, KE-TZ-UG 2024 Madagascar vs Central Africa</title>
     </programme>
     <programme start="20250812153000 +0000" stop="20250812163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -2306,7 +2303,7 @@
         <title>Movie - Malabar Police</title>
     </programme>
     <programme start="20250813043000 +0000" stop="20250813073000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Jameen</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250813073000 +0000" stop="20250813103000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thadayam</title>

@@ -610,6 +610,12 @@
     <programme start="20250813160000 +0000" stop="20250814160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 16th August, Saturday 7.50pm. Singapore Premier League 2025/2026</title>
     </programme>
+    <programme start="20250812160000 +0000" stop="20250813160000 +0000" channel="spl02.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250813160000 +0000" stop="20250814160000 +0000" channel="spl02.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20250812150000 +0000" stop="20250812170000 +0000" channel="now-80s.mewatch">
         <title>Did They Think They Could Dance?! - EP1</title>
     </programme>
