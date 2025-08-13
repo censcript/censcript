@@ -6974,7 +6974,7 @@
         <title>Ibiza Marathon</title>
     </programme>
     <programme start="20250812220000 +0000" stop="20250812230000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Asian Tour - Alula Tour Final Highlights</title>
+        <title>UCI Asian Tour - Alula Tour Final H/Ls</title>
     </programme>
     <programme start="20250812230000 +0000" stop="20250813010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Cincinnati Open (1000) Day 4 Session 3</title>
