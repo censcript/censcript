@@ -8234,7 +8234,7 @@
     <title>UEFA Nations League</title>
 </programme>
 <programme start="20250813110000 +0000" stop="20250813113000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sportrivia</title>
+    <title>Sportivia</title>
 </programme>
 <programme start="20250813113000 +0000" stop="20250813120000 +0000" channel="Sportstars 4.mncvision">
     <title>Bloopers</title>
@@ -8279,7 +8279,7 @@
     <title>UEFA Nations League</title>
 </programme>
 <programme start="20250813110000 +0000" stop="20250813113000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sportrivia</title>
+    <title>Sportivia</title>
 </programme>
 <programme start="20250813113000 +0000" stop="20250813120000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bloopers</title>
