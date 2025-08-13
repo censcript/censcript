@@ -114,6 +114,10 @@
     <title>Football: Al-Okhdood Club - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250814151000 +0700" stop="20250814172500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250813140000 +0700" stop="20250813160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Penarol - Racing Club</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +246,12 @@
     <title>Basketball: Trentino - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250813135500 +0700" stop="20250813150000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP Classics</title>
+<programme start="20250814153000 +0700" stop="20250814155500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250814155500 +0700" stop="20250814175500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250813150000 +0700" stop="20250813153000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,12 +362,8 @@
     <title>MotoGP Classics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250813140000 +0700" stop="20250813142000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250813142000 +0700" stop="20250813145000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E7</title>
+<programme start="20250814150500 +0700" stop="20250814163500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250813145000 +0700" stop="20250813152000 +0700" channel="COSMOTE Sport 6 HD">
@@ -408,6 +412,14 @@
 </programme>
 <programme start="20250814130000 +0700" stop="20250814151000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250814151000 +0700" stop="20250814153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E24</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250814153000 +0700" stop="20250814180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250813140000 +0700" stop="20250813160000 +0700" channel="COSMOTE Sport 7 HD">

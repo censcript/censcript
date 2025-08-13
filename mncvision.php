@@ -3056,7 +3056,7 @@
     <title>Masihkah Kau Mencintaiku</title>
 </programme>
 <programme start="20250812220000 +0000" stop="20250812230000 +0000" channel="Entertainment.mncvision">
-    <title>Superdeal Indonesia</title>
+    <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20250812230000 +0000" stop="20250813003000 +0000" channel="Entertainment.mncvision">
     <title>Akhirnya Datang Juga</title>
@@ -3074,7 +3074,7 @@
     <title>Rumah Teka-Teki</title>
 </programme>
 <programme start="20250813050000 +0000" stop="20250813060000 +0000" channel="Entertainment.mncvision">
-    <title>Superdeal Indonesia</title>
+    <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20250813060000 +0000" stop="20250813080000 +0000" channel="Entertainment.mncvision">
     <title>Take Me Out Indonesia</title>
@@ -3095,7 +3095,7 @@
     <title>Hot Spot Viral</title>
 </programme>
 <programme start="20250813133000 +0000" stop="20250813143000 +0000" channel="Entertainment.mncvision">
-    <title>Superdeal Indonesia</title>
+    <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20250813143000 +0000" stop="20250813163000 +0000" channel="Entertainment.mncvision">
     <title>Masihkah Kau Mencintaiku</title>
@@ -8353,39 +8353,6 @@
 <programme start="20250813160000 +0000" stop="20250813163000 +0000" channel="Sportstars HD.mncvision">
     <title>FIBA Asia Cup: IRN Vs TPE (L)</title>
 </programme>
-<programme start="20250812180000 +0000" stop="20250812190000 +0000" channel="SPOTV.mncvision">
-    <title>SRO Japan Cup 2025: Fuji Qual.</title>
-</programme>
-<programme start="20250812190000 +0000" stop="20250812213000 +0000" channel="SPOTV.mncvision">
-    <title>SRO Japan Cup 2025: Fuji Race 1</title>
-</programme>
-<programme start="20250812213000 +0000" stop="20250813000000 +0000" channel="SPOTV.mncvision">
-    <title>SRO Japan Cup 2025: Fuji Race 2</title>
-</programme>
-<programme start="20250813000000 +0000" stop="20250813003000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV Encore: MLS &#039;25 July HL</title>
-</programme>
-<programme start="20250813003000 +0000" stop="20250813033000 +0000" channel="SPOTV.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813033000 +0000" stop="20250813063000 +0000" channel="SPOTV.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813063000 +0000" stop="20250813093000 +0000" channel="SPOTV.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813093000 +0000" stop="20250813120000 +0000" channel="SPOTV.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813120000 +0000" stop="20250813140000 +0000" channel="SPOTV.mncvision">
-    <title>Como Cup 2025: AHL Vs CEL</title>
-</programme>
-<programme start="20250813140000 +0000" stop="20250813160000 +0000" channel="SPOTV.mncvision">
-    <title>Como Cup 2025: COM Vs AJA</title>
-</programme>
-<programme start="20250813160000 +0000" stop="20250813163000 +0000" channel="SPOTV.mncvision">
-    <title>GT World Challenge Europe &#039;25</title>
-</programme>
 <programme start="20250812175000 +0000" stop="20250812200000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT United States Smash</title>
 </programme>
@@ -8475,39 +8442,6 @@
 </programme>
 <programme start="20250813160000 +0000" stop="20250813163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 SLS C&#039;ship Tour Brasilia</title>
-</programme>
-<programme start="20250812180000 +0000" stop="20250812190000 +0000" channel="SPOTV HD.mncvision">
-    <title>SRO Japan Cup 2025: Fuji Qual.</title>
-</programme>
-<programme start="20250812190000 +0000" stop="20250812213000 +0000" channel="SPOTV HD.mncvision">
-    <title>SRO Japan Cup 2025: Fuji Race 1</title>
-</programme>
-<programme start="20250812213000 +0000" stop="20250813000000 +0000" channel="SPOTV HD.mncvision">
-    <title>SRO Japan Cup 2025: Fuji Race 2</title>
-</programme>
-<programme start="20250813000000 +0000" stop="20250813003000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV Encore: MLS &#039;25 July HL</title>
-</programme>
-<programme start="20250813003000 +0000" stop="20250813033000 +0000" channel="SPOTV HD.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813033000 +0000" stop="20250813063000 +0000" channel="SPOTV HD.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813063000 +0000" stop="20250813093000 +0000" channel="SPOTV HD.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813093000 +0000" stop="20250813120000 +0000" channel="SPOTV HD.mncvision">
-    <title>WTT Champions Yokohama &#039;25</title>
-</programme>
-<programme start="20250813120000 +0000" stop="20250813140000 +0000" channel="SPOTV HD.mncvision">
-    <title>Como Cup 2025: AHL Vs CEL</title>
-</programme>
-<programme start="20250813140000 +0000" stop="20250813160000 +0000" channel="SPOTV HD.mncvision">
-    <title>Como Cup 2025: COM Vs AJA</title>
-</programme>
-<programme start="20250813160000 +0000" stop="20250813163000 +0000" channel="SPOTV HD.mncvision">
-    <title>GT World Challenge Europe &#039;25</title>
 </programme>
 <programme start="20250812170500 +0000" stop="20250812190000 +0000" channel="Studio Universal.mncvision">
     <title>American Graffiti</title>

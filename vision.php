@@ -110,58 +110,52 @@
 <title>Rumahnya Keluarga</title>
 </programme>
 <programme start="20250813170000 +0000" stop="20250813190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250813190000 +0000" stop="20250813203000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20250813203000 +0000" stop="20250813213000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20250813213000 +0000" stop="20250813220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Jurnal Lintas iNews Pagi</title>
 </programme>
 <programme start="20250813220000 +0000" stop="20250813230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
-<programme start="20250813230000 +0000" stop="20250813234500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250813230000 +0000" stop="20250813231500 +0000" channel="MNCTV.vision">
+<title>Sinema Spesial Upin &amp; Ipin</title>
 </programme>
-<programme start="20250813234500 +0000" stop="20250814001500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250813231500 +0000" stop="20250814000000 +0000" channel="MNCTV.vision">
+<title>Kung Fu Panda Sang Pendekar</title>
 </programme>
-<programme start="20250814001500 +0000" stop="20250814011500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250814000000 +0000" stop="20250814010000 +0000" channel="MNCTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20250814011500 +0000" stop="20250814013000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20250814013000 +0000" stop="20250814023000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250814010000 +0000" stop="20250814023000 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20250814023000 +0000" stop="20250814033000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Siang</title>
 </programme>
 <programme start="20250814033000 +0000" stop="20250814043000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Seleb On News</title>
 </programme>
-<programme start="20250814043000 +0000" stop="20250814050000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
-</programme>
-<programme start="20250814050000 +0000" stop="20250814060000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250814043000 +0000" stop="20250814060000 +0000" channel="MNCTV.vision">
+<title>Kuasa Ilahi</title>
 </programme>
 <programme start="20250814060000 +0000" stop="20250814073000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
-<programme start="20250814073000 +0000" stop="20250814084500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250814073000 +0000" stop="20250814090000 +0000" channel="MNCTV.vision">
+<title>Bedah Rumah</title>
 </programme>
-<programme start="20250814084500 +0000" stop="20250814100000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<programme start="20250814090000 +0000" stop="20250814100000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250814100000 +0000" stop="20250814120000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250812233000 +0000" stop="20250813013000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
@@ -648,9 +642,6 @@
 </programme>
 <programme start="20250813003000 +0000" stop="20250813020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250813020000 +0000" stop="20250813053000 +0000" channel="ANTV.vision">
-<title>Cirkus</title>
 </programme>
 <programme start="20250813053000 +0000" stop="20250813073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250814063000 +0000" stop="20250814070000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20250814070000 +0000" stop="20250814080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250814080000 +0000" stop="20250814090000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
+</programme>
+<programme start="20250814090000 +0000" stop="20250814100000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
 </programme>
