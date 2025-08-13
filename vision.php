@@ -652,15 +652,6 @@
 <programme start="20250813120000 +0000" stop="20250813140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250813160000 +0000" stop="20250813180000 +0000" channel="ANTV.vision">
-<title>I Love Maria</title>
-</programme>
-<programme start="20250813180000 +0000" stop="20250813190000 +0000" channel="ANTV.vision">
-<title>Troublesome Night 3</title>
-</programme>
-<programme start="20250813190000 +0000" stop="20250813203000 +0000" channel="ANTV.vision">
-<title>Me And You And A Girl Name Ugly</title>
-</programme>
 <programme start="20250813203000 +0000" stop="20250813220000 +0000" channel="ANTV.vision">
 <title>Jangan Ambil Nyawaku</title>
 </programme>
@@ -1496,5 +1487,14 @@
 <title>Dunia Binatang</title>
 </programme>
 <programme start="20250812232000 +0000" stop="20250813005000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250813005000 +0000" stop="20250813023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250813023000 +0000" stop="20250813040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250813040000 +0000" stop="20250813053500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
