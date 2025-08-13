@@ -7010,10 +7010,10 @@
         <title>Show 122</title>
     </programme>
     <programme start="20250813120000 +0000" stop="20250813133000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cincinnati Open (1000) Day 4 Session 3</title>
+        <title>Cincinnati Open (1000) Day 2 Session 2</title>
     </programme>
     <programme start="20250813133000 +0000" stop="20250813150000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cincinnati Open (1000) Day 4 Session 4</title>
+        <title>Cincinnati Open (1000) Day 2 Session 3</title>
     </programme>
     <programme start="20250813150000 +0000" stop="20250813190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Cincinnati Open (1000) Day 5 Session 1</title>
