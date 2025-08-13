@@ -2060,7 +2060,7 @@
         <title>The Same Badge</title>
     </programme>
     <programme start="20250812160000 +0000" stop="20250812163000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - UEFA Europa League 2024/25: AZ Alkmaar vs Roma - MD7</title>
+        <title>Mini Match - UEFA Europa League 2024/25 AZ Alkmaar vs Roma - MD7</title>
     </programme>
     <programme start="20250812163000 +0000" stop="20250812163800 +0000" channel="beIN Sports 3.starhub">
         <title>Riyadh P1 Men</title>
@@ -2069,7 +2069,7 @@
         <title>Riyadh P1 Women&#039;s Final</title>
     </programme>
     <programme start="20250812165300 +0000" stop="20250812190000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies African Nations C&#039;ship, KE-TZ-UG 2024: Sudan vs Nigeria (Live)</title>
+        <title>TotalEnergies African Nations C&#039;ship, KE-TZ-UG 2024 Sudan vs Nigeria (Live)</title>
     </programme>
     <programme start="20250812190000 +0000" stop="20250812193000 +0000" channel="beIN Sports 3.starhub">
         <title>Recap Andorra Epic &amp; Preview Swiss Epic</title>
@@ -2078,10 +2078,13 @@
         <title>Miami P1 Men</title>
     </programme>
     <programme start="20250812194000 +0000" stop="20250812213000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2024/25: Union Saint-Gilloise vs Nice - MD6</title>
+        <title>UEFA Europa League 2024/25 Union Saint-Gilloise vs Nice - MD6</title>
     </programme>
-    <programme start="20250812213000 +0000" stop="20250812231500 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2024/25: Brest vs PSV - MD6</title>
+    <programme start="20250812213000 +0000" stop="20250812232000 +0000" channel="beIN Sports 3.starhub">
+        <title>UEFA Champions League 2024/25 Brest vs PSV - MD6</title>
+    </programme>
+    <programme start="20250812232000 +0000" stop="20250812234000 +0000" channel="beIN Sports 3.starhub">
+        <title>Keep the Red Flag Flying High</title>
     </programme>
     <programme start="20250812234000 +0000" stop="20250813024500 +0000" channel="beIN Sports 3.starhub">
         <title>Group 11 Pairs Cup</title>

@@ -2798,7 +2798,7 @@
     <title>2. BL Kompakt: 2. Spieltag</title>
 </programme>
 <programme start="20250813073000 +0000" stop="20250813093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Nürnberg - SV Darmstadt 98, 2. Spieltag</title>
+    <title>2. BL: Fortuna Düsseldorf - Hannover 96, 2. Spieltag</title>
 </programme>
 <programme start="20250813093000 +0000" stop="20250813103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Alle Spiele, alle Stimmen, 2. Spieltag</title>
@@ -3193,26 +3193,26 @@
 <programme start="20250813210000 +0000" stop="20250813220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Preview to the Season</title>
 </programme>
-<programme start="20250813030000 +0000" stop="20250813033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250813020000 +0000" stop="20250813023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250813033000 +0000" stop="20250813053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250813023000 +0000" stop="20250813050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Seidel (GER) - M. Kessler (USA), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
-<programme start="20250813053000 +0000" stop="20250813073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
+<programme start="20250813050000 +0000" stop="20250813070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: C. Alcarazv (SPA) - H.Mededovic (SER), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
-<programme start="20250813073000 +0000" stop="20250813080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250813070000 +0000" stop="20250813073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250813080000 +0000" stop="20250813103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250813073000 +0000" stop="20250813101000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - N. Osaka (JPN), National Bank Open Presented By Rogers in Montreal (CAN), Finale</title>
 </programme>
-<programme start="20250813103000 +0000" stop="20250813123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250813101000 +0000" stop="20250813124000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Seidel (GER) - M. Kessler (USA), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
-<programme start="20250813123000 +0000" stop="20250813143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
+<programme start="20250813124000 +0000" stop="20250813143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: C. Alcarazv (SPA) - H.Mededovic (SER), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
 <programme start="20250813143000 +0000" stop="20250813150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3220,17 +3220,20 @@
 <programme start="20250813150000 +0000" stop="20250814030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
-<programme start="20250813030000 +0000" stop="20250813033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250813020000 +0000" stop="20250813023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250813033000 +0000" stop="20250813053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250813023000 +0000" stop="20250813050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: E. Seidel (GER) - M. Kessler (USA), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
-<programme start="20250813053000 +0000" stop="20250813073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250813050000 +0000" stop="20250813064500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Testspiel: WSG Tirol - Real Madrid, Testspiel in Innsbruck</title>
 </programme>
-<programme start="20250813073000 +0000" stop="20250813093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
+<programme start="20250813064500 +0000" stop="20250813074000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 2. Spieltag komplett</title>
+</programme>
+<programme start="20250813074000 +0000" stop="20250813093000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 1000: C. Alcarazv (SPA) - H.Mededovic (SER), Cincinnati Open in Cincinnati (USA), 6. Tag</title>
 </programme>
 <programme start="20250813093000 +0000" stop="20250813100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>

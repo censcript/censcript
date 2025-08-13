@@ -646,50 +646,47 @@
     <programme start="20250813142000 +0000" stop="20250813170000 +0000" channel="now-80s.mewatch">
         <title>Wow! What A Party! - EP1</title>
     </programme>
-    <programme start="20250812160000 +0000" stop="20250812172500 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20250812160000 +0000" stop="20250812170000 +0000" channel="now-70s.mewatch">
+        <title>Summer Loving! - EP1</title>
     </programme>
-    <programme start="20250812172500 +0000" stop="20250812203500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
+    <programme start="20250812170000 +0000" stop="20250812190000 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s 25 Biggest Pop Groups! - EP1</title>
     </programme>
-    <programme start="20250812203500 +0000" stop="20250812210000 +0000" channel="now-70s.mewatch">
-        <title>Help Me Make It Through The Night! - EP1</title>
+    <programme start="20250812190000 +0000" stop="20250812200000 +0000" channel="now-70s.mewatch">
+        <title>Abba Gold! 1974-1979 - EP1</title>
     </programme>
-    <programme start="20250812210000 +0000" stop="20250812230000 +0000" channel="now-70s.mewatch">
-        <title>Bruno&#039;s Can You Believe It?! - EP1</title>
+    <programme start="20250812200000 +0000" stop="20250812204500 +0000" channel="now-70s.mewatch">
+        <title>Blondie: Picture These Vids! - EP1</title>
     </programme>
-    <programme start="20250812230000 +0000" stop="20250812232500 +0000" channel="now-70s.mewatch">
-        <title>Cat Stevens: 1970-1971 - EP1</title>
+    <programme start="20250812204500 +0000" stop="20250812210000 +0000" channel="now-70s.mewatch">
+        <title>1978 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250812232500 +0000" stop="20250813000000 +0000" channel="now-70s.mewatch">
-        <title>Far Out, Man! - EP1</title>
+    <programme start="20250812210000 +0000" stop="20250812235000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s One Hit Wonders! 70-79 - EP1</title>
     </programme>
-    <programme start="20250813000000 +0000" stop="20250813070000 +0000" channel="now-70s.mewatch">
-        <title>Sing It Loud! 1970-1979 - EP1</title>
+    <programme start="20250812235000 +0000" stop="20250813000000 +0000" channel="now-70s.mewatch">
+        <title>Daydreamers: A Whole Day Of Love! - EP1</title>
     </programme>
-    <programme start="20250813070000 +0000" stop="20250813090000 +0000" channel="now-70s.mewatch">
-        <title>The Sound Of The Suburbs! 1977-80 - EP1</title>
+    <programme start="20250813000000 +0000" stop="20250813040000 +0000" channel="now-70s.mewatch">
+        <title>Ultimate Love Songs! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250813090000 +0000" stop="20250813093000 +0000" channel="now-70s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20250813040000 +0000" stop="20250813060000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates&#039; Rock Ballads! 1970-79 - EP1</title>
     </programme>
-    <programme start="20250813093000 +0000" stop="20250813103000 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20250813060000 +0000" stop="20250813070000 +0000" channel="now-70s.mewatch">
+        <title>Daydreamers: A Whole Day Of Love! - EP1</title>
     </programme>
-    <programme start="20250813103000 +0000" stop="20250813112000 +0000" channel="now-70s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20250813070000 +0000" stop="20250813100000 +0000" channel="now-70s.mewatch">
+        <title>Love Is In The Air! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250813112000 +0000" stop="20250813120000 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
+    <programme start="20250813100000 +0000" stop="20250813110000 +0000" channel="now-70s.mewatch">
+        <title>Hold On Tight: It&#039;s Elo! - EP1</title>
     </programme>
-    <programme start="20250813120000 +0000" stop="20250813141000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Surely Not A Cover?! - EP1</title>
+    <programme start="20250813110000 +0000" stop="20250813120000 +0000" channel="now-70s.mewatch">
+        <title>The 1974 Power Hour With Bam! - EP1</title>
     </programme>
-    <programme start="20250813141000 +0000" stop="20250813150000 +0000" channel="now-70s.mewatch">
-        <title>1973 Unleashed! - EP1</title>
-    </programme>
-    <programme start="20250813150000 +0000" stop="20250813160000 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates Golden Hour: 1973 - EP1</title>
+    <programme start="20250813120000 +0000" stop="20250813160000 +0000" channel="now-70s.mewatch">
+        <title>Megastar Minihits! 1970-1979 - EP1</title>
     </programme>
     <programme start="20250813160000 +0000" stop="20250813164500 +0000" channel="now-70s.mewatch">
         <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
@@ -1024,10 +1021,10 @@
     <programme start="20250813160000 +0000" stop="20250814160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 16th August, Saturday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250812160000 +0000" stop="20250813123000 +0000" channel="Live 6.mewatch">
+    <programme start="20250812160000 +0000" stop="20250813120400 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 13th August, Wednesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250813123000 +0000" stop="20250813143000 +0000" channel="Live 6.mewatch">
+    <programme start="20250813120400 +0000" stop="20250813143000 +0000" channel="Live 6.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Philippines vs Myanmar</title>
     </programme>
     <programme start="20250813143000 +0000" stop="20250813160000 +0000" channel="Live 6.mewatch">

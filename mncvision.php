@@ -203,7 +203,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20250813120000 +0000" stop="20250813130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: Child Of Their Time</title>
+    <title>Witness: In The West Bank</title>
 </programme>
 <programme start="20250813130000 +0000" stop="20250813140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
