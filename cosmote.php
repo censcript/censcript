@@ -58,6 +58,10 @@
     <title>Football: AEK - Aris Limassol (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250815030000 +0700" stop="20250815040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PostGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250814012000 +0700" stop="20250814033500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +112,10 @@
 </programme>
 <programme start="20250815010000 +0700" stop="20250815030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Shakhtar Donetsk - Panathinaikos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250815030000 +0700" stop="20250815040000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250814020000 +0700" stop="20250814040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -176,14 +184,6 @@
 </programme>
 <programme start="20250815020000 +0700" stop="20250815040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SSC Napoli - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814000000 +0700" stop="20250814020500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Baskonia - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814020500 +0700" stop="20250814030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814030000 +0700" stop="20250814033000 +0700" channel="COSMOTE Sport 4 HD">

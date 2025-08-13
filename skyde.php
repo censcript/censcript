@@ -1720,6 +1720,108 @@
 <programme start="20250813212000 +0000" stop="20250813221500 +0000" channel="Romance TV HD.skyde">
     <title>Tierärztin Dr. Mertens</title>
 </programme>
+<programme start="20250812225500 +0000" stop="20250812234500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Mayans M.C.</title>
+</programme>
+<programme start="20250812234500 +0000" stop="20250813005500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Mayans M.C.</title>
+</programme>
+<programme start="20250813005500 +0000" stop="20250813014000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Strike Back</title>
+</programme>
+<programme start="20250813014000 +0000" stop="20250813015500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Making Of: The Last of Us Episode 12 (203)</title>
+</programme>
+<programme start="20250813015500 +0000" stop="20250813025000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
+</programme>
+<programme start="20250813025000 +0000" stop="20250813035000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
+</programme>
+<programme start="20250813035000 +0000" stop="20250813041500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Brink - Die Welt am Abgrund</title>
+</programme>
+<programme start="20250813041500 +0000" stop="20250813044000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Brink - Die Welt am Abgrund</title>
+</programme>
+<programme start="20250813044000 +0000" stop="20250813051000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Brink - Die Welt am Abgrund</title>
+</programme>
+<programme start="20250813051000 +0000" stop="20250813054000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Silicon Valley</title>
+</programme>
+<programme start="20250813054000 +0000" stop="20250813061000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Silicon Valley</title>
+</programme>
+<programme start="20250813061000 +0000" stop="20250813064500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Silicon Valley</title>
+</programme>
+<programme start="20250813064500 +0000" stop="20250813071500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Entourage</title>
+</programme>
+<programme start="20250813071500 +0000" stop="20250813074500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Entourage</title>
+</programme>
+<programme start="20250813074500 +0000" stop="20250813082000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Entourage</title>
+</programme>
+<programme start="20250813082000 +0000" stop="20250813085000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Entourage</title>
+</programme>
+<programme start="20250813085000 +0000" stop="20250813091500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250813091500 +0000" stop="20250813094000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250813094000 +0000" stop="20250813101000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250813101000 +0000" stop="20250813104500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250813104500 +0000" stop="20250813114500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250813114500 +0000" stop="20250813124500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20250813124500 +0000" stop="20250813134500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Six Feet Under - Gestorben wird immer</title>
+</programme>
+<programme start="20250813134500 +0000" stop="20250813144500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Six Feet Under - Gestorben wird immer</title>
+</programme>
+<programme start="20250813144500 +0000" stop="20250813153500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Strike Back</title>
+</programme>
+<programme start="20250813153500 +0000" stop="20250813162500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Strike Back</title>
+</programme>
+<programme start="20250813162500 +0000" stop="20250813172000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Mayans M.C.</title>
+</programme>
+<programme start="20250813172000 +0000" stop="20250813181500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Mayans M.C.</title>
+</programme>
+<programme start="20250813181500 +0000" stop="20250813191500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Euphoria</title>
+</programme>
+<programme start="20250813191500 +0000" stop="20250813202000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Euphoria</title>
+</programme>
+<programme start="20250813202000 +0000" stop="20250813205000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Girls</title>
+</programme>
+<programme start="20250813205000 +0000" stop="20250813212000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Girls</title>
+</programme>
+<programme start="20250813212000 +0000" stop="20250813214500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Girls</title>
+</programme>
+<programme start="20250813214500 +0000" stop="20250813222000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Girls</title>
+</programme>
 <programme start="20250812220000 +0000" stop="20250813001000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Die Unfassbaren 2</title>
 </programme>
