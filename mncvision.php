@@ -4097,13 +4097,13 @@
     <title>Obrolan Seputar Selebirtis</title>
 </programme>
 <programme start="20250814023000 +0000" stop="20250814070000 +0000" channel="GTV.mncvision">
-    <title>Amazing Kids</title>
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250814070000 +0000" stop="20250814090000 +0000" channel="GTV.mncvision">
+<programme start="20250814070000 +0000" stop="20250814093000 +0000" channel="GTV.mncvision">
     <title>Kera Sakti</title>
 </programme>
-<programme start="20250814090000 +0000" stop="20250814110000 +0000" channel="GTV.mncvision">
-    <title>Bayala: A Magical Adventure</title>
+<programme start="20250814093000 +0000" stop="20250814110000 +0000" channel="GTV.mncvision">
+    <title>Pororo Racing Adventure</title>
 </programme>
 <programme start="20250814110000 +0000" stop="20250814113000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
@@ -4115,7 +4115,7 @@
     <title>Daddy&#039;s Home 2</title>
 </programme>
 <programme start="20250814140000 +0000" stop="20250814160000 +0000" channel="GTV.mncvision">
-    <title>Minority Report</title>
+    <title>Shooter</title>
 </programme>
 <programme start="20250814160000 +0000" stop="20250814163000 +0000" channel="GTV.mncvision">
     <title>Cantik Ya Kamu</title>
@@ -4142,13 +4142,13 @@
     <title>Obrolan Seputar Selebirtis</title>
 </programme>
 <programme start="20250814023000 +0000" stop="20250814070000 +0000" channel="GTV HD.mncvision">
-    <title>Amazing Kids</title>
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250814070000 +0000" stop="20250814090000 +0000" channel="GTV HD.mncvision">
+<programme start="20250814070000 +0000" stop="20250814093000 +0000" channel="GTV HD.mncvision">
     <title>Kera Sakti</title>
 </programme>
-<programme start="20250814090000 +0000" stop="20250814110000 +0000" channel="GTV HD.mncvision">
-    <title>Bayala: A Magical Adventure</title>
+<programme start="20250814093000 +0000" stop="20250814110000 +0000" channel="GTV HD.mncvision">
+    <title>Pororo Racing Adventure</title>
 </programme>
 <programme start="20250814110000 +0000" stop="20250814113000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
@@ -4160,7 +4160,7 @@
     <title>Daddy&#039;s Home 2</title>
 </programme>
 <programme start="20250814140000 +0000" stop="20250814160000 +0000" channel="GTV HD.mncvision">
-    <title>Minority Report</title>
+    <title>Shooter</title>
 </programme>
 <programme start="20250814160000 +0000" stop="20250814163000 +0000" channel="GTV HD.mncvision">
     <title>Cantik Ya Kamu</title>
