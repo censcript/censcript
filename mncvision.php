@@ -7885,14 +7885,14 @@
 <programme start="20250814110000 +0000" stop="20250814120000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Files</title>
 </programme>
-<programme start="20250814120000 +0000" stop="20250814133000 +0000" channel="Sindo News TV.mncvision">
+<programme start="20250814120000 +0000" stop="20250814130000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Prime</title>
 </programme>
-<programme start="20250814133000 +0000" stop="20250814143000 +0000" channel="Sindo News TV.mncvision">
+<programme start="20250814130000 +0000" stop="20250814140000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Malam</title>
 </programme>
-<programme start="20250814143000 +0000" stop="20250814153000 +0000" channel="Sindo News TV.mncvision">
-    <title>The Prime Show</title>
+<programme start="20250814140000 +0000" stop="20250814153000 +0000" channel="Sindo News TV.mncvision">
+    <title>Indonesia Automotive Awards</title>
 </programme>
 <programme start="20250814153000 +0000" stop="20250814163000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Files</title>
@@ -7960,14 +7960,14 @@
 <programme start="20250814110000 +0000" stop="20250814120000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Files</title>
 </programme>
-<programme start="20250814120000 +0000" stop="20250814133000 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20250814120000 +0000" stop="20250814130000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Prime</title>
 </programme>
-<programme start="20250814133000 +0000" stop="20250814143000 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20250814130000 +0000" stop="20250814140000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Malam</title>
 </programme>
-<programme start="20250814143000 +0000" stop="20250814153000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>The Prime Show</title>
+<programme start="20250814140000 +0000" stop="20250814153000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Indonesia Automotive Awards</title>
 </programme>
 <programme start="20250814153000 +0000" stop="20250814163000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Files</title>

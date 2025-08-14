@@ -6929,7 +6929,7 @@
         <title>Cincinnati Open (1000) Day 5 Session 2</title>
     </programme>
     <programme start="20250813210000 +0000" stop="20250813213000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Ultra World Championship</title>
+        <title>Spartan Ultra World C&#039;ship</title>
     </programme>
     <programme start="20250813213000 +0000" stop="20250813220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Le Marathon des Sables</title>
@@ -8374,8 +8374,11 @@
     <programme start="20250813163000 +0000" stop="20250813193000 +0000" channel="Asianet Movies.starhub">
         <title>Falimy</title>
     </programme>
-    <programme start="20250813193000 +0000" stop="20250813230000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250813193000 +0000" stop="20250813221500 +0000" channel="Asianet Movies.starhub">
         <title>Prajapathi</title>
+    </programme>
+    <programme start="20250813221500 +0000" stop="20250813230000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika Ii : No Season</title>
     </programme>
     <programme start="20250813230000 +0000" stop="20250814013000 +0000" channel="Asianet Movies.starhub">
         <title>Jewan Of Vellimala</title>
