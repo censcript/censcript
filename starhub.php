@@ -6959,7 +6959,7 @@
         <title>Cincinnati Open (1000) Day 5 Session 1</title>
     </programme>
     <programme start="20250814090000 +0000" stop="20250814103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Cincinnati Open (1000) Day 5 Session 2</title>
+        <title>Cincinnati Open (1000) Day 3 Session 4</title>
     </programme>
     <programme start="20250814103000 +0000" stop="20250814133000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) SF 1 &amp; 2</title>
