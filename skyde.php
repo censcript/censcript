@@ -2768,7 +2768,7 @@
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250814190000 +0000" stop="20250814230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250813223000 +0000" stop="20250814003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Sonntags-Konferenz, 2. Spieltag</title>

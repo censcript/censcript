@@ -172,11 +172,11 @@
 <programme start="20250814023000 +0000" stop="20250814070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250814070000 +0000" stop="20250814093000 +0000" channel="GTV.vision">
+<programme start="20250814070000 +0000" stop="20250814090000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250814093000 +0000" stop="20250814110000 +0000" channel="GTV.vision">
-<title>Pororo Racing Adventure</title>
+<programme start="20250814090000 +0000" stop="20250814110000 +0000" channel="GTV.vision">
+<title>Bayala: A Magical Adventure</title>
 </programme>
 <programme start="20250814110000 +0000" stop="20250814113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -188,7 +188,7 @@
 <title>Daddy&#039;s Home 2</title>
 </programme>
 <programme start="20250814140000 +0000" stop="20250814160000 +0000" channel="GTV.vision">
-<title>Shooter</title>
+<title>Minority Report</title>
 </programme>
 <programme start="20250814160000 +0000" stop="20250814170000 +0000" channel="GTV.vision">
 <title>Cantik Ya Kamu</title>
@@ -217,10 +217,10 @@
 <programme start="20250815023000 +0000" stop="20250815070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250815070000 +0000" stop="20250815093000 +0000" channel="GTV.vision">
+<programme start="20250815070000 +0000" stop="20250815090000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250815093000 +0000" stop="20250815110000 +0000" channel="GTV.vision">
+<programme start="20250815090000 +0000" stop="20250815110000 +0000" channel="GTV.vision">
 <title>Nezha</title>
 </programme>
 <programme start="20250815110000 +0000" stop="20250815113000 +0000" channel="GTV.vision">
@@ -661,17 +661,29 @@
 <programme start="20250814003000 +0000" stop="20250814020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250814020000 +0000" stop="20250814053000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
+</programme>
 <programme start="20250814053000 +0000" stop="20250814073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20250814073000 +0000" stop="20250814093000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20250814093000 +0000" stop="20250814120000 +0000" channel="ANTV.vision">
+<title>Jodoh Boleh Diatur</title>
+</programme>
 <programme start="20250814120000 +0000" stop="20250814140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
+<programme start="20250814140000 +0000" stop="20250814160000 +0000" channel="ANTV.vision">
+<title>Jin Galunggung</title>
+</programme>
 <programme start="20250814160000 +0000" stop="20250814180000 +0000" channel="ANTV.vision">
 <title>The Sting</title>
+</programme>
+<programme start="20250814180000 +0000" stop="20250814190000 +0000" channel="ANTV.vision">
+<title>Warriors 2</title>
 </programme>
 <programme start="20250814190000 +0000" stop="20250814203000 +0000" channel="ANTV.vision">
 <title>Puppy Love Trio</title>
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250814005500 +0000" stop="20250814024000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250814024000 +0000" stop="20250814041000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250814041000 +0000" stop="20250814060500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250814060500 +0000" stop="20250814073000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250814073000 +0000" stop="20250814090500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
