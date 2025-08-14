@@ -2692,83 +2692,89 @@
 <programme start="20250814213500 +0000" stop="20250814222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Killerjagd - Wettlauf mit dem Bösen</title>
 </programme>
-<programme start="20250813233000 +0000" stop="20250814020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
+<programme start="20250807220000 +0000" stop="20250808000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: WSG Tirol - TSV Egger Glas Hartberg, 1. Runde</title>
 </programme>
-<programme start="20250814020000 +0000" stop="20250814023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
+<programme start="20250808000000 +0000" stop="20250808020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Grazer AK 1902 - FK Austria Wien, 1. Runde</title>
 </programme>
-<programme start="20250814023000 +0000" stop="20250814024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250808020000 +0000" stop="20250808030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA ECL: Saisonrückblick</title>
+</programme>
+<programme start="20250808030000 +0000" stop="20250808050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: LASK - SK Puntigamer Sturm Graz, 1. Runde</title>
+</programme>
+<programme start="20250808050000 +0000" stop="20250808053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
+</programme>
+<programme start="20250808053000 +0000" stop="20250808060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Manuela Zinsberger)</title>
+</programme>
+<programme start="20250808060000 +0000" stop="20250808061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
 </programme>
-<programme start="20250814024500 +0000" stop="20250814030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250808061500 +0000" stop="20250808064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - STU, 1. Runde</title>
+</programme>
+<programme start="20250808064500 +0000" stop="20250808074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Saisonrückblick</title>
+</programme>
+<programme start="20250808074500 +0000" stop="20250808081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+</programme>
+<programme start="20250808081500 +0000" stop="20250808101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: LASK - SK Puntigamer Sturm Graz, 1. Runde</title>
+</programme>
+<programme start="20250808101500 +0000" stop="20250808103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: PSG - INT, Finale 2025 in München</title>
 </programme>
-<programme start="20250814030000 +0000" stop="20250814050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: FK Austria Wien - RZ Pellets WAC, 2. Runde</title>
+<programme start="20250808103000 +0000" stop="20250808110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
 </programme>
-<programme start="20250814050000 +0000" stop="20250814053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: STU - SCR, 2. Runde</title>
-</programme>
-<programme start="20250814053000 +0000" stop="20250814060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20250814060000 +0000" stop="20250814063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
-</programme>
-<programme start="20250814063000 +0000" stop="20250814090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
-</programme>
-<programme start="20250814090000 +0000" stop="20250814093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: STU - SCR, 2. Runde</title>
-</programme>
-<programme start="20250814093000 +0000" stop="20250814100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Bernd Wiesberger)</title>
-</programme>
-<programme start="20250814100000 +0000" stop="20250814103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
-</programme>
-<programme start="20250814103000 +0000" stop="20250814130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
-</programme>
-<programme start="20250814130000 +0000" stop="20250814132500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Austria - Mattersburg (2012/2013)</title>
-</programme>
-<programme start="20250814132500 +0000" stop="20250814134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Salzburg - Grödig (2014/2015)</title>
-</programme>
-<programme start="20250814134500 +0000" stop="20250814141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: STU - SCR, 2. Runde</title>
-</programme>
-<programme start="20250814141500 +0000" stop="20250814144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250808110000 +0000" stop="20250808113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
 </programme>
-<programme start="20250814144500 +0000" stop="20250814171500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
+<programme start="20250808113000 +0000" stop="20250808120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - STU, 1. Runde</title>
 </programme>
-<programme start="20250814171500 +0000" stop="20250814174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
+<programme start="20250808120000 +0000" stop="20250808123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
-<programme start="20250814174500 +0000" stop="20250814181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
+<programme start="20250808123000 +0000" stop="20250808143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: RZ Pellets WAC - SCR Altach, 1. Runde</title>
 </programme>
-<programme start="20250814181500 +0000" stop="20250814184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: STU - SCR, 2. Runde</title>
+<programme start="20250808143000 +0000" stop="20250808150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - STU, 1. Runde</title>
 </programme>
-<programme start="20250814184500 +0000" stop="20250814211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
+<programme start="20250808150000 +0000" stop="20250808153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Manuela Zinsberger)</title>
 </programme>
-<programme start="20250814211500 +0000" stop="20250814213500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Salzburg - WAC (2019/2020)</title>
+<programme start="20250808153000 +0000" stop="20250808160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
 </programme>
-<programme start="20250814213500 +0000" stop="20250814220500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
+<programme start="20250808160000 +0000" stop="20250808174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: SCR - STU (2011/12)</title>
+</programme>
+<programme start="20250808174500 +0000" stop="20250808181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - STU, 1. Runde</title>
+</programme>
+<programme start="20250808181500 +0000" stop="20250808184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Nico Langmann)</title>
+</programme>
+<programme start="20250808184500 +0000" stop="20250808191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
+</programme>
+<programme start="20250808191500 +0000" stop="20250808210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: SCR - STU (2011/12)</title>
+</programme>
+<programme start="20250808210000 +0000" stop="20250808230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - FC Blau-Weiß Linz, 1. Runde</title>
 </programme>
 <programme start="20250814184000 +0000" stop="20250814190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250814190000 +0000" stop="20250814230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250813223000 +0000" stop="20250814003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Sonntags-Konferenz, 2. Spieltag</title>

@@ -114,6 +114,10 @@
     <title>Football: SSC Napoli - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815193500 +0700" stop="20250815201000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814180000 +0700" stop="20250814200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Southampton - Wrexham</title>
     <desc>Live: Tidak</desc>
@@ -186,6 +190,10 @@
     <title>Football: Birmingham City - Ipswich Town</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815190500 +0700" stop="20250815213500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Crystal Palace - Liverpool FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814175500 +0700" stop="20250814200000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Baskonia - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +258,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250814163500 +0700" stop="20250814180500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20250815194000 +0700" stop="20250815200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814180500 +0700" stop="20250814194000 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +368,14 @@
 </programme>
 <programme start="20250815181000 +0700" stop="20250815190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250815190000 +0700" stop="20250815195500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250815195500 +0700" stop="20250815211500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250814180000 +0700" stop="20250814220000 +0700" channel="COSMOTE Sport 6 HD">

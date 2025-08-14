@@ -91,7 +91,7 @@
 <programme start="20250814043000 +0000" stop="20250814060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20250814060000 +0000" stop="20250814073000 +0000" channel="MNCTV.vision">
+<programme start="20250812060000 +0000" stop="20250812073000 +0000" channel="MNCTV.vision">
 <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20250814073000 +0000" stop="20250814090000 +0000" channel="MNCTV.vision">
@@ -151,7 +151,7 @@
 <programme start="20250815043000 +0000" stop="20250815060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20250815060000 +0000" stop="20250815073000 +0000" channel="MNCTV.vision">
+<programme start="20250813060000 +0000" stop="20250813073000 +0000" channel="MNCTV.vision">
 <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20250815073000 +0000" stop="20250815090000 +0000" channel="MNCTV.vision">
@@ -172,11 +172,11 @@
 <programme start="20250814023000 +0000" stop="20250814070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250814070000 +0000" stop="20250814090000 +0000" channel="GTV.vision">
+<programme start="20250814070000 +0000" stop="20250814093000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250814090000 +0000" stop="20250814110000 +0000" channel="GTV.vision">
-<title>Bayala: A Magical Adventure</title>
+<programme start="20250814093000 +0000" stop="20250814110000 +0000" channel="GTV.vision">
+<title>Pororo Racing Adventure</title>
 </programme>
 <programme start="20250814110000 +0000" stop="20250814113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
@@ -188,7 +188,7 @@
 <title>Daddy&#039;s Home 2</title>
 </programme>
 <programme start="20250814140000 +0000" stop="20250814160000 +0000" channel="GTV.vision">
-<title>Minority Report</title>
+<title>Shooter</title>
 </programme>
 <programme start="20250814160000 +0000" stop="20250814170000 +0000" channel="GTV.vision">
 <title>Cantik Ya Kamu</title>
@@ -217,10 +217,10 @@
 <programme start="20250815023000 +0000" stop="20250815070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20250815070000 +0000" stop="20250815090000 +0000" channel="GTV.vision">
+<programme start="20250815070000 +0000" stop="20250815093000 +0000" channel="GTV.vision">
 <title>Kera Sakti (GTV)</title>
 </programme>
-<programme start="20250815090000 +0000" stop="20250815110000 +0000" channel="GTV.vision">
+<programme start="20250815093000 +0000" stop="20250815110000 +0000" channel="GTV.vision">
 <title>Nezha</title>
 </programme>
 <programme start="20250815110000 +0000" stop="20250815113000 +0000" channel="GTV.vision">
@@ -661,9 +661,6 @@
 <programme start="20250814003000 +0000" stop="20250814020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250814020000 +0000" stop="20250814053000 +0000" channel="ANTV.vision">
-<title>Karan Arjun</title>
-</programme>
 <programme start="20250814053000 +0000" stop="20250814073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -840,9 +837,6 @@
 </programme>
 <programme start="20250813233000 +0000" stop="20250814013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
-</programme>
-<programme start="20250814013000 +0000" stop="20250814020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat (L)</title>
 </programme>
 <programme start="20250814020000 +0000" stop="20250814023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250814005500 +0000" stop="20250814024000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250814024000 +0000" stop="20250814041000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250814041000 +0000" stop="20250814060500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
