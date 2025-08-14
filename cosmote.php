@@ -50,6 +50,10 @@
     <title>Football: ACF Fiorentina - Real Betis Balompie</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815231500 +0700" stop="20250816011500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Aris Limassol</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814215500 +0700" stop="20250815000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - FC Shakhtar Donetsk</title>
     <desc>Live: Tidak</desc>
@@ -112,10 +116,6 @@
 </programme>
 <programme start="20250815225500 +0700" stop="20250816005500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Shabab - Al Ittihad</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814220000 +0700" stop="20250814230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814230000 +0700" stop="20250815010000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,8 +186,8 @@
     <title>Football: Libertad - River Plate</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250814200000 +0700" stop="20250814221000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Reyer Venezia</title>
+<programme start="20250815234000 +0700" stop="20250816014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Atletico Mineiro - Godoy Cruz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814221000 +0700" stop="20250815002500 +0700" channel="COSMOTE Sport 4 HD">
@@ -372,6 +372,10 @@
 </programme>
 <programme start="20250815221500 +0700" stop="20250815231000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250815231000 +0700" stop="20250816001000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814220000 +0700" stop="20250815020000 +0700" channel="COSMOTE Sport 6 HD">
