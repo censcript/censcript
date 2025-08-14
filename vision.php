@@ -91,7 +91,7 @@
 <programme start="20250814043000 +0000" stop="20250814060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20250812060000 +0000" stop="20250812073000 +0000" channel="MNCTV.vision">
+<programme start="20250814060000 +0000" stop="20250814073000 +0000" channel="MNCTV.vision">
 <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20250814073000 +0000" stop="20250814090000 +0000" channel="MNCTV.vision">
@@ -151,7 +151,7 @@
 <programme start="20250815043000 +0000" stop="20250815060000 +0000" channel="MNCTV.vision">
 <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20250813060000 +0000" stop="20250813073000 +0000" channel="MNCTV.vision">
+<programme start="20250815060000 +0000" stop="20250815073000 +0000" channel="MNCTV.vision">
 <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20250815073000 +0000" stop="20250815090000 +0000" channel="MNCTV.vision">

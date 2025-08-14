@@ -406,14 +406,11 @@
 <programme start="20250814023000 +0000" stop="20250814060000 +0000" channel="ANTV.mncvision">
     <title>Karan Arjun</title>
 </programme>
-<programme start="20250814060000 +0000" stop="20250814074500 +0000" channel="ANTV.mncvision">
+<programme start="20250814060000 +0000" stop="20250814080000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250814074500 +0000" stop="20250814093000 +0000" channel="ANTV.mncvision">
-    <title>Mangal Lakshmi</title>
-</programme>
-<programme start="20250814093000 +0000" stop="20250814120000 +0000" channel="ANTV.mncvision">
-    <title>Jodoh Boleh Diatur</title>
+<programme start="20250814080000 +0000" stop="20250814120000 +0000" channel="ANTV.mncvision">
+    <title>Chori Chori Chupke Chupke</title>
 </programme>
 <programme start="20250814120000 +0000" stop="20250814140000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>

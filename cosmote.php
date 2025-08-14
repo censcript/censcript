@@ -114,6 +114,10 @@
     <title>Football: Al Fateh - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815152500 +0700" stop="20250815173500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814140000 +0700" stop="20250814160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Flamengo - Internacional</title>
     <desc>Live: Tidak</desc>
@@ -184,6 +188,10 @@
 </programme>
 <programme start="20250815130000 +0700" stop="20250815150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Libertad - River Plate</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250815150000 +0700" stop="20250815170000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Arouca - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814133000 +0700" stop="20250814153000 +0700" channel="COSMOTE Sport 4 HD">
@@ -356,6 +364,10 @@
 </programme>
 <programme start="20250815144500 +0700" stop="20250815154000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250815154000 +0700" stop="20250815164500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250814130000 +0700" stop="20250814151000 +0700" channel="COSMOTE Sport 6 HD">
