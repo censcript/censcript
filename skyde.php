@@ -2768,7 +2768,7 @@
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250814190000 +0000" stop="20250814230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250813223000 +0000" stop="20250814003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Sonntags-Konferenz, 2. Spieltag</title>
@@ -3200,7 +3200,7 @@
     <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250814190000 +0000" stop="20250814210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250814210000 +0000" stop="20250814213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Montreal</title>
@@ -3239,7 +3239,7 @@
     <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250814190000 +0000" stop="20250814210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250814210000 +0000" stop="20250814220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: BMW Championship, 1. Tag in Owings Mills, MD (USA)</title>
