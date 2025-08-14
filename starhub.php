@@ -4202,7 +4202,7 @@
         <title>News Watch 9 (B)</title>
     </programme>
     <programme start="20250814130000 +0000" stop="20250814143000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Journey to the Farthest Scenic Station: Bolivia (R)</title>
+        <title>Journey to the Farthest Scenic Station: Bolivia</title>
     </programme>
     <programme start="20250814143000 +0000" stop="20250814144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
