@@ -2770,7 +2770,7 @@
 <programme start="20250814184000 +0000" stop="20250814190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250814190000 +0000" stop="20250814210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250814190000 +0000" stop="20250814230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250813223000 +0000" stop="20250814003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3158,7 +3158,7 @@
     <title>PL: Preview to the Season</title>
 </programme>
 <programme start="20250814173000 +0000" stop="20250814180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Sunderland: Back at the Top)</title>
+    <title>PL: PL Stories (Sunderland: The return of the Black Cats)</title>
 </programme>
 <programme start="20250814180000 +0000" stop="20250814200000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: Birmingham City - Sheffield United, 1. Runde</title>
@@ -3175,17 +3175,17 @@
 <programme start="20250814213000 +0000" stop="20250814220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 3. Spieltag</title>
 </programme>
-<programme start="20250814030000 +0000" stop="20250814033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250814025000 +0000" stop="20250814033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250814033000 +0000" stop="20250814053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag</title>
+    <title>WTA 1000: J.Ribakina (KAS) - M.Keys (USA), Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
 <programme start="20250814053000 +0000" stop="20250814060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Montreal</title>
 </programme>
 <programme start="20250814060000 +0000" stop="20250814080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag</title>
+    <title>ATP 1000: T. Fritz (USA) - T.Atmane (FRA), Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
 <programme start="20250814080000 +0000" stop="20250814103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
@@ -3194,10 +3194,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250814110000 +0000" stop="20250814130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag</title>
+    <title>WTA 1000: J.Ribakina (KAS) - M.Keys (USA), Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
 <programme start="20250814130000 +0000" stop="20250814150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag</title>
+    <title>ATP 1000: T. Fritz (USA) - T.Atmane (FRA), Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
 <programme start="20250814150000 +0000" stop="20250814190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 8. Tag</title>
@@ -3211,8 +3211,8 @@
 <programme start="20250814213000 +0000" stop="20250814223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
-<programme start="20250814030000 +0000" stop="20250814050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag</title>
+<programme start="20250814025000 +0000" stop="20250814050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA 1000: J.Ribakina (KAS) - M.Keys (USA), Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
 <programme start="20250814050000 +0000" stop="20250814060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PGA Tour Champions: Highlights Boeing Classic</title>
@@ -3230,7 +3230,7 @@
     <title>PL: PL Stories (Liverpool - The Succession Story)</title>
 </programme>
 <programme start="20250814080000 +0000" stop="20250814100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag</title>
+    <title>ATP 1000: T. Fritz (USA) - T.Atmane (FRA), Cincinnati Open in Cincinnati (USA), 7. Tag</title>
 </programme>
 <programme start="20250814100000 +0000" stop="20250814110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Kompakt: 2. Spieltag</title>
