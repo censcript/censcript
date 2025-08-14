@@ -1,7 +1,3 @@
-<programme start="20250815000000 +0700" stop="20250815010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250815010000 +0700" stop="20250815030000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Aris Limassol (L)</title>
     <desc>Live: Ya</desc>
@@ -50,9 +46,9 @@
     <title>Football: AEK - Aris Limassol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250815000000 +0700" stop="20250815010000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>PreGame Show (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250816011500 +0700" stop="20250816031500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Shakhtar Donetsk - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250815010000 +0700" stop="20250815030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Shakhtar Donetsk - Panathinaikos (L)</title>
@@ -113,10 +109,6 @@
 <programme start="20250816005500 +0700" stop="20250816030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Olympiacos</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814230000 +0700" stop="20250815010000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SSC Napoli - Olympiacos (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250815010000 +0700" stop="20250815013000 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
@@ -186,9 +178,9 @@
     <title>Football: Atletico Mineiro - Godoy Cruz</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250814221000 +0700" stop="20250815002500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Turk Telekom - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250816014500 +0700" stop="20250816034500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Celtic FC - Falkirk (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250815002500 +0700" stop="20250815024000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Barcelona</title>
@@ -256,10 +248,6 @@
 </programme>
 <programme start="20250816000000 +0700" stop="20250816020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814232000 +0700" stop="20250815010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250815010000 +0700" stop="20250815020000 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,6 +366,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250816012000 +0700" stop="20250816021000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814220000 +0700" stop="20250815020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +424,10 @@
 </programme>
 <programme start="20250815210000 +0700" stop="20250816010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250816010000 +0700" stop="20250816020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250815000000 +0700" stop="20250815020000 +0700" channel="COSMOTE Sport 7 HD">
