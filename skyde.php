@@ -2731,16 +2731,16 @@
 <programme start="20250815211500 +0000" stop="20250815234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
 </programme>
-<programme start="20250814230000 +0000" stop="20250815003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250814233000 +0000" stop="20250815003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250815003000 +0000" stop="20250815080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815184000 +0000" stop="20250815190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250815190000 +0000" stop="20250815210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250815190000 +0000" stop="20250815220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250814223000 +0000" stop="20250814233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
