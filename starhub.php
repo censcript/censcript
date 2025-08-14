@@ -4021,8 +4021,14 @@
     <programme start="20250814151500 +0000" stop="20250814160000 +0000" channel="Cartoon Network.starhub">
         <title>Love Letters/Steven&#039;s Birthday/Super Watermelon Island/Onion Friend</title>
     </programme>
-    <programme start="20250813160000 +0000" stop="20250813161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Train Driver&#039;s Cab View Mini</title>
+    <programme start="20250813160000 +0000" stop="20250813160500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Cooking for Beginners</title>
+    </programme>
+    <programme start="20250813160500 +0000" stop="20250813161000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Cooking for Beginners</title>
+    </programme>
+    <programme start="20250813161000 +0000" stop="20250813161500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Cooking for Beginners</title>
     </programme>
     <programme start="20250813161500 +0000" stop="20250813164000 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
@@ -4057,7 +4063,10 @@
     <programme start="20250813184500 +0000" stop="20250813195700 +0000" channel="NHK World Premium HD.starhub">
         <title>Eat Up! The Ultimate Homemade Cooking Battle Special &quot;Barbecue&quot; (R)</title>
     </programme>
-    <programme start="20250813195700 +0000" stop="20250813200000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250813195700 +0000" stop="20250813195800 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20250813195800 +0000" stop="20250813200000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
     <programme start="20250813200000 +0000" stop="20250813201000 +0000" channel="NHK World Premium HD.starhub">
