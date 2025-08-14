@@ -1,7 +1,3 @@
-<programme start="20250814140000 +0700" stop="20250814163000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - Tottenham Hotspur</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250814163000 +0700" stop="20250814173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: Olympiacos - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815173500 +0700" stop="20250815193500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814160000 +0700" stop="20250814180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Casa Pia - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -190,6 +190,10 @@
     <title>Football: Arouca - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815170000 +0700" stop="20250815190500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Birmingham City - Ipswich Town</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814155500 +0700" stop="20250814175500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Galatasaray</title>
     <desc>Live: Tidak</desc>
@@ -252,10 +256,6 @@
 </programme>
 <programme start="20250815163000 +0700" stop="20250815184500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814150500 +0700" stop="20250814163500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814163500 +0700" stop="20250814180500 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +360,10 @@
 </programme>
 <programme start="20250815164500 +0700" stop="20250815171500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250815171500 +0700" stop="20250815181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Higlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814153000 +0700" stop="20250814180000 +0700" channel="COSMOTE Sport 6 HD">
