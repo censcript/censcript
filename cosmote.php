@@ -114,6 +114,10 @@
     <title>Football: Al Nassr - Al Taawon</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250815131000 +0700" stop="20250815152500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Fateh - Al Hilal</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250814120000 +0700" stop="20250814140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Stoke City - Derby County</title>
     <desc>Live: Tidak</desc>
@@ -186,12 +190,8 @@
     <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250814100000 +0700" stop="20250814120500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Baskonia - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250814120500 +0700" stop="20250814130000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20250815130000 +0700" stop="20250815150000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Libertad - River Plate</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814130000 +0700" stop="20250814133000 +0700" channel="COSMOTE Sport 4 HD">
@@ -258,8 +258,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250814120000 +0700" stop="20250814130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+<programme start="20250815135000 +0700" stop="20250815142000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250814130000 +0700" stop="20250814140000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,9 +362,9 @@
     <title>WRC 2024</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250814103000 +0700" stop="20250814130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250815135500 +0700" stop="20250815144500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250814130000 +0700" stop="20250814151000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
