@@ -226,7 +226,150 @@
 <programme start="20250816150000 +0000" stop="20250816153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250815170000 +0000" stop="20250815173000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 2</title>
+</programme>
+<programme start="20250815173000 +0000" stop="20250815180000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20250815180000 +0000" stop="20250815183000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 11</title>
+</programme>
+<programme start="20250815183000 +0000" stop="20250815190000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 12</title>
+</programme>
+<programme start="20250815190000 +0000" stop="20250815193000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 9</title>
+</programme>
+<programme start="20250815193000 +0000" stop="20250815200000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 10</title>
+</programme>
+<programme start="20250815200000 +0000" stop="20250815203000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 10</title>
+</programme>
+<programme start="20250815203000 +0000" stop="20250815210000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 11</title>
+</programme>
+<programme start="20250815210000 +0000" stop="20250815213000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 2</title>
+</programme>
+<programme start="20250815213000 +0000" stop="20250815220000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 3</title>
+</programme>
+<programme start="20250815220000 +0000" stop="20250815223000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 8</title>
+</programme>
+<programme start="20250815223000 +0000" stop="20250815230000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 9</title>
+</programme>
+<programme start="20250815230000 +0000" stop="20250815233000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 10</title>
+</programme>
+<programme start="20250815233000 +0000" stop="20250816000000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 11</title>
+</programme>
+<programme start="20250816000000 +0000" stop="20250816003000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 12</title>
+</programme>
+<programme start="20250816003000 +0000" stop="20250816010000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 7</title>
+</programme>
+<programme start="20250816010000 +0000" stop="20250816013000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 8</title>
+</programme>
+<programme start="20250816013000 +0000" stop="20250816020000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 9</title>
+</programme>
+<programme start="20250816020000 +0000" stop="20250816023000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 10</title>
+</programme>
+<programme start="20250816023000 +0000" stop="20250816030000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 37</title>
+</programme>
+<programme start="20250816030000 +0000" stop="20250816033000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 38</title>
+</programme>
+<programme start="20250816033000 +0000" stop="20250816040000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 39</title>
+</programme>
+<programme start="20250816040000 +0000" stop="20250816043000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 10</title>
+</programme>
+<programme start="20250816043000 +0000" stop="20250816050000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 11</title>
+</programme>
+<programme start="20250816050000 +0000" stop="20250816053000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 8</title>
+</programme>
+<programme start="20250816053000 +0000" stop="20250816060000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 9</title>
+</programme>
+<programme start="20250816060000 +0000" stop="20250816063000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 10</title>
+</programme>
+<programme start="20250816063000 +0000" stop="20250816070000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 11</title>
+</programme>
+<programme start="20250816070000 +0000" stop="20250816073000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 12</title>
+</programme>
+<programme start="20250816073000 +0000" stop="20250816075800 +0000" channel="Animax.mncvision">
+    <title>Legend Of Galactic Heroes, Ep 9</title>
+</programme>
+<programme start="20250816075800 +0000" stop="20250816082600 +0000" channel="Animax.mncvision">
+    <title>Legend Of Galactic..., Ep 10</title>
+</programme>
+<programme start="20250816082600 +0000" stop="20250816085400 +0000" channel="Animax.mncvision">
+    <title>Legend Of Galactic..., Ep 11</title>
+</programme>
+<programme start="20250816085400 +0000" stop="20250816093000 +0000" channel="Animax.mncvision">
+    <title>Legend Of Galactic..., Ep 12</title>
+</programme>
+<programme start="20250816093000 +0000" stop="20250816095800 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 37</title>
+</programme>
+<programme start="20250816095800 +0000" stop="20250816102600 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 38</title>
+</programme>
+<programme start="20250816102600 +0000" stop="20250816110000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 39</title>
+</programme>
+<programme start="20250816110000 +0000" stop="20250816112800 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 10</title>
+</programme>
+<programme start="20250816112800 +0000" stop="20250816120000 +0000" channel="Animax.mncvision">
+    <title>Parallel World Pharmacy, Ep 11</title>
+</programme>
+<programme start="20250816120000 +0000" stop="20250816122800 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 3</title>
+</programme>
+<programme start="20250816122800 +0000" stop="20250816125600 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 4</title>
+</programme>
+<programme start="20250816125600 +0000" stop="20250816133000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 5</title>
+</programme>
+<programme start="20250816133000 +0000" stop="20250816135800 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 8</title>
+</programme>
+<programme start="20250816135800 +0000" stop="20250816142600 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 9</title>
+</programme>
+<programme start="20250816142600 +0000" stop="20250816145400 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 10</title>
+</programme>
+<programme start="20250816145400 +0000" stop="20250816152200 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 11</title>
+</programme>
+<programme start="20250816152200 +0000" stop="20250816160000 +0000" channel="Animax.mncvision">
+    <title>I&#039;m Quitting Heroing, Ep 12</title>
+</programme>
+<programme start="20250816160000 +0000" stop="20250816163000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 7</title>
+</programme>
+<programme start="20250816163000 +0000" stop="20250815170000 +0000" channel="Animax.mncvision">
+    <title>Suicide Squad Isekai, Ep 8</title>
+</programme>
 <programme start="20250815180000 +0000" stop="20250815190000 +0000" channel="ANTV.mncvision">
     <title>The Revenge Of Plant</title>
 </programme>
@@ -2966,8 +3109,240 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250816163000 +0000" stop="20250815170000 +0000" channel="Entertainment.mncvision">
     <title>Dagelan Oke</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250815170000 +0000" stop="20250815171600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815171600 +0000" stop="20250815173000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815173000 +0000" stop="20250815180000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815180000 +0000" stop="20250815181500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815181500 +0000" stop="20250815183000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815183000 +0000" stop="20250815184600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815184600 +0000" stop="20250815190000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250815190000 +0000" stop="20250815191500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815191500 +0000" stop="20250815193000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815193000 +0000" stop="20250815200000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815200000 +0000" stop="20250815201400 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815201400 +0000" stop="20250815203000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815203000 +0000" stop="20250815204800 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815204800 +0000" stop="20250815210000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250815210000 +0000" stop="20250815211600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815211600 +0000" stop="20250815213000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815213000 +0000" stop="20250815220000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20250815220000 +0000" stop="20250815221600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250815221600 +0000" stop="20250815223000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250815223000 +0000" stop="20250815224600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250815224600 +0000" stop="20250815230000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250815230000 +0000" stop="20250815231600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250815231600 +0000" stop="20250815233000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250815233000 +0000" stop="20250816000000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816000000 +0000" stop="20250816001600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816001600 +0000" stop="20250816003000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816003000 +0000" stop="20250816010000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816010000 +0000" stop="20250816011400 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816011400 +0000" stop="20250816013000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816013000 +0000" stop="20250816020000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816020000 +0000" stop="20250816021600 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816021600 +0000" stop="20250816023000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816023000 +0000" stop="20250816030000 +0000" channel="EURONEWS.mncvision">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20250816030000 +0000" stop="20250816031600 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816031600 +0000" stop="20250816033000 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816033000 +0000" stop="20250816040000 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816040000 +0000" stop="20250816040500 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816040500 +0000" stop="20250816043000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250816043000 +0000" stop="20250816043600 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816043600 +0000" stop="20250816044500 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250816044500 +0000" stop="20250816050000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250816050000 +0000" stop="20250816050500 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816050500 +0000" stop="20250816051800 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250816051800 +0000" stop="20250816053000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250816053000 +0000" stop="20250816053900 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816053900 +0000" stop="20250816054800 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250816054800 +0000" stop="20250816060000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250816060000 +0000" stop="20250816060500 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250816060500 +0000" stop="20250816063000 +0000" channel="EURONEWS.mncvision">
+    <title>Brussels, My Love?</title>
+</programme>
+<programme start="20250816063000 +0000" stop="20250816070000 +0000" channel="EURONEWS.mncvision">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20250815170000 +0000" stop="20250815180000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights In 60 S1, Ep 27</title>
+</programme>
+<programme start="20250815180000 +0000" stop="20250815190000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights In 60 S1, Ep 29</title>
+</programme>
+<programme start="20250815190000 +0000" stop="20250815200000 +0000" channel="Fight Sports.mncvision">
+    <title>Fight Quest S1, Ep 11</title>
+</programme>
+<programme start="20250815200000 +0000" stop="20250815203000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Floyd Vs Hatton</title>
+</programme>
+<programme start="20250815203000 +0000" stop="20250815210000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S32, Ep 5</title>
+</programme>
+<programme start="20250815210000 +0000" stop="20250815213000 +0000" channel="Fight Sports.mncvision">
+    <title>Macho: Hector Camacho, Ep 1</title>
+</programme>
+<programme start="20250815213000 +0000" stop="20250815220000 +0000" channel="Fight Sports.mncvision">
+    <title>TNF: Camacho Vs Derouen</title>
+</programme>
+<programme start="20250815220000 +0000" stop="20250815230000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Du Plessis Vs Staden</title>
+</programme>
+<programme start="20250815230000 +0000" stop="20250816000000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights In 60 S1, Ep 27</title>
+</programme>
+<programme start="20250816000000 +0000" stop="20250816010000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights In 60 S1, Ep 29</title>
+</programme>
+<programme start="20250816010000 +0000" stop="20250816020000 +0000" channel="Fight Sports.mncvision">
+    <title>Fight Quest S1, Ep 11</title>
+</programme>
+<programme start="20250816020000 +0000" stop="20250816023000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Floyd Vs Hatton</title>
+</programme>
+<programme start="20250816023000 +0000" stop="20250816030000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S32, Ep 5</title>
+</programme>
+<programme start="20250816030000 +0000" stop="20250816033000 +0000" channel="Fight Sports.mncvision">
+    <title>Macho: Hector Camacho, Ep 1</title>
+</programme>
+<programme start="20250816033000 +0000" stop="20250816040000 +0000" channel="Fight Sports.mncvision">
+    <title>TNF: Camacho Vs Derouen</title>
+</programme>
+<programme start="20250816040000 +0000" stop="20250816050000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Du Plessis Vs Staden</title>
+</programme>
+<programme start="20250816050000 +0000" stop="20250816060000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights In 60 S1, Ep 27</title>
+</programme>
+<programme start="20250816060000 +0000" stop="20250816070000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights In 60 S1, Ep 29</title>
+</programme>
+<programme start="20250816070000 +0000" stop="20250816080000 +0000" channel="Fight Sports.mncvision">
+    <title>Fight Quest S1, Ep 11</title>
+</programme>
+<programme start="20250816080000 +0000" stop="20250816083000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Floyd Vs Hatton</title>
+</programme>
+<programme start="20250816083000 +0000" stop="20250816090000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S32, Ep 5</title>
+</programme>
+<programme start="20250816090000 +0000" stop="20250816093000 +0000" channel="Fight Sports.mncvision">
+    <title>Macho: Hector Camacho, Ep 1</title>
+</programme>
+<programme start="20250816093000 +0000" stop="20250816100000 +0000" channel="Fight Sports.mncvision">
+    <title>TNF: Camacho Vs Derouen</title>
+</programme>
+<programme start="20250816100000 +0000" stop="20250816110000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Du Plessis Vs Staden</title>
+</programme>
+<programme start="20250816110000 +0000" stop="20250816130000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 55</title>
+</programme>
+<programme start="20250816130000 +0000" stop="20250816133000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S4, Ep 2</title>
+</programme>
+<programme start="20250816133000 +0000" stop="20250816140000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 22</title>
+</programme>
+<programme start="20250816140000 +0000" stop="20250816143000 +0000" channel="Fight Sports.mncvision">
+    <title>WCCB: Malajika Vs Mama</title>
+</programme>
 <programme start="20250815173000 +0000" stop="20250815180000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Food Diary</title>
 </programme>
@@ -6589,7 +6964,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250816122000 +0000" stop="20250816125000 +0000" channel="Nickelodeon.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250815170000 +0000" stop="20250815172500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250815172500 +0000" stop="20250815174500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250815174500 +0000" stop="20250815180500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250815180500 +0000" stop="20250815183000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250815183000 +0000" stop="20250815184000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250815184000 +0000" stop="20250815190500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250815190500 +0000" stop="20250815193000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250815193000 +0000" stop="20250815195000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250815195000 +0000" stop="20250815201000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250815201000 +0000" stop="20250815202000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250815202000 +0000" stop="20250815202500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250815202500 +0000" stop="20250815203500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250815203500 +0000" stop="20250815204000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815204000 +0000" stop="20250815204500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815204500 +0000" stop="20250815205000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815205000 +0000" stop="20250815205500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815205500 +0000" stop="20250815210000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815210000 +0000" stop="20250815210500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815210500 +0000" stop="20250815211000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815211000 +0000" stop="20250815211500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250815211500 +0000" stop="20250815214000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250815214000 +0000" stop="20250815220000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250815220000 +0000" stop="20250815222500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250815222500 +0000" stop="20250815224500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250815224500 +0000" stop="20250815231000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250815231000 +0000" stop="20250815233000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250815233000 +0000" stop="20250815235500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250815235500 +0000" stop="20250816001500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250816001500 +0000" stop="20250816004000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250816004000 +0000" stop="20250816010000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250816010000 +0000" stop="20250816012500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250816012500 +0000" stop="20250816014500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250816014500 +0000" stop="20250816021000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250816021000 +0000" stop="20250816021500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250816021500 +0000" stop="20250816022000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250816022000 +0000" stop="20250816023000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250816023000 +0000" stop="20250816025000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250816025000 +0000" stop="20250816030000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250816030000 +0000" stop="20250816032000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250816032000 +0000" stop="20250816034500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250816034500 +0000" stop="20250816035500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250816035500 +0000" stop="20250816040000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250816040000 +0000" stop="20250816040500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250816040500 +0000" stop="20250816041000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250816041000 +0000" stop="20250816041500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250816041500 +0000" stop="20250816042000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250816042000 +0000" stop="20250816043000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250816043000 +0000" stop="20250816045000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250816045000 +0000" stop="20250816050000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250816050000 +0000" stop="20250816053000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
 <programme start="20250815174000 +0000" stop="20250815194000 +0000" channel="ONE.mncvision">
     <title>Running Man, Ep 743</title>
 </programme>
@@ -6698,7 +7222,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250816163500 +0000" stop="20250815170500 +0000" channel="ONE HD.mncvision">
     <title>Running Man, Ep 685</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250815175700 +0000" stop="20250815212200 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250815212200 +0000" stop="20250815231100 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250815231100 +0000" stop="20250816011000 +0000" channel="ORIGINALS.mncvision">
+    <title>Lost At Christmas</title>
+</programme>
+<programme start="20250816011000 +0000" stop="20250816030600 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250816030600 +0000" stop="20250816043500 +0000" channel="ORIGINALS.mncvision">
+    <title>Quanta</title>
+</programme>
+<programme start="20250816043500 +0000" stop="20250816061700 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250816061700 +0000" stop="20250816075600 +0000" channel="ORIGINALS.mncvision">
+    <title>Labor Pains</title>
+</programme>
+<programme start="20250816075600 +0000" stop="20250816095200 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250816095200 +0000" stop="20250816111900 +0000" channel="ORIGINALS.mncvision">
+    <title>Blood Money</title>
+</programme>
+<programme start="20250816111900 +0000" stop="20250816131400 +0000" channel="ORIGINALS.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250816131400 +0000" stop="20250816150300 +0000" channel="ORIGINALS.mncvision">
+    <title>The Escape Of Prisoner 614</title>
+</programme>
+<programme start="20250816150300 +0000" stop="20250816153300 +0000" channel="ORIGINALS.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20250815175700 +0000" stop="20250815212200 +0000" channel="ORIGINALS HD.mncvision">
     <title>Platinum</title>
 </programme>
@@ -8946,7 +9505,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250816151800 +0000" stop="20250816154800 +0000" channel="UNIQUES.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250815173800 +0000" stop="20250815192300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250815192300 +0000" stop="20250815212800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Every Breath You Take</title>
+</programme>
+<programme start="20250815212800 +0000" stop="20250815230700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250815230700 +0000" stop="20250816003900 +0000" channel="UNIQUES HD.mncvision">
+    <title>End Of Sentence</title>
+</programme>
+<programme start="20250816003900 +0000" stop="20250816020600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Berserk</title>
+</programme>
+<programme start="20250816020600 +0000" stop="20250816034300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250816034300 +0000" stop="20250816053500 +0000" channel="UNIQUES HD.mncvision">
+    <title>I Think We&#039;re Alone Now</title>
+</programme>
+<programme start="20250816053500 +0000" stop="20250816074200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250816074200 +0000" stop="20250816093700 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Space Between Us</title>
+</programme>
+<programme start="20250816093700 +0000" stop="20250816115300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Oranges And Sunshine</title>
+</programme>
+<programme start="20250816115300 +0000" stop="20250816134100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250816134100 +0000" stop="20250816151800 +0000" channel="UNIQUES HD.mncvision">
+    <title>One Way</title>
+</programme>
+<programme start="20250816151800 +0000" stop="20250816154800 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
 <programme start="20250815170000 +0000" stop="20250815180000 +0000" channel="Vision Prime.mncvision">
     <title>OMG</title>
 </programme>

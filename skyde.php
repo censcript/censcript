@@ -3079,6 +3079,57 @@
 <programme start="20250816212000 +0000" stop="20250816232000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Sunderland - West Ham United, 1. Spieltag</title>
 </programme>
+<programme start="20250815223000 +0000" stop="20250815230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250815230000 +0000" stop="20250816010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816010000 +0000" stop="20250816030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816030000 +0000" stop="20250816050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816050000 +0000" stop="20250816070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816070000 +0000" stop="20250816073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250816073000 +0000" stop="20250816093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816093000 +0000" stop="20250816113000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816113000 +0000" stop="20250816133000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816133000 +0000" stop="20250816143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Toronto</title>
+</programme>
+<programme start="20250816143000 +0000" stop="20250816163000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816163000 +0000" stop="20250816183000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+</programme>
+<programme start="20250816183000 +0000" stop="20250816185500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
+</programme>
+<programme start="20250816185500 +0000" stop="20250816210000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: HF1, Cincinnati Open in Cincinnati (USA), Halbfinale,</title>
+</programme>
+<programme start="20250816210000 +0000" stop="20250816213000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250816213000 +0000" stop="20250816215500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
+</programme>
+<programme start="20250816215500 +0000" stop="20250817000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale,</title>
+</programme>
 <programme start="20250815223000 +0000" stop="20250815230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
