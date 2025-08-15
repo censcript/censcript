@@ -7910,7 +7910,7 @@
     <title>Bundesliga Special Show</title>
 </programme>
 <programme start="20250815070000 +0000" stop="20250815080000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>AFC Champions League Two (L)</title>
 </programme>
 <programme start="20250815080000 +0000" stop="20250815083000 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
@@ -7919,7 +7919,7 @@
     <title>Bundesliga Weekly</title>
 </programme>
 <programme start="20250815090000 +0000" stop="20250815100000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Two (L)</title>
+    <title>AFC Champions League Elite (L)</title>
 </programme>
 <programme start="20250815100000 +0000" stop="20250815103000 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
@@ -7967,7 +7967,7 @@
     <title>Bundesliga Special Show</title>
 </programme>
 <programme start="20250815070000 +0000" stop="20250815080000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>AFC Champions League Two (L)</title>
 </programme>
 <programme start="20250815080000 +0000" stop="20250815083000 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic Soccer</title>
@@ -7976,7 +7976,7 @@
     <title>Bundesliga Weekly</title>
 </programme>
 <programme start="20250815090000 +0000" stop="20250815100000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Two (L)</title>
+    <title>AFC Champions League Elite (L)</title>
 </programme>
 <programme start="20250815100000 +0000" stop="20250815103000 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic Soccer</title>

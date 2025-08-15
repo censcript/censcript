@@ -3178,10 +3178,10 @@
 <programme start="20250814230000 +0000" stop="20250815010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: V. Kudermetova - M. Linette (POL), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
-<programme start="20250815010000 +0000" stop="20250815033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815010000 +0000" stop="20250815023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
-<programme start="20250815033000 +0000" stop="20250815040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815023000 +0000" stop="20250815040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Sunderland: The return of the Black Cats)</title>
 </programme>
 <programme start="20250815040000 +0000" stop="20250815042500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3190,10 +3190,10 @@
 <programme start="20250815042500 +0000" stop="20250815055500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
-<programme start="20250815055500 +0000" stop="20250815062500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815055500 +0000" stop="20250815063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
-<programme start="20250815062500 +0000" stop="20250815065500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815063000 +0000" stop="20250815065500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Pressekonferenz Fahrer - GP Österreich</title>
 </programme>
 <programme start="20250815065500 +0000" stop="20250815074000 +0000" channel="Sky Sport Top Event HD.skyde">
