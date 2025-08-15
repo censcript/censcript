@@ -2179,11 +2179,8 @@
     <programme start="20250814200000 +0000" stop="20250814210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business</title>
     </programme>
-    <programme start="20250814210000 +0000" stop="20250814213000 +0000" channel="CNN HD.starhub">
+    <programme start="20250814210000 +0000" stop="20250814220000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
-    </programme>
-    <programme start="20250814213000 +0000" stop="20250814220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250814220000 +0000" stop="20250814230000 +0000" channel="CNN HD.starhub">
         <title>The Lead</title>
