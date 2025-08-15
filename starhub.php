@@ -4967,7 +4967,7 @@
         <title>Suthanthira Thina Sirappu Pattimandram 2025</title>
     </programme>
     <programme start="20250815040000 +0000" stop="20250815063000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Agaram Suriya Kalviye Aayutham 2025</title>
     </programme>
     <programme start="20250815063000 +0000" stop="20250815091500 +0000" channel="Vijay TV HD.starhub">
         <title>Sweetheart</title>
@@ -8323,10 +8323,10 @@
     <programme start="20250815013000 +0000" stop="20250815043000 +0000" channel="Asianet Movies.starhub">
         <title>Kerala Varma Pazhassiraja</title>
     </programme>
-    <programme start="20250815043000 +0000" stop="20250815073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250815043000 +0000" stop="20250815073500 +0000" channel="Asianet Movies.starhub">
         <title>Marakkar-Arabikkadalinte Simham</title>
     </programme>
-    <programme start="20250815073000 +0000" stop="20250815103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250815073500 +0000" stop="20250815103000 +0000" channel="Asianet Movies.starhub">
         <title>Aavesham</title>
     </programme>
     <programme start="20250815103000 +0000" stop="20250815133000 +0000" channel="Asianet Movies.starhub">

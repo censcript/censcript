@@ -2731,16 +2731,16 @@
 <programme start="20250815211500 +0000" stop="20250815234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
 </programme>
-<programme start="20250814233000 +0000" stop="20250815003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250814230000 +0000" stop="20250815003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250815003000 +0000" stop="20250815080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815184000 +0000" stop="20250815190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250815190000 +0000" stop="20250815220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250815190000 +0000" stop="20250815210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250814223000 +0000" stop="20250814233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2863,13 +2863,13 @@
 <programme start="20250815125000 +0000" stop="20250815141500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live MotoGP: Training - GP Österreich</title>
 </programme>
-<programme start="20250815141500 +0000" stop="20250815145500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250815141500 +0000" stop="20250815150000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>MotoGP: There Can Be Only One</title>
 </programme>
-<programme start="20250815145500 +0000" stop="20250815154000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250815150000 +0000" stop="20250815154500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live MotoE: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20250815154000 +0000" stop="20250815160000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250815154500 +0000" stop="20250815160000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>MotoGP: Stories: The little samurai&#039;s big return</title>
 </programme>
 <programme start="20250815160000 +0000" stop="20250815170000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2890,10 +2890,10 @@
 <programme start="20250815213000 +0000" stop="20250815224000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>MotoGP: 1. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20250814220000 +0000" stop="20250815010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250814223000 +0000" stop="20250815013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Danish Golf Championship, 1. Tag in Kopenhagen (Dänemark)</title>
 </programme>
-<programme start="20250815010000 +0000" stop="20250815040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250815013000 +0000" stop="20250815040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW Championship, 1. Tag in Owings Mills, MD (USA)</title>
 </programme>
 <programme start="20250815040000 +0000" stop="20250815070000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2962,7 +2962,7 @@
 <programme start="20250815040000 +0000" stop="20250815043000 +0000" channel="Sky Sport News HD.skyde">
     <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Niklas Süle)</title>
 </programme>
-<programme start="20250815043000 +0000" stop="20250815090000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250815043000 +0000" stop="20250815080000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250815090000 +0000" stop="20250815093000 +0000" channel="Sky Sport News HD.skyde">
@@ -3127,35 +3127,32 @@
 <programme start="20250815213000 +0000" stop="20250815233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Liverpool - AFC Bournemouth, 1. Spieltag</title>
 </programme>
-<programme start="20250814223000 +0000" stop="20250814230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250814230000 +0000" stop="20250815003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 8. Tag</title>
+<programme start="20250814233000 +0000" stop="20250815003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 1000: V. Kudermetova - M. Linette (POL), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250815003000 +0000" stop="20250815023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815023000 +0000" stop="20250815043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815043000 +0000" stop="20250815063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815063000 +0000" stop="20250815083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 8. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - V. Gracheva (FRA), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250815083000 +0000" stop="20250815090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250815090000 +0000" stop="20250815110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815110000 +0000" stop="20250815130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815130000 +0000" stop="20250815150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 8. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - V. Gracheva (FRA), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250815150000 +0000" stop="20250815170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
@@ -3169,17 +3166,14 @@
 <programme start="20250815210000 +0000" stop="20250815223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
-<programme start="20250814220000 +0000" stop="20250814223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
-</programme>
 <programme start="20250814223000 +0000" stop="20250814230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20250814230000 +0000" stop="20250815003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 8. Tag</title>
+    <title>Live WTA 1000: V. Kudermetova - M. Linette (POL), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250815003000 +0000" stop="20250815023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815023000 +0000" stop="20250815030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Sunderland: The return of the Black Cats)</title>
@@ -3272,7 +3266,7 @@
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250814230000 +0000" stop="20250815080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: Topspiel, Cincinnati Open in Cincinnati (USA), 8. Tag</title>
+    <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250815151000 +0000" stop="20250815153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
