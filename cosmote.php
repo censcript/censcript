@@ -42,10 +42,6 @@
     <title>Football: Paris Saint Germain - Tottenham Hotspur</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250815204500 +0700" stop="20250815225500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos - Levadiakos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250815225500 +0700" stop="20250816005500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Al Shabab - Al Ittihad</title>
     <desc>Live: Tidak</desc>
@@ -106,6 +102,10 @@
     <title>Football: SSC Napoli - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250816230000 +0700" stop="20250817010500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Al Wehda - Al Hilal</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250815213500 +0700" stop="20250815234000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Libertad - River Plate</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +160,14 @@
 </programme>
 <programme start="20250816210000 +0700" stop="20250816230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Blackburn Rovers - Birmingham City (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250816230000 +0700" stop="20250816234500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2024-25 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250816234500 +0700" stop="20250817014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rangers FC - Alloa Athletic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250815220000 +0700" stop="20250816000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,10 +244,6 @@
 </programme>
 <programme start="20250816220000 +0700" stop="20250817000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Turk Telekom</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250815212500 +0700" stop="20250815221500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250815221500 +0700" stop="20250815231000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +354,12 @@
     <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250815210000 +0700" stop="20250815223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jannik Sinner - Felix Auger-Aliassime</title>
+<programme start="20250816230500 +0700" stop="20250816233500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250816233500 +0700" stop="20250817002500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250815223000 +0700" stop="20250816000000 +0700" channel="COSMOTE Sport 6 HD">
