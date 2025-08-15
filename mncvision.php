@@ -40,28 +40,31 @@
 <programme start="20250815090000 +0000" stop="20250815100000 +0000" channel="ABC Australia.mncvision">
     <title>Pacific Break Live From Samoa</title>
 </programme>
-<programme start="20250815100000 +0000" stop="20250815130000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815100000 +0000" stop="20250815103000 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20250815103000 +0000" stop="20250815133000 +0000" channel="ABC Australia.mncvision">
     <title>AFL: Fremantle Vs Lions</title>
 </programme>
-<programme start="20250815130000 +0000" stop="20250815133000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815133000 +0000" stop="20250815140000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20250815133000 +0000" stop="20250815141500 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815140000 +0000" stop="20250815144500 +0000" channel="ABC Australia.mncvision">
     <title>Planet America: Weekend Edition</title>
 </programme>
-<programme start="20250815141500 +0000" stop="20250815144500 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815144500 +0000" stop="20250815151500 +0000" channel="ABC Australia.mncvision">
     <title>Close Of Business</title>
 </programme>
-<programme start="20250815144500 +0000" stop="20250815150000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815151500 +0000" stop="20250815153000 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20250815150000 +0000" stop="20250815153000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815153000 +0000" stop="20250815160000 +0000" channel="ABC Australia.mncvision">
     <title>Asia News Week</title>
 </programme>
-<programme start="20250815153000 +0000" stop="20250815160000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815160000 +0000" stop="20250815163000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20250815160000 +0000" stop="20250815163000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250815163000 +0000" stop="20250814170000 +0000" channel="ABC Australia.mncvision">
     <title>Gardening Australia</title>
 </programme>
 <programme start="20250814170000 +0000" stop="20250814173000 +0000" channel="Al Jazeera English.mncvision">
@@ -1567,17 +1570,20 @@
 <programme start="20250815003000 +0000" stop="20250815011500 +0000" channel="BTV.mncvision">
     <title>Figur Publik</title>
 </programme>
-<programme start="20250815011500 +0000" stop="20250815021500 +0000" channel="BTV.mncvision">
+<programme start="20250815011500 +0000" stop="20250815013000 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250815013000 +0000" stop="20250815020000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20250815020000 +0000" stop="20250815021500 +0000" channel="BTV.mncvision">
     <title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250815021500 +0000" stop="20250815030000 +0000" channel="BTV.mncvision">
     <title>Selera Rasa</title>
 </programme>
-<programme start="20250815030000 +0000" stop="20250815040000 +0000" channel="BTV.mncvision">
-    <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250815040000 +0000" stop="20250815050000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Siang</title>
+<programme start="20250815030000 +0000" stop="20250815050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Spesial</title>
 </programme>
 <programme start="20250815050000 +0000" stop="20250815053000 +0000" channel="BTV.mncvision">
     <title>Jalan Dakwah</title>
@@ -1592,7 +1598,7 @@
     <title>Kuyliner</title>
 </programme>
 <programme start="20250815080000 +0000" stop="20250815090000 +0000" channel="BTV.mncvision">
-    <title>Ketulusan Hati</title>
+    <title>Berita Satu Spesial</title>
 </programme>
 <programme start="20250815090000 +0000" stop="20250815100000 +0000" channel="BTV.mncvision">
     <title>Masak Seru Gaes</title>
@@ -5033,10 +5039,10 @@
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
 <programme start="20250815073000 +0000" stop="20250815083000 +0000" channel="Kids TV.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>CoComelon</title>
 </programme>
 <programme start="20250815083000 +0000" stop="20250815093000 +0000" channel="Kids TV.mncvision">
-    <title>CoComelon</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20250815093000 +0000" stop="20250815100000 +0000" channel="Kids TV.mncvision">
     <title>Blippi Wonders</title>
@@ -5120,10 +5126,10 @@
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
 <programme start="20250815073000 +0000" stop="20250815083000 +0000" channel="Kids TV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>CoComelon</title>
 </programme>
 <programme start="20250815083000 +0000" stop="20250815093000 +0000" channel="Kids TV HD.mncvision">
-    <title>CoComelon</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20250815093000 +0000" stop="20250815100000 +0000" channel="Kids TV HD.mncvision">
     <title>Blippi Wonders</title>

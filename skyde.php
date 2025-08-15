@@ -982,13 +982,13 @@
 <programme start="20250815060000 +0000" stop="20250815070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Gameweek Highlights: 34. Spieltag</title>
 </programme>
-<programme start="20250815070000 +0000" stop="20250815073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815070000 +0000" stop="20250815075000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250815073000 +0000" stop="20250815093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815075000 +0000" stop="20250815094000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Nations League: Spanien - Frankreich</title>
 </programme>
-<programme start="20250815093000 +0000" stop="20250815113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815094000 +0000" stop="20250815113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: SC Freiburg - Bayer 04 Leverkusen</title>
 </programme>
 <programme start="20250815113000 +0000" stop="20250815120000 +0000" channel="DAZN 1 HD.skyde">
@@ -1003,16 +1003,16 @@
 <programme start="20250815143000 +0000" stop="20250815150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 32. Spieltag</title>
 </programme>
-<programme start="20250815150000 +0000" stop="20250815153500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815150000 +0000" stop="20250815152500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250815153500 +0000" stop="20250815160500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815152500 +0000" stop="20250815155000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 33. Spieltag</title>
 </programme>
-<programme start="20250815160500 +0000" stop="20250815163500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815155000 +0000" stop="20250815161500 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2024/25: 34. Spieltag</title>
 </programme>
-<programme start="20250815163500 +0000" stop="20250815165500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250815161500 +0000" stop="20250815165500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250815165500 +0000" stop="20250815190500 +0000" channel="DAZN 1 HD.skyde">
@@ -1057,10 +1057,10 @@
 <programme start="20250815162500 +0000" stop="20250815183500 +0000" channel="DAZN 2 HD.skyde">
     <title>Coppa Italia 25/26: Sassuolo Calcio - US Catanzaro</title>
 </programme>
-<programme start="20250815183500 +0000" stop="20250815205500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250815183500 +0000" stop="20250815210000 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1 25/26: Stade Rennes - Olympique Marseille</title>
 </programme>
-<programme start="20250815205500 +0000" stop="20250815220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250815210000 +0000" stop="20250815220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: FightZone</title>
 </programme>
 <programme start="20250814223500 +0000" stop="20250814230500 +0000" channel="Heimatkanal.skyde">
@@ -2735,12 +2735,12 @@
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250815003000 +0000" stop="20250815080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815184000 +0000" stop="20250815190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20250815190000 +0000" stop="20250815210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250815190000 +0000" stop="20250815220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250814223000 +0000" stop="20250814233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2893,19 +2893,19 @@
 <programme start="20250814223000 +0000" stop="20250815013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Danish Golf Championship, 1. Tag in Kopenhagen (Dänemark)</title>
 </programme>
-<programme start="20250815013000 +0000" stop="20250815040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250815013000 +0000" stop="20250815035000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW Championship, 1. Tag in Owings Mills, MD (USA)</title>
 </programme>
-<programme start="20250815040000 +0000" stop="20250815070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250815035000 +0000" stop="20250815065000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Danish Golf Championship, 1. Tag in Kopenhagen (Dänemark)</title>
 </programme>
-<programme start="20250815070000 +0000" stop="20250815071500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250815065000 +0000" stop="20250815070500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (4)</title>
 </programme>
-<programme start="20250815071500 +0000" stop="20250815073000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250815070500 +0000" stop="20250815072000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (4)</title>
 </programme>
-<programme start="20250815073000 +0000" stop="20250815103000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250815072000 +0000" stop="20250815093500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW Championship, 1. Tag in Owings Mills, MD (USA)</title>
 </programme>
 <programme start="20250815103000 +0000" stop="20250815110000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2963,6 +2963,12 @@
     <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Niklas Süle)</title>
 </programme>
 <programme start="20250815043000 +0000" stop="20250815080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250815080000 +0000" stop="20250815083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20250815083000 +0000" stop="20250815090000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250815090000 +0000" stop="20250815093000 +0000" channel="Sky Sport News HD.skyde">
@@ -3127,13 +3133,13 @@
 <programme start="20250815213000 +0000" stop="20250815233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Liverpool - AFC Bournemouth, 1. Spieltag</title>
 </programme>
-<programme start="20250814233000 +0000" stop="20250815003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250814230500 +0000" stop="20250815010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: V. Kudermetova - M. Linette (POL), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
-<programme start="20250815003000 +0000" stop="20250815023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250815010000 +0000" stop="20250815033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
-<programme start="20250815023000 +0000" stop="20250815043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250815033000 +0000" stop="20250815043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815043000 +0000" stop="20250815063000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3169,19 +3175,19 @@
 <programme start="20250814223000 +0000" stop="20250814230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
-<programme start="20250814230000 +0000" stop="20250815003000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250814230000 +0000" stop="20250815010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: V. Kudermetova - M. Linette (POL), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
-<programme start="20250815003000 +0000" stop="20250815023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815010000 +0000" stop="20250815033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: T. Atmane (FRA) - H. Rune (DEN), Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
-<programme start="20250815023000 +0000" stop="20250815030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815033000 +0000" stop="20250815040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Sunderland: The return of the Black Cats)</title>
 </programme>
-<programme start="20250815030000 +0000" stop="20250815032500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815040000 +0000" stop="20250815042500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>HotelPlaner Tour: Highlights Irish Challenge</title>
 </programme>
-<programme start="20250815032500 +0000" stop="20250815055500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250815042500 +0000" stop="20250815055500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
 <programme start="20250815055500 +0000" stop="20250815062500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3262,11 +3268,8 @@
 <programme start="20250815210000 +0000" stop="20250815230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250814224000 +0000" stop="20250814230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
-</programme>
-<programme start="20250814230000 +0000" stop="20250815080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: Cincinnati Open in Cincinnati (USA), 8. Tag</title>
+<programme start="20250814230000 +0000" stop="20250815012000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: V. Kudermetova - M. Linette (POL), Cincinnati Open in Cincinnati (USA), 8. Tag</title>
 </programme>
 <programme start="20250815151000 +0000" stop="20250815153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
@@ -3274,7 +3277,7 @@
 <programme start="20250815153000 +0000" stop="20250815204500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Freitags-Konferenz, 1. Runde</title>
 </programme>
-<programme start="20250815204500 +0000" stop="20250815214500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250815204500 +0000" stop="20250815224500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 1. Runde (Freitag)</title>
 </programme>
 <programme start="20250815151000 +0000" stop="20250815153000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3289,31 +3292,31 @@
 <programme start="20250815184000 +0000" stop="20250815204500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Arminia Bielefeld - Werder Bremen, 1. Runde</title>
 </programme>
-<programme start="20250815204500 +0000" stop="20250815214500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250815204500 +0000" stop="20250815224500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 1. Runde (Freitag)</title>
 </programme>
 <programme start="20250815151000 +0000" stop="20250815153000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250815153000 +0000" stop="20250815183000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250815153000 +0000" stop="20250815193000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: FC Gütersloh - 1. FC Union Berlin, 1. Runde</title>
 </programme>
-<programme start="20250815201000 +0000" stop="20250815203000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250815193000 +0000" stop="20250815203000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250815203000 +0000" stop="20250815223000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250815203000 +0000" stop="20250816080000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
 </programme>
 <programme start="20250815151000 +0000" stop="20250815153000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250815153000 +0000" stop="20250815183000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250815153000 +0000" stop="20250815193000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: 1. FC Saarbrücken - 1. FC Magdeburg, 1. Runde</title>
 </programme>
 <programme start="20250815151000 +0000" stop="20250815153000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250815153000 +0000" stop="20250815183000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250815153000 +0000" stop="20250815193000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: SG Sonnenhof Großaspach - Bayer Leverkusen, 1. Runde</title>
 </programme>
 <programme start="20250814222500 +0000" stop="20250814231500 +0000" channel="SYFY HD.skyde">

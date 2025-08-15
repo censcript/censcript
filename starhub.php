@@ -2203,20 +2203,14 @@
     <programme start="20250815030000 +0000" stop="20250815040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20250815040000 +0000" stop="20250815044500 +0000" channel="CNN HD.starhub">
+    <programme start="20250815040000 +0000" stop="20250815050000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250815044500 +0000" stop="20250815050000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250815050000 +0000" stop="20250815060000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
     </programme>
-    <programme start="20250815060000 +0000" stop="20250815064500 +0000" channel="CNN HD.starhub">
+    <programme start="20250815060000 +0000" stop="20250815070000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20250815064500 +0000" stop="20250815070000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250815070000 +0000" stop="20250815080000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>
@@ -2233,17 +2227,11 @@
     <programme start="20250815110000 +0000" stop="20250815120000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20250815120000 +0000" stop="20250815123000 +0000" channel="CNN HD.starhub">
+    <programme start="20250815120000 +0000" stop="20250815130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20250815123000 +0000" stop="20250815130000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
-    <programme start="20250815130000 +0000" stop="20250815134500 +0000" channel="CNN HD.starhub">
+    <programme start="20250815130000 +0000" stop="20250815140000 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
-    </programme>
-    <programme start="20250815134500 +0000" stop="20250815140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250815140000 +0000" stop="20250815150000 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
@@ -8230,8 +8218,8 @@
     <programme start="20250815153000 +0000" stop="20250815160000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Aami Daakini</title>
     </programme>
-    <programme start="20250814160000 +0000" stop="20250814161500 +0000" channel="ABC Australia HD.starhub">
-        <title>ABC Late News (2025)</title>
+    <programme start="20250814161000 +0000" stop="20250814161500 +0000" channel="ABC Australia HD.starhub">
+        <title>The Solomon Islands&#039; SeaSistas</title>
     </programme>
     <programme start="20250814161500 +0000" stop="20250814164500 +0000" channel="ABC Australia HD.starhub">
         <title>Anger</title>
@@ -8281,26 +8269,26 @@
     <programme start="20250815090000 +0000" stop="20250815100000 +0000" channel="ABC Australia HD.starhub">
         <title>Pacific Break Live from Samoa: 2025 Launch</title>
     </programme>
-    <programme start="20250815100000 +0000" stop="20250815130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250815100000 +0000" stop="20250815103000 +0000" channel="ABC Australia HD.starhub">
+        <title>That Pacific Sports Show S5</title>
+    </programme>
+    <programme start="20250815103000 +0000" stop="20250815133000 +0000" channel="ABC Australia HD.starhub">
         <title>Round 23 - Fremantle v Brisbane Lions</title>
     </programme>
-    <programme start="20250815130000 +0000" stop="20250815133000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250815133000 +0000" stop="20250815140000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250815133000 +0000" stop="20250815141500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250815140000 +0000" stop="20250815144500 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America: Weekend Edition (2025)</title>
     </programme>
-    <programme start="20250815141500 +0000" stop="20250815144500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250815144500 +0000" stop="20250815151500 +0000" channel="ABC Australia HD.starhub">
         <title>Close Of Business (2025)</title>
     </programme>
-    <programme start="20250815144500 +0000" stop="20250815150000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250815151500 +0000" stop="20250815153000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
     </programme>
-    <programme start="20250815150000 +0000" stop="20250815153000 +0000" channel="ABC Australia HD.starhub">
-        <title>Asia News Week (2025)</title>
-    </programme>
     <programme start="20250815153000 +0000" stop="20250815160000 +0000" channel="ABC Australia HD.starhub">
-        <title>The World (2025)</title>
+        <title>Asia News Week (2025)</title>
     </programme>
     <programme start="20250814133000 +0000" stop="20250814163000 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
