@@ -7366,14 +7366,11 @@
     <programme start="20250815022300 +0000" stop="20250815023000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>One in Every Japanese</title>
     </programme>
-    <programme start="20250815023000 +0000" stop="20250815025000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250815023000 +0000" stop="20250815025200 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Time-Lapse Journey</title>
     </programme>
-    <programme start="20250815025000 +0000" stop="20250815030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Nun&#039;s Seasonal Calendar</title>
-    </programme>
-    <programme start="20250815030000 +0000" stop="20250815031000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK Newsline</title>
+    <programme start="20250815025200 +0000" stop="20250815031000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>NHK Newsline: 80 Years After WWII</title>
     </programme>
     <programme start="20250815031000 +0000" stop="20250815032000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Matsuri: The Heartbeat of Japan</title>
