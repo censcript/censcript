@@ -136,7 +136,10 @@
 <programme start="20250816020000 +0000" stop="20250816030000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20250816030000 +0000" stop="20250816060000 +0000" channel="MNCTV.vision">
+<programme start="20250816030000 +0000" stop="20250816043000 +0000" channel="MNCTV.vision">
+<title>Rumahnya Keluarga</title>
+</programme>
+<programme start="20250816043000 +0000" stop="20250816060000 +0000" channel="MNCTV.vision">
 <title>Putri Duyung &amp; 1001 Keajaiban</title>
 </programme>
 <programme start="20250816060000 +0000" stop="20250816080000 +0000" channel="MNCTV.vision">
@@ -847,6 +850,9 @@
 <programme start="20250815013000 +0000" stop="20250815020000 +0000" channel="TVOne.vision">
 <title>Kabar Khusus (L)</title>
 </programme>
+<programme start="20250815020000 +0000" stop="20250815043000 +0000" channel="TVOne.vision">
+<title>Pidato Kenegaraan Presiden RI</title>
+</programme>
 <programme start="20250815043000 +0000" stop="20250815060000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250816050000 +0000" stop="20250816053000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20250816053000 +0000" stop="20250816063000 +0000" channel="BTV.vision">
-<title>Swaragini</title>
-</programme>
-<programme start="20250816063000 +0000" stop="20250816070000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
 </programme>
