@@ -5644,10 +5644,10 @@
 <programme start="20250815110000 +0000" stop="20250815123500 +0000" channel="MDTV.mncvision">
     <title>Dia Anakku</title>
 </programme>
-<programme start="20250815123500 +0000" stop="20250815135000 +0000" channel="MDTV.mncvision">
+<programme start="20250815123500 +0000" stop="20250815133000 +0000" channel="MDTV.mncvision">
     <title>Kupu Malam</title>
 </programme>
-<programme start="20250815135000 +0000" stop="20250815150500 +0000" channel="MDTV.mncvision">
+<programme start="20250815133000 +0000" stop="20250815150500 +0000" channel="MDTV.mncvision">
     <title>Antara Cinta Dan Dusta</title>
 </programme>
 <programme start="20250815150500 +0000" stop="20250815161500 +0000" channel="MDTV.mncvision">

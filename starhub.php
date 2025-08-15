@@ -4906,23 +4906,8 @@
     <programme start="20250814183000 +0000" stop="20250814190000 +0000" channel="Vijay TV HD.starhub">
         <title>Poongatru Thirumbuma</title>
     </programme>
-    <programme start="20250814190000 +0000" stop="20250814193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
-    </programme>
-    <programme start="20250814193000 +0000" stop="20250814200000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20250814200000 +0000" stop="20250814203000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thendrale Mella Pesu</title>
-    </programme>
-    <programme start="20250814203000 +0000" stop="20250814210000 +0000" channel="Vijay TV HD.starhub">
-        <title>Magale En Marumagale</title>
-    </programme>
-    <programme start="20250814210000 +0000" stop="20250814213000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam - Ungalil Oruthi</title>
-    </programme>
-    <programme start="20250814213000 +0000" stop="20250814220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
+    <programme start="20250814211500 +0000" stop="20250815000000 +0000" channel="Vijay TV HD.starhub">
+        <title>Amaran</title>
     </programme>
     <programme start="20250814220000 +0000" stop="20250814223000 +0000" channel="Vijay TV HD.starhub">
         <title>Aha Kalyanam Dum Dum Dum</title>
@@ -4933,10 +4918,10 @@
     <programme start="20250814230000 +0000" stop="20250814233000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
-    <programme start="20250814233000 +0000" stop="20250815001500 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250815000000 +0000" stop="20250815003000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
-    <programme start="20250815001500 +0000" stop="20250815010000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250815003000 +0000" stop="20250815010000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
     </programme>
     <programme start="20250815010000 +0000" stop="20250815013000 +0000" channel="Vijay TV HD.starhub">
@@ -4948,17 +4933,47 @@
     <programme start="20250815020000 +0000" stop="20250815023000 +0000" channel="Vijay TV HD.starhub">
         <title>Sindhu Bairavi Kacheri Arambam</title>
     </programme>
-    <programme start="20250815023000 +0000" stop="20250815040000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suthanthira Thina Sirappu Pattimandram 2025</title>
+    <programme start="20250815023000 +0000" stop="20250815034500 +0000" channel="Vijay TV HD.starhub">
+        <title>Cooku With Comali S06</title>
     </programme>
-    <programme start="20250815040000 +0000" stop="20250815063000 +0000" channel="Vijay TV HD.starhub">
-        <title>Agaram Suriya Kalviye Aayutham 2025</title>
+    <programme start="20250815034500 +0000" stop="20250815050000 +0000" channel="Vijay TV HD.starhub">
+        <title>Start Music S06</title>
     </programme>
-    <programme start="20250815063000 +0000" stop="20250815091500 +0000" channel="Vijay TV HD.starhub">
-        <title>Sweetheart</title>
+    <programme start="20250815050000 +0000" stop="20250815053000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
-    <programme start="20250815091500 +0000" stop="20250815120000 +0000" channel="Vijay TV HD.starhub">
-        <title>Amaran</title>
+    <programme start="20250815053000 +0000" stop="20250815060000 +0000" channel="Vijay TV HD.starhub">
+        <title>Ayyanar Thunai</title>
+    </programme>
+    <programme start="20250815060000 +0000" stop="20250815063000 +0000" channel="Vijay TV HD.starhub">
+        <title>Siragadikka Aasai</title>
+    </programme>
+    <programme start="20250815063000 +0000" stop="20250815070000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    </programme>
+    <programme start="20250815070000 +0000" stop="20250815073000 +0000" channel="Vijay TV HD.starhub">
+        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+    </programme>
+    <programme start="20250815073000 +0000" stop="20250815080000 +0000" channel="Vijay TV HD.starhub">
+        <title>Kanmani Anbudan</title>
+    </programme>
+    <programme start="20250815080000 +0000" stop="20250815083000 +0000" channel="Vijay TV HD.starhub">
+        <title>Thendrale Mella Pesu</title>
+    </programme>
+    <programme start="20250815083000 +0000" stop="20250815090000 +0000" channel="Vijay TV HD.starhub">
+        <title>Magale En Marumagale</title>
+    </programme>
+    <programme start="20250815090000 +0000" stop="20250815093000 +0000" channel="Vijay TV HD.starhub">
+        <title>Dhanam - Ungalil Oruthi</title>
+    </programme>
+    <programme start="20250815093000 +0000" stop="20250815100000 +0000" channel="Vijay TV HD.starhub">
+        <title>Vanakkam Singapore S01</title>
+    </programme>
+    <programme start="20250815100000 +0000" stop="20250815103000 +0000" channel="Vijay TV HD.starhub">
+        <title>Star Talk With Vinay</title>
+    </programme>
+    <programme start="20250815103000 +0000" stop="20250815120000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer S11</title>
     </programme>
     <programme start="20250815120000 +0000" stop="20250815123000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
@@ -4969,14 +4984,11 @@
     <programme start="20250815130000 +0000" stop="20250815133000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
     </programme>
-    <programme start="20250815133000 +0000" stop="20250815140000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20250815133000 +0000" stop="20250815150000 +0000" channel="Vijay TV HD.starhub">
+        <title>Cooku With Comali S06</title>
     </programme>
-    <programme start="20250815140000 +0000" stop="20250815143000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20250815143000 +0000" stop="20250815160000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suthanthira Thina Sirappu Pattimandram 2025</title>
+    <programme start="20250815150000 +0000" stop="20250815160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer S11</title>
     </programme>
     <programme start="20250814160000 +0000" stop="20250814163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
