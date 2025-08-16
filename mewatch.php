@@ -916,17 +916,17 @@
     <programme start="20250816160000 +0000" stop="20250817160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 22nd August, Friday 8.30pm. ONE Friday Fights 121</title>
     </programme>
-    <programme start="20250815160000 +0000" stop="20250816090000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 16th August, Saturday 5pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250815160000 +0000" stop="20250816083400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 16th August, Saturday 4.34pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250816090000 +0000" stop="20250816110000 +0000" channel="Live 5.mewatch">
-        <title>ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Australia</title>
-    </programme>
-    <programme start="20250816110000 +0000" stop="20250816130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 16th August, Saturday 9pm. ASEAN MSIG Serenity Cup™ 2025</title>
-    </programme>
-    <programme start="20250816130000 +0000" stop="20250816150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250816083400 +0000" stop="20250816110000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Myanmar vs Thailand</title>
+    </programme>
+    <programme start="20250816110000 +0000" stop="20250816123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 16th August, Saturday 8.34pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    </programme>
+    <programme start="20250816123400 +0000" stop="20250816150000 +0000" channel="Live 5.mewatch">
+        <title>ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Australia</title>
     </programme>
     <programme start="20250816150000 +0000" stop="20250816160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 19th August, Tuesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>

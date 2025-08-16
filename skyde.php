@@ -2686,7 +2686,7 @@
 <programme start="20250816143000 +0000" stop="20250816145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Admiral BL: Es folgt</title>
 </programme>
-<programme start="20250816145000 +0000" stop="20250816171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250816145000 +0000" stop="20250816173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - WSG Tirol, 3. Runde</title>
 </programme>
 <programme start="20250815233000 +0000" stop="20250816000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3022,10 +3022,10 @@
 <programme start="20250816211500 +0000" stop="20250816220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20250815233000 +0000" stop="20250816000000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250815233500 +0000" stop="20250816000500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
 </programme>
-<programme start="20250816000000 +0000" stop="20250816010000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250816000500 +0000" stop="20250816010000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
 </programme>
 <programme start="20250816010000 +0000" stop="20250816020000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3076,47 +3076,44 @@
 <programme start="20250816212000 +0000" stop="20250816232000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Sunderland - West Ham United, 1. Spieltag</title>
 </programme>
-<programme start="20250815223000 +0000" stop="20250815230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250815230000 +0000" stop="20250816004500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250815230000 +0000" stop="20250816010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
-</programme>
-<programme start="20250816010000 +0000" stop="20250816030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+<programme start="20250816004500 +0000" stop="20250816030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816030000 +0000" stop="20250816050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>WTA 1000: V. Gracheva (FRA) - V. Kudermetova, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816050000 +0000" stop="20250816070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>WTA 1000: I. Swiatek (POL) -  A. Kalinskaya, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816070000 +0000" stop="20250816073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250816073000 +0000" stop="20250816093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816093000 +0000" stop="20250816113000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF2, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816113000 +0000" stop="20250816133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816133000 +0000" stop="20250816143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250816143000 +0000" stop="20250816163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF3, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: C. Alcaraz (ESP) - A. Rublev, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816163000 +0000" stop="20250816183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+    <title>ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816183000 +0000" stop="20250816185500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250816185500 +0000" stop="20250816210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF1, Cincinnati Open in Cincinnati (USA), Halbfinale,</title>
+    <title>Live ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250816210000 +0000" stop="20250816213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3125,16 +3122,13 @@
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
 </programme>
 <programme start="20250816215500 +0000" stop="20250817000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale,</title>
+    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250815223000 +0000" stop="20250815230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250815230000 +0000" stop="20250816004500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250815230000 +0000" stop="20250816010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
-</programme>
-<programme start="20250816010000 +0000" stop="20250816030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+<programme start="20250816004500 +0000" stop="20250816030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816030000 +0000" stop="20250816033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Preview, 1. Spieltag</title>
@@ -3169,10 +3163,10 @@
 <programme start="20250816211500 +0000" stop="20250816220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: BMW Championship, 3. Tag in Owings Mills, MD (USA)</title>
 </programme>
-<programme start="20250815230000 +0000" stop="20250816013000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250815231000 +0000" stop="20250816014000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
 </programme>
-<programme start="20250816013000 +0000" stop="20250816020000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250816014000 +0000" stop="20250816020000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20250816020000 +0000" stop="20250816030000 +0000" channel="Sky Sport UHD.skyde">
@@ -3199,7 +3193,7 @@
 <programme start="20250816103000 +0000" stop="20250816180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Samstags-Konferenz, 1. Runde</title>
 </programme>
-<programme start="20250816180000 +0000" stop="20250816193000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250816180000 +0000" stop="20250816203000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 1. Runde (Samstag)</title>
 </programme>
 <programme start="20250816121000 +0000" stop="20250816123000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3223,7 +3217,7 @@
 <programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: SV Sandhausen - RB Leipzig, 1. Runde</title>
 </programme>
-<programme start="20250816155000 +0000" stop="20250816183000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250816155000 +0000" stop="20250816193000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal: FC Energie Cottbus - Hannover 96, 1. Runde</title>
 </programme>
 <programme start="20250816101000 +0000" stop="20250816103000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3235,43 +3229,43 @@
 <programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: SV Hemelingen - VfL Wolfsburg, 1. Runde</title>
 </programme>
-<programme start="20250816155000 +0000" stop="20250816183000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250816155000 +0000" stop="20250816193000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: VfB Lübeck - SV Darmstadt 98, 1. Runde</title>
 </programme>
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal: Hansa Rostock - TSG Hoffenheim, 1. Runde</title>
 </programme>
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live DFB-Pokal: Bahlinger SC - 1. FC Heidenheim, 1. Runde</title>
 </programme>
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live DFB-Pokal: FV Illertissen - 1. FC Nürnberg, 1. Runde</title>
 </programme>
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live DFB-Pokal: SV Sandhausen - RB Leipzig, 1. Runde</title>
 </programme>
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live DFB-Pokal: SV Hemelingen - VfL Wolfsburg, 1. Runde</title>
 </programme>
 <programme start="20250816153000 +0000" stop="20250816155000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816155000 +0000" stop="20250816183000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20250816155000 +0000" stop="20250816193000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live DFB-Pokal: Sportfreunde Lotte - SC Freiburg, 1. Runde</title>
 </programme>
 <programme start="20250815222500 +0000" stop="20250815223500 +0000" channel="SYFY HD.skyde">
