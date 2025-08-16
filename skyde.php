@@ -2659,23 +2659,20 @@
 <programme start="20250816213000 +0000" stop="20250816233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - SK Puntigamer Sturm Graz, 3. Runde</title>
 </programme>
-<programme start="20250815220000 +0000" stop="20250815230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Live Tennis ATP Tour</title>
-</programme>
-<programme start="20250815230000 +0000" stop="20250816080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF4, Cincinnati Open in Cincinnati (USA), Viertelfinale,</title>
+<programme start="20250815230000 +0000" stop="20250816010000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816143000 +0000" stop="20250816145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20250816145000 +0000" stop="20250816171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250816145000 +0000" stop="20250816173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FC Red Bull Salzburg, 3. Runde</title>
 </programme>
 <programme start="20250816183500 +0000" stop="20250816185500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20250816185500 +0000" stop="20250816210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: HF1, Cincinnati Open in Cincinnati (USA), Halbfinale,</title>
+    <title>Live ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250816210000 +0000" stop="20250816213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP: This Week</title>
@@ -2683,8 +2680,8 @@
 <programme start="20250816213000 +0000" stop="20250816215500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
 </programme>
-<programme start="20250816215500 +0000" stop="20250817000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale,</title>
+<programme start="20250816215500 +0000" stop="20250817080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250816143000 +0000" stop="20250816145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Admiral BL: Es folgt</title>
@@ -3214,7 +3211,7 @@
 <programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: FC Eintracht Norderstedt - FC St. Pauli, 1. Runde</title>
 </programme>
-<programme start="20250816155000 +0000" stop="20250816183000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250816155000 +0000" stop="20250816193000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Sportfreunde Lotte - SC Freiburg, 1. Runde</title>
 </programme>
 <programme start="20250816101000 +0000" stop="20250816103000 +0000" channel="Sky Sport 3 HD.skyde">

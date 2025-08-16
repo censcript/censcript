@@ -7046,7 +7046,7 @@
         <title>Fastzone 2025</title>
     </programme>
     <programme start="20250816083000 +0000" stop="20250816102000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Girona vs Rayo Vallecano</title>
+        <title>LaLiga 2 2025/26: GValladolid vs AD Ceuta</title>
     </programme>
     <programme start="20250816102000 +0000" stop="20250816121000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Villarreal vs Real Oviedo</title>
@@ -7067,7 +7067,7 @@
         <title>August</title>
     </programme>
     <programme start="20250816153000 +0000" stop="20250816172500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Girona vs Rayo Vallecano</title>
+        <title>LaLiga 2 2025/26: GValladolid vs AD Ceuta</title>
     </programme>
     <programme start="20250815152000 +0000" stop="20250815161500 +0000" channel="TestChannel2.starhub">
         <title>The Longest Day in Chang&#039;an</title>
