@@ -1,7 +1,3 @@
-<programme start="20250816140000 +0700" stop="20250816164500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: ACF Fiorentina - Real Betis Balompie</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250816164500 +0700" stop="20250816194500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Aris Limassol</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +182,6 @@
     <title>Football: CF Estrela de Amadora - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250816144000 +0700" stop="20250816164000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Trentino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250816164000 +0700" stop="20250816184000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Besiktas</title>
     <desc>Live: Tidak</desc>
@@ -362,6 +354,10 @@
     <title>Motorsports: Moto3 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250817170000 +0700" stop="20250817183000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250816140000 +0700" stop="20250816180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -374,8 +370,12 @@
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250816210000 +0700" stop="20250817010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+<programme start="20250816210000 +0700" stop="20250816233500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Andrey Rublev - Carlos Alcaraz</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250816233500 +0700" stop="20250817010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Ben Shelton - Alexander Zverev</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250817010000 +0700" stop="20250817013000 +0700" channel="COSMOTE Sport 6 HD">
@@ -387,7 +387,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250817020000 +0700" stop="20250817043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Jannik Sinner - Terence Atmane (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250817043000 +0700" stop="20250817050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -395,7 +395,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250817050000 +0700" stop="20250817073000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Alexander Zverev - Carlos Alcaraz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250817073000 +0700" stop="20250817075000 +0700" channel="COSMOTE Sport 6 HD">
@@ -426,16 +426,8 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250816152000 +0700" stop="20250816161000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>ERC 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250816161000 +0700" stop="20250816163000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250816163000 +0700" stop="20250816165000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250817175000 +0700" stop="20250817184000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250816165000 +0700" stop="20250816174500 +0700" channel="COSMOTE Sport 7 HD">
