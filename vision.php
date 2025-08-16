@@ -565,12 +565,6 @@
 <programme start="20250816154500 +0000" stop="20250816163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250816163000 +0000" stop="20250816171500 +0000" channel="Trans 7.vision">
-<title>Starting Grid MotoGP: Austria</title>
-</programme>
-<programme start="20250816171500 +0000" stop="20250816180000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race: Austria</title>
-</programme>
 <programme start="20250816180000 +0000" stop="20250816190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -627,12 +621,6 @@
 </programme>
 <programme start="20250816110000 +0000" stop="20250816130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250816150000 +0000" stop="20250816170000 +0000" channel="ANTV.vision">
-<title>China O&#039;Brien 2</title>
-</programme>
-<programme start="20250816170000 +0000" stop="20250816183000 +0000" channel="ANTV.vision">
-<title>Typhoon</title>
 </programme>
 <programme start="20250816183000 +0000" stop="20250816200000 +0000" channel="ANTV.vision">
 <title>Painted Skin</title>
@@ -822,9 +810,6 @@
 </programme>
 <programme start="20250816140000 +0000" stop="20250816150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
-</programme>
-<programme start="20250816150000 +0000" stop="20250816163000 +0000" channel="TVOne.vision">
-<title>One Pride MMA (L)</title>
 </programme>
 <programme start="20250816163000 +0000" stop="20250816170000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250816122500 +0000" stop="20250816140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250816140000 +0000" stop="20250816154500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250816154500 +0000" stop="20250816171000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250816171000 +0000" stop="20250816184500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250816184500 +0000" stop="20250816201500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250816201500 +0000" stop="20250816214500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
