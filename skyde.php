@@ -2191,106 +2191,7 @@
 <programme start="20250817215000 +0000" stop="20250817224000 +0000" channel="Sky Nature HD.skyde">
     <title>Life Below Zero - Überleben in Alaska</title>
 </programme>
-<programme start="20250816220000 +0000" stop="20250816224500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250816224500 +0000" stop="20250816232500 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250816232500 +0000" stop="20250817001000 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250817001000 +0000" stop="20250817004000 +0000" channel="Sky One HD.skyde">
-    <title>Vice Principals</title>
-</programme>
-<programme start="20250817004000 +0000" stop="20250817011000 +0000" channel="Sky One HD.skyde">
-    <title>Vice Principals</title>
-</programme>
-<programme start="20250817011000 +0000" stop="20250817014000 +0000" channel="Sky One HD.skyde">
-    <title>Vice Principals</title>
-</programme>
-<programme start="20250817014000 +0000" stop="20250817021000 +0000" channel="Sky One HD.skyde">
-    <title>Vice Principals</title>
-</programme>
-<programme start="20250817021000 +0000" stop="20250817023000 +0000" channel="Sky One HD.skyde">
-    <title>Making of: Das Boot</title>
-</programme>
-<programme start="20250817023000 +0000" stop="20250817031000 +0000" channel="Sky One HD.skyde">
-    <title>Transplant</title>
-</programme>
-<programme start="20250817031000 +0000" stop="20250817035500 +0000" channel="Sky One HD.skyde">
-    <title>Transplant</title>
-</programme>
-<programme start="20250817035500 +0000" stop="20250817044000 +0000" channel="Sky One HD.skyde">
-    <title>Transplant</title>
-</programme>
-<programme start="20250817044000 +0000" stop="20250817052500 +0000" channel="Sky One HD.skyde">
-    <title>Transplant</title>
-</programme>
-<programme start="20250817052500 +0000" stop="20250817061000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817061000 +0000" stop="20250817065500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817065500 +0000" stop="20250817074000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817074000 +0000" stop="20250817082500 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250817082500 +0000" stop="20250817091000 +0000" channel="Sky One HD.skyde">
-    <title>Psych</title>
-</programme>
-<programme start="20250817091000 +0000" stop="20250817095500 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250817095500 +0000" stop="20250817104000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250817104000 +0000" stop="20250817112500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20250817112500 +0000" stop="20250817121000 +0000" channel="Sky One HD.skyde">
-    <title>Elsbeth</title>
-</programme>
-<programme start="20250817121000 +0000" stop="20250817130000 +0000" channel="Sky One HD.skyde">
-    <title>Elsbeth</title>
-</programme>
-<programme start="20250817130000 +0000" stop="20250817134500 +0000" channel="Sky One HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250817134500 +0000" stop="20250817143000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817143000 +0000" stop="20250817151500 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817151500 +0000" stop="20250817160000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817160000 +0000" stop="20250817164000 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250817164000 +0000" stop="20250817172500 +0000" channel="Sky One HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20250817172500 +0000" stop="20250817181500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20250817181500 +0000" stop="20250817185500 +0000" channel="Sky One HD.skyde">
-    <title>The Rookie</title>
-</programme>
-<programme start="20250817185500 +0000" stop="20250817194000 +0000" channel="Sky One HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250817194000 +0000" stop="20250817202500 +0000" channel="Sky One HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20250817202500 +0000" stop="20250817211000 +0000" channel="Sky One HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20250817211000 +0000" stop="20250817220000 +0000" channel="Sky One HD.skyde">
+<programme start="20250808215500 +0000" stop="20250808224000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
 <programme start="20250816220000 +0000" stop="20250816225000 +0000" channel="Sky Replay HD.skyde">
@@ -2882,7 +2783,7 @@
     <title>ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817020000 +0000" stop="20250817040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817040000 +0000" stop="20250817060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Gracheva (FRA) - V. Kudermetova, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
@@ -2894,7 +2795,7 @@
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250817100000 +0000" stop="20250817120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817120000 +0000" stop="20250817123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -2903,7 +2804,7 @@
     <title>ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817143000 +0000" stop="20250817163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817163000 +0000" stop="20250817165500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
@@ -2918,7 +2819,7 @@
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 1. Tag</title>
 </programme>
 <programme start="20250816220000 +0000" stop="20250817000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>Live ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817000000 +0000" stop="20250817010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Österreich</title>
