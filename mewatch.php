@@ -917,13 +917,13 @@
         <title>No programme available now. Next broadcast on 22nd August, Friday 8.30pm. ONE Friday Fights 121</title>
     </programme>
     <programme start="20250815160000 +0000" stop="20250816090000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 16th August, Saturday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+        <title>No Programme available now. Next Broadcast on 16th August, Saturday 5pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
     <programme start="20250816090000 +0000" stop="20250816110000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Australia</title>
     </programme>
     <programme start="20250816110000 +0000" stop="20250816130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 16th August, Saturday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+        <title>No Programme available now. Next Broadcast on 16th August, Saturday 9pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
     <programme start="20250816130000 +0000" stop="20250816150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Myanmar vs Thailand</title>
