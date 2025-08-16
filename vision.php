@@ -622,9 +622,6 @@
 <programme start="20250816110000 +0000" stop="20250816130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250816183000 +0000" stop="20250816200000 +0000" channel="ANTV.vision">
-<title>Painted Skin</title>
-</programme>
 <programme start="20250816200000 +0000" stop="20250816220000 +0000" channel="ANTV.vision">
 <title>Tjoet Nja Dhien</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250816201500 +0000" stop="20250816214500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250816214500 +0000" stop="20250816230500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
