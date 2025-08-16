@@ -350,6 +350,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250818034500 +0700" stop="20250818044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250817020000 +0700" stop="20250817043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Terence Atmane (L)</title>
     <desc>Live: Ya</desc>
@@ -412,10 +416,6 @@
 </programme>
 <programme start="20250818010000 +0700" stop="20250818050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250817020000 +0700" stop="20250817023000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250817023000 +0700" stop="20250817043000 +0700" channel="COSMOTE Sport 7 HD">
@@ -575,6 +575,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818020000 +0700" stop="20250818030000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250818030000 +0700" stop="20250818040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
