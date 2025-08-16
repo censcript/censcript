@@ -3253,19 +3253,19 @@
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live DFB-Pokal: SV Sandhausen - RB Leipzig, 1. Runde</title>
 </programme>
 <programme start="20250816130000 +0000" stop="20250816132000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816132000 +0000" stop="20250816155000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20250816132000 +0000" stop="20250816170000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live DFB-Pokal: SV Hemelingen - VfL Wolfsburg, 1. Runde</title>
 </programme>
 <programme start="20250816153000 +0000" stop="20250816155000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: Live DFB Pokal</title>
 </programme>
-<programme start="20250816155000 +0000" stop="20250816183000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20250816155000 +0000" stop="20250816193000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live DFB-Pokal: Sportfreunde Lotte - SC Freiburg, 1. Runde</title>
 </programme>
 <programme start="20250815222500 +0000" stop="20250815223500 +0000" channel="SYFY HD.skyde">
