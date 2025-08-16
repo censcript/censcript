@@ -619,6 +619,9 @@
 <programme start="20250816003000 +0000" stop="20250816020000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250816020000 +0000" stop="20250816053000 +0000" channel="ANTV.vision">
+<title>Trimurti</title>
+</programme>
 <programme start="20250816053000 +0000" stop="20250816073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250816071500 +0000" stop="20250816092000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250816092000 +0000" stop="20250816110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

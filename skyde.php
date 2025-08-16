@@ -2681,7 +2681,7 @@
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
 </programme>
 <programme start="20250816215500 +0000" stop="20250817080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250816143000 +0000" stop="20250816145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Admiral BL: Es folgt</title>
