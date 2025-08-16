@@ -7846,19 +7846,19 @@
     <programme start="20250816133000 +0000" stop="20250816163000 +0000" channel="Asianet Movies.starhub">
         <title>Adios Amigo</title>
     </programme>
-    <programme start="20250816163000 +0000" stop="20250816193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250816164000 +0000" stop="20250816193500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Yamandan Premakadha</title>
     </programme>
-    <programme start="20250816193000 +0000" stop="20250816215000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250816193500 +0000" stop="20250816214500 +0000" channel="Asianet Movies.starhub">
         <title>Aadu Oru Bheekara Jeevi Aanu</title>
     </programme>
-    <programme start="20250816215000 +0000" stop="20250816220000 +0000" channel="Asianet Movies.starhub">
-        <title>Filler:Chirikkum Thalika Ii : No Season</title>
+    <programme start="20250816214500 +0000" stop="20250816221500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
     </programme>
-    <programme start="20250816220000 +0000" stop="20250816222000 +0000" channel="Asianet Movies.starhub">
-        <title>Filler:Chirikkum Thalika Ii : No Season</title>
+    <programme start="20250816221500 +0000" stop="20250816224000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
     </programme>
-    <programme start="20250816222000 +0000" stop="20250817013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250816224000 +0000" stop="20250817013000 +0000" channel="Asianet Movies.starhub">
         <title>Ennu Ninte Moideen</title>
     </programme>
     <programme start="20250817013000 +0000" stop="20250817043000 +0000" channel="Asianet Movies.starhub">
