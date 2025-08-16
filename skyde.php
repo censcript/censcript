@@ -3082,34 +3082,31 @@
 <programme start="20250816004500 +0000" stop="20250816030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816030000 +0000" stop="20250816042500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816030000 +0000" stop="20250816050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Gracheva (FRA) - V. Kudermetova, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816042500 +0000" stop="20250816060500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816050000 +0000" stop="20250816070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: I. Swiatek (POL) -  A. Kalinskaya, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816060500 +0000" stop="20250816063500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816070000 +0000" stop="20250816073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250816063500 +0000" stop="20250816081500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816073000 +0000" stop="20250816093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816081500 +0000" stop="20250816094500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816093000 +0000" stop="20250816113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816094500 +0000" stop="20250816120500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816113000 +0000" stop="20250816133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816120500 +0000" stop="20250816130500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816133000 +0000" stop="20250816143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
-<programme start="20250816130500 +0000" stop="20250816143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
-</programme>
-<programme start="20250816143000 +0000" stop="20250816165000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816143000 +0000" stop="20250816163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - A. Rublev, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250816165000 +0000" stop="20250816183000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250816163000 +0000" stop="20250816183000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
 <programme start="20250816183000 +0000" stop="20250816185500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3125,7 +3122,7 @@
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
 </programme>
 <programme start="20250816215500 +0000" stop="20250817000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>Live ATP 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250815230000 +0000" stop="20250816004500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - B. Shelton (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
