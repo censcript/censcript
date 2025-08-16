@@ -7,6 +7,9 @@
 <programme start="20250816013000 +0000" stop="20250816060000 +0000" channel="RCTI.vision">
 <title>Doraemon (RCTI)</title>
 </programme>
+<programme start="20250816060000 +0000" stop="20250816080000 +0000" channel="RCTI.vision">
+<title>Tad: The Lost Explorer</title>
+</programme>
 <programme start="20250816080000 +0000" stop="20250816100000 +0000" channel="RCTI.vision">
 <title>Mega Film TV</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250816092000 +0000" stop="20250816110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250816110000 +0000" stop="20250816122500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
