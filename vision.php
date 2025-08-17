@@ -520,15 +520,6 @@
 <programme start="20250818114500 +0000" stop="20250818130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250817010000 +0000" stop="20250817043000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
-<programme start="20250817043000 +0000" stop="20250817053000 +0000" channel="Trans 7.vision">
-<title>Garda Samudra</title>
-</programme>
-<programme start="20250817053000 +0000" stop="20250817071500 +0000" channel="Trans 7.vision">
-<title>Indonesiaku Spesial Kemerdekaan</title>
-</programme>
 <programme start="20250817071500 +0000" stop="20250817081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan Kemerdekaan</title>
 </programme>
@@ -618,9 +609,6 @@
 </programme>
 <programme start="20250818114500 +0000" stop="20250818121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20250817033000 +0000" stop="20250817053000 +0000" channel="ANTV.vision">
-<title>Buronan Gembong Wulung</title>
 </programme>
 <programme start="20250817053000 +0000" stop="20250817073000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250817154500 +0000" stop="20250817173500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250817173500 +0000" stop="20250817191000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250817191000 +0000" stop="20250817210500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250817210500 +0000" stop="20250817230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250817230000 +0000" stop="20250818003500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
