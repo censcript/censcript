@@ -520,9 +520,6 @@
 <programme start="20250818114500 +0000" stop="20250818130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250817010000 +0000" stop="20250817043000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250817043000 +0000" stop="20250817053000 +0000" channel="Trans 7.vision">
 <title>Garda Samudra</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250817154500 +0000" stop="20250817173500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250817173500 +0000" stop="20250817191000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
