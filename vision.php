@@ -445,6 +445,9 @@
 <programme start="20250817013000 +0000" stop="20250817024500 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
 </programme>
+<programme start="20250817024500 +0000" stop="20250817034500 +0000" channel="Trans TV.vision">
+<title>HUT RI Ke-80</title>
+</programme>
 <programme start="20250817034500 +0000" stop="20250817044500 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
@@ -519,6 +522,12 @@
 </programme>
 <programme start="20250818114500 +0000" stop="20250818130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
+</programme>
+<programme start="20250817000000 +0000" stop="20250817010000 +0000" channel="Trans 7.vision">
+<title>Redaksi Pagi Akhir Pekan</title>
+</programme>
+<programme start="20250817010000 +0000" stop="20250817043000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
 </programme>
 <programme start="20250817043000 +0000" stop="20250817053000 +0000" channel="Trans 7.vision">
 <title>Garda Samudra</title>
@@ -615,6 +624,15 @@
 </programme>
 <programme start="20250818114500 +0000" stop="20250818121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250816220000 +0000" stop="20250817003000 +0000" channel="ANTV.vision">
+<title>Fatahillah</title>
+</programme>
+<programme start="20250817003000 +0000" stop="20250817023000 +0000" channel="ANTV.vision">
+<title>7 Wanita Dalam Tugas Rahasia</title>
+</programme>
+<programme start="20250817023000 +0000" stop="20250817033000 +0000" channel="ANTV.vision">
+<title>Upacara Peringatan HUT RI Ke-80</title>
 </programme>
 <programme start="20250817033000 +0000" stop="20250817053000 +0000" channel="ANTV.vision">
 <title>Buronan Gembong Wulung</title>
@@ -1478,23 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250817065500 +0000" stop="20250817084000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250817084000 +0000" stop="20250817103000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250817103000 +0000" stop="20250817122000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250817122000 +0000" stop="20250817140000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250817140000 +0000" stop="20250817154500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250817154500 +0000" stop="20250817173500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250817173500 +0000" stop="20250817191000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
