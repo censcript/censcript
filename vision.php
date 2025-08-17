@@ -526,9 +526,6 @@
 <programme start="20250817090000 +0000" stop="20250817100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250817100000 +0000" stop="20250817130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Austria (L)</title>
-</programme>
 <programme start="20250817130000 +0000" stop="20250817143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -618,9 +615,6 @@
 </programme>
 <programme start="20250817110000 +0000" stop="20250817130000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250817130000 +0000" stop="20250817150000 +0000" channel="ANTV.vision">
-<title>Si Buta Lawan Jaka Sembung</title>
 </programme>
 <programme start="20250817150000 +0000" stop="20250817170000 +0000" channel="ANTV.vision">
 <title>Heat Team</title>
@@ -763,12 +757,6 @@
 <programme start="20250818110000 +0000" stop="20250818122900 +0000" channel="RTV.vision">
 <title>EJEN ALI</title>
 </programme>
-<programme start="20250816233000 +0000" stop="20250817004500 +0000" channel="TVOne.vision">
-<title>Kabar Khusus (L)</title>
-</programme>
-<programme start="20250817004500 +0000" stop="20250817040000 +0000" channel="TVOne.vision">
-<title>Kabar Khusus (L)</title>
-</programme>
 <programme start="20250817040000 +0000" stop="20250817053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -778,12 +766,6 @@
 <programme start="20250817070000 +0000" stop="20250817073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
-<programme start="20250817073000 +0000" stop="20250817083000 +0000" channel="TVOne.vision">
-<title>Kabar Khusus (L)</title>
-</programme>
-<programme start="20250817083000 +0000" stop="20250817100000 +0000" channel="TVOne.vision">
-<title>Kabar Khusus (L)</title>
-</programme>
 <programme start="20250817100000 +0000" stop="20250817110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
@@ -792,9 +774,6 @@
 </programme>
 <programme start="20250817130000 +0000" stop="20250817133000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
-</programme>
-<programme start="20250817133000 +0000" stop="20250817150000 +0000" channel="TVOne.vision">
-<title>Nusantara Berzikir (L)</title>
 </programme>
 <programme start="20250817150000 +0000" stop="20250817160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20250818003500 +0000" stop="20250818021500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20250818021500 +0000" stop="20250818040500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250818040500 +0000" stop="20250818055000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250818055000 +0000" stop="20250818073000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250818073000 +0000" stop="20250818092000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250818092000 +0000" stop="20250818110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250818110000 +0000" stop="20250818122500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250817000000 +0000" stop="20250817003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
 </programme>
