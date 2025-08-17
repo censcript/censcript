@@ -1,7 +1,3 @@
-<programme start="20250817100000 +0700" stop="20250817125000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Internazionale Milano - FC Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250817125000 +0700" stop="20250817145000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Arsenal</title>
     <desc>Live: Tidak</desc>
@@ -52,6 +48,10 @@
 </programme>
 <programme start="20250818110000 +0700" stop="20250818132000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250818132000 +0700" stop="20250818155000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Betis Balompie - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250817110000 +0700" stop="20250817131500 +0700" channel="COSMOTE Sport 2 HD">
@@ -250,10 +250,6 @@
     <title>Basketball: Fenerbahce - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250817111500 +0700" stop="20250817122000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250817122000 +0700" stop="20250817133500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -354,6 +350,10 @@
     <title>Sports Classics: Gearing Up 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250818132500 +0700" stop="20250818141500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250817110000 +0700" stop="20250817150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
@@ -416,6 +416,14 @@
 </programme>
 <programme start="20250818125500 +0700" stop="20250818132500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250818132500 +0700" stop="20250818135500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Sailing to the Games 2025 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250818135500 +0700" stop="20250818142500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250817120000 +0700" stop="20250817140000 +0700" channel="COSMOTE Sport 7 HD">
@@ -497,10 +505,6 @@
 <programme start="20250818120000 +0700" stop="20250818140000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250817090000 +0700" stop="20250817130000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Fight Sports: UFC Fight Night 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250817130000 +0700" stop="20250817133000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
