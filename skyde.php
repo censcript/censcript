@@ -2689,7 +2689,7 @@
 <programme start="20250817210000 +0000" stop="20250817220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>MotoGP: Rennen - GP Österreich</title>
 </programme>
-<programme start="20250816220000 +0000" stop="20250817010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250816220500 +0000" stop="20250817010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Danish Golf Championship, 3. Tag in Kopenhagen (Dänemark)</title>
 </programme>
 <programme start="20250817010000 +0000" stop="20250817040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2878,32 +2878,32 @@
 <programme start="20250817213000 +0000" stop="20250817220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Goodbye Goodison)</title>
 </programme>
-<programme start="20250817000000 +0000" stop="20250817020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250817003000 +0000" stop="20250817022000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250817020000 +0000" stop="20250817040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+<programme start="20250817022000 +0000" stop="20250817041500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250817040000 +0000" stop="20250817060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250817044500 +0000" stop="20250817060500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Gracheva (FRA) - V. Kudermetova, Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250817060000 +0000" stop="20250817080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250817060500 +0000" stop="20250817080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250817080000 +0000" stop="20250817100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250817080000 +0000" stop="20250817102000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - C. Gauff (USA), Cincinnati Open in Cincinnati (USA), Viertelfinale</title>
 </programme>
-<programme start="20250817100000 +0000" stop="20250817120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+<programme start="20250817102000 +0000" stop="20250817121500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250817120000 +0000" stop="20250817123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250817121500 +0000" stop="20250817124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250817123000 +0000" stop="20250817143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250817124500 +0000" stop="20250817143500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner  (ITA) - T. Atmane (FRA), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250817143000 +0000" stop="20250817163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+<programme start="20250817143500 +0000" stop="20250817163000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817163000 +0000" stop="20250817165500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
@@ -2912,19 +2912,16 @@
     <title>Live WTA 1000: I. Swiatek (POL) - E. Rybakina (KAZ), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817190000 +0000" stop="20250817210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>Live WTA 1000: J. Paolini (ITA) - V. Kudermetova, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817210000 +0000" stop="20250817220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 1. Tag</title>
 </programme>
-<programme start="20250816220000 +0000" stop="20250817000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: HF2, C.Alcaraz (ESP) - A.Zverev (GER) Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+<programme start="20250816220000 +0000" stop="20250817003000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 1000: A. Zverev (GER) - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
-<programme start="20250817000000 +0000" stop="20250817010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250817003000 +0000" stop="20250817013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Österreich</title>
-</programme>
-<programme start="20250817010000 +0000" stop="20250817013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 1. Spieltag</title>
 </programme>
 <programme start="20250817013000 +0000" stop="20250817033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Wolverhampton Wanderers - Manchester City, 1. Spieltag</title>
@@ -2951,7 +2948,7 @@
     <title>Live DFB-Pokal: Alle Spiele, alle Tore, 1. Runde (Sonntag)</title>
 </programme>
 <programme start="20250817193000 +0000" stop="20250817210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: HF2, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
+    <title>Live WTA 1000: J. Paolini (ITA) - V. Kudermetova, Cincinnati Open in Cincinnati (USA), Halbfinale</title>
 </programme>
 <programme start="20250817210000 +0000" stop="20250817220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 1. Tag</title>
@@ -3159,93 +3156,6 @@
 </programme>
 <programme start="20250817210000 +0000" stop="20250817220000 +0000" channel="SYFY HD.skyde">
     <title>Star Trek: Picard</title>
-</programme>
-<programme start="20250816220000 +0000" stop="20250816224500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250816224500 +0000" stop="20250816232500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250816232500 +0000" stop="20250817000500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250817000500 +0000" stop="20250817005000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250817005000 +0000" stop="20250817013000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250817013000 +0000" stop="20250817021500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250817021500 +0000" stop="20250817025500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817025500 +0000" stop="20250817034000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817034000 +0000" stop="20250817043000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817043000 +0000" stop="20250817051500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817051500 +0000" stop="20250817060000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817060000 +0000" stop="20250817065500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817065500 +0000" stop="20250817075500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817075500 +0000" stop="20250817090000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817090000 +0000" stop="20250817095500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817095500 +0000" stop="20250817110000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817110000 +0000" stop="20250817120000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817120000 +0000" stop="20250817125500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817125500 +0000" stop="20250817135500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817135500 +0000" stop="20250817150000 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817150000 +0000" stop="20250817155500 +0000" channel="Universal TV HD.skyde">
-    <title>Outlander</title>
-</programme>
-<programme start="20250817155500 +0000" stop="20250817164000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20250817164000 +0000" stop="20250817172500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Fire</title>
-</programme>
-<programme start="20250817172500 +0000" stop="20250817181500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817181500 +0000" stop="20250817190000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817190000 +0000" stop="20250817194500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817194500 +0000" stop="20250817203000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817203000 +0000" stop="20250817211500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20250817211500 +0000" stop="20250817220000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
 </programme>
 <programme start="20250816224500 +0000" stop="20250816231000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
