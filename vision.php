@@ -520,9 +520,6 @@
 <programme start="20250818114500 +0000" stop="20250818130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20250817071500 +0000" stop="20250817081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan Kemerdekaan</title>
-</programme>
 <programme start="20250817081500 +0000" stop="20250817090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250817230000 +0000" stop="20250818003500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250818003500 +0000" stop="20250818021500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
