@@ -115,13 +115,13 @@
     <programme start="20250817120000 +0000" stop="20250817131500 +0000" channel="Channel 5.mewatch">
         <title>National Day Rally 2025 - EP 2</title>
     </programme>
-    <programme start="20250817131500 +0000" stop="20250817140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250817131500 +0000" stop="20250817141500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250817140000 +0000" stop="20250817150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250817141500 +0000" stop="20250817151500 +0000" channel="Channel 5.mewatch">
         <title>Asia - EP 3</title>
     </programme>
-    <programme start="20250817150000 +0000" stop="20250817170000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250817151500 +0000" stop="20250817170000 +0000" channel="Channel 5.mewatch">
         <title>Fighting with My Family</title>
     </programme>
     <programme start="20250816143000 +0000" stop="20250816164500 +0000" channel="Channel 8.mewatch">
