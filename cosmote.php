@@ -1,7 +1,3 @@
-<programme start="20250818155000 +0700" stop="20250818162000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E35</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250818162000 +0700" stop="20250818172000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: AC Milan - Monza</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250819172000 +0700" stop="20250819193500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Niki Volos - Panetolikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250818160000 +0700" stop="20250818180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atletico Mineiro - Godoy Cruz</title>
     <desc>Live: Tidak</desc>
@@ -182,10 +182,6 @@
     <title>Football: Ipswich Town - Southampton</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818150000 +0700" stop="20250818170000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Las Vegas Aces - Dallas Wings</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250818170000 +0700" stop="20250818173000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +238,8 @@
     <title>Basketball: Stoiximan AegeanBall Festival</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818152000 +0700" stop="20250818162500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250819172500 +0700" stop="20250819201500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Stoiximan AegeanBall Festival</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818162500 +0700" stop="20250818180000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,6 +334,10 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250819170000 +0700" stop="20250819180000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250818150000 +0700" stop="20250818171000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti / Lorenzo Sonego - Nikola Mektic / Rajeev Ram</title>
     <desc>Live: Tidak</desc>
@@ -396,6 +396,10 @@
 </programme>
 <programme start="20250819151500 +0700" stop="20250819174000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Carlos Alcaraz</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819174000 +0700" stop="20250819194500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818160000 +0700" stop="20250818180000 +0700" channel="COSMOTE Sport 7 HD">
