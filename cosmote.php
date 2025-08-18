@@ -1,7 +1,3 @@
-<programme start="20250819003000 +0700" stop="20250819030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - Tottenham Hotspur</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250819030000 +0700" stop="20250819053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Tottenham Hotspur - Manchester United FC</title>
     <desc>Live: Tidak</desc>
@@ -130,10 +126,6 @@
     <title>Football: Rangers FC - Club Brugge (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250819011500 +0700" stop="20250819021500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250819021500 +0700" stop="20250819041500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - FC Porto (L)</title>
     <desc>Live: Ya</desc>
@@ -202,10 +194,6 @@
     <title>Football: FK Crvena Zvezda - Pafos FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250819005500 +0700" stop="20250819025500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Las Vegas Aces - Dallas Wings</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250819025500 +0700" stop="20250819032500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -264,10 +252,6 @@
 </programme>
 <programme start="20250820025500 +0700" stop="20250820050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Reyer Venezia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250819015000 +0700" stop="20250819025500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819025500 +0700" stop="20250819032500 +0700" channel="COSMOTE Sport 5 HD">
@@ -423,6 +407,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820010000 +0700" stop="20250820030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250820030000 +0700" stop="20250820053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
