@@ -3952,8 +3952,11 @@
     <programme start="20250817230000 +0000" stop="20250817231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 101</title>
     </programme>
-    <programme start="20250817231500 +0000" stop="20250818003000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250817231500 +0000" stop="20250818002500 +0000" channel="NHK World Premium HD.starhub">
         <title>Yakushimaru Hiroko&#039;s Orchestra Concert</title>
+    </programme>
+    <programme start="20250818002500 +0000" stop="20250818003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Ultra Heavy Machinery 5min.</title>
     </programme>
     <programme start="20250818003000 +0000" stop="20250818010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Outside in Lost in Academia</title>
@@ -7060,7 +7063,7 @@
     <programme start="20250818140000 +0000" stop="20250818155000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Espanyol vs Atletico Madrid</title>
     </programme>
-    <programme start="20250818155000 +0000" stop="20250818165000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250818155000 +0000" stop="20250818165200 +0000" channel="beIN Sports HD.starhub">
         <title>24-Hr Nurburgring Highlights 2025</title>
     </programme>
     <programme start="20250817151500 +0000" stop="20250817163000 +0000" channel="TestChannel2.starhub">
