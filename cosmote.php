@@ -58,8 +58,8 @@
     <title>Football: Kalamata - AEL (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250818213500 +0700" stop="20250818220500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E38</title>
+<programme start="20250819233000 +0700" stop="20250820003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818220500 +0700" stop="20250819010000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20250819224000 +0700" stop="20250819231000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2024-25 E38</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819231000 +0700" stop="20250820011500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818220000 +0700" stop="20250819000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,10 +194,6 @@
     <title>Football: Rio Ave - Nacional</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818203000 +0700" stop="20250818223500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Reyer Venezia - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250818223500 +0700" stop="20250819005500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +248,6 @@
 </programme>
 <programme start="20250819222500 +0700" stop="20250820005500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Las Vegas Aces - Dallas Wings</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250818213000 +0700" stop="20250818225000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818225000 +0700" stop="20250819001000 +0700" channel="COSMOTE Sport 5 HD">
@@ -344,6 +340,10 @@
 </programme>
 <programme start="20250819222000 +0700" stop="20250819235000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819235000 +0700" stop="20250820004500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818214500 +0700" stop="20250819000000 +0700" channel="COSMOTE Sport 6 HD">
