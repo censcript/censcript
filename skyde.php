@@ -1336,7 +1336,7 @@
 <programme start="20250818215500 +0000" stop="20250818222500 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20250817220000 +0000" stop="20250817222500 +0000" channel="Nick Jr..skyde">
+<programme start="20250817220500 +0000" stop="20250817222500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
 <programme start="20250817222500 +0000" stop="20250817224500 +0000" channel="Nick Jr..skyde">
@@ -1345,16 +1345,16 @@
 <programme start="20250817224500 +0000" stop="20250817231000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250817231000 +0000" stop="20250817233000 +0000" channel="Nick Jr..skyde">
+<programme start="20250817231000 +0000" stop="20250817233500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250817233000 +0000" stop="20250817235500 +0000" channel="Nick Jr..skyde">
+<programme start="20250817233500 +0000" stop="20250817235500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250817235500 +0000" stop="20250818001500 +0000" channel="Nick Jr..skyde">
+<programme start="20250817235500 +0000" stop="20250818002000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250818001500 +0000" stop="20250818004000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818002000 +0000" stop="20250818004000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
 <programme start="20250818004000 +0000" stop="20250818010000 +0000" channel="Nick Jr..skyde">
@@ -1366,16 +1366,13 @@
 <programme start="20250818012500 +0000" stop="20250818014500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250818014500 +0000" stop="20250818021000 +0000" channel="Nick Jr..skyde">
-    <title>Die tierischen Fälle von Kit und Sam</title>
-</programme>
 <programme start="20250818021000 +0000" stop="20250818021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250818021500 +0000" stop="20250818022000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818021500 +0000" stop="20250818022500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250818022000 +0000" stop="20250818023000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818022500 +0000" stop="20250818023000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250818023000 +0000" stop="20250818025000 +0000" channel="Nick Jr..skyde">
@@ -1384,13 +1381,13 @@
 <programme start="20250818025000 +0000" stop="20250818030000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250818030000 +0000" stop="20250818032000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818030000 +0000" stop="20250818032500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818032000 +0000" stop="20250818033000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818032500 +0000" stop="20250818033500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818033000 +0000" stop="20250818035500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818033500 +0000" stop="20250818035500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250818035500 +0000" stop="20250818040000 +0000" channel="Nick Jr..skyde">
@@ -1419,9 +1416,6 @@
 </programme>
 <programme start="20250818050000 +0000" stop="20250818052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20250818052500 +0000" stop="20250818054500 +0000" channel="Nick Jr..skyde">
-    <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20250818054500 +0000" stop="20250818061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
@@ -1512,9 +1506,6 @@
 </programme>
 <programme start="20250818132500 +0000" stop="20250818134500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
-</programme>
-<programme start="20250818134500 +0000" stop="20250818141000 +0000" channel="Nick Jr..skyde">
-    <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20250818141000 +0000" stop="20250818141500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
@@ -3445,13 +3436,13 @@
 <programme start="20250817231000 +0000" stop="20250817233500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250817233500 +0000" stop="20250817235500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250817233500 +0000" stop="20250818000000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250817235500 +0000" stop="20250818002000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818000000 +0000" stop="20250818002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250818002000 +0000" stop="20250818004500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818002500 +0000" stop="20250818004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250818004500 +0000" stop="20250818011000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3460,22 +3451,22 @@
 <programme start="20250818011000 +0000" stop="20250818013000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818013000 +0000" stop="20250818015500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818013000 +0000" stop="20250818015000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818015500 +0000" stop="20250818021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818015000 +0000" stop="20250818021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818021500 +0000" stop="20250818024000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818021500 +0000" stop="20250818023500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818024000 +0000" stop="20250818025000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818023500 +0000" stop="20250818025000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250818025000 +0000" stop="20250818031500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818025000 +0000" stop="20250818031000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250818031500 +0000" stop="20250818033500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818031000 +0000" stop="20250818033500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20250818033500 +0000" stop="20250818035500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3688,22 +3679,22 @@
 <programme start="20250817220000 +0000" stop="20250817224500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250817224500 +0000" stop="20250817233500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250817224500 +0000" stop="20250817233000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250817233500 +0000" stop="20250818001500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250817233000 +0000" stop="20250818001500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
 <programme start="20250818001500 +0000" stop="20250818005500 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20250818005500 +0000" stop="20250818014000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250818005500 +0000" stop="20250818013500 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20250818014000 +0000" stop="20250818022500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250818013500 +0000" stop="20250818022000 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20250818022500 +0000" stop="20250818023500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250818022000 +0000" stop="20250818023500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
 <programme start="20250818023500 +0000" stop="20250818024500 +0000" channel="Warner TV Serie HD.skyde">
