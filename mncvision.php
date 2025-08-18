@@ -8479,10 +8479,10 @@
 <programme start="20250818051000 +0000" stop="20250818063000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
-<programme start="20250818063000 +0000" stop="20250818073000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250818063000 +0000" stop="20250818071900 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
-<programme start="20250818073000 +0000" stop="20250818085500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250818071900 +0000" stop="20250818085500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
 <programme start="20250818085500 +0000" stop="20250818101000 +0000" channel="SPOTV 2.mncvision">
@@ -8539,10 +8539,10 @@
 <programme start="20250818051000 +0000" stop="20250818063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
-<programme start="20250818063000 +0000" stop="20250818073000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250818063000 +0000" stop="20250818071900 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
-<programme start="20250818073000 +0000" stop="20250818085500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250818071900 +0000" stop="20250818085500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
 <programme start="20250818085500 +0000" stop="20250818101000 +0000" channel="SPOTV 2 HD.mncvision">

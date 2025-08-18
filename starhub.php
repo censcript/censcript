@@ -8434,10 +8434,10 @@
     <programme start="20250818051000 +0000" stop="20250818063000 +0000" channel="SPOTV2.starhub">
         <title>Sprint - MotoGP</title>
     </programme>
-    <programme start="20250818063000 +0000" stop="20250818073000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250818063000 +0000" stop="20250818071900 +0000" channel="SPOTV2.starhub">
         <title>Warm up + Rider&#039;s Fan Parade</title>
     </programme>
-    <programme start="20250818073000 +0000" stop="20250818085500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250818071900 +0000" stop="20250818085500 +0000" channel="SPOTV2.starhub">
         <title>Moto3 Race</title>
     </programme>
     <programme start="20250818085500 +0000" stop="20250818101000 +0000" channel="SPOTV2.starhub">
