@@ -58,8 +58,8 @@
     <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818183500 +0700" stop="20250818193000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2025-26 - Highlights</title>
+<programme start="20250819200000 +0700" stop="20250819210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818193000 +0700" stop="20250818213500 +0700" channel="COSMOTE Sport 2 HD">
@@ -118,8 +118,8 @@
     <title>Serie A 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818180000 +0700" stop="20250818200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Ipswich Town - Southampton</title>
+<programme start="20250819203500 +0700" stop="20250819224000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Venezia - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818200000 +0700" stop="20250818220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +242,8 @@
     <title>Basketball: Stoiximan AegeanBall Festival</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818190000 +0700" stop="20250818195000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250819201500 +0700" stop="20250819222500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Virtus Bologna - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818195000 +0700" stop="20250818204000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,8 +342,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818183000 +0700" stop="20250818200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250819205000 +0700" stop="20250819222000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818200000 +0700" stop="20250818214500 +0700" channel="COSMOTE Sport 6 HD">
@@ -396,10 +396,6 @@
 </programme>
 <programme start="20250819194500 +0700" stop="20250819223500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Boxing: Manny Pacquiao - Mario Barrios</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250818180000 +0700" stop="20250818200000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818200000 +0700" stop="20250818220000 +0700" channel="COSMOTE Sport 7 HD">
@@ -458,8 +454,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818180000 +0700" stop="20250818200000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250819200000 +0700" stop="20250819220000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818200000 +0700" stop="20250818220000 +0700" channel="COSMOTE Sport 8 HD">
@@ -510,8 +506,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818180000 +0700" stop="20250818200000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250819200000 +0700" stop="20250819220000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818200000 +0700" stop="20250818220000 +0700" channel="COSMOTE Sport 9 HD">
@@ -559,6 +555,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819180000 +0700" stop="20250819200000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819200000 +0700" stop="20250819220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
