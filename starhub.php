@@ -2042,7 +2042,7 @@
         <title>Mini Match - UEFA Super Cup 2025 PSG vs Tottenham</title>
     </programme>
     <programme start="20250818064000 +0000" stop="20250818083000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies African Nations C&#039;hip,, KE-TZ-UG 2024 Kenya vs Zambia</title>
+        <title>TotalEnergies African Nations C&#039;hip, KE-TZ-UG 2024 Kenya vs Zambia</title>
     </programme>
     <programme start="20250818083000 +0000" stop="20250818103000 +0000" channel="beIN Sports 3.starhub">
         <title>TGL 2025 Jupiter Links Golf Club vs Boston Common Golf</title>
@@ -2971,16 +2971,16 @@
     <programme start="20250818123000 +0000" stop="20250818130000 +0000" channel="Zee Tamil.starhub">
         <title>Ayali</title>
     </programme>
-    <programme start="20250818130000 +0000" stop="20250818132000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250818130000 +0000" stop="20250818131500 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250818132000 +0000" stop="20250818134500 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250818131500 +0000" stop="20250818134500 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250818134500 +0000" stop="20250818140000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250818134500 +0000" stop="20250818140500 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250818140000 +0000" stop="20250818143000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250818140500 +0000" stop="20250818143000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
     <programme start="20250818143000 +0000" stop="20250818144500 +0000" channel="Zee Tamil.starhub">

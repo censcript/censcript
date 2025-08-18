@@ -4637,40 +4637,40 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250817213000 +0000" stop="20250817230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20250817230000 +0000" stop="20250818010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250817230000 +0000" stop="20250818013000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250818010000 +0000" stop="20250818030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818013000 +0000" stop="20250818030000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250818030000 +0000" stop="20250818040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250818040000 +0000" stop="20250818043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250818043000 +0000" stop="20250818050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20250818050000 +0000" stop="20250818063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818050000 +0000" stop="20250818070000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20250818063000 +0000" stop="20250818080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818070000 +0000" stop="20250818090000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20250818080000 +0000" stop="20250818100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818090000 +0000" stop="20250818110000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250818100000 +0000" stop="20250818120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818110000 +0000" stop="20250818133000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20250818120000 +0000" stop="20250818150000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818133000 +0000" stop="20250818160000 +0000" channel="Indosiar.mncvision">
+    <title>Piala Kemerdekaan 2025</title>
 </programme>
-<programme start="20250818150000 +0000" stop="20250818153000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818160000 +0000" stop="20250818163000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250817183000 +0000" stop="20250817200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4679,40 +4679,40 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250817213000 +0000" stop="20250817230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20250817230000 +0000" stop="20250818010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250817230000 +0000" stop="20250818013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250818010000 +0000" stop="20250818030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818013000 +0000" stop="20250818030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250818030000 +0000" stop="20250818040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250818040000 +0000" stop="20250818043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250818043000 +0000" stop="20250818050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20250818050000 +0000" stop="20250818063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818050000 +0000" stop="20250818070000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20250818063000 +0000" stop="20250818080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818070000 +0000" stop="20250818090000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20250818080000 +0000" stop="20250818100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818090000 +0000" stop="20250818110000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250818100000 +0000" stop="20250818120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818110000 +0000" stop="20250818133000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20250818120000 +0000" stop="20250818150000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818133000 +0000" stop="20250818160000 +0000" channel="Indosiar HD.mncvision">
+    <title>Piala Kemerdekaan 2025</title>
 </programme>
-<programme start="20250818150000 +0000" stop="20250818153000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250818160000 +0000" stop="20250818163000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250817170000 +0000" stop="20250817173000 +0000" channel="iNews.mncvision">
     <title>Special Report</title>
