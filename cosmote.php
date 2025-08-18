@@ -54,8 +54,8 @@
     <title>Football: Tottenham Hotspur - Manchester United FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818125500 +0700" stop="20250818150000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - Genoa</title>
+<programme start="20250819151000 +0700" stop="20250819161000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818150000 +0700" stop="20250818153000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20250819131500 +0700" stop="20250819152000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Empoli - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819152000 +0700" stop="20250819172000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - Monza</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818140000 +0700" stop="20250818160000 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,12 +186,12 @@
     <title>Football: Atletico Mineiro - Godoy Cruz</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818140000 +0700" stop="20250818150000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20250818150000 +0700" stop="20250818170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Las Vegas Aces - Dallas Wings</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818150000 +0700" stop="20250818173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Las Vegas Aces - Dallas Wings</title>
+<programme start="20250818170000 +0700" stop="20250818173000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818173000 +0700" stop="20250818203000 +0700" channel="COSMOTE Sport 4 HD">
@@ -202,8 +206,12 @@
     <title>Basketball: Besiktas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819005500 +0700" stop="20250819032500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20250819005500 +0700" stop="20250819025500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Las Vegas Aces - Dallas Wings</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819025500 +0700" stop="20250819032500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819032500 +0700" stop="20250819053000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,10 +244,6 @@
 </programme>
 <programme start="20250819142500 +0700" stop="20250819172500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Stoiximan AegeanBall Festival</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250818132500 +0700" stop="20250818141500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818141500 +0700" stop="20250818152000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,16 +338,16 @@
     <title>DTM - Higlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818135500 +0700" stop="20250818142500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E4</title>
+<programme start="20250819152000 +0700" stop="20250819161000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250818142500 +0700" stop="20250818150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250818150000 +0700" stop="20250818173000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250818150000 +0700" stop="20250818171000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti / Lorenzo Sonego - Nikola Mektic / Rajeev Ram</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250818171000 +0700" stop="20250818173000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818173000 +0700" stop="20250818183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -392,6 +396,10 @@
 </programme>
 <programme start="20250819132500 +0700" stop="20250819151500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819151500 +0700" stop="20250819174000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Jannik Sinner - Carlos Alcaraz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818140000 +0700" stop="20250818160000 +0700" channel="COSMOTE Sport 7 HD">

@@ -1336,7 +1336,7 @@
 <programme start="20250818215500 +0000" stop="20250818222500 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20250817220500 +0000" stop="20250817222500 +0000" channel="Nick Jr..skyde">
+<programme start="20250817220000 +0000" stop="20250817222500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
 <programme start="20250817222500 +0000" stop="20250817224500 +0000" channel="Nick Jr..skyde">
@@ -1345,16 +1345,16 @@
 <programme start="20250817224500 +0000" stop="20250817231000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250817231000 +0000" stop="20250817233500 +0000" channel="Nick Jr..skyde">
+<programme start="20250817231000 +0000" stop="20250817233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250817233500 +0000" stop="20250817235500 +0000" channel="Nick Jr..skyde">
+<programme start="20250817233000 +0000" stop="20250817235500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250817235500 +0000" stop="20250818002000 +0000" channel="Nick Jr..skyde">
+<programme start="20250817235500 +0000" stop="20250818001500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250818002000 +0000" stop="20250818004000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818001500 +0000" stop="20250818004000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
 <programme start="20250818004000 +0000" stop="20250818010000 +0000" channel="Nick Jr..skyde">
@@ -1366,13 +1366,16 @@
 <programme start="20250818012500 +0000" stop="20250818014500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
+<programme start="20250818014500 +0000" stop="20250818021000 +0000" channel="Nick Jr..skyde">
+    <title>Die tierischen Fälle von Kit und Sam</title>
+</programme>
 <programme start="20250818021000 +0000" stop="20250818021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250818021500 +0000" stop="20250818022500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818021500 +0000" stop="20250818022000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250818022500 +0000" stop="20250818023000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818022000 +0000" stop="20250818023000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250818023000 +0000" stop="20250818025000 +0000" channel="Nick Jr..skyde">
@@ -1381,13 +1384,13 @@
 <programme start="20250818025000 +0000" stop="20250818030000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250818030000 +0000" stop="20250818032500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818030000 +0000" stop="20250818032000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818032500 +0000" stop="20250818033500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818032000 +0000" stop="20250818033000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818033500 +0000" stop="20250818035500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818033000 +0000" stop="20250818035500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250818035500 +0000" stop="20250818040000 +0000" channel="Nick Jr..skyde">
@@ -1416,6 +1419,9 @@
 </programme>
 <programme start="20250818050000 +0000" stop="20250818052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20250818052500 +0000" stop="20250818054500 +0000" channel="Nick Jr..skyde">
+    <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20250818054500 +0000" stop="20250818061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
@@ -1506,6 +1512,9 @@
 </programme>
 <programme start="20250818132500 +0000" stop="20250818134500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
+</programme>
+<programme start="20250818134500 +0000" stop="20250818141000 +0000" channel="Nick Jr..skyde">
+    <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20250818141000 +0000" stop="20250818141500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
@@ -2624,7 +2633,7 @@
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
 <programme start="20250818190000 +0000" stop="20250818233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA)  - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Finale</title>
+    <title>Live ATP 1000: C.Alcaraz (ESP) - J.Sinner (ITA) Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250818174000 +0000" stop="20250818180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
