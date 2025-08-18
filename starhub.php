@@ -7049,7 +7049,7 @@
         <title>Czech Rally Zlin</title>
     </programme>
     <programme start="20250818100000 +0000" stop="20250818110000 +0000" channel="beIN Sports HD.starhub">
-        <title>Matchday 1</title>
+        <title>Rally Finland</title>
     </programme>
     <programme start="20250818110000 +0000" stop="20250818130000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2025/26: Liverpool vs Bournemouth</title>
@@ -7060,8 +7060,8 @@
     <programme start="20250818140000 +0000" stop="20250818155000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Espanyol vs Atletico Madrid</title>
     </programme>
-    <programme start="20250818155000 +0000" stop="20250818165200 +0000" channel="beIN Sports HD.starhub">
-        <title>Matchday 1</title>
+    <programme start="20250818155000 +0000" stop="20250818165000 +0000" channel="beIN Sports HD.starhub">
+        <title>24-Hr Nurburgring Highlights 2025</title>
     </programme>
     <programme start="20250817151500 +0000" stop="20250817163000 +0000" channel="TestChannel2.starhub">
         <title>Evilive</title>

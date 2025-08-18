@@ -394,47 +394,44 @@
 <programme start="20250818163000 +0000" stop="20250817170000 +0000" channel="Animax.mncvision">
     <title>Why Raeliana Ended Up... Ep 6</title>
 </programme>
-<programme start="20250817180000 +0000" stop="20250817190000 +0000" channel="ANTV.mncvision">
+<programme start="20250817180000 +0000" stop="20250817193000 +0000" channel="ANTV.mncvision">
     <title>Wild Ghost</title>
 </programme>
-<programme start="20250817190000 +0000" stop="20250817200000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250817193000 +0000" stop="20250817203000 +0000" channel="ANTV.mncvision">
+    <title>Painted Skin</title>
 </programme>
-<programme start="20250817200000 +0000" stop="20250817213000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250817203000 +0000" stop="20250817220000 +0000" channel="ANTV.mncvision">
+    <title>Anita Ular Betina</title>
 </programme>
-<programme start="20250817213000 +0000" stop="20250817220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250817220000 +0000" stop="20250817230000 +0000" channel="ANTV.mncvision">
+    <title>Nadin</title>
 </programme>
-<programme start="20250817220000 +0000" stop="20250817223000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250817230000 +0000" stop="20250817234500 +0000" channel="ANTV.mncvision">
+    <title>Senyum Iman</title>
 </programme>
-<programme start="20250817223000 +0000" stop="20250817230000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
-</programme>
-<programme start="20250817230000 +0000" stop="20250818010000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250817234500 +0000" stop="20250818010000 +0000" channel="ANTV.mncvision">
+    <title>Kajol</title>
 </programme>
 <programme start="20250818010000 +0000" stop="20250818023000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Catatan Hati</title>
 </programme>
 <programme start="20250818023000 +0000" stop="20250818060000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Dil Hai Tumhara</title>
 </programme>
-<programme start="20250818060000 +0000" stop="20250818090000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250818060000 +0000" stop="20250818083000 +0000" channel="ANTV.mncvision">
+    <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250818090000 +0000" stop="20250818123000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250818083000 +0000" stop="20250818120000 +0000" channel="ANTV.mncvision">
+    <title>Dhoom 3</title>
 </programme>
-<programme start="20250818123000 +0000" stop="20250818143000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250818120000 +0000" stop="20250818140000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250818143000 +0000" stop="20250818163000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250818140000 +0000" stop="20250818160000 +0000" channel="ANTV.mncvision">
+    <title>Jaka Gledek</title>
 </programme>
-<programme start="20250818163000 +0000" stop="20250817170000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20250818160000 +0000" stop="20250818163000 +0000" channel="ANTV.mncvision">
+    <title>A Chinese Ghost Story</title>
 </programme>
 <programme start="20250817170000 +0000" stop="20250817173000 +0000" channel="Arirang.mncvision">
     <title>Premium Collection</title>
@@ -1085,7 +1082,7 @@
     <title>FIA European Rally C&#039;ship HL</title>
 </programme>
 <programme start="20250818100000 +0000" stop="20250818110000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
+    <title>FIA World Rally C&#039;ship 2025</title>
 </programme>
 <programme start="20250818110000 +0000" stop="20250818130000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV 2025/26: LIV Vs BOU</title>
@@ -1097,7 +1094,7 @@
     <title>LaLiga 2025/26: ESP Vs ATM</title>
 </programme>
 <programme start="20250818155000 +0000" stop="20250818165200 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
+    <title>24-Hr Nurburgring HL 2025, Ep 1</title>
 </programme>
 <programme start="20250818165200 +0000" stop="20250817172200 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2 &#039;25/26: SPO Vs COR (L)</title>
@@ -1139,7 +1136,7 @@
     <title>FIA European Rally C&#039;ship HL</title>
 </programme>
 <programme start="20250818100000 +0000" stop="20250818110000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
+    <title>FIA World Rally C&#039;ship 2025</title>
 </programme>
 <programme start="20250818110000 +0000" stop="20250818130000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV 2025/26: LIV Vs BOU</title>
@@ -1151,7 +1148,7 @@
     <title>LaLiga 2025/26: ESP Vs ATM</title>
 </programme>
 <programme start="20250818155000 +0000" stop="20250818165200 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
+    <title>24-Hr Nurburgring HL 2025, Ep 1</title>
 </programme>
 <programme start="20250818165200 +0000" stop="20250817172200 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2 &#039;25/26: SPO Vs COR (L)</title>
@@ -1568,55 +1565,67 @@
     <title>BTV</title>
 </programme>
 <programme start="20250818021500 +0000" stop="20250818030000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Selera Rasa</title>
 </programme>
 <programme start="20250818030000 +0000" stop="20250818040000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250818040000 +0000" stop="20250818050000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Siang</title>
 </programme>
-<programme start="20250818050000 +0000" stop="20250818060000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20250818050000 +0000" stop="20250818053000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
 </programme>
-<programme start="20250818060000 +0000" stop="20250818064500 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20250818053000 +0000" stop="20250818060000 +0000" channel="BTV.mncvision">
+    <title>Swaragini</title>
 </programme>
-<programme start="20250818064500 +0000" stop="20250818073000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20250818060000 +0000" stop="20250818060500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
 </programme>
-<programme start="20250818073000 +0000" stop="20250818081500 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20250818060500 +0000" stop="20250818063000 +0000" channel="BTV.mncvision">
+    <title>Swaragini</title>
 </programme>
-<programme start="20250818081500 +0000" stop="20250818090000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20250818063000 +0000" stop="20250818070000 +0000" channel="BTV.mncvision">
+    <title>Figur Publik</title>
+</programme>
+<programme start="20250818070000 +0000" stop="20250818070500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20250818070500 +0000" stop="20250818080000 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20250818080000 +0000" stop="20250818080500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20250818080500 +0000" stop="20250818090000 +0000" channel="BTV.mncvision">
+    <title>Ketulusan Hati</title>
 </programme>
 <programme start="20250818090000 +0000" stop="20250818100000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250818100000 +0000" stop="20250818110000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Cetar: Celeb On Target</title>
 </programme>
 <programme start="20250818110000 +0000" stop="20250818120000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Dunia Binatang</title>
 </programme>
 <programme start="20250818120000 +0000" stop="20250818130000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Viral</title>
 </programme>
 <programme start="20250818130000 +0000" stop="20250818140000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Spot On</title>
 </programme>
-<programme start="20250818140000 +0000" stop="20250818150000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20250818140000 +0000" stop="20250818143000 +0000" channel="BTV.mncvision">
+    <title>30 Minute With</title>
+</programme>
+<programme start="20250818143000 +0000" stop="20250818150000 +0000" channel="BTV.mncvision">
+    <title>Pacu Jalur</title>
 </programme>
 <programme start="20250818150000 +0000" stop="20250818160000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Malam</title>
 </programme>
 <programme start="20250818160000 +0000" stop="20250818163000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
-</programme>
-<programme start="20250818163000 +0000" stop="20250817170000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Mitos Tengah Malam</title>
 </programme>
 <programme start="20250817170600 +0000" stop="20250817185200 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
@@ -7484,7 +7493,7 @@
     <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20250817190000 +0000" stop="20250817203000 +0000" channel="RCTI.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20250817203000 +0000" stop="20250817230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S5</title>
@@ -7535,7 +7544,7 @@
     <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20250817190000 +0000" stop="20250817203000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Awas Banyak Copet</title>
 </programme>
 <programme start="20250817203000 +0000" stop="20250817230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S5</title>
@@ -7708,50 +7717,53 @@
 <programme start="20250817184500 +0000" stop="20250817200000 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20250817200000 +0000" stop="20250817210000 +0000" channel="SCTV.mncvision">
+<programme start="20250817200000 +0000" stop="20250817213000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250817210000 +0000" stop="20250817213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250817213000 +0000" stop="20250817215500 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250817213000 +0000" stop="20250817231500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250817215500 +0000" stop="20250817225800 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250817231500 +0000" stop="20250818000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250817225800 +0000" stop="20250818000200 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot Spc. HUT SCTV</title>
 </programme>
-<programme start="20250818000000 +0000" stop="20250818013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818000200 +0000" stop="20250818013700 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250818013000 +0000" stop="20250818030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818013700 +0000" stop="20250818030200 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250818030000 +0000" stop="20250818050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818030200 +0000" stop="20250818045700 +0000" channel="SCTV.mncvision">
+    <title>32 Hari Makin Kesini Makin...</title>
 </programme>
-<programme start="20250818050000 +0000" stop="20250818053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818045700 +0000" stop="20250818053100 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250818053000 +0000" stop="20250818064500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818053100 +0000" stop="20250818070000 +0000" channel="SCTV.mncvision">
+    <title>King Of Gendang Tiba-Tiba...</title>
 </programme>
-<programme start="20250818064500 +0000" stop="20250818073000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818070000 +0000" stop="20250818083300 +0000" channel="SCTV.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250818073000 +0000" stop="20250818083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818083300 +0000" stop="20250818100000 +0000" channel="SCTV.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250818083000 +0000" stop="20250818100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818100000 +0000" stop="20250818112900 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250818100000 +0000" stop="20250818130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818112900 +0000" stop="20250818130700 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20250818130000 +0000" stop="20250818154500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818130700 +0000" stop="20250818143500 +0000" channel="SCTV.mncvision">
+    <title>Cinta Di Bawah Tangan</title>
 </programme>
-<programme start="20250818154500 +0000" stop="20250818161500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250818143500 +0000" stop="20250818160500 +0000" channel="SCTV.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20250818160500 +0000" stop="20250818163500 +0000" channel="SCTV.mncvision">
+    <title>Cinta Di Kamar 32 Emang Lagi...</title>
 </programme>
 <programme start="20250817173000 +0000" stop="20250817184500 +0000" channel="SCTV HD.mncvision">
     <title>Hatiku Ditilang Polwan Cantik</title>
@@ -7759,50 +7771,53 @@
 <programme start="20250817184500 +0000" stop="20250817200000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20250817200000 +0000" stop="20250817210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20250817200000 +0000" stop="20250817213000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250817210000 +0000" stop="20250817213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250817213000 +0000" stop="20250817215500 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250817213000 +0000" stop="20250817231500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250817215500 +0000" stop="20250817225800 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250817231500 +0000" stop="20250818000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250817225800 +0000" stop="20250818000200 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot Spc. HUT SCTV</title>
 </programme>
-<programme start="20250818000000 +0000" stop="20250818013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818000200 +0000" stop="20250818013700 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250818013000 +0000" stop="20250818030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818013700 +0000" stop="20250818030200 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250818030000 +0000" stop="20250818050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818030200 +0000" stop="20250818045700 +0000" channel="SCTV HD.mncvision">
+    <title>32 Hari Makin Kesini Makin...</title>
 </programme>
-<programme start="20250818050000 +0000" stop="20250818053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818045700 +0000" stop="20250818053100 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250818053000 +0000" stop="20250818064500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818053100 +0000" stop="20250818070000 +0000" channel="SCTV HD.mncvision">
+    <title>King Of Gendang Tiba-Tiba...</title>
 </programme>
-<programme start="20250818064500 +0000" stop="20250818073000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818070000 +0000" stop="20250818083300 +0000" channel="SCTV HD.mncvision">
+    <title>GASPOL (Games Asyik Paling...)</title>
 </programme>
-<programme start="20250818073000 +0000" stop="20250818083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818083300 +0000" stop="20250818100000 +0000" channel="SCTV HD.mncvision">
+    <title>Ceylan (Kuma): Cinta &amp; Rahasia</title>
 </programme>
-<programme start="20250818083000 +0000" stop="20250818100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818100000 +0000" stop="20250818112900 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250818100000 +0000" stop="20250818130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818112900 +0000" stop="20250818130700 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20250818130000 +0000" stop="20250818154500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818130700 +0000" stop="20250818143500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Di Bawah Tangan</title>
 </programme>
-<programme start="20250818154500 +0000" stop="20250818161500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250818143500 +0000" stop="20250818160500 +0000" channel="SCTV HD.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20250818160500 +0000" stop="20250818163500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Di Kamar 32 Emang Lagi...</title>
 </programme>
 <programme start="20250817170000 +0000" stop="20250817173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
