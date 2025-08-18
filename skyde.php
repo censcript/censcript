@@ -2587,22 +2587,22 @@
 <programme start="20250818090000 +0000" stop="20250818101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250818101500 +0000" stop="20250818105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250818101500 +0000" stop="20250818104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20250818105000 +0000" stop="20250818131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250818104500 +0000" stop="20250818131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA Supercup: Paris Saint-Germain - Tottenham Hotspur, 2025 in Udine (Italien)</title>
 </programme>
 <programme start="20250818131500 +0000" stop="20250818150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Klassiker der Woche: ASK - FAK (2018/19)</title>
 </programme>
-<programme start="20250818150000 +0000" stop="20250818153500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250818150000 +0000" stop="20250818153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20250818153500 +0000" stop="20250818160500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250818153000 +0000" stop="20250818160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
 </programme>
-<programme start="20250818160500 +0000" stop="20250818163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250818160000 +0000" stop="20250818163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: ASK - FAK, 3. Runde</title>
 </programme>
 <programme start="20250818163000 +0000" stop="20250818170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2633,7 +2633,7 @@
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
 <programme start="20250818190000 +0000" stop="20250818233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA)  - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Finale</title>
+    <title>Live ATP 1000: Finale, Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250818174000 +0000" stop="20250818180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>

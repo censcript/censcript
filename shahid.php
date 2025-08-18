@@ -4009,9 +4009,6 @@
     <programme start="20250819060100 +0000" stop="20250819235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250818000000 +0000" stop="20250819235959 +0000" channel="951783.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250818000000 +0000" stop="20250818000500 +0000" channel="946938.shahid">
         <title>Mojaz Al Akhbar</title>
     </programme>
@@ -4233,6 +4230,9 @@
     </programme>
     <programme start="20250819230000 +0000" stop="20250820000000 +0000" channel="946938.shahid">
         <title>Al Share&#039; Al Saudi</title>
+    </programme>
+    <programme start="20250818000000 +0000" stop="20250819235959 +0000" channel="951783.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20250818000000 +0000" stop="20250818001500 +0000" channel="387294.shahid">
         <title>Ommi Season 1 Episode 72</title>
@@ -6799,6 +6799,9 @@
     <programme start="20250818160500 +0000" stop="20250819235959 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20250818000000 +0000" stop="20250819235959 +0000" channel="388567.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250818000000 +0000" stop="20250818002659 +0000" channel="1005232.shahid">
         <title>Selfie Season 3 Episode 11</title>
     </programme>
@@ -7034,9 +7037,6 @@
         <title>Selfie Season 3 Episode 26</title>
     </programme>
     <programme start="20250819233104 +0000" stop="20250819235959 +0000" channel="1005232.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250818000000 +0000" stop="20250819235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250818000000 +0000" stop="20250818000541 +0000" channel="963543.shahid">
