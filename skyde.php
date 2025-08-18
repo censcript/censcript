@@ -3445,13 +3445,13 @@
 <programme start="20250817231000 +0000" stop="20250817233500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250817233500 +0000" stop="20250817235500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250817233500 +0000" stop="20250818000000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250817235500 +0000" stop="20250818002000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818000000 +0000" stop="20250818002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250818002000 +0000" stop="20250818004500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818002500 +0000" stop="20250818004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250818004500 +0000" stop="20250818011000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3460,22 +3460,22 @@
 <programme start="20250818011000 +0000" stop="20250818013000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818013000 +0000" stop="20250818015500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818013000 +0000" stop="20250818015000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818015500 +0000" stop="20250818021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818015000 +0000" stop="20250818021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818021500 +0000" stop="20250818024000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818021500 +0000" stop="20250818023500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250818024000 +0000" stop="20250818025000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818023500 +0000" stop="20250818025000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20250818025000 +0000" stop="20250818031500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818025000 +0000" stop="20250818031000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250818031500 +0000" stop="20250818033500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250818031000 +0000" stop="20250818033500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20250818033500 +0000" stop="20250818035500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3688,22 +3688,22 @@
 <programme start="20250817220000 +0000" stop="20250817224500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250817224500 +0000" stop="20250817233500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250817224500 +0000" stop="20250817233000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250817233500 +0000" stop="20250818001500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250817233000 +0000" stop="20250818001500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
 <programme start="20250818001500 +0000" stop="20250818005500 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20250818005500 +0000" stop="20250818014000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250818005500 +0000" stop="20250818013500 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20250818014000 +0000" stop="20250818022500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250818013500 +0000" stop="20250818022000 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20250818022500 +0000" stop="20250818023500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250818022000 +0000" stop="20250818023500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
 <programme start="20250818023500 +0000" stop="20250818024500 +0000" channel="Warner TV Serie HD.skyde">
