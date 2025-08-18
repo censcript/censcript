@@ -1,11 +1,3 @@
-<programme start="20250818172000 +0700" stop="20250818202500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Shakhtar Donetsk - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250818202500 +0700" stop="20250818210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E35</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250818210000 +0700" stop="20250818233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Niki Volos - Panetolikos (L)</title>
     <desc>Live: Ya</desc>
@@ -61,6 +53,10 @@
 <programme start="20250819200000 +0700" stop="20250819210000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819210000 +0700" stop="20250819233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Kalamata - AEL (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250818193000 +0700" stop="20250818213500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Parma</title>
@@ -186,8 +182,12 @@
     <title>Football: Al Nassr - Al Ittihad (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250818173000 +0700" stop="20250818203000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Stoiximan AegeanBall Festival</title>
+<programme start="20250819210000 +0700" stop="20250819213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250819213000 +0700" stop="20250819220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818203000 +0700" stop="20250818223500 +0700" channel="COSMOTE Sport 4 HD">
@@ -244,10 +244,6 @@
 </programme>
 <programme start="20250819201500 +0700" stop="20250819222500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Reyer Venezia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250818195000 +0700" stop="20250818204000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250818204000 +0700" stop="20250818213000 +0700" channel="COSMOTE Sport 5 HD">
