@@ -2633,7 +2633,7 @@
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
 <programme start="20250818190000 +0000" stop="20250818233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: C.Alcaraz (ESP) - J.Sinner (ITA) Cincinnati Open in Cincinnati (USA), Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA)  - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250818174000 +0000" stop="20250818180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>

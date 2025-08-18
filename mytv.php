@@ -104,12 +104,12 @@
         <title> Doanh nghiệp - Doanh nhân - Xây dựng chuỗi cung ứng nội địa</title>
     </programme>
     <programme start="20250818151000 +0000" stop="20250818153000 +0000" channel="VTV1 HD.mytv">
-        <title> Truyền hình trực tiếp: Lễ khai trương Trung tâm dữ liệu quốc gia số 1</title>
+        <title> Câu chuyện từ những bài ca Huyền thoại mẹ</title>
     </programme>
-    <programme start="20250818153000 +0000" stop="20250818170000 +0000" channel="VTV1 HD.mytv">
-        <title> Thông điệp từ bác sĩ</title>
+    <programme start="20250818153000 +0000" stop="20250818161000 +0000" channel="VTV1 HD.mytv">
+        <title> Truyền hình trực tiếp: Khai trương trung tâm dữ liệu quốc gia</title>
     </programme>
-    <programme start="20250818170000 +0000" stop="20250818171000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20250818161000 +0000" stop="20250818171000 +0000" channel="VTV1 HD.mytv">
         <title> Cải cách hành chính - Đảm bảo quyền lợi người lao động</title>
     </programme>
     <programme start="20250818171000 +0000" stop="20250818172000 +0000" channel="VTV1 HD.mytv">
