@@ -6244,11 +6244,11 @@
 <programme start="20250818041500 +0000" stop="20250818051500 +0000" channel="Muslim TV.mncvision">
     <title>Tabligh Akbar KH. Zainuddin MZ</title>
 </programme>
-<programme start="20250818051500 +0000" stop="20250818063000 +0000" channel="Muslim TV.mncvision">
+<programme start="20250818051500 +0000" stop="20250818071800 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali Kakus Kasus</title>
 </programme>
-<programme start="20250818063000 +0000" stop="20250818073000 +0000" channel="Muslim TV.mncvision">
-    <title>Siraman Qolbu, Ust. Dhanu</title>
+<programme start="20250818071800 +0000" stop="20250818073000 +0000" channel="Muslim TV.mncvision">
+    <title>Rahmatan Lil &#039;Alamin</title>
 </programme>
 <programme start="20250818073000 +0000" stop="20250818080000 +0000" channel="Muslim TV.mncvision">
     <title>Ambil Jeda Spc. Kemerdekaan</title>
