@@ -66,6 +66,10 @@
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250820051500 +0700" stop="20250820071500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FK Crvena Zvezda - Pafos FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250819031500 +0700" stop="20250819052000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -129,10 +133,6 @@
 <programme start="20250820040000 +0700" stop="20250820060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Rangers FC - Club Brugge</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250819021500 +0700" stop="20250819041500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Gil Vicente - FC Porto (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250819041500 +0700" stop="20250819064500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Niki Volos - Panetolikos</title>
@@ -258,8 +258,8 @@
     <title>Basketball: Virtus Bologna - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819032500 +0700" stop="20250819043000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250820050500 +0700" stop="20250820064000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819043000 +0700" stop="20250819052000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,9 +354,13 @@
     <title>WRC 2024</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819020000 +0700" stop="20250819043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jannik Sinner - Carlos Alcaraz (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250820051500 +0700" stop="20250820054500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820054500 +0700" stop="20250820063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819043000 +0700" stop="20250819065500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
@@ -418,12 +422,8 @@
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250819040000 +0700" stop="20250819043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250819043000 +0700" stop="20250819050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250820053000 +0700" stop="20250820060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819050000 +0700" stop="20250819080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -481,6 +481,10 @@
 <programme start="20250820043000 +0700" stop="20250820050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820050000 +0700" stop="20250820080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250819040000 +0700" stop="20250819060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -543,6 +547,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820043000 +0700" stop="20250820050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820050000 +0700" stop="20250820060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
