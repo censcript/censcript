@@ -253,14 +253,11 @@
 <programme start="20250819023000 +0000" stop="20250819040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
-<programme start="20250819040000 +0000" stop="20250819053000 +0000" channel="iNews.vision">
+<programme start="20250819040000 +0000" stop="20250819060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
-<programme start="20250819053000 +0000" stop="20250819055500 +0000" channel="iNews.vision">
-<title>Dialog Spesial</title>
-</programme>
-<programme start="20250819055500 +0000" stop="20250819063000 +0000" channel="iNews.vision">
-<title>Pemimpin Rakyat (L)</title>
+<programme start="20250819060000 +0000" stop="20250819063000 +0000" channel="iNews.vision">
+<title>Pemimpin Rakyat (iNews)</title>
 </programme>
 <programme start="20250819063000 +0000" stop="20250819070000 +0000" channel="iNews.vision">
 <title>Silet</title>
@@ -277,11 +274,20 @@
 <programme start="20250819120000 +0000" stop="20250819140000 +0000" channel="iNews.vision">
 <title>Rakyat Bersuara (L)</title>
 </programme>
-<programme start="20250819140000 +0000" stop="20250819160000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250819140000 +0000" stop="20250819150000 +0000" channel="iNews.vision">
+<title>iNews Prime (L)</title>
 </programme>
-<programme start="20250819160000 +0000" stop="20250819173000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20250819150000 +0000" stop="20250819160000 +0000" channel="iNews.vision">
+<title>iNews Malam (Live)</title>
+</programme>
+<programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="iNews.vision">
+<title>iNews Sport (L)</title>
+</programme>
+<programme start="20250819163000 +0000" stop="20250819170000 +0000" channel="iNews.vision">
+<title>New Top Files</title>
+</programme>
+<programme start="20250819170000 +0000" stop="20250819173000 +0000" channel="iNews.vision">
+<title>Realita</title>
 </programme>
 <programme start="20250819173000 +0000" stop="20250819180000 +0000" channel="iNews.vision">
 <title>GX</title>
@@ -290,16 +296,16 @@
 <title>iNews</title>
 </programme>
 <programme start="20250819193000 +0000" stop="20250819200000 +0000" channel="iNews.vision">
-<title>iNews Siang</title>
+<title>Air Mata Surga</title>
 </programme>
 <programme start="20250819200000 +0000" stop="20250819203000 +0000" channel="iNews.vision">
-<title>Air Mata Surga</title>
+<title>iNews Malam</title>
 </programme>
 <programme start="20250819203000 +0000" stop="20250819210000 +0000" channel="iNews.vision">
 <title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250819210000 +0000" stop="20250819211500 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20250819211500 +0000" stop="20250819230000 +0000" channel="iNews.vision">
 <title>Inews Pagi (Live)</title>
@@ -670,8 +676,14 @@
 <programme start="20250819010000 +0000" stop="20250819023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250819023000 +0000" stop="20250819060000 +0000" channel="ANTV.vision">
+<title>Fanaa</title>
+</programme>
 <programme start="20250819060000 +0000" stop="20250819083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
+</programme>
+<programme start="20250819083000 +0000" stop="20250819120000 +0000" channel="ANTV.vision">
+<title>Koi Mil Gaya</title>
 </programme>
 <programme start="20250819120000 +0000" stop="20250819140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20250820021500 +0000" stop="20250820030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
-</programme>
-<programme start="20250820030000 +0000" stop="20250820040000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250820040000 +0000" stop="20250820050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250820050000 +0000" stop="20250820053000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20250820053000 +0000" stop="20250820063000 +0000" channel="BTV.vision">
-<title>Swaragini</title>
 </programme>

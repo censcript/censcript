@@ -202,10 +202,6 @@
     <title>Football: Celtic FC - FC Kairat Almaty (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250820005500 +0700" stop="20250820025500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820025500 +0700" stop="20250820050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
@@ -262,8 +258,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820014000 +0700" stop="20250820024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250821030000 +0700" stop="20250821051500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Trapani - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820024500 +0700" stop="20250820042000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,8 +358,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820000000 +0700" stop="20250820030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
+<programme start="20250821033000 +0700" stop="20250821050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820030000 +0700" stop="20250820053000 +0700" channel="COSMOTE Sport 6 HD">
@@ -427,6 +423,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821010000 +0700" stop="20250821030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250821030000 +0700" stop="20250821053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
