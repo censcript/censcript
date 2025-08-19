@@ -82,8 +82,8 @@
     <title>UEL &amp; UECL Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819090000 +0700" stop="20250819110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - Monza</title>
+<programme start="20250820113000 +0700" stop="20250820123000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2024-25 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819110000 +0700" stop="20250819131500 +0700" channel="COSMOTE Sport 2 HD">
@@ -144,6 +144,10 @@
 </programme>
 <programme start="20250820085500 +0700" stop="20250820110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820110000 +0700" stop="20250820131500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819100000 +0700" stop="20250819120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -366,6 +370,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250820110500 +0700" stop="20250820121000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250819100000 +0700" stop="20250819132500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -426,10 +434,6 @@
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819080000 +0700" stop="20250819110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250819110000 +0700" stop="20250819113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -485,6 +489,14 @@
 <programme start="20250820080000 +0700" stop="20250820110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250820110000 +0700" stop="20250820113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820113000 +0700" stop="20250820120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819100000 +0700" stop="20250819120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

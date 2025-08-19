@@ -2311,35 +2311,38 @@
     <programme start="20250818230000 +0000" stop="20250819010000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Winston-Salem Day 2 Match 3 (Live)</title>
     </programme>
-    <programme start="20250819010000 +0000" stop="20250819030000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20250819010000 +0000" stop="20250819020000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Winston-Salem Day 2 Match 4 (Live)</title>
     </programme>
+    <programme start="20250819020000 +0000" stop="20250819030000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Washington</title>
+    </programme>
     <programme start="20250819030000 +0000" stop="20250819043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Toronto Final Shelton v Khachanov</title>
+        <title>Toronto Final Shelton v Khachanov</title>
     </programme>
     <programme start="20250819043000 +0000" stop="20250819060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Final</title>
+        <title>Washington Final De Minaur v Davidovich Fokina</title>
     </programme>
     <programme start="20250819060000 +0000" stop="20250819073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 2 Match 1</title>
+        <title>Winston-Salem Day 2 Coric v Blanch</title>
     </programme>
     <programme start="20250819073000 +0000" stop="20250819090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 2 Match 2</title>
+        <title>Winston-Salem Day 2 Korda v Kopriva</title>
     </programme>
     <programme start="20250819090000 +0000" stop="20250819103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 2 Match 4</title>
+        <title>Winston-Salem Day 2 Borges v Majchrzak</title>
     </programme>
     <programme start="20250819103000 +0000" stop="20250819120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Final</title>
+        <title>Queen&#039;s Final Alcaraz v Lehecka</title>
     </programme>
     <programme start="20250819120000 +0000" stop="20250819130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Cincinnati</title>
     </programme>
     <programme start="20250819130000 +0000" stop="20250819143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 2 Match 3</title>
+        <title>Winston-Salem Day 2 Vukic v Dostanic</title>
     </programme>
-    <programme start="20250819143000 +0000" stop="20250819160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Final</title>
+    <programme start="20250819143000 +0000" stop="20250819170000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Toronto Final Shelton v Khachanov</title>
     </programme>
     <programme start="20250818160000 +0000" stop="20250818170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>

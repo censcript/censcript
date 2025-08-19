@@ -1208,7 +1208,7 @@
     <title>ATP Tour 1000 2025: Toronto</title>
 </programme>
 <programme start="20250819043000 +0000" stop="20250819060000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 1000 2025: Cincinnati</title>
+    <title>ATP Tour 500 2025: Washington</title>
 </programme>
 <programme start="20250819060000 +0000" stop="20250819073000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250: Winston-Salem</title>
@@ -1220,7 +1220,7 @@
     <title>ATP Tour 250: Winston-Salem</title>
 </programme>
 <programme start="20250819103000 +0000" stop="20250819120000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 1000 2025: Cincinnati</title>
+    <title>ATP Tour 500 &#039;25: Queen&#039;s Final</title>
 </programme>
 <programme start="20250819120000 +0000" stop="20250819130000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour Review Show 2025</title>
@@ -1229,7 +1229,7 @@
     <title>ATP Tour 250: Winston-Salem</title>
 </programme>
 <programme start="20250819143000 +0000" stop="20250819160000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 1000 2025: Cincinnati</title>
+    <title>ATP Tour 1000 2025: Toronto</title>
 </programme>
 <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour Review Show 2025</title>
@@ -1262,7 +1262,7 @@
     <title>ATP Tour 1000 2025: Toronto</title>
 </programme>
 <programme start="20250819043000 +0000" stop="20250819060000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 1000 2025: Cincinnati</title>
+    <title>ATP Tour 500 2025: Washington</title>
 </programme>
 <programme start="20250819060000 +0000" stop="20250819073000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250: Winston-Salem</title>
@@ -1274,7 +1274,7 @@
     <title>ATP Tour 250: Winston-Salem</title>
 </programme>
 <programme start="20250819103000 +0000" stop="20250819120000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 1000 2025: Cincinnati</title>
+    <title>ATP Tour 500 &#039;25: Queen&#039;s Final</title>
 </programme>
 <programme start="20250819120000 +0000" stop="20250819130000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour Review Show 2025</title>
@@ -1283,7 +1283,7 @@
     <title>ATP Tour 250: Winston-Salem</title>
 </programme>
 <programme start="20250819143000 +0000" stop="20250819160000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 1000 2025: Cincinnati</title>
+    <title>ATP Tour 1000 2025: Toronto</title>
 </programme>
 <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour Review Show 2025</title>

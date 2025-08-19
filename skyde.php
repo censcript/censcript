@@ -1390,40 +1390,40 @@
 <programme start="20250819215000 +0000" stop="20250819223500 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
-<programme start="20250818220000 +0000" stop="20250818222500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818220000 +0000" stop="20250818222000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250818222500 +0000" stop="20250818224500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818222000 +0000" stop="20250818224000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250818224500 +0000" stop="20250818231000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818224000 +0000" stop="20250818230500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818231000 +0000" stop="20250818233000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818230500 +0000" stop="20250818233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818233000 +0000" stop="20250818235500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818233000 +0000" stop="20250818235000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250818235500 +0000" stop="20250819001500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818235000 +0000" stop="20250819001500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250819001500 +0000" stop="20250819004000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819001500 +0000" stop="20250819003500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250819004000 +0000" stop="20250819010000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819003500 +0000" stop="20250819010000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250819010000 +0000" stop="20250819012500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819010000 +0000" stop="20250819012000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250819012500 +0000" stop="20250819014500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819012000 +0000" stop="20250819014500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250819014500 +0000" stop="20250819021000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819014500 +0000" stop="20250819020500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20250819021000 +0000" stop="20250819021500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819020500 +0000" stop="20250819021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250819021500 +0000" stop="20250819022000 +0000" channel="Nick Jr..skyde">
@@ -2803,13 +2803,13 @@
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250819185000 +0000" stop="20250819210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250819185000 +0000" stop="20250819213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Ferencváros Budapest - FK Qarabag, Playoff Hinspiele, Dienstag</title>
 </programme>
 <programme start="20250819174000 +0000" stop="20250819180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250819180000 +0000" stop="20250820023000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250819180000 +0000" stop="20250820080000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
 </programme>
 <programme start="20250818220000 +0000" stop="20250818230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3757,10 +3757,10 @@
 <programme start="20250819040000 +0000" stop="20250819052500 +0000" channel="Warner TV Film.skyde">
     <title>Der Wachsblumenstrauß</title>
 </programme>
-<programme start="20250819052500 +0000" stop="20250819071500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819052500 +0000" stop="20250819072000 +0000" channel="Warner TV Film.skyde">
     <title>New York Für Anfänger</title>
 </programme>
-<programme start="20250819071500 +0000" stop="20250819091500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819072000 +0000" stop="20250819091500 +0000" channel="Warner TV Film.skyde">
     <title>Die Goonies</title>
 </programme>
 <programme start="20250819091500 +0000" stop="20250819110000 +0000" channel="Warner TV Film.skyde">
@@ -3781,7 +3781,7 @@
 <programme start="20250819181500 +0000" stop="20250819200500 +0000" channel="Warner TV Film.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20250819200500 +0000" stop="20250819220500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819200500 +0000" stop="20250819220000 +0000" channel="Warner TV Film.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20250818234000 +0000" stop="20250819013000 +0000" channel="Warner TV Film HD.skyde">
