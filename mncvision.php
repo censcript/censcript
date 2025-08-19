@@ -4894,11 +4894,8 @@
 <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="iNews HD.mncvision">
     <title>ASEAN MSIG Serenity Cup 2025</title>
 </programme>
-<programme start="20250818230000 +0000" stop="20250818233000 +0000" channel="JAKTV.mncvision">
-    <title>Inovator</title>
-</programme>
-<programme start="20250818233000 +0000" stop="20250819000000 +0000" channel="JAKTV.mncvision">
-    <title>Creative Talk</title>
+<programme start="20250818230000 +0000" stop="20250819000000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
 </programme>
 <programme start="20250819000000 +0000" stop="20250819003000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
@@ -4934,7 +4931,7 @@
     <title>Noice Ibu Negara Andara</title>
 </programme>
 <programme start="20250819073000 +0000" stop="20250819080000 +0000" channel="JAKTV.mncvision">
-    <title>Retro Hour</title>
+    <title>Animal Action</title>
 </programme>
 <programme start="20250819080000 +0000" stop="20250819090000 +0000" channel="JAKTV.mncvision">
     <title>Berkah Shop</title>
@@ -4945,11 +4942,8 @@
 <programme start="20250819093000 +0000" stop="20250819100000 +0000" channel="JAKTV.mncvision">
     <title>Vlogger On The Road</title>
 </programme>
-<programme start="20250819100000 +0000" stop="20250819103000 +0000" channel="JAKTV.mncvision">
-    <title>Cooking Time</title>
-</programme>
-<programme start="20250819103000 +0000" stop="20250819110000 +0000" channel="JAKTV.mncvision">
-    <title>Muslimpedia</title>
+<programme start="20250819100000 +0000" stop="20250819110000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
 </programme>
 <programme start="20250819110000 +0000" stop="20250819113000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
@@ -4970,16 +4964,13 @@
     <title>Medika Natura</title>
 </programme>
 <programme start="20250819150000 +0000" stop="20250819153000 +0000" channel="JAKTV.mncvision">
-    <title>Dunia Kita</title>
-</programme>
-<programme start="20250819153000 +0000" stop="20250819160000 +0000" channel="JAKTV.mncvision">
-    <title>Noice</title>
-</programme>
-<programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="JAKTV.mncvision">
     <title>Mirror Story</title>
 </programme>
-<programme start="20250819163000 +0000" stop="20250818170000 +0000" channel="JAKTV.mncvision">
-    <title>Retro Hour</title>
+<programme start="20250819153000 +0000" stop="20250819160000 +0000" channel="JAKTV.mncvision">
+    <title>Pak Kobra</title>
+</programme>
+<programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="JAKTV.mncvision">
+    <title>Bincang Malam</title>
 </programme>
 <programme start="20250818173000 +0000" stop="20250818180000 +0000" channel="Kids TV.mncvision">
     <title>Blippi Wonders</title>
