@@ -253,7 +253,7 @@
 <programme start="20250819023000 +0000" stop="20250819040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
-<programme start="20250819040000 +0000" stop="20250819060000 +0000" channel="iNews.vision">
+<programme start="20250819040000 +0000" stop="20250819053000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20250819053000 +0000" stop="20250819055500 +0000" channel="iNews.vision">
@@ -678,9 +678,6 @@
 </programme>
 <programme start="20250819010000 +0000" stop="20250819023000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250819023000 +0000" stop="20250819060000 +0000" channel="ANTV.vision">
-<title>Fanaa</title>
 </programme>
 <programme start="20250819060000 +0000" stop="20250819083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250820011500 +0000" stop="20250820021500 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250820021500 +0000" stop="20250820030000 +0000" channel="BTV.vision">
+<title>Selera Rasa</title>
 </programme>
