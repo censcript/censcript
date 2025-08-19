@@ -2797,7 +2797,7 @@
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250819185000 +0000" stop="20250819210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250819185000 +0000" stop="20250819213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Rangers FC - Club Brügge, Playoff Hinspiele, Dienstag</title>
 </programme>
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3760,10 +3760,10 @@
 <programme start="20250819040000 +0000" stop="20250819052500 +0000" channel="Warner TV Film.skyde">
     <title>Der Wachsblumenstrauß</title>
 </programme>
-<programme start="20250819052500 +0000" stop="20250819071500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819052500 +0000" stop="20250819072000 +0000" channel="Warner TV Film.skyde">
     <title>New York Für Anfänger</title>
 </programme>
-<programme start="20250819071500 +0000" stop="20250819091500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819072000 +0000" stop="20250819091500 +0000" channel="Warner TV Film.skyde">
     <title>Die Goonies</title>
 </programme>
 <programme start="20250819091500 +0000" stop="20250819110000 +0000" channel="Warner TV Film.skyde">
@@ -3784,7 +3784,7 @@
 <programme start="20250819181500 +0000" stop="20250819200500 +0000" channel="Warner TV Film.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20250819200500 +0000" stop="20250819220500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819200500 +0000" stop="20250819220000 +0000" channel="Warner TV Film.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20250818234000 +0000" stop="20250819013000 +0000" channel="Warner TV Film HD.skyde">
@@ -3796,10 +3796,10 @@
 <programme start="20250819040000 +0000" stop="20250819052500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Wachsblumenstrauß</title>
 </programme>
-<programme start="20250819052500 +0000" stop="20250819071500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819052500 +0000" stop="20250819072000 +0000" channel="Warner TV Film HD.skyde">
     <title>New York Für Anfänger</title>
 </programme>
-<programme start="20250819071500 +0000" stop="20250819091500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819072000 +0000" stop="20250819091500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Goonies</title>
 </programme>
 <programme start="20250819091500 +0000" stop="20250819110000 +0000" channel="Warner TV Film HD.skyde">
@@ -3820,7 +3820,7 @@
 <programme start="20250819181500 +0000" stop="20250819200500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20250819200500 +0000" stop="20250819220500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819200500 +0000" stop="20250819220000 +0000" channel="Warner TV Film HD.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20250818232000 +0000" stop="20250819000000 +0000" channel="Warner TV Serie HD.skyde">
