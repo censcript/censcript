@@ -298,7 +298,7 @@
 <programme start="20250819203000 +0000" stop="20250819210000 +0000" channel="iNews.vision">
 <title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
-<programme start="20250812233000 +0000" stop="20250813000000 +0000" channel="iNews.vision">
+<programme start="20250819210000 +0000" stop="20250819211500 +0000" channel="iNews.vision">
 <title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
 <programme start="20250819211500 +0000" stop="20250819230000 +0000" channel="iNews.vision">
