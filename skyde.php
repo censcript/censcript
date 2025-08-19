@@ -1015,9 +1015,6 @@
 <programme start="20250819210000 +0000" stop="20250819213000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 4</title>
 </programme>
-<programme start="20250819213000 +0000" stop="20250819220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2025/26: 1. Spieltag</title>
-</programme>
 <programme start="20250818220000 +0000" stop="20250819060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -1045,23 +1042,20 @@
 <programme start="20250819140000 +0000" stop="20250819160000 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1 25/26: Stade Rennes - Olympique Marseille</title>
 </programme>
-<programme start="20250819160000 +0000" stop="20250819175100 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250819160000 +0000" stop="20250819175000 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1 25/26: AS Monaco - AC Le Havre</title>
 </programme>
-<programme start="20250819175100 +0000" stop="20250819183500 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 2025/26: 2. Spieltag</title>
-</programme>
-<programme start="20250819183500 +0000" stop="20250819184500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UCL Warm Up: UEFA Champions League Highlights (Nur in DE verfügbar)</title>
-</programme>
-<programme start="20250819184500 +0000" stop="20250819205500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA Champions League 25/26: Ferencváros Budapest - Qarabag Agdam</title>
-</programme>
-<programme start="20250819205500 +0000" stop="20250819214500 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 2025/26: 2. Spieltag</title>
-</programme>
-<programme start="20250819214500 +0000" stop="20250819220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250819175000 +0000" stop="20250819180500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250819180500 +0000" stop="20250819192500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Originals: Green Lions: Kamerun 1990</title>
+</programme>
+<programme start="20250819192500 +0000" stop="20250819201000 +0000" channel="DAZN 2 HD.skyde">
+    <title>3. Liga Highlightshow 2025/26: 2. Spieltag</title>
+</programme>
+<programme start="20250819201000 +0000" stop="20250819220000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Ligue 1 25/26: FC Nantes - PSG</title>
 </programme>
 <programme start="20250818222000 +0000" stop="20250818230500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
@@ -1396,40 +1390,40 @@
 <programme start="20250819215000 +0000" stop="20250819223500 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
-<programme start="20250818220000 +0000" stop="20250818222000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818220000 +0000" stop="20250818222500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250818222000 +0000" stop="20250818224000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818222500 +0000" stop="20250818224500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250818224000 +0000" stop="20250818230500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818224500 +0000" stop="20250818231000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818230500 +0000" stop="20250818233000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818231000 +0000" stop="20250818233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818233000 +0000" stop="20250818235000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818233000 +0000" stop="20250818235500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250818235000 +0000" stop="20250819001500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818235500 +0000" stop="20250819001500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250819001500 +0000" stop="20250819003500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819001500 +0000" stop="20250819004000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250819003500 +0000" stop="20250819010000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819004000 +0000" stop="20250819010000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250819010000 +0000" stop="20250819012000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819010000 +0000" stop="20250819012500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250819012000 +0000" stop="20250819014500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819012500 +0000" stop="20250819014500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250819014500 +0000" stop="20250819020500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819014500 +0000" stop="20250819021000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20250819020500 +0000" stop="20250819021500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819021000 +0000" stop="20250819021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250819021500 +0000" stop="20250819022000 +0000" channel="Nick Jr..skyde">
@@ -2797,13 +2791,13 @@
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250819185000 +0000" stop="20250819210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250819185000 +0000" stop="20250819213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Rangers FC - Club Brügge, Playoff Hinspiele, Dienstag</title>
 </programme>
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250819185000 +0000" stop="20250819210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250819185000 +0000" stop="20250819213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Roter Stern Belgrad - FC Pafos, Playoff Hinspiele, Dienstag</title>
 </programme>
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2983,7 +2977,7 @@
 <programme start="20250819213000 +0000" stop="20250819222000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>GTWC: Highlights: Zandvoort (Sprint Cup)</title>
 </programme>
-<programme start="20250818220000 +0000" stop="20250818230000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250818221000 +0000" stop="20250818230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Classic: 2004 Tour Championship</title>
 </programme>
 <programme start="20250818230000 +0000" stop="20250818235000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3292,16 +3286,13 @@
 <programme start="20250819210000 +0000" stop="20250819220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 1. Spieltag</title>
 </programme>
-<programme start="20250818220000 +0000" stop="20250819003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
-</programme>
-<programme start="20250819003000 +0000" stop="20250819023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250819003000 +0000" stop="20250819015000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 2. Tag</title>
 </programme>
-<programme start="20250819023000 +0000" stop="20250819050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA)  - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Finale</title>
+<programme start="20250819015000 +0000" stop="20250819030500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: S. Dostanic (USA) - A. Vukic (AUS), Winston-Salem Open in Winston-Salem, North Carolina (USA), 2. Tag</title>
 </programme>
-<programme start="20250819050000 +0000" stop="20250819073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250819040000 +0000" stop="20250819060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250819073000 +0000" stop="20250819080000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3311,10 +3302,13 @@
     <title>WTA 500: Topspiel, Abierto GNP Securos in Monterrey (MEX), 1. Tag</title>
 </programme>
 <programme start="20250819100000 +0000" stop="20250819120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Winston-Salem Open in Winston-Salem, North Carolina (USA), 2. Tag</title>
+    <title>ATP 250: S. Dostanic (USA) - A. Vukic (AUS), Winston-Salem Open in Winston-Salem, North Carolina (USA), 2. Tag</title>
 </programme>
-<programme start="20250819120000 +0000" stop="20250819143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA)  - C. Alcaraz (ESP), Cincinnati Open in Cincinnati (USA), Finale</title>
+<programme start="20250819120000 +0000" stop="20250819140000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: S. Dostanic (USA) - A. Vukic (AUS), Winston-Salem Open in Winston-Salem, North Carolina (USA), 2. Tag</title>
+</programme>
+<programme start="20250819140000 +0000" stop="20250819143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250819143000 +0000" stop="20250819150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
@@ -3799,10 +3793,10 @@
 <programme start="20250819040000 +0000" stop="20250819052500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Wachsblumenstrauß</title>
 </programme>
-<programme start="20250819052500 +0000" stop="20250819071500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819052500 +0000" stop="20250819072000 +0000" channel="Warner TV Film HD.skyde">
     <title>New York Für Anfänger</title>
 </programme>
-<programme start="20250819071500 +0000" stop="20250819091500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819072000 +0000" stop="20250819091500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Goonies</title>
 </programme>
 <programme start="20250819091500 +0000" stop="20250819110000 +0000" channel="Warner TV Film HD.skyde">
@@ -3823,7 +3817,7 @@
 <programme start="20250819181500 +0000" stop="20250819200500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20250819200500 +0000" stop="20250819220500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819200500 +0000" stop="20250819220000 +0000" channel="Warner TV Film HD.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20250818232000 +0000" stop="20250819000000 +0000" channel="Warner TV Serie HD.skyde">

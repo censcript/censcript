@@ -152,7 +152,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250819043000 +0000" stop="20250819050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Britain &amp; Israel</title>
 </programme>
 <programme start="20250819050000 +0000" stop="20250819053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -200,7 +200,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250819143000 +0000" stop="20250819150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Britain &amp; Israel</title>
 </programme>
 <programme start="20250819150000 +0000" stop="20250819160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
