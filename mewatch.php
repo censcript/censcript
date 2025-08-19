@@ -1030,19 +1030,19 @@
     <programme start="20250819160000 +0000" stop="20250820160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 22nd August, Friday 8.30pm. ONE Friday Fights 121</title>
     </programme>
-    <programme start="20250818160000 +0000" stop="20250819093000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th August, Tuesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250818160000 +0000" stop="20250819090400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th August, Tuesday 5.04pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250819093000 +0000" stop="20250819113000 +0000" channel="Live 5.mewatch">
+    <programme start="20250819090400 +0000" stop="20250819113000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Thailand</title>
     </programme>
-    <programme start="20250819113000 +0000" stop="20250819123000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+    <programme start="20250819113000 +0000" stop="20250819123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th August, Tuesday 8.34pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250819123000 +0000" stop="20250819143000 +0000" channel="Live 5.mewatch">
+    <programme start="20250819123400 +0000" stop="20250819150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Australia vs Myanmar</title>
     </programme>
-    <programme start="20250819143000 +0000" stop="20250819160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250819150000 +0000" stop="20250819160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 20th August, Wednesday 7pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20250819160000 +0000" stop="20250820110000 +0000" channel="Live 5.mewatch">

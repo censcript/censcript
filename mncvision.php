@@ -4792,10 +4792,13 @@
 <programme start="20250819023000 +0000" stop="20250819040000 +0000" channel="iNews.mncvision">
     <title>iNews Today (L)</title>
 </programme>
-<programme start="20250819040000 +0000" stop="20250819060000 +0000" channel="iNews.mncvision">
+<programme start="20250819040000 +0000" stop="20250819053000 +0000" channel="iNews.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20250819060000 +0000" stop="20250819063000 +0000" channel="iNews.mncvision">
+<programme start="20250819053000 +0000" stop="20250819055500 +0000" channel="iNews.mncvision">
+    <title>Dialog Spesial</title>
+</programme>
+<programme start="20250819055500 +0000" stop="20250819063000 +0000" channel="iNews.mncvision">
     <title>Pemimpin Rakyat (L)</title>
 </programme>
 <programme start="20250819063000 +0000" stop="20250819070000 +0000" channel="iNews.mncvision">
@@ -4813,17 +4816,11 @@
 <programme start="20250819120000 +0000" stop="20250819140000 +0000" channel="iNews.mncvision">
     <title>Rakyat Bersuara (L)</title>
 </programme>
-<programme start="20250819140000 +0000" stop="20250819150000 +0000" channel="iNews.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20250819150000 +0000" stop="20250819160000 +0000" channel="iNews.mncvision">
-    <title>iNews Malam (L)</title>
+<programme start="20250819140000 +0000" stop="20250819160000 +0000" channel="iNews.mncvision">
+    <title>ASEAN MSIG Serenity Cup 2025</title>
 </programme>
 <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="iNews.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20250819163000 +0000" stop="20250818170000 +0000" channel="iNews.mncvision">
-    <title>New Top Files</title>
+    <title>ASEAN MSIG Serenity Cup 2025</title>
 </programme>
 <programme start="20250818170000 +0000" stop="20250818173000 +0000" channel="iNews HD.mncvision">
     <title>Realita</title>
@@ -4867,10 +4864,13 @@
 <programme start="20250819023000 +0000" stop="20250819040000 +0000" channel="iNews HD.mncvision">
     <title>iNews Today (L)</title>
 </programme>
-<programme start="20250819040000 +0000" stop="20250819060000 +0000" channel="iNews HD.mncvision">
+<programme start="20250819040000 +0000" stop="20250819053000 +0000" channel="iNews HD.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20250819060000 +0000" stop="20250819063000 +0000" channel="iNews HD.mncvision">
+<programme start="20250819053000 +0000" stop="20250819055500 +0000" channel="iNews HD.mncvision">
+    <title>Dialog Spesial</title>
+</programme>
+<programme start="20250819055500 +0000" stop="20250819063000 +0000" channel="iNews HD.mncvision">
     <title>Pemimpin Rakyat (L)</title>
 </programme>
 <programme start="20250819063000 +0000" stop="20250819070000 +0000" channel="iNews HD.mncvision">
@@ -4888,17 +4888,11 @@
 <programme start="20250819120000 +0000" stop="20250819140000 +0000" channel="iNews HD.mncvision">
     <title>Rakyat Bersuara (L)</title>
 </programme>
-<programme start="20250819140000 +0000" stop="20250819150000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20250819150000 +0000" stop="20250819160000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam (L)</title>
+<programme start="20250819140000 +0000" stop="20250819160000 +0000" channel="iNews HD.mncvision">
+    <title>ASEAN MSIG Serenity Cup 2025</title>
 </programme>
 <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20250819163000 +0000" stop="20250818170000 +0000" channel="iNews HD.mncvision">
-    <title>New Top Files</title>
+    <title>ASEAN MSIG Serenity Cup 2025</title>
 </programme>
 <programme start="20250818230000 +0000" stop="20250818233000 +0000" channel="JAKTV.mncvision">
     <title>Inovator</title>
