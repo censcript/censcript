@@ -78,8 +78,8 @@
     <title>Football: Panionios - Iraklis (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250819203500 +0700" stop="20250819224000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Venezia - Juventus Football Club</title>
+<programme start="20250820233000 +0700" stop="20250821003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2024-25 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819224000 +0700" stop="20250819231000 +0700" channel="COSMOTE Sport 2 HD">
@@ -214,10 +214,6 @@
     <title>Football: Racing Club - Penarol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819201500 +0700" stop="20250819222500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Reyer Venezia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250819222500 +0700" stop="20250820002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Las Vegas Aces - Dallas Wings</title>
     <desc>Live: Tidak</desc>
@@ -276,10 +272,6 @@
 </programme>
 <programme start="20250820222500 +0700" stop="20250821003000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bahcesehir</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250819205000 +0700" stop="20250819222000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819222000 +0700" stop="20250819235000 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,12 +370,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819213500 +0700" stop="20250819220500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250819220500 +0700" stop="20250819223500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E4</title>
+<programme start="20250820230500 +0700" stop="20250821000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819223500 +0700" stop="20250819233000 +0700" channel="COSMOTE Sport 6 HD">
