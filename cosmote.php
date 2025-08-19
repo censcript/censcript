@@ -1,7 +1,3 @@
-<programme start="20250819200000 +0700" stop="20250819210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2024-25 E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250819210000 +0700" stop="20250819233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Kalamata - AEL (L)</title>
     <desc>Live: Ya</desc>
@@ -78,9 +74,9 @@
     <title>Football: Rangers FC - Club Brugge</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819193500 +0700" stop="20250819203500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250820210000 +0700" stop="20250820233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panionios - Iraklis (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250819203500 +0700" stop="20250819224000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Venezia - Juventus Football Club</title>
@@ -146,10 +142,6 @@
     <title>Football: Torino - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250819190000 +0700" stop="20250819210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Ittihad (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250819210000 +0700" stop="20250819213000 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -214,8 +206,12 @@
     <title>Football: Al-Qadsiah - Al Ahli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250819172500 +0700" stop="20250819201500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Stoiximan AegeanBall Festival</title>
+<programme start="20250820210000 +0700" stop="20250820213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2024-25 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820213000 +0700" stop="20250820220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819201500 +0700" stop="20250819222500 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,10 +272,6 @@
 </programme>
 <programme start="20250820201000 +0700" stop="20250820222500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trapani - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250819195500 +0700" stop="20250819205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819205000 +0700" stop="20250819222000 +0700" channel="COSMOTE Sport 5 HD">
@@ -368,6 +360,14 @@
 </programme>
 <programme start="20250820195500 +0700" stop="20250820210000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820210000 +0700" stop="20250820213000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250820213000 +0700" stop="20250820220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250819194500 +0700" stop="20250819210500 +0700" channel="COSMOTE Sport 6 HD">
