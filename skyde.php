@@ -508,13 +508,13 @@
 <programme start="20250818223000 +0000" stop="20250818224000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250818224000 +0000" stop="20250818225500 +0000" channel="Cartoonito.skyde">
+<programme start="20250818224000 +0000" stop="20250818225000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250818225500 +0000" stop="20250818230500 +0000" channel="Cartoonito.skyde">
+<programme start="20250818225000 +0000" stop="20250818230000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250818230500 +0000" stop="20250818232000 +0000" channel="Cartoonito.skyde">
+<programme start="20250818230000 +0000" stop="20250818232000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250818232000 +0000" stop="20250818233000 +0000" channel="Cartoonito.skyde">
@@ -550,13 +550,13 @@
 <programme start="20250819013000 +0000" stop="20250819014500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250819014500 +0000" stop="20250819020000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819014500 +0000" stop="20250819015500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250819020000 +0000" stop="20250819021000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819015500 +0000" stop="20250819020500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250819021000 +0000" stop="20250819022500 +0000" channel="Cartoonito.skyde">
+<programme start="20250819020500 +0000" stop="20250819022500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250819022500 +0000" stop="20250819023500 +0000" channel="Cartoonito.skyde">
@@ -655,16 +655,16 @@
 <programme start="20250819083500 +0000" stop="20250819085500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250819085500 +0000" stop="20250819092400 +0000" channel="Cartoonito.skyde">
+<programme start="20250819085500 +0000" stop="20250819092500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20250819092400 +0000" stop="20250819092800 +0000" channel="Cartoonito.skyde">
+<programme start="20250819092500 +0000" stop="20250819092900 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250819092800 +0000" stop="20250819093000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819092900 +0000" stop="20250819093300 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250819093000 +0000" stop="20250819093800 +0000" channel="Cartoonito.skyde">
+<programme start="20250819093300 +0000" stop="20250819093800 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250819093800 +0000" stop="20250819094000 +0000" channel="Cartoonito.skyde">
@@ -685,10 +685,10 @@
 <programme start="20250819102000 +0000" stop="20250819102500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250819102500 +0000" stop="20250819103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819102500 +0000" stop="20250819103500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250819103000 +0000" stop="20250819104000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819103500 +0000" stop="20250819104000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250819104000 +0000" stop="20250819105500 +0000" channel="Cartoonito.skyde">
@@ -778,10 +778,10 @@
 <programme start="20250819155500 +0000" stop="20250819160000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250819160000 +0000" stop="20250819160500 +0000" channel="Cartoonito.skyde">
+<programme start="20250819160000 +0000" stop="20250819161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250819160500 +0000" stop="20250819162000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819161000 +0000" stop="20250819162000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250819162000 +0000" stop="20250819163000 +0000" channel="Cartoonito.skyde">
@@ -874,7 +874,7 @@
 <programme start="20250819215000 +0000" stop="20250819215500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250819215500 +0000" stop="20250819220000 +0000" channel="Cartoonito.skyde">
+<programme start="20250819215500 +0000" stop="20250819220500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250818224000 +0000" stop="20250818232500 +0000" channel="Crime + Investigation.skyde">
@@ -1396,40 +1396,40 @@
 <programme start="20250819215000 +0000" stop="20250819223500 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
-<programme start="20250818220000 +0000" stop="20250818222500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818220000 +0000" stop="20250818222000 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250818222500 +0000" stop="20250818224500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818222000 +0000" stop="20250818224000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250818224500 +0000" stop="20250818231000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818224000 +0000" stop="20250818230500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818231000 +0000" stop="20250818233000 +0000" channel="Nick Jr..skyde">
+<programme start="20250818230500 +0000" stop="20250818233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250818233000 +0000" stop="20250818235500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818233000 +0000" stop="20250818235000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250818235500 +0000" stop="20250819001500 +0000" channel="Nick Jr..skyde">
+<programme start="20250818235000 +0000" stop="20250819001500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250819001500 +0000" stop="20250819004000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819001500 +0000" stop="20250819003500 +0000" channel="Nick Jr..skyde">
     <title>Paddingtons Abenteuer</title>
 </programme>
-<programme start="20250819004000 +0000" stop="20250819010000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819003500 +0000" stop="20250819010000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250819010000 +0000" stop="20250819012500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819010000 +0000" stop="20250819012000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250819012500 +0000" stop="20250819014500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819012000 +0000" stop="20250819014500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250819014500 +0000" stop="20250819021000 +0000" channel="Nick Jr..skyde">
+<programme start="20250819014500 +0000" stop="20250819020500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20250819021000 +0000" stop="20250819021500 +0000" channel="Nick Jr..skyde">
+<programme start="20250819020500 +0000" stop="20250819021500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250819021500 +0000" stop="20250819022000 +0000" channel="Nick Jr..skyde">
@@ -2797,13 +2797,13 @@
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250819185000 +0000" stop="20250819213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250819185000 +0000" stop="20250819210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Rangers FC - Club Brügge, Playoff Hinspiele, Dienstag</title>
 </programme>
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250819185000 +0000" stop="20250819213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250819185000 +0000" stop="20250819210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Roter Stern Belgrad - FC Pafos, Playoff Hinspiele, Dienstag</title>
 </programme>
 <programme start="20250819183000 +0000" stop="20250819185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3763,10 +3763,10 @@
 <programme start="20250819040000 +0000" stop="20250819052500 +0000" channel="Warner TV Film.skyde">
     <title>Der Wachsblumenstrauß</title>
 </programme>
-<programme start="20250819052500 +0000" stop="20250819072000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819052500 +0000" stop="20250819071500 +0000" channel="Warner TV Film.skyde">
     <title>New York Für Anfänger</title>
 </programme>
-<programme start="20250819072000 +0000" stop="20250819091500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819071500 +0000" stop="20250819091500 +0000" channel="Warner TV Film.skyde">
     <title>Die Goonies</title>
 </programme>
 <programme start="20250819091500 +0000" stop="20250819110000 +0000" channel="Warner TV Film.skyde">
@@ -3787,7 +3787,7 @@
 <programme start="20250819181500 +0000" stop="20250819200500 +0000" channel="Warner TV Film.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20250819200500 +0000" stop="20250819220000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250819200500 +0000" stop="20250819220500 +0000" channel="Warner TV Film.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20250818234000 +0000" stop="20250819013000 +0000" channel="Warner TV Film HD.skyde">
@@ -3799,10 +3799,10 @@
 <programme start="20250819040000 +0000" stop="20250819052500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Wachsblumenstrauß</title>
 </programme>
-<programme start="20250819052500 +0000" stop="20250819072000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819052500 +0000" stop="20250819071500 +0000" channel="Warner TV Film HD.skyde">
     <title>New York Für Anfänger</title>
 </programme>
-<programme start="20250819072000 +0000" stop="20250819091500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819071500 +0000" stop="20250819091500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Goonies</title>
 </programme>
 <programme start="20250819091500 +0000" stop="20250819110000 +0000" channel="Warner TV Film HD.skyde">
@@ -3823,16 +3823,16 @@
 <programme start="20250819181500 +0000" stop="20250819200500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20250819200500 +0000" stop="20250819220000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250819200500 +0000" stop="20250819220500 +0000" channel="Warner TV Film HD.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
 <programme start="20250818232000 +0000" stop="20250819000000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250819000000 +0000" stop="20250819004000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819000000 +0000" stop="20250819004500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250819004000 +0000" stop="20250819012500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819004500 +0000" stop="20250819012500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rescue: HI-Surf</title>
 </programme>
 <programme start="20250819012500 +0000" stop="20250819021000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3850,10 +3850,10 @@
 <programme start="20250819024000 +0000" stop="20250819033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250819033000 +0000" stop="20250819042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819033000 +0000" stop="20250819041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250819042500 +0000" stop="20250819051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819041500 +0000" stop="20250819051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250819051500 +0000" stop="20250819060500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3874,10 +3874,10 @@
 <programme start="20250819092500 +0000" stop="20250819101500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250819101500 +0000" stop="20250819110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819101500 +0000" stop="20250819111000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250819110500 +0000" stop="20250819120000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819111000 +0000" stop="20250819120000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250819120000 +0000" stop="20250819125000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3898,10 +3898,10 @@
 <programme start="20250819155500 +0000" stop="20250819164000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20250819164000 +0000" stop="20250819173000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819164000 +0000" stop="20250819172500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20250819173000 +0000" stop="20250819181500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819172500 +0000" stop="20250819181500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
 <programme start="20250819181500 +0000" stop="20250819190000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3910,12 +3910,12 @@
 <programme start="20250819190000 +0000" stop="20250819194500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250819194500 +0000" stop="20250819203000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819194500 +0000" stop="20250819203500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
 </programme>
-<programme start="20250819203000 +0000" stop="20250819211500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819203500 +0000" stop="20250819212000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20250819211500 +0000" stop="20250819220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250819212000 +0000" stop="20250819221000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
