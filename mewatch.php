@@ -1039,10 +1039,10 @@
     <programme start="20250819113000 +0000" stop="20250819123400 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 19th August, Tuesday 8.34pm. ASEAN MSIG Serenity Cup™ 2025</title>
     </programme>
-    <programme start="20250819123400 +0000" stop="20250819150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250819123400 +0000" stop="20250819153000 +0000" channel="Live 5.mewatch">
         <title>ASEAN MSIG Serenity Cup™ 2025: Australia vs Myanmar</title>
     </programme>
-    <programme start="20250819150000 +0000" stop="20250819160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250819153000 +0000" stop="20250819160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 20th August, Wednesday 7pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20250819160000 +0000" stop="20250820110000 +0000" channel="Live 5.mewatch">
