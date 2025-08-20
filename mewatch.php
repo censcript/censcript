@@ -613,98 +613,89 @@
     <programme start="20250819140000 +0000" stop="20250819164500 +0000" channel="now-80s.mewatch">
         <title>Colours Of The Rainbow...And More! - EP1</title>
     </programme>
-    <programme start="20250819164500 +0000" stop="20250819170000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies! - EP1</title>
+    <programme start="20250819170000 +0000" stop="20250819191500 +0000" channel="now-80s.mewatch">
+        <title>50 Girls In Love - In The 80s - EP1</title>
     </programme>
-    <programme start="20250819170000 +0000" stop="20250819192000 +0000" channel="now-80s.mewatch">
-        <title>Mike Read&#039;s Superstore Of Hits! - EP1</title>
-    </programme>
-    <programme start="20250819192000 +0000" stop="20250819200000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies! - EP1</title>
+    <programme start="20250819191500 +0000" stop="20250819200000 +0000" channel="now-80s.mewatch">
+        <title>Long Hot Summer! - EP1</title>
     </programme>
     <programme start="20250819200000 +0000" stop="20250819220000 +0000" channel="now-80s.mewatch">
-        <title>Colours Of The Rainbow...And More! - EP1</title>
+        <title>Jenny Powell: Around The World! - EP1</title>
     </programme>
-    <programme start="20250819220000 +0000" stop="20250820000000 +0000" channel="now-80s.mewatch">
-        <title>The Best 1989 Party - Ever! - EP1</title>
+    <programme start="20250819220000 +0000" stop="20250820023500 +0000" channel="now-80s.mewatch">
+        <title>60 Summer Sizzlers! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250820000000 +0000" stop="20250820025000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1989 - EP1</title>
+    <programme start="20250820023500 +0000" stop="20250820030000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
     </programme>
-    <programme start="20250820025000 +0000" stop="20250820030000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20250820030000 +0000" stop="20250820050000 +0000" channel="now-80s.mewatch">
+        <title>Karaoke For Your Kids! Top 25 - EP1</title>
     </programme>
-    <programme start="20250820030000 +0000" stop="20250820033500 +0000" channel="now-80s.mewatch">
-        <title>Every Video From Like A Prayer! - EP1</title>
-    </programme>
-    <programme start="20250820033500 +0000" stop="20250820050000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
-    </programme>
-    <programme start="20250820050000 +0000" stop="20250820060000 +0000" channel="now-80s.mewatch">
-        <title>Simon Bates Golden Hour: 1989 - EP1</title>
-    </programme>
-    <programme start="20250820060000 +0000" stop="20250820070000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1989 - EP1</title>
-    </programme>
-    <programme start="20250820070000 +0000" stop="20250820080000 +0000" channel="now-80s.mewatch">
-        <title>Who Won Wot In 1989? - EP1</title>
-    </programme>
-    <programme start="20250820080000 +0000" stop="20250820090000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
-    </programme>
-    <programme start="20250820090000 +0000" stop="20250820093000 +0000" channel="now-80s.mewatch">
-        <title>1989&#039;s One-Hit-Wonders! Top 12 - EP1</title>
-    </programme>
-    <programme start="20250820093000 +0000" stop="20250820103000 +0000" channel="now-80s.mewatch">
+    <programme start="20250820050000 +0000" stop="20250820082000 +0000" channel="now-80s.mewatch">
         <title>Mike Read&#039;s Superstore Of Hits! - EP1</title>
     </programme>
-    <programme start="20250820103000 +0000" stop="20250820130000 +0000" channel="now-80s.mewatch">
-        <title>Every Song From Now 16 - 1989 - EP1</title>
+    <programme start="20250820082000 +0000" stop="20250820090000 +0000" channel="now-80s.mewatch">
+        <title>We Love Cheesy Pop Day! - EP1</title>
     </programme>
-    <programme start="20250820130000 +0000" stop="20250820140000 +0000" channel="now-80s.mewatch">
-        <title>All Day - It&#039;s 1989! - EP1</title>
+    <programme start="20250820090000 +0000" stop="20250820103000 +0000" channel="now-80s.mewatch">
+        <title>Stock Aitken Waterman In The 80s! - EP1</title>
     </programme>
-    <programme start="20250820140000 +0000" stop="20250820165000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1989 - EP1</title>
+    <programme start="20250820103000 +0000" stop="20250820110000 +0000" channel="now-80s.mewatch">
+        <title>Cheesy Pop Night! - EP1</title>
     </programme>
-    <programme start="20250819160000 +0000" stop="20250819162500 +0000" channel="now-70s.mewatch">
+    <programme start="20250820110000 +0000" stop="20250820165000 +0000" channel="now-80s.mewatch">
+        <title>80s Easy Cheesy! Top 60 - EP1</title>
+    </programme>
+    <programme start="20250819160000 +0000" stop="20250819210000 +0000" channel="now-70s.mewatch">
+        <title>Sing It Loud! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20250819210000 +0000" stop="20250819234500 +0000" channel="now-70s.mewatch">
+        <title>Shake Your Groove Thing! Top 40 - EP1</title>
+    </programme>
+    <programme start="20250819234500 +0000" stop="20250820000000 +0000" channel="now-70s.mewatch">
+        <title>Disco Fever! - EP1</title>
+    </programme>
+    <programme start="20250820000000 +0000" stop="20250820010000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1970 - EP1</title>
+    </programme>
+    <programme start="20250820010000 +0000" stop="20250820020000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1971 - EP1</title>
+    </programme>
+    <programme start="20250820020000 +0000" stop="20250820030000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1972 - EP1</title>
+    </programme>
+    <programme start="20250820030000 +0000" stop="20250820040000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1973 - EP1</title>
+    </programme>
+    <programme start="20250820040000 +0000" stop="20250820050000 +0000" channel="now-70s.mewatch">
         <title>Simon Bates New Golden Hour: 1974 - EP1</title>
     </programme>
-    <programme start="20250819162500 +0000" stop="20250819195000 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
+    <programme start="20250820050000 +0000" stop="20250820060000 +0000" channel="now-70s.mewatch">
+        <title>1974 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250819195000 +0000" stop="20250819202500 +0000" channel="now-70s.mewatch">
-        <title>Punk &amp; Disorderly! - EP1</title>
+    <programme start="20250820060000 +0000" stop="20250820070000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1975 - EP1</title>
     </programme>
-    <programme start="20250819202500 +0000" stop="20250819210000 +0000" channel="now-70s.mewatch">
-        <title>1970s Glastonbury Headliners! - EP1</title>
+    <programme start="20250820070000 +0000" stop="20250820080000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1976 - EP1</title>
     </programme>
-    <programme start="20250819210000 +0000" stop="20250819230500 +0000" channel="now-70s.mewatch">
-        <title>Antiques Rockshow With Robin Banks - EP1</title>
+    <programme start="20250820080000 +0000" stop="20250820090000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates Golden Hour: 1977 - EP1</title>
     </programme>
-    <programme start="20250819230500 +0000" stop="20250820000000 +0000" channel="now-70s.mewatch">
-        <title>Power Pop Day! - EP1</title>
+    <programme start="20250820090000 +0000" stop="20250820100000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates New Golden Hour: 1978 - EP1</title>
     </programme>
-    <programme start="20250820000000 +0000" stop="20250820093000 +0000" channel="now-70s.mewatch">
-        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
+    <programme start="20250820100000 +0000" stop="20250820110000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250820093000 +0000" stop="20250820095500 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates New Golden Hour: 1974 - EP1</title>
+    <programme start="20250820110000 +0000" stop="20250820130000 +0000" channel="now-70s.mewatch">
+        <title>Rick Wakeman&#039;s Wild Things! - EP1</title>
     </programme>
-    <programme start="20250820095500 +0000" stop="20250820103000 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
+    <programme start="20250820130000 +0000" stop="20250820140000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock - More Than A Feeling! - EP1</title>
     </programme>
-    <programme start="20250820103000 +0000" stop="20250820131000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>
-    </programme>
-    <programme start="20250820131000 +0000" stop="20250820140000 +0000" channel="now-70s.mewatch">
-        <title>Groovy Little Numbers! - EP1</title>
-    </programme>
-    <programme start="20250820140000 +0000" stop="20250820152500 +0000" channel="now-70s.mewatch">
-        <title>The Best 1969 Party - Ever! - EP1</title>
-    </programme>
-    <programme start="20250820152500 +0000" stop="20250820160000 +0000" channel="now-70s.mewatch">
-        <title>Far Out, Man! - EP1</title>
+    <programme start="20250820140000 +0000" stop="20250820160000 +0000" channel="now-70s.mewatch">
+        <title>Is This Really How They Started?! - EP1</title>
     </programme>
     <programme start="20250820160000 +0000" stop="20250820183500 +0000" channel="now-70s.mewatch">
         <title>Pat Sharp&#039;s 40 Guilty Pleasures! - EP1</title>

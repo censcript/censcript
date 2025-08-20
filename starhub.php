@@ -5257,10 +5257,13 @@
     <programme start="20250819210000 +0000" stop="20250819213000 +0000" channel="SPOTV.starhub">
         <title>Ep3 Dubrovnik</title>
     </programme>
-    <programme start="20250819213000 +0000" stop="20250820015500 +0000" channel="SPOTV.starhub">
+    <programme start="20250819213000 +0000" stop="20250820013000 +0000" channel="SPOTV.starhub">
         <title>Day 2 Session 2</title>
     </programme>
-    <programme start="20250820015500 +0000" stop="20250820040000 +0000" channel="SPOTV.starhub">
+    <programme start="20250820013000 +0000" stop="20250820015000 +0000" channel="SPOTV.starhub">
+        <title>Ep4 Lago Maggiore</title>
+    </programme>
+    <programme start="20250820015000 +0000" stop="20250820040000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
     <programme start="20250820040000 +0000" stop="20250820083000 +0000" channel="SPOTV.starhub">

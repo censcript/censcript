@@ -1002,7 +1002,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Ligue 1 Highlightshow 2025/26: 1. Spieltag</title>
 </programme>
 <programme start="20250820183500 +0000" stop="20250820184500 +0000" channel="DAZN 1 HD.skyde">
-    <title>UCL Warm Up: UEFA Champions League Highlights (Nur in DE verfügbar)</title>
+    <title>UCL Warm Up: UEFA Champions League Highlights</title>
 </programme>
 <programme start="20250820184500 +0000" stop="20250820210000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: FC Basel 1893 - FC Kopenhagen</title>
@@ -1044,7 +1044,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>3. Liga Highlightshow 2025/26: 2. Spieltag</title>
 </programme>
 <programme start="20250820183500 +0000" stop="20250820184500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UCL Warm Up: UEFA Champions League Highlights (Nur in DE verfügbar)</title>
+    <title>UCL Warm Up: UEFA Champions League Highlights</title>
 </programme>
 <programme start="20250820184500 +0000" stop="20250820210000 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Champions League 25/26: Fenerbahçe SK - Benfica Lissabon</title>
@@ -1442,28 +1442,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820041000 +0000" stop="20250820041500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250820041500 +0000" stop="20250820042000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820041500 +0000" stop="20250820042500 +0000" channel="Nick Jr..skyde">
     <title>Anna und ihre Freunde</title>
 </programme>
-<programme start="20250820042000 +0000" stop="20250820043000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820042500 +0000" stop="20250820043000 +0000" channel="Nick Jr..skyde">
     <title>Anna und ihre Freunde</title>
 </programme>
 <programme start="20250820043000 +0000" stop="20250820045000 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250820045000 +0000" stop="20250820050000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820045000 +0000" stop="20250820050500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250820050000 +0000" stop="20250820052500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820050500 +0000" stop="20250820052500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250820052500 +0000" stop="20250820054500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820052500 +0000" stop="20250820055000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20250820054500 +0000" stop="20250820061000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820055000 +0000" stop="20250820060500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250820061000 +0000" stop="20250820063000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820060500 +0000" stop="20250820063000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20250820063000 +0000" stop="20250820064000 +0000" channel="Nick Jr..skyde">
@@ -1478,10 +1478,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820073000 +0000" stop="20250820075000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250820075000 +0000" stop="20250820081000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820075000 +0000" stop="20250820081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250820081000 +0000" stop="20250820082000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820081500 +0000" stop="20250820082000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250820082000 +0000" stop="20250820082500 +0000" channel="Nick Jr..skyde">
@@ -1556,79 +1556,79 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820141000 +0000" stop="20250820141500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250820141500 +0000" stop="20250820142000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820141500 +0000" stop="20250820142500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250820142000 +0000" stop="20250820143000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820142500 +0000" stop="20250820143000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
 <programme start="20250820143000 +0000" stop="20250820145000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250820145000 +0000" stop="20250820150000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820145000 +0000" stop="20250820150500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250820150000 +0000" stop="20250820152000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820150500 +0000" stop="20250820152500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250820152000 +0000" stop="20250820153000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820152500 +0000" stop="20250820153500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250820153000 +0000" stop="20250820155500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820153500 +0000" stop="20250820160000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250820155500 +0000" stop="20250820162000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820160000 +0000" stop="20250820162000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20250820162000 +0000" stop="20250820164000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250820164000 +0000" stop="20250820170000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820164000 +0000" stop="20250820170500 +0000" channel="Nick Jr..skyde">
     <title>Tiny Chef</title>
 </programme>
-<programme start="20250820170000 +0000" stop="20250820172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820170500 +0000" stop="20250820172500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250820172500 +0000" stop="20250820174500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820172500 +0000" stop="20250820175000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20250820174500 +0000" stop="20250820181000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820175000 +0000" stop="20250820181000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250820181000 +0000" stop="20250820183000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820181000 +0000" stop="20250820183500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250820183000 +0000" stop="20250820184000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820183500 +0000" stop="20250820184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250820184000 +0000" stop="20250820190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820184500 +0000" stop="20250820191000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250820190500 +0000" stop="20250820193000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820191000 +0000" stop="20250820193000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250820193000 +0000" stop="20250820195000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820193000 +0000" stop="20250820195500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250820195000 +0000" stop="20250820201000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820195500 +0000" stop="20250820201500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250820201000 +0000" stop="20250820202000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820201500 +0000" stop="20250820202500 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250820202000 +0000" stop="20250820202500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820202500 +0000" stop="20250820203000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20250820202500 +0000" stop="20250820203500 +0000" channel="Nick Jr..skyde">
+<programme start="20250820203000 +0000" stop="20250820204000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
-</programme>
-<programme start="20250820203500 +0000" stop="20250820204000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20250820204000 +0000" stop="20250820204500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250820204500 +0000" stop="20250820205000 +0000" channel="Nick Jr..skyde">
+<programme start="20250820204500 +0000" stop="20250820204600 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20250820204600 +0000" stop="20250820205000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250820205000 +0000" stop="20250820205500 +0000" channel="Nick Jr..skyde">
@@ -2681,34 +2681,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820050000 +0000" stop="20250820051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250820051500 +0000" stop="20250820054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820051500 +0000" stop="20250820055000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20250820054500 +0000" stop="20250820060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820055000 +0000" stop="20250820060500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250820060000 +0000" stop="20250820063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820060500 +0000" stop="20250820063500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: ASK - FAK, 3. Runde</title>
 </programme>
-<programme start="20250820063000 +0000" stop="20250820064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820063500 +0000" stop="20250820065000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250820064500 +0000" stop="20250820065500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820065000 +0000" stop="20250820070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: SVR - STU, 3. Runde</title>
 </programme>
-<programme start="20250820065500 +0000" stop="20250820072500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820070000 +0000" stop="20250820073500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20250820072500 +0000" stop="20250820074000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820073500 +0000" stop="20250820075000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250820074000 +0000" stop="20250820094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820075000 +0000" stop="20250820094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Rangers FC - Club Brügge, Playoff Hinspiele, Dienstag</title>
 </programme>
-<programme start="20250820094000 +0000" stop="20250820095000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Pitchside: SVR - STU, 3. Runde</title>
-</programme>
-<programme start="20250820095000 +0000" stop="20250820101000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820094500 +0000" stop="20250820101000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Bundesliga Classic: Admira - Salzburg (2012/2013)</title>
 </programme>
 <programme start="20250820101000 +0000" stop="20250820103500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2717,22 +2714,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820103500 +0000" stop="20250820105000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250820105000 +0000" stop="20250820112000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820105000 +0000" stop="20250820113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20250820112000 +0000" stop="20250820123500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820113000 +0000" stop="20250820124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250820123500 +0000" stop="20250820143500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820124500 +0000" stop="20250820144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Rangers FC - Club Brügge, Playoff Hinspiele, Dienstag</title>
 </programme>
-<programme start="20250820143500 +0000" stop="20250820150500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820144500 +0000" stop="20250820151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: ASK - FAK, 3. Runde</title>
 </programme>
-<programme start="20250820150500 +0000" stop="20250820152000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
-</programme>
-<programme start="20250820152000 +0000" stop="20250820155000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250820151500 +0000" stop="20250820155000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
 <programme start="20250820155000 +0000" stop="20250820160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2762,25 +2756,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820183000 +0000" stop="20250820185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250820185000 +0000" stop="20250820210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250820185000 +0000" stop="20250820213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Fenerbahce Istanbul - Benfica Lissabon, Playoff Hinspiele, Mittwoch</title>
 </programme>
 <programme start="20250820183000 +0000" stop="20250820185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250820185000 +0000" stop="20250820210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250820185000 +0000" stop="20250820213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Basel 1893 - FC Kopenhagen, Playoff Hinspiele, Mittwoch</title>
 </programme>
 <programme start="20250820183000 +0000" stop="20250820185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250820185000 +0000" stop="20250820210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250820185000 +0000" stop="20250820213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Celtic Glasgow - FC Kairat Almaty, Playoff Hinspiele, Mittwoch</title>
 </programme>
 <programme start="20250820174000 +0000" stop="20250820180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250820180000 +0000" stop="20250821023000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250820180000 +0000" stop="20250821080000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
 <programme start="20250819221500 +0000" stop="20250820001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3092,7 +3086,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820161500 +0000" stop="20250820163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20250820163000 +0000" stop="20250820183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250820163000 +0000" stop="20250820170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250820170000 +0000" stop="20250820173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - Der Bundesliga-Start: Die Verfolger</title>
+</programme>
+<programme start="20250820173000 +0000" stop="20250820183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250820183000 +0000" stop="20250820200000 +0000" channel="Sky Sport News HD.skyde">
@@ -3227,29 +3227,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820214500 +0000" stop="20250820220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Blackburn Rovers - Birmingham City, 2. Spieltag</title>
 </programme>
-<programme start="20250820023000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
+</programme>
+<programme start="20250820030000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250820033000 +0000" stop="20250820040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250820040000 +0000" stop="20250820060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
+    <title>ATP 250: S. Tsitsipas (GRE) - Y. Bu (CHN), Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
 </programme>
 <programme start="20250820060000 +0000" stop="20250820120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Mixed Doubles, Runde 1 &amp; 2</title>
 </programme>
-<programme start="20250820120000 +0000" stop="20250820123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20250820120000 +0000" stop="20250820143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
-<programme start="20250820123000 +0000" stop="20250820133000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250820143000 +0000" stop="20250820153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250820133000 +0000" stop="20250820153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Abierto GNP Securos in Monterrey (MEX), 2. Tag</title>
-</programme>
 <programme start="20250820153000 +0000" stop="20250820173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
+    <title>ATP 250: S. Tsitsipas (GRE) - Y. Bu (CHN), Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
 </programme>
 <programme start="20250820173000 +0000" stop="20250820180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3257,7 +3257,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820180000 +0000" stop="20250820230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
-<programme start="20250820023000 +0000" stop="20250820033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
+</programme>
+<programme start="20250820030000 +0000" stop="20250820033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250820033000 +0000" stop="20250820043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3338,7 +3341,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820174000 +0000" stop="20250820180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
-<programme start="20250820180000 +0000" stop="20250821023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250820180000 +0000" stop="20250821080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
 <programme start="20250819222500 +0000" stop="20250819225000 +0000" channel="SYFY HD.skyde">

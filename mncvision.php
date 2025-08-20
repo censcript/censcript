@@ -8398,10 +8398,10 @@
 <programme start="20250819210000 +0000" stop="20250819213000 +0000" channel="SPOTV.mncvision">
     <title>UIM E1: Champions Of Water</title>
 </programme>
-<programme start="20250819213000 +0000" stop="20250820015500 +0000" channel="SPOTV.mncvision">
+<programme start="20250819213000 +0000" stop="20250820015000 +0000" channel="SPOTV.mncvision">
     <title>WTT Europe Smash Sweden &#039;25</title>
 </programme>
-<programme start="20250820015500 +0000" stop="20250820040000 +0000" channel="SPOTV.mncvision">
+<programme start="20250820015000 +0000" stop="20250820040000 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge Europe &#039;25</title>
 </programme>
 <programme start="20250820040000 +0000" stop="20250820083000 +0000" channel="SPOTV.mncvision">
@@ -8417,7 +8417,7 @@
     <title>WTT Europe Smash Sweden (L)</title>
 </programme>
 <programme start="20250820143000 +0000" stop="20250820150000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV Encore: Wimbledon 2025</title>
+    <title>SPOTV Encore: Wimbledon &#039;25</title>
 </programme>
 <programme start="20250820150000 +0000" stop="20250820160000 +0000" channel="SPOTV.mncvision">
     <title>UIM E1 World C&#039;ship 2025 HL</title>
@@ -8515,10 +8515,10 @@
 <programme start="20250819210000 +0000" stop="20250819213000 +0000" channel="SPOTV HD.mncvision">
     <title>UIM E1: Champions Of Water</title>
 </programme>
-<programme start="20250819213000 +0000" stop="20250820015500 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250819213000 +0000" stop="20250820015000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Europe Smash Sweden &#039;25</title>
 </programme>
-<programme start="20250820015500 +0000" stop="20250820040000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250820015000 +0000" stop="20250820040000 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge Europe &#039;25</title>
 </programme>
 <programme start="20250820040000 +0000" stop="20250820083000 +0000" channel="SPOTV HD.mncvision">
@@ -8534,7 +8534,7 @@
     <title>WTT Europe Smash Sweden (L)</title>
 </programme>
 <programme start="20250820143000 +0000" stop="20250820150000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV Encore: Wimbledon 2025</title>
+    <title>SPOTV Encore: Wimbledon &#039;25</title>
 </programme>
 <programme start="20250820150000 +0000" stop="20250820160000 +0000" channel="SPOTV HD.mncvision">
     <title>UIM E1 World C&#039;ship 2025 HL</title>
