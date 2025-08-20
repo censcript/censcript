@@ -78,8 +78,8 @@
     <title>UEL &amp; UECL Magazine 2024-25 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820204000 +0700" stop="20250820224500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - AS Roma</title>
+<programme start="20250821233000 +0700" stop="20250822000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820224500 +0700" stop="20250821005000 +0700" channel="COSMOTE Sport 2 HD">
@@ -132,6 +132,10 @@
 </programme>
 <programme start="20250821203500 +0700" stop="20250821233000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250821233000 +0700" stop="20250822000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820220000 +0700" stop="20250821000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -188,10 +192,6 @@
 </programme>
 <programme start="20250821220000 +0700" stop="20250822000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: CF Estrela de Amadora - SL Benfica</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250820201000 +0700" stop="20250820222500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Trapani - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820222500 +0700" stop="20250821003000 +0700" channel="COSMOTE Sport 4 HD">
@@ -354,8 +354,8 @@
     <title>WRC 2024</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820200000 +0700" stop="20250820224500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Mackenzie McDonald - Luciano Darderi</title>
+<programme start="20250821230000 +0700" stop="20250822000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820224500 +0700" stop="20250821003000 +0700" channel="COSMOTE Sport 6 HD">
