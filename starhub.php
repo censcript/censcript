@@ -2303,10 +2303,10 @@
         <title>ATP Classic Shorts (CC): Djokovic v Nadal 2016</title>
     </programme>
     <programme start="20250819223000 +0000" stop="20250820003000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 3 (Live)</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Tsitsipas v Bu (Live)</title>
     </programme>
     <programme start="20250820003000 +0000" stop="20250820023000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 4 (Live)</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Sonego v Dostanic (Live)</title>
     </programme>
     <programme start="20250820023000 +0000" stop="20250820024500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Classic Shorts (CC): Djokovic v Coric 2018</title>
@@ -2315,31 +2315,31 @@
         <title>ATP Classic Shorts (CC): Federer v Ljubicic 2006</title>
     </programme>
     <programme start="20250820030000 +0000" stop="20250820043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 2</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Darderi v McDonald</title>
     </programme>
     <programme start="20250820043000 +0000" stop="20250820053000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Cincinnati</title>
     </programme>
     <programme start="20250820053000 +0000" stop="20250820070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 1</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Griekspoor v Fucsovics</title>
     </programme>
     <programme start="20250820070000 +0000" stop="20250820073000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250820073000 +0000" stop="20250820090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 3</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Tsitsipas v Bu</title>
     </programme>
     <programme start="20250820090000 +0000" stop="20250820103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 4</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Sonego v Dostanic</title>
     </programme>
     <programme start="20250820103000 +0000" stop="20250820113000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Cincinnati</title>
     </programme>
     <programme start="20250820113000 +0000" stop="20250820130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem Day 3 Match 2</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Darderi v McDonald</title>
     </programme>
     <programme start="20250820130000 +0000" stop="20250820143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 1000 2025: Cincinnati Final</title>
+        <title>ATP Tour 250 2025: Winston-Salem Day 3 Tsitsipas v Bu</title>
     </programme>
     <programme start="20250820143000 +0000" stop="20250820153000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Cincinnati</title>
@@ -4915,7 +4915,7 @@
     <programme start="20250820150000 +0000" stop="20250820153000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
-    <programme start="20250820153000 +0000" stop="20250820160000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250820153000 +0000" stop="20250820161500 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
     </programme>
     <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="Asianet.starhub">
@@ -7808,10 +7808,10 @@
         <title>NRL Try Time</title>
     </programme>
     <programme start="20250820062000 +0000" stop="20250820081000 +0000" channel="Premier Sports.starhub">
-        <title>Rugby Championship South Africa v Australia</title>
+        <title>The Rugby Championship South Africa v Australia</title>
     </programme>
     <programme start="20250820081000 +0000" stop="20250820100000 +0000" channel="Premier Sports.starhub">
-        <title>Rugby Championship Argentina v New Zealand</title>
+        <title>The Rugby Championship Argentina v New Zealand</title>
     </programme>
     <programme start="20250820100000 +0000" stop="20250820110000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
@@ -8233,7 +8233,7 @@
     <programme start="20250819193000 +0000" stop="20250819220000 +0000" channel="Asianet Movies.starhub">
         <title>Dr. Love</title>
     </programme>
-    <programme start="20250819220000 +0000" stop="20250820013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250819230000 +0000" stop="20250820013000 +0000" channel="Asianet Movies.starhub">
         <title>Changathippoocha</title>
     </programme>
     <programme start="20250820013000 +0000" stop="20250820043000 +0000" channel="Asianet Movies.starhub">
