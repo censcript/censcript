@@ -3254,8 +3254,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820180000 +0000" stop="20250820230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
-<programme start="20250819221000 +0000" stop="20250820043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
+</programme>
+<programme start="20250820033000 +0000" stop="20250820043000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Golf: Highlights BMW Championship</title>
 </programme>
 <programme start="20250820043000 +0000" stop="20250820050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Motorsport: ERC - Highlights: Barum Czech Rally Zlin</title>

@@ -595,9 +595,6 @@
 <programme start="20250820154500 +0000" stop="20250820163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250820163000 +0000" stop="20250820171500 +0000" channel="Trans 7.vision">
-<title>Newstainment</title>
-</programme>
 <programme start="20250820171500 +0000" stop="20250820174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -679,23 +676,8 @@
 <programme start="20250820060000 +0000" stop="20250820083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250820083000 +0000" stop="20250820120000 +0000" channel="ANTV.vision">
-<title>Krrish</title>
-</programme>
 <programme start="20250820120000 +0000" stop="20250820140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250820140000 +0000" stop="20250820160000 +0000" channel="ANTV.vision">
-<title>Si Jalu: Dua Pendekar Putih</title>
-</programme>
-<programme start="20250820160000 +0000" stop="20250820180000 +0000" channel="ANTV.vision">
-<title>The Happy Ghost</title>
-</programme>
-<programme start="20250820180000 +0000" stop="20250820193000 +0000" channel="ANTV.vision">
-<title>Anna In Kungfu Land</title>
-</programme>
-<programme start="20250820193000 +0000" stop="20250820203000 +0000" channel="ANTV.vision">
-<title>102 Bangkok Robbery</title>
 </programme>
 <programme start="20250820203000 +0000" stop="20250820220000 +0000" channel="ANTV.vision">
 <title>Pembalasan Roh Gentayangan</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250821040000 +0000" stop="20250821050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20250821050000 +0000" stop="20250821053000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20250821053000 +0000" stop="20250821063000 +0000" channel="BTV.vision">
+<title>Swaragini</title>
+</programme>
+<programme start="20250821063000 +0000" stop="20250821070000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20250821070000 +0000" stop="20250821080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250821080000 +0000" stop="20250821090000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
+</programme>
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
 </programme>
