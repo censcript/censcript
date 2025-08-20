@@ -2281,8 +2281,8 @@
     <programme start="20250820133000 +0000" stop="20250820170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thiruda Thirudi</title>
     </programme>
-    <programme start="20250819143000 +0000" stop="20250819170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Toronto Final Shelton v Khachanov</title>
+    <programme start="20250819160000 +0000" stop="20250819170000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Acapulco</title>
     </programme>
     <programme start="20250819170000 +0000" stop="20250819183000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Stuttgart Day 3 Rinderknech v Fucsovics</title>
@@ -2294,7 +2294,7 @@
         <title>UEFA Champions League 2025/26: Crvena Zvezda vs Pafos - Play-Offs,1st Leg (Live)</title>
     </programme>
     <programme start="20250819210000 +0000" stop="20250819220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025 [Join in Progress]: Winston-Salem Day 3 Match 2 (Live)</title>
+        <title>ATP Tour 250 2025 [Join in Progress]: Winston-Salem Day 3 Darderi v McDonald (Li</title>
     </programme>
     <programme start="20250819220000 +0000" stop="20250819221500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Classic Shorts (CC): Murray v Raonic 2016</title>
@@ -8230,11 +8230,17 @@
     <programme start="20250819133000 +0000" stop="20250819163000 +0000" channel="Asianet Movies.starhub">
         <title>ARM</title>
     </programme>
-    <programme start="20250819163000 +0000" stop="20250819193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250819163000 +0000" stop="20250819190500 +0000" channel="Asianet Movies.starhub">
         <title>Aravindhante Athidhikal</title>
     </programme>
-    <programme start="20250819193000 +0000" stop="20250819220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250819190500 +0000" stop="20250819220000 +0000" channel="Asianet Movies.starhub">
         <title>Dr. Love</title>
+    </programme>
+    <programme start="20250819220000 +0000" stop="20250819223000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika Ii : No Season</title>
+    </programme>
+    <programme start="20250819223000 +0000" stop="20250819230000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika Ii : No Season</title>
     </programme>
     <programme start="20250819230000 +0000" stop="20250820013000 +0000" channel="Asianet Movies.starhub">
         <title>Changathippoocha</title>
