@@ -74,6 +74,10 @@
     <title>Football: Panathinaikos - Samsunspor (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250822030000 +0700" stop="20250822040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PostGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250821020000 +0700" stop="20250821040000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Fenerbahce SK - SL Benfica (L)</title>
     <desc>Live: Ya</desc>
@@ -128,6 +132,10 @@
 </programme>
 <programme start="20250822010000 +0700" stop="20250822030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Anderlecht - AEK (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250822030000 +0700" stop="20250822040000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250821020000 +0700" stop="20250821040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,12 +194,8 @@
     <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821003000 +0700" stop="20250821023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250821023000 +0700" stop="20250821030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20250822030000 +0700" stop="20250822050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Atletico Mineiro - Godoy Cruz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821030000 +0700" stop="20250821051500 +0700" channel="COSMOTE Sport 4 HD">
@@ -252,6 +256,10 @@
 </programme>
 <programme start="20250822024000 +0700" stop="20250822031000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250822031000 +0700" stop="20250822051000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Virtus Bologna - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821020000 +0700" stop="20250821033000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,10 +358,6 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821010000 +0700" stop="20250821030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Kamil Majchrzak - Sebastian Korda (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250821030000 +0700" stop="20250821053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Gabriel Diallo - Hamad Madjedovic (L)</title>
     <desc>Live: Ya</desc>
@@ -407,6 +411,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250822010000 +0700" stop="20250822030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250822030000 +0700" stop="20250822053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
