@@ -4699,23 +4699,26 @@
     <programme start="20250819190000 +0000" stop="20250819220000 +0000" channel="Zee Cinema.starhub">
         <title>Kedarnath</title>
     </programme>
-    <programme start="20250819220000 +0000" stop="20250820010000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250819213000 +0000" stop="20250820003000 +0000" channel="Zee Cinema.starhub">
         <title>Krrish 3</title>
     </programme>
-    <programme start="20250820010000 +0000" stop="20250820040000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820003000 +0000" stop="20250820033000 +0000" channel="Zee Cinema.starhub">
         <title>Shaadi Mein Zaroor Aana</title>
     </programme>
-    <programme start="20250820040000 +0000" stop="20250820070000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820033000 +0000" stop="20250820063000 +0000" channel="Zee Cinema.starhub">
         <title>Double Dhamaal</title>
     </programme>
-    <programme start="20250820070000 +0000" stop="20250820100000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820063000 +0000" stop="20250820093000 +0000" channel="Zee Cinema.starhub">
         <title>Agent Vinod</title>
     </programme>
-    <programme start="20250820100000 +0000" stop="20250820130000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820093000 +0000" stop="20250820123000 +0000" channel="Zee Cinema.starhub">
         <title>Toofaan</title>
     </programme>
-    <programme start="20250820130000 +0000" stop="20250820160000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820123000 +0000" stop="20250820153000 +0000" channel="Zee Cinema.starhub">
         <title>Dono</title>
+    </programme>
+    <programme start="20250820153000 +0000" stop="20250820183000 +0000" channel="Zee Cinema.starhub">
+        <title>Shaadi Mein Zaroor Aana</title>
     </programme>
     <programme start="20250819155000 +0000" stop="20250819164000 +0000" channel="Citra Entertainment.starhub">
         <title>TERCYDUCK 2025</title>
@@ -8482,7 +8485,7 @@
     <programme start="20250820144300 +0000" stop="20250820150800 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250820150800 +0000" stop="20250820170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250820150800 +0000" stop="20250820172800 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20250819160000 +0000" stop="20250819163000 +0000" channel="Travelxp HD.starhub">

@@ -8455,11 +8455,17 @@
 <programme start="20250820060000 +0000" stop="20250820063000 +0000" channel="SPOTV 2.mncvision">
     <title>WorldSBK Rewind: Hungarian</title>
 </programme>
-<programme start="20250820063000 +0000" stop="20250820103000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250820063000 +0000" stop="20250820093000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Mixed Doubles</title>
 </programme>
-<programme start="20250820103000 +0000" stop="20250820143000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250820093000 +0000" stop="20250820122000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Mixed Doubles</title>
+</programme>
+<programme start="20250820122000 +0000" stop="20250820132000 +0000" channel="SPOTV 2.mncvision">
+    <title>Formula E Driver, Ep 4</title>
+</programme>
+<programme start="20250820132000 +0000" stop="20250820143000 +0000" channel="SPOTV 2.mncvision">
+    <title>ipswich Super 440</title>
 </programme>
 <programme start="20250820143000 +0000" stop="20250820150000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP: Racing On The Edge</title>
@@ -8497,11 +8503,17 @@
 <programme start="20250820060000 +0000" stop="20250820063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WorldSBK Rewind: Hungarian</title>
 </programme>
-<programme start="20250820063000 +0000" stop="20250820103000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250820063000 +0000" stop="20250820093000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Mixed Doubles</title>
 </programme>
-<programme start="20250820103000 +0000" stop="20250820143000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250820093000 +0000" stop="20250820122000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Mixed Doubles</title>
+</programme>
+<programme start="20250820122000 +0000" stop="20250820132000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Formula E Driver, Ep 4</title>
+</programme>
+<programme start="20250820132000 +0000" stop="20250820143000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>ipswich Super 440</title>
 </programme>
 <programme start="20250820143000 +0000" stop="20250820150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SailGP: Racing On The Edge</title>
