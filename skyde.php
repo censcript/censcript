@@ -3227,11 +3227,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820214500 +0000" stop="20250820220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Blackburn Rovers - Birmingham City, 2. Spieltag</title>
 </programme>
-<programme start="20250819221000 +0000" stop="20250820030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
-</programme>
-<programme start="20250820030000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250820033000 +0000" stop="20250820040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3257,14 +3254,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820180000 +0000" stop="20250820230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
-<programme start="20250819221000 +0000" stop="20250820030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
-</programme>
-<programme start="20250820030000 +0000" stop="20250820033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Review Cincinnati</title>
-</programme>
-<programme start="20250820033000 +0000" stop="20250820043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Golf: Highlights BMW Championship</title>
 </programme>
 <programme start="20250820043000 +0000" stop="20250820050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Motorsport: ERC - Highlights: Barum Czech Rally Zlin</title>
@@ -3440,97 +3431,97 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820214000 +0000" stop="20250820222500 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
 </programme>
-<programme start="20250825220000 +0000" stop="20250825224000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250819220000 +0000" stop="20250819224500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250825224000 +0000" stop="20250825232500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250819224500 +0000" stop="20250819232500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250825232500 +0000" stop="20250826000500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250819232500 +0000" stop="20250820001000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250826000500 +0000" stop="20250826004500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820001000 +0000" stop="20250820005000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20250826004500 +0000" stop="20250826012500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820005000 +0000" stop="20250820013000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20250826012500 +0000" stop="20250826015500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820013000 +0000" stop="20250820020000 +0000" channel="Universal TV HD.skyde">
     <title>Men in Kilts - Die Schotten kommen</title>
 </programme>
-<programme start="20250826015500 +0000" stop="20250826023500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820020000 +0000" stop="20250820024000 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250826023500 +0000" stop="20250826032000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820024000 +0000" stop="20250820032500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250826032000 +0000" stop="20250826040500 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20250820032500 +0000" stop="20250820041000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826040500 +0000" stop="20250826045000 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20250820041000 +0000" stop="20250820050000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826045000 +0000" stop="20250826054000 +0000" channel="Universal TV HD.skyde">
-    <title>Dr. House</title>
+<programme start="20250820050000 +0000" stop="20250820054500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826054000 +0000" stop="20250826062500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820054500 +0000" stop="20250820063000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago P.D.</title>
 </programme>
-<programme start="20250826062500 +0000" stop="20250826071000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820063000 +0000" stop="20250820071500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago P.D.</title>
 </programme>
-<programme start="20250826071000 +0000" stop="20250826075500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820071500 +0000" stop="20250820080000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250826075500 +0000" stop="20250826084000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820080000 +0000" stop="20250820084500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250826084000 +0000" stop="20250826092500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820084500 +0000" stop="20250820093500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250826092500 +0000" stop="20250826102500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820093500 +0000" stop="20250820103500 +0000" channel="Universal TV HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20250826102500 +0000" stop="20250826112500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820103500 +0000" stop="20250820113000 +0000" channel="Universal TV HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20250826112500 +0000" stop="20250826121500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820113000 +0000" stop="20250820122000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826121500 +0000" stop="20250826130000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820122000 +0000" stop="20250820130500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826130000 +0000" stop="20250826134500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820130500 +0000" stop="20250820135000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826134500 +0000" stop="20250826145000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820135000 +0000" stop="20250820145000 +0000" channel="Universal TV HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20250826145000 +0000" stop="20250826155500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820145000 +0000" stop="20250820155500 +0000" channel="Universal TV HD.skyde">
     <title>Outlander</title>
 </programme>
-<programme start="20250826155500 +0000" stop="20250826164000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820155500 +0000" stop="20250820164500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250826164000 +0000" stop="20250826172500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820164500 +0000" stop="20250820173000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250826172500 +0000" stop="20250826181500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820173000 +0000" stop="20250820181500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250826181500 +0000" stop="20250826190000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820181500 +0000" stop="20250820190000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826190000 +0000" stop="20250826194500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820190000 +0000" stop="20250820194500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826194500 +0000" stop="20250826203000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820194500 +0000" stop="20250820203000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250826203000 +0000" stop="20250826211500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820203000 +0000" stop="20250820211500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago P.D.</title>
 </programme>
-<programme start="20250826211500 +0000" stop="20250826220000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250820211500 +0000" stop="20250820220000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago P.D.</title>
 </programme>
 <programme start="20250819221500 +0000" stop="20250819224000 +0000" channel="Warner TV Comedy HD.skyde">
