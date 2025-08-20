@@ -1,7 +1,3 @@
-<programme start="20250820143000 +0700" stop="20250820163000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Ferencvarosi TC - Qarabag FK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820163000 +0700" stop="20250820183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FK Crvena Zvezda - Pafos FC</title>
     <desc>Live: Tidak</desc>
@@ -134,6 +130,10 @@
     <title>Football: Bologna - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250821175000 +0700" stop="20250821200500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panionios - Iraklis</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250820160000 +0700" stop="20250820180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Nassr - Al Ittihad</title>
     <desc>Live: Tidak</desc>
@@ -196,10 +196,6 @@
 </programme>
 <programme start="20250821160000 +0700" stop="20250821180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Qadsiah - Al Ahli</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250820150000 +0700" stop="20250820170000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820170000 +0700" stop="20250820191000 +0700" channel="COSMOTE Sport 4 HD">

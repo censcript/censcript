@@ -4693,10 +4693,10 @@
     <programme start="20250820150000 +0000" stop="20250820160000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Tech</title>
     </programme>
-    <programme start="20250819160000 +0000" stop="20250819190000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250819160000 +0000" stop="20250819183000 +0000" channel="Zee Cinema.starhub">
         <title>Udta Punjab</title>
     </programme>
-    <programme start="20250819190000 +0000" stop="20250819220000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250819183000 +0000" stop="20250819213000 +0000" channel="Zee Cinema.starhub">
         <title>Kedarnath</title>
     </programme>
     <programme start="20250819213000 +0000" stop="20250820003000 +0000" channel="Zee Cinema.starhub">

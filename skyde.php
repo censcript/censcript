@@ -3227,10 +3227,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820214500 +0000" stop="20250820220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Blackburn Rovers - Birmingham City, 2. Spieltag</title>
 </programme>
-<programme start="20250819221000 +0000" stop="20250820023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
 </programme>
-<programme start="20250820023000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250820030000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250820033000 +0000" stop="20250820040000 +0000" channel="Sky Sport Tennis HD.skyde">
