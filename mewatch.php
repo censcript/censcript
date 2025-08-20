@@ -1021,10 +1021,10 @@
     <programme start="20250820160000 +0000" stop="20250821160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 22nd August, Friday 8.30pm. ONE Friday Fights 121</title>
     </programme>
-    <programme start="20250819160000 +0000" stop="20250820110000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 20th August, Wednesday 7pm. ASEAN Shopee Cup 2025/2026</title>
+    <programme start="20250819160000 +0000" stop="20250820103500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 20th August, Wednesday 6.35pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20250820110000 +0000" stop="20250820130000 +0000" channel="Live 5.mewatch">
+    <programme start="20250820103500 +0000" stop="20250820130000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Shopee Cup 2025/2026: Dynamic Herb Cebu FC vs BG Tampines Rovers FC</title>
     </programme>
     <programme start="20250820130000 +0000" stop="20250820160000 +0000" channel="Live 5.mewatch">
