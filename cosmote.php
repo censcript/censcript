@@ -1,7 +1,3 @@
-<programme start="20250820190000 +0700" stop="20250820210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Rangers FC - Club Brugge</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820210000 +0700" stop="20250820233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panionios - Iraklis (L)</title>
     <desc>Live: Ya</desc>
@@ -78,10 +74,6 @@
     <title>Football: Fenerbahce SK - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820194000 +0700" stop="20250820204000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2024-25 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820204000 +0700" stop="20250820224500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -137,10 +129,6 @@
 <programme start="20250821203500 +0700" stop="20250821233000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250820190000 +0700" stop="20250820210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al-Qadsiah - Al Ahli (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250820210000 +0700" stop="20250820213000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2024-25 - Highlights</title>
@@ -202,10 +190,6 @@
     <title>Football: Internacional - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820191000 +0700" stop="20250820201000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820201000 +0700" stop="20250820222500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trapani - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -262,8 +246,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820195500 +0700" stop="20250820210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250821210500 +0700" stop="20250821220000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820210000 +0700" stop="20250820213000 +0700" channel="COSMOTE Sport 5 HD">
