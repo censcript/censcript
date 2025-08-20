@@ -3227,22 +3227,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250820214500 +0000" stop="20250820220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Blackburn Rovers - Birmingham City, 2. Spieltag</title>
 </programme>
-<programme start="20250819221000 +0000" stop="20250820043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250819221000 +0000" stop="20250820030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
 </programme>
-<programme start="20250820043000 +0000" stop="20250820061500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: S. Tsitsipas (GRE) - Y. Bu (CHN), Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
-</programme>
-<programme start="20250820061500 +0000" stop="20250820121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Mixed Doubles, Runde 1 &amp; 2</title>
-</programme>
-<programme start="20250820121500 +0000" stop="20250820144500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
-</programme>
-<programme start="20250820144500 +0000" stop="20250820154500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250820030000 +0000" stop="20250820033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250820154500 +0000" stop="20250820173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250820033000 +0000" stop="20250820040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250820040000 +0000" stop="20250820060000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: S. Tsitsipas (GRE) - Y. Bu (CHN), Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
+</programme>
+<programme start="20250820060000 +0000" stop="20250820120000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Mixed Doubles, Runde 1 &amp; 2</title>
+</programme>
+<programme start="20250820120000 +0000" stop="20250820143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
+</programme>
+<programme start="20250820143000 +0000" stop="20250820153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Cincinnati</title>
+</programme>
+<programme start="20250820153000 +0000" stop="20250820173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: S. Tsitsipas (GRE) - Y. Bu (CHN), Winston-Salem Open in Winston-Salem, North Carolina (USA), 3. Tag</title>
 </programme>
 <programme start="20250820173000 +0000" stop="20250820180000 +0000" channel="Sky Sport Tennis HD.skyde">
