@@ -679,9 +679,6 @@
 <programme start="20250820120000 +0000" stop="20250820140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250820160000 +0000" stop="20250820180000 +0000" channel="ANTV.vision">
-<title>The Happy Ghost</title>
-</programme>
 <programme start="20250820180000 +0000" stop="20250820193000 +0000" channel="ANTV.vision">
 <title>Anna In Kungfu Land</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250821063000 +0000" stop="20250821070000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20250821070000 +0000" stop="20250821080000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
