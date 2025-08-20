@@ -8389,8 +8389,11 @@
     <programme start="20250820060000 +0000" stop="20250820063000 +0000" channel="SPOTV2.starhub">
         <title>WorldSBK 2025 Rewind: Rd8 Hungarian Round</title>
     </programme>
-    <programme start="20250820063000 +0000" stop="20250820143000 +0000" channel="SPOTV2.starhub">
-        <title>First Round &amp; Second Round (Arthur Ashe)</title>
+    <programme start="20250820063000 +0000" stop="20250820122000 +0000" channel="SPOTV2.starhub">
+        <title>First Round &amp; Second Round</title>
+    </programme>
+    <programme start="20250820122000 +0000" stop="20250820143000 +0000" channel="SPOTV2.starhub">
+        <title>MLB 2025: Regular Season San Diego Padres vs San Francisco Giants</title>
     </programme>
     <programme start="20250820143000 +0000" stop="20250820150000 +0000" channel="SPOTV2.starhub">
         <title>Season 5</title>

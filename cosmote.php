@@ -1,7 +1,3 @@
-<programme start="20250820113000 +0700" stop="20250820123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2024-25 E23</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820123000 +0700" stop="20250820143000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Rangers FC - Club Brugge</title>
     <desc>Live: Tidak</desc>
@@ -74,6 +70,10 @@
     <title>Football: Fenerbahce SK - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250821133000 +0700" stop="20250821153000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FK Crvena Zvezda - Pafos FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250820110000 +0700" stop="20250820131500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +128,10 @@
 </programme>
 <programme start="20250821110000 +0700" stop="20250821134500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250821134500 +0700" stop="20250821154500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - Monza</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820120000 +0700" stop="20250820140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,10 +198,6 @@
     <title>Football: Gil Vicente - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820100000 +0700" stop="20250820121000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Reyer Venezia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250820121000 +0700" stop="20250820150000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Stoiximan AegeanBall Festival</title>
     <desc>Live: Tidak</desc>
@@ -252,10 +252,6 @@
 </programme>
 <programme start="20250821121500 +0700" stop="20250821142000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Bahcesehir</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250820110500 +0700" stop="20250820121000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820121000 +0700" stop="20250820134500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +354,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250820100000 +0700" stop="20250820123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250821135000 +0700" stop="20250821142000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250820123000 +0700" stop="20250820140500 +0700" channel="COSMOTE Sport 6 HD">
