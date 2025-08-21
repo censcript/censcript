@@ -3253,10 +3253,10 @@
 <programme start="20250821210000 +0000" stop="20250821220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 1. Spieltag</title>
 </programme>
-<programme start="20250820230000 +0000" stop="20250821033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250820230000 +0000" stop="20250821040500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: Mixed Doubles, Halbfinals &amp; Finale</title>
 </programme>
-<programme start="20250821033000 +0000" stop="20250821060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250821040500 +0000" stop="20250821060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250821060000 +0000" stop="20250821080000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3283,10 +3283,22 @@
 <programme start="20250821200000 +0000" stop="20250821220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: VF2, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20250820230000 +0000" stop="20250821040500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250820230000 +0000" stop="20250821020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: Mixed Doubles, Halbfinals &amp; Finale</title>
 </programme>
-<programme start="20250821040500 +0000" stop="20250821043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250821020000 +0000" stop="20250821023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250821023000 +0000" stop="20250821030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
+</programme>
+<programme start="20250821030000 +0000" stop="20250821033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250821040000 +0000" stop="20250821043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Extra Time</title>
 </programme>
 <programme start="20250821043000 +0000" stop="20250821050000 +0000" channel="Sky Sport Top Event HD.skyde">

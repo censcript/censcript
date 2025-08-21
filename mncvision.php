@@ -8455,17 +8455,14 @@
 <programme start="20250821073000 +0000" stop="20250821090000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP: Rolex Germany</title>
 </programme>
-<programme start="20250821090000 +0000" stop="20250821103000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP: Rolex Germany</title>
 </programme>
-<programme start="20250821103000 +0000" stop="20250821113000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 SLS C&#039;ship Tour Brasilia</title>
-</programme>
-<programme start="20250821113000 +0000" stop="20250821150000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250821100000 +0000" stop="20250821150000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Mixed Doubles</title>
 </programme>
 <programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 US Open Tournament</title>
+    <title>2025 US Open Tournament (L)</title>
 </programme>
 <programme start="20250820190000 +0000" stop="20250820230000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Tournament (L)</title>
@@ -8491,17 +8488,14 @@
 <programme start="20250821073000 +0000" stop="20250821090000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SailGP: Rolex Germany</title>
 </programme>
-<programme start="20250821090000 +0000" stop="20250821103000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SailGP: Rolex Germany</title>
 </programme>
-<programme start="20250821103000 +0000" stop="20250821113000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 SLS C&#039;ship Tour Brasilia</title>
-</programme>
-<programme start="20250821113000 +0000" stop="20250821150000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250821100000 +0000" stop="20250821150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Mixed Doubles</title>
 </programme>
 <programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 US Open Tournament</title>
+    <title>2025 US Open Tournament (L)</title>
 </programme>
 <programme start="20250820203000 +0000" stop="20250820210000 +0000" channel="SPOTV HD.mncvision">
     <title>WSBK 2025 Rewind: UK Round</title>
@@ -9412,8 +9406,8 @@
 <programme start="20250821163600 +0000" stop="20250820170600 +0000" channel="UNIQUES HD.mncvision">
     <title>The Short History Of Long Road</title>
 </programme>
-<programme start="20250820173000 +0000" stop="20250820180000 +0000" channel="Vision Prime.mncvision">
-    <title>OMG</title>
+<programme start="20250820170000 +0000" stop="20250820180000 +0000" channel="Vision Prime.mncvision">
+    <title>Teka-Teki Kata</title>
 </programme>
 <programme start="20250820180000 +0000" stop="20250820190000 +0000" channel="Vision Prime.mncvision">
     <title>Tebaran Hati</title>
@@ -9433,17 +9427,11 @@
 <programme start="20250820230000 +0000" stop="20250820233000 +0000" channel="Vision Prime.mncvision">
     <title>New Top Files</title>
 </programme>
-<programme start="20250820233000 +0000" stop="20250821000000 +0000" channel="Vision Prime.mncvision">
-    <title>OMG</title>
-</programme>
-<programme start="20250821000000 +0000" stop="20250821003000 +0000" channel="Vision Prime.mncvision">
-    <title>Bumbu Rahasia</title>
-</programme>
-<programme start="20250821003000 +0000" stop="20250821010000 +0000" channel="Vision Prime.mncvision">
-    <title>Pedes Endeus</title>
+<programme start="20250820233000 +0000" stop="20250821010000 +0000" channel="Vision Prime.mncvision">
+    <title>TOP: Tukang Ojek Preman</title>
 </programme>
 <programme start="20250821010000 +0000" stop="20250821020000 +0000" channel="Vision Prime.mncvision">
-    <title>Supermarket Sweep</title>
+    <title>Si Mamat Anak Pasar Jangkrik</title>
 </programme>
 <programme start="20250821020000 +0000" stop="20250821030000 +0000" channel="Vision Prime.mncvision">
     <title>Preman Pensiun X</title>
@@ -9490,11 +9478,14 @@
 <programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="Vision Prime.mncvision">
     <title>Katanya</title>
 </programme>
-<programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="Vision Prime.mncvision">
-    <title>Agent Vinod</title>
+<programme start="20250821150000 +0000" stop="20250821163000 +0000" channel="Vision Prime.mncvision">
+    <title>Yowis Ben</title>
 </programme>
-<programme start="20250820173000 +0000" stop="20250820180000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20250821163000 +0000" stop="20250820170000 +0000" channel="Vision Prime.mncvision">
     <title>OMG</title>
+</programme>
+<programme start="20250820170000 +0000" stop="20250820180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
 </programme>
 <programme start="20250820180000 +0000" stop="20250820190000 +0000" channel="Vision Prime HD.mncvision">
     <title>Tebaran Hati</title>
@@ -9514,17 +9505,11 @@
 <programme start="20250820230000 +0000" stop="20250820233000 +0000" channel="Vision Prime HD.mncvision">
     <title>New Top Files</title>
 </programme>
-<programme start="20250820233000 +0000" stop="20250821000000 +0000" channel="Vision Prime HD.mncvision">
-    <title>OMG</title>
-</programme>
-<programme start="20250821000000 +0000" stop="20250821003000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Bumbu Rahasia</title>
-</programme>
-<programme start="20250821003000 +0000" stop="20250821010000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Pedes Endeus</title>
+<programme start="20250820233000 +0000" stop="20250821010000 +0000" channel="Vision Prime HD.mncvision">
+    <title>TOP: Tukang Ojek Preman</title>
 </programme>
 <programme start="20250821010000 +0000" stop="20250821020000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Supermarket Sweep</title>
+    <title>Si Mamat Anak Pasar Jangkrik</title>
 </programme>
 <programme start="20250821020000 +0000" stop="20250821030000 +0000" channel="Vision Prime HD.mncvision">
     <title>Preman Pensiun X</title>
@@ -9571,6 +9556,9 @@
 <programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="Vision Prime HD.mncvision">
     <title>Katanya</title>
 </programme>
-<programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Agent Vinod</title>
+<programme start="20250821150000 +0000" stop="20250821163000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Yowis Ben</title>
+</programme>
+<programme start="20250821163000 +0000" stop="20250820170000 +0000" channel="Vision Prime HD.mncvision">
+    <title>OMG</title>
 </programme>

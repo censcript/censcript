@@ -1039,10 +1039,10 @@
     <programme start="20250821160000 +0000" stop="20250822123000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 22nd August, Friday 8.30pm. ONE Friday Fights 121</title>
     </programme>
-    <programme start="20250820160000 +0000" stop="20250821093000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st August, Thursday 5.30pm. ASEAN Shopee Cup 2025/2026</title>
+    <programme start="20250820160000 +0000" stop="20250821090200 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st August, Thursday 5.02pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20250821093000 +0000" stop="20250821113000 +0000" channel="Live 5.mewatch">
+    <programme start="20250821090200 +0000" stop="20250821113000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Shopee Cup 2025/2026: Johor Darul Ta&#039;zim FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20250821113000 +0000" stop="20250821160000 +0000" channel="Live 5.mewatch">
