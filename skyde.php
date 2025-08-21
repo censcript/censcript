@@ -3331,27 +3331,6 @@
 <programme start="20250821170000 +0000" stop="20250821220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Tour Championship, 1. Tag in Atlanta, GA (USA)</title>
 </programme>
-<programme start="20250820231500 +0000" stop="20250821010000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Mondo Duplantis: Immer höher</title>
-</programme>
-<programme start="20250821010000 +0000" stop="20250821020000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PMSC: Rennen - GP Ungarn</title>
-</programme>
-<programme start="20250821020000 +0000" stop="20250821030000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F2: 2. Rennen - GP Ungarn</title>
-</programme>
-<programme start="20250821030000 +0000" stop="20250821040000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F3: 2. Rennen - GP Ungarn</title>
-</programme>
-<programme start="20250821040000 +0000" stop="20250821060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Ungarn</title>
-</programme>
-<programme start="20250821060000 +0000" stop="20250821061500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Info: UHD</title>
-</programme>
-<programme start="20250821060000 +0000" stop="20250821063000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (6)</title>
-</programme>
 <programme start="20250820222500 +0000" stop="20250820225000 +0000" channel="SYFY HD.skyde">
     <title>Saber Rider und die Starsheriffs</title>
 </programme>
