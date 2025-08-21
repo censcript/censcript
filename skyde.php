@@ -3260,7 +3260,7 @@
     <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250821060000 +0000" stop="20250821080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
+    <title>ATP 250: S. Korda (USA) - K. Majchrzak (POL), Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
 <programme start="20250821080000 +0000" stop="20250821083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3278,7 +3278,7 @@
     <title>US Open: Mixed Doubles, Halbfinals &amp; Finale</title>
 </programme>
 <programme start="20250821180000 +0000" stop="20250821200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: VF1, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 1</title>
+    <title>Live ATP 250: S. Korda (USA) - M. Kecmanovic (SRB), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20250821200000 +0000" stop="20250821220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: VF2, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 2</title>
@@ -3314,7 +3314,7 @@
     <title>MotoGP: Highlights: GP Österreich</title>
 </programme>
 <programme start="20250821080000 +0000" stop="20250821100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Topspiel, Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
+    <title>ATP 250: S. Korda (USA) - K. Majchrzak (POL), Winston-Salem Open in Winston-Salem, North Carolina (USA), 4. Tag</title>
 </programme>
 <programme start="20250821100000 +0000" stop="20250821103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore</title>
@@ -3330,6 +3330,27 @@
 </programme>
 <programme start="20250821170000 +0000" stop="20250821220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Tour Championship, 1. Tag in Atlanta, GA (USA)</title>
+</programme>
+<programme start="20250820231500 +0000" stop="20250821010000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Mondo Duplantis: Immer höher</title>
+</programme>
+<programme start="20250821010000 +0000" stop="20250821020000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PMSC: Rennen - GP Ungarn</title>
+</programme>
+<programme start="20250821020000 +0000" stop="20250821030000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F2: 2. Rennen - GP Ungarn</title>
+</programme>
+<programme start="20250821030000 +0000" stop="20250821040000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F3: 2. Rennen - GP Ungarn</title>
+</programme>
+<programme start="20250821040000 +0000" stop="20250821060000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Ungarn</title>
+</programme>
+<programme start="20250821060000 +0000" stop="20250821061500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
+<programme start="20250821060000 +0000" stop="20250821063000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (6)</title>
 </programme>
 <programme start="20250820222500 +0000" stop="20250820225000 +0000" channel="SYFY HD.skyde">
     <title>Saber Rider und die Starsheriffs</title>

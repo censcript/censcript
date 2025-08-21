@@ -8314,11 +8314,20 @@
     <programme start="20250821053000 +0000" stop="20250821063000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250821063000 +0000" stop="20250821143000 +0000" channel="SPOTV2.starhub">
-        <title>Day 3</title>
+    <programme start="20250821063000 +0000" stop="20250821073000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
-    <programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="SPOTV2.starhub">
-        <title>MotoGP 2025 Rewind - Grand Prix of Austria</title>
+    <programme start="20250821073000 +0000" stop="20250821090000 +0000" channel="SPOTV2.starhub">
+        <title>Day 1</title>
+    </programme>
+    <programme start="20250821090000 +0000" stop="20250821103000 +0000" channel="SPOTV2.starhub">
+        <title>Day 2</title>
+    </programme>
+    <programme start="20250821103000 +0000" stop="20250821113000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
+    </programme>
+    <programme start="20250821113000 +0000" stop="20250821150000 +0000" channel="SPOTV2.starhub">
+        <title>Semifinals &amp; Final</title>
     </programme>
     <programme start="20250821150000 +0000" stop="20250821231500 +0000" channel="SPOTV2.starhub">
         <title>Day 4</title>
