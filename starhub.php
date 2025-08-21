@@ -3323,7 +3323,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250821003000 +0000" stop="20250821010000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Chemnitz: City of contrasts</title>
     </programme>
     <programme start="20250821010000 +0000" stop="20250821011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3338,13 +3338,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250821023000 +0000" stop="20250821030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Of humans and machines</title>
     </programme>
     <programme start="20250821030000 +0000" stop="20250821031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250821031500 +0000" stop="20250821033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Guiding the way: Innovations for a changing glaciated landscape</title>
     </programme>
     <programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="DW English HD.starhub">
         <title>Concepts for a sustainable future</title>
@@ -3368,10 +3368,10 @@
         <title>News</title>
     </programme>
     <programme start="20250821061500 +0000" stop="20250821063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Guiding the way: Innovations for a changing glaciated landscape</title>
     </programme>
     <programme start="20250821063000 +0000" stop="20250821070000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Of humans and machines</title>
     </programme>
     <programme start="20250821070000 +0000" stop="20250821073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3413,10 +3413,10 @@
         <title>News</title>
     </programme>
     <programme start="20250821131500 +0000" stop="20250821133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Tech mania</title>
     </programme>
     <programme start="20250821133000 +0000" stop="20250821140000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>Why the Yugo is more than just the &quot;worst car in the world&quot;</title>
     </programme>
     <programme start="20250821140000 +0000" stop="20250821143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3428,7 +3428,7 @@
         <title>News</title>
     </programme>
     <programme start="20250821153000 +0000" stop="20250821160000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>The many forms of fungi</title>
     </programme>
     <programme start="20250820160000 +0000" stop="20250820220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -8323,13 +8323,10 @@
     <programme start="20250821073000 +0000" stop="20250821090000 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250821090000 +0000" stop="20250821103000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20250821103000 +0000" stop="20250821113000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250821113000 +0000" stop="20250821150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250821100000 +0000" stop="20250821150000 +0000" channel="SPOTV2.starhub">
         <title>Semifinals &amp; Final</title>
     </programme>
     <programme start="20250821150000 +0000" stop="20250821231500 +0000" channel="SPOTV2.starhub">

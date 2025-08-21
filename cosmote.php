@@ -70,6 +70,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250822150000 +0700" stop="20250822170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Samsunspor</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250821134500 +0700" stop="20250821154500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Monza</title>
     <desc>Live: Tidak</desc>
@@ -206,10 +210,6 @@
     <title>Football: River Plate - Libertad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821121500 +0700" stop="20250821142000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Bahcesehir</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250821142000 +0700" stop="20250821162000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -272,10 +272,6 @@
 </programme>
 <programme start="20250822140500 +0700" stop="20250822161000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250821135000 +0700" stop="20250821142000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821142000 +0700" stop="20250821152000 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,9 +370,9 @@
     <title>Motorsports: Moto2 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250821123000 +0700" stop="20250821150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250822154000 +0700" stop="20250822164500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250821150000 +0700" stop="20250821190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>

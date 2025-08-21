@@ -2933,7 +2933,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250821003000 +0000" stop="20250821010000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Chemnitz</title>
 </programme>
 <programme start="20250821010000 +0000" stop="20250821011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2948,16 +2948,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250821023000 +0000" stop="20250821030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Of Humans</title>
 </programme>
 <programme start="20250821030000 +0000" stop="20250821031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250821031500 +0000" stop="20250821033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Asia 2050: Guiding The Way</title>
 </programme>
 <programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Concepts For A...</title>
 </programme>
 <programme start="20250821040000 +0000" stop="20250821041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2978,10 +2978,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20250821061500 +0000" stop="20250821063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Asia 2050: Guiding The Way</title>
 </programme>
 <programme start="20250821063000 +0000" stop="20250821070000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Of Humans</title>
 </programme>
 <programme start="20250821070000 +0000" stop="20250821073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3005,7 +3005,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250821103000 +0000" stop="20250821110000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Concepts For A...</title>
 </programme>
 <programme start="20250821110000 +0000" stop="20250821113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
