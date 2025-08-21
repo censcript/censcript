@@ -66,6 +66,10 @@
     <title>Football: Panathinaikos - Samsunspor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250822170000 +0700" stop="20250822190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Anderlecht - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250821154500 +0700" stop="20250821175000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Genoa</title>
     <desc>Live: Tidak</desc>
@@ -202,10 +206,6 @@
     <title>Football: Internacional - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821142000 +0700" stop="20250821162000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250821162000 +0700" stop="20250821183500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trapani - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +268,6 @@
 </programme>
 <programme start="20250822161000 +0700" stop="20250822181000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250821152000 +0700" stop="20250821165000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821165000 +0700" stop="20250821182000 +0700" channel="COSMOTE Sport 5 HD">
@@ -368,6 +364,10 @@
 </programme>
 <programme start="20250822164500 +0700" stop="20250822171500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250822171500 +0700" stop="20250822181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821150000 +0700" stop="20250821172000 +0700" channel="COSMOTE Sport 6 HD">

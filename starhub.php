@@ -3263,10 +3263,10 @@
         <title>News</title>
     </programme>
     <programme start="20250820171500 +0000" stop="20250820173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Guiding the way: Innovations for a changing glaciated landscape</title>
     </programme>
     <programme start="20250820173000 +0000" stop="20250820180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Portugal fights severe wildfires</title>
     </programme>
     <programme start="20250820180000 +0000" stop="20250820183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3278,10 +3278,10 @@
         <title>News</title>
     </programme>
     <programme start="20250820190200 +0000" stop="20250820193000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>The many forms of fungi</title>
     </programme>
     <programme start="20250820193000 +0000" stop="20250820200000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Long Street Debate: Ghana’s Returnees</title>
     </programme>
     <programme start="20250820200000 +0000" stop="20250820203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3293,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20250820210200 +0000" stop="20250820211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Guiding the way: Innovations for a changing glaciated landscape</title>
     </programme>
     <programme start="20250820211500 +0000" stop="20250820220000 +0000" channel="DW English HD.starhub">
         <title>International Adoptions - A Global Scandal</title>
@@ -3305,13 +3305,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250820223000 +0000" stop="20250820230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Of humans and machines</title>
     </programme>
     <programme start="20250820230000 +0000" stop="20250820231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250820231500 +0000" stop="20250820233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Guiding the way: Innovations for a changing glaciated landscape</title>
     </programme>
     <programme start="20250820233000 +0000" stop="20250821000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -3413,7 +3413,7 @@
         <title>News</title>
     </programme>
     <programme start="20250821131500 +0000" stop="20250821133000 +0000" channel="DW English HD.starhub">
-        <title>Tech mania</title>
+        <title>German Foreign Minister has doubts Putin will meet with Zelenskyy</title>
     </programme>
     <programme start="20250821133000 +0000" stop="20250821140000 +0000" channel="DW English HD.starhub">
         <title>Why the Yugo is more than just the &quot;worst car in the world&quot;</title>
@@ -4636,31 +4636,28 @@
     <programme start="20250821150000 +0000" stop="20250821160000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Tech</title>
     </programme>
-    <programme start="20250820153000 +0000" stop="20250820183000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820160000 +0000" stop="20250820210000 +0000" channel="Zee Cinema.starhub">
         <title>Shaadi Mein Zaroor Aana</title>
     </programme>
-    <programme start="20250820183000 +0000" stop="20250820213000 +0000" channel="Zee Cinema.starhub">
-        <title>Double Dhamaal</title>
-    </programme>
-    <programme start="20250820213000 +0000" stop="20250821003000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250820210000 +0000" stop="20250821000000 +0000" channel="Zee Cinema.starhub">
         <title>Agent Vinod</title>
     </programme>
-    <programme start="20250821003000 +0000" stop="20250821033000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250821000000 +0000" stop="20250821030000 +0000" channel="Zee Cinema.starhub">
         <title>Toofaan</title>
     </programme>
-    <programme start="20250821033000 +0000" stop="20250821063000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250821030000 +0000" stop="20250821060000 +0000" channel="Zee Cinema.starhub">
         <title>Dono</title>
     </programme>
-    <programme start="20250821063000 +0000" stop="20250821093000 +0000" channel="Zee Cinema.starhub">
-        <title>Shubh Mangal Savdhaan</title>
+    <programme start="20250821060000 +0000" stop="20250821090000 +0000" channel="Zee Cinema.starhub">
+        <title>Shubh Mangal Saavdhan</title>
     </programme>
-    <programme start="20250821093000 +0000" stop="20250821123000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250821090000 +0000" stop="20250821120000 +0000" channel="Zee Cinema.starhub">
         <title>Kismat Konnection</title>
     </programme>
-    <programme start="20250821123000 +0000" stop="20250821153000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250821120000 +0000" stop="20250821150000 +0000" channel="Zee Cinema.starhub">
         <title>Race 3</title>
     </programme>
-    <programme start="20250821153000 +0000" stop="20250821183000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20250821150000 +0000" stop="20250821180000 +0000" channel="Zee Cinema.starhub">
         <title>Toofaan</title>
     </programme>
     <programme start="20250820155000 +0000" stop="20250820164000 +0000" channel="Citra Entertainment.starhub">
