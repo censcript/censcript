@@ -113,7 +113,7 @@
 <title>Family 100 (MNCTV)</title>
 </programme>
 <programme start="20250821140000 +0000" stop="20250821160000 +0000" channel="MNCTV.vision">
-<title>Dangdut 24 Karat</title>
+<title>Dangdut 24 Karat (MNC TV)</title>
 </programme>
 <programme start="20250821160000 +0000" stop="20250821170000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn 2</title>
@@ -151,17 +151,17 @@
 <programme start="20250822034500 +0000" stop="20250822044500 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
-<programme start="20250822044500 +0000" stop="20250822060000 +0000" channel="MNCTV.vision">
+<programme start="20250822044500 +0000" stop="20250822054500 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20250822054500 +0000" stop="20250822070000 +0000" channel="MNCTV.vision">
 <title>Putri Duyung &amp; 1001 Keajaiban</title>
 </programme>
-<programme start="20250822060000 +0000" stop="20250822073000 +0000" channel="MNCTV.vision">
-<title>Kilau Uang Kaget &amp; Bedah Rumah</title>
+<programme start="20250822070000 +0000" stop="20250822080000 +0000" channel="MNCTV.vision">
+<title>Uang Kaget</title>
 </programme>
-<programme start="20250822073000 +0000" stop="20250822090000 +0000" channel="MNCTV.vision">
+<programme start="20250822080000 +0000" stop="20250822100000 +0000" channel="MNCTV.vision">
 <title>Bedah Rumah</title>
-</programme>
-<programme start="20250822090000 +0000" stop="20250822100000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250822100000 +0000" stop="20250822120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -672,12 +672,6 @@
 </programme>
 <programme start="20250820230000 +0000" stop="20250821003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250821003000 +0000" stop="20250821023000 +0000" channel="ANTV.vision">
-<title>Senggol Senggolan</title>
-</programme>
-<programme start="20250821023000 +0000" stop="20250821060000 +0000" channel="ANTV.vision">
-<title>Thugs Of Hindostan</title>
 </programme>
 <programme start="20250821060000 +0000" stop="20250821083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250822021500 +0000" stop="20250822030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
+</programme>
+<programme start="20250822030000 +0000" stop="20250822040000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
