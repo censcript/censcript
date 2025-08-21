@@ -3847,9 +3847,6 @@
     <programme start="20250820164000 +0000" stop="20250820170500 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
-    <programme start="20250820170500 +0000" stop="20250820171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Natural Grandeur of the East Mini</title>
-    </programme>
     <programme start="20250820171000 +0000" stop="20250820173000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
     </programme>
@@ -3899,7 +3896,7 @@
         <title>Drama Serial &quot;Anpan&quot; Eps. 104</title>
     </programme>
     <programme start="20250820231500 +0000" stop="20250821030000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The 107th High School Baseball Invitational Tournament: Semi-Finals</title>
+        <title>The 107th High School Baseball Invitational Tournament: Semi-Finals (End time su</title>
     </programme>
     <programme start="20250821030000 +0000" stop="20250821032000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
@@ -3916,17 +3913,14 @@
     <programme start="20250821034500 +0000" stop="20250821040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 104 (R)</title>
     </programme>
-    <programme start="20250821040000 +0000" stop="20250821040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20250821040500 +0000" stop="20250821043000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The 107th High School Baseball Invitational Tournament: Semi-Finals</title>
+    <programme start="20250821040000 +0000" stop="20250821043000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The 107th High School Baseball Invitational Tournament: Semi-Finals (End time su</title>
     </programme>
     <programme start="20250821043000 +0000" stop="20250821043500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Super Rare! Railroad Treasure Films</title>
     </programme>
     <programme start="20250821043500 +0000" stop="20250821050200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Where We Call Home Encore (B)</title>
+        <title>Where We Call Home Encore (B) (R)</title>
     </programme>
     <programme start="20250821050200 +0000" stop="20250821050400 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
