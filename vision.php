@@ -673,9 +673,6 @@
 <programme start="20250820230000 +0000" stop="20250821003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250821003000 +0000" stop="20250821023000 +0000" channel="ANTV.vision">
-<title>Senggol Senggolan</title>
-</programme>
 <programme start="20250821023000 +0000" stop="20250821060000 +0000" channel="ANTV.vision">
 <title>Thugs Of Hindostan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250822021500 +0000" stop="20250822030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
+</programme>
+<programme start="20250822030000 +0000" stop="20250822040000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
 </programme>

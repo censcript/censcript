@@ -8446,17 +8446,23 @@
 <programme start="20250821053000 +0000" stop="20250821063000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
-<programme start="20250821063000 +0000" stop="20250821103000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 US Open Tournament</title>
+<programme start="20250821063000 +0000" stop="20250821073000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 SLS C&#039;ship Tour Brasilia</title>
 </programme>
-<programme start="20250821103000 +0000" stop="20250821143000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 US Open Tournament</title>
+<programme start="20250821073000 +0000" stop="20250821090000 +0000" channel="SPOTV 2.mncvision">
+    <title>SailGP: Rolex Germany</title>
 </programme>
-<programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP 2025 Rewind: Austria</title>
+<programme start="20250821090000 +0000" stop="20250821103000 +0000" channel="SPOTV 2.mncvision">
+    <title>SailGP: Rolex Germany</title>
+</programme>
+<programme start="20250821103000 +0000" stop="20250821113000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 SLS C&#039;ship Tour Brasilia</title>
+</programme>
+<programme start="20250821113000 +0000" stop="20250821150000 +0000" channel="SPOTV 2.mncvision">
+    <title>2025 US Open Mixed Doubles</title>
 </programme>
 <programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025 US Open Tournament (L)</title>
+    <title>2025 US Open Tournament</title>
 </programme>
 <programme start="20250820190000 +0000" stop="20250820230000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Tournament (L)</title>
@@ -8476,17 +8482,23 @@
 <programme start="20250821053000 +0000" stop="20250821063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Austria</title>
 </programme>
-<programme start="20250821063000 +0000" stop="20250821103000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 US Open Tournament</title>
+<programme start="20250821063000 +0000" stop="20250821073000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 SLS C&#039;ship Tour Brasilia</title>
 </programme>
-<programme start="20250821103000 +0000" stop="20250821143000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 US Open Tournament</title>
+<programme start="20250821073000 +0000" stop="20250821090000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Rolex Germany</title>
 </programme>
-<programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP 2025 Rewind: Austria</title>
+<programme start="20250821090000 +0000" stop="20250821103000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>SailGP: Rolex Germany</title>
+</programme>
+<programme start="20250821103000 +0000" stop="20250821113000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 SLS C&#039;ship Tour Brasilia</title>
+</programme>
+<programme start="20250821113000 +0000" stop="20250821150000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025 US Open Mixed Doubles</title>
 </programme>
 <programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025 US Open Tournament (L)</title>
+    <title>2025 US Open Tournament</title>
 </programme>
 <programme start="20250820203000 +0000" stop="20250820210000 +0000" channel="SPOTV HD.mncvision">
     <title>WSBK 2025 Rewind: UK Round</title>
