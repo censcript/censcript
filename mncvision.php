@@ -8410,8 +8410,11 @@
 <programme start="20250821020000 +0000" stop="20250821040000 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge Australia</title>
 </programme>
-<programme start="20250821040000 +0000" stop="20250821083000 +0000" channel="SPOTV.mncvision">
+<programme start="20250821040000 +0000" stop="20250821073500 +0000" channel="SPOTV.mncvision">
     <title>WTT Europe Smash Sweden &#039;25</title>
+</programme>
+<programme start="20250821073500 +0000" stop="20250821083000 +0000" channel="SPOTV.mncvision">
+    <title>UIM E1 World C&#039;ship 2025 HL</title>
 </programme>
 <programme start="20250821083000 +0000" stop="20250821100000 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge Australia</title>
@@ -8512,8 +8515,11 @@
 <programme start="20250821020000 +0000" stop="20250821040000 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge Australia</title>
 </programme>
-<programme start="20250821040000 +0000" stop="20250821083000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250821040000 +0000" stop="20250821073500 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Europe Smash Sweden &#039;25</title>
+</programme>
+<programme start="20250821073500 +0000" stop="20250821083000 +0000" channel="SPOTV HD.mncvision">
+    <title>UIM E1 World C&#039;ship 2025 HL</title>
 </programme>
 <programme start="20250821083000 +0000" stop="20250821100000 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge Australia</title>
