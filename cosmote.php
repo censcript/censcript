@@ -1,7 +1,3 @@
-<programme start="20250821183000 +0700" stop="20250821203000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FK Bodo/Glimt - SK Sturm Graz</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250821203000 +0700" stop="20250821223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Fenerbahce SK - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -66,12 +62,12 @@
     <title>Football: Ferencvarosi TC - Qarabag FK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821175000 +0700" stop="20250821202000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panionios - Iraklis</title>
+<programme start="20250822210000 +0700" stop="20250822213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821202000 +0700" stop="20250821203500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E21</title>
+<programme start="20250822213000 +0700" stop="20250822220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821203500 +0700" stop="20250821233000 +0700" channel="COSMOTE Sport 2 HD">
@@ -142,6 +138,10 @@
     <title>Serie A 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250822212000 +0700" stop="20250822232500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250821200000 +0700" stop="20250821220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Internacional - Flamengo</title>
     <desc>Live: Tidak</desc>
@@ -204,10 +204,6 @@
 </programme>
 <programme start="20250822200000 +0700" stop="20250822220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: River Plate - Libertad</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250821183500 +0700" stop="20250821201000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821201000 +0700" stop="20250821210500 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,10 +272,6 @@
 </programme>
 <programme start="20250822200000 +0700" stop="20250822220500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trapani - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250821192500 +0700" stop="20250821203000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821203000 +0700" stop="20250821220500 +0700" channel="COSMOTE Sport 5 HD">
@@ -381,6 +373,18 @@
 <programme start="20250822195500 +0700" stop="20250822211500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250822211500 +0700" stop="20250822212500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250822212500 +0700" stop="20250822215500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250822215500 +0700" stop="20250822225000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821200000 +0700" stop="20250821222000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Kamil Majchrzak - Sebastian Korda</title>

@@ -673,11 +673,14 @@
 <programme start="20250820230000 +0000" stop="20250821003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250821003000 +0000" stop="20250821023000 +0000" channel="ANTV.vision">
+<title>Senggol Senggolan</title>
+</programme>
+<programme start="20250821023000 +0000" stop="20250821060000 +0000" channel="ANTV.vision">
+<title>Don 2</title>
+</programme>
 <programme start="20250821060000 +0000" stop="20250821083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
-</programme>
-<programme start="20250821083000 +0000" stop="20250821120000 +0000" channel="ANTV.vision">
-<title>Don 2</title>
 </programme>
 <programme start="20250821120000 +0000" stop="20250821140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -689,7 +692,7 @@
 <title>Happy Ghost 2</title>
 </programme>
 <programme start="20250821180000 +0000" stop="20250821193000 +0000" channel="ANTV.vision">
-<title>The Sting</title>
+<title>Mutation On Mars</title>
 </programme>
 <programme start="20250821193000 +0000" stop="20250821203000 +0000" channel="ANTV.vision">
 <title>Kafir</title>
@@ -716,7 +719,7 @@
 <title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20250822083000 +0000" stop="20250822120000 +0000" channel="ANTV.vision">
-<title>War</title>
+<title>Cirkus</title>
 </programme>
 <programme start="20250820230000 +0000" stop="20250821010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250822030000 +0000" stop="20250822040000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
 </programme>
