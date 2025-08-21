@@ -673,10 +673,10 @@
 <programme start="20250821093000 +0000" stop="20250821095000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250821095000 +0000" stop="20250821095500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821095000 +0000" stop="20250821100000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821095500 +0000" stop="20250821100500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821100000 +0000" stop="20250821100500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250821100500 +0000" stop="20250821102000 +0000" channel="Cartoonito.skyde">
@@ -736,10 +736,10 @@
 <programme start="20250821134000 +0000" stop="20250821140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250821140000 +0000" stop="20250821141000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821140000 +0000" stop="20250821140500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250821141000 +0000" stop="20250821141500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821140500 +0000" stop="20250821141500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20250821141500 +0000" stop="20250821142000 +0000" channel="Cartoonito.skyde">
@@ -748,10 +748,10 @@
 <programme start="20250821142000 +0000" stop="20250821143000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250821143000 +0000" stop="20250821144000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821143000 +0000" stop="20250821143500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821144000 +0000" stop="20250821144500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821143500 +0000" stop="20250821144500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250821144500 +0000" stop="20250821150000 +0000" channel="Cartoonito.skyde">
@@ -766,10 +766,10 @@
 <programme start="20250821151000 +0000" stop="20250821152500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821152500 +0000" stop="20250821153500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821152500 +0000" stop="20250821153000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821153500 +0000" stop="20250821154000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821153000 +0000" stop="20250821154000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250821154000 +0000" stop="20250821155500 +0000" channel="Cartoonito.skyde">
@@ -778,16 +778,16 @@
 <programme start="20250821155500 +0000" stop="20250821160000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821160000 +0000" stop="20250821161000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821160000 +0000" stop="20250821160500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821161000 +0000" stop="20250821162000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821160500 +0000" stop="20250821162000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821162000 +0000" stop="20250821163000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821162000 +0000" stop="20250821162500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821163000 +0000" stop="20250821163500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821162500 +0000" stop="20250821163500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250821163500 +0000" stop="20250821164500 +0000" channel="Cartoonito.skyde">
@@ -820,16 +820,16 @@
 <programme start="20250821181000 +0000" stop="20250821182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250821182500 +0000" stop="20250821184000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821182500 +0000" stop="20250821183500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250821184000 +0000" stop="20250821185500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821183500 +0000" stop="20250821185500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250821185500 +0000" stop="20250821190500 +0000" channel="Cartoonito.skyde">
+<programme start="20250821185500 +0000" stop="20250821190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250821190500 +0000" stop="20250821191000 +0000" channel="Cartoonito.skyde">
+<programme start="20250821190000 +0000" stop="20250821191000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250821191000 +0000" stop="20250821192500 +0000" channel="Cartoonito.skyde">
@@ -3283,10 +3283,22 @@
 <programme start="20250821200000 +0000" stop="20250821220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: VF2, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20250820230000 +0000" stop="20250821040500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250820230000 +0000" stop="20250821020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: Mixed Doubles, Halbfinals &amp; Finale</title>
 </programme>
-<programme start="20250821040500 +0000" stop="20250821043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250821020000 +0000" stop="20250821023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250821023000 +0000" stop="20250821030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
+</programme>
+<programme start="20250821030000 +0000" stop="20250821033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250821040000 +0000" stop="20250821043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Extra Time</title>
 </programme>
 <programme start="20250821043000 +0000" stop="20250821050000 +0000" channel="Sky Sport Top Event HD.skyde">

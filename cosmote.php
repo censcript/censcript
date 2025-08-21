@@ -130,6 +130,14 @@
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250822131500 +0700" stop="20250822133000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250822133000 +0700" stop="20250822140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E38</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250821120000 +0700" stop="20250821140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - FC Porto</title>
     <desc>Live: Tidak</desc>
@@ -190,8 +198,8 @@
     <title>Football: Rio Ave - Nacional</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821100000 +0700" stop="20250821121500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Trapani - Brescia</title>
+<programme start="20250822130000 +0700" stop="20250822140000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821121500 +0700" stop="20250821142000 +0700" channel="COSMOTE Sport 4 HD">
@@ -256,10 +264,6 @@
 </programme>
 <programme start="20250822120000 +0700" stop="20250822140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250821115000 +0700" stop="20250821124500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250821124500 +0700" stop="20250821135000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,9 +362,9 @@
     <title>WRC 2024</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250821100000 +0700" stop="20250821123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250822135500 +0700" stop="20250822144500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250821123000 +0700" stop="20250821150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>

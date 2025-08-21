@@ -5206,8 +5206,11 @@
     <programme start="20250821020000 +0000" stop="20250821040000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
-    <programme start="20250821040000 +0000" stop="20250821083000 +0000" channel="SPOTV.starhub">
+    <programme start="20250821040000 +0000" stop="20250821073500 +0000" channel="SPOTV.starhub">
         <title>Day 4 Session 1</title>
+    </programme>
+    <programme start="20250821073500 +0000" stop="20250821083000 +0000" channel="SPOTV.starhub">
+        <title>Ep4 Lago Maggiore</title>
     </programme>
     <programme start="20250821083000 +0000" stop="20250821100000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
