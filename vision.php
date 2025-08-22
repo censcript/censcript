@@ -670,6 +670,9 @@
 <programme start="20250821230000 +0000" stop="20250822003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250822023000 +0000" stop="20250822060000 +0000" channel="ANTV.vision">
+<title>Raees</title>
+</programme>
 <programme start="20250822060000 +0000" stop="20250822083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250822223000 +0000" stop="20250822230000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
-</programme>
-<programme start="20250822230000 +0000" stop="20250822230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
 </programme>
