@@ -676,9 +676,6 @@
 <programme start="20250822120000 +0000" stop="20250822140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250822193000 +0000" stop="20250822203000 +0000" channel="ANTV.vision">
-<title>Sajen</title>
-</programme>
 <programme start="20250822203000 +0000" stop="20250822220000 +0000" channel="ANTV.vision">
 <title>Dukun Ilmu Hitam</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250823021500 +0000" stop="20250823030000 +0000" channel="BTV.vision">
 <title>Endeus</title>
+</programme>
+<programme start="20250823030000 +0000" stop="20250823034500 +0000" channel="BTV.vision">
+<title>Kids Universe</title>
 </programme>
