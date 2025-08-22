@@ -544,6 +544,9 @@
 <programme start="20250822023000 +0000" stop="20250822033000 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
+<programme start="20250822033000 +0000" stop="20250822041500 +0000" channel="Trans 7.vision">
+<title>Update Kehidupan</title>
+</programme>
 <programme start="20250822041500 +0000" stop="20250822050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250822230000 +0000" stop="20250822230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
-</programme>
-<programme start="20250822230300 +0000" stop="20250823003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>
