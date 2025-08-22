@@ -407,7 +407,7 @@
     <title>Cinta Keluarga Pandya</title>
 </programme>
 <programme start="20250822083000 +0000" stop="20250822120000 +0000" channel="ANTV.mncvision">
-    <title>Cirkus</title>
+    <title>Mujhse Shaadi Karogi</title>
 </programme>
 <programme start="20250822120000 +0000" stop="20250822140000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
