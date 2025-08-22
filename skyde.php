@@ -2695,7 +2695,7 @@
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20250822003000 +0000" stop="20250822040000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250822003000 +0000" stop="20250822080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20250822194000 +0000" stop="20250822200000 +0000" channel="Sky Sport Austria 2 HD.skyde">

@@ -986,10 +986,10 @@
         <title>ONE Friday Fights 121</title>
     </programme>
     <programme start="20250821160000 +0000" stop="20250822160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th August, Monday.</title>
+        <title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20250822160000 +0000" stop="20250823160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th August, Monday.</title>
+        <title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20250821160000 +0000" stop="20250822160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

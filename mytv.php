@@ -146,7 +146,7 @@
         <title> Việt Nam vui khỏe</title>
     </programme>
     <programme start="20250822200500 +0000" stop="20250822201000 +0000" channel="VTV1 HD.mytv">
-        <title> Truyền hình trực tiếp: Thời cơ vàng</title>
+        <title> Truyền hình trực tiếp - Thời cơ vàng</title>
     </programme>
     <programme start="20250822201000 +0000" stop="20250822215000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>

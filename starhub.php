@@ -3910,9 +3910,6 @@
     <programme start="20250821164000 +0000" stop="20250821170500 +0000" channel="NHK World Premium HD.starhub">
         <title>Shogi Focus</title>
     </programme>
-    <programme start="20250821170500 +0000" stop="20250821171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Natural Grandeur of the East Mini</title>
-    </programme>
     <programme start="20250821171000 +0000" stop="20250821174000 +0000" channel="NHK World Premium HD.starhub">
         <title>Actor Koyuki and the Fermenting Master, Grandma Encore</title>
     </programme>
@@ -7268,7 +7265,7 @@
         <title>One in Every Japanese</title>
     </programme>
     <programme start="20250822023000 +0000" stop="20250822030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Ocean Super Year 2025</title>
     </programme>
     <programme start="20250822030000 +0000" stop="20250822031000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7328,7 +7325,7 @@
         <title>Hit the Road</title>
     </programme>
     <programme start="20250822073000 +0000" stop="20250822080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Ocean Super Year 2025</title>
     </programme>
     <programme start="20250822080000 +0000" stop="20250822081000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7391,7 +7388,7 @@
         <title>Time-Lapse Journey</title>
     </programme>
     <programme start="20250822133000 +0000" stop="20250822140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Ocean Super Year 2025</title>
     </programme>
     <programme start="20250822140000 +0000" stop="20250822141000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
