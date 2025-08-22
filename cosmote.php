@@ -134,8 +134,8 @@
     <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250822110000 +0700" stop="20250822130000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rio Ave - Nacional</title>
+<programme start="20250823135000 +0700" stop="20250823142000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E38</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250822130000 +0700" stop="20250822140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,8 +258,8 @@
     <title>Basketball: Bahcesehir - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250822115000 +0700" stop="20250822125500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250823135500 +0700" stop="20250823155000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250822125500 +0700" stop="20250822135500 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,6 +374,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250823133500 +0700" stop="20250823142000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250822100000 +0700" stop="20250822140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
@@ -424,6 +428,10 @@
 </programme>
 <programme start="20250823124000 +0700" stop="20250823131000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250823131000 +0700" stop="20250823170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250822120000 +0700" stop="20250822140000 +0700" channel="COSMOTE Sport 7 HD">

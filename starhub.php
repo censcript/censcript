@@ -6154,8 +6154,11 @@
     <programme start="20250822040000 +0000" stop="20250822100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250822100000 +0000" stop="20250822160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20250822100000 +0000" stop="20250822140000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
+    </programme>
+    <programme start="20250822140000 +0000" stop="20250822190000 +0000" channel="Hub Sports 6.starhub">
+        <title>TOUR Championship Round 2</title>
     </programme>
     <programme start="20250821160000 +0000" stop="20250821170000 +0000" channel="TVBS-NEWS.starhub">
         <title>Late Night Vision</title>
