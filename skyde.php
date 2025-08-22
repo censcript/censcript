@@ -3322,16 +3322,19 @@
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20250822003000 +0000" stop="20250822025000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20250822025000 +0000" stop="20250822031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822023000 +0000" stop="20250822032500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: The Catch-Up Show</title>
+</programme>
+<programme start="20250822032500 +0000" stop="20250822035500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
-<programme start="20250822031500 +0000" stop="20250822043500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822035500 +0000" stop="20250822045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Matchplan: STP - BVB, 1. Spieltag</title>
 </programme>
-<programme start="20250822043500 +0000" stop="20250822052500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822045500 +0000" stop="20250822052500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20250822052500 +0000" stop="20250822062500 +0000" channel="Sky Sport Top Event HD.skyde">
