@@ -176,7 +176,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20250822120000 +0000" stop="20250822123000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
+    <title>Bottom Line: Israel&#039;s Strategy</title>
 </programme>
 <programme start="20250822123000 +0000" stop="20250822130000 +0000" channel="Al Jazeera English.mncvision">
     <title>Radicalised Youth</title>
@@ -4889,6 +4889,84 @@
     <title>iNews Sport (L)</title>
 </programme>
 <programme start="20250822163000 +0000" stop="20250821170000 +0000" channel="iNews.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250821170000 +0000" stop="20250821173000 +0000" channel="iNews HD.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20250821173000 +0000" stop="20250821190000 +0000" channel="iNews HD.mncvision">
+    <title>AFF Mitsubishi Electric Cup 2022</title>
+</programme>
+<programme start="20250821190000 +0000" stop="20250821194500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20250821194500 +0000" stop="20250821201500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20250821201500 +0000" stop="20250821210000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250821210000 +0000" stop="20250821211500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250821211500 +0000" stop="20250821230000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
+</programme>
+<programme start="20250821230000 +0000" stop="20250821230200 +0000" channel="iNews HD.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20250821230200 +0000" stop="20250821233000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport Pagi (L)</title>
+</programme>
+<programme start="20250821233000 +0000" stop="20250822000000 +0000" channel="iNews HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20250822000000 +0000" stop="20250822010000 +0000" channel="iNews HD.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20250822010000 +0000" stop="20250822013000 +0000" channel="iNews HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250822013000 +0000" stop="20250822023000 +0000" channel="iNews HD.mncvision">
+    <title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20250822023000 +0000" stop="20250822040000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Today (L)</title>
+</programme>
+<programme start="20250822040000 +0000" stop="20250822060000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Siang (L)</title>
+</programme>
+<programme start="20250822060000 +0000" stop="20250822063000 +0000" channel="iNews HD.mncvision">
+    <title>Pemimpin Rakyat (L)</title>
+</programme>
+<programme start="20250822063000 +0000" stop="20250822070000 +0000" channel="iNews HD.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20250822070000 +0000" stop="20250822083000 +0000" channel="iNews HD.mncvision">
+    <title>iSeleb (L)</title>
+</programme>
+<programme start="20250822083000 +0000" stop="20250822100000 +0000" channel="iNews HD.mncvision">
+    <title>Realita (L)</title>
+</programme>
+<programme start="20250822100000 +0000" stop="20250822120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20250822120000 +0000" stop="20250822130000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20250822130000 +0000" stop="20250822140000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Files</title>
+</programme>
+<programme start="20250822140000 +0000" stop="20250822150000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
+</programme>
+<programme start="20250822160000 +0000" stop="20250822163000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20250822163000 +0000" stop="20250821170000 +0000" channel="iNews HD.mncvision">
     <title>New Top Files</title>
 </programme>
 <programme start="20250821230000 +0000" stop="20250822000000 +0000" channel="JAKTV.mncvision">
