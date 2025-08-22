@@ -2315,19 +2315,19 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250821163000 +0000" stop="20250821180000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 3 Fritz v Halys</title>
+        <title>Stuttgart Day 3 Fritz v Halys</title>
     </programme>
     <programme start="20250821180000 +0000" stop="20250821200000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 1 (Live)</title>
+        <title>Winston-Salem QF 1 Korda v Kecmanovic</title>
     </programme>
     <programme start="20250821200000 +0000" stop="20250821220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 2 (Live)</title>
+        <title>Winston-Salem QF 2 Munar v Fucsovics</title>
     </programme>
     <programme start="20250821220000 +0000" stop="20250821221500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Classic Shorts (CC): Federer v Isner 2019</title>
+        <title>Federer v Isner 2019</title>
     </programme>
     <programme start="20250821221500 +0000" stop="20250821223000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Classic Shorts (CC): Djokovic v Tsonga 2015</title>
+        <title>Djokovic v Tsonga 2015</title>
     </programme>
     <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Winston-Salem QF 3 Mpetshi Perricard v Medjedovic</title>
@@ -3895,20 +3895,20 @@
     <programme start="20250822151500 +0000" stop="20250822160000 +0000" channel="Cartoon Network.starhub">
         <title>Back To The Barn/Greg The Babysitter/Gem Hunt/Rising Tides, Crashing Skies</title>
     </programme>
-    <programme start="20250821160000 +0000" stop="20250821160500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips mini</title>
-    </programme>
     <programme start="20250821160500 +0000" stop="20250821161000 +0000" channel="NHK World Premium HD.starhub">
         <title>Child-Rearing Hints &amp; Tips mini</title>
     </programme>
     <programme start="20250821161000 +0000" stop="20250821161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Ukiyoe EDO-LIFE (R)</title>
+        <title>Child-Rearing Hints &amp; Tips mini</title>
     </programme>
     <programme start="20250821161500 +0000" stop="20250821164000 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
     <programme start="20250821164000 +0000" stop="20250821170500 +0000" channel="NHK World Premium HD.starhub">
         <title>Shogi Focus</title>
+    </programme>
+    <programme start="20250821170500 +0000" stop="20250821171000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Ukiyoe EDO-LIFE (R)</title>
     </programme>
     <programme start="20250821171000 +0000" stop="20250821174000 +0000" channel="NHK World Premium HD.starhub">
         <title>Actor Koyuki and the Fermenting Master, Grandma Encore</title>
