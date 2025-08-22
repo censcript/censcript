@@ -2695,7 +2695,7 @@
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20250822003000 +0000" stop="20250822040000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250822003000 +0000" stop="20250822080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20250822194000 +0000" stop="20250822200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -3280,31 +3280,37 @@
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20250822003000 +0000" stop="20250822025000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20250822025000 +0000" stop="20250822040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822023000 +0000" stop="20250822043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: S. Korda (USA) - M. Kecmanovic (SRB), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20250822043000 +0000" stop="20250822060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822043000 +0000" stop="20250822063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. Munar (ESP) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20250822060000 +0000" stop="20250822063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822063000 +0000" stop="20250822070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250822063000 +0000" stop="20250822093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822070000 +0000" stop="20250822093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
-<programme start="20250822113000 +0000" stop="20250822123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822093000 +0000" stop="20250822103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250822123000 +0000" stop="20250822124500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822103000 +0000" stop="20250822104500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250822124500 +0000" stop="20250822142500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822104500 +0000" stop="20250822124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20250822152000 +0000" stop="20250822200000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250822124500 +0000" stop="20250822144500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
+</programme>
+<programme start="20250822144500 +0000" stop="20250822151500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Cincinnati</title>
+</programme>
+<programme start="20250822151500 +0000" stop="20250822200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Finale 2020: D. Thiem (AUT) - A. Zverev (GER)</title>
 </programme>
 <programme start="20250822200000 +0000" stop="20250822220000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3316,16 +3322,19 @@
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20250822003000 +0000" stop="20250822025000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20250822025000 +0000" stop="20250822031500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822023000 +0000" stop="20250822032500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: The Catch-Up Show</title>
+</programme>
+<programme start="20250822032500 +0000" stop="20250822035500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
-<programme start="20250822031500 +0000" stop="20250822043500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822035500 +0000" stop="20250822045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Matchplan: STP - BVB, 1. Spieltag</title>
 </programme>
-<programme start="20250822043500 +0000" stop="20250822052500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250822045500 +0000" stop="20250822052500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20250822052500 +0000" stop="20250822062500 +0000" channel="Sky Sport Top Event HD.skyde">
