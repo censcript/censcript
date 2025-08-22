@@ -2330,49 +2330,49 @@
         <title>ATP Classic Shorts (CC): Djokovic v Tsonga 2015</title>
     </programme>
     <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 3 (Live)</title>
+        <title>Winston-Salem QF 3 Mpetshi Perricard v Medjedovic</title>
     </programme>
     <programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 4 (Live)</title>
+        <title>Winston-Salem QF 4 Bu v Van de Zandschulp</title>
     </programme>
     <programme start="20250822023000 +0000" stop="20250822040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 4 Nakashima v Tien</title>
+        <title>Stuttgart Day 4 Nakashima v Tien</title>
     </programme>
     <programme start="20250822040000 +0000" stop="20250822053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 1</title>
+        <title>Winston-Salem QF 1 Korda v Kecmanovic</title>
     </programme>
     <programme start="20250822053000 +0000" stop="20250822070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 2</title>
+        <title>Winston-Salem QF 2 Munar v Fucsovics</title>
     </programme>
     <programme start="20250822070000 +0000" stop="20250822071500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Classic Shorts (CC): Murray v Raonic 2016</title>
+        <title>Murray v Raonic 2016</title>
     </programme>
     <programme start="20250822071500 +0000" stop="20250822073000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Classic Shorts (CC): Djokovic v Nadal 2016</title>
+        <title>Djokovic v Nadal 2016</title>
     </programme>
     <programme start="20250822073000 +0000" stop="20250822090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 3</title>
+        <title>Winston-Salem QF 3 Mpetshi Perricard v Medjedovic</title>
     </programme>
     <programme start="20250822090000 +0000" stop="20250822103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 4</title>
+        <title>Winston-Salem QF 1 Korda v Kecmanovic</title>
     </programme>
     <programme start="20250822103000 +0000" stop="20250822110000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250822110000 +0000" stop="20250822111500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Classic Shorts (CC): Nadal v Federer 2013</title>
+        <title>Nadal v Federer 2013</title>
     </programme>
     <programme start="20250822111500 +0000" stop="20250822113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Classic Shorts (CC): Nadal v Del Potro 2013</title>
+        <title>Nadal v Del Potro 2013</title>
     </programme>
     <programme start="20250822113000 +0000" stop="20250822130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 2</title>
+        <title>Winston-Salem QF 2 Munar v Fucsovics</title>
     </programme>
     <programme start="20250822130000 +0000" stop="20250822143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 3</title>
+        <title>Winston-Salem QF 3 Mpetshi Perricard v Medjedovic</title>
     </programme>
     <programme start="20250822143000 +0000" stop="20250822160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem QF 4</title>
+        <title>Winston-Salem QF 1 Korda v Kecmanovic</title>
     </programme>
     <programme start="20250821160000 +0000" stop="20250821170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
