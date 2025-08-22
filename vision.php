@@ -676,12 +676,6 @@
 <programme start="20250822120000 +0000" stop="20250822140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250822140000 +0000" stop="20250822160000 +0000" channel="ANTV.vision">
-<title>Si Rawing 3</title>
-</programme>
-<programme start="20250822160000 +0000" stop="20250822180000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 3</title>
-</programme>
 <programme start="20250822180000 +0000" stop="20250822193000 +0000" channel="ANTV.vision">
 <title>Conspirators</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250822230300 +0000" stop="20250823003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250823003000 +0000" stop="20250823013000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250823013000 +0000" stop="20250823021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
