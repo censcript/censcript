@@ -2693,10 +2693,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: VF3, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
+    <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20250822003000 +0000" stop="20250822080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: VF4, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
+    <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20250822194000 +0000" stop="20250822200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP</title>
@@ -2881,14 +2881,14 @@
 <programme start="20250822183000 +0000" stop="20250822203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCB - RBL, 1. Spieltag</title>
 </programme>
-<programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
-</programme>
 <programme start="20250822154000 +0000" stop="20250822160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20250822160000 +0000" stop="20250822184500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250822160000 +0000" stop="20250822183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - 1. FC Nürnberg, 3. Spieltag</title>
+</programme>
+<programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+    <title>BL: Borussia Dortmund - Holstein Kiel, 34. Spieltag</title>
 </programme>
 <programme start="20250821222000 +0000" stop="20250821223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Greatest Races: F. Alonso / Nürburgring 2007</title>

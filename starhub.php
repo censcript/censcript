@@ -7649,7 +7649,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250822003000 +0000" stop="20250822010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Interview of an AI Avatar</title>
     </programme>
     <programme start="20250822010000 +0000" stop="20250822013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
