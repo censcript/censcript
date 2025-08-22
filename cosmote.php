@@ -58,12 +58,8 @@
     <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250823013000 +0700" stop="20250823022500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250823022500 +0700" stop="20250823025500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E1</title>
+<programme start="20250824030000 +0700" stop="20250824051500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823025500 +0700" stop="20250823055000 +0700" channel="COSMOTE Sport 2 HD">
@@ -210,8 +206,8 @@
     <title>Football: AS Roma - Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250823015500 +0700" stop="20250823025000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20250824034500 +0700" stop="20250824054500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Norwich City - Middlesbrough</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823025000 +0700" stop="20250823045500 +0700" channel="COSMOTE Sport 4 HD">
@@ -286,8 +282,8 @@
     <title>Basketball: Atlanta Dream - N.Y. Liberty (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250823014500 +0700" stop="20250823024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20250824033000 +0700" stop="20250824053000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Virtus Bologna - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823024500 +0700" stop="20250823040000 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,13 +390,17 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823011500 +0700" stop="20250823030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jaume Munar - Marton Fucsovics</title>
+<programme start="20250824030000 +0700" stop="20250824040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823030000 +0700" stop="20250823053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Sebastian Korda - Marton Fucsovics (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250823030000 +0700" stop="20250823050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Hamad Madjedovic - Giovanni Mpetshi Perricard</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250823050000 +0700" stop="20250823053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E7</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823053000 +0700" stop="20250823080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
@@ -469,6 +469,10 @@
 <programme start="20250824014500 +0700" stop="20250824034500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: AC Milan - Cremonese (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250824034500 +0700" stop="20250824040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823020000 +0700" stop="20250823040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Derby County - Bristol City (L)</title>
@@ -551,6 +555,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824023000 +0700" stop="20250824030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250824030000 +0700" stop="20250824040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
