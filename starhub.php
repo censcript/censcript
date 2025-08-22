@@ -8380,8 +8380,8 @@
     <programme start="20250822141500 +0000" stop="20250822150000 +0000" channel="SPOTV2.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+    <programme start="20250822150000 +0000" stop="20250822230000 +0000" channel="SPOTV2.starhub">
+        <title>Day 5</title>
     </programme>
     <programme start="20250821154500 +0000" stop="20250821161000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>

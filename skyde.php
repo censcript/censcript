@@ -970,46 +970,46 @@
 <programme start="20250821220000 +0000" stop="20250822060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20250822060000 +0000" stop="20250822061000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822060000 +0000" stop="20250822063000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250822061000 +0000" stop="20250822064000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822063000 +0000" stop="20250822065000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 1. Spieltag</title>
 </programme>
-<programme start="20250822064000 +0000" stop="20250822073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822065000 +0000" stop="20250822075000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 2. Spieltag</title>
 </programme>
-<programme start="20250822073000 +0000" stop="20250822093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822075000 +0000" stop="20250822094000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 25/26: AS Monaco - AC Le Havre</title>
 </programme>
-<programme start="20250822093000 +0000" stop="20250822113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822094000 +0000" stop="20250822114000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 25/26: Stade Rennes - Olympique Marseille</title>
 </programme>
-<programme start="20250822113000 +0000" stop="20250822120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822114000 +0000" stop="20250822121000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250822120000 +0000" stop="20250822135000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822121000 +0000" stop="20250822135000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Espanyol Barcelona - Atlético Madrid</title>
 </programme>
 <programme start="20250822135000 +0000" stop="20250822141500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250822141500 +0000" stop="20250822150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822141500 +0000" stop="20250822151000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 2. Spieltag</title>
 </programme>
-<programme start="20250822150000 +0000" stop="20250822153000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822151000 +0000" stop="20250822154000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250822153000 +0000" stop="20250822173000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822154000 +0000" stop="20250822173000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Madrid - CA Osasuna</title>
 </programme>
 <programme start="20250822173000 +0000" stop="20250822180500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250822180500 +0000" stop="20250822183500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822180500 +0000" stop="20250822183000 +0000" channel="DAZN 1 HD.skyde">
     <title>Get Wild: 1. Episode</title>
 </programme>
-<programme start="20250822183500 +0000" stop="20250822204500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250822183000 +0000" stop="20250822204500 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 25/26: PSG - Angers SCO</title>
 </programme>
 <programme start="20250822204500 +0000" stop="20250822223500 +0000" channel="DAZN 1 HD.skyde">
@@ -2854,14 +2854,20 @@
 <programme start="20250822211500 +0000" stop="20250822234500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfB Stuttgart - FC Bayern München, Franz-Beckenbauer-Supercup 2025</title>
 </programme>
+<programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>BL: TSG Hoffenheim - FC Bayern München, 34. Spieltag</title>
+</programme>
 <programme start="20250822164000 +0000" stop="20250822170000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
 <programme start="20250822170000 +0000" stop="20250822181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FCB - RBL: tipico Countdown, Flutlicht-Freitag, 1. Spieltag</title>
 </programme>
-<programme start="20250822181500 +0000" stop="20250822211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250822181500 +0000" stop="20250822214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - RB Leipzig, Flutlicht-Freitag, 1. Spieltag</title>
+</programme>
+<programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>BL: RB Leipzig - VfB Stuttgart, 34. Spieltag</title>
 </programme>
 <programme start="20250822154000 +0000" stop="20250822160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -2869,8 +2875,11 @@
 <programme start="20250822160000 +0000" stop="20250822183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 3. Spieltag</title>
 </programme>
-<programme start="20250822183000 +0000" stop="20250822191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250822183000 +0000" stop="20250822193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 3. Spieltag, Freitag</title>
+</programme>
+<programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+    <title>BL: 1. FC Heidenheim - Werder Bremen, 34. Spieltag</title>
 </programme>
 <programme start="20250822154000 +0000" stop="20250822160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>2. BL: Es folgt</title>
@@ -2878,13 +2887,16 @@
 <programme start="20250822160000 +0000" stop="20250822183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - 1. FC Kaiserslautern, 3. Spieltag</title>
 </programme>
-<programme start="20250822183000 +0000" stop="20250822203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250822183000 +0000" stop="20250822204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCB - RBL, 1. Spieltag</title>
+</programme>
+<programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>BL: SC Freiburg - Eintracht Frankfurt, 34. Spieltag</title>
 </programme>
 <programme start="20250822154000 +0000" stop="20250822160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>2. BL: Es folgt</title>
 </programme>
-<programme start="20250822160000 +0000" stop="20250822183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250822160000 +0000" stop="20250822184500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - 1. FC Nürnberg, 3. Spieltag</title>
 </programme>
 <programme start="20250822090000 +0000" stop="20250822120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2956,7 +2968,7 @@
 <programme start="20250822213000 +0000" stop="20250822222000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>GTWC: Highlights: Magny Cours (Sprint Cup)</title>
 </programme>
-<programme start="20250821220000 +0000" stop="20250822010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250821221000 +0000" stop="20250822010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Betfred British Masters hosted by Sir Nick Faldo, 1. Tag in Sutton Coldfield (England)</title>
 </programme>
 <programme start="20250822010000 +0000" stop="20250822040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3266,16 +3278,16 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: VF3, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
+    <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: VF4, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
+    <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20250822023000 +0000" stop="20250822043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: S. Korda (USA) - M. Kecmanovic (SRB), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20250822043000 +0000" stop="20250822063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: VF2, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 2</title>
+    <title>ATP 250: J. Munar (ESP) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20250822063000 +0000" stop="20250822070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3290,10 +3302,10 @@
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20250822104500 +0000" stop="20250822124500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: VF3, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
+    <title>ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20250822124500 +0000" stop="20250822144500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: VF4, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
+    <title>ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20250822144500 +0000" stop="20250822151500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
@@ -3304,14 +3316,14 @@
 <programme start="20250822200000 +0000" stop="20250822220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: HF1, Winston-Salem Open in Winston-Salem, North Carolina (USA), Halbfinale 1</title>
 </programme>
-<programme start="20250821220000 +0000" stop="20250821223000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250821220500 +0000" stop="20250821223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250821223000 +0000" stop="20250822003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: VF3, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
+    <title>Live ATP 250: H. Medjedovic (SRB) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20250822003000 +0000" stop="20250822023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: VF4, Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
+    <title>Live ATP 250: Y. Bu (CHN) - B. van de Zandschulp (NED), Winston-Salem Open in Winston-Salem, North Carolina (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20250822023000 +0000" stop="20250822032500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: The Catch-Up Show</title>
