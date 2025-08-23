@@ -2231,16 +2231,16 @@
         <title>ATP Doco Shorts (CC): Times Rafael Nadal Refused To Lose</title>
     </programme>
     <programme start="20250823010000 +0000" stop="20250823023000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 4 Auger-Aliassime v Mpetshi Perricard</title>
+        <title>ATP Tour 250 2025 Stuttgart Day 4 Auger-Aliassime v Mpetshi Perricard</title>
     </programme>
     <programme start="20250823023000 +0000" stop="20250823040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Stuttgart Day 4 Zverev v Moutet</title>
+        <title>ATP Tour 250 2025 Stuttgart Day 4 Zverev v Moutet</title>
     </programme>
     <programme start="20250823040000 +0000" stop="20250823053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem SF 1</title>
+        <title>ATP Tour 250 2025 Stuttgart Day 4 Nakashima v Tien</title>
     </programme>
     <programme start="20250823053000 +0000" stop="20250823070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Winston-Salem SF 2</title>
+        <title>ATP Tour 250 2025 Winston-Salem SF 2 Mpetshi Perricard v Van de Zandschulp</title>
     </programme>
     <programme start="20250823070000 +0000" stop="20250823080000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Cincinnati</title>
@@ -2249,22 +2249,22 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250823083000 +0000" stop="20250823084200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Andy Murray Funniest Moments</title>
+        <title>Andy Murray Funniest Moments</title>
     </programme>
     <programme start="20250823084200 +0000" stop="20250823104200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2025: Men&#039;s Singles Rd 1 Nishikori v Monteiro</title>
+        <title>Best Of AO 2025 Men&#039;s Singles Rd 1 Nishikori v Monteiro</title>
     </programme>
     <programme start="20250823104200 +0000" stop="20250823131200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Women&#039;s Rugby World Cup 2025: Australia vs Samoa (Live)</title>
+        <title>Women&#039;s Rugby World Cup 2025 Australia vs Samoa (Live)</title>
     </programme>
     <programme start="20250823131200 +0000" stop="20250823132700 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Sinner Feature</title>
+        <title>Sinner Feature</title>
     </programme>
     <programme start="20250823132700 +0000" stop="20250823155700 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Women&#039;s Rugby World Cup 2025: Scotland vs Wales (Live)</title>
+        <title>Women&#039;s Rugby World Cup 2025 Scotland vs Wales (Live)</title>
     </programme>
     <programme start="20250823155700 +0000" stop="20250823161200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Andy Murray Destroying The Big Three</title>
+        <title>Andy Murray Destroying The Big Three</title>
     </programme>
     <programme start="20250822160000 +0000" stop="20250822170000 +0000" channel="TVB Xing He.starhub">
         <title>Police Station No. 7</title>
