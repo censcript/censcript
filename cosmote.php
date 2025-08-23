@@ -82,14 +82,6 @@
     <title>Football: AEK - Panserraikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250824000000 +0700" stop="20250824003000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250824003000 +0700" stop="20250824010000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250824010000 +0700" stop="20250824013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
@@ -144,6 +136,10 @@
 </programme>
 <programme start="20250824234500 +0700" stop="20250825014500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250825014500 +0700" stop="20250825034500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823233000 +0700" stop="20250824013000 +0700" channel="COSMOTE Sport 3 HD">
@@ -206,13 +202,13 @@
     <title>Football: Cagliari - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250823220500 +0700" stop="20250824000500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Besiktas</title>
+<programme start="20250825013000 +0700" stop="20250825014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250824000500 +0700" stop="20250824010000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250825014500 +0700" stop="20250825034500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Juventus Football Club - Parma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250824010000 +0700" stop="20250824033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Dream - N.Y. Liberty (L)</title>
@@ -257,6 +253,10 @@
 <programme start="20250824233000 +0700" stop="20250825013000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Como - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250825013000 +0700" stop="20250825023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824000000 +0700" stop="20250824020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Anorthosis Famagusta - Omonia Aradippou (L)</title>
@@ -360,6 +360,10 @@
 </programme>
 <programme start="20250825002500 +0700" stop="20250825014500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250825014500 +0700" stop="20250825032500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823233000 +0700" stop="20250824013000 +0700" channel="COSMOTE Sport 6 HD">
@@ -514,8 +518,16 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823230000 +0700" stop="20250824010000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Handball: Fuchse Berlin - THW Kiel (L)</title>
+<programme start="20250825010000 +0700" stop="20250825013000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250825013000 +0700" stop="20250825014500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250825014500 +0700" stop="20250825034500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Atalanta - Pisa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250824010000 +0700" stop="20250824013000 +0700" channel="COSMOTE Sport 8 HD">
