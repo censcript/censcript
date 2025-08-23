@@ -2720,7 +2720,7 @@
     <title>Es folgt: Live Tennis ATP</title>
 </programme>
 <programme start="20250823210000 +0000" stop="20250824020000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 250: B. van de Zandschulp (NED) - M. Fucsovics (HUN) Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
+    <title>Live ATP 250: Finale, Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
 </programme>
 <programme start="20250823143000 +0000" stop="20250823145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
