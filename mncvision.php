@@ -5569,87 +5569,7 @@
 <programme start="20250823153500 +0000" stop="20250823160500 +0000" channel="Lifetime.mncvision">
     <title>Lonely Crime Fanatic</title>
 </programme>
-<programme start="20250822172500 +0000" stop="20250822182000 +0000" channel="Love Nature.mncvision">
-    <title>My Best Friend&#039;s... S1, Ep 5</title>
-</programme>
-<programme start="20250822182000 +0000" stop="20250822191500 +0000" channel="Love Nature.mncvision">
-    <title>My Best Friend&#039;s... S1, Ep 6</title>
-</programme>
-<programme start="20250822191500 +0000" stop="20250822201000 +0000" channel="Love Nature.mncvision">
-    <title>A Wild Year On Earth S1, Ep 6</title>
-</programme>
-<programme start="20250822201000 +0000" stop="20250822210500 +0000" channel="Love Nature.mncvision">
-    <title>13 Hours To Survive S1, Ep 1</title>
-</programme>
-<programme start="20250822210500 +0000" stop="20250822220000 +0000" channel="Love Nature.mncvision">
-    <title>13 Hours To Survive S1, Ep 2</title>
-</programme>
-<programme start="20250822220000 +0000" stop="20250822222500 +0000" channel="Love Nature.mncvision">
-    <title>Battle Of The Alphas S1, Ep 4</title>
-</programme>
-<programme start="20250822222500 +0000" stop="20250822232000 +0000" channel="Love Nature.mncvision">
-    <title>Great Parks Of Africa S2, Ep 5</title>
-</programme>
-<programme start="20250822232000 +0000" stop="20250823001500 +0000" channel="Love Nature.mncvision">
-    <title>Animal Empires S1, Ep 1</title>
-</programme>
-<programme start="20250823001500 +0000" stop="20250823011000 +0000" channel="Love Nature.mncvision">
-    <title>Animal Empires S1, Ep 2</title>
-</programme>
-<programme start="20250823011000 +0000" stop="20250823020500 +0000" channel="Love Nature.mncvision">
-    <title>Animal Empires S1, Ep 3</title>
-</programme>
-<programme start="20250823020500 +0000" stop="20250823030000 +0000" channel="Love Nature.mncvision">
-    <title>Animal Empires S1, Ep 4</title>
-</programme>
-<programme start="20250823030000 +0000" stop="20250823035000 +0000" channel="Love Nature.mncvision">
-    <title>Animal Empires S1, Ep 5</title>
-</programme>
-<programme start="20250823035000 +0000" stop="20250823044000 +0000" channel="Love Nature.mncvision">
-    <title>Animal Empires S1, Ep 6</title>
-</programme>
-<programme start="20250823044000 +0000" stop="20250823053500 +0000" channel="Love Nature.mncvision">
-    <title>Tales From Zambia S2, Ep 6</title>
-</programme>
-<programme start="20250823053500 +0000" stop="20250823063000 +0000" channel="Love Nature.mncvision">
-    <title>Orangutan Jungle... S2, Ep 7</title>
-</programme>
-<programme start="20250823063000 +0000" stop="20250823072500 +0000" channel="Love Nature.mncvision">
-    <title>Tales From Zambia S2, Ep 7</title>
-</programme>
-<programme start="20250823072500 +0000" stop="20250823082000 +0000" channel="Love Nature.mncvision">
-    <title>Tales From Zambia S2, Ep 8</title>
-</programme>
-<programme start="20250823082000 +0000" stop="20250823091500 +0000" channel="Love Nature.mncvision">
-    <title>The Living Beach S1, Ep 1</title>
-</programme>
-<programme start="20250823091500 +0000" stop="20250823101000 +0000" channel="Love Nature.mncvision">
-    <title>Deep Dive North America, Ep 1</title>
-</programme>
-<programme start="20250823101000 +0000" stop="20250823110500 +0000" channel="Love Nature.mncvision">
-    <title>Deep Dive North America, Ep 2</title>
-</programme>
-<programme start="20250823110500 +0000" stop="20250823120000 +0000" channel="Love Nature.mncvision">
-    <title>Deep Dive North America, Ep 3</title>
-</programme>
-<programme start="20250823120000 +0000" stop="20250823125500 +0000" channel="Love Nature.mncvision">
-    <title>Deep Dive North America, Ep 4</title>
-</programme>
-<programme start="20250823125500 +0000" stop="20250823135000 +0000" channel="Love Nature.mncvision">
-    <title>Jaguar Journals S1, Ep 4</title>
-</programme>
-<programme start="20250823135000 +0000" stop="20250823144500 +0000" channel="Love Nature.mncvision">
-    <title>Jaguar Journals S1, Ep 5</title>
-</programme>
-<programme start="20250823144500 +0000" stop="20250823154000 +0000" channel="Love Nature.mncvision">
-    <title>Pridelands: Wilderness Reborn</title>
-</programme>
-<programme start="20250823154000 +0000" stop="20250823163500 +0000" channel="Love Nature.mncvision">
-    <title>Deep Dive North America, Ep 1</title>
-</programme>
-<programme start="20250823163500 +0000" stop="20250822170500 +0000" channel="Love Nature.mncvision">
-    <title>Deep Dive North America, Ep 2</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250822172500 +0000" stop="20250822182000 +0000" channel="Love Nature HD.mncvision">
     <title>My Best Friend&#039;s... S1, Ep 5</title>
 </programme>
@@ -5947,66 +5867,7 @@
 <programme start="20250823075500 +0000" stop="20250823082500 +0000" channel="Metro TV.mncvision">
     <title>Newsline</title>
 </programme>
-<programme start="20250822170000 +0000" stop="20250822190000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn 2</title>
-</programme>
-<programme start="20250822190000 +0000" stop="20250822210000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20250822210000 +0000" stop="20250822220000 +0000" channel="MNCTV.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20250822220000 +0000" stop="20250822233000 +0000" channel="MNCTV.mncvision">
-    <title>Siraman Qolbu</title>
-</programme>
-<programme start="20250822233000 +0000" stop="20250823000000 +0000" channel="MNCTV.mncvision">
-    <title>Thomas &amp; Friends</title>
-</programme>
-<programme start="20250823000000 +0000" stop="20250823003000 +0000" channel="MNCTV.mncvision">
-    <title>Zak Storm</title>
-</programme>
-<programme start="20250823003000 +0000" stop="20250823010000 +0000" channel="MNCTV.mncvision">
-    <title>Blaze Sang Pembalap</title>
-</programme>
-<programme start="20250823010000 +0000" stop="20250823013000 +0000" channel="MNCTV.mncvision">
-    <title>Simple Rudy</title>
-</programme>
-<programme start="20250823013000 +0000" stop="20250823020000 +0000" channel="MNCTV.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20250823020000 +0000" stop="20250823023000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250823023000 +0000" stop="20250823033000 +0000" channel="MNCTV.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20250823033000 +0000" stop="20250823044500 +0000" channel="MNCTV.mncvision">
-    <title>Kun Anta</title>
-</programme>
-<programme start="20250823044500 +0000" stop="20250823054500 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250823054500 +0000" stop="20250823070000 +0000" channel="MNCTV.mncvision">
-    <title>Putri Duyung &amp; 1001 Keajaiban</title>
-</programme>
-<programme start="20250823070000 +0000" stop="20250823080000 +0000" channel="MNCTV.mncvision">
-    <title>Uang Kaget</title>
-</programme>
-<programme start="20250823080000 +0000" stop="20250823100000 +0000" channel="MNCTV.mncvision">
-    <title>Bedah Rumah</title>
-</programme>
-<programme start="20250823100000 +0000" stop="20250823120000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250823120000 +0000" stop="20250823123000 +0000" channel="MNCTV.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20250823123000 +0000" stop="20250823160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20250823160000 +0000" stop="20250823163000 +0000" channel="MNCTV.mncvision">
-    <title>Catatan Akhir Sekolah</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250822170000 +0000" stop="20250822190000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn 2</title>
 </programme>
