@@ -1,7 +1,3 @@
-<programme start="20250823180000 +0700" stop="20250823183000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250823183000 +0700" stop="20250823203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Charlton Athletic  - Leicester City FC (L)</title>
     <desc>Live: Ya</desc>
@@ -154,8 +150,8 @@
     <title>Football: AC Milan - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823165000 +0700" stop="20250823190000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al-Qadsiah - Al Ahli</title>
+<programme start="20250824191500 +0700" stop="20250824213000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823190000 +0700" stop="20250823213000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,8 +214,8 @@
     <title>Football: Charlton Athletic  - Leicester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823175500 +0700" stop="20250823181500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20250824193000 +0700" stop="20250824213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823181500 +0700" stop="20250823190500 +0700" channel="COSMOTE Sport 4 HD">
@@ -278,9 +274,9 @@
     <title>Basketball: Virtus Bologna - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823174500 +0700" stop="20250823184000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250824190000 +0700" stop="20250824210500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Trapani</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823184000 +0700" stop="20250823194500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
@@ -470,8 +466,8 @@
     <title>Tennis: Botic van de Zandschulp - Marton Fucsovics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250823180000 +0700" stop="20250823183000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250824190000 +0700" stop="20250824213000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250823183000 +0700" stop="20250823200000 +0700" channel="COSMOTE Sport 7 HD">
