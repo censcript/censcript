@@ -2195,7 +2195,7 @@
         <title>Movie - Vetaiyadu Viliayadu</title>
     </programme>
     <programme start="20250823133000 +0000" stop="20250823170000 +0000" channel="KTV HD.starhub">
-        <title>Movie -Venghai</title>
+        <title>Movie - Venghai</title>
     </programme>
     <programme start="20250822160000 +0000" stop="20250822161500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Classic Shorts (CC): Federer v Monfils 2010</title>

@@ -3028,7 +3028,7 @@
 <programme start="20250822223500 +0000" stop="20250823013500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Betfred British Masters hosted by Sir Nick Faldo, 2. Tag in Sutton Coldfield (England)</title>
 </programme>
-<programme start="20250823013500 +0000" stop="20250823044000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250823013500 +0000" stop="20250823041500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tour Championship, 2. Tag in Atlanta, GA (USA)</title>
 </programme>
 <programme start="20250823044000 +0000" stop="20250823045500 +0000" channel="Sky Sport Golf HD.skyde">
