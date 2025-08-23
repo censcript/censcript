@@ -2707,7 +2707,7 @@
 <programme start="20250822220000 +0000" stop="20250822223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>US Open: Tournament Preview 2025</title>
 </programme>
-<programme start="20250822223000 +0000" stop="20250823080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250822223000 +0000" stop="20250823023000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: B. van de Zandschulp (NED) - G. Mpetshi Perricard (FRA), Winston-Salem Open in Winston-Salem, North Carolina (USA), Halbfinale 2</title>
 </programme>
 <programme start="20250823143000 +0000" stop="20250823145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2860,7 +2860,7 @@
 <programme start="20250823180000 +0000" stop="20250823210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - VfL Bochum, tipico Topspiel der Woche, 3. Spieltag</title>
 </programme>
-<programme start="20250823210000 +0000" stop="20250823221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250823210000 +0000" stop="20250823220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 3. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20250823101000 +0000" stop="20250823103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2899,7 +2899,7 @@
 <programme start="20250823130000 +0000" stop="20250823131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCH - WOB: tipico Countdown, 1. Spieltag</title>
 </programme>
-<programme start="20250823131500 +0000" stop="20250823160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250823131500 +0000" stop="20250823154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - VfL Wolfsburg, 1. Spieltag</title>
 </programme>
 <programme start="20250823114000 +0000" stop="20250823120000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2908,7 +2908,7 @@
 <programme start="20250823120000 +0000" stop="20250823130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: tipico Countdown, 1. Spieltag</title>
 </programme>
-<programme start="20250823130000 +0000" stop="20250823154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20250823130000 +0000" stop="20250823153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 1. Spieltag</title>
 </programme>
 <programme start="20250823101000 +0000" stop="20250823103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -3028,7 +3028,7 @@
 <programme start="20250822223500 +0000" stop="20250823013500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Betfred British Masters hosted by Sir Nick Faldo, 2. Tag in Sutton Coldfield (England)</title>
 </programme>
-<programme start="20250823013500 +0000" stop="20250823044000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250823013500 +0000" stop="20250823041500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tour Championship, 2. Tag in Atlanta, GA (USA)</title>
 </programme>
 <programme start="20250823044000 +0000" stop="20250823045500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3307,14 +3307,11 @@
 <programme start="20250823010000 +0000" stop="20250823013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250823013000 +0000" stop="20250823033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250823013000 +0000" stop="20250823030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: M. Bouzková - J. Alexandrowa, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
 </programme>
-<programme start="20250823033000 +0000" stop="20250823053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250823033000 +0000" stop="20250823060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Parks (USA) - D. Schneider, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
-</programme>
-<programme start="20250823053000 +0000" stop="20250823060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250823080000 +0000" stop="20250823100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: HF2, Winston-Salem Open in Winston-Salem, North Carolina (USA), Halbfinale 2</title>
@@ -3327,9 +3324,6 @@
 </programme>
 <programme start="20250823113000 +0000" stop="20250823133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Parks (USA) - D. Schneider, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
-</programme>
-<programme start="20250823133000 +0000" stop="20250823153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Bouzková - J. Alexandrowa, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
 </programme>
 <programme start="20250823153000 +0000" stop="20250823163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2024</title>
@@ -3352,11 +3346,8 @@
 <programme start="20250823010000 +0000" stop="20250823013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250823013000 +0000" stop="20250823033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250823013000 +0000" stop="20250823030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: M. Bouzková - J. Alexandrowa, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
-</programme>
-<programme start="20250823033000 +0000" stop="20250823040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 2. Spieltag (Freitag)</title>
 </programme>
 <programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Meine Geschichte: Das Leben von Loris Karius</title>
@@ -3400,8 +3391,8 @@
 <programme start="20250822224000 +0000" stop="20250822230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250822230000 +0000" stop="20250823080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: HF 1, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
+<programme start="20250822230000 +0000" stop="20250823023000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: A. Parks (USA) - D. Schneider, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
 </programme>
 <programme start="20250823133000 +0000" stop="20250823135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
