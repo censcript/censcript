@@ -670,12 +670,6 @@
 <programme start="20250822230000 +0000" stop="20250823003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250823003000 +0000" stop="20250823023000 +0000" channel="ANTV.vision">
-<title>Khana</title>
-</programme>
-<programme start="20250823023000 +0000" stop="20250823060000 +0000" channel="ANTV.vision">
-<title>Singham</title>
-</programme>
 <programme start="20250823060000 +0000" stop="20250823083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250823173000 +0000" stop="20250823180000 +0000" channel="BTV.vision">
 <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250823180000 +0000" stop="20250823180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20250823180300 +0000" stop="20250823190000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
