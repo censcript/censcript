@@ -3307,11 +3307,14 @@
 <programme start="20250823010000 +0000" stop="20250823013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250823013000 +0000" stop="20250823030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250823013000 +0000" stop="20250823033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: M. Bouzková - J. Alexandrowa, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
 </programme>
-<programme start="20250823033000 +0000" stop="20250823060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250823033000 +0000" stop="20250823053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Parks (USA) - D. Schneider, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
+</programme>
+<programme start="20250823053000 +0000" stop="20250823060000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250823080000 +0000" stop="20250823100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: HF2, Winston-Salem Open in Winston-Salem, North Carolina (USA), Halbfinale 2</title>
@@ -3324,6 +3327,9 @@
 </programme>
 <programme start="20250823113000 +0000" stop="20250823133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Parks (USA) - D. Schneider, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
+</programme>
+<programme start="20250823133000 +0000" stop="20250823153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Bouzková - J. Alexandrowa, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
 </programme>
 <programme start="20250823153000 +0000" stop="20250823163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2024</title>
@@ -3346,8 +3352,11 @@
 <programme start="20250823010000 +0000" stop="20250823013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250823013000 +0000" stop="20250823030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250823013000 +0000" stop="20250823033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: M. Bouzková - J. Alexandrowa, Abierto GNP Securos in Monterrey (MEX), Halbfinale</title>
+</programme>
+<programme start="20250823033000 +0000" stop="20250823040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Preview, 2. Spieltag (Freitag)</title>
 </programme>
 <programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Meine Geschichte: Das Leben von Loris Karius</title>
