@@ -1042,68 +1042,80 @@
 <programme start="20250824205000 +0000" stop="20250824220000 +0000" channel="DAZN 2 HD.skyde">
     <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 1. Spieltag</title>
 </programme>
-<programme start="20250823231000 +0000" stop="20250824003500 +0000" channel="Heimatkanal.skyde">
-    <title>Davon träumen alle Mädchen</title>
+<programme start="20250822221500 +0000" stop="20250822224500 +0000" channel="Heimatkanal.skyde">
+    <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20250824003500 +0000" stop="20250824020500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Hauptmann von Köpenick</title>
+<programme start="20250822224500 +0000" stop="20250822233500 +0000" channel="Heimatkanal.skyde">
+    <title>Großstadtrevier</title>
 </programme>
-<programme start="20250824020500 +0000" stop="20250824023000 +0000" channel="Heimatkanal.skyde">
-    <title>Ottis Aquarium</title>
+<programme start="20250822233500 +0000" stop="20250823010500 +0000" channel="Heimatkanal.skyde">
+    <title>Christina</title>
 </programme>
-<programme start="20250824023000 +0000" stop="20250824040500 +0000" channel="Heimatkanal.skyde">
-    <title>Pension Schöller</title>
-</programme>
-<programme start="20250824040500 +0000" stop="20250824050500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20250824050500 +0000" stop="20250824060500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20250824060500 +0000" stop="20250824065000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250824065000 +0000" stop="20250824074000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250824074000 +0000" stop="20250824082500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250824082500 +0000" stop="20250824091000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250824091000 +0000" stop="20250824100000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20250824100000 +0000" stop="20250824105000 +0000" channel="Heimatkanal.skyde">
-    <title>Musikparade</title>
-</programme>
-<programme start="20250824105000 +0000" stop="20250824115000 +0000" channel="Heimatkanal.skyde">
-    <title>Alles Liebe VIP: Rainhard Fendrich</title>
-</programme>
-<programme start="20250824115000 +0000" stop="20250824132000 +0000" channel="Heimatkanal.skyde">
-    <title>Meine Tochter und ich</title>
-</programme>
-<programme start="20250824132000 +0000" stop="20250824150000 +0000" channel="Heimatkanal.skyde">
-    <title>Oh Jonathan - Oh Jonathan!</title>
-</programme>
-<programme start="20250824150000 +0000" stop="20250824163500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Zwillinge vom Immenhof</title>
-</programme>
-<programme start="20250824163500 +0000" stop="20250824172500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250823010500 +0000" stop="20250823015500 +0000" channel="Heimatkanal.skyde">
     <title>Der Bergdoktor</title>
 </programme>
-<programme start="20250824172500 +0000" stop="20250824181500 +0000" channel="Heimatkanal.skyde">
+<programme start="20250823015500 +0000" stop="20250823024000 +0000" channel="Heimatkanal.skyde">
     <title>Die Bergretter</title>
 </programme>
-<programme start="20250824181500 +0000" stop="20250824201000 +0000" channel="Heimatkanal.skyde">
-    <title>Ludwig II. - Glanz und Ende eines Königs</title>
+<programme start="20250823024000 +0000" stop="20250823024500 +0000" channel="Heimatkanal.skyde">
+    <title>Bergretter im Interview: Luise Bähr</title>
 </programme>
-<programme start="20250824201000 +0000" stop="20250824214500 +0000" channel="Heimatkanal.skyde">
-    <title>Lausbubengeschichten</title>
+<programme start="20250823024500 +0000" stop="20250823025500 +0000" channel="Heimatkanal.skyde">
+    <title>Bei uns zu Gast</title>
 </programme>
-<programme start="20250824214500 +0000" stop="20250824231000 +0000" channel="Heimatkanal.skyde">
-    <title>Tante Frieda - Neue Lausbubengeschichten</title>
+<programme start="20250823025500 +0000" stop="20250823042000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Unverbesserlichen</title>
+</programme>
+<programme start="20250823042000 +0000" stop="20250823050500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20250823050500 +0000" stop="20250823055500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20250823055500 +0000" stop="20250823064000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250823064000 +0000" stop="20250823073000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250823073000 +0000" stop="20250823082000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250823082000 +0000" stop="20250823090500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250823090500 +0000" stop="20250823100000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20250823100000 +0000" stop="20250823113500 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20250823113500 +0000" stop="20250823131000 +0000" channel="Heimatkanal.skyde">
+    <title>Im singenden Rössl am Königssee</title>
+</programme>
+<programme start="20250823131000 +0000" stop="20250823131500 +0000" channel="Heimatkanal.skyde">
+    <title>Kleine Sünden</title>
+</programme>
+<programme start="20250823131500 +0000" stop="20250823144500 +0000" channel="Heimatkanal.skyde">
+    <title>Schäm dich, Brigitte</title>
+</programme>
+<programme start="20250823144500 +0000" stop="20250823161000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Unverbesserlichen</title>
+</programme>
+<programme start="20250823161000 +0000" stop="20250823171000 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250823171000 +0000" stop="20250823181500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20250823181500 +0000" stop="20250823200000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Zürcher Verlobung</title>
+</programme>
+<programme start="20250823200000 +0000" stop="20250823214000 +0000" channel="Heimatkanal.skyde">
+    <title>Der eiserne Gustav</title>
+</programme>
+<programme start="20250823214000 +0000" stop="20250823231000 +0000" channel="Heimatkanal.skyde">
+    <title>Hallo Taxi</title>
 </programme>
 <programme start="20250823223500 +0000" stop="20250823232500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Wie man einen Krieg verliert</title>
