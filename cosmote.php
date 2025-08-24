@@ -1,7 +1,3 @@
-<programme start="20250825022500 +0700" stop="20250825050000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250825050000 +0700" stop="20250825073000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -52,10 +48,6 @@
 </programme>
 <programme start="20250826040000 +0700" stop="20250826060000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Ferencvarosi TC - Qarabag FK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250825034500 +0700" stop="20250825041500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825041500 +0700" stop="20250825063000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,10 +108,6 @@
 </programme>
 <programme start="20250826044500 +0700" stop="20250826070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Asteras Aktor</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250825034500 +0700" stop="20250825044500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825044500 +0700" stop="20250825054500 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,8 +234,8 @@
     <title>Basketball: Armani Milano - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825032500 +0700" stop="20250825045500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20250826055000 +0700" stop="20250826081500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825045500 +0700" stop="20250825062500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +338,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825023000 +0700" stop="20250825050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Botic van de Zandschulp - Marton Fucsovics</title>
+<programme start="20250826053500 +0700" stop="20250826070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825050000 +0700" stop="20250825071000 +0700" channel="COSMOTE Sport 6 HD">
@@ -430,12 +418,8 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825040000 +0700" stop="20250825043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250825043000 +0700" stop="20250825050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250826052500 +0700" stop="20250826090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: Oktagon 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825050000 +0700" stop="20250825080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -494,13 +478,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825023000 +0700" stop="20250825043000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: SC Braga - AVS Futebol (L)</title>
+<programme start="20250826050000 +0700" stop="20250826080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250825043000 +0700" stop="20250825050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825050000 +0700" stop="20250825060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
