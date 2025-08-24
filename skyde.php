@@ -2539,7 +2539,7 @@
 <programme start="20250824211000 +0000" stop="20250824220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Boyzone: Zwischen Ruhm und Tragödie</title>
 </programme>
-<programme start="20250823221500 +0000" stop="20250824001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250823220000 +0000" stop="20250824001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - SV Oberbank Ried, 4. Runde</title>
 </programme>
 <programme start="20250824001500 +0000" stop="20250824021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2611,19 +2611,19 @@
 <programme start="20250824143000 +0000" stop="20250824145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250824145000 +0000" stop="20250824170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250824145000 +0000" stop="20250824173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - SK Rapid, 4. Runde</title>
 </programme>
 <programme start="20250824143000 +0000" stop="20250824145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250824145000 +0000" stop="20250824170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250824145000 +0000" stop="20250824173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - TSV Egger Glas Hartberg, 4. Runde</title>
 </programme>
 <programme start="20250824143000 +0000" stop="20250824145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250824145000 +0000" stop="20250824170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250824145000 +0000" stop="20250824173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: SCR Altach - Grazer AK 1902, 4. Runde</title>
 </programme>
 <programme start="20250824142500 +0000" stop="20250824144500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2632,11 +2632,11 @@
 <programme start="20250824144500 +0000" stop="20250824150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: US Open Daily</title>
 </programme>
-<programme start="20250824150000 +0000" stop="20250825050000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250824150000 +0000" stop="20250825080000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: Die Konferenz, 1. Tag</title>
 </programme>
 <programme start="20250823224500 +0000" stop="20250823234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 3. Spieltag, Samstag komplett</title>
+    <title>BL: Alle Spiele, alle Stimmen, 1. Spieltag</title>
 </programme>
 <programme start="20250823234500 +0000" stop="20250824014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: FC St. Pauli - Borussia Dortmund, tipico Topspiel der Woche, 1. Spieltag</title>
@@ -2749,7 +2749,7 @@
 <programme start="20250824160000 +0000" stop="20250824173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20250824173000 +0000" stop="20250824181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250824173000 +0000" stop="20250824184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: BMG - HSV, 1. Spieltag</title>
 </programme>
 <programme start="20250824104000 +0000" stop="20250824110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2767,19 +2767,19 @@
 <programme start="20250824153000 +0000" stop="20250824173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FSV Mainz 05 - 1. FC Köln, 1. Spieltag</title>
 </programme>
-<programme start="20250824173000 +0000" stop="20250824193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250824173000 +0000" stop="20250824200000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia M&#039;gladbach - Hamburger SV, 1. Spieltag</title>
 </programme>
 <programme start="20250824104000 +0000" stop="20250824110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250824110000 +0000" stop="20250824133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250824110000 +0000" stop="20250824140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - Dynamo Dresden, 3. Spieltag</title>
 </programme>
 <programme start="20250824104000 +0000" stop="20250824110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250824110000 +0000" stop="20250824133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250824110000 +0000" stop="20250824140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth -  Holstein Kiel, 3. Spieltag</title>
 </programme>
 <programme start="20250823220000 +0000" stop="20250823233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2875,7 +2875,7 @@
 <programme start="20250824213000 +0000" stop="20250824220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Ungarn</title>
 </programme>
-<programme start="20250823230000 +0000" stop="20250824020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250823233000 +0000" stop="20250824020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Betfred British Masters hosted by Sir Nick Faldo, 3. Tag in Sutton Coldfield (England)</title>
 </programme>
 <programme start="20250824020000 +0000" stop="20250824050000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3031,13 +3031,13 @@
 <programme start="20250824213000 +0000" stop="20250824220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250823225500 +0000" stop="20250824005500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250823230000 +0000" stop="20250824010000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Arsenal - Leeds United, 2. Spieltag</title>
 </programme>
-<programme start="20250824005500 +0000" stop="20250824012000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250824010000 +0000" stop="20250824012500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 2. Spieltag</title>
 </programme>
-<programme start="20250824012000 +0000" stop="20250824032000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20250824012500 +0000" stop="20250824032000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester City - Tottenham Hotspur, 2. Spieltag</title>
 </programme>
 <programme start="20250824032000 +0000" stop="20250824034500 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3131,13 +3131,13 @@
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250824003000 +0000" stop="20250824030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Abierto GNP Securos in Monterrey (MEX), Finale</title>
+    <title>Live WTA 500: E. Alexandrova - D. Shnaider, Abierto GNP Securos in Monterrey (MEX), Finale</title>
 </programme>
 <programme start="20250824030000 +0000" stop="20250824053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
+    <title>ATP 250: B. van de Zandschulp (NED) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
 </programme>
 <programme start="20250824053000 +0000" stop="20250824080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Abierto GNP Securos in Monterrey (MEX), Finale</title>
+    <title>WTA 500: E. Alexandrova - D. Shnaider, Abierto GNP Securos in Monterrey (MEX), Finale</title>
 </programme>
 <programme start="20250824080000 +0000" stop="20250824081500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
@@ -3167,7 +3167,7 @@
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250824003000 +0000" stop="20250824030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, Abierto GNP Securos in Monterrey (MEX), Finale</title>
+    <title>Live WTA 500: E. Alexandrova - D. Shnaider, Abierto GNP Securos in Monterrey (MEX), Finale</title>
 </programme>
 <programme start="20250824030000 +0000" stop="20250824050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Goal Rush: BRE - AVL, Premier League Konferenz, 2. Spieltag</title>
@@ -3235,25 +3235,25 @@
 <programme start="20250824154000 +0000" stop="20250824160000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250824160000 +0000" stop="20250825050000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250824160000 +0000" stop="20250825080000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 1. Tag</title>
 </programme>
 <programme start="20250824144000 +0000" stop="20250824150000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250824150000 +0000" stop="20250825050000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250824150000 +0000" stop="20250825080000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 1. Tag</title>
 </programme>
 <programme start="20250824123000 +0000" stop="20250824125000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250824125000 +0000" stop="20250824150000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250824125000 +0000" stop="20250824153000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Crystal Palace - Nottingham Forest, 2. Spieltag</title>
 </programme>
 <programme start="20250824141000 +0000" stop="20250824143000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt Live Golf DP World Tour</title>
 </programme>
-<programme start="20250824143000 +0000" stop="20250824170000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20250824143000 +0000" stop="20250824173000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live Golf: Betfred British Masters hosted by Sir Nick Faldo, 4. Tag in Sutton Coldfield (England)</title>
 </programme>
 <programme start="20250823220500 +0000" stop="20250823230500 +0000" channel="SYFY HD.skyde">

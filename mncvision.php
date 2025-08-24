@@ -6367,8 +6367,306 @@
 <programme start="20250824090000 +0000" stop="20250824093000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250823170000 +0000" stop="20250823170500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250823170500 +0000" stop="20250823173000 +0000" channel="NHK World Premium.mncvision">
+    <title>Go! Go! Cook R&#039;n</title>
+</programme>
+<programme start="20250823173000 +0000" stop="20250823180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Nyan-Chu! Space! Broadcasting!</title>
+</programme>
+<programme start="20250823180000 +0000" stop="20250823182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20250823182500 +0000" stop="20250823183000 +0000" channel="NHK World Premium.mncvision">
+    <title>No Art, No Life</title>
+</programme>
+<programme start="20250823183000 +0000" stop="20250823184500 +0000" channel="NHK World Premium.mncvision">
+    <title>Anpan</title>
+</programme>
+<programme start="20250823184500 +0000" stop="20250823194500 +0000" channel="NHK World Premium.mncvision">
+    <title>Seiji&#039;s Nomitetsu Railroad Trip</title>
+</programme>
+<programme start="20250823194500 +0000" stop="20250823195600 +0000" channel="NHK World Premium.mncvision">
+    <title>Train Driver&#039;s Cab View Mini</title>
+</programme>
+<programme start="20250823195600 +0000" stop="20250823200000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250823200000 +0000" stop="20250823201000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mix Bijutune!</title>
+</programme>
+<programme start="20250823201000 +0000" stop="20250823205900 +0000" channel="NHK World Premium.mncvision">
+    <title>Project X: The Challengers</title>
+</programme>
+<programme start="20250823205900 +0000" stop="20250823210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250823210000 +0000" stop="20250823211000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250823211000 +0000" stop="20250823215300 +0000" channel="NHK World Premium.mncvision">
+    <title>Strange Tales Of Oichi, Ep 1</title>
+</programme>
+<programme start="20250823215300 +0000" stop="20250823215500 +0000" channel="NHK World Premium.mncvision">
+    <title>Weather</title>
+</programme>
+<programme start="20250823215500 +0000" stop="20250823220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250823220000 +0000" stop="20250823224500 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20250823224500 +0000" stop="20250823225900 +0000" channel="NHK World Premium.mncvision">
+    <title>Natural Grandeur Of The East</title>
+</programme>
+<programme start="20250823225900 +0000" stop="20250823230000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250823230000 +0000" stop="20250823232500 +0000" channel="NHK World Premium.mncvision">
+    <title>Gentle Journeys</title>
+</programme>
+<programme start="20250823232500 +0000" stop="20250823235000 +0000" channel="NHK World Premium.mncvision">
+    <title>Dear Japan</title>
+</programme>
+<programme start="20250823235000 +0000" stop="20250824000000 +0000" channel="NHK World Premium.mncvision">
+    <title>Design Ah! Neo</title>
+</programme>
+<programme start="20250824000000 +0000" stop="20250824010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Sunday Debate</title>
+</programme>
+<programme start="20250824010000 +0000" stop="20250824010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250824010500 +0000" stop="20250824015000 +0000" channel="NHK World Premium.mncvision">
+    <title>Ideas To Protect Ourselves...</title>
+</programme>
+<programme start="20250824015000 +0000" stop="20250824015500 +0000" channel="NHK World Premium.mncvision">
+    <title>Fish Masters</title>
+</programme>
+<programme start="20250824015500 +0000" stop="20250824020000 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20250824020000 +0000" stop="20250824024500 +0000" channel="NHK World Premium.mncvision">
+    <title>Teruko &amp; Lui, Ep 6</title>
+</programme>
+<programme start="20250824024500 +0000" stop="20250824025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Koh Kentetsu&#039;s Food Travelogue</title>
+</programme>
+<programme start="20250824025000 +0000" stop="20250824025600 +0000" channel="NHK World Premium.mncvision">
+    <title>Ukiyoe Edo-Life</title>
+</programme>
+<programme start="20250824025600 +0000" stop="20250824030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250824030000 +0000" stop="20250824031500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250824031500 +0000" stop="20250824040000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK Amateur Singing Contest</title>
+</programme>
+<programme start="20250824040000 +0000" stop="20250824040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250824040500 +0000" stop="20250824053500 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs Of Japanese Spirit</title>
+</programme>
+<programme start="20250824053500 +0000" stop="20250824060000 +0000" channel="NHK World Premium.mncvision">
+    <title>Gretel&#039;s Magical Oven</title>
+</programme>
+<programme start="20250824060000 +0000" stop="20250824073000 +0000" channel="NHK World Premium.mncvision">
+    <title>Sada Masashi Concert 2025</title>
+</programme>
+<programme start="20250824073000 +0000" stop="20250824080000 +0000" channel="NHK World Premium.mncvision">
+    <title>My Sparkling Treasures</title>
+</programme>
+<programme start="20250824080000 +0000" stop="20250824090000 +0000" channel="NHK World Premium.mncvision">
+    <title>Visualization Entertainment</title>
+</programme>
+<programme start="20250824090000 +0000" stop="20250824090500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20250824090500 +0000" stop="20250824094300 +0000" channel="NHK World Premium.mncvision">
+    <title>Visualization Entertainment</title>
+</programme>
+<programme start="20250824094300 +0000" stop="20250824095900 +0000" channel="NHK World Premium.mncvision">
+    <title>Nosy&#039;s Inspiring Atelier</title>
+</programme>
+<programme start="20250824095900 +0000" stop="20250824100000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20250824100000 +0000" stop="20250824103000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News</title>
+</programme>
+<programme start="20250824103000 +0000" stop="20250824110000 +0000" channel="NHK World Premium.mncvision">
+    <title>Darwin&#039;s Amazing Animals</title>
+</programme>
+<programme start="20250824110000 +0000" stop="20250824114500 +0000" channel="NHK World Premium.mncvision">
+    <title>Unbound, Ep 32</title>
+</programme>
+<programme start="20250824114500 +0000" stop="20250824120000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20250824120000 +0000" stop="20250824122900 +0000" channel="NHK World Premium.mncvision">
+    <title>Time To Fantasize Before Sleep</title>
+</programme>
+<programme start="20250824122900 +0000" stop="20250824124400 +0000" channel="NHK World Premium.mncvision">
+    <title>Ramen Japan</title>
+</programme>
+<programme start="20250824124400 +0000" stop="20250824131400 +0000" channel="NHK World Premium.mncvision">
+    <title>Giant Trees In Japan Mini</title>
+</programme>
+<programme start="20250823170000 +0000" stop="20250823172500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250823172500 +0000" stop="20250823174500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250823174500 +0000" stop="20250823183000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250823183000 +0000" stop="20250823184000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250823184000 +0000" stop="20250823190500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250823190500 +0000" stop="20250823193000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250823193000 +0000" stop="20250823195000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250823195000 +0000" stop="20250823201000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250823201000 +0000" stop="20250823202000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250823202000 +0000" stop="20250823202500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250823202500 +0000" stop="20250823203500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250823203500 +0000" stop="20250823204000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823204000 +0000" stop="20250823204500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823204500 +0000" stop="20250823205000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823205000 +0000" stop="20250823205500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823205500 +0000" stop="20250823210000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823210000 +0000" stop="20250823210500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823210500 +0000" stop="20250823211000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823211000 +0000" stop="20250823211500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823211500 +0000" stop="20250823214000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250823214000 +0000" stop="20250823220000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250823220000 +0000" stop="20250823222500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250823222500 +0000" stop="20250823224500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250823224500 +0000" stop="20250823233000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250823233000 +0000" stop="20250823235500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250823235500 +0000" stop="20250824001500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250824001500 +0000" stop="20250824004000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250824004000 +0000" stop="20250824010000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250824010000 +0000" stop="20250824012500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250824012500 +0000" stop="20250824014500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250824014500 +0000" stop="20250824021000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250824021000 +0000" stop="20250824021500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250824021500 +0000" stop="20250824022000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250824022000 +0000" stop="20250824023000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250824023000 +0000" stop="20250824025000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250824025000 +0000" stop="20250824030000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250824030000 +0000" stop="20250824034000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250824034000 +0000" stop="20250824035500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250824035500 +0000" stop="20250824040000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824040000 +0000" stop="20250824040500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824040500 +0000" stop="20250824041000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824041000 +0000" stop="20250824041500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824041500 +0000" stop="20250824042000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250824042000 +0000" stop="20250824043000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250824043000 +0000" stop="20250824045000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250824045000 +0000" stop="20250824050000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250824050000 +0000" stop="20250824052500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250824052500 +0000" stop="20250824054500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250824054500 +0000" stop="20250824063000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250824063000 +0000" stop="20250824070000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
 <programme start="20250823170500 +0000" stop="20250823173000 +0000" channel="Nickelodeon.mncvision">
     <title>The Casagrandes</title>
 </programme>
@@ -6519,7 +6817,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250824120500 +0000" stop="20250824123500 +0000" channel="Nickelodeon.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250823170000 +0000" stop="20250823172500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250823172500 +0000" stop="20250823174500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250823174500 +0000" stop="20250823183000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250823183000 +0000" stop="20250823184000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250823184000 +0000" stop="20250823190500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250823190500 +0000" stop="20250823193000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250823193000 +0000" stop="20250823195000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250823195000 +0000" stop="20250823201000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250823201000 +0000" stop="20250823202000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250823202000 +0000" stop="20250823202500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250823202500 +0000" stop="20250823203500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250823203500 +0000" stop="20250823204000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823204000 +0000" stop="20250823204500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823204500 +0000" stop="20250823205000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823205000 +0000" stop="20250823205500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823205500 +0000" stop="20250823210000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823210000 +0000" stop="20250823210500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823210500 +0000" stop="20250823211000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823211000 +0000" stop="20250823211500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250823211500 +0000" stop="20250823214000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250823214000 +0000" stop="20250823220000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250823220000 +0000" stop="20250823222500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250823222500 +0000" stop="20250823224500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250823224500 +0000" stop="20250823233000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250823233000 +0000" stop="20250823235500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250823235500 +0000" stop="20250824001500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family</title>
+</programme>
+<programme start="20250824001500 +0000" stop="20250824004000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Adventures Of Paddington</title>
+</programme>
+<programme start="20250824004000 +0000" stop="20250824010000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250824010000 +0000" stop="20250824012500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20250824012500 +0000" stop="20250824014500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250824014500 +0000" stop="20250824021000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250824021000 +0000" stop="20250824021500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250824021500 +0000" stop="20250824022000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250824022000 +0000" stop="20250824023000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Sharkdog</title>
+</programme>
+<programme start="20250824023000 +0000" stop="20250824025000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250824025000 +0000" stop="20250824030000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Baby Shark&#039;s Big Show!</title>
+</programme>
+<programme start="20250824030000 +0000" stop="20250824034000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250824034000 +0000" stop="20250824035500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20250824035500 +0000" stop="20250824040000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824040000 +0000" stop="20250824040500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824040500 +0000" stop="20250824041000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824041000 +0000" stop="20250824041500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20250824041500 +0000" stop="20250824042000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250824042000 +0000" stop="20250824043000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Anna &amp; Friends</title>
+</programme>
+<programme start="20250824043000 +0000" stop="20250824045000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250824045000 +0000" stop="20250824050000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Tiny Chef Show</title>
+</programme>
+<programme start="20250824050000 +0000" stop="20250824052500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20250824052500 +0000" stop="20250824054500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>The Creature Cases</title>
+</programme>
+<programme start="20250824054500 +0000" stop="20250824063000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20250824063000 +0000" stop="20250824070000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
 <programme start="20250823180500 +0000" stop="20250823194500 +0000" channel="ONE.mncvision">
     <title>World Dice Tour S1, Ep 4</title>
 </programme>
@@ -7336,7 +7783,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250824163000 +0000" stop="20250823170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>Special Report</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250823183000 +0000" stop="20250823203000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Qual.: BHR Vs KSA</title>
+</programme>
+<programme start="20250823203000 +0000" stop="20250823210000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250823210000 +0000" stop="20250823213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20250823213000 +0000" stop="20250823233000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs KGZ</title>
+</programme>
+<programme start="20250823233000 +0000" stop="20250824013000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Qual.: BHR Vs KSA</title>
+</programme>
+<programme start="20250824013000 +0000" stop="20250824033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2024/25: FCB Vs RBL</title>
+</programme>
+<programme start="20250824033000 +0000" stop="20250824040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250824040000 +0000" stop="20250824060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250824060000 +0000" stop="20250824080000 +0000" channel="Soccer Channel.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250824080000 +0000" stop="20250824100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2024/25: STP Vs BVB</title>
+</programme>
+<programme start="20250824100000 +0000" stop="20250824110000 +0000" channel="Soccer Channel.mncvision">
+    <title>Goal Arena: The Bundesliga...</title>
+</programme>
+<programme start="20250824110000 +0000" stop="20250824123000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Qual.: QAT Vs IRN</title>
+</programme>
+<programme start="20250824123000 +0000" stop="20250824143000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs CAM</title>
+</programme>
+<programme start="20250824143000 +0000" stop="20250824150000 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Football Spc.</title>
+</programme>
+<programme start="20250824150000 +0000" stop="20250824153000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga: BMG Vs HSV (L)</title>
+</programme>
 <programme start="20250823183000 +0000" stop="20250823203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Qual.: BHR Vs KSA</title>
 </programme>
