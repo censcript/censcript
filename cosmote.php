@@ -1,7 +1,3 @@
-<programme start="20250824200000 +0700" stop="20250824210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2024-25 E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250824210000 +0700" stop="20250824220000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
@@ -52,6 +48,10 @@
 </programme>
 <programme start="20250825190000 +0700" stop="20250825213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250825213000 +0700" stop="20250825220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824191500 +0700" stop="20250824213000 +0700" channel="COSMOTE Sport 2 HD">
@@ -108,6 +108,10 @@
 </programme>
 <programme start="20250825192000 +0700" stop="20250825212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250825212000 +0700" stop="20250825233500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824193000 +0700" stop="20250824213000 +0700" channel="COSMOTE Sport 3 HD">
@@ -244,14 +248,6 @@
 </programme>
 <programme start="20250825202000 +0700" stop="20250825222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250824183000 +0700" stop="20250824202000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250824202000 +0700" stop="20250824205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824205000 +0700" stop="20250824214000 +0700" channel="COSMOTE Sport 5 HD">
@@ -420,14 +416,6 @@
 </programme>
 <programme start="20250825200500 +0700" stop="20250825220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: CSM Volei Alba Blaj - Igor Gorgonzola Novara</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250824200000 +0700" stop="20250824203000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250824203000 +0700" stop="20250824210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824210000 +0700" stop="20250824220000 +0700" channel="COSMOTE Sport 7 HD">
