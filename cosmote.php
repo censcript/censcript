@@ -1,7 +1,3 @@
-<programme start="20250824223000 +0700" stop="20250825001500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250825001500 +0700" stop="20250825022500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Panserraikos (L)</title>
     <desc>Live: Ya</desc>
@@ -110,6 +106,10 @@
     <title>Football: Juventus Football Club - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250826014500 +0700" stop="20250826034500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Torino (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250824233000 +0700" stop="20250825013000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Cagliari - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
@@ -174,6 +174,10 @@
     <title>Football: Udinese - Hellas Verona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250826013000 +0700" stop="20250826033000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Rangers FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250824233000 +0700" stop="20250825013000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Como - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
@@ -236,10 +240,6 @@
 </programme>
 <programme start="20250826004500 +0700" stop="20250826023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250824230500 +0700" stop="20250825002500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825002500 +0700" stop="20250825014500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,6 +338,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250826010000 +0700" stop="20250826023000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250825000000 +0700" stop="20250825020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: FC Porto - Casa Pia (L)</title>
     <desc>Live: Ya</desc>
@@ -414,8 +418,8 @@
     <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825000000 +0700" stop="20250825010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250826015500 +0700" stop="20250826030000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825010000 +0700" stop="20250825013000 +0700" channel="COSMOTE Sport 7 HD">

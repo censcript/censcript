@@ -562,9 +562,6 @@
 <programme start="20250824090000 +0000" stop="20250824100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250824100000 +0000" stop="20250824130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Hungary (L)</title>
-</programme>
 <programme start="20250824130000 +0000" stop="20250824143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -645,12 +642,6 @@
 </programme>
 <programme start="20250823230000 +0000" stop="20250824003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
-</programme>
-<programme start="20250824003000 +0000" stop="20250824023000 +0000" channel="ANTV.vision">
-<title>Pandangan Pertama</title>
-</programme>
-<programme start="20250824023000 +0000" stop="20250824060000 +0000" channel="ANTV.vision">
-<title>Kabhi Haan Kabhi Naa</title>
 </programme>
 <programme start="20250824060000 +0000" stop="20250824083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1496,5 +1487,14 @@
 <title>BTV</title>
 </programme>
 <programme start="20250825030000 +0000" stop="20250825040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250825040000 +0000" stop="20250825050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250825050000 +0000" stop="20250825060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250825060000 +0000" stop="20250825064500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
