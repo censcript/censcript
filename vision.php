@@ -646,6 +646,9 @@
 <programme start="20250823230000 +0000" stop="20250824003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250824003000 +0000" stop="20250824023000 +0000" channel="ANTV.vision">
+<title>Pandangan Pertama</title>
+</programme>
 <programme start="20250824023000 +0000" stop="20250824060000 +0000" channel="ANTV.vision">
 <title>Kabhi Haan Kabhi Naa</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250825030000 +0000" stop="20250825040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250825040000 +0000" stop="20250825050000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
