@@ -1895,7 +1895,7 @@
         <title>Bundesliga 2025/26 FC Union vs Stuttgart</title>
     </programme>
     <programme start="20250824083000 +0000" stop="20250824102000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies African Nations C&#039;ship, KE-TZ-UG 2024 Sudan vs Algeria - QF 4</title>
+        <title>Bundesliga 2025/26 St. Pauli vs Dortmund</title>
     </programme>
     <programme start="20250824102000 +0000" stop="20250824112000 +0000" channel="beIN Sports 3.starhub">
         <title>Matchday 2</title>

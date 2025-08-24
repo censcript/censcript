@@ -62,6 +62,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250825150000 +0700" stop="20250825170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FK Crvena Zvezda - Pafos FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250824130000 +0700" stop="20250824151500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +122,8 @@
     <title>Football: Cagliari - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250824123000 +0700" stop="20250824150000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Ahli</title>
+<programme start="20250825151000 +0700" stop="20250825171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824150000 +0700" stop="20250824173000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,10 +190,6 @@
     <title>Football: St. Mirren - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250824123000 +0700" stop="20250824143000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250824143000 +0700" stop="20250824170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Atlanta Dream - N.Y. Liberty</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +250,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250824132500 +0700" stop="20250824143500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250825154500 +0700" stop="20250825175000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Trapani</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824143500 +0700" stop="20250824150500 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,8 +362,8 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250824133000 +0700" stop="20250824143000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250825152000 +0700" stop="20250825163000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250824143000 +0700" stop="20250824153000 +0700" channel="COSMOTE Sport 6 HD">
