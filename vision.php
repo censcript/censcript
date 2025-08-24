@@ -532,6 +532,9 @@
 <programme start="20250824000000 +0000" stop="20250824010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250824010000 +0000" stop="20250824013000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
+</programme>
 <programme start="20250824013000 +0000" stop="20250824023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -645,6 +648,9 @@
 </programme>
 <programme start="20250823230000 +0000" stop="20250824003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
+</programme>
+<programme start="20250824003000 +0000" stop="20250824023000 +0000" channel="ANTV.vision">
+<title>Pandangan Pertama</title>
 </programme>
 <programme start="20250824023000 +0000" stop="20250824060000 +0000" channel="ANTV.vision">
 <title>Kabhi Haan Kabhi Naa</title>
@@ -819,6 +825,9 @@
 </programme>
 <programme start="20250825110000 +0000" stop="20250825122900 +0000" channel="RTV.vision">
 <title>RTV</title>
+</programme>
+<programme start="20250823233000 +0000" stop="20250824010000 +0000" channel="TVOne.vision">
+<title>Kabar Indonesia Pagi (L)</title>
 </programme>
 <programme start="20250824010000 +0000" stop="20250824013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
@@ -1487,14 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250825011500 +0000" stop="20250825021500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250825021500 +0000" stop="20250825030000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250825030000 +0000" stop="20250825040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250825040000 +0000" stop="20250825050000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
