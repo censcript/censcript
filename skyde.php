@@ -3130,10 +3130,10 @@
 <programme start="20250824000000 +0000" stop="20250824003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250824003000 +0000" stop="20250824030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250824003000 +0000" stop="20250824033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: E. Alexandrova - D. Shnaider, Abierto GNP Securos in Monterrey (MEX), Finale</title>
 </programme>
-<programme start="20250824030000 +0000" stop="20250824053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250824033000 +0000" stop="20250824053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. van de Zandschulp (NED) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
 </programme>
 <programme start="20250824053000 +0000" stop="20250824080000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3166,10 +3166,10 @@
 <programme start="20250824000000 +0000" stop="20250824003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250824003000 +0000" stop="20250824030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250824003000 +0000" stop="20250824033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: E. Alexandrova - D. Shnaider, Abierto GNP Securos in Monterrey (MEX), Finale</title>
 </programme>
-<programme start="20250824030000 +0000" stop="20250824050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250824033000 +0000" stop="20250824050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Goal Rush: BRE - AVL, Premier League Konferenz, 2. Spieltag</title>
 </programme>
 <programme start="20250824050000 +0000" stop="20250824053000 +0000" channel="Sky Sport Top Event HD.skyde">

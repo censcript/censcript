@@ -7852,10 +7852,10 @@
     <programme start="20250823163000 +0000" stop="20250823193000 +0000" channel="Asianet Movies.starhub">
         <title>Balram vs Tharadas</title>
     </programme>
-    <programme start="20250823193000 +0000" stop="20250823213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250823193000 +0000" stop="20250823214500 +0000" channel="Asianet Movies.starhub">
         <title>Njandukalude nattil oridavela</title>
     </programme>
-    <programme start="20250823213000 +0000" stop="20250823233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250823214500 +0000" stop="20250823233000 +0000" channel="Asianet Movies.starhub">
         <title>Maniyarakallan</title>
     </programme>
     <programme start="20250823233000 +0000" stop="20250824013000 +0000" channel="Asianet Movies.starhub">
