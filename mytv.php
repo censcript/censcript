@@ -155,7 +155,7 @@
         <title> Thuế và đời sống</title>
     </programme>
     <programme start="20250825205500 +0000" stop="20250825210000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Có anh, nơi ấy bình yên - Tập 16</title>
+        <title> Phim truyện: Có anh nơi ấy bình yên - Tập 16</title>
     </programme>
     <programme start="20250825210000 +0000" stop="20250825213000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>

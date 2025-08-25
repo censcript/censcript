@@ -1277,7 +1277,7 @@
     <title>SailGP S5: Sassnitz Day 2</title>
 </programme>
 <programme start="20250824230000 +0000" stop="20250825005000 +0000" channel="beIN Sports 3.mncvision">
-    <title>CHAN 2024: SDN Vs ALG</title>
+    <title>CHAN 2024: TAN Vs MAR</title>
 </programme>
 <programme start="20250825005000 +0000" stop="20250825012000 +0000" channel="beIN Sports 3.mncvision">
     <title>The Outdoor Sports Show 2025</title>
@@ -1331,7 +1331,7 @@
     <title>SailGP S5: Sassnitz Day 2</title>
 </programme>
 <programme start="20250824230000 +0000" stop="20250825005000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>CHAN 2024: SDN Vs ALG</title>
+    <title>CHAN 2024: TAN Vs MAR</title>
 </programme>
 <programme start="20250825005000 +0000" stop="20250825012000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>The Outdoor Sports Show 2025</title>
