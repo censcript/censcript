@@ -118,6 +118,10 @@
     <title>Football: AEK - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250826192000 +0700" stop="20250826212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250825180000 +0700" stop="20250825200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Derby County - Bristol City</title>
     <desc>Live: Tidak</desc>
@@ -172,6 +176,10 @@
 </programme>
 <programme start="20250826174500 +0700" stop="20250826194500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Internacional - Flamengo</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250826194500 +0700" stop="20250826214500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Godoy Cruz - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825175000 +0700" stop="20250825195000 +0700" channel="COSMOTE Sport 4 HD">
@@ -326,8 +334,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825170500 +0700" stop="20250825180500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20250826192000 +0700" stop="20250826205000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825180500 +0700" stop="20250825191000 +0700" channel="COSMOTE Sport 6 HD">
