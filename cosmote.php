@@ -182,10 +182,6 @@
     <title>Football: SK Sturm Graz - FK Bodo/Glimt (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250826004500 +0700" stop="20250826023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250826023000 +0700" stop="20250826032000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -242,12 +238,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250826010000 +0700" stop="20250826023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250826023000 +0700" stop="20250826030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
+<programme start="20250827034500 +0700" stop="20250827055000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Armani Milano - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826030000 +0700" stop="20250826040000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,10 +330,6 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250826015500 +0700" stop="20250826030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250826030000 +0700" stop="20250826035500 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -400,6 +388,10 @@
 </programme>
 <programme start="20250827012500 +0700" stop="20250827035500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250827035500 +0700" stop="20250827050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Boxing: Adam Azim - Sergey Lipinets</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826020000 +0700" stop="20250826040000 +0700" channel="COSMOTE Sport 7 HD">
