@@ -737,7 +737,7 @@
         <title>New Day At Arirang</title>
     </programme>
     <programme start="20250825013000 +0000" stop="20250825020000 +0000" channel="Arirang TV HD.starhub">
-        <title>News Generation [L]</title>
+        <title>News Generation</title>
     </programme>
     <programme start="20250825020000 +0000" stop="20250825030000 +0000" channel="Arirang TV HD.starhub">
         <title>Culture Crunch [L]</title>
@@ -800,7 +800,7 @@
         <title>Newscenter</title>
     </programme>
     <programme start="20250825113000 +0000" stop="20250825120000 +0000" channel="Arirang TV HD.starhub">
-        <title>Within The Frame [L]</title>
+        <title>Within The Frame</title>
     </programme>
     <programme start="20250825120000 +0000" stop="20250825123000 +0000" channel="Arirang TV HD.starhub">
         <title>The Kulture Wave</title>
@@ -2980,16 +2980,16 @@
     <programme start="20250825123000 +0000" stop="20250825130000 +0000" channel="Zee Tamil.starhub">
         <title>Ayali</title>
     </programme>
-    <programme start="20250825130000 +0000" stop="20250825132000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250825130000 +0000" stop="20250825132500 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250825132000 +0000" stop="20250825134500 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250825132500 +0000" stop="20250825134500 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250825134500 +0000" stop="20250825140000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250825134500 +0000" stop="20250825141000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250825140000 +0000" stop="20250825143000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250825141000 +0000" stop="20250825143000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
     <programme start="20250825143000 +0000" stop="20250825144500 +0000" channel="Zee Tamil.starhub">
