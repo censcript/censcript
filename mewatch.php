@@ -1022,13 +1022,13 @@
         <title>No Programme available now. Next Broadcast on 25th August, Monday 3pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
     <programme start="20250825070000 +0000" stop="20250825190000 +0000" channel="Live 5.mewatch">
-        <title>TotalEnergies BWF World Championships 2025</title>
+        <title>TotalEnergies BWF World Championships 2025: Round of 64</title>
     </programme>
     <programme start="20250824160000 +0000" stop="20250825070000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 25th August, Monday 3pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
     <programme start="20250825070000 +0000" stop="20250825190000 +0000" channel="Live 6.mewatch">
-        <title>TotalEnergies BWF World Championships 2025</title>
+        <title>TotalEnergies BWF World Championships 2025: Round of 64</title>
     </programme>
     <programme start="20250824160000 +0000" stop="20250825071000 +0000" channel="Live 7.mewatch">
         <title>No Programme available now. Next Broadcast on 25th August, Monday 3.10pm. TotalEnergies BWF World Championships 2025</title>

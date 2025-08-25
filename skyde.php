@@ -3208,7 +3208,7 @@
 <programme start="20250825144000 +0000" stop="20250825150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250825150000 +0000" stop="20250826050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250825150000 +0000" stop="20250826080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 2. Tag</title>
 </programme>
 <programme start="20250824224500 +0000" stop="20250825004500 +0000" channel="SYFY HD.skyde">
