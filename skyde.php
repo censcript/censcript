@@ -2608,7 +2608,7 @@
 <programme start="20250825183000 +0000" stop="20250825185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250825185000 +0000" stop="20250825210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250825185000 +0000" stop="20250825213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Newcastle United - FC Liverpool, 2. Spieltag</title>
 </programme>
 <programme start="20250824220000 +0000" stop="20250824230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2624,7 +2624,7 @@
     <title>2. BL: Dein Spieltags-Sprint (3)</title>
 </programme>
 <programme start="20250825003000 +0000" stop="20250825023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SV Darmstadt 98 - Hertha BSC, 3. Spieltag</title>
+    <title>2. BL: Sonntags-Konferenz, 3. Spieltag</title>
 </programme>
 <programme start="20250825023000 +0000" stop="20250825024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (3)</title>
@@ -3070,7 +3070,7 @@
 <programme start="20250825213000 +0000" stop="20250825233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Newcastle United - FC Liverpool, 2. Spieltag</title>
 </programme>
-<programme start="20250825050000 +0000" stop="20250825060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250825053000 +0000" stop="20250825060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250825060000 +0000" stop="20250825080000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3097,7 +3097,7 @@
 <programme start="20250825150000 +0000" stop="20250826050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: Die Konferenz, 2. Tag</title>
 </programme>
-<programme start="20250825050000 +0000" stop="20250825060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250825053000 +0000" stop="20250825060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 3. Spieltag komplett</title>
 </programme>
 <programme start="20250825060000 +0000" stop="20250825063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3202,13 +3202,13 @@
 <programme start="20250825151000 +0000" stop="20250825153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250825153000 +0000" stop="20250826050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250825153000 +0000" stop="20250826080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 2. Tag</title>
 </programme>
 <programme start="20250825144000 +0000" stop="20250825150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250825150000 +0000" stop="20250826080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250825150000 +0000" stop="20250826050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 2. Tag</title>
 </programme>
 <programme start="20250824224500 +0000" stop="20250825004500 +0000" channel="SYFY HD.skyde">
