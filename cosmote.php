@@ -54,6 +54,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250826230000 +0700" stop="20250826233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250826233000 +0700" stop="20250827000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250825212000 +0700" stop="20250825233500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -87,7 +95,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826110000 +0700" stop="20250826131000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - Atromitos Athens</title>
+    <title>Football: Panetolikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826131000 +0700" stop="20250826151000 +0700" channel="COSMOTE Sport 2 HD">
@@ -107,11 +115,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826212000 +0700" stop="20250826233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - Atromitos Athens</title>
+    <title>Football: Panetolikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825200000 +0700" stop="20250825222000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Barcelona - Flamengo</title>
+<programme start="20250826233000 +0700" stop="20250827013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825222000 +0700" stop="20250825233000 +0700" channel="COSMOTE Sport 3 HD">
@@ -170,8 +178,8 @@
     <title>Football: SC Braga - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825202000 +0700" stop="20250825222000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Virtus Bologna</title>
+<programme start="20250826234500 +0700" stop="20250827020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Charlton Athletic  - Leicester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250825222000 +0700" stop="20250826004500 +0700" channel="COSMOTE Sport 4 HD">
@@ -322,13 +330,9 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250825220000 +0700" stop="20250825223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250825223000 +0700" stop="20250825230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E4</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250826234500 +0700" stop="20250827015000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: FC Kairat Almaty - Celtic FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250825230000 +0700" stop="20250826003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin (L)</title>
