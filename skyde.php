@@ -2710,7 +2710,7 @@
 <programme start="20250826180000 +0000" stop="20250826185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20250826185000 +0000" stop="20250826213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250826185000 +0000" stop="20250826220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: SK Sturm Graz -  FK Bodo/Glimt, Playoff Rückspiele, Dienstag</title>
 </programme>
 <programme start="20250826174000 +0000" stop="20250826180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3193,13 +3193,13 @@
 <programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: EVE - BRI, 2. Spieltag</title>
 </programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826054500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826050000 +0000" stop="20250826051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250826054500 +0000" stop="20250826074500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826051500 +0000" stop="20250826074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - M. McDonald (USA), 2. Tag</title>
 </programme>
 <programme start="20250826074500 +0000" stop="20250826094500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3286,7 +3286,7 @@
 <programme start="20250826151000 +0000" stop="20250826153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250826153000 +0000" stop="20250827050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250826153000 +0000" stop="20250827080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 3. Tag</title>
 </programme>
 <programme start="20250826144000 +0000" stop="20250826150000 +0000" channel="Sky Sport 2 HD.skyde">
