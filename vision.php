@@ -263,7 +263,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="iNews.vision">
-<title>Pemimpin Rakyat (iNews)</title>
+<title>Speak After Lunch: DPRD Bekasi</title>
 </programme>
 <programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="iNews.vision">
 <title>Silet</title>
@@ -680,19 +680,16 @@
 <title>Catatan Hati</title>
 </programme>
 <programme start="20250826003000 +0000" stop="20250826023000 +0000" channel="ANTV.vision">
-<title>Boleh Dong Untung Terus</title>
+<title>Cintaku Di Rumah Susun</title>
 </programme>
 <programme start="20250826023000 +0000" stop="20250826060000 +0000" channel="ANTV.vision">
 <title>Main Hoon Na</title>
 </programme>
-<programme start="20250826060000 +0000" stop="20250826080000 +0000" channel="ANTV.vision">
+<programme start="20250826060000 +0000" stop="20250826083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250826080000 +0000" stop="20250826090000 +0000" channel="ANTV.vision">
-<title>Nath</title>
-</programme>
-<programme start="20250826090000 +0000" stop="20250826100000 +0000" channel="ANTV.vision">
-<title>Parineetii</title>
+<programme start="20250826083000 +0000" stop="20250826100000 +0000" channel="ANTV.vision">
+<title>Jadi Aku Sebentar Saja</title>
 </programme>
 <programme start="20250826100000 +0000" stop="20250826120000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -725,19 +722,16 @@
 <title>Catatan Hati</title>
 </programme>
 <programme start="20250827003000 +0000" stop="20250827023000 +0000" channel="ANTV.vision">
-<title>Cintaku Di Rumah Susun</title>
+<title>Boleh Dong Untung Terus</title>
 </programme>
 <programme start="20250827023000 +0000" stop="20250827060000 +0000" channel="ANTV.vision">
 <title>Prem Ratan Dhan Payo</title>
 </programme>
-<programme start="20250827060000 +0000" stop="20250827080000 +0000" channel="ANTV.vision">
+<programme start="20250827060000 +0000" stop="20250827083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250827080000 +0000" stop="20250827090000 +0000" channel="ANTV.vision">
-<title>Nath</title>
-</programme>
-<programme start="20250827090000 +0000" stop="20250827100000 +0000" channel="ANTV.vision">
-<title>Parineetii</title>
+<programme start="20250827083000 +0000" stop="20250827100000 +0000" channel="ANTV.vision">
+<title>Jadi Aku Sebentar Saja</title>
 </programme>
 <programme start="20250827100000 +0000" stop="20250827120000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1412,89 +1406,95 @@
 <title>Primetime News</title>
 </programme>
 <programme start="20250825230300 +0000" stop="20250826003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826003000 +0000" stop="20250826011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826011500 +0000" stop="20250826021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826021500 +0000" stop="20250826030000 +0000" channel="BTV.vision">
-<title>Selera Rasa</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826030000 +0000" stop="20250826040000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826040000 +0000" stop="20250826050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826050000 +0000" stop="20250826060000 +0000" channel="BTV.vision">
-<title>Spot On</title>
+<title>BTV</title>
 </programme>
-<programme start="20250826060000 +0000" stop="20250826070000 +0000" channel="BTV.vision">
-<title>Ketulusan Hati</title>
+<programme start="20250826060000 +0000" stop="20250826064500 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
-<programme start="20250826070000 +0000" stop="20250826080000 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
+<programme start="20250826064500 +0000" stop="20250826073000 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
-<programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
+<programme start="20250826073000 +0000" stop="20250826081500 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
-<programme start="20250826083000 +0000" stop="20250826090000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<programme start="20250826081500 +0000" stop="20250826091500 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
-<programme start="20250826090000 +0000" stop="20250826100000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
+<programme start="20250826091500 +0000" stop="20250826100000 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
 <programme start="20250826100000 +0000" stop="20250826110000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826110000 +0000" stop="20250826120000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826120000 +0000" stop="20250826130000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826130000 +0000" stop="20250826140000 +0000" channel="BTV.vision">
-<title>Spot On</title>
+<title>BTV</title>
 </programme>
-<programme start="20250826140000 +0000" stop="20250826143000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
-</programme>
-<programme start="20250826143000 +0000" stop="20250826150000 +0000" channel="BTV.vision">
-<title>Ekspos</title>
+<programme start="20250826140000 +0000" stop="20250826150000 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
 <programme start="20250826150000 +0000" stop="20250826160000 +0000" channel="BTV.vision">
-<title>Berita Satu Malam</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826160000 +0000" stop="20250826170000 +0000" channel="BTV.vision">
-<title>Mitos Tengah Malam</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826170000 +0000" stop="20250826180000 +0000" channel="BTV.vision">
-<title>ONE Vault</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826180000 +0000" stop="20250826180300 +0000" channel="BTV.vision">
-<title>Tanah Airku</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826180300 +0000" stop="20250826190000 +0000" channel="BTV.vision">
-<title>ONE Vault</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826190000 +0000" stop="20250826200000 +0000" channel="BTV.vision">
-<title>Mitos Tengah Malam</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826200000 +0000" stop="20250826210000 +0000" channel="BTV.vision">
-<title>Ketulusan Hati</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="BTV.vision">
-<title>Spot On</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826213000 +0000" stop="20250826223000 +0000" channel="BTV.vision">
-<title>Berita Satu Pagi</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826223000 +0000" stop="20250826230000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
+<title>BTV</title>
 </programme>
 <programme start="20250826230000 +0000" stop="20250826230300 +0000" channel="BTV.vision">
-<title>Indonesia Raya</title>
+<title>BTV</title>
+</programme>
+<programme start="20250826230300 +0000" stop="20250827003000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250827003000 +0000" stop="20250827011500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250827011500 +0000" stop="20250827021500 +0000" channel="BTV.vision">
+<title>BTV</title>
 </programme>
