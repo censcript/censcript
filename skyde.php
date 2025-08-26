@@ -2635,16 +2635,13 @@
 <programme start="20250826212500 +0000" stop="20250826220500 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
 </programme>
-<programme start="20250826050000 +0000" stop="20250826054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826053000 +0000" stop="20250826064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250826054500 +0000" stop="20250826061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
-</programme>
-<programme start="20250826061500 +0000" stop="20250826071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826064500 +0000" stop="20250826071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 4. Runde</title>
 </programme>
 <programme start="20250826071500 +0000" stop="20250826073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2680,11 +2677,8 @@
 <programme start="20250826151500 +0000" stop="20250826153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250826153000 +0000" stop="20250826163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826153000 +0000" stop="20250826164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
-</programme>
-<programme start="20250826163000 +0000" stop="20250826164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
 <programme start="20250826164500 +0000" stop="20250826165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: SVR - STU, 3. Runde</title>
@@ -3199,13 +3193,13 @@
 <programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: EVE - BRI, 2. Spieltag</title>
 </programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826054500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826050000 +0000" stop="20250826051500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250826054500 +0000" stop="20250826074500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826051500 +0000" stop="20250826074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - M. McDonald (USA), 2. Tag</title>
 </programme>
 <programme start="20250826074500 +0000" stop="20250826094500 +0000" channel="Sky Sport Tennis HD.skyde">
