@@ -413,16 +413,19 @@
     <title>Catatan Hati</title>
 </programme>
 <programme start="20250826003000 +0000" stop="20250826023000 +0000" channel="ANTV.mncvision">
-    <title>Cintaku Di Rumah Susun</title>
+    <title>Boleh Dong Untung Terus</title>
 </programme>
 <programme start="20250826023000 +0000" stop="20250826060000 +0000" channel="ANTV.mncvision">
     <title>Main Hoon Na</title>
 </programme>
-<programme start="20250826060000 +0000" stop="20250826083000 +0000" channel="ANTV.mncvision">
+<programme start="20250826060000 +0000" stop="20250826080000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250826083000 +0000" stop="20250826100000 +0000" channel="ANTV.mncvision">
-    <title>Jadi Aku Sebentar Saja</title>
+<programme start="20250826080000 +0000" stop="20250826090000 +0000" channel="ANTV.mncvision">
+    <title>Nath</title>
+</programme>
+<programme start="20250826090000 +0000" stop="20250826100000 +0000" channel="ANTV.mncvision">
+    <title>Parineetii</title>
 </programme>
 <programme start="20250826100000 +0000" stop="20250826120000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
@@ -8374,17 +8377,14 @@
 <programme start="20250826043000 +0000" stop="20250826053000 +0000" channel="SPOTV.mncvision">
     <title>WSL Replay: Tahiti Pro Finals</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826090000 +0000" channel="SPOTV.mncvision">
+<programme start="20250826053000 +0000" stop="20250826082500 +0000" channel="SPOTV.mncvision">
     <title>World Archery Youth C&#039;ships</title>
 </programme>
-<programme start="20250826090000 +0000" stop="20250826132000 +0000" channel="SPOTV.mncvision">
+<programme start="20250826082500 +0000" stop="20250826112500 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
-<programme start="20250826132000 +0000" stop="20250826140000 +0000" channel="SPOTV.mncvision">
-    <title>2025 SLS C&#039;ship Tour Cleveland</title>
-</programme>
-<programme start="20250826140000 +0000" stop="20250826150000 +0000" channel="SPOTV.mncvision">
-    <title>WSL Replay: Tahiti Pro Finals</title>
+<programme start="20250826112500 +0000" stop="20250826150000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
 <programme start="20250826150000 +0000" stop="20250826153000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
@@ -8482,17 +8482,14 @@
 <programme start="20250826043000 +0000" stop="20250826053000 +0000" channel="SPOTV HD.mncvision">
     <title>WSL Replay: Tahiti Pro Finals</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826090000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250826053000 +0000" stop="20250826082500 +0000" channel="SPOTV HD.mncvision">
     <title>World Archery Youth C&#039;ships</title>
 </programme>
-<programme start="20250826090000 +0000" stop="20250826132000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250826082500 +0000" stop="20250826112500 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
-<programme start="20250826132000 +0000" stop="20250826140000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 SLS C&#039;ship Tour Cleveland</title>
-</programme>
-<programme start="20250826140000 +0000" stop="20250826150000 +0000" channel="SPOTV HD.mncvision">
-    <title>WSL Replay: Tahiti Pro Finals</title>
+<programme start="20250826112500 +0000" stop="20250826150000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
 <programme start="20250826150000 +0000" stop="20250826153000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>

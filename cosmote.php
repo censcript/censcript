@@ -66,10 +66,6 @@
     <title>Football: SK Sturm Graz - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250826090000 +0700" stop="20250826110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250826110000 +0700" stop="20250826131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20250827090500 +0700" stop="20250827110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250827110000 +0700" stop="20250827131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826100000 +0700" stop="20250826115500 +0700" channel="COSMOTE Sport 3 HD">
@@ -184,6 +184,10 @@
 </programme>
 <programme start="20250827100000 +0700" stop="20250827115500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Nacional - Sporting CP</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250827115500 +0700" stop="20250827135000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Charlton Athletic  - Leicester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826100000 +0700" stop="20250826120000 +0700" channel="COSMOTE Sport 4 HD">
@@ -346,6 +350,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250827113500 +0700" stop="20250827124000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250826100000 +0700" stop="20250826121500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
@@ -410,10 +418,6 @@
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250826080000 +0700" stop="20250826110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250826110000 +0700" stop="20250826113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -469,6 +473,14 @@
 <programme start="20250827080000 +0700" stop="20250827110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250827110000 +0700" stop="20250827113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250827113000 +0700" stop="20250827120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250826100000 +0700" stop="20250826120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

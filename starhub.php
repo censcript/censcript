@@ -5257,17 +5257,11 @@
     <programme start="20250826043000 +0000" stop="20250826053000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250826053000 +0000" stop="20250826090000 +0000" channel="SPOTV.starhub">
+    <programme start="20250826053000 +0000" stop="20250826082500 +0000" channel="SPOTV.starhub">
         <title>Recurve (U18) Finals</title>
     </programme>
-    <programme start="20250826090000 +0000" stop="20250826132000 +0000" channel="SPOTV.starhub">
+    <programme start="20250826082500 +0000" stop="20250826150000 +0000" channel="SPOTV.starhub">
         <title>Day Session - W &amp; M Singles 1st Round</title>
-    </programme>
-    <programme start="20250826132000 +0000" stop="20250826140000 +0000" channel="SPOTV.starhub">
-        <title>Women&#039;s Highlights</title>
-    </programme>
-    <programme start="20250826140000 +0000" stop="20250826150000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20250826150000 +0000" stop="20250826153000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>

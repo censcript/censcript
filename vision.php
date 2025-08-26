@@ -263,7 +263,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="iNews.vision">
-<title>Speak After Lunch: DPRD Bekasi</title>
+<title>Pemimpin Rakyat (iNews)</title>
 </programme>
 <programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="iNews.vision">
 <title>Silet</title>
