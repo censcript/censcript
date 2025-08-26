@@ -568,13 +568,10 @@
 <programme start="20250826031500 +0000" stop="20250826033000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250826033000 +0000" stop="20250826034100 +0000" channel="Cartoonito.skyde">
+<programme start="20250826033000 +0000" stop="20250826034000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250826034100 +0000" stop="20250826034200 +0000" channel="Cartoonito.skyde">
-    <title>Geschichten von Kröterich &amp; Co.</title>
-</programme>
-<programme start="20250826034200 +0000" stop="20250826040000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826034000 +0000" stop="20250826040000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20250826040000 +0000" stop="20250826040500 +0000" channel="Cartoonito.skyde">
@@ -610,10 +607,10 @@
 <programme start="20250826055500 +0000" stop="20250826060000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250826060000 +0000" stop="20250826060500 +0000" channel="Cartoonito.skyde">
+<programme start="20250826060000 +0000" stop="20250826061000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250826060500 +0000" stop="20250826062000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826061000 +0000" stop="20250826062000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250826062000 +0000" stop="20250826063000 +0000" channel="Cartoonito.skyde">
@@ -688,10 +685,10 @@
 <programme start="20250826110500 +0000" stop="20250826112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250826112000 +0000" stop="20250826113000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826112000 +0000" stop="20250826113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250826113000 +0000" stop="20250826115000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826113500 +0000" stop="20250826115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250826115000 +0000" stop="20250826120000 +0000" channel="Cartoonito.skyde">
@@ -748,16 +745,16 @@
 <programme start="20250826151000 +0000" stop="20250826152500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250826152500 +0000" stop="20250826153500 +0000" channel="Cartoonito.skyde">
+<programme start="20250826152500 +0000" stop="20250826154000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250826153500 +0000" stop="20250826155500 +0000" channel="Cartoonito.skyde">
+<programme start="20250826154000 +0000" stop="20250826155500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250826155500 +0000" stop="20250826160000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826155500 +0000" stop="20250826160500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250826160000 +0000" stop="20250826161000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826160500 +0000" stop="20250826161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250826161000 +0000" stop="20250826162500 +0000" channel="Cartoonito.skyde">
@@ -817,10 +814,10 @@
 <programme start="20250826192500 +0000" stop="20250826193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250826193000 +0000" stop="20250826194000 +0000" channel="Cartoonito.skyde">
+<programme start="20250826193000 +0000" stop="20250826193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250826194000 +0000" stop="20250826194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250826193500 +0000" stop="20250826194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250826194500 +0000" stop="20250826200000 +0000" channel="Cartoonito.skyde">
@@ -1016,7 +1013,7 @@
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250826113000 +0000" stop="20250826132500 +0000" channel="DAZN 2 HD.skyde">
-    <title>LaLiga 25/26: Real Oviedo - Real Madrid</title>
+    <title>LaLiga 25/26: UD Levante - FC Barcelona</title>
 </programme>
 <programme start="20250826132500 +0000" stop="20250826140000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -2638,13 +2635,16 @@
 <programme start="20250826212500 +0000" stop="20250826220500 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826050000 +0000" stop="20250826054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250826064500 +0000" stop="20250826071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826054500 +0000" stop="20250826061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
+</programme>
+<programme start="20250826061500 +0000" stop="20250826071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 4. Runde</title>
 </programme>
 <programme start="20250826071500 +0000" stop="20250826073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2680,8 +2680,11 @@
 <programme start="20250826151500 +0000" stop="20250826153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250826153000 +0000" stop="20250826164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826153000 +0000" stop="20250826163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
+</programme>
+<programme start="20250826163000 +0000" stop="20250826164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
 <programme start="20250826164500 +0000" stop="20250826165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: SVR - STU, 3. Runde</title>
@@ -2713,7 +2716,7 @@
 <programme start="20250826180000 +0000" stop="20250826185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20250826185000 +0000" stop="20250826213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250826185000 +0000" stop="20250826220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: SK Sturm Graz -  FK Bodo/Glimt, Playoff Rückspiele, Dienstag</title>
 </programme>
 <programme start="20250826174000 +0000" stop="20250826180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2722,7 +2725,7 @@
 <programme start="20250826180000 +0000" stop="20250826185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20250826185000 +0000" stop="20250826210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250826185000 +0000" stop="20250826220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Pafos - Roter Stern Belgrad, Playoff Rückspiele, Dienstag</title>
 </programme>
 <programme start="20250826162000 +0000" stop="20250826164000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3196,7 +3199,7 @@
 <programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: EVE - BRI, 2. Spieltag</title>
 </programme>
-<programme start="20250826043000 +0000" stop="20250826053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250826053000 +0000" stop="20250826054500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3226,16 +3229,16 @@
 <programme start="20250826150000 +0000" stop="20250827050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: Die Konferenz, 3. Tag</title>
 </programme>
-<programme start="20250826043000 +0000" stop="20250826060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826043000 +0000" stop="20250826053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto3: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826060000 +0000" stop="20250826070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826053000 +0000" stop="20250826063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826070000 +0000" stop="20250826080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826063000 +0000" stop="20250826073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826080000 +0000" stop="20250826100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826073000 +0000" stop="20250826100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: J.-L. Struff (GER) - M. McDonald (USA), 2. Tag</title>
 </programme>
 <programme start="20250826100000 +0000" stop="20250826120000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3271,16 +3274,16 @@
 <programme start="20250826211500 +0000" stop="20250827050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: Die Konferenz, 3. Tag</title>
 </programme>
-<programme start="20250825231500 +0000" stop="20250826001500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250825230000 +0000" stop="20250826000000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826001500 +0000" stop="20250826011500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250826000000 +0000" stop="20250826010000 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826011500 +0000" stop="20250826031500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250826010000 +0000" stop="20250826030000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826031500 +0000" stop="20250826051500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250826030000 +0000" stop="20250826050000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Newcastle United - FC Liverpool, 2. Spieltag</title>
 </programme>
 <programme start="20250826050000 +0000" stop="20250826051500 +0000" channel="Sky Sport UHD.skyde">
@@ -3289,7 +3292,7 @@
 <programme start="20250826151000 +0000" stop="20250826153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250826153000 +0000" stop="20250827080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250826153000 +0000" stop="20250827050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 3. Tag</title>
 </programme>
 <programme start="20250826144000 +0000" stop="20250826150000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3682,13 +3685,13 @@
 <programme start="20250826091000 +0000" stop="20250826105000 +0000" channel="Warner TV Film.skyde">
     <title>Flucht vom Planet der Affen</title>
 </programme>
-<programme start="20250826105000 +0000" stop="20250826122500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250826105000 +0000" stop="20250826123000 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max</title>
 </programme>
-<programme start="20250826122500 +0000" stop="20250826140500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250826123000 +0000" stop="20250826141000 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max 2 - Der Vollstrecker</title>
 </programme>
-<programme start="20250826140500 +0000" stop="20250826161000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250826141000 +0000" stop="20250826161000 +0000" channel="Warner TV Film.skyde">
     <title>Star Trek</title>
 </programme>
 <programme start="20250826161000 +0000" stop="20250826181500 +0000" channel="Warner TV Film.skyde">

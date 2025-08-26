@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250826143000 +0000" stop="20250826150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Why Do So Many...</title>
 </programme>
 <programme start="20250826150000 +0000" stop="20250826160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
