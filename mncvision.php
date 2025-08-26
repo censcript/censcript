@@ -1361,7 +1361,7 @@
     <title>MUTV Match Day: FUL Vs MUN</title>
 </programme>
 <programme start="20250826142300 +0000" stop="20250826163000 +0000" channel="beIN Sports 3.mncvision">
-    <title>TotalEnergies CHAN 2024 (L)</title>
+    <title>CHAN 2024: MAD Vs SDN (L)</title>
 </programme>
 <programme start="20250826163000 +0000" stop="20250825170000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Highlights 2024</title>
@@ -1424,7 +1424,7 @@
     <title>MUTV Match Day: FUL Vs MUN</title>
 </programme>
 <programme start="20250826142300 +0000" stop="20250826163000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>TotalEnergies CHAN 2024 (L)</title>
+    <title>CHAN 2024: MAD Vs SDN (L)</title>
 </programme>
 <programme start="20250826163000 +0000" stop="20250825170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Highlights 2024</title>

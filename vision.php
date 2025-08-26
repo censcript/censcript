@@ -263,7 +263,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="iNews.vision">
-<title>Pemimpin Rakyat (iNews)</title>
+<title>Speak After Lunch: DPRD Bekasi</title>
 </programme>
 <programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="iNews.vision">
 <title>Silet</title>
@@ -681,6 +681,9 @@
 </programme>
 <programme start="20250826003000 +0000" stop="20250826023000 +0000" channel="ANTV.vision">
 <title>Cintaku Di Rumah Susun</title>
+</programme>
+<programme start="20250826023000 +0000" stop="20250826060000 +0000" channel="ANTV.vision">
+<title>Main Hoon Na</title>
 </programme>
 <programme start="20250826060000 +0000" stop="20250826083000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250827011500 +0000" stop="20250827021500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250827021500 +0000" stop="20250827030000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
