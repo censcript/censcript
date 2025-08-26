@@ -2779,8 +2779,8 @@
 <programme start="20250827183000 +0000" stop="20250827185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250827185000 +0000" stop="20250827220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live UEFA CL: Club Brügge - Rangers FC, Playoff Rückspiele, Mittwoch</title>
+<programme start="20250827185000 +0000" stop="20250827210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live UEFA CL: FC Kopenhagen - FC Basel 1893, Playoff Rückspiele, Mittwoch</title>
 </programme>
 <programme start="20250827162000 +0000" stop="20250827164000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
@@ -2794,7 +2794,7 @@
 <programme start="20250827144500 +0000" stop="20250827150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: US Open Daily</title>
 </programme>
-<programme start="20250827150000 +0000" stop="20250828050000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250827150000 +0000" stop="20250828080000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: Die Konferenz, 4. Tag</title>
 </programme>
 <programme start="20250826220000 +0000" stop="20250826223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3322,7 +3322,7 @@
 <programme start="20250827151000 +0000" stop="20250827153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250827153000 +0000" stop="20250828050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250827153000 +0000" stop="20250828080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 4. Tag</title>
 </programme>
 <programme start="20250827144000 +0000" stop="20250827150000 +0000" channel="Sky Sport 2 HD.skyde">
