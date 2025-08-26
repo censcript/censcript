@@ -1040,7 +1040,7 @@
         <title>No Programme available now. Next Broadcast on 26th August, Tuesday 3pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
     <programme start="20250826070000 +0000" stop="20250826190000 +0000" channel="Live 5.mewatch">
-        <title>TotalEnergies BWF World Championships 2025</title>
+        <title>TotalEnergies BWF World Championships 2025: Round of 64/32</title>
     </programme>
     <programme start="20250825070000 +0000" stop="20250825190000 +0000" channel="Live 6.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Round of 64</title>
@@ -1049,9 +1049,15 @@
         <title>No Programme available now. Next Broadcast on 26th August, Tuesday 3pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
     <programme start="20250826070000 +0000" stop="20250826190000 +0000" channel="Live 6.mewatch">
-        <title>TotalEnergies BWF World Championships 2025</title>
+        <title>TotalEnergies BWF World Championships 2025: Round of 64/32</title>
     </programme>
-    <programme start="20250825160000 +0000" stop="20250826160000 +0000" channel="Live 7.mewatch">
+    <programme start="20250825160000 +0000" stop="20250826071000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 26th August, Tuesday 3.10pm. TotalEnergies BWF World Championships 2025</title>
+    </programme>
+    <programme start="20250826071000 +0000" stop="20250826095000 +0000" channel="Live 7.mewatch">
+        <title>TotalEnergies BWF World Championships 2025: Round of 64</title>
+    </programme>
+    <programme start="20250826095000 +0000" stop="20250826160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250826160000 +0000" stop="20250827160000 +0000" channel="Live 7.mewatch">

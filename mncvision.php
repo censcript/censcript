@@ -1610,7 +1610,7 @@
     <title>Kuyliner</title>
 </programme>
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="BTV.mncvision">
-    <title>Ujung-Ujungnya Damkar</title>
+    <title>Dikit-Dikit Damkar</title>
 </programme>
 <programme start="20250826083000 +0000" stop="20250826090000 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
