@@ -182,10 +182,6 @@
     <title>Football: Club Brugge - Rangers FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250827004000 +0700" stop="20250827025000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250827025000 +0700" stop="20250827034500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -238,8 +234,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250827015000 +0700" stop="20250827022500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
+<programme start="20250828034000 +0700" stop="20250828054500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827022500 +0700" stop="20250827040000 +0700" channel="COSMOTE Sport 5 HD">
@@ -340,6 +336,10 @@
 </programme>
 <programme start="20250828022500 +0700" stop="20250828030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250828030000 +0700" stop="20250828040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827012500 +0700" stop="20250827035500 +0700" channel="COSMOTE Sport 6 HD">
