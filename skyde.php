@@ -2074,6 +2074,102 @@
 <programme start="20250826214000 +0000" stop="20250826221000 +0000" channel="Sky Crime HD.skyde">
     <title>Inside FBI - Die härtesten Fälle</title>
 </programme>
+<programme start="20250825221500 +0000" stop="20250825230000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Coast Guard Alaska - Rettung aus der Luft</title>
+</programme>
+<programme start="20250825230000 +0000" stop="20250825235000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Coast Guard Alaska - Rettung aus der Luft</title>
+</programme>
+<programme start="20250825235000 +0000" stop="20250826003500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20250826003500 +0000" stop="20250826012000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20250826012000 +0000" stop="20250826015000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20250826015000 +0000" stop="20250826022000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20250826022000 +0000" stop="20250826025000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20250826025000 +0000" stop="20250826032500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Bob Ross: The Joy of Painting</title>
+</programme>
+<programme start="20250826032500 +0000" stop="20250826035500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Rock Legends</title>
+</programme>
+<programme start="20250826035500 +0000" stop="20250826042500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Rock Legends</title>
+</programme>
+<programme start="20250826042500 +0000" stop="20250826051500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20250826051500 +0000" stop="20250826060000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20250826060000 +0000" stop="20250826065000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20250826065000 +0000" stop="20250826074000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20250826074000 +0000" stop="20250826083000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20250826083000 +0000" stop="20250826091500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Die Deutschen</title>
+</programme>
+<programme start="20250826091500 +0000" stop="20250826100500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Motorway Cops - Verkehrssünder im Visier</title>
+</programme>
+<programme start="20250826100500 +0000" stop="20250826105500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Motorway Cops - Verkehrssünder im Visier</title>
+</programme>
+<programme start="20250826105500 +0000" stop="20250826114500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Motorway Cops - Verkehrssünder im Visier</title>
+</programme>
+<programme start="20250826114500 +0000" stop="20250826123500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Motorway Cops - Verkehrssünder im Visier</title>
+</programme>
+<programme start="20250826123500 +0000" stop="20250826132000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Coast Guard Alaska - Rettung aus der Luft</title>
+</programme>
+<programme start="20250826132000 +0000" stop="20250826141000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Coast Guard Alaska - Rettung aus der Luft</title>
+</programme>
+<programme start="20250826141000 +0000" stop="20250826145500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Coast Guard Florida</title>
+</programme>
+<programme start="20250826145500 +0000" stop="20250826154000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Coast Guard Florida</title>
+</programme>
+<programme start="20250826154000 +0000" stop="20250826163000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20250826163000 +0000" stop="20250826172000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20250826172000 +0000" stop="20250826181000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20250826181000 +0000" stop="20250826190000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826194500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>WWII: Zeugen des Krieges</title>
+</programme>
+<programme start="20250826194500 +0000" stop="20250826203500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>WWII: Zeugen des Krieges</title>
+</programme>
+<programme start="20250826203500 +0000" stop="20250826212500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>WWII: Zeugen des Krieges</title>
+</programme>
+<programme start="20250826212500 +0000" stop="20250826221000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>WWII: Zeugen des Krieges</title>
+</programme>
 <programme start="20250825221000 +0000" stop="20250825234000 +0000" channel="Sky Krimi HD.skyde">
     <title>Nord Nord Mord: Sievers und die stille Nacht</title>
 </programme>
@@ -2539,13 +2635,16 @@
 <programme start="20250826212500 +0000" stop="20250826220500 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826050000 +0000" stop="20250826054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250826064500 +0000" stop="20250826071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826054500 +0000" stop="20250826061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: WAC - SCR, 4. Runde</title>
+</programme>
+<programme start="20250826061500 +0000" stop="20250826071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 4. Runde</title>
 </programme>
 <programme start="20250826071500 +0000" stop="20250826073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2581,8 +2680,11 @@
 <programme start="20250826151500 +0000" stop="20250826153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
-<programme start="20250826153000 +0000" stop="20250826164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250826153000 +0000" stop="20250826163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
+</programme>
+<programme start="20250826163000 +0000" stop="20250826164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Hinspiele</title>
 </programme>
 <programme start="20250826164500 +0000" stop="20250826165500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: SVR - STU, 3. Runde</title>
@@ -3127,16 +3229,16 @@
 <programme start="20250826150000 +0000" stop="20250827050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: Die Konferenz, 3. Tag</title>
 </programme>
-<programme start="20250826043000 +0000" stop="20250826053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826043000 +0000" stop="20250826060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto3: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826053000 +0000" stop="20250826063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826060000 +0000" stop="20250826070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826063000 +0000" stop="20250826073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826070000 +0000" stop="20250826080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250826073000 +0000" stop="20250826100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250826080000 +0000" stop="20250826100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: J.-L. Struff (GER) - M. McDonald (USA), 2. Tag</title>
 </programme>
 <programme start="20250826100000 +0000" stop="20250826120000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3642,4 +3744,91 @@
 </programme>
 <programme start="20250826202500 +0000" stop="20250826224500 +0000" channel="Warner TV Film HD.skyde">
     <title>Mystic River</title>
+</programme>
+<programme start="20250825221500 +0000" stop="20250826004500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Terminator 2 - Tag der Abrechnung (Director&#039;s Cut)</title>
+</programme>
+<programme start="20250826004500 +0000" stop="20250826012500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20250826012500 +0000" stop="20250826020500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20250826020500 +0000" stop="20250826024500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250826024500 +0000" stop="20250826033000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250826033000 +0000" stop="20250826034000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20250826034000 +0000" stop="20250826042500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20250826042500 +0000" stop="20250826052000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250826052000 +0000" stop="20250826061000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250826061000 +0000" stop="20250826070000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250826070000 +0000" stop="20250826074500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250826074500 +0000" stop="20250826083500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250826083500 +0000" stop="20250826092500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250826092500 +0000" stop="20250826101500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250826101500 +0000" stop="20250826110500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250826110500 +0000" stop="20250826115500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250826115500 +0000" stop="20250826124500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250826124500 +0000" stop="20250826134000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250826134000 +0000" stop="20250826142500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20250826142500 +0000" stop="20250826151000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20250826151000 +0000" stop="20250826155500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250826155500 +0000" stop="20250826164000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250826164000 +0000" stop="20250826172500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
+</programme>
+<programme start="20250826172500 +0000" stop="20250826181500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
+</programme>
+<programme start="20250826181500 +0000" stop="20250826190000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826194500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20250826194500 +0000" stop="20250826203000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20250826203000 +0000" stop="20250826212000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20250826212000 +0000" stop="20250826220500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
 </programme>
