@@ -1,7 +1,3 @@
-<programme start="20250827000000 +0700" stop="20250827010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2024-25 E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250827010000 +0700" stop="20250827020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -61,6 +57,10 @@
 <programme start="20250828003000 +0700" stop="20250828010000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250828010000 +0700" stop="20250828020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250826233000 +0700" stop="20250827013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Cremonese</title>
@@ -122,6 +122,10 @@
     <title>Football: Sassuolo - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250828012000 +0700" stop="20250828020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250826234500 +0700" stop="20250827020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Charlton Athletic  - Leicester City FC</title>
     <desc>Live: Tidak</desc>
@@ -180,10 +184,6 @@
 </programme>
 <programme start="20250827234500 +0700" stop="20250828020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: St. Mirren - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250826224000 +0700" stop="20250827004000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827004000 +0700" stop="20250827025000 +0700" channel="COSMOTE Sport 4 HD">
@@ -338,12 +338,8 @@
     <title>Football: Qarabag FK - Ferencvarosi TC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250827000000 +0700" stop="20250827003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250827003000 +0700" stop="20250827010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E4</title>
+<programme start="20250828015000 +0700" stop="20250828022500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827010000 +0700" stop="20250827012500 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,6 +396,10 @@
 </programme>
 <programme start="20250827230000 +0700" stop="20250828010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250828010000 +0700" stop="20250828020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827000000 +0700" stop="20250827020000 +0700" channel="COSMOTE Sport 7 HD">

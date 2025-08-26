@@ -244,7 +244,150 @@
 <programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826170000 +0000" stop="20250826173000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 7</title>
+</programme>
+<programme start="20250826173000 +0000" stop="20250826180000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 8</title>
+</programme>
+<programme start="20250826180000 +0000" stop="20250826183000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 6</title>
+</programme>
+<programme start="20250826183000 +0000" stop="20250826190000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 7</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826193000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 9</title>
+</programme>
+<programme start="20250826193000 +0000" stop="20250826200000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250826200000 +0000" stop="20250826203000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 7</title>
+</programme>
+<programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 8</title>
+</programme>
+<programme start="20250826220000 +0000" stop="20250826223000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 6</title>
+</programme>
+<programme start="20250826223000 +0000" stop="20250826230000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 7</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827003000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 9</title>
+</programme>
+<programme start="20250827003000 +0000" stop="20250827010000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250827010000 +0000" stop="20250827013000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 6</title>
+</programme>
+<programme start="20250827013000 +0000" stop="20250827020000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 7</title>
+</programme>
+<programme start="20250827020000 +0000" stop="20250827023000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 7</title>
+</programme>
+<programme start="20250827023000 +0000" stop="20250827030000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 8</title>
+</programme>
+<programme start="20250827030000 +0000" stop="20250827033000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250827033000 +0000" stop="20250827040000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250827040000 +0000" stop="20250827043000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 9</title>
+</programme>
+<programme start="20250827043000 +0000" stop="20250827050000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827053000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 6</title>
+</programme>
+<programme start="20250827053000 +0000" stop="20250827060000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 7</title>
+</programme>
+<programme start="20250827060000 +0000" stop="20250827063000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 7</title>
+</programme>
+<programme start="20250827063000 +0000" stop="20250827070000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 8</title>
+</programme>
+<programme start="20250827070000 +0000" stop="20250827073000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250827073000 +0000" stop="20250827080000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250827080000 +0000" stop="20250827083000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 6</title>
+</programme>
+<programme start="20250827083000 +0000" stop="20250827090000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 7</title>
+</programme>
+<programme start="20250827090000 +0000" stop="20250827093000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 7</title>
+</programme>
+<programme start="20250827093000 +0000" stop="20250827100000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 8</title>
+</programme>
+<programme start="20250827100000 +0000" stop="20250827103000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 7</title>
+</programme>
+<programme start="20250827103000 +0000" stop="20250827110000 +0000" channel="Animax.mncvision">
+    <title>D. Gray-Man, Ep 8</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827113000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250827113000 +0000" stop="20250827120000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250827120000 +0000" stop="20250827123000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250827123000 +0000" stop="20250827130000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 11</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827133000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250827133000 +0000" stop="20250827140000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250827140000 +0000" stop="20250827143000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 6</title>
+</programme>
+<programme start="20250827143000 +0000" stop="20250827150000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 7</title>
+</programme>
+<programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250827153000 +0000" stop="20250827160000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250827163000 +0000" stop="20250826170000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 11</title>
+</programme>
 <programme start="20250826180000 +0000" stop="20250826193000 +0000" channel="ANTV.mncvision">
     <title>The Magnificent Scoundrels</title>
 </programme>
@@ -980,7 +1123,72 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827164000 +0000" stop="20250826171000 +0000" channel="beIN Sports 1.mncvision">
     <title>UCL 2025/26: QAR Vs FTC (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826175000 +0000" stop="20250826182000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: LEV Vs BAR</title>
+</programme>
+<programme start="20250826182000 +0000" stop="20250826185500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Rally C&#039;ship HL</title>
+</programme>
+<programme start="20250826185500 +0000" stop="20250826210000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UCL 2025/26: PAF Vs CZV (L)</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: OVI Vs RMA</title>
+</programme>
+<programme start="20250826213000 +0000" stop="20250826230000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>SailGP S5: Sassnitz Day 1</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827020000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ATM Vs ELC</title>
+</programme>
+<programme start="20250827020000 +0000" stop="20250827035000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: OVI Vs RMA</title>
+</programme>
+<programme start="20250827035000 +0000" stop="20250827042000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 15</title>
+</programme>
+<programme start="20250827042000 +0000" stop="20250827061000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ATH Vs RAY</title>
+</programme>
+<programme start="20250827061000 +0000" stop="20250827081000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: SEV Vs GET</title>
+</programme>
+<programme start="20250827081000 +0000" stop="20250827091000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Ferrari Challenge Europe HL</title>
+</programme>
+<programme start="20250827091000 +0000" stop="20250827101000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>DTM HL 2025: Sachsenring</title>
+</programme>
+<programme start="20250827101000 +0000" stop="20250827104000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 20</title>
+</programme>
+<programme start="20250827104000 +0000" stop="20250827111000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20250827111000 +0000" stop="20250827130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: MLL Vs CEL</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: NEW Vs LIV</title>
+</programme>
+<programme start="20250827150000 +0000" stop="20250827160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 3</title>
+</programme>
+<programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally Magazine Show</title>
+</programme>
+<programme start="20250827163000 +0000" stop="20250827164000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20250827164000 +0000" stop="20250826171000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UCL 2025/26: QAR Vs FTC (L)</title>
+</programme>
 <programme start="20250826184500 +0000" stop="20250826190000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Doco Shorts</title>
 </programme>
@@ -1872,8 +2080,249 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827153500 +0000" stop="20250827160500 +0000" channel="Celestial Movies.mncvision">
     <title>Another Me</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826170000 +0000" stop="20250826180000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20250826180000 +0000" stop="20250826190000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250826193000 +0000" stop="20250826200000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250826200000 +0000" stop="20250826203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20250826220000 +0000" stop="20250826223000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250826223000 +0000" stop="20250826230000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827010000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250827010000 +0000" stop="20250827013000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827013000 +0000" stop="20250827020000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20250827020000 +0000" stop="20250827023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827023000 +0000" stop="20250827030000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250827030000 +0000" stop="20250827031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827031500 +0000" stop="20250827033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250827033000 +0000" stop="20250827040000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20250827040000 +0000" stop="20250827050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827051500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827051500 +0000" stop="20250827053000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250827053000 +0000" stop="20250827060000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20250827060000 +0000" stop="20250827063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827063000 +0000" stop="20250827070000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20250827070000 +0000" stop="20250827073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827073000 +0000" stop="20250827080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20250827080000 +0000" stop="20250827081500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827081500 +0000" stop="20250827090000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250827090000 +0000" stop="20250827093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827093000 +0000" stop="20250827100000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20250827100000 +0000" stop="20250827101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827101500 +0000" stop="20250827110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827113000 +0000" channel="CGTN.mncvision">
+    <title>Asia Today</title>
+</programme>
+<programme start="20250827113000 +0000" stop="20250827120000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20250827120000 +0000" stop="20250827121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827121500 +0000" stop="20250827130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827133000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250827133000 +0000" stop="20250827140000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20250827140000 +0000" stop="20250827143000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827143000 +0000" stop="20250827150000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20250827153000 +0000" stop="20250827160000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20250826170000 +0000" stop="20250826173000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Sunrise Over The Plateau, Ep 2</title>
+</programme>
+<programme start="20250826173000 +0000" stop="20250826180000 +0000" channel="CGTN Documentary.mncvision">
+    <title>The Han-Xiongnu Wars, Ep 2</title>
+</programme>
+<programme start="20250826180000 +0000" stop="20250826190000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Foodwise: Shantou</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826193000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 3</title>
+</programme>
+<programme start="20250826193000 +0000" stop="20250826200000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Harmony Of...: Changing Xiamen</title>
+</programme>
+<programme start="20250826200000 +0000" stop="20250826210000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Asia-Pacific War..., Ep 1</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Made In China: The Label, Ep 1</title>
+</programme>
+<programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shenzhen-Zhongshan Link, Ep 3</title>
+</programme>
+<programme start="20250826220000 +0000" stop="20250826230000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tianjin Memories, Ep 6</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Sunrise Over The Plateau, Ep 3</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="CGTN Documentary.mncvision">
+    <title>The Han-Xiongnu Wars, Ep 3</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827010000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Foodwise</title>
+</programme>
+<programme start="20250827010000 +0000" stop="20250827013000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 4</title>
+</programme>
+<programme start="20250827013000 +0000" stop="20250827020000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shared Passion For Ice &amp; Snow</title>
+</programme>
+<programme start="20250827020000 +0000" stop="20250827030000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Asia-Pacific War..., Ep 1</title>
+</programme>
+<programme start="20250827030000 +0000" stop="20250827033000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Made In China: The Label, Ep 1</title>
+</programme>
+<programme start="20250827033000 +0000" stop="20250827040000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shenzhen-Zhongshan Link, Ep 3</title>
+</programme>
+<programme start="20250827040000 +0000" stop="20250827050000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tianjin Memories, Ep 6</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827053000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Sunrise Over The Plateau, Ep 3</title>
+</programme>
+<programme start="20250827053000 +0000" stop="20250827060000 +0000" channel="CGTN Documentary.mncvision">
+    <title>The Han-Xiongnu Wars, Ep 3</title>
+</programme>
+<programme start="20250827060000 +0000" stop="20250827070000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Foodwise</title>
+</programme>
+<programme start="20250827070000 +0000" stop="20250827073000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 4</title>
+</programme>
+<programme start="20250827073000 +0000" stop="20250827080000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shared Passion For Ice &amp; Snow</title>
+</programme>
+<programme start="20250827080000 +0000" stop="20250827090000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Rediscovering The Arctic!, Ep 1</title>
+</programme>
+<programme start="20250827090000 +0000" stop="20250827093000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Made In China: The Label, Ep 1</title>
+</programme>
+<programme start="20250827093000 +0000" stop="20250827100000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shenzhen-Zhongshan Link, Ep 3</title>
+</programme>
+<programme start="20250827100000 +0000" stop="20250827110000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tianjin Memories, Ep 6</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827113000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Sunrise Over The Plateau, Ep 3</title>
+</programme>
+<programme start="20250827113000 +0000" stop="20250827120000 +0000" channel="CGTN Documentary.mncvision">
+    <title>The Han-Xiongnu Wars, Ep 3</title>
+</programme>
+<programme start="20250827120000 +0000" stop="20250827130000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Foodwise</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827133000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Running In The Dark, Ep 4</title>
+</programme>
+<programme start="20250827133000 +0000" stop="20250827140000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shared Passion For Ice &amp; Snow</title>
+</programme>
+<programme start="20250827140000 +0000" stop="20250827150000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Asia-Pacific War..., Ep 1</title>
+</programme>
+<programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Made In China: The Label, Ep 1</title>
+</programme>
+<programme start="20250827153000 +0000" stop="20250827160000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Shenzhen-Zhongshan Link, Ep 3</title>
+</programme>
+<programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="CGTN Documentary.mncvision">
+    <title>Tianjin Memories, Ep 6</title>
+</programme>
 <programme start="20250826170000 +0000" stop="20250826180000 +0000" channel="Channel News Asia.mncvision">
     <title>Hidden Histories, Ep 3</title>
 </programme>
@@ -3236,7 +3685,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="FOX News.mncvision">
     <title>Outnumbered</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826170000 +0000" stop="20250826171000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826171000 +0000" stop="20250826175300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate (L)</title>
+</programme>
+<programme start="20250826175300 +0000" stop="20250826180000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20250826180000 +0000" stop="20250826182000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826182000 +0000" stop="20250826183000 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20250826183000 +0000" stop="20250826184500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826184500 +0000" stop="20250826185100 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20250826185100 +0000" stop="20250826190000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826192000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826192000 +0000" stop="20250826193000 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20250826193000 +0000" stop="20250826194000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826194000 +0000" stop="20250826200000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20250826200000 +0000" stop="20250826201500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826201500 +0000" stop="20250826202100 +0000" channel="France 24 English.mncvision">
+    <title>Business (L)</title>
+</programme>
+<programme start="20250826202100 +0000" stop="20250826203000 +0000" channel="France 24 English.mncvision">
+    <title>Truth Or Fake (L)</title>
+</programme>
+<programme start="20250826203000 +0000" stop="20250826203200 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826203200 +0000" stop="20250826204400 +0000" channel="France 24 English.mncvision">
+    <title>A Propos (L)</title>
+</programme>
+<programme start="20250826204400 +0000" stop="20250826210000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa (L)</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826211500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826211500 +0000" stop="20250826213000 +0000" channel="France 24 English.mncvision">
+    <title>Business + Truth Or Fake</title>
+</programme>
+<programme start="20250826213000 +0000" stop="20250826214500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826214500 +0000" stop="20250826215100 +0000" channel="France 24 English.mncvision">
+    <title>Sports (L)</title>
+</programme>
+<programme start="20250826215100 +0000" stop="20250826220000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20250826220000 +0000" stop="20250826221000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826221000 +0000" stop="20250826225300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20250826225300 +0000" stop="20250826230000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250826231500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250826231500 +0000" stop="20250826232000 +0000" channel="France 24 English.mncvision">
+    <title>Business</title>
+</programme>
+<programme start="20250826232000 +0000" stop="20250826233000 +0000" channel="France 24 English.mncvision">
+    <title>Focus Semaine</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250826234500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250826234500 +0000" stop="20250827000000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827001500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250827001500 +0000" stop="20250827003000 +0000" channel="France 24 English.mncvision">
+    <title>A Propos</title>
+</programme>
+<programme start="20250827003000 +0000" stop="20250827004500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250827004500 +0000" stop="20250827010000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20250827010000 +0000" stop="20250827011000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250827011000 +0000" stop="20250827015300 +0000" channel="France 24 English.mncvision">
+    <title>The Debate</title>
+</programme>
+<programme start="20250827015300 +0000" stop="20250827020000 +0000" channel="France 24 English.mncvision">
+    <title>Short Cuts</title>
+</programme>
+<programme start="20250827020000 +0000" stop="20250827021500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250827021500 +0000" stop="20250827023000 +0000" channel="France 24 English.mncvision">
+    <title>France In Focus</title>
+</programme>
+<programme start="20250827023000 +0000" stop="20250827024500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250827024500 +0000" stop="20250827030000 +0000" channel="France 24 English.mncvision">
+    <title>Reporters</title>
+</programme>
+<programme start="20250827030000 +0000" stop="20250827031500 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250827031500 +0000" stop="20250827033000 +0000" channel="France 24 English.mncvision">
+    <title>Eye On Africa</title>
+</programme>
+<programme start="20250827033000 +0000" stop="20250827034500 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250827034500 +0000" stop="20250827040000 +0000" channel="France 24 English.mncvision">
+    <title>Arts24</title>
+</programme>
+<programme start="20250827040000 +0000" stop="20250827042000 +0000" channel="France 24 English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250827042000 +0000" stop="20250827043000 +0000" channel="France 24 English.mncvision">
+    <title>Focus (L)</title>
+</programme>
+<programme start="20250827043000 +0000" stop="20250827045000 +0000" channel="France 24 English.mncvision">
+    <title>Bulletin (L)</title>
+</programme>
+<programme start="20250827045000 +0000" stop="20250827052000 +0000" channel="France 24 English.mncvision">
+    <title>Introduction (L)</title>
+</programme>
 <programme start="20250826182000 +0000" stop="20250826194500 +0000" channel="Galaxy.mncvision">
     <title>The Price We Pay</title>
 </programme>
