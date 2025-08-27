@@ -3703,6 +3703,42 @@
 <programme start="20250827214500 +0000" stop="20250827221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
+<programme start="20250826224500 +0000" stop="20250827004500 +0000" channel="Warner TV Film.skyde">
+    <title>Dämon - Trau keiner Seele</title>
+</programme>
+<programme start="20250827004500 +0000" stop="20250827024000 +0000" channel="Warner TV Film.skyde">
+    <title>Lethal Weapon 3 - Die Profis sind zurück</title>
+</programme>
+<programme start="20250827024000 +0000" stop="20250827040000 +0000" channel="Warner TV Film.skyde">
+    <title>Dumm und dümmerer</title>
+</programme>
+<programme start="20250827040000 +0000" stop="20250827042500 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Anjelica Huston</title>
+</programme>
+<programme start="20250827042500 +0000" stop="20250827075500 +0000" channel="Warner TV Film.skyde">
+    <title>Ben-Hur</title>
+</programme>
+<programme start="20250827075500 +0000" stop="20250827095500 +0000" channel="Warner TV Film.skyde">
+    <title>Arsen und Spitzenhäubchen</title>
+</programme>
+<programme start="20250827095500 +0000" stop="20250827120500 +0000" channel="Warner TV Film.skyde">
+    <title>Die Cowboys</title>
+</programme>
+<programme start="20250827120500 +0000" stop="20250827135500 +0000" channel="Warner TV Film.skyde">
+    <title>8 Mile</title>
+</programme>
+<programme start="20250827135500 +0000" stop="20250827161000 +0000" channel="Warner TV Film.skyde">
+    <title>Mystic River</title>
+</programme>
+<programme start="20250827161000 +0000" stop="20250827181500 +0000" channel="Warner TV Film.skyde">
+    <title>Men of Honor</title>
+</programme>
+<programme start="20250827181500 +0000" stop="20250827204000 +0000" channel="Warner TV Film.skyde">
+    <title>Man of Steel</title>
+</programme>
+<programme start="20250827204000 +0000" stop="20250827231000 +0000" channel="Warner TV Film.skyde">
+    <title>Batman v Superman: Dawn Of Justice</title>
+</programme>
 <programme start="20250826224500 +0000" stop="20250827004500 +0000" channel="Warner TV Film HD.skyde">
     <title>Dämon - Trau keiner Seele</title>
 </programme>
