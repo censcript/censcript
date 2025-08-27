@@ -7649,7 +7649,7 @@
     <title>Elysium</title>
 </programme>
 <programme start="20250826171000 +0000" stop="20250826175500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Late Night With... S12, Ep 135</title>
+    <title>Late Night With... S12, Ep 126</title>
 </programme>
 <programme start="20250826175500 +0000" stop="20250826182500 +0000" channel="Rock Entertainment.mncvision">
     <title>Cobra Kai S2, Ep 6</title>
@@ -7670,10 +7670,10 @@
     <title>Great Chocolate..., Ep 4</title>
 </programme>
 <programme start="20250826220000 +0000" stop="20250826224500 +0000" channel="Rock Entertainment.mncvision">
-    <title>Late Night With... S12, Ep 135</title>
+    <title>Late Night With... S12, Ep 126</title>
 </programme>
 <programme start="20250826224500 +0000" stop="20250826233000 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Tonight Show S12, Ep 156</title>
+    <title>The Tonight Show S12, Ep 147</title>
 </programme>
 <programme start="20250826233000 +0000" stop="20250827003500 +0000" channel="Rock Entertainment.mncvision">
     <title>DOC: In Your Hands S2, Ep 4</title>
@@ -7727,7 +7727,7 @@
     <title>Zathura: A Space Adventure</title>
 </programme>
 <programme start="20250827164000 +0000" stop="20250826171000 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Tonight Show S12, Ep 157</title>
+    <title>The Tonight Show S12, Ep 148</title>
 </programme>
 <programme start="20250826170000 +0000" stop="20250826183000 +0000" channel="SCTV.mncvision">
     <title>Pembantu Tak Pernah Ingkar...</title>

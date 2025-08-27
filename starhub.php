@@ -8209,8 +8209,11 @@
     <programme start="20250827053000 +0000" stop="20250827063000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250827063000 +0000" stop="20250827113000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250827063000 +0000" stop="20250827110000 +0000" channel="SPOTV2.starhub">
         <title>DAY 3 Day Session 1st Round (Louis Armstrong)</title>
+    </programme>
+    <programme start="20250827110000 +0000" stop="20250827113000 +0000" channel="SPOTV2.starhub">
+        <title>Franco Morbidelli</title>
     </programme>
     <programme start="20250827113000 +0000" stop="20250827123000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
