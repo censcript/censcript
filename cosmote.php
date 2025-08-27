@@ -130,6 +130,10 @@
     <title>Football: AC Milan - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250828213000 +0700" stop="20250828220000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250827191000 +0700" stop="20250827214500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Nassr - Al Ahli</title>
     <desc>Live: Tidak</desc>
@@ -186,10 +190,6 @@
     <title>Football: River Plate - Libertad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250827182000 +0700" stop="20250827202000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250827202000 +0700" stop="20250827222500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -240,10 +240,6 @@
 </programme>
 <programme start="20250828202000 +0700" stop="20250828222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250827194500 +0700" stop="20250827203500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827203500 +0700" stop="20250827212000 +0700" channel="COSMOTE Sport 5 HD">
@@ -347,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828205000 +0700" stop="20250828215500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250828215500 +0700" stop="20250828233000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
