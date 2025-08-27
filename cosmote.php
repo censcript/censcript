@@ -66,6 +66,10 @@
     <title>Football: Club Brugge - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250828150000 +0700" stop="20250828170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SL Benfica - Fenerbahce SK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250827131000 +0700" stop="20250827150500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Pisa</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +130,10 @@
     <title>Football: Como - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250828151500 +0700" stop="20250828171500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250827135000 +0700" stop="20250827154500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Godoy Cruz - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
@@ -182,10 +190,6 @@
     <title>Football: Internacional - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250827120500 +0700" stop="20250827140500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Besiktas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250827140500 +0700" stop="20250827161500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -236,10 +240,6 @@
 </programme>
 <programme start="20250828140500 +0700" stop="20250828161500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250827124000 +0700" stop="20250827141500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827141500 +0700" stop="20250827151500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +338,12 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250827131000 +0700" stop="20250827141000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250828152500 +0700" stop="20250828155500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250828155500 +0700" stop="20250828164500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827141000 +0700" stop="20250827161500 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +408,10 @@
 </programme>
 <programme start="20250828141500 +0700" stop="20250828154500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Fani Roussou - Eleni Mtsentlitze</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250828154500 +0700" stop="20250828171500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250827140000 +0700" stop="20250827160000 +0700" channel="COSMOTE Sport 7 HD">
