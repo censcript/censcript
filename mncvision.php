@@ -8479,8 +8479,11 @@
 <programme start="20250827053000 +0000" stop="20250827063000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Hungary</title>
 </programme>
-<programme start="20250827063000 +0000" stop="20250827113000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250827063000 +0000" stop="20250827110000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827113000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP 2025 Spotlight: Franco</title>
 </programme>
 <programme start="20250827113000 +0000" stop="20250827123000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: GP Of Hungary</title>
@@ -8515,8 +8518,11 @@
 <programme start="20250827053000 +0000" stop="20250827063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Hungary</title>
 </programme>
-<programme start="20250827063000 +0000" stop="20250827113000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250827063000 +0000" stop="20250827110000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827113000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP 2025 Spotlight: Franco</title>
 </programme>
 <programme start="20250827113000 +0000" stop="20250827123000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: GP Of Hungary</title>
