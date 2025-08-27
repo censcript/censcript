@@ -2068,11 +2068,8 @@
     <programme start="20250827010000 +0000" stop="20250827030000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26 Sturm vs Bodo/Glimt - Play-Offs,2nd Leg</title>
     </programme>
-    <programme start="20250827030000 +0000" stop="20250827050000 +0000" channel="beIN Sports 3.starhub">
-        <title>SF 2</title>
-    </programme>
-    <programme start="20250827050000 +0000" stop="20250827053000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - Bundesliga 2025/26 Leverkusen vs Hoffenheim</title>
+    <programme start="20250827030000 +0000" stop="20250827053000 +0000" channel="beIN Sports 3.starhub">
+        <title>TotalEnergies African Nations Championship, KE-TZ-UG 2024 Morocco vs Senegal - S</title>
     </programme>
     <programme start="20250827053000 +0000" stop="20250827060000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV Highlights 2025/26 Man United vs Arsenal</title>
@@ -2089,11 +2086,8 @@
     <programme start="20250827090000 +0000" stop="20250827100000 +0000" channel="beIN Sports 3.starhub">
         <title>Japan</title>
     </programme>
-    <programme start="20250827100000 +0000" stop="20250827120000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250827100000 +0000" stop="20250827123000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26 Kairat vs Celtic - Play-Offs,2nd Leg</title>
-    </programme>
-    <programme start="20250827120000 +0000" stop="20250827123000 +0000" channel="beIN Sports 3.starhub">
-        <title>Tue Play-Offs,2nd Leg</title>
     </programme>
     <programme start="20250827123000 +0000" stop="20250827130000 +0000" channel="beIN Sports 3.starhub">
         <title>This Is Paris 2025/26</title>
@@ -6958,34 +6952,34 @@
     <programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="beIN Sports HD.starhub">
         <title>WRT &amp; Le Mans 24 Hours</title>
     </programme>
-    <programme start="20250827000000 +0000" stop="20250827015000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827000000 +0000" stop="20250827020000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Atletico Madrid vs Elche</title>
     </programme>
-    <programme start="20250827015000 +0000" stop="20250827034000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827020000 +0000" stop="20250827035000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Real Oviedo vs Real Madrid</title>
     </programme>
-    <programme start="20250827034000 +0000" stop="20250827041000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827035000 +0000" stop="20250827042000 +0000" channel="beIN Sports HD.starhub">
         <title>GP Confidential 2025</title>
     </programme>
-    <programme start="20250827041000 +0000" stop="20250827060000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827042000 +0000" stop="20250827061000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Athletic Bilbao vs Rayo Vallecano</title>
     </programme>
-    <programme start="20250827060000 +0000" stop="20250827080000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827061000 +0000" stop="20250827081000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Sevilla vs Getafe</title>
     </programme>
-    <programme start="20250827080000 +0000" stop="20250827090000 +0000" channel="beIN Sports HD.starhub">
-        <title>Monterey Motorsport Reunion 2025</title>
+    <programme start="20250827081000 +0000" stop="20250827091000 +0000" channel="beIN Sports HD.starhub">
+        <title>Barcelona</title>
     </programme>
-    <programme start="20250827090000 +0000" stop="20250827100000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827091000 +0000" stop="20250827101000 +0000" channel="beIN Sports HD.starhub">
         <title>Sachsenring</title>
     </programme>
-    <programme start="20250827100000 +0000" stop="20250827103000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827101000 +0000" stop="20250827104000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>
     </programme>
-    <programme start="20250827103000 +0000" stop="20250827110000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827104000 +0000" stop="20250827111000 +0000" channel="beIN Sports HD.starhub">
         <title>Matchday 2</title>
     </programme>
-    <programme start="20250827110000 +0000" stop="20250827130000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20250827111000 +0000" stop="20250827130000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Mallorca vs Celta Vigo</title>
     </programme>
     <programme start="20250827130000 +0000" stop="20250827150000 +0000" channel="beIN Sports HD.starhub">
