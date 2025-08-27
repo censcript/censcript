@@ -2785,7 +2785,7 @@
 <programme start="20250827162000 +0000" stop="20250827164000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250827164000 +0000" stop="20250827184500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250827164000 +0000" stop="20250827200000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FK Qarabag - Ferencváros Budapest, Playoff Rückspiele, Mittwoch</title>
 </programme>
 <programme start="20250827142500 +0000" stop="20250827144500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2794,7 +2794,7 @@
 <programme start="20250827144500 +0000" stop="20250827150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: US Open Daily</title>
 </programme>
-<programme start="20250827150000 +0000" stop="20250828050000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250827150000 +0000" stop="20250828080000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: Die Konferenz, 4. Tag</title>
 </programme>
 <programme start="20250826220000 +0000" stop="20250826223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2873,7 +2873,7 @@
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20250827183000 +0000" stop="20250827190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+    <title>Meine Geschichte: Das Leben von Loris Karius</title>
 </programme>
 <programme start="20250827190000 +0000" stop="20250827193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -2992,23 +2992,23 @@
 <programme start="20250827190000 +0000" stop="20250827220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Betfred British Masters hosted by Sir Nick Faldo, 4. Tag in Sutton Coldfield (England)</title>
 </programme>
-<programme start="20250826220000 +0000" stop="20250826223000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+<programme start="20250826221500 +0000" stop="20250826224500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: 1. FC Lok Leipzig - FC Schalke 04, 1. Runde</title>
 </programme>
-<programme start="20250826223000 +0000" stop="20250827003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250826224500 +0000" stop="20250826230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Highlights Rolex Fastnet Race</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250827010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Eintracht Braunschweig - VfB Stuttgart, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20250827003000 +0000" stop="20250827011500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250827010000 +0000" stop="20250827014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2025 Lexus US Open of Surfing</title>
 </programme>
-<programme start="20250827011500 +0000" stop="20250827021500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250827014500 +0000" stop="20250827024500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Ungarn</title>
 </programme>
-<programme start="20250827021500 +0000" stop="20250827031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250827024500 +0000" stop="20250827034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Ungarn</title>
-</programme>
-<programme start="20250827031500 +0000" stop="20250827034500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20250827034500 +0000" stop="20250827054500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Eintracht Braunschweig - VfB Stuttgart, Nachholspiel 1. Runde</title>
@@ -3061,7 +3061,7 @@
 <programme start="20250827214500 +0000" stop="20250827221500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore</title>
 </programme>
-<programme start="20250826220000 +0000" stop="20250826230000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250826221500 +0000" stop="20250826230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
 <programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="Sky Sport News HD.skyde">
@@ -3227,10 +3227,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250827053000 +0000" stop="20250827073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 1, 3. Tag</title>
+    <title>US Open: I. Swiatek (POL) - E. Arango (COL), 3. Tag</title>
 </programme>
 <programme start="20250827073000 +0000" stop="20250827093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 2, 3. Tag</title>
+    <title>US Open: A. Zverev (GER) - A. Tabilo (CHI), 3. Tag</title>
 </programme>
 <programme start="20250827093000 +0000" stop="20250827100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3239,10 +3239,10 @@
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20250827101500 +0000" stop="20250827121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 1, 3. Tag</title>
+    <title>US Open: I. Swiatek (POL) - E. Arango (COL), 3. Tag</title>
 </programme>
 <programme start="20250827121500 +0000" stop="20250827141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 2, 3. Tag</title>
+    <title>US Open: A. Zverev (GER) - A. Tabilo (CHI), 3. Tag</title>
 </programme>
 <programme start="20250827141500 +0000" stop="20250827144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 3. Tag</title>
@@ -3252,6 +3252,9 @@
 </programme>
 <programme start="20250827150000 +0000" stop="20250828050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: Die Konferenz, 4. Tag</title>
+</programme>
+<programme start="20250826221500 +0000" stop="20250827050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live US Open: Die Konferenz, 3. Tag</title>
 </programme>
 <programme start="20250827050000 +0000" stop="20250827070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>DFB-Pokal: Eintracht Braunschweig - VfB Stuttgart, Nachholspiel 1. Runde</title>
@@ -3322,13 +3325,13 @@
 <programme start="20250827151000 +0000" stop="20250827153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250827153000 +0000" stop="20250828050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250827153000 +0000" stop="20250828080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 4. Tag</title>
 </programme>
 <programme start="20250827144000 +0000" stop="20250827150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250827150000 +0000" stop="20250828050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250827150000 +0000" stop="20250828080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 4. Tag</title>
 </programme>
 <programme start="20250826221500 +0000" stop="20250826231500 +0000" channel="SYFY HD.skyde">

@@ -601,110 +601,86 @@
     <programme start="20250826150000 +0000" stop="20250826164000 +0000" channel="now-80s.mewatch">
         <title>I&#039;ve Had Enough! I&#039;m Going Solo! - EP1</title>
     </programme>
-    <programme start="20250826164000 +0000" stop="20250826170000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies! - EP1</title>
+    <programme start="20250826160000 +0000" stop="20250826170000 +0000" channel="now-80s.mewatch">
+        <title>The 1985 Video Hall Of Fame - EP1</title>
     </programme>
-    <programme start="20250826170000 +0000" stop="20250826170500 +0000" channel="now-80s.mewatch">
-        <title>Every Number 1 Of The 80s! - EP1</title>
-    </programme>
-    <programme start="20250826170500 +0000" stop="20250826180000 +0000" channel="now-80s.mewatch">
-        <title>Turbo Trax! - EP1</title>
-    </programme>
-    <programme start="20250826180000 +0000" stop="20250826203000 +0000" channel="now-80s.mewatch">
-        <title>Chartbusters! With Bruno Brookes - EP1</title>
-    </programme>
-    <programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="now-80s.mewatch">
-        <title>Monday Night At The Movies! - EP1</title>
+    <programme start="20250826170000 +0000" stop="20250826210000 +0000" channel="now-80s.mewatch">
+        <title>It Spent How Long At No.1 ?! - EP1</title>
     </programme>
     <programme start="20250826210000 +0000" stop="20250826220000 +0000" channel="now-80s.mewatch">
-        <title>I&#039;ve Had Enough! I&#039;m Going Solo! - EP1</title>
+        <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250826220000 +0000" stop="20250827010000 +0000" channel="now-80s.mewatch">
-        <title>80s Stars - But Who Is The Oldest? - EP1</title>
+    <programme start="20250826220000 +0000" stop="20250827005000 +0000" channel="now-80s.mewatch">
+        <title>The Now Yearbook 1989 - EP1</title>
     </programme>
-    <programme start="20250827010000 +0000" stop="20250827051000 +0000" channel="now-80s.mewatch">
-        <title>The 50 Most Streamed 80s Songs - EP1</title>
+    <programme start="20250827005000 +0000" stop="20250827010000 +0000" channel="now-80s.mewatch">
+        <title>1989 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250827051000 +0000" stop="20250827060000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
+    <programme start="20250827010000 +0000" stop="20250827030000 +0000" channel="now-80s.mewatch">
+        <title>80s Stars - Then &amp; Now! - EP1</title>
     </programme>
-    <programme start="20250827060000 +0000" stop="20250827082000 +0000" channel="now-80s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20250827030000 +0000" stop="20250827070000 +0000" channel="now-80s.mewatch">
+        <title>4 Hours Of Love! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250827082000 +0000" stop="20250827090000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
+    <programme start="20250827070000 +0000" stop="20250827093500 +0000" channel="now-80s.mewatch">
+        <title>Pat Sharp&#039;s Bad Hair - Big Tunes! - EP1</title>
     </programme>
-    <programme start="20250827090000 +0000" stop="20250827093000 +0000" channel="now-80s.mewatch">
-        <title>Stuff For The Cool Kids! Top 40 - EP1</title>
+    <programme start="20250827093500 +0000" stop="20250827100000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop! - EP1</title>
     </programme>
-    <programme start="20250827093000 +0000" stop="20250827093500 +0000" channel="now-80s.mewatch">
-        <title>Every Number 1 Of The 80s! - EP1</title>
+    <programme start="20250827100000 +0000" stop="20250827142500 +0000" channel="now-80s.mewatch">
+        <title>The Ultimate Duets! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20250827093500 +0000" stop="20250827103000 +0000" channel="now-80s.mewatch">
-        <title>Turbo Trax! - EP1</title>
-    </programme>
-    <programme start="20250827103000 +0000" stop="20250827120500 +0000" channel="now-80s.mewatch">
-        <title>Stuff For The Cool Kids! Top 40 - EP1</title>
-    </programme>
-    <programme start="20250827120500 +0000" stop="20250827130000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
-    </programme>
-    <programme start="20250827130000 +0000" stop="20250827153500 +0000" channel="now-80s.mewatch">
-        <title>Timmy Mallett&#039;s Brilliant Bands! - EP1</title>
-    </programme>
-    <programme start="20250827153500 +0000" stop="20250827160000 +0000" channel="now-80s.mewatch">
-        <title>Seven Inch Heroes! - EP1</title>
+    <programme start="20250827142500 +0000" stop="20250827160000 +0000" channel="now-80s.mewatch">
+        <title>Soft Rock &amp; Power Pop! - EP1</title>
     </programme>
     <programme start="20250827160000 +0000" stop="20250827170000 +0000" channel="now-80s.mewatch">
         <title>Eurythmics: Reminisce! - EP1</title>
     </programme>
-    <programme start="20250826160000 +0000" stop="20250826175500 +0000" channel="now-70s.mewatch">
-        <title>Blockbusters! 50 Stomping Hits - EP1</title>
+    <programme start="20250826160000 +0000" stop="20250826174500 +0000" channel="now-70s.mewatch">
+        <title>Karaoke For The Kids! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250826175500 +0000" stop="20250826182500 +0000" channel="now-70s.mewatch">
-        <title>Glam Rock Day! - EP1</title>
+    <programme start="20250826174500 +0000" stop="20250826180000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
     </programme>
-    <programme start="20250826182500 +0000" stop="20250826201500 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s 70s Glam Pop! - EP1</title>
+    <programme start="20250826180000 +0000" stop="20250826210000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates 70s Pop! Top 50 - EP1</title>
     </programme>
-    <programme start="20250826201500 +0000" stop="20250826202500 +0000" channel="now-70s.mewatch">
-        <title>Glam Rock Day! - EP1</title>
+    <programme start="20250826210000 +0000" stop="20250826225000 +0000" channel="now-70s.mewatch">
+        <title>Pauline Black Ska &amp; Reggae Legends - EP1</title>
     </programme>
-    <programme start="20250826202500 +0000" stop="20250826210000 +0000" channel="now-70s.mewatch">
-        <title>Who Won Wot In 1972? - EP1</title>
+    <programme start="20250826225000 +0000" stop="20250826230000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
-    <programme start="20250826210000 +0000" stop="20250826233000 +0000" channel="now-70s.mewatch">
-        <title>Hamilton&#039;s Million Sellers! 70-79 - EP1</title>
+    <programme start="20250826230000 +0000" stop="20250827010000 +0000" channel="now-70s.mewatch">
+        <title>Art School Cool! 1970-79 - EP1</title>
     </programme>
-    <programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="now-70s.mewatch">
-        <title>1970 Unleashed! - EP1</title>
+    <programme start="20250827010000 +0000" stop="20250827020000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
     </programme>
-    <programme start="20250827000000 +0000" stop="20250827032500 +0000" channel="now-70s.mewatch">
-        <title>Seven Inch Heroes! 1970-1979 - EP1</title>
+    <programme start="20250827020000 +0000" stop="20250827052500 +0000" channel="now-70s.mewatch">
+        <title>Chunks Of Funk! 45 X 45s! - EP1</title>
     </programme>
-    <programme start="20250827032500 +0000" stop="20250827040000 +0000" channel="now-70s.mewatch">
+    <programme start="20250827052500 +0000" stop="20250827060000 +0000" channel="now-70s.mewatch">
+        <title>In The Summertime! - EP1</title>
+    </programme>
+    <programme start="20250827060000 +0000" stop="20250827075000 +0000" channel="now-70s.mewatch">
+        <title>Mike Read&#039;s Pop Quiz: 1979 - EP1</title>
+    </programme>
+    <programme start="20250827075000 +0000" stop="20250827080000 +0000" channel="now-70s.mewatch">
         <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250827040000 +0000" stop="20250827063500 +0000" channel="now-70s.mewatch">
-        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
+    <programme start="20250827080000 +0000" stop="20250827102000 +0000" channel="now-70s.mewatch">
+        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
     </programme>
-    <programme start="20250827063500 +0000" stop="20250827070000 +0000" channel="now-70s.mewatch">
-        <title>Let The Good Times Roll! - EP1</title>
-    </programme>
-    <programme start="20250827070000 +0000" stop="20250827092000 +0000" channel="now-70s.mewatch">
-        <title>Who Had The Most Hits In The 70s? - EP1</title>
-    </programme>
-    <programme start="20250827092000 +0000" stop="20250827093000 +0000" channel="now-70s.mewatch">
+    <programme start="20250827102000 +0000" stop="20250827110000 +0000" channel="now-70s.mewatch">
         <title>70s Love Songs - EP1</title>
     </programme>
-    <programme start="20250827093000 +0000" stop="20250827103000 +0000" channel="now-70s.mewatch">
-        <title>Blockbusters! 50 Stomping Hits - EP1</title>
+    <programme start="20250827110000 +0000" stop="20250827130500 +0000" channel="now-70s.mewatch">
+        <title>A Touch Of Class! Top 30 - EP1</title>
     </programme>
-    <programme start="20250827103000 +0000" stop="20250827130000 +0000" channel="now-70s.mewatch">
-        <title>Cuddle On The Couch - The Love 40 - EP1</title>
-    </programme>
-    <programme start="20250827130000 +0000" stop="20250827140000 +0000" channel="now-70s.mewatch">
-        <title>Help Me Make It Through The Night! - EP1</title>
+    <programme start="20250827130500 +0000" stop="20250827140000 +0000" channel="now-70s.mewatch">
+        <title>70s Love Songs - EP1</title>
     </programme>
     <programme start="20250827140000 +0000" stop="20250827160000 +0000" channel="now-70s.mewatch">
         <title>Simon Bates&#039; Rock Ballads! 1970-79 - EP1</title>
@@ -1042,7 +1018,13 @@
     <programme start="20250827070000 +0000" stop="20250827190000 +0000" channel="Live 6.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Round of 32</title>
     </programme>
-    <programme start="20250826160000 +0000" stop="20250827160000 +0000" channel="Live 7.mewatch">
+    <programme start="20250826160000 +0000" stop="20250827071000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 27th August, Wednesday 3.10pm. TotalEnergies BWF World Championships 2025</title>
+    </programme>
+    <programme start="20250827071000 +0000" stop="20250827091000 +0000" channel="Live 7.mewatch">
+        <title>TotalEnergies BWF World Championships 2025: Round of 32</title>
+    </programme>
+    <programme start="20250827091000 +0000" stop="20250827160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20250827160000 +0000" stop="20250828160000 +0000" channel="Live 7.mewatch">

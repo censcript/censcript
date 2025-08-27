@@ -4850,7 +4850,7 @@
         <title>Pushpa 2</title>
     </programme>
     <programme start="20250827070000 +0000" stop="20250827090000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Mr &amp; Mrs Kitchen - Cwc Special</title>
     </programme>
     <programme start="20250827090000 +0000" stop="20250827120000 +0000" channel="Vijay TV HD.starhub">
         <title>Gangers</title>

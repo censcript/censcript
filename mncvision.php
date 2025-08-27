@@ -1357,11 +1357,8 @@
 <programme start="20250827010000 +0000" stop="20250827030000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2025/26: STU Vs BOD</title>
 </programme>
-<programme start="20250827030000 +0000" stop="20250827050000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250827030000 +0000" stop="20250827053000 +0000" channel="beIN Sports 3.mncvision">
     <title>CHAN 2024: MAR Vs SEN</title>
-</programme>
-<programme start="20250827050000 +0000" stop="20250827053000 +0000" channel="beIN Sports 3.mncvision">
-    <title>This Is Paris 2025/26, Ep 2</title>
 </programme>
 <programme start="20250827053000 +0000" stop="20250827073000 +0000" channel="beIN Sports 3.mncvision">
     <title>PSG TV 2025/26: PSG Vs SCO</title>
@@ -1375,11 +1372,8 @@
 <programme start="20250827090000 +0000" stop="20250827100000 +0000" channel="beIN Sports 3.mncvision">
     <title>SailGP S5 Highlights: Sassnitz</title>
 </programme>
-<programme start="20250827100000 +0000" stop="20250827120000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250827100000 +0000" stop="20250827123000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2024/25: KAI Vs CEL</title>
-</programme>
-<programme start="20250827120000 +0000" stop="20250827123000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20250827123000 +0000" stop="20250827130000 +0000" channel="beIN Sports 3.mncvision">
     <title>This Is Paris 2025/26, Ep 2</title>
@@ -1426,11 +1420,8 @@
 <programme start="20250827010000 +0000" stop="20250827030000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2025/26: STU Vs BOD</title>
 </programme>
-<programme start="20250827030000 +0000" stop="20250827050000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250827030000 +0000" stop="20250827053000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>CHAN 2024: MAR Vs SEN</title>
-</programme>
-<programme start="20250827050000 +0000" stop="20250827053000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>This Is Paris 2025/26, Ep 2</title>
 </programme>
 <programme start="20250827053000 +0000" stop="20250827073000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>PSG TV 2025/26: PSG Vs SCO</title>
@@ -1444,11 +1435,8 @@
 <programme start="20250827090000 +0000" stop="20250827100000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>SailGP S5 Highlights: Sassnitz</title>
 </programme>
-<programme start="20250827100000 +0000" stop="20250827120000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250827100000 +0000" stop="20250827123000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2024/25: KAI Vs CEL</title>
-</programme>
-<programme start="20250827120000 +0000" stop="20250827123000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20250827123000 +0000" stop="20250827130000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>This Is Paris 2025/26, Ep 2</title>
@@ -8308,9 +8296,135 @@
 <programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826170000 +0000" stop="20250826190000 +0000" channel="Sportstars 4.mncvision">
+    <title>Liga 2: JOG Vs KDS</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826210000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1: PSJ Vs TGR</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826230000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250827010000 +0000" channel="Sportstars 4.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250827010000 +0000" stop="20250827030000 +0000" channel="Sportstars 4.mncvision">
+    <title>Liga 2: PRJ Vs DJN</title>
+</programme>
+<programme start="20250827030000 +0000" stop="20250827050000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1: BRT Vs PSJ</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827070000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250827070000 +0000" stop="20250827090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Liga 2: BFC Vs JAP</title>
+</programme>
+<programme start="20250827090000 +0000" stop="20250827110000 +0000" channel="Sportstars 4.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827130000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1: PSO Vs PSJ</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827150000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="Sportstars 4.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250826170000 +0000" stop="20250826190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: JOG Vs KDS</title>
+</programme>
+<programme start="20250826190000 +0000" stop="20250826210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSJ Vs TGR</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250827010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250827010000 +0000" stop="20250827030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: PRJ Vs DJN</title>
+</programme>
+<programme start="20250827030000 +0000" stop="20250827050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: BRT Vs PSJ</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250827070000 +0000" stop="20250827090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Liga 2: BFC Vs JAP</title>
+</programme>
+<programme start="20250827090000 +0000" stop="20250827110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1: PSO Vs PSJ</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20250827150000 +0000" stop="20250827153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250826173000 +0000" stop="20250826200000 +0000" channel="Sportstars HD.mncvision">
+    <title>Indonesia Juara</title>
+</programme>
+<programme start="20250826200000 +0000" stop="20250826203000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826230000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250827000000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sport Trivia</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827003000 +0000" channel="Sportstars HD.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20250827003000 +0000" stop="20250827023000 +0000" channel="Sportstars HD.mncvision">
+    <title>SEA V-League</title>
+</programme>
+<programme start="20250827023000 +0000" stop="20250827043000 +0000" channel="Sportstars HD.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250827043000 +0000" stop="20250827050000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827053000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250827053000 +0000" stop="20250827080000 +0000" channel="Sportstars HD.mncvision">
+    <title>Indonesia Juara</title>
+</programme>
+<programme start="20250827080000 +0000" stop="20250827083000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sport Trivia</title>
+</programme>
+<programme start="20250827083000 +0000" stop="20250827090000 +0000" channel="Sportstars HD.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20250827090000 +0000" stop="20250827110000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827130000 +0000" channel="Sportstars HD.mncvision">
+    <title>FIBA</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827133000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250827133000 +0000" stop="20250827153000 +0000" channel="Sportstars HD.mncvision">
+    <title>SEA V-League</title>
+</programme>
+<programme start="20250827153000 +0000" stop="20250827160000 +0000" channel="Sportstars HD.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
 <programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
@@ -8482,7 +8596,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827152500 +0000" stop="20250827155500 +0000" channel="Studio Universal.mncvision">
     <title>Jaws 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826184500 +0000" stop="20250826205000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Nutty Professor 2: The Klumps</title>
+</programme>
+<programme start="20250826205000 +0000" stop="20250826230000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Wanted</title>
+</programme>
+<programme start="20250826230000 +0000" stop="20250827011000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Jaws</title>
+</programme>
+<programme start="20250827011000 +0000" stop="20250827031000 +0000" channel="Studio Universal HD.mncvision">
+    <title>Identity Thief</title>
+</programme>
+<programme start="20250827031000 +0000" stop="20250827050500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Nutty Professor 2: The Klumps</title>
+</programme>
+<programme start="20250827050500 +0000" stop="20250827070500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Wanted</title>
+</programme>
+<programme start="20250827070500 +0000" stop="20250827091500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Jaws</title>
+</programme>
+<programme start="20250827091500 +0000" stop="20250827110500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Happy Death Day 2U</title>
+</programme>
+<programme start="20250827110500 +0000" stop="20250827130500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Yesterday</title>
+</programme>
+<programme start="20250827130500 +0000" stop="20250827152500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Van Helsing</title>
+</programme>
+<programme start="20250827152500 +0000" stop="20250827155500 +0000" channel="Studio Universal HD.mncvision">
+    <title>Jaws 2</title>
+</programme>
 <programme start="20250826172900 +0000" stop="20250826193100 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
@@ -8519,7 +8665,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827164000 +0000" stop="20250826171000 +0000" channel="Superrix.mncvision">
     <title>Max Steel</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826172900 +0000" stop="20250826193100 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250826193100 +0000" stop="20250826212100 +0000" channel="Superrix HD.mncvision">
+    <title>Midnighters</title>
+</programme>
+<programme start="20250826212100 +0000" stop="20250827000200 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250827000200 +0000" stop="20250827014900 +0000" channel="Superrix HD.mncvision">
+    <title>Mothers And Daughters</title>
+</programme>
+<programme start="20250827014900 +0000" stop="20250827040900 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250827040900 +0000" stop="20250827060000 +0000" channel="Superrix HD.mncvision">
+    <title>Cut Bank</title>
+</programme>
+<programme start="20250827060000 +0000" stop="20250827082500 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250827082500 +0000" stop="20250827102300 +0000" channel="Superrix HD.mncvision">
+    <title>The Lost Girls</title>
+</programme>
+<programme start="20250827102300 +0000" stop="20250827122000 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20250827122000 +0000" stop="20250827143800 +0000" channel="Superrix HD.mncvision">
+    <title>A Most Violent Year</title>
+</programme>
+<programme start="20250827143800 +0000" stop="20250827164000 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250827164000 +0000" stop="20250826171000 +0000" channel="Superrix HD.mncvision">
+    <title>Max Steel</title>
+</programme>
 <programme start="20250826170000 +0000" stop="20250826173000 +0000" channel="Tawaf TV.mncvision">
     <title>Belajar Mengaji</title>
 </programme>
@@ -8691,7 +8872,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827165500 +0000" stop="20250826172500 +0000" channel="Thrill.mncvision">
     <title>Sinister Doll</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826171500 +0000" stop="20250826174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20250826174500 +0000" stop="20250826183000 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20250826183000 +0000" stop="20250826193000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20250826193000 +0000" stop="20250826203000 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="Trans 7.mncvision">
+    <title>Just For Laughs</title>
+</programme>
+<programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20250826213000 +0000" stop="20250826221500 +0000" channel="Trans 7.mncvision">
+    <title>Info Update</title>
+</programme>
+<programme start="20250826221500 +0000" stop="20250826233000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20250826233000 +0000" stop="20250827003000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20250827003000 +0000" stop="20250827013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20250827013000 +0000" stop="20250827023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20250827023000 +0000" stop="20250827031500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20250827031500 +0000" stop="20250827041500 +0000" channel="Trans 7.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20250827041500 +0000" stop="20250827050000 +0000" channel="Trans 7.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20250827050000 +0000" stop="20250827054500 +0000" channel="Trans 7.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20250827054500 +0000" stop="20250827063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang</title>
+</programme>
+<programme start="20250827063000 +0000" stop="20250827071500 +0000" channel="Trans 7.mncvision">
+    <title>Speak Up!</title>
+</programme>
+<programme start="20250827071500 +0000" stop="20250827081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20250827081500 +0000" stop="20250827091500 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250827091500 +0000" stop="20250827101500 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20250827101500 +0000" stop="20250827110000 +0000" channel="Trans 7.mncvision">
+    <title>Xpose Uncensored</title>
+</programme>
+<programme start="20250827110000 +0000" stop="20250827114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20250827114500 +0000" stop="20250827121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20250827121500 +0000" stop="20250827130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250827130000 +0000" stop="20250827143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20250827143000 +0000" stop="20250827154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20250827154500 +0000" stop="20250827163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20250827163000 +0000" stop="20250826170000 +0000" channel="Trans 7.mncvision">
+    <title>Newstainment</title>
+</programme>
 <programme start="20250826180000 +0000" stop="20250826220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Connected</title>
 </programme>
@@ -8836,7 +9100,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250827163000 +0000" stop="20250826170000 +0000" channel="tvN HD.mncvision">
     <title>Room No. 9, Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250826173500 +0000" stop="20250826194000 +0000" channel="tvN Movies.mncvision">
+    <title>Sori: Voice From The Heart</title>
+</programme>
+<programme start="20250826194000 +0000" stop="20250826215000 +0000" channel="tvN Movies.mncvision">
+    <title>The Exclusive: Devil&#039;s Tattoo</title>
+</programme>
+<programme start="20250826215000 +0000" stop="20250827000000 +0000" channel="tvN Movies.mncvision">
+    <title>Confidential Assignment 2</title>
+</programme>
+<programme start="20250827000000 +0000" stop="20250827015500 +0000" channel="tvN Movies.mncvision">
+    <title>Oh! My Gran</title>
+</programme>
+<programme start="20250827015500 +0000" stop="20250827034000 +0000" channel="tvN Movies.mncvision">
+    <title>Il Mare</title>
+</programme>
+<programme start="20250827034000 +0000" stop="20250827054000 +0000" channel="tvN Movies.mncvision">
+    <title>Harbin</title>
+</programme>
+<programme start="20250827054000 +0000" stop="20250827080000 +0000" channel="tvN Movies.mncvision">
+    <title>Steel Rain: Summit</title>
+</programme>
+<programme start="20250827080000 +0000" stop="20250827095500 +0000" channel="tvN Movies.mncvision">
+    <title>Hitman: Agent Jun</title>
+</programme>
+<programme start="20250827095500 +0000" stop="20250827115500 +0000" channel="tvN Movies.mncvision">
+    <title>I Don&#039;t Fire Myself</title>
+</programme>
+<programme start="20250827115500 +0000" stop="20250827140000 +0000" channel="tvN Movies.mncvision">
+    <title>Train To Busan</title>
+</programme>
+<programme start="20250827140000 +0000" stop="20250827154500 +0000" channel="tvN Movies.mncvision">
+    <title>Devils</title>
+</programme>
+<programme start="20250827154500 +0000" stop="20250827161500 +0000" channel="tvN Movies.mncvision">
+    <title>Canola</title>
+</programme>
 <programme start="20250826173500 +0000" stop="20250826194000 +0000" channel="tvN Movies HD.mncvision">
     <title>Sori: Voice From The Heart</title>
 </programme>
