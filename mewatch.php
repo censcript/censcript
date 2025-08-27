@@ -77,10 +77,10 @@
         <title>Super BOOMi S6 - EP 6</title>
     </programme>
     <programme start="20250827033000 +0000" stop="20250827034500 +0000" channel="Channel 5.mewatch">
-        <title>Go Go Dino S7-S9 - EP 59</title>
+        <title>Go Go Dino S9 - EP 59</title>
     </programme>
     <programme start="20250827034500 +0000" stop="20250827040000 +0000" channel="Channel 5.mewatch">
-        <title>Go Go Dino S7-S9 - EP 60</title>
+        <title>Go Go Dino S9 - EP 60</title>
     </programme>
     <programme start="20250827040000 +0000" stop="20250827041500 +0000" channel="Channel 5.mewatch">
         <title>Alvinnn!!! &amp; The Chipmunks S3 - EP 23</title>
