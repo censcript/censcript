@@ -1,7 +1,3 @@
-<programme start="20250828020000 +0700" stop="20250828040500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250828040500 +0700" stop="20250828053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -142,10 +138,6 @@
     <title>Football: AEK - Anderlecht</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828040000 +0700" stop="20250828043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250828043000 +0700" stop="20250828063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Qarabag FK - Ferencvarosi TC</title>
     <desc>Live: Tidak</desc>
@@ -202,6 +194,10 @@
     <title>Football: Samsunspor - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250829050000 +0700" stop="20250829070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Derby County - Bristol City</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250828034000 +0700" stop="20250828054500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
@@ -252,6 +248,14 @@
 </programme>
 <programme start="20250829032500 +0700" stop="20250829052500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829052500 +0700" stop="20250829055000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829055000 +0700" stop="20250829075500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828040000 +0700" stop="20250828053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +370,12 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828040000 +0700" stop="20250828043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250829052500 +0700" stop="20250829055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829055500 +0700" stop="20250829065500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828043000 +0700" stop="20250828052500 +0700" channel="COSMOTE Sport 6 HD">
@@ -450,12 +458,8 @@
     <title>Boxing: Natasha Jonas - Lauren Price</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828040000 +0700" stop="20250828043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250828043000 +0700" stop="20250828050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250829050000 +0700" stop="20250829060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828050000 +0700" stop="20250828080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -513,6 +517,10 @@
 <programme start="20250829043000 +0700" stop="20250829050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829050000 +0700" stop="20250829080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250828040000 +0700" stop="20250828060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
