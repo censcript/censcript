@@ -676,9 +676,6 @@
 <programme start="20250827230000 +0000" stop="20250828003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
-<programme start="20250828023000 +0000" stop="20250828060000 +0000" channel="ANTV.vision">
-<title>Chalte Chalte</title>
-</programme>
 <programme start="20250828060000 +0000" stop="20250828080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -693,18 +690,6 @@
 </programme>
 <programme start="20250828120000 +0000" stop="20250828140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250828140000 +0000" stop="20250828160000 +0000" channel="ANTV.vision">
-<title>Sunan Kalijaga &amp; Syech Siti...</title>
-</programme>
-<programme start="20250828160000 +0000" stop="20250828180000 +0000" channel="ANTV.vision">
-<title>Mr. Zombie</title>
-</programme>
-<programme start="20250828180000 +0000" stop="20250828193000 +0000" channel="ANTV.vision">
-<title>Lucky Stars Go Places</title>
-</programme>
-<programme start="20250828193000 +0000" stop="20250828203000 +0000" channel="ANTV.vision">
-<title>Brave</title>
 </programme>
 <programme start="20250828203000 +0000" stop="20250828220000 +0000" channel="ANTV.vision">
 <title>Catatan Si Boy</title>
@@ -882,9 +867,6 @@
 </programme>
 <programme start="20250828110000 +0000" stop="20250828130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20250828130000 +0000" stop="20250828140000 +0000" channel="TVOne.vision">
-<title>Dua Sisi (L)</title>
 </programme>
 <programme start="20250828140000 +0000" stop="20250828150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250829003000 +0000" stop="20250829011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20250829011500 +0000" stop="20250829021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250829021500 +0000" stop="20250829030000 +0000" channel="BTV.vision">
+<title>Selera Rasa</title>
+</programme>
+<programme start="20250829030000 +0000" stop="20250829040000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250829040000 +0000" stop="20250829050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20250829050000 +0000" stop="20250829060000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20250829060000 +0000" stop="20250829070000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
 </programme>
