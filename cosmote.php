@@ -1,7 +1,3 @@
-<programme start="20250828120000 +0700" stop="20250828130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2024-25</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250828130000 +0700" stop="20250828150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -74,6 +70,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250829130000 +0700" stop="20250829150000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Anderlecht</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250828110000 +0700" stop="20250828131500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +138,10 @@
     <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250829131000 +0700" stop="20250829151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250828120000 +0700" stop="20250828140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Norwich City - Middlesbrough</title>
     <desc>Live: Tidak</desc>
@@ -198,10 +202,6 @@
     <title>Football: Anorthosis Famagusta - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828100000 +0700" stop="20250828120500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250828120500 +0700" stop="20250828140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
@@ -256,10 +256,6 @@
 </programme>
 <programme start="20250829120000 +0700" stop="20250829140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250828111500 +0700" stop="20250828121500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828121500 +0700" stop="20250828135500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +362,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828100000 +0700" stop="20250828121500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+<programme start="20250829131000 +0700" stop="20250829140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828121500 +0700" stop="20250828131500 +0700" channel="COSMOTE Sport 6 HD">
@@ -455,6 +451,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829121500 +0700" stop="20250829131500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829131500 +0700" stop="20250829141500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

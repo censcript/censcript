@@ -4768,17 +4768,17 @@
     <programme start="20250828155000 +0000" stop="20250828164000 +0000" channel="Citra Entertainment.starhub">
         <title>TERCYDUCK 2025</title>
     </programme>
-    <programme start="20250827154500 +0000" stop="20250827190000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pushpa 2</title>
+    <programme start="20250827160000 +0000" stop="20250827190000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pushpa 2: The Rule</title>
     </programme>
     <programme start="20250827190000 +0000" stop="20250827210000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mr &amp; Mrs Kitchen - Cwc Special</title>
+        <title>Mr &amp; Mrs Kitchen CWC</title>
     </programme>
     <programme start="20250827210000 +0000" stop="20250828000000 +0000" channel="Vijay TV HD.starhub">
         <title>Gangers</title>
     </programme>
     <programme start="20250828000000 +0000" stop="20250828003000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250828003000 +0000" stop="20250828010000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4793,13 +4793,13 @@
         <title>Sindhu Bairavi Kacheri Arambam</title>
     </programme>
     <programme start="20250828023000 +0000" stop="20250828040000 +0000" channel="Vijay TV HD.starhub">
-        <title>Super Singer S11</title>
+        <title>Super Singer</title>
     </programme>
     <programme start="20250828040000 +0000" stop="20250828043000 +0000" channel="Vijay TV HD.starhub">
         <title>Aha Kalyanam Dum Dum Dum</title>
     </programme>
     <programme start="20250828043000 +0000" stop="20250828050000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250828050000 +0000" stop="20250828053000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4814,7 +4814,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20250828070000 +0000" stop="20250828073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20250828073000 +0000" stop="20250828080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4841,7 +4841,7 @@
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
     <programme start="20250828113000 +0000" stop="20250828121500 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250828121500 +0000" stop="20250828130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4861,8 +4861,8 @@
     <programme start="20250828150000 +0000" stop="20250828153000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
-    <programme start="20250828153000 +0000" stop="20250828161500 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+    <programme start="20250828153000 +0000" stop="20250828160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -5218,8 +5218,11 @@
     <programme start="20250828043000 +0000" stop="20250828060500 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20250828060500 +0000" stop="20250828110000 +0000" channel="SPOTV.starhub">
+    <programme start="20250828060500 +0000" stop="20250828103000 +0000" channel="SPOTV.starhub">
         <title>Day Session - W &amp; M Singles 2nd Round</title>
+    </programme>
+    <programme start="20250828103000 +0000" stop="20250828110000 +0000" channel="SPOTV.starhub">
+        <title>Daily Highlights</title>
     </programme>
     <programme start="20250828110000 +0000" stop="20250828123000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
@@ -8029,11 +8032,14 @@
     <programme start="20250827133000 +0000" stop="20250827163000 +0000" channel="Asianet Movies.starhub">
         <title>Anand Sreebala</title>
     </programme>
-    <programme start="20250827163000 +0000" stop="20250827193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250827163000 +0000" stop="20250827193500 +0000" channel="Asianet Movies.starhub">
         <title>Innathe Chinthavishayam</title>
     </programme>
-    <programme start="20250827193000 +0000" stop="20250827220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250827193500 +0000" stop="20250827221000 +0000" channel="Asianet Movies.starhub">
         <title>The Metro</title>
+    </programme>
+    <programme start="20250827221000 +0000" stop="20250827224500 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika Ii : No Season</title>
     </programme>
     <programme start="20250827224500 +0000" stop="20250828013000 +0000" channel="Asianet Movies.starhub">
         <title>Dr. Love</title>
