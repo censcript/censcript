@@ -8428,8 +8428,11 @@
 <programme start="20250828043000 +0000" stop="20250828060500 +0000" channel="SPOTV.mncvision">
     <title>2025 European Le Mans Series</title>
 </programme>
-<programme start="20250828060500 +0000" stop="20250828110000 +0000" channel="SPOTV.mncvision">
+<programme start="20250828060500 +0000" stop="20250828103000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
+</programme>
+<programme start="20250828103000 +0000" stop="20250828110000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
 <programme start="20250828110000 +0000" stop="20250828123000 +0000" channel="SPOTV.mncvision">
     <title>GT World Challenge America &#039;25</title>
@@ -8527,8 +8530,11 @@
 <programme start="20250828043000 +0000" stop="20250828060500 +0000" channel="SPOTV HD.mncvision">
     <title>2025 European Le Mans Series</title>
 </programme>
-<programme start="20250828060500 +0000" stop="20250828110000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250828060500 +0000" stop="20250828103000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
+</programme>
+<programme start="20250828103000 +0000" stop="20250828110000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
 <programme start="20250828110000 +0000" stop="20250828123000 +0000" channel="SPOTV HD.mncvision">
     <title>GT World Challenge America &#039;25</title>

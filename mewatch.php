@@ -590,10 +590,10 @@
         <title>Headline News</title>
     </programme>
     <programme start="20250827160000 +0000" stop="20250828160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250828160000 +0000" stop="20250829160000 +0000" channel="spl01.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250827160000 +0000" stop="20250827170000 +0000" channel="now-80s.mewatch">
         <title>Eurythmics: Reminisce! - EP1</title>
