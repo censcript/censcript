@@ -8035,7 +8035,7 @@
     <programme start="20250827193000 +0000" stop="20250827220000 +0000" channel="Asianet Movies.starhub">
         <title>The Metro</title>
     </programme>
-    <programme start="20250827220000 +0000" stop="20250828013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250827224500 +0000" stop="20250828013000 +0000" channel="Asianet Movies.starhub">
         <title>Dr. Love</title>
     </programme>
     <programme start="20250828013000 +0000" stop="20250828043000 +0000" channel="Asianet Movies.starhub">
@@ -8044,13 +8044,13 @@
     <programme start="20250828043000 +0000" stop="20250828073000 +0000" channel="Asianet Movies.starhub">
         <title>Snehaveedu</title>
     </programme>
-    <programme start="20250828073000 +0000" stop="20250828103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250828073000 +0000" stop="20250828102000 +0000" channel="Asianet Movies.starhub">
         <title>Manjummel Boys</title>
     </programme>
-    <programme start="20250828103000 +0000" stop="20250828133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250828102000 +0000" stop="20250828133000 +0000" channel="Asianet Movies.starhub">
         <title>Karyasthan</title>
     </programme>
-    <programme start="20250828133000 +0000" stop="20250828163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250828133000 +0000" stop="20250828165000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20250827160000 +0000" stop="20250827163000 +0000" channel="Astro Warna HD.starhub">
