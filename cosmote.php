@@ -74,6 +74,10 @@
     <title>2025 - 26 UEL &amp; UECL Draw, League Phase (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250829190000 +0700" stop="20250829200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>European Football Show 2025 -26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250828171500 +0700" stop="20250828193000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -142,6 +146,10 @@
     <title>Football: Panetolikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250829195500 +0700" stop="20250829202500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250828180000 +0700" stop="20250828200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Anorthosis Famagusta - Omonia Aradippou</title>
     <desc>Live: Tidak</desc>
@@ -202,8 +210,8 @@
     <title>Football: SL Benfica - Tondela</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828161500 +0700" stop="20250828182000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Brescia</title>
+<programme start="20250829195500 +0700" stop="20250829214500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828182000 +0700" stop="20250828202000 +0700" channel="COSMOTE Sport 4 HD">
@@ -260,10 +268,6 @@
 </programme>
 <programme start="20250829181000 +0700" stop="20250829201500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250828174500 +0700" stop="20250828184500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828184500 +0700" stop="20250828194500 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,9 +378,9 @@
     <title>WRC 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250828171500 +0700" stop="20250828181500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250829190000 +0700" stop="20250829200000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250828181500 +0700" stop="20250828200500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
@@ -464,6 +468,10 @@
 </programme>
 <programme start="20250829180000 +0700" stop="20250829193500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829193500 +0700" stop="20250829200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E15</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828180000 +0700" stop="20250828200000 +0700" channel="COSMOTE Sport 7 HD">
