@@ -154,8 +154,8 @@
     <title>Football: Cremonese - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829030000 +0700" stop="20250829050000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Samsunspor - Panathinaikos</title>
+<programme start="20250830055000 +0700" stop="20250830075000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829050000 +0700" stop="20250829070000 +0700" channel="COSMOTE Sport 3 HD">
@@ -208,6 +208,10 @@
 </programme>
 <programme start="20250830034500 +0700" stop="20250830054500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Hilal - Al-Riyadh</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830054500 +0700" stop="20250830060500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829032500 +0700" stop="20250829052500 +0700" channel="COSMOTE Sport 4 HD">
@@ -274,12 +278,8 @@
     <title>Basketball: Brescia - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829035500 +0700" stop="20250829042500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250829042500 +0700" stop="20250829045500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20250830054000 +0700" stop="20250830080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829045500 +0700" stop="20250829052500 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,8 +390,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829040000 +0700" stop="20250829050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Boxing: Natasha Jonas - Lauren Price</title>
+<programme start="20250830052000 +0700" stop="20250830061500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829050000 +0700" stop="20250829060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -474,12 +474,8 @@
     <title>Boxing: Naoya Inoue - Ramon Cardenas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829040000 +0700" stop="20250829043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250829043000 +0700" stop="20250829050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250830053500 +0700" stop="20250830060500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829050000 +0700" stop="20250829080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -550,6 +546,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250830050000 +0700" stop="20250830080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250829040000 +0700" stop="20250829060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -607,6 +607,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830043000 +0700" stop="20250830050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830050000 +0700" stop="20250830060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
