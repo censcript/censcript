@@ -676,6 +676,12 @@
 <programme start="20250827230000 +0000" stop="20250828003000 +0000" channel="ANTV.vision">
 <title>Catatan Hati</title>
 </programme>
+<programme start="20250828003000 +0000" stop="20250828023000 +0000" channel="ANTV.vision">
+<title>Pintar-Pintaran</title>
+</programme>
+<programme start="20250828023000 +0000" stop="20250828060000 +0000" channel="ANTV.vision">
+<title>Chalte Chalte</title>
+</programme>
 <programme start="20250828060000 +0000" stop="20250828080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250828230300 +0000" stop="20250829003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20250829003000 +0000" stop="20250829011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20250829011500 +0000" stop="20250829021500 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
 </programme>
