@@ -2761,10 +2761,10 @@
 <programme start="20250828154500 +0000" stop="20250828160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Playoff Rückspiele</title>
 </programme>
-<programme start="20250828160000 +0000" stop="20250828173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250828160000 +0000" stop="20250828171500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live UEFA CL: Auslosung Ligaphase</title>
 </programme>
-<programme start="20250828173000 +0000" stop="20250829050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250828171500 +0000" stop="20250829050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: Die Konferenz, 5. Tag</title>
 </programme>
 <programme start="20250828142500 +0000" stop="20250828144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -3215,19 +3215,19 @@
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250828060000 +0000" stop="20250828080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 1, 4. Tag</title>
+    <title>US Open: E. Raducanu (GBR) - J. Tjen (IDN), 4. Tag</title>
 </programme>
 <programme start="20250828080000 +0000" stop="20250828100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 2, 4. Tag</title>
+    <title>US Open: J.-L. Struff (GER) - H. Rune (DEN), 4. Tag</title>
 </programme>
 <programme start="20250828100000 +0000" stop="20250828101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20250828101500 +0000" stop="20250828121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 1, 4. Tag</title>
+    <title>US Open: E. Raducanu (GBR) - J. Tjen (IDN), 4. Tag</title>
 </programme>
 <programme start="20250828121500 +0000" stop="20250828141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 2, 4. Tag</title>
+    <title>US Open: J.-L. Struff (GER) - H. Rune (DEN), 4. Tag</title>
 </programme>
 <programme start="20250828141500 +0000" stop="20250828144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 4. Tag</title>
@@ -3301,13 +3301,13 @@
 <programme start="20250828151000 +0000" stop="20250828153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250828153000 +0000" stop="20250829050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250828153000 +0000" stop="20250829080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 5. Tag</title>
 </programme>
 <programme start="20250828144000 +0000" stop="20250828150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250828150000 +0000" stop="20250829050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250828150000 +0000" stop="20250829080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 5. Tag</title>
 </programme>
 <programme start="20250827221500 +0000" stop="20250827231500 +0000" channel="SYFY HD.skyde">
