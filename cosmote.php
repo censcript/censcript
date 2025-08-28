@@ -1,7 +1,3 @@
-<programme start="20250828220000 +0700" stop="20250828230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250828230000 +0700" stop="20250829001500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UCL League Phase Draw (L)</title>
     <desc>Live: Ya</desc>
@@ -78,6 +74,14 @@
     <title>Football: AEK - Anderlecht</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250829230000 +0700" stop="20250829233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829233000 +0700" stop="20250830013000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Cremonese - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250828220000 +0700" stop="20250829000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Anderlecht - AEK</title>
     <desc>Live: Tidak</desc>
@@ -150,8 +154,8 @@
     <title>Serie A Inside Serie A 2025-26 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828220000 +0700" stop="20250828230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20250829233000 +0700" stop="20250830014000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828230000 +0700" stop="20250829000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,8 +214,8 @@
     <title>Football: FC Porto - Casa Pia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828202000 +0700" stop="20250828222000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Brescia</title>
+<programme start="20250829234500 +0700" stop="20250830014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SC Braga - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828222000 +0700" stop="20250829002500 +0700" channel="COSMOTE Sport 4 HD">
@@ -394,12 +398,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250828200500 +0700" stop="20250828223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Ziraat Bankasi SK Ankara - Resovia Rzeszow</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250828223000 +0700" stop="20250828230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250829233000 +0700" stop="20250830000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828230000 +0700" stop="20250828233000 +0700" channel="COSMOTE Sport 6 HD">
@@ -488,6 +488,10 @@
 </programme>
 <programme start="20250829220000 +0700" stop="20250829233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250829233000 +0700" stop="20250830000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250828220000 +0700" stop="20250829000000 +0700" channel="COSMOTE Sport 7 HD">
