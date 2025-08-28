@@ -2773,7 +2773,7 @@
 <programme start="20250828144500 +0000" stop="20250828150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live US Open: US Open Daily</title>
 </programme>
-<programme start="20250828150000 +0000" stop="20250829050000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250828150000 +0000" stop="20250829080000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live US Open: Die Konferenz, 5. Tag</title>
 </programme>
 <programme start="20250827220000 +0000" stop="20250827223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3080,7 +3080,7 @@
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250828170000 +0000" stop="20250828173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime Spezial - Das Hamburger-Stadtderby</title>
+    <title>Live Sky Sport News: Primetime Spezial - Flutlicht-Freitag: Hamburger Stadtderby!</title>
 </programme>
 <programme start="20250828173000 +0000" stop="20250828183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -3105,9 +3105,6 @@
 </programme>
 <programme start="20250828210000 +0000" stop="20250828220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
-</programme>
-<programme start="20250827233000 +0000" stop="20250828000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 5. Spieltag</title>
 </programme>
 <programme start="20250828000000 +0000" stop="20250828003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BRE - AVL, 2. Spieltag</title>
@@ -3211,22 +3208,22 @@
 <programme start="20250828213000 +0000" stop="20250828220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BRE - AVL, 2. Spieltag</title>
 </programme>
-<programme start="20250828050000 +0000" stop="20250828060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250828032500 +0000" stop="20250828042000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250828060000 +0000" stop="20250828080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250828042000 +0000" stop="20250828054500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: E. Raducanu (GBR) - J. Tjen (IDN), 4. Tag</title>
 </programme>
-<programme start="20250828080000 +0000" stop="20250828100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250828054500 +0000" stop="20250828091000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - H. Rune (DEN), 4. Tag</title>
 </programme>
-<programme start="20250828100000 +0000" stop="20250828101500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250828091000 +0000" stop="20250828092500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20250828101500 +0000" stop="20250828121500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250828092500 +0000" stop="20250828105000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: E. Raducanu (GBR) - J. Tjen (IDN), 4. Tag</title>
 </programme>
-<programme start="20250828121500 +0000" stop="20250828141500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250828105000 +0000" stop="20250828141500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - H. Rune (DEN), 4. Tag</title>
 </programme>
 <programme start="20250828141500 +0000" stop="20250828144500 +0000" channel="Sky Sport Tennis HD.skyde">
