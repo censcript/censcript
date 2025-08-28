@@ -1018,10 +1018,10 @@
     <programme start="20250827190000 +0000" stop="20250828073000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th August, Thursday 3.30pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
-    <programme start="20250828073000 +0000" stop="20250828133000 +0000" channel="Live 5.mewatch">
+    <programme start="20250828073000 +0000" stop="20250828134500 +0000" channel="Live 5.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Round of 16 S1</title>
     </programme>
-    <programme start="20250828133000 +0000" stop="20250828150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250828134500 +0000" stop="20250828150000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28th August, Thursday 11pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
     <programme start="20250828150000 +0000" stop="20250828200000 +0000" channel="Live 5.mewatch">
