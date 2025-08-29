@@ -1,7 +1,3 @@
-<programme start="20250829150000 +0700" stop="20250829170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Samsunspor - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250829170000 +0700" stop="20250829180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>European Football Show 2025 -26 (L)</title>
     <desc>Live: Ya</desc>
@@ -162,6 +158,10 @@
     <title>Football: Lecce - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250830171000 +0700" stop="20250830192500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panserraikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250829155500 +0700" stop="20250829175500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Nacional - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -220,10 +220,6 @@
 </programme>
 <programme start="20250830161500 +0700" stop="20250830181500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Moreirense</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250829140500 +0700" stop="20250829161000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829161000 +0700" stop="20250829181000 +0700" channel="COSMOTE Sport 4 HD">
@@ -398,9 +394,13 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829144500 +0700" stop="20250829170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Andreas Loizas - Giannis Xilas</title>
+<programme start="20250830170000 +0700" stop="20250830173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830173000 +0700" stop="20250830183500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250829170000 +0700" stop="20250829180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
@@ -475,6 +475,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250830160000 +0700" stop="20250830170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250830170000 +0700" stop="20250830180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
