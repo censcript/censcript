@@ -3271,17 +3271,17 @@
 <programme start="20250829090000 +0000" stop="20250829091500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20250829154000 +0000" stop="20250829160000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Es folgt Live Tennis US Open</title>
-</programme>
-<programme start="20250829160000 +0000" stop="20250830080000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live US Open: Arthur Ashe Stadium, 6. Tag</title>
-</programme>
 <programme start="20250829144000 +0000" stop="20250829150000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
 <programme start="20250829150000 +0000" stop="20250830080000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 6. Tag</title>
+</programme>
+<programme start="20250830151000 +0000" stop="20250830153000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Es folgt Live Tennis US Open</title>
+</programme>
+<programme start="20250830153000 +0000" stop="20250831050000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live US Open: Arthur Ashe Stadium, 7. Tag</title>
 </programme>
 <programme start="20250828221500 +0000" stop="20250828230500 +0000" channel="SYFY HD.skyde">
     <title>Star Trek: Discovery</title>
