@@ -1195,10 +1195,10 @@
     <programme start="20250829153000 +0000" stop="20250829160000 +0000" channel="CGTN.starhub">
         <title>The Vibe</title>
     </programme>
-    <programme start="20250828160000 +0000" stop="20250828163000 +0000" channel="FIGHT SPORTS HD.starhub">
+    <programme start="20250828160000 +0000" stop="20250828170000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>bodogFIGHT Season Three Highlights</title>
     </programme>
-    <programme start="20250828163000 +0000" stop="20250828190000 +0000" channel="FIGHT SPORTS HD.starhub">
+    <programme start="20250828170000 +0000" stop="20250828190000 +0000" channel="FIGHT SPORTS HD.starhub">
         <title>MEGA Fights Andre Ward vs. Chad Dawson</title>
     </programme>
     <programme start="20250828190000 +0000" stop="20250828200000 +0000" channel="FIGHT SPORTS HD.starhub">

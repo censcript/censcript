@@ -1,11 +1,3 @@
-<programme start="20250829120000 +0700" stop="20250829123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250829123000 +0700" stop="20250829130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250829130000 +0700" stop="20250829150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Anderlecht</title>
     <desc>Live: Tidak</desc>
@@ -94,6 +86,10 @@
     <title>Highlights: UEL &amp; UECL 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250830133000 +0700" stop="20250830153000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Samsunspor - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250829110000 +0700" stop="20250829131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -160,6 +156,10 @@
 </programme>
 <programme start="20250830110000 +0700" stop="20250830131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panserraikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830131000 +0700" stop="20250830151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829120000 +0700" stop="20250829140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -394,8 +394,12 @@
     <title>Sports Classics: Gearing Up 2025 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829100000 +0700" stop="20250829121500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+<programme start="20250830130000 +0700" stop="20250830131500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830131500 +0700" stop="20250830141500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829121500 +0700" stop="20250829131500 +0700" channel="COSMOTE Sport 6 HD">
@@ -476,6 +480,10 @@
 </programme>
 <programme start="20250830115500 +0700" stop="20250830133000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - Rhein-Neckar Lowen</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830133000 +0700" stop="20250830150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829120000 +0700" stop="20250829140000 +0700" channel="COSMOTE Sport 7 HD">

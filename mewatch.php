@@ -109,17 +109,14 @@
     <programme start="20250829070000 +0000" stop="20250829073000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S42 - EP 3</title>
     </programme>
-    <programme start="20250829073000 +0000" stop="20250829080000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250829073000 +0000" stop="20250829083000 +0000" channel="Channel 5.mewatch">
+        <title>TotalEnergies BWF World Championships 2025 - EP 93</title>
+    </programme>
+    <programme start="20250829083000 +0000" stop="20250829090000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 123</title>
     </programme>
-    <programme start="20250829080000 +0000" stop="20250829083000 +0000" channel="Channel 5.mewatch">
-        <title>Kin - EP 195</title>
-    </programme>
-    <programme start="20250829083000 +0000" stop="20250829092000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250829090000 +0000" stop="20250829095000 +0000" channel="Channel 5.mewatch">
         <title>The Great British Bake Off Series 11: An Extra Slice - EP 3</title>
-    </programme>
-    <programme start="20250829092000 +0000" stop="20250829095000 +0000" channel="Channel 5.mewatch">
-        <title>Cooking Up A Fortune - EP 13</title>
     </programme>
     <programme start="20250829095000 +0000" stop="20250829105000 +0000" channel="Channel 5.mewatch">
         <title>Lingo UK S3 - EP 26</title>
