@@ -280,68 +280,71 @@
 <programme start="20250829140000 +0000" stop="20250829150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="iNews.vision">
+<programme start="20250829150000 +0000" stop="20250829160000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20250829160000 +0000" stop="20250829163000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20250822163000 +0000" stop="20250822170000 +0000" channel="iNews.vision">
+<programme start="20250829163000 +0000" stop="20250829170000 +0000" channel="iNews.vision">
 <title>New Top Files</title>
 </programme>
 <programme start="20250829170000 +0000" stop="20250829173000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20250829173000 +0000" stop="20250829190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20250829190000 +0000" stop="20250829194500 +0000" channel="iNews.vision">
-<title>Air Mata Surga</title>
+<title>iNews</title>
 </programme>
 <programme start="20250829194500 +0000" stop="20250829201500 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews</title>
 </programme>
 <programme start="20250829201500 +0000" stop="20250829210000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>iNews</title>
 </programme>
-<programme start="20250827201500 +0000" stop="20250827210000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<programme start="20250829210000 +0000" stop="20250829211500 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20250829211500 +0000" stop="20250829230000 +0000" channel="iNews.vision">
-<title>Inews Pagi (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250829230000 +0000" stop="20250829230200 +0000" channel="iNews.vision">
-<title>Indonesia Raya</title>
+<title>iNews</title>
 </programme>
 <programme start="20250829230200 +0000" stop="20250829233000 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<title>iNews</title>
 </programme>
-<programme start="20250829233000 +0000" stop="20250830003000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20250830000000 +0000" stop="20250830003000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20250830003000 +0000" stop="20250830013000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830013000 +0000" stop="20250830023000 +0000" channel="iNews.vision">
-<title>The Prime Show (iNews)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830023000 +0000" stop="20250830033000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830033000 +0000" stop="20250830053000 +0000" channel="iNews.vision">
-<title>iNews Siang (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830053000 +0000" stop="20250830073000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Indonesia (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830073000 +0000" stop="20250830083000 +0000" channel="iNews.vision">
-<title>iSeleb</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830083000 +0000" stop="20250830100000 +0000" channel="iNews.vision">
-<title>Realita (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250830100000 +0000" stop="20250830120000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250829000000 +0000" stop="20250829003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -546,9 +549,6 @@
 </programme>
 <programme start="20250829023000 +0000" stop="20250829033000 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
-</programme>
-<programme start="20250829033000 +0000" stop="20250829041500 +0000" channel="Trans 7.vision">
-<title>Update Kehidupan</title>
 </programme>
 <programme start="20250829041500 +0000" stop="20250829050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>

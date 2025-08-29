@@ -4870,10 +4870,7 @@
 <programme start="20250829070000 +0000" stop="20250829083000 +0000" channel="iNews.mncvision">
     <title>iSeleb (L)</title>
 </programme>
-<programme start="20250829083000 +0000" stop="20250829100000 +0000" channel="iNews.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20250829100000 +0000" stop="20250829120000 +0000" channel="iNews.mncvision">
+<programme start="20250829083000 +0000" stop="20250829120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20250829120000 +0000" stop="20250829130000 +0000" channel="iNews.mncvision">
@@ -4948,10 +4945,7 @@
 <programme start="20250829070000 +0000" stop="20250829083000 +0000" channel="iNews HD.mncvision">
     <title>iSeleb (L)</title>
 </programme>
-<programme start="20250829083000 +0000" stop="20250829100000 +0000" channel="iNews HD.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20250829100000 +0000" stop="20250829120000 +0000" channel="iNews HD.mncvision">
+<programme start="20250829083000 +0000" stop="20250829120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20250829120000 +0000" stop="20250829130000 +0000" channel="iNews HD.mncvision">
