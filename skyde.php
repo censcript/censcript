@@ -2797,7 +2797,7 @@
 <programme start="20250829160000 +0000" stop="20250829183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hertha BSC - SV Elversberg, 4. Spieltag</title>
 </programme>
-<programme start="20250829183000 +0000" stop="20250829203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250829183000 +0000" stop="20250829204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: HSV - STP, 2. Spieltag</title>
 </programme>
 <programme start="20250829154000 +0000" stop="20250829160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">

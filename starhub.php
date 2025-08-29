@@ -3766,18 +3766,6 @@
     <programme start="20250829152500 +0000" stop="20250829174000 +0000" channel="Cinemax HD.starhub">
         <title>Furious 7</title>
     </programme>
-    <programme start="20250828160000 +0000" stop="20250828220000 +0000" channel="SEA Today.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20250828220000 +0000" stop="20250829040000 +0000" channel="SEA Today.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20250829040000 +0000" stop="20250829100000 +0000" channel="SEA Today.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20250829100000 +0000" stop="20250829160000 +0000" channel="SEA Today.starhub">
-        <title>End Of Transmission</title>
-    </programme>
     <programme start="20250828160000 +0000" stop="20250828170000 +0000" channel="Cartoon Network.starhub">
         <title>The Power/Muscle Woman/Bet To Be Blonde/Carter And Briggs/Gold Watch</title>
     </programme>
@@ -7565,7 +7553,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250829003000 +0000" stop="20250829010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Trump, Zelensky and the cameras</title>
     </programme>
     <programme start="20250829010000 +0000" stop="20250829013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
