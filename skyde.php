@@ -2680,6 +2680,75 @@
 <programme start="20250829150000 +0000" stop="20250830050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: Die Konferenz, 6. Tag</title>
 </programme>
+<programme start="20250828220000 +0000" stop="20250828223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20250828223000 +0000" stop="20250828230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250828230000 +0000" stop="20250829010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Sonntags-Konferenz, 3. Spieltag</title>
+</programme>
+<programme start="20250829010000 +0000" stop="20250829030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: SC Paderborn 07 - Fortuna Düsseldorf, 3. Spieltag</title>
+</programme>
+<programme start="20250829030000 +0000" stop="20250829040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 3. Spieltag</title>
+</programme>
+<programme start="20250829040000 +0000" stop="20250829043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Loris Karius</title>
+</programme>
+<programme start="20250829043000 +0000" stop="20250829050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250829050000 +0000" stop="20250829070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Bayern München - RB Leipzig, Flutlicht-Freitag, 1. Spieltag</title>
+</programme>
+<programme start="20250829070000 +0000" stop="20250829080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250829080000 +0000" stop="20250829100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
+</programme>
+<programme start="20250829100000 +0000" stop="20250829103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20250829103000 +0000" stop="20250829113000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250829113000 +0000" stop="20250829131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Klassiker der Woche: HSV - STP (2010/11)</title>
+</programme>
+<programme start="20250829131500 +0000" stop="20250829134500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Frank Schmidt)</title>
+</programme>
+<programme start="20250829134500 +0000" stop="20250829144500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 1. Spieltag</title>
+</programme>
+<programme start="20250829144500 +0000" stop="20250829151500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20250829151500 +0000" stop="20250829153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Erik und Erik - Zwei Niederländer unter sich</title>
+</programme>
+<programme start="20250829153000 +0000" stop="20250829160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250829160000 +0000" stop="20250829170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250829170000 +0000" stop="20250829173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Silvio Heinevetter</title>
+</programme>
+<programme start="20250829173000 +0000" stop="20250829181500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: HSV - STP, tipico Countdown, Flutlicht-Freitag, 2. Spieltag</title>
+</programme>
+<programme start="20250829181500 +0000" stop="20250829211500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Hamburger SV - FC St. Pauli, Flutlicht-Freitag, 2. Spieltag</title>
+</programme>
+<programme start="20250829211500 +0000" stop="20250829220500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Mythos Borussia - Eine Legende wird 125 (Episode 1)</title>
+</programme>
 <programme start="20250829093000 +0000" stop="20250829113000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: FC Schalke 04 - VfL Bochum, tipico Topspiel der Woche, 3. Spieltag</title>
 </programme>
@@ -2700,6 +2769,15 @@
 </programme>
 <programme start="20250829211500 +0000" stop="20250829231500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: FC Schalke 04 - VfL Bochum, tipico Topspiel der Woche, 3. Spieltag</title>
+</programme>
+<programme start="20250829171000 +0000" stop="20250829173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>Es folgt: Live Bundesliga</title>
+</programme>
+<programme start="20250829173000 +0000" stop="20250829181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>Live BL: HSV - STP, tipico Countdown, Flutlicht-Freitag, 2. Spieltag</title>
+</programme>
+<programme start="20250829181500 +0000" stop="20250829214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+    <title>Live BL: Hamburger SV - FC St. Pauli, Flutlicht-Freitag, 2. Spieltag</title>
 </programme>
 <programme start="20250829154000 +0000" stop="20250829160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -2898,6 +2976,102 @@
 </programme>
 <programme start="20250829213000 +0000" stop="20250829223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Ungarn</title>
+</programme>
+<programme start="20250828220000 +0000" stop="20250829000000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250829000000 +0000" stop="20250829010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Matchplan: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250829010000 +0000" stop="20250829040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250829040000 +0000" stop="20250829043000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Frank Schmidt)</title>
+</programme>
+<programme start="20250829043000 +0000" stop="20250829050000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250829050000 +0000" stop="20250829060000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Matchplan: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250829060000 +0000" stop="20250829080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250829080000 +0000" stop="20250829083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20250829083000 +0000" stop="20250829084500 +0000" channel="Sky Sport News HD.skyde">
+    <title>F1: Warm Up - Das Motorsport Spezial</title>
+</programme>
+<programme start="20250829084500 +0000" stop="20250829090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250829090000 +0000" stop="20250829093000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250829093000 +0000" stop="20250829100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Frank Schmidt)</title>
+</programme>
+<programme start="20250829100000 +0000" stop="20250829103000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Pressekonferenzen live</title>
+</programme>
+<programme start="20250829103000 +0000" stop="20250829105500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Pressekonferenzen live</title>
+</programme>
+<programme start="20250829105500 +0000" stop="20250829120000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live UEFA EL: UEL &amp; UECL Auslosung Ligaphase</title>
+</programme>
+<programme start="20250829120000 +0000" stop="20250829130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Pressekonferenzen live</title>
+</programme>
+<programme start="20250829130000 +0000" stop="20250829143000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20250829143000 +0000" stop="20250829144500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
+</programme>
+<programme start="20250829144500 +0000" stop="20250829150000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live US Open: US Open Daily</title>
+</programme>
+<programme start="20250829150000 +0000" stop="20250829153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live TGIF: Die Bundesliga-Vorschau</title>
+</programme>
+<programme start="20250829153000 +0000" stop="20250829160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Transfer Update: Die Show</title>
+</programme>
+<programme start="20250829160000 +0000" stop="20250829163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live 2. BL: Vorbericht: Freitags-Konferenz, 4. Spieltag</title>
+</programme>
+<programme start="20250829163000 +0000" stop="20250829164500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
+</programme>
+<programme start="20250829164500 +0000" stop="20250829170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250829170000 +0000" stop="20250829173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250829173000 +0000" stop="20250829183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live BL: HSV - STP, tipico Countdown, Flutlicht-Freitag, 2. Spieltag</title>
+</programme>
+<programme start="20250829183000 +0000" stop="20250829191500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 4. Spieltag, Freitag</title>
+</programme>
+<programme start="20250829191500 +0000" stop="20250829193000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20250829193000 +0000" stop="20250829200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
+</programme>
+<programme start="20250829200000 +0000" stop="20250829203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
+</programme>
+<programme start="20250829203000 +0000" stop="20250829210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show</title>
+</programme>
+<programme start="20250829210000 +0000" stop="20250829220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Deine Vorschau</title>
 </programme>
 <programme start="20250828220000 +0000" stop="20250828230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
