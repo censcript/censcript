@@ -550,9 +550,6 @@
 <programme start="20250829023000 +0000" stop="20250829033000 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
-<programme start="20250829033000 +0000" stop="20250829041500 +0000" channel="Trans 7.vision">
-<title>Update Kehidupan</title>
-</programme>
 <programme start="20250829041500 +0000" stop="20250829050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250829190000 +0000" stop="20250829200000 +0000" channel="BTV.vision">
 <title>Mitos Tengah Malam</title>
+</programme>
+<programme start="20250829200000 +0000" stop="20250829210000 +0000" channel="BTV.vision">
+<title>Ketulusan Hati</title>
 </programme>

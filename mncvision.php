@@ -7999,9 +7999,147 @@
 <programme start="20250829163000 +0000" stop="20250828170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: FCU Vs VFB</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250828183000 +0000" stop="20250828203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: PLE Vs OMA</title>
+</programme>
+<programme start="20250828203000 +0000" stop="20250828210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250828210000 +0000" stop="20250828213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20250828213000 +0000" stop="20250828233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs UZB</title>
+</programme>
+<programme start="20250828233000 +0000" stop="20250829013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: PLE Vs OMA</title>
+</programme>
+<programme start="20250829013000 +0000" stop="20250829033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: SCF Vs FCA</title>
+</programme>
+<programme start="20250829033000 +0000" stop="20250829040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250829040000 +0000" stop="20250829060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250829060000 +0000" stop="20250829080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>UEFA Nations League</title>
+</programme>
+<programme start="20250829080000 +0000" stop="20250829100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCU Vs VFB</title>
+</programme>
+<programme start="20250829100000 +0000" stop="20250829103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Weekly</title>
+</programme>
+<programme start="20250829103000 +0000" stop="20250829123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: JPN Vs IDN</title>
+</programme>
+<programme start="20250829123000 +0000" stop="20250829143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs YEM</title>
+</programme>
+<programme start="20250829143000 +0000" stop="20250829163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2024/25</title>
+</programme>
+<programme start="20250829163000 +0000" stop="20250828170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCU Vs VFB</title>
+</programme>
+<programme start="20250828180000 +0000" stop="20250828203000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara</title>
+</programme>
+<programme start="20250828203000 +0000" stop="20250828210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250828210000 +0000" stop="20250828230000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250828230000 +0000" stop="20250828233000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250828233000 +0000" stop="20250829000000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Trivia</title>
+</programme>
+<programme start="20250829000000 +0000" stop="20250829003000 +0000" channel="Sportstars.mncvision">
+    <title>Planet Football Spc. Road...</title>
+</programme>
+<programme start="20250829003000 +0000" stop="20250829023000 +0000" channel="Sportstars.mncvision">
+    <title>SEA V-League</title>
+</programme>
+<programme start="20250829023000 +0000" stop="20250829050000 +0000" channel="Sportstars.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250829050000 +0000" stop="20250829053000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250829053000 +0000" stop="20250829080000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara</title>
+</programme>
+<programme start="20250829080000 +0000" stop="20250829083000 +0000" channel="Sportstars.mncvision">
+    <title>Sport Trivia</title>
+</programme>
+<programme start="20250829083000 +0000" stop="20250829090000 +0000" channel="Sportstars.mncvision">
+    <title>Planet Football Spc. Road...</title>
+</programme>
+<programme start="20250829090000 +0000" stop="20250829110000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250829110000 +0000" stop="20250829130000 +0000" channel="Sportstars.mncvision">
+    <title>FIBA</title>
+</programme>
+<programme start="20250829130000 +0000" stop="20250829133000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250829133000 +0000" stop="20250829153000 +0000" channel="Sportstars.mncvision">
+    <title>SEA V-League</title>
+</programme>
+<programme start="20250829153000 +0000" stop="20250829160000 +0000" channel="Sportstars.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250828170000 +0000" stop="20250828190000 +0000" channel="Sportstars 2.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250828190000 +0000" stop="20250828210000 +0000" channel="Sportstars 2.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250828210000 +0000" stop="20250828233000 +0000" channel="Sportstars 2.mncvision">
+    <title>Indonesia Juara</title>
+</programme>
+<programme start="20250828233000 +0000" stop="20250829000000 +0000" channel="Sportstars 2.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20250829000000 +0000" stop="20250829003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250829003000 +0000" stop="20250829023000 +0000" channel="Sportstars 2.mncvision">
+    <title>Predator PBC Indonesia Open</title>
+</programme>
+<programme start="20250829023000 +0000" stop="20250829030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250829030000 +0000" stop="20250829050000 +0000" channel="Sportstars 2.mncvision">
+    <title>UEFA National League</title>
+</programme>
+<programme start="20250829050000 +0000" stop="20250829070000 +0000" channel="Sportstars 2.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250829070000 +0000" stop="20250829083000 +0000" channel="Sportstars 2.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
+<programme start="20250829083000 +0000" stop="20250829103000 +0000" channel="Sportstars 2.mncvision">
+    <title>Timnas Spesial</title>
+</programme>
+<programme start="20250829103000 +0000" stop="20250829130000 +0000" channel="Sportstars 2.mncvision">
+    <title>Indonesia Juara</title>
+</programme>
+<programme start="20250829130000 +0000" stop="20250829150000 +0000" channel="Sportstars 2.mncvision">
+    <title>FIBA</title>
+</programme>
+<programme start="20250829150000 +0000" stop="20250829153000 +0000" channel="Sportstars 2.mncvision">
+    <title>World Classic Sports</title>
+</programme>
+<programme start="20250829153000 +0000" stop="20250829160000 +0000" channel="Sportstars 2.mncvision">
+    <title>GAMMA World MMA C&#039;ship 2024</title>
+</programme>
 <programme start="20250828170000 +0000" stop="20250828190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Predator PBC Indonesia Open</title>
 </programme>
