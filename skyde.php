@@ -3169,6 +3169,36 @@
 <programme start="20250829213000 +0000" stop="20250829220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: FUL - MUN, 2. Spieltag</title>
 </programme>
+<programme start="20250829050000 +0000" stop="20250829053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250829053000 +0000" stop="20250829073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Topspiel 1, 5. Tag</title>
+</programme>
+<programme start="20250829073000 +0000" stop="20250829093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Topspiel 2, 5. Tag</title>
+</programme>
+<programme start="20250829093000 +0000" stop="20250829100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Montreal</title>
+</programme>
+<programme start="20250829100000 +0000" stop="20250829101500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Greatest 50</title>
+</programme>
+<programme start="20250829101500 +0000" stop="20250829121500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Topspiel 1, 5. Tag</title>
+</programme>
+<programme start="20250829121500 +0000" stop="20250829141500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Topspiel 2, 5. Tag</title>
+</programme>
+<programme start="20250829141500 +0000" stop="20250829144500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, 5. Tag</title>
+</programme>
+<programme start="20250829144500 +0000" stop="20250829150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: US Open Daily</title>
+</programme>
+<programme start="20250829150000 +0000" stop="20250830050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: Die Konferenz, 6. Tag</title>
+</programme>
 <programme start="20250829050000 +0000" stop="20250829060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>

@@ -8309,7 +8309,7 @@
         <title>Future China</title>
     </programme>
     <programme start="20250829060000 +0000" stop="20250829070000 +0000" channel="Dragon TV.starhub">
-        <title>My Legacy and I</title>
+        <title>China - Back to the Roots</title>
     </programme>
     <programme start="20250829070000 +0000" stop="20250829084500 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>
@@ -8327,7 +8327,7 @@
         <title>Dragon TV Primetime News</title>
     </programme>
     <programme start="20250829110000 +0000" stop="20250829120000 +0000" channel="Dragon TV.starhub">
-        <title>My Legacy and I</title>
+        <title>China - Back to the Roots</title>
     </programme>
     <programme start="20250829120000 +0000" stop="20250829130000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
