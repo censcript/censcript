@@ -4115,10 +4115,10 @@
     <title>IPA &amp; IPS</title>
 </programme>
 <programme start="20250829123000 +0000" stop="20250829143000 +0000" channel="GTV.mncvision">
-    <title>Transformers: The Last Knight</title>
+    <title>Transformers</title>
 </programme>
 <programme start="20250829143000 +0000" stop="20250829160000 +0000" channel="GTV.mncvision">
-    <title>The Rhythm Section</title>
+    <title>Daddy&#039;s Home 2</title>
 </programme>
 <programme start="20250829160000 +0000" stop="20250829163000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
@@ -4166,10 +4166,10 @@
     <title>IPA &amp; IPS</title>
 </programme>
 <programme start="20250829123000 +0000" stop="20250829143000 +0000" channel="GTV HD.mncvision">
-    <title>Transformers: The Last Knight</title>
+    <title>Transformers</title>
 </programme>
 <programme start="20250829143000 +0000" stop="20250829160000 +0000" channel="GTV HD.mncvision">
-    <title>The Rhythm Section</title>
+    <title>Daddy&#039;s Home 2</title>
 </programme>
 <programme start="20250829160000 +0000" stop="20250829163000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
