@@ -3178,35 +3178,44 @@
 <programme start="20250829213000 +0000" stop="20250829220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: FUL - MUN, 2. Spieltag</title>
 </programme>
-<programme start="20250829050000 +0000" stop="20250829053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250907233000 +0000" stop="20250908020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
+</programme>
+<programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250829053000 +0000" stop="20250829073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: L. Siegemund (GER) - A. Zakharova, 5. Tag</title>
+<programme start="20250908023000 +0000" stop="20250908050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: B. van de Zandschulp (NED) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
 </programme>
-<programme start="20250829073000 +0000" stop="20250829093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Zverev (GER) - J. Fearnley (GBR), 5. Tag</title>
+<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Damen</title>
 </programme>
-<programme start="20250829093000 +0000" stop="20250829100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Montreal</title>
+<programme start="20250908053000 +0000" stop="20250908060000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20250829100000 +0000" stop="20250829101500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: Greatest 50</title>
+<programme start="20250908060000 +0000" stop="20250908083000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Doppelfinale Herren</title>
 </programme>
-<programme start="20250829101500 +0000" stop="20250829121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: L. Siegemund (GER) - A. Zakharova, 5. Tag</title>
+<programme start="20250908083000 +0000" stop="20250908110000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Finale Herren</title>
 </programme>
-<programme start="20250829121500 +0000" stop="20250829141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Zverev (GER) - J. Fearnley (GBR), 5. Tag</title>
+<programme start="20250908110000 +0000" stop="20250908133000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Finale Damen</title>
 </programme>
-<programme start="20250829141500 +0000" stop="20250829144500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, 5. Tag</title>
+<programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250829144500 +0000" stop="20250829150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: US Open Daily</title>
+<programme start="20250908143000 +0000" stop="20250908170000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Finale Herren</title>
 </programme>
-<programme start="20250829150000 +0000" stop="20250830050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: Die Konferenz, 6. Tag</title>
+<programme start="20250908170000 +0000" stop="20250908193000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Finale Damen</title>
+</programme>
+<programme start="20250908193000 +0000" stop="20250908200000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Herren</title>
+</programme>
+<programme start="20250908200000 +0000" stop="20250909040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
 </programme>
 <programme start="20250829050000 +0000" stop="20250829060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: The Catch-Up Show</title>
