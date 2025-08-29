@@ -90,10 +90,6 @@
     <title>Football: AEK - Anderlecht</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829090000 +0700" stop="20250829110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250829110000 +0700" stop="20250829131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -155,6 +151,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830085000 +0700" stop="20250830110000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panserraikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830110000 +0700" stop="20250830131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -382,6 +382,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250830110500 +0700" stop="20250830113500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830113500 +0700" stop="20250830123000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250829100000 +0700" stop="20250829121500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
@@ -458,9 +466,13 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250829080000 +0700" stop="20250829110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250830110000 +0700" stop="20250830115500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830115500 +0700" stop="20250830133000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: MT Melsungen - Rhein-Neckar Lowen</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829110000 +0700" stop="20250829113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -529,6 +541,14 @@
 <programme start="20250830080000 +0700" stop="20250830110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250830110000 +0700" stop="20250830113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250830113000 +0700" stop="20250830120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250829100000 +0700" stop="20250829120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
