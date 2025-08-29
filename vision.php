@@ -862,6 +862,9 @@
 <programme start="20250828233000 +0000" stop="20250829013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20250829013000 +0000" stop="20250829020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
+</programme>
 <programme start="20250829020000 +0000" stop="20250829023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250829180300 +0000" stop="20250829190000 +0000" channel="BTV.vision">
 <title>ONE Vault</title>
-</programme>
-<programme start="20250829190000 +0000" stop="20250829200000 +0000" channel="BTV.vision">
-<title>Mitos Tengah Malam</title>
 </programme>
