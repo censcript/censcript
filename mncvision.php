@@ -8788,7 +8788,129 @@
 <programme start="20250830160400 +0000" stop="20250830163400 +0000" channel="Superrix HD.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250829170000 +0000" stop="20250829173000 +0000" channel="Tawaf TV.mncvision">
+    <title>Belajar Mengaji</title>
+</programme>
+<programme start="20250829173000 +0000" stop="20250829183000 +0000" channel="Tawaf TV.mncvision">
+    <title>Akhlak Karimah</title>
+</programme>
+<programme start="20250829183000 +0000" stop="20250829190000 +0000" channel="Tawaf TV.mncvision">
+    <title>Kisah Siti Mariyam</title>
+</programme>
+<programme start="20250829190000 +0000" stop="20250829193000 +0000" channel="Tawaf TV.mncvision">
+    <title>Nabi Sulaiman</title>
+</programme>
+<programme start="20250829193000 +0000" stop="20250829200000 +0000" channel="Tawaf TV.mncvision">
+    <title>Syiar Peradaban, Syafruddin</title>
+</programme>
+<programme start="20250829200000 +0000" stop="20250829203000 +0000" channel="Tawaf TV.mncvision">
+    <title>Obrolan Seputar Masjid</title>
+</programme>
+<programme start="20250829203000 +0000" stop="20250829210000 +0000" channel="Tawaf TV.mncvision">
+    <title>Jendela Hikmah</title>
+</programme>
+<programme start="20250829210000 +0000" stop="20250829213000 +0000" channel="Tawaf TV.mncvision">
+    <title>Icip-Icip Halal</title>
+</programme>
+<programme start="20250829213000 +0000" stop="20250829220000 +0000" channel="Tawaf TV.mncvision">
+    <title>Ziswaf Lifestyle</title>
+</programme>
+<programme start="20250829220000 +0000" stop="20250829230000 +0000" channel="Tawaf TV.mncvision">
+    <title>Akhlak Karimah</title>
+</programme>
+<programme start="20250829230000 +0000" stop="20250829233000 +0000" channel="Tawaf TV.mncvision">
+    <title>Belajar Mengaji</title>
+</programme>
+<programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="Tawaf TV.mncvision">
+    <title>Kisah Siti Mariyam</title>
+</programme>
+<programme start="20250830000000 +0000" stop="20250830003000 +0000" channel="Tawaf TV.mncvision">
+    <title>Nabi Sulaiman</title>
+</programme>
+<programme start="20250830003000 +0000" stop="20250830010000 +0000" channel="Tawaf TV.mncvision">
+    <title>Syiar Peradaban, Syafruddin</title>
+</programme>
+<programme start="20250830010000 +0000" stop="20250830013000 +0000" channel="Tawaf TV.mncvision">
+    <title>Hikayat</title>
+</programme>
+<programme start="20250830013000 +0000" stop="20250830023000 +0000" channel="Tawaf TV.mncvision">
+    <title>Majelis Ilmu</title>
+</programme>
+<programme start="20250830023000 +0000" stop="20250830030000 +0000" channel="Tawaf TV.mncvision">
+    <title>Obrolan Seputar Masjid</title>
+</programme>
+<programme start="20250830030000 +0000" stop="20250830033000 +0000" channel="Tawaf TV.mncvision">
+    <title>Jelajah Surau</title>
+</programme>
+<programme start="20250830033000 +0000" stop="20250830040000 +0000" channel="Tawaf TV.mncvision">
+    <title>Icip-Icip Halal</title>
+</programme>
+<programme start="20250830040000 +0000" stop="20250830043000 +0000" channel="Tawaf TV.mncvision">
+    <title>Kisah Siti Mariyam</title>
+</programme>
+<programme start="20250830043000 +0000" stop="20250830050000 +0000" channel="Tawaf TV.mncvision">
+    <title>Nabi Sulaiman</title>
+</programme>
+<programme start="20250830050000 +0000" stop="20250830060000 +0000" channel="Tawaf TV.mncvision">
+    <title>Majelis Ilmu</title>
+</programme>
+<programme start="20250830060000 +0000" stop="20250830070000 +0000" channel="Tawaf TV.mncvision">
+    <title>Akhlak Karimah</title>
+</programme>
+<programme start="20250830070000 +0000" stop="20250830073000 +0000" channel="Tawaf TV.mncvision">
+    <title>Jelajah Surau</title>
+</programme>
+<programme start="20250830073000 +0000" stop="20250830080000 +0000" channel="Tawaf TV.mncvision">
+    <title>Belajar Mengaji</title>
+</programme>
+<programme start="20250830080000 +0000" stop="20250830083000 +0000" channel="Tawaf TV.mncvision">
+    <title>Ziswaf Lifestyle</title>
+</programme>
+<programme start="20250830083000 +0000" stop="20250830090000 +0000" channel="Tawaf TV.mncvision">
+    <title>Obrolan Seputar Masjid</title>
+</programme>
+<programme start="20250830090000 +0000" stop="20250830093000 +0000" channel="Tawaf TV.mncvision">
+    <title>Kisah Siti Mariyam</title>
+</programme>
+<programme start="20250830093000 +0000" stop="20250830100000 +0000" channel="Tawaf TV.mncvision">
+    <title>Nabi Sulaiman</title>
+</programme>
+<programme start="20250830100000 +0000" stop="20250830103000 +0000" channel="Tawaf TV.mncvision">
+    <title>Icip-Icip Halal</title>
+</programme>
+<programme start="20250830103000 +0000" stop="20250830110000 +0000" channel="Tawaf TV.mncvision">
+    <title>Jendela Hikmah</title>
+</programme>
+<programme start="20250830110000 +0000" stop="20250830120000 +0000" channel="Tawaf TV.mncvision">
+    <title>Majelis Ilmu</title>
+</programme>
+<programme start="20250830120000 +0000" stop="20250830123000 +0000" channel="Tawaf TV.mncvision">
+    <title>Icip-Icip Halal</title>
+</programme>
+<programme start="20250830123000 +0000" stop="20250830130000 +0000" channel="Tawaf TV.mncvision">
+    <title>Belajar Mengaji</title>
+</programme>
+<programme start="20250830130000 +0000" stop="20250830133000 +0000" channel="Tawaf TV.mncvision">
+    <title>Ziswaf Lifestyle</title>
+</programme>
+<programme start="20250830133000 +0000" stop="20250830143000 +0000" channel="Tawaf TV.mncvision">
+    <title>Majelis Ilmu</title>
+</programme>
+<programme start="20250830143000 +0000" stop="20250830150000 +0000" channel="Tawaf TV.mncvision">
+    <title>Jelajah Surau</title>
+</programme>
+<programme start="20250830150000 +0000" stop="20250830153000 +0000" channel="Tawaf TV.mncvision">
+    <title>Syiar Peradaban, Syafruddin</title>
+</programme>
+<programme start="20250830153000 +0000" stop="20250830160000 +0000" channel="Tawaf TV.mncvision">
+    <title>Hikayat</title>
+</programme>
+<programme start="20250830160000 +0000" stop="20250830163000 +0000" channel="Tawaf TV.mncvision">
+    <title>Obrolan Seputar Masjid</title>
+</programme>
+<programme start="20250830163000 +0000" stop="20250829170000 +0000" channel="Tawaf TV.mncvision">
+    <title>Jelajah Surau</title>
+</programme>
 <programme start="20250829175500 +0000" stop="20250829193000 +0000" channel="Thrill.mncvision">
     <title>The Lesson</title>
 </programme>
@@ -8834,9 +8956,198 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250830154000 +0000" stop="20250830161000 +0000" channel="Thrill.mncvision">
     <title>Central Park</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250829171500 +0000" stop="20250829174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20250829174500 +0000" stop="20250829183000 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20250829183000 +0000" stop="20250829190000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20250829190000 +0000" stop="20250829194500 +0000" channel="Trans 7.mncvision">
+    <title>Ayah &amp; Ayu</title>
+</programme>
+<programme start="20250829194500 +0000" stop="20250829201500 +0000" channel="Trans 7.mncvision">
+    <title>Foodies</title>
+</programme>
+<programme start="20250829201500 +0000" stop="20250829210000 +0000" channel="Trans 7.mncvision">
+    <title>Just For Laughs Gags</title>
+</programme>
+<programme start="20250829210000 +0000" stop="20250829213000 +0000" channel="Trans 7.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20250829213000 +0000" stop="20250829221500 +0000" channel="Trans 7.mncvision">
+    <title>Kisah Para Nabi</title>
+</programme>
+<programme start="20250829221500 +0000" stop="20250829230000 +0000" channel="Trans 7.mncvision">
+    <title>Jalur Langit</title>
+</programme>
+<programme start="20250829230000 +0000" stop="20250830000000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20250830000000 +0000" stop="20250830010000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20250830010000 +0000" stop="20250830013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20250830013000 +0000" stop="20250830023000 +0000" channel="Trans 7.mncvision">
+    <title>Obrolan Tiap Waktu</title>
+</programme>
+<programme start="20250830023000 +0000" stop="20250830033000 +0000" channel="Trans 7.mncvision">
+    <title>Heits Abis</title>
+</programme>
+<programme start="20250830033000 +0000" stop="20250830041500 +0000" channel="Trans 7.mncvision">
+    <title>Bikin Seneng</title>
+</programme>
+<programme start="20250830041500 +0000" stop="20250830050000 +0000" channel="Trans 7.mncvision">
+    <title>Enaknya Mantul</title>
+</programme>
+<programme start="20250830050000 +0000" stop="20250830054500 +0000" channel="Trans 7.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20250830054500 +0000" stop="20250830063000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20250830063000 +0000" stop="20250830071500 +0000" channel="Trans 7.mncvision">
+    <title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20250830071500 +0000" stop="20250830081500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Akhir Pekan</title>
+</programme>
+<programme start="20250830081500 +0000" stop="20250830090000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20250830090000 +0000" stop="20250830100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20250830100000 +0000" stop="20250830110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20250830110000 +0000" stop="20250830114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20250830114500 +0000" stop="20250830121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20250830121500 +0000" stop="20250830130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20250830130000 +0000" stop="20250830143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20250830143000 +0000" stop="20250830154500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20250830154500 +0000" stop="20250830163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20250830163000 +0000" stop="20250829170000 +0000" channel="Trans 7.mncvision">
+    <title>A Better Tomorrow</title>
+</programme>
+<programme start="20250829180000 +0000" stop="20250829220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia Connected</title>
+</programme>
+<programme start="20250829220000 +0000" stop="20250829233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20250829233000 +0000" stop="20250830003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20250830003000 +0000" stop="20250830013000 +0000" channel="Trans TV.mncvision">
+    <title>Kajian Hati</title>
+</programme>
+<programme start="20250830013000 +0000" stop="20250830033000 +0000" channel="Trans TV.mncvision">
+    <title>Ambyar In Weekend</title>
+</programme>
+<programme start="20250830033000 +0000" stop="20250830043000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20250830043000 +0000" stop="20250830053000 +0000" channel="Trans TV.mncvision">
+    <title>Spill DD Tea</title>
+</programme>
+<programme start="20250830053000 +0000" stop="20250830070000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis On The Weekend</title>
+</programme>
+<programme start="20250830070000 +0000" stop="20250830080000 +0000" channel="Trans TV.mncvision">
+    <title>Rumpi: No Secret</title>
+</programme>
+<programme start="20250830080000 +0000" stop="20250830091500 +0000" channel="Trans TV.mncvision">
+    <title>Insert Investigasi</title>
+</programme>
+<programme start="20250830091500 +0000" stop="20250830100000 +0000" channel="Trans TV.mncvision">
+    <title>Sehari Jadi Ratu</title>
+</programme>
+<programme start="20250830100000 +0000" stop="20250830103000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20250830103000 +0000" stop="20250830114500 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper</title>
+</programme>
+<programme start="20250830114500 +0000" stop="20250830130000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20250830130000 +0000" stop="20250830140000 +0000" channel="Trans TV.mncvision">
+    <title>Highlight</title>
+</programme>
+<programme start="20250830140000 +0000" stop="20250830160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20250830160000 +0000" stop="20250830163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20250829172000 +0000" stop="20250829183000 +0000" channel="tvN.mncvision">
+    <title>My Happy Ending, Ep 14</title>
+</programme>
+<programme start="20250829183000 +0000" stop="20250829194000 +0000" channel="tvN.mncvision">
+    <title>Room No. 9, Ep 10</title>
+</programme>
+<programme start="20250829194000 +0000" stop="20250829220000 +0000" channel="tvN.mncvision">
+    <title>EXchange S3, Ep 7</title>
+</programme>
+<programme start="20250829220000 +0000" stop="20250829223000 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 7</title>
+</programme>
+<programme start="20250829223000 +0000" stop="20250830002000 +0000" channel="tvN.mncvision">
+    <title>World Dice Tour S3, Ep 15</title>
+</programme>
+<programme start="20250830002000 +0000" stop="20250830012000 +0000" channel="tvN.mncvision">
+    <title>No Way Home, Ep 3</title>
+</programme>
+<programme start="20250830012000 +0000" stop="20250830030000 +0000" channel="tvN.mncvision">
+    <title>Europe Outside: France, Ep 6</title>
+</programme>
+<programme start="20250830030000 +0000" stop="20250830041500 +0000" channel="tvN.mncvision">
+    <title>Room No. 9, Ep 10</title>
+</programme>
+<programme start="20250830041500 +0000" stop="20250830055500 +0000" channel="tvN.mncvision">
+    <title>Europe Outside: France, Ep 6</title>
+</programme>
+<programme start="20250830055500 +0000" stop="20250830075500 +0000" channel="tvN.mncvision">
+    <title>Street Food Bikers, Ep 8</title>
+</programme>
+<programme start="20250830075500 +0000" stop="20250830085500 +0000" channel="tvN.mncvision">
+    <title>No Way Home, Ep 3</title>
+</programme>
+<programme start="20250830085500 +0000" stop="20250830092500 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 6</title>
+</programme>
+<programme start="20250830092500 +0000" stop="20250830094500 +0000" channel="tvN.mncvision">
+    <title>You Can Cook, Sam Kim, Ep 20</title>
+</programme>
+<programme start="20250830094500 +0000" stop="20250830112500 +0000" channel="tvN.mncvision">
+    <title>The Backpacker Chef S2, Ep 12</title>
+</programme>
+<programme start="20250830112500 +0000" stop="20250830131500 +0000" channel="tvN.mncvision">
+    <title>World Dice Tour S3, Ep 15</title>
+</programme>
+<programme start="20250830131500 +0000" stop="20250830151500 +0000" channel="tvN.mncvision">
+    <title>Iron Girls S2, Ep 6</title>
+</programme>
+<programme start="20250830151500 +0000" stop="20250830154500 +0000" channel="tvN.mncvision">
+    <title>EXchange S3, Ep 7</title>
+</programme>
 <programme start="20250829172000 +0000" stop="20250829183000 +0000" channel="tvN HD.mncvision">
     <title>My Happy Ending, Ep 14</title>
 </programme>
@@ -8888,10 +9199,261 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250830151500 +0000" stop="20250830154500 +0000" channel="tvN HD.mncvision">
     <title>EXchange S3, Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250829173500 +0000" stop="20250829200500 +0000" channel="tvN Movies.mncvision">
+    <title>Noryang: Deadly Sea</title>
+</programme>
+<programme start="20250829200500 +0000" stop="20250829222500 +0000" channel="tvN Movies.mncvision">
+    <title>The Fatal Encounter</title>
+</programme>
+<programme start="20250829222500 +0000" stop="20250830001000 +0000" channel="tvN Movies.mncvision">
+    <title>Cassiopeia</title>
+</programme>
+<programme start="20250830001000 +0000" stop="20250830020500 +0000" channel="tvN Movies.mncvision">
+    <title>Harbin</title>
+</programme>
+<programme start="20250830020500 +0000" stop="20250830041000 +0000" channel="tvN Movies.mncvision">
+    <title>Train To Busan</title>
+</programme>
+<programme start="20250830041000 +0000" stop="20250830060500 +0000" channel="tvN Movies.mncvision">
+    <title>Oh! My Gran</title>
+</programme>
+<programme start="20250830060500 +0000" stop="20250830075500 +0000" channel="tvN Movies.mncvision">
+    <title>One Win</title>
+</programme>
+<programme start="20250830075500 +0000" stop="20250830095500 +0000" channel="tvN Movies.mncvision">
+    <title>Le Grand Chef</title>
+</programme>
+<programme start="20250830095500 +0000" stop="20250830115000 +0000" channel="tvN Movies.mncvision">
+    <title>Hitman: Agent Jun</title>
+</programme>
+<programme start="20250830115000 +0000" stop="20250830140000 +0000" channel="tvN Movies.mncvision">
+    <title>The Exclusive: Devil&#039;s Tattoo</title>
+</programme>
+<programme start="20250830140000 +0000" stop="20250830154500 +0000" channel="tvN Movies.mncvision">
+    <title>Mission: Possible</title>
+</programme>
+<programme start="20250830154500 +0000" stop="20250830161500 +0000" channel="tvN Movies.mncvision">
+    <title>On The Line</title>
+</programme>
+<programme start="20250829173500 +0000" stop="20250829200500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Noryang: Deadly Sea</title>
+</programme>
+<programme start="20250829200500 +0000" stop="20250829222500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Fatal Encounter</title>
+</programme>
+<programme start="20250829222500 +0000" stop="20250830001000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Cassiopeia</title>
+</programme>
+<programme start="20250830001000 +0000" stop="20250830020500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Harbin</title>
+</programme>
+<programme start="20250830020500 +0000" stop="20250830041000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Train To Busan</title>
+</programme>
+<programme start="20250830041000 +0000" stop="20250830060500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Oh! My Gran</title>
+</programme>
+<programme start="20250830060500 +0000" stop="20250830075500 +0000" channel="tvN Movies HD.mncvision">
+    <title>One Win</title>
+</programme>
+<programme start="20250830075500 +0000" stop="20250830095500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Le Grand Chef</title>
+</programme>
+<programme start="20250830095500 +0000" stop="20250830115000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Hitman: Agent Jun</title>
+</programme>
+<programme start="20250830115000 +0000" stop="20250830140000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Exclusive: Devil&#039;s Tattoo</title>
+</programme>
+<programme start="20250830140000 +0000" stop="20250830154500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Mission: Possible</title>
+</programme>
+<programme start="20250830154500 +0000" stop="20250830161500 +0000" channel="tvN Movies HD.mncvision">
+    <title>On The Line</title>
+</programme>
+<programme start="20250829170000 +0000" stop="20250829173000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20250829173000 +0000" stop="20250829190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20250829190000 +0000" stop="20250829200000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20250829200000 +0000" stop="20250829203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
+<programme start="20250829203000 +0000" stop="20250829210000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20250829210000 +0000" stop="20250829213000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi</title>
+</programme>
+<programme start="20250829213000 +0000" stop="20250829230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20250829230000 +0000" stop="20250829233000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20250829233000 +0000" stop="20250830010000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20250830010000 +0000" stop="20250830013000 +0000" channel="tvOne.mncvision">
+    <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20250830013000 +0000" stop="20250830020000 +0000" channel="tvOne.mncvision">
+    <title>Oase Indonesia</title>
+</programme>
+<programme start="20250830020000 +0000" stop="20250830023000 +0000" channel="tvOne.mncvision">
+    <title>Satria Biru</title>
+</programme>
+<programme start="20250830023000 +0000" stop="20250830030000 +0000" channel="tvOne.mncvision">
+    <title>One Klik</title>
+</programme>
+<programme start="20250830030000 +0000" stop="20250830033000 +0000" channel="tvOne.mncvision">
+    <title>Bukan Jalan-Jalan Biasa</title>
+</programme>
+<programme start="20250830033000 +0000" stop="20250830040000 +0000" channel="tvOne.mncvision">
+    <title>Pesona Nusantara</title>
+</programme>
+<programme start="20250830040000 +0000" stop="20250830053000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20250830053000 +0000" stop="20250830070000 +0000" channel="tvOne.mncvision">
+    <title>Damai Indonesiaku (L)</title>
+</programme>
+<programme start="20250830070000 +0000" stop="20250830073000 +0000" channel="tvOne.mncvision">
+    <title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20250830073000 +0000" stop="20250830080000 +0000" channel="tvOne.mncvision">
+    <title>Cerita Santri</title>
+</programme>
+<programme start="20250830080000 +0000" stop="20250830090000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia... (L)</title>
+</programme>
+<programme start="20250830090000 +0000" stop="20250830110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20250830110000 +0000" stop="20250830130000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20250830130000 +0000" stop="20250830143000 +0000" channel="tvOne.mncvision">
+    <title>Penghargaan Achmad Bakrie...</title>
+</programme>
+<programme start="20250830143000 +0000" stop="20250830153000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20250830153000 +0000" stop="20250830160000 +0000" channel="tvOne.mncvision">
+    <title>One Pride MMA</title>
+</programme>
+<programme start="20250829170000 +0000" stop="20250829173000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250829173000 +0000" stop="20250829203000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250829203000 +0000" stop="20250829210000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250829210000 +0000" stop="20250829213000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250829213000 +0000" stop="20250829230000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250829230000 +0000" stop="20250830000000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830000000 +0000" stop="20250830010000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830010000 +0000" stop="20250830020000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830020000 +0000" stop="20250830020300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830020300 +0000" stop="20250830023000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830023000 +0000" stop="20250830030000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830030000 +0000" stop="20250830030300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830030300 +0000" stop="20250830033000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830033000 +0000" stop="20250830040000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830040000 +0000" stop="20250830040300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830040300 +0000" stop="20250830050000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830050000 +0000" stop="20250830060000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830060000 +0000" stop="20250830063000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830063000 +0000" stop="20250830070000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830070000 +0000" stop="20250830070300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830070300 +0000" stop="20250830073000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830073000 +0000" stop="20250830080000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830080000 +0000" stop="20250830080300 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830080300 +0000" stop="20250830083000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830083000 +0000" stop="20250830090000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830090000 +0000" stop="20250830100000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830100000 +0000" stop="20250830103000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830103000 +0000" stop="20250830110000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830110000 +0000" stop="20250830120000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830120000 +0000" stop="20250830130000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830130000 +0000" stop="20250830140000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830140000 +0000" stop="20250830143000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830143000 +0000" stop="20250830150000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830150000 +0000" stop="20250830160000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830160000 +0000" stop="20250830163000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20250830163000 +0000" stop="20250829170000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
 <programme start="20250829183600 +0000" stop="20250829203400 +0000" channel="UNIQUES.mncvision">
     <title>Platinum</title>
 </programme>
