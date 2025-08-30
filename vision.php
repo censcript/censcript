@@ -463,9 +463,6 @@
 <programme start="20250830080000 +0000" stop="20250830091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20250830091500 +0000" stop="20250830100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
 <programme start="20250830100000 +0000" stop="20250830103000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
@@ -594,9 +591,6 @@
 </programme>
 <programme start="20250830043000 +0000" stop="20250830060000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20250830093000 +0000" stop="20250830110000 +0000" channel="ANTV.vision">
-<title>Mantab Sukabumi</title>
 </programme>
 <programme start="20250830130000 +0000" stop="20250830150000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250830150000 +0000" stop="20250830160000 +0000" channel="MDTV.vision">
 <title>MD Kustik</title>
+</programme>
+<programme start="20250830160000 +0000" stop="20250830172500 +0000" channel="MDTV.vision">
+<title>Rumput Tetangga</title>
+</programme>
+<programme start="20250831010500 +0000" stop="20250831015500 +0000" channel="MDTV.vision">
+<title>Fakta +62 Weekend</title>
 </programme>
