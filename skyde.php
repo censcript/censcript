@@ -2629,13 +2629,13 @@
 <programme start="20250831143000 +0000" stop="20250831145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250831145000 +0000" stop="20250831170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250831145000 +0000" stop="20250831173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
 </programme>
 <programme start="20250831143000 +0000" stop="20250831145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250831145000 +0000" stop="20250831173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250831145000 +0000" stop="20250831170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - RZ Pellets WAC, 5. Runde</title>
 </programme>
 <programme start="20250831142500 +0000" stop="20250831144500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2767,13 +2767,13 @@
 <programme start="20250831173000 +0000" stop="20250831193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - 1. FC Union Berlin, 2. Spieltag</title>
 </programme>
-<programme start="20250831193000 +0000" stop="20250831220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250831193000 +0000" stop="20250831213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FC Köln - SC Freiburg, 2. Spieltag</title>
 </programme>
 <programme start="20250831104000 +0000" stop="20250831110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250831110000 +0000" stop="20250831140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250831110000 +0000" stop="20250831133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - SV Darmstadt 98, 4. Spieltag</title>
 </programme>
 <programme start="20250831104000 +0000" stop="20250831110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3104,10 +3104,10 @@
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250831053000 +0000" stop="20250831073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: L. Siegemund (GER) - E. Alexandrova, 7. Tag</title>
+    <title>US Open: Topspiel 1, 7. Tag</title>
 </programme>
 <programme start="20250831073000 +0000" stop="20250831093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Zverev (GER) - F. Auger-Aliassime (CAN), 7. Tag</title>
+    <title>US Open: Topspiel 2, 7. Tag</title>
 </programme>
 <programme start="20250831093000 +0000" stop="20250831100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3116,10 +3116,10 @@
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20250831101500 +0000" stop="20250831121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: L. Siegemund (GER) - E. Alexandrova, 7. Tag</title>
+    <title>US Open: Topspiel 1, 7. Tag</title>
 </programme>
 <programme start="20250831121500 +0000" stop="20250831141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Zverev (GER) - F. Auger-Aliassime (CAN), 7. Tag</title>
+    <title>US Open: Topspiel 2, 7. Tag</title>
 </programme>
 <programme start="20250831141500 +0000" stop="20250831144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 7. Tag</title>
@@ -3235,7 +3235,7 @@
 <programme start="20250831144000 +0000" stop="20250831150000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250901080000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250831150000 +0000" stop="20250901050000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 8. Tag</title>
 </programme>
 <programme start="20250831123000 +0000" stop="20250831125000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3244,7 +3244,7 @@
 <programme start="20250831125000 +0000" stop="20250831150000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Nottingham Forest - West Ham United, 3. Spieltag</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250831174500 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250831150000 +0000" stop="20250831173000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Player Cam: Florian Wirtz</title>
 </programme>
 <programme start="20250830220500 +0000" stop="20250830233500 +0000" channel="SYFY HD.skyde">
