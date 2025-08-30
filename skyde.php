@@ -2659,13 +2659,13 @@
 <programme start="20250830143000 +0000" stop="20250830145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250830145000 +0000" stop="20250830174500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250830145000 +0000" stop="20250830171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FC Blau-Weiß Linz, 5. Runde</title>
 </programme>
 <programme start="20250830143000 +0000" stop="20250830145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250830145000 +0000" stop="20250830174500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250830145000 +0000" stop="20250830171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
 </programme>
 <programme start="20250830142500 +0000" stop="20250830144500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2791,7 +2791,7 @@
 <programme start="20250830131500 +0000" stop="20250830154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfB Stuttgart - Borussia M&#039;gladbach, 2. Spieltag</title>
 </programme>
-<programme start="20250830154500 +0000" stop="20250830194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250830154500 +0000" stop="20250830191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Augsburg - FC Bayern München, tipico Topspiel der Woche, 2. Spieltag</title>
 </programme>
 <programme start="20250830101000 +0000" stop="20250830103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2818,7 +2818,7 @@
 <programme start="20250830180000 +0000" stop="20250830210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - Karlsruher SC, tipico Topspiel der Woche, 4. Spieltag</title>
 </programme>
-<programme start="20250830210000 +0000" stop="20250830223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250830210000 +0000" stop="20250830220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 4. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20250830101000 +0000" stop="20250830103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2833,7 +2833,7 @@
 <programme start="20250830131500 +0000" stop="20250830154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Werder Bremen - Bayer Leverkusen, 2. Spieltag</title>
 </programme>
-<programme start="20250830154500 +0000" stop="20250830190000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250830154500 +0000" stop="20250830183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: FCA - FCB, 2. Spieltag</title>
 </programme>
 <programme start="20250830101000 +0000" stop="20250830103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2845,7 +2845,7 @@
 <programme start="20250830130000 +0000" stop="20250830131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - SGE: tipico Countdown, 2. Spieltag</title>
 </programme>
-<programme start="20250830131500 +0000" stop="20250830161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250830131500 +0000" stop="20250830154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Eintracht Frankfurt, 2. Spieltag</title>
 </programme>
 <programme start="20250830101000 +0000" stop="20250830103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2945,7 +2945,7 @@
     <title>Golf: Omega European Masters, 2. Tag in Crans Montana (Schweiz)</title>
 </programme>
 <programme start="20250830010000 +0000" stop="20250830033000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: FM Championship, 1. Tag in Norton, MA (USA)</title>
+    <title>LPGA: FM Championship, 2. Tag in Norton, MA (USA)</title>
 </programme>
 <programme start="20250830033000 +0000" stop="20250830040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: Countdown to the Ryder Cup (3) - Raising the Stakes</title>
@@ -2968,20 +2968,20 @@
 <programme start="20250830080000 +0000" stop="20250830103000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: FM Championship, 2. Tag in Norton, MA (USA)</title>
 </programme>
-<programme start="20250830103000 +0000" stop="20250830110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: Countdown to the Ryder Cup (1) - New York State of Mind</title>
-</programme>
-<programme start="20250830110000 +0000" stop="20250830130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: Team USA Captain&#039;s Pick Show</title>
-</programme>
-<programme start="20250830130000 +0000" stop="20250830180000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250830103000 +0000" stop="20250830153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Omega European Masters, 3. Tag in Crans Montana (Schweiz)</title>
 </programme>
-<programme start="20250830180000 +0000" stop="20250830183000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250830153000 +0000" stop="20250830160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Countdown to the Ryder Cup (1) - New York State of Mind</title>
+</programme>
+<programme start="20250830160000 +0000" stop="20250830163000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: Countdown to the Ryder Cup (2) - The Breakthrough</title>
 </programme>
-<programme start="20250830183000 +0000" stop="20250830190000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250830163000 +0000" stop="20250830170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: Countdown to the Ryder Cup (3) - Raising the Stakes</title>
+</programme>
+<programme start="20250830170000 +0000" stop="20250830190000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Team USA Captain&#039;s Pick Show</title>
 </programme>
 <programme start="20250830190000 +0000" stop="20250830220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: FM Championship, 3. Tag in Norton, MA (USA)</title>
@@ -3236,19 +3236,19 @@
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20250830054500 +0000" stop="20250830074500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Pegula (USA) - V. Azarenka, 6. Tag</title>
+    <title>US Open: Topspiel 1, 6. Tag</title>
 </programme>
 <programme start="20250830074500 +0000" stop="20250830094500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J.-L. Struff (GER) - F. Tiafoe (USA), 6. Tag</title>
+    <title>US Open: Topspiel 2, 6. Tag</title>
 </programme>
 <programme start="20250830094500 +0000" stop="20250830101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250830101500 +0000" stop="20250830121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Pegula (USA) - V. Azarenka, 6. Tag</title>
+    <title>US Open: Topspiel 1, 6. Tag</title>
 </programme>
 <programme start="20250830121500 +0000" stop="20250830141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J.-L. Struff (GER) - F. Tiafoe (USA), 6. Tag</title>
+    <title>US Open: Topspiel 2, 6. Tag</title>
 </programme>
 <programme start="20250830141500 +0000" stop="20250830144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 6. Tag</title>
@@ -3301,7 +3301,7 @@
 <programme start="20250830144000 +0000" stop="20250830150000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250830150000 +0000" stop="20250831080000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250830150000 +0000" stop="20250831050000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 7. Tag</title>
 </programme>
 <programme start="20250829221500 +0000" stop="20250829224000 +0000" channel="SYFY HD.skyde">
@@ -3718,19 +3718,19 @@
 <programme start="20250830095500 +0000" stop="20250830114500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Tag an dem die Erde stillstand</title>
 </programme>
-<programme start="20250830114500 +0000" stop="20250830140000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250830114500 +0000" stop="20250830140500 +0000" channel="Warner TV Film HD.skyde">
     <title>Mystic River</title>
 </programme>
-<programme start="20250830140000 +0000" stop="20250830162500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250830140500 +0000" stop="20250830162500 +0000" channel="Warner TV Film HD.skyde">
     <title>Forrest Gump</title>
 </programme>
 <programme start="20250830162500 +0000" stop="20250830181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Edward mit den Scherenhänden</title>
 </programme>
-<programme start="20250830181500 +0000" stop="20250830202000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250830181500 +0000" stop="20250830201500 +0000" channel="Warner TV Film HD.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20250830202000 +0000" stop="20250830221000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250830201500 +0000" stop="20250830220500 +0000" channel="Warner TV Film HD.skyde">
     <title>xXx: Die Rückkehr des Xander Cage</title>
 </programme>
 <programme start="20250829220500 +0000" stop="20250829225000 +0000" channel="Warner TV Serie HD.skyde">
