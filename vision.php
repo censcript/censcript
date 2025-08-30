@@ -673,6 +673,9 @@
 <programme start="20250831114500 +0000" stop="20250831121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250829230000 +0000" stop="20250830010000 +0000" channel="ANTV.vision">
+<title>Kanan Kiri OK 2</title>
+</programme>
 <programme start="20250830010000 +0000" stop="20250830043000 +0000" channel="ANTV.vision">
 <title>Baaghi 3</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250830160000 +0000" stop="20250830163000 +0000" channel="BTV.vision">
 <title>Dari Nol</title>
-</programme>
-<programme start="20250830163000 +0000" stop="20250830173000 +0000" channel="BTV.vision">
-<title>Supercar Championship 2025</title>
 </programme>
