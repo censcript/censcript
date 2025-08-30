@@ -78,8 +78,8 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250830230000 +0700" stop="20250831010000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Leicester City FC - Birmingham City</title>
+<programme start="20250901010000 +0700" stop="20250901020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2024-25</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831010000 +0700" stop="20250831013000 +0700" channel="COSMOTE Sport 2 HD">
@@ -218,6 +218,14 @@
     <title>Football: Genoa - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250901013000 +0700" stop="20250901014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250901014500 +0700" stop="20250901034500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Internazionale Milano - Udinese (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250830234000 +0700" stop="20250831014500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -282,9 +290,9 @@
     <title>Basketball: Golden State Valkyries - Washington Mystics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250830231500 +0700" stop="20250831005500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250901014500 +0700" stop="20250901034500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: SS Lazio - Hellas Verona (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250831005500 +0700" stop="20250831022500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
@@ -390,6 +398,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250901010500 +0700" stop="20250901020000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250831000000 +0700" stop="20250831020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Vitoria Guimaraes - Arouca (L)</title>
     <desc>Live: Ya</desc>
@@ -457,6 +469,14 @@
 <programme start="20250901000000 +0700" stop="20250901013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250901013000 +0700" stop="20250901015500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250901015500 +0700" stop="20250901035500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: Fuchse Berlin - THW Kiel</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830233000 +0700" stop="20250831013000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Bologna - Como (L)</title>
@@ -526,6 +546,10 @@
     <title>Football: Torino - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250901013000 +0700" stop="20250901020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250831000000 +0700" stop="20250831020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -593,10 +617,6 @@
 <programme start="20250901000000 +0700" stop="20250901020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Alverca - SL Benfica (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250831000000 +0700" stop="20250831010000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831010000 +0700" stop="20250831030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al-Okhdood Club - Al Ittihad (L)</title>
