@@ -4321,11 +4321,11 @@
     <programme start="20250830073000 +0000" stop="20250830103000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>FM Championship Round 2</title>
     </programme>
-    <programme start="20250830103000 +0000" stop="20250830153000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Omega European Masters Day 3</title>
+    <programme start="20250830103000 +0000" stop="20250830130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Creator Classic at TOUR Championship</title>
     </programme>
-    <programme start="20250830153000 +0000" stop="20250830160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>The Dutch Futures</title>
+    <programme start="20250830130000 +0000" stop="20250830180000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Omega European Masters Day 3</title>
     </programme>
     <programme start="20250829160000 +0000" stop="20250829162000 +0000" channel="France24.starhub">
         <title>News</title>
@@ -8074,10 +8074,7 @@
     <programme start="20250829191500 +0000" stop="20250829221000 +0000" channel="Asianet Movies.starhub">
         <title>Manassinakkare</title>
     </programme>
-    <programme start="20250829221000 +0000" stop="20250829224000 +0000" channel="Asianet Movies.starhub">
-        <title>Filler:Chirikkum Thalika Ii : No Season</title>
-    </programme>
-    <programme start="20250829224000 +0000" stop="20250830013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250829220000 +0000" stop="20250830013000 +0000" channel="Asianet Movies.starhub">
         <title>Alexander The Great</title>
     </programme>
     <programme start="20250830013000 +0000" stop="20250830043000 +0000" channel="Asianet Movies.starhub">
