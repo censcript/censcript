@@ -1,7 +1,3 @@
-<programme start="20250831020000 +0700" stop="20250831041500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Volos - Olympiacos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250831041500 +0700" stop="20250831064500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Tottenham Hotspur</title>
     <desc>Live: Tidak</desc>
@@ -158,6 +154,10 @@
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250901050000 +0700" stop="20250901070500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250831034500 +0700" stop="20250831054500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Millwall - Wrexham</title>
     <desc>Live: Tidak</desc>
@@ -222,12 +222,8 @@
     <title>Football: Dundee - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831034500 +0700" stop="20250831040500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250831040500 +0700" stop="20250831045500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20250901054500 +0700" stop="20250901074500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Alverca - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831045500 +0700" stop="20250831051500 +0700" channel="COSMOTE Sport 4 HD">
@@ -288,6 +284,10 @@
 </programme>
 <programme start="20250901044000 +0700" stop="20250901051000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250901051000 +0700" stop="20250901071500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831040000 +0700" stop="20250831050500 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,10 +402,6 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831020000 +0700" stop="20250831043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250831043000 +0700" stop="20250831054000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Boxing: Richardson Hitchins - George Kambosos Jr.</title>
     <desc>Live: Tidak</desc>
@@ -482,12 +478,8 @@
     <title>Boxing: Manny Pacquiao - Mario Barrios</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831040000 +0700" stop="20250831043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250831043000 +0700" stop="20250831050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250901054500 +0700" stop="20250901060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831050000 +0700" stop="20250831080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -554,13 +546,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831023000 +0700" stop="20250831043000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: Sporting CP - FC Porto (L)</title>
+<programme start="20250901050000 +0700" stop="20250901080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250831043000 +0700" stop="20250831050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831050000 +0700" stop="20250831060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
