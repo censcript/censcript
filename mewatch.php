@@ -967,10 +967,10 @@
     <programme start="20250829200000 +0000" stop="20250830073000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 30th August, Saturday 3.30pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
-    <programme start="20250830073000 +0000" stop="20250830123000 +0000" channel="Live 5.mewatch">
+    <programme start="20250830073000 +0000" stop="20250830133000 +0000" channel="Live 5.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Semi Finals S1</title>
     </programme>
-    <programme start="20250830123000 +0000" stop="20250830150000 +0000" channel="Live 5.mewatch">
+    <programme start="20250830133000 +0000" stop="20250830150000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 30th August, Saturday 11pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
     <programme start="20250830150000 +0000" stop="20250830200000 +0000" channel="Live 5.mewatch">

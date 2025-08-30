@@ -2441,10 +2441,10 @@
         <title>#2000</title>
     </programme>
     <programme start="20250829210000 +0000" stop="20250829230000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Singapore Premier Lge 2025/26 Albirex Niigata FC (S) vs Balestier Khalsa FC</title>
+        <title>Singapore Premier League 2025/26 Albirex Niigata FC (S) vs Balestier Khalsa FC</title>
     </programme>
     <programme start="20250829230000 +0000" stop="20250829233000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Season 3, Episode 7 - Women&#039;s Gymnastics</title>
+        <title>Season 3, Episode 7 - Women’s Gymnastics</title>
     </programme>
     <programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#551</title>
@@ -6485,10 +6485,10 @@
         <title>#2000</title>
     </programme>
     <programme start="20250829210000 +0000" stop="20250829230000 +0000" channel="TestChannel 995.starhub">
-        <title>Singapore Premier Lge 2025/26 Albirex Niigata FC (S) vs Balestier Khalsa FC</title>
+        <title>Singapore Premier League 2025/26 Albirex Niigata FC (S) vs Balestier Khalsa FC</title>
     </programme>
     <programme start="20250829230000 +0000" stop="20250829233000 +0000" channel="TestChannel 995.starhub">
-        <title>Season 3, Episode 7 - Women&#039;s Gymnastics</title>
+        <title>Season 3, Episode 7 - Women’s Gymnastics</title>
     </programme>
     <programme start="20250829233000 +0000" stop="20250830000000 +0000" channel="TestChannel 995.starhub">
         <title>#551</title>
