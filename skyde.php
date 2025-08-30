@@ -2659,7 +2659,7 @@
 <programme start="20250830143000 +0000" stop="20250830145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250830145000 +0000" stop="20250830171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250830145000 +0000" stop="20250830174500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FC Blau-Weiß Linz, 5. Runde</title>
 </programme>
 <programme start="20250830143000 +0000" stop="20250830145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3229,25 +3229,25 @@
 <programme start="20250830205500 +0000" stop="20250830225500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Wolverhampton Wanderers - FC Everton, 3. Spieltag</title>
 </programme>
-<programme start="20250830050000 +0000" stop="20250830053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830043000 +0000" stop="20250830045500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Montreal</title>
 </programme>
-<programme start="20250830053000 +0000" stop="20250830054500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830045500 +0000" stop="20250830051000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20250830054500 +0000" stop="20250830074500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830051000 +0000" stop="20250830071000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Pegula (USA) - V. Azarenka, 6. Tag</title>
 </programme>
-<programme start="20250830074500 +0000" stop="20250830094500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830071000 +0000" stop="20250830092500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - F. Tiafoe (USA), 6. Tag</title>
 </programme>
-<programme start="20250830094500 +0000" stop="20250830101500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830092500 +0000" stop="20250830095500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250830101500 +0000" stop="20250830121500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830095500 +0000" stop="20250830115000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Pegula (USA) - V. Azarenka, 6. Tag</title>
 </programme>
-<programme start="20250830121500 +0000" stop="20250830141500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250830115000 +0000" stop="20250830141500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - F. Tiafoe (USA), 6. Tag</title>
 </programme>
 <programme start="20250830141500 +0000" stop="20250830144500 +0000" channel="Sky Sport Tennis HD.skyde">

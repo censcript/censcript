@@ -138,8 +138,8 @@
     <title>Football: Pisa - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250830120000 +0700" stop="20250830143000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Barcelona - Flamengo</title>
+<programme start="20250831150000 +0700" stop="20250831170000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830143000 +0700" stop="20250830163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -208,10 +208,6 @@
 </programme>
 <programme start="20250831140000 +0700" stop="20250831160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Okhdood Club - Al Ittihad</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250830120000 +0700" stop="20250830142000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830142000 +0700" stop="20250830162000 +0700" channel="COSMOTE Sport 4 HD">
@@ -284,10 +280,6 @@
 </programme>
 <programme start="20250831142500 +0700" stop="20250831163000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250830131500 +0700" stop="20250830141500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830141500 +0700" stop="20250830151500 +0700" channel="COSMOTE Sport 5 HD">
@@ -406,8 +398,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250830133000 +0700" stop="20250830150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20250831152000 +0700" stop="20250831162500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830150000 +0700" stop="20250830160000 +0700" channel="COSMOTE Sport 6 HD">
@@ -488,6 +480,10 @@
 </programme>
 <programme start="20250831141000 +0700" stop="20250831154000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - Rhein-Neckar Lowen</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250831154000 +0700" stop="20250831171000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830140000 +0700" stop="20250830160000 +0700" channel="COSMOTE Sport 7 HD">

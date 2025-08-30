@@ -589,6 +589,9 @@
 <programme start="20250830181500 +0000" stop="20250830190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
+<programme start="20250829230000 +0000" stop="20250830010000 +0000" channel="ANTV.vision">
+<title>Kanan Kiri OK 2</title>
+</programme>
 <programme start="20250830043000 +0000" stop="20250830060000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250830150000 +0000" stop="20250830160000 +0000" channel="MDTV.vision">
 <title>MD Kustik</title>
-</programme>
-<programme start="20250830160000 +0000" stop="20250830172500 +0000" channel="MDTV.vision">
-<title>Rumput Tetangga</title>
 </programme>
