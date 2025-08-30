@@ -1,7 +1,3 @@
-<programme start="20250830120000 +0700" stop="20250830123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250830123000 +0700" stop="20250830133000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2024-25</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +136,10 @@
 </programme>
 <programme start="20250831110000 +0700" stop="20250831130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250831130000 +0700" stop="20250831150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830120000 +0700" stop="20250830143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -282,14 +282,6 @@
     <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250830113500 +0700" stop="20250830123000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250830123000 +0700" stop="20250830130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250830130000 +0700" stop="20250830131500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Worldies E9</title>
     <desc>Live: Tidak</desc>
@@ -408,6 +400,10 @@
 </programme>
 <programme start="20250831125000 +0700" stop="20250831134000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250831134000 +0700" stop="20250831152000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250830115500 +0700" stop="20250830133000 +0700" channel="COSMOTE Sport 6 HD">

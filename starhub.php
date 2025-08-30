@@ -2465,7 +2465,7 @@
         <title>Abierto GNP Seguros (500) QF 3 &amp; 4</title>
     </programme>
     <programme start="20250830100000 +0000" stop="20250830103000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Episode 9: Taranto/ Geneva</title>
+        <title>SuperTri Chicago Highlights</title>
     </programme>
     <programme start="20250830103000 +0000" stop="20250830120000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Abierto GNP Seguros (500) QF 2</title>
@@ -6509,7 +6509,7 @@
         <title>Abierto GNP Seguros (500) QF 3 &amp; 4</title>
     </programme>
     <programme start="20250830100000 +0000" stop="20250830103000 +0000" channel="TestChannel 995.starhub">
-        <title>Episode 9: Taranto/ Geneva</title>
+        <title>SuperTri Chicago Highlights</title>
     </programme>
     <programme start="20250830103000 +0000" stop="20250830120000 +0000" channel="TestChannel 995.starhub">
         <title>Abierto GNP Seguros (500) QF 2</title>
@@ -8068,10 +8068,10 @@
     <programme start="20250829133000 +0000" stop="20250829163000 +0000" channel="Asianet Movies.starhub">
         <title>Adios Amigo</title>
     </programme>
-    <programme start="20250829163000 +0000" stop="20250829191500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250829163000 +0000" stop="20250829193000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20250829191500 +0000" stop="20250829221000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250829193000 +0000" stop="20250829220000 +0000" channel="Asianet Movies.starhub">
         <title>Manassinakkare</title>
     </programme>
     <programme start="20250829220000 +0000" stop="20250830013000 +0000" channel="Asianet Movies.starhub">
