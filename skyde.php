@@ -2659,7 +2659,7 @@
 <programme start="20250830143000 +0000" stop="20250830145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250830145000 +0000" stop="20250830174500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250830145000 +0000" stop="20250830171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FC Blau-Weiß Linz, 5. Runde</title>
 </programme>
 <programme start="20250830143000 +0000" stop="20250830145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
