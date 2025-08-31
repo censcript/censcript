@@ -103,7 +103,129 @@
 <programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="ABC Australia.mncvision">
     <title>Alone Australia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830170000 +0000" stop="20250830173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250830173000 +0000" stop="20250830180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250830180000 +0000" stop="20250830190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250830190000 +0000" stop="20250830193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250830193000 +0000" stop="20250830200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Sandra Diaz</title>
+</programme>
+<programme start="20250830200000 +0000" stop="20250830203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250830203000 +0000" stop="20250830210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250830210000 +0000" stop="20250830220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250830220000 +0000" stop="20250830223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250830223000 +0000" stop="20250830230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Africa&#039;s New Directions</title>
+</programme>
+<programme start="20250830230000 +0000" stop="20250830233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250830233000 +0000" stop="20250831000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>War Hotels: Saigon</title>
+</programme>
+<programme start="20250831000000 +0000" stop="20250831003000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831003000 +0000" stop="20250831010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831013000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20250831013000 +0000" stop="20250831020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Forbidden Reel</title>
+</programme>
+<programme start="20250831020000 +0000" stop="20250831023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831023000 +0000" stop="20250831030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream: Exporting...</title>
+</programme>
+<programme start="20250831030000 +0000" stop="20250831033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831033000 +0000" stop="20250831040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20250831040000 +0000" stop="20250831043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831043000 +0000" stop="20250831050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Sandra Diaz</title>
+</programme>
+<programme start="20250831050000 +0000" stop="20250831053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831053000 +0000" stop="20250831060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250831060000 +0000" stop="20250831063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831063000 +0000" stop="20250831070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>War Hotels: Saigon</title>
+</programme>
+<programme start="20250831070000 +0000" stop="20250831080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250831080000 +0000" stop="20250831083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831083000 +0000" stop="20250831090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Africa&#039;s New Directions</title>
+</programme>
+<programme start="20250831090000 +0000" stop="20250831093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831093000 +0000" stop="20250831100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Flatten The Curve, Ep 2</title>
+</programme>
+<programme start="20250831100000 +0000" stop="20250831110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250831110000 +0000" stop="20250831113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831113000 +0000" stop="20250831120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20250831120000 +0000" stop="20250831130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Paper City</title>
+</programme>
+<programme start="20250831130000 +0000" stop="20250831140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250831140000 +0000" stop="20250831143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831143000 +0000" stop="20250831150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Sandra Diaz</title>
+</programme>
+<programme start="20250831150000 +0000" stop="20250831160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20250831163000 +0000" stop="20250830170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Between Two Koreas</title>
+</programme>
 <programme start="20250830170000 +0000" stop="20250830190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -140,7 +262,150 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831150000 +0000" stop="20250831153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830170000 +0000" stop="20250830173000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 7</title>
+</programme>
+<programme start="20250830173000 +0000" stop="20250830180000 +0000" channel="Animax.mncvision">
+    <title>How A Realist Hero..., Ep 8</title>
+</programme>
+<programme start="20250830180000 +0000" stop="20250830183000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250830183000 +0000" stop="20250830190000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250830190000 +0000" stop="20250830193000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250830193000 +0000" stop="20250830200000 +0000" channel="Animax.mncvision">
+    <title>My Isekai Life, Ep 2</title>
+</programme>
+<programme start="20250830200000 +0000" stop="20250830203000 +0000" channel="Animax.mncvision">
+    <title>My Isekai Life, Ep 3</title>
+</programme>
+<programme start="20250830203000 +0000" stop="20250830210000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 9</title>
+</programme>
+<programme start="20250830210000 +0000" stop="20250830213000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250830213000 +0000" stop="20250830220000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 11</title>
+</programme>
+<programme start="20250830220000 +0000" stop="20250830223000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 7</title>
+</programme>
+<programme start="20250830223000 +0000" stop="20250830230000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 8</title>
+</programme>
+<programme start="20250830230000 +0000" stop="20250830233000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 9</title>
+</programme>
+<programme start="20250830233000 +0000" stop="20250831000000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250831000000 +0000" stop="20250831003000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250831003000 +0000" stop="20250831010000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831013000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 15</title>
+</programme>
+<programme start="20250831013000 +0000" stop="20250831020000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 16</title>
+</programme>
+<programme start="20250831020000 +0000" stop="20250831023000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 17</title>
+</programme>
+<programme start="20250831023000 +0000" stop="20250831030000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 18</title>
+</programme>
+<programme start="20250831030000 +0000" stop="20250831033000 +0000" channel="Animax.mncvision">
+    <title>My Isekai Life, Ep 2</title>
+</programme>
+<programme start="20250831033000 +0000" stop="20250831040000 +0000" channel="Animax.mncvision">
+    <title>My Isekai Life, Ep 3</title>
+</programme>
+<programme start="20250831040000 +0000" stop="20250831043000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 9</title>
+</programme>
+<programme start="20250831043000 +0000" stop="20250831050000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 10</title>
+</programme>
+<programme start="20250831050000 +0000" stop="20250831053000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 11</title>
+</programme>
+<programme start="20250831053000 +0000" stop="20250831060000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 15</title>
+</programme>
+<programme start="20250831060000 +0000" stop="20250831063000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 16</title>
+</programme>
+<programme start="20250831063000 +0000" stop="20250831070000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 17</title>
+</programme>
+<programme start="20250831070000 +0000" stop="20250831073000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 18</title>
+</programme>
+<programme start="20250831073000 +0000" stop="20250831075800 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250831075800 +0000" stop="20250831082600 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250831082600 +0000" stop="20250831090000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250831090000 +0000" stop="20250831092800 +0000" channel="Animax.mncvision">
+    <title>My Isekai Life, Ep 2</title>
+</programme>
+<programme start="20250831092800 +0000" stop="20250831100000 +0000" channel="Animax.mncvision">
+    <title>My Isekai Life, Ep 3</title>
+</programme>
+<programme start="20250831100000 +0000" stop="20250831102800 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 7</title>
+</programme>
+<programme start="20250831102800 +0000" stop="20250831105600 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 8</title>
+</programme>
+<programme start="20250831105600 +0000" stop="20250831113000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 9</title>
+</programme>
+<programme start="20250831113000 +0000" stop="20250831115800 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 43</title>
+</programme>
+<programme start="20250831115800 +0000" stop="20250831122600 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 44</title>
+</programme>
+<programme start="20250831122600 +0000" stop="20250831130000 +0000" channel="Animax.mncvision">
+    <title>Black Clover S3, Ep 45</title>
+</programme>
+<programme start="20250831130000 +0000" stop="20250831132800 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 15</title>
+</programme>
+<programme start="20250831132800 +0000" stop="20250831135600 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 16</title>
+</programme>
+<programme start="20250831135600 +0000" stop="20250831142400 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 17</title>
+</programme>
+<programme start="20250831142400 +0000" stop="20250831150000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S1, Ep 18</title>
+</programme>
+<programme start="20250831150000 +0000" stop="20250831152800 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 7</title>
+</programme>
+<programme start="20250831152800 +0000" stop="20250831155600 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 8</title>
+</programme>
+<programme start="20250831155600 +0000" stop="20250831163000 +0000" channel="Animax.mncvision">
+    <title>Foolish Angel Dances..., Ep 9</title>
+</programme>
+<programme start="20250831163000 +0000" stop="20250830170000 +0000" channel="Animax.mncvision">
+    <title>Why Raeliana Ended Up... Ep 9</title>
+</programme>
 <programme start="20250830183000 +0000" stop="20250830193000 +0000" channel="ANTV.mncvision">
     <title>Chai Lai Angels</title>
 </programme>
@@ -1149,7 +1414,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831150000 +0000" stop="20250831153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830170000 +0000" stop="20250830200000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250830200000 +0000" stop="20250830220000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250830220000 +0000" stop="20250831010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831030000 +0000" stop="20250831050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831050000 +0000" stop="20250831070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831070000 +0000" stop="20250831090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831090000 +0000" stop="20250831110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831110000 +0000" stop="20250831130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831130000 +0000" stop="20250831150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20250831150000 +0000" stop="20250831153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20250830170000 +0000" stop="20250830173000 +0000" channel="Bloomberg.mncvision">
     <title>The David Rubenstein Show</title>
 </programme>
@@ -3949,7 +4246,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830170000 +0000" stop="20250830210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit Semalam... (L)</title>
+</programme>
+<programme start="20250830210000 +0000" stop="20250830213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250830213000 +0000" stop="20250830220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250830220000 +0000" stop="20250830223000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan UK</title>
+</programme>
+<programme start="20250830223000 +0000" stop="20250830230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20250830230000 +0000" stop="20250831000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Tutur Tinular</title>
+</programme>
+<programme start="20250831000000 +0000" stop="20250831010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit Special</title>
+</programme>
+<programme start="20250831053000 +0000" stop="20250831063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250831063000 +0000" stop="20250831070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250831070000 +0000" stop="20250831073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250831073000 +0000" stop="20250831083000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250831083000 +0000" stop="20250831090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wira-Wiri</title>
+</programme>
+<programme start="20250831090000 +0000" stop="20250831100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Tutur Tinular</title>
+</programme>
+<programme start="20250831100000 +0000" stop="20250831103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Sang Prabu</title>
+</programme>
+<programme start="20250831103000 +0000" stop="20250831110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20250831110000 +0000" stop="20250831120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20250831120000 +0000" stop="20250831123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20250831123000 +0000" stop="20250831130000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20250831130000 +0000" stop="20250831133000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan UK</title>
+</programme>
+<programme start="20250831133000 +0000" stop="20250831140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20250831140000 +0000" stop="20250831150000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Nyi Roro Kidul</title>
+</programme>
+<programme start="20250831150000 +0000" stop="20250831160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit Special</title>
+</programme>
 <programme start="20250830173500 +0000" stop="20250830183000 +0000" channel="History.mncvision">
     <title>Lost U-Boats Of WW2, Ep 4</title>
 </programme>
@@ -4157,7 +4525,33 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831144500 +0000" stop="20250831151500 +0000" channel="HITS MOVIES.mncvision">
     <title>Van Helsing</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830194500 +0000" stop="20250830220000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Hellboy 2: The Golden Army</title>
+</programme>
+<programme start="20250830220000 +0000" stop="20250831000000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Death Wish</title>
+</programme>
+<programme start="20250831000000 +0000" stop="20250831021500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Sabrina</title>
+</programme>
+<programme start="20250831021500 +0000" stop="20250831041500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Tropic Thunder</title>
+</programme>
+<programme start="20250831041500 +0000" stop="20250831074500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Good, The Bad &amp; The Ugly</title>
+</programme>
+<programme start="20250831074500 +0000" stop="20250831100000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Hellboy 2: The Golden Army</title>
+</programme>
+<programme start="20250831100000 +0000" stop="20250831120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Death Wish</title>
+</programme>
+<programme start="20250831120000 +0000" stop="20250831144500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Rob Roy</title>
+</programme>
+<programme start="20250831144500 +0000" stop="20250831151500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Van Helsing</title>
+</programme>
 <programme start="20250830173000 +0000" stop="20250830183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -4251,7 +4645,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831163000 +0000" stop="20250830170000 +0000" channel="IDX.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830173000 +0000" stop="20250830183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250830183000 +0000" stop="20250830193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250830193000 +0000" stop="20250830203000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250830203000 +0000" stop="20250830213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20250830213000 +0000" stop="20250830220000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250830220000 +0000" stop="20250830230000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250830230000 +0000" stop="20250831000000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250831000000 +0000" stop="20250831010000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831013000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250831013000 +0000" stop="20250831023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250831023000 +0000" stop="20250831033000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250831033000 +0000" stop="20250831040000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250831040000 +0000" stop="20250831043000 +0000" channel="IDX HD.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250831043000 +0000" stop="20250831053000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20250831053000 +0000" stop="20250831063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250831063000 +0000" stop="20250831073000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250831073000 +0000" stop="20250831080000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250831080000 +0000" stop="20250831083000 +0000" channel="IDX HD.mncvision">
+    <title>Small Space</title>
+</programme>
+<programme start="20250831083000 +0000" stop="20250831090000 +0000" channel="IDX HD.mncvision">
+    <title>Home Ideas</title>
+</programme>
+<programme start="20250831090000 +0000" stop="20250831093000 +0000" channel="IDX HD.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250831093000 +0000" stop="20250831103000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250831103000 +0000" stop="20250831110000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20250831110000 +0000" stop="20250831113000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250831113000 +0000" stop="20250831120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250831120000 +0000" stop="20250831130000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250831130000 +0000" stop="20250831140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20250831140000 +0000" stop="20250831150000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20250831150000 +0000" stop="20250831153000 +0000" channel="IDX HD.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20250831153000 +0000" stop="20250831160000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20250831163000 +0000" stop="20250830170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20250830174000 +0000" stop="20250830192000 +0000" channel="IMC.mncvision">
     <title>Benyamin Musuh Bebuyutan</title>
 </programme>
@@ -5560,7 +6046,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="MNCTV HD.mncvision">
     <title>12 Hari</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250830170700 +0000" stop="20250830173200 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250830173200 +0000" stop="20250830175100 +0000" channel="Moonbug.mncvision">
+    <title>Gecko&#039;s Garage</title>
+</programme>
+<programme start="20250830175100 +0000" stop="20250830182600 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250830182600 +0000" stop="20250830185200 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20250830185200 +0000" stop="20250830190900 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250830190900 +0000" stop="20250830195000 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250830195000 +0000" stop="20250830201200 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon + Dance Party</title>
+</programme>
+<programme start="20250830201200 +0000" stop="20250830204400 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250830204400 +0000" stop="20250830210700 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250830210700 +0000" stop="20250830213700 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250830213700 +0000" stop="20250830215800 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20250830215800 +0000" stop="20250830222700 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20250830222700 +0000" stop="20250830224700 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods: Short</title>
+</programme>
+<programme start="20250830224700 +0000" stop="20250830230000 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods: Short</title>
+</programme>
+<programme start="20250830230000 +0000" stop="20250830233200 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250830233200 +0000" stop="20250831001000 +0000" channel="Moonbug.mncvision">
+    <title>Dance Party</title>
+</programme>
+<programme start="20250831001000 +0000" stop="20250831004700 +0000" channel="Moonbug.mncvision">
+    <title>JJ&#039;s Animal Time</title>
+</programme>
+<programme start="20250831004700 +0000" stop="20250831011400 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831011400 +0000" stop="20250831014400 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831014400 +0000" stop="20250831022200 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831022200 +0000" stop="20250831023900 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20250831023900 +0000" stop="20250831031100 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250831031100 +0000" stop="20250831034600 +0000" channel="Moonbug.mncvision">
+    <title>Morphle</title>
+</programme>
+<programme start="20250831034600 +0000" stop="20250831040700 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831040700 +0000" stop="20250831042700 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831042700 +0000" stop="20250831044600 +0000" channel="Moonbug.mncvision">
+    <title>Gecko&#039;s Garage</title>
+</programme>
+<programme start="20250831044600 +0000" stop="20250831052000 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250831052000 +0000" stop="20250831053800 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250831053800 +0000" stop="20250831060900 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250831060900 +0000" stop="20250831062700 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250831062700 +0000" stop="20250831065200 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250831065200 +0000" stop="20250831071800 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250831071800 +0000" stop="20250831073500 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831073500 +0000" stop="20250831080700 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831080700 +0000" stop="20250831082900 +0000" channel="Moonbug.mncvision">
+    <title>Little Angel</title>
+</programme>
+<programme start="20250831082900 +0000" stop="20250831085500 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20250831085500 +0000" stop="20250831092400 +0000" channel="Moonbug.mncvision">
+    <title>Litttle Baby Bum</title>
+</programme>
+<programme start="20250831092400 +0000" stop="20250831100300 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20250831100300 +0000" stop="20250831102600 +0000" channel="Moonbug.mncvision">
+    <title>Insectibles</title>
+</programme>
+<programme start="20250831102600 +0000" stop="20250831104900 +0000" channel="Moonbug.mncvision">
+    <title>Insectibles</title>
+</programme>
+<programme start="20250831104900 +0000" stop="20250831111200 +0000" channel="Moonbug.mncvision">
+    <title>Insectibles</title>
+</programme>
+<programme start="20250831111200 +0000" stop="20250831114000 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20250831114000 +0000" stop="20250831120900 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20250831120900 +0000" stop="20250831123800 +0000" channel="Moonbug.mncvision">
+    <title>Oddbods</title>
+</programme>
+<programme start="20250831123800 +0000" stop="20250831125900 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250831125900 +0000" stop="20250831132200 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20250831132200 +0000" stop="20250831134800 +0000" channel="Moonbug.mncvision">
+    <title>Meekah</title>
+</programme>
+<programme start="20250831134800 +0000" stop="20250831142200 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
+<programme start="20250831142200 +0000" stop="20250831143900 +0000" channel="Moonbug.mncvision">
+    <title>CoComelon + Dance Party</title>
+</programme>
+<programme start="20250831143900 +0000" stop="20250831150900 +0000" channel="Moonbug.mncvision">
+    <title>Blippi</title>
+</programme>
 <programme start="20250830180000 +0000" stop="20250830190000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>

@@ -559,6 +559,9 @@
 <programme start="20250901114500 +0000" stop="20250901121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250830230000 +0000" stop="20250831010000 +0000" channel="ANTV.vision">
+<title>Kanan Kiri Ok 3</title>
+</programme>
 <programme start="20250831010000 +0000" stop="20250831043000 +0000" channel="ANTV.vision">
 <title>Duplicate</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250831150000 +0000" stop="20250831160000 +0000" channel="MDTV.vision">
 <title>MD Kustik</title>
-</programme>
-<programme start="20250831160000 +0000" stop="20250831173000 +0000" channel="MDTV.vision">
-<title>Dejavu: Ajian Puter Giling</title>
 </programme>

@@ -2623,7 +2623,7 @@
 <programme start="20250831173000 +0000" stop="20250831175500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250831175500 +0000" stop="20250831200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250831175500 +0000" stop="20250831201500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Aston Villa - Crystal Palace, 3. Spieltag</title>
 </programme>
 <programme start="20250831143000 +0000" stop="20250831145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2644,7 +2644,7 @@
 <programme start="20250831144500 +0000" stop="20250831150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: US Open Daily</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250901050000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250831150000 +0000" stop="20250901080000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live US Open: Die Konferenz, 8. Tag</title>
 </programme>
 <programme start="20250830224500 +0000" stop="20250830234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2746,7 +2746,7 @@
 <programme start="20250831160000 +0000" stop="20250831173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20250831173000 +0000" stop="20250831181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250831173000 +0000" stop="20250831184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: BVB - FCU, 2. Spieltag</title>
 </programme>
 <programme start="20250831104000 +0000" stop="20250831110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2767,13 +2767,13 @@
 <programme start="20250831173000 +0000" stop="20250831193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - 1. FC Union Berlin, 2. Spieltag</title>
 </programme>
-<programme start="20250831193000 +0000" stop="20250831213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250831193000 +0000" stop="20250831220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FC Köln - SC Freiburg, 2. Spieltag</title>
 </programme>
 <programme start="20250831104000 +0000" stop="20250831110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250831110000 +0000" stop="20250831133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250831110000 +0000" stop="20250831140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - SV Darmstadt 98, 4. Spieltag</title>
 </programme>
 <programme start="20250831104000 +0000" stop="20250831110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3104,10 +3104,10 @@
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250831053000 +0000" stop="20250831073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 1, 7. Tag</title>
+    <title>US Open: D. Kasatkina (AUS) - N. Osaka (JPN), 7. Tag</title>
 </programme>
 <programme start="20250831073000 +0000" stop="20250831093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 2, 7. Tag</title>
+    <title>US Open: A. Zverev (GER) - F. Auger-Aliassime (CAN), 7. Tag</title>
 </programme>
 <programme start="20250831093000 +0000" stop="20250831100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3116,10 +3116,10 @@
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20250831101500 +0000" stop="20250831121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 1, 7. Tag</title>
+    <title>US Open: D. Kasatkina (AUS) - N. Osaka (JPN), 7. Tag</title>
 </programme>
 <programme start="20250831121500 +0000" stop="20250831141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Topspiel 2, 7. Tag</title>
+    <title>US Open: A. Zverev (GER) - F. Auger-Aliassime (CAN), 7. Tag</title>
 </programme>
 <programme start="20250831141500 +0000" stop="20250831144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 7. Tag</title>
@@ -3229,13 +3229,13 @@
 <programme start="20250831151000 +0000" stop="20250831153000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250831153000 +0000" stop="20250901050000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20250831153000 +0000" stop="20250901080000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 8. Tag</title>
 </programme>
 <programme start="20250831144000 +0000" stop="20250831150000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt Live Tennis US Open</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250901050000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20250831150000 +0000" stop="20250901080000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 8. Tag</title>
 </programme>
 <programme start="20250831123000 +0000" stop="20250831125000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3244,8 +3244,83 @@
 <programme start="20250831125000 +0000" stop="20250831150000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Nottingham Forest - West Ham United, 3. Spieltag</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250831173000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20250831150000 +0000" stop="20250831174500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Player Cam: Florian Wirtz</title>
+</programme>
+<programme start="20250830220500 +0000" stop="20250830233500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20250830233500 +0000" stop="20250831010000 +0000" channel="SYFY HD.skyde">
+    <title>Chronicle - Wozu bist du fähig?</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831014500 +0000" channel="SYFY HD.skyde">
+    <title>Caprica</title>
+</programme>
+<programme start="20250831014500 +0000" stop="20250831023000 +0000" channel="SYFY HD.skyde">
+    <title>Caprica</title>
+</programme>
+<programme start="20250831023000 +0000" stop="20250831031500 +0000" channel="SYFY HD.skyde">
+    <title>Caprica</title>
+</programme>
+<programme start="20250831031500 +0000" stop="20250831040000 +0000" channel="SYFY HD.skyde">
+    <title>Caprica</title>
+</programme>
+<programme start="20250831040000 +0000" stop="20250831044500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831044500 +0000" stop="20250831053000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831053000 +0000" stop="20250831062000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831062000 +0000" stop="20250831070500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831070500 +0000" stop="20250831075000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831075000 +0000" stop="20250831084000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831084000 +0000" stop="20250831092500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831092500 +0000" stop="20250831101000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831101000 +0000" stop="20250831110000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831110000 +0000" stop="20250831114500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831114500 +0000" stop="20250831123000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831123000 +0000" stop="20250831132000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831132000 +0000" stop="20250831140500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831140500 +0000" stop="20250831145000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831145000 +0000" stop="20250831153500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20250831153500 +0000" stop="20250831154500 +0000" channel="SYFY HD.skyde">
+    <title>Sci Xpert - Leschs Universum</title>
+</programme>
+<programme start="20250831154500 +0000" stop="20250831181500 +0000" channel="SYFY HD.skyde">
+    <title>Armageddon - Das jüngste Gericht</title>
+</programme>
+<programme start="20250831181500 +0000" stop="20250831203500 +0000" channel="SYFY HD.skyde">
+    <title>Der Marsianer - Rettet Mark Watney</title>
+</programme>
+<programme start="20250831203500 +0000" stop="20250831220000 +0000" channel="SYFY HD.skyde">
+    <title>Chronicle - Wozu bist du fähig?</title>
 </programme>
 <programme start="20250830224000 +0000" stop="20250830232000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
