@@ -3116,7 +3116,7 @@
         <title>TATA Indian Premier League 2025: M65 - Royal Challengers Bengaluru vs Sunrisers</title>
     </programme>
     <programme start="20250831130000 +0000" stop="20250831170000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>The Hundred Women 2025: M34 - Final</title>
+        <title>The Hundred Women 2025: M34 - Final - SB vs NS</title>
     </programme>
     <programme start="20250830160000 +0000" stop="20250830161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
