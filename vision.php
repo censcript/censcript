@@ -475,9 +475,6 @@
 <programme start="20250831090000 +0000" stop="20250831093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20250831093000 +0000" stop="20250831103000 +0000" channel="Trans TV.vision">
-<title>Tanah Air Beta</title>
-</programme>
 <programme start="20250831103000 +0000" stop="20250831114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -495,6 +492,42 @@
 </programme>
 <programme start="20250831180000 +0000" stop="20250831220000 +0000" channel="Trans TV.vision">
 <title>CNN Tech News</title>
+</programme>
+<programme start="20250831220000 +0000" stop="20250831233000 +0000" channel="Trans TV.vision">
+<title>Islam Itu Indah</title>
+</programme>
+<programme start="20250831233000 +0000" stop="20250901003000 +0000" channel="Trans TV.vision">
+<title>Blockbuster Sahur Movie</title>
+</programme>
+<programme start="20250901003000 +0000" stop="20250901013000 +0000" channel="Trans TV.vision">
+<title>CNN Indonesia Good Morning</title>
+</programme>
+<programme start="20250901013000 +0000" stop="20250901033000 +0000" channel="Trans TV.vision">
+<title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20250901033000 +0000" stop="20250901053000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
+</programme>
+<programme start="20250901053000 +0000" stop="20250901070000 +0000" channel="Trans TV.vision">
+<title>Brownis (Obrowlan Manis)</title>
+</programme>
+<programme start="20250901070000 +0000" stop="20250901080000 +0000" channel="Trans TV.vision">
+<title>Rumpi: No Secret</title>
+</programme>
+<programme start="20250901080000 +0000" stop="20250901090000 +0000" channel="Trans TV.vision">
+<title>Insert Today</title>
+</programme>
+<programme start="20250901090000 +0000" stop="20250901093000 +0000" channel="Trans TV.vision">
+<title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20250901093000 +0000" stop="20250901103000 +0000" channel="Trans TV.vision">
+<title>Dream Box Indonesia</title>
+</programme>
+<programme start="20250901103000 +0000" stop="20250901114500 +0000" channel="Trans TV.vision">
+<title>Bikin Laper</title>
+</programme>
+<programme start="20250901114500 +0000" stop="20250901130000 +0000" channel="Trans TV.vision">
+<title>Insert Story</title>
 </programme>
 <programme start="20250831181500 +0000" stop="20250831193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -561,9 +594,6 @@
 </programme>
 <programme start="20250831043000 +0000" stop="20250831060000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20250831100000 +0000" stop="20250831110000 +0000" channel="ANTV.vision">
-<title>Penghargaan Achmad Bakrie XXI</title>
 </programme>
 <programme start="20250831130000 +0000" stop="20250831150000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -759,9 +789,6 @@
 </programme>
 <programme start="20250831140000 +0000" stop="20250831150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
-</programme>
-<programme start="20250831150000 +0000" stop="20250831153000 +0000" channel="TVOne.vision">
-<title>Distrik</title>
 </programme>
 <programme start="20250831153000 +0000" stop="20250831170000 +0000" channel="TVOne.vision">
 <title>Benang Merah</title>
@@ -1402,99 +1429,72 @@
 <programme start="20250901103000 +0000" stop="20250901123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
-<programme start="20250830230000 +0000" stop="20250831010000 +0000" channel="TVRI.vision">
+<programme start="20250831170000 +0000" stop="20250831173000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831010000 +0000" stop="20250831023000 +0000" channel="TVRI.vision">
+<programme start="20250831173000 +0000" stop="20250831203000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831023000 +0000" stop="20250831042000 +0000" channel="TVRI.vision">
+<programme start="20250831203000 +0000" stop="20250831210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831042000 +0000" stop="20250831060000 +0000" channel="TVRI.vision">
+<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831060000 +0000" stop="20250831073500 +0000" channel="TVRI.vision">
+<programme start="20250831213000 +0000" stop="20250831230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831073500 +0000" stop="20250831092000 +0000" channel="TVRI.vision">
+<programme start="20250831230000 +0000" stop="20250901000000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831092000 +0000" stop="20250831104000 +0000" channel="TVRI.vision">
+<programme start="20250901000000 +0000" stop="20250901005000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831104000 +0000" stop="20250831122500 +0000" channel="TVRI.vision">
+<programme start="20250901005000 +0000" stop="20250901013000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831122500 +0000" stop="20250831140000 +0000" channel="TVRI.vision">
+<programme start="20250901013000 +0000" stop="20250901050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831140000 +0000" stop="20250831155000 +0000" channel="TVRI.vision">
+<programme start="20250901050000 +0000" stop="20250901060000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
-<programme start="20250831155000 +0000" stop="20250831170000 +0000" channel="TVRI.vision">
+<programme start="20250901060000 +0000" stop="20250901063000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901063000 +0000" stop="20250901070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901070000 +0000" stop="20250901070300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901070300 +0000" stop="20250901073000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901073000 +0000" stop="20250901080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901080000 +0000" stop="20250901080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901080300 +0000" stop="20250901083000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901083000 +0000" stop="20250901090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901090000 +0000" stop="20250901100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901100000 +0000" stop="20250901103000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901103000 +0000" stop="20250901110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250901110000 +0000" stop="20250901120000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
 <programme start="20250831000000 +0000" stop="20250831030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
-</programme>
-<programme start="20250831030000 +0000" stop="20250831060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831060000 +0000" stop="20250831090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831090000 +0000" stop="20250831120000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831120000 +0000" stop="20250831150000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831150000 +0000" stop="20250831180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831180000 +0000" stop="20250831210000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831210000 +0000" stop="20250901000000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250901000000 +0000" stop="20250901030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250901030000 +0000" stop="20250901060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250901060000 +0000" stop="20250901090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250901090000 +0000" stop="20250901120000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20250831010500 +0000" stop="20250831015500 +0000" channel="MDTV.vision">
-<title>Fakta +62 Weekend</title>
-</programme>
-<programme start="20250831110000 +0000" stop="20250831123000 +0000" channel="MDTV.vision">
-<title>Dia Anakku</title>
-</programme>
-<programme start="20250831150000 +0000" stop="20250831160000 +0000" channel="MDTV.vision">
-<title>MD Kustik</title>
-</programme>
-<programme start="20250831160000 +0000" stop="20250831173000 +0000" channel="MDTV.vision">
-<title>Dejavu: Ajian Puter Giling</title>
-</programme>
-<programme start="20250831173000 +0000" stop="20250831190000 +0000" channel="MDTV.vision">
-<title>Inilah Kisahnya</title>
-</programme>
-<programme start="20250831190000 +0000" stop="20250831200000 +0000" channel="MDTV.vision">
-<title>Di Balik Mitos</title>
-</programme>
-<programme start="20250831200000 +0000" stop="20250831213000 +0000" channel="MDTV.vision">
-<title>Keajaiban Dunia</title>
-</programme>
-<programme start="20250831213000 +0000" stop="20250831224000 +0000" channel="MDTV.vision">
-<title>Top Spot</title>
-</programme>
-<programme start="20250831224000 +0000" stop="20250831234000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
 </programme>
