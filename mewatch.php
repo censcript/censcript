@@ -1003,11 +1003,8 @@
     <programme start="20250830200000 +0000" stop="20250831110000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 31st August, Sunday 7pm. TotalEnergies BWF World Championships 2025</title>
     </programme>
-    <programme start="20250831110000 +0000" stop="20250831160000 +0000" channel="Live 5.mewatch">
+    <programme start="20250831110000 +0000" stop="20250831173000 +0000" channel="Live 5.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Finals</title>
-    </programme>
-    <programme start="20250831160000 +0000" stop="20250901160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd September, Wednesday 5pm. AFC U23 Asian Cup™ Saudi Arabia 2026 Qualifiers</title>
     </programme>
     <programme start="20250830150000 +0000" stop="20250830200000 +0000" channel="Live 6.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Semi Finals S2</title>
