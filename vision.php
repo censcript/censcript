@@ -559,9 +559,6 @@
 <programme start="20250901114500 +0000" stop="20250901121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250831010000 +0000" stop="20250831043000 +0000" channel="ANTV.vision">
-<title>Duplicate</title>
-</programme>
 <programme start="20250831043000 +0000" stop="20250831060000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
@@ -733,20 +730,8 @@
 <programme start="20250831010000 +0000" stop="20250831013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20250831013000 +0000" stop="20250831020000 +0000" channel="TVOne.vision">
-<title>Oase Indonesia</title>
-</programme>
 <programme start="20250831020000 +0000" stop="20250831023000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
-</programme>
-<programme start="20250831023000 +0000" stop="20250831030000 +0000" channel="TVOne.vision">
-<title>Metropolitan</title>
-</programme>
-<programme start="20250831030000 +0000" stop="20250831033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20250831033000 +0000" stop="20250831040000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
 </programme>
 <programme start="20250831040000 +0000" stop="20250831053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20250831160000 +0000" stop="20250831173000 +0000" channel="MDTV.vision">
 <title>Dejavu: Ajian Puter Giling</title>
+</programme>
+<programme start="20250831173000 +0000" stop="20250831190000 +0000" channel="MDTV.vision">
+<title>Inilah Kisahnya</title>
+</programme>
+<programme start="20250831190000 +0000" stop="20250831200000 +0000" channel="MDTV.vision">
+<title>Di Balik Mitos</title>
+</programme>
+<programme start="20250831200000 +0000" stop="20250831213000 +0000" channel="MDTV.vision">
+<title>Keajaiban Dunia</title>
+</programme>
+<programme start="20250831213000 +0000" stop="20250831224000 +0000" channel="MDTV.vision">
+<title>Top Spot</title>
+</programme>
+<programme start="20250831224000 +0000" stop="20250831234000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>
