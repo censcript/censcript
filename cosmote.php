@@ -1,7 +1,3 @@
-<programme start="20250831120000 +0700" stop="20250831123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250831123000 +0700" stop="20250831143000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -76,10 +72,6 @@
 </programme>
 <programme start="20250901120000 +0700" stop="20250901140000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250831110000 +0700" stop="20250831130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831130000 +0700" stop="20250831150000 +0700" channel="COSMOTE Sport 2 HD">
@@ -162,6 +154,10 @@
     <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250901131000 +0700" stop="20250901151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250831120000 +0700" stop="20250831140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Internacional - Flamengo</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +222,6 @@
     <title>Football: Leicester City FC - Birmingham City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831115000 +0700" stop="20250831121000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250831121000 +0700" stop="20250831142500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
@@ -292,10 +284,6 @@
 </programme>
 <programme start="20250901125000 +0700" stop="20250901150500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250831115000 +0700" stop="20250831125000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831125000 +0700" stop="20250831134000 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,8 +390,8 @@
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831100000 +0700" stop="20250831121000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+<programme start="20250901131000 +0700" stop="20250901141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831121000 +0700" stop="20250831141000 +0700" channel="COSMOTE Sport 6 HD">
