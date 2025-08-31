@@ -598,9 +598,6 @@
 <programme start="20250831130000 +0000" stop="20250831150000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250831170000 +0000" channel="ANTV.vision">
-<title>Naga Seribu</title>
-</programme>
 <programme start="20250831183000 +0000" stop="20250831203000 +0000" channel="ANTV.vision">
 <title>Pisaj</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250831000000 +0000" stop="20250831030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20250831030000 +0000" stop="20250831060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
