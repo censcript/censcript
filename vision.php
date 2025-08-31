@@ -790,9 +790,6 @@
 <programme start="20250831140000 +0000" stop="20250831150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
 </programme>
-<programme start="20250831150000 +0000" stop="20250831153000 +0000" channel="TVOne.vision">
-<title>Distrik</title>
-</programme>
 <programme start="20250831153000 +0000" stop="20250831170000 +0000" channel="TVOne.vision">
 <title>Benang Merah</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250901110000 +0000" stop="20250901120000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20250831000000 +0000" stop="20250831030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>
