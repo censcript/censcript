@@ -4069,57 +4069,7 @@
 <programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Malam</title>
 </programme>
-<programme start="20250831170000 +0000" stop="20250831180000 +0000" channel="GTV HD.mncvision">
-    <title>Jelajah Mitos</title>
-</programme>
-<programme start="20250831180000 +0000" stop="20250831190000 +0000" channel="GTV HD.mncvision">
-    <title>Crime KV</title>
-</programme>
-<programme start="20250831190000 +0000" stop="20250831210000 +0000" channel="GTV HD.mncvision">
-    <title>Ragam Pagi</title>
-</programme>
-<programme start="20250831210000 +0000" stop="20250831223000 +0000" channel="GTV HD.mncvision">
-    <title>Konon Katanya</title>
-</programme>
-<programme start="20250831223000 +0000" stop="20250831233000 +0000" channel="GTV HD.mncvision">
-    <title>Warbiasak</title>
-</programme>
-<programme start="20250831233000 +0000" stop="20250901003000 +0000" channel="GTV HD.mncvision">
-    <title>CoComelon Dan Sahabat</title>
-</programme>
-<programme start="20250901003000 +0000" stop="20250901013000 +0000" channel="GTV HD.mncvision">
-    <title>Obrolan Seputar Selebritis</title>
-</programme>
-<programme start="20250901013000 +0000" stop="20250901030000 +0000" channel="GTV HD.mncvision">
-    <title>Shaun The Sheep</title>
-</programme>
-<programme start="20250901030000 +0000" stop="20250901070000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants Movie</title>
-</programme>
-<programme start="20250901070000 +0000" stop="20250901080000 +0000" channel="GTV HD.mncvision">
-    <title>Shaun The Sheep</title>
-</programme>
-<programme start="20250901080000 +0000" stop="20250901093000 +0000" channel="GTV HD.mncvision">
-    <title>Kera Sakti</title>
-</programme>
-<programme start="20250901093000 +0000" stop="20250901110000 +0000" channel="GTV HD.mncvision">
-    <title>7 Manusia Harimau</title>
-</programme>
-<programme start="20250901110000 +0000" stop="20250901113000 +0000" channel="GTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20250901113000 +0000" stop="20250901123000 +0000" channel="GTV HD.mncvision">
-    <title>Anak Jalanan</title>
-</programme>
-<programme start="20250901123000 +0000" stop="20250901143000 +0000" channel="GTV HD.mncvision">
-    <title>Transformers: Age Of Extinction</title>
-</programme>
-<programme start="20250901143000 +0000" stop="20250901160000 +0000" channel="GTV HD.mncvision">
-    <title>Instant Family</title>
-</programme>
-<programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="GTV HD.mncvision">
-    <title>Buletin iNews Malam</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Jan Enak Tenan</title>
 </programme>
@@ -5926,156 +5876,7 @@
 <programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="MNCTV HD.mncvision">
     <title>12 Hari</title>
 </programme>
-<programme start="20250831172800 +0000" stop="20250831180600 +0000" channel="Moonbug.mncvision">
-    <title>Dance Party</title>
-</programme>
-<programme start="20250831180600 +0000" stop="20250831183200 +0000" channel="Moonbug.mncvision">
-    <title>Meekah</title>
-</programme>
-<programme start="20250831183200 +0000" stop="20250831185800 +0000" channel="Moonbug.mncvision">
-    <title>Litttle Baby Bum</title>
-</programme>
-<programme start="20250831185800 +0000" stop="20250831192700 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250831192700 +0000" stop="20250831194900 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon + Dance Party</title>
-</programme>
-<programme start="20250831194900 +0000" stop="20250831201100 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon + Dance Party</title>
-</programme>
-<programme start="20250831201100 +0000" stop="20250831204200 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250831204200 +0000" stop="20250831211200 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250831211200 +0000" stop="20250831213200 +0000" channel="Moonbug.mncvision">
-    <title>Little World</title>
-</programme>
-<programme start="20250831213200 +0000" stop="20250831220200 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250831220200 +0000" stop="20250831223100 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250831223100 +0000" stop="20250831224700 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods: Short</title>
-</programme>
-<programme start="20250831224700 +0000" stop="20250831230000 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods: Short</title>
-</programme>
-<programme start="20250831230000 +0000" stop="20250831232600 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250831232600 +0000" stop="20250831234500 +0000" channel="Moonbug.mncvision">
-    <title>Cody Time</title>
-</programme>
-<programme start="20250831234500 +0000" stop="20250901000700 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250901000700 +0000" stop="20250901002600 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250901002600 +0000" stop="20250901004800 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250901004800 +0000" stop="20250901011700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901011700 +0000" stop="20250901015600 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901015600 +0000" stop="20250901022100 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250901022100 +0000" stop="20250901024600 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250901024600 +0000" stop="20250901031100 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250901031100 +0000" stop="20250901033100 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250901033100 +0000" stop="20250901040000 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250901040000 +0000" stop="20250901041900 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250901041900 +0000" stop="20250901045500 +0000" channel="Moonbug.mncvision">
-    <title>Dance Party</title>
-</programme>
-<programme start="20250901045500 +0000" stop="20250901051700 +0000" channel="Moonbug.mncvision">
-    <title>Cody Time</title>
-</programme>
-<programme start="20250901051700 +0000" stop="20250901055200 +0000" channel="Moonbug.mncvision">
-    <title>Dance Party</title>
-</programme>
-<programme start="20250901055200 +0000" stop="20250901061600 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250901061600 +0000" stop="20250901063400 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250901063400 +0000" stop="20250901072700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901072700 +0000" stop="20250901080000 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901080000 +0000" stop="20250901082900 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250901082900 +0000" stop="20250901085700 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250901085700 +0000" stop="20250901092500 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250901092500 +0000" stop="20250901094200 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250901094200 +0000" stop="20250901100500 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250901100500 +0000" stop="20250901103700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901103700 +0000" stop="20250901110900 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901110900 +0000" stop="20250901114500 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250901114500 +0000" stop="20250901120800 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20250901120800 +0000" stop="20250901123100 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20250901123100 +0000" stop="20250901125900 +0000" channel="Moonbug.mncvision">
-    <title>JJ&#039;s Animal Time</title>
-</programme>
-<programme start="20250901125900 +0000" stop="20250901131500 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250901131500 +0000" stop="20250901134100 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250901134100 +0000" stop="20250901140300 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250901140300 +0000" stop="20250901142900 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250901142900 +0000" stop="20250901145300 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250901145300 +0000" stop="20250901152300 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831180000 +0000" stop="20250831190000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
@@ -8281,42 +8082,7 @@
 <programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="Sportstars HD.mncvision">
     <title>Predator: PBC Indonesia Int&#039;l</title>
 </programme>
-<programme start="20250831203000 +0000" stop="20250831205500 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250831205500 +0000" stop="20250831223000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Michelin Le Mans Cup</title>
-</programme>
-<programme start="20250831223000 +0000" stop="20250831230000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250831230000 +0000" stop="20250901040000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship (L)</title>
-</programme>
-<programme start="20250901040000 +0000" stop="20250901050000 +0000" channel="SPOTV.mncvision">
-    <title>WSL Inside Pro Surfing 2025</title>
-</programme>
-<programme start="20250901050000 +0000" stop="20250901080000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Michelin Le Mans Cup</title>
-</programme>
-<programme start="20250901080000 +0000" stop="20250901083000 +0000" channel="SPOTV.mncvision">
-    <title>2025 SuperTriE Chicago HL</title>
-</programme>
-<programme start="20250901083000 +0000" stop="20250901090000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250901090000 +0000" stop="20250901140000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship</title>
-</programme>
-<programme start="20250901140000 +0000" stop="20250901150000 +0000" channel="SPOTV.mncvision">
-    <title>WSL Inside Pro Surfing 2025</title>
-</programme>
-<programme start="20250901150000 +0000" stop="20250901153000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831190000 +0000" stop="20250901000000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Tennis C&#039;ships (L)</title>
 </programme>
@@ -8407,45 +8173,7 @@
 <programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship (L)</title>
 </programme>
-<programme start="20250831171500 +0000" stop="20250831192000 +0000" channel="Studio Universal.mncvision">
-    <title>The Mummy</title>
-</programme>
-<programme start="20250831192000 +0000" stop="20250831223000 +0000" channel="Studio Universal.mncvision">
-    <title>The Green Mile</title>
-</programme>
-<programme start="20250831223000 +0000" stop="20250831230000 +0000" channel="Studio Universal.mncvision">
-    <title>Soaring To Life: Making Of...</title>
-</programme>
-<programme start="20250831230000 +0000" stop="20250901011000 +0000" channel="Studio Universal.mncvision">
-    <title>Jaws</title>
-</programme>
-<programme start="20250901011000 +0000" stop="20250901031000 +0000" channel="Studio Universal.mncvision">
-    <title>Jaws 2</title>
-</programme>
-<programme start="20250901031000 +0000" stop="20250901062000 +0000" channel="Studio Universal.mncvision">
-    <title>The Green Mile</title>
-</programme>
-<programme start="20250901062000 +0000" stop="20250901082000 +0000" channel="Studio Universal.mncvision">
-    <title>Identity Thief</title>
-</programme>
-<programme start="20250901082000 +0000" stop="20250901085000 +0000" channel="Studio Universal.mncvision">
-    <title>Soaring To Life: Making Of...</title>
-</programme>
-<programme start="20250901085000 +0000" stop="20250901103500 +0000" channel="Studio Universal.mncvision">
-    <title>The Croods</title>
-</programme>
-<programme start="20250901103500 +0000" stop="20250901122000 +0000" channel="Studio Universal.mncvision">
-    <title>Nanny McPhee</title>
-</programme>
-<programme start="20250901122000 +0000" stop="20250901140500 +0000" channel="Studio Universal.mncvision">
-    <title>Role Models</title>
-</programme>
-<programme start="20250901140500 +0000" stop="20250901154500 +0000" channel="Studio Universal.mncvision">
-    <title>Sixteen Candles</title>
-</programme>
-<programme start="20250901154500 +0000" stop="20250901161500 +0000" channel="Studio Universal.mncvision">
-    <title>The Croods</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250831171500 +0000" stop="20250831192000 +0000" channel="Studio Universal HD.mncvision">
     <title>The Mummy</title>
 </programme>
