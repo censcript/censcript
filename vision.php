@@ -475,9 +475,6 @@
 <programme start="20250831090000 +0000" stop="20250831093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20250831093000 +0000" stop="20250831103000 +0000" channel="Trans TV.vision">
-<title>Tanah Air Beta</title>
-</programme>
 <programme start="20250831103000 +0000" stop="20250831114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -561,9 +558,6 @@
 </programme>
 <programme start="20250831043000 +0000" stop="20250831060000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20250831100000 +0000" stop="20250831110000 +0000" channel="ANTV.vision">
-<title>Penghargaan Achmad Bakrie XXI</title>
 </programme>
 <programme start="20250831130000 +0000" stop="20250831150000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250831224000 +0000" stop="20250831234000 +0000" channel="MDTV.vision">
 <title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20250831234000 +0000" stop="20250901010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20250901010000 +0000" stop="20250901015500 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
 </programme>
