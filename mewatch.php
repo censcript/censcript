@@ -1018,7 +1018,7 @@
     <programme start="20250901160000 +0000" stop="20250902160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 5th September, Friday 8.30pm. ONE Friday Fights 123</title>
     </programme>
-    <programme start="20250831110000 +0000" stop="20250831183000 +0000" channel="Live 5.mewatch">
+    <programme start="20250831110000 +0000" stop="20250831180200 +0000" channel="Live 5.mewatch">
         <title>TotalEnergies BWF World Championships 2025: Finals</title>
     </programme>
     <programme start="20250831183000 +0000" stop="20250901160000 +0000" channel="Live 5.mewatch">

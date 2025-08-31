@@ -1,11 +1,3 @@
-<programme start="20250901000000 +0700" stop="20250901003000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250901003000 +0700" stop="20250901010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250901010000 +0700" stop="20250901013000 +0700" channel="COSMOTE Sport 1 HD">
     <title>2025 Ballon d&#039; Or</title>
     <desc>Live: Tidak</desc>
@@ -130,6 +122,10 @@
     <title>Football: Panathinaikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902013000 +0700" stop="20250902033000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250831233000 +0700" stop="20250901013000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Genoa - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
@@ -188,6 +184,10 @@
 </programme>
 <programme start="20250902000000 +0700" stop="20250902010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902010000 +0700" stop="20250902030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rangers FC - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831232000 +0700" stop="20250901014500 +0700" channel="COSMOTE Sport 4 HD">
@@ -258,9 +258,9 @@
     <title>Basketball: AEK - Maccabi Ramat-Gan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831230000 +0700" stop="20250901003500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250902015000 +0700" stop="20250902035000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Barcelona - Baskonia</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901003500 +0700" stop="20250901010500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -362,6 +362,10 @@
     <title>WRC 2024</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902010000 +0700" stop="20250902023000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250901000000 +0700" stop="20250901013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -444,6 +448,10 @@
 </programme>
 <programme start="20250902003000 +0700" stop="20250902010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902010000 +0700" stop="20250902020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831233000 +0700" stop="20250901013000 +0700" channel="COSMOTE Sport 7 HD">
