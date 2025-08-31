@@ -475,6 +475,9 @@
 <programme start="20250831090000 +0000" stop="20250831093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
+<programme start="20250831093000 +0000" stop="20250831103000 +0000" channel="Trans TV.vision">
+<title>Tanah Air Beta</title>
+</programme>
 <programme start="20250831103000 +0000" stop="20250831114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -556,8 +559,17 @@
 <programme start="20250901114500 +0000" stop="20250901121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250830230000 +0000" stop="20250831010000 +0000" channel="ANTV.vision">
+<title>Kanan Kiri Ok 3</title>
+</programme>
+<programme start="20250831010000 +0000" stop="20250831043000 +0000" channel="ANTV.vision">
+<title>Duplicate</title>
+</programme>
 <programme start="20250831043000 +0000" stop="20250831060000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
+</programme>
+<programme start="20250831100000 +0000" stop="20250831110000 +0000" channel="ANTV.vision">
+<title>Penghargaan Achmad Bakrie XXI</title>
 </programme>
 <programme start="20250831130000 +0000" stop="20250831150000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -724,8 +736,20 @@
 <programme start="20250831010000 +0000" stop="20250831013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
+<programme start="20250831013000 +0000" stop="20250831020000 +0000" channel="TVOne.vision">
+<title>Oase Indonesia</title>
+</programme>
 <programme start="20250831020000 +0000" stop="20250831023000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
+</programme>
+<programme start="20250831023000 +0000" stop="20250831030000 +0000" channel="TVOne.vision">
+<title>Metropolitan</title>
+</programme>
+<programme start="20250831030000 +0000" stop="20250831033000 +0000" channel="TVOne.vision">
+<title>Dunia Dalam Kamera</title>
+</programme>
+<programme start="20250831033000 +0000" stop="20250831040000 +0000" channel="TVOne.vision">
+<title>Indonesia Plus</title>
 </programme>
 <programme start="20250831040000 +0000" stop="20250831053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1473,28 +1497,4 @@
 </programme>
 <programme start="20250831150000 +0000" stop="20250831160000 +0000" channel="MDTV.vision">
 <title>MD Kustik</title>
-</programme>
-<programme start="20250831160000 +0000" stop="20250831173000 +0000" channel="MDTV.vision">
-<title>Dejavu: Ajian Puter Giling</title>
-</programme>
-<programme start="20250831173000 +0000" stop="20250831190000 +0000" channel="MDTV.vision">
-<title>Inilah Kisahnya</title>
-</programme>
-<programme start="20250831190000 +0000" stop="20250831200000 +0000" channel="MDTV.vision">
-<title>Di Balik Mitos</title>
-</programme>
-<programme start="20250831200000 +0000" stop="20250831213000 +0000" channel="MDTV.vision">
-<title>Keajaiban Dunia</title>
-</programme>
-<programme start="20250831213000 +0000" stop="20250831224000 +0000" channel="MDTV.vision">
-<title>Top Spot</title>
-</programme>
-<programme start="20250831224000 +0000" stop="20250831234000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20250831234000 +0000" stop="20250901010000 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20250901010000 +0000" stop="20250901015500 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
 </programme>
