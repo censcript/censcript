@@ -78,10 +78,6 @@
     <title>Football: Anderlecht - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831090000 +0700" stop="20250831110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250831110000 +0700" stop="20250831130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Como</title>
     <desc>Live: Tidak</desc>
@@ -162,6 +158,10 @@
     <title>Football: SS Lazio - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250901110000 +0700" stop="20250901131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250831100000 +0700" stop="20250831120000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: River Plate - Libertad</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +226,6 @@
     <title>Football: Alverca - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831100000 +0700" stop="20250831105500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250831105500 +0700" stop="20250831115000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
@@ -292,10 +288,6 @@
 </programme>
 <programme start="20250901100000 +0700" stop="20250901122000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Trentino</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250831100000 +0700" stop="20250831110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831110000 +0700" stop="20250831115000 +0700" channel="COSMOTE Sport 5 HD">
@@ -482,10 +474,6 @@
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250831080000 +0700" stop="20250831110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250831110000 +0700" stop="20250831113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -553,6 +541,14 @@
 <programme start="20250901100000 +0700" stop="20250901110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250901110000 +0700" stop="20250901113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250901113000 +0700" stop="20250901120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250831100000 +0700" stop="20250831120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
