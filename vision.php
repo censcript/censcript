@@ -562,9 +562,6 @@
 <programme start="20250901054500 +0000" stop="20250901063000 +0000" channel="Trans 7.vision">
 <title>Indonesiaku</title>
 </programme>
-<programme start="20250901063000 +0000" stop="20250901071500 +0000" channel="Trans 7.vision">
-<title>Ujung-Ujungnya Damkar</title>
-</programme>
 <programme start="20250901071500 +0000" stop="20250901081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -669,9 +666,6 @@
 </programme>
 <programme start="20250831233000 +0000" stop="20250901013000 +0000" channel="ANTV.vision">
 <title>Ateng Kaya Mendadak</title>
-</programme>
-<programme start="20250901013000 +0000" stop="20250901050000 +0000" channel="ANTV.vision">
-<title>Student Of The Year</title>
 </programme>
 <programme start="20250901050000 +0000" stop="20250901060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -852,9 +846,6 @@
 </programme>
 <programme start="20250902113000 +0000" stop="20250902123000 +0000" channel="RTV.vision">
 <title>RTV</title>
-</programme>
-<programme start="20250831233000 +0000" stop="20250901013000 +0000" channel="TVOne.vision">
-<title>Kabar Indonesia Pagi (L)</title>
 </programme>
 <programme start="20250901013000 +0000" stop="20250901020000 +0000" channel="TVOne.vision">
 <title>Hidup Sehat (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250902003000 +0000" stop="20250902010000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20250902010000 +0000" stop="20250902013000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250902013000 +0000" stop="20250902021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250902021500 +0000" stop="20250902030000 +0000" channel="BTV.vision">
+<title>Selera Rasa</title>
 </programme>

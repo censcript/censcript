@@ -128,7 +128,7 @@
         <title>Provocative - EP 124</title>
     </programme>
     <programme start="20250901130000 +0000" stop="20250901133000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20250901133000 +0000" stop="20250901140000 +0000" channel="Channel 5.mewatch">
         <title>John Torode&#039;s Asia - EP 8</title>

@@ -3064,19 +3064,19 @@
 <programme start="20250901050000 +0000" stop="20250901060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250901060000 +0000" stop="20250901080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901060000 +0000" stop="20250901073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. Sabalenka - C. Bucsa (ESP), 8. Tag</title>
 </programme>
-<programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901073000 +0000" stop="20250901100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - N. Djokovic (SRB), 8. Tag</title>
 </programme>
 <programme start="20250901100000 +0000" stop="20250901101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20250901101500 +0000" stop="20250901121500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901101500 +0000" stop="20250901114500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. Sabalenka - C. Bucsa (ESP), 8. Tag</title>
 </programme>
-<programme start="20250901121500 +0000" stop="20250901141500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901114500 +0000" stop="20250901141500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - N. Djokovic (SRB), 8. Tag</title>
 </programme>
 <programme start="20250901141500 +0000" stop="20250901144500 +0000" channel="Sky Sport Tennis HD.skyde">
