@@ -50,6 +50,10 @@
     <title>Football: Qarabag FK - Ferencvarosi TC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250903053000 +0700" stop="20250903060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>2025 Ballon d&#039; Or</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250902033000 +0700" stop="20250902054000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +112,10 @@
 </programme>
 <programme start="20250903033000 +0700" stop="20250903054000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250903054000 +0700" stop="20250903061000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902032000 +0700" stop="20250902052000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +234,6 @@
     <title>Basketball: Bursaspor - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902033000 +0700" stop="20250902042500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250902042500 +0700" stop="20250902055500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -322,8 +326,8 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902020000 +0700" stop="20250902050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: Oktagon 2025</title>
+<programme start="20250903050000 +0700" stop="20250903063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902050000 +0700" stop="20250902063000 +0700" channel="COSMOTE Sport 6 HD">
@@ -398,12 +402,8 @@
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902040000 +0700" stop="20250902043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250902043000 +0700" stop="20250902050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250903050500 +0700" stop="20250903070500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: MT Melsungen - Rhein-Neckar Lowen</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902050000 +0700" stop="20250902080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -461,6 +461,10 @@
 <programme start="20250903043000 +0700" stop="20250903050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250903050000 +0700" stop="20250903080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250902040000 +0700" stop="20250902060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
