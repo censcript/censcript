@@ -110,6 +110,10 @@
     <title>Football: Cremonese - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902151000 +0700" stop="20250902171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250901140000 +0700" stop="20250901160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Racing Club - Penarol</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Turk Telekom - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250901131000 +0700" stop="20250901141000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250901141000 +0700" stop="20250901150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,8 +334,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250901140000 +0700" stop="20250901150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250902153000 +0700" stop="20250902162500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901150000 +0700" stop="20250901160000 +0700" channel="COSMOTE Sport 6 HD">
@@ -416,6 +416,10 @@
 </programme>
 <programme start="20250902135000 +0700" stop="20250902150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902150000 +0700" stop="20250902160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901140000 +0700" stop="20250901160000 +0700" channel="COSMOTE Sport 7 HD">

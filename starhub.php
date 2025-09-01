@@ -4784,13 +4784,13 @@
         <title>10Th Annual Vijay Television Awards-Munnottam Part 1</title>
     </programme>
     <programme start="20250831223000 +0000" stop="20250901000000 +0000" channel="Vijay TV HD.starhub">
-        <title>Super Singer S11</title>
+        <title>Super Singer</title>
     </programme>
     <programme start="20250901000000 +0000" stop="20250901013000 +0000" channel="Vijay TV HD.starhub">
-        <title>Start Music S06</title>
+        <title>Start Music</title>
     </programme>
     <programme start="20250901013000 +0000" stop="20250901024500 +0000" channel="Vijay TV HD.starhub">
-        <title>Cooku With Comali S06</title>
+        <title>Cooku With Comali</title>
     </programme>
     <programme start="20250901024500 +0000" stop="20250901040000 +0000" channel="Vijay TV HD.starhub">
         <title>Sound Party</title>
@@ -4799,7 +4799,7 @@
         <title>Aha Kalyanam Dum Dum Dum</title>
     </programme>
     <programme start="20250901043000 +0000" stop="20250901051500 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250901051500 +0000" stop="20250901060000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4811,7 +4811,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20250901070000 +0000" stop="20250901073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel - Theeyaai Oru Theeraakkaadhal</title>
+        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
     </programme>
     <programme start="20250901073000 +0000" stop="20250901080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4838,7 +4838,7 @@
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
     <programme start="20250901113000 +0000" stop="20250901121500 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250901121500 +0000" stop="20250901130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4859,7 +4859,7 @@
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
     <programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
