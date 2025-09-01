@@ -110,6 +110,10 @@
     <title>Football: AEL - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902131000 +0700" stop="20250902151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250901120000 +0700" stop="20250901140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Leicester City FC - Birmingham City</title>
     <desc>Live: Tidak</desc>
@@ -174,14 +178,6 @@
     <title>Football: Middlesbrough - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250901100000 +0700" stop="20250901122000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Trentino</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250901122000 +0700" stop="20250901125000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250901125000 +0700" stop="20250901150500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -236,10 +232,6 @@
 </programme>
 <programme start="20250902120500 +0700" stop="20250902140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250901105500 +0700" stop="20250901121000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901121000 +0700" stop="20250901131000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +326,14 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902131500 +0700" stop="20250902134500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Sporting Countdowns</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902134500 +0700" stop="20250902144000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250901120000 +0700" stop="20250901140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
@@ -415,6 +415,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902120000 +0700" stop="20250902135000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902135000 +0700" stop="20250902150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

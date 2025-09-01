@@ -9427,14 +9427,8 @@
 <programme start="20250901053000 +0000" stop="20250901063000 +0000" channel="Vision Prime.mncvision">
     <title>Teka-Teki Kata</title>
 </programme>
-<programme start="20250901063000 +0000" stop="20250901073000 +0000" channel="Vision Prime.mncvision">
-    <title>Mantan IPA &amp; IPS</title>
-</programme>
-<programme start="20250901073000 +0000" stop="20250901083000 +0000" channel="Vision Prime.mncvision">
-    <title>Tangan Di Atas</title>
-</programme>
-<programme start="20250901083000 +0000" stop="20250901090000 +0000" channel="Vision Prime.mncvision">
-    <title>OMG</title>
+<programme start="20250901063000 +0000" stop="20250901090000 +0000" channel="Vision Prime.mncvision">
+    <title>Ambyar Awards 2025</title>
 </programme>
 <programme start="20250901090000 +0000" stop="20250901100000 +0000" channel="Vision Prime.mncvision">
     <title>Preman Pensiun X</title>
@@ -9505,14 +9499,8 @@
 <programme start="20250901053000 +0000" stop="20250901063000 +0000" channel="Vision Prime HD.mncvision">
     <title>Teka-Teki Kata</title>
 </programme>
-<programme start="20250901063000 +0000" stop="20250901073000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mantan IPA &amp; IPS</title>
-</programme>
-<programme start="20250901073000 +0000" stop="20250901083000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Tangan Di Atas</title>
-</programme>
-<programme start="20250901083000 +0000" stop="20250901090000 +0000" channel="Vision Prime HD.mncvision">
-    <title>OMG</title>
+<programme start="20250901063000 +0000" stop="20250901090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ambyar Awards 2025</title>
 </programme>
 <programme start="20250901090000 +0000" stop="20250901100000 +0000" channel="Vision Prime HD.mncvision">
     <title>Preman Pensiun X</title>

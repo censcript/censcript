@@ -6712,7 +6712,10 @@
     <programme start="20250901150000 +0000" stop="20250901164700 +0000" channel="TV5MONDE HD.starhub">
         <title>Tempete</title>
     </programme>
-    <programme start="20250831160000 +0000" stop="20250831213000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20250831110000 +0000" stop="20250831180000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Final</title>
+    </programme>
+    <programme start="20250831180000 +0000" stop="20250831213000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX US Open (Super 300): Finals</title>
     </programme>
     <programme start="20250831213000 +0000" stop="20250831220000 +0000" channel="Hub Sports 1  HD.starhub">
