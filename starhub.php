@@ -6962,7 +6962,7 @@
         <title>Rally del Paraguay</title>
     </programme>
     <programme start="20250901095500 +0000" stop="20250901105500 +0000" channel="beIN Sports HD.starhub">
-        <title>Monterey Motorsport Reunion 2025</title>
+        <title>Sachsenring</title>
     </programme>
     <programme start="20250901105500 +0000" stop="20250901125500 +0000" channel="beIN Sports HD.starhub">
         <title>Formula 1 Main Race 2025: FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025</title>

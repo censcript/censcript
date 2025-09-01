@@ -4645,92 +4645,86 @@
 <programme start="20250831190000 +0000" stop="20250831203000 +0000" channel="Indosiar.mncvision">
     <title>Mega Film Asia</title>
 </programme>
-<programme start="20250831203000 +0000" stop="20250831210000 +0000" channel="Indosiar.mncvision">
+<programme start="20250831203000 +0000" stop="20250831213000 +0000" channel="Indosiar.mncvision">
     <title>Mega Film Asia</title>
 </programme>
-<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
 <programme start="20250831213000 +0000" stop="20250831230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250831230000 +0000" stop="20250901010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250901010000 +0000" stop="20250901030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250901030000 +0000" stop="20250901040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250901040000 +0000" stop="20250901043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250901043000 +0000" stop="20250901050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250901050000 +0000" stop="20250901063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250901063000 +0000" stop="20250901080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20250901100000 +0000" stop="20250901120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250901120000 +0000" stop="20250901153000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250901120000 +0000" stop="20250901160000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="Indosiar.mncvision">
+    <title>Heroes</title>
 </programme>
 <programme start="20250831190000 +0000" stop="20250831203000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
 </programme>
-<programme start="20250831203000 +0000" stop="20250831210000 +0000" channel="Indosiar HD.mncvision">
+<programme start="20250831203000 +0000" stop="20250831213000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
 </programme>
-<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
 <programme start="20250831213000 +0000" stop="20250831230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250831230000 +0000" stop="20250901010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250901010000 +0000" stop="20250901030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250901030000 +0000" stop="20250901040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250901040000 +0000" stop="20250901043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250901043000 +0000" stop="20250901050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250901050000 +0000" stop="20250901063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250901063000 +0000" stop="20250901080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
 <programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Spesial</title>
 </programme>
 <programme start="20250901100000 +0000" stop="20250901120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250901120000 +0000" stop="20250901153000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250901120000 +0000" stop="20250901160000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="Indosiar HD.mncvision">
+    <title>Heroes</title>
 </programme>
 <programme start="20250831173000 +0000" stop="20250831190000 +0000" channel="iNews.mncvision">
     <title>SEA Games 2021: IDN Vs MYA</title>
