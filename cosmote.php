@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902192000 +0700" stop="20250902212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250901180000 +0700" stop="20250901200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -334,8 +338,12 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250901180000 +0700" stop="20250901190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250902191000 +0700" stop="20250902194000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902194000 +0700" stop="20250902210000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901190000 +0700" stop="20250901200000 +0700" channel="COSMOTE Sport 6 HD">
@@ -412,6 +420,10 @@
 </programme>
 <programme start="20250902173000 +0700" stop="20250902193000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902193000 +0700" stop="20250902202500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901180000 +0700" stop="20250901200000 +0700" channel="COSMOTE Sport 7 HD">

@@ -4769,19 +4769,19 @@
         <title>TERCYDUCK 2025</title>
     </programme>
     <programme start="20250831160000 +0000" stop="20250831163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Super Singer S11</title>
+        <title>Super Singer</title>
     </programme>
     <programme start="20250831163000 +0000" stop="20250831180000 +0000" channel="Vijay TV HD.starhub">
         <title>Neeya Naana</title>
     </programme>
     <programme start="20250831180000 +0000" stop="20250831193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Athu Ithu Ethu S04</title>
+        <title>Athu Ithu Ethu</title>
     </programme>
     <programme start="20250831193000 +0000" stop="20250831210000 +0000" channel="Vijay TV HD.starhub">
         <title>Sound Party</title>
     </programme>
     <programme start="20250831210000 +0000" stop="20250831223000 +0000" channel="Vijay TV HD.starhub">
-        <title>10Th Annual Vijay Television Awards-Munnottam Part 1</title>
+        <title>10th Annual Vijay Television Awards</title>
     </programme>
     <programme start="20250831223000 +0000" stop="20250901000000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer</title>
@@ -7390,8 +7390,11 @@
     <programme start="20250831183000 +0000" stop="20250831190000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250831200000 +0000" stop="20250831203000 +0000" channel="COLORS.starhub">
+    <programme start="20250831190000 +0000" stop="20250831193000 +0000" channel="COLORS.starhub">
         <title>Manpasand Ki Shaadi</title>
+    </programme>
+    <programme start="20250831193000 +0000" stop="20250831203000 +0000" channel="COLORS.starhub">
+        <title>Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     </programme>
     <programme start="20250831203000 +0000" stop="20250831210000 +0000" channel="COLORS.starhub">
         <title>Dhaakad Beera</title>
