@@ -2590,13 +2590,13 @@
 <programme start="20250901084500 +0000" stop="20250901100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20250901100000 +0000" stop="20250901120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250901100000 +0000" stop="20250901115500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
 </programme>
-<programme start="20250901120000 +0000" stop="20250901130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250901115500 +0000" stop="20250901125500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 5. Runde (Sonntag)</title>
 </programme>
-<programme start="20250901130000 +0000" stop="20250901141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250901125500 +0000" stop="20250901141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
 <programme start="20250901141500 +0000" stop="20250901144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
