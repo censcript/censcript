@@ -2183,43 +2183,43 @@
     <title>CGTN Documentary</title>
 </programme>
 <programme start="20250901080000 +0000" stop="20250901090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Rediscovering The Arctic, Ep 5</title>
 </programme>
 <programme start="20250901090000 +0000" stop="20250901093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Solar Terms: Symphony..., Ep 1</title>
 </programme>
 <programme start="20250901093000 +0000" stop="20250901100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Voice Of SCO: My Story...</title>
 </programme>
 <programme start="20250901100000 +0000" stop="20250901110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Glimpses Of Grandeur</title>
 </programme>
 <programme start="20250901110000 +0000" stop="20250901113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Belt And Road, Ep 3</title>
 </programme>
 <programme start="20250901113000 +0000" stop="20250901120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Victory, Ep 3</title>
 </programme>
 <programme start="20250901120000 +0000" stop="20250901130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Main Eastern Battlefield</title>
 </programme>
 <programme start="20250901130000 +0000" stop="20250901133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Pastures New, Ep 2</title>
 </programme>
 <programme start="20250901133000 +0000" stop="20250901140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Crossing Cultures, Ep 1</title>
 </programme>
 <programme start="20250901140000 +0000" stop="20250901150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Asia-Pacific War..., Ep 5</title>
 </programme>
 <programme start="20250901150000 +0000" stop="20250901153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Solar Terms: Symphony..., Ep 1</title>
 </programme>
 <programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Voice Of SCO: My Story...</title>
 </programme>
 <programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Glimpses Of Grandeur</title>
 </programme>
 <programme start="20250831170000 +0000" stop="20250831180000 +0000" channel="Channel News Asia.mncvision">
     <title>Separation Declassified, Ep 2</title>

@@ -7390,9 +7390,6 @@
     <programme start="20250831183000 +0000" stop="20250831190000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20250831190000 +0000" stop="20250831200000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
-    </programme>
     <programme start="20250831200000 +0000" stop="20250831203000 +0000" channel="COLORS.starhub">
         <title>Manpasand Ki Shaadi</title>
     </programme>

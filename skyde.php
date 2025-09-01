@@ -2869,70 +2869,43 @@
 <programme start="20250901213000 +0000" stop="20250901223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto3: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20250831220000 +0000" stop="20250831233000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20250831233000 +0000" stop="20250901000000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250908220000 +0000" stop="20250909010000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250901000000 +0000" stop="20250901010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL Kompakt: 2. Spieltag</title>
+<programme start="20250909010000 +0000" stop="20250909020000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20250901010000 +0000" stop="20250901040000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250909020000 +0000" stop="20250909040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250901040000 +0000" stop="20250901060000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250909040000 +0000" stop="20250909070000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20250901060000 +0000" stop="20250901070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL Kompakt: 2. Spieltag</title>
+<programme start="20250909070000 +0000" stop="20250909080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20250901070000 +0000" stop="20250901080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: Morningshow</title>
+<programme start="20250909080000 +0000" stop="20250909100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
+<programme start="20250909100000 +0000" stop="20250909130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20250901100000 +0000" stop="20250901104500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: Countdown</title>
+<programme start="20250909130000 +0000" stop="20250909160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250901104500 +0000" stop="20250901110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
+<programme start="20250909160000 +0000" stop="20250909183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20250901110000 +0000" stop="20250901130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
+<programme start="20250909183000 +0000" stop="20250909200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20250901130000 +0000" stop="20250901134500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: Der Talk (Bundesliga)</title>
+<programme start="20250909200000 +0000" stop="20250909203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
 </programme>
-<programme start="20250901134500 +0000" stop="20250901140000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
+<programme start="20250909203000 +0000" stop="20250909210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20250901140000 +0000" stop="20250901160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
-</programme>
-<programme start="20250901160000 +0000" stop="20250901164500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: Der Talk (International)</title>
-</programme>
-<programme start="20250901164500 +0000" stop="20250901170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
-</programme>
-<programme start="20250901170000 +0000" stop="20250901180500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: Finale</title>
-</programme>
-<programme start="20250901180500 +0000" stop="20250901183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: Die Deadline Day Show</title>
-</programme>
-<programme start="20250901183000 +0000" stop="20250901193000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
-</programme>
-<programme start="20250901193000 +0000" stop="20250901203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Deadline Day: News</title>
-</programme>
-<programme start="20250901203000 +0000" stop="20250901210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Deadline Day Show</title>
-</programme>
-<programme start="20250901210000 +0000" stop="20250901220000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250909210000 +0000" stop="20250909220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20250831220500 +0000" stop="20250831223500 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3064,19 +3037,19 @@
 <programme start="20250901050000 +0000" stop="20250901060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250901060000 +0000" stop="20250901080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901060000 +0000" stop="20250901073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. Sabalenka - C. Bucsa (ESP), 8. Tag</title>
 </programme>
-<programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901073000 +0000" stop="20250901100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - N. Djokovic (SRB), 8. Tag</title>
 </programme>
 <programme start="20250901100000 +0000" stop="20250901101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20250901101500 +0000" stop="20250901121500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901101500 +0000" stop="20250901114500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. Sabalenka - C. Bucsa (ESP), 8. Tag</title>
 </programme>
-<programme start="20250901121500 +0000" stop="20250901141500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250901114500 +0000" stop="20250901141500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J.-L. Struff (GER) - N. Djokovic (SRB), 8. Tag</title>
 </programme>
 <programme start="20250901141500 +0000" stop="20250901144500 +0000" channel="Sky Sport Tennis HD.skyde">
