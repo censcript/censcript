@@ -7681,50 +7681,53 @@
 <programme start="20250831190000 +0000" stop="20250831201500 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20250831201500 +0000" stop="20250831210000 +0000" channel="SCTV.mncvision">
+<programme start="20250831201500 +0000" stop="20250831213000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250831213000 +0000" stop="20250831215700 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250831213000 +0000" stop="20250831230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250831215700 +0000" stop="20250831225800 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250831230000 +0000" stop="20250901000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250831225800 +0000" stop="20250901000000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
 <programme start="20250901000000 +0000" stop="20250901013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250901013000 +0000" stop="20250901030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901013000 +0000" stop="20250901030300 +0000" channel="SCTV.mncvision">
+    <title>Hidup Lagi Cape-Capeknya...</title>
 </programme>
-<programme start="20250901030000 +0000" stop="20250901050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901030300 +0000" stop="20250901045800 +0000" channel="SCTV.mncvision">
+    <title>POV Gebetan Di Tangan Yang...</title>
 </programme>
-<programme start="20250901050000 +0000" stop="20250901053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901045800 +0000" stop="20250901053000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250901053000 +0000" stop="20250901071500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901053000 +0000" stop="20250901070400 +0000" channel="SCTV.mncvision">
+    <title>Biarpun Mantan Kita Ke...</title>
 </programme>
-<programme start="20250901071500 +0000" stop="20250901094500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901070400 +0000" stop="20250901083700 +0000" channel="SCTV.mncvision">
+    <title>Masuk Kuping Kiri Keluar Beli</title>
 </programme>
-<programme start="20250901094500 +0000" stop="20250901114500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901083700 +0000" stop="20250901095400 +0000" channel="SCTV.mncvision">
+    <title>Azizah: Cinta 6 Hati</title>
 </programme>
-<programme start="20250901114500 +0000" stop="20250901131500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901095400 +0000" stop="20250901112100 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250901131500 +0000" stop="20250901143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901112100 +0000" stop="20250901130600 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20250901143000 +0000" stop="20250901160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901130600 +0000" stop="20250901143500 +0000" channel="SCTV.mncvision">
+    <title>Cinta Di Bawah Tangan</title>
 </programme>
-<programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250901143500 +0000" stop="20250901161600 +0000" channel="SCTV.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20250901161600 +0000" stop="20250901164600 +0000" channel="SCTV.mncvision">
+    <title>Kebun Cabe Love Story</title>
 </programme>
 <programme start="20250831173000 +0000" stop="20250831190000 +0000" channel="SCTV HD.mncvision">
     <title>FTV Utama</title>
@@ -7732,50 +7735,53 @@
 <programme start="20250831190000 +0000" stop="20250831201500 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20250831201500 +0000" stop="20250831210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20250831201500 +0000" stop="20250831213000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250831213000 +0000" stop="20250831215700 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250831213000 +0000" stop="20250831230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250831215700 +0000" stop="20250831225800 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250831230000 +0000" stop="20250901000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250831225800 +0000" stop="20250901000000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
 <programme start="20250901000000 +0000" stop="20250901013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250901013000 +0000" stop="20250901030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901013000 +0000" stop="20250901030300 +0000" channel="SCTV HD.mncvision">
+    <title>Hidup Lagi Cape-Capeknya...</title>
 </programme>
-<programme start="20250901030000 +0000" stop="20250901050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901030300 +0000" stop="20250901045800 +0000" channel="SCTV HD.mncvision">
+    <title>POV Gebetan Di Tangan Yang...</title>
 </programme>
-<programme start="20250901050000 +0000" stop="20250901053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901045800 +0000" stop="20250901053000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250901053000 +0000" stop="20250901071500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901053000 +0000" stop="20250901070400 +0000" channel="SCTV HD.mncvision">
+    <title>Biarpun Mantan Kita Ke...</title>
 </programme>
-<programme start="20250901071500 +0000" stop="20250901094500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901070400 +0000" stop="20250901083700 +0000" channel="SCTV HD.mncvision">
+    <title>Masuk Kuping Kiri Keluar Beli</title>
 </programme>
-<programme start="20250901094500 +0000" stop="20250901114500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901083700 +0000" stop="20250901095400 +0000" channel="SCTV HD.mncvision">
+    <title>Azizah: Cinta 6 Hati</title>
 </programme>
-<programme start="20250901114500 +0000" stop="20250901131500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901095400 +0000" stop="20250901112100 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250901131500 +0000" stop="20250901143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901112100 +0000" stop="20250901130600 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20250901143000 +0000" stop="20250901160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901130600 +0000" stop="20250901143500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Di Bawah Tangan</title>
 </programme>
-<programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250901143500 +0000" stop="20250901161600 +0000" channel="SCTV HD.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20250901161600 +0000" stop="20250901164600 +0000" channel="SCTV HD.mncvision">
+    <title>Kebun Cabe Love Story</title>
 </programme>
 <programme start="20250831170000 +0000" stop="20250831173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
@@ -7939,6 +7945,45 @@
 <programme start="20250831203000 +0000" stop="20250831210000 +0000" channel="Soccer Channel.mncvision">
     <title>The Ultimate Goals</title>
 </programme>
+<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Footballs</title>
+</programme>
+<programme start="20250831213000 +0000" stop="20250831233000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs UZB</title>
+</programme>
+<programme start="20250831233000 +0000" stop="20250901013000 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Asian Qual.: CHN Vs BHR</title>
+</programme>
+<programme start="20250901013000 +0000" stop="20250901033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: STP Vs BVB</title>
+</programme>
+<programme start="20250901033000 +0000" stop="20250901040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250901040000 +0000" stop="20250901060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Euro 2024: GER Vs SCO</title>
+</programme>
+<programme start="20250901060000 +0000" stop="20250901080000 +0000" channel="Soccer Channel.mncvision">
+    <title>Copa del Rey: RCF Vs RAY</title>
+</programme>
+<programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: M05 Vs KOE</title>
+</programme>
+<programme start="20250901100000 +0000" stop="20250901103000 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Footballs</title>
+</programme>
+<programme start="20250901103000 +0000" stop="20250901123000 +0000" channel="Soccer Channel.mncvision">
+    <title>ASEAN MSIG Serenity Cup 2025</title>
+</programme>
+<programme start="20250901123000 +0000" stop="20250901143000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: KOR Vs IDN</title>
+</programme>
+<programme start="20250901143000 +0000" stop="20250901163000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: M05 Vs KOE</title>
+</programme>
+<programme start="20250901163000 +0000" stop="20250831170000 +0000" channel="Soccer Channel.mncvision">
+    <title>Copa del Rey: RCF Vs RAY</title>
+</programme>
 <programme start="20250831173000 +0000" stop="20250831193000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga: KOE Vs SCF (L)</title>
 </programme>
@@ -7950,6 +7995,45 @@
 </programme>
 <programme start="20250831203000 +0000" stop="20250831210000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250831210000 +0000" stop="20250831213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Footballs</title>
+</programme>
+<programme start="20250831213000 +0000" stop="20250831233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs UZB</title>
+</programme>
+<programme start="20250831233000 +0000" stop="20250901013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Asian Qual.: CHN Vs BHR</title>
+</programme>
+<programme start="20250901013000 +0000" stop="20250901033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: STP Vs BVB</title>
+</programme>
+<programme start="20250901033000 +0000" stop="20250901040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250901040000 +0000" stop="20250901060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Euro 2024: GER Vs SCO</title>
+</programme>
+<programme start="20250901060000 +0000" stop="20250901080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Copa del Rey: RCF Vs RAY</title>
+</programme>
+<programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: M05 Vs KOE</title>
+</programme>
+<programme start="20250901100000 +0000" stop="20250901103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Footballs</title>
+</programme>
+<programme start="20250901103000 +0000" stop="20250901123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ASEAN MSIG Serenity Cup 2025</title>
+</programme>
+<programme start="20250901123000 +0000" stop="20250901143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: KOR Vs IDN</title>
+</programme>
+<programme start="20250901143000 +0000" stop="20250901163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: M05 Vs KOE</title>
+</programme>
+<programme start="20250901163000 +0000" stop="20250831170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Copa del Rey: RCF Vs RAY</title>
 </programme>
 <programme start="20250831183000 +0000" stop="20250831203000 +0000" channel="Sportstars.mncvision">
     <title>Indonesia Juara</title>
