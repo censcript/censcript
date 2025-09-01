@@ -1073,7 +1073,7 @@
     <title>FIA World Rally C&#039;ship HL 2025</title>
 </programme>
 <programme start="20250901095500 +0000" stop="20250901105500 +0000" channel="beIN Sports 1.mncvision">
-    <title>Monterey Motorsport Reunion</title>
+    <title>DTM HL 2025: Sachsenring</title>
 </programme>
 <programme start="20250901105500 +0000" stop="20250901125500 +0000" channel="beIN Sports 1.mncvision">
     <title>F1 Main Race 2025: Dutch GP</title>
@@ -1133,7 +1133,7 @@
     <title>FIA World Rally C&#039;ship HL 2025</title>
 </programme>
 <programme start="20250901095500 +0000" stop="20250901105500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Monterey Motorsport Reunion</title>
+    <title>DTM HL 2025: Sachsenring</title>
 </programme>
 <programme start="20250901105500 +0000" stop="20250901125500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>F1 Main Race 2025: Dutch GP</title>
@@ -1522,8 +1522,11 @@
 <programme start="20250901050000 +0000" stop="20250901060000 +0000" channel="BTV.mncvision">
     <title>Investor Market Today</title>
 </programme>
-<programme start="20250901060000 +0000" stop="20250901070000 +0000" channel="BTV.mncvision">
+<programme start="20250901060000 +0000" stop="20250901063000 +0000" channel="BTV.mncvision">
     <title>Investor Daily Talk</title>
+</programme>
+<programme start="20250901063000 +0000" stop="20250901070000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
 </programme>
 <programme start="20250901070000 +0000" stop="20250901080000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>

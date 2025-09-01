@@ -2561,7 +2561,7 @@
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
 </programme>
 <programme start="20250901020000 +0000" stop="20250901034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: SCR - WAC (2013/14)</title>
+    <title>Fußball: Klassiker der Woche: STU - GAK (2006/07)</title>
 </programme>
 <programme start="20250901034500 +0000" stop="20250901050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
@@ -2770,10 +2770,10 @@
 <programme start="20250901210000 +0000" stop="20250901230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Borchetta Bourbon Music City Grand Prix</title>
 </programme>
-<programme start="20250831220000 +0000" stop="20250901011000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250831220000 +0000" stop="20250901010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Omega European Masters, 4. Tag in Crans Montana (Schweiz)</title>
 </programme>
-<programme start="20250901011000 +0000" stop="20250901033000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250901010000 +0000" stop="20250901033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: FM Championship, 4. Tag in Norton, MA (USA)</title>
 </programme>
 <programme start="20250901033000 +0000" stop="20250901040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3065,19 +3065,19 @@
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250901060000 +0000" stop="20250901080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Sabalenka - C. Bucsa (ESP), 8. Tag</title>
+    <title>US Open: Topspiel 1, 8. Tag</title>
 </programme>
 <programme start="20250901080000 +0000" stop="20250901100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J.-L. Struff (GER) - N. Djokovic (SRB), 8. Tag</title>
+    <title>US Open: Topspiel 2, 8. Tag</title>
 </programme>
 <programme start="20250901100000 +0000" stop="20250901101500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20250901101500 +0000" stop="20250901121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Sabalenka - C. Bucsa (ESP), 8. Tag</title>
+    <title>US Open: Topspiel 1, 8. Tag</title>
 </programme>
 <programme start="20250901121500 +0000" stop="20250901141500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J.-L. Struff (GER) - N. Djokovic (SRB), 8. Tag</title>
+    <title>US Open: Topspiel 2, 8. Tag</title>
 </programme>
 <programme start="20250901141500 +0000" stop="20250901144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 8. Tag</title>
@@ -3151,13 +3151,13 @@
 <programme start="20250901151000 +0000" stop="20250901153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live US Open</title>
 </programme>
-<programme start="20250901153000 +0000" stop="20250902050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250901153000 +0000" stop="20250902080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live US Open: Arthur Ashe Stadium, 9. Tag</title>
 </programme>
 <programme start="20250901144000 +0000" stop="20250901150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live US Open</title>
 </programme>
-<programme start="20250901150000 +0000" stop="20250902080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20250901150000 +0000" stop="20250902050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live US Open: Louis Armstrong Stadium, 9. Tag</title>
 </programme>
 <programme start="20250831220000 +0000" stop="20250831224500 +0000" channel="SYFY HD.skyde">
