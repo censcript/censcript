@@ -685,18 +685,6 @@
 <programme start="20250901120000 +0000" stop="20250901140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250901140000 +0000" stop="20250901160000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 1</title>
-</programme>
-<programme start="20250901160000 +0000" stop="20250901180000 +0000" channel="ANTV.vision">
-<title>King Xian&#039;s Worm Valley Of...</title>
-</programme>
-<programme start="20250901180000 +0000" stop="20250901193000 +0000" channel="ANTV.vision">
-<title>The Seventh Curse</title>
-</programme>
-<programme start="20250901193000 +0000" stop="20250901203000 +0000" channel="ANTV.vision">
-<title>Mercury Man</title>
-</programme>
 <programme start="20250901203000 +0000" stop="20250901220000 +0000" channel="ANTV.vision">
 <title>Galau Remaja Di SMA</title>
 </programme>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250902013000 +0000" stop="20250902021500 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250902021500 +0000" stop="20250902030000 +0000" channel="BTV.vision">
+<title>Selera Rasa</title>
+</programme>
+<programme start="20250902030000 +0000" stop="20250902040000 +0000" channel="BTV.vision">
+<title>Masak Seru Gaes</title>
+</programme>
+<programme start="20250902040000 +0000" stop="20250902050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20250902050000 +0000" stop="20250902060000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
 </programme>
