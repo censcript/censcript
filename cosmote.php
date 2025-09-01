@@ -110,6 +110,10 @@
     <title>Football: Bologna - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250902171000 +0700" stop="20250902192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250901160000 +0700" stop="20250901180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -172,14 +176,6 @@
 </programme>
 <programme start="20250902160000 +0700" stop="20250902180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Arouca</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250901150500 +0700" stop="20250901164000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250901164000 +0700" stop="20250901170000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901170000 +0700" stop="20250901190500 +0700" channel="COSMOTE Sport 4 HD">
@@ -334,8 +330,16 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250901160000 +0700" stop="20250901170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250902170500 +0700" stop="20250902172500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902172500 +0700" stop="20250902174000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902174000 +0700" stop="20250902191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901170000 +0700" stop="20250901180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -416,6 +420,10 @@
 </programme>
 <programme start="20250902160000 +0700" stop="20250902173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250902173000 +0700" stop="20250902193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250901160000 +0700" stop="20250901180000 +0700" channel="COSMOTE Sport 7 HD">
