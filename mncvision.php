@@ -421,22 +421,22 @@
 <programme start="20250902060000 +0000" stop="20250902080000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250902080000 +0000" stop="20250902090000 +0000" channel="ANTV.mncvision">
+<programme start="20250902080000 +0000" stop="20250902093000 +0000" channel="ANTV.mncvision">
     <title>Nath</title>
 </programme>
-<programme start="20250902090000 +0000" stop="20250902100000 +0000" channel="ANTV.mncvision">
+<programme start="20250902093000 +0000" stop="20250902110000 +0000" channel="ANTV.mncvision">
     <title>Parineetii</title>
 </programme>
-<programme start="20250902100000 +0000" stop="20250902120000 +0000" channel="ANTV.mncvision">
+<programme start="20250902110000 +0000" stop="20250902123000 +0000" channel="ANTV.mncvision">
+    <title>Ajian Ratu Laut</title>
+</programme>
+<programme start="20250902123000 +0000" stop="20250902143000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250902120000 +0000" stop="20250902140000 +0000" channel="ANTV.mncvision">
-    <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="ANTV.mncvision">
+<programme start="20250902143000 +0000" stop="20250902163000 +0000" channel="ANTV.mncvision">
     <title>Saur Sepuh 2</title>
 </programme>
-<programme start="20250902160000 +0000" stop="20250902163000 +0000" channel="ANTV.mncvision">
+<programme start="20250902163000 +0000" stop="20250901170000 +0000" channel="ANTV.mncvision">
     <title>Longing Mystery Grotto</title>
 </programme>
 <programme start="20250901170000 +0000" stop="20250901173000 +0000" channel="Arirang.mncvision">
@@ -2927,7 +2927,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250902003000 +0000" stop="20250902010000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Small Changes</title>
 </programme>
 <programme start="20250902010000 +0000" stop="20250902011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2948,10 +2948,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20250902031500 +0000" stop="20250902033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Planet A: Beavers &amp; Forests</title>
 </programme>
 <programme start="20250902033000 +0000" stop="20250902040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: White-Collar...</title>
 </programme>
 <programme start="20250902040000 +0000" stop="20250902041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2966,16 +2966,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250902053000 +0000" stop="20250902060000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Green Livelihoods</title>
 </programme>
 <programme start="20250902060000 +0000" stop="20250902061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250902061500 +0000" stop="20250902063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Planet A: Beavers &amp; Forests</title>
 </programme>
 <programme start="20250902063000 +0000" stop="20250902070000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Manga</title>
 </programme>
 <programme start="20250902070000 +0000" stop="20250902073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2987,16 +2987,16 @@
     <title>DW News</title>
 </programme>
 <programme start="20250902083000 +0000" stop="20250902090000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Small Changes</title>
 </programme>
 <programme start="20250902090000 +0000" stop="20250902091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250902091500 +0000" stop="20250902094500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: White-Collar...</title>
 </programme>
 <programme start="20250902094500 +0000" stop="20250902100000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Germany&#039;s Special...</title>
 </programme>
 <programme start="20250902100000 +0000" stop="20250902103000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4910,7 +4910,7 @@
     <title>New Top Files</title>
 </programme>
 <programme start="20250901230000 +0000" stop="20250902000000 +0000" channel="JAKTV.mncvision">
-    <title>Medika Natura</title>
+    <title>Berdoa Yuk</title>
 </programme>
 <programme start="20250902000000 +0000" stop="20250902003000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
@@ -4924,11 +4924,8 @@
 <programme start="20250902020000 +0000" stop="20250902030000 +0000" channel="JAKTV.mncvision">
     <title>Lejel</title>
 </programme>
-<programme start="20250902030000 +0000" stop="20250902033000 +0000" channel="JAKTV.mncvision">
-    <title>Dunia Kita</title>
-</programme>
-<programme start="20250902033000 +0000" stop="20250902040000 +0000" channel="JAKTV.mncvision">
-    <title>Cooking Time</title>
+<programme start="20250902030000 +0000" stop="20250902040000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
 </programme>
 <programme start="20250902040000 +0000" stop="20250902043000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
@@ -4951,8 +4948,11 @@
 <programme start="20250902080000 +0000" stop="20250902090000 +0000" channel="JAKTV.mncvision">
     <title>Berkah Shop</title>
 </programme>
-<programme start="20250902090000 +0000" stop="20250902100000 +0000" channel="JAKTV.mncvision">
-    <title>Berdoa Yuk</title>
+<programme start="20250902090000 +0000" stop="20250902093000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20250902093000 +0000" stop="20250902100000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
 </programme>
 <programme start="20250902100000 +0000" stop="20250902110000 +0000" channel="JAKTV.mncvision">
     <title>Medika Natura</title>

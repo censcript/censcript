@@ -4247,7 +4247,7 @@
         <title>Swamp Mates / One Trick Sponge</title>
     </programme>
     <programme start="20250902130000 +0000" stop="20250902132500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>Face the Music with the Casagrandes</title>
+        <title>Face the Music with the Casagrandes / Pranks for the Memories with the Casagrandes</title>
     </programme>
     <programme start="20250902132500 +0000" stop="20250902134500 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>Store Wars with the Casagrandes / Lucha Fever with the Casagrandes</title>
