@@ -293,10 +293,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902084500 +0000" stop="20250902085500 +0000" channel="Cartoon Network.skyde">
     <title>Uncle Grandpa</title>
 </programme>
-<programme start="20250902085500 +0000" stop="20250902090500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902085500 +0000" stop="20250902091000 +0000" channel="Cartoon Network.skyde">
     <title>Uncle Grandpa</title>
 </programme>
-<programme start="20250902090500 +0000" stop="20250902092000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902091000 +0000" stop="20250902092000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250902092000 +0000" stop="20250902093000 +0000" channel="Cartoon Network.skyde">
@@ -332,10 +332,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902111000 +0000" stop="20250902112000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250902112000 +0000" stop="20250902113000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902112000 +0000" stop="20250902113500 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
-<programme start="20250902113000 +0000" stop="20250902114500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902113500 +0000" stop="20250902114500 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
 <programme start="20250902114500 +0000" stop="20250902115500 +0000" channel="Cartoon Network.skyde">
@@ -350,10 +350,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902122000 +0000" stop="20250902123000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250902123000 +0000" stop="20250902124000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902123000 +0000" stop="20250902124500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250902124000 +0000" stop="20250902125500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902124500 +0000" stop="20250902125500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250902125500 +0000" stop="20250902130500 +0000" channel="Cartoon Network.skyde">
@@ -410,10 +410,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902165000 +0000" stop="20250902170000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250902170000 +0000" stop="20250902171000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902170000 +0000" stop="20250902171500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250902171000 +0000" stop="20250902172500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250902171500 +0000" stop="20250902172500 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
 <programme start="20250902172500 +0000" stop="20250902173500 +0000" channel="Cartoon Network.skyde">
@@ -584,10 +584,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902041000 +0000" stop="20250902042500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250902042500 +0000" stop="20250902043000 +0000" channel="Cartoonito.skyde">
+<programme start="20250902042500 +0000" stop="20250902043500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250902043000 +0000" stop="20250902044000 +0000" channel="Cartoonito.skyde">
+<programme start="20250902043500 +0000" stop="20250902044000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250902044000 +0000" stop="20250902045500 +0000" channel="Cartoonito.skyde">
@@ -671,10 +671,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902104500 +0000" stop="20250902105500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902105500 +0000" stop="20250902111000 +0000" channel="Cartoonito.skyde">
+<programme start="20250902105500 +0000" stop="20250902111500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902111000 +0000" stop="20250902112500 +0000" channel="Cartoonito.skyde">
+<programme start="20250902111500 +0000" stop="20250902112500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250902112500 +0000" stop="20250902113500 +0000" channel="Cartoonito.skyde">
@@ -686,16 +686,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902115000 +0000" stop="20250902120000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902120000 +0000" stop="20250902121000 +0000" channel="Cartoonito.skyde">
+<programme start="20250902120000 +0000" stop="20250902121500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902121000 +0000" stop="20250902123000 +0000" channel="Cartoonito.skyde">
+<programme start="20250902121500 +0000" stop="20250902123000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902123000 +0000" stop="20250902123500 +0000" channel="Cartoonito.skyde">
+<programme start="20250902123000 +0000" stop="20250902124000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250902123500 +0000" stop="20250902124500 +0000" channel="Cartoonito.skyde">
+<programme start="20250902124000 +0000" stop="20250902124500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250902124500 +0000" stop="20250902130000 +0000" channel="Cartoonito.skyde">
@@ -740,10 +740,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902160500 +0000" stop="20250902162000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902162000 +0000" stop="20250902163000 +0000" channel="Cartoonito.skyde">
+<programme start="20250902162000 +0000" stop="20250902163500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250902163000 +0000" stop="20250902164500 +0000" channel="Cartoonito.skyde">
+<programme start="20250902163500 +0000" stop="20250902164500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250902164500 +0000" stop="20250902170000 +0000" channel="Cartoonito.skyde">
@@ -782,10 +782,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902192500 +0000" stop="20250902193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250902193000 +0000" stop="20250902193500 +0000" channel="Cartoonito.skyde">
+<programme start="20250902193000 +0000" stop="20250902194000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250902193500 +0000" stop="20250902194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250902194000 +0000" stop="20250902194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250902194500 +0000" stop="20250902200000 +0000" channel="Cartoonito.skyde">
@@ -929,32 +929,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902113000 +0000" stop="20250902120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250902120000 +0000" stop="20250902135000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250902120000 +0000" stop="20250902140000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Augsburg - FC Bayern München</title>
 </programme>
-<programme start="20250902135000 +0000" stop="20250902151000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250902140000 +0000" stop="20250902153000 +0000" channel="DAZN 1 HD.skyde">
     <title>Originals: Green Lions: Kamerun 1990</title>
 </programme>
-<programme start="20250902151000 +0000" stop="20250902153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250902153000 +0000" stop="20250902172000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250902153000 +0000" stop="20250902173000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia Dortmund - 1. FC Union Berlin</title>
 </programme>
-<programme start="20250902172000 +0000" stop="20250902180500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250902173000 +0000" stop="20250902181500 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
 </programme>
-<programme start="20250902180500 +0000" stop="20250902183000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250902181500 +0000" stop="20250902190000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250902183000 +0000" stop="20250902190000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow 2025/26: 2. Spieltag</title>
 </programme>
 <programme start="20250902190000 +0000" stop="20250902193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 Highlightshow 2025/26: 3. Spieltag</title>
+    <title>Serie A Highlightshow 2025/26: 2. Spieltag</title>
 </programme>
 <programme start="20250902193000 +0000" stop="20250902200000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+    <title>Ligue 1 Highlightshow 2025/26: 3. Spieltag</title>
 </programme>
 <programme start="20250902200000 +0000" stop="20250902211500 +0000" channel="DAZN 1 HD.skyde">
     <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 2. Spieltag</title>
@@ -1196,41 +1190,38 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902200000 +0000" stop="20250902220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX DANCE</title>
 </programme>
-<programme start="20250901220500 +0000" stop="20250901223000 +0000" channel="Motorvision+.skyde">
+<programme start="20250901220500 +0000" stop="20250901223500 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20250901223000 +0000" stop="20250901232500 +0000" channel="Motorvision+.skyde">
+<programme start="20250901223500 +0000" stop="20250901233500 +0000" channel="Motorvision+.skyde">
     <title>Australian Superbike Championship 2024</title>
 </programme>
-<programme start="20250901232500 +0000" stop="20250901235000 +0000" channel="Motorvision+.skyde">
+<programme start="20250901233500 +0000" stop="20250902000000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20250901235000 +0000" stop="20250902001500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902000000 +0000" stop="20250902003000 +0000" channel="Motorvision+.skyde">
     <title>Cars + Life</title>
 </programme>
-<programme start="20250902001500 +0000" stop="20250902004500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902003000 +0000" stop="20250902005500 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20250902004500 +0000" stop="20250902010500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902005500 +0000" stop="20250902012000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20250902010500 +0000" stop="20250902013500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902012000 +0000" stop="20250902014500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20250902013500 +0000" stop="20250902020000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902014500 +0000" stop="20250902021500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250902020000 +0000" stop="20250902022500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902021500 +0000" stop="20250902024000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20250902022500 +0000" stop="20250902025000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902024000 +0000" stop="20250902030500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2023</title>
 </programme>
-<programme start="20250902025000 +0000" stop="20250902031500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Enduro World Championship 2025</title>
-</programme>
-<programme start="20250902031500 +0000" stop="20250902033500 +0000" channel="Motorvision+.skyde">
-    <title>NASCAR University</title>
+<programme start="20250902030500 +0000" stop="20250902033500 +0000" channel="Motorvision+.skyde">
+    <title>FIM World Motocross Championship 2023</title>
 </programme>
 <programme start="20250902033500 +0000" stop="20250902040000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
@@ -1253,76 +1244,76 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902070500 +0000" stop="20250902073000 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20250902073000 +0000" stop="20250902075500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902073000 +0000" stop="20250902080000 +0000" channel="Motorvision+.skyde">
     <title>Reportage</title>
 </programme>
-<programme start="20250902075500 +0000" stop="20250902082500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902080000 +0000" stop="20250902082400 +0000" channel="Motorvision+.skyde">
+    <title>Grüne Welle</title>
+</programme>
+<programme start="20250902082400 +0000" stop="20250902082500 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
 <programme start="20250902082500 +0000" stop="20250902085500 +0000" channel="Motorvision+.skyde">
-    <title>Grüne Welle</title>
-</programme>
-<programme start="20250902085500 +0000" stop="20250902092500 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20250902092500 +0000" stop="20250902094500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902085500 +0000" stop="20250902092000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20250902094500 +0000" stop="20250902102000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902092000 +0000" stop="20250902095000 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20250902102000 +0000" stop="20250902104500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902095000 +0000" stop="20250902101000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20250902104500 +0000" stop="20250902111000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902101000 +0000" stop="20250902104000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20250902111000 +0000" stop="20250902114000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902104000 +0000" stop="20250902110500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20250902114000 +0000" stop="20250902120500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902110500 +0000" stop="20250902113500 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2023</title>
 </programme>
-<programme start="20250902120500 +0000" stop="20250902122000 +0000" channel="Motorvision+.skyde">
-    <title>NASCAR University</title>
+<programme start="20250902113500 +0000" stop="20250902120500 +0000" channel="Motorvision+.skyde">
+    <title>FastZone 2024</title>
 </programme>
-<programme start="20250902122000 +0000" stop="20250902124500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902120500 +0000" stop="20250902123000 +0000" channel="Motorvision+.skyde">
     <title>Icelandic Formula Offroad 2024</title>
 </programme>
-<programme start="20250902124500 +0000" stop="20250902131500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902123000 +0000" stop="20250902130000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20250902131500 +0000" stop="20250902140000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902130000 +0000" stop="20250902135000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20250902140000 +0000" stop="20250902142500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Supermoto World and European Championship 2025</title>
+<programme start="20250902135000 +0000" stop="20250902142000 +0000" channel="Motorvision+.skyde">
+    <title>FIM World Motocross Championship 2024</title>
 </programme>
-<programme start="20250902142500 +0000" stop="20250902145500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902142000 +0000" stop="20250902145000 +0000" channel="Motorvision+.skyde">
     <title>FIM Enduro World Championship 2025</title>
 </programme>
-<programme start="20250902145500 +0000" stop="20250902154500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902145000 +0000" stop="20250902153500 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2025</title>
 </programme>
-<programme start="20250902154500 +0000" stop="20250902164000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902153500 +0000" stop="20250902163500 +0000" channel="Motorvision+.skyde">
     <title>FIM X-Trial World Championship 2025</title>
 </programme>
-<programme start="20250902164000 +0000" stop="20250902173000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902163500 +0000" stop="20250902173000 +0000" channel="Motorvision+.skyde">
     <title>FIM Sidecarcross World Championship 2024</title>
 </programme>
 <programme start="20250902173000 +0000" stop="20250902180000 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20250902180000 +0000" stop="20250902184500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902180000 +0000" stop="20250902185000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20250902184500 +0000" stop="20250902191500 +0000" channel="Motorvision+.skyde">
+<programme start="20250902185000 +0000" stop="20250902192000 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2025</title>
 </programme>
-<programme start="20250902191500 +0000" stop="20250902194000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902192000 +0000" stop="20250902195000 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20250902194000 +0000" stop="20250902224000 +0000" channel="Motorvision+.skyde">
+<programme start="20250902195000 +0000" stop="20250902224500 +0000" channel="Motorvision+.skyde">
     <title>NTT Indycar Series 2025</title>
 </programme>
 <programme start="20250901220000 +0000" stop="20250901222000 +0000" channel="Nick Jr..skyde">
@@ -2652,10 +2643,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250902153000 +0000" stop="20250902173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
+    <title>Live US Open: VF1, Viertelfinale Damen</title>
 </programme>
 <programme start="20250902173000 +0000" stop="20250902193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: C. Alcaraz (ESP) - J. Lehecka (CZE), Viertelfinale 1, Herren</title>
+    <title>Live US Open: VF1, Viertelfinale Herren</title>
 </programme>
 <programme start="20250902193000 +0000" stop="20250902200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -2667,7 +2658,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250902204500 +0000" stop="20250902224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
+    <title>US Open: VF1, Viertelfinale Damen</title>
 </programme>
 <programme start="20250901220000 +0000" stop="20250901223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Silvio Heinevetter</title>
@@ -3149,31 +3140,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902204500 +0000" stop="20250902224500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
 </programme>
-<programme start="20250902050000 +0000" stop="20250902053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902055000 +0000" stop="20250902062000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250902053000 +0000" stop="20250902054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902062000 +0000" stop="20250902063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250902054500 +0000" stop="20250902064500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902063500 +0000" stop="20250902073500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Alle Spiele, alle Stimmen, 4. Spieltag</title>
 </programme>
-<programme start="20250902064500 +0000" stop="20250902074500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902073500 +0000" stop="20250902083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 3. Spieltag</title>
 </programme>
-<programme start="20250902074500 +0000" stop="20250902080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902083000 +0000" stop="20250902084500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Dein Spieltags-Sprint (2)</title>
 </programme>
-<programme start="20250902080000 +0000" stop="20250902081500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902084500 +0000" stop="20250902090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (4)</title>
 </programme>
-<programme start="20250902081500 +0000" stop="20250902101500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902090000 +0000" stop="20250902102000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: N. Osaka (JAP) - C. Gauff (USA), 9. Tag</title>
 </programme>
-<programme start="20250902101500 +0000" stop="20250902121500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902102000 +0000" stop="20250902121000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: J. Sinner (ITA) - A. Bublik (KAZ), 9. Tag</title>
 </programme>
-<programme start="20250902121500 +0000" stop="20250902124500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250902121000 +0000" stop="20250902124500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Niederlande</title>
 </programme>
 <programme start="20250902124500 +0000" stop="20250902131500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3198,10 +3189,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250902153000 +0000" stop="20250902173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: VF1, Viertelfinale Damen</title>
+    <title>Live US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
 </programme>
 <programme start="20250902173000 +0000" stop="20250902193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: VF1, Viertelfinale Herren</title>
+    <title>Live US Open: C. Alcaraz (ESP) - J. Lehecka (CZE), Viertelfinale 1, Herren</title>
 </programme>
 <programme start="20250902193000 +0000" stop="20250902200000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3470,10 +3461,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902011500 +0000" stop="20250902014000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250902014000 +0000" stop="20250902020000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902014000 +0000" stop="20250902020500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250902020000 +0000" stop="20250902022500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902020500 +0000" stop="20250902022500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20250902022500 +0000" stop="20250902025000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3488,10 +3479,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902033500 +0000" stop="20250902035500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250902035500 +0000" stop="20250902042000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902035500 +0000" stop="20250902041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250902042000 +0000" stop="20250902045000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902041500 +0000" stop="20250902045000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20250902045000 +0000" stop="20250902051500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3539,10 +3530,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902104500 +0000" stop="20250902111000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>St. Denis Medical</title>
 </programme>
-<programme start="20250902111000 +0000" stop="20250902114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902111000 +0000" stop="20250902113500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250902114000 +0000" stop="20250902120500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902113500 +0000" stop="20250902120500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20250902120500 +0000" stop="20250902123000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3608,17 +3599,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902201500 +0000" stop="20250902204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250902204000 +0000" stop="20250902210000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902204000 +0000" stop="20250902210500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20250902210000 +0000" stop="20250902212500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902210500 +0000" stop="20250902212500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Primal</title>
 </programme>
-<programme start="20250902212500 +0000" stop="20250902214500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902212500 +0000" stop="20250902215000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Primal</title>
 </programme>
-<programme start="20250902214500 +0000" stop="20250902221000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250902215000 +0000" stop="20250902221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
+</programme>
+<programme start="20250901220000 +0000" stop="20250901234500 +0000" channel="Warner TV Film.skyde">
+    <title>Equilibrium</title>
 </programme>
 <programme start="20250901234500 +0000" stop="20250902022500 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight Rises</title>
@@ -3632,10 +3626,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902044000 +0000" stop="20250902064000 +0000" channel="Warner TV Film.skyde">
     <title>Der Prinz und die Tänzerin</title>
 </programme>
-<programme start="20250902064000 +0000" stop="20250902083500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250902064000 +0000" stop="20250902083000 +0000" channel="Warner TV Film.skyde">
     <title>Bonnie und Clyde</title>
 </programme>
-<programme start="20250902083500 +0000" stop="20250902103000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250902083000 +0000" stop="20250902103000 +0000" channel="Warner TV Film.skyde">
     <title>Wer Gewalt sät</title>
 </programme>
 <programme start="20250902103000 +0000" stop="20250902131500 +0000" channel="Warner TV Film.skyde">
@@ -3656,6 +3650,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902203000 +0000" stop="20250902220500 +0000" channel="Warner TV Film.skyde">
     <title>The Cold Light of Day</title>
 </programme>
+<programme start="20250901220000 +0000" stop="20250901234500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Equilibrium</title>
+</programme>
 <programme start="20250901234500 +0000" stop="20250902022500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Dark Knight Rises</title>
 </programme>
@@ -3668,10 +3665,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902044000 +0000" stop="20250902064000 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Prinz und die Tänzerin</title>
 </programme>
-<programme start="20250902064000 +0000" stop="20250902083500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250902064000 +0000" stop="20250902083000 +0000" channel="Warner TV Film HD.skyde">
     <title>Bonnie und Clyde</title>
 </programme>
-<programme start="20250902083500 +0000" stop="20250902103000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250902083000 +0000" stop="20250902103000 +0000" channel="Warner TV Film HD.skyde">
     <title>Wer Gewalt sät</title>
 </programme>
 <programme start="20250902103000 +0000" stop="20250902131500 +0000" channel="Warner TV Film HD.skyde">
@@ -3719,19 +3716,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902031000 +0000" stop="20250902040000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250902040000 +0000" stop="20250902045000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250902040000 +0000" stop="20250902045500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250902045000 +0000" stop="20250902054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250902045500 +0000" stop="20250902054000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250902054000 +0000" stop="20250902063000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250902063000 +0000" stop="20250902071500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250902063000 +0000" stop="20250902072000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250902071500 +0000" stop="20250902080500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250902072000 +0000" stop="20250902080500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250902080500 +0000" stop="20250902085500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3740,10 +3737,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902085500 +0000" stop="20250902094500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250902094500 +0000" stop="20250902103500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250902094500 +0000" stop="20250902104000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250902103500 +0000" stop="20250902115500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250902104000 +0000" stop="20250902115500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250902115500 +0000" stop="20250902125000 +0000" channel="Warner TV Serie HD.skyde">

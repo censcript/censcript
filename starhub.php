@@ -2489,7 +2489,7 @@
         <title>Sunrise, FL</title>
     </programme>
     <programme start="20250902000000 +0000" stop="20250902020000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Singapore Premier League 2025/26 BG Tampines Rovers FC vs Geylang International</title>
+        <title>Singapore Premier Lge 2025/26 BG Tampines Rovers FC vs Geylang Int&#039;l FC</title>
     </programme>
     <programme start="20250902020000 +0000" stop="20250902040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Concacaf Gold Cup 2025 Costa Rica vs Suriname</title>
@@ -5236,8 +5236,14 @@
     <programme start="20250902040000 +0000" stop="20250902093000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20250902093000 +0000" stop="20250902143000 +0000" channel="SPOTV.starhub">
+    <programme start="20250902093000 +0000" stop="20250902133000 +0000" channel="SPOTV.starhub">
         <title>Day Session - W &amp; M Singles 4th Round</title>
+    </programme>
+    <programme start="20250902133000 +0000" stop="20250902140000 +0000" channel="SPOTV.starhub">
+        <title>Daily Highlights</title>
+    </programme>
+    <programme start="20250902140000 +0000" stop="20250902143000 +0000" channel="SPOTV.starhub">
+        <title>Daily Highlights</title>
     </programme>
     <programme start="20250902143000 +0000" stop="20250902150000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
@@ -6437,7 +6443,7 @@
         <title>Sunrise, FL</title>
     </programme>
     <programme start="20250902000000 +0000" stop="20250902020000 +0000" channel="TestChannel 995.starhub">
-        <title>Singapore Premier League 2025/26 BG Tampines Rovers FC vs Geylang International</title>
+        <title>Singapore Premier Lge 2025/26 BG Tampines Rovers FC vs Geylang Int&#039;l FC</title>
     </programme>
     <programme start="20250902020000 +0000" stop="20250902040000 +0000" channel="TestChannel 995.starhub">
         <title>Concacaf Gold Cup 2025 Costa Rica vs Suriname</title>
