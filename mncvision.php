@@ -5881,11 +5881,8 @@
 <programme start="20250902044500 +0000" stop="20250902054500 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250902054500 +0000" stop="20250902070000 +0000" channel="MNCTV.mncvision">
+<programme start="20250902054500 +0000" stop="20250902080000 +0000" channel="MNCTV.mncvision">
     <title>Aladdin</title>
-</programme>
-<programme start="20250902070000 +0000" stop="20250902080000 +0000" channel="MNCTV.mncvision">
-    <title>Uang Kaget</title>
 </programme>
 <programme start="20250902080000 +0000" stop="20250902100000 +0000" channel="MNCTV.mncvision">
     <title>Bedah Rumah</title>
@@ -5941,11 +5938,8 @@
 <programme start="20250902044500 +0000" stop="20250902054500 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250902054500 +0000" stop="20250902070000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250902054500 +0000" stop="20250902080000 +0000" channel="MNCTV HD.mncvision">
     <title>Aladdin</title>
-</programme>
-<programme start="20250902070000 +0000" stop="20250902080000 +0000" channel="MNCTV HD.mncvision">
-    <title>Uang Kaget</title>
 </programme>
 <programme start="20250902080000 +0000" stop="20250902100000 +0000" channel="MNCTV HD.mncvision">
     <title>Bedah Rumah</title>

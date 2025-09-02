@@ -670,9 +670,6 @@
 <programme start="20250901233000 +0000" stop="20250902013000 +0000" channel="ANTV.vision">
 <title>Ateng Minta Kawin</title>
 </programme>
-<programme start="20250902013000 +0000" stop="20250902050000 +0000" channel="ANTV.vision">
-<title>Waqt: The Race Against Time</title>
-</programme>
 <programme start="20250902050000 +0000" stop="20250902060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250902230000 +0000" stop="20250902230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
+</programme>
+<programme start="20250902230300 +0000" stop="20250903003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
