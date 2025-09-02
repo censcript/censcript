@@ -568,11 +568,23 @@
     <programme start="20250902160000 +0000" stop="20250902160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20250901160000 +0000" stop="20250902160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20250902160000 +0000" stop="20250903160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20250901160000 +0000" stop="20250902160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250902160000 +0000" stop="20250903160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
+    </programme>
+    <programme start="20250901160000 +0000" stop="20250902160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st September, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+    </programme>
+    <programme start="20250902160000 +0000" stop="20250903160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 21st September, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250901160000 +0000" stop="20250901164500 +0000" channel="now-80s.mewatch">
         <title>Hey You! Get Into My Car! Top 10 - EP1</title>

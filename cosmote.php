@@ -54,10 +54,6 @@
     <title>Football: AEK - Anderlecht</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902090000 +0700" stop="20250902110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250902110000 +0700" stop="20250902131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20250903090000 +0700" stop="20250903110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250903110000 +0700" stop="20250903131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902100000 +0700" stop="20250902120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,10 +218,6 @@
     <title>Basketball: Promitheas - Nymburk</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902100000 +0700" stop="20250902105500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250902105500 +0700" stop="20250902114500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
@@ -318,6 +314,14 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250903110000 +0700" stop="20250903115500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250903115500 +0700" stop="20250903130000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250902100000 +0700" stop="20250902113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -394,9 +398,9 @@
     <title>Tennis: Fani Roussou - Eleni Mtsentlitze</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902080000 +0700" stop="20250902110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250903113000 +0700" stop="20250903150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902110000 +0700" stop="20250902113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -453,6 +457,14 @@
 <programme start="20250903080000 +0700" stop="20250903110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250903110000 +0700" stop="20250903113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250903113000 +0700" stop="20250903120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902100000 +0700" stop="20250902120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
