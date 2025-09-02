@@ -3280,6 +3280,9 @@
     <programme start="20250902170000 +0000" stop="20250902171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20250902171500 +0000" stop="20250902173000 +0000" channel="DW English HD.starhub">
+        <title>Single mom</title>
+    </programme>
     <programme start="20250902173000 +0000" stop="20250902180000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
     </programme>
@@ -3307,6 +3310,9 @@
     <programme start="20250902210000 +0000" stop="20250902210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20250902210200 +0000" stop="20250902211500 +0000" channel="DW English HD.starhub">
+        <title>Single mom</title>
+    </programme>
     <programme start="20250902211500 +0000" stop="20250902214500 +0000" channel="DW English HD.starhub">
         <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
     </programme>
@@ -3324,6 +3330,9 @@
     </programme>
     <programme start="20250902230000 +0000" stop="20250902231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250902231500 +0000" stop="20250902233000 +0000" channel="DW English HD.starhub">
+        <title>Single mom</title>
     </programme>
     <programme start="20250902233000 +0000" stop="20250903000000 +0000" channel="DW English HD.starhub">
         <title>The price of progress - Water, power, inequality</title>
@@ -3355,6 +3364,9 @@
     <programme start="20250903030000 +0000" stop="20250903031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20250903031500 +0000" stop="20250903033000 +0000" channel="DW English HD.starhub">
+        <title>Single mom</title>
+    </programme>
     <programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="DW English HD.starhub">
         <title>Small changes - big impact</title>
     </programme>
@@ -3375,6 +3387,9 @@
     </programme>
     <programme start="20250903060000 +0000" stop="20250903061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250903061500 +0000" stop="20250903063000 +0000" channel="DW English HD.starhub">
+        <title>Single mom</title>
     </programme>
     <programme start="20250903063000 +0000" stop="20250903070000 +0000" channel="DW English HD.starhub">
         <title>The hidden world inside your mouth</title>
@@ -3417,6 +3432,9 @@
     </programme>
     <programme start="20250903130000 +0000" stop="20250903131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20250903131500 +0000" stop="20250903133000 +0000" channel="DW English HD.starhub">
+        <title>Mangroves saving land</title>
     </programme>
     <programme start="20250903133000 +0000" stop="20250903140000 +0000" channel="DW English HD.starhub">
         <title>Small changes - big impact</title>

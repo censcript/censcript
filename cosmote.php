@@ -1,7 +1,3 @@
-<programme start="20250902225000 +0700" stop="20250903005000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FK Crvena Zvezda - Pafos FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903005000 +0700" stop="20250903025500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Pafos FC - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +170,6 @@
     <title>Football: APOEL - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902221500 +0700" stop="20250903001500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Saint-Quentin - Kolossos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903001500 +0700" stop="20250903022000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Nymburk</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +220,6 @@
 </programme>
 <programme start="20250904001000 +0700" stop="20250904021500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Peristeri - Murcia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250903000000 +0700" stop="20250903003000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903003000 +0700" stop="20250903013500 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,10 +318,6 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250902233500 +0700" stop="20250903003500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Jet Ski World Series 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903003500 +0700" stop="20250903020500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -397,6 +381,10 @@
 <programme start="20250903233500 +0700" stop="20250904010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250904010000 +0700" stop="20250904024500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: SC Magdeburg - ThSV Eisenach (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250903000000 +0700" stop="20250903020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

@@ -2594,6 +2594,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902214500 +0000" stop="20250902223000 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
+<programme start="20250902024500 +0000" stop="20250902040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>US Open: N. Osaka (JAP) - C. Gauff (USA), 9. Tag</title>
+</programme>
+<programme start="20250902040000 +0000" stop="20250902043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20250902043000 +0000" stop="20250902050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Austria Salzburg</title>
+</programme>
 <programme start="20250902050000 +0000" stop="20250902053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
@@ -3098,25 +3107,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902213000 +0000" stop="20250902220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: LEE - NEW, 3. Spieltag</title>
 </programme>
-<programme start="20250902050000 +0000" stop="20250902053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902060500 +0000" stop="20250902063500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250902053000 +0000" stop="20250902073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902063500 +0000" stop="20250902075500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: N. Osaka (JAP) - C. Gauff (USA), 9. Tag</title>
 </programme>
-<programme start="20250902073000 +0000" stop="20250902093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902075500 +0000" stop="20250902094500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Sinner (ITA) - A. Bublik (KAZ), 9. Tag</title>
 </programme>
-<programme start="20250902093000 +0000" stop="20250902103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902094500 +0000" stop="20250902104500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20250902103000 +0000" stop="20250902104500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902104500 +0000" stop="20250902110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20250902104500 +0000" stop="20250902124500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902113000 +0000" stop="20250902125500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: N. Osaka (JAP) - C. Gauff (USA), 9. Tag</title>
 </programme>
-<programme start="20250902124500 +0000" stop="20250902144500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250902125500 +0000" stop="20250902144500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Sinner (ITA) - A. Bublik (KAZ), 9. Tag</title>
 </programme>
 <programme start="20250902144500 +0000" stop="20250902151500 +0000" channel="Sky Sport Tennis HD.skyde">
