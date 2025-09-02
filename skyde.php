@@ -1895,6 +1895,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902201000 +0000" stop="20250902223500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Godzilla</title>
 </programme>
+<programme start="20250901232000 +0000" stop="20250902011500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Bikeriders</title>
+</programme>
+<programme start="20250902011500 +0000" stop="20250902030000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Problemista</title>
+</programme>
+<programme start="20250902030000 +0000" stop="20250902044500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Love Lies Bleeding</title>
+</programme>
+<programme start="20250902044500 +0000" stop="20250902062000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Hounds of War</title>
+</programme>
+<programme start="20250902062000 +0000" stop="20250902081500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Abigail</title>
+</programme>
+<programme start="20250902081500 +0000" stop="20250902095500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Never Let Go</title>
+</programme>
+<programme start="20250902095500 +0000" stop="20250902121500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Mickey 17</title>
+</programme>
+<programme start="20250902121500 +0000" stop="20250902140500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Mountainhead - Gipfel der Macht</title>
+</programme>
+<programme start="20250902140500 +0000" stop="20250902162000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Mickey 17</title>
+</programme>
+<programme start="20250902162000 +0000" stop="20250902181500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Speak No Evil</title>
+</programme>
+<programme start="20250902181500 +0000" stop="20250902195000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Beast Within</title>
+</programme>
+<programme start="20250902195000 +0000" stop="20250902213500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Wolf Man</title>
+</programme>
+<programme start="20250902213500 +0000" stop="20250902232500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Never Let Go</title>
+</programme>
 <programme start="20250901222000 +0000" stop="20250901230000 +0000" channel="Sky Crime HD.skyde">
     <title>Killerjagd - Wettlauf mit dem Bösen</title>
 </programme>
@@ -2555,6 +2594,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250902214500 +0000" stop="20250902223000 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
+<programme start="20250902024500 +0000" stop="20250902040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>US Open: N. Osaka (JAP) - C. Gauff (USA), 9. Tag</title>
+</programme>
+<programme start="20250902040000 +0000" stop="20250902043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20250902043000 +0000" stop="20250902050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Austria Salzburg</title>
+</programme>
 <programme start="20250902050000 +0000" stop="20250902053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
@@ -2782,6 +2830,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250902210000 +0000" stop="20250902230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Niederlande</title>
+</programme>
+<programme start="20250902000500 +0000" stop="20250902010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Tour Championship</title>
+</programme>
+<programme start="20250902010000 +0000" stop="20250902020000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Team Europe Captain&#039;s Pick Show</title>
+</programme>
+<programme start="20250902020000 +0000" stop="20250902023000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Countdown to the Ryder Cup (1) - New York State of Mind</title>
+</programme>
+<programme start="20250902023000 +0000" stop="20250902030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Countdown to the Ryder Cup (2) - The Breakthrough</title>
+</programme>
+<programme start="20250902030000 +0000" stop="20250902033000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Countdown to the Ryder Cup (3) - Raising the Stakes</title>
+</programme>
+<programme start="20250902033000 +0000" stop="20250902040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Korn Ferry Tour: Bound for Greatness</title>
+</programme>
+<programme start="20250902040000 +0000" stop="20250902063000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: FM Championship, 4. Tag in Norton, MA (USA)</title>
+</programme>
+<programme start="20250902063000 +0000" stop="20250902073000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Team Europe Captain&#039;s Pick Show</title>
+</programme>
+<programme start="20250902073000 +0000" stop="20250902103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Omega European Masters, 1. Tag in Crans Montana (Schweiz)</title>
+</programme>
+<programme start="20250902103000 +0000" stop="20250902133000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Omega European Masters, 2. Tag in Crans Montana (Schweiz)</title>
+</programme>
+<programme start="20250902133000 +0000" stop="20250902163000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Omega European Masters, 3. Tag in Crans Montana (Schweiz)</title>
+</programme>
+<programme start="20250902163000 +0000" stop="20250902193000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Omega European Masters, 4. Tag in Crans Montana (Schweiz)</title>
+</programme>
+<programme start="20250902193000 +0000" stop="20250902220000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: FM Championship, 4. Tag in Norton, MA (USA)</title>
 </programme>
 <programme start="20250901223000 +0000" stop="20250901233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto2: Rennen - GP Ungarn</title>

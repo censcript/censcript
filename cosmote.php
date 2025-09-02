@@ -1,7 +1,3 @@
-<programme start="20250903005000 +0700" stop="20250903025500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Pafos FC - FK Crvena Zvezda</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903025500 +0700" stop="20250903033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -178,10 +174,6 @@
     <title>Football: Al Hilal - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903001500 +0700" stop="20250903022000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Nymburk</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903022000 +0700" stop="20250903043000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -330,8 +322,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903003500 +0700" stop="20250903020500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20250904031000 +0700" stop="20250904041500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903020500 +0700" stop="20250903050500 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,6 +392,10 @@
 </programme>
 <programme start="20250904024500 +0700" stop="20250904031000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: Worldies E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250904031000 +0700" stop="20250904041500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903020000 +0700" stop="20250903040000 +0700" channel="COSMOTE Sport 7 HD">
