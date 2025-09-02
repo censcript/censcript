@@ -3344,7 +3344,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250901233000 +0000" stop="20250902000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
     </programme>
     <programme start="20250902000000 +0000" stop="20250902000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3353,7 +3353,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250902003000 +0000" stop="20250902010000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Small changes - big impact</title>
     </programme>
     <programme start="20250902010000 +0000" stop="20250902011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3373,11 +3373,8 @@
     <programme start="20250902030000 +0000" stop="20250902031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250902031500 +0000" stop="20250902033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
-    </programme>
     <programme start="20250902033000 +0000" stop="20250902040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
     </programme>
     <programme start="20250902040000 +0000" stop="20250902041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3392,16 +3389,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250902053000 +0000" stop="20250902060000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Green livelihoods: Profiting while protecting</title>
     </programme>
     <programme start="20250902060000 +0000" stop="20250902061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250902061500 +0000" stop="20250902063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
-    </programme>
     <programme start="20250902063000 +0000" stop="20250902070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Manga, myths &amp; homeopathy</title>
     </programme>
     <programme start="20250902070000 +0000" stop="20250902073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3413,16 +3407,16 @@
         <title>News</title>
     </programme>
     <programme start="20250902083000 +0000" stop="20250902090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Small changes - big impact</title>
     </programme>
     <programme start="20250902090000 +0000" stop="20250902091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250902091500 +0000" stop="20250902094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
     </programme>
     <programme start="20250902094500 +0000" stop="20250902100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Germany&#039;s Special Forces Chaplain</title>
     </programme>
     <programme start="20250902100000 +0000" stop="20250902103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3434,37 +3428,37 @@
         <title>News</title>
     </programme>
     <programme start="20250902113000 +0000" stop="20250902120000 +0000" channel="DW English HD.starhub">
-        <title>The hidden world inside your mouth | In Good Shape</title>
+        <title>The hidden world inside your mouth</title>
     </programme>
     <programme start="20250902120000 +0000" stop="20250902121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250902121500 +0000" stop="20250902124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
     </programme>
     <programme start="20250902124500 +0000" stop="20250902130000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Breaking taboos: AI’s role in sexual health</title>
     </programme>
     <programme start="20250902130000 +0000" stop="20250902131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250902131500 +0000" stop="20250902133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Single mom</title>
     </programme>
     <programme start="20250902133000 +0000" stop="20250902140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Green livelihoods: Profiting while protecting</title>
     </programme>
     <programme start="20250902140000 +0000" stop="20250902143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250902143000 +0000" stop="20250902150000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>The price of progress - Water, power, inequality</title>
     </programme>
     <programme start="20250902150000 +0000" stop="20250902153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250902153000 +0000" stop="20250902160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Small changes - big impact</title>
     </programme>
     <programme start="20250901160000 +0000" stop="20250901220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

@@ -493,30 +493,6 @@
     <programme start="20250902160000 +0000" stop="20250903010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20250901160000 +0000" stop="20250901160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
-    </programme>
-    <programme start="20250901160300 +0000" stop="20250901170000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight</title>
-    </programme>
-    <programme start="20250901170000 +0000" stop="20250901173000 +0000" channel="CNA.mewatch">
-        <title>On The Red Dot - EP 16</title>
-    </programme>
-    <programme start="20250901173000 +0000" stop="20250901180000 +0000" channel="CNA.mewatch">
-        <title>Talking Point - EP 14</title>
-    </programme>
-    <programme start="20250901180000 +0000" stop="20250901190000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
-    </programme>
-    <programme start="20250901190000 +0000" stop="20250901200000 +0000" channel="CNA.mewatch">
-        <title>Separation: Declassified - EP 2</title>
-    </programme>
-    <programme start="20250901200000 +0000" stop="20250901210000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
-    </programme>
-    <programme start="20250901210000 +0000" stop="20250901220000 +0000" channel="CNA.mewatch">
-        <title>Singapore Hidden in 40 Objects - EP 1</title>
-    </programme>
     <programme start="20250901220000 +0000" stop="20250901230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
@@ -562,11 +538,8 @@
     <programme start="20250902140000 +0000" stop="20250902150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
     </programme>
-    <programme start="20250902150000 +0000" stop="20250902160000 +0000" channel="CNA.mewatch">
+    <programme start="20250902150000 +0000" stop="20250902160300 +0000" channel="CNA.mewatch">
         <title>Singapore Hidden in 40 Objects - EP 1</title>
-    </programme>
-    <programme start="20250902160000 +0000" stop="20250902160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
     </programme>
     <programme start="20250901160000 +0000" stop="20250902160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
