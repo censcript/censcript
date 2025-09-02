@@ -409,11 +409,11 @@
 <programme start="20250901230000 +0000" stop="20250901233000 +0000" channel="ANTV.mncvision">
     <title>Senyum Iman</title>
 </programme>
-<programme start="20250901233000 +0000" stop="20250902013000 +0000" channel="ANTV.mncvision">
+<programme start="20250901233000 +0000" stop="20250902010000 +0000" channel="ANTV.mncvision">
     <title>Ateng Minta Kawin</title>
 </programme>
-<programme start="20250902013000 +0000" stop="20250902050000 +0000" channel="ANTV.mncvision">
-    <title>Waqt: The Race Against Time</title>
+<programme start="20250902010000 +0000" stop="20250902050000 +0000" channel="ANTV.mncvision">
+    <title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20250902050000 +0000" stop="20250902060000 +0000" channel="ANTV.mncvision">
     <title>Mangal Lakshmi</title>

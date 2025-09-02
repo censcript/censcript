@@ -730,127 +730,127 @@
     <programme start="20250901153000 +0000" stop="20250901160001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250901160001 +0000" stop="20250901163001 +0000" channel="Animax.mewatch">
+    <programme start="20250901160001 +0000" stop="20250901163000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Feigned Ignorance</title>
     </programme>
-    <programme start="20250901163001 +0000" stop="20250901170001 +0000" channel="Animax.mewatch">
+    <programme start="20250901163000 +0000" stop="20250901170000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Ended Up At The Duke&#039;s Mansion</title>
     </programme>
-    <programme start="20250901170001 +0000" stop="20250901173001 +0000" channel="Animax.mewatch">
+    <programme start="20250901170000 +0000" stop="20250901173000 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - Contrary To Wishes</title>
     </programme>
-    <programme start="20250901173001 +0000" stop="20250901180001 +0000" channel="Animax.mewatch">
+    <programme start="20250901173000 +0000" stop="20250901180000 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - No Place Of Joy Hath A Soldier</title>
     </programme>
-    <programme start="20250901180001 +0000" stop="20250901183001 +0000" channel="Animax.mewatch">
+    <programme start="20250901180000 +0000" stop="20250901183000 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - The Bad Luck Woman&#039;s Innocence</title>
     </programme>
-    <programme start="20250901183001 +0000" stop="20250901190001 +0000" channel="Animax.mewatch">
+    <programme start="20250901183000 +0000" stop="20250901190000 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - Miranda Lotto&#039;s Feelings</title>
     </programme>
-    <programme start="20250901190001 +0000" stop="20250901193001 +0000" channel="Animax.mewatch">
+    <programme start="20250901190000 +0000" stop="20250901193000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Feigned Ignorance</title>
     </programme>
-    <programme start="20250901193001 +0000" stop="20250901200001 +0000" channel="Animax.mewatch">
+    <programme start="20250901193000 +0000" stop="20250901200000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Ended Up At The Duke&#039;s Mansion</title>
     </programme>
-    <programme start="20250901200001 +0000" stop="20250901203001 +0000" channel="Animax.mewatch">
+    <programme start="20250901200000 +0000" stop="20250901203000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Prepared To Die</title>
     </programme>
-    <programme start="20250901203001 +0000" stop="20250901210001 +0000" channel="Animax.mewatch">
+    <programme start="20250901203000 +0000" stop="20250901210000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250901210001 +0000" stop="20250901213001 +0000" channel="Animax.mewatch">
+    <programme start="20250901210000 +0000" stop="20250901213000 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - Contrary To Wishes</title>
     </programme>
-    <programme start="20250901213001 +0000" stop="20250901220001 +0000" channel="Animax.mewatch">
+    <programme start="20250901213000 +0000" stop="20250901220000 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - No Place Of Joy Hath A Soldier</title>
     </programme>
-    <programme start="20250901220001 +0000" stop="20250901223001 +0000" channel="Animax.mewatch">
+    <programme start="20250901220000 +0000" stop="20250901223000 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - The Bad Luck Woman&#039;s Innocence</title>
     </programme>
-    <programme start="20250901223001 +0000" stop="20250901230001 +0000" channel="Animax.mewatch">
+    <programme start="20250901223000 +0000" stop="20250901230000 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - Miranda Lotto&#039;s Feelings</title>
     </programme>
-    <programme start="20250901230001 +0000" stop="20250901233001 +0000" channel="Animax.mewatch">
+    <programme start="20250901230000 +0000" stop="20250901233000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Prepared To Die</title>
     </programme>
-    <programme start="20250901233001 +0000" stop="20250902000001 +0000" channel="Animax.mewatch">
+    <programme start="20250901233000 +0000" stop="20250902000000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250902000001 +0000" stop="20250902003001 +0000" channel="Animax.mewatch">
+    <programme start="20250902000000 +0000" stop="20250902003000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Feigned Ignorance</title>
     </programme>
-    <programme start="20250902003001 +0000" stop="20250902010001 +0000" channel="Animax.mewatch">
+    <programme start="20250902003000 +0000" stop="20250902010000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Ended Up At The Duke&#039;s Mansion</title>
     </programme>
-    <programme start="20250902010001 +0000" stop="20250902013001 +0000" channel="Animax.mewatch">
+    <programme start="20250902010000 +0000" stop="20250902013000 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - The Bad Luck Woman&#039;s Innocence</title>
     </programme>
-    <programme start="20250902013001 +0000" stop="20250902020001 +0000" channel="Animax.mewatch">
+    <programme start="20250902013000 +0000" stop="20250902020000 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - Miranda Lotto&#039;s Feelings</title>
     </programme>
-    <programme start="20250902020001 +0000" stop="20250902023001 +0000" channel="Animax.mewatch">
+    <programme start="20250902020000 +0000" stop="20250902023001 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - Contrary To Wishes</title>
     </programme>
     <programme start="20250902023001 +0000" stop="20250902030001 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - No Place Of Joy Hath A Soldier</title>
     </programme>
-    <programme start="20250902030001 +0000" stop="20250902033000 +0000" channel="Animax.mewatch">
+    <programme start="20250902030001 +0000" stop="20250902033001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Prepared To Die</title>
     </programme>
-    <programme start="20250902033000 +0000" stop="20250902040000 +0000" channel="Animax.mewatch">
+    <programme start="20250902033001 +0000" stop="20250902040001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250902040000 +0000" stop="20250902043000 +0000" channel="Animax.mewatch">
+    <programme start="20250902040001 +0000" stop="20250902043001 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Feigned Ignorance</title>
     </programme>
-    <programme start="20250902043000 +0000" stop="20250902050000 +0000" channel="Animax.mewatch">
+    <programme start="20250902043001 +0000" stop="20250902050001 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Ended Up At The Duke&#039;s Mansion</title>
     </programme>
-    <programme start="20250902050000 +0000" stop="20250902053000 +0000" channel="Animax.mewatch">
+    <programme start="20250902050001 +0000" stop="20250902053001 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - The Bad Luck Woman&#039;s Innocence</title>
     </programme>
-    <programme start="20250902053000 +0000" stop="20250902060000 +0000" channel="Animax.mewatch">
+    <programme start="20250902053001 +0000" stop="20250902060001 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - Miranda Lotto&#039;s Feelings</title>
     </programme>
-    <programme start="20250902060000 +0000" stop="20250902063000 +0000" channel="Animax.mewatch">
+    <programme start="20250902060001 +0000" stop="20250902063001 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - Contrary To Wishes</title>
     </programme>
-    <programme start="20250902063000 +0000" stop="20250902070000 +0000" channel="Animax.mewatch">
+    <programme start="20250902063001 +0000" stop="20250902070001 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - No Place Of Joy Hath A Soldier</title>
     </programme>
-    <programme start="20250902070000 +0000" stop="20250902073000 +0000" channel="Animax.mewatch">
+    <programme start="20250902070001 +0000" stop="20250902073001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Prepared To Die</title>
     </programme>
-    <programme start="20250902073000 +0000" stop="20250902080000 +0000" channel="Animax.mewatch">
+    <programme start="20250902073001 +0000" stop="20250902080001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250902080000 +0000" stop="20250902083000 +0000" channel="Animax.mewatch">
+    <programme start="20250902080001 +0000" stop="20250902083001 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - The Bad Luck Woman&#039;s Innocence</title>
     </programme>
-    <programme start="20250902083000 +0000" stop="20250902090000 +0000" channel="Animax.mewatch">
+    <programme start="20250902083001 +0000" stop="20250902090001 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - Miranda Lotto&#039;s Feelings</title>
     </programme>
-    <programme start="20250902090000 +0000" stop="20250902093000 +0000" channel="Animax.mewatch">
+    <programme start="20250902090001 +0000" stop="20250902093001 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - Contrary To Wishes</title>
     </programme>
-    <programme start="20250902093000 +0000" stop="20250902100000 +0000" channel="Animax.mewatch">
+    <programme start="20250902093001 +0000" stop="20250902100001 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - No Place Of Joy Hath A Soldier</title>
     </programme>
-    <programme start="20250902100000 +0000" stop="20250902103000 +0000" channel="Animax.mewatch">
+    <programme start="20250902100001 +0000" stop="20250902103001 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - Miranda Lotto&#039;s Feelings</title>
     </programme>
-    <programme start="20250902103000 +0000" stop="20250902110000 +0000" channel="Animax.mewatch">
+    <programme start="20250902103001 +0000" stop="20250902110001 +0000" channel="Animax.mewatch">
         <title>D.Gray-Man (#1-52) - And Snow Falls Over The Town</title>
     </programme>
-    <programme start="20250902110000 +0000" stop="20250902113000 +0000" channel="Animax.mewatch">
+    <programme start="20250902110001 +0000" stop="20250902113001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250902113000 +0000" stop="20250902120000 +0000" channel="Animax.mewatch">
+    <programme start="20250902113001 +0000" stop="20250902120001 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Two Things We Need To Find</title>
     </programme>
-    <programme start="20250902120000 +0000" stop="20250902123000 +0000" channel="Animax.mewatch">
+    <programme start="20250902120001 +0000" stop="20250902123000 +0000" channel="Animax.mewatch">
         <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Ended Up At The Duke&#039;s Mansion</title>
     </programme>
     <programme start="20250902123000 +0000" stop="20250902130000 +0000" channel="Animax.mewatch">
@@ -865,14 +865,17 @@
     <programme start="20250902140000 +0000" stop="20250902143000 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - Sacrifice The Plum Tree To Preserve The Peach Tree</title>
     </programme>
-    <programme start="20250902143000 +0000" stop="20250902150001 +0000" channel="Animax.mewatch">
+    <programme start="20250902143000 +0000" stop="20250902150000 +0000" channel="Animax.mewatch">
         <title>How A Realist Hero Rebuilt The Kingdom - When You Surround An Army, Leave An Outlet Free</title>
     </programme>
-    <programme start="20250902150001 +0000" stop="20250902153001 +0000" channel="Animax.mewatch">
+    <programme start="20250902150000 +0000" stop="20250902153000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Becoming The Light That Shines Through The Darkness</title>
     </programme>
-    <programme start="20250902153001 +0000" stop="20250902160001 +0000" channel="Animax.mewatch">
+    <programme start="20250902153000 +0000" stop="20250902160000 +0000" channel="Animax.mewatch">
         <title>Black Clover Season 3 - Two Things We Need To Find</title>
+    </programme>
+    <programme start="20250902160000 +0000" stop="20250902163000 +0000" channel="Animax.mewatch">
+        <title>Why Raeliana Ended Up At The Duke&#039;s Mansion - Why Raeliana Ended Up At The Duke&#039;s Mansion</title>
     </programme>
     <programme start="20250901150500 +0000" stop="20250901164000 +0000" channel="cinemaworld.mewatch">
         <title>Black As The Snow 3: Off Limits</title>
