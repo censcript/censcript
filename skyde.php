@@ -2646,10 +2646,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250902153000 +0000" stop="20250902173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
+    <title>Live US Open: VF1, Viertelfinale Damen</title>
 </programme>
 <programme start="20250902173000 +0000" stop="20250902193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: C. Alcaraz (ESP) - J. Lehecka (CZE), Viertelfinale 1, Herren</title>
+    <title>Live US Open: VF1, Viertelfinale Herren</title>
 </programme>
 <programme start="20250902193000 +0000" stop="20250902200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -2661,7 +2661,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250902204500 +0000" stop="20250902224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
+    <title>US Open: VF1, Viertelfinale Damen</title>
 </programme>
 <programme start="20250901220000 +0000" stop="20250901223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Silvio Heinevetter</title>

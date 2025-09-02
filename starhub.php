@@ -2474,7 +2474,7 @@
         <title>Wating</title>
     </programme>
     <programme start="20250901160000 +0000" stop="20250901193000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Day 3 Morning Session (Table 2): R1-9</title>
+        <title>Day 3 Morning Session (Table 2): R1-9 (John Higgins vs Joe O&#039;Connor)</title>
     </programme>
     <programme start="20250901193000 +0000" stop="20250901203000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>4 Hours of Abu Dhabi Race 1</title>
@@ -3292,17 +3292,14 @@
     <programme start="20250901170000 +0000" stop="20250901171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250901171500 +0000" stop="20250901173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
-    </programme>
     <programme start="20250901173000 +0000" stop="20250901180000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Manga, myths &amp; homeopathy</title>
     </programme>
     <programme start="20250901180000 +0000" stop="20250901183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250901183000 +0000" stop="20250901190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
     </programme>
     <programme start="20250901190000 +0000" stop="20250901190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3311,7 +3308,7 @@
         <title>Modern African Lifestyle</title>
     </programme>
     <programme start="20250901193000 +0000" stop="20250901200000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>The price of progress - Water, power, inequality</title>
     </programme>
     <programme start="20250901200000 +0000" stop="20250901203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3321,9 +3318,6 @@
     </programme>
     <programme start="20250901210000 +0000" stop="20250901210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20250901210200 +0000" stop="20250901211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250901211500 +0000" stop="20250901220000 +0000" channel="DW English HD.starhub">
         <title>Surviving Globalization - Part 2: The Struggle for Resources</title>
@@ -3339,9 +3333,6 @@
     </programme>
     <programme start="20250901230000 +0000" stop="20250901231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20250901231500 +0000" stop="20250901233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250901233000 +0000" stop="20250902000000 +0000" channel="DW English HD.starhub">
         <title>White-Collar Swindlers - The Crypto Trap and Wirecard Scandal</title>
@@ -6422,7 +6413,7 @@
         <title>Shoot &#039;Em Up</title>
     </programme>
     <programme start="20250901160000 +0000" stop="20250901193000 +0000" channel="TestChannel 995.starhub">
-        <title>Day 3 Morning Session (Table 2): R1-9</title>
+        <title>Day 3 Morning Session (Table 2): R1-9 (John Higgins vs Joe O&#039;Connor)</title>
     </programme>
     <programme start="20250901193000 +0000" stop="20250901203000 +0000" channel="TestChannel 995.starhub">
         <title>4 Hours of Abu Dhabi Race 1</title>

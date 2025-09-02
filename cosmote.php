@@ -1,7 +1,3 @@
-<programme start="20250902165000 +0700" stop="20250902185000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Ferencvarosi TC - Qarabag FK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250902185000 +0700" stop="20250902205000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: SK Sturm Graz - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250903192000 +0700" stop="20250903212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250902180000 +0700" stop="20250902200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Pafos FC</title>
     <desc>Live: Tidak</desc>
@@ -168,10 +168,6 @@
 </programme>
 <programme start="20250903180000 +0700" stop="20250903200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee - Dundee United</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250902161000 +0700" stop="20250902182000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Trapani - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902182000 +0700" stop="20250902201500 +0700" channel="COSMOTE Sport 4 HD">
@@ -324,6 +320,10 @@
 </programme>
 <programme start="20250903183000 +0700" stop="20250903193000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250903193000 +0700" stop="20250903211000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250902173000 +0700" stop="20250902193000 +0700" channel="COSMOTE Sport 6 HD">
