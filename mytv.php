@@ -20,7 +20,7 @@
         <title> VTV Sống khỏe </title>
     </programme>
     <programme start="20250902024500 +0000" stop="20250902033000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim ca nhạc - Lá thư gửi tương lai </title>
+        <title> Phim ca nhạc: Lá thư gửi tương lai </title>
     </programme>
     <programme start="20250902033000 +0000" stop="20250902041500 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mưa bóng mây - Tập 15 </title>
@@ -38,7 +38,7 @@
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20250902100000 +0000" stop="20250902104500 +0000" channel="VTV1 HD.mytv">
-        <title> V Việt Nam - Ngôi làng rực rỡ màu cờ </title>
+        <title> V - Việt Nam - Ngôi làng rực rỡ màu cờ </title>
     </programme>
     <programme start="20250902104500 +0000" stop="20250902110000 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
@@ -119,16 +119,16 @@
         <title> Thế giới hôm nay </title>
     </programme>
     <programme start="20250902222500 +0000" stop="20250902224000 +0000" channel="VTV1 HD.mytv">
-        <title> Niềm tin công lý - Nguy hiểm lái xe dùng ma túy </title>
+        <title> Tác phẩm mới - Vinh quang, ơi Việt Nam </title>
     </programme>
     <programme start="20250902224000 +0000" stop="20250902230000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
     </programme>
     <programme start="20250902230000 +0000" stop="20250902231500 +0000" channel="VTV1 HD.mytv">
-        <title> Tác phẩm mới - Vinh quang, ơi Việt Nam </title>
+        <title> Nẻo về nguồn cội - Âm vang Bản Tuyên ngôn Độc lập </title>
     </programme>
     <programme start="20250902231500 +0000" stop="20250902233000 +0000" channel="VTV1 HD.mytv">
-        <title> Nẻo về nguồn cội - Âm vang Bản Tuyên ngôn Độc lập </title>
+        <title> Giải mã cuộc sống - Bí ẩn chất sơn truyền thống </title>
     </programme>
     <programme start="20250902233000 +0000" stop="20250902234500 +0000" channel="VTV1 HD.mytv">
         <title> Ký sự - Bánh cam, bánh còng - Ngọt ngào ký ức</title>
