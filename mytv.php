@@ -1,5 +1,5 @@
     <programme start="20250902000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Làng trong phố - Tập 8</title>
+        <title> Phim truyện - Làng trong phố - Tập 8</title>
     </programme>
     <programme start="20250902000000 +0000" stop="20250902003000 +0000" channel="VTV1 HD.mytv">
         <title> Cải cách hành chính - Kiến tạo nền hành chính thông minh</title>
@@ -11,7 +11,7 @@
         <title> Không gian văn hóa nghệ thuật</title>
     </programme>
     <programme start="20250902011000 +0000" stop="20250902020000 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao thay đổi cuộc sống</title>
+        <title> Thể thao</title>
     </programme>
     <programme start="20250902020000 +0000" stop="20250902023000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê - Ngôi làng càng nắng càng thơm</title>
@@ -23,28 +23,25 @@
         <title> Phim ca nhạc: Lá thư gửi tương lai</title>
     </programme>
     <programme start="20250902033000 +0000" stop="20250902041500 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Mưa bóng mây - Tập 15</title>
+        <title> Phim truyện - Mưa bóng mây - Tập 15</title>
     </programme>
     <programme start="20250902041500 +0000" stop="20250902050500 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng</title>
     </programme>
     <programme start="20250902050500 +0000" stop="20250902060000 +0000" channel="VTV1 HD.mytv">
-        <title> Trực tiếp: Rạng rỡ Việt Nam</title>
-    </programme>
-    <programme start="20250902060000 +0000" stop="20250902063000 +0000" channel="VTV1 HD.mytv">
         <title> THTT: Chương trình đặc biệt kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh nước CHXHCN Việt Nam</title>
     </programme>
-    <programme start="20250902063000 +0000" stop="20250902092100 +0000" channel="VTV1 HD.mytv">
+    <programme start="20250902060000 +0000" stop="20250902092000 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu - Bản Tuyên ngôn lập quốc vĩ đại</title>
     </programme>
-    <programme start="20250902092100 +0000" stop="20250902094800 +0000" channel="VTV1 HD.mytv">
+    <programme start="20250902092000 +0000" stop="20250902094500 +0000" channel="VTV1 HD.mytv">
         <title> Tác phẩm mới</title>
     </programme>
-    <programme start="20250902094800 +0000" stop="20250902100500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20250902094500 +0000" stop="20250902100000 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật</title>
     </programme>
-    <programme start="20250902100500 +0000" stop="20250902104500 +0000" channel="VTV1 HD.mytv">
-        <title> V - Việt Nam - Ngôi làng rực rỡ màu cờ</title>
+    <programme start="20250902100000 +0000" stop="20250902104500 +0000" channel="VTV1 HD.mytv">
+        <title> V Việt Nam - Ngôi làng rực rỡ màu cờ</title>
     </programme>
     <programme start="20250902104500 +0000" stop="20250902110000 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa</title>
@@ -125,10 +122,10 @@
         <title> Thế giới hôm nay</title>
     </programme>
     <programme start="20250902222500 +0000" stop="20250902224000 +0000" channel="VTV1 HD.mytv">
-        <title> Tác phẩm mới - Vinh quang, ơi Việt Nam</title>
+        <title> Tác phẩm mới</title>
     </programme>
     <programme start="20250902224000 +0000" stop="20250902230000 +0000" channel="VTV1 HD.mytv">
-        <title> Bản tin</title>
+        <title> Thời sự</title>
     </programme>
     <programme start="20250902230000 +0000" stop="20250902231500 +0000" channel="VTV1 HD.mytv">
         <title> Nẻo về nguồn cội - Âm vang Bản Tuyên ngôn Độc lập</title>
