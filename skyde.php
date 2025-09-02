@@ -2680,6 +2680,90 @@
 <programme start="20250903204500 +0000" stop="20250903224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>US Open: VF3, Viertelfinale Damen</title>
 </programme>
+<programme start="20250902220000 +0000" stop="20250902223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250902223000 +0000" stop="20250903003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Freitags-Konferenz, 4. Spieltag</title>
+</programme>
+<programme start="20250903003000 +0000" stop="20250903013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 2. Spieltag</title>
+</programme>
+<programme start="20250903013000 +0000" stop="20250903023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 4. Spieltag</title>
+</programme>
+<programme start="20250903023000 +0000" stop="20250903024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (4)</title>
+</programme>
+<programme start="20250903024500 +0000" stop="20250903030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (2)</title>
+</programme>
+<programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30:F95 - KSC, 4. Spieltag</title>
+</programme>
+<programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250903040000 +0000" stop="20250903041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (2)</title>
+</programme>
+<programme start="20250903041500 +0000" stop="20250903043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (4)</title>
+</programme>
+<programme start="20250903043000 +0000" stop="20250903050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250903050000 +0000" stop="20250903070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 1. FC Nürnberg - SC Paderborn 07, 4. Spieltag</title>
+</programme>
+<programme start="20250903070000 +0000" stop="20250903073000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30:F95 - KSC, 4. Spieltag</title>
+</programme>
+<programme start="20250903073000 +0000" stop="20250903093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Holstein Kiel - Hannover 96, 4. Spieltag</title>
+</programme>
+<programme start="20250903093000 +0000" stop="20250903094500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 2. Spieltag</title>
+</programme>
+<programme start="20250903094500 +0000" stop="20250903100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 4. Spieltag</title>
+</programme>
+<programme start="20250903100000 +0000" stop="20250903120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: VfL Bochum - Preußen Münster, 4. Spieltag</title>
+</programme>
+<programme start="20250903120000 +0000" stop="20250903121500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (4)</title>
+</programme>
+<programme start="20250903121500 +0000" stop="20250903131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 2. Spieltag</title>
+</programme>
+<programme start="20250903131500 +0000" stop="20250903134000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Bundesliga Collection: Das Festival der Eigentore</title>
+</programme>
+<programme start="20250903134000 +0000" stop="20250903154000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Werder Bremen - Bayer Leverkusen, 2. Spieltag</title>
+</programme>
+<programme start="20250903154000 +0000" stop="20250903155500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (2)</title>
+</programme>
+<programme start="20250903155500 +0000" stop="20250903162500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250903162500 +0000" stop="20250903183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live Testspiel: SG Sonnenhof Großaspach - VfB Stuttgart, Testspiel in Aspach</title>
+</programme>
+<programme start="20250903183000 +0000" stop="20250903193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20250903193000 +0000" stop="20250903200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCA - FCB, 2. Spieltag</title>
+</programme>
+<programme start="20250903200000 +0000" stop="20250903205000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Mythos Borussia - Eine Legende wird 125 (Episode 1)</title>
+</programme>
+<programme start="20250903205000 +0000" stop="20250903225000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Hamburger SV - FC St. Pauli, Flutlicht-Freitag, 2. Spieltag</title>
+</programme>
 <programme start="20250903063000 +0000" stop="20250903083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Fortuna Düsseldorf - Karlsruher SC, tipico Topspiel der Woche, 4. Spieltag</title>
 </programme>
@@ -3131,10 +3215,10 @@
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250903153000 +0000" stop="20250903173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Damen</title>
+    <title>Live US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
 <programme start="20250903173000 +0000" stop="20250903193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Herren</title>
+    <title>Live US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
 <programme start="20250903193000 +0000" stop="20250903200000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>

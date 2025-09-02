@@ -5626,72 +5626,7 @@
 <programme start="20250903163500 +0000" stop="20250902170500 +0000" channel="Love Nature HD.mncvision">
     <title>Orangutan Jungle School, Ep 1</title>
 </programme>
-<programme start="20250902172000 +0000" stop="20250902180000 +0000" channel="MDTV.mncvision">
-    <title>Fenomena</title>
-</programme>
-<programme start="20250902180000 +0000" stop="20250902190000 +0000" channel="MDTV.mncvision">
-    <title>Inilah Kisahnya</title>
-</programme>
-<programme start="20250902190000 +0000" stop="20250902200000 +0000" channel="MDTV.mncvision">
-    <title>Di Balik Mitos</title>
-</programme>
-<programme start="20250902200000 +0000" stop="20250902213000 +0000" channel="MDTV.mncvision">
-    <title>Keajaiban Dunia</title>
-</programme>
-<programme start="20250902213000 +0000" stop="20250902224000 +0000" channel="MDTV.mncvision">
-    <title>Top Spot</title>
-</programme>
-<programme start="20250902224000 +0000" stop="20250902234000 +0000" channel="MDTV.mncvision">
-    <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20250902234000 +0000" stop="20250903010000 +0000" channel="MDTV.mncvision">
-    <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20250903010000 +0000" stop="20250903015500 +0000" channel="MDTV.mncvision">
-    <title>Fakta +62</title>
-</programme>
-<programme start="20250903015500 +0000" stop="20250903025500 +0000" channel="MDTV.mncvision">
-    <title>SensasiHot</title>
-</programme>
-<programme start="20250903025500 +0000" stop="20250903042500 +0000" channel="MDTV.mncvision">
-    <title>Cerita Nyata Pagi</title>
-</programme>
-<programme start="20250903042500 +0000" stop="20250903055500 +0000" channel="MDTV.mncvision">
-    <title>Cerita Nyata</title>
-</programme>
-<programme start="20250903055500 +0000" stop="20250903065500 +0000" channel="MDTV.mncvision">
-    <title>Cinta Fitri S3</title>
-</programme>
-<programme start="20250903065500 +0000" stop="20250903080000 +0000" channel="MDTV.mncvision">
-    <title>Makan Enak</title>
-</programme>
-<programme start="20250903080000 +0000" stop="20250903090000 +0000" channel="MDTV.mncvision">
-    <title>Masak Gesss!!!</title>
-</programme>
-<programme start="20250903090000 +0000" stop="20250903093000 +0000" channel="MDTV.mncvision">
-    <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20250903093000 +0000" stop="20250903102500 +0000" channel="MDTV.mncvision">
-    <title>Marimar</title>
-</programme>
-<programme start="20250903102500 +0000" stop="20250903112000 +0000" channel="MDTV.mncvision">
-    <title>Rosalinda</title>
-</programme>
-<programme start="20250903112000 +0000" stop="20250903123000 +0000" channel="MDTV.mncvision">
-    <title>Terlanjur Indah</title>
-</programme>
-<programme start="20250903123000 +0000" stop="20250903135000 +0000" channel="MDTV.mncvision">
-    <title>Kupu Malam</title>
-</programme>
-<programme start="20250903135000 +0000" stop="20250903150000 +0000" channel="MDTV.mncvision">
-    <title>Rasa Rindu</title>
-</programme>
-<programme start="20250903150000 +0000" stop="20250903160000 +0000" channel="MDTV.mncvision">
-    <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20250903160000 +0000" stop="20250903163000 +0000" channel="MDTV.mncvision">
-    <title>Top Spot</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250902170000 +0000" stop="20250902170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
@@ -5842,63 +5777,7 @@
 <programme start="20250903075500 +0000" stop="20250903082500 +0000" channel="Metro TV.mncvision">
     <title>Newsline</title>
 </programme>
-<programme start="20250902170000 +0000" stop="20250902190000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20250902190000 +0000" stop="20250902210000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn 2</title>
-</programme>
-<programme start="20250902210000 +0000" stop="20250902220000 +0000" channel="MNCTV.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20250902220000 +0000" stop="20250902230000 +0000" channel="MNCTV.mncvision">
-    <title>Siraman Qolbu</title>
-</programme>
-<programme start="20250902230000 +0000" stop="20250902231500 +0000" channel="MNCTV.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250902231500 +0000" stop="20250903000000 +0000" channel="MNCTV.mncvision">
-    <title>Penguins Madagascar</title>
-</programme>
-<programme start="20250903000000 +0000" stop="20250903010000 +0000" channel="MNCTV.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20250903010000 +0000" stop="20250903023000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250903023000 +0000" stop="20250903031500 +0000" channel="MNCTV.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20250903031500 +0000" stop="20250903034500 +0000" channel="MNCTV.mncvision">
-    <title>Jurnal Lintas iNews Siang</title>
-</programme>
-<programme start="20250903034500 +0000" stop="20250903044500 +0000" channel="MNCTV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20250903044500 +0000" stop="20250903054500 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250903054500 +0000" stop="20250903080000 +0000" channel="MNCTV.mncvision">
-    <title>Aladdin</title>
-</programme>
-<programme start="20250903080000 +0000" stop="20250903100000 +0000" channel="MNCTV.mncvision">
-    <title>Bedah Rumah</title>
-</programme>
-<programme start="20250903100000 +0000" stop="20250903120000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20250903120000 +0000" stop="20250903123000 +0000" channel="MNCTV.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20250903123000 +0000" stop="20250903140000 +0000" channel="MNCTV.mncvision">
-    <title>Family 100</title>
-</programme>
-<programme start="20250903140000 +0000" stop="20250903160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki (L)</title>
-</programme>
-<programme start="20250903160000 +0000" stop="20250903163000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn 2</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250902170000 +0000" stop="20250902190000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
 </programme>
@@ -5956,156 +5835,8 @@
 <programme start="20250903160000 +0000" stop="20250903163000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn 2</title>
 </programme>
-<programme start="20250902172100 +0000" stop="20250902174400 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250902174400 +0000" stop="20250902181400 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250902181400 +0000" stop="20250902201000 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum: Lullabies</title>
-</programme>
-<programme start="20250902201000 +0000" stop="20250902204400 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250902204400 +0000" stop="20250902211300 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250902211300 +0000" stop="20250902213700 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250902213700 +0000" stop="20250902221200 +0000" channel="Moonbug.mncvision">
-    <title>Dance Party</title>
-</programme>
-<programme start="20250902221200 +0000" stop="20250902222800 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods: Short</title>
-</programme>
-<programme start="20250902222800 +0000" stop="20250902224400 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods: Short</title>
-</programme>
-<programme start="20250902224400 +0000" stop="20250902230000 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods: Short</title>
-</programme>
-<programme start="20250902230000 +0000" stop="20250902231600 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250902231600 +0000" stop="20250902235100 +0000" channel="Moonbug.mncvision">
-    <title>Dance Party</title>
-</programme>
-<programme start="20250902235100 +0000" stop="20250903001300 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250903001300 +0000" stop="20250903003400 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250903003400 +0000" stop="20250903010000 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250903010000 +0000" stop="20250903013700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903013700 +0000" stop="20250903020800 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903020800 +0000" stop="20250903023000 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250903023000 +0000" stop="20250903025200 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250903025200 +0000" stop="20250903031200 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250903031200 +0000" stop="20250903033700 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20250903033700 +0000" stop="20250903041100 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250903041100 +0000" stop="20250903043900 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250903043900 +0000" stop="20250903050200 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250903050200 +0000" stop="20250903051800 +0000" channel="Moonbug.mncvision">
-    <title>Cody Time</title>
-</programme>
-<programme start="20250903051800 +0000" stop="20250903054600 +0000" channel="Moonbug.mncvision">
-    <title>JJ&#039;s Animal Time</title>
-</programme>
-<programme start="20250903054600 +0000" stop="20250903060400 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250903060400 +0000" stop="20250903062600 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20250903062600 +0000" stop="20250903065200 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903065200 +0000" stop="20250903072400 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903072400 +0000" stop="20250903075200 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250903075200 +0000" stop="20250903082000 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250903082000 +0000" stop="20250903084200 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20250903084200 +0000" stop="20250903090900 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250903090900 +0000" stop="20250903094700 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250903094700 +0000" stop="20250903101900 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903101900 +0000" stop="20250903105800 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903105800 +0000" stop="20250903111900 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20250903111900 +0000" stop="20250903114200 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20250903114200 +0000" stop="20250903120500 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20250903120500 +0000" stop="20250903122500 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250903122500 +0000" stop="20250903124700 +0000" channel="Moonbug.mncvision">
-    <title>Cody Time</title>
-</programme>
-<programme start="20250903124700 +0000" stop="20250903130300 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20250903130300 +0000" stop="20250903132800 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250903132800 +0000" stop="20250903135300 +0000" channel="Moonbug.mncvision">
-    <title>Morphle</title>
-</programme>
-<programme start="20250903135300 +0000" stop="20250903142300 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250903142300 +0000" stop="20250903144900 +0000" channel="Moonbug.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20250903144900 +0000" stop="20250903151200 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20250903151200 +0000" stop="20250903153500 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20250903153500 +0000" stop="20250903160500 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250902190000 +0000" stop="20250902203000 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
@@ -8269,42 +8000,7 @@
 <programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: PSB Vs RFC</title>
 </programme>
-<programme start="20250902170000 +0000" stop="20250902190000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250902190000 +0000" stop="20250902210000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1: KDR Vs PSB</title>
-</programme>
-<programme start="20250902210000 +0000" stop="20250902230000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>ASEAN MSIG Serenity Cup</title>
-</programme>
-<programme start="20250902230000 +0000" stop="20250903010000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250903010000 +0000" stop="20250903030000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
-</programme>
-<programme start="20250903030000 +0000" stop="20250903050000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1: KDR Vs PSB</title>
-</programme>
-<programme start="20250903050000 +0000" stop="20250903070000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20250903070000 +0000" stop="20250903090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>ASEAN MSIG Serenity Cup</title>
-</programme>
-<programme start="20250903090000 +0000" stop="20250903110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: PSB Vs RFC</title>
-</programme>
-<programme start="20250903110000 +0000" stop="20250903130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1: PSB Vs TGR</title>
-</programme>
-<programme start="20250903130000 +0000" stop="20250903150000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>ASEAN MSIG Serenity Cup</title>
-</programme>
-<programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2: PSB Vs RFC</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250902173000 +0000" stop="20250902200000 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
 </programme>
@@ -8365,39 +8061,7 @@
 <programme start="20250903153000 +0000" stop="20250903160000 +0000" channel="Sportstars HD.mncvision">
     <title>Predator: PBC Indonesia Int&#039;l</title>
 </programme>
-<programme start="20250902203000 +0000" stop="20250902213000 +0000" channel="SPOTV.mncvision">
-    <title>WSL Inside Pro Surfing 2025</title>
-</programme>
-<programme start="20250902213000 +0000" stop="20250902223000 +0000" channel="SPOTV.mncvision">
-    <title>2025 SLS C&#039;ship Tour Cleveland</title>
-</programme>
-<programme start="20250902223000 +0000" stop="20250902230000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250902230000 +0000" stop="20250903040000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship (L)</title>
-</programme>
-<programme start="20250903040000 +0000" stop="20250903080000 +0000" channel="SPOTV.mncvision">
-    <title>2025 Asia Road Racing C&#039;ship</title>
-</programme>
-<programme start="20250903080000 +0000" stop="20250903083000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250903083000 +0000" stop="20250903090000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250903090000 +0000" stop="20250903140000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship</title>
-</programme>
-<programme start="20250903140000 +0000" stop="20250903150000 +0000" channel="SPOTV.mncvision">
-    <title>World Archery Youth C&#039;ships HL</title>
-</programme>
-<programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship HL</title>
-</programme>
-<programme start="20250903153000 +0000" stop="20250903160000 +0000" channel="SPOTV.mncvision">
-    <title>2025 US Open Tennis C&#039;ship (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250902200000 +0000" stop="20250903000000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Tennis C&#039;ships (L)</title>
 </programme>
