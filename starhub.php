@@ -2245,11 +2245,8 @@
     <programme start="20250901133000 +0000" stop="20250901170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Villan</title>
     </programme>
-    <programme start="20250901170000 +0000" stop="20250901183000 +0000" channel="KTV HD.starhub">
+    <programme start="20250901170000 +0000" stop="20250901200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thangam</title>
-    </programme>
-    <programme start="20250901183000 +0000" stop="20250901200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Oru Puthiya Kathai</title>
     </programme>
     <programme start="20250901200000 +0000" stop="20250901223000 +0000" channel="KTV HD.starhub">
         <title>Movie - Oru Puthiya Kathai</title>

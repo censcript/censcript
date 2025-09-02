@@ -8416,8 +8416,14 @@
 <programme start="20250902070000 +0000" stop="20250902093000 +0000" channel="SPOTV.mncvision">
     <title>2025 European Le Mans Series</title>
 </programme>
-<programme start="20250902093000 +0000" stop="20250902143000 +0000" channel="SPOTV.mncvision">
+<programme start="20250902093000 +0000" stop="20250902133000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
+</programme>
+<programme start="20250902133000 +0000" stop="20250902140000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
+</programme>
+<programme start="20250902140000 +0000" stop="20250902143000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
 <programme start="20250902143000 +0000" stop="20250902150000 +0000" channel="SPOTV.mncvision">
     <title>2025 SuperTriE Chicago HL</title>
@@ -8488,8 +8494,14 @@
 <programme start="20250902070000 +0000" stop="20250902093000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 European Le Mans Series</title>
 </programme>
-<programme start="20250902093000 +0000" stop="20250902143000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250902093000 +0000" stop="20250902133000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
+</programme>
+<programme start="20250902133000 +0000" stop="20250902140000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
+</programme>
+<programme start="20250902140000 +0000" stop="20250902143000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
 <programme start="20250902143000 +0000" stop="20250902150000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 SuperTriE Chicago HL</title>
