@@ -20,7 +20,7 @@
 <title>Preman Pensiun X (RCTI)</title>
 </programme>
 <programme start="20250902100000 +0000" stop="20250902111500 +0000" channel="RCTI.vision">
-<title>Benci Jadi Bucin</title>
+<title>Benci Jadi Bucin (RCTI)</title>
 </programme>
 <programme start="20250902111500 +0000" stop="20250902123000 +0000" channel="RCTI.vision">
 <title>Dusta Dibalik Cinta (RCTI)</title>
@@ -69,9 +69,6 @@
 </programme>
 <programme start="20250903090000 +0000" stop="20250903100000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X (RCTI)</title>
-</programme>
-<programme start="20250903100000 +0000" stop="20250903111500 +0000" channel="RCTI.vision">
-<title>Benci Jadi Bucin</title>
 </programme>
 <programme start="20250903111500 +0000" stop="20250903123000 +0000" channel="RCTI.vision">
 <title>Dusta Dibalik Cinta (RCTI)</title>
@@ -559,9 +556,6 @@
 <programme start="20250902050000 +0000" stop="20250902054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250902054500 +0000" stop="20250902063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20250902063000 +0000" stop="20250902071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -670,9 +664,6 @@
 <programme start="20250901233000 +0000" stop="20250902013000 +0000" channel="ANTV.vision">
 <title>Ateng Minta Kawin</title>
 </programme>
-<programme start="20250902013000 +0000" stop="20250902050000 +0000" channel="ANTV.vision">
-<title>Waqt: The Race Against Time</title>
-</programme>
 <programme start="20250902050000 +0000" stop="20250902060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -690,9 +681,6 @@
 </programme>
 <programme start="20250902120000 +0000" stop="20250902140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 2</title>
 </programme>
 <programme start="20250902160000 +0000" stop="20250902180000 +0000" channel="ANTV.vision">
 <title>Longing Mystery Grotto</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250902230000 +0000" stop="20250902230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
+</programme>
+<programme start="20250902230300 +0000" stop="20250903003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20250903003000 +0000" stop="20250903010000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20250903010000 +0000" stop="20250903013000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250903013000 +0000" stop="20250903021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
