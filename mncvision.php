@@ -4223,7 +4223,7 @@
     <title>Ludruk Humor Kirun</title>
 </programme>
 <programme start="20250903160000 +0000" stop="20250903163000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ketoprak Humor S7</title>
+    <title>Wayang Kulit Semalam Suntuk...</title>
 </programme>
 <programme start="20250902173500 +0000" stop="20250902183000 +0000" channel="History.mncvision">
     <title>Holy Marvels S2, Ep 9</title>
@@ -4810,10 +4810,10 @@
 <programme start="20250903063000 +0000" stop="20250903080000 +0000" channel="iNews.mncvision">
     <title>iSeleb (L)</title>
 </programme>
-<programme start="20250903080000 +0000" stop="20250903093000 +0000" channel="iNews.mncvision">
+<programme start="20250903080000 +0000" stop="20250903100000 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20250903093000 +0000" stop="20250903120000 +0000" channel="iNews.mncvision">
+<programme start="20250903100000 +0000" stop="20250903120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20250903120000 +0000" stop="20250903130000 +0000" channel="iNews.mncvision">
@@ -4882,10 +4882,10 @@
 <programme start="20250903063000 +0000" stop="20250903080000 +0000" channel="iNews HD.mncvision">
     <title>iSeleb (L)</title>
 </programme>
-<programme start="20250903080000 +0000" stop="20250903093000 +0000" channel="iNews HD.mncvision">
+<programme start="20250903080000 +0000" stop="20250903100000 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20250903093000 +0000" stop="20250903120000 +0000" channel="iNews HD.mncvision">
+<programme start="20250903100000 +0000" stop="20250903120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20250903120000 +0000" stop="20250903130000 +0000" channel="iNews HD.mncvision">

@@ -521,7 +521,7 @@
         <title>East Asia Tonight</title>
     </programme>
     <programme start="20250902170000 +0000" stop="20250902180000 +0000" channel="CNA.mewatch">
-        <title>One Orphan Every Hour - EP 1</title>
+        <title>One &quot;Orphan&quot; Every Hour - EP 1</title>
     </programme>
     <programme start="20250902180000 +0000" stop="20250902190000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
@@ -557,13 +557,13 @@
         <title>(Live) Headline News</title>
     </programme>
     <programme start="20250903090200 +0000" stop="20250903100000 +0000" channel="CNA.mewatch">
-        <title>One Orphan Every Hour - EP 1</title>
+        <title>One &quot;Orphan&quot; Every Hour - EP 1</title>
     </programme>
     <programme start="20250903100000 +0000" stop="20250903110000 +0000" channel="CNA.mewatch">
         <title>(Live) East Asia Tonight</title>
     </programme>
     <programme start="20250903110000 +0000" stop="20250903120000 +0000" channel="CNA.mewatch">
-        <title>One Orphan Every Hour - EP 2</title>
+        <title>One &quot;Orphan&quot; Every Hour - EP 2</title>
     </programme>
     <programme start="20250903120000 +0000" stop="20250903130000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Tonight</title>
