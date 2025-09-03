@@ -7448,10 +7448,10 @@
     <title>Dead Meat S5, Ep 6</title>
 </programme>
 <programme start="20250902181500 +0000" stop="20250902190000 +0000" channel="RCTI.mncvision">
-    <title>Jobdesk Baru Ojak</title>
+    <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20250902190000 +0000" stop="20250902203000 +0000" channel="RCTI.mncvision">
-    <title>Awas Banyak Copet</title>
+    <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20250902203000 +0000" stop="20250902230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S7</title>
@@ -7499,10 +7499,10 @@
     <title>Amanah Wali S2</title>
 </programme>
 <programme start="20250902181500 +0000" stop="20250902190000 +0000" channel="RCTI HD.mncvision">
-    <title>Jobdesk Baru Ojak</title>
+    <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20250902190000 +0000" stop="20250902203000 +0000" channel="RCTI HD.mncvision">
-    <title>Awas Banyak Copet</title>
+    <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20250902203000 +0000" stop="20250902230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S7</title>

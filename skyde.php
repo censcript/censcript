@@ -1378,10 +1378,10 @@
 <programme start="20250903034000 +0000" stop="20250903040000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250903040000 +0000" stop="20250903040500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903040000 +0000" stop="20250903040400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903040500 +0000" stop="20250903041000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903040400 +0000" stop="20250903041000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250903041000 +0000" stop="20250903041500 +0000" channel="Nick Jr..skyde">
@@ -1432,10 +1432,10 @@
 <programme start="20250903075000 +0000" stop="20250903081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250903081500 +0000" stop="20250903083500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903081500 +0000" stop="20250903083600 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250903083500 +0000" stop="20250903084000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903083600 +0000" stop="20250903084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250903084000 +0000" stop="20250903084500 +0000" channel="Nick Jr..skyde">
@@ -1447,73 +1447,73 @@
 <programme start="20250903085000 +0000" stop="20250903085500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903085500 +0000" stop="20250903090000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903085500 +0000" stop="20250903085900 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903090000 +0000" stop="20250903090500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903085900 +0000" stop="20250903090400 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903090500 +0000" stop="20250903091000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903090400 +0000" stop="20250903091000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250903091000 +0000" stop="20250903091500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903091500 +0000" stop="20250903094000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903091500 +0000" stop="20250903093500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250903094000 +0000" stop="20250903100000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903093500 +0000" stop="20250903100000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250903100000 +0000" stop="20250903102500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903100000 +0000" stop="20250903102000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250903102500 +0000" stop="20250903104500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903102000 +0000" stop="20250903104500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250903104500 +0000" stop="20250903111000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903104500 +0000" stop="20250903110500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250903111000 +0000" stop="20250903113000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903110500 +0000" stop="20250903113000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250903113000 +0000" stop="20250903115500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903113000 +0000" stop="20250903115000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250903115500 +0000" stop="20250903122000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903115000 +0000" stop="20250903121500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250903122000 +0000" stop="20250903124000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903121500 +0000" stop="20250903123500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250903124000 +0000" stop="20250903130000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903123500 +0000" stop="20250903130000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250903130000 +0000" stop="20250903131500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903130000 +0000" stop="20250903131000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250903131500 +0000" stop="20250903132500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903131000 +0000" stop="20250903132000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250903132500 +0000" stop="20250903134500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903132000 +0000" stop="20250903134000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250903134500 +0000" stop="20250903140500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903134000 +0000" stop="20250903140500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250903140500 +0000" stop="20250903143000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903140500 +0000" stop="20250903142500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250903143000 +0000" stop="20250903145000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903142500 +0000" stop="20250903144500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250903145000 +0000" stop="20250903150000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903144500 +0000" stop="20250903150000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250903150000 +0000" stop="20250903152500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903150000 +0000" stop="20250903152000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250903152500 +0000" stop="20250903153500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903152000 +0000" stop="20250903153500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20250903153500 +0000" stop="20250903160000 +0000" channel="Nick Jr..skyde">
@@ -1543,10 +1543,10 @@
 <programme start="20250903181000 +0000" stop="20250903183000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250903183000 +0000" stop="20250903184500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903183000 +0000" stop="20250903184000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250903184500 +0000" stop="20250903190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903184000 +0000" stop="20250903190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250903190500 +0000" stop="20250903193000 +0000" channel="Nick Jr..skyde">
@@ -1561,28 +1561,28 @@
 <programme start="20250903195000 +0000" stop="20250903201500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250903201500 +0000" stop="20250903203500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903201500 +0000" stop="20250903203700 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250903203500 +0000" stop="20250903204000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903203700 +0000" stop="20250903204200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903204000 +0000" stop="20250903204500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903204200 +0000" stop="20250903204700 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903204500 +0000" stop="20250903205000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903204700 +0000" stop="20250903205000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903205000 +0000" stop="20250903205500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903205000 +0000" stop="20250903205700 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903205500 +0000" stop="20250903210000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903205700 +0000" stop="20250903210200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903210000 +0000" stop="20250903210500 +0000" channel="Nick Jr..skyde">
+<programme start="20250903210200 +0000" stop="20250903210700 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20250903210500 +0000" stop="20250903211000 +0000" channel="Nick Jr..skyde">
+<programme start="20250903210700 +0000" stop="20250903211000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20250903211000 +0000" stop="20250903211500 +0000" channel="Nick Jr..skyde">
@@ -2602,10 +2602,7 @@
 <programme start="20250903214000 +0000" stop="20250903221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Wild Heroes: Die Zoo-Helden von Auckland</title>
 </programme>
-<programme start="20250902224500 +0000" stop="20250903010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: A. Sabalenka - M. Vondrousova (CZE), Viertelfinale 2,  Damen</title>
-</programme>
-<programme start="20250903010000 +0000" stop="20250903030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250903000000 +0000" stop="20250903030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
 <programme start="20250903030000 +0000" stop="20250903050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2663,10 +2660,10 @@
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250903153000 +0000" stop="20250903173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Damen</title>
+    <title>Live US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
 <programme start="20250903173000 +0000" stop="20250903193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Herren</title>
+    <title>Live US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
 <programme start="20250903193000 +0000" stop="20250903200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP: This Week</title>
@@ -2678,7 +2675,7 @@
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20250903204500 +0000" stop="20250903224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: VF3, Viertelfinale Damen</title>
+    <title>US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
 <programme start="20250902220000 +0000" stop="20250902223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: FCA - FCB, 2. Spieltag</title>
@@ -3118,10 +3115,7 @@
 <programme start="20250903215000 +0000" stop="20250903220500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Ultimates: Jürgen Klopp picks Liverpool&#039;s best team performance</title>
 </programme>
-<programme start="20250902224500 +0000" stop="20250903010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: A. Sabalenka - M. Vondrousova (CZE), Viertelfinale 2,  Damen</title>
-</programme>
-<programme start="20250903010000 +0000" stop="20250903030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250903000000 +0000" stop="20250903030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
 <programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3158,10 +3152,10 @@
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250903153000 +0000" stop="20250903173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Damen</title>
+    <title>Live US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
 <programme start="20250903173000 +0000" stop="20250903193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Herren</title>
+    <title>Live US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
 <programme start="20250903193000 +0000" stop="20250903200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3173,12 +3167,12 @@
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20250903204500 +0000" stop="20250903224500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: VF3, Viertelfinale Damen</title>
+    <title>US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
-<programme start="20250902224500 +0000" stop="20250903010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: A. Sabalenka - M. Vondrousova (CZE), Viertelfinale 2,  Damen</title>
+<programme start="20250902224500 +0000" stop="20250903000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live US Open: Die Konferenz, 10. Tag</title>
 </programme>
-<programme start="20250903010000 +0000" stop="20250903030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903000000 +0000" stop="20250903030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
 <programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3215,10 +3209,10 @@
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250903153000 +0000" stop="20250903173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Damen</title>
+    <title>Live US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
 <programme start="20250903173000 +0000" stop="20250903193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: VF3, Viertelfinale Herren</title>
+    <title>Live US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
 <programme start="20250903193000 +0000" stop="20250903200000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3499,10 +3493,10 @@
 <programme start="20250903033500 +0000" stop="20250903035500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250903035500 +0000" stop="20250903042000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903035500 +0000" stop="20250903041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250903042000 +0000" stop="20250903045000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903041500 +0000" stop="20250903045000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20250903045000 +0000" stop="20250903051500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3571,10 +3565,10 @@
 <programme start="20250903134500 +0000" stop="20250903141000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250903141000 +0000" stop="20250903143500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903141000 +0000" stop="20250903144000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250903143500 +0000" stop="20250903150000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903144000 +0000" stop="20250903150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20250903150000 +0000" stop="20250903152500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3583,10 +3577,10 @@
 <programme start="20250903152500 +0000" stop="20250903155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250903155000 +0000" stop="20250903161000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903155000 +0000" stop="20250903161500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250903161000 +0000" stop="20250903163500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903161500 +0000" stop="20250903163500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20250903163500 +0000" stop="20250903170000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3628,7 +3622,7 @@
 <programme start="20250903212500 +0000" stop="20250903215000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20250903215000 +0000" stop="20250903221000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250903215000 +0000" stop="20250903221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
 </programme>
 <programme start="20250902220500 +0000" stop="20250903000000 +0000" channel="Warner TV Film.skyde">
@@ -3736,10 +3730,10 @@
 <programme start="20250903031000 +0000" stop="20250903035500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250903035500 +0000" stop="20250903044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250903035500 +0000" stop="20250903044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250903044500 +0000" stop="20250903053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250903044000 +0000" stop="20250903053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250903053500 +0000" stop="20250903062500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3763,10 +3757,10 @@
 <programme start="20250903104000 +0000" stop="20250903113000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250903113000 +0000" stop="20250903122000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250903113000 +0000" stop="20250903122500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250903122000 +0000" stop="20250903133500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250903122500 +0000" stop="20250903133500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250903133500 +0000" stop="20250903142000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3790,10 +3784,10 @@
 <programme start="20250903181500 +0000" stop="20250903190000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20250903190000 +0000" stop="20250903195000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250903190000 +0000" stop="20250903194500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20250903195000 +0000" stop="20250903203500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250903194500 +0000" stop="20250903203500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20250903203500 +0000" stop="20250903212000 +0000" channel="Warner TV Serie HD.skyde">

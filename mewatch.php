@@ -1006,10 +1006,10 @@
     <programme start="20250903160000 +0000" stop="20250904160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 5th September, Friday 8.30pm. ONE Friday Fights 123</title>
     </programme>
-    <programme start="20250902160000 +0000" stop="20250903090000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 3rd September, Wednesday 5pm. AFC U23 Asian Cup™ Saudi Arabia 2026 Qualifiers</title>
+    <programme start="20250902160000 +0000" stop="20250903085000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 3rd September, Wednesday 4.50pm. AFC U23 Asian Cup™ Saudi Arabia 2026 Qualifiers</title>
     </programme>
-    <programme start="20250903090000 +0000" stop="20250903110000 +0000" channel="Live 5.mewatch">
+    <programme start="20250903085000 +0000" stop="20250903110000 +0000" channel="Live 5.mewatch">
         <title>AFC U23 Asian Cup™ Saudi Arabia 2026 Qualifiers: U23 Yemen vs U23 Singapore</title>
     </programme>
     <programme start="20250903110000 +0000" stop="20250903160000 +0000" channel="Live 5.mewatch">
