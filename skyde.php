@@ -2605,8 +2605,14 @@
 <programme start="20250903000000 +0000" stop="20250903040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
-<programme start="20250903040000 +0000" stop="20250903060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250903040000 +0000" stop="20250903050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - FC Blau-Weiß Linz, 5. Runde</title>
+</programme>
+<programme start="20250903050000 +0000" stop="20250903053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Austria Salzburg</title>
+</programme>
+<programme start="20250903053000 +0000" stop="20250903060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
 <programme start="20250903060000 +0000" stop="20250903062500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 1-4)</title>
