@@ -5206,11 +5206,17 @@
     <programme start="20250903083000 +0000" stop="20250903090000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>
     </programme>
-    <programme start="20250903090000 +0000" stop="20250903140000 +0000" channel="SPOTV.starhub">
+    <programme start="20250903090000 +0000" stop="20250903123500 +0000" channel="SPOTV.starhub">
         <title>Day Session - W &amp; M Singles Quarterfinals</title>
     </programme>
+    <programme start="20250903123500 +0000" stop="20250903133100 +0000" channel="SPOTV.starhub">
+        <title>Formula E Driver</title>
+    </programme>
+    <programme start="20250903133100 +0000" stop="20250903140000 +0000" channel="SPOTV.starhub">
+        <title>Daily Highlights</title>
+    </programme>
     <programme start="20250903140000 +0000" stop="20250903150000 +0000" channel="SPOTV.starhub">
-        <title>Highlights 1</title>
+        <title>Formula E Season 11 Review Show</title>
     </programme>
     <programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>

@@ -3115,16 +3115,16 @@
 <programme start="20250903215000 +0000" stop="20250903220500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Ultimates: Jürgen Klopp picks Liverpool&#039;s best team performance</title>
 </programme>
-<programme start="20250903000000 +0000" stop="20250903030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250903000000 +0000" stop="20250903040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
-<programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250903040000 +0000" stop="20250903043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250903033000 +0000" stop="20250903053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250903043000 +0000" stop="20250903063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Pegula (USA) - B. Krejcikova (CZE), Viertelfinale 1, Damen</title>
 </programme>
-<programme start="20250903053000 +0000" stop="20250903073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250903063000 +0000" stop="20250903073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. Sabalenka - M. Vondrousova (CZE), Viertelfinale 2,  Damen</title>
 </programme>
 <programme start="20250903073000 +0000" stop="20250903080000 +0000" channel="Sky Sport Tennis HD.skyde">
