@@ -2519,7 +2519,7 @@
         <title>Season 5, Episode 4 - Daredevils</title>
     </programme>
     <programme start="20250903110000 +0000" stop="20250903130000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Shanghai/Keqiao</title>
+        <title>Microsoft Teams</title>
     </programme>
     <programme start="20250903130000 +0000" stop="20250903133000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>WRT &amp; Le Mans 24 Hours</title>
@@ -6443,7 +6443,7 @@
         <title>Season 5, Episode 4 - Daredevils</title>
     </programme>
     <programme start="20250903110000 +0000" stop="20250903130000 +0000" channel="TestChannel 995.starhub">
-        <title>Shanghai/Keqiao</title>
+        <title>Microsoft Teams</title>
     </programme>
     <programme start="20250903130000 +0000" stop="20250903133000 +0000" channel="TestChannel 995.starhub">
         <title>WRT &amp; Le Mans 24 Hours</title>
