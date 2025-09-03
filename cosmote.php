@@ -50,10 +50,6 @@
     <title>Football: FC Kairat Almaty - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904020000 +0700" stop="20250904023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250904023000 +0700" stop="20250904043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +170,6 @@
     <title>Football: Rangers FC - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904001000 +0700" stop="20250904021500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Peristeri - Murcia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250904021500 +0700" stop="20250904042000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Unicaja</title>
     <desc>Live: Tidak</desc>
@@ -230,8 +222,8 @@
     <title>Basketball: Baskonia - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904004500 +0700" stop="20250904021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250905034500 +0700" stop="20250905055000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904021500 +0700" stop="20250904031000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,9 +322,9 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904010000 +0700" stop="20250904024500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: SC Magdeburg - ThSV Eisenach (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250905035000 +0700" stop="20250905044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904024500 +0700" stop="20250904031000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: Worldies E14</title>
