@@ -6760,11 +6760,8 @@
     <programme start="20250903133000 +0000" stop="20250903143000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>1st Round H/Ls Show</title>
     </programme>
-    <programme start="20250903143000 +0000" stop="20250903144500 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 124</title>
-    </programme>
-    <programme start="20250903144500 +0000" stop="20250903150000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 125</title>
+    <programme start="20250903143000 +0000" stop="20250903150000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Spartan Ultra World C&#039;ship</title>
     </programme>
     <programme start="20250903150000 +0000" stop="20250903160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Pro Series - Arctic Race of Norway H/Ls</title>
