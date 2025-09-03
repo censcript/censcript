@@ -174,10 +174,6 @@
     <title>Football: Leicester City FC - Birmingham City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903221500 +0700" stop="20250904001000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: KK FMP - Peristeri</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250904001000 +0700" stop="20250904021500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Peristeri - Murcia</title>
     <desc>Live: Tidak</desc>
@@ -230,8 +226,8 @@
     <title>Basketball: Bonn - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903234500 +0700" stop="20250904004500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250905015000 +0700" stop="20250905034500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Baskonia - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904004500 +0700" stop="20250904021500 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,8 +322,8 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903233500 +0700" stop="20250904010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250905011500 +0700" stop="20250905025500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904010000 +0700" stop="20250904024500 +0700" channel="COSMOTE Sport 6 HD">
