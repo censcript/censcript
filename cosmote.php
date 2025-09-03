@@ -110,6 +110,10 @@
     <title>Football: Cremonese - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250904171000 +0700" stop="20250904192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250903160000 +0700" stop="20250903180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Gil Vicente - Moreirense</title>
     <desc>Live: Tidak</desc>
@@ -166,10 +170,6 @@
     <title>Football: Rio Ave - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903143500 +0700" stop="20250903163000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bursaspor - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903163000 +0700" stop="20250903183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trieste - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -222,8 +222,8 @@
     <title>Basketball: Aquila Basket Trento - Reyer Venezia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903153000 +0700" stop="20250903162500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250904175500 +0700" stop="20250904200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903162500 +0700" stop="20250903172500 +0700" channel="COSMOTE Sport 5 HD">
@@ -316,6 +316,10 @@
 </programme>
 <programme start="20250904164000 +0700" stop="20250904174000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250904174000 +0700" stop="20250904183500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903150000 +0700" stop="20250903171500 +0700" channel="COSMOTE Sport 6 HD">

@@ -8215,7 +8215,7 @@
     <programme start="20250903060000 +0000" stop="20250903150000 +0000" channel="SPOTV2.starhub">
         <title>Day 10 - Day Session Doubles Quarterfinals (Louis Armstrong)</title>
     </programme>
-    <programme start="20250903150000 +0000" stop="20250903200000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250903150000 +0000" stop="20250904001000 +0000" channel="SPOTV2.starhub">
         <title>Day 11 - Day Session Doubles (Louis Armstrong)</title>
     </programme>
     <programme start="20250902150000 +0000" stop="20250902170000 +0000" channel="Dragon TV.starhub">
