@@ -3215,10 +3215,10 @@
     <title>Live US Open: US Open Daily</title>
 </programme>
 <programme start="20250903153000 +0000" stop="20250903173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
+    <title>Live US Open: VF3, Viertelfinale Damen</title>
 </programme>
 <programme start="20250903173000 +0000" stop="20250903193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
+    <title>Live US Open: VF3, Viertelfinale Herren</title>
 </programme>
 <programme start="20250903193000 +0000" stop="20250903200000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>

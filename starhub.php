@@ -955,11 +955,14 @@
     <programme start="20250902223000 +0000" stop="20250902230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Chief Editor&#039;S Time (2/9/25)</title>
     </programme>
-    <programme start="20250902230000 +0000" stop="20250903000000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Morning Express (3/9/25 Pt1)</title>
-    </programme>
-    <programme start="20250903000000 +0000" stop="20250903040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+    <programme start="20250902233000 +0000" stop="20250903030000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>The 80th Anniversary of China Victory Day Military Parade 2025</title>
+    </programme>
+    <programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Zoom In</title>
+    </programme>
+    <programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Summary Of Press (3/9/25)</title>
     </programme>
     <programme start="20250903040000 +0000" stop="20250903050000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Midday Express (3/9/25)</title>
@@ -2890,9 +2893,6 @@
     <programme start="20250902210000 +0000" stop="20250902213000 +0000" channel="Zee Tamil.starhub">
         <title>Ninaithale Inikkum</title>
     </programme>
-    <programme start="20250902213000 +0000" stop="20250902220000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
-    </programme>
     <programme start="20250902220000 +0000" stop="20250902223000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
@@ -3496,11 +3496,14 @@
     <programme start="20250902220000 +0000" stop="20250902230000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>China Victory Day Military Parade 2025 Update (2/9/25 2000)</title>
     </programme>
-    <programme start="20250902230000 +0000" stop="20250903000000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Morning Express (3/9/25 Pt1)</title>
-    </programme>
-    <programme start="20250903000000 +0000" stop="20250903040000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20250902233000 +0000" stop="20250903030000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>The 80th Anniversary of China Victory Day Military Parade 2025</title>
+    </programme>
+    <programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>News On The Hour (3/9/25)</title>
+    </programme>
+    <programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Chief Editor&#039;s Time (2/9/25)(RP)</title>
     </programme>
     <programme start="20250903040000 +0000" stop="20250903050000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Midday Express (3/9/25)</title>
@@ -3532,10 +3535,10 @@
     <programme start="20250903103000 +0000" stop="20250903110000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>News Talk (3/9/25)</title>
     </programme>
-    <programme start="20250903110000 +0000" stop="20250903120000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20250903110000 +0000" stop="20250903115500 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>China News Live (3/9/25)</title>
     </programme>
-    <programme start="20250903120000 +0000" stop="20250903130000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20250903115500 +0000" stop="20250903130000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Focus 2000 (3/9/25)</title>
     </programme>
     <programme start="20250903130000 +0000" stop="20250903140000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
@@ -7384,8 +7387,11 @@
     <programme start="20250903013000 +0000" stop="20250903020000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
-    <programme start="20250903020000 +0000" stop="20250903040000 +0000" channel="COLORS.starhub">
+    <programme start="20250903020000 +0000" stop="20250903033000 +0000" channel="COLORS.starhub">
         <title>Bigg Boss</title>
+    </programme>
+    <programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="COLORS.starhub">
+        <title>Manpasand Ki Shaadi</title>
     </programme>
     <programme start="20250903040000 +0000" stop="20250903043000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -7435,13 +7441,16 @@
     <programme start="20250903123000 +0000" stop="20250903130000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
-    <programme start="20250903130000 +0000" stop="20250903150000 +0000" channel="COLORS.starhub">
+    <programme start="20250903130000 +0000" stop="20250903143000 +0000" channel="COLORS.starhub">
         <title>Bigg Boss</title>
+    </programme>
+    <programme start="20250903143000 +0000" stop="20250903150000 +0000" channel="COLORS.starhub">
+        <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="COLORS.starhub">
         <title>Manpasand Ki Shaadi</title>
     </programme>
-    <programme start="20250903153000 +0000" stop="20250903160000 +0000" channel="COLORS.starhub">
+    <programme start="20250903153000 +0000" stop="20250903163000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20250902160000 +0000" stop="20250902163000 +0000" channel="BBC World News HD.starhub">
@@ -8053,16 +8062,16 @@
     <programme start="20250902193000 +0000" stop="20250902220000 +0000" channel="Asianet Movies.starhub">
         <title>Ambili</title>
     </programme>
-    <programme start="20250902220000 +0000" stop="20250903013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250902225500 +0000" stop="20250903013000 +0000" channel="Asianet Movies.starhub">
         <title>Bhramaram</title>
     </programme>
-    <programme start="20250903013000 +0000" stop="20250903043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250903013000 +0000" stop="20250903042000 +0000" channel="Asianet Movies.starhub">
         <title>Best Actor</title>
     </programme>
-    <programme start="20250903043000 +0000" stop="20250903073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250903042000 +0000" stop="20250903072500 +0000" channel="Asianet Movies.starhub">
         <title>Srungaravelan</title>
     </programme>
-    <programme start="20250903073000 +0000" stop="20250903103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250903072500 +0000" stop="20250903103000 +0000" channel="Asianet Movies.starhub">
         <title>Bangalore Days</title>
     </programme>
     <programme start="20250903103000 +0000" stop="20250903130000 +0000" channel="Asianet Movies.starhub">
