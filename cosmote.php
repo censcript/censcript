@@ -110,6 +110,10 @@
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250904131000 +0700" stop="20250904151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250903120000 +0700" stop="20250903140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -166,10 +170,6 @@
     <title>Football: APOEL - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903102000 +0700" stop="20250903122500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Promitheas - Nymburk</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903122500 +0700" stop="20250903143500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -220,10 +220,6 @@
 </programme>
 <programme start="20250904120500 +0700" stop="20250904141000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250903115500 +0700" stop="20250903130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903130000 +0700" stop="20250903133000 +0700" channel="COSMOTE Sport 5 HD">
@@ -316,6 +312,10 @@
 </programme>
 <programme start="20250904114000 +0700" stop="20250904131000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250904131000 +0700" stop="20250904141000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903113000 +0700" stop="20250903150000 +0700" channel="COSMOTE Sport 6 HD">

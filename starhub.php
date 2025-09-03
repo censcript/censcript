@@ -955,6 +955,9 @@
     <programme start="20250902223000 +0000" stop="20250902230000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Chief Editor&#039;S Time (2/9/25)</title>
     </programme>
+    <programme start="20250902230000 +0000" stop="20250902233000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>Phoenix Morning Express (3/9/25 Pt1)</title>
+    </programme>
     <programme start="20250902233000 +0000" stop="20250903030000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>The 80th Anniversary of China Victory Day Military Parade 2025</title>
     </programme>
@@ -2869,10 +2872,7 @@
     <programme start="20250902170000 +0000" stop="20250902173000 +0000" channel="Zee Tamil.starhub">
         <title>Ayali</title>
     </programme>
-    <programme start="20250902173000 +0000" stop="20250902180000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
-    </programme>
-    <programme start="20250902180000 +0000" stop="20250902183000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250902173000 +0000" stop="20250902183000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
     </programme>
     <programme start="20250902183000 +0000" stop="20250902190000 +0000" channel="Zee Tamil.starhub">
@@ -2892,6 +2892,9 @@
     </programme>
     <programme start="20250902210000 +0000" stop="20250902213000 +0000" channel="Zee Tamil.starhub">
         <title>Ninaithale Inikkum</title>
+    </programme>
+    <programme start="20250902213000 +0000" stop="20250902220000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
     </programme>
     <programme start="20250902220000 +0000" stop="20250902223000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
@@ -3495,6 +3498,9 @@
     </programme>
     <programme start="20250902220000 +0000" stop="20250902230000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>China Victory Day Military Parade 2025 Update (2/9/25 2000)</title>
+    </programme>
+    <programme start="20250902230000 +0000" stop="20250902233000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Phoenix Morning Express (3/9/25 Pt1)</title>
     </programme>
     <programme start="20250902233000 +0000" stop="20250903030000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>The 80th Anniversary of China Victory Day Military Parade 2025</title>
@@ -8059,11 +8065,17 @@
     <programme start="20250902133000 +0000" stop="20250902163000 +0000" channel="Asianet Movies.starhub">
         <title>Rdx</title>
     </programme>
-    <programme start="20250902163000 +0000" stop="20250902193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250902163500 +0000" stop="20250902192000 +0000" channel="Asianet Movies.starhub">
         <title>Kalippattam</title>
     </programme>
-    <programme start="20250902193000 +0000" stop="20250902220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250902192000 +0000" stop="20250902215000 +0000" channel="Asianet Movies.starhub">
         <title>Ambili</title>
+    </programme>
+    <programme start="20250902215000 +0000" stop="20250902222000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika Ii : No Season</title>
+    </programme>
+    <programme start="20250902222000 +0000" stop="20250902225500 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika Ii : No Season</title>
     </programme>
     <programme start="20250902225500 +0000" stop="20250903013000 +0000" channel="Asianet Movies.starhub">
         <title>Bhramaram</title>
