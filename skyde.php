@@ -2602,17 +2602,11 @@
 <programme start="20250903214000 +0000" stop="20250903221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Wild Heroes: Die Zoo-Helden von Auckland</title>
 </programme>
-<programme start="20250903000000 +0000" stop="20250903030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250903000000 +0000" stop="20250903040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
-<programme start="20250903030000 +0000" stop="20250903050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250903040000 +0000" stop="20250903060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - FC Blau-Weiß Linz, 5. Runde</title>
-</programme>
-<programme start="20250903050000 +0000" stop="20250903053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20250903053000 +0000" stop="20250903060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
 <programme start="20250903060000 +0000" stop="20250903062500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 1-4)</title>
@@ -3172,26 +3166,23 @@
 <programme start="20250902224500 +0000" stop="20250903000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: Die Konferenz, 10. Tag</title>
 </programme>
-<programme start="20250903000000 +0000" stop="20250903030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903000000 +0000" stop="20250903040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
 </programme>
-<programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903040000 +0000" stop="20250903043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903043000 +0000" stop="20250903050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Niederlande</title>
 </programme>
-<programme start="20250903040000 +0000" stop="20250903054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903050000 +0000" stop="20250903064500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>GTWC: Highlights: Nürburgring (Endurance Cup)</title>
 </programme>
-<programme start="20250903054500 +0000" stop="20250903061500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903064500 +0000" stop="20250903071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20250903061500 +0000" stop="20250903081500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903071500 +0000" stop="20250903101500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: N. Djokovic (SRB) - T. Fritz (USA), Viertelfinale 2, Herren</title>
-</programme>
-<programme start="20250903081500 +0000" stop="20250903101500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>US Open: A. Sabalenka - M. Vondrousova (CZE), Viertelfinale 2,  Damen</title>
 </programme>
 <programme start="20250903101500 +0000" stop="20250903121500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dynamo Dresden - FC Schalke 04, 4. Spieltag</title>

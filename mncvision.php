@@ -8386,11 +8386,17 @@
 <programme start="20250903083000 +0000" stop="20250903090000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
-<programme start="20250903090000 +0000" stop="20250903140000 +0000" channel="SPOTV.mncvision">
+<programme start="20250903090000 +0000" stop="20250903123500 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
+<programme start="20250903123500 +0000" stop="20250903133100 +0000" channel="SPOTV.mncvision">
+    <title>Formula E Driver: Episode 04</title>
+</programme>
+<programme start="20250903133100 +0000" stop="20250903140000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
+</programme>
 <programme start="20250903140000 +0000" stop="20250903150000 +0000" channel="SPOTV.mncvision">
-    <title>World Archery Youth C&#039;ships HL</title>
+    <title>Formula E S11 Review Show</title>
 </programme>
 <programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
@@ -8467,11 +8473,17 @@
 <programme start="20250903083000 +0000" stop="20250903090000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
-<programme start="20250903090000 +0000" stop="20250903140000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250903090000 +0000" stop="20250903123500 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
+<programme start="20250903123500 +0000" stop="20250903133100 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E Driver: Episode 04</title>
+</programme>
+<programme start="20250903133100 +0000" stop="20250903140000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
+</programme>
 <programme start="20250903140000 +0000" stop="20250903150000 +0000" channel="SPOTV HD.mncvision">
-    <title>World Archery Youth C&#039;ships HL</title>
+    <title>Formula E S11 Review Show</title>
 </programme>
 <programme start="20250903150000 +0000" stop="20250903153000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
