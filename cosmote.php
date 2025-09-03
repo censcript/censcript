@@ -110,6 +110,10 @@
     <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250904192000 +0700" stop="20250904212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250903180000 +0700" stop="20250903200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee - Dundee United</title>
     <desc>Live: Tidak</desc>
@@ -166,10 +170,6 @@
     <title>Football: Al-Okhdood Club - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903163000 +0700" stop="20250903183000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Trieste - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250903183000 +0700" stop="20250903201500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Darussafaka - Fenerbahce</title>
     <desc>Live: Tidak</desc>
@@ -220,10 +220,6 @@
 </programme>
 <programme start="20250904175500 +0700" stop="20250904200000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250903172500 +0700" stop="20250903183000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903183000 +0700" stop="20250903193000 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,12 +314,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250903171500 +0700" stop="20250903181500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250903181500 +0700" stop="20250903184500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250904193000 +0700" stop="20250904203500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903184500 +0700" stop="20250903201500 +0700" channel="COSMOTE Sport 6 HD">
@@ -388,6 +380,10 @@
 </programme>
 <programme start="20250904180000 +0700" stop="20250904193500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: SC Magdeburg - ThSV Eisenach</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250904193500 +0700" stop="20250904205000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250903180000 +0700" stop="20250903200000 +0700" channel="COSMOTE Sport 7 HD">
