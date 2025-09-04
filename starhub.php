@@ -2074,19 +2074,22 @@
     <programme start="20250904100000 +0000" stop="20250904113000 +0000" channel="beIN Sports 3.starhub">
         <title>Madrid P1 Day 3 Match 3</title>
     </programme>
-    <programme start="20250904113000 +0000" stop="20250904120000 +0000" channel="beIN Sports 3.starhub">
-        <title>Miami P1</title>
-    </programme>
-    <programme start="20250904120000 +0000" stop="20250904123000 +0000" channel="beIN Sports 3.starhub">
-        <title>Santiago P1</title>
-    </programme>
-    <programme start="20250904123000 +0000" stop="20250904130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Qatar Major</title>
-    </programme>
-    <programme start="20250904130000 +0000" stop="20250904143000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250904113000 +0000" stop="20250904130000 +0000" channel="beIN Sports 3.starhub">
         <title>Madrid P1 Day 3 Match 4</title>
     </programme>
-    <programme start="20250904143000 +0000" stop="20250904160000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250904130000 +0000" stop="20250904133000 +0000" channel="beIN Sports 3.starhub">
+        <title>Miami P1</title>
+    </programme>
+    <programme start="20250904133000 +0000" stop="20250904140000 +0000" channel="beIN Sports 3.starhub">
+        <title>Santiago P1</title>
+    </programme>
+    <programme start="20250904140000 +0000" stop="20250904143000 +0000" channel="beIN Sports 3.starhub">
+        <title>Qatar Major</title>
+    </programme>
+    <programme start="20250904143000 +0000" stop="20250904150000 +0000" channel="beIN Sports 3.starhub">
+        <title>Rolex Fastnet Race</title>
+    </programme>
+    <programme start="20250904150000 +0000" stop="20250904163000 +0000" channel="beIN Sports 3.starhub">
         <title>Madrid P1 Day 3 Match 5</title>
     </programme>
     <programme start="20250903153000 +0000" stop="20250903163000 +0000" channel="Sun Music.starhub">

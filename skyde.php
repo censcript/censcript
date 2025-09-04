@@ -3236,10 +3236,10 @@
     <title>PL: FC Liverpool - FC Arsenal, Match of the Week, 3. Spieltag</title>
 </programme>
 <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Match of the Week: Die Analyse, LIV - ARS, 3. Spieltag</title>
+    <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
+    <title>PL: Match of the Week: Die Analyse, LIV - ARS, 3. Spieltag</title>
 </programme>
 <programme start="20250904193000 +0000" stop="20250904213000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Niederlande</title>
