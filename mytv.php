@@ -26,7 +26,7 @@
         <title> Phim truyện : Mưa bóng mây - Tập 17 </title>
     </programme>
     <programme start="20250904041500 +0000" stop="20250904050500 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam : Chuyện ít biết về làng Phú Gia </title>
+        <title> S - Việt Nam : Tổ quốc trong sắc cờ </title>
     </programme>
     <programme start="20250904050500 +0000" stop="20250904051000 +0000" channel="VTV1 HD.mytv">
         <title> Phụ nữ và cuộc sống : Nhân lên những mái ấm nghĩa tình </title>
@@ -41,19 +41,19 @@
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20250904070000 +0000" stop="20250904072500 +0000" channel="VTV1 HD.mytv">
-        <title> Vì một tương lai xanh </title>
+        <title> Vì một tương lai xanh : Hồi sinh những chai nhựa </title>
     </programme>
     <programme start="20250904072500 +0000" stop="20250904073000 +0000" channel="VTV1 HD.mytv">
-        <title> Nẻo về nguồn cội </title>
+        <title> Nẻo về nguồn cội : Đền Phú Đa - Nghệ thuật tạo hình trên đá </title>
     </programme>
     <programme start="20250904073000 +0000" stop="20250904074500 +0000" channel="VTV1 HD.mytv">
-        <title> Ký sự </title>
+        <title> Ký sự : Mặn mòi ơ kho quẹt </title>
     </programme>
     <programme start="20250904074500 +0000" stop="20250904080000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Trói buộc yêu thương - Tập 2 </title>
     </programme>
     <programme start="20250904080000 +0000" stop="20250904085000 +0000" channel="VTV1 HD.mytv">
-        <title> Khát vọng sống </title>
+        <title> Từ những miền quê : Nghề làm bánh xíu páo </title>
     </programme>
     <programme start="20250904085000 +0000" stop="20250904090000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
@@ -100,17 +100,14 @@
     <programme start="20250904141500 +0000" stop="20250904151500 +0000" channel="VTV1 HD.mytv">
         <title> Tổ quốc trong tim </title>
     </programme>
-    <programme start="20250904151500 +0000" stop="20250904154000 +0000" channel="VTV1 HD.mytv">
-        <title> VTV kết nối </title>
-    </programme>
-    <programme start="20250904154000 +0000" stop="20250904154500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20250904151500 +0000" stop="20250904154500 +0000" channel="VTV1 HD.mytv">
         <title> Học và làm theo Bác : Nữ công an gieo mầm yêu thương </title>
     </programme>
     <programme start="20250904154500 +0000" stop="20250904160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20250904160000 +0000" stop="20250904161500 +0000" channel="VTV1 HD.mytv">
-        <title> Vì trẻ em </title>
+        <title> Vì trẻ em : Năm học mới của trẻ em vùng lũ </title>
     </programme>
     <programme start="20250904161500 +0000" stop="20250904163000 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống : Bước qua bóng tối </title>
@@ -122,7 +119,7 @@
         <title> Thông điệp từ bác sĩ </title>
     </programme>
     <programme start="20250904170000 +0000" stop="20250904171000 +0000" channel="VTV1 HD.mytv">
-        <title> Phát huy vai trò của mặt trận </title>
+        <title> Phát huy vai trò của mặt trận : Chuyển đổi số trong công tác Mặt trận </title>
     </programme>
     <programme start="20250904171000 +0000" stop="20250904172000 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình vẻ đẹp : Hương vị quê nhà - Bánh tráng Túy Loan </title>
@@ -143,7 +140,7 @@
         <title> Điểm tin </title>
     </programme>
     <programme start="20250904195500 +0000" stop="20250904200000 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam : Vĩnh Sơn khi thiên nhiên kể chuyện </title>
+        <title> S - Việt Nam : Hạ Long - Hành trình đêm rực rỡ </title>
     </programme>
     <programme start="20250904200000 +0000" stop="20250904200500 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
@@ -182,9 +179,9 @@
         <title> Học và làm theo Bác : Nữ công an gieo mầm yêu thương </title>
     </programme>
     <programme start="20250904231500 +0000" stop="20250904233000 +0000" channel="VTV1 HD.mytv">
-        <title> Nẻo về nguồn cội </title>
+        <title> Nẻo về nguồn cội : Đền Phú Đa - Nghệ thuật tạo hình trên đá </title>
     </programme>
     <programme start="20250904233000 +0000" stop="20250904234500 +0000" channel="VTV1 HD.mytv">
-        <title> Ký sự</title>
+        <title> Ký sự : Mặn mòi ơ kho quẹt</title>
     </programme>
     <channel>VTV1 HD</channel>
