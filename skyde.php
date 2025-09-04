@@ -3202,13 +3202,13 @@
 <programme start="20250904160000 +0000" stop="20250904223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: Juniors/Wheelchair</title>
 </programme>
-<programme start="20250903224500 +0000" stop="20250904010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250903224500 +0000" stop="20250904013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: K. Muchova (CZE) - N. Osaka (JAP), Viertelfinale 4, Damen</title>
 </programme>
-<programme start="20250904010000 +0000" stop="20250904030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904030000 +0000" stop="20250904050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
 <programme start="20250904050000 +0000" stop="20250904070000 +0000" channel="Sky Sport Top Event HD.skyde">

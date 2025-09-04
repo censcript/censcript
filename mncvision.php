@@ -1292,7 +1292,7 @@
     <title>Women&#039;s Rugby: FRA Vs BRA</title>
 </programme>
 <programme start="20250904033000 +0000" stop="20250904040000 +0000" channel="beIN Sports 3.mncvision">
-    <title>RIDE FEI Originals 2025, Ep 5</title>
+    <title>RIDE FEI Originals 2025</title>
 </programme>
 <programme start="20250904040000 +0000" stop="20250904060000 +0000" channel="beIN Sports 3.mncvision">
     <title>TGL: New York Vs Boston</title>
@@ -1312,22 +1312,25 @@
 <programme start="20250904100000 +0000" stop="20250904113000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-<programme start="20250904113000 +0000" stop="20250904120000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250904120000 +0000" stop="20250904123000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250904123000 +0000" stop="20250904130000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250904130000 +0000" stop="20250904143000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250904113000 +0000" stop="20250904130000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-<programme start="20250904143000 +0000" stop="20250904160000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250904130000 +0000" stop="20250904133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250904133000 +0000" stop="20250904140000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250904140000 +0000" stop="20250904143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250904143000 +0000" stop="20250904150000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Spirit Of Yachting 2025</title>
+</programme>
+<programme start="20250904150000 +0000" stop="20250904163000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-<programme start="20250904160000 +0000" stop="20250904163000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250904163000 +0000" stop="20250903170000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
 <programme start="20250903180000 +0000" stop="20250903193000 +0000" channel="beIN Sports 3 HD.mncvision">
@@ -1358,7 +1361,7 @@
     <title>Women&#039;s Rugby: FRA Vs BRA</title>
 </programme>
 <programme start="20250904033000 +0000" stop="20250904040000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>RIDE FEI Originals 2025, Ep 5</title>
+    <title>RIDE FEI Originals 2025</title>
 </programme>
 <programme start="20250904040000 +0000" stop="20250904060000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>TGL: New York Vs Boston</title>
@@ -1378,22 +1381,25 @@
 <programme start="20250904100000 +0000" stop="20250904113000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-<programme start="20250904113000 +0000" stop="20250904120000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250904120000 +0000" stop="20250904123000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250904123000 +0000" stop="20250904130000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250904130000 +0000" stop="20250904143000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250904113000 +0000" stop="20250904130000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-<programme start="20250904143000 +0000" stop="20250904160000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250904130000 +0000" stop="20250904133000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250904133000 +0000" stop="20250904140000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250904140000 +0000" stop="20250904143000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250904143000 +0000" stop="20250904150000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Spirit Of Yachting 2025</title>
+</programme>
+<programme start="20250904150000 +0000" stop="20250904163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-<programme start="20250904160000 +0000" stop="20250904163000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250904163000 +0000" stop="20250903170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
 <programme start="20250903170000 +0000" stop="20250903190000 +0000" channel="beIN SPORTS 4.mncvision">
