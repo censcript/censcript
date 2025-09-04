@@ -16,16 +16,16 @@
 <programme start="20250904080000 +0000" stop="20250904090000 +0000" channel="RCTI.vision">
 <title>Dunia Maya</title>
 </programme>
-<programme start="20250904090000 +0000" stop="20250904100000 +0000" channel="RCTI.vision">
+<programme start="20250904090000 +0000" stop="20250904094500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X (RCTI)</title>
 </programme>
-<programme start="20250904100000 +0000" stop="20250904111500 +0000" channel="RCTI.vision">
+<programme start="20250904094500 +0000" stop="20250904110000 +0000" channel="RCTI.vision">
 <title>Benci Jadi Bucin (RCTI)</title>
 </programme>
-<programme start="20250904111500 +0000" stop="20250904123000 +0000" channel="RCTI.vision">
+<programme start="20250904110000 +0000" stop="20250904121500 +0000" channel="RCTI.vision">
 <title>Dusta Dibalik Cinta (RCTI)</title>
 </programme>
-<programme start="20250904123000 +0000" stop="20250904134500 +0000" channel="RCTI.vision">
+<programme start="20250904121500 +0000" stop="20250904134500 +0000" channel="RCTI.vision">
 <title>Terbelenggu Rindu (RCTI)</title>
 </programme>
 <programme start="20250904134500 +0000" stop="20250904150000 +0000" channel="RCTI.vision">
@@ -67,7 +67,7 @@
 <programme start="20250905094500 +0000" stop="20250905110000 +0000" channel="RCTI.vision">
 <title>Benci Jadi Bucin (RCTI)</title>
 </programme>
-<programme start="20250905111500 +0000" stop="20250905123000 +0000" channel="RCTI.vision">
+<programme start="20250905110000 +0000" stop="20250905121500 +0000" channel="RCTI.vision">
 <title>Dusta Dibalik Cinta (RCTI)</title>
 </programme>
 <programme start="20250903231500 +0000" stop="20250904001500 +0000" channel="MNCTV.vision">
@@ -169,7 +169,7 @@
 <programme start="20250904093000 +0000" stop="20250904110000 +0000" channel="GTV.vision">
 <title>7 Manusia Harimau</title>
 </programme>
-<programme start="20250903110000 +0000" stop="20250903113000 +0000" channel="GTV.vision">
+<programme start="20250904110000 +0000" stop="20250904113000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20250904113000 +0000" stop="20250904123000 +0000" channel="GTV.vision">
@@ -196,16 +196,16 @@
 <programme start="20250904223000 +0000" stop="20250904233000 +0000" channel="GTV.vision">
 <title>Warbiasak</title>
 </programme>
-<programme start="20250903233000 +0000" stop="20250904003000 +0000" channel="GTV.vision">
+<programme start="20250904233000 +0000" stop="20250905003000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20250904003000 +0000" stop="20250904013000 +0000" channel="GTV.vision">
+<programme start="20250905003000 +0000" stop="20250905013000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebritis</title>
 </programme>
 <programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="GTV.vision">
 <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250904030000 +0000" stop="20250904070000 +0000" channel="GTV.vision">
+<programme start="20250905030000 +0000" stop="20250905070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20250905070000 +0000" stop="20250905093000 +0000" channel="GTV.vision">
