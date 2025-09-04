@@ -103,6 +103,48 @@
     <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20250904000000 +0000" stop="20250904040000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250904040000 +0000" stop="20250904080000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250904080000 +0000" stop="20250904120000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250904120000 +0000" stop="20250904160000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250904160000 +0000" stop="20250904183000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250904183000 +0000" stop="20250904200000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250904200000 +0000" stop="20250905000000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905000000 +0000" stop="20250905040000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905040000 +0000" stop="20250905080000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905080000 +0000" stop="20250905120000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905120000 +0000" stop="20250905160000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905160000 +0000" stop="20250905183000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905183000 +0000" stop="20250905200000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
+    <programme start="20250905200000 +0000" stop="20250906000000 +0000" channel="946942.shahid">
+        <title>Al Hadith Al Nabawi</title>
+    </programme>
     <programme start="20250904000000 +0000" stop="20250904010638 +0000" channel="989622.shahid">
         <title>Alashan Rabbena Yehebbak</title>
     </programme>
@@ -192,48 +234,6 @@
     </programme>
     <programme start="20250905225852 +0000" stop="20250905235959 +0000" channel="989622.shahid">
         <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250904000000 +0000" stop="20250904040000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250904040000 +0000" stop="20250904080000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250904080000 +0000" stop="20250904120000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250904120000 +0000" stop="20250904160000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250904160000 +0000" stop="20250904183000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250904183000 +0000" stop="20250904200000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250904200000 +0000" stop="20250905000000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905000000 +0000" stop="20250905040000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905040000 +0000" stop="20250905080000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905080000 +0000" stop="20250905120000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905120000 +0000" stop="20250905160000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905160000 +0000" stop="20250905183000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905183000 +0000" stop="20250905200000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
-    </programme>
-    <programme start="20250905200000 +0000" stop="20250906000000 +0000" channel="946942.shahid">
-        <title>Al Hadith Al Nabawi</title>
     </programme>
     <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="49923086914927.shahid">
         <title>TV guide is not available</title>
@@ -1021,9 +1021,6 @@
     <programme start="20250905233703 +0000" stop="20250905235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="986346.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250904000000 +0000" stop="20250904001206 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 2 Episode 5</title>
     </programme>
@@ -1318,112 +1315,7 @@
     <programme start="20250905232525 +0000" stop="20250905235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 5 Episode 27</title>
     </programme>
-    <programme start="20250904000000 +0000" stop="20250904001000 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 4</title>
-    </programme>
-    <programme start="20250904001000 +0000" stop="20250904005000 +0000" channel="387238.shahid">
-        <title>Hakim Basha Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250904005000 +0000" stop="20250904014100 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250904014100 +0000" stop="20250904021000 +0000" channel="387238.shahid">
-        <title>Al Maktab Season 1 Episode 1</title>
-    </programme>
-    <programme start="20250904021000 +0000" stop="20250904024000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 1 Episode 24</title>
-    </programme>
-    <programme start="20250904024000 +0000" stop="20250904041000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20250904041000 +0000" stop="20250904045000 +0000" channel="387238.shahid">
-        <title>Ommi Season 1 Episode 85</title>
-    </programme>
-    <programme start="20250904045000 +0000" stop="20250904053000 +0000" channel="387238.shahid">
-        <title>Hakim Basha Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250904053000 +0000" stop="20250904060100 +0000" channel="387238.shahid">
-        <title>Al Maktab Season 1 Episode 1</title>
-    </programme>
-    <programme start="20250904060100 +0000" stop="20250904063000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 1 Episode 24</title>
-    </programme>
-    <programme start="20250904063000 +0000" stop="20250904071500 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 4</title>
-    </programme>
-    <programme start="20250904071500 +0000" stop="20250904080000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250904080000 +0000" stop="20250904100000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20250904100000 +0000" stop="20250904103000 +0000" channel="387238.shahid">
-        <title>Al Maktab Season 1 Episode 1</title>
-    </programme>
-    <programme start="20250904103000 +0000" stop="20250904110000 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 1 Episode 24</title>
-    </programme>
-    <programme start="20250904110000 +0000" stop="20250904114000 +0000" channel="387238.shahid">
-        <title>Hakim Basha Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250904114000 +0000" stop="20250904122500 +0000" channel="387238.shahid">
-        <title>Ommi Season 1 Episode 85</title>
-    </programme>
-    <programme start="20250904122500 +0000" stop="20250904131500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 14</title>
-    </programme>
-    <programme start="20250904131500 +0000" stop="20250904140400 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 5</title>
-    </programme>
-    <programme start="20250904140400 +0000" stop="20250904150000 +0000" channel="387238.shahid">
-        <title>Hakim Basha Season 1 Episode 16</title>
-    </programme>
-    <programme start="20250904150000 +0000" stop="20250904155500 +0000" channel="387238.shahid">
-        <title>Ommi Season 1 Episode 86</title>
-    </programme>
-    <programme start="20250904155500 +0000" stop="20250904163000 +0000" channel="387238.shahid">
-        <title>Al Maktab Season 1 Episode 2</title>
-    </programme>
-    <programme start="20250904163000 +0000" stop="20250904170500 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 1 Episode 25</title>
-    </programme>
-    <programme start="20250904170500 +0000" stop="20250904180000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250904180000 +0000" stop="20250904183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20250904183000 +0000" stop="20250904200000 +0000" channel="387238.shahid">
-        <title>Hafl Ikhtitam Mahrajan Dubai Li Al Tasawwoq</title>
-    </programme>
-    <programme start="20250904200000 +0000" stop="20250904213000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20250904213000 +0000" stop="20250905010000 +0000" channel="387238.shahid">
-        <title>Al Risalah</title>
-    </programme>
-    <programme start="20250905010000 +0000" stop="20250905014500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250905014500 +0000" stop="20250905022000 +0000" channel="387238.shahid">
-        <title>Al Maktab Season 1 Episode 2</title>
-    </programme>
-    <programme start="20250905022000 +0000" stop="20250905025100 +0000" channel="387238.shahid">
-        <title>Holm Esref Season 1 Episode 25</title>
-    </programme>
-    <programme start="20250905025100 +0000" stop="20250905041200 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20250905041200 +0000" stop="20250905045500 +0000" channel="387238.shahid">
-        <title>Ommi Season 1 Episode 86</title>
-    </programme>
-    <programme start="20250905045500 +0000" stop="20250905052800 +0000" channel="387238.shahid">
-        <title>Hakim Basha Season 1 Episode 16</title>
-    </programme>
-    <programme start="20250905052800 +0000" stop="20250905060300 +0000" channel="387238.shahid">
-        <title>Al Maktab Season 1 Episode 2</title>
-    </programme>
-    <programme start="20250905060300 +0000" stop="20250905235959 +0000" channel="387238.shahid">
+    <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250904000000 +0000" stop="20250904000059 +0000" channel="49923172215352.shahid">
@@ -3433,6 +3325,114 @@
     <programme start="20250905235622 +0000" stop="20250905235959 +0000" channel="49923172215352.shahid">
         <title>Ana La Habibi</title>
     </programme>
+    <programme start="20250904000000 +0000" stop="20250904001000 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 4</title>
+    </programme>
+    <programme start="20250904001000 +0000" stop="20250904005000 +0000" channel="387238.shahid">
+        <title>Hakim Basha Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250904005000 +0000" stop="20250904014100 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250904014100 +0000" stop="20250904021000 +0000" channel="387238.shahid">
+        <title>Al Maktab Season 1 Episode 1</title>
+    </programme>
+    <programme start="20250904021000 +0000" stop="20250904024000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 1 Episode 24</title>
+    </programme>
+    <programme start="20250904024000 +0000" stop="20250904041000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20250904041000 +0000" stop="20250904045000 +0000" channel="387238.shahid">
+        <title>Ommi Season 1 Episode 85</title>
+    </programme>
+    <programme start="20250904045000 +0000" stop="20250904053000 +0000" channel="387238.shahid">
+        <title>Hakim Basha Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250904053000 +0000" stop="20250904060100 +0000" channel="387238.shahid">
+        <title>Al Maktab Season 1 Episode 1</title>
+    </programme>
+    <programme start="20250904060100 +0000" stop="20250904063000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 1 Episode 24</title>
+    </programme>
+    <programme start="20250904063000 +0000" stop="20250904071500 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 4</title>
+    </programme>
+    <programme start="20250904071500 +0000" stop="20250904080000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250904080000 +0000" stop="20250904100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20250904100000 +0000" stop="20250904103000 +0000" channel="387238.shahid">
+        <title>Al Maktab Season 1 Episode 1</title>
+    </programme>
+    <programme start="20250904103000 +0000" stop="20250904110000 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 1 Episode 24</title>
+    </programme>
+    <programme start="20250904110000 +0000" stop="20250904114000 +0000" channel="387238.shahid">
+        <title>Hakim Basha Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250904114000 +0000" stop="20250904122500 +0000" channel="387238.shahid">
+        <title>Ommi Season 1 Episode 85</title>
+    </programme>
+    <programme start="20250904122500 +0000" stop="20250904131500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 14</title>
+    </programme>
+    <programme start="20250904131500 +0000" stop="20250904140400 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 5</title>
+    </programme>
+    <programme start="20250904140400 +0000" stop="20250904150000 +0000" channel="387238.shahid">
+        <title>Hakim Basha Season 1 Episode 16</title>
+    </programme>
+    <programme start="20250904150000 +0000" stop="20250904155500 +0000" channel="387238.shahid">
+        <title>Ommi Season 1 Episode 86</title>
+    </programme>
+    <programme start="20250904155500 +0000" stop="20250904163000 +0000" channel="387238.shahid">
+        <title>Al Maktab Season 1 Episode 2</title>
+    </programme>
+    <programme start="20250904163000 +0000" stop="20250904170500 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 1 Episode 25</title>
+    </programme>
+    <programme start="20250904170500 +0000" stop="20250904180000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250904180000 +0000" stop="20250904183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20250904183000 +0000" stop="20250904200000 +0000" channel="387238.shahid">
+        <title>Hafl Ikhtitam Mahrajan Dubai Li Al Tasawwoq</title>
+    </programme>
+    <programme start="20250904200000 +0000" stop="20250904213000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20250904213000 +0000" stop="20250905010000 +0000" channel="387238.shahid">
+        <title>Al Risalah</title>
+    </programme>
+    <programme start="20250905010000 +0000" stop="20250905014500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250905014500 +0000" stop="20250905022000 +0000" channel="387238.shahid">
+        <title>Al Maktab Season 1 Episode 2</title>
+    </programme>
+    <programme start="20250905022000 +0000" stop="20250905025100 +0000" channel="387238.shahid">
+        <title>Holm Esref Season 1 Episode 25</title>
+    </programme>
+    <programme start="20250905025100 +0000" stop="20250905041200 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20250905041200 +0000" stop="20250905045500 +0000" channel="387238.shahid">
+        <title>Ommi Season 1 Episode 86</title>
+    </programme>
+    <programme start="20250905045500 +0000" stop="20250905052800 +0000" channel="387238.shahid">
+        <title>Hakim Basha Season 1 Episode 16</title>
+    </programme>
+    <programme start="20250905052800 +0000" stop="20250905060300 +0000" channel="387238.shahid">
+        <title>Al Maktab Season 1 Episode 2</title>
+    </programme>
+    <programme start="20250905060300 +0000" stop="20250905235959 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250904000000 +0000" stop="20250904003000 +0000" channel="946946.shahid">
         <title>Al Quran Al Kareem</title>
     </programme>
@@ -3479,6 +3479,9 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="1029746.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250904000000 +0000" stop="20250904003000 +0000" channel="49923122575716.shahid">
@@ -3593,9 +3596,6 @@
         <title>A&#039;elat Al Haj Noaman Season 2 Episode 8</title>
     </programme>
     <programme start="20250905061200 +0000" stop="20250905235959 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250904000000 +0000" stop="20250905235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250904000000 +0000" stop="20250904003000 +0000" channel="946948.shahid">
