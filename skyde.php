@@ -187,10 +187,10 @@
 <programme start="20250904004000 +0000" stop="20250904005000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904005000 +0000" stop="20250904010500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904005000 +0000" stop="20250904010000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904010500 +0000" stop="20250904012500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904010000 +0000" stop="20250904012500 +0000" channel="Cartoon Network.skyde">
     <title>Jade Armor</title>
 </programme>
 <programme start="20250904012500 +0000" stop="20250904014000 +0000" channel="Cartoon Network.skyde">
@@ -262,10 +262,10 @@
 <programme start="20250904055000 +0000" stop="20250904060000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904060000 +0000" stop="20250904061000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904060000 +0000" stop="20250904061500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904061000 +0000" stop="20250904062500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904061500 +0000" stop="20250904062500 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
 <programme start="20250904062500 +0000" stop="20250904063500 +0000" channel="Cartoon Network.skyde">
@@ -292,19 +292,19 @@
 <programme start="20250904080000 +0000" stop="20250904081000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904081000 +0000" stop="20250904082500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904081000 +0000" stop="20250904082000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904082500 +0000" stop="20250904083500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904082000 +0000" stop="20250904083500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250904083500 +0000" stop="20250904084500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904084500 +0000" stop="20250904090000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904084500 +0000" stop="20250904085500 +0000" channel="Cartoon Network.skyde">
     <title>Uncle Grandpa</title>
 </programme>
-<programme start="20250904090000 +0000" stop="20250904091000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904085500 +0000" stop="20250904091000 +0000" channel="Cartoon Network.skyde">
     <title>Uncle Grandpa</title>
 </programme>
 <programme start="20250904091000 +0000" stop="20250904092000 +0000" channel="Cartoon Network.skyde">
@@ -325,10 +325,10 @@
 <programme start="20250904100500 +0000" stop="20250904101500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250904101500 +0000" stop="20250904103000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904101500 +0000" stop="20250904102500 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250904103000 +0000" stop="20250904104000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904102500 +0000" stop="20250904104000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
 <programme start="20250904104000 +0000" stop="20250904105000 +0000" channel="Cartoon Network.skyde">
@@ -478,10 +478,10 @@
 <programme start="20250904202000 +0000" stop="20250904203000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20250904203000 +0000" stop="20250904204500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904203000 +0000" stop="20250904204000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20250904204500 +0000" stop="20250904205000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250904204000 +0000" stop="20250904205000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
 <programme start="20250904205000 +0000" stop="20250904210500 +0000" channel="Cartoon Network.skyde">
@@ -3163,13 +3163,13 @@
 <programme start="20250904213000 +0000" stop="20250904220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Icons: Eric Cantona</title>
 </programme>
-<programme start="20250903224500 +0000" stop="20250904010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250903224500 +0000" stop="20250904013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: K. Muchova (CZE) - N. Osaka (JAP), Viertelfinale 4, Damen</title>
 </programme>
-<programme start="20250904010000 +0000" stop="20250904030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904030000 +0000" stop="20250904050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
 <programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3236,10 +3236,10 @@
     <title>PL: FC Liverpool - FC Arsenal, Match of the Week, 3. Spieltag</title>
 </programme>
 <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
+    <title>PL: Match of the Week: Die Analyse, LIV - ARS, 3. Spieltag</title>
 </programme>
 <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Match of the Week: Die Analyse, LIV - ARS, 3. Spieltag</title>
+    <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20250904193000 +0000" stop="20250904213000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Niederlande</title>
@@ -3754,13 +3754,13 @@
 <programme start="20250904124500 +0000" stop="20250904133500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250904133500 +0000" stop="20250904142000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250904133500 +0000" stop="20250904142500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20250904142000 +0000" stop="20250904150500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250904142500 +0000" stop="20250904151000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20250904150500 +0000" stop="20250904155500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250904151000 +0000" stop="20250904155500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20250904155500 +0000" stop="20250904164000 +0000" channel="Warner TV Serie HD.skyde">

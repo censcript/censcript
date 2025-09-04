@@ -58,8 +58,8 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904090000 +0700" stop="20250904110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Sassuolo</title>
+<programme start="20250905110000 +0700" stop="20250905130000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Fenerbahce SK - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904110000 +0700" stop="20250904131000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20250905090500 +0700" stop="20250905110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905110000 +0700" stop="20250905131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904100000 +0700" stop="20250904120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,6 +238,10 @@
     <title>Basketball: Bonn - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250905115500 +0700" stop="20250905135500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Baskonia - Unicaja</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250904100000 +0700" stop="20250904114000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -326,6 +334,14 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250905110500 +0700" stop="20250905113000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905113000 +0700" stop="20250905120000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250904100000 +0700" stop="20250904122500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Vangelis Kypriotis - Giannis Xilas</title>
     <desc>Live: Tidak</desc>
@@ -390,10 +406,6 @@
     <title>Tennis: Giannis Kountourakis - Andreas Loizas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904080000 +0700" stop="20250904110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250904110000 +0700" stop="20250904113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -449,6 +461,14 @@
 <programme start="20250905080000 +0700" stop="20250905110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250905110000 +0700" stop="20250905113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905113000 +0700" stop="20250905120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904100000 +0700" stop="20250904120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
