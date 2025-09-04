@@ -74,6 +74,14 @@
     <title>Game R1 S6 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906030000 +0700" stop="20250906033000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906033000 +0700" stop="20250906040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905020000 +0700" stop="20250905040000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +250,8 @@
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250905011500 +0700" stop="20250905025500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250906035000 +0700" stop="20250906054500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905025500 +0700" stop="20250905035000 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +364,10 @@
 </programme>
 <programme start="20250906021000 +0700" stop="20250906031000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906031000 +0700" stop="20250906041500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905020000 +0700" stop="20250905050000 +0700" channel="COSMOTE Sport 6 HD">

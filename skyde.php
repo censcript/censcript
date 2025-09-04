@@ -2662,8 +2662,14 @@
 <programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
+</programme>
+<programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: GAK - STU, 5. Runde</title>
+</programme>
+<programme start="20250904053000 +0000" stop="20250904060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Sebastian Ofner)</title>
 </programme>
 <programme start="20250904060000 +0000" stop="20250904063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
@@ -3230,10 +3236,10 @@
     <title>PL: FC Liverpool - FC Arsenal, Match of the Week, 3. Spieltag</title>
 </programme>
 <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
+    <title>PL: Match of the Week: Die Analyse, LIV - ARS, 3. Spieltag</title>
 </programme>
 <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Match of the Week: Die Analyse, LIV - ARS, 3. Spieltag</title>
+    <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20250904193000 +0000" stop="20250904213000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Niederlande</title>
