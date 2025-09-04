@@ -2161,20 +2161,29 @@
     <programme start="20250904153000 +0000" stop="20250904163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
-    <programme start="20250903164500 +0000" stop="20250903170000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+    <programme start="20250903160000 +0000" stop="20250903170000 +0000" channel="CNN HD.starhub">
+        <title>One World</title>
     </programme>
-    <programme start="20250903170000 +0000" stop="20250903184500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
-    </programme>
-    <programme start="20250903190000 +0000" stop="20250903200000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
-    </programme>
-    <programme start="20250903200000 +0000" stop="20250903210000 +0000" channel="CNN HD.starhub">
+    <programme start="20250903170000 +0000" stop="20250903180000 +0000" channel="CNN HD.starhub">
         <title>Amanpour</title>
     </programme>
-    <programme start="20250903210000 +0000" stop="20250903220000 +0000" channel="CNN HD.starhub">
-        <title>Early Start with Rahel Solomon</title>
+    <programme start="20250903180000 +0000" stop="20250903190000 +0000" channel="CNN HD.starhub">
+        <title>Isa Soares Tonight</title>
+    </programme>
+    <programme start="20250903190000 +0000" stop="20250903200000 +0000" channel="CNN HD.starhub">
+        <title>What We Know with Max Foster</title>
+    </programme>
+    <programme start="20250903200000 +0000" stop="20250903210000 +0000" channel="CNN HD.starhub">
+        <title>Quest Means Business</title>
+    </programme>
+    <programme start="20250903210000 +0000" stop="20250903213000 +0000" channel="CNN HD.starhub">
+        <title>The Lead</title>
+    </programme>
+    <programme start="20250903213000 +0000" stop="20250903220000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250903220000 +0000" stop="20250903230000 +0000" channel="CNN HD.starhub">
+        <title>The Brief with Jim Sciutto</title>
     </programme>
     <programme start="20250903230000 +0000" stop="20250904000000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
