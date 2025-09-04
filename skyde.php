@@ -2662,14 +2662,8 @@
 <programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
-</programme>
-<programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: GAK - STU, 5. Runde</title>
-</programme>
-<programme start="20250904053000 +0000" stop="20250904060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Sebastian Ofner)</title>
 </programme>
 <programme start="20250904060000 +0000" stop="20250904063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
@@ -3169,20 +3163,23 @@
 <programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
-<programme start="20250904060000 +0000" stop="20250904063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250904063000 +0000" stop="20250904083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904053000 +0000" stop="20250904073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: K. Muchova (CZE) - N. Osaka (JAP), Viertelfinale 4, Damen</title>
 </programme>
-<programme start="20250904083000 +0000" stop="20250904103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904073000 +0000" stop="20250904093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
-<programme start="20250904103000 +0000" stop="20250904110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904093000 +0000" stop="20250904100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
+</programme>
+<programme start="20250904100000 +0000" stop="20250904110000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review München</title>
 </programme>
 <programme start="20250904110000 +0000" stop="20250904113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3205,11 +3202,8 @@
 <programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
-</programme>
-<programme start="20250904050000 +0000" stop="20250904070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
 <programme start="20250904070000 +0000" stop="20250904120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Amgen Irish Open, 1. Tag in Straffan (Irland), Vormittag</title>
