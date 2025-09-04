@@ -2167,9 +2167,6 @@
     <programme start="20250903170000 +0000" stop="20250903184500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
-    <programme start="20250903184500 +0000" stop="20250903190000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
     <programme start="20250903190000 +0000" stop="20250903200000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
@@ -2179,50 +2176,68 @@
     <programme start="20250903210000 +0000" stop="20250903220000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
     </programme>
-    <programme start="20250903220000 +0000" stop="20250903230000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
-    </programme>
-    <programme start="20250903230000 +0000" stop="20250904003000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
-    </programme>
-    <programme start="20250904003000 +0000" stop="20250904014500 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
-    <programme start="20250904014500 +0000" stop="20250904020000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
-    <programme start="20250904020000 +0000" stop="20250904040000 +0000" channel="CNN HD.starhub">
-        <title>Connect the World</title>
-    </programme>
-    <programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="CNN HD.starhub">
-        <title>One World</title>
-    </programme>
-    <programme start="20250904050000 +0000" stop="20250904060000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
-    </programme>
-    <programme start="20250904060000 +0000" stop="20250904080000 +0000" channel="CNN HD.starhub">
-        <title>Isa Soares Tonight</title>
-    </programme>
-    <programme start="20250904080000 +0000" stop="20250904093000 +0000" channel="CNN HD.starhub">
-        <title>Quest Means Business</title>
-    </programme>
-    <programme start="20250904093000 +0000" stop="20250904110000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
-    </programme>
-    <programme start="20250904110000 +0000" stop="20250904120000 +0000" channel="CNN HD.starhub">
+    <programme start="20250903230000 +0000" stop="20250904000000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
     </programme>
-    <programme start="20250904120000 +0000" stop="20250904130000 +0000" channel="CNN HD.starhub">
+    <programme start="20250904000000 +0000" stop="20250904010000 +0000" channel="CNN HD.starhub">
         <title>Anderson Cooper 360</title>
     </programme>
-    <programme start="20250904130000 +0000" stop="20250904140000 +0000" channel="CNN HD.starhub">
-        <title>The Source with Kaitlan Collins</title>
+    <programme start="20250904010000 +0000" stop="20250904020000 +0000" channel="CNN HD.starhub">
+        <title>The Source</title>
     </programme>
-    <programme start="20250904140000 +0000" stop="20250904150000 +0000" channel="CNN HD.starhub">
+    <programme start="20250904020000 +0000" stop="20250904030000 +0000" channel="CNN HD.starhub">
         <title>CNN NewsNight</title>
     </programme>
-    <programme start="20250904150000 +0000" stop="20250904164500 +0000" channel="CNN HD.starhub">
+    <programme start="20250904030000 +0000" stop="20250904040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
+    </programme>
+    <programme start="20250904040000 +0000" stop="20250904044500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250904044500 +0000" stop="20250904050000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250904050000 +0000" stop="20250904060000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250904060000 +0000" stop="20250904064500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250904064500 +0000" stop="20250904070000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250904070000 +0000" stop="20250904080000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20250904080000 +0000" stop="20250904090000 +0000" channel="CNN HD.starhub">
+        <title>Amanpour</title>
+    </programme>
+    <programme start="20250904090000 +0000" stop="20250904100000 +0000" channel="CNN HD.starhub">
+        <title>Early Start</title>
+    </programme>
+    <programme start="20250904100000 +0000" stop="20250904110000 +0000" channel="CNN HD.starhub">
+        <title>CNN This Morning</title>
+    </programme>
+    <programme start="20250904110000 +0000" stop="20250904120000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20250904120000 +0000" stop="20250904123000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20250904123000 +0000" stop="20250904130000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250904130000 +0000" stop="20250904134500 +0000" channel="CNN HD.starhub">
+        <title>Connect the World</title>
+    </programme>
+    <programme start="20250904134500 +0000" stop="20250904140000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250904140000 +0000" stop="20250904150000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World</title>
+    </programme>
+    <programme start="20250904150000 +0000" stop="20250904160000 +0000" channel="CNN HD.starhub">
+        <title>One World</title>
     </programme>
     <programme start="20250903133000 +0000" stop="20250903170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Paayum Puli (New)</title>

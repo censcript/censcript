@@ -4043,7 +4043,7 @@
     <title>Anak Jalanan</title>
 </programme>
 <programme start="20250904123000 +0000" stop="20250904143000 +0000" channel="GTV.mncvision">
-    <title>G.I. Joe: The Rise Of Cobra</title>
+    <title>13 Hours: The Secret Soldiers</title>
 </programme>
 <programme start="20250904143000 +0000" stop="20250904160000 +0000" channel="GTV.mncvision">
     <title>The Sorcery Master</title>
@@ -4091,7 +4091,7 @@
     <title>Anak Jalanan</title>
 </programme>
 <programme start="20250904123000 +0000" stop="20250904143000 +0000" channel="GTV HD.mncvision">
-    <title>G.I. Joe: The Rise Of Cobra</title>
+    <title>13 Hours: The Secret Soldiers</title>
 </programme>
 <programme start="20250904143000 +0000" stop="20250904160000 +0000" channel="GTV HD.mncvision">
     <title>The Sorcery Master</title>
@@ -5006,7 +5006,7 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20250904163000 +0000" stop="20250903170000 +0000" channel="Kids TV.mncvision">
-    <title>Kun Anta Mendadak Santri</title>
+    <title>Bintang Lapangan</title>
 </programme>
 <programme start="20250903173000 +0000" stop="20250903180000 +0000" channel="Kids TV HD.mncvision">
     <title>Blippi Wonders</title>
@@ -5093,7 +5093,7 @@
     <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20250904163000 +0000" stop="20250903170000 +0000" channel="Kids TV HD.mncvision">
-    <title>Kun Anta Mendadak Santri</title>
+    <title>Bintang Lapangan</title>
 </programme>
 <programme start="20250903171000 +0000" stop="20250903183500 +0000" channel="KIX.mncvision">
     <title>Iron Ball, Ep 3</title>
