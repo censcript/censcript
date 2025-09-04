@@ -630,10 +630,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905080000 +0000" stop="20250905080500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250905080500 +0000" stop="20250905081500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905080500 +0000" stop="20250905081000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250905081500 +0000" stop="20250905082500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905081000 +0000" stop="20250905082500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250905082500 +0000" stop="20250905083000 +0000" channel="Cartoonito.skyde">
@@ -663,10 +663,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905095000 +0000" stop="20250905101500 +0000" channel="Cartoonito.skyde">
     <title>Tom &amp; Jerry in New York</title>
 </programme>
-<programme start="20250905101500 +0000" stop="20250905103000 +0000" channel="Cartoonito.skyde">
+<programme start="20250905101500 +0000" stop="20250905102500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250905103000 +0000" stop="20250905104500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905102500 +0000" stop="20250905104500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250905104500 +0000" stop="20250905105500 +0000" channel="Cartoonito.skyde">
@@ -741,10 +741,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905160500 +0000" stop="20250905162000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250905162000 +0000" stop="20250905163500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905162000 +0000" stop="20250905163000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250905163500 +0000" stop="20250905164500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905163000 +0000" stop="20250905164500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20250905164500 +0000" stop="20250905170000 +0000" channel="Cartoonito.skyde">
@@ -765,16 +765,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905181000 +0000" stop="20250905182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250905182500 +0000" stop="20250905184000 +0000" channel="Cartoonito.skyde">
+<programme start="20250905182500 +0000" stop="20250905183500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250905184000 +0000" stop="20250905185500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905183500 +0000" stop="20250905185500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250905185500 +0000" stop="20250905190500 +0000" channel="Cartoonito.skyde">
+<programme start="20250905185500 +0000" stop="20250905190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250905190500 +0000" stop="20250905191000 +0000" channel="Cartoonito.skyde">
+<programme start="20250905190000 +0000" stop="20250905191000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250905191000 +0000" stop="20250905192500 +0000" channel="Cartoonito.skyde">
@@ -936,13 +936,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905120000 +0000" stop="20250905135000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Bulgarien - Spanien</title>
 </programme>
-<programme start="20250905135000 +0000" stop="20250905143000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250905135000 +0000" stop="20250905141000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250905143000 +0000" stop="20250905152000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250905141000 +0000" stop="20250905150000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 4. Spieltag</title>
 </programme>
-<programme start="20250905152000 +0000" stop="20250905172000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250905150000 +0000" stop="20250905153000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250905153000 +0000" stop="20250905172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Augsburg - FC Bayern München</title>
 </programme>
 <programme start="20250905172000 +0000" stop="20250905180000 +0000" channel="DAZN 1 HD.skyde">
@@ -2614,10 +2617,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
 <programme start="20250904223000 +0000" stop="20250905010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
+    <title>Live US Open: HF1, Halbfinale Damen</title>
 </programme>
 <programme start="20250905010000 +0000" stop="20250905030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
+    <title>Live US Open: HF2, Halbfinale Damen</title>
 </programme>
 <programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
@@ -2650,7 +2653,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
 </programme>
 <programme start="20250905110000 +0000" stop="20250905130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
+    <title>US Open: HF2, Halbfinale Damen</title>
 </programme>
 <programme start="20250905130000 +0000" stop="20250905133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
@@ -3680,6 +3683,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20250905215000 +0000" stop="20250905221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
+</programme>
+<programme start="20250904232500 +0000" stop="20250905010500 +0000" channel="Warner TV Film.skyde">
+    <title>Mortal Kombat</title>
+</programme>
+<programme start="20250905010500 +0000" stop="20250905024000 +0000" channel="Warner TV Film.skyde">
+    <title>Mortal Kombat 2 - Annihilation</title>
+</programme>
+<programme start="20250905024000 +0000" stop="20250905040000 +0000" channel="Warner TV Film.skyde">
+    <title>Dumm und dümmerer</title>
+</programme>
+<programme start="20250905040000 +0000" stop="20250905050500 +0000" channel="Warner TV Film.skyde">
+    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
+</programme>
+<programme start="20250905050500 +0000" stop="20250905065000 +0000" channel="Warner TV Film.skyde">
+    <title>Casablanca</title>
+</programme>
+<programme start="20250905065000 +0000" stop="20250905083500 +0000" channel="Warner TV Film.skyde">
+    <title>Die oberen Zehntausend</title>
+</programme>
+<programme start="20250905083500 +0000" stop="20250905103500 +0000" channel="Warner TV Film.skyde">
+    <title>Warum hab&#039; ich ja gesagt?</title>
+</programme>
+<programme start="20250905103500 +0000" stop="20250905122500 +0000" channel="Warner TV Film.skyde">
+    <title>Der Teufel trägt Prada</title>
+</programme>
+<programme start="20250905122500 +0000" stop="20250905142000 +0000" channel="Warner TV Film.skyde">
+    <title>New York Für Anfänger</title>
+</programme>
+<programme start="20250905142000 +0000" stop="20250905161500 +0000" channel="Warner TV Film.skyde">
+    <title>Per Anhalter durch die Galaxis</title>
+</programme>
+<programme start="20250905161500 +0000" stop="20250905181500 +0000" channel="Warner TV Film.skyde">
+    <title>Blade Runner</title>
+</programme>
+<programme start="20250905181500 +0000" stop="20250905195000 +0000" channel="Warner TV Film.skyde">
+    <title>Mad Max</title>
+</programme>
+<programme start="20250905195000 +0000" stop="20250905221000 +0000" channel="Warner TV Film.skyde">
+    <title>Uhrwerk Orange</title>
 </programme>
 <programme start="20250904232500 +0000" stop="20250905010500 +0000" channel="Warner TV Film HD.skyde">
     <title>Mortal Kombat</title>
