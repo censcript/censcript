@@ -58,6 +58,14 @@
     <title>Football: Fenerbahce SK - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250905130000 +0700" stop="20250905133000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905133000 +0700" stop="20250905140000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250904110000 +0700" stop="20250904131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +124,10 @@
 </programme>
 <programme start="20250905110000 +0700" stop="20250905131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905131000 +0700" stop="20250905151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904120000 +0700" stop="20250904140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,10 +190,6 @@
     <title>Football: Dundee - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904100000 +0700" stop="20250904120500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Peristeri - Murcia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250904120500 +0700" stop="20250904141000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Unicaja</title>
     <desc>Live: Tidak</desc>
@@ -236,6 +244,10 @@
 </programme>
 <programme start="20250905115500 +0700" stop="20250905135500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Baskonia - Unicaja</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905135500 +0700" stop="20250905160000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904114000 +0700" stop="20250904131000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,9 +354,9 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904100000 +0700" stop="20250904122500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Vangelis Kypriotis - Giannis Xilas</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250905135500 +0700" stop="20250905144500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250904122500 +0700" stop="20250904141500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>

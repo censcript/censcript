@@ -2161,20 +2161,26 @@
     <programme start="20250904153000 +0000" stop="20250904163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
-    <programme start="20250903170000 +0000" stop="20250903180000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
-    </programme>
-    <programme start="20250903190000 +0000" stop="20250903200000 +0000" channel="CNN HD.starhub">
-        <title>What We Know with Max Foster</title>
-    </programme>
-    <programme start="20250903210000 +0000" stop="20250903213000 +0000" channel="CNN HD.starhub">
-        <title>The Lead</title>
-    </programme>
-    <programme start="20250903213000 +0000" stop="20250903220000 +0000" channel="CNN HD.starhub">
+    <programme start="20250903164500 +0000" stop="20250903170000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
+    <programme start="20250903170000 +0000" stop="20250903184500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20250903184500 +0000" stop="20250903190000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250903190000 +0000" stop="20250903200000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20250903200000 +0000" stop="20250903210000 +0000" channel="CNN HD.starhub">
+        <title>Amanpour</title>
+    </programme>
+    <programme start="20250903210000 +0000" stop="20250903220000 +0000" channel="CNN HD.starhub">
+        <title>Early Start with Rahel Solomon</title>
+    </programme>
     <programme start="20250903220000 +0000" stop="20250903230000 +0000" channel="CNN HD.starhub">
-        <title>The Brief with Jim Sciutto</title>
+        <title>CNN This Morning</title>
     </programme>
     <programme start="20250903230000 +0000" stop="20250904003000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
@@ -5155,17 +5161,8 @@
     <programme start="20250904080000 +0000" stop="20250904083000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>
     </programme>
-    <programme start="20250904083000 +0000" stop="20250904090000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20250904090000 +0000" stop="20250904140000 +0000" channel="SPOTV.starhub">
+    <programme start="20250904083000 +0000" stop="20250904150000 +0000" channel="SPOTV.starhub">
         <title>Day Session - W &amp; M Singles Quarterfinals</title>
-    </programme>
-    <programme start="20250904140000 +0000" stop="20250904143000 +0000" channel="SPOTV.starhub">
-        <title>Daily Highlights</title>
-    </programme>
-    <programme start="20250904143000 +0000" stop="20250904150000 +0000" channel="SPOTV.starhub">
-        <title>Daily Highlights</title>
     </programme>
     <programme start="20250904150000 +0000" stop="20250904153000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>
@@ -8098,8 +8095,8 @@
     <programme start="20250904100000 +0000" stop="20250904150000 +0000" channel="SPOTV2.starhub">
         <title>Day 11 - Day Session Doubles (Louis Armstrong)</title>
     </programme>
-    <programme start="20250904150000 +0000" stop="20250904200000 +0000" channel="SPOTV2.starhub">
-        <title>Day 12 - Day Session Doubles (Louis Armstrong)</title>
+    <programme start="20250904150000 +0000" stop="20250904160000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20250903153000 +0000" stop="20250903170000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
