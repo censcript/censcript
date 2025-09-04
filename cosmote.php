@@ -238,6 +238,10 @@
     <title>Basketball: Manisa Basket - Peristeri</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906015000 +0700" stop="20250906035000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Valencia Basket Club - Real Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250904235500 +0700" stop="20250905011500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -350,8 +354,8 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904224500 +0700" stop="20250905000500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250906011500 +0700" stop="20250906021000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905000500 +0700" stop="20250905020000 +0700" channel="COSMOTE Sport 6 HD">
