@@ -1058,10 +1058,10 @@
         <title>No Programme available now. Next Broadcast on 6th September, Saturday 7.50pm. AFC U23 Asian Cup™ Saudi Arabia 2026 Qualifiers</title>
     </programme>
     <programme start="20250903160000 +0000" stop="20250904160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 18th September, Thursday 6pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20250904160000 +0000" stop="20250905160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 18th September, Thursday 6pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20250903160000 +0000" stop="20250904160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

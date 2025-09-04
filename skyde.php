@@ -1780,44 +1780,41 @@
 <programme start="20250904215500 +0000" stop="20250904224500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Strike Back</title>
 </programme>
-<programme start="20250903222000 +0000" stop="20250904001000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Vier Brüder</title>
+<programme start="20250909001000 +0000" stop="20250909020500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Rhythm Section - Zeit der Rache</title>
 </programme>
-<programme start="20250904001000 +0000" stop="20250904020500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>10.000 BC</title>
+<programme start="20250909020500 +0000" stop="20250909034500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Fortress - Sniper&#039;s Eye</title>
 </programme>
-<programme start="20250904020500 +0000" stop="20250904034000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>A Quiet Place</title>
+<programme start="20250909034500 +0000" stop="20250909055000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Untouchables - Die Unbestechlichen</title>
 </programme>
-<programme start="20250904034000 +0000" stop="20250904061000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Furiosa: A Mad Max Saga</title>
+<programme start="20250909055000 +0000" stop="20250909081500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Blood Diamond</title>
 </programme>
-<programme start="20250904061000 +0000" stop="20250904081500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Collateral</title>
+<programme start="20250909081500 +0000" stop="20250909101000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Abigail</title>
 </programme>
-<programme start="20250904081500 +0000" stop="20250904100500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Machete Kills</title>
+<programme start="20250909101000 +0000" stop="20250909124500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Transformers: The Last Knight</title>
 </programme>
-<programme start="20250904100500 +0000" stop="20250904121000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Goliath - Im Netz der Lügen</title>
+<programme start="20250909124500 +0000" stop="20250909143500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Protégé - Made for Revenge</title>
 </programme>
-<programme start="20250904121000 +0000" stop="20250904142500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Equalizer</title>
+<programme start="20250909143500 +0000" stop="20250909162000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Virus</title>
 </programme>
-<programme start="20250904142500 +0000" stop="20250904161500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Jack Ryan: Shadow Recruit</title>
+<programme start="20250909162000 +0000" stop="20250909181500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Die Mumie: Das Grabmal des Drachenkaisers</title>
 </programme>
-<programme start="20250904161500 +0000" stop="20250904181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rookie - Der Anfänger</title>
+<programme start="20250909181500 +0000" stop="20250909201000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>R.E.D. - Älter. Härter. Besser.</title>
 </programme>
-<programme start="20250904181500 +0000" stop="20250904195500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Redemption - Stunde der Vergeltung</title>
+<programme start="20250909201000 +0000" stop="20250909214500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Rambo</title>
 </programme>
-<programme start="20250904195500 +0000" stop="20250904213000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Wild Card</title>
-</programme>
-<programme start="20250904213000 +0000" stop="20250904232500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Die totale Erinnerung - Total Recall</title>
+<programme start="20250909214500 +0000" stop="20250910001500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Inception</title>
 </programme>
 <programme start="20250903231000 +0000" stop="20250904011000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Die gefürchteten Vier</title>
@@ -2656,13 +2653,13 @@
 <programme start="20250904212000 +0000" stop="20250904221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Killerjagd - Wettlauf mit dem Bösen</title>
 </programme>
-<programme start="20250903224500 +0000" stop="20250904013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250903224500 +0000" stop="20250904010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: K. Muchova (CZE) - N. Osaka (JAP), Viertelfinale 4, Damen</title>
 </programme>
-<programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250904010000 +0000" stop="20250904030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250904030000 +0000" stop="20250904050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
 </programme>
 <programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3169,23 +3166,20 @@
 <programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
 </programme>
-<programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904060000 +0000" stop="20250904063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250904053000 +0000" stop="20250904073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904063000 +0000" stop="20250904083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: K. Muchova (CZE) - N. Osaka (JAP), Viertelfinale 4, Damen</title>
 </programme>
-<programme start="20250904073000 +0000" stop="20250904093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904083000 +0000" stop="20250904103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: I. Swiatek (POL) - A. Anisimova (USA), Viertelfinale 3, Damen</title>
 </programme>
-<programme start="20250904093000 +0000" stop="20250904100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250904103000 +0000" stop="20250904110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
-</programme>
-<programme start="20250904100000 +0000" stop="20250904110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review München</title>
 </programme>
 <programme start="20250904110000 +0000" stop="20250904113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3208,8 +3202,11 @@
 <programme start="20250904013000 +0000" stop="20250904040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
-<programme start="20250904040000 +0000" stop="20250904070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: A. de Minaur (AUS) - F. Auger-Aliassime (CAN), Viertelfinale 3, Herren</title>
+</programme>
+<programme start="20250904050000 +0000" stop="20250904070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>US Open: J. Sinner (ITA) - L. Musetti (ITA), Viertelfinale 4, Herren</title>
 </programme>
 <programme start="20250904070000 +0000" stop="20250904120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Amgen Irish Open, 1. Tag in Straffan (Irland), Vormittag</title>

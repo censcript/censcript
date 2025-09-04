@@ -3902,7 +3902,7 @@
         <title>See, Learn, Explore--A Deep Travelogue in Tohoku (R)</title>
     </programme>
     <programme start="20250904081000 +0000" stop="20250904082000 +0000" channel="NHK World Premium HD.starhub">
-        <title>City-Scope</title>
+        <title>MIX Bijutune!</title>
     </programme>
     <programme start="20250904082000 +0000" stop="20250904083500 +0000" channel="NHK World Premium HD.starhub">
         <title>Peek-a-boo</title>

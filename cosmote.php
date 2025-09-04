@@ -126,6 +126,10 @@
     <title>Football: Parma - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250905171000 +0700" stop="20250905192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250904160000 +0700" stop="20250904180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +246,8 @@
     <title>Basketball: Armani Milano - Sassari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250904150500 +0700" stop="20250904164000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250905175000 +0700" stop="20250905195000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904164000 +0700" stop="20250904174000 +0700" channel="COSMOTE Sport 5 HD">
@@ -348,6 +352,10 @@
 </programme>
 <programme start="20250905164500 +0700" stop="20250905171500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Gearing Up 2025 E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250905171500 +0700" stop="20250905181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250904155000 +0700" stop="20250904180000 +0700" channel="COSMOTE Sport 6 HD">
