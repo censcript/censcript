@@ -631,6 +631,9 @@
 <programme start="20250905114500 +0000" stop="20250905121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250903233000 +0000" stop="20250904013000 +0000" channel="ANTV.vision">
+<title>Drakula Mantu</title>
+</programme>
 <programme start="20250904013000 +0000" stop="20250904050000 +0000" channel="ANTV.vision">
 <title>Simmba</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250905103000 +0000" stop="20250905123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20250904000000 +0000" stop="20250904010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
