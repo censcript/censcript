@@ -2857,7 +2857,10 @@
     <programme start="20250903170000 +0000" stop="20250903173000 +0000" channel="Zee Tamil.starhub">
         <title>Ayali</title>
     </programme>
-    <programme start="20250903173000 +0000" stop="20250903183000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250903173000 +0000" stop="20250903180000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
+    </programme>
+    <programme start="20250903180000 +0000" stop="20250903183000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
     </programme>
     <programme start="20250903183000 +0000" stop="20250903190000 +0000" channel="Zee Tamil.starhub">
