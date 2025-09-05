@@ -7105,9 +7105,6 @@
     <programme start="20250904173000 +0000" stop="20250904180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Today&#039;s Close-Up</title>
     </programme>
-    <programme start="20250904180000 +0000" stop="20250904182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Newsroom Tokyo</title>
-    </programme>
     <programme start="20250904182800 +0000" stop="20250904184300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Direct Talk</title>
     </programme>

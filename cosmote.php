@@ -150,6 +150,10 @@
     <title>Football: SS Lazio - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906171000 +0700" stop="20250906192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905160000 +0700" stop="20250905180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Alverca - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -262,10 +266,6 @@
     <title>Basketball: Reyer Venezia - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250905154000 +0700" stop="20250905164500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250905164500 +0700" stop="20250905171500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
@@ -374,6 +374,14 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250906170500 +0700" stop="20250906174500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250906174500 +0700" stop="20250906184000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250905160000 +0700" stop="20250905180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -445,6 +453,10 @@
 <programme start="20250906164000 +0700" stop="20250906170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: Worldies E14</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906170000 +0700" stop="20250906190000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250905160000 +0700" stop="20250905180000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -525,6 +537,10 @@
 <programme start="20250906164500 +0700" stop="20250906173500 +0700" channel="COSMOTE Sport 7 HD">
     <title>ERC 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250906173500 +0700" stop="20250906180000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905160000 +0700" stop="20250905180000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
