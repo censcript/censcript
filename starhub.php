@@ -3817,14 +3817,8 @@
     <programme start="20250905151500 +0000" stop="20250905160000 +0000" channel="Cartoon Network.starhub">
         <title>We Need To Talk/Beach City Drift/Restaurant Wars/The Answer</title>
     </programme>
-    <programme start="20250904160000 +0000" stop="20250904160500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips mini</title>
-    </programme>
-    <programme start="20250904160500 +0000" stop="20250904161000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips mini</title>
-    </programme>
     <programme start="20250904161000 +0000" stop="20250904161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Ukiyoe EDO-LIFE (R)</title>
+        <title>Child-Rearing Hints &amp; Tips mini</title>
     </programme>
     <programme start="20250904161500 +0000" stop="20250904164000 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
@@ -3836,7 +3830,7 @@
         <title>Haru&#039;s Weekend at Japanese Old House Cafe</title>
     </programme>
     <programme start="20250904173500 +0000" stop="20250904174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Child-Rearing Hints &amp; Tips mini</title>
     </programme>
     <programme start="20250904174000 +0000" stop="20250904174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3870,6 +3864,9 @@
     </programme>
     <programme start="20250904202500 +0000" stop="20250904205300 +0000" channel="NHK World Premium HD.starhub">
         <title>Journeys in Japan Encore (B)</title>
+    </programme>
+    <programme start="20250904205300 +0000" stop="20250904205600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250904205600 +0000" stop="20250904210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -7084,11 +7081,17 @@
     <programme start="20250904163000 +0000" stop="20250904170000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Lunch On!</title>
     </programme>
-    <programme start="20250904170000 +0000" stop="20250904173000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250904170000 +0000" stop="20250904170100 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>NHK Newsline</title>
+    </programme>
+    <programme start="20250904170100 +0000" stop="20250904173000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250904173000 +0000" stop="20250904180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Today&#039;s Close-Up</title>
+    </programme>
+    <programme start="20250904180000 +0000" stop="20250904182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>NHK Newsline</title>
     </programme>
     <programme start="20250904182800 +0000" stop="20250904184300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Direct Talk</title>
@@ -7102,11 +7105,8 @@
     <programme start="20250904185500 +0000" stop="20250904190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
     </programme>
-    <programme start="20250904190000 +0000" stop="20250904192700 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Hometown Stories</title>
-    </programme>
-    <programme start="20250904192700 +0000" stop="20250904193000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Easy Japanese</title>
+    <programme start="20250904190000 +0000" stop="20250904193000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>NHK Newsline</title>
     </programme>
     <programme start="20250904193000 +0000" stop="20250904200000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Japanology Plus</title>
@@ -9203,7 +9203,7 @@
         <title>Benefit For The Basin</title>
     </programme>
     <programme start="20250904183000 +0000" stop="20250904192500 +0000" channel="Discovery HD.starhub">
-        <title>Alfasud A Rare Revival</title>
+        <title>Alfasud: A Rare Revival</title>
     </programme>
     <programme start="20250904192500 +0000" stop="20250904202000 +0000" channel="Discovery HD.starhub">
         <title>Its A Manses World</title>
