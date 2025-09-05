@@ -3871,9 +3871,6 @@
     <programme start="20250904202500 +0000" stop="20250904205300 +0000" channel="NHK World Premium HD.starhub">
         <title>Journeys in Japan Encore (B)</title>
     </programme>
-    <programme start="20250904205300 +0000" stop="20250904205600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
     <programme start="20250904205600 +0000" stop="20250904210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
@@ -3886,44 +3883,32 @@
     <programme start="20250904230000 +0000" stop="20250904231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 115</title>
     </programme>
-    <programme start="20250904231500 +0000" stop="20250905005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250904231500 +0000" stop="20250905010000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20250905005400 +0000" stop="20250905005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250905005500 +0000" stop="20250905010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20250905010000 +0000" stop="20250905010500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905010000 +0000" stop="20250905011000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20250905010500 +0000" stop="20250905015000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905011000 +0000" stop="20250905015500 +0000" channel="NHK World Premium HD.starhub">
         <title>Saturday Drama &quot;The Hometown Where Mother Awaits&quot; Eps. 1（New） (R)</title>
     </programme>
-    <programme start="20250905015000 +0000" stop="20250905015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20250905015500 +0000" stop="20250905022300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Darwin&#039;s Amazing Animals &quot;Animal Flocking&quot; (R)</title>
-    </programme>
-    <programme start="20250905022300 +0000" stop="20250905024600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Delicious Japan!</title>
-    </programme>
-    <programme start="20250905024600 +0000" stop="20250905025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20250905025000 +0000" stop="20250905025600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
-    </programme>
-    <programme start="20250905025600 +0000" stop="20250905030000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20250905030000 +0000" stop="20250905032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905015500 +0000" stop="20250905020400 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250905032000 +0000" stop="20250905033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Local Exquisite Omusubi</title>
+    <programme start="20250905020400 +0000" stop="20250905023200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Darwin&#039;s Amazing Animals &quot;Animal Flocking&quot; (R)</title>
+    </programme>
+    <programme start="20250905023200 +0000" stop="20250905030000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Delicious Japan!</title>
+    </programme>
+    <programme start="20250905030000 +0000" stop="20250905032300 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20250905032300 +0000" stop="20250905032800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Songs for Everyone</title>
+    </programme>
+    <programme start="20250905032800 +0000" stop="20250905033000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20250905033000 +0000" stop="20250905034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 87</title>
@@ -3931,10 +3916,10 @@
     <programme start="20250905034500 +0000" stop="20250905040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 115 (R)</title>
     </programme>
-    <programme start="20250905040000 +0000" stop="20250905040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905040000 +0000" stop="20250905041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250905040500 +0000" stop="20250905055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905041000 +0000" stop="20250905055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250905055000 +0000" stop="20250905055500 +0000" channel="NHK World Premium HD.starhub">
@@ -3943,22 +3928,22 @@
     <programme start="20250905055500 +0000" stop="20250905060000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Music Album</title>
     </programme>
-    <programme start="20250905060000 +0000" stop="20250905061000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905060000 +0000" stop="20250905061300 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20250905061000 +0000" stop="20250905063000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905061300 +0000" stop="20250905063300 +0000" channel="NHK World Premium HD.starhub">
         <title>Chinese Navi</title>
     </programme>
-    <programme start="20250905063000 +0000" stop="20250905065500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905063300 +0000" stop="20250905065800 +0000" channel="NHK World Premium HD.starhub">
         <title>Dear Japan (R)</title>
     </programme>
-    <programme start="20250905065500 +0000" stop="20250905074000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905065800 +0000" stop="20250905074300 +0000" channel="NHK World Premium HD.starhub">
         <title>We Hope Our Healthy Lives That Do Not Lead to Disease (R)</title>
     </programme>
-    <programme start="20250905074000 +0000" stop="20250905080500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905074300 +0000" stop="20250905080800 +0000" channel="NHK World Premium HD.starhub">
         <title>Haru&#039;s Weekend at Japanese Old House Cafe (R)</title>
     </programme>
-    <programme start="20250905080500 +0000" stop="20250905081000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250905080800 +0000" stop="20250905081000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
     <programme start="20250905081000 +0000" stop="20250905082000 +0000" channel="NHK World Premium HD.starhub">
@@ -8269,7 +8254,7 @@
     <programme start="20250905150400 +0000" stop="20250905152900 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250905152900 +0000" stop="20250905170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250905152900 +0000" stop="20250905172200 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>
     </programme>
     <programme start="20250904160000 +0000" stop="20250904163000 +0000" channel="Travelxp HD.starhub">
