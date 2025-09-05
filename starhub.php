@@ -2101,20 +2101,11 @@
     <programme start="20250905113000 +0000" stop="20250905130000 +0000" channel="beIN Sports 3.starhub">
         <title>Madrid P1 Day 4 QF Match 4</title>
     </programme>
-    <programme start="20250905130000 +0000" stop="20250905133000 +0000" channel="beIN Sports 3.starhub">
-        <title>Asuncion P2</title>
-    </programme>
-    <programme start="20250905133000 +0000" stop="20250905140000 +0000" channel="beIN Sports 3.starhub">
-        <title>Bundesliga Weekly 2025/26</title>
-    </programme>
-    <programme start="20250905140000 +0000" stop="20250905143000 +0000" channel="beIN Sports 3.starhub">
-        <title>Riyadh P1</title>
-    </programme>
-    <programme start="20250905143000 +0000" stop="20250905150000 +0000" channel="beIN Sports 3.starhub">
-        <title>Qatar Major</title>
-    </programme>
-    <programme start="20250905150000 +0000" stop="20250905163000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250905130000 +0000" stop="20250905143000 +0000" channel="beIN Sports 3.starhub">
         <title>Madrid P1 Day 4 QF Match 5</title>
+    </programme>
+    <programme start="20250905143000 +0000" stop="20250905160000 +0000" channel="beIN Sports 3.starhub">
+        <title>Madrid P1 Day 4 QF Match 6</title>
     </programme>
     <programme start="20250904153000 +0000" stop="20250904163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>

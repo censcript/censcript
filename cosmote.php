@@ -82,6 +82,14 @@
     <title>Football: SL Benfica - Fenerbahce SK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906150000 +0700" stop="20250906153000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906153000 +0700" stop="20250906160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>2025 Ballon d&#039; Or</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905131000 +0700" stop="20250905151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Como</title>
     <desc>Live: Tidak</desc>
@@ -142,6 +150,10 @@
     <title>Football: Torino - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906151000 +0700" stop="20250906171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905140000 +0700" stop="20250905160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Pafos FC</title>
     <desc>Live: Tidak</desc>
@@ -192,6 +204,10 @@
 </programme>
 <programme start="20250906120000 +0700" stop="20250906153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Philadelphia Eagles - Dallas Cowboys</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906153000 +0700" stop="20250906160000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905135500 +0700" stop="20250905160000 +0700" channel="COSMOTE Sport 4 HD">
@@ -249,10 +265,6 @@
 <programme start="20250906140000 +0700" stop="20250906160000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250905135500 +0700" stop="20250905144500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250905144500 +0700" stop="20250905154000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
@@ -362,6 +374,14 @@
     <title>Motorsports: Moto2 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250906150500 +0700" stop="20250906154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250906154500 +0700" stop="20250906170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250905140000 +0700" stop="20250905160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -428,6 +448,10 @@
 </programme>
 <programme start="20250906141000 +0700" stop="20250906151000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906151000 +0700" stop="20250906164000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905140000 +0700" stop="20250905160000 +0700" channel="COSMOTE Sport 7 HD">
@@ -497,6 +521,14 @@
 <programme start="20250906141000 +0700" stop="20250906150500 +0700" channel="COSMOTE Sport 7 HD">
     <title>ERC 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250906150500 +0700" stop="20250906153500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906153500 +0700" stop="20250906161500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905140000 +0700" stop="20250905160000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
