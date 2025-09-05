@@ -2613,11 +2613,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905214000 +0000" stop="20250905223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250904223000 +0000" stop="20250905010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: HF1, Halbfinale Damen</title>
+<programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905010000 +0000" stop="20250905030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: HF2, Halbfinale Damen</title>
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
@@ -2650,7 +2650,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
 </programme>
 <programme start="20250905110000 +0000" stop="20250905130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: HF2, Halbfinale Damen</title>
+    <title>US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905130000 +0000" stop="20250905133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
@@ -2832,11 +2832,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905000000 +0000" stop="20250905001500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (3)</title>
 </programme>
-<programme start="20250905001500 +0000" stop="20250905024500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Walker Cup, 1. Tag in St. Andrews (Schottland)</title>
+<programme start="20250905001500 +0000" stop="20250905004500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Omega European Masters</title>
 </programme>
-<programme start="20250905024500 +0000" stop="20250905050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Walker Cup, 2. Tag in St. Andrews (Schottland)</title>
+<programme start="20250905004500 +0000" stop="20250905020000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Official Film 2023</title>
+</programme>
+<programme start="20250905020000 +0000" stop="20250905040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Team USA Captain&#039;s Pick Show</title>
+</programme>
+<programme start="20250905040000 +0000" stop="20250905050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Team Europe Captain&#039;s Pick Show</title>
 </programme>
 <programme start="20250905050000 +0000" stop="20250905073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: FM Championship, 4. Tag in Norton, MA (USA)</title>
@@ -2976,7 +2982,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905153000 +0000" stop="20250905160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Gesagt. Gemeint: Mit Cramer und Köhler</title>
 </programme>
-<programme start="20250905160000 +0000" stop="20250905183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250905160000 +0000" stop="20250905163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250905163000 +0000" stop="20250905170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Deutschland vs. Slowakei - Die Analyse</title>
+</programme>
+<programme start="20250905170000 +0000" stop="20250905183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250905183000 +0000" stop="20250905200000 +0000" channel="Sky Sport News HD.skyde">
@@ -3123,11 +3135,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905213000 +0000" stop="20250905220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Legends: Thierry Henry</title>
 </programme>
-<programme start="20250904223000 +0000" stop="20250905010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: HF1, Halbfinale Damen</title>
+<programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905010000 +0000" stop="20250905030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: HF2, Halbfinale Damen</title>
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905030000 +0000" stop="20250905040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
@@ -3136,10 +3148,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250905043000 +0000" stop="20250905063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF1, Halbfinale Damen</title>
+    <title>US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905063000 +0000" stop="20250905083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF2, Halbfinale Damen</title>
+    <title>US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905083000 +0000" stop="20250905084500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
@@ -3148,10 +3160,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
 <programme start="20250905111500 +0000" stop="20250905131500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF1, Halbfinale Damen</title>
+    <title>US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905131500 +0000" stop="20250905151500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF2, Halbfinale Damen</title>
+    <title>US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905151500 +0000" stop="20250905153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
@@ -3171,11 +3183,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905213000 +0000" stop="20250905220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
 </programme>
-<programme start="20250904223000 +0000" stop="20250905010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: HF1, Halbfinale Damen</title>
+<programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905010000 +0000" stop="20250905030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: HF2, Halbfinale Damen</title>
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905030000 +0000" stop="20250905040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
@@ -3783,10 +3795,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905033000 +0000" stop="20250905041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250905041500 +0000" stop="20250905051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905041500 +0000" stop="20250905051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250905051000 +0000" stop="20250905060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905051500 +0000" stop="20250905060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250905060500 +0000" stop="20250905065500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3810,10 +3822,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905110500 +0000" stop="20250905115500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250905115500 +0000" stop="20250905125000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905115500 +0000" stop="20250905124500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250905125000 +0000" stop="20250905134000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905124500 +0000" stop="20250905134000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250905134000 +0000" stop="20250905142500 +0000" channel="Warner TV Serie HD.skyde">

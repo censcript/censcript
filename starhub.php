@@ -8180,7 +8180,7 @@
         <title>Highlights 2</title>
     </programme>
     <programme start="20250905030000 +0000" stop="20250905065500 +0000" channel="SPOTV2.starhub">
-        <title>Day 12 - Day Session Junior Quarter Final (Louis Armstrong)</title>
+        <title>Day 11 - Day Session Louis Armstrong)</title>
     </programme>
     <programme start="20250905065500 +0000" stop="20250905074000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 1 - Moto3</title>
