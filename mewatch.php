@@ -229,10 +229,10 @@
     <programme start="20250905130000 +0000" stop="20250905140000 +0000" channel="Channel 8.mewatch">
         <title>Perfectly Imperfect - EP 12</title>
     </programme>
-    <programme start="20250905140000 +0000" stop="20250905143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250905140000 +0000" stop="20250905143500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250905143000 +0000" stop="20250905150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250905143500 +0000" stop="20250905150000 +0000" channel="Channel 8.mewatch">
         <title>Xun Wei An Hui S1 - EP 5</title>
     </programme>
     <programme start="20250905150000 +0000" stop="20250905160000 +0000" channel="Channel 8.mewatch">
@@ -349,10 +349,10 @@
     <programme start="20250905140000 +0000" stop="20250905150000 +0000" channel="Channel U.mewatch">
         <title>Agency - EP 11</title>
     </programme>
-    <programme start="20250905150000 +0000" stop="20250905153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250905150000 +0000" stop="20250905153500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250905153000 +0000" stop="20250905163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250905153500 +0000" stop="20250905163000 +0000" channel="Channel U.mewatch">
         <title>Taiwan&#039;s 1001 Stories S10 - EP 14</title>
     </programme>
     <programme start="20250904160000 +0000" stop="20250905010000 +0000" channel="Suria.mewatch">
