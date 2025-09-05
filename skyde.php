@@ -2616,17 +2616,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905040000 +0000" stop="20250905060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
 </programme>
-<programme start="20250905060000 +0000" stop="20250905063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905050000 +0000" stop="20250905053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
-<programme start="20250905063000 +0000" stop="20250905070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905053000 +0000" stop="20250905060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20250905060000 +0000" stop="20250905063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
+</programme>
+<programme start="20250905063000 +0000" stop="20250905070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - STU, 1. Runde</title>
 </programme>
 <programme start="20250905070000 +0000" stop="20250905073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - SCR, 2. Runde</title>
@@ -3129,17 +3135,68 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905213000 +0000" stop="20250905220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Legends: Thierry Henry</title>
 </programme>
+<programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
+</programme>
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
+</programme>
+<programme start="20250905030000 +0000" stop="20250905040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Cincinnati</title>
+</programme>
+<programme start="20250905040000 +0000" stop="20250905043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Cincinnati</title>
+</programme>
+<programme start="20250905043000 +0000" stop="20250905063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
+</programme>
+<programme start="20250905063000 +0000" stop="20250905083000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
+</programme>
+<programme start="20250905083000 +0000" stop="20250905084500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Greatest 50</title>
+</programme>
+<programme start="20250905084500 +0000" stop="20250905111500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
+</programme>
+<programme start="20250905111500 +0000" stop="20250905131500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
+</programme>
+<programme start="20250905131500 +0000" stop="20250905151500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
+</programme>
+<programme start="20250905151500 +0000" stop="20250905153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Greatest 50</title>
+</programme>
+<programme start="20250905153000 +0000" stop="20250905160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, 12. Tag</title>
+</programme>
+<programme start="20250905160000 +0000" stop="20250905183000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: Doppelfinale Damen</title>
+</programme>
+<programme start="20250905183000 +0000" stop="20250905210000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: HF1, Halbfinale Herren</title>
+</programme>
+<programme start="20250905210000 +0000" stop="20250905213000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250905213000 +0000" stop="20250905220000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
+</programme>
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905040000 +0000" stop="20250905050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905030000 +0000" stop="20250905040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250905050000 +0000" stop="20250905052500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905040000 +0000" stop="20250905042500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>HotelPlaner Tour: Highlights Indoor Golf Group Challenge</title>
+</programme>
+<programme start="20250905042500 +0000" stop="20250905052500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: The Catch-Up Show</title>
 </programme>
 <programme start="20250905052500 +0000" stop="20250905055500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -3198,10 +3255,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905040000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905040000 +0000" stop="20250905050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
 <programme start="20250905050000 +0000" stop="20250905053500 +0000" channel="Sky Sport UHD.skyde">

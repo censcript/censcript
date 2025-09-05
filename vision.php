@@ -673,12 +673,6 @@
 <programme start="20250905120000 +0000" stop="20250905140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250905140000 +0000" stop="20250905160000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 5</title>
-</programme>
-<programme start="20250905160000 +0000" stop="20250905180000 +0000" channel="ANTV.vision">
-<title>Mojin Return To South China Sea</title>
-</programme>
 <programme start="20250905180000 +0000" stop="20250905193000 +0000" channel="ANTV.vision">
 <title>13</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250906003000 +0000" stop="20250906013000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250906013000 +0000" stop="20250906021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20250906021500 +0000" stop="20250906030000 +0000" channel="BTV.vision">
+<title>Endeus</title>
 </programme>
