@@ -94,6 +94,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906210000 +0700" stop="20250906213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906213000 +0700" stop="20250906233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Basel 1893 - FC Copenhagen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905195000 +0700" stop="20250905215000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -148,6 +156,10 @@
 </programme>
 <programme start="20250906192000 +0700" stop="20250906212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906212000 +0700" stop="20250906232000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Pisa - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905200000 +0700" stop="20250905220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -370,6 +382,14 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250906210500 +0700" stop="20250906215000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250906215000 +0700" stop="20250906222000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905200000 +0700" stop="20250905223500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -441,6 +461,10 @@
 <programme start="20250906190000 +0700" stop="20250906213000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250906213000 +0700" stop="20250906220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905200000 +0700" stop="20250905220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
