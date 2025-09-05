@@ -1,11 +1,3 @@
-<programme start="20250906020000 +0700" stop="20250906023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250906023000 +0700" stop="20250906030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250906030000 +0700" stop="20250906033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E1</title>
     <desc>Live: Tidak</desc>
@@ -158,6 +150,10 @@
     <title>Football: Genoa - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250907033000 +0700" stop="20250907040000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250906020000 +0700" stop="20250906040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Alverca - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -278,10 +274,6 @@
     <title>Basketball: Real Madrid - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250906011500 +0700" stop="20250906021000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250906021000 +0700" stop="20250906031000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -394,6 +386,10 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250907035500 +0700" stop="20250907050500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250906020000 +0700" stop="20250906050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
@@ -463,6 +459,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250907023000 +0700" stop="20250907033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250907033000 +0700" stop="20250907043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
