@@ -936,16 +936,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905120000 +0000" stop="20250905135000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Bulgarien - Spanien</title>
 </programme>
-<programme start="20250905135000 +0000" stop="20250905141000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250905135000 +0000" stop="20250905143000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250905141000 +0000" stop="20250905150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250905143000 +0000" stop="20250905152000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 2025/26: 4. Spieltag</title>
 </programme>
-<programme start="20250905150000 +0000" stop="20250905153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250905153000 +0000" stop="20250905172000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250905152000 +0000" stop="20250905172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Augsburg - FC Bayern München</title>
 </programme>
 <programme start="20250905172000 +0000" stop="20250905180000 +0000" channel="DAZN 1 HD.skyde">
@@ -3243,10 +3240,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905210000 +0000" stop="20250905220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf Ladies ET: Aramco Houston Championship, 1. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20250904223000 +0000" stop="20250905010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905010000 +0000" stop="20250905030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
 <programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport UHD.skyde">
@@ -3786,10 +3783,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905033000 +0000" stop="20250905041500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250905041500 +0000" stop="20250905051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905041500 +0000" stop="20250905051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250905051500 +0000" stop="20250905060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905051000 +0000" stop="20250905060500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20250905060500 +0000" stop="20250905065500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3813,10 +3810,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905110500 +0000" stop="20250905115500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250905115500 +0000" stop="20250905124500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905115500 +0000" stop="20250905125000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250905124500 +0000" stop="20250905134000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250905125000 +0000" stop="20250905134000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250905134000 +0000" stop="20250905142500 +0000" channel="Warner TV Serie HD.skyde">

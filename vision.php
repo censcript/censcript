@@ -655,9 +655,6 @@
 <programme start="20250906114500 +0000" stop="20250906121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250904233000 +0000" stop="20250905013000 +0000" channel="ANTV.vision">
-<title>Si Doel Anak Betawi</title>
-</programme>
 <programme start="20250905013000 +0000" stop="20250905050000 +0000" channel="ANTV.vision">
 <title>My Name Is Khan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250905230000 +0000" stop="20250905230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
+</programme>
+<programme start="20250905230300 +0000" stop="20250906003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
