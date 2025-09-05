@@ -1,7 +1,3 @@
-<programme start="20250905110000 +0700" stop="20250905130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Fenerbahce SK - SL Benfica</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250905130000 +0700" stop="20250905133000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -90,6 +86,10 @@
     <title>UEFA Champions League Magazine 2025-26 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906130000 +0700" stop="20250906150000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SL Benfica - Fenerbahce SK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905110000 +0700" stop="20250905131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -148,6 +148,10 @@
 </programme>
 <programme start="20250906110000 +0700" stop="20250906131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906131000 +0700" stop="20250906151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905120000 +0700" stop="20250905140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +266,6 @@
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250905120000 +0700" stop="20250905125500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250905125500 +0700" stop="20250905135500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -374,13 +374,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250905100000 +0700" stop="20250905123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Giannis Kountourakis - Andreas Loizas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250905123000 +0700" stop="20250905125000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E14</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250906133500 +0700" stop="20250906142000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250905125000 +0700" stop="20250905140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
@@ -446,6 +442,10 @@
     <title>Handball: SC Magdeburg - ThSV Eisenach</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906135000 +0700" stop="20250906141000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250905120000 +0700" stop="20250905140000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -509,6 +509,10 @@
 <programme start="20250906124000 +0700" stop="20250906131000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906131000 +0700" stop="20250906141000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>ERC 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250905120000 +0700" stop="20250905140000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
