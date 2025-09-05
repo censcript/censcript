@@ -1938,98 +1938,95 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250905201500 +0000" stop="20250905220500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Mountainhead - Gipfel der Macht</title>
 </programme>
-<programme start="20250904222000 +0000" stop="20250904224500 +0000" channel="Sky Crime HD.skyde">
-    <title>Verschwunden: Der Fall Eloi Rolland</title>
+<programme start="20250908223000 +0000" stop="20250908232000 +0000" channel="Sky Crime HD.skyde">
+    <title>Die Killer Nanny</title>
 </programme>
-<programme start="20250904224500 +0000" stop="20250904231500 +0000" channel="Sky Crime HD.skyde">
-    <title>Verschwunden: Der Fall Eloi Rolland</title>
+<programme start="20250908232000 +0000" stop="20250909000500 +0000" channel="Sky Crime HD.skyde">
+    <title>Die Killer Nanny</title>
 </programme>
-<programme start="20250904231500 +0000" stop="20250905000000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killerjagd - Wettlauf mit dem Bösen</title>
+<programme start="20250909000500 +0000" stop="20250909005000 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250905000000 +0000" stop="20250905005000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killerjagd - Wettlauf mit dem Bösen</title>
+<programme start="20250909005000 +0000" stop="20250909013500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250905005000 +0000" stop="20250905013000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909013500 +0000" stop="20250909021500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Coroner - Fälle der Rechtsmedizin</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905021500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909021500 +0000" stop="20250909030000 +0000" channel="Sky Crime HD.skyde">
     <title>Der Coroner - Fälle der Rechtsmedizin</title>
 </programme>
-<programme start="20250905021500 +0000" stop="20250905030000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
+<programme start="20250909030000 +0000" stop="20250909033500 +0000" channel="Sky Crime HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
-<programme start="20250905030000 +0000" stop="20250905035000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Mörder-Skala: Das Böse im Visier</title>
-</programme>
-<programme start="20250905035000 +0000" stop="20250905044000 +0000" channel="Sky Crime HD.skyde">
-    <title>Whistleblower - Der Preis der Wahrheit</title>
-</programme>
-<programme start="20250905044000 +0000" stop="20250905052500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909033500 +0000" stop="20250909042500 +0000" channel="Sky Crime HD.skyde">
     <title>Killer on the Line - Notruf Mord</title>
 </programme>
-<programme start="20250905052500 +0000" stop="20250905061000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909042500 +0000" stop="20250909051500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20250909051500 +0000" stop="20250909060000 +0000" channel="Sky Crime HD.skyde">
     <title>Killer Stories - Den Mördern auf der Spur</title>
 </programme>
-<programme start="20250905061000 +0000" stop="20250905070000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Stories - Den Mördern auf der Spur</title>
+<programme start="20250909060000 +0000" stop="20250909065000 +0000" channel="Sky Crime HD.skyde">
+    <title>Fatales Vertrauen - Dem Mörder so nah</title>
 </programme>
-<programme start="20250905070000 +0000" stop="20250905074500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909065000 +0000" stop="20250909074000 +0000" channel="Sky Crime HD.skyde">
     <title>Diabolical - Teuflische Morde</title>
 </programme>
-<programme start="20250905074500 +0000" stop="20250905083500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909074000 +0000" stop="20250909082500 +0000" channel="Sky Crime HD.skyde">
     <title>Diabolical - Teuflische Morde</title>
 </programme>
-<programme start="20250905083500 +0000" stop="20250905092500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909082500 +0000" stop="20250909091500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20250905092500 +0000" stop="20250905101000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909091500 +0000" stop="20250909100500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20250905101000 +0000" stop="20250905110000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909100500 +0000" stop="20250909105000 +0000" channel="Sky Crime HD.skyde">
     <title>Der Coroner - Fälle der Rechtsmedizin</title>
 </programme>
-<programme start="20250905110000 +0000" stop="20250905115000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909105000 +0000" stop="20250909114000 +0000" channel="Sky Crime HD.skyde">
     <title>Der Coroner - Fälle der Rechtsmedizin</title>
 </programme>
-<programme start="20250905115000 +0000" stop="20250905123500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909114000 +0000" stop="20250909122500 +0000" channel="Sky Crime HD.skyde">
     <title>Killer Stories - Den Mördern auf der Spur</title>
 </programme>
-<programme start="20250905123500 +0000" stop="20250905132000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Stories - Den Mördern auf der Spur</title>
+<programme start="20250909122500 +0000" stop="20250909131500 +0000" channel="Sky Crime HD.skyde">
+    <title>Fatales Vertrauen - Dem Mörder so nah</title>
 </programme>
-<programme start="20250905132000 +0000" stop="20250905141000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killerjagd - Wettlauf mit dem Bösen</title>
+<programme start="20250909131500 +0000" stop="20250909140500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250905141000 +0000" stop="20250905150000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killerjagd - Wettlauf mit dem Bösen</title>
+<programme start="20250909140500 +0000" stop="20250909145500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250905150000 +0000" stop="20250905155000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909145500 +0000" stop="20250909154500 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20250905155000 +0000" stop="20250905164000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250909154500 +0000" stop="20250909163000 +0000" channel="Sky Crime HD.skyde">
     <title>Der Killer in meinem Dorf</title>
 </programme>
-<programme start="20250905164000 +0000" stop="20250905172500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Stories - Den Mördern auf der Spur</title>
+<programme start="20250909163000 +0000" stop="20250909172000 +0000" channel="Sky Crime HD.skyde">
+    <title>Fatales Vertrauen - Dem Mörder so nah</title>
 </programme>
-<programme start="20250905172500 +0000" stop="20250905181500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer Stories - Den Mördern auf der Spur</title>
+<programme start="20250909172000 +0000" stop="20250909181500 +0000" channel="Sky Crime HD.skyde">
+    <title>Fatales Vertrauen - Dem Mörder so nah</title>
 </programme>
-<programme start="20250905181500 +0000" stop="20250905190000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Killer Nanny</title>
+<programme start="20250909181500 +0000" stop="20250909191000 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
 </programme>
-<programme start="20250905190000 +0000" stop="20250905195500 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Killer Nanny</title>
+<programme start="20250909191000 +0000" stop="20250909200500 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
 </programme>
-<programme start="20250905195500 +0000" stop="20250905204000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Killer Nanny</title>
+<programme start="20250909200500 +0000" stop="20250909205000 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250905204000 +0000" stop="20250905213000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killerjagd - Wettlauf mit dem Bösen</title>
+<programme start="20250909205000 +0000" stop="20250909214000 +0000" channel="Sky Crime HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20250905213000 +0000" stop="20250905222000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killerjagd - Wettlauf mit dem Bösen</title>
+<programme start="20250909214000 +0000" stop="20250909221000 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
 </programme>
 <programme start="20250904224000 +0000" stop="20250904232500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Coast Guard: Cape Disappointment - Pacific Northwest</title>
@@ -2616,17 +2613,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905043000 +0000" stop="20250905060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
 </programme>
-<programme start="20250905060000 +0000" stop="20250905063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905050000 +0000" stop="20250905053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
-<programme start="20250905063000 +0000" stop="20250905070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250905053000 +0000" stop="20250905060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20250905060000 +0000" stop="20250905063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
+</programme>
+<programme start="20250905063000 +0000" stop="20250905070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: ASK - STU, 1. Runde</title>
 </programme>
 <programme start="20250905070000 +0000" stop="20250905073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - SCR, 2. Runde</title>
@@ -3180,14 +3183,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905043000 +0000" stop="20250905050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905030000 +0000" stop="20250905040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250905050000 +0000" stop="20250905052500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905040000 +0000" stop="20250905042500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>HotelPlaner Tour: Highlights Indoor Golf Group Challenge</title>
+</programme>
+<programme start="20250905042500 +0000" stop="20250905052500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: The Catch-Up Show</title>
 </programme>
 <programme start="20250905052500 +0000" stop="20250905055500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
