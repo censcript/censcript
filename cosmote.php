@@ -94,6 +94,10 @@
     <title>Football: FC Basel 1893 - FC Copenhagen</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250906233000 +0700" stop="20250907013000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Bromley F.C - Gillingham F.C (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250905215000 +0700" stop="20250905235000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -148,6 +152,10 @@
 </programme>
 <programme start="20250906212000 +0700" stop="20250906232000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - AS Roma</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250906232000 +0700" stop="20250907013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905220000 +0700" stop="20250906000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +270,6 @@
     <title>Basketball: Promitheas - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250905214500 +0700" stop="20250905224000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250905224000 +0700" stop="20250905234000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -374,9 +378,9 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250905200000 +0700" stop="20250905223500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250906231000 +0700" stop="20250907000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250905223500 +0700" stop="20250905233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>

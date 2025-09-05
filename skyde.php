@@ -3183,17 +3183,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905013000 +0000" stop="20250905040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905030000 +0000" stop="20250905040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905040000 +0000" stop="20250905050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
 </programme>
-<programme start="20250905040000 +0000" stop="20250905042500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250905050000 +0000" stop="20250905052500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>HotelPlaner Tour: Highlights Indoor Golf Group Challenge</title>
-</programme>
-<programme start="20250905042500 +0000" stop="20250905052500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: The Catch-Up Show</title>
 </programme>
 <programme start="20250905052500 +0000" stop="20250905055500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -3252,10 +3249,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250904223000 +0000" stop="20250905013000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905013000 +0000" stop="20250905050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250905013000 +0000" stop="20250905030000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: N. Osaka (JAP) - A. Anisimova (USA), Halbfinale Damen</title>
 </programme>
-<programme start="20250905043000 +0000" stop="20250905050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250905030000 +0000" stop="20250905050000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
 <programme start="20250905050000 +0000" stop="20250905053500 +0000" channel="Sky Sport UHD.skyde">
