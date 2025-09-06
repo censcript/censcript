@@ -2231,7 +2231,7 @@
         <title>Movie - Pammal K.Sambandham</title>
     </programme>
     <programme start="20250906073000 +0000" stop="20250906103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - MR.Bharath</title>
+        <title>Movie - Mr. Bharath</title>
     </programme>
     <programme start="20250906103000 +0000" stop="20250906133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Jeyam Kondaan</title>
