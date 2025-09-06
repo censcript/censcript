@@ -1,7 +1,3 @@
-<programme start="20250907020000 +0700" stop="20250907023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250907023000 +0700" stop="20250907043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -64,6 +60,10 @@
 </programme>
 <programme start="20250908010000 +0700" stop="20250908030000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Copenhagen - FC Basel 1893</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250908030000 +0700" stop="20250908050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Celtic FC - FC Kairat Almaty</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907013000 +0700" stop="20250907033000 +0700" channel="COSMOTE Sport 2 HD">
@@ -130,10 +130,6 @@
     <title>Football: FC Internazionale Milano - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250907020000 +0700" stop="20250907023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250907023000 +0700" stop="20250907043000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - Santa Clara (L)</title>
     <desc>Live: Ya</desc>
@@ -193,10 +189,6 @@
 <programme start="20250908020000 +0700" stop="20250908040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - FC Porto</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250907000000 +0700" stop="20250907023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Connecticut Sun - Phoenix Mercury (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250907023000 +0700" stop="20250907042500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Barcelona</title>
@@ -262,8 +254,8 @@
     <title>Basketball: Baskonia - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250907015500 +0700" stop="20250907025500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
+<programme start="20250908030000 +0700" stop="20250908050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907025500 +0700" stop="20250907035500 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,9 +366,9 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250907000000 +0700" stop="20250907023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250908031500 +0700" stop="20250908042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907023000 +0700" stop="20250907033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
@@ -668,6 +660,10 @@
 </programme>
 <programme start="20250908000000 +0700" stop="20250908032500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: New York Jets - Pittsburgh Steelers (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250908032500 +0700" stop="20250908065500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Green Bay Packers - Detroit Lions (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
