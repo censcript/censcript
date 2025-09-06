@@ -2558,13 +2558,13 @@
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
+    <title>Live US Open: Finale Herren</title>
 </programme>
 <programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
 <programme start="20250907210000 +0000" stop="20250907233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
+    <title>US Open: Finale Herren</title>
 </programme>
 <programme start="20250906220000 +0000" stop="20250906221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 1. Spieltag, Samstag</title>
@@ -3005,13 +3005,13 @@
     <title>US Open: Highlights Show, Finaltag Damen</title>
 </programme>
 <programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: Finale Herren</title>
+    <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250907210000 +0000" stop="20250907233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Finale Herren</title>
+    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250906223000 +0000" stop="20250906224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
@@ -3062,7 +3062,7 @@
     <title>Live Golf: Walker Cup, Foursome Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: Finale Herren</title>
+    <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250907203000 +0000" stop="20250907220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
