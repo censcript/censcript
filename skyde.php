@@ -3021,38 +3021,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250906200000 +0000" stop="20250906220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: FC Bromley - FC Gillingham, 7. Spieltag</title>
 </programme>
-<programme start="20250905221500 +0000" stop="20250905225000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, 12. Tag</title>
+<programme start="20250905220000 +0000" stop="20250905223000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
-<programme start="20250905225000 +0000" stop="20250906031500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
+<programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: HF2, Halbfinale Herren</title>
 </programme>
-<programme start="20250906031500 +0000" stop="20250906043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
+<programme start="20250906010000 +0000" stop="20250906030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: HF1, Halbfinale Herren</title>
 </programme>
-<programme start="20250906043000 +0000" stop="20250906063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: K. Siniaková (CZE) / T. Townsend (USA) - G. Dabrowski (CAN) / E. Routliffe (NZL), Doppelfinale Damen</title>
+<programme start="20250906030000 +0000" stop="20250906053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Doppelfinale Damen</title>
 </programme>
-<programme start="20250906063000 +0000" stop="20250906083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
+<programme start="20250906053000 +0000" stop="20250906073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: HF2, Halbfinale Herren</title>
 </programme>
-<programme start="20250906083000 +0000" stop="20250906110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: K. Siniaková (CZE) / T. Townsend (USA) - G. Dabrowski (CAN) / E. Routliffe (NZL), Doppelfinale Damen</title>
+<programme start="20250906073000 +0000" stop="20250906080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250906080000 +0000" stop="20250906103000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Doppelfinale Damen</title>
+</programme>
+<programme start="20250906103000 +0000" stop="20250906110000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250906110000 +0000" stop="20250906130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
+    <title>US Open: HF1, Halbfinale Herren</title>
 </programme>
 <programme start="20250906130000 +0000" stop="20250906133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250906133000 +0000" stop="20250906153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
+    <title>US Open: HF2, Halbfinale Herren</title>
 </programme>
 <programme start="20250906153000 +0000" stop="20250906160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906160000 +0000" stop="20250906183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
+    <title>Live US Open: Doppelfinale Herren</title>
 </programme>
 <programme start="20250906183000 +0000" stop="20250906190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3061,7 +3067,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906193000 +0000" stop="20250906223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
+    <title>Live US Open: Finale Damen</title>
 </programme>
 <programme start="20250905220000 +0000" stop="20250905223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
