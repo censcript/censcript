@@ -1078,9 +1078,198 @@
 <programme start="20250906163000 +0000" stop="20250905170000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250905172200 +0000" stop="20250905193000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga &#039;25/26: ALB Vs MIR (L)</title>
+</programme>
+<programme start="20250905193000 +0000" stop="20250905195000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20250905195000 +0000" stop="20250905202000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 16</title>
+</programme>
+<programme start="20250905202000 +0000" stop="20250905222000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: LIV Vs ARS</title>
+</programme>
+<programme start="20250905222000 +0000" stop="20250905225000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20250905225000 +0000" stop="20250905232000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 4</title>
+</programme>
+<programme start="20250905232000 +0000" stop="20250905235000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 21</title>
+</programme>
+<programme start="20250905235000 +0000" stop="20250906005000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally C&#039;ship HL 2025</title>
+</programme>
+<programme start="20250906005000 +0000" stop="20250906015000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>The F1 Show 2025: GP d&#039;Italia</title>
+</programme>
+<programme start="20250906015000 +0000" stop="20250906023500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 3 2025: Monza</title>
+</programme>
+<programme start="20250906023500 +0000" stop="20250906032000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2 2025: Monza</title>
+</programme>
+<programme start="20250906032000 +0000" stop="20250906035000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 3 2025: Monza</title>
+</programme>
+<programme start="20250906035000 +0000" stop="20250906042000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2 2025: Monza</title>
+</programme>
+<programme start="20250906042000 +0000" stop="20250906050500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Porsche Mobil 1 Supercup 2025</title>
+</programme>
+<programme start="20250906050500 +0000" stop="20250906060500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Practice 2025: GP d&#039;Italia</title>
+</programme>
+<programme start="20250906060500 +0000" stop="20250906071000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Practice 2025: GP d&#039;Italia</title>
+</programme>
+<programme start="20250906071000 +0000" stop="20250906080000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 3 2025: Monza (L)</title>
+</programme>
+<programme start="20250906080000 +0000" stop="20250906083300 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally Magazine Show</title>
+</programme>
+<programme start="20250906083300 +0000" stop="20250906090500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Porsche Mobil 1 Supercup (L)</title>
+</programme>
+<programme start="20250906090500 +0000" stop="20250906092500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20250906092500 +0000" stop="20250906095500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>GP Confidential 2025, Ep 16</title>
+</programme>
+<programme start="20250906095500 +0000" stop="20250906102500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Porsche Carrera Cup Germany HL</title>
+</programme>
+<programme start="20250906102500 +0000" stop="20250906113000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Practice: GP d&#039;Italia (L)</title>
+</programme>
+<programme start="20250906113000 +0000" stop="20250906114000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20250906114000 +0000" stop="20250906121000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FastZone 2025, Ep 21</title>
+</programme>
+<programme start="20250906121000 +0000" stop="20250906130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2 2025: Monza (L)</title>
+</programme>
+<programme start="20250906130000 +0000" stop="20250906131500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20250906131500 +0000" stop="20250906135500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Qual. Pre Show: d&#039;Italia (L)</title>
+</programme>
+<programme start="20250906135500 +0000" stop="20250906150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Qualifying &#039;25: d&#039;Italia (L)</title>
+</programme>
+<programme start="20250906150000 +0000" stop="20250906160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Qualifying Post Show (L)</title>
+</programme>
+<programme start="20250906160000 +0000" stop="20250906163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Pirelli GP d&#039;Italia 2025 (L)</title>
+</programme>
+<programme start="20250906163000 +0000" stop="20250905170000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Premier Padel 2025: Madrid (L)</title>
+</programme>
+<programme start="20250905173000 +0000" stop="20250905190000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Bastad Day 1</title>
+</programme>
+<programme start="20250905190000 +0000" stop="20250905203000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Bastad Day 2</title>
+</programme>
+<programme start="20250905203000 +0000" stop="20250905205000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Classic Shorts: 2013</title>
+</programme>
+<programme start="20250905205000 +0000" stop="20250905222000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Bastad Day 2</title>
+</programme>
+<programme start="20250905222000 +0000" stop="20250905235000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 &#039;25: Queen&#039;s QF 4</title>
+</programme>
+<programme start="20250905235000 +0000" stop="20250906012000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 &#039;25: Queen&#039;s SF 1</title>
+</programme>
+<programme start="20250906012000 +0000" stop="20250906025000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 500 &#039;25: Queen&#039;s SF 2</title>
+</programme>
+<programme start="20250906025000 +0000" stop="20250906042000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 &#039;25: Indian Wells</title>
+</programme>
+<programme start="20250906042000 +0000" stop="20250906055000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 &#039;25: Indian Wells</title>
+</programme>
+<programme start="20250906055000 +0000" stop="20250906072000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 &#039;25: Indian Wells</title>
+</programme>
+<programme start="20250906072000 +0000" stop="20250906084500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of RG 2025: Day 5 Women</title>
+</programme>
+<programme start="20250906084500 +0000" stop="20250906101500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of RG 2025: Day 5 Women</title>
+</programme>
+<programme start="20250906101500 +0000" stop="20250906121200 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of RG 2025: Day 5 Men</title>
+</programme>
+<programme start="20250906121200 +0000" stop="20250906144200 +0000" channel="beIN Sports 2.mncvision">
+    <title>Women&#039;s Rugby: USA Vs SAM (L)</title>
+</programme>
+<programme start="20250906144200 +0000" stop="20250906154200 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20250906154200 +0000" stop="20250906161200 +0000" channel="beIN Sports 2.mncvision">
+    <title>Women&#039;s Rugby: ENG Vs AUS (L)</title>
+</programme>
+<programme start="20250905173000 +0000" stop="20250905190000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad Day 1</title>
+</programme>
+<programme start="20250905190000 +0000" stop="20250905203000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad Day 2</title>
+</programme>
+<programme start="20250905203000 +0000" stop="20250905205000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Classic Shorts: 2013</title>
+</programme>
+<programme start="20250905205000 +0000" stop="20250905222000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Bastad Day 2</title>
+</programme>
+<programme start="20250905222000 +0000" stop="20250905235000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 &#039;25: Queen&#039;s QF 4</title>
+</programme>
+<programme start="20250905235000 +0000" stop="20250906012000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 &#039;25: Queen&#039;s SF 1</title>
+</programme>
+<programme start="20250906012000 +0000" stop="20250906025000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 500 &#039;25: Queen&#039;s SF 2</title>
+</programme>
+<programme start="20250906025000 +0000" stop="20250906042000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Indian Wells</title>
+</programme>
+<programme start="20250906042000 +0000" stop="20250906055000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Indian Wells</title>
+</programme>
+<programme start="20250906055000 +0000" stop="20250906072000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Indian Wells</title>
+</programme>
+<programme start="20250906072000 +0000" stop="20250906084500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Women</title>
+</programme>
+<programme start="20250906084500 +0000" stop="20250906101500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Women</title>
+</programme>
+<programme start="20250906101500 +0000" stop="20250906121200 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of RG 2025: Day 5 Men</title>
+</programme>
+<programme start="20250906121200 +0000" stop="20250906144200 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Women&#039;s Rugby: USA Vs SAM (L)</title>
+</programme>
+<programme start="20250906144200 +0000" stop="20250906154200 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20250906154200 +0000" stop="20250906161200 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Women&#039;s Rugby: ENG Vs AUS (L)</title>
+</programme>
 <programme start="20250905180000 +0000" stop="20250905193000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Madrid (L)</title>
 </programme>
