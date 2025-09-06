@@ -2215,8 +2215,8 @@
     <programme start="20250905170000 +0000" stop="20250905200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Brindhaavanam</title>
     </programme>
-    <programme start="20250905200000 +0000" stop="20250905220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250905200000 +0000" stop="20250905223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pengal</title>
     </programme>
     <programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Pesadha Kannum Pesume</title>
@@ -7562,7 +7562,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20250905213000 +0000" stop="20250905220000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsnight</title>
+        <title>Ukrainecast</title>
     </programme>
     <programme start="20250905220000 +0000" stop="20250905223000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
