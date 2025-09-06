@@ -2218,14 +2218,26 @@
     <programme start="20250905200000 +0000" stop="20250905220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250905220000 +0000" stop="20250906040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pesadha Kannum Pesume</title>
     </programme>
-    <programme start="20250906040000 +0000" stop="20250906100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250906010000 +0000" stop="20250906013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250906100000 +0000" stop="20250906160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250906013000 +0000" stop="20250906043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Attakathi</title>
+    </programme>
+    <programme start="20250906043000 +0000" stop="20250906073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pammal K.Sambandham</title>
+    </programme>
+    <programme start="20250906073000 +0000" stop="20250906103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - MR.Bharath</title>
+    </programme>
+    <programme start="20250906103000 +0000" stop="20250906133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Jeyam Kondaan</title>
+    </programme>
+    <programme start="20250906133000 +0000" stop="20250906170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Guntur Kaaram</title>
     </programme>
     <programme start="20250905160000 +0000" stop="20250905173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Bastad Day 1 De Jong v Rejchtman Vinciguerra</title>
