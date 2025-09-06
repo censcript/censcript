@@ -78,10 +78,6 @@
     <title>Football: Pafos FC - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250906171000 +0700" stop="20250906192000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - Levadiakos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250906192000 +0700" stop="20250906212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -146,10 +142,6 @@
     <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250906180000 +0700" stop="20250906200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Taawon - Al Nassr</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250906200000 +0700" stop="20250906220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - FC Porto</title>
     <desc>Live: Tidak</desc>
@@ -210,8 +202,8 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250906180000 +0700" stop="20250906200000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tofas - Anadolu Efes</title>
+<programme start="20250907200000 +0700" stop="20250907220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Alverca - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250906200000 +0700" stop="20250906220500 +0700" channel="COSMOTE Sport 4 HD">
@@ -277,10 +269,6 @@
 <programme start="20250907193500 +0700" stop="20250907213500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Vanoli Cremona - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250906184000 +0700" stop="20250906194500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250906194500 +0700" stop="20250906210500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
@@ -394,6 +382,14 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250907202000 +0700" stop="20250907205000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250907205000 +0700" stop="20250907213500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250906190000 +0700" stop="20250906213000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -466,8 +462,12 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250906190000 +0700" stop="20250906200000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250907201500 +0700" stop="20250907203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E18</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250907203000 +0700" stop="20250907210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250906200000 +0700" stop="20250906220000 +0700" channel="COSMOTE Sport 7 HD">
@@ -542,8 +542,12 @@
     <title>ERC 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250906180000 +0700" stop="20250906200000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250907200500 +0700" stop="20250907203000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250907203000 +0700" stop="20250907210000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250906200000 +0700" stop="20250906220000 +0700" channel="COSMOTE Sport 8 HD">
@@ -614,8 +618,12 @@
     <title>Athletics: World Athletics Continental Tour Gold 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250906180000 +0700" stop="20250906200000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250907200000 +0700" stop="20250907203000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250907203000 +0700" stop="20250907210000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250906200000 +0700" stop="20250906220000 +0700" channel="COSMOTE Sport 9 HD">
@@ -663,6 +671,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907180000 +0700" stop="20250907200000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250907200000 +0700" stop="20250907220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
