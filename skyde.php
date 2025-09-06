@@ -2554,7 +2554,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
+    <title>Live US Open: HF2, Halbfinale Herren</title>
 </programme>
 <programme start="20250906010000 +0000" stop="20250906030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
@@ -2578,7 +2578,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
 </programme>
 <programme start="20250906060000 +0000" stop="20250906080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
+    <title>US Open: HF2, Halbfinale Herren</title>
 </programme>
 <programme start="20250906080000 +0000" stop="20250906083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
@@ -2602,7 +2602,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: 90in30: GAK - STU, 5. Runde</title>
 </programme>
 <programme start="20250906130000 +0000" stop="20250906150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
+    <title>US Open: HF1, Halbfinale Herren</title>
 </programme>
 <programme start="20250906150000 +0000" stop="20250906153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2611,7 +2611,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906160000 +0000" stop="20250906183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
+    <title>Live US Open: Doppelfinale Herren</title>
 </programme>
 <programme start="20250906183000 +0000" stop="20250906190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -2620,7 +2620,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906193000 +0000" stop="20250906223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
+    <title>Live US Open: Finale Damen</title>
 </programme>
 <programme start="20250905220000 +0000" stop="20250905230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 2. Spieltag</title>
