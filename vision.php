@@ -472,6 +472,9 @@
 <programme start="20250906080000 +0000" stop="20250906091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
+<programme start="20250906091500 +0000" stop="20250906100000 +0000" channel="Trans TV.vision">
+<title>Sehari Jadi Ratu</title>
+</programme>
 <programme start="20250906100000 +0000" stop="20250906103000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250906150000 +0000" stop="20250906160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
-</programme>
-<programme start="20250906160000 +0000" stop="20250906163000 +0000" channel="BTV.vision">
-<title>Dari Nol</title>
 </programme>
