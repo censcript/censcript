@@ -2550,35 +2550,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250906213500 +0000" stop="20250906222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Killer Performance - Manipulative Mörder</title>
 </programme>
-<programme start="20250905220000 +0000" stop="20250905223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
+<programme start="20250905221500 +0000" stop="20250905225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>US Open: Highlights Show, 12. Tag</title>
 </programme>
-<programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: HF2, Halbfinale Herren</title>
+<programme start="20250905225000 +0000" stop="20250906031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
 </programme>
-<programme start="20250906010000 +0000" stop="20250906030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250906031500 +0000" stop="20250906051000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SCR Altach, 5. Runde</title>
 </programme>
-<programme start="20250906030000 +0000" stop="20250906033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20250906033000 +0000" stop="20250906040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20250906040000 +0000" stop="20250906043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Nico Langmann)</title>
-</programme>
-<programme start="20250906043000 +0000" stop="20250906050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: GAK - STU, 5. Runde</title>
-</programme>
-<programme start="20250906050000 +0000" stop="20250906053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20250906053000 +0000" stop="20250906060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 5. Runde</title>
-</programme>
-<programme start="20250906060000 +0000" stop="20250906080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: HF2, Halbfinale Herren</title>
+<programme start="20250906051000 +0000" stop="20250906080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
 </programme>
 <programme start="20250906080000 +0000" stop="20250906083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
@@ -2602,7 +2584,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: 90in30: GAK - STU, 5. Runde</title>
 </programme>
 <programme start="20250906130000 +0000" stop="20250906150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: HF1, Halbfinale Herren</title>
+    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
 </programme>
 <programme start="20250906150000 +0000" stop="20250906153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2611,7 +2593,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906160000 +0000" stop="20250906183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: Doppelfinale Herren</title>
+    <title>Live US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
 </programme>
 <programme start="20250906183000 +0000" stop="20250906190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -2620,7 +2602,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906193000 +0000" stop="20250906223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: Finale Damen</title>
+    <title>Live US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
 </programme>
 <programme start="20250905220000 +0000" stop="20250905230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 2. Spieltag</title>
@@ -3021,44 +3003,35 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250906200000 +0000" stop="20250906220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: FC Bromley - FC Gillingham, 7. Spieltag</title>
 </programme>
-<programme start="20250905220000 +0000" stop="20250905223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
+<programme start="20250905221500 +0000" stop="20250905225000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, 12. Tag</title>
 </programme>
-<programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: HF2, Halbfinale Herren</title>
+<programme start="20250905225000 +0000" stop="20250906031500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
 </programme>
-<programme start="20250906010000 +0000" stop="20250906030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF1, Halbfinale Herren</title>
+<programme start="20250906031500 +0000" stop="20250906051500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
 </programme>
-<programme start="20250906030000 +0000" stop="20250906053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Doppelfinale Damen</title>
+<programme start="20250906051500 +0000" stop="20250906071500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: K. Siniaková (CZE) / T. Townsend (USA) - G. Dabrowski (CAN) / E. Routliffe (NZL), Doppelfinale Damen</title>
 </programme>
-<programme start="20250906053000 +0000" stop="20250906073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF2, Halbfinale Herren</title>
+<programme start="20250906071500 +0000" stop="20250906101500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
 </programme>
-<programme start="20250906073000 +0000" stop="20250906080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250906101500 +0000" stop="20250906121500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
+</programme>
+<programme start="20250906121500 +0000" stop="20250906124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250906080000 +0000" stop="20250906103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Doppelfinale Damen</title>
-</programme>
-<programme start="20250906103000 +0000" stop="20250906110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Cincinnati</title>
-</programme>
-<programme start="20250906110000 +0000" stop="20250906130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF1, Halbfinale Herren</title>
-</programme>
-<programme start="20250906130000 +0000" stop="20250906133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250906133000 +0000" stop="20250906153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: HF2, Halbfinale Herren</title>
+<programme start="20250906124500 +0000" stop="20250906153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
 </programme>
 <programme start="20250906153000 +0000" stop="20250906160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906160000 +0000" stop="20250906183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: Doppelfinale Herren</title>
+    <title>Live US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
 </programme>
 <programme start="20250906183000 +0000" stop="20250906190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
@@ -3067,25 +3040,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>US Open: Highlights Show, 13. Tag</title>
 </programme>
 <programme start="20250906193000 +0000" stop="20250906223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live US Open: Finale Damen</title>
+    <title>Live US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
 </programme>
-<programme start="20250905220000 +0000" stop="20250905223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
+<programme start="20250905221500 +0000" stop="20250905225000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>US Open: Highlights Show, 12. Tag</title>
 </programme>
-<programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: HF2, Halbfinale Herren</title>
+<programme start="20250905225000 +0000" stop="20250906031500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
 </programme>
-<programme start="20250906010000 +0000" stop="20250906030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>US Open: HF1, Halbfinale Herren</title>
+<programme start="20250906031500 +0000" stop="20250906051500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>US Open: N. Djokovic (SRB) - C. Alcaraz (ESP), Halbfinale Herren</title>
 </programme>
-<programme start="20250906030000 +0000" stop="20250906034500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>World Surf League: Replay: Tahiti Pro Finals Day</title>
-</programme>
-<programme start="20250906034500 +0000" stop="20250906050500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250906051500 +0000" stop="20250906063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Training - GP Katalonien</title>
-</programme>
-<programme start="20250906050500 +0000" stop="20250906063500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: 2. Freies Training - GP Italien</title>
 </programme>
 <programme start="20250906063500 +0000" stop="20250906072000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP Katalonien</title>
@@ -3118,25 +3085,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live F1: Pressekonferenz Qualifying - GP Italien</title>
 </programme>
 <programme start="20250906160000 +0000" stop="20250906183000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: Doppelfinale Herren</title>
+    <title>Live US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
 </programme>
 <programme start="20250906183000 +0000" stop="20250906193000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Walker Cup, Foursome Matches, 1. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250906193000 +0000" stop="20250906223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: Finale Damen</title>
+    <title>Live US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
 </programme>
-<programme start="20250905223000 +0000" stop="20250906010000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live US Open: HF2, Halbfinale Herren</title>
+<programme start="20250905220000 +0000" stop="20250905225000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
 </programme>
-<programme start="20250906010000 +0000" stop="20250906023000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250905225000 +0000" stop="20250906033000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live US Open: J. Sinner (ITA) - F. Auger-Aliassime (CAN), Halbfinale Herren</title>
+</programme>
+<programme start="20250906020000 +0000" stop="20250906023000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 1. Freies Training - GP Italien</title>
 </programme>
-<programme start="20250906023000 +0000" stop="20250906040000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250906033000 +0000" stop="20250906051500 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 1. Freies Training - GP Italien</title>
+</programme>
+<programme start="20250906051500 +0000" stop="20250906070500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Italien</title>
-</programme>
-<programme start="20250906040000 +0000" stop="20250906053500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 1. Freies Training - GP Italien</title>
 </programme>
 <programme start="20250906053500 +0000" stop="20250906070500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Italien</title>
@@ -3178,7 +3148,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Qualifying - GP Italien</title>
 </programme>
 <programme start="20250906193000 +0000" stop="20250906223000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live US Open: Finale Damen</title>
+    <title>Live US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
 </programme>
 <programme start="20250905222000 +0000" stop="20250905230000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
