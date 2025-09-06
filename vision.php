@@ -472,9 +472,6 @@
 <programme start="20250906080000 +0000" stop="20250906091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20250906091500 +0000" stop="20250906100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
 <programme start="20250906100000 +0000" stop="20250906103000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
@@ -660,12 +657,6 @@
 </programme>
 <programme start="20250907100000 +0000" stop="20250907130000 +0000" channel="Trans 7.vision">
 <title>MotoGP 2025: Catalonia (L)</title>
-</programme>
-<programme start="20250905233000 +0000" stop="20250906013000 +0000" channel="ANTV.vision">
-<title>Si Doel Anak Modern</title>
-</programme>
-<programme start="20250906013000 +0000" stop="20250906033000 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
 </programme>
 <programme start="20250906033000 +0000" stop="20250906050000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250906130000 +0000" stop="20250906140000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
+</programme>
+<programme start="20250906140000 +0000" stop="20250906150000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20250906150000 +0000" stop="20250906160000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
+</programme>
+<programme start="20250906160000 +0000" stop="20250906163000 +0000" channel="BTV.vision">
+<title>Dari Nol</title>
 </programme>
