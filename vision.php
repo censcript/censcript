@@ -646,6 +646,9 @@
 <programme start="20250907033000 +0000" stop="20250907050000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
+<programme start="20250907050000 +0000" stop="20250907060000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
+</programme>
 <programme start="20250907060000 +0000" stop="20250907080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250907230300 +0000" stop="20250908003000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250908003000 +0000" stop="20250908011500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
