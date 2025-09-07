@@ -1,11 +1,3 @@
-<programme start="20250907180000 +0700" stop="20250907183000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250907183000 +0700" stop="20250907190000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250907190000 +0700" stop="20250907210000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Pafos FC - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
@@ -66,6 +58,10 @@
     <title>Football: FC Copenhagen - FC Basel 1893</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250908191000 +0700" stop="20250908211000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Pafos FC - FK Crvena Zvezda</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250907174000 +0700" stop="20250907195000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250907180000 +0700" stop="20250907190000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20250908193000 +0700" stop="20250908213000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907190000 +0700" stop="20250907200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -180,6 +176,10 @@
 </programme>
 <programme start="20250908183000 +0700" stop="20250908193000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250908193000 +0700" stop="20250908203000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907173500 +0700" stop="20250907193500 +0700" channel="COSMOTE Sport 4 HD">
@@ -249,10 +249,6 @@
 <programme start="20250908183000 +0700" stop="20250908204000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tofas - Turk Telekom</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250907170000 +0700" stop="20250907183000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250907183000 +0700" stop="20250907202000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
@@ -350,8 +346,12 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250907154500 +0700" stop="20250907181500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250908190500 +0700" stop="20250908193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250908193500 +0700" stop="20250908204000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907181500 +0700" stop="20250907191500 +0700" channel="COSMOTE Sport 6 HD">
@@ -436,14 +436,6 @@
 </programme>
 <programme start="20250908180000 +0700" stop="20250908203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250907170000 +0700" stop="20250907180500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>ERC 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250907180500 +0700" stop="20250907184500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907184500 +0700" stop="20250907191000 +0700" channel="COSMOTE Sport 7 HD">
