@@ -2461,11 +2461,11 @@
 <programme start="20250907212000 +0000" stop="20250907222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Unser Hof - Mit Cheyenne und Nino</title>
 </programme>
-<programme start="20250906223000 +0000" stop="20250906230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20250906223500 +0000" stop="20250906230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
 </programme>
 <programme start="20250906230000 +0000" stop="20250906233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+    <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250906233000 +0000" stop="20250907013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - RZ Pellets WAC, 5. Runde</title>
@@ -2707,11 +2707,17 @@
 <programme start="20250907210000 +0000" stop="20250907220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Italien</title>
 </programme>
+<programme start="20250906220000 +0000" stop="20250906230000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Legends Tour: Highlights NI Legends Open</title>
+</programme>
 <programme start="20250906230000 +0000" stop="20250907020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Walker Cup, Single Matches, 1. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250907020000 +0000" stop="20250907033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Aramco Houston Championship, 2. Tag in Houston, TX (USA)</title>
+</programme>
+<programme start="20250907033000 +0000" stop="20250907043000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Legends Tour: Highlights NI Legends Open</title>
 </programme>
 <programme start="20250907043000 +0000" stop="20250907073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Amgen Irish Open, 3. Tag in Straffan (Irland)</title>
@@ -2962,7 +2968,7 @@
 <programme start="20250907213000 +0000" stop="20250907220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 3. Spieltag</title>
 </programme>
-<programme start="20250906223000 +0000" stop="20250907010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250906223500 +0000" stop="20250907010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
 </programme>
 <programme start="20250907010000 +0000" stop="20250907033000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3006,9 +3012,6 @@
 </programme>
 <programme start="20250907210000 +0000" stop="20250907233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250906223000 +0000" stop="20250906224500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20250906224500 +0000" stop="20250906230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Qualifying Kompakt - GP Italien</title>
@@ -3056,12 +3059,12 @@
     <title>Live Golf: Walker Cup, Foursome Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: Finale Herren</title>
+    <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250907203000 +0000" stop="20250907220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20250906223000 +0000" stop="20250907000000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250906223500 +0000" stop="20250907000000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Italien</title>
 </programme>
 <programme start="20250907000000 +0000" stop="20250907010000 +0000" channel="Sky Sport UHD.skyde">
