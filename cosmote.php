@@ -122,6 +122,10 @@
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250908131500 +0700" stop="20250908151500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250907120000 +0700" stop="20250907140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Newport County - Bristol Rovers</title>
     <desc>Live: Tidak</desc>
@@ -254,10 +258,6 @@
     <title>Basketball: Baskonia - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250907112500 +0700" stop="20250907122500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250907122500 +0700" stop="20250907132500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -366,6 +366,10 @@
     <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250908132000 +0700" stop="20250908150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250907114500 +0700" stop="20250907131500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -440,6 +444,10 @@
 </programme>
 <programme start="20250908120000 +0700" stop="20250908130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250908130000 +0700" stop="20250908150500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250907120000 +0700" stop="20250907140000 +0700" channel="COSMOTE Sport 7 HD">
