@@ -2557,14 +2557,11 @@
 <programme start="20250907170000 +0000" stop="20250907173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250907173000 +0000" stop="20250907213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
-<programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250907213000 +0000" stop="20250907220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
-</programme>
-<programme start="20250907210000 +0000" stop="20250907233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250906220000 +0000" stop="20250906221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 1. Spieltag, Samstag</title>
@@ -2650,29 +2647,20 @@
 <programme start="20250907043000 +0000" stop="20250907060500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Italien</title>
 </programme>
-<programme start="20250907060500 +0000" stop="20250907071500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250907060500 +0000" stop="20250907073500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 2. Rennen - GP Italien</title>
 </programme>
-<programme start="20250907071500 +0000" stop="20250907073500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Top 20: Best Battles of 2024</title>
-</programme>
-<programme start="20250907073500 +0000" stop="20250907090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250907073500 +0000" stop="20250907091000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20250907090000 +0000" stop="20250907091000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Greatest Races: F. Alonso / Nürburgring 2007</title>
 </programme>
 <programme start="20250907091000 +0000" stop="20250907094000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside: Kimi Antonelli</title>
 </programme>
-<programme start="20250907094000 +0000" stop="20250907103000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20250907094000 +0000" stop="20250907110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live PMSC: Rennen - GP Italien</title>
 </programme>
-<programme start="20250907103000 +0000" stop="20250907110000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
-</programme>
 <programme start="20250907110000 +0000" stop="20250907113000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Inside: Kimi Antonelli</title>
+    <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
 </programme>
 <programme start="20250907113000 +0000" stop="20250907125500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Vorberichte - GP Italien</title>
@@ -2728,13 +2716,13 @@
 <programme start="20250907083000 +0000" stop="20250907113000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Walker Cup, Single Matches, 1. Tag in Pebble Beach, CA (USA)</title>
 </programme>
-<programme start="20250907113000 +0000" stop="20250907163000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250907113000 +0000" stop="20250907172500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Amgen Irish Open, 4. Tag in Straffan (Irland)</title>
 </programme>
-<programme start="20250907163000 +0000" stop="20250907193000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250907172500 +0000" stop="20250907193500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Walker Cup, Foursome Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
-<programme start="20250907193000 +0000" stop="20250907220000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250907193500 +0000" stop="20250907210000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
 <programme start="20250906224500 +0000" stop="20250906230000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3004,14 +2992,11 @@
 <programme start="20250907170000 +0000" stop="20250907173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Highlights Show, Finaltag Damen</title>
 </programme>
-<programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250907173000 +0000" stop="20250907213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
-<programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250907213000 +0000" stop="20250907220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
-</programme>
-<programme start="20250907210000 +0000" stop="20250907233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250906224500 +0000" stop="20250906230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Qualifying Kompakt - GP Italien</title>
@@ -3028,11 +3013,8 @@
 <programme start="20250907040000 +0000" stop="20250907060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: FC Bromley - FC Gillingham, 7. Spieltag</title>
 </programme>
-<programme start="20250907060500 +0000" stop="20250907071500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907060500 +0000" stop="20250907073500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20250907071500 +0000" stop="20250907073500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Top 20: Best Battles of 2024</title>
 </programme>
 <programme start="20250907073500 +0000" stop="20250907090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: 2. Rennen - GP Italien</title>
@@ -3052,16 +3034,13 @@
 <programme start="20250907144500 +0000" stop="20250907153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Italien</title>
 </programme>
-<programme start="20250907153000 +0000" stop="20250907163000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907153000 +0000" stop="20250907173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Amgen Irish Open, 4. Tag in Straffan (Irland)</title>
 </programme>
-<programme start="20250907163000 +0000" stop="20250907173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: Walker Cup, Foursome Matches, 2. Tag in Pebble Beach, CA (USA)</title>
-</programme>
-<programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907173000 +0000" stop="20250907213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
-<programme start="20250907203000 +0000" stop="20250907220000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907213000 +0000" stop="20250907220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
 <programme start="20250906223500 +0000" stop="20250907000000 +0000" channel="Sky Sport UHD.skyde">
@@ -3082,29 +3061,20 @@
 <programme start="20250907043000 +0000" stop="20250907060500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Italien</title>
 </programme>
-<programme start="20250907060500 +0000" stop="20250907071500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250907060500 +0000" stop="20250907073500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F3: 2. Rennen - GP Italien</title>
 </programme>
-<programme start="20250907071500 +0000" stop="20250907073500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Top 20: Best Battles of 2024</title>
-</programme>
-<programme start="20250907073500 +0000" stop="20250907090000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250907073500 +0000" stop="20250907091000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20250907090000 +0000" stop="20250907091000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Greatest Races: F. Alonso / Nürburgring 2007</title>
 </programme>
 <programme start="20250907091000 +0000" stop="20250907094000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Inside: Kimi Antonelli</title>
 </programme>
-<programme start="20250907094000 +0000" stop="20250907103000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250907094000 +0000" stop="20250907110000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PMSC: Rennen - GP Italien</title>
 </programme>
-<programme start="20250907103000 +0000" stop="20250907110000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
-</programme>
 <programme start="20250907110000 +0000" stop="20250907113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Inside: Kimi Antonelli</title>
+    <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
 </programme>
 <programme start="20250907113000 +0000" stop="20250907125500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Vorberichte - GP Italien</title>
@@ -3124,10 +3094,10 @@
 <programme start="20250907163000 +0000" stop="20250907173000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Italien</title>
 </programme>
-<programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250907173000 +0000" stop="20250907213000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live US Open: Finale Herren</title>
 </programme>
-<programme start="20250907203000 +0000" stop="20250907223000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20250907213000 +0000" stop="20250907223000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Italien</title>
 </programme>
 <programme start="20250906230500 +0000" stop="20250907010000 +0000" channel="SYFY HD.skyde">
