@@ -559,9 +559,6 @@
 <programme start="20250907090000 +0000" stop="20250907100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250907100000 +0000" stop="20250907130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Catalonia (L)</title>
-</programme>
 <programme start="20250907130000 +0000" stop="20250907143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -570,12 +567,6 @@
 </programme>
 <programme start="20250907154500 +0000" stop="20250907163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20250907163000 +0000" stop="20250907173000 +0000" channel="Trans 7.vision">
-<title>Moto3 2025: Catalonia GP</title>
-</programme>
-<programme start="20250907173000 +0000" stop="20250907181500 +0000" channel="Trans 7.vision">
-<title>Superbike 2025: France</title>
 </programme>
 <programme start="20250907181500 +0000" stop="20250907193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -657,12 +648,6 @@
 </programme>
 <programme start="20250907120000 +0000" stop="20250907140000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250907140000 +0000" stop="20250907160000 +0000" channel="ANTV.vision">
-<title>Brahmana Manggala</title>
-</programme>
-<programme start="20250907160000 +0000" stop="20250907180000 +0000" channel="ANTV.vision">
-<title>Flaming Brothers</title>
 </programme>
 <programme start="20250907180000 +0000" stop="20250907193000 +0000" channel="ANTV.vision">
 <title>Viral</title>
@@ -871,14 +856,8 @@
 <programme start="20250907110000 +0000" stop="20250907130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20250907130000 +0000" stop="20250907143000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa (L)</title>
-</programme>
 <programme start="20250907143000 +0000" stop="20250907153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
-</programme>
-<programme start="20250907153000 +0000" stop="20250907160000 +0000" channel="TVOne.vision">
-<title>Distrik</title>
 </programme>
 <programme start="20250907160000 +0000" stop="20250907170000 +0000" channel="TVOne.vision">
 <title>Benang Merah</title>
@@ -1496,5 +1475,26 @@
 <title>BTV</title>
 </programme>
 <programme start="20250908011500 +0000" stop="20250908021500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908021500 +0000" stop="20250908030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908030000 +0000" stop="20250908040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908040000 +0000" stop="20250908050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908053000 +0000" stop="20250908063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908063000 +0000" stop="20250908070000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908070000 +0000" stop="20250908080000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
