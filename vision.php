@@ -532,6 +532,9 @@
 <programme start="20250907000000 +0000" stop="20250907010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20250907010000 +0000" stop="20250907013000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
+</programme>
 <programme start="20250907013000 +0000" stop="20250907023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -642,6 +645,12 @@
 </programme>
 <programme start="20250908114500 +0000" stop="20250908121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250906233000 +0000" stop="20250907013000 +0000" channel="ANTV.vision">
+<title>Madu Murni</title>
+</programme>
+<programme start="20250907013000 +0000" stop="20250907033000 +0000" channel="ANTV.vision">
+<title>Gengsi Dong</title>
 </programme>
 <programme start="20250907033000 +0000" stop="20250907050000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
@@ -1487,14 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20250907213000 +0000" stop="20250907223000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250907230000 +0000" stop="20250907230300 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250907230300 +0000" stop="20250908003000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

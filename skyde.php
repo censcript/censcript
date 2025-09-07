@@ -808,101 +808,95 @@
 <programme start="20250907215500 +0000" stop="20250907220000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250906223000 +0000" stop="20250906231500 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
+<programme start="20250908224000 +0000" stop="20250908232500 +0000" channel="Crime + Investigation.skyde">
+    <title>First Blood - Die Geburt eines Serienmörders</title>
 </programme>
-<programme start="20250906231500 +0000" stop="20250907000000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
+<programme start="20250908232500 +0000" stop="20250909001000 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250907000000 +0000" stop="20250907004500 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
+<programme start="20250909001000 +0000" stop="20250909010000 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250907004500 +0000" stop="20250907012500 +0000" channel="Crime + Investigation.skyde">
-    <title>Secrets of Playboy - Im Bann von Hugh Hefner</title>
-</programme>
-<programme start="20250907012500 +0000" stop="20250907021000 +0000" channel="Crime + Investigation.skyde">
-    <title>Secrets of Playboy - Im Bann von Hugh Hefner</title>
-</programme>
-<programme start="20250907021000 +0000" stop="20250907024000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909010000 +0000" stop="20250909013000 +0000" channel="Crime + Investigation.skyde">
     <title>Expert Witness - Forensiker auf Spurensuche</title>
 </programme>
-<programme start="20250907024000 +0000" stop="20250907032500 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
-<programme start="20250907032500 +0000" stop="20250907035500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909013000 +0000" stop="20250909020000 +0000" channel="Crime + Investigation.skyde">
     <title>Expert Witness - Forensiker auf Spurensuche</title>
 </programme>
-<programme start="20250907035500 +0000" stop="20250907042000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+<programme start="20250909020000 +0000" stop="20250909024500 +0000" channel="Crime + Investigation.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250907042000 +0000" stop="20250907051000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
+<programme start="20250909024500 +0000" stop="20250909033500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250907051000 +0000" stop="20250907060000 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
+<programme start="20250909033500 +0000" stop="20250909042500 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
 </programme>
-<programme start="20250907060000 +0000" stop="20250907063000 +0000" channel="Crime + Investigation.skyde">
-    <title>Expert Witness - Forensiker auf Spurensuche</title>
+<programme start="20250909042500 +0000" stop="20250909051000 +0000" channel="Crime + Investigation.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250907063000 +0000" stop="20250907072000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der Fall Gypsy Rose Blanchard</title>
+<programme start="20250909051000 +0000" stop="20250909060000 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48</title>
 </programme>
-<programme start="20250907072000 +0000" stop="20250907081000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der Fall Gypsy Rose Blanchard</title>
+<programme start="20250909060000 +0000" stop="20250909065000 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
 </programme>
-<programme start="20250907081000 +0000" stop="20250907090000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der Fall Gypsy Rose Blanchard</title>
+<programme start="20250909065000 +0000" stop="20250909074500 +0000" channel="Crime + Investigation.skyde">
+    <title>Vermisst und ermordet</title>
 </programme>
-<programme start="20250907090000 +0000" stop="20250907095000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der Fall Gypsy Rose Blanchard</title>
+<programme start="20250909074500 +0000" stop="20250909083500 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250907095000 +0000" stop="20250907102000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+<programme start="20250909083500 +0000" stop="20250909092500 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250907102000 +0000" stop="20250907111000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Mord in den Südstaaten</title>
+<programme start="20250909092500 +0000" stop="20250909102000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
 </programme>
-<programme start="20250907111000 +0000" stop="20250907120000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Mord in den Südstaaten</title>
+<programme start="20250909102000 +0000" stop="20250909110500 +0000" channel="Crime + Investigation.skyde">
+    <title>First Blood - Die Geburt eines Serienmörders</title>
 </programme>
-<programme start="20250907120000 +0000" stop="20250907125000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Mord in den Südstaaten</title>
+<programme start="20250909110500 +0000" stop="20250909115500 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
 </programme>
-<programme start="20250907125000 +0000" stop="20250907133500 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Mord in den Südstaaten</title>
+<programme start="20250909115500 +0000" stop="20250909122500 +0000" channel="Crime + Investigation.skyde">
+    <title>Glaube, Panik, Verurteilung - Die Geschichte von Peter Ellis</title>
 </programme>
-<programme start="20250907133500 +0000" stop="20250907140500 +0000" channel="Crime + Investigation.skyde">
-    <title>Expert Witness - Forensiker auf Spurensuche</title>
+<programme start="20250909122500 +0000" stop="20250909131000 +0000" channel="Crime + Investigation.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250907140500 +0000" stop="20250907145500 +0000" channel="Crime + Investigation.skyde">
-    <title>Dead to me - Der Familie entrissen</title>
+<programme start="20250909131000 +0000" stop="20250909140000 +0000" channel="Crime + Investigation.skyde">
+    <title>Vermisst und ermordet</title>
 </programme>
-<programme start="20250907145500 +0000" stop="20250907154500 +0000" channel="Crime + Investigation.skyde">
-    <title>Dead to me - Der Familie entrissen</title>
+<programme start="20250909140000 +0000" stop="20250909145000 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48</title>
 </programme>
-<programme start="20250907154500 +0000" stop="20250907163500 +0000" channel="Crime + Investigation.skyde">
-    <title>Dead to me - Der Familie entrissen</title>
+<programme start="20250909145000 +0000" stop="20250909154000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250907163500 +0000" stop="20250907172500 +0000" channel="Crime + Investigation.skyde">
-    <title>Dead to me - Der Familie entrissen</title>
+<programme start="20250909154000 +0000" stop="20250909163000 +0000" channel="Crime + Investigation.skyde">
+    <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
 </programme>
-<programme start="20250907172500 +0000" stop="20250907181500 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
+<programme start="20250909163000 +0000" stop="20250909172000 +0000" channel="Crime + Investigation.skyde">
+    <title>First Blood - Die Geburt eines Serienmörders</title>
 </programme>
-<programme start="20250907181500 +0000" stop="20250907190500 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files</title>
+<programme start="20250909172000 +0000" stop="20250909181500 +0000" channel="Crime + Investigation.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250907190500 +0000" stop="20250907195500 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files</title>
+<programme start="20250909181500 +0000" stop="20250909190500 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20250907195500 +0000" stop="20250907205000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files</title>
+<programme start="20250909190500 +0000" stop="20250909195500 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20250907205000 +0000" stop="20250907214000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files</title>
+<programme start="20250909195500 +0000" stop="20250909205000 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48</title>
 </programme>
-<programme start="20250907214000 +0000" stop="20250907223000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
+<programme start="20250909205000 +0000" stop="20250909214500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20250909214500 +0000" stop="20250909224000 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
 </programme>
 <programme start="20250906220000 +0000" stop="20250907060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
