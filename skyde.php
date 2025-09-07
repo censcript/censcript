@@ -2558,13 +2558,13 @@
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live US Open: Finale Herren</title>
+    <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
 <programme start="20250907210000 +0000" stop="20250907233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: Finale Herren</title>
+    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250906220000 +0000" stop="20250906221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 1. Spieltag, Samstag</title>
@@ -2707,16 +2707,10 @@
 <programme start="20250907210000 +0000" stop="20250907220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Italien</title>
 </programme>
-<programme start="20250906220000 +0000" stop="20250906223000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: Countdown to the Ryder Cup (3) - Raising the Stakes</title>
-</programme>
-<programme start="20250906223000 +0000" stop="20250906230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Indoor Golf Group Challenge</title>
-</programme>
 <programme start="20250906230000 +0000" stop="20250907020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Walker Cup, Single Matches, 1. Tag in Pebble Beach, CA (USA)</title>
 </programme>
-<programme start="20250907020000 +0000" stop="20250907043000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250907020000 +0000" stop="20250907033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Aramco Houston Championship, 2. Tag in Houston, TX (USA)</title>
 </programme>
 <programme start="20250907043000 +0000" stop="20250907073000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3062,7 +3056,7 @@
     <title>Live Golf: Walker Cup, Foursome Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250907173000 +0000" stop="20250907203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
+    <title>Live US Open: Finale Herren</title>
 </programme>
 <programme start="20250907203000 +0000" stop="20250907220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
