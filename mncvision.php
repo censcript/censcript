@@ -9124,66 +9124,7 @@
 <programme start="20250908161500 +0000" stop="20250908164500 +0000" channel="tvN.mncvision">
     <title>EXchange S3, Ep 9</title>
 </programme>
-<programme start="20250907170000 +0000" stop="20250907181500 +0000" channel="tvN HD.mncvision">
-    <title>The Auditors, Ep 9</title>
-</programme>
-<programme start="20250907181500 +0000" stop="20250907193000 +0000" channel="tvN HD.mncvision">
-    <title>The Auditors, Ep 10</title>
-</programme>
-<programme start="20250907193000 +0000" stop="20250907195000 +0000" channel="tvN HD.mncvision">
-    <title>You Can Cook, Sam Kim, Ep 21</title>
-</programme>
-<programme start="20250907195000 +0000" stop="20250907210500 +0000" channel="tvN HD.mncvision">
-    <title>Twinkling Watermelon, Ep 7</title>
-</programme>
-<programme start="20250907210500 +0000" stop="20250907220000 +0000" channel="tvN HD.mncvision">
-    <title>Walking Through Village, Ep 8</title>
-</programme>
-<programme start="20250907220000 +0000" stop="20250908004500 +0000" channel="tvN HD.mncvision">
-    <title>EXchange S3, Ep 9</title>
-</programme>
-<programme start="20250908004500 +0000" stop="20250908010500 +0000" channel="tvN HD.mncvision">
-    <title>You Can Cook, Sam Kim, Ep 1</title>
-</programme>
-<programme start="20250908010500 +0000" stop="20250908020000 +0000" channel="tvN HD.mncvision">
-    <title>Walking Through Village, Ep 9</title>
-</programme>
-<programme start="20250908020000 +0000" stop="20250908030000 +0000" channel="tvN HD.mncvision">
-    <title>No Way Home, Ep 5</title>
-</programme>
-<programme start="20250908030000 +0000" stop="20250908041500 +0000" channel="tvN HD.mncvision">
-    <title>Twinkling Watermelon, Ep 7</title>
-</programme>
-<programme start="20250908041500 +0000" stop="20250908052500 +0000" channel="tvN HD.mncvision">
-    <title>The Auditors, Ep 9</title>
-</programme>
-<programme start="20250908052500 +0000" stop="20250908063500 +0000" channel="tvN HD.mncvision">
-    <title>The Auditors, Ep 10</title>
-</programme>
-<programme start="20250908063500 +0000" stop="20250908083000 +0000" channel="tvN HD.mncvision">
-    <title>Iron Girls S2, Ep 7</title>
-</programme>
-<programme start="20250908083000 +0000" stop="20250908102500 +0000" channel="tvN HD.mncvision">
-    <title>Street Food Bikers, Ep 9</title>
-</programme>
-<programme start="20250908102500 +0000" stop="20250908104500 +0000" channel="tvN HD.mncvision">
-    <title>You Can Cook, Sam Kim, Ep 1</title>
-</programme>
-<programme start="20250908104500 +0000" stop="20250908120000 +0000" channel="tvN HD.mncvision">
-    <title>Crime Scene Returns, Ep 4</title>
-</programme>
-<programme start="20250908120000 +0000" stop="20250908131500 +0000" channel="tvN HD.mncvision">
-    <title>Twinkling Watermelon, Ep 7</title>
-</programme>
-<programme start="20250908131500 +0000" stop="20250908143000 +0000" channel="tvN HD.mncvision">
-    <title>Twinkling Watermelon, Ep 8</title>
-</programme>
-<programme start="20250908143000 +0000" stop="20250908161500 +0000" channel="tvN HD.mncvision">
-    <title>Europe Outside: France, Ep 8</title>
-</programme>
-<programme start="20250908161500 +0000" stop="20250908164500 +0000" channel="tvN HD.mncvision">
-    <title>EXchange S3, Ep 9</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250907174500 +0000" stop="20250907193500 +0000" channel="tvN Movies.mncvision">
     <title>Samjin Company English Class</title>
 </programme>
@@ -9220,42 +9161,7 @@
 <programme start="20250908160500 +0000" stop="20250908163500 +0000" channel="tvN Movies.mncvision">
     <title>The Wild</title>
 </programme>
-<programme start="20250907174500 +0000" stop="20250907193500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Samjin Company English Class</title>
-</programme>
-<programme start="20250907193500 +0000" stop="20250907213500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Project Wolf Hunting</title>
-</programme>
-<programme start="20250907213500 +0000" stop="20250907232500 +0000" channel="tvN Movies HD.mncvision">
-    <title>The Lost Choices</title>
-</programme>
-<programme start="20250907232500 +0000" stop="20250908012500 +0000" channel="tvN Movies HD.mncvision">
-    <title>I</title>
-</programme>
-<programme start="20250908012500 +0000" stop="20250908040000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Tazza: The Hidden Card</title>
-</programme>
-<programme start="20250908040000 +0000" stop="20250908060500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Go Go 70s</title>
-</programme>
-<programme start="20250908060500 +0000" stop="20250908081000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Honeysweet</title>
-</programme>
-<programme start="20250908081000 +0000" stop="20250908100500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Mama</title>
-</programme>
-<programme start="20250908100500 +0000" stop="20250908121000 +0000" channel="tvN Movies HD.mncvision">
-    <title>A Reason To Live</title>
-</programme>
-<programme start="20250908121000 +0000" stop="20250908140000 +0000" channel="tvN Movies HD.mncvision">
-    <title>Devils</title>
-</programme>
-<programme start="20250908140000 +0000" stop="20250908160500 +0000" channel="tvN Movies HD.mncvision">
-    <title>Long Live The King</title>
-</programme>
-<programme start="20250908160500 +0000" stop="20250908163500 +0000" channel="tvN Movies HD.mncvision">
-    <title>The Wild</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250907170000 +0000" stop="20250907173000 +0000" channel="tvOne.mncvision">
     <title>Kabar Utama</title>
 </programme>
@@ -9433,48 +9339,7 @@
 <programme start="20250908163000 +0000" stop="20250907170000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20250907173700 +0000" stop="20250907192800 +0000" channel="UNIQUES.mncvision">
-    <title>Stowaway</title>
-</programme>
-<programme start="20250907192800 +0000" stop="20250907210700 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250907210700 +0000" stop="20250907231500 +0000" channel="UNIQUES.mncvision">
-    <title>Damsel</title>
-</programme>
-<programme start="20250907231500 +0000" stop="20250908011700 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250908011700 +0000" stop="20250908030400 +0000" channel="UNIQUES.mncvision">
-    <title>The Grand Seduction</title>
-</programme>
-<programme start="20250908030400 +0000" stop="20250908044200 +0000" channel="UNIQUES.mncvision">
-    <title>Carnage</title>
-</programme>
-<programme start="20250908044200 +0000" stop="20250908064400 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250908064400 +0000" stop="20250908082500 +0000" channel="UNIQUES.mncvision">
-    <title>Code Name Banshee</title>
-</programme>
-<programme start="20250908082500 +0000" stop="20250908100700 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250908100700 +0000" stop="20250908113500 +0000" channel="UNIQUES.mncvision">
-    <title>Desperate Widows</title>
-</programme>
-<programme start="20250908113500 +0000" stop="20250908132000 +0000" channel="UNIQUES.mncvision">
-    <title>The Yellow Birds</title>
-</programme>
-<programme start="20250908132000 +0000" stop="20250908152300 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20250908152300 +0000" stop="20250908165600 +0000" channel="UNIQUES.mncvision">
-    <title>Crawl To Me Darling</title>
-</programme>
-<programme start="20250908165600 +0000" stop="20250907172600 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250907173700 +0000" stop="20250907192800 +0000" channel="UNIQUES HD.mncvision">
     <title>Stowaway</title>
 </programme>
