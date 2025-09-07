@@ -472,9 +472,6 @@
 <programme start="20250907090000 +0000" stop="20250907093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20250907093000 +0000" stop="20250907103000 +0000" channel="Trans TV.vision">
-<title>Tanah Air Beta</title>
-</programme>
 <programme start="20250907103000 +0000" stop="20250907114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250908003000 +0000" stop="20250908011500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250908011500 +0000" stop="20250908021500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
