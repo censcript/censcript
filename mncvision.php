@@ -6518,7 +6518,7 @@
     <title>Points At Issue</title>
 </programme>
 <programme start="20250908065000 +0000" stop="20250908073500 +0000" channel="NHK World Premium.mncvision">
-    <title>Fountain Of Ancient Wisdom</title>
+    <title>Project Aliens PA009</title>
 </programme>
 <programme start="20250908073500 +0000" stop="20250908080000 +0000" channel="NHK World Premium.mncvision">
     <title>Exploring Factories</title>
@@ -7039,28 +7039,28 @@
 <programme start="20250908025000 +0000" stop="20250908040500 +0000" channel="ONE.mncvision">
     <title>Incarnation Of Money, Ep 4</title>
 </programme>
-<programme start="20250908040500 +0000" stop="20250908053000 +0000" channel="ONE.mncvision">
+<programme start="20250908040500 +0000" stop="20250908053100 +0000" channel="ONE.mncvision">
     <title>Connection, Ep 11</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908064500 +0000" channel="ONE.mncvision">
+<programme start="20250908053100 +0000" stop="20250908064800 +0000" channel="ONE.mncvision">
     <title>Connection, Ep 12</title>
 </programme>
-<programme start="20250908064500 +0000" stop="20250908084500 +0000" channel="ONE.mncvision">
+<programme start="20250908064800 +0000" stop="20250908085000 +0000" channel="ONE.mncvision">
     <title>Running Man, Ep 746</title>
 </programme>
-<programme start="20250908084500 +0000" stop="20250908100000 +0000" channel="ONE.mncvision">
+<programme start="20250908085000 +0000" stop="20250908100600 +0000" channel="ONE.mncvision">
     <title>Incarnation Of Money, Ep 4</title>
 </programme>
-<programme start="20250908100000 +0000" stop="20250908112500 +0000" channel="ONE.mncvision">
+<programme start="20250908100600 +0000" stop="20250908113100 +0000" channel="ONE.mncvision">
     <title>Connection, Ep 11</title>
 </programme>
-<programme start="20250908112500 +0000" stop="20250908124500 +0000" channel="ONE.mncvision">
+<programme start="20250908113100 +0000" stop="20250908125200 +0000" channel="ONE.mncvision">
     <title>Connection, Ep 12</title>
 </programme>
-<programme start="20250908124500 +0000" stop="20250908132500 +0000" channel="ONE.mncvision">
+<programme start="20250908125200 +0000" stop="20250908132800 +0000" channel="ONE.mncvision">
     <title>The Woman Who..., Ep 21</title>
 </programme>
-<programme start="20250908132500 +0000" stop="20250908140500 +0000" channel="ONE.mncvision">
+<programme start="20250908132800 +0000" stop="20250908140500 +0000" channel="ONE.mncvision">
     <title>The Woman Who..., Ep 22</title>
 </programme>
 <programme start="20250908140500 +0000" stop="20250908144500 +0000" channel="ONE.mncvision">
@@ -7102,28 +7102,28 @@
 <programme start="20250908025000 +0000" stop="20250908040500 +0000" channel="ONE HD.mncvision">
     <title>Incarnation Of Money, Ep 4</title>
 </programme>
-<programme start="20250908040500 +0000" stop="20250908053000 +0000" channel="ONE HD.mncvision">
+<programme start="20250908040500 +0000" stop="20250908053100 +0000" channel="ONE HD.mncvision">
     <title>Connection, Ep 11</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908064500 +0000" channel="ONE HD.mncvision">
+<programme start="20250908053100 +0000" stop="20250908064800 +0000" channel="ONE HD.mncvision">
     <title>Connection, Ep 12</title>
 </programme>
-<programme start="20250908064500 +0000" stop="20250908084500 +0000" channel="ONE HD.mncvision">
+<programme start="20250908064800 +0000" stop="20250908085000 +0000" channel="ONE HD.mncvision">
     <title>Running Man, Ep 746</title>
 </programme>
-<programme start="20250908084500 +0000" stop="20250908100000 +0000" channel="ONE HD.mncvision">
+<programme start="20250908085000 +0000" stop="20250908100600 +0000" channel="ONE HD.mncvision">
     <title>Incarnation Of Money, Ep 4</title>
 </programme>
-<programme start="20250908100000 +0000" stop="20250908112500 +0000" channel="ONE HD.mncvision">
+<programme start="20250908100600 +0000" stop="20250908113100 +0000" channel="ONE HD.mncvision">
     <title>Connection, Ep 11</title>
 </programme>
-<programme start="20250908112500 +0000" stop="20250908124500 +0000" channel="ONE HD.mncvision">
+<programme start="20250908113100 +0000" stop="20250908125200 +0000" channel="ONE HD.mncvision">
     <title>Connection, Ep 12</title>
 </programme>
-<programme start="20250908124500 +0000" stop="20250908132500 +0000" channel="ONE HD.mncvision">
+<programme start="20250908125200 +0000" stop="20250908132800 +0000" channel="ONE HD.mncvision">
     <title>The Woman Who..., Ep 21</title>
 </programme>
-<programme start="20250908132500 +0000" stop="20250908140500 +0000" channel="ONE HD.mncvision">
+<programme start="20250908132800 +0000" stop="20250908140500 +0000" channel="ONE HD.mncvision">
     <title>The Woman Who..., Ep 22</title>
 </programme>
 <programme start="20250908140500 +0000" stop="20250908144500 +0000" channel="ONE HD.mncvision">
@@ -7687,53 +7687,50 @@
 <programme start="20250907183000 +0000" stop="20250907200000 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20250907200000 +0000" stop="20250907210000 +0000" channel="SCTV.mncvision">
+<programme start="20250907200000 +0000" stop="20250907212500 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250907210000 +0000" stop="20250907213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250907212500 +0000" stop="20250907215200 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250907213000 +0000" stop="20250907230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250907215200 +0000" stop="20250907225500 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250907230000 +0000" stop="20250908000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250907225500 +0000" stop="20250907235800 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250908000000 +0000" stop="20250908013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250907235800 +0000" stop="20250908011600 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250908013000 +0000" stop="20250908030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908011600 +0000" stop="20250908025300 +0000" channel="SCTV.mncvision">
+    <title>Ditiup Kamu Bikin Cenat-Cenut</title>
 </programme>
-<programme start="20250908030000 +0000" stop="20250908050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908025300 +0000" stop="20250908045200 +0000" channel="SCTV.mncvision">
+    <title>Ikan Hiu Ngegosip I Love You...</title>
 </programme>
-<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908045200 +0000" stop="20250908052400 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908064500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908052400 +0000" stop="20250908065800 +0000" channel="SCTV.mncvision">
+    <title>Kuwa-Kuwi Bucinmu Gulai...</title>
 </programme>
-<programme start="20250908064500 +0000" stop="20250908081500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908065800 +0000" stop="20250908083000 +0000" channel="SCTV.mncvision">
+    <title>Rindu: Suara Dari Pisang Nugget</title>
 </programme>
-<programme start="20250908081500 +0000" stop="20250908100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908083000 +0000" stop="20250908095000 +0000" channel="SCTV.mncvision">
+    <title>Azizah: Cinta 6 Hati</title>
 </programme>
-<programme start="20250908100000 +0000" stop="20250908114500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908095000 +0000" stop="20250908111100 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250908114500 +0000" stop="20250908131500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908111100 +0000" stop="20250908123000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20250908131500 +0000" stop="20250908144500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908123000 +0000" stop="20250908160000 +0000" channel="SCTV.mncvision">
+    <title>Timnas Garuda Matchday (L)</title>
 </programme>
-<programme start="20250908144500 +0000" stop="20250908161500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250908161500 +0000" stop="20250908164500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20250908160000 +0000" stop="20250908163000 +0000" channel="SCTV.mncvision">
+    <title>Yowis Ben Finale</title>
 </programme>
 <programme start="20250907170000 +0000" stop="20250907183000 +0000" channel="SCTV HD.mncvision">
     <title>FTV Utama</title>
@@ -7741,53 +7738,50 @@
 <programme start="20250907183000 +0000" stop="20250907200000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20250907200000 +0000" stop="20250907210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20250907200000 +0000" stop="20250907212500 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20250907210000 +0000" stop="20250907213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250907212500 +0000" stop="20250907215200 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20250907213000 +0000" stop="20250907230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250907215200 +0000" stop="20250907225500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20250907230000 +0000" stop="20250908000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250907225500 +0000" stop="20250907235800 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20250908000000 +0000" stop="20250908013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250907235800 +0000" stop="20250908011600 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250908013000 +0000" stop="20250908030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908011600 +0000" stop="20250908025300 +0000" channel="SCTV HD.mncvision">
+    <title>Ditiup Kamu Bikin Cenat-Cenut</title>
 </programme>
-<programme start="20250908030000 +0000" stop="20250908050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908025300 +0000" stop="20250908045200 +0000" channel="SCTV HD.mncvision">
+    <title>Ikan Hiu Ngegosip I Love You...</title>
 </programme>
-<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908045200 +0000" stop="20250908052400 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908064500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908052400 +0000" stop="20250908065800 +0000" channel="SCTV HD.mncvision">
+    <title>Kuwa-Kuwi Bucinmu Gulai...</title>
 </programme>
-<programme start="20250908064500 +0000" stop="20250908081500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908065800 +0000" stop="20250908083000 +0000" channel="SCTV HD.mncvision">
+    <title>Rindu: Suara Dari Pisang Nugget</title>
 </programme>
-<programme start="20250908081500 +0000" stop="20250908100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908083000 +0000" stop="20250908095000 +0000" channel="SCTV HD.mncvision">
+    <title>Azizah: Cinta 6 Hati</title>
 </programme>
-<programme start="20250908100000 +0000" stop="20250908114500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908095000 +0000" stop="20250908111100 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20250908114500 +0000" stop="20250908131500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908111100 +0000" stop="20250908123000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20250908131500 +0000" stop="20250908144500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908123000 +0000" stop="20250908160000 +0000" channel="SCTV HD.mncvision">
+    <title>Timnas Garuda Matchday (L)</title>
 </programme>
-<programme start="20250908144500 +0000" stop="20250908161500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20250908161500 +0000" stop="20250908164500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20250908160000 +0000" stop="20250908163000 +0000" channel="SCTV HD.mncvision">
+    <title>Yowis Ben Finale</title>
 </programme>
 <programme start="20250907170000 +0000" stop="20250907173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
@@ -8494,13 +8488,13 @@
 <programme start="20250908033000 +0000" stop="20250908053000 +0000" channel="SPOTV 2.mncvision">
     <title>GT World Challenge Asia: JPN</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908063000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250908053000 +0000" stop="20250908062300 +0000" channel="SPOTV 2.mncvision">
     <title>Mandiri Indonesian Open HL</title>
 </programme>
-<programme start="20250908063000 +0000" stop="20250908073000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250908062300 +0000" stop="20250908071800 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP &#039;25: GP Of Catalonia</title>
 </programme>
-<programme start="20250908073000 +0000" stop="20250908085500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250908071800 +0000" stop="20250908085500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP &#039;25: GP Of Catalonia</title>
 </programme>
 <programme start="20250908085500 +0000" stop="20250908101000 +0000" channel="SPOTV 2.mncvision">
@@ -8545,13 +8539,13 @@
 <programme start="20250908033000 +0000" stop="20250908053000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>GT World Challenge Asia: JPN</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908063000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250908053000 +0000" stop="20250908062300 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Mandiri Indonesian Open HL</title>
 </programme>
-<programme start="20250908063000 +0000" stop="20250908073000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250908062300 +0000" stop="20250908071800 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP &#039;25: GP Of Catalonia</title>
 </programme>
-<programme start="20250908073000 +0000" stop="20250908085500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250908071800 +0000" stop="20250908085500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP &#039;25: GP Of Catalonia</title>
 </programme>
 <programme start="20250908085500 +0000" stop="20250908101000 +0000" channel="SPOTV 2 HD.mncvision">

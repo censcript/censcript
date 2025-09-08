@@ -8209,13 +8209,13 @@
     <programme start="20250907230000 +0000" stop="20250908013000 +0000" channel="SPOTV2.starhub">
         <title>Major League Soccer 2025 Week 22 - Sporting Kansas City vs Austin FC</title>
     </programme>
-    <programme start="20250908013000 +0000" stop="20250908033000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250908013000 +0000" stop="20250908031500 +0000" channel="SPOTV2.starhub">
         <title>2025 GTOUR Mixed 2nd Tournament</title>
     </programme>
-    <programme start="20250908033000 +0000" stop="20250908043000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250908031500 +0000" stop="20250908041500 +0000" channel="SPOTV2.starhub">
         <title>Warm up + Rider&#039;s Fan Parade</title>
     </programme>
-    <programme start="20250908043000 +0000" stop="20250908055500 +0000" channel="SPOTV2.starhub">
+    <programme start="20250908041500 +0000" stop="20250908055500 +0000" channel="SPOTV2.starhub">
         <title>Moto3 Race</title>
     </programme>
     <programme start="20250908055500 +0000" stop="20250908071000 +0000" channel="SPOTV2.starhub">

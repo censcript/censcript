@@ -3172,11 +3172,14 @@
 <programme start="20250908200000 +0000" stop="20250909040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
 </programme>
-<programme start="20250907223000 +0000" stop="20250907233000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PMSC: Rennen - GP Italien</title>
+<programme start="20250907221500 +0000" stop="20250908003000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Italien</title>
 </programme>
 <programme start="20250907233000 +0000" stop="20250908013000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
+</programme>
+<programme start="20250908003000 +0000" stop="20250908013000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PMSC: Rennen - GP Italien</title>
 </programme>
 <programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (6)</title>
