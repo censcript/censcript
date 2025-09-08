@@ -3040,7 +3040,66 @@
 <programme start="20250908103000 +0000" stop="20250908110000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: Tackling Our Waste</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250907180000 +0000" stop="20250907190000 +0000" channel="Entertainment.mncvision">
+    <title>Mendadak Seleb</title>
+</programme>
+<programme start="20250907190000 +0000" stop="20250907200000 +0000" channel="Entertainment.mncvision">
+    <title>Take It Or Leave It</title>
+</programme>
+<programme start="20250907200000 +0000" stop="20250907210000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250907210000 +0000" stop="20250907220000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250907220000 +0000" stop="20250907233000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250907233000 +0000" stop="20250908003000 +0000" channel="Entertainment.mncvision">
+    <title>Kuis Siapa Berani</title>
+</programme>
+<programme start="20250908003000 +0000" stop="20250908013000 +0000" channel="Entertainment.mncvision">
+    <title>Berpacu Dalam Melodi</title>
+</programme>
+<programme start="20250908013000 +0000" stop="20250908030000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20250908030000 +0000" stop="20250908040000 +0000" channel="Entertainment.mncvision">
+    <title>Uang Kaget Lagi</title>
+</programme>
+<programme start="20250908040000 +0000" stop="20250908050000 +0000" channel="Entertainment.mncvision">
+    <title>Rumah Teka-Teki</title>
+</programme>
+<programme start="20250908050000 +0000" stop="20250908063000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250908063000 +0000" stop="20250908080000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20250908080000 +0000" stop="20250908090000 +0000" channel="Entertainment.mncvision">
+    <title>Berpacu Dalam Melodi</title>
+</programme>
+<programme start="20250908090000 +0000" stop="20250908100000 +0000" channel="Entertainment.mncvision">
+    <title>Kuis Siapa Berani</title>
+</programme>
+<programme start="20250908100000 +0000" stop="20250908110000 +0000" channel="Entertainment.mncvision">
+    <title>Take It Or Leave It</title>
+</programme>
+<programme start="20250908110000 +0000" stop="20250908120000 +0000" channel="Entertainment.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20250908120000 +0000" stop="20250908130000 +0000" channel="Entertainment.mncvision">
+    <title>Hot Spot Viral</title>
+</programme>
+<programme start="20250908130000 +0000" stop="20250908143000 +0000" channel="Entertainment.mncvision">
+    <title>Superdeal Indonesia</title>
+</programme>
+<programme start="20250908143000 +0000" stop="20250908163000 +0000" channel="Entertainment.mncvision">
+    <title>Masihkah Kau Mencintaiku</title>
+</programme>
+<programme start="20250908163000 +0000" stop="20250907170000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
 <programme start="20250907170000 +0000" stop="20250907170500 +0000" channel="EURONEWS.mncvision">
     <title>5 Minutes</title>
 </programme>
@@ -3191,7 +3250,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="EURONEWS.mncvision">
     <title>The European Debrief</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250907170000 +0000" stop="20250907190000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 50</title>
+</programme>
+<programme start="20250907190000 +0000" stop="20250907193000 +0000" channel="Fight Sports.mncvision">
+    <title>XMA S1, Ep 2</title>
+</programme>
+<programme start="20250907193000 +0000" stop="20250907200000 +0000" channel="Fight Sports.mncvision">
+    <title>Judo For The World S1, Ep 15</title>
+</programme>
+<programme start="20250907200000 +0000" stop="20250907203000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Garcia Vs Morales</title>
+</programme>
+<programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S10, Ep 2</title>
+</programme>
+<programme start="20250907210000 +0000" stop="20250907220000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S6, Ep 7</title>
+</programme>
+<programme start="20250907220000 +0000" stop="20250907230000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Semenov Vs Ewin</title>
+</programme>
+<programme start="20250907230000 +0000" stop="20250908010000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 50</title>
+</programme>
+<programme start="20250908010000 +0000" stop="20250908013000 +0000" channel="Fight Sports.mncvision">
+    <title>XMA S1, Ep 2</title>
+</programme>
+<programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="Fight Sports.mncvision">
+    <title>Judo For The World S1, Ep 15</title>
+</programme>
+<programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Garcia Vs Morales</title>
+</programme>
+<programme start="20250908023000 +0000" stop="20250908030000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S10, Ep 2</title>
+</programme>
+<programme start="20250908030000 +0000" stop="20250908040000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S6, Ep 7</title>
+</programme>
+<programme start="20250908040000 +0000" stop="20250908050000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Semenov Vs Ewin</title>
+</programme>
+<programme start="20250908050000 +0000" stop="20250908070000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 50</title>
+</programme>
+<programme start="20250908070000 +0000" stop="20250908073000 +0000" channel="Fight Sports.mncvision">
+    <title>XMA S1, Ep 2</title>
+</programme>
+<programme start="20250908073000 +0000" stop="20250908080000 +0000" channel="Fight Sports.mncvision">
+    <title>Judo For The World S1, Ep 15</title>
+</programme>
+<programme start="20250908080000 +0000" stop="20250908083000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Garcia Vs Morales</title>
+</programme>
+<programme start="20250908083000 +0000" stop="20250908090000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S10, Ep 2</title>
+</programme>
+<programme start="20250908090000 +0000" stop="20250908100000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S6, Ep 7</title>
+</programme>
+<programme start="20250908100000 +0000" stop="20250908110000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Semenov Vs Ewin</title>
+</programme>
+<programme start="20250908110000 +0000" stop="20250908133000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 22</title>
+</programme>
+<programme start="20250908133000 +0000" stop="20250908140000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S9, Ep 3</title>
+</programme>
+<programme start="20250908140000 +0000" stop="20250908143000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Ricky Vs Paul</title>
+</programme>
+<programme start="20250908143000 +0000" stop="20250908150000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S10, Ep 3</title>
+</programme>
+<programme start="20250908150000 +0000" stop="20250908160000 +0000" channel="Fight Sports.mncvision">
+    <title>Fight Quest S1, Ep 2</title>
+</programme>
+<programme start="20250908160000 +0000" stop="20250908163000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Lino Vs Fiorot</title>
+</programme>
 <programme start="20250907170000 +0000" stop="20250907200000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>MasterChef Indonesia S12</title>
 </programme>

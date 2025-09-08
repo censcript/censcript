@@ -110,8 +110,8 @@
     <title>Football: AEL - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908163000 +0700" stop="20250908183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rangers FC - Celtic FC</title>
+<programme start="20250909193000 +0700" stop="20250909213000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908183000 +0700" stop="20250908193000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,8 +174,8 @@
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908163000 +0700" stop="20250908183000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Vanoli Cremona - Virtus Bologna</title>
+<programme start="20250909193000 +0700" stop="20250909200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908183000 +0700" stop="20250908204000 +0700" channel="COSMOTE Sport 4 HD">
@@ -228,10 +228,6 @@
 </programme>
 <programme start="20250909181000 +0700" stop="20250909201500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250908163000 +0700" stop="20250908180500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908180500 +0700" stop="20250908190500 +0700" channel="COSMOTE Sport 5 HD">
@@ -324,6 +320,10 @@
 </programme>
 <programme start="20250909173500 +0700" stop="20250909190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250909190000 +0700" stop="20250909204000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908173000 +0700" stop="20250908202500 +0700" channel="COSMOTE Sport 6 HD">
