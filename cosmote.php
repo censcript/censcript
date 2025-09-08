@@ -110,8 +110,8 @@
     <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908193000 +0700" stop="20250908203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20250909213000 +0700" stop="20250909234500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908203000 +0700" stop="20250909000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,10 +174,6 @@
     <title>Football: APOEL - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908183000 +0700" stop="20250908204000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tofas - Turk Telekom</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250908204000 +0700" stop="20250908224000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Brescia - Trapani</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +224,6 @@
 </programme>
 <programme start="20250909201500 +0700" stop="20250909221500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Aquila Basket Trento - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250908193500 +0700" stop="20250908204000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908204000 +0700" stop="20250908220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +314,8 @@
     <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908173000 +0700" stop="20250908202500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250909211000 +0700" stop="20250909220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908202500 +0700" stop="20250908230000 +0700" channel="COSMOTE Sport 6 HD">
