@@ -2551,12 +2551,6 @@
 <programme start="20250908210500 +0000" stop="20250908220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Blutige Familienbande</title>
 </programme>
-<programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
-</programme>
-<programme start="20250907230000 +0000" stop="20250907233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
 <programme start="20250907233000 +0000" stop="20250908000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
@@ -3082,12 +3076,6 @@
 <programme start="20250908210000 +0000" stop="20250908220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
 </programme>
-<programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250907230000 +0000" stop="20250907233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
 <programme start="20250907233000 +0000" stop="20250908020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
 </programme>
@@ -3127,13 +3115,13 @@
 <programme start="20250908200000 +0000" stop="20250909040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
 </programme>
-<programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907220000 +0000" stop="20250907223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Italien</title>
 </programme>
-<programme start="20250907230000 +0000" stop="20250907233000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 1. Spieltag, Sonntag</title>
 </programme>
-<programme start="20250907233000 +0000" stop="20250908020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907230000 +0000" stop="20250908020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250908020000 +0000" stop="20250908030000 +0000" channel="Sky Sport Top Event HD.skyde">
