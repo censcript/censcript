@@ -58,6 +58,10 @@
     <title>Football: Panathinaikos - Samsunspor</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250909131000 +0700" stop="20250909151000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Qarabag FK - Ferencvarosi TC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250908110000 +0700" stop="20250908131500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20250909110000 +0700" stop="20250909131500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250909131500 +0700" stop="20250909151500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908110000 +0700" stop="20250908143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,10 +182,6 @@
     <title>American Football: Buffalo Bills - Baltimore Ravens</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908100000 +0700" stop="20250908123000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Connecticut Sun - Phoenix Mercury</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250908123000 +0700" stop="20250908143000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Baskonia - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +232,6 @@
 </programme>
 <programme start="20250909120500 +0700" stop="20250909140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Kolossos - Karsiyaka</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250908115500 +0700" stop="20250908125000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908125000 +0700" stop="20250908132000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +322,8 @@
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908120000 +0700" stop="20250908130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
+<programme start="20250909130500 +0700" stop="20250909143500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908130000 +0700" stop="20250908150500 +0700" channel="COSMOTE Sport 6 HD">
