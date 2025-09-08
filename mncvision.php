@@ -2954,10 +2954,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20250908000200 +0000" stop="20250908003000 +0000" channel="DW English.mncvision">
-    <title>Euromaxx: Lifestyle Europe</title>
+    <title>Euromaxx: Oosterwold</title>
 </programme>
 <programme start="20250908003000 +0000" stop="20250908010000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Is Second Hand...</title>
 </programme>
 <programme start="20250908010000 +0000" stop="20250908011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2966,13 +2966,13 @@
     <title>DocFilm</title>
 </programme>
 <programme start="20250908014500 +0000" stop="20250908020000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Accompanying...</title>
 </programme>
 <programme start="20250908020000 +0000" stop="20250908020200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250908020200 +0000" stop="20250908023000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Human Intervention</title>
 </programme>
 <programme start="20250908023000 +0000" stop="20250908030000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: Are Health...</title>
@@ -2981,19 +2981,19 @@
     <title>DW News</title>
 </programme>
 <programme start="20250908031500 +0000" stop="20250908033000 +0000" channel="DW English.mncvision">
-    <title>Sports Life: Overcoming...</title>
+    <title>Sports Life: Ice In Her Veins</title>
 </programme>
 <programme start="20250908033000 +0000" stop="20250908040000 +0000" channel="DW English.mncvision">
-    <title>Euromaxx: Lifestyle Europe</title>
+    <title>Euromaxx: Oosterwold</title>
 </programme>
 <programme start="20250908040000 +0000" stop="20250908041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250908041500 +0000" stop="20250908044500 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Is Second Hand...</title>
 </programme>
 <programme start="20250908044500 +0000" stop="20250908050000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Accompanying...</title>
 </programme>
 <programme start="20250908050000 +0000" stop="20250908050200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3008,7 +3008,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20250908061500 +0000" stop="20250908063000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: History Goes Interactive</title>
 </programme>
 <programme start="20250908063000 +0000" stop="20250908070000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: Tackling Our Waste</title>
@@ -3017,16 +3017,16 @@
     <title>DW News</title>
 </programme>
 <programme start="20250908073000 +0000" stop="20250908080000 +0000" channel="DW English.mncvision">
-    <title>The 77 Percent: Africa&#039;s Youth</title>
+    <title>The 77 Percent: Are Men...</title>
 </programme>
 <programme start="20250908080000 +0000" stop="20250908083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250908083000 +0000" stop="20250908084500 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: History Goes Interactive</title>
 </programme>
 <programme start="20250908084500 +0000" stop="20250908090000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Accompanying...</title>
 </programme>
 <programme start="20250908090000 +0000" stop="20250908091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4688,40 +4688,40 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250907213000 +0000" stop="20250907230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250907230000 +0000" stop="20250908010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250908010000 +0000" stop="20250908030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Suara Misterius Di Balik Koper</title>
 </programme>
 <programme start="20250908030000 +0000" stop="20250908040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250908040000 +0000" stop="20250908043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250908043000 +0000" stop="20250908050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20250908050000 +0000" stop="20250908070000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908050000 +0000" stop="20250908063000 +0000" channel="Indosiar.mncvision">
+    <title>Diantara 2 Wanita Untuk Ayahku</title>
 </programme>
-<programme start="20250908070000 +0000" stop="20250908090000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908063000 +0000" stop="20250908083000 +0000" channel="Indosiar.mncvision">
+    <title>Sosial Media Pembawa Petaka</title>
 </programme>
-<programme start="20250908090000 +0000" stop="20250908113000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908083000 +0000" stop="20250908103000 +0000" channel="Indosiar.mncvision">
+    <title>Rekaman Dari Masa Depan</title>
 </programme>
-<programme start="20250908113000 +0000" stop="20250908140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908103000 +0000" stop="20250908123000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250908140000 +0000" stop="20250908163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908123000 +0000" stop="20250908153000 +0000" channel="Indosiar.mncvision">
+    <title>Timnas: Indonesia Vs Lebanon</title>
 </programme>
-<programme start="20250908163000 +0000" stop="20250907170000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908153000 +0000" stop="20250908160000 +0000" channel="Indosiar.mncvision">
+    <title>Heroes</title>
 </programme>
 <programme start="20250907170000 +0000" stop="20250907190000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4730,40 +4730,40 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250907213000 +0000" stop="20250907230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250907230000 +0000" stop="20250908010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250908010000 +0000" stop="20250908030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Suara Misterius Di Balik Koper</title>
 </programme>
 <programme start="20250908030000 +0000" stop="20250908040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250908040000 +0000" stop="20250908043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250908043000 +0000" stop="20250908050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20250908050000 +0000" stop="20250908070000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908050000 +0000" stop="20250908063000 +0000" channel="Indosiar HD.mncvision">
+    <title>Diantara 2 Wanita Untuk Ayahku</title>
 </programme>
-<programme start="20250908070000 +0000" stop="20250908090000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908063000 +0000" stop="20250908083000 +0000" channel="Indosiar HD.mncvision">
+    <title>Sosial Media Pembawa Petaka</title>
 </programme>
-<programme start="20250908090000 +0000" stop="20250908113000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908083000 +0000" stop="20250908103000 +0000" channel="Indosiar HD.mncvision">
+    <title>Rekaman Dari Masa Depan</title>
 </programme>
-<programme start="20250908113000 +0000" stop="20250908140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908103000 +0000" stop="20250908123000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250908140000 +0000" stop="20250908163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908123000 +0000" stop="20250908153000 +0000" channel="Indosiar HD.mncvision">
+    <title>Timnas: Indonesia Vs Lebanon</title>
 </programme>
-<programme start="20250908163000 +0000" stop="20250907170000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250908153000 +0000" stop="20250908160000 +0000" channel="Indosiar HD.mncvision">
+    <title>Heroes</title>
 </programme>
 <programme start="20250907180000 +0000" stop="20250907183000 +0000" channel="iNews.mncvision">
     <title>Realita</title>

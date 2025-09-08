@@ -5173,11 +5173,17 @@
     <programme start="20250908080000 +0000" stop="20250908083000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>
     </programme>
-    <programme start="20250908083000 +0000" stop="20250908113000 +0000" channel="SPOTV.starhub">
+    <programme start="20250908083000 +0000" stop="20250908110000 +0000" channel="SPOTV.starhub">
         <title>W Singles Final</title>
     </programme>
-    <programme start="20250908113000 +0000" stop="20250908153000 +0000" channel="SPOTV.starhub">
+    <programme start="20250908110000 +0000" stop="20250908113000 +0000" channel="SPOTV.starhub">
+        <title>Daily Highlights</title>
+    </programme>
+    <programme start="20250908113000 +0000" stop="20250908150000 +0000" channel="SPOTV.starhub">
         <title>M Singles Final</title>
+    </programme>
+    <programme start="20250908150000 +0000" stop="20250908153000 +0000" channel="SPOTV.starhub">
+        <title>Daily Highlights</title>
     </programme>
     <programme start="20250908153000 +0000" stop="20250908160000 +0000" channel="SPOTV.starhub">
         <title>Daily Highlights</title>
