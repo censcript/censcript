@@ -2551,11 +2551,14 @@
 <programme start="20250908210500 +0000" stop="20250908220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Blutige Familienbande</title>
 </programme>
-<programme start="20250907233000 +0000" stop="20250908000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominic Thiem)</title>
 </programme>
-<programme start="20250908000000 +0000" stop="20250908020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: LASK - SV Oberbank Ried, 5. Runde</title>
+<programme start="20250907230000 +0000" stop="20250908013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
+</programme>
+<programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Valentin Bontus)</title>
@@ -2818,22 +2821,25 @@
 <programme start="20250907224500 +0000" stop="20250907230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (4)</title>
 </programme>
-<programme start="20250907230000 +0000" stop="20250908020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250907230000 +0000" stop="20250908021000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
-<programme start="20250908020000 +0000" stop="20250908043000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
-</programme>
-<programme start="20250908043000 +0000" stop="20250908073000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250908021000 +0000" stop="20250908050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Amgen Irish Open, 4. Tag in Straffan (Irland)</title>
 </programme>
-<programme start="20250908073000 +0000" stop="20250908103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
-</programme>
-<programme start="20250908103000 +0000" stop="20250908130000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250908050000 +0000" stop="20250908063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20250908130000 +0000" stop="20250908160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250908063000 +0000" stop="20250908093000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Amgen Irish Open, 4. Tag in Straffan (Irland)</title>
+</programme>
+<programme start="20250908093000 +0000" stop="20250908123000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
+</programme>
+<programme start="20250908123000 +0000" stop="20250908140000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Aramco Houston Championship, 3. Tag in Houston, TX (USA)</title>
+</programme>
+<programme start="20250908140000 +0000" stop="20250908160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Walker Cup, Foursome Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250908160000 +0000" stop="20250908190000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3076,8 +3082,14 @@
 <programme start="20250908210000 +0000" stop="20250908220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
 </programme>
-<programme start="20250907233000 +0000" stop="20250908020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: J. Paolini (ITA) - I. Swiatek (POL), Cincinnati Open in Cincinnati (USA), Finale</title>
+<programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20250907230000 +0000" stop="20250908013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
+</programme>
+<programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Damen</title>
 </programme>
 <programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3115,28 +3127,25 @@
 <programme start="20250908200000 +0000" stop="20250909040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
 </programme>
-<programme start="20250907220000 +0000" stop="20250907223000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Italien</title>
 </programme>
-<programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 1. Spieltag, Sonntag</title>
-</programme>
-<programme start="20250907230000 +0000" stop="20250908020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250907230000 +0000" stop="20250908021000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
-<programme start="20250908020000 +0000" stop="20250908030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250908021000 +0000" stop="20250908030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto3: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20250908030000 +0000" stop="20250908040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250908030500 +0000" stop="20250908040500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20250908040000 +0000" stop="20250908050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250908040500 +0000" stop="20250908050500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250908050500 +0000" stop="20250908053500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Italien</title>
 </programme>
-<programme start="20250908053000 +0000" stop="20250908080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250908053500 +0000" stop="20250908080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
 </programme>
 <programme start="20250908080000 +0000" stop="20250908103000 +0000" channel="Sky Sport Top Event HD.skyde">
