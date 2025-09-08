@@ -178,10 +178,6 @@
     <title>Football: Al-Okhdood Club - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908224000 +0700" stop="20250909004500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: VEF Riga - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250909004500 +0700" stop="20250909024500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Kolossos - Karsiyaka</title>
     <desc>Live: Tidak</desc>
@@ -242,8 +238,8 @@
     <title>Basketball: Galatasaray - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908232000 +0700" stop="20250909010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250910014500 +0700" stop="20250910034000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Peristeri - Manisa Basket</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250909010000 +0700" stop="20250909023000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,9 +338,9 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908230000 +0700" stop="20250909003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250910015500 +0700" stop="20250910022500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250909003000 +0700" stop="20250909013500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
