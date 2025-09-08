@@ -1075,97 +1075,94 @@
 <programme start="20250908212000 +0000" stop="20250908222000 +0000" channel="Heimatkanal.skyde">
     <title>Derrick</title>
 </programme>
-<programme start="20250908223000 +0000" stop="20250908231500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20250907224500 +0000" stop="20250907233000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Die großen Fragen</title>
+</programme>
+<programme start="20250907233000 +0000" stop="20250908001500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Kevin Costner&#039;s The West</title>
+</programme>
+<programme start="20250908001500 +0000" stop="20250908010500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Der Kampf um Amerika</title>
+</programme>
+<programme start="20250908010500 +0000" stop="20250908015000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Black Patriots - Die vergessenen Helden des Bürgerkriegs</title>
+</programme>
+<programme start="20250908015000 +0000" stop="20250908024500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Die größten Revolutionen der Geschichte</title>
+</programme>
+<programme start="20250908024500 +0000" stop="20250908033000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Underground Railroad - Fluchtnetzwerk aus der Sklaverei</title>
+</programme>
+<programme start="20250908033000 +0000" stop="20250908041500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Underground Railroad - Fluchtnetzwerk aus der Sklaverei</title>
+</programme>
+<programme start="20250908041500 +0000" stop="20250908050500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Underground Railroad - Fluchtnetzwerk aus der Sklaverei</title>
+</programme>
+<programme start="20250908050500 +0000" stop="20250908060000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Underground Railroad - Fluchtnetzwerk aus der Sklaverei</title>
+</programme>
+<programme start="20250908060000 +0000" stop="20250908064500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250908064500 +0000" stop="20250908073000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250908073000 +0000" stop="20250908081500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20250908081500 +0000" stop="20250908090000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Forged in Fire - Wettkampf der Schmiede</title>
+</programme>
+<programme start="20250908090000 +0000" stop="20250908095000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Eisige Welten</title>
 </programme>
-<programme start="20250908231500 +0000" stop="20250909000000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20250908095000 +0000" stop="20250908104000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Eisige Welten</title>
+</programme>
+<programme start="20250908104000 +0000" stop="20250908112500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20250908112500 +0000" stop="20250908120500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20250908120500 +0000" stop="20250908125500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20250908125500 +0000" stop="20250908134000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20250908134000 +0000" stop="20250908142500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20250908142500 +0000" stop="20250908151000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20250908151000 +0000" stop="20250908155500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250908155500 +0000" stop="20250908164000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250908164000 +0000" stop="20250908173000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250908173000 +0000" stop="20250908181500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20250908181500 +0000" stop="20250908190500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Wunder und Heiligtümer mit Dennis Quaid</title>
 </programme>
-<programme start="20250909000000 +0000" stop="20250909005500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20250908190500 +0000" stop="20250908200000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Entschlüsselt - Der Vatikan im Zweiten Weltkrieg</title>
 </programme>
-<programme start="20250909005500 +0000" stop="20250909014000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20250908200000 +0000" stop="20250908205000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Spielzeuge, die die Welt veränderten</title>
 </programme>
-<programme start="20250909014000 +0000" stop="20250909022500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20250908205000 +0000" stop="20250908214000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Spielzeuge, die die Welt veränderten</title>
 </programme>
-<programme start="20250909022500 +0000" stop="20250909030500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Forged in Fire - Wettkampf der Schmiede</title>
-</programme>
-<programme start="20250909030500 +0000" stop="20250909034500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20250909034500 +0000" stop="20250909043000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20250909043000 +0000" stop="20250909051500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909051500 +0000" stop="20250909060000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909060000 +0000" stop="20250909064500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909064500 +0000" stop="20250909073000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909073000 +0000" stop="20250909081500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Forged in Fire - Wettkampf der Schmiede</title>
-</programme>
-<programme start="20250909081500 +0000" stop="20250909090000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Forged in Fire - Wettkampf der Schmiede</title>
-</programme>
-<programme start="20250909090000 +0000" stop="20250909095000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Eisige Welten</title>
-</programme>
-<programme start="20250909095000 +0000" stop="20250909104000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Eisige Welten</title>
-</programme>
-<programme start="20250909104000 +0000" stop="20250909112500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20250909112500 +0000" stop="20250909120500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20250909120500 +0000" stop="20250909125500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20250909125500 +0000" stop="20250909134000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20250909134000 +0000" stop="20250909142500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20250909142500 +0000" stop="20250909151000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20250909151000 +0000" stop="20250909155500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909155500 +0000" stop="20250909164000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909164000 +0000" stop="20250909173000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909173000 +0000" stop="20250909181500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909181500 +0000" stop="20250909190500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20250909190500 +0000" stop="20250909200000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
-</programme>
-<programme start="20250909200000 +0000" stop="20250909205500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
-</programme>
-<programme start="20250909205500 +0000" stop="20250909215500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unsere Kontinente</title>
-</programme>
-<programme start="20250909215500 +0000" stop="20250909224500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20250908214000 +0000" stop="20250908223000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Eisige Welten</title>
 </programme>
 <programme start="20250907220000 +0000" stop="20250907230000 +0000" channel="Jukebox.skyde">
@@ -3084,51 +3081,6 @@
 </programme>
 <programme start="20250908210000 +0000" stop="20250908220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
-</programme>
-<programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250907230000 +0000" stop="20250908013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, Finaltag Damen</title>
-</programme>
-<programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250908023000 +0000" stop="20250908050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: B. van de Zandschulp (NED) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
-</programme>
-<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, Finaltag Damen</title>
-</programme>
-<programme start="20250908053000 +0000" stop="20250908060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250908060000 +0000" stop="20250908083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
-</programme>
-<programme start="20250908083000 +0000" stop="20250908110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250908110000 +0000" stop="20250908133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
-</programme>
-<programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review München</title>
-</programme>
-<programme start="20250908143000 +0000" stop="20250908170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250908170000 +0000" stop="20250908193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
-</programme>
-<programme start="20250908193000 +0000" stop="20250908200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, Finaltag Herren</title>
-</programme>
-<programme start="20250908200000 +0000" stop="20250909040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
 </programme>
 <programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Italien</title>

@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20250907161500 +0000" stop="20250907163000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Accompanying a Nomad Doctor in Mongolia</title>
     </programme>
     <programme start="20250907163000 +0000" stop="20250907170000 +0000" channel="DW English HD.starhub">
         <title>Modern African Lifestyle</title>
@@ -3245,16 +3245,16 @@
         <title>News</title>
     </programme>
     <programme start="20250907171500 +0000" stop="20250907173000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ice in her veins: Cancer survivor takes on Arctic endurance event</title>
     </programme>
     <programme start="20250907173000 +0000" stop="20250907180000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Oosterwold: A Dutch town with mandatory gardening!</title>
     </programme>
     <programme start="20250907180000 +0000" stop="20250907181500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250907181500 +0000" stop="20250907183000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>History goes interactive: Learning through tech</title>
     </programme>
     <programme start="20250907183000 +0000" stop="20250907190000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -3269,7 +3269,7 @@
         <title>News</title>
     </programme>
     <programme start="20250907201500 +0000" stop="20250907203000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ice in her veins: Cancer survivor takes on Arctic endurance event</title>
     </programme>
     <programme start="20250907203000 +0000" stop="20250907210000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3278,7 +3278,7 @@
         <title>News</title>
     </programme>
     <programme start="20250907211500 +0000" stop="20250907213000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Accompanying a Nomad Doctor in Mongolia</title>
     </programme>
     <programme start="20250907213000 +0000" stop="20250907220000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -3287,16 +3287,16 @@
         <title>News</title>
     </programme>
     <programme start="20250907220200 +0000" stop="20250907223000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Oosterwold: A Dutch town with mandatory gardening!</title>
     </programme>
     <programme start="20250907223000 +0000" stop="20250907230000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Quiet Revolutionaries: Goethe Medal 2025</title>
     </programme>
     <programme start="20250907230000 +0000" stop="20250907231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250907231500 +0000" stop="20250907233000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Accompanying a Nomad Doctor in Mongolia</title>
     </programme>
     <programme start="20250907233000 +0000" stop="20250908000000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
