@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250909234500 +0700" stop="20250910001500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250908203000 +0700" stop="20250909000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Green Bay Packers - Detroit Lions</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +178,6 @@
     <title>Football: River Plate - Libertad</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908204000 +0700" stop="20250908224000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Brescia - Trapani</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250908224000 +0700" stop="20250909004500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: VEF Riga - AEK</title>
     <desc>Live: Tidak</desc>
@@ -232,6 +232,14 @@
 </programme>
 <programme start="20250909224500 +0700" stop="20250909231500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250909231500 +0700" stop="20250909234500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250909234500 +0700" stop="20250910014500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Galatasaray - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908220000 +0700" stop="20250908232000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,10 +338,6 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908202500 +0700" stop="20250908230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250908230000 +0700" stop="20250909003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin (L)</title>
     <desc>Live: Ya</desc>
@@ -398,8 +402,8 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250908220000 +0700" stop="20250908230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250909230000 +0700" stop="20250910000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250908230000 +0700" stop="20250908233000 +0700" channel="COSMOTE Sport 7 HD">
