@@ -8464,11 +8464,17 @@
 <programme start="20250908080000 +0000" stop="20250908083000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
-<programme start="20250908083000 +0000" stop="20250908113000 +0000" channel="SPOTV.mncvision">
+<programme start="20250908083000 +0000" stop="20250908110000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
-<programme start="20250908113000 +0000" stop="20250908153000 +0000" channel="SPOTV.mncvision">
+<programme start="20250908110000 +0000" stop="20250908113000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
+</programme>
+<programme start="20250908113000 +0000" stop="20250908150000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
+</programme>
+<programme start="20250908150000 +0000" stop="20250908153000 +0000" channel="SPOTV.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
 <programme start="20250908153000 +0000" stop="20250908160000 +0000" channel="SPOTV.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
@@ -8605,11 +8611,17 @@
 <programme start="20250908080000 +0000" stop="20250908083000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
-<programme start="20250908083000 +0000" stop="20250908113000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250908083000 +0000" stop="20250908110000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
 </programme>
-<programme start="20250908113000 +0000" stop="20250908153000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20250908110000 +0000" stop="20250908113000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
+</programme>
+<programme start="20250908113000 +0000" stop="20250908150000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship</title>
+</programme>
+<programme start="20250908150000 +0000" stop="20250908153000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 US Open Tennis C&#039;ship HL</title>
 </programme>
 <programme start="20250908153000 +0000" stop="20250908160000 +0000" channel="SPOTV HD.mncvision">
     <title>2025 US Open Tennis C&#039;ship HL</title>
