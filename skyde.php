@@ -3082,51 +3082,6 @@
 <programme start="20250908210000 +0000" stop="20250908220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
 </programme>
-<programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250907230000 +0000" stop="20250908013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250908013000 +0000" stop="20250908020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, Finaltag Damen</title>
-</programme>
-<programme start="20250908020000 +0000" stop="20250908023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250908023000 +0000" stop="20250908050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: B. van de Zandschulp (NED) - M. Fucsovics (HUN), Winston-Salem Open in Winston-Salem, North Carolina (USA), Finale</title>
-</programme>
-<programme start="20250908050000 +0000" stop="20250908053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, Finaltag Damen</title>
-</programme>
-<programme start="20250908053000 +0000" stop="20250908060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20250908060000 +0000" stop="20250908083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
-</programme>
-<programme start="20250908083000 +0000" stop="20250908110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250908110000 +0000" stop="20250908133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
-</programme>
-<programme start="20250908133000 +0000" stop="20250908143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review München</title>
-</programme>
-<programme start="20250908143000 +0000" stop="20250908170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: J. Sinner (ITA)  - C. Alcaraz (ESP), Finale Herren</title>
-</programme>
-<programme start="20250908170000 +0000" stop="20250908193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
-</programme>
-<programme start="20250908193000 +0000" stop="20250908200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>US Open: Highlights Show, Finaltag Herren</title>
-</programme>
-<programme start="20250908200000 +0000" stop="20250909040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
-</programme>
 <programme start="20250907221500 +0000" stop="20250907230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Italien</title>
 </programme>
