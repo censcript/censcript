@@ -1100,10 +1100,10 @@
     <title>FIA European Rally C&#039;ship 2025</title>
 </programme>
 <programme start="20250908082000 +0000" stop="20250908085500 +0000" channel="beIN Sports 1.mncvision">
-    <title>F1 HL 2025: Pirelli GP d&#039;Italia</title>
+    <title>Porsche Mobil 1 Supercup 2025</title>
 </programme>
 <programme start="20250908085500 +0000" stop="20250908093000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Porsche Mobil 1 Supercup 2025</title>
+    <title>F1 HL 2025: Pirelli GP d&#039;Italia</title>
 </programme>
 <programme start="20250908093000 +0000" stop="20250908100000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA European Rally C&#039;ship HL</title>
@@ -1114,8 +1114,11 @@
 <programme start="20250908120000 +0000" stop="20250908123500 +0000" channel="beIN Sports 1.mncvision">
     <title>F1 HL 2025: Pirelli GP d&#039;Italia</title>
 </programme>
-<programme start="20250908123500 +0000" stop="20250908143500 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFCTV Classic 2025/26, Ep 1</title>
+<programme start="20250908123500 +0000" stop="20250908140500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Classic: BRN Vs LIV</title>
+</programme>
+<programme start="20250908140500 +0000" stop="20250908143500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Specials 2025/26</title>
 </programme>
 <programme start="20250908143500 +0000" stop="20250908153500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 5</title>
@@ -1178,10 +1181,10 @@
     <title>FIA European Rally C&#039;ship 2025</title>
 </programme>
 <programme start="20250908082000 +0000" stop="20250908085500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>F1 HL 2025: Pirelli GP d&#039;Italia</title>
+    <title>Porsche Mobil 1 Supercup 2025</title>
 </programme>
 <programme start="20250908085500 +0000" stop="20250908093000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Porsche Mobil 1 Supercup 2025</title>
+    <title>F1 HL 2025: Pirelli GP d&#039;Italia</title>
 </programme>
 <programme start="20250908093000 +0000" stop="20250908100000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA European Rally C&#039;ship HL</title>
@@ -1192,8 +1195,11 @@
 <programme start="20250908120000 +0000" stop="20250908123500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>F1 HL 2025: Pirelli GP d&#039;Italia</title>
 </programme>
-<programme start="20250908123500 +0000" stop="20250908143500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LFCTV Classic 2025/26, Ep 1</title>
+<programme start="20250908123500 +0000" stop="20250908140500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Classic: BRN Vs LIV</title>
+</programme>
+<programme start="20250908140500 +0000" stop="20250908143500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Specials 2025/26</title>
 </programme>
 <programme start="20250908143500 +0000" stop="20250908153500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 5</title>
@@ -1318,7 +1324,10 @@
 <programme start="20250907183000 +0000" stop="20250907190000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Highlights 2024</title>
 </programme>
-<programme start="20250907190000 +0000" stop="20250907235000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250907190000 +0000" stop="20250907193000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2024</title>
+</programme>
+<programme start="20250907193000 +0000" stop="20250907235000 +0000" channel="beIN Sports 3.mncvision">
     <title>Ultimate Pool 2025: Shootout</title>
 </programme>
 <programme start="20250907235000 +0000" stop="20250908012000 +0000" channel="beIN Sports 3.mncvision">
@@ -1360,7 +1369,10 @@
 <programme start="20250907183000 +0000" stop="20250907190000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Highlights 2024</title>
 </programme>
-<programme start="20250907190000 +0000" stop="20250907235000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250907190000 +0000" stop="20250907193000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2024</title>
+</programme>
+<programme start="20250907193000 +0000" stop="20250907235000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Ultimate Pool 2025: Shootout</title>
 </programme>
 <programme start="20250907235000 +0000" stop="20250908012000 +0000" channel="beIN Sports 3 HD.mncvision">
@@ -1604,7 +1616,7 @@
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20250908123000 +0000" stop="20250908130000 +0000" channel="BTV.mncvision">
-    <title>Dunia Binatang</title>
+    <title>Berita Satu Spesial</title>
 </programme>
 <programme start="20250908130000 +0000" stop="20250908140000 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
