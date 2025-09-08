@@ -2362,6 +2362,105 @@
 <programme start="20250908215500 +0000" stop="20250908224000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20250907223500 +0000" stop="20250907232000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250907232000 +0000" stop="20250908000000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908000000 +0000" stop="20250908004500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908004500 +0000" stop="20250908012500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908012500 +0000" stop="20250908021000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908021000 +0000" stop="20250908025000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908025000 +0000" stop="20250908033500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908033500 +0000" stop="20250908042000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908042000 +0000" stop="20250908050500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908050500 +0000" stop="20250908054500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908054500 +0000" stop="20250908063000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908063000 +0000" stop="20250908071500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908071500 +0000" stop="20250908080000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908080000 +0000" stop="20250908084500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908084500 +0000" stop="20250908093000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908093000 +0000" stop="20250908101500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908101500 +0000" stop="20250908110000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908110000 +0000" stop="20250908114000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908114000 +0000" stop="20250908122500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908122500 +0000" stop="20250908130500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908130500 +0000" stop="20250908135000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908135000 +0000" stop="20250908143000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908143000 +0000" stop="20250908151500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908151500 +0000" stop="20250908160000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908160000 +0000" stop="20250908164500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908164500 +0000" stop="20250908173000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908173000 +0000" stop="20250908181500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908181500 +0000" stop="20250908190000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908190000 +0000" stop="20250908194000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908194000 +0000" stop="20250908202500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908202500 +0000" stop="20250908211000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908211000 +0000" stop="20250908215500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250908215500 +0000" stop="20250908223500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20250907222000 +0000" stop="20250907231000 +0000" channel="Sky Showcase HD.skyde">
     <title>Unser Hof - Mit Cheyenne und Nino</title>
 </programme>

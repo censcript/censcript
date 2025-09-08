@@ -3305,10 +3305,10 @@
         <title>News</title>
     </programme>
     <programme start="20250908000200 +0000" stop="20250908003000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Oosterwold: A Dutch town with mandatory gardening!</title>
     </programme>
     <programme start="20250908003000 +0000" stop="20250908010000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Is second hand clothing really more sustainable?</title>
     </programme>
     <programme start="20250908010000 +0000" stop="20250908011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3317,13 +3317,13 @@
         <title>Forging Into The Future - Can Green Start-Ups Secure Prosperity?</title>
     </programme>
     <programme start="20250908014500 +0000" stop="20250908020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Accompanying a Nomad Doctor in Mongolia</title>
     </programme>
     <programme start="20250908020000 +0000" stop="20250908020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250908020200 +0000" stop="20250908023000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Human intervention and innovation for a healthier planet</title>
     </programme>
     <programme start="20250908023000 +0000" stop="20250908030000 +0000" channel="DW English HD.starhub">
         <title>Are health trends helping or hurting?</title>
@@ -3332,19 +3332,19 @@
         <title>News</title>
     </programme>
     <programme start="20250908031500 +0000" stop="20250908033000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ice in her veins: Cancer survivor takes on Arctic endurance event</title>
     </programme>
     <programme start="20250908033000 +0000" stop="20250908040000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Oosterwold: A Dutch town with mandatory gardening!</title>
     </programme>
     <programme start="20250908040000 +0000" stop="20250908041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250908041500 +0000" stop="20250908044500 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Is second hand clothing really more sustainable?</title>
     </programme>
     <programme start="20250908044500 +0000" stop="20250908050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Accompanying a Nomad Doctor in Mongolia</title>
     </programme>
     <programme start="20250908050000 +0000" stop="20250908050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3359,7 +3359,7 @@
         <title>News</title>
     </programme>
     <programme start="20250908061500 +0000" stop="20250908063000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>History goes interactive: Learning through tech</title>
     </programme>
     <programme start="20250908063000 +0000" stop="20250908070000 +0000" channel="DW English HD.starhub">
         <title>Tackling our waste and plastic crisis</title>
@@ -3368,16 +3368,16 @@
         <title>News</title>
     </programme>
     <programme start="20250908073000 +0000" stop="20250908080000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Are men lesser without money?</title>
     </programme>
     <programme start="20250908080000 +0000" stop="20250908083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250908083000 +0000" stop="20250908084500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>History goes interactive: Learning through tech</title>
     </programme>
     <programme start="20250908084500 +0000" stop="20250908090000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Accompanying a Nomad Doctor in Mongolia</title>
     </programme>
     <programme start="20250908090000 +0000" stop="20250908091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3395,7 +3395,7 @@
         <title>News</title>
     </programme>
     <programme start="20250908113000 +0000" stop="20250908120000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Is second hand clothing really more sustainable?</title>
     </programme>
     <programme start="20250908120000 +0000" stop="20250908121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3407,10 +3407,10 @@
         <title>News</title>
     </programme>
     <programme start="20250908131500 +0000" stop="20250908133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>The business of deportation: Trump’s boost to private prisons?</title>
     </programme>
     <programme start="20250908133000 +0000" stop="20250908140000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Are men lesser without money?</title>
     </programme>
     <programme start="20250908140000 +0000" stop="20250908143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3422,7 +3422,7 @@
         <title>News</title>
     </programme>
     <programme start="20250908153000 +0000" stop="20250908160000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Is second hand clothing really more sustainable?</title>
     </programme>
     <programme start="20250907160000 +0000" stop="20250907220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
