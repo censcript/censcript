@@ -658,9 +658,6 @@
 <programme start="20250909123000 +0000" stop="20250909143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20250909143000 +0000" stop="20250909163000 +0000" channel="ANTV.vision">
-<title>Perjanjian Terlarang</title>
-</programme>
 <programme start="20250909163000 +0000" stop="20250909183000 +0000" channel="ANTV.vision">
 <title>Looking For Mister Perfect</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250910080000 +0000" stop="20250910083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20250910083000 +0000" stop="20250910093000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
 </programme>
