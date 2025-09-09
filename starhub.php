@@ -2474,7 +2474,7 @@
         <title>NFL 2025/26 Minnesota Vikings vs Chicago Bears (Live)</title>
     </programme>
     <programme start="20250909033000 +0000" stop="20250909040000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Season 6, Episode 2 - Women&#039;s Golf</title>
+        <title>Season 6, Episode 2 - Women’s Golf</title>
     </programme>
     <programme start="20250909040000 +0000" stop="20250909050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Nashville, TN</title>
@@ -6440,7 +6440,7 @@
         <title>NFL 2025/26 Minnesota Vikings vs Chicago Bears (Live)</title>
     </programme>
     <programme start="20250909033000 +0000" stop="20250909040000 +0000" channel="TestChannel 995.starhub">
-        <title>Season 6, Episode 2 - Women&#039;s Golf</title>
+        <title>Season 6, Episode 2 - Women’s Golf</title>
     </programme>
     <programme start="20250909040000 +0000" stop="20250909050000 +0000" channel="TestChannel 995.starhub">
         <title>Nashville, TN</title>
