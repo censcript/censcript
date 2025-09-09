@@ -406,10 +406,10 @@
 <programme start="20250909060000 +0000" stop="20250909080000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250909080000 +0000" stop="20250909093000 +0000" channel="ANTV.mncvision">
+<programme start="20250909080000 +0000" stop="20250909100000 +0000" channel="ANTV.mncvision">
     <title>Nath</title>
 </programme>
-<programme start="20250909093000 +0000" stop="20250909110000 +0000" channel="ANTV.mncvision">
+<programme start="20250909100000 +0000" stop="20250909110000 +0000" channel="ANTV.mncvision">
     <title>Parineetii</title>
 </programme>
 <programme start="20250909110000 +0000" stop="20250909123000 +0000" channel="ANTV.mncvision">
