@@ -54,10 +54,6 @@
     <title>Football: SK Sturm Graz - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250910001500 +0700" stop="20250910021500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - AS Roma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250910021500 +0700" stop="20250910041500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20250911014500 +0700" stop="20250911034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250911034500 +0700" stop="20250911060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250910020000 +0700" stop="20250910040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,8 +226,8 @@
     <title>Basketball: Valencia Basket Club - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250910015500 +0700" stop="20250910022500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250911035000 +0700" stop="20250911041500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250910022500 +0700" stop="20250910040000 +0700" channel="COSMOTE Sport 5 HD">
@@ -328,6 +328,10 @@
 </programme>
 <programme start="20250911020000 +0700" stop="20250911030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250911030000 +0700" stop="20250911042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250910012000 +0700" stop="20250910040000 +0700" channel="COSMOTE Sport 6 HD">
