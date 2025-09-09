@@ -2240,7 +2240,7 @@
         <title>Movie - Unakkagave Vazhukkiren</title>
     </programme>
     <programme start="20250909073000 +0000" stop="20250909103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Paatti Sollai Thattathe</title>
+        <title>Movie - Paatti sollai thattathe</title>
     </programme>
     <programme start="20250909103000 +0000" stop="20250909133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Ettu Patti Rasa</title>
@@ -7670,7 +7670,7 @@
         <title>Verified Live</title>
     </programme>
     <programme start="20250908160000 +0000" stop="20250908162000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250908162000 +0000" stop="20250908181000 +0000" channel="Premier Sports.starhub">
         <title>The Rugby Championship South Africa v Australia</title>
@@ -7679,7 +7679,7 @@
         <title>The Rugby Championship Argentina v New Zealand</title>
     </programme>
     <programme start="20250908200000 +0000" stop="20250908210000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time</title>
+        <title>NRL Try Time NRL Try Time</title>
     </programme>
     <programme start="20250908210000 +0000" stop="20250908211500 +0000" channel="Premier Sports.starhub">
         <title>AFLW Highlights Melbourne v Richmond</title>
@@ -7709,16 +7709,16 @@
         <title>AFLW Highlights West Coast v Port Adelaide</title>
     </programme>
     <programme start="20250908232000 +0000" stop="20250908234000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250908234000 +0000" stop="20250909000000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909000000 +0000" stop="20250909002000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909002000 +0000" stop="20250909004000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909004000 +0000" stop="20250909023000 +0000" channel="Premier Sports.starhub">
         <title>NRL Roosters v Rabbitohs</title>
@@ -7733,7 +7733,7 @@
         <title>The Rugby Championship New Zealand v South Africa</title>
     </programme>
     <programme start="20250909080000 +0000" stop="20250909090000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time</title>
+        <title>NRL Try Time NRL Try Time</title>
     </programme>
     <programme start="20250909090000 +0000" stop="20250909091500 +0000" channel="Premier Sports.starhub">
         <title>AFLW Highlights Melbourne v Richmond</title>
@@ -7763,16 +7763,16 @@
         <title>AFLW Highlights West Coast v Port Adelaide</title>
     </programme>
     <programme start="20250909112000 +0000" stop="20250909114000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909114000 +0000" stop="20250909120000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909120000 +0000" stop="20250909122000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909122000 +0000" stop="20250909124000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights</title>
+        <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250909124000 +0000" stop="20250909143000 +0000" channel="Premier Sports.starhub">
         <title>NRL Roosters v Rabbitohs</title>
