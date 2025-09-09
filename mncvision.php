@@ -4042,11 +4042,14 @@
 <programme start="20250909030000 +0000" stop="20250909070000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250909070000 +0000" stop="20250909083000 +0000" channel="GTV.mncvision">
+<programme start="20250909070000 +0000" stop="20250909080000 +0000" channel="GTV.mncvision">
     <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250909083000 +0000" stop="20250909104000 +0000" channel="GTV.mncvision">
+<programme start="20250909080000 +0000" stop="20250909100000 +0000" channel="GTV.mncvision">
     <title>Kera Sakti</title>
+</programme>
+<programme start="20250909100000 +0000" stop="20250909104000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250909104000 +0000" stop="20250909110000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
@@ -4090,11 +4093,14 @@
 <programme start="20250909030000 +0000" stop="20250909070000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20250909070000 +0000" stop="20250909083000 +0000" channel="GTV HD.mncvision">
+<programme start="20250909070000 +0000" stop="20250909080000 +0000" channel="GTV HD.mncvision">
     <title>Shaun The Sheep</title>
 </programme>
-<programme start="20250909083000 +0000" stop="20250909104000 +0000" channel="GTV HD.mncvision">
+<programme start="20250909080000 +0000" stop="20250909100000 +0000" channel="GTV HD.mncvision">
     <title>Kera Sakti</title>
+</programme>
+<programme start="20250909100000 +0000" stop="20250909104000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250909104000 +0000" stop="20250909110000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
@@ -4877,7 +4883,7 @@
     <title>New Top Files</title>
 </programme>
 <programme start="20250908230000 +0000" stop="20250909000000 +0000" channel="JAKTV.mncvision">
-    <title>Berdoa Yuk</title>
+    <title>Medika Natura</title>
 </programme>
 <programme start="20250909000000 +0000" stop="20250909003000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
@@ -4892,7 +4898,7 @@
     <title>Lejel</title>
 </programme>
 <programme start="20250909030000 +0000" stop="20250909040000 +0000" channel="JAKTV.mncvision">
-    <title>Medika Natura</title>
+    <title>Berdoa Yuk</title>
 </programme>
 <programme start="20250909040000 +0000" stop="20250909043000 +0000" channel="JAKTV.mncvision">
     <title>Jendela Sarawak</title>
