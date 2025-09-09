@@ -655,9 +655,6 @@
 <programme start="20250909093000 +0000" stop="20250909110000 +0000" channel="ANTV.vision">
 <title>Parineetii</title>
 </programme>
-<programme start="20250909110000 +0000" stop="20250909123000 +0000" channel="ANTV.vision">
-<title>Petualangan Cinta Nyi Blorong</title>
-</programme>
 <programme start="20250909123000 +0000" stop="20250909143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250910070000 +0000" stop="20250910080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20250910080000 +0000" stop="20250910083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>
