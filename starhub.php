@@ -2462,7 +2462,7 @@
         <title>Guadalajara Open Akron presented by Santander (500) Day 1</title>
     </programme>
     <programme start="20250908220000 +0000" stop="20250908223000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Season 6, Episode 2 - Women&#039;s Golf</title>
+        <title>Season 6, Episode 2 - Women’s Golf</title>
     </programme>
     <programme start="20250908223000 +0000" stop="20250908233000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Nashville, TN</title>
@@ -6428,7 +6428,7 @@
         <title>Guadalajara Open Akron presented by Santander (500) Day 1</title>
     </programme>
     <programme start="20250908220000 +0000" stop="20250908223000 +0000" channel="TestChannel 995.starhub">
-        <title>Season 6, Episode 2 - Women&#039;s Golf</title>
+        <title>Season 6, Episode 2 - Women’s Golf</title>
     </programme>
     <programme start="20250908223000 +0000" stop="20250908233000 +0000" channel="TestChannel 995.starhub">
         <title>Nashville, TN</title>
