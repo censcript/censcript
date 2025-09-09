@@ -2240,7 +2240,7 @@
         <title>Movie - Unakkagave Vazhukkiren</title>
     </programme>
     <programme start="20250909073000 +0000" stop="20250909103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Paatti sollai thattathe</title>
+        <title>Movie - Paatti Sollai Thattathe</title>
     </programme>
     <programme start="20250909103000 +0000" stop="20250909133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Ettu Patti Rasa</title>

@@ -5014,7 +5014,10 @@
 <programme start="20250909093000 +0000" stop="20250909100000 +0000" channel="Kids TV.mncvision">
     <title>Kiko S1</title>
 </programme>
-<programme start="20250909100000 +0000" stop="20250909120000 +0000" channel="Kids TV.mncvision">
+<programme start="20250909100000 +0000" stop="20250909103000 +0000" channel="Kids TV.mncvision">
+    <title>Cat &amp; Keet</title>
+</programme>
+<programme start="20250909103000 +0000" stop="20250909120000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20250909120000 +0000" stop="20250909130000 +0000" channel="Kids TV.mncvision">
@@ -5092,7 +5095,10 @@
 <programme start="20250909093000 +0000" stop="20250909100000 +0000" channel="Kids TV HD.mncvision">
     <title>Kiko S1</title>
 </programme>
-<programme start="20250909100000 +0000" stop="20250909120000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20250909100000 +0000" stop="20250909103000 +0000" channel="Kids TV HD.mncvision">
+    <title>Cat &amp; Keet</title>
+</programme>
+<programme start="20250909103000 +0000" stop="20250909120000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20250909120000 +0000" stop="20250909130000 +0000" channel="Kids TV HD.mncvision">
