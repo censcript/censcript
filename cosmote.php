@@ -54,10 +54,6 @@
     <title>Football: Club Brugge - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250909234500 +0700" stop="20250910001500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250910001500 +0700" stop="20250910021500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20250910234500 +0700" stop="20250911014500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250911014500 +0700" stop="20250911034500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250910000000 +0700" stop="20250910020000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +226,6 @@
     <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250910000000 +0700" stop="20250910005000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250910005000 +0700" stop="20250910015500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -328,6 +324,10 @@
 </programme>
 <programme start="20250911003000 +0700" stop="20250911013000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250911013000 +0700" stop="20250911020000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250910000000 +0700" stop="20250910012000 +0700" channel="COSMOTE Sport 6 HD">
