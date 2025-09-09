@@ -3124,6 +3124,42 @@
 <programme start="20250909213000 +0000" stop="20250909223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Robert Pires</title>
 </programme>
+<programme start="20250909040000 +0000" stop="20250909063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
+</programme>
+<programme start="20250909063000 +0000" stop="20250909070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Damen</title>
+</programme>
+<programme start="20250909070000 +0000" stop="20250909090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Sakkari (GRE) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
+</programme>
+<programme start="20250909090000 +0000" stop="20250909093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Herren</title>
+</programme>
+<programme start="20250909093000 +0000" stop="20250909120000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Alexandrova - D. Shnaider, Abierto GNP Securos in Monterrey (MEX), Finale</title>
+</programme>
+<programme start="20250909120000 +0000" stop="20250909123000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Herren</title>
+</programme>
+<programme start="20250909123000 +0000" stop="20250909143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Sakkari (GRE) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
+</programme>
+<programme start="20250909143000 +0000" stop="20250909170000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
+</programme>
+<programme start="20250909170000 +0000" stop="20250909173000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Damen</title>
+</programme>
+<programme start="20250909173000 +0000" stop="20250909180000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>US Open: Highlights Show, Finaltag Herren</title>
+</programme>
+<programme start="20250909180000 +0000" stop="20250909200000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Sakkari (GRE) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
+</programme>
+<programme start="20250909200000 +0000" stop="20250910040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
+</programme>
 <programme start="20250909040000 +0000" stop="20250909063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>US Open: G. Dabrowski (CAN) / E. Routliffe (NZL) - K. Siniakova (CZE) / T. Townsend (USA), Doppelfinale Damen</title>
 </programme>

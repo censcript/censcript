@@ -643,12 +643,6 @@
 <programme start="20250910114500 +0000" stop="20250910121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250908233000 +0000" stop="20250909013000 +0000" channel="ANTV.vision">
-<title>Mekar Diguncang Prahara</title>
-</programme>
-<programme start="20250909013000 +0000" stop="20250909050000 +0000" channel="ANTV.vision">
-<title>Fan</title>
-</programme>
 <programme start="20250909050000 +0000" stop="20250909060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -661,20 +655,8 @@
 <programme start="20250909093000 +0000" stop="20250909110000 +0000" channel="ANTV.vision">
 <title>Parineetii</title>
 </programme>
-<programme start="20250909110000 +0000" stop="20250909123000 +0000" channel="ANTV.vision">
-<title>Petualangan Cinta Nyi Blorong</title>
-</programme>
 <programme start="20250909123000 +0000" stop="20250909143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20250909143000 +0000" stop="20250909163000 +0000" channel="ANTV.vision">
-<title>Perjanjian Terlarang</title>
-</programme>
-<programme start="20250909163000 +0000" stop="20250909183000 +0000" channel="ANTV.vision">
-<title>Looking For Mister Perfect</title>
-</programme>
-<programme start="20250909183000 +0000" stop="20250909203000 +0000" channel="ANTV.vision">
-<title>Legend Of The Dragon</title>
 </programme>
 <programme start="20250909203000 +0000" stop="20250909220000 +0000" channel="ANTV.vision">
 <title>Membakar Lingkaran Api</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20250910060000 +0000" stop="20250910063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
+</programme>
+<programme start="20250910063000 +0000" stop="20250910070000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
+</programme>
+<programme start="20250910070000 +0000" stop="20250910080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20250910080000 +0000" stop="20250910083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20250910083000 +0000" stop="20250910093000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250910093000 +0000" stop="20250910103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20250910103000 +0000" stop="20250910123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
