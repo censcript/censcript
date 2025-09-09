@@ -3176,7 +3176,7 @@
     <title>Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
 </programme>
 <programme start="20250909143000 +0000" stop="20250909163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: M. Sakkari (GRE) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
+    <title>WTA 500: A. Parks (USA) - D. Vidmanová (CZE), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
 </programme>
 <programme start="20250909163000 +0000" stop="20250909173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F3: 2. Rennen - GP Italien</title>
