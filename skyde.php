@@ -2317,6 +2317,108 @@
 <programme start="20250910214000 +0000" stop="20250910223000 +0000" channel="Sky Nature HD.skyde">
     <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
+<programme start="20250909224000 +0000" stop="20250909232000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250909232000 +0000" stop="20250910000000 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250910000000 +0000" stop="20250910003000 +0000" channel="Sky One HD.skyde">
+    <title>The Comeback</title>
+</programme>
+<programme start="20250910003000 +0000" stop="20250910010000 +0000" channel="Sky One HD.skyde">
+    <title>The Comeback</title>
+</programme>
+<programme start="20250910010000 +0000" stop="20250910013000 +0000" channel="Sky One HD.skyde">
+    <title>The Comeback</title>
+</programme>
+<programme start="20250910013000 +0000" stop="20250910020000 +0000" channel="Sky One HD.skyde">
+    <title>The Comeback</title>
+</programme>
+<programme start="20250910020000 +0000" stop="20250910022000 +0000" channel="Sky One HD.skyde">
+    <title>Die Goldbergs</title>
+</programme>
+<programme start="20250910022000 +0000" stop="20250910022500 +0000" channel="Sky One HD.skyde">
+    <title>Character Featurette: Young Alicent and Young Rhaenyra</title>
+</programme>
+<programme start="20250910022500 +0000" stop="20250910030500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250910030500 +0000" stop="20250910034500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250910034500 +0000" stop="20250910043000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250910043000 +0000" stop="20250910051500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20250910051500 +0000" stop="20250910060000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910060000 +0000" stop="20250910064500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910064500 +0000" stop="20250910073000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910073000 +0000" stop="20250910081500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250910081500 +0000" stop="20250910090500 +0000" channel="Sky One HD.skyde">
+    <title>Psych</title>
+</programme>
+<programme start="20250910090500 +0000" stop="20250910095000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250910095000 +0000" stop="20250910104000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250910104000 +0000" stop="20250910112500 +0000" channel="Sky One HD.skyde">
+    <title>Elsbeth</title>
+</programme>
+<programme start="20250910112500 +0000" stop="20250910121000 +0000" channel="Sky One HD.skyde">
+    <title>Elsbeth</title>
+</programme>
+<programme start="20250910121000 +0000" stop="20250910125500 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250910125500 +0000" stop="20250910134000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250910134000 +0000" stop="20250910142500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910142500 +0000" stop="20250910151000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910151000 +0000" stop="20250910155500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910155500 +0000" stop="20250910164000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250910164000 +0000" stop="20250910173000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20250910173000 +0000" stop="20250910181500 +0000" channel="Sky One HD.skyde">
+    <title>Elsbeth</title>
+</programme>
+<programme start="20250910181500 +0000" stop="20250910190000 +0000" channel="Sky One HD.skyde">
+    <title>Elsbeth</title>
+</programme>
+<programme start="20250910190000 +0000" stop="20250910194500 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250910194500 +0000" stop="20250910203000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20250910203000 +0000" stop="20250910211500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20250910211500 +0000" stop="20250910220000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20250909222500 +0000" stop="20250909231000 +0000" channel="Sky Replay HD.skyde">
     <title>Navy CIS</title>
 </programme>

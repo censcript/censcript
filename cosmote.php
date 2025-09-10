@@ -110,6 +110,10 @@
     <title>Football: FC Internazionale Milano - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250912014500 +0700" stop="20250912034500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - AC Milan</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250911000000 +0700" stop="20250911020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Alverca - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -216,10 +220,6 @@
 </programme>
 <programme start="20250911235000 +0700" stop="20250912020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Rasta Vechta</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250910225500 +0700" stop="20250911003000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250911003000 +0700" stop="20250911013000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,8 +330,8 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250910235000 +0700" stop="20250911005000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20250912010000 +0700" stop="20250912020000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250911005000 +0700" stop="20250911023000 +0700" channel="COSMOTE Sport 6 HD">
