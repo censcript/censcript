@@ -3256,7 +3256,7 @@
 <programme start="20250910200000 +0000" stop="20250911040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 3. Tag</title>
 </programme>
-<programme start="20250910050000 +0000" stop="20250910053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250910043000 +0000" stop="20250910053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PMSC: Rennen - GP Italien</title>
 </programme>
 <programme start="20250910053000 +0000" stop="20250910063000 +0000" channel="Sky Sport Top Event HD.skyde">
