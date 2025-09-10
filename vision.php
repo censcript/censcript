@@ -658,6 +658,9 @@
 <programme start="20250911114500 +0000" stop="20250911121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250909233000 +0000" stop="20250910013000 +0000" channel="ANTV.vision">
+<title>Aduhai Manisnya</title>
+</programme>
 <programme start="20250910013000 +0000" stop="20250910050000 +0000" channel="ANTV.vision">
 <title>Trimurti</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250911021500 +0000" stop="20250911030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
-</programme>
-<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
 </programme>
