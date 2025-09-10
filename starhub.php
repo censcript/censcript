@@ -8035,11 +8035,14 @@
     <programme start="20250909161500 +0000" stop="20250909163000 +0000" channel="ABC Australia HD.starhub">
         <title>The Business (2025)</title>
     </programme>
-    <programme start="20250909163000 +0000" stop="20250909173000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250909163000 +0000" stop="20250909172500 +0000" channel="ABC Australia HD.starhub">
         <title>Discovery</title>
     </programme>
-    <programme start="20250909173000 +0000" stop="20250909183000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250909172500 +0000" stop="20250909182000 +0000" channel="ABC Australia HD.starhub">
         <title>Australia Remastered: Kangaroo Tales S1</title>
+    </programme>
+    <programme start="20250909182000 +0000" stop="20250909183000 +0000" channel="ABC Australia HD.starhub">
+        <title>My Garden Path - Dexter Burgos</title>
     </programme>
     <programme start="20250909183000 +0000" stop="20250909190000 +0000" channel="ABC Australia HD.starhub">
         <title>Say My Name - Louisa Ioannidis (Part 1)</title>
@@ -8062,10 +8065,10 @@
     <programme start="20250910030000 +0000" stop="20250910032500 +0000" channel="ABC Australia HD.starhub">
         <title>Kitty Flanagan</title>
     </programme>
-    <programme start="20250910032500 +0000" stop="20250910041000 +0000" channel="ABC Australia HD.starhub">
-        <title>Four Corners (2025)</title>
+    <programme start="20250910032500 +0000" stop="20250910041500 +0000" channel="ABC Australia HD.starhub">
+        <title>Race to the Bottom</title>
     </programme>
-    <programme start="20250910041000 +0000" stop="20250910043000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250910041500 +0000" stop="20250910043000 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2025)</title>
     </programme>
     <programme start="20250910043000 +0000" stop="20250910050000 +0000" channel="ABC Australia HD.starhub">
@@ -8104,17 +8107,20 @@
     <programme start="20250910110000 +0000" stop="20250910115500 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250910115500 +0000" stop="20250910124000 +0000" channel="ABC Australia HD.starhub">
-        <title>Four Corners (2025)</title>
+    <programme start="20250910115500 +0000" stop="20250910124500 +0000" channel="ABC Australia HD.starhub">
+        <title>Race to the Bottom</title>
     </programme>
-    <programme start="20250910124000 +0000" stop="20250910130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20250910124500 +0000" stop="20250910130000 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2025)</title>
     </programme>
     <programme start="20250910130000 +0000" stop="20250910133000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
     </programme>
-    <programme start="20250910133000 +0000" stop="20250910140000 +0000" channel="ABC Australia HD.starhub">
-        <title>If You&#039;re Listening (2025)</title>
+    <programme start="20250910133000 +0000" stop="20250910135000 +0000" channel="ABC Australia HD.starhub">
+        <title>Is Putin a master manipulator or a very smart guy?</title>
+    </programme>
+    <programme start="20250910135000 +0000" stop="20250910140000 +0000" channel="ABC Australia HD.starhub">
+        <title>Gardening</title>
     </programme>
     <programme start="20250910140000 +0000" stop="20250910141500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
