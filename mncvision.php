@@ -22,10 +22,10 @@
 <programme start="20250910030000 +0000" stop="20250910032500 +0000" channel="ABC Australia.mncvision">
     <title>A Bite To Eat With Alice</title>
 </programme>
-<programme start="20250910032500 +0000" stop="20250910041000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250910032500 +0000" stop="20250910041500 +0000" channel="ABC Australia.mncvision">
     <title>Four Corners</title>
 </programme>
-<programme start="20250910041000 +0000" stop="20250910043000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250910041500 +0000" stop="20250910043000 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
 <programme start="20250910043000 +0000" stop="20250910050000 +0000" channel="ABC Australia.mncvision">
@@ -64,17 +64,20 @@
 <programme start="20250910110000 +0000" stop="20250910115500 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20250910115500 +0000" stop="20250910124000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250910115500 +0000" stop="20250910124500 +0000" channel="ABC Australia.mncvision">
     <title>Four Corners</title>
 </programme>
-<programme start="20250910124000 +0000" stop="20250910130000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250910124500 +0000" stop="20250910130000 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
 <programme start="20250910130000 +0000" stop="20250910133000 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20250910133000 +0000" stop="20250910140000 +0000" channel="ABC Australia.mncvision">
+<programme start="20250910133000 +0000" stop="20250910135000 +0000" channel="ABC Australia.mncvision">
     <title>If You&#039;re Listening</title>
+</programme>
+<programme start="20250910135000 +0000" stop="20250910140000 +0000" channel="ABC Australia.mncvision">
+    <title>Pasin Wantok</title>
 </programme>
 <programme start="20250910140000 +0000" stop="20250910141500 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>

@@ -3043,13 +3043,7 @@
 <programme start="20250909220000 +0000" stop="20250910040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250910040000 +0000" stop="20250910080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20250910080000 +0000" stop="20250910083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Kasper Hjulmand LIVE: Die Vorstellung des Leverkusen-Trainers</title>
-</programme>
-<programme start="20250910083000 +0000" stop="20250910100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250910040000 +0000" stop="20250910100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250910100000 +0000" stop="20250910130000 +0000" channel="Sky Sport News HD.skyde">
@@ -3064,13 +3058,7 @@
 <programme start="20250910163000 +0000" stop="20250910170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
-<programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20250910173000 +0000" stop="20250910180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime Spezial - Kasper Hjulmand legt los</title>
-</programme>
-<programme start="20250910180000 +0000" stop="20250910183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250910170000 +0000" stop="20250910183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250910183000 +0000" stop="20250910200000 +0000" channel="Sky Sport News HD.skyde">
@@ -3224,7 +3212,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250910070000 +0000" stop="20250910090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
+    <title>WTA 500: T. Maria (GER) - Z. Sonmez (TUR), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
 </programme>
 <programme start="20250910090000 +0000" stop="20250910100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
@@ -3242,7 +3230,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250910143000 +0000" stop="20250910163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
+    <title>WTA 500: T. Maria (GER) - Z. Sonmez (TUR), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
 </programme>
 <programme start="20250910163000 +0000" stop="20250910173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
@@ -3251,7 +3239,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250910180000 +0000" stop="20250910200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
+    <title>WTA 500: T. Maria (GER) - Z. Sonmez (TUR), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
 </programme>
 <programme start="20250910200000 +0000" stop="20250911040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 3. Tag</title>
