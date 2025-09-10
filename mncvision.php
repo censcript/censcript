@@ -6332,7 +6332,7 @@
     <title>Siraman Qolbu</title>
 </programme>
 <programme start="20250910144500 +0000" stop="20250910154500 +0000" channel="Muslim TV.mncvision">
-    <title>Catatan Harian Seorang Istri</title>
+    <title>Catatan Hati Seorang Istri</title>
 </programme>
 <programme start="20250910154500 +0000" stop="20250910164500 +0000" channel="Muslim TV.mncvision">
     <title>Dzolim</title>
