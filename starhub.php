@@ -4925,7 +4925,7 @@
         <title>Bigg Boss Plus Season 7</title>
     </programme>
     <programme start="20250909193000 +0000" stop="20250909223000 +0000" channel="Asianet.starhub">
-        <title>Porinchu Mariyam Jose</title>
+        <title>Movie</title>
     </programme>
     <programme start="20250909223000 +0000" stop="20250909230000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
