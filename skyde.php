@@ -1747,42 +1747,6 @@
 <programme start="20250911211000 +0000" stop="20250911221500 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Last of Us</title>
 </programme>
-<programme start="20250910234500 +0000" stop="20250911014000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Speak No Evil</title>
-</programme>
-<programme start="20250911014000 +0000" stop="20250911035000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>City of Darkness</title>
-</programme>
-<programme start="20250911035000 +0000" stop="20250911073000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Watchmen: Die Wächter - Ultimate Cut</title>
-</programme>
-<programme start="20250911073000 +0000" stop="20250911091500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Fortress - Stunde der Abrechnung</title>
-</programme>
-<programme start="20250911091500 +0000" stop="20250911111500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Bumblebee</title>
-</programme>
-<programme start="20250911111500 +0000" stop="20250911125500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Orphan: First Kill</title>
-</programme>
-<programme start="20250911125500 +0000" stop="20250911150000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Die Mumie</title>
-</programme>
-<programme start="20250911150000 +0000" stop="20250911163500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Unhinged - Außer Kontrolle</title>
-</programme>
-<programme start="20250911163500 +0000" stop="20250911181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Overdrive</title>
-</programme>
-<programme start="20250911181500 +0000" stop="20250911200500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Colombiana</title>
-</programme>
-<programme start="20250911200500 +0000" stop="20250911215000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Peppermint - Angel of Vengeance</title>
-</programme>
-<programme start="20250911215000 +0000" stop="20250911235500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Deep Impact</title>
-</programme>
 <programme start="20250910230000 +0000" stop="20250911004500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Freeway</title>
 </programme>
