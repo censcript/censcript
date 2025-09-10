@@ -3043,7 +3043,13 @@
 <programme start="20250909220000 +0000" stop="20250910040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250910040000 +0000" stop="20250910100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250910040000 +0000" stop="20250910080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250910080000 +0000" stop="20250910083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Kasper Hjulmand LIVE: Die Vorstellung des Leverkusen-Trainers</title>
+</programme>
+<programme start="20250910083000 +0000" stop="20250910100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250910100000 +0000" stop="20250910130000 +0000" channel="Sky Sport News HD.skyde">
@@ -3058,7 +3064,13 @@
 <programme start="20250910163000 +0000" stop="20250910170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
-<programme start="20250910170000 +0000" stop="20250910183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250910173000 +0000" stop="20250910180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - Kasper Hjulmand legt los</title>
+</programme>
+<programme start="20250910180000 +0000" stop="20250910183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20250910183000 +0000" stop="20250910200000 +0000" channel="Sky Sport News HD.skyde">
