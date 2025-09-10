@@ -6821,7 +6821,7 @@
         <title>Show 124</title>
     </programme>
     <programme start="20250910101500 +0000" stop="20250910103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 126</title>
+        <title>Show 125</title>
     </programme>
     <programme start="20250910103000 +0000" stop="20250910160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>SANDS CHINA LTD Macau Open (Super 300): Finals</title>
