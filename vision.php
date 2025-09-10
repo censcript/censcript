@@ -52,7 +52,7 @@
 <programme start="20250911010000 +0000" stop="20250911013000 +0000" channel="RCTI.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20250911013000 +0000" stop="20250911044500 +0000" channel="RCTI.vision">
+<programme start="20250905013000 +0000" stop="20250905044500 +0000" channel="RCTI.vision">
 <title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20250911044500 +0000" stop="20250911053000 +0000" channel="RCTI.vision">
@@ -67,7 +67,7 @@
 <programme start="20250911090000 +0000" stop="20250911094500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X (RCTI)</title>
 </programme>
-<programme start="20250911094500 +0000" stop="20250911110000 +0000" channel="RCTI.vision">
+<programme start="20250905094500 +0000" stop="20250905110000 +0000" channel="RCTI.vision">
 <title>Benci Jadi Bucin (RCTI)</title>
 </programme>
 <programme start="20250911110000 +0000" stop="20250911121500 +0000" channel="RCTI.vision">
