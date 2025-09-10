@@ -1,99 +1,3 @@
-<programme start="20250909221000 +0000" stop="20250909225500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20250909225500 +0000" stop="20250909233500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20250909233500 +0000" stop="20250910002500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20250910002500 +0000" stop="20250910010500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250910010500 +0000" stop="20250910015000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250910015000 +0000" stop="20250910023000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250910023000 +0000" stop="20250910031000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20250910031000 +0000" stop="20250910035500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20250910035500 +0000" stop="20250910044000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910044000 +0000" stop="20250910052500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910052500 +0000" stop="20250910061000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910061000 +0000" stop="20250910065500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910065500 +0000" stop="20250910074000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910074000 +0000" stop="20250910082500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910082500 +0000" stop="20250910091000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910091000 +0000" stop="20250910095500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910095500 +0000" stop="20250910104000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910104000 +0000" stop="20250910113000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910113000 +0000" stop="20250910121000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910121000 +0000" stop="20250910125500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910125500 +0000" stop="20250910134000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910134000 +0000" stop="20250910142500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250910142500 +0000" stop="20250910151000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250910151000 +0000" stop="20250910160000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20250910160000 +0000" stop="20250910164500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250910164500 +0000" stop="20250910173000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250910173000 +0000" stop="20250910181500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250910181500 +0000" stop="20250910190000 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250910190000 +0000" stop="20250910195000 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250910195000 +0000" stop="20250910203500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250910203500 +0000" stop="20250910212000 +0000" channel="13th Street HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250910212000 +0000" stop="20250910221000 +0000" channel="13th Street HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
 <programme start="20250909220000 +0000" stop="20250909232500 +0000" channel="Beate Uhse HD.skyde">
     <title>Die Schwesternschaft</title>
 </programme>
@@ -3253,7 +3157,7 @@
 <programme start="20250910200000 +0000" stop="20250911040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 3. Tag</title>
 </programme>
-<programme start="20250910050000 +0000" stop="20250910053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250910043000 +0000" stop="20250910053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PMSC: Rennen - GP Italien</title>
 </programme>
 <programme start="20250910053000 +0000" stop="20250910063000 +0000" channel="Sky Sport Top Event HD.skyde">
