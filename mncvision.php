@@ -4757,7 +4757,7 @@
     <title>Heroes</title>
 </programme>
 <programme start="20250909190000 +0000" stop="20250909210000 +0000" channel="Indosiar.mncvision">
-    <title>Fong Sai Yuk 2</title>
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250909210000 +0000" stop="20250909213000 +0000" channel="Indosiar.mncvision">
     <title>Mujizat Masih Ada</title>
@@ -4769,7 +4769,7 @@
     <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250910010000 +0000" stop="20250910030000 +0000" channel="Indosiar.mncvision">
-    <title>Misteri Kematian Istriku</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250910030000 +0000" stop="20250910040000 +0000" channel="Indosiar.mncvision">
     <title>Hot Kiss</title>
@@ -4780,19 +4780,19 @@
 <programme start="20250910043000 +0000" stop="20250910050000 +0000" channel="Indosiar.mncvision">
     <title>Fokus Siang</title>
 </programme>
-<programme start="20250910050000 +0000" stop="20250910063000 +0000" channel="Indosiar.mncvision">
-    <title>Bisakah Cinta Dibangun...</title>
+<programme start="20250910050000 +0000" stop="20250910060000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20250910063000 +0000" stop="20250910080000 +0000" channel="Indosiar.mncvision">
-    <title>Akibat Gila Judol</title>
+<programme start="20250910060000 +0000" stop="20250910073000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="Indosiar.mncvision">
-    <title>Akibat Melanggar Pantangan</title>
+<programme start="20250910073000 +0000" stop="20250910093000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20250910100000 +0000" stop="20250910120000 +0000" channel="Indosiar.mncvision">
+<programme start="20250910093000 +0000" stop="20250910113000 +0000" channel="Indosiar.mncvision">
     <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250910120000 +0000" stop="20250910160000 +0000" channel="Indosiar.mncvision">
+<programme start="20250910113000 +0000" stop="20250910160000 +0000" channel="Indosiar.mncvision">
     <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="Indosiar.mncvision">
@@ -4802,7 +4802,7 @@
     <title>Heroes</title>
 </programme>
 <programme start="20250909190000 +0000" stop="20250909210000 +0000" channel="Indosiar HD.mncvision">
-    <title>Fong Sai Yuk 2</title>
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250909210000 +0000" stop="20250909213000 +0000" channel="Indosiar HD.mncvision">
     <title>Mujizat Masih Ada</title>
@@ -4814,7 +4814,7 @@
     <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250910010000 +0000" stop="20250910030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Misteri Kematian Istriku</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250910030000 +0000" stop="20250910040000 +0000" channel="Indosiar HD.mncvision">
     <title>Hot Kiss</title>
@@ -4825,19 +4825,19 @@
 <programme start="20250910043000 +0000" stop="20250910050000 +0000" channel="Indosiar HD.mncvision">
     <title>Fokus Siang</title>
 </programme>
-<programme start="20250910050000 +0000" stop="20250910063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Bisakah Cinta Dibangun...</title>
+<programme start="20250910050000 +0000" stop="20250910060000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Siang</title>
 </programme>
-<programme start="20250910063000 +0000" stop="20250910080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Akibat Gila Judol</title>
+<programme start="20250910060000 +0000" stop="20250910073000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Akibat Melanggar Pantangan</title>
+<programme start="20250910073000 +0000" stop="20250910093000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Spesial</title>
 </programme>
-<programme start="20250910100000 +0000" stop="20250910120000 +0000" channel="Indosiar HD.mncvision">
+<programme start="20250910093000 +0000" stop="20250910113000 +0000" channel="Indosiar HD.mncvision">
     <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250910120000 +0000" stop="20250910160000 +0000" channel="Indosiar HD.mncvision">
+<programme start="20250910113000 +0000" stop="20250910160000 +0000" channel="Indosiar HD.mncvision">
     <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="Indosiar HD.mncvision">
