@@ -4934,7 +4934,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20250909233000 +0000" stop="20250910020000 +0000" channel="Asianet.starhub">
-        <title>Kudumbasametham</title>
+        <title>Midhya</title>
     </programme>
     <programme start="20250910020000 +0000" stop="20250910023000 +0000" channel="Asianet.starhub">
         <title>Ishttam Mathram</title>
@@ -4949,7 +4949,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20250910040000 +0000" stop="20250910063000 +0000" channel="Asianet.starhub">
-        <title>Kumbalangi Nights</title>
+        <title>Minnal Murali</title>
     </programme>
     <programme start="20250910063000 +0000" stop="20250910070000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -4970,7 +4970,7 @@
         <title>Bigg Boss Plus Season 7</title>
     </programme>
     <programme start="20250910093000 +0000" stop="20250910123000 +0000" channel="Asianet.starhub">
-        <title>Joseph</title>
+        <title>Manassinakkare</title>
     </programme>
     <programme start="20250910123000 +0000" stop="20250910130000 +0000" channel="Asianet.starhub">
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
@@ -5467,10 +5467,10 @@
     <programme start="20250910133000 +0000" stop="20250910143000 +0000" channel="TestChannel 996.starhub">
         <title>Dear Enemy</title>
     </programme>
-    <programme start="20250910143000 +0000" stop="20250910150500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250910143000 +0000" stop="20250910150000 +0000" channel="TestChannel 996.starhub">
         <title>A Date with Goddess - The Final Confession</title>
     </programme>
-    <programme start="20250910150500 +0000" stop="20250910151500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20250910150000 +0000" stop="20250910151500 +0000" channel="TestChannel 996.starhub">
         <title>EXTRA</title>
     </programme>
     <programme start="20250910151500 +0000" stop="20250910155000 +0000" channel="TestChannel 996.starhub">
@@ -9085,10 +9085,10 @@
     <programme start="20250910133000 +0000" stop="20250910143000 +0000" channel="TVB Jade HD.starhub">
         <title>Dear Enemy</title>
     </programme>
-    <programme start="20250910143000 +0000" stop="20250910150500 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250910143000 +0000" stop="20250910150000 +0000" channel="TVB Jade HD.starhub">
         <title>A Date with Goddess - The Final Confession</title>
     </programme>
-    <programme start="20250910150500 +0000" stop="20250910151500 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20250910150000 +0000" stop="20250910151500 +0000" channel="TVB Jade HD.starhub">
         <title>EXTRA</title>
     </programme>
     <programme start="20250910151500 +0000" stop="20250910155000 +0000" channel="TVB Jade HD.starhub">
