@@ -667,9 +667,6 @@
 <programme start="20250910100000 +0000" stop="20250910110000 +0000" channel="ANTV.vision">
 <title>Parineetii</title>
 </programme>
-<programme start="20250910110000 +0000" stop="20250910123000 +0000" channel="ANTV.vision">
-<title>Perkawinan Nyi Blorong</title>
-</programme>
 <programme start="20250910123000 +0000" stop="20250910143000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
+</programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="BTV.vision">
+<title>Investor Daily Talk</title>
 </programme>
