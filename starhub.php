@@ -215,13 +215,13 @@
         <title>Hai Tian Xiong Ying</title>
     </programme>
     <programme start="20250911063000 +0000" stop="20250911071500 +0000" channel="CCTV-4.starhub">
-        <title>Zhu zhan</title>
+        <title>Zhu Zhan</title>
     </programme>
     <programme start="20250911071500 +0000" stop="20250911080000 +0000" channel="CCTV-4.starhub">
-        <title>Zhu zhan</title>
+        <title>Zhu Zhan</title>
     </programme>
     <programme start="20250911080000 +0000" stop="20250911084500 +0000" channel="CCTV-4.starhub">
-        <title>Zhu zhan</title>
+        <title>Zhu Zhan</title>
     </programme>
     <programme start="20250911084500 +0000" stop="20250911091500 +0000" channel="CCTV-4.starhub">
         <title>Around China</title>

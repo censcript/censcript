@@ -5942,7 +5942,7 @@
     <title>Kiko</title>
 </programme>
 <programme start="20250911001500 +0000" stop="20250911010000 +0000" channel="MNCTV.mncvision">
-    <title>Penguins Madagascar</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20250911010000 +0000" stop="20250911023000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -5956,11 +5956,14 @@
 <programme start="20250911034500 +0000" stop="20250911044500 +0000" channel="MNCTV.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250911044500 +0000" stop="20250911054500 +0000" channel="MNCTV.mncvision">
+<programme start="20250911044500 +0000" stop="20250911053000 +0000" channel="MNCTV.mncvision">
+    <title>Kung Fu Panda Sang Pendekar</title>
+</programme>
+<programme start="20250911053000 +0000" stop="20250911061500 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250911054500 +0000" stop="20250911080000 +0000" channel="MNCTV.mncvision">
-    <title>Kun Anta</title>
+<programme start="20250911061500 +0000" stop="20250911080000 +0000" channel="MNCTV.mncvision">
+    <title>Aladdin</title>
 </programme>
 <programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="MNCTV.mncvision">
     <title>Bedah Rumah</title>
@@ -5975,7 +5978,7 @@
     <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
+    <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20250910170000 +0000" stop="20250910190000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
@@ -5996,7 +5999,7 @@
     <title>Kiko</title>
 </programme>
 <programme start="20250911001500 +0000" stop="20250911010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Penguins Madagascar</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20250911010000 +0000" stop="20250911023000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -6010,11 +6013,14 @@
 <programme start="20250911034500 +0000" stop="20250911044500 +0000" channel="MNCTV HD.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250911044500 +0000" stop="20250911054500 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250911044500 +0000" stop="20250911053000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kung Fu Panda Sang Pendekar</title>
+</programme>
+<programme start="20250911053000 +0000" stop="20250911061500 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250911054500 +0000" stop="20250911080000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kun Anta</title>
+<programme start="20250911061500 +0000" stop="20250911080000 +0000" channel="MNCTV HD.mncvision">
+    <title>Aladdin</title>
 </programme>
 <programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="MNCTV HD.mncvision">
     <title>Bedah Rumah</title>
@@ -6029,7 +6035,7 @@
     <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
+    <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20250910172300 +0000" stop="20250910174700 +0000" channel="Moonbug.mncvision">
     <title>ARPO</title>
