@@ -3682,6 +3682,51 @@
 <programme start="20250911214000 +0000" stop="20250911233000 +0000" channel="Warner TV Film.skyde">
     <title>Wir sind die Millers</title>
 </programme>
+<programme start="20250910221000 +0000" stop="20250910234000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Stichtag - Schluss mit gemütlich</title>
+</programme>
+<programme start="20250910234000 +0000" stop="20250911013000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Dumm und Dümmer</title>
+</programme>
+<programme start="20250911013000 +0000" stop="20250911030000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Zoff für Zwei</title>
+</programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
+</programme>
+<programme start="20250911040000 +0000" stop="20250911054000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Haben und Nichthaben</title>
+</programme>
+<programme start="20250911054000 +0000" stop="20250911072500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Billy the Kid: Einer muss dran glauben</title>
+</programme>
+<programme start="20250911072500 +0000" stop="20250911092500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Blade Runner</title>
+</programme>
+<programme start="20250911092500 +0000" stop="20250911110500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Event Horizon</title>
+</programme>
+<programme start="20250911110500 +0000" stop="20250911130500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mad Max: Fury Road</title>
+</programme>
+<programme start="20250911130500 +0000" stop="20250911150000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Lost City - Das Geheimnis der verlorenen Stadt</title>
+</programme>
+<programme start="20250911150000 +0000" stop="20250911164000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Rush Hour</title>
+</programme>
+<programme start="20250911164000 +0000" stop="20250911181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Rush Hour 2</title>
+</programme>
+<programme start="20250911181500 +0000" stop="20250911195000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Rush Hour 3</title>
+</programme>
+<programme start="20250911195000 +0000" stop="20250911214000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Shang-high Noon</title>
+</programme>
+<programme start="20250911214000 +0000" stop="20250911233000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Wir sind die Millers</title>
+</programme>
 <programme start="20250910221000 +0000" stop="20250910225500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
