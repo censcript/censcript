@@ -2062,23 +2062,23 @@
     <programme start="20250911103000 +0000" stop="20250911120000 +0000" channel="beIN Sports 3.starhub">
         <title>Paris Major Day 3 Match 2</title>
     </programme>
-    <programme start="20250911120000 +0000" stop="20250911133000 +0000" channel="beIN Sports 3.starhub">
-        <title>Paris Major Day 3 Match 3</title>
-    </programme>
-    <programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN Sports 3.starhub">
         <title>Buenos Aires P1</title>
     </programme>
-    <programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN Sports 3.starhub">
         <title>Italy Major</title>
     </programme>
-    <programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="beIN Sports 3.starhub">
         <title>Valladolid P2</title>
     </programme>
-    <programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga Weekly 2025/26</title>
     </programme>
-    <programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN Sports 3.starhub">
         <title>Portuguese Pure Bloods, Concours Couture &amp; Horseback Hawking</title>
+    </programme>
+    <programme start="20250911143000 +0000" stop="20250911160000 +0000" channel="beIN Sports 3.starhub">
+        <title>Paris Major Day 3 Match 3</title>
     </programme>
     <programme start="20250910153000 +0000" stop="20250910163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>

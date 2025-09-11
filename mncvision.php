@@ -137,7 +137,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250911023000 +0000" stop="20250911030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream: Wedding Debt</title>
+    <title>The Stream: Britain &amp; Israel</title>
 </programme>
 <programme start="20250911030000 +0000" stop="20250911033000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -161,7 +161,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250911063000 +0000" stop="20250911070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Africa&#039;s New Directions</title>
+    <title>Radicalised Youth</title>
 </programme>
 <programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -170,7 +170,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250911083000 +0000" stop="20250911090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>People &amp; Power: Cost Of Control</title>
+    <title>People &amp; Power: Endgame</title>
 </programme>
 <programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -206,7 +206,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250911163000 +0000" stop="20250910170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: The Sea Won&#039;t Scare Us</title>
+    <title>Witness: West Bank</title>
 </programme>
 <programme start="20250910170000 +0000" stop="20250910190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
@@ -1438,23 +1438,23 @@
 <programme start="20250911103000 +0000" stop="20250911120000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Paris (L)</title>
 </programme>
-<programme start="20250911120000 +0000" stop="20250911133000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel 2025: Paris (L)</title>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel Highlights 2025</title>
 </programme>
 <programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Highlights 2024</title>
 </programme>
-<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN Sports 3.mncvision">
     <title>RIDE FEI Originals 2025</title>
+</programme>
+<programme start="20250911143000 +0000" stop="20250911160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Paris (L)</title>
 </programme>
 <programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Paris (L)</title>
@@ -1501,23 +1501,23 @@
 <programme start="20250911103000 +0000" stop="20250911120000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Paris (L)</title>
 </programme>
-<programme start="20250911120000 +0000" stop="20250911133000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel 2025: Paris (L)</title>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
+</programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel Highlights 2025</title>
 </programme>
 <programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel Highlights 2025</title>
-</programme>
-<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Highlights 2024</title>
 </programme>
-<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>RIDE FEI Originals 2025</title>
+</programme>
+<programme start="20250911143000 +0000" stop="20250911160000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Paris (L)</title>
 </programme>
 <programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Paris (L)</title>
@@ -8359,35 +8359,32 @@
 <programme start="20250910204500 +0000" stop="20250910224500 +0000" channel="Sportstars 4.mncvision">
     <title>ASEAN MSIG Serenity Cup</title>
 </programme>
-<programme start="20250910224500 +0000" stop="20250911004500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250910224500 +0000" stop="20250911010000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
 </programme>
-<programme start="20250911004500 +0000" stop="20250911024500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20250911024500 +0000" stop="20250911044500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="Sportstars 4.mncvision">
     <title>BRI Liga 1: DWU Vs PSJ</title>
 </programme>
-<programme start="20250911044500 +0000" stop="20250911064500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
 </programme>
-<programme start="20250911064500 +0000" stop="20250911084500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Sportstars 4.mncvision">
     <title>ASEAN MSIG Serenity Cup</title>
 </programme>
-<programme start="20250911084500 +0000" stop="20250911104500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911090000 +0000" stop="20250911110000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
 </programme>
-<programme start="20250911104500 +0000" stop="20250911124500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="Sportstars 4.mncvision">
     <title>BRI Liga 1: DWU Vs PBY</title>
 </programme>
-<programme start="20250911124500 +0000" stop="20250911144500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="Sportstars 4.mncvision">
     <title>ASEAN MSIG Serenity Cup</title>
 </programme>
-<programme start="20250911144500 +0000" stop="20250911164500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
-</programme>
-<programme start="20250911164500 +0000" stop="20250910171500 +0000" channel="Sportstars 4.mncvision">
-    <title>Bundesliga</title>
 </programme>
 <programme start="20250910184500 +0000" stop="20250910204500 +0000" channel="Sportstars 4 HD.mncvision">
     <title>BRI Liga 1: DWU Vs PSJ</title>
@@ -8395,35 +8392,32 @@
 <programme start="20250910204500 +0000" stop="20250910224500 +0000" channel="Sportstars 4 HD.mncvision">
     <title>ASEAN MSIG Serenity Cup</title>
 </programme>
-<programme start="20250910224500 +0000" stop="20250911004500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250910224500 +0000" stop="20250911010000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
-<programme start="20250911004500 +0000" stop="20250911024500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Liga 2</title>
 </programme>
-<programme start="20250911024500 +0000" stop="20250911044500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>BRI Liga 1: DWU Vs PSJ</title>
 </programme>
-<programme start="20250911044500 +0000" stop="20250911064500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
-<programme start="20250911064500 +0000" stop="20250911084500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>ASEAN MSIG Serenity Cup</title>
 </programme>
-<programme start="20250911084500 +0000" stop="20250911104500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911090000 +0000" stop="20250911110000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
 </programme>
-<programme start="20250911104500 +0000" stop="20250911124500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>BRI Liga 1: DWU Vs PBY</title>
 </programme>
-<programme start="20250911124500 +0000" stop="20250911144500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>ASEAN MSIG Serenity Cup</title>
 </programme>
-<programme start="20250911144500 +0000" stop="20250911164500 +0000" channel="Sportstars 4 HD.mncvision">
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Liga 2: DTS Vs PSB</title>
-</programme>
-<programme start="20250911164500 +0000" stop="20250910171500 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
 </programme>
 <programme start="20250910183000 +0000" stop="20250910210000 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
