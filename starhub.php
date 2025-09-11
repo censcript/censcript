@@ -274,10 +274,22 @@
     <programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20250910173000 +0000" stop="20250910193000 +0000" channel="Zee Thirai.starhub">
-        <title>Mudhal Nee Mudivum Nee</title>
+    <programme start="20250910180000 +0000" stop="20250910183000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250910183000 +0000" stop="20250910190000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250910190000 +0000" stop="20250910193000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
     </programme>
     <programme start="20250910193000 +0000" stop="20250910200000 +0000" channel="Zee Thirai.starhub">
+        <title>Free Ticket</title>
+    </programme>
+    <programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="Zee Thirai.starhub">
+        <title>Mudhal Nee Mudivum Nee</title>
+    </programme>
+    <programme start="20250910220000 +0000" stop="20250910223000 +0000" channel="Zee Thirai.starhub">
         <title>Thirai Flix</title>
     </programme>
     <programme start="20250910223000 +0000" stop="20250911040000 +0000" channel="Zee Thirai.starhub">

@@ -658,6 +658,12 @@
 <programme start="20250912114500 +0000" stop="20250912121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250910233000 +0000" stop="20250911013000 +0000" channel="ANTV.vision">
+<title>Khana</title>
+</programme>
+<programme start="20250911013000 +0000" stop="20250911050000 +0000" channel="ANTV.vision">
+<title>Om Shanti Om</title>
+</programme>
 <programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250912021500 +0000" stop="20250912030000 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
-</programme>
-<programme start="20250912030000 +0000" stop="20250912040000 +0000" channel="BTV.vision">
-<title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
 </programme>
