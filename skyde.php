@@ -2812,21 +2812,6 @@
 <programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: FCB - HSV, 3. Spieltag</title>
 </programme>
-<programme start="20250910230000 +0000" stop="20250911010000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: Fortuna Düsseldorf - Karlsruher SC, tipico Topspiel der Woche, 4. Spieltag</title>
-</programme>
-<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Augsburg - FC Bayern München, tipico Topspiel der Woche, 2. Spieltag</title>
-</programme>
-<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Hamburger SV - FC St. Pauli, Flutlicht-Freitag, 2. Spieltag</title>
-</programme>
-<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfB Stuttgart - Borussia M&#039;gladbach, 2. Spieltag</title>
-</programme>
-<programme start="20250911070000 +0000" stop="20250911071500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Info: UHD</title>
-</programme>
 <programme start="20250911080000 +0000" stop="20250911083000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Test Bundesliga 01</title>
 </programme>

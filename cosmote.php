@@ -1,7 +1,3 @@
-<programme start="20250911140500 +0700" stop="20250911160500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Club Brugge - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250911160500 +0700" stop="20250911180500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: SK Sturm Graz - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,14 @@
 </programme>
 <programme start="20250912151500 +0700" stop="20250912171500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250912171500 +0700" stop="20250912174500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250912174500 +0700" stop="20250912200000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250911160000 +0700" stop="20250911180000 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,8 +334,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250911152000 +0700" stop="20250911162500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20250912171500 +0700" stop="20250912181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250911162500 +0700" stop="20250911175500 +0700" channel="COSMOTE Sport 6 HD">
@@ -499,6 +503,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912160000 +0700" stop="20250912170000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250912170000 +0700" stop="20250912173000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250912173000 +0700" stop="20250912180000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
