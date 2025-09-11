@@ -5963,7 +5963,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250911061500 +0000" stop="20250911080000 +0000" channel="MNCTV.mncvision">
-    <title>Aladdin</title>
+    <title>Kun Anta</title>
 </programme>
 <programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="MNCTV.mncvision">
     <title>Bedah Rumah</title>
@@ -6020,7 +6020,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250911061500 +0000" stop="20250911080000 +0000" channel="MNCTV HD.mncvision">
-    <title>Aladdin</title>
+    <title>Kun Anta</title>
 </programme>
 <programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="MNCTV HD.mncvision">
     <title>Bedah Rumah</title>
