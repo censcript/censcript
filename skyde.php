@@ -1,97 +1,94 @@
-<programme start="20250911221000 +0000" stop="20250911225500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
+<programme start="20250913222500 +0000" stop="20250913231000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order Toronto: Criminal Intent</title>
 </programme>
-<programme start="20250911225500 +0000" stop="20250911234000 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250911234000 +0000" stop="20250912002000 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20250912002000 +0000" stop="20250912010500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250912010500 +0000" stop="20250912014500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250912014500 +0000" stop="20250912022500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20250912022500 +0000" stop="20250912031000 +0000" channel="13th Street HD.skyde">
+<programme start="20250913231000 +0000" stop="20250913235500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20250912031000 +0000" stop="20250912035000 +0000" channel="13th Street HD.skyde">
+<programme start="20250913235500 +0000" stop="20250914004000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20250912035000 +0000" stop="20250912043500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20250914004000 +0000" stop="20250914012500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20250912043500 +0000" stop="20250912052000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20250914012500 +0000" stop="20250914021000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20250912052000 +0000" stop="20250912060500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20250914021000 +0000" stop="20250914025500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20250912060500 +0000" stop="20250912065000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20250914025500 +0000" stop="20250914034000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20250912065000 +0000" stop="20250912073500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912073500 +0000" stop="20250912082000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912082000 +0000" stop="20250912090500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912090500 +0000" stop="20250912095000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912095000 +0000" stop="20250912103500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912103500 +0000" stop="20250912112000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912112000 +0000" stop="20250912120500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912120500 +0000" stop="20250912125000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20250912125000 +0000" stop="20250912133500 +0000" channel="13th Street HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250912133500 +0000" stop="20250912142000 +0000" channel="13th Street HD.skyde">
-    <title>Magnum P.I.</title>
-</programme>
-<programme start="20250912142000 +0000" stop="20250912151000 +0000" channel="13th Street HD.skyde">
+<programme start="20250914034000 +0000" stop="20250914042500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250912151000 +0000" stop="20250912155500 +0000" channel="13th Street HD.skyde">
+<programme start="20250914042500 +0000" stop="20250914051000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250912155500 +0000" stop="20250912164000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
+<programme start="20250914051000 +0000" stop="20250914060000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250912164000 +0000" stop="20250912172500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
+<programme start="20250914060000 +0000" stop="20250914064500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250912172500 +0000" stop="20250912181500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
+<programme start="20250914064500 +0000" stop="20250914073500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20250912181500 +0000" stop="20250912185500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
+<programme start="20250914073500 +0000" stop="20250914082000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20250912185500 +0000" stop="20250912194500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
+<programme start="20250914082000 +0000" stop="20250914090500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20250912194500 +0000" stop="20250912203500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
+<programme start="20250914090500 +0000" stop="20250914095000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20250912203500 +0000" stop="20250912212000 +0000" channel="13th Street HD.skyde">
+<programme start="20250914095000 +0000" stop="20250914103500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914103500 +0000" stop="20250914112000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914112000 +0000" stop="20250914120000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914120000 +0000" stop="20250914125000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914125000 +0000" stop="20250914133500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914133500 +0000" stop="20250914142000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914142000 +0000" stop="20250914150500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20250914150500 +0000" stop="20250914155000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order Toronto: Criminal Intent</title>
+</programme>
+<programme start="20250914155000 +0000" stop="20250914164000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order Toronto: Criminal Intent</title>
+</programme>
+<programme start="20250914164000 +0000" stop="20250914172500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS: Hawaii</title>
+</programme>
+<programme start="20250914172500 +0000" stop="20250914181500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS: Hawaii</title>
+</programme>
+<programme start="20250914181500 +0000" stop="20250914190000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20250912212000 +0000" stop="20250912221000 +0000" channel="13th Street HD.skyde">
+<programme start="20250914190000 +0000" stop="20250914195000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
+</programme>
+<programme start="20250914195000 +0000" stop="20250914203500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20250914203500 +0000" stop="20250914212000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20250914212000 +0000" stop="20250914220500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
 <programme start="20250911220000 +0000" stop="20250911222500 +0000" channel="Beate Uhse HD.skyde">
@@ -952,47 +949,50 @@
 <programme start="20250912205000 +0000" stop="20250912224000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Bayer 04 Leverkusen - Eintracht Frankfurt</title>
 </programme>
-<programme start="20250908220000 +0000" stop="20250909060000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250911220000 +0000" stop="20250912060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20250909060000 +0000" stop="20250909080000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: Hamburger SV - FC St. Pauli</title>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="DAZN 2 HD.skyde">
+    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Serbien - England</title>
 </programme>
-<programme start="20250909080000 +0000" stop="20250909095000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Bulgarien - Spanien</title>
-</programme>
-<programme start="20250909095000 +0000" stop="20250909110000 +0000" channel="DAZN 2 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 2. Spieltag</title>
-</programme>
-<programme start="20250909110000 +0000" stop="20250909113000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250909113000 +0000" stop="20250909132500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250912080000 +0000" stop="20250912095500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga: VFL Wolfsburg - 1. FSV Mainz 05</title>
 </programme>
-<programme start="20250909132500 +0000" stop="20250909140000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250909140000 +0000" stop="20250909155000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Deutschland - Nordirland</title>
-</programme>
-<programme start="20250909155000 +0000" stop="20250909180500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Armenien - Republik Irland</title>
-</programme>
-<programme start="20250909180500 +0000" stop="20250909183500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 1. Spieltag</title>
-</programme>
-<programme start="20250909183500 +0000" stop="20250909204500 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Frankreich - Island</title>
-</programme>
-<programme start="20250909204500 +0000" stop="20250909210000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250909210000 +0000" stop="20250909213000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250912095500 +0000" stop="20250912102500 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A Highlightshow 2025/26: 2. Spieltag</title>
 </programme>
-<programme start="20250909213000 +0000" stop="20250909220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250912102500 +0000" stop="20250912110000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Ligue 1 Highlightshow 2025/26: 3. Spieltag</title>
+</programme>
+<programme start="20250912110000 +0000" stop="20250912113000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250912113000 +0000" stop="20250912132500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: Hamburger SV - FC St. Pauli</title>
+</programme>
+<programme start="20250912132500 +0000" stop="20250912140000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250912140000 +0000" stop="20250912155500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: VFL Wolfsburg - 1. FSV Mainz 05</title>
+</programme>
+<programme start="20250912155500 +0000" stop="20250912162500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250912162500 +0000" stop="20250912175500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Originals: Maradonna: Der Fall</title>
+</programme>
+<programme start="20250912175500 +0000" stop="20250912182500 +0000" channel="DAZN 2 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 2025/26: 1. Spieltag</title>
+</programme>
+<programme start="20250912182500 +0000" stop="20250912185500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250912185500 +0000" stop="20250912210500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: FC Sevilla - FC Elche</title>
+</programme>
+<programme start="20250912210500 +0000" stop="20250912220000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Get Wild: Lange Version</title>
 </programme>
 <programme start="20250911224500 +0000" stop="20250911231000 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
@@ -2746,7 +2746,7 @@
 <programme start="20250912173000 +0000" stop="20250912181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: B04 - SGE, tipico Countdown, Flutlicht-Freitag, 3. Spieltag</title>
 </programme>
-<programme start="20250912181500 +0000" stop="20250912211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250912181500 +0000" stop="20250912213000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - Eintracht Frankfurt, Flutlicht-Freitag, 3. Spieltag</title>
 </programme>
 <programme start="20250912154000 +0000" stop="20250912160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2764,7 +2764,7 @@
 <programme start="20250912160000 +0000" stop="20250912183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - 1. FC Magdeburg, 5. Spieltag</title>
 </programme>
-<programme start="20250912183000 +0000" stop="20250912204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: B04 - SGE, 3. Spieltag</title>
 </programme>
 <programme start="20250912154000 +0000" stop="20250912160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
