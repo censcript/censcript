@@ -226,10 +226,6 @@
     <title>Basketball: Paris Basketball - Crvena Zvezda (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250911215500 +0700" stop="20250911230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250911230000 +0700" stop="20250911233000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,8 +334,8 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250911220000 +0700" stop="20250911230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250912234000 +0700" stop="20250913004500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250911230000 +0700" stop="20250912000000 +0700" channel="COSMOTE Sport 6 HD">
@@ -396,6 +392,10 @@
 </programme>
 <programme start="20250912214000 +0700" stop="20250912231000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250912231000 +0700" stop="20250913020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250911220000 +0700" stop="20250912000000 +0700" channel="COSMOTE Sport 7 HD">
@@ -531,6 +531,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250912223000 +0700" stop="20250912230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250912230000 +0700" stop="20250913000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
