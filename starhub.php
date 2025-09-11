@@ -280,26 +280,23 @@
     <programme start="20250910193000 +0000" stop="20250910200000 +0000" channel="Zee Thirai.starhub">
         <title>Thirai Flix</title>
     </programme>
-    <programme start="20250910200000 +0000" stop="20250911013000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250910223000 +0000" stop="20250911040000 +0000" channel="Zee Thirai.starhub">
         <title>Thiruttu Payale 2</title>
     </programme>
-    <programme start="20250911013000 +0000" stop="20250911050000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250911040000 +0000" stop="20250911073000 +0000" channel="Zee Thirai.starhub">
         <title>Bhagavanth Kesari</title>
     </programme>
-    <programme start="20250911050000 +0000" stop="20250911073000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250911073000 +0000" stop="20250911100000 +0000" channel="Zee Thirai.starhub">
         <title>Maaman Magal</title>
     </programme>
-    <programme start="20250911073000 +0000" stop="20250911100000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250911100000 +0000" stop="20250911123000 +0000" channel="Zee Thirai.starhub">
         <title>Kennedy Club</title>
     </programme>
-    <programme start="20250911100000 +0000" stop="20250911130000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250911123000 +0000" stop="20250911153000 +0000" channel="Zee Thirai.starhub">
         <title>Ghost</title>
     </programme>
-    <programme start="20250911130000 +0000" stop="20250911153000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20250911153000 +0000" stop="20250911180000 +0000" channel="Zee Thirai.starhub">
         <title>Bhajarangi 2</title>
-    </programme>
-    <programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="Zee Thirai.starhub">
-        <title>Free Ticket</title>
     </programme>
     <programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
