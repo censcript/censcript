@@ -1609,63 +1609,6 @@
 <programme start="20250911213500 +0000" stop="20250911220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250910221500 +0000" stop="20250910234500 +0000" channel="Romance TV HD.skyde">
-    <title>Mein Freund, das Ekel</title>
-</programme>
-<programme start="20250910234500 +0000" stop="20250911011500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Pubertier - Der Film</title>
-</programme>
-<programme start="20250911011500 +0000" stop="20250911020500 +0000" channel="Romance TV HD.skyde">
-    <title>Tierärztin Dr. Mertens</title>
-</programme>
-<programme start="20250911020500 +0000" stop="20250911021000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250911021000 +0000" stop="20250911021500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250911021500 +0000" stop="20250911034500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Verlobt, verliebt, verwirrt</title>
-</programme>
-<programme start="20250911034500 +0000" stop="20250911052000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Gefährliche Brandung</title>
-</programme>
-<programme start="20250911052000 +0000" stop="20250911065500 +0000" channel="Romance TV HD.skyde">
-    <title>Auf der anderen Seite des Bettes</title>
-</programme>
-<programme start="20250911065500 +0000" stop="20250911083000 +0000" channel="Romance TV HD.skyde">
-    <title>Marie fängt Feuer - Unbequeme Wahrheiten</title>
-</programme>
-<programme start="20250911083000 +0000" stop="20250911092500 +0000" channel="Romance TV HD.skyde">
-    <title>Tierärztin Dr. Mertens</title>
-</programme>
-<programme start="20250911092500 +0000" stop="20250911110500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Indian Summer</title>
-</programme>
-<programme start="20250911110500 +0000" stop="20250911124000 +0000" channel="Romance TV HD.skyde">
-    <title>Mein Freund, das Ekel</title>
-</programme>
-<programme start="20250911124000 +0000" stop="20250911141500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Pubertier - Der Film</title>
-</programme>
-<programme start="20250911141500 +0000" stop="20250911154500 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Geliebte Loire</title>
-</programme>
-<programme start="20250911154500 +0000" stop="20250911172000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Liebe und andere Schätze</title>
-</programme>
-<programme start="20250911172000 +0000" stop="20250911181500 +0000" channel="Romance TV HD.skyde">
-    <title>Tierärztin Dr. Mertens</title>
-</programme>
-<programme start="20250911181500 +0000" stop="20250911194500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Zurück ins Morgen</title>
-</programme>
-<programme start="20250911194500 +0000" stop="20250911212000 +0000" channel="Romance TV HD.skyde">
-    <title>Weingut Wader: Das Familiengeheimnis</title>
-</programme>
-<programme start="20250911212000 +0000" stop="20250911221500 +0000" channel="Romance TV HD.skyde">
-    <title>Tierärztin Dr. Mertens</title>
-</programme>
 <programme start="20250910224500 +0000" stop="20250910233500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Funny Woman</title>
 </programme>
