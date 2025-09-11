@@ -6167,7 +6167,7 @@
         <title>1700 Afternoon News</title>
     </programme>
     <programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>45911</title>
+        <title>1800/1900 Evening News</title>
     </programme>
     <programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="TVBS-NEWS.starhub">
         <title>1800/1900 Evening News</title>
