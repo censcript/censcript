@@ -1603,7 +1603,10 @@
     <programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20250911180000 +0000" stop="20250911203000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Deja Vu</title>
+    </programme>
+    <programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Deja Vu</title>
     </programme>
     <programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="COLORS Tamil HD.starhub">
@@ -7171,8 +7174,11 @@
     <programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Today&#039;s Close-Up</title>
     </programme>
-    <programme start="20250911180000 +0000" stop="20250911182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+    <programme start="20250911180000 +0000" stop="20250911181500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20250911181500 +0000" stop="20250911182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>NHK Newsline</title>
     </programme>
     <programme start="20250911182800 +0000" stop="20250911184300 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Direct Talk</title>
@@ -8079,6 +8085,9 @@
     </programme>
     <programme start="20250911133000 +0000" stop="20250911163000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
+    </programme>
+    <programme start="20250911163000 +0000" stop="20250911220000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
     </programme>
     <programme start="20250911220000 +0000" stop="20250912040000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
