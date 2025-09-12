@@ -649,9 +649,6 @@
 <programme start="20250913114500 +0000" stop="20250913121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250912013000 +0000" stop="20250912050000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
 <programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250912230300 +0000" stop="20250913003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250913003000 +0000" stop="20250913013000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
 </programme>

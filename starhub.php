@@ -6794,7 +6794,7 @@
         <title>National Bank Open presented by Rogers</title>
     </programme>
     <programme start="20250912013000 +0000" stop="20250912023000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Arctic Race of Norway H/Ls</title>
+        <title>UCI Pro Series - Arctic Race of Norway Highlights</title>
     </programme>
     <programme start="20250912023000 +0000" stop="20250912030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Cincinnati Open</title>
@@ -6812,7 +6812,7 @@
         <title>Trans Sahara Marathon</title>
     </programme>
     <programme start="20250912093000 +0000" stop="20250912103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Lidl Deutschland Tour H/Ls</title>
+        <title>UCI Pro Series - Lidl Deutschland Tour Highlights</title>
     </programme>
     <programme start="20250912103000 +0000" stop="20250912133000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>LI-NING Hong Kong Open (Super 500): QF Session 2</title>
