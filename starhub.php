@@ -8080,6 +8080,15 @@
     <programme start="20250911133000 +0000" stop="20250911163000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
+    <programme start="20250911220000 +0000" stop="20250912040000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250912040000 +0000" stop="20250912100000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
+    <programme start="20250912100000 +0000" stop="20250912163000 +0000" channel="Asianet Movies.starhub">
+        <title>Information Not Available</title>
+    </programme>
     <programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="Astro Warna HD.starhub">
         <title>Lawak Tak Lagho</title>
     </programme>

@@ -269,64 +269,58 @@
 <title>New Top Files</title>
 </programme>
 <programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="iNews.vision">
-<title>GX</title>
-</programme>
-<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="iNews.vision">
-<title>Realita</title>
-</programme>
-<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="iNews.vision">
-<title>iNews Room</title>
-</programme>
-<programme start="20250912183000 +0000" stop="20250912200000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="iNews.vision">
-<title>Air Mata Surga</title>
+<programme start="20250912173000 +0000" stop="20250912190000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<programme start="20250912190000 +0000" stop="20250912194500 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20250912194500 +0000" stop="20250912201500 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20250912201500 +0000" stop="20250912210000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20250912210000 +0000" stop="20250912211500 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews</title>
 </programme>
 <programme start="20250912211500 +0000" stop="20250912230000 +0000" channel="iNews.vision">
-<title>Inews Pagi (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250912230000 +0000" stop="20250912230200 +0000" channel="iNews.vision">
-<title>Indonesia Raya</title>
+<title>iNews</title>
 </programme>
 <programme start="20250912230200 +0000" stop="20250912233000 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<title>iNews</title>
 </programme>
-<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
-</programme>
-<programme start="20250913000000 +0000" stop="20250913003000 +0000" channel="iNews.vision">
-<title>Merial</title>
+<programme start="20250912233000 +0000" stop="20250913003000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20250913003000 +0000" stop="20250913013000 +0000" channel="iNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913013000 +0000" stop="20250913023000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913023000 +0000" stop="20250913033000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913033000 +0000" stop="20250913053000 +0000" channel="iNews.vision">
-<title>iNews Siang (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913053000 +0000" stop="20250913073000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Indonesia (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913073000 +0000" stop="20250913083000 +0000" channel="iNews.vision">
-<title>iSeleb</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913083000 +0000" stop="20250913100000 +0000" channel="iNews.vision">
-<title>Realita (L)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250913100000 +0000" stop="20250913120000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20250912000000 +0000" stop="20250912003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -654,6 +648,12 @@
 </programme>
 <programme start="20250913114500 +0000" stop="20250913121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250911233000 +0000" stop="20250912013000 +0000" channel="ANTV.vision">
+<title>Pandangan Pertama</title>
+</programme>
+<programme start="20250912013000 +0000" stop="20250912050000 +0000" channel="ANTV.vision">
+<title>Chori Chori Chupke Chupke</title>
 </programme>
 <programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>

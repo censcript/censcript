@@ -218,10 +218,6 @@
     <title>Football: Al Ittihad - Al Fateh</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912141500 +0700" stop="20250912163000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Peristeri - KK FMP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250912163000 +0700" stop="20250912183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Besiktas - Galatasaray</title>
     <desc>Live: Tidak</desc>
@@ -277,10 +273,6 @@
 <programme start="20250913160500 +0700" stop="20250913181000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Baskonia</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250912154000 +0700" stop="20250912164500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250912164500 +0700" stop="20250912171500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -390,9 +382,13 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912160000 +0700" stop="20250912163000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E8</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250913170500 +0700" stop="20250913174500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250913174500 +0700" stop="20250913184000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250912163000 +0700" stop="20250912184000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
@@ -464,6 +460,10 @@
 </programme>
 <programme start="20250913155000 +0700" stop="20250913172500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: GWD Minden - SG Flensburg-Handewitt</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913172500 +0700" stop="20250913185500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912160000 +0700" stop="20250912180000 +0700" channel="COSMOTE Sport 7 HD">
@@ -542,10 +542,6 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912160000 +0700" stop="20250912170000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250912170000 +0700" stop="20250912173000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -603,6 +599,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913160000 +0700" stop="20250913170000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913170000 +0700" stop="20250913173000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913173000 +0700" stop="20250913180000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
