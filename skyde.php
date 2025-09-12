@@ -817,94 +817,94 @@
 <programme start="20250912215500 +0000" stop="20250912220000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20250911224000 +0000" stop="20250911232500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250908224000 +0000" stop="20250908232500 +0000" channel="Crime + Investigation.skyde">
     <title>First Blood - Die Geburt eines Serienmörders</title>
 </programme>
-<programme start="20250911232500 +0000" stop="20250912001000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Dead West</title>
+<programme start="20250908232500 +0000" stop="20250909001000 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250912001000 +0000" stop="20250912010000 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Beweismittel DNA</title>
+<programme start="20250909001000 +0000" stop="20250909010000 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909010000 +0000" stop="20250909013000 +0000" channel="Crime + Investigation.skyde">
     <title>Expert Witness - Forensiker auf Spurensuche</title>
 </programme>
-<programme start="20250912013000 +0000" stop="20250912020000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909013000 +0000" stop="20250909020000 +0000" channel="Crime + Investigation.skyde">
     <title>Expert Witness - Forensiker auf Spurensuche</title>
 </programme>
-<programme start="20250912020000 +0000" stop="20250912024500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909020000 +0000" stop="20250909024500 +0000" channel="Crime + Investigation.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250912024500 +0000" stop="20250912033500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909024500 +0000" stop="20250909033500 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250912033500 +0000" stop="20250912042500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909033500 +0000" stop="20250909042500 +0000" channel="Crime + Investigation.skyde">
     <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
 </programme>
-<programme start="20250912042500 +0000" stop="20250912051000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909042500 +0000" stop="20250909051000 +0000" channel="Crime + Investigation.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250912051000 +0000" stop="20250912060000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909051000 +0000" stop="20250909060000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250912060000 +0000" stop="20250912065000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909060000 +0000" stop="20250909065000 +0000" channel="Crime + Investigation.skyde">
     <title>Court Cam - Auf der Anklagebank</title>
 </programme>
-<programme start="20250912065000 +0000" stop="20250912074500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909065000 +0000" stop="20250909074500 +0000" channel="Crime + Investigation.skyde">
     <title>Vermisst und ermordet</title>
 </programme>
-<programme start="20250912074500 +0000" stop="20250912083500 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Dead West</title>
+<programme start="20250909074500 +0000" stop="20250909083500 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250912083500 +0000" stop="20250912092500 +0000" channel="Crime + Investigation.skyde">
-    <title>Cold Case Files - Beweismittel DNA</title>
+<programme start="20250909083500 +0000" stop="20250909092500 +0000" channel="Crime + Investigation.skyde">
+    <title>Witness to Murder - Digitale Zeugen</title>
 </programme>
-<programme start="20250912092500 +0000" stop="20250912102000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909092500 +0000" stop="20250909102000 +0000" channel="Crime + Investigation.skyde">
     <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
 </programme>
-<programme start="20250912102000 +0000" stop="20250912110500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909102000 +0000" stop="20250909110500 +0000" channel="Crime + Investigation.skyde">
     <title>First Blood - Die Geburt eines Serienmörders</title>
 </programme>
-<programme start="20250912110500 +0000" stop="20250912115500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909110500 +0000" stop="20250909115500 +0000" channel="Crime + Investigation.skyde">
     <title>Court Cam - Auf der Anklagebank</title>
 </programme>
-<programme start="20250912115500 +0000" stop="20250912122000 +0000" channel="Crime + Investigation.skyde">
-    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+<programme start="20250909115500 +0000" stop="20250909122500 +0000" channel="Crime + Investigation.skyde">
+    <title>Glaube, Panik, Verurteilung - Die Geschichte von Peter Ellis</title>
 </programme>
-<programme start="20250912122000 +0000" stop="20250912130500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909122500 +0000" stop="20250909131000 +0000" channel="Crime + Investigation.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250912130500 +0000" stop="20250912140000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909131000 +0000" stop="20250909140000 +0000" channel="Crime + Investigation.skyde">
     <title>Vermisst und ermordet</title>
 </programme>
-<programme start="20250912140000 +0000" stop="20250912145000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909140000 +0000" stop="20250909145000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250912145000 +0000" stop="20250912154000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909145000 +0000" stop="20250909154000 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250912154000 +0000" stop="20250912163000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909154000 +0000" stop="20250909163000 +0000" channel="Crime + Investigation.skyde">
     <title>Deadly Women - Wenn Frauen zu Mörderinnen werden</title>
 </programme>
-<programme start="20250912163000 +0000" stop="20250912172000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909163000 +0000" stop="20250909172000 +0000" channel="Crime + Investigation.skyde">
     <title>First Blood - Die Geburt eines Serienmörders</title>
 </programme>
-<programme start="20250912172000 +0000" stop="20250912181500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909172000 +0000" stop="20250909181500 +0000" channel="Crime + Investigation.skyde">
     <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20250912181500 +0000" stop="20250912190500 +0000" channel="Crime + Investigation.skyde">
-    <title>American Justice - Fälle, die Geschichte schreiben</title>
+<programme start="20250909181500 +0000" stop="20250909190500 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20250912190500 +0000" stop="20250912195500 +0000" channel="Crime + Investigation.skyde">
-    <title>American Justice - Fälle, die Geschichte schreiben</title>
+<programme start="20250909190500 +0000" stop="20250909195500 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20250912195500 +0000" stop="20250912205000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909195500 +0000" stop="20250909205000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48</title>
 </programme>
-<programme start="20250912205000 +0000" stop="20250912214500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909205000 +0000" stop="20250909214500 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20250912214500 +0000" stop="20250912224000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20250909214500 +0000" stop="20250909224000 +0000" channel="Crime + Investigation.skyde">
     <title>Court Cam - Auf der Anklagebank</title>
 </programme>
 <programme start="20250911220000 +0000" stop="20250912060000 +0000" channel="DAZN 1 HD.skyde">
@@ -2758,7 +2758,7 @@
 <programme start="20250912160000 +0000" stop="20250912183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 5. Spieltag</title>
 </programme>
-<programme start="20250912183000 +0000" stop="20250912191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250912183000 +0000" stop="20250912193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Freitag</title>
 </programme>
 <programme start="20250912154000 +0000" stop="20250912160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2767,7 +2767,7 @@
 <programme start="20250912160000 +0000" stop="20250912183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - 1. FC Magdeburg, 5. Spieltag</title>
 </programme>
-<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250912183000 +0000" stop="20250912204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: B04 - SGE, 3. Spieltag</title>
 </programme>
 <programme start="20250912154000 +0000" stop="20250912160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2956,7 +2956,13 @@
 <programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Matchplan: FCB - HSV, 3. Spieltag</title>
 </programme>
-<programme start="20250912060000 +0000" stop="20250912093000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: FCB-PK</title>
+</programme>
+<programme start="20250912083000 +0000" stop="20250912093000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Sky Sport News HD.skyde">
@@ -3131,7 +3137,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250912043000 +0000" stop="20250912063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 4. Tag</title>
+    <title>WTA 500: S. Hunter (AUS) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 4. Tag</title>
 </programme>
 <programme start="20250912063000 +0000" stop="20250912083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: A. Sabalenka - J. Pegula (USA), Halbfinale Damen</title>
@@ -3143,7 +3149,7 @@
     <title>US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
 </programme>
 <programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 4. Tag</title>
+    <title>WTA 500: S. Hunter (AUS) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 4. Tag</title>
 </programme>
 <programme start="20250912150000 +0000" stop="20250912173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: M. Granollers (ESP) / H. Zeballos (ARG) - J. Salisbury (GBR) / N. Skupski (GBR), Doppelfinale Herren</title>
@@ -3152,7 +3158,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250912180000 +0000" stop="20250912200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 4. Tag</title>
+    <title>WTA 500: S. Hunter (AUS) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 4. Tag</title>
 </programme>
 <programme start="20250912200000 +0000" stop="20250913040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>

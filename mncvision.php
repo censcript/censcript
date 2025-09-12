@@ -7528,16 +7528,16 @@
 <programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="RCTI.mncvision">
     <title>Pay Later</title>
 </programme>
-<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="RCTI.mncvision">
+<programme start="20250912090000 +0000" stop="20250912094500 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250912100000 +0000" stop="20250912111500 +0000" channel="RCTI.mncvision">
+<programme start="20250912094500 +0000" stop="20250912110000 +0000" channel="RCTI.mncvision">
     <title>Benci Jadi Bucin</title>
 </programme>
-<programme start="20250912111500 +0000" stop="20250912123000 +0000" channel="RCTI.mncvision">
+<programme start="20250912110000 +0000" stop="20250912121500 +0000" channel="RCTI.mncvision">
     <title>Dusta Dibalik Cinta</title>
 </programme>
-<programme start="20250912123000 +0000" stop="20250912134500 +0000" channel="RCTI.mncvision">
+<programme start="20250912121500 +0000" stop="20250912134500 +0000" channel="RCTI.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250912134500 +0000" stop="20250912150000 +0000" channel="RCTI.mncvision">
@@ -7579,16 +7579,16 @@
 <programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="RCTI HD.mncvision">
     <title>Pay Later</title>
 </programme>
-<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250912090000 +0000" stop="20250912094500 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun X</title>
 </programme>
-<programme start="20250912100000 +0000" stop="20250912111500 +0000" channel="RCTI HD.mncvision">
+<programme start="20250912094500 +0000" stop="20250912110000 +0000" channel="RCTI HD.mncvision">
     <title>Benci Jadi Bucin</title>
 </programme>
-<programme start="20250912111500 +0000" stop="20250912123000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250912110000 +0000" stop="20250912121500 +0000" channel="RCTI HD.mncvision">
     <title>Dusta Dibalik Cinta</title>
 </programme>
-<programme start="20250912123000 +0000" stop="20250912134500 +0000" channel="RCTI HD.mncvision">
+<programme start="20250912121500 +0000" stop="20250912134500 +0000" channel="RCTI HD.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
 <programme start="20250912134500 +0000" stop="20250912150000 +0000" channel="RCTI HD.mncvision">
