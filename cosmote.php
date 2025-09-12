@@ -1,11 +1,3 @@
-<programme start="20250913040000 +0700" stop="20250913043000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913043000 +0700" stop="20250913050000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913050000 +0700" stop="20250913060000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2024-25 E23</title>
     <desc>Live: Tidak</desc>
@@ -86,10 +78,6 @@
     <title>Football: Panetolikos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913034500 +0700" stop="20250913041500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913041500 +0700" stop="20250913063000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -162,8 +150,8 @@
     <title>Sports Classics: Football&#039;s Greatest IV E6</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913040000 +0700" stop="20250913041500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E17</title>
+<programme start="20250914050000 +0700" stop="20250914070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913041500 +0700" stop="20250913060000 +0700" channel="COSMOTE Sport 3 HD">
@@ -224,6 +212,10 @@
 </programme>
 <programme start="20250914043000 +0700" stop="20250914050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914050000 +0700" stop="20250914060000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913033000 +0700" stop="20250913053000 +0700" channel="COSMOTE Sport 4 HD">
@@ -298,8 +290,12 @@
     <title>Basketball: Olympiacos BC - AS Monaco</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913035500 +0700" stop="20250913045000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250914051500 +0700" stop="20250914053500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914053500 +0700" stop="20250914060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913045000 +0700" stop="20250913054000 +0700" channel="COSMOTE Sport 5 HD">
@@ -410,16 +406,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913021500 +0700" stop="20250913041500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Football: SL Benfica - Santa Clara (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250913041500 +0700" stop="20250913044500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913044500 +0700" stop="20250913050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E21</title>
+<programme start="20250914052500 +0700" stop="20250914062500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913050000 +0700" stop="20250913073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -480,14 +468,6 @@
 </programme>
 <programme start="20250914033000 +0700" stop="20250914080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Greece - Brazil</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913040000 +0700" stop="20250913043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913043000 +0700" stop="20250913050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913050000 +0700" stop="20250913080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -574,6 +554,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250914050000 +0700" stop="20250914080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250913040000 +0700" stop="20250913060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -637,6 +621,10 @@
 <programme start="20250914040000 +0700" stop="20250914050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914050000 +0700" stop="20250914080000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Fight Sports: UFC Fight Night 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913040000 +0700" stop="20250913060000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -705,5 +693,13 @@
 <programme start="20250914020000 +0700" stop="20250914050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Fight Sports: Oktagon 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250914050000 +0700" stop="20250914053000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914053000 +0700" stop="20250914060000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
