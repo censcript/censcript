@@ -70,6 +70,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250913130000 +0700" stop="20250913144000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250912110000 +0700" stop="20250912131500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +142,14 @@
     <title>Football: Volos - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250913131500 +0700" stop="20250913134500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913134500 +0700" stop="20250913155000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250912120000 +0700" stop="20250912140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Okhdood Club - Al Ittihad</title>
     <desc>Live: Tidak</desc>
@@ -198,10 +210,6 @@
     <title>American Football: Green Bay Packers - Washington Commanders</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912101000 +0700" stop="20250912121000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250912121000 +0700" stop="20250912141500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
@@ -256,10 +264,6 @@
 </programme>
 <programme start="20250913120000 +0700" stop="20250913140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Kolossos - Saint-Quentin</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250912112500 +0700" stop="20250912125500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912125500 +0700" stop="20250912135500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,9 +374,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912094000 +0700" stop="20250912123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250913133500 +0700" stop="20250913142000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250912123000 +0700" stop="20250912150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
@@ -448,6 +452,10 @@
 </programme>
 <programme start="20250913125000 +0700" stop="20250913135000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913135000 +0700" stop="20250913155000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912120000 +0700" stop="20250912140000 +0700" channel="COSMOTE Sport 7 HD">
