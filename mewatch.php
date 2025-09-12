@@ -691,50 +691,44 @@
     <programme start="20250912154500 +0000" stop="20250912170000 +0000" channel="now-80s.mewatch">
         <title>Long Hot Summer! - EP1</title>
     </programme>
-    <programme start="20250911160000 +0000" stop="20250911175000 +0000" channel="now-70s.mewatch">
-        <title>At The Copa! Top 25 - EP1</title>
+    <programme start="20250911160000 +0000" stop="20250911185000 +0000" channel="now-70s.mewatch">
+        <title>Roof Down, Radio Up! Road Trip 50 - EP1</title>
     </programme>
-    <programme start="20250911175000 +0000" stop="20250911180000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20250911185000 +0000" stop="20250911190000 +0000" channel="now-70s.mewatch">
+        <title>Magic Moments! The 70s - EP1</title>
     </programme>
-    <programme start="20250911180000 +0000" stop="20250911210000 +0000" channel="now-70s.mewatch">
-        <title>Top Singalongs! 1970-1979 - EP1</title>
+    <programme start="20250911190000 +0000" stop="20250911210000 +0000" channel="now-70s.mewatch">
+        <title>Sally James&#039; Bubblegum Pop! - EP1</title>
     </programme>
-    <programme start="20250911210000 +0000" stop="20250911222500 +0000" channel="now-70s.mewatch">
-        <title>20 Forgotten Floorfillers Of Disco - EP1</title>
+    <programme start="20250911210000 +0000" stop="20250911233500 +0000" channel="now-70s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20250911222500 +0000" stop="20250911230000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20250911233500 +0000" stop="20250912000000 +0000" channel="now-70s.mewatch">
+        <title>Disco Bling! - EP1</title>
     </programme>
-    <programme start="20250911230000 +0000" stop="20250912013000 +0000" channel="now-70s.mewatch">
-        <title>Time Machine! 1968 V 78 V 88 - EP1</title>
+    <programme start="20250912000000 +0000" stop="20250912060000 +0000" channel="now-70s.mewatch">
+        <title>70s - A Decade Of Dance! - EP1</title>
     </programme>
-    <programme start="20250912013000 +0000" stop="20250912020000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="now-70s.mewatch">
+        <title>Disco Bling! - EP1</title>
     </programme>
-    <programme start="20250912020000 +0000" stop="20250912041000 +0000" channel="now-70s.mewatch">
-        <title>Blackburn&#039;s 25 Blue Sky Belters! - EP1</title>
+    <programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="now-70s.mewatch">
+        <title>70s Stars - Then &amp; Now! - EP1</title>
     </programme>
-    <programme start="20250912041000 +0000" stop="20250912050000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="now-70s.mewatch">
+        <title>Simon Bates&#039; Rock Ballads! 1970-79 - EP1</title>
     </programme>
-    <programme start="20250912050000 +0000" stop="20250912100000 +0000" channel="now-70s.mewatch">
-        <title>The Big Bbq Party! 70 From The 70s - EP1</title>
+    <programme start="20250912110000 +0000" stop="20250912140000 +0000" channel="now-70s.mewatch">
+        <title>Cuddle On The Couch - The Love 40 - EP1</title>
     </programme>
-    <programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="now-70s.mewatch">
-        <title>70s Heatwave Hits! - EP1</title>
+    <programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
     </programme>
-    <programme start="20250912110000 +0000" stop="20250912135000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s One Hit Wonders! 70-79 - EP1</title>
+    <programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="now-70s.mewatch">
+        <title>John, Paul, George &amp; Ringo! - EP1</title>
     </programme>
-    <programme start="20250912135000 +0000" stop="20250912140000 +0000" channel="now-70s.mewatch">
-        <title>It&#039;s A Massive 70s Party Night! - EP1</title>
-    </programme>
-    <programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="now-70s.mewatch">
-        <title>All The Young Dudes! Top 30 - EP1</title>
-    </programme>
-    <programme start="20250912160000 +0000" stop="20250912210000 +0000" channel="now-70s.mewatch">
-        <title>The Big Bbq Party! 70 From The 70s - EP1</title>
+    <programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="now-70s.mewatch">
+        <title>70s - A Decade Of Dance! - EP1</title>
     </programme>
     <programme start="20250911160000 +0000" stop="20250911220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>
