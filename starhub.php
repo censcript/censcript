@@ -7559,7 +7559,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250912003000 +0000" stop="20250912010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>France&#039;s Political Crisis</title>
     </programme>
     <programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
