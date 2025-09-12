@@ -1592,7 +1592,7 @@
         <title>MasterChef Australia (S17)</title>
     </programme>
     <programme start="20250911133000 +0000" stop="20250911163000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Plan Panni Pannanum</title>
+        <title>Adiyae</title>
     </programme>
     <programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Vetri Vinayagar</title>
@@ -1603,19 +1603,13 @@
     <programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Deja Vu</title>
-    </programme>
-    <programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20250911180000 +0000" stop="20250911203000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Deja Vu</title>
     </programme>
     <programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Marakudhey Nenjam</title>
+        <title>Vetri Vinayagar</title>
     </programme>
-    <programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Thendral Vandhu Ennai Thodum</title>
-    </programme>
-    <programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Thendral Vandhu Ennai Thodum</title>
     </programme>
     <programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="COLORS Tamil HD.starhub">
@@ -1649,10 +1643,10 @@
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
     <programme start="20250912060000 +0000" stop="20250912083000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Deja Vu</title>
+        <title>Kadamban</title>
     </programme>
     <programme start="20250912083000 +0000" stop="20250912090000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Vetri Vinayagar</title>
+        <title>Marakudhey Nenjam</title>
     </programme>
     <programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Thendral Vandhu Ennai Thodum</title>
@@ -1676,7 +1670,7 @@
         <title>Thendral Vandhu Ennai Thodum</title>
     </programme>
     <programme start="20250912133000 +0000" stop="20250912163000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adiyae</title>
+        <title>NGK</title>
     </programme>
     <programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="TVBS Asia.starhub">
         <title>Shao Kang&#039;s War Room</title>
