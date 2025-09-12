@@ -90,8 +90,12 @@
     <title>Football: Olympiacos - Panserraikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250914000500 +0700" stop="20250914010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PostGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250912223000 +0700" stop="20250913004500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL - Kifisia</title>
+    <title>Football: AEL Novibet - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913004500 +0700" stop="20250913011500 +0700" channel="COSMOTE Sport 2 HD">
@@ -170,9 +174,9 @@
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912220000 +0700" stop="20250913000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Internacional - Flamengo</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914000000 +0700" stop="20250914021500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Volos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913000000 +0700" stop="20250913020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: River Plate - Libertad</title>
@@ -230,6 +234,10 @@
     <title>Sports Classics: Worldies E24</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250914000000 +0700" stop="20250914020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Porto - Nacional (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250912224500 +0700" stop="20250913010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Paris Basketball - Crvena Zvezda (L)</title>
     <desc>Live: Ya</desc>
@@ -262,12 +270,12 @@
     <title>Basketball: Tenerife - Badalona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913120000 +0700" stop="20250913140500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Kolossos - Saint-Quentin</title>
+<programme start="20250913120000 +0700" stop="20250913140000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Paris Basketball - Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913140500 +0700" stop="20250913160500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Paris Basketball - Crvena Zvezda</title>
+<programme start="20250913140000 +0700" stop="20250913160500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Kolossos - Saint-Quentin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913160500 +0700" stop="20250913181000 +0700" channel="COSMOTE Sport 4 HD">
@@ -275,7 +283,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913181000 +0700" stop="20250913201500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Baskonia</title>
+    <title>Basketball: Paris Basketball - Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913201500 +0700" stop="20250913203500 +0700" channel="COSMOTE Sport 4 HD">
@@ -298,8 +306,12 @@
     <title>Basketball: Olympiacos BC - AS Monaco (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912224000 +0700" stop="20250912234000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20250914001500 +0700" stop="20250914003000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914003000 +0700" stop="20250914010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912234000 +0700" stop="20250913004500 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,10 +426,6 @@
     <title>Football: Hibernian - Dundee United (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912214000 +0700" stop="20250912231000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250912231000 +0700" stop="20250913020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -486,9 +494,9 @@
     <title>Tennis: Greece - Brazil (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912220000 +0700" stop="20250913000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914000000 +0700" stop="20250914023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Greece - Brazil (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913000000 +0700" stop="20250913020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -566,9 +574,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912230000 +0700" stop="20250913000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914000000 +0700" stop="20250914020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Pafos FC - Apollon Limassol (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913000000 +0700" stop="20250913020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -626,9 +634,9 @@
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912220000 +0700" stop="20250913000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914000000 +0700" stop="20250914023000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913000000 +0700" stop="20250913003000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
