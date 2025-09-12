@@ -1523,7 +1523,7 @@
     <title>Bloomberg: Balance Of Power</title>
 </programme>
 <programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Businessweek Daily</title>
+    <title>Bloomberg BusinessWeek Daily</title>
 </programme>
 <programme start="20250911190000 +0000" stop="20250911210000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg The Close</title>
@@ -1571,7 +1571,10 @@
     <title>Bloomberg Tech</title>
 </programme>
 <programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Close</title>
+    <title>Bloomberg Real Yield</title>
+</programme>
+<programme start="20250912163000 +0000" stop="20250911170000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Markets</title>
 </programme>
 <programme start="20250911173000 +0000" stop="20250911182700 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
