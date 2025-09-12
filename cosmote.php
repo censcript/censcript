@@ -1,7 +1,3 @@
-<programme start="20250912220000 +0700" stop="20250913005500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Kairat Almaty - Celtic FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913005500 +0700" stop="20250913023000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -94,9 +90,13 @@
     <title>PostGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912223000 +0700" stop="20250913004500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - Kifisia</title>
+<programme start="20250914010000 +0700" stop="20250914014500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E2</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914014500 +0700" stop="20250914034500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: ACF Fiorentina - SSC Napoli (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913004500 +0700" stop="20250913011500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2025-26 E2</title>
@@ -238,10 +238,6 @@
     <title>Football: FC Porto - Nacional (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250912224500 +0700" stop="20250913010000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Paris Basketball - Crvena Zvezda (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250913010000 +0700" stop="20250913012500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -314,9 +310,9 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912234000 +0700" stop="20250913004500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914010000 +0700" stop="20250914030000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: Al Hilal - Al-Qadsiah (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913004500 +0700" stop="20250913014000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
@@ -425,6 +421,10 @@
 <programme start="20250913234500 +0700" stop="20250914014500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Hibernian - Dundee United (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250914014500 +0700" stop="20250914023500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912231000 +0700" stop="20250913020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
@@ -638,14 +638,6 @@
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250913000000 +0700" stop="20250913003000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913003000 +0700" stop="20250913010000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913010000 +0700" stop="20250913030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Ittihad - Al Fateh (L)</title>
     <desc>Live: Ya</desc>
@@ -713,5 +705,13 @@
 <programme start="20250913230000 +0700" stop="20250914010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Juventus Football Club - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250914010000 +0700" stop="20250914013000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914013000 +0700" stop="20250914020000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
