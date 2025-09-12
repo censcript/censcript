@@ -74,6 +74,14 @@
     <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250913150000 +0700" stop="20250913153000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913153000 +0700" stop="20250913160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250912131500 +0700" stop="20250912151500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Sassuolo</title>
     <desc>Live: Tidak</desc>
@@ -146,6 +154,10 @@
     <title>Football: FC Internazionale Milano - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250913155000 +0700" stop="20250913162000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250912140000 +0700" stop="20250912160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -200,10 +212,6 @@
 </programme>
 <programme start="20250913123000 +0700" stop="20250913160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Green Bay Packers - Washington Commanders</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250912121000 +0700" stop="20250912141500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912141500 +0700" stop="20250912163000 +0700" channel="COSMOTE Sport 4 HD">
@@ -261,10 +269,6 @@
 <programme start="20250913140500 +0700" stop="20250913160500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Paris Basketball - Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250912135500 +0700" stop="20250912144500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250912144500 +0700" stop="20250912154000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
@@ -374,9 +378,13 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250912123000 +0700" stop="20250912150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250913150500 +0700" stop="20250913154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250913154500 +0700" stop="20250913170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250912150000 +0700" stop="20250912160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
@@ -452,6 +460,10 @@
 </programme>
 <programme start="20250913135000 +0700" stop="20250913155000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250913155000 +0700" stop="20250913172500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: GWD Minden - SG Flensburg-Handewitt</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250912140000 +0700" stop="20250912160000 +0700" channel="COSMOTE Sport 7 HD">

@@ -8318,16 +8318,10 @@
     <title>BRI Liga 1: DWU Vs PBY</title>
 </programme>
 <programme start="20250912050000 +0000" stop="20250912070000 +0000" channel="Sportstars 4.mncvision">
+    <title>ASEAN MSIG Serenity Cup</title>
+</programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
-</programme>
-<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="Sportstars 4.mncvision">
-    <title>AFC Women&#039;s Champions (L)</title>
-</programme>
-<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20250912083000 +0000" stop="20250912090000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sportivia</title>
 </programme>
 <programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="Sportstars 4.mncvision">
     <title>Liga 2: GRS Vs PSL</title>
@@ -8360,16 +8354,10 @@
     <title>BRI Liga 1: DWU Vs PBY</title>
 </programme>
 <programme start="20250912050000 +0000" stop="20250912070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>ASEAN MSIG Serenity Cup</title>
+</programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
-</programme>
-<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>AFC Women&#039;s Champions (L)</title>
-</programme>
-<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20250912083000 +0000" stop="20250912090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sportivia</title>
 </programme>
 <programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Liga 2: GRS Vs PSL</title>
