@@ -928,35 +928,41 @@
 <programme start="20250913082500 +0000" stop="20250913092000 +0000" channel="DAZN 2 HD.skyde">
     <title>Get Wild: Lange Version</title>
 </programme>
-<programme start="20250913092000 +0000" stop="20250913094500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250913092000 +0000" stop="20250913095000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250913094500 +0000" stop="20250913120500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Frauen Bundesliga 25/26: 1. FC Nürnberg - SV Werder Bremen</title>
+<programme start="20250913095000 +0000" stop="20250913102000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 1</title>
 </programme>
-<programme start="20250913120500 +0000" stop="20250913125500 +0000" channel="DAZN 2 HD.skyde">
-    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+<programme start="20250913102000 +0000" stop="20250913105000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 2</title>
 </programme>
-<programme start="20250913125500 +0000" stop="20250913151000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A 25/26: Cagliari Calcio - Parma Calcio</title>
+<programme start="20250913105000 +0000" stop="20250913112000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 3</title>
 </programme>
-<programme start="20250913151000 +0000" stop="20250913155500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250913112000 +0000" stop="20250913115500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250913155500 +0000" stop="20250913180500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A 25/26: Juventus Turin - Inter Mailand</title>
+<programme start="20250913115500 +0000" stop="20250913141000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Frauen Bundesliga 25/26: SGS Essen - Hamburger SV</title>
 </programme>
-<programme start="20250913180500 +0000" stop="20250913184000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250913141000 +0000" stop="20250913162500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Real Sociedad San Sebastian - Real Madrid</title>
+</programme>
+<programme start="20250913162500 +0000" stop="20250913183500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Athletic Bilbao - Deportivo Alavés</title>
+</programme>
+<programme start="20250913183500 +0000" stop="20250913185500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250913184000 +0000" stop="20250913205500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A 25/26: AC Florenz - SSC Neapel</title>
+<programme start="20250913185500 +0000" stop="20250913210500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Atlético Madrid - FC Villarreal</title>
 </programme>
-<programme start="20250913205500 +0000" stop="20250913213000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250913210500 +0000" stop="20250913212500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250913212500 +0000" stop="20250913220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Darts Features: Club Profile 2022/2023</title>
-</programme>
-<programme start="20250913213000 +0000" stop="20250913220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250912221500 +0000" stop="20250912224000 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
@@ -2686,7 +2692,7 @@
 <programme start="20250913131500 +0000" stop="20250913154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - Borussia Dortmund, 3. Spieltag</title>
 </programme>
-<programme start="20250913154500 +0000" stop="20250913191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250913154500 +0000" stop="20250913193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Hamburger SV, tipico Topspiel der Woche, 3. Spieltag</title>
 </programme>
 <programme start="20250913101000 +0000" stop="20250913103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2713,7 +2719,7 @@
 <programme start="20250913180000 +0000" stop="20250913210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Hertha BSC, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
-<programme start="20250913210000 +0000" stop="20250913220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250913210000 +0000" stop="20250913221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20250913101000 +0000" stop="20250913103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2761,7 +2767,7 @@
 <programme start="20250913120000 +0000" stop="20250913130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: tipico Countdown, 3. Spieltag</title>
 </programme>
-<programme start="20250913130000 +0000" stop="20250913153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20250913130000 +0000" stop="20250913154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview, 3. Spieltag</title>
 </programme>
 <programme start="20250913101000 +0000" stop="20250913103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -3112,14 +3118,14 @@
 <programme start="20250913213000 +0000" stop="20250913233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - Brighton &amp; Hove Albion, 4. Spieltag</title>
 </programme>
-<programme start="20250913040000 +0000" stop="20250913043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250913043000 +0000" stop="20250913050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913060000 +0000" stop="20250913063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250913050000 +0000" stop="20250913070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
+<programme start="20250913063000 +0000" stop="20250913070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
 <programme start="20250913070000 +0000" stop="20250913073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3134,7 +3140,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20250913113000 +0000" stop="20250913133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
+    <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
 <programme start="20250913133000 +0000" stop="20250913140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3143,7 +3149,7 @@
     <title>US Open: A. Sabalenka - A. Anisimova (USA), Finale Damen</title>
 </programme>
 <programme start="20250913163000 +0000" stop="20250913183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
+    <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
 <programme start="20250913183000 +0000" stop="20250913190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3155,7 +3161,7 @@
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
 <programme start="20250913203000 +0000" stop="20250913223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
+    <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
 <programme start="20250913040000 +0000" stop="20250913052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Training - GP San Marino</title>
@@ -3205,7 +3211,7 @@
 <programme start="20250913133000 +0000" stop="20250913135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250913135000 +0000" stop="20250913160000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250913135000 +0000" stop="20250913161500 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Fulham - Leeds United, 4. Spieltag</title>
 </programme>
 <programme start="20250912220000 +0000" stop="20250912224500 +0000" channel="SYFY HD.skyde">
@@ -3670,10 +3676,10 @@
 <programme start="20250913050500 +0000" stop="20250913055500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250913055500 +0000" stop="20250913064500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250913055500 +0000" stop="20250913065000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250913064500 +0000" stop="20250913074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250913065000 +0000" stop="20250913074000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20250913074000 +0000" stop="20250913083000 +0000" channel="Warner TV Serie HD.skyde">
