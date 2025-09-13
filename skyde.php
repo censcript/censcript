@@ -3166,11 +3166,14 @@
 <programme start="20250913203000 +0000" stop="20250913223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
-<programme start="20250913044500 +0000" stop="20250913060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250913040000 +0000" stop="20250913052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Training - GP San Marino</title>
 </programme>
-<programme start="20250913060000 +0000" stop="20250913063500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250913052000 +0000" stop="20250913055000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Preview, 4. Spieltag</title>
+</programme>
+<programme start="20250913055000 +0000" stop="20250913063500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Freitag</title>
 </programme>
 <programme start="20250913063500 +0000" stop="20250913071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP San Marino</title>
