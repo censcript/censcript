@@ -2578,7 +2578,7 @@
 <programme start="20250913143000 +0000" stop="20250913145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250913145000 +0000" stop="20250913171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250913145000 +0000" stop="20250913170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - LASK, 6. Runde</title>
 </programme>
 <programme start="20250913143000 +0000" stop="20250913145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3121,13 +3121,13 @@
 <programme start="20250913213000 +0000" stop="20250913233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - Brighton &amp; Hove Albion, 4. Spieltag</title>
 </programme>
-<programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913040000 +0000" stop="20250913043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250913060000 +0000" stop="20250913063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913043000 +0000" stop="20250913050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250913063000 +0000" stop="20250913070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913050000 +0000" stop="20250913070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
 <programme start="20250913070000 +0000" stop="20250913073000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3166,14 +3166,11 @@
 <programme start="20250913203000 +0000" stop="20250913223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
-<programme start="20250913040000 +0000" stop="20250913052000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250913044500 +0000" stop="20250913060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Training - GP San Marino</title>
 </programme>
-<programme start="20250913052000 +0000" stop="20250913055000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250913060000 +0000" stop="20250913063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Preview, 4. Spieltag</title>
-</programme>
-<programme start="20250913055000 +0000" stop="20250913063500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Freitag</title>
 </programme>
 <programme start="20250913063500 +0000" stop="20250913071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP San Marino</title>
