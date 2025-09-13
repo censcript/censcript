@@ -1,11 +1,3 @@
-<programme start="20250913120000 +0700" stop="20250913123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913123000 +0700" stop="20250913130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913130000 +0700" stop="20250913144000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -154,8 +146,12 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913120000 +0700" stop="20250913123000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20250914130000 +0700" stop="20250914133000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914133000 +0700" stop="20250914153000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913123000 +0700" stop="20250913160000 +0700" channel="COSMOTE Sport 3 HD">
@@ -298,10 +294,6 @@
     <title>Basketball: AEK - Bonn</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913112000 +0700" stop="20250913122000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913122000 +0700" stop="20250913133500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -406,9 +398,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913115000 +0700" stop="20250913125000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914133500 +0700" stop="20250914143500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913125000 +0700" stop="20250913135000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
