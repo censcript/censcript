@@ -3166,7 +3166,7 @@
 <programme start="20250913203000 +0000" stop="20250913223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
-<programme start="20250913051500 +0000" stop="20250913052000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250913040000 +0000" stop="20250913052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Training - GP San Marino</title>
 </programme>
 <programme start="20250913052000 +0000" stop="20250913055000 +0000" channel="Sky Sport Top Event HD.skyde">

@@ -1,11 +1,3 @@
-<programme start="20250913130000 +0700" stop="20250913144000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913144000 +0700" stop="20250913150000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913150000 +0700" stop="20250913153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E2</title>
     <desc>Live: Tidak</desc>
@@ -154,6 +146,10 @@
     <title>Football: ACF Fiorentina - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250914153000 +0700" stop="20250914174500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Volos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250913123000 +0700" stop="20250913160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Green Bay Packers - Washington Commanders</title>
     <desc>Live: Tidak</desc>
@@ -298,10 +294,6 @@
     <title>Basketball: Olympiacos BC - AS Monaco</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913133500 +0700" stop="20250913142000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250913142000 +0700" stop="20250913150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -406,6 +398,18 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250914150500 +0700" stop="20250914151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914151500 +0700" stop="20250914154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914154500 +0700" stop="20250914170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250913135000 +0700" stop="20250913155000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: Fuchse Berlin - THW Kiel</title>
     <desc>Live: Tidak</desc>
@@ -465,6 +469,10 @@
 <programme start="20250914140000 +0700" stop="20250914153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914153000 +0700" stop="20250914191500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Boxing: Naoya Inoue - Murodjon Akhmadaliev (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913140000 +0700" stop="20250913160000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
