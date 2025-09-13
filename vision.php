@@ -685,6 +685,9 @@
 <programme start="20250913100000 +0000" stop="20250913110000 +0000" channel="ANTV.vision">
 <title>Parineetii</title>
 </programme>
+<programme start="20250913110000 +0000" stop="20250913123000 +0000" channel="ANTV.vision">
+<title>Perjanjian Di Malam Kramat</title>
+</programme>
 <programme start="20250913123000 +0000" stop="20250913143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250913130000 +0000" stop="20250913140000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
-</programme>
-<programme start="20250913140000 +0000" stop="20250913150000 +0000" channel="BTV.vision">
-<title>Spot On</title>
 </programme>
