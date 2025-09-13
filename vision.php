@@ -595,6 +595,12 @@
 <programme start="20250913154500 +0000" stop="20250913163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20250913163000 +0000" stop="20250913171500 +0000" channel="Trans 7.vision">
+<title>Starting Grid MotoGP San Marino</title>
+</programme>
+<programme start="20250913171500 +0000" stop="20250913180000 +0000" channel="Trans 7.vision">
+<title>MotoGP Sprint Race: San Marino</title>
+</programme>
 <programme start="20250913180000 +0000" stop="20250913190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -679,8 +685,17 @@
 <programme start="20250913100000 +0000" stop="20250913110000 +0000" channel="ANTV.vision">
 <title>Parineetii</title>
 </programme>
+<programme start="20250913110000 +0000" stop="20250913123000 +0000" channel="ANTV.vision">
+<title>Perjanjian Di Malam Kramat</title>
+</programme>
 <programme start="20250913123000 +0000" stop="20250913143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20250913143000 +0000" stop="20250913163000 +0000" channel="ANTV.vision">
+<title>Macho</title>
+</programme>
+<programme start="20250913163000 +0000" stop="20250913183000 +0000" channel="ANTV.vision">
+<title>Teenage Mutant Ninja Turtles 2</title>
 </programme>
 <programme start="20250913183000 +0000" stop="20250913193000 +0000" channel="ANTV.vision">
 <title>Magnificent Warriors</title>
@@ -894,6 +909,9 @@
 </programme>
 <programme start="20250913140000 +0000" stop="20250913150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20250913150000 +0000" stop="20250913163000 +0000" channel="TVOne.vision">
+<title>One Pride MMA (L)</title>
 </programme>
 <programme start="20250913163000 +0000" stop="20250913170000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1479,22 +1497,4 @@
 </programme>
 <programme start="20250913130000 +0000" stop="20250913140000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
-</programme>
-<programme start="20250913140000 +0000" stop="20250913150000 +0000" channel="BTV.vision">
-<title>Spot On</title>
-</programme>
-<programme start="20250913150000 +0000" stop="20250913160000 +0000" channel="BTV.vision">
-<title>Berita Satu Malam</title>
-</programme>
-<programme start="20250913160000 +0000" stop="20250913163000 +0000" channel="BTV.vision">
-<title>Dari Nol</title>
-</programme>
-<programme start="20250913163000 +0000" stop="20250913173000 +0000" channel="BTV.vision">
-<title>Supercar Championship 2025</title>
-</programme>
-<programme start="20250913173000 +0000" stop="20250913182700 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
-</programme>
-<programme start="20250913182700 +0000" stop="20250913183000 +0000" channel="BTV.vision">
-<title>Tanah Airku</title>
 </programme>
