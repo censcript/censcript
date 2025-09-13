@@ -2179,14 +2179,26 @@
     <programme start="20250912200000 +0000" stop="20250912220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250912220000 +0000" stop="20250913040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250912223000 +0000" stop="20250913010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Rendum Rendum Aiynthu</title>
     </programme>
-    <programme start="20250913040000 +0000" stop="20250913100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20250913100000 +0000" stop="20250913160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250913013000 +0000" stop="20250913043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Love Today</title>
+    </programme>
+    <programme start="20250913043000 +0000" stop="20250913073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kaadhal Azhivathillai</title>
+    </programme>
+    <programme start="20250913073000 +0000" stop="20250913103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Murattu Kaalai</title>
+    </programme>
+    <programme start="20250913103000 +0000" stop="20250913133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Strawberry</title>
+    </programme>
+    <programme start="20250913133000 +0000" stop="20250913170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Maaveeran</title>
     </programme>
     <programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
@@ -7631,7 +7643,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="BBC World News HD.starhub">
-        <title>Unspun World with John Simpson</title>
+        <title>Ros Atkins on Gaza Proportionality</title>
     </programme>
     <programme start="20250913060000 +0000" stop="20250913063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7682,7 +7694,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20250913143000 +0000" stop="20250913150000 +0000" channel="BBC World News HD.starhub">
-        <title>Super Mario Bros at 40</title>
+        <title>Ros Atkins on Gaza Proportionality</title>
     </programme>
     <programme start="20250913150000 +0000" stop="20250913153000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
