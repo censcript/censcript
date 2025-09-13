@@ -3044,19 +3044,19 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250913230000 +0000" stop="20250914010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>Live WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914010000 +0000" stop="20250914030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>Live WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914030000 +0000" stop="20250914040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
 <programme start="20250914040000 +0000" stop="20250914060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914060000 +0000" stop="20250914080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914080000 +0000" stop="20250914083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3065,16 +3065,16 @@
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
 <programme start="20250914110000 +0000" stop="20250914130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914130000 +0000" stop="20250914150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914150000 +0000" stop="20250914160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250914160000 +0000" stop="20250914180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914180000 +0000" stop="20250914203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 250: Finale, SP Open in Sao Paulo (BRA), Finale</title>
@@ -3086,16 +3086,16 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250914213000 +0000" stop="20250914233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250913220000 +0000" stop="20250913230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Procore Championship, 3. Tag in Napa, CA (USA)</title>
 </programme>
 <programme start="20250913230000 +0000" stop="20250914010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>Live WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914010000 +0000" stop="20250914030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>Live WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914030000 +0000" stop="20250914040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Qualifying - GP San Marino</title>
