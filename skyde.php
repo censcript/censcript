@@ -2716,7 +2716,7 @@
 <programme start="20250913180000 +0000" stop="20250913210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Hertha BSC, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
-<programme start="20250913210000 +0000" stop="20250913220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250913210000 +0000" stop="20250913221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20250913101000 +0000" stop="20250913103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">

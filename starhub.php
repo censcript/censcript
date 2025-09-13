@@ -2176,8 +2176,8 @@
     <programme start="20250912170000 +0000" stop="20250912200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thambi</title>
     </programme>
-    <programme start="20250912200000 +0000" stop="20250912220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250912200000 +0000" stop="20250912223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Rasigar Mandram</title>
     </programme>
     <programme start="20250912223000 +0000" stop="20250913010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Rendum Rendum Aiynthu</title>
