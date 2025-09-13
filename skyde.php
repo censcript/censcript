@@ -3049,13 +3049,85 @@
 <programme start="20250913213000 +0000" stop="20250913220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Ruben Dias)</title>
+</programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Volleys</title>
+</programme>
+<programme start="20250913000000 +0000" stop="20250913010000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Dwight Yorke)</title>
+</programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Ruud Gullit)</title>
+</programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Cesc Fabregas)</title>
+</programme>
+<programme start="20250913030000 +0000" stop="20250913040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (German Stars)</title>
+</programme>
+<programme start="20250913040000 +0000" stop="20250913050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Peter Schmeichel)</title>
+</programme>
+<programme start="20250913050000 +0000" stop="20250913053000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Ryan Giggs</title>
+</programme>
+<programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Goals: Manchester Derby</title>
+</programme>
+<programme start="20250913060000 +0000" stop="20250913070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: The Catch-Up Show</title>
+</programme>
+<programme start="20250913070000 +0000" stop="20250913073000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Ruben Dias)</title>
+</programme>
+<programme start="20250913073000 +0000" stop="20250913080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CHE - FUL, 3. Spieltag</title>
+</programme>
+<programme start="20250913080000 +0000" stop="20250913083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Preview, 4. Spieltag</title>
+</programme>
+<programme start="20250913083000 +0000" stop="20250913085000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
+</programme>
+<programme start="20250913085000 +0000" stop="20250913095000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: The Catch-Up Show</title>
+</programme>
+<programme start="20250913095000 +0000" stop="20250913102000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: LIV - ARS, 3. Spieltag</title>
+</programme>
+<programme start="20250913102000 +0000" stop="20250913105000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 3. Spieltag</title>
+</programme>
+<programme start="20250913105000 +0000" stop="20250913112000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Preview, 4. Spieltag</title>
+</programme>
+<programme start="20250913112000 +0000" stop="20250913135000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Arsenal - Nottingham Forest, 4. Spieltag</title>
+</programme>
+<programme start="20250913135000 +0000" stop="20250913162000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: Goal Rush, NEW - WOL, Premier League Konferenz, 4. Spieltag</title>
+</programme>
+<programme start="20250913162000 +0000" stop="20250913185000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: West Ham United - Tottenham Hotspur, 4. Spieltag</title>
+</programme>
+<programme start="20250913185000 +0000" stop="20250913210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Brentford - FC Chelsea, 4. Spieltag</title>
+</programme>
+<programme start="20250913210000 +0000" stop="20250913213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 4. Spieltag</title>
+</programme>
+<programme start="20250913213000 +0000" stop="20250913233000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: AFC Bournemouth - Brighton &amp; Hove Albion, 4. Spieltag</title>
+</programme>
+<programme start="20250913040000 +0000" stop="20250913043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250913060000 +0000" stop="20250913063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913043000 +0000" stop="20250913050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250913063000 +0000" stop="20250913070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250913050000 +0000" stop="20250913070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Jacquemot (FRA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 5. Tag</title>
 </programme>
 <programme start="20250913070000 +0000" stop="20250913073000 +0000" channel="Sky Sport Tennis HD.skyde">

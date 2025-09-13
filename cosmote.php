@@ -1,7 +1,3 @@
-<programme start="20250913180000 +0700" stop="20250913183000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913183000 +0700" stop="20250913203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Charlton Athletic  - Millwall (L)</title>
     <desc>Live: Ya</desc>
@@ -73,10 +69,6 @@
 <programme start="20250914180000 +0700" stop="20250914200000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Southampton - Portsmouth (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250913165000 +0700" stop="20250913185000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Juventus Football Club</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913185000 +0700" stop="20250913203000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Documentary</title>
@@ -218,8 +210,8 @@
     <title>Football: AS Roma - Torino (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250913160500 +0700" stop="20250913181000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Baskonia</title>
+<programme start="20250914193000 +0700" stop="20250914200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913181000 +0700" stop="20250913201500 +0700" channel="COSMOTE Sport 4 HD">
@@ -301,10 +293,6 @@
 <programme start="20250914181000 +0700" stop="20250914201500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Turk Telekom</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250913174500 +0700" stop="20250913184000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913184000 +0700" stop="20250913194500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
@@ -410,10 +398,6 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250913172500 +0700" stop="20250913185500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250913185500 +0700" stop="20250913210000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
@@ -466,8 +450,12 @@
     <title>Boxing: Naoya Inoue - Murodjon Akhmadaliev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250913180000 +0700" stop="20250913183500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250914191500 +0700" stop="20250914194500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250914194500 +0700" stop="20250914200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E20</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250913183500 +0700" stop="20250913190500 +0700" channel="COSMOTE Sport 7 HD">
@@ -558,6 +546,10 @@
     <title>WRC 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250914193000 +0700" stop="20250914203500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250913180000 +0700" stop="20250913200000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -626,9 +618,9 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250913180000 +0700" stop="20250913183000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250914190000 +0700" stop="20250914213000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250913183000 +0700" stop="20250913200000 +0700" channel="COSMOTE Sport 9 HD">
     <title>DTM 2025 (L)</title>
