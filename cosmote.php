@@ -118,14 +118,6 @@
     <title>Football: Hellas Verona - Cremonese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250914230000 +0700" stop="20250914233000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914233000 +0700" stop="20250915000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250915000000 +0700" stop="20250915020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arouca - Casa Pia (L)</title>
     <desc>Live: Ya</desc>
@@ -256,10 +248,6 @@
 </programme>
 <programme start="20250915235500 +0700" stop="20250916015000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914223000 +0700" stop="20250914235000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250914235000 +0700" stop="20250915011500 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,6 +402,10 @@
     <title>Topspin (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250916003000 +0700" stop="20250916030500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Greece - Brazil</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250914230000 +0700" stop="20250915003500 +0700" channel="COSMOTE Sport 7 HD">
     <title>WRC (L)</title>
     <desc>Live: Ya</desc>
@@ -490,8 +482,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250914213000 +0700" stop="20250915000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
+<programme start="20250916000000 +0700" stop="20250916014500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Handball: SG Flensburg-Handewitt - TSV Hannover-Burgdorf (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250915000000 +0700" stop="20250915003000 +0700" channel="COSMOTE Sport 8 HD">
@@ -550,12 +542,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250914230000 +0700" stop="20250914233000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914233000 +0700" stop="20250915000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250916000000 +0700" stop="20250916020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915000000 +0700" stop="20250915032500 +0700" channel="COSMOTE Sport 9 HD">
@@ -607,6 +595,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915220000 +0700" stop="20250916000000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250916000000 +0700" stop="20250916020000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
