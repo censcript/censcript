@@ -1,175 +1,166 @@
-    <programme start="20250914000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Làng trong phố - Tập 20</title>
+    <programme start="20250915000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
+        <title> Phim truyện : Làng trong phố - Tập 21 </title>
     </programme>
-    <programme start="20250914000000 +0000" stop="20250914003000 +0000" channel="VTV1 HD.mytv">
-        <title> Học và làm theo Bác - Người lái đò gieo chữ</title>
+    <programme start="20250915000000 +0000" stop="20250915003000 +0000" channel="VTV1 HD.mytv">
+        <title> Cựu chiến binh Việt Nam : Hành trình tri ân </title>
     </programme>
-    <programme start="20250914003000 +0000" stop="20250914004500 +0000" channel="VTV1 HD.mytv">
-        <title> Sự lựa chọn</title>
+    <programme start="20250915003000 +0000" stop="20250915004500 +0000" channel="VTV1 HD.mytv">
+        <title> Sự kiện và bình luận </title>
     </programme>
-    <programme start="20250914004500 +0000" stop="20250914011000 +0000" channel="VTV1 HD.mytv">
-        <title> Tương lai xanh</title>
+    <programme start="20250915004500 +0000" stop="20250915011000 +0000" channel="VTV1 HD.mytv">
+        <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20250914011000 +0000" stop="20250914014000 +0000" channel="VTV1 HD.mytv">
-        <title> Khám phá Việt Nam - Vàng xanh vùng trung du</title>
+    <programme start="20250915011000 +0000" stop="20250915020000 +0000" channel="VTV1 HD.mytv">
+        <title> Thể thao </title>
     </programme>
-    <programme start="20250914014000 +0000" stop="20250914020000 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao - Giờ vàng thể thao</title>
+    <programme start="20250915020000 +0000" stop="20250915023000 +0000" channel="VTV1 HD.mytv">
+        <title> Từ những miền quê : Ngôi làng càng nắng càng thơm </title>
     </programme>
-    <programme start="20250914020000 +0000" stop="20250914023000 +0000" channel="VTV1 HD.mytv">
-        <title> Từ những miền quê - Dân dã vị mắm quê nhà</title>
+    <programme start="20250915023000 +0000" stop="20250915024500 +0000" channel="VTV1 HD.mytv">
+        <title> VTV Sống khỏe </title>
     </programme>
-    <programme start="20250914023000 +0000" stop="20250914024500 +0000" channel="VTV1 HD.mytv">
-        <title> VTV Sống khỏe - Mạnh mẽ đi qua hóa trị</title>
+    <programme start="20250915024500 +0000" stop="20250915033000 +0000" channel="VTV1 HD.mytv">
+        <title> Không gian văn hóa nghệ thuật </title>
     </programme>
-    <programme start="20250914024500 +0000" stop="20250914033000 +0000" channel="VTV1 HD.mytv">
-        <title> Hành trình di sản - Hải Phòng - Lấp lánh di sản trong lòng phố</title>
+    <programme start="20250915033000 +0000" stop="20250915041500 +0000" channel="VTV1 HD.mytv">
+        <title> Phim truyện : Mưa bóng mây - Tập 28 </title>
     </programme>
-    <programme start="20250914033000 +0000" stop="20250914041500 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện: Mưa bóng mây - Tập 27</title>
+    <programme start="20250915041500 +0000" stop="20250915050500 +0000" channel="VTV1 HD.mytv">
+        <title> S - Việt Nam </title>
     </programme>
-    <programme start="20250914041500 +0000" stop="20250914050500 +0000" channel="VTV1 HD.mytv">
-        <title> S Việt Nam - Xóm Nhội nuôi dưỡng điệu ví, giang</title>
+    <programme start="20250915050500 +0000" stop="20250915051000 +0000" channel="VTV1 HD.mytv">
+        <title> Hành trình hy vọng </title>
     </programme>
-    <programme start="20250914050500 +0000" stop="20250914051000 +0000" channel="VTV1 HD.mytv">
-        <title> Vì cộng đồng - Giữ hồn xưa, tạo sắc mới</title>
+    <programme start="20250915051000 +0000" stop="20250915053000 +0000" channel="VTV1 HD.mytv">
+        <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20250914051000 +0000" stop="20250914052500 +0000" channel="VTV1 HD.mytv">
-        <title> Hải quan Việt Nam</title>
+    <programme start="20250915053000 +0000" stop="20250915065800 +0000" channel="VTV1 HD.mytv">
+        <title> V - Việt Nam : 315_Nước mắm Cửa Khe </title>
     </programme>
-    <programme start="20250914052500 +0000" stop="20250914053000 +0000" channel="VTV1 HD.mytv">
-        <title> Chào buổi sáng</title>
+    <programme start="20250915065800 +0000" stop="20250915070000 +0000" channel="VTV1 HD.mytv">
+        <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20250914053000 +0000" stop="20250914065800 +0000" channel="VTV1 HD.mytv">
-        <title> V Việt Nam - Chợ cá Tam Tiến</title>
+    <programme start="20250915070000 +0000" stop="20250915072500 +0000" channel="VTV1 HD.mytv">
+        <title> Vì một tương lai xanh : Đồ chơi lá dừa </title>
     </programme>
-    <programme start="20250914065800 +0000" stop="20250914070000 +0000" channel="VTV1 HD.mytv">
-        <title> Báo chí toàn cảnh</title>
+    <programme start="20250915072500 +0000" stop="20250915073000 +0000" channel="VTV1 HD.mytv">
+        <title> Nẻo về nguồn cội : Hệ thống nhà tù thực dân </title>
     </programme>
-    <programme start="20250914070000 +0000" stop="20250914073000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu - Mái ấm đoàn kết</title>
+    <programme start="20250915073000 +0000" stop="20250915074500 +0000" channel="VTV1 HD.mytv">
+        <title> Ký sự : Đất sinh nghề - Tập 6 </title>
     </programme>
-    <programme start="20250914073000 +0000" stop="20250914080000 +0000" channel="VTV1 HD.mytv">
-        <title> Sống mới</title>
+    <programme start="20250915074500 +0000" stop="20250915080000 +0000" channel="VTV1 HD.mytv">
+        <title> Phim truyện : Trói buộc yêu thương - Tập 8 </title>
     </programme>
-    <programme start="20250914080000 +0000" stop="20250914084000 +0000" channel="VTV1 HD.mytv">
-        <title> Điểm tựa an sinh</title>
+    <programme start="20250915080000 +0000" stop="20250915085000 +0000" channel="VTV1 HD.mytv">
+        <title> Hành trình hy vọng </title>
     </programme>
-    <programme start="20250914084000 +0000" stop="20250914085000 +0000" channel="VTV1 HD.mytv">
-        <title> Nhịp sống ô tô</title>
+    <programme start="20250915085000 +0000" stop="20250915090000 +0000" channel="VTV1 HD.mytv">
+        <title> Truyền hình trực tiếp : Lễ kỷ niệm 80 năm Ngày truyền thống Tổng cục Công nghiệp quốc phòng </title>
     </programme>
-    <programme start="20250914085000 +0000" stop="20250914090000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời sự</title>
+    <programme start="20250915090000 +0000" stop="20250915102500 +0000" channel="VTV1 HD.mytv">
+        <title> Toàn cảnh thế giới </title>
     </programme>
-    <programme start="20250914090000 +0000" stop="20250914090500 +0000" channel="VTV1 HD.mytv">
-        <title> Du lịch Việt Nam</title>
+    <programme start="20250915102500 +0000" stop="20250915105500 +0000" channel="VTV1 HD.mytv">
+        <title> Nét đẹp dân gian </title>
     </programme>
-    <programme start="20250914090500 +0000" stop="20250914091500 +0000" channel="VTV1 HD.mytv">
-        <title> Toàn cảnh thế giới</title>
+    <programme start="20250915105500 +0000" stop="20250915110000 +0000" channel="VTV1 HD.mytv">
+        <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20250914091500 +0000" stop="20250914094500 +0000" channel="VTV1 HD.mytv">
-        <title> Không gian văn hóa nghệ thuật</title>
+    <programme start="20250915110000 +0000" stop="20250915111500 +0000" channel="VTV1 HD.mytv">
+        <title> Chuyển động 24h </title>
     </programme>
-    <programme start="20250914094500 +0000" stop="20250914103000 +0000" channel="VTV1 HD.mytv">
-        <title> Mạch nguồn bất tận</title>
+    <programme start="20250915111500 +0000" stop="20250915120000 +0000" channel="VTV1 HD.mytv">
+        <title> Thời sự </title>
     </programme>
-    <programme start="20250914103000 +0000" stop="20250914110000 +0000" channel="VTV1 HD.mytv">
-        <title> Cuộc sống số</title>
+    <programme start="20250915120000 +0000" stop="20250915124000 +0000" channel="VTV1 HD.mytv">
+        <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20250914110000 +0000" stop="20250914111500 +0000" channel="VTV1 HD.mytv">
-        <title> Chuyển động 24h</title>
+    <programme start="20250915124000 +0000" stop="20250915130000 +0000" channel="VTV1 HD.mytv">
+        <title> VTV Sống khỏe : Công ngệ cứu cánh bản lĩnh đàn ông </title>
     </programme>
-    <programme start="20250914111500 +0000" stop="20250914120000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời sự</title>
+    <programme start="20250915130000 +0000" stop="20250915134500 +0000" channel="VTV1 HD.mytv">
+        <title> Một vòng Việt Nam : Tân Uyên - Miền xanh bất tận </title>
     </programme>
-    <programme start="20250914120000 +0000" stop="20250914124000 +0000" channel="VTV1 HD.mytv">
-        <title> Nông nghiệp xanh</title>
+    <programme start="20250915134500 +0000" stop="20250915140000 +0000" channel="VTV1 HD.mytv">
+        <title> Cuộc sống số </title>
     </programme>
-    <programme start="20250914124000 +0000" stop="20250914125500 +0000" channel="VTV1 HD.mytv">
-        <title> Cặp lá yêu thương</title>
+    <programme start="20250915140000 +0000" stop="20250915141500 +0000" channel="VTV1 HD.mytv">
+        <title> Sống mới </title>
     </programme>
-    <programme start="20250914125500 +0000" stop="20250914130000 +0000" channel="VTV1 HD.mytv">
-        <title> VTV Sống khỏe - Giữ khớp khỏe, sống an vui</title>
+    <programme start="20250915141500 +0000" stop="20250915145500 +0000" channel="VTV1 HD.mytv">
+        <title> Ánh sáng tri thức </title>
     </programme>
-    <programme start="20250914130000 +0000" stop="20250914134500 +0000" channel="VTV1 HD.mytv">
-        <title> 80 năm Quốc hội Việt Nam</title>
+    <programme start="20250915145500 +0000" stop="20250915151000 +0000" channel="VTV1 HD.mytv">
+        <title> Doanh nghiệp - Doanh nhân </title>
     </programme>
-    <programme start="20250914134500 +0000" stop="20250914140000 +0000" channel="VTV1 HD.mytv">
-        <title> Cuộc sống số</title>
+    <programme start="20250915151000 +0000" stop="20250915153000 +0000" channel="VTV1 HD.mytv">
+        <title> Phim tài liệu : Dáng hình Việt Nam - Tập 1 </title>
     </programme>
-    <programme start="20250914140000 +0000" stop="20250914141500 +0000" channel="VTV1 HD.mytv">
-        <title> Giai điệu Việt Nam - Hành trình 80 năm hạt gạo Việt Nam</title>
+    <programme start="20250915153000 +0000" stop="20250915160000 +0000" channel="VTV1 HD.mytv">
+        <title> Thời sự </title>
     </programme>
-    <programme start="20250914141500 +0000" stop="20250914151000 +0000" channel="VTV1 HD.mytv">
-        <title> Hòa nhạc thính phòng - Giới thiệu Opera nhạc kịch</title>
+    <programme start="20250915160000 +0000" stop="20250915161500 +0000" channel="VTV1 HD.mytv">
+        <title> Nhân đạo : Mở rộng mô hình sơ cấp cứu </title>
     </programme>
-    <programme start="20250914151000 +0000" stop="20250914154500 +0000" channel="VTV1 HD.mytv">
-        <title> Khuyến học - Hành trình tri thức - Người gieo ánh sáng công lý</title>
+    <programme start="20250915161500 +0000" stop="20250915163000 +0000" channel="VTV1 HD.mytv">
+        <title> Sự kiện và bình luận </title>
     </programme>
-    <programme start="20250914154500 +0000" stop="20250914155500 +0000" channel="VTV1 HD.mytv">
-        <title> Cùng em đến trường - Ngọn lửa nhỏ hiếu học</title>
+    <programme start="20250915163000 +0000" stop="20250915170000 +0000" channel="VTV1 HD.mytv">
+        <title> Thông điệp từ bác sĩ </title>
     </programme>
-    <programme start="20250914155500 +0000" stop="20250914160000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời sự</title>
+    <programme start="20250915170000 +0000" stop="20250915171000 +0000" channel="VTV1 HD.mytv">
+        <title> Cải cách hành chính </title>
     </programme>
-    <programme start="20250914160000 +0000" stop="20250914161500 +0000" channel="VTV1 HD.mytv">
-        <title> Văn hoá QĐND - Theo dấy chân Người</title>
+    <programme start="20250915171000 +0000" stop="20250915172000 +0000" channel="VTV1 HD.mytv">
+        <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20250914161500 +0000" stop="20250914164500 +0000" channel="VTV1 HD.mytv">
-        <title> Tuổi cao gương sáng - Để người cao tuổi vững tin hội nhập</title>
+    <programme start="20250915172000 +0000" stop="20250915173000 +0000" channel="VTV1 HD.mytv">
+        <title> Việt Nam hôm nay </title>
     </programme>
-    <programme start="20250914164500 +0000" stop="20250914170000 +0000" channel="VTV1 HD.mytv">
-        <title> Nhật ký người Việt</title>
+    <programme start="20250915173000 +0000" stop="20250915183000 +0000" channel="VTV1 HD.mytv">
+        <title> Chuyển động 24h </title>
     </programme>
-    <programme start="20250914170000 +0000" stop="20250914170500 +0000" channel="VTV1 HD.mytv">
-        <title> Khám phá Việt Nam - Ngôi nhà xanh giữa núi rừng</title>
+    <programme start="20250915183000 +0000" stop="20250915190000 +0000" channel="VTV1 HD.mytv">
+        <title> Thời sự </title>
     </programme>
-    <programme start="20250914170500 +0000" stop="20250914172000 +0000" channel="VTV1 HD.mytv">
-        <title> Việt Nam đa sắc</title>
+    <programme start="20250915190000 +0000" stop="20250915194000 +0000" channel="VTV1 HD.mytv">
+        <title> Thời tiết - Thể thao 24/7 </title>
     </programme>
-    <programme start="20250914172000 +0000" stop="20250914173000 +0000" channel="VTV1 HD.mytv">
-        <title> Việt Nam hôm nay</title>
+    <programme start="20250915194000 +0000" stop="20250915195500 +0000" channel="VTV1 HD.mytv">
+        <title> Điểm tin </title>
     </programme>
-    <programme start="20250914173000 +0000" stop="20250914183000 +0000" channel="VTV1 HD.mytv">
-        <title> Chuyển động 24h</title>
+    <programme start="20250915195500 +0000" stop="20250915200000 +0000" channel="VTV1 HD.mytv">
+        <title> S - Việt Nam : Chạm vào dải ngân hà </title>
     </programme>
-    <programme start="20250914183000 +0000" stop="20250914190000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời sự</title>
+    <programme start="20250915200000 +0000" stop="20250915200500 +0000" channel="VTV1 HD.mytv">
+        <title> Việt Nam vui khỏe </title>
     </programme>
-    <programme start="20250914190000 +0000" stop="20250914194000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời tiết - Thể thao 24/7</title>
+    <programme start="20250915200500 +0000" stop="20250915201000 +0000" channel="VTV1 HD.mytv">
+        <title> Truyền hình trực tiếp : Bế mạc Triển lãm 80 năm hành trình Độc lập – Tự Do – Hạnh phúc </title>
     </programme>
-    <programme start="20250914194000 +0000" stop="20250914195500 +0000" channel="VTV1 HD.mytv">
-        <title> Điểm tin</title>
+    <programme start="20250915201000 +0000" stop="20250915214000 +0000" channel="VTV1 HD.mytv">
+        <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20250914195500 +0000" stop="20250914200000 +0000" channel="VTV1 HD.mytv">
-        <title> S Việt Nam - Hoa nở từ tay</title>
+    <programme start="20250915214000 +0000" stop="20250915220000 +0000" channel="VTV1 HD.mytv">
+        <title> Vấn đề hôm nay </title>
     </programme>
-    <programme start="20250914200000 +0000" stop="20250914200500 +0000" channel="VTV1 HD.mytv">
-        <title> Việt Nam vui khỏe</title>
+    <programme start="20250915220000 +0000" stop="20250915221500 +0000" channel="VTV1 HD.mytv">
+        <title> Thế giới hôm nay </title>
     </programme>
-    <programme start="20250914200500 +0000" stop="20250914201000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu - Hành trình 80 năm cống hiến và tự hào</title>
+    <programme start="20250915221500 +0000" stop="20250915223500 +0000" channel="VTV1 HD.mytv">
+        <title> Đi cùng chúng tôi </title>
     </programme>
-    <programme start="20250914201000 +0000" stop="20250914203500 +0000" channel="VTV1 HD.mytv">
-        <title> Như chưa hề có cuộc chia ly - Vô gia cư</title>
+    <programme start="20250915223500 +0000" stop="20250915230000 +0000" channel="VTV1 HD.mytv">
+        <title> Bản tin </title>
     </programme>
-    <programme start="20250914203500 +0000" stop="20250914213500 +0000" channel="VTV1 HD.mytv">
-        <title> Truyền hình Quân đội nhân dân</title>
+    <programme start="20250915230000 +0000" stop="20250915231500 +0000" channel="VTV1 HD.mytv">
+        <title> VTV kết nối </title>
     </programme>
-    <programme start="20250914213500 +0000" stop="20250914220000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu nước ngoài</title>
+    <programme start="20250915231500 +0000" stop="20250915233000 +0000" channel="VTV1 HD.mytv">
+        <title> Nẻo về nguồn cội : Hệ thống nhà tù thực dân </title>
     </programme>
-    <programme start="20250914220000 +0000" stop="20250914224500 +0000" channel="VTV1 HD.mytv">
-        <title> Dám sống - Hành trình Sống và Yêu</title>
-    </programme>
-    <programme start="20250914224500 +0000" stop="20250914230000 +0000" channel="VTV1 HD.mytv">
-        <title> Bản tin</title>
-    </programme>
-    <programme start="20250914230000 +0000" stop="20250914231500 +0000" channel="VTV1 HD.mytv">
-        <title> Việt Nam nguồn cội</title>
-    </programme>
-    <programme start="20250914231500 +0000" stop="20250914234500 +0000" channel="VTV1 HD.mytv">
-        <title> Khám phá Việt Nam - Ngôi nhà xanh giữa núi rừng</title>
+    <programme start="20250915233000 +0000" stop="20250915234500 +0000" channel="VTV1 HD.mytv">
+        <title> Ký sự</title>
     </programme>
     <channel>VTV1 HD</channel>
