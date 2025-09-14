@@ -2566,13 +2566,13 @@
 <programme start="20250914120000 +0000" stop="20250914122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250914122000 +0000" stop="20250914144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250914122000 +0000" stop="20250914151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - WSG Tirol, 6. Runde</title>
 </programme>
 <programme start="20250914120000 +0000" stop="20250914122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250914122000 +0000" stop="20250914144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250914122000 +0000" stop="20250914151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - TSV Egger Glas Hartberg, 6. Runde</title>
 </programme>
 <programme start="20250914123000 +0000" stop="20250914125000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2581,7 +2581,7 @@
 <programme start="20250914125000 +0000" stop="20250914150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Burnley - FC Liverpool, 4. Spieltag</title>
 </programme>
-<programme start="20250914150000 +0000" stop="20250914173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250914150000 +0000" stop="20250914180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: Manchester City - Manchester United, Match of the Week, 4. Spieltag</title>
 </programme>
 <programme start="20250913224500 +0000" stop="20250913234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2594,7 +2594,7 @@
     <title>3. Liga: Alle Spiele, alle Tore, 5. Spieltag Samstag</title>
 </programme>
 <programme start="20250914023000 +0000" stop="20250914024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: B04 - SGE, 3. Spieltag</title>
+    <title>BL: Highlights XXL: FCH - BVB, 3. Spieltag</title>
 </programme>
 <programme start="20250914024500 +0000" stop="20250914044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Hannover 96 - Hertha BSC, tipico Topspiel der Woche, 5. Spieltag</title>
@@ -2701,7 +2701,7 @@
 <programme start="20250914160000 +0000" stop="20250914173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20250914173000 +0000" stop="20250914181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250914173000 +0000" stop="20250914184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: BMG - SVW, 3. Spieltag</title>
 </programme>
 <programme start="20250914104000 +0000" stop="20250914110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2716,19 +2716,19 @@
 <programme start="20250914153000 +0000" stop="20250914173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC St. Pauli - FC Augsburg, 3. Spieltag</title>
 </programme>
-<programme start="20250914173000 +0000" stop="20250914193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250914173000 +0000" stop="20250914200000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia M&#039;gladbach - Werder Bremen, 3. Spieltag</title>
 </programme>
 <programme start="20250914104000 +0000" stop="20250914110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250914110000 +0000" stop="20250914133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250914110000 +0000" stop="20250914140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - 1. FC Kaiserslautern, 5. Spieltag</title>
 </programme>
 <programme start="20250914104000 +0000" stop="20250914110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20250914110000 +0000" stop="20250914133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250914110000 +0000" stop="20250914140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Dynamo Dresden, 5. Spieltag</title>
 </programme>
 <programme start="20250913220000 +0000" stop="20250914000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2797,23 +2797,20 @@
 <programme start="20250914010000 +0000" stop="20250914040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW PGA Championship, 3. Tag in Surrey (England)</title>
 </programme>
-<programme start="20250914040000 +0000" stop="20250914043000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Tour Champions: Learning Center (19)</title>
-</programme>
-<programme start="20250914043000 +0000" stop="20250914070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250914040000 +0000" stop="20250914063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Procore Championship, 3. Tag in Napa, CA (USA)</title>
 </programme>
-<programme start="20250914070000 +0000" stop="20250914073000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: Countdown to the Ryder Cup (4) - Miracles Can Happen</title>
-</programme>
-<programme start="20250914073000 +0000" stop="20250914080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Rosa Challenge Tour</title>
-</programme>
-<programme start="20250914080000 +0000" stop="20250914110000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250914063000 +0000" stop="20250914100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: BMW PGA Championship, 4. Tag (Early Coverage)</title>
 </programme>
-<programme start="20250914110000 +0000" stop="20250914163000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250914100000 +0000" stop="20250914153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: BMW PGA Championship, 4. Tag in Surrey (England)</title>
+</programme>
+<programme start="20250914153000 +0000" stop="20250914160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Ryder Cup: Countdown to the Ryder Cup (4) - Miracles Can Happen</title>
+</programme>
+<programme start="20250914160000 +0000" stop="20250914163000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Rosa Challenge Tour</title>
 </programme>
 <programme start="20250914163000 +0000" stop="20250914171500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
@@ -2827,10 +2824,13 @@
 <programme start="20250914190000 +0000" stop="20250914220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: BMW PGA Championship, 4. Tag in Surrey (England)</title>
 </programme>
-<programme start="20250913224500 +0000" stop="20250914001500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250913220000 +0000" stop="20250913230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP San Marino</title>
+</programme>
+<programme start="20250913230000 +0000" stop="20250914003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>GT4: 1. Rennen - Red Bull Ring</title>
 </programme>
-<programme start="20250914001500 +0000" stop="20250914021500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20250914003000 +0000" stop="20250914021500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Kompakt, 1. Runde</title>
 </programme>
 <programme start="20250914021500 +0000" stop="20250914030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3043,20 +3043,20 @@
 <programme start="20250913223000 +0000" stop="20250913230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250913230000 +0000" stop="20250914010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+<programme start="20250913230000 +0000" stop="20250914001500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
-<programme start="20250914010000 +0000" stop="20250914030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+<programme start="20250914001500 +0000" stop="20250914030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914030000 +0000" stop="20250914040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
 <programme start="20250914040000 +0000" stop="20250914060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914060000 +0000" stop="20250914080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914080000 +0000" stop="20250914083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
@@ -3065,19 +3065,19 @@
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
 <programme start="20250914110000 +0000" stop="20250914130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914130000 +0000" stop="20250914150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914150000 +0000" stop="20250914160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Toronto</title>
 </programme>
 <programme start="20250914160000 +0000" stop="20250914180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914180000 +0000" stop="20250914203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 250: Finale, SP Open in Sao Paulo (BRA), Finale</title>
+    <title>Live WTA 250: T. Rakotomanga Rajaonah (FRA) - J. Tjen (IDN), SP Open in Sao Paulo (BRA), Finale</title>
 </programme>
 <programme start="20250914203000 +0000" stop="20250914210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3086,16 +3086,16 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250914213000 +0000" stop="20250914233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+    <title>WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250913220000 +0000" stop="20250913230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Procore Championship, 3. Tag in Napa, CA (USA)</title>
 </programme>
-<programme start="20250913230000 +0000" stop="20250914010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: HF1, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+<programme start="20250913230000 +0000" stop="20250914001500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
-<programme start="20250914010000 +0000" stop="20250914030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: HF2, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
+<programme start="20250914001500 +0000" stop="20250914030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
 <programme start="20250914030000 +0000" stop="20250914040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Qualifying - GP San Marino</title>
@@ -3131,7 +3131,7 @@
     <title>Live PL: Match of the Week: Die Analyse, MCI - MUN, 4. Spieltag</title>
 </programme>
 <programme start="20250914180000 +0000" stop="20250914203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 250: Finale, SP Open in Sao Paulo (BRA), Finale</title>
+    <title>Live WTA 250: T. Rakotomanga Rajaonah (FRA) - J. Tjen (IDN), SP Open in Sao Paulo (BRA), Finale</title>
 </programme>
 <programme start="20250914203000 +0000" stop="20250914213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP San Marino</title>
