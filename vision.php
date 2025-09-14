@@ -472,9 +472,6 @@
 <programme start="20250914080000 +0000" stop="20250914091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20250914091500 +0000" stop="20250914100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
 <programme start="20250914100000 +0000" stop="20250914103000 +0000" channel="Trans TV.vision">
 <title>Termangu-Mangu</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250915050000 +0000" stop="20250915060000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915060000 +0000" stop="20250915064500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

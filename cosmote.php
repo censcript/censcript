@@ -1,11 +1,3 @@
-<programme start="20250914143000 +0700" stop="20250914163000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Pafos FC - FK Crvena Zvezda</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914163000 +0700" stop="20250914170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250914170000 +0700" stop="20250914173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E2</title>
     <desc>Live: Tidak</desc>
@@ -134,12 +126,8 @@
     <title>Football: Sassuolo - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250914160000 +0700" stop="20250914163000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914163000 +0700" stop="20250914170000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
+<programme start="20250915171000 +0700" stop="20250915192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250914170000 +0700" stop="20250914173000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,8 +198,12 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250914140000 +0700" stop="20250914160500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Olympiacos BC - AS Monaco</title>
+<programme start="20250915171000 +0700" stop="20250915174000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Temples of Sport</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250915174000 +0700" stop="20250915180000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250914160500 +0700" stop="20250914181000 +0700" channel="COSMOTE Sport 4 HD">
@@ -281,10 +273,6 @@
 <programme start="20250915161000 +0700" stop="20250915181000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Olympiacos BC - Paris Basketball</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914154500 +0700" stop="20250914170000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250914170000 +0700" stop="20250914183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
@@ -374,6 +362,10 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250915174000 +0700" stop="20250915191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250914153000 +0700" stop="20250914191500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Boxing: Naoya Inoue - Murodjon Akhmadaliev (L)</title>
     <desc>Live: Ya</desc>
@@ -440,6 +432,10 @@
 </programme>
 <programme start="20250915163000 +0700" stop="20250915170000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250915170000 +0700" stop="20250915180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Jet Ski World Series 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250914160000 +0700" stop="20250914180000 +0700" channel="COSMOTE Sport 7 HD">
