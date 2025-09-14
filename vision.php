@@ -565,9 +565,6 @@
 <programme start="20250914154500 +0000" stop="20250914163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250914174500 +0000" stop="20250914184500 +0000" channel="Trans 7.vision">
-<title>Moto3 2025: San Marino</title>
-</programme>
 <programme start="20250914184500 +0000" stop="20250914193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -651,9 +648,6 @@
 </programme>
 <programme start="20250914123000 +0000" stop="20250914143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20250914163000 +0000" stop="20250914183000 +0000" channel="ANTV.vision">
-<title>Teenage Mutant Ninja Turtles 3</title>
 </programme>
 <programme start="20250914183000 +0000" stop="20250914203000 +0000" channel="ANTV.vision">
 <title>Sword Man</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250914010000 +0000" stop="20250914013000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250914013000 +0000" stop="20250914020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250914020000 +0000" stop="20250914020300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
