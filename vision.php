@@ -835,12 +835,6 @@
 <programme start="20250914023000 +0000" stop="20250914030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
-<programme start="20250914030000 +0000" stop="20250914033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20250914033000 +0000" stop="20250914040000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
-</programme>
 <programme start="20250914040000 +0000" stop="20250914053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>BTV</title>
 </programme>
 <programme start="20250915030000 +0000" stop="20250915040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915040000 +0000" stop="20250915050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915050000 +0000" stop="20250915060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
