@@ -535,9 +535,6 @@
 <programme start="20250914000000 +0000" stop="20250914010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250914010000 +0000" stop="20250914013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250914013000 +0000" stop="20250914023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -826,9 +823,6 @@
 <programme start="20250915110000 +0000" stop="20250915122900 +0000" channel="RTV.vision">
 <title>Mechamato</title>
 </programme>
-<programme start="20250913233000 +0000" stop="20250914010000 +0000" channel="TVOne.vision">
-<title>Kabar Indonesia Pagi (L)</title>
-</programme>
 <programme start="20250914010000 +0000" stop="20250914013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
@@ -840,12 +834,6 @@
 </programme>
 <programme start="20250914023000 +0000" stop="20250914030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20250914030000 +0000" stop="20250914033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20250914033000 +0000" stop="20250914040000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
 </programme>
 <programme start="20250914040000 +0000" stop="20250914053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1496,5 +1484,17 @@
 <title>BTV</title>
 </programme>
 <programme start="20250915011500 +0000" stop="20250915021500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915021500 +0000" stop="20250915030000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915030000 +0000" stop="20250915040000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915040000 +0000" stop="20250915050000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250915050000 +0000" stop="20250915060000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

@@ -4118,7 +4118,7 @@
         <title>BMW PGA Championship Day 3</title>
     </programme>
     <programme start="20250913163000 +0000" stop="20250913170000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>PGA Tour: The Cut 2025</title>
+        <title>Episode 36</title>
     </programme>
     <programme start="20250913170000 +0000" stop="20250913200000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Kroger Queen City Championship presented by P&amp;G Round 3</title>

@@ -1,7 +1,3 @@
-<programme start="20250914140000 +0700" stop="20250914143000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>2025 Ballon d&#039; Or</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250914143000 +0700" stop="20250914163000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Pafos FC - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
@@ -134,6 +130,10 @@
     <title>Football: Pisa - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250915151000 +0700" stop="20250915171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250914140000 +0700" stop="20250914160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Charlton Athletic  - Millwall</title>
     <desc>Live: Tidak</desc>
@@ -210,6 +210,10 @@
     <title>American Football: New York Jets - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250915153000 +0700" stop="20250915171000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250914140000 +0700" stop="20250914160500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Olympiacos BC - AS Monaco</title>
     <desc>Live: Tidak</desc>
@@ -277,10 +281,6 @@
 <programme start="20250915141500 +0700" stop="20250915161000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250914133500 +0700" stop="20250914143500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250914143500 +0700" stop="20250914150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025 (L)</title>
@@ -374,6 +374,14 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250915150000 +0700" stop="20250915155000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250915155000 +0700" stop="20250915165000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250914140000 +0700" stop="20250914153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +440,10 @@
 </programme>
 <programme start="20250915140000 +0700" stop="20250915154000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250915154000 +0700" stop="20250915160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250914140000 +0700" stop="20250914160000 +0700" channel="COSMOTE Sport 7 HD">
