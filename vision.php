@@ -472,11 +472,17 @@
 <programme start="20250914080000 +0000" stop="20250914091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
+<programme start="20250914100000 +0000" stop="20250914103000 +0000" channel="Trans TV.vision">
+<title>Termangu-Mangu</title>
+</programme>
 <programme start="20250914103000 +0000" stop="20250914114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
 <programme start="20250914114500 +0000" stop="20250914130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
+</programme>
+<programme start="20250914130000 +0000" stop="20250914140000 +0000" channel="Trans TV.vision">
+<title>Highlight</title>
 </programme>
 <programme start="20250914140000 +0000" stop="20250914160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
@@ -556,6 +562,9 @@
 <programme start="20250914090000 +0000" stop="20250914100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20250914100000 +0000" stop="20250914130000 +0000" channel="Trans 7.vision">
+<title>MotoGP 2025: San Marino (L)</title>
+</programme>
 <programme start="20250914130000 +0000" stop="20250914143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -564,6 +573,12 @@
 </programme>
 <programme start="20250914154500 +0000" stop="20250914163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
+</programme>
+<programme start="20250914163000 +0000" stop="20250914174500 +0000" channel="Trans 7.vision">
+<title>Surga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20250914174500 +0000" stop="20250914184500 +0000" channel="Trans 7.vision">
+<title>Moto3 2025: San Marino</title>
 </programme>
 <programme start="20250914184500 +0000" stop="20250914193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -646,8 +661,17 @@
 <programme start="20250914100000 +0000" stop="20250914110000 +0000" channel="ANTV.vision">
 <title>Parineetii</title>
 </programme>
+<programme start="20250914110000 +0000" stop="20250914123000 +0000" channel="ANTV.vision">
+<title>Titisan Dewi Ular</title>
+</programme>
 <programme start="20250914123000 +0000" stop="20250914143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20250914143000 +0000" stop="20250914163000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu Lawan...</title>
+</programme>
+<programme start="20250914163000 +0000" stop="20250914183000 +0000" channel="ANTV.vision">
+<title>Teenage Mutant Ninja Turtles 3</title>
 </programme>
 <programme start="20250914183000 +0000" stop="20250914203000 +0000" channel="ANTV.vision">
 <title>Sword Man</title>
@@ -837,6 +861,12 @@
 </programme>
 <programme start="20250914140000 +0000" stop="20250914150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20250914150000 +0000" stop="20250914153000 +0000" channel="TVOne.vision">
+<title>Distrik</title>
+</programme>
+<programme start="20250914153000 +0000" stop="20250914163000 +0000" channel="TVOne.vision">
+<title>Benang Merah</title>
 </programme>
 <programme start="20250914163000 +0000" stop="20250914170000 +0000" channel="TVOne.vision">
 <title>Kabar Utama</title>
@@ -1467,34 +1497,4 @@
 </programme>
 <programme start="20250915060000 +0000" stop="20250915064500 +0000" channel="BTV.vision">
 <title>BTV</title>
-</programme>
-<programme start="20250915064500 +0000" stop="20250915073000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250915073000 +0000" stop="20250915081500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250915081500 +0000" stop="20250915090000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250915090000 +0000" stop="20250915100000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250915100000 +0000" stop="20250915110000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250915110000 +0000" stop="20250915120000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250914000000 +0000" stop="20250914010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250914010000 +0000" stop="20250914013000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250914013000 +0000" stop="20250914020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250914020000 +0000" stop="20250914020300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
