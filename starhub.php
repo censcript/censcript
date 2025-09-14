@@ -4141,11 +4141,14 @@
     <programme start="20250914053000 +0000" stop="20250914080000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Kroger Queen City Championship presented by P&amp;G Round 3</title>
     </programme>
-    <programme start="20250914080000 +0000" stop="20250914110000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250914080000 +0000" stop="20250914100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Procore Championship Round 3</title>
     </programme>
-    <programme start="20250914110000 +0000" stop="20250914163000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20250914100000 +0000" stop="20250914153000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>BMW PGA Championship Day 4</title>
+    </programme>
+    <programme start="20250914153000 +0000" stop="20250914163000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Rosa Challenge Tour</title>
     </programme>
     <programme start="20250913160000 +0000" stop="20250913161500 +0000" channel="France24.starhub">
         <title>News</title>
