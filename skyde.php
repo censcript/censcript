@@ -3094,10 +3094,10 @@
 <programme start="20250913230000 +0000" stop="20250914001500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: E. Jacquemot (FRA) - E. Arango (COL), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
-<programme start="20250914001500 +0000" stop="20250914033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250914001500 +0000" stop="20250914030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: N. Bartunkova (CZE) - Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Halbfinale</title>
 </programme>
-<programme start="20250914033000 +0000" stop="20250914040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250914030000 +0000" stop="20250914040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Qualifying - GP San Marino</title>
 </programme>
 <programme start="20250914040000 +0000" stop="20250914050000 +0000" channel="Sky Sport Top Event HD.skyde">
