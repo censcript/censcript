@@ -2941,6 +2941,72 @@
 <programme start="20250915214500 +0000" stop="20250915231500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>GTM: 1. Rennen - Red Bull Ring</title>
 </programme>
+<programme start="20250914220000 +0000" stop="20250914233000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20250914233000 +0000" stop="20250915000000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250915000000 +0000" stop="20250915010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL Kompakt: 3. Spieltag</title>
+</programme>
+<programme start="20250915010000 +0000" stop="20250915040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250915040000 +0000" stop="20250915060000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250915060000 +0000" stop="20250915070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL Kompakt: 3. Spieltag</title>
+</programme>
+<programme start="20250915070000 +0000" stop="20250915083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20250915083000 +0000" stop="20250915090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250915090000 +0000" stop="20250915100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL Kompakt: 5. Spieltag</title>
+</programme>
+<programme start="20250915100000 +0000" stop="20250915130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20250915130000 +0000" stop="20250915150000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250915150000 +0000" stop="20250915151500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250915151500 +0000" stop="20250915153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Leichtathletik-WM 2025 - Die Analyse</title>
+</programme>
+<programme start="20250915153000 +0000" stop="20250915160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250915160000 +0000" stop="20250915163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>PL: Darum bin ich hier - Nick Woltemade Exklusiv</title>
+</programme>
+<programme start="20250915163000 +0000" stop="20250915170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250915170000 +0000" stop="20250915180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20250915180000 +0000" stop="20250915183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250915183000 +0000" stop="20250915200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
+</programme>
+<programme start="20250915200000 +0000" stop="20250915203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
+</programme>
+<programme start="20250915203000 +0000" stop="20250915210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>PL: Darum bin ich hier - Nick Woltemade Exklusiv</title>
+</programme>
+<programme start="20250915210000 +0000" stop="20250915220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Late Night News</title>
+</programme>
 <programme start="20250914221500 +0000" stop="20250914224500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MCI - MUN, 4. Spieltag</title>
 </programme>
@@ -3070,16 +3136,19 @@
 <programme start="20250915210000 +0000" stop="20250915220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 4. Spieltag</title>
 </programme>
-<programme start="20250914233000 +0000" stop="20250915020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Finale</title>
+<programme start="20250914232000 +0000" stop="20250915013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 250: T. Rakotomanga Rajaonah (FRA) - J. Tjen (IDN), SP Open in Sao Paulo (BRA), Finale</title>
+</programme>
+<programme start="20250915013000 +0000" stop="20250915020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250915020000 +0000" stop="20250915023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+    <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250915023000 +0000" stop="20250915030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250915030000 +0000" stop="20250915110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250915050000 +0000" stop="20250915110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Korea Open 2025 Presented by Motiva in Seoul (KOR), 1. Tag</title>
 </programme>
 <programme start="20250915110000 +0000" stop="20250915120000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3092,7 +3161,7 @@
     <title>WTA 500: Topspiel, Korea Open 2025 Presented by Motiva in Seoul (KOR), 1. Tag</title>
 </programme>
 <programme start="20250915163000 +0000" stop="20250915190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Finale</title>
+    <title>WTA 500: E. Arango (COL) - I. Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Finale</title>
 </programme>
 <programme start="20250915190000 +0000" stop="20250915193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Cincinnati</title>
@@ -3107,7 +3176,7 @@
     <title>Live Golf: Procore Championship, 4. Tag in Napa, CA (USA)</title>
 </programme>
 <programme start="20250914233000 +0000" stop="20250915020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Finale</title>
+    <title>Live WTA 500: E. Arango (COL) - I. Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Finale</title>
 </programme>
 <programme start="20250915020000 +0000" stop="20250915023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
