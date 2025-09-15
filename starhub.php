@@ -5233,19 +5233,13 @@
     <programme start="20250914154500 +0000" stop="20250914174500 +0000" channel="SPOTV.starhub">
         <title>ROSHN Saudi League 25/26 Match Week 2 Al Ittihad vs Al Fateh</title>
     </programme>
-    <programme start="20250914174500 +0000" stop="20250914200000 +0000" channel="SPOTV.starhub">
-        <title>ROSHN Saudi League 25/26 Match Week 2 Al Nassr vs Al Kholood</title>
-    </programme>
     <programme start="20250914200000 +0000" stop="20250914203000 +0000" channel="SPOTV.starhub">
         <title>Ep5 Monaco</title>
     </programme>
-    <programme start="20250914203000 +0000" stop="20250915000000 +0000" channel="SPOTV.starhub">
-        <title>Day 2 Session 2</title>
+    <programme start="20250914231000 +0000" stop="20250915002000 +0000" channel="SPOTV.starhub">
+        <title>Highlights</title>
     </programme>
-    <programme start="20250915000000 +0000" stop="20250915010000 +0000" channel="SPOTV.starhub">
-        <title>Qualifying</title>
-    </programme>
-    <programme start="20250915010000 +0000" stop="20250915020000 +0000" channel="SPOTV.starhub">
+    <programme start="20250915002000 +0000" stop="20250915020000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
     <programme start="20250915020000 +0000" stop="20250915033000 +0000" channel="SPOTV.starhub">
@@ -5267,7 +5261,7 @@
         <title>Day 6 Session 2</title>
     </programme>
     <programme start="20250915113000 +0000" stop="20250915133000 +0000" channel="SPOTV.starhub">
-        <title>ROSHN Saudi League 25/26 Match Week 2 Al Nassr vs Al Kholood</title>
+        <title>Al Nassr vs Al Kholood</title>
     </programme>
     <programme start="20250915133000 +0000" stop="20250915180000 +0000" channel="SPOTV.starhub">
         <title>Day 3 Session 1</title>

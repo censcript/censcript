@@ -2353,6 +2353,147 @@
 <programme start="20250915215500 +0000" stop="20250915224000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20250914222500 +0000" stop="20250914231500 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250914231500 +0000" stop="20250915000500 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915000500 +0000" stop="20250915010000 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915010000 +0000" stop="20250915013500 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915013500 +0000" stop="20250915021500 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915021500 +0000" stop="20250915025000 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915025000 +0000" stop="20250915032000 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915032000 +0000" stop="20250915040000 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915040000 +0000" stop="20250915044000 +0000" channel="Sky Replay HD.skyde">
+    <title>Unser Hof - Mit Cheyenne und Nino</title>
+</programme>
+<programme start="20250915044000 +0000" stop="20250915051000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915051000 +0000" stop="20250915053500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915053500 +0000" stop="20250915060000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915060000 +0000" stop="20250915062500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915062500 +0000" stop="20250915065000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915065000 +0000" stop="20250915071500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915071500 +0000" stop="20250915074000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915074000 +0000" stop="20250915080500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915080500 +0000" stop="20250915082500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915082500 +0000" stop="20250915085000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915085000 +0000" stop="20250915092000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915092000 +0000" stop="20250915095000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915095000 +0000" stop="20250915101500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915101500 +0000" stop="20250915104000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915104000 +0000" stop="20250915110500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915110500 +0000" stop="20250915113500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915113500 +0000" stop="20250915120500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915120500 +0000" stop="20250915123000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915123000 +0000" stop="20250915125500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915125500 +0000" stop="20250915132500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915132500 +0000" stop="20250915135000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915135000 +0000" stop="20250915142000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915142000 +0000" stop="20250915145000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915145000 +0000" stop="20250915152000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915152000 +0000" stop="20250915154500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915154500 +0000" stop="20250915161000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915161000 +0000" stop="20250915164000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915164000 +0000" stop="20250915171000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915171000 +0000" stop="20250915174000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915174000 +0000" stop="20250915181500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915181500 +0000" stop="20250915184500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915184500 +0000" stop="20250915191500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915191500 +0000" stop="20250915194500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915194500 +0000" stop="20250915201500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915201500 +0000" stop="20250915205000 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915205000 +0000" stop="20250915211500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915211500 +0000" stop="20250915214500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
+<programme start="20250915214500 +0000" stop="20250915221500 +0000" channel="Sky Replay HD.skyde">
+    <title>Sex and the City</title>
+</programme>
 <programme start="20250914222000 +0000" stop="20250914230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Unser Hof - Mit Cheyenne und Nino</title>
 </programme>
@@ -2799,72 +2940,6 @@
 </programme>
 <programme start="20250915214500 +0000" stop="20250915231500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>GTM: 1. Rennen - Red Bull Ring</title>
-</programme>
-<programme start="20250914220000 +0000" stop="20250914233000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20250914233000 +0000" stop="20250915000000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20250915000000 +0000" stop="20250915010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL Kompakt: 3. Spieltag</title>
-</programme>
-<programme start="20250915010000 +0000" stop="20250915040000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20250915040000 +0000" stop="20250915060000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20250915060000 +0000" stop="20250915070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL Kompakt: 3. Spieltag</title>
-</programme>
-<programme start="20250915070000 +0000" stop="20250915083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20250915083000 +0000" stop="20250915090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20250915090000 +0000" stop="20250915100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL Kompakt: 5. Spieltag</title>
-</programme>
-<programme start="20250915100000 +0000" stop="20250915130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20250915130000 +0000" stop="20250915150000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20250915150000 +0000" stop="20250915151500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20250915151500 +0000" stop="20250915153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Leichtathletik-WM 2025 - Die Analyse</title>
-</programme>
-<programme start="20250915153000 +0000" stop="20250915160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20250915160000 +0000" stop="20250915163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: Darum bin ich hier - Nick Woltemade Exklusiv</title>
-</programme>
-<programme start="20250915163000 +0000" stop="20250915170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20250915170000 +0000" stop="20250915180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20250915180000 +0000" stop="20250915183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20250915183000 +0000" stop="20250915200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
-</programme>
-<programme start="20250915200000 +0000" stop="20250915203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20250915203000 +0000" stop="20250915210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: Darum bin ich hier - Nick Woltemade Exklusiv</title>
-</programme>
-<programme start="20250915210000 +0000" stop="20250915220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20250914221500 +0000" stop="20250914224500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MCI - MUN, 4. Spieltag</title>
