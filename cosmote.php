@@ -1,7 +1,3 @@
-<programme start="20250915163000 +0700" stop="20250915183000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Qarabag FK - Ferencvarosi TC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250915183000 +0700" stop="20250915205500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: Panetolikos - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250916192000 +0700" stop="20250916212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - SSC Napoli</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250915180000 +0700" stop="20250915200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Gil Vicente</title>
     <desc>Live: Tidak</desc>
@@ -170,8 +170,8 @@
     <title>Football: Famalicao - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915162500 +0700" stop="20250915184500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Olympiacos BC - Paris Basketball</title>
+<programme start="20250916194500 +0700" stop="20250916214500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Hibernian - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915184500 +0700" stop="20250915204500 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,6 +236,10 @@
 </programme>
 <programme start="20250916175500 +0700" stop="20250916195500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250916195500 +0700" stop="20250916215500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915174000 +0700" stop="20250915191000 +0700" channel="COSMOTE Sport 5 HD">
