@@ -246,10 +246,6 @@
     <title>Football: Tottenham Hotspur - Villarreal CF (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250916010000 +0700" stop="20250916023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250916023000 +0700" stop="20250916033000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
