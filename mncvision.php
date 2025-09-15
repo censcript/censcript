@@ -1615,10 +1615,7 @@
 <programme start="20250915060000 +0000" stop="20250915063000 +0000" channel="BTV.mncvision">
     <title>Investor Daily Talk</title>
 </programme>
-<programme start="20250915063000 +0000" stop="20250915070000 +0000" channel="BTV.mncvision">
-    <title>Berita Viral</title>
-</programme>
-<programme start="20250915070000 +0000" stop="20250915080000 +0000" channel="BTV.mncvision">
+<programme start="20250915063000 +0000" stop="20250915080000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>
 </programme>
 <programme start="20250915080000 +0000" stop="20250915083000 +0000" channel="BTV.mncvision">
@@ -2309,7 +2306,7 @@
     <title>Slumfood Millionaire, Ep 2</title>
 </programme>
 <programme start="20250914193000 +0000" stop="20250914200000 +0000" channel="Channel News Asia.mncvision">
-    <title>On The Red Dot , Ep 17</title>
+    <title>On The Red Dot, Ep 17</title>
 </programme>
 <programme start="20250914200000 +0000" stop="20250914203000 +0000" channel="Channel News Asia.mncvision">
     <title>Asia Tonight</title>
@@ -2357,7 +2354,7 @@
     <title>Money Mind, Ep 20</title>
 </programme>
 <programme start="20250915113000 +0000" stop="20250915120000 +0000" channel="Channel News Asia.mncvision">
-    <title>On The Red Dot , Ep 17</title>
+    <title>On The Red Dot, Ep 18</title>
 </programme>
 <programme start="20250915120000 +0000" stop="20250915130000 +0000" channel="Channel News Asia.mncvision">
     <title>Asia Tonight</title>
@@ -7487,7 +7484,7 @@
     <title>Pay Later</title>
 </programme>
 <programme start="20250915090000 +0000" stop="20250915094500 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun X</title>
+    <title>Preman Pensiun S9</title>
 </programme>
 <programme start="20250915094500 +0000" stop="20250915110000 +0000" channel="RCTI.mncvision">
     <title>Benci Jadi Bucin</title>
@@ -7538,7 +7535,7 @@
     <title>Pay Later</title>
 </programme>
 <programme start="20250915090000 +0000" stop="20250915094500 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun X</title>
+    <title>Preman Pensiun S9</title>
 </programme>
 <programme start="20250915094500 +0000" stop="20250915110000 +0000" channel="RCTI HD.mncvision">
     <title>Benci Jadi Bucin</title>
@@ -8060,7 +8057,7 @@
     <title>Bloopers</title>
 </programme>
 <programme start="20250915003000 +0000" stop="20250915023000 +0000" channel="Sportstars.mncvision">
-    <title>Yeosu NH Nonghyup Cup</title>
+    <title>FIBA</title>
 </programme>
 <programme start="20250915023000 +0000" stop="20250915050000 +0000" channel="Sportstars.mncvision">
     <title>US Open 2025</title>
@@ -8345,7 +8342,7 @@
     <title>Bloopers</title>
 </programme>
 <programme start="20250915003000 +0000" stop="20250915023000 +0000" channel="Sportstars HD.mncvision">
-    <title>Yeosu NH Nonghyup Cup</title>
+    <title>FIBA</title>
 </programme>
 <programme start="20250915023000 +0000" stop="20250915050000 +0000" channel="Sportstars HD.mncvision">
     <title>US Open 2025</title>

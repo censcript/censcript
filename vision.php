@@ -652,9 +652,6 @@
 <programme start="20250916114500 +0000" stop="20250916121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250915013000 +0000" stop="20250915050000 +0000" channel="ANTV.vision">
-<title>Simmba</title>
-</programme>
 <programme start="20250915050000 +0000" stop="20250915060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250916110000 +0000" stop="20250916120000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20250915000000 +0000" stop="20250915010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
