@@ -114,6 +114,10 @@
     <title>Football: Kifisia - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250916131000 +0700" stop="20250916151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250915120000 +0700" stop="20250915153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New York Jets - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
@@ -168,10 +172,6 @@
 </programme>
 <programme start="20250916120000 +0700" stop="20250916153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Minnesota Vikings - Atlanta Falcons</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250915100000 +0700" stop="20250915121500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915121500 +0700" stop="20250915141500 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,8 +230,8 @@
     <title>Basketball: Reyer Venezia - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915113500 +0700" stop="20250915120500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250916135000 +0700" stop="20250916154000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Bertram Derthona Tortona - Peristeri</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915120500 +0700" stop="20250915130500 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,12 +318,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915100000 +0700" stop="20250915123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Greece - Brazil</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250915123000 +0700" stop="20250915130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250916130000 +0700" stop="20250916143000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915130000 +0700" stop="20250915140000 +0700" channel="COSMOTE Sport 6 HD">

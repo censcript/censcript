@@ -8075,7 +8075,7 @@
     <title>Best Of Badminton</title>
 </programme>
 <programme start="20250915100000 +0000" stop="20250915120000 +0000" channel="Sportstars.mncvision">
-    <title>Yeosu NH Nonghyup Cup (L)</title>
+    <title>Proliga</title>
 </programme>
 <programme start="20250915120000 +0000" stop="20250915140000 +0000" channel="Sportstars.mncvision">
     <title>Yeosu NH Nonghyup Cup</title>
@@ -8360,7 +8360,7 @@
     <title>Best Of Badminton</title>
 </programme>
 <programme start="20250915100000 +0000" stop="20250915120000 +0000" channel="Sportstars HD.mncvision">
-    <title>Yeosu NH Nonghyup Cup (L)</title>
+    <title>Proliga</title>
 </programme>
 <programme start="20250915120000 +0000" stop="20250915140000 +0000" channel="Sportstars HD.mncvision">
     <title>Yeosu NH Nonghyup Cup</title>
