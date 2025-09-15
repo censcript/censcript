@@ -1,7 +1,3 @@
-<programme start="20250915183000 +0700" stop="20250915205500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250915205500 +0700" stop="20250915225500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -60,6 +56,10 @@
 </programme>
 <programme start="20250916205000 +0700" stop="20250916215000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2024-25 E22</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250916215000 +0700" stop="20250916222500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915192000 +0700" stop="20250915212000 +0700" channel="COSMOTE Sport 2 HD">
@@ -122,6 +122,10 @@
     <title>Football: ACF Fiorentina - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250916212000 +0700" stop="20250916232000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250915200000 +0700" stop="20250915230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Kansas City Chiefs - Philadelphia Eagles</title>
     <desc>Live: Tidak</desc>
@@ -174,8 +178,8 @@
     <title>Football: Hibernian - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915184500 +0700" stop="20250915204500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AS Monaco - Crvena Zvezda</title>
+<programme start="20250916214500 +0700" stop="20250916234500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Ipswich Town - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915204500 +0700" stop="20250915211500 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,8 +246,8 @@
     <title>Basketball: Brescia - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915191000 +0700" stop="20250915204000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20250916215500 +0700" stop="20250917000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Peristeri - Bertram Derthona Tortona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915204000 +0700" stop="20250915220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -328,10 +332,6 @@
 </programme>
 <programme start="20250916202500 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250915180000 +0700" stop="20250915203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Greece - Brazil</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915203000 +0700" stop="20250915230000 +0700" channel="COSMOTE Sport 6 HD">

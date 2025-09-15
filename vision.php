@@ -661,6 +661,9 @@
 <programme start="20250915083000 +0000" stop="20250915110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
 </programme>
+<programme start="20250915110000 +0000" stop="20250915123000 +0000" channel="ANTV.vision">
+<title>Ratu Sakti Calon Arang</title>
+</programme>
 <programme start="20250915123000 +0000" stop="20250915143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250915013000 +0000" stop="20250915020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250915020000 +0000" stop="20250915020300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
