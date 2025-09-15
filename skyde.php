@@ -3172,19 +3172,16 @@
 <programme start="20250915213000 +0000" stop="20250915223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>US Open: Tournament Review Show 2025</title>
 </programme>
-<programme start="20250914220000 +0000" stop="20250914233000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250914220000 +0000" stop="20250915010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Procore Championship, 4. Tag in Napa, CA (USA)</title>
 </programme>
-<programme start="20250914233000 +0000" stop="20250915020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: E. Arango (COL) - I. Jovic (USA), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), Finale</title>
-</programme>
-<programme start="20250915020000 +0000" stop="20250915023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA: Hologic WTA Tour Magazin 2025</title>
+<programme start="20250915010000 +0000" stop="20250915023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WRC: Rally Chile Bio Bío - SS16 Bio Bío 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20250915023000 +0000" stop="20250915030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20250915030000 +0000" stop="20250915110000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250915050000 +0000" stop="20250915110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: Korea Open 2025 Presented by Motiva in Seoul (KOR), 1. Tag</title>
 </programme>
 <programme start="20250915110000 +0000" stop="20250915123000 +0000" channel="Sky Sport Top Event HD.skyde">
