@@ -54,8 +54,12 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915171000 +0700" stop="20250915192000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: OFI - PAOK</title>
+<programme start="20250916203000 +0700" stop="20250916205000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250916205000 +0700" stop="20250916215000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915192000 +0700" stop="20250915212000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,10 +120,6 @@
 </programme>
 <programme start="20250916192000 +0700" stop="20250916212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - SSC Napoli</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250915180000 +0700" stop="20250915200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SC Braga - Gil Vicente</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915200000 +0700" stop="20250915230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +242,6 @@
     <title>Basketball: Brescia - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915174000 +0700" stop="20250915191000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250915191000 +0700" stop="20250915204000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,6 +326,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250916202500 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250915180000 +0700" stop="20250915203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Greece - Brazil</title>
     <desc>Live: Tidak</desc>
@@ -386,8 +386,8 @@
     <title>Tennis: Greece - Brazil</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915180000 +0700" stop="20250915200000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250916203000 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915200000 +0700" stop="20250915220000 +0700" channel="COSMOTE Sport 7 HD">
@@ -458,8 +458,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915180000 +0700" stop="20250915200000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250916200000 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915200000 +0700" stop="20250915220000 +0700" channel="COSMOTE Sport 8 HD">
@@ -510,8 +510,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915180000 +0700" stop="20250915200000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250916200000 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915200000 +0700" stop="20250915220000 +0700" channel="COSMOTE Sport 9 HD">
@@ -559,6 +559,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916180000 +0700" stop="20250916200000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250916200000 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
