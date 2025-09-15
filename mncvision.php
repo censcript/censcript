@@ -4444,8 +4444,72 @@
 <programme start="20250916163000 +0000" stop="20250915170000 +0000" channel="HITS.mncvision">
     <title>Gilligan&#039;s Island S2, Ep 23</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250915170000 +0000" stop="20250915190000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Daredevil</title>
+</programme>
+<programme start="20250915190000 +0000" stop="20250915210000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Kickboxer</title>
+</programme>
+<programme start="20250915210000 +0000" stop="20250915233000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Murder On The Orient Express</title>
+</programme>
+<programme start="20250915233000 +0000" stop="20250916020000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Hawaiians</title>
+</programme>
+<programme start="20250916020000 +0000" stop="20250916040000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Kickboxer</title>
+</programme>
+<programme start="20250916040000 +0000" stop="20250916063000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Murder On The Orient Express</title>
+</programme>
+<programme start="20250916063000 +0000" stop="20250916090000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Hawaiians</title>
+</programme>
+<programme start="20250916090000 +0000" stop="20250916120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Jackie Brown</title>
+</programme>
+<programme start="20250916120000 +0000" stop="20250916140000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Fargo</title>
+</programme>
+<programme start="20250916140000 +0000" stop="20250916160000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Little Man Tate</title>
+</programme>
+<programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="HITS MOVIES.mncvision">
+    <title>How To Train Your Dragon 2</title>
+</programme>
+<programme start="20250915170000 +0000" stop="20250915190000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Daredevil</title>
+</programme>
+<programme start="20250915190000 +0000" stop="20250915210000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Kickboxer</title>
+</programme>
+<programme start="20250915210000 +0000" stop="20250915233000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Murder On The Orient Express</title>
+</programme>
+<programme start="20250915233000 +0000" stop="20250916020000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Hawaiians</title>
+</programme>
+<programme start="20250916020000 +0000" stop="20250916040000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Kickboxer</title>
+</programme>
+<programme start="20250916040000 +0000" stop="20250916063000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Murder On The Orient Express</title>
+</programme>
+<programme start="20250916063000 +0000" stop="20250916090000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Hawaiians</title>
+</programme>
+<programme start="20250916090000 +0000" stop="20250916120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Jackie Brown</title>
+</programme>
+<programme start="20250916120000 +0000" stop="20250916140000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Fargo</title>
+</programme>
+<programme start="20250916140000 +0000" stop="20250916160000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Little Man Tate</title>
+</programme>
+<programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>How To Train Your Dragon 2</title>
+</programme>
 <programme start="20250915173000 +0000" stop="20250915183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -7560,7 +7624,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250916150500 +0000" stop="20250916153500 +0000" channel="Rock Action.mncvision">
     <title>Scream 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250915170500 +0000" stop="20250915175000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S12, Ep 158</title>
+</programme>
+<programme start="20250915175000 +0000" stop="20250915184000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S12, Ep 137</title>
+</programme>
+<programme start="20250915184000 +0000" stop="20250915192500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S4, Ep 1</title>
+</programme>
+<programme start="20250915192500 +0000" stop="20250915202000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S4, Ep 2</title>
+</programme>
+<programme start="20250915202000 +0000" stop="20250915211500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S4, Ep 3</title>
+</programme>
+<programme start="20250915211500 +0000" stop="20250915220000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S4, Ep 3</title>
+</programme>
+<programme start="20250915220000 +0000" stop="20250915224500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S12, Ep 137</title>
+</programme>
+<programme start="20250915224500 +0000" stop="20250915233500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S12, Ep 158</title>
+</programme>
+<programme start="20250915233500 +0000" stop="20250916000500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S2, Ep 6</title>
+</programme>
+<programme start="20250916000500 +0000" stop="20250916003500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S2, Ep 7</title>
+</programme>
+<programme start="20250916003500 +0000" stop="20250916010500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S2, Ep 8</title>
+</programme>
+<programme start="20250916010500 +0000" stop="20250916013500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S2, Ep 9</title>
+</programme>
+<programme start="20250916013500 +0000" stop="20250916023000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS: Tony &amp; Ziva, Ep 1</title>
+</programme>
+<programme start="20250916023000 +0000" stop="20250916040500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Pitch Perfect 3</title>
+</programme>
+<programme start="20250916040500 +0000" stop="20250916050500 +0000" channel="Rock Entertainment.mncvision">
+    <title>LFRC: Primetime Emmys Awards</title>
+</programme>
+<programme start="20250916050500 +0000" stop="20250916060500 +0000" channel="Rock Entertainment.mncvision">
+    <title>LFRC: Primetime Emmys Awards</title>
+</programme>
+<programme start="20250916060500 +0000" stop="20250916065000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S12, Ep 158</title>
+</programme>
+<programme start="20250916065000 +0000" stop="20250916073500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S12, Ep 137</title>
+</programme>
+<programme start="20250916073500 +0000" stop="20250916083500 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S2, Ep 11</title>
+</programme>
+<programme start="20250916083500 +0000" stop="20250916093500 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S2, Ep 12</title>
+</programme>
+<programme start="20250916093500 +0000" stop="20250916110500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Smurfs: The Lost Village</title>
+</programme>
+<programme start="20250916110500 +0000" stop="20250916120000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS: Tony &amp; Ziva, Ep 1</title>
+</programme>
+<programme start="20250916120000 +0000" stop="20250916125000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS: Tony &amp; Ziva, Ep 2</title>
+</programme>
+<programme start="20250916125000 +0000" stop="20250916134500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS: Tony &amp; Ziva, Ep 1</title>
+</programme>
+<programme start="20250916134500 +0000" stop="20250916143500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS: Tony &amp; Ziva, Ep 2</title>
+</programme>
+<programme start="20250916143500 +0000" stop="20250916161000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Pitch Perfect 3</title>
+</programme>
+<programme start="20250916161000 +0000" stop="20250916165500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S12, Ep 159</title>
+</programme>
+<programme start="20250916165500 +0000" stop="20250915172500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S12, Ep 138</title>
+</programme>
 <programme start="20250915174000 +0000" stop="20250915190300 +0000" channel="SCTV.mncvision">
     <title>Cinta Seempuk Donat</title>
 </programme>
