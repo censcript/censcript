@@ -550,9 +550,6 @@
 <programme start="20250915054500 +0000" stop="20250915063000 +0000" channel="Trans 7.vision">
 <title>Indonesiaku</title>
 </programme>
-<programme start="20250915063000 +0000" stop="20250915071500 +0000" channel="Trans 7.vision">
-<title>Ujung-Ujungnya Damkar</title>
-</programme>
 <programme start="20250915071500 +0000" stop="20250915081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20250915000000 +0000" stop="20250915010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250915010000 +0000" stop="20250915013000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

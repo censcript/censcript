@@ -409,14 +409,11 @@
 <programme start="20250915050000 +0000" stop="20250915060000 +0000" channel="ANTV.mncvision">
     <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20250915060000 +0000" stop="20250915080000 +0000" channel="ANTV.mncvision">
+<programme start="20250915060000 +0000" stop="20250915083000 +0000" channel="ANTV.mncvision">
     <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250915080000 +0000" stop="20250915100000 +0000" channel="ANTV.mncvision">
+<programme start="20250915083000 +0000" stop="20250915110000 +0000" channel="ANTV.mncvision">
     <title>Nath</title>
-</programme>
-<programme start="20250915100000 +0000" stop="20250915110000 +0000" channel="ANTV.mncvision">
-    <title>Parineetii</title>
 </programme>
 <programme start="20250915110000 +0000" stop="20250915123000 +0000" channel="ANTV.mncvision">
     <title>Ratu Sakti Calon Arang</title>
