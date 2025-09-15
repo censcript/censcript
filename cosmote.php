@@ -1,7 +1,3 @@
-<programme start="20250915225500 +0700" stop="20250916010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Samsunspor - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250916010000 +0700" stop="20250916013000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -250,10 +246,6 @@
     <title>Basketball: Promitheas - Karsiyaka</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915232000 +0700" stop="20250916010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250916010000 +0700" stop="20250916023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -338,9 +330,9 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915230000 +0700" stop="20250916003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250917010000 +0700" stop="20250917020000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916003000 +0700" stop="20250916032000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Greece - Brazil</title>
@@ -418,6 +410,10 @@
     <title>Football: Athletic Club - Arsenal (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250917015000 +0700" stop="20250917040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250916000000 +0700" stop="20250916014500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Handball: SG Flensburg-Handewitt - TSV Hannover-Burgdorf (L)</title>
     <desc>Live: Ya</desc>
@@ -489,6 +485,10 @@
 <programme start="20250916234500 +0700" stop="20250917014500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: PSV Eindhoven - Union Saint-Gilloise (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250917014500 +0700" stop="20250917020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916000000 +0700" stop="20250916020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
