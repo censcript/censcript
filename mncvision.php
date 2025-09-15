@@ -4073,7 +4073,7 @@
     <title>7 Manusia Harimau</title>
 </programme>
 <programme start="20250915123000 +0000" stop="20250915143000 +0000" channel="GTV.mncvision">
-    <title>Transformers: Age Of Extinction</title>
+    <title>G.I.Joe: Retaliation</title>
 </programme>
 <programme start="20250915143000 +0000" stop="20250915160000 +0000" channel="GTV.mncvision">
     <title>The Sorcery Master</title>
@@ -4124,7 +4124,7 @@
     <title>7 Manusia Harimau</title>
 </programme>
 <programme start="20250915123000 +0000" stop="20250915143000 +0000" channel="GTV HD.mncvision">
-    <title>Transformers: Age Of Extinction</title>
+    <title>G.I.Joe: Retaliation</title>
 </programme>
 <programme start="20250915143000 +0000" stop="20250915160000 +0000" channel="GTV HD.mncvision">
     <title>The Sorcery Master</title>

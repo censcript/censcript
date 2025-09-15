@@ -1,7 +1,3 @@
-<programme start="20250915143000 +0700" stop="20250915163000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SK Sturm Graz - FK Bodo/Glimt</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250915163000 +0700" stop="20250915183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Qarabag FK - Ferencvarosi TC</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +114,10 @@
     <title>Football: Como - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250916171000 +0700" stop="20250916192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Volos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250915153000 +0700" stop="20250915171000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -178,12 +178,8 @@
     <title>Football: Godoy Cruz - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915141500 +0700" stop="20250915161000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250915161000 +0700" stop="20250915162500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
+<programme start="20250916174000 +0700" stop="20250916194500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Famalicao - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915162500 +0700" stop="20250915184500 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,8 +242,12 @@
     <title>Basketball: Karsiyaka - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915155000 +0700" stop="20250915165000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250916173500 +0700" stop="20250916175500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250916175500 +0700" stop="20250916195500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915165000 +0700" stop="20250915174000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,12 +330,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250915160000 +0700" stop="20250915163000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250915163000 +0700" stop="20250915170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250916172000 +0700" stop="20250916180500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250915170000 +0700" stop="20250915180000 +0700" channel="COSMOTE Sport 6 HD">
