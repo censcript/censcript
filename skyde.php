@@ -2734,7 +2734,7 @@
 <programme start="20250916183000 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA Champions League</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Benfica Lissabon - FK Qarabag, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250915223000 +0000" stop="20250915230000 +0000" channel="Sky Sport Bundesliga HD.skyde">

@@ -959,14 +959,14 @@
         <title>No Programme available now. Next Broadcast on 18th September, Thursday 5pm. FIBA Intercontinental Cup 2025</title>
     </programme>
     <programme start="20250915160000 +0000" stop="20250916160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th September, Thursday 6pm. AFC Champions League Two 2025/26</title>
+        <title>No Programme available now. Next Broadcast on 18th September, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20250916160000 +0000" stop="20250917160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th September, Thursday 6pm. AFC Champions League Two 2025/26</title>
+        <title>No Programme available now. Next Broadcast on 18th September, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20250915160000 +0000" stop="20250916160000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th September, Thursday 8.15pm. AFC Champions League Two 2025/26</title>
+        <title>No Programme available now. Next Broadcast on 18th September, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20250916160000 +0000" stop="20250917160000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th September, Thursday 8.15pm. AFC Champions League Two 2025/26</title>
+        <title>No Programme available now. Next Broadcast on 18th September, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
