@@ -1150,32 +1150,29 @@
 <programme start="20250916213500 +0000" stop="20250916222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Ein Tag in ...</title>
 </programme>
-<programme start="20250915220000 +0000" stop="20250916000000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... 2013</title>
-</programme>
-<programme start="20250916000000 +0000" stop="20250916010000 +0000" channel="Jukebox.skyde">
-    <title>SINGER SONGWRITER</title>
-</programme>
-<programme start="20250916010000 +0000" stop="20250916040000 +0000" channel="Jukebox.skyde">
-    <title>NIGHTSHIFT</title>
-</programme>
-<programme start="20250916040000 +0000" stop="20250916100000 +0000" channel="Jukebox.skyde">
-    <title>MORNING GLORY</title>
-</programme>
-<programme start="20250916100000 +0000" stop="20250916120000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX GROOVE</title>
-</programme>
-<programme start="20250916120000 +0000" stop="20250916160000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TRENDS</title>
-</programme>
-<programme start="20250916160000 +0000" stop="20250916180000 +0000" channel="Jukebox.skyde">
+<programme start="20250914220000 +0000" stop="20250914230000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
 </programme>
-<programme start="20250916180000 +0000" stop="20250916200000 +0000" channel="Jukebox.skyde">
+<programme start="20250914230000 +0000" stop="20250915040000 +0000" channel="Jukebox.skyde">
+    <title>NIGHTSHIFT</title>
+</programme>
+<programme start="20250915040000 +0000" stop="20250915100000 +0000" channel="Jukebox.skyde">
+    <title>MORNING GLORY</title>
+</programme>
+<programme start="20250915100000 +0000" stop="20250915120000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX NEWS</title>
+</programme>
+<programme start="20250915120000 +0000" stop="20250915160000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
+</programme>
+<programme start="20250915160000 +0000" stop="20250915180000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
+</programme>
+<programme start="20250915180000 +0000" stop="20250915200000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 50 MIX</title>
 </programme>
-<programme start="20250916200000 +0000" stop="20250916220000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
+<programme start="20250915200000 +0000" stop="20250915220000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 25</title>
 </programme>
 <programme start="20250915221000 +0000" stop="20250915224000 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
@@ -2704,7 +2701,7 @@
 <programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Juventus Turin - Borussia Dortmund, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916210000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2716,7 +2713,7 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - FC Arsenal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Real Madrid - Olympique Marseille, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2728,13 +2725,13 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: PSV Eindhoven - Union Saint-Gilloise, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - FC Villarreal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250916183000 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA Champions League</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Benfica Lissabon - FK Qarabag, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250915223000 +0000" stop="20250915230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3684,39 +3681,6 @@
 </programme>
 <programme start="20250916215000 +0000" stop="20250916221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
-</programme>
-<programme start="20250915235000 +0000" stop="20250916012000 +0000" channel="Warner TV Film.skyde">
-    <title>Mad Max 2 - Der Vollstrecker</title>
-</programme>
-<programme start="20250916012000 +0000" stop="20250916033000 +0000" channel="Warner TV Film.skyde">
-    <title>Dune - Der Wüstenplanet</title>
-</programme>
-<programme start="20250916033000 +0000" stop="20250916040000 +0000" channel="Warner TV Film.skyde">
-    <title>Hinter den Kulissen - Billy Crystal</title>
-</programme>
-<programme start="20250916040000 +0000" stop="20250916064500 +0000" channel="Warner TV Film.skyde">
-    <title>Das Land des Regenbaums</title>
-</programme>
-<programme start="20250916064500 +0000" stop="20250916084000 +0000" channel="Warner TV Film.skyde">
-    <title>Adaptation</title>
-</programme>
-<programme start="20250916084000 +0000" stop="20250916104500 +0000" channel="Warner TV Film.skyde">
-    <title>Mrs. Doubtfire - Das stachelige Kindermädchen</title>
-</programme>
-<programme start="20250916104500 +0000" stop="20250916124000 +0000" channel="Warner TV Film.skyde">
-    <title>Wir sind die Millers</title>
-</programme>
-<programme start="20250916124000 +0000" stop="20250916151000 +0000" channel="Warner TV Film.skyde">
-    <title>Batman v Superman: Dawn Of Justice</title>
-</programme>
-<programme start="20250916151000 +0000" stop="20250916181500 +0000" channel="Warner TV Film.skyde">
-    <title>Pearl Harbor</title>
-</programme>
-<programme start="20250916181500 +0000" stop="20250916195500 +0000" channel="Warner TV Film.skyde">
-    <title>Der Mackintosh-Mann</title>
-</programme>
-<programme start="20250916195500 +0000" stop="20250916223000 +0000" channel="Warner TV Film.skyde">
-    <title>Agenten sterben einsam</title>
 </programme>
 <programme start="20250915235000 +0000" stop="20250916012000 +0000" channel="Warner TV Film HD.skyde">
     <title>Mad Max 2 - Der Vollstrecker</title>
