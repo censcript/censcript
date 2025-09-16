@@ -658,8 +658,14 @@
 <programme start="20250916083000 +0000" stop="20250916110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
 </programme>
+<programme start="20250916110000 +0000" stop="20250916123000 +0000" channel="ANTV.vision">
+<title>Pusaka Penyebar Maut</title>
+</programme>
 <programme start="20250916123000 +0000" stop="20250916143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20250916143000 +0000" stop="20250916163000 +0000" channel="ANTV.vision">
+<title>Selir Adipati Gendrasakti</title>
 </programme>
 <programme start="20250916163000 +0000" stop="20250916183000 +0000" channel="ANTV.vision">
 <title>Doctor Vampire</title>
@@ -1490,11 +1496,5 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20250916000000 +0000" stop="20250916010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250916010000 +0000" stop="20250916020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250916020000 +0000" stop="20250916020300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
