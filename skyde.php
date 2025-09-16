@@ -1768,45 +1768,6 @@
 <programme start="20250916201500 +0000" stop="20250916221500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>3 Days to Kill</title>
 </programme>
-<programme start="20250915233500 +0000" stop="20250916012500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Über den Dächern von Nizza</title>
-</programme>
-<programme start="20250916012500 +0000" stop="20250916031500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Unternehmen Petticoat</title>
-</programme>
-<programme start="20250916031500 +0000" stop="20250916044500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Kreuzfeuer</title>
-</programme>
-<programme start="20250916044500 +0000" stop="20250916061500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Rächer von Texas</title>
-</programme>
-<programme start="20250916061500 +0000" stop="20250916080000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Mädchen Rosemarie</title>
-</programme>
-<programme start="20250916080000 +0000" stop="20250916091000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die tätowierte Fremde</title>
-</programme>
-<programme start="20250916091000 +0000" stop="20250916110500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Hausboot</title>
-</programme>
-<programme start="20250916110500 +0000" stop="20250916124500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Heisse Spur Kairo- London</title>
-</programme>
-<programme start="20250916124500 +0000" stop="20250916142000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Stern des Gesetzes</title>
-</programme>
-<programme start="20250916142000 +0000" stop="20250916161000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Ein Fremder ohne Namen</title>
-</programme>
-<programme start="20250916161000 +0000" stop="20250916181500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Seewölfe kommen</title>
-</programme>
-<programme start="20250916181500 +0000" stop="20250916200500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>True Grit</title>
-</programme>
-<programme start="20250916200500 +0000" stop="20250916220000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Flucht von Alcatraz</title>
-</programme>
 <programme start="20250915223500 +0000" stop="20250916001000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Made in China - Das Leben spricht französisch!</title>
 </programme>
@@ -3309,6 +3270,93 @@
 </programme>
 <programme start="20250916211500 +0000" stop="20250916231500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Italien</title>
+</programme>
+<programme start="20250915230000 +0000" stop="20250915231500 +0000" channel="SYFY HD.skyde">
+    <title>SYFY Inside: Destination Star Trek</title>
+</programme>
+<programme start="20250915231500 +0000" stop="20250916000000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916000000 +0000" stop="20250916004500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916004500 +0000" stop="20250916013000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916013000 +0000" stop="20250916021500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916021500 +0000" stop="20250916030000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916030000 +0000" stop="20250916034500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916034500 +0000" stop="20250916043000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate Universe</title>
+</programme>
+<programme start="20250916043000 +0000" stop="20250916051500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250916051500 +0000" stop="20250916060500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250916060500 +0000" stop="20250916065500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250916065500 +0000" stop="20250916074500 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20250916074500 +0000" stop="20250916083000 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20250916083000 +0000" stop="20250916091500 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20250916091500 +0000" stop="20250916100000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916100000 +0000" stop="20250916105000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916105000 +0000" stop="20250916113500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916113500 +0000" stop="20250916122500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916122500 +0000" stop="20250916131000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916131000 +0000" stop="20250916140000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20250916140000 +0000" stop="20250916145500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20250916145500 +0000" stop="20250916155000 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Discovery</title>
+</programme>
+<programme start="20250916155000 +0000" stop="20250916163500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250916163500 +0000" stop="20250916172500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250916172500 +0000" stop="20250916181500 +0000" channel="SYFY HD.skyde">
+    <title>Akte X - Die unheimlichen Fälle des FBI</title>
+</programme>
+<programme start="20250916181500 +0000" stop="20250916201000 +0000" channel="SYFY HD.skyde">
+    <title>Alien 3</title>
+</programme>
+<programme start="20250916201000 +0000" stop="20250916210500 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20250916210500 +0000" stop="20250916215000 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
+</programme>
+<programme start="20250916215000 +0000" stop="20250916223500 +0000" channel="SYFY HD.skyde">
+    <title>The Ark</title>
 </programme>
 <programme start="20250915220000 +0000" stop="20250915224500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
