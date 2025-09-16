@@ -2192,7 +2192,7 @@
     <title>Global Business</title>
 </programme>
 <programme start="20250915170000 +0000" stop="20250915173000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Masters Of...: Su Buqing, Ep 1</title>
+    <title>20th Century Masters, Ep 1</title>
 </programme>
 <programme start="20250915173000 +0000" stop="20250915180000 +0000" channel="CGTN Documentary.mncvision">
     <title>Shades Of Suzhou, Ep 4</title>
@@ -2201,13 +2201,13 @@
     <title>A Bite Of China S4, Ep 5</title>
 </programme>
 <programme start="20250915190000 +0000" stop="20250915193000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Through Thick And Thin, Ep 1</title>
+    <title>Stretching The Limits</title>
 </programme>
 <programme start="20250915193000 +0000" stop="20250915200000 +0000" channel="CGTN Documentary.mncvision">
     <title>Razor: Traces Of China, Ep 1</title>
 </programme>
 <programme start="20250915200000 +0000" stop="20250915210000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Lectures On Xi Jinping, Ep 9</title>
+    <title>Aerial China S4: Chongqing</title>
 </programme>
 <programme start="20250915210000 +0000" stop="20250915213000 +0000" channel="CGTN Documentary.mncvision">
     <title>The Wilderness S3, Ep 2</title>
@@ -2216,10 +2216,10 @@
     <title>Bookstore Encounters, Ep 3</title>
 </programme>
 <programme start="20250915220000 +0000" stop="20250915230000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Taishan Mountain, Ep 1</title>
+    <title>Unit 731, Ep 1</title>
 </programme>
 <programme start="20250915230000 +0000" stop="20250915233000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Masters Of...: Su Buqing, Ep 2</title>
+    <title>20th Century Masters, Ep 2</title>
 </programme>
 <programme start="20250915233000 +0000" stop="20250916000000 +0000" channel="CGTN Documentary.mncvision">
     <title>Shades Of Suzhou, Ep 5</title>
@@ -2228,13 +2228,13 @@
     <title>A Bite Of China S4, Ep 6</title>
 </programme>
 <programme start="20250916010000 +0000" stop="20250916013000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Through Thick And Thin, Ep 2</title>
+    <title>Blue Helmets, No Borders, Ep 1</title>
 </programme>
 <programme start="20250916013000 +0000" stop="20250916020000 +0000" channel="CGTN Documentary.mncvision">
     <title>Razor: Traces Of China, Ep 2</title>
 </programme>
 <programme start="20250916020000 +0000" stop="20250916030000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Lectures On Xi Jinping, Ep 9</title>
+    <title>Aerial China S4: Chongqing</title>
 </programme>
 <programme start="20250916030000 +0000" stop="20250916033000 +0000" channel="CGTN Documentary.mncvision">
     <title>The Wilderness S3, Ep 2</title>
@@ -2243,10 +2243,10 @@
     <title>Bookstore Encounters, Ep 3</title>
 </programme>
 <programme start="20250916040000 +0000" stop="20250916050000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Taishan Mountain, Ep 1</title>
+    <title>Unit 731, Ep 1</title>
 </programme>
 <programme start="20250916050000 +0000" stop="20250916053000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Masters Of...: Su Buqing, Ep 2</title>
+    <title>20th Century Masters, Ep 2</title>
 </programme>
 <programme start="20250916053000 +0000" stop="20250916060000 +0000" channel="CGTN Documentary.mncvision">
     <title>Shades Of Suzhou, Ep 5</title>
@@ -2255,13 +2255,13 @@
     <title>A Bite Of China S4, Ep 6</title>
 </programme>
 <programme start="20250916070000 +0000" stop="20250916073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Through Thick And Thin, Ep 2</title>
+    <title>Blue Helmets, No Borders, Ep 1</title>
 </programme>
 <programme start="20250916073000 +0000" stop="20250916080000 +0000" channel="CGTN Documentary.mncvision">
     <title>Razor: Traces Of China, Ep 2</title>
 </programme>
 <programme start="20250916080000 +0000" stop="20250916090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Lectures On Xi Jinping, Ep 9</title>
+    <title>Aerial China S4: Chongqing</title>
 </programme>
 <programme start="20250916090000 +0000" stop="20250916093000 +0000" channel="CGTN Documentary.mncvision">
     <title>The Wilderness S3, Ep 2</title>
@@ -2270,10 +2270,10 @@
     <title>Bookstore Encounters, Ep 3</title>
 </programme>
 <programme start="20250916100000 +0000" stop="20250916110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Taishan Mountain, Ep 1</title>
+    <title>Unit 731, Ep 1</title>
 </programme>
 <programme start="20250916110000 +0000" stop="20250916113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Masters Of...: Su Buqing, Ep 2</title>
+    <title>20th Century Masters, Ep 2</title>
 </programme>
 <programme start="20250916113000 +0000" stop="20250916120000 +0000" channel="CGTN Documentary.mncvision">
     <title>Shades Of Suzhou, Ep 5</title>
@@ -2282,13 +2282,13 @@
     <title>A Bite Of China S4, Ep 6</title>
 </programme>
 <programme start="20250916130000 +0000" stop="20250916133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Through Thick And Thin, Ep 2</title>
+    <title>Blue Helmets, No Borders, Ep 1</title>
 </programme>
 <programme start="20250916133000 +0000" stop="20250916140000 +0000" channel="CGTN Documentary.mncvision">
     <title>Razor: Traces Of China, Ep 2</title>
 </programme>
 <programme start="20250916140000 +0000" stop="20250916150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Lectures On Xi Jinping, Ep 9</title>
+    <title>Aerial China S4: Chongqing</title>
 </programme>
 <programme start="20250916150000 +0000" stop="20250916153000 +0000" channel="CGTN Documentary.mncvision">
     <title>The Wilderness S3, Ep 2</title>
@@ -2297,7 +2297,7 @@
     <title>Bookstore Encounters, Ep 3</title>
 </programme>
 <programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>Taishan Mountain, Ep 1</title>
+    <title>Unit 731, Ep 1</title>
 </programme>
 <programme start="20250915170000 +0000" stop="20250915180000 +0000" channel="Channel News Asia.mncvision">
     <title>Singapore Hour, Ep 11</title>
@@ -5870,7 +5870,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250916020000 +0000" stop="20250916050000 +0000" channel="MNCTV.mncvision">
-    <title>WONDR Indonesia Masters</title>
+    <title>WONDR Indonesia Masters (L)</title>
 </programme>
 <programme start="20250916050000 +0000" stop="20250916053000 +0000" channel="MNCTV.mncvision">
     <title>Kung Fu Panda Sang Pendekar</title>
@@ -5924,7 +5924,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250916020000 +0000" stop="20250916050000 +0000" channel="MNCTV HD.mncvision">
-    <title>WONDR Indonesia Masters</title>
+    <title>WONDR Indonesia Masters (L)</title>
 </programme>
 <programme start="20250916050000 +0000" stop="20250916053000 +0000" channel="MNCTV HD.mncvision">
     <title>Kung Fu Panda Sang Pendekar</title>

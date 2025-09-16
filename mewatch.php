@@ -653,10 +653,10 @@
         <title>No Programme available now. Next Broadcast on 19th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250915160000 +0000" stop="20250916160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st September, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250916160000 +0000" stop="20250917160000 +0000" channel="spl02.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st September, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250915140000 +0000" stop="20250915163500 +0000" channel="now-80s.mewatch">
         <title>Toyah&#039;s Sack The Stylist?! Top 30 - EP1</title>
