@@ -1768,45 +1768,6 @@
 <programme start="20250916201500 +0000" stop="20250916221500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>3 Days to Kill</title>
 </programme>
-<programme start="20250915233500 +0000" stop="20250916012500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Über den Dächern von Nizza</title>
-</programme>
-<programme start="20250916012500 +0000" stop="20250916031500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Unternehmen Petticoat</title>
-</programme>
-<programme start="20250916031500 +0000" stop="20250916044500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Kreuzfeuer</title>
-</programme>
-<programme start="20250916044500 +0000" stop="20250916061500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Rächer von Texas</title>
-</programme>
-<programme start="20250916061500 +0000" stop="20250916080000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Mädchen Rosemarie</title>
-</programme>
-<programme start="20250916080000 +0000" stop="20250916091000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die tätowierte Fremde</title>
-</programme>
-<programme start="20250916091000 +0000" stop="20250916110500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Hausboot</title>
-</programme>
-<programme start="20250916110500 +0000" stop="20250916124500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Heisse Spur Kairo- London</title>
-</programme>
-<programme start="20250916124500 +0000" stop="20250916142000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Stern des Gesetzes</title>
-</programme>
-<programme start="20250916142000 +0000" stop="20250916161000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Ein Fremder ohne Namen</title>
-</programme>
-<programme start="20250916161000 +0000" stop="20250916181500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Seewölfe kommen</title>
-</programme>
-<programme start="20250916181500 +0000" stop="20250916200500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>True Grit</title>
-</programme>
-<programme start="20250916200500 +0000" stop="20250916220000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Flucht von Alcatraz</title>
-</programme>
 <programme start="20250915223500 +0000" stop="20250916001000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Made in China - Das Leben spricht französisch!</title>
 </programme>
@@ -2704,7 +2665,7 @@
 <programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Juventus Turin - Borussia Dortmund, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916210000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2716,7 +2677,7 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - FC Arsenal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Real Madrid - Olympique Marseille, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2728,13 +2689,13 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: PSV Eindhoven - Union Saint-Gilloise, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - FC Villarreal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250916183000 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA Champions League</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Benfica Lissabon - FK Qarabag, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250915223000 +0000" stop="20250915230000 +0000" channel="Sky Sport Bundesliga HD.skyde">

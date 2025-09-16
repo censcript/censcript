@@ -1,11 +1,3 @@
-<programme start="20250916215000 +0700" stop="20250916222500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Football&#039;s Greatest IV E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250916222500 +0700" stop="20250916230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250916230000 +0700" stop="20250916234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -64,6 +56,10 @@
 </programme>
 <programme start="20250917223000 +0700" stop="20250917234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250917234500 +0700" stop="20250918020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250916212000 +0700" stop="20250916232000 +0700" channel="COSMOTE Sport 2 HD">
@@ -138,6 +134,14 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250917230000 +0700" stop="20250917234500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250917234500 +0700" stop="20250918015000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Pafos FC (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250916214500 +0700" stop="20250916234500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Ipswich Town - Sheffield United</title>
     <desc>Live: Tidak</desc>
@@ -189,6 +193,10 @@
 <programme start="20250917213000 +0700" stop="20250917234500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panathinaikos - Athens Kallithea FC (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250917234500 +0700" stop="20250918020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al-Kholood</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916215500 +0700" stop="20250917000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Peristeri - Bertram Derthona Tortona</title>
@@ -246,8 +254,8 @@
     <title>Football: Levadiakos - PAOK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250916220000 +0700" stop="20250916230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250917234500 +0700" stop="20250918020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Nanterre - Oostende</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916230000 +0700" stop="20250917000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -346,8 +354,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916220000 +0700" stop="20250916230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20250917234000 +0700" stop="20250918004500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916230000 +0700" stop="20250916234500 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,9 +414,13 @@
     <title>Tennis: Zizou Bergs - Juncheng Shang</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916220000 +0700" stop="20250916230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250917230000 +0700" stop="20250917234500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E5</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250917234500 +0700" stop="20250918015000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Football: SK Slavia Praha - FK Bodo/Glimt (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250916230000 +0700" stop="20250916233000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
