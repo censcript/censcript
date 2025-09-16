@@ -547,6 +547,9 @@
 <programme start="20250916050000 +0000" stop="20250916054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20250916054500 +0000" stop="20250916063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20250916063000 +0000" stop="20250916071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -648,6 +651,9 @@
 </programme>
 <programme start="20250917114500 +0000" stop="20250917121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250916013000 +0000" stop="20250916050000 +0000" channel="ANTV.vision">
+<title>My Name Is Khan</title>
 </programme>
 <programme start="20250916050000 +0000" stop="20250916060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250917093000 +0000" stop="20250917103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20250917103000 +0000" stop="20250917123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20250916000000 +0000" stop="20250916010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

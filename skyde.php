@@ -1150,29 +1150,32 @@
 <programme start="20250916213500 +0000" stop="20250916222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Ein Tag in ...</title>
 </programme>
-<programme start="20250914220000 +0000" stop="20250914230000 +0000" channel="Jukebox.skyde">
-    <title>LOGOUT</title>
+<programme start="20250915220000 +0000" stop="20250916000000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... 2013</title>
 </programme>
-<programme start="20250914230000 +0000" stop="20250915040000 +0000" channel="Jukebox.skyde">
+<programme start="20250916000000 +0000" stop="20250916010000 +0000" channel="Jukebox.skyde">
+    <title>SINGER SONGWRITER</title>
+</programme>
+<programme start="20250916010000 +0000" stop="20250916040000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20250915040000 +0000" stop="20250915100000 +0000" channel="Jukebox.skyde">
+<programme start="20250916040000 +0000" stop="20250916100000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20250915100000 +0000" stop="20250915120000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
+<programme start="20250916100000 +0000" stop="20250916120000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX GROOVE</title>
 </programme>
-<programme start="20250915120000 +0000" stop="20250915160000 +0000" channel="Jukebox.skyde">
+<programme start="20250916120000 +0000" stop="20250916160000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TRENDS</title>
 </programme>
-<programme start="20250915160000 +0000" stop="20250915180000 +0000" channel="Jukebox.skyde">
+<programme start="20250916160000 +0000" stop="20250916180000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
 </programme>
-<programme start="20250915180000 +0000" stop="20250915200000 +0000" channel="Jukebox.skyde">
+<programme start="20250916180000 +0000" stop="20250916200000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 50 MIX</title>
 </programme>
-<programme start="20250915200000 +0000" stop="20250915220000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 25</title>
+<programme start="20250916200000 +0000" stop="20250916220000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX DANCE</title>
 </programme>
 <programme start="20250915221000 +0000" stop="20250915224000 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
@@ -3307,93 +3310,6 @@
 <programme start="20250916211500 +0000" stop="20250916231500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Italien</title>
 </programme>
-<programme start="20250915230000 +0000" stop="20250915231500 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Destination Star Trek</title>
-</programme>
-<programme start="20250915231500 +0000" stop="20250916000000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916000000 +0000" stop="20250916004500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916004500 +0000" stop="20250916013000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916013000 +0000" stop="20250916021500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916021500 +0000" stop="20250916030000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916030000 +0000" stop="20250916034500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916034500 +0000" stop="20250916043000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate Universe</title>
-</programme>
-<programme start="20250916043000 +0000" stop="20250916051500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250916051500 +0000" stop="20250916060500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250916060500 +0000" stop="20250916065500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250916065500 +0000" stop="20250916074500 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20250916074500 +0000" stop="20250916083000 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20250916083000 +0000" stop="20250916091500 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20250916091500 +0000" stop="20250916100000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916100000 +0000" stop="20250916105000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916105000 +0000" stop="20250916113500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916113500 +0000" stop="20250916122500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916122500 +0000" stop="20250916131000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916131000 +0000" stop="20250916140000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20250916140000 +0000" stop="20250916145500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Discovery</title>
-</programme>
-<programme start="20250916145500 +0000" stop="20250916155000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Discovery</title>
-</programme>
-<programme start="20250916155000 +0000" stop="20250916163500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250916163500 +0000" stop="20250916172500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250916172500 +0000" stop="20250916181500 +0000" channel="SYFY HD.skyde">
-    <title>Akte X - Die unheimlichen Fälle des FBI</title>
-</programme>
-<programme start="20250916181500 +0000" stop="20250916201000 +0000" channel="SYFY HD.skyde">
-    <title>Alien 3</title>
-</programme>
-<programme start="20250916201000 +0000" stop="20250916210500 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20250916210500 +0000" stop="20250916215000 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
-<programme start="20250916215000 +0000" stop="20250916223500 +0000" channel="SYFY HD.skyde">
-    <title>The Ark</title>
-</programme>
 <programme start="20250915220000 +0000" stop="20250915224500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
@@ -3681,6 +3597,39 @@
 </programme>
 <programme start="20250916215000 +0000" stop="20250916221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Der Prinz von Bel-Air</title>
+</programme>
+<programme start="20250915235000 +0000" stop="20250916012000 +0000" channel="Warner TV Film.skyde">
+    <title>Mad Max 2 - Der Vollstrecker</title>
+</programme>
+<programme start="20250916012000 +0000" stop="20250916033000 +0000" channel="Warner TV Film.skyde">
+    <title>Dune - Der Wüstenplanet</title>
+</programme>
+<programme start="20250916033000 +0000" stop="20250916040000 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Billy Crystal</title>
+</programme>
+<programme start="20250916040000 +0000" stop="20250916064500 +0000" channel="Warner TV Film.skyde">
+    <title>Das Land des Regenbaums</title>
+</programme>
+<programme start="20250916064500 +0000" stop="20250916084000 +0000" channel="Warner TV Film.skyde">
+    <title>Adaptation</title>
+</programme>
+<programme start="20250916084000 +0000" stop="20250916104500 +0000" channel="Warner TV Film.skyde">
+    <title>Mrs. Doubtfire - Das stachelige Kindermädchen</title>
+</programme>
+<programme start="20250916104500 +0000" stop="20250916124000 +0000" channel="Warner TV Film.skyde">
+    <title>Wir sind die Millers</title>
+</programme>
+<programme start="20250916124000 +0000" stop="20250916151000 +0000" channel="Warner TV Film.skyde">
+    <title>Batman v Superman: Dawn Of Justice</title>
+</programme>
+<programme start="20250916151000 +0000" stop="20250916181500 +0000" channel="Warner TV Film.skyde">
+    <title>Pearl Harbor</title>
+</programme>
+<programme start="20250916181500 +0000" stop="20250916195500 +0000" channel="Warner TV Film.skyde">
+    <title>Der Mackintosh-Mann</title>
+</programme>
+<programme start="20250916195500 +0000" stop="20250916223000 +0000" channel="Warner TV Film.skyde">
+    <title>Agenten sterben einsam</title>
 </programme>
 <programme start="20250915235000 +0000" stop="20250916012000 +0000" channel="Warner TV Film HD.skyde">
     <title>Mad Max 2 - Der Vollstrecker</title>
