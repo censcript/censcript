@@ -910,48 +910,6 @@
 <programme start="20250916214500 +0000" stop="20250916224000 +0000" channel="Crime + Investigation.skyde">
     <title>Court Cam - Auf der Anklagebank</title>
 </programme>
-<programme start="20250915220000 +0000" stop="20250916060000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20250916060000 +0000" stop="20250916062000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250916062000 +0000" stop="20250916073000 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 3. Spieltag</title>
-</programme>
-<programme start="20250916073000 +0000" stop="20250916093000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Barcelona - FC Valencia</title>
-</programme>
-<programme start="20250916093000 +0000" stop="20250916113000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: Borussia M&#039;gladbach - SV Werder Bremen</title>
-</programme>
-<programme start="20250916113000 +0000" stop="20250916120000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250916120000 +0000" stop="20250916135500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga: FC Bayern München - Hamburger SV</title>
-</programme>
-<programme start="20250916135500 +0000" stop="20250916143000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 1</title>
-</programme>
-<programme start="20250916143000 +0000" stop="20250916150500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 2</title>
-</programme>
-<programme start="20250916150500 +0000" stop="20250916154500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 3</title>
-</programme>
-<programme start="20250916154500 +0000" stop="20250916161500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250916161500 +0000" stop="20250916163000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UCL Warm Up: UEFA Champions League Highlights</title>
-</programme>
-<programme start="20250916163000 +0000" stop="20250916185000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Champions League 25/26: Athletic Bilbao - FC Arsenal</title>
-</programme>
-<programme start="20250916185000 +0000" stop="20250916220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA Champions League 25/26: Real Madrid - Olympique Marseille</title>
-</programme>
 <programme start="20250915220000 +0000" stop="20250916060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -1734,39 +1692,6 @@
 </programme>
 <programme start="20250916210000 +0000" stop="20250916221000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Band Of Brothers - Wir waren wie Brüder</title>
-</programme>
-<programme start="20250915234500 +0000" stop="20250916015000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Training Day</title>
-</programme>
-<programme start="20250916015000 +0000" stop="20250916035500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Der Anschlag</title>
-</programme>
-<programme start="20250916035500 +0000" stop="20250916060000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Goliath - Im Netz der Lügen</title>
-</programme>
-<programme start="20250916060000 +0000" stop="20250916080500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Collateral</title>
-</programme>
-<programme start="20250916080500 +0000" stop="20250916102500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Godzilla</title>
-</programme>
-<programme start="20250916102500 +0000" stop="20250916122500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Die Bourne Identität</title>
-</programme>
-<programme start="20250916122500 +0000" stop="20250916140500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rambo II - Der Auftrag</title>
-</programme>
-<programme start="20250916140500 +0000" stop="20250916161000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Star Trek Beyond</title>
-</programme>
-<programme start="20250916161000 +0000" stop="20250916181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Jason Bourne</title>
-</programme>
-<programme start="20250916181500 +0000" stop="20250916201500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>R.E.D. 2 - Noch älter. Härter. Besser.</title>
-</programme>
-<programme start="20250916201500 +0000" stop="20250916221500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>3 Days to Kill</title>
 </programme>
 <programme start="20250915233500 +0000" stop="20250916012500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Über den Dächern von Nizza</title>
@@ -2704,7 +2629,7 @@
 <programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Juventus Turin - Borussia Dortmund, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916210000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2716,26 +2641,8 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - FC Arsenal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Real Madrid - Olympique Marseille, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: LIVE UEFA Champions League</title>
-</programme>
-<programme start="20250916160000 +0000" stop="20250916163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
-</programme>
-<programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live UEFA CL: PSV Eindhoven - Union Saint-Gilloise, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live UEFA CL: Tottenham Hotspur - FC Villarreal, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250916183000 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Es folgt: LIVE UEFA Champions League</title>
-</programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live UEFA CL: Benfica Lissabon - FK Qarabag, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250915223000 +0000" stop="20250915230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 2. Spieltag komplett</title>

@@ -7547,7 +7547,7 @@
         <title>AFL Highlights AFL Highlights</title>
     </programme>
     <programme start="20250915234000 +0000" stop="20250916000000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights AFL Highlights</title>
+        <title>AFL Highlights</title>
     </programme>
     <programme start="20250916000000 +0000" stop="20250916015000 +0000" channel="Premier Sports.starhub">
         <title>NRL Sharks v Roosters</title>
@@ -7586,24 +7586,24 @@
         <title>AFLW Highlights Fremantle v West Coast</title>
     </programme>
     <programme start="20250916083000 +0000" stop="20250916085000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights AFL Highlights</title>
+        <title>AFL Highlights</title>
     </programme>
     <programme start="20250916085000 +0000" stop="20250916091000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights AFL Highlights</title>
+        <title>AFL Highlights</title>
     </programme>
     <programme start="20250916091000 +0000" stop="20250916101000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time NRL Try Time</title>
+        <title>NRL Try Time</title>
     </programme>
-    <programme start="20250916101000 +0000" stop="20250916120000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250916101000 +0000" stop="20250916115500 +0000" channel="Premier Sports.starhub">
         <title>The Rugby Championship Australia v Argentina</title>
     </programme>
-    <programme start="20250916120000 +0000" stop="20250916135000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250916115500 +0000" stop="20250916134000 +0000" channel="Premier Sports.starhub">
         <title>The Rugby Championship New Zealand v South Africa</title>
     </programme>
-    <programme start="20250916135000 +0000" stop="20250916145000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time NRL Try Time</title>
+    <programme start="20250916134000 +0000" stop="20250916144000 +0000" channel="Premier Sports.starhub">
+        <title>NRL Try Time</title>
     </programme>
-    <programme start="20250916145000 +0000" stop="20250916164000 +0000" channel="Premier Sports.starhub">
+    <programme start="20250916144000 +0000" stop="20250916163500 +0000" channel="Premier Sports.starhub">
         <title>NRL Storm v Bulldogs</title>
     </programme>
     <programme start="20250915160000 +0000" stop="20250915170000 +0000" channel="Hub Premier 1.starhub">
