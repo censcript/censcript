@@ -126,8 +126,8 @@
     <title>Football: OFI - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916100000 +0700" stop="20250916120500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - Nacional</title>
+<programme start="20250917131000 +0700" stop="20250917151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916120500 +0700" stop="20250916150500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +242,6 @@
     <title>Basketball: Peristeri - Bertram Derthona Tortona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916113000 +0700" stop="20250916130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250916130000 +0700" stop="20250916143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,8 +334,8 @@
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916120000 +0700" stop="20250916123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E8</title>
+<programme start="20250917133500 +0700" stop="20250917140500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916123000 +0700" stop="20250916140000 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +400,10 @@
 </programme>
 <programme start="20250917123000 +0700" stop="20250917133000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Jet Ski World Series 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250917133000 +0700" stop="20250917153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916120000 +0700" stop="20250916140000 +0700" channel="COSMOTE Sport 7 HD">
