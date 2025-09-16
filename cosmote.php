@@ -1,11 +1,3 @@
-<programme start="20250916185000 +0700" stop="20250916203000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250916203000 +0700" stop="20250916205000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250916205000 +0700" stop="20250916215000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
@@ -69,6 +61,10 @@
 <programme start="20250917190000 +0700" stop="20250917213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panetolikos - Aris (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250917213000 +0700" stop="20250917223000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916192000 +0700" stop="20250916212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - SSC Napoli</title>
@@ -190,6 +186,10 @@
     <title>Football: Velez Sarsfield - Racing Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250917213000 +0700" stop="20250917234500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Panathinaikos - Athens Kallithea FC (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250916195500 +0700" stop="20250916215500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Brescia - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -246,9 +246,9 @@
     <title>Basketball: Treviso - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916185500 +0700" stop="20250916202500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250917213000 +0700" stop="20250917234500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: Levadiakos - PAOK (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250916202500 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
@@ -348,10 +348,6 @@
 </programme>
 <programme start="20250917204000 +0700" stop="20250917221000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250916200000 +0700" stop="20250916203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916203000 +0700" stop="20250916220000 +0700" channel="COSMOTE Sport 6 HD">
