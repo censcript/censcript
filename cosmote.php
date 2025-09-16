@@ -66,6 +66,10 @@
     <title>Football: Athletic Club - Arsenal</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250917170000 +0700" stop="20250917190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Madrid CF - Olympique de Marseille</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250916151000 +0700" stop="20250916171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Genoa</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +130,14 @@
     <title>Football: Pisa - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250917171000 +0700" stop="20250917173000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250917173000 +0700" stop="20250917193000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Pafos FC (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250916153000 +0700" stop="20250916174000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Godoy Cruz - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
@@ -172,6 +184,10 @@
 </programme>
 <programme start="20250917152500 +0700" stop="20250917172500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Fluminense</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250917172500 +0700" stop="20250917192500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Porto - Nacional</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916154000 +0700" stop="20250916173500 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,8 +250,8 @@
     <title>Basketball: Seattle Storm - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250916152000 +0700" stop="20250916162500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250917170000 +0700" stop="20250917190500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Anadolu Efes - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250916162500 +0700" stop="20250916172000 +0700" channel="COSMOTE Sport 5 HD">

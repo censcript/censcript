@@ -7976,7 +7976,7 @@
     <title>Extra Time</title>
 </programme>
 <programme start="20250915181500 +0000" stop="20250915201500 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: AHL Vs NAS (L)</title>
 </programme>
 <programme start="20250915201500 +0000" stop="20250915203000 +0000" channel="Soccer Channel.mncvision">
     <title>Extra Time</title>
@@ -8006,31 +8006,31 @@
     <title>Copa del Rey: ELD Vs VAL</title>
 </programme>
 <programme start="20250916074500 +0000" stop="20250916094500 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: MCY Vs HIR (L)</title>
 </programme>
 <programme start="20250916094500 +0000" stop="20250916100000 +0000" channel="Soccer Channel.mncvision">
     <title>Extra Time</title>
 </programme>
 <programme start="20250916100000 +0000" stop="20250916120000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: GWN Vs SHS (L)</title>
 </programme>
 <programme start="20250916120000 +0000" stop="20250916121500 +0000" channel="Soccer Channel.mncvision">
     <title>Extra Time</title>
 </programme>
 <programme start="20250916121500 +0000" stop="20250916141500 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: BUR Vs JDT (L)</title>
 </programme>
 <programme start="20250916141500 +0000" stop="20250916160000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: FCU Vs TSG</title>
 </programme>
 <programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: SHA Vs TRC (L)</title>
 </programme>
 <programme start="20250915180000 +0000" stop="20250915181500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Extra Time</title>
 </programme>
 <programme start="20250915181500 +0000" stop="20250915201500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: AHL Vs NAS (L)</title>
 </programme>
 <programme start="20250915201500 +0000" stop="20250915203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Extra Time</title>
@@ -8060,25 +8060,25 @@
     <title>Copa del Rey: ELD Vs VAL</title>
 </programme>
 <programme start="20250916074500 +0000" stop="20250916094500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: MCY Vs HIR (L)</title>
 </programme>
 <programme start="20250916094500 +0000" stop="20250916100000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Extra Time</title>
 </programme>
 <programme start="20250916100000 +0000" stop="20250916120000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: GWN Vs SHS (L)</title>
 </programme>
 <programme start="20250916120000 +0000" stop="20250916121500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Extra Time</title>
 </programme>
 <programme start="20250916121500 +0000" stop="20250916141500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: BUR Vs JDT (L)</title>
 </programme>
 <programme start="20250916141500 +0000" stop="20250916160000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: FCU Vs TSG</title>
 </programme>
 <programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: SHA Vs TRC (L)</title>
 </programme>
 <programme start="20250915181500 +0000" stop="20250915201500 +0000" channel="Sportstars.mncvision">
     <title>AFC Champions League Elite (L)</title>
