@@ -2704,7 +2704,7 @@
 <programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Juventus Turin - Borussia Dortmund, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916210000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2716,7 +2716,7 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - FC Arsenal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Real Madrid - Olympique Marseille, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250916154000 +0000" stop="20250916160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2728,7 +2728,7 @@
 <programme start="20250916163500 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: PSV Eindhoven - Union Saint-Gilloise, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250916185000 +0000" stop="20250916223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250916185000 +0000" stop="20250916210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - FC Villarreal, Ligaphase, 1. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250916183000 +0000" stop="20250916185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
