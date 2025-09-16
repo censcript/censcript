@@ -134,6 +134,14 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250918030000 +0700" stop="20250918033000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918033000 +0700" stop="20250918040000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250917020000 +0700" stop="20250917040500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Juventus Football Club - Borussia Dortmund (L)</title>
     <desc>Live: Ya</desc>
@@ -400,6 +408,10 @@
 </programme>
 <programme start="20250918024500 +0700" stop="20250918035000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918035000 +0700" stop="20250918062500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Zizou Bergs - Juncheng Shang</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917020000 +0700" stop="20250917040000 +0700" channel="COSMOTE Sport 7 HD">
