@@ -1,7 +1,3 @@
-<programme start="20250917020000 +0700" stop="20250917040500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250917040500 +0700" stop="20250917060000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -60,10 +56,6 @@
 </programme>
 <programme start="20250918040500 +0700" stop="20250918060000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250917020000 +0700" stop="20250917040500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Real Madrid CF - Olympique de Marseille (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250917040500 +0700" stop="20250917060500 +0700" channel="COSMOTE Sport 2 HD">
@@ -149,10 +141,6 @@
 <programme start="20250918040000 +0700" stop="20250918060500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Pafos FC</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250917020000 +0700" stop="20250917040500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Juventus Football Club - Borussia Dortmund (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250917040500 +0700" stop="20250917060500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: PSV Eindhoven - Union Saint-Gilloise</title>
@@ -262,14 +250,6 @@
     <title>Basketball: Seattle Storm - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917020000 +0700" stop="20250917040500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: SL Benfica - Qarabag FK (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250917040500 +0700" stop="20250917045500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250917045500 +0700" stop="20250917060000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -366,6 +346,10 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250918053500 +0700" stop="20250918070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250917040000 +0700" stop="20250917063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -428,14 +412,6 @@
 </programme>
 <programme start="20250918035000 +0700" stop="20250918062500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Zizou Bergs - Juncheng Shang</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250917040000 +0700" stop="20250917043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250917043000 +0700" stop="20250917050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917050000 +0700" stop="20250917080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -506,13 +482,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917040000 +0700" stop="20250917043000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250917043000 +0700" stop="20250917050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250918050000 +0700" stop="20250918080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250917050000 +0700" stop="20250917070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Velez Sarsfield - Racing Club (L)</title>
