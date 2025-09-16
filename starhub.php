@@ -6640,8 +6640,11 @@
     <programme start="20250916123000 +0000" stop="20250916130000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 5</title>
     </programme>
-    <programme start="20250916130000 +0000" stop="20250916160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Korea Open Tennis Championships 2025 Presented by Motiva (500) Day 2 Session 1</title>
+    <programme start="20250916130000 +0000" stop="20250916150000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Korea Open Tennis Championships 2025 Presented by Motiva (500) Day 1</title>
+    </programme>
+    <programme start="20250916150000 +0000" stop="20250916160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>UCI Pro Series - Lidl Deutschland Tour Highlights</title>
     </programme>
     <programme start="20250915141800 +0000" stop="20250915171800 +0000" channel="SONY MAX.starhub">
         <title>Jab Tak Hai Jaan</title>
@@ -8224,7 +8227,7 @@
     <programme start="20250916142700 +0000" stop="20250916145200 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20250916145200 +0000" stop="20250916164100 +0000" channel="Dragon TV.starhub">
+    <programme start="20250916145200 +0000" stop="20250916163500 +0000" channel="Dragon TV.starhub">
         <title>the city of musicals</title>
     </programme>
     <programme start="20250915160000 +0000" stop="20250915163000 +0000" channel="Travelxp HD.starhub">
