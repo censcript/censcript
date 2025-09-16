@@ -652,9 +652,6 @@
 <programme start="20250917114500 +0000" stop="20250917121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250915233000 +0000" stop="20250916013000 +0000" channel="ANTV.vision">
-<title>Galau Remaja Di SMA</title>
-</programme>
 <programme start="20250916013000 +0000" stop="20250916050000 +0000" channel="ANTV.vision">
 <title>My Name Is Khan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250917083000 +0000" stop="20250917093000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250917093000 +0000" stop="20250917103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
