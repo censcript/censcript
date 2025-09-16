@@ -6860,7 +6860,7 @@
         <title>Tue,MD1</title>
     </programme>
     <programme start="20250916164000 +0000" stop="20250916185500 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: Athletic Bilbao vs Arsenal - MD1 (Live)</title>
+        <title>Athletic Bilbao vs Arsenal - MD1 (Live)</title>
     </programme>
     <programme start="20250916185500 +0000" stop="20250916210000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Champions League 2025/26: Real Madrid vs Marseille - MD1 (Live)</title>
