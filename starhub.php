@@ -7514,7 +7514,7 @@
         <title>5 &amp; 6 Nations Classics 2011 - Italy v France</title>
     </programme>
     <programme start="20250915200000 +0000" stop="20250915210000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time NRL Try Time</title>
+        <title>NRL Try Time</title>
     </programme>
     <programme start="20250915210000 +0000" stop="20250915211500 +0000" channel="Premier Sports.starhub">
         <title>AFLW Highlights Collingwood v Sydney</title>
@@ -7544,7 +7544,7 @@
         <title>AFLW Highlights Fremantle v West Coast</title>
     </programme>
     <programme start="20250915232000 +0000" stop="20250915234000 +0000" channel="Premier Sports.starhub">
-        <title>AFL Highlights AFL Highlights</title>
+        <title>AFL Highlights</title>
     </programme>
     <programme start="20250915234000 +0000" stop="20250916000000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights</title>
