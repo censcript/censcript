@@ -547,9 +547,6 @@
 <programme start="20250916050000 +0000" stop="20250916054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250916054500 +0000" stop="20250916063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20250916063000 +0000" stop="20250916071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -652,12 +649,6 @@
 <programme start="20250917114500 +0000" stop="20250917121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250915233000 +0000" stop="20250916013000 +0000" channel="ANTV.vision">
-<title>Galau Remaja Di SMA</title>
-</programme>
-<programme start="20250916013000 +0000" stop="20250916050000 +0000" channel="ANTV.vision">
-<title>My Name Is Khan</title>
-</programme>
 <programme start="20250916050000 +0000" stop="20250916060000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -667,20 +658,8 @@
 <programme start="20250916083000 +0000" stop="20250916110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
 </programme>
-<programme start="20250916110000 +0000" stop="20250916123000 +0000" channel="ANTV.vision">
-<title>Pusaka Penyebar Maut</title>
-</programme>
 <programme start="20250916123000 +0000" stop="20250916143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20250916143000 +0000" stop="20250916163000 +0000" channel="ANTV.vision">
-<title>Selir Adipati Gendrasakti</title>
-</programme>
-<programme start="20250916163000 +0000" stop="20250916183000 +0000" channel="ANTV.vision">
-<title>Doctor Vampire</title>
-</programme>
-<programme start="20250916183000 +0000" stop="20250916203000 +0000" channel="ANTV.vision">
-<title>Haunted School</title>
 </programme>
 <programme start="20250916203000 +0000" stop="20250916220000 +0000" channel="ANTV.vision">
 <title>Rahasia Patukan Cobra</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20250917083000 +0000" stop="20250917093000 +0000" channel="BTV.vision">
 <title>Cetar: Celeb On Target</title>
+</programme>
+<programme start="20250917093000 +0000" stop="20250917103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20250917103000 +0000" stop="20250917123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20250916000000 +0000" stop="20250916010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250916010000 +0000" stop="20250916020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250916020000 +0000" stop="20250916020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250916020300 +0000" stop="20250916023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250916023000 +0000" stop="20250916030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
