@@ -66,14 +66,6 @@
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250918015000 +0700" stop="20250918023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250918023000 +0700" stop="20250918030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250918030000 +0700" stop="20250918033000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
@@ -358,10 +350,6 @@
     <title>Football: Eintracht Frankfurt - Galatasaray AS (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250918015000 +0700" stop="20250918024500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250918024500 +0700" stop="20250918035000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
@@ -420,6 +408,14 @@
 </programme>
 <programme start="20250919023500 +0700" stop="20250919032500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919032500 +0700" stop="20250919035500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919035500 +0700" stop="20250919063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alexander Shevchenko - Gael Monfils</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918020000 +0700" stop="20250918040500 +0700" channel="COSMOTE Sport 7 HD">
@@ -629,5 +625,13 @@
 <programme start="20250919010000 +0700" stop="20250919030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Neom - Al-Okhdood Club (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250919030000 +0700" stop="20250919033000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919033000 +0700" stop="20250919040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
