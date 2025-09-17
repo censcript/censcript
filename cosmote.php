@@ -58,10 +58,6 @@
     <title>Football: FC Bayern Munchen - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917131000 +0700" stop="20250917151000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cagliari - Parma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250917151000 +0700" stop="20250917171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -144,10 +140,6 @@
 </programme>
 <programme start="20250918150500 +0700" stop="20250918171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Aris</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250917122000 +0700" stop="20250917152500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Houston Texans - Tampa Bay Buccaneers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917152500 +0700" stop="20250917172500 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,8 +254,12 @@
     <title>Basketball: Golden State Valkyries - Minnesota Lynx</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917140500 +0700" stop="20250917151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20250918162500 +0700" stop="20250918165500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918165500 +0700" stop="20250918172500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917151000 +0700" stop="20250917161000 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +362,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917132500 +0700" stop="20250917153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20250918163500 +0700" stop="20250918175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917153000 +0700" stop="20250917180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -438,10 +434,6 @@
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250917140000 +0700" stop="20250917160000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250917160000 +0700" stop="20250917180000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -510,8 +502,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917140000 +0700" stop="20250917160000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250918160000 +0700" stop="20250918180000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917160000 +0700" stop="20250917180000 +0700" channel="COSMOTE Sport 8 HD">
@@ -570,8 +562,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917140000 +0700" stop="20250917160000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250918160000 +0700" stop="20250918180000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917160000 +0700" stop="20250917180000 +0700" channel="COSMOTE Sport 9 HD">
@@ -629,5 +621,9 @@
 <programme start="20250918153000 +0700" stop="20250918160000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918160000 +0700" stop="20250918180000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Basketball: NBA G League United - Flamengo (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

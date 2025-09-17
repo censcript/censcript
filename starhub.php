@@ -4811,7 +4811,7 @@
         <title>Bigg Boss Plus Season 7</title>
     </programme>
     <programme start="20250916193000 +0000" stop="20250916223000 +0000" channel="Asianet.starhub">
-        <title>Maheshum Maruthiyum</title>
+        <title>Iyobinte Pusthakam</title>
     </programme>
     <programme start="20250916223000 +0000" stop="20250916230000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
