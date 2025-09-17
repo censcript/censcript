@@ -4820,7 +4820,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20250916233000 +0000" stop="20250917020000 +0000" channel="Asianet.starhub">
-        <title>Oppam</title>
+        <title>Mambazhakkalam</title>
     </programme>
     <programme start="20250917020000 +0000" stop="20250917023000 +0000" channel="Asianet.starhub">
         <title>Ishttam Mathram</title>
@@ -4835,7 +4835,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20250917040000 +0000" stop="20250917063000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Passenger</title>
     </programme>
     <programme start="20250917063000 +0000" stop="20250917070000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -4856,7 +4856,7 @@
         <title>Bigg Boss Plus Season 7</title>
     </programme>
     <programme start="20250917093000 +0000" stop="20250917123000 +0000" channel="Asianet.starhub">
-        <title>Mannar Mathai Speaking - 2</title>
+        <title>Kaly</title>
     </programme>
     <programme start="20250917123000 +0000" stop="20250917130000 +0000" channel="Asianet.starhub">
         <title>Jaanakiyudeyum Abhiyudeyum Veedu</title>

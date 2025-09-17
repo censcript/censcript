@@ -1,7 +1,3 @@
-<programme start="20250917103000 +0700" stop="20250917123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PSV Eindhoven - Union Saint-Gilloise</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250917123000 +0700" stop="20250917143000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Tottenham Hotspur - Villarreal CF</title>
     <desc>Live: Tidak</desc>
@@ -60,6 +56,10 @@
 </programme>
 <programme start="20250918123000 +0700" stop="20250918130000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918130000 +0700" stop="20250918150000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Paris Saint Germain - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917110000 +0700" stop="20250917131000 +0700" channel="COSMOTE Sport 2 HD">
@@ -146,8 +146,8 @@
     <title>Football: Egaleo - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917120000 +0700" stop="20250917122000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20250918131000 +0700" stop="20250918150500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917122000 +0700" stop="20250917152500 +0700" channel="COSMOTE Sport 3 HD">
@@ -196,6 +196,10 @@
 </programme>
 <programme start="20250918114000 +0700" stop="20250918134000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Famalicao - Sporting CP</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918134000 +0700" stop="20250918154500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Hilal - Al-Qadsiah</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917120000 +0700" stop="20250917140000 +0700" channel="COSMOTE Sport 4 HD">
@@ -260,10 +264,6 @@
 </programme>
 <programme start="20250918121500 +0700" stop="20250918142500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Treviso - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250917113500 +0700" stop="20250917123500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917123500 +0700" stop="20250917133500 +0700" channel="COSMOTE Sport 5 HD">
@@ -366,8 +366,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917115000 +0700" stop="20250917122500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250918133000 +0700" stop="20250918140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917122500 +0700" stop="20250917132500 +0700" channel="COSMOTE Sport 6 HD">
@@ -436,6 +436,10 @@
 </programme>
 <programme start="20250918124000 +0700" stop="20250918131000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Sports Rundown E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918131000 +0700" stop="20250918153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917120000 +0700" stop="20250917140000 +0700" channel="COSMOTE Sport 7 HD">
