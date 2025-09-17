@@ -2246,16 +2246,16 @@
         <title>Review Show</title>
     </programme>
     <programme start="20250917113000 +0000" stop="20250917133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hangzhou Day 1 Match 3 (Live)</title>
+        <title>ATP Tour 250 2025: Hangzhou Day 1 Wu v Mannarino</title>
     </programme>
     <programme start="20250917133000 +0000" stop="20250917140000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250917140000 +0000" stop="20250917153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hangzhou Day 1 Match 1</title>
+        <title>ATP Tour 250 2025: Chengdu Day 1 Zhou v Norrie</title>
     </programme>
     <programme start="20250917153000 +0000" stop="20250917170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hangzhou Day 1 Match 2</title>
+        <title>ATP Tour 250 2025: Hangzhou Day 1 Tien v Navone</title>
     </programme>
     <programme start="20250916160000 +0000" stop="20250916170000 +0000" channel="TVB Xing He.starhub">
         <title>Road To Eternity</title>
