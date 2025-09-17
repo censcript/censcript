@@ -9133,8 +9133,117 @@
 <programme start="20250917155500 +0000" stop="20250917162500 +0000" channel="tvN Movies.mncvision">
     <title>The Pirates</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250916181000 +0000" stop="20250916200000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Code Name: Jackal</title>
+</programme>
+<programme start="20250916200000 +0000" stop="20250916215000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Killing Romance</title>
+</programme>
+<programme start="20250916215000 +0000" stop="20250916235500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Kingmaker</title>
+</programme>
+<programme start="20250916235500 +0000" stop="20250917015000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Wild</title>
+</programme>
+<programme start="20250917015000 +0000" stop="20250917032500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Glorious My Revenge</title>
+</programme>
+<programme start="20250917032500 +0000" stop="20250917052000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Office</title>
+</programme>
+<programme start="20250917052000 +0000" stop="20250917071000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Mission: Possible</title>
+</programme>
+<programme start="20250917071000 +0000" stop="20250917085500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Hijack 1971</title>
+</programme>
+<programme start="20250917085500 +0000" stop="20250917105000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Honest Candidate 2</title>
+</programme>
+<programme start="20250917105000 +0000" stop="20250917121000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Rolling</title>
+</programme>
+<programme start="20250917121000 +0000" stop="20250917140000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Deliver Us From Evil</title>
+</programme>
+<programme start="20250917140000 +0000" stop="20250917155500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Confession</title>
+</programme>
+<programme start="20250917155500 +0000" stop="20250917162500 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Pirates</title>
+</programme>
+<programme start="20250916170000 +0000" stop="20250916173000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20250916173000 +0000" stop="20250916190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20250916190000 +0000" stop="20250916200000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20250916200000 +0000" stop="20250916203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
+<programme start="20250916203000 +0000" stop="20250916210000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20250916210000 +0000" stop="20250916213000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi</title>
+</programme>
+<programme start="20250916213000 +0000" stop="20250916230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20250916230000 +0000" stop="20250916233000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20250916233000 +0000" stop="20250917013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20250917013000 +0000" stop="20250917020000 +0000" channel="tvOne.mncvision">
+    <title>Hidup Sehat (L)</title>
+</programme>
+<programme start="20250917020000 +0000" stop="20250917023000 +0000" channel="tvOne.mncvision">
+    <title>Inspirasi Pagi (L)</title>
+</programme>
+<programme start="20250917023000 +0000" stop="20250917033000 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru (L)</title>
+</programme>
+<programme start="20250917033000 +0000" stop="20250917040000 +0000" channel="tvOne.mncvision">
+    <title>Metropolitan (L)</title>
+</programme>
+<programme start="20250917040000 +0000" stop="20250917060000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20250917060000 +0000" stop="20250917073000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang (L)</title>
+</programme>
+<programme start="20250917073000 +0000" stop="20250917083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih (L)</title>
+</programme>
+<programme start="20250917083000 +0000" stop="20250917090000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal (L)</title>
+</programme>
+<programme start="20250917090000 +0000" stop="20250917110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20250917110000 +0000" stop="20250917130000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20250917130000 +0000" stop="20250917140000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Business Forum (L)</title>
+</programme>
+<programme start="20250917140000 +0000" stop="20250917150000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20250917150000 +0000" stop="20250917160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20250917160000 +0000" stop="20250917163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam (L)</title>
+</programme>
+<programme start="20250917163000 +0000" stop="20250916170000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama</title>
+</programme>
 <programme start="20250916170000 +0000" stop="20250916173000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
@@ -9246,7 +9355,83 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250917163000 +0000" stop="20250916170000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250916175900 +0000" stop="20250916195600 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250916195600 +0000" stop="20250916212900 +0000" channel="UNIQUES.mncvision">
+    <title>Don&#039;t Come Back From Moon</title>
+</programme>
+<programme start="20250916212900 +0000" stop="20250916232000 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250916232000 +0000" stop="20250917003300 +0000" channel="UNIQUES.mncvision">
+    <title>On Fire</title>
+</programme>
+<programme start="20250917003300 +0000" stop="20250917024100 +0000" channel="UNIQUES.mncvision">
+    <title>Broadcast Signal Intrusion</title>
+</programme>
+<programme start="20250917024100 +0000" stop="20250917044500 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250917044500 +0000" stop="20250917065300 +0000" channel="UNIQUES.mncvision">
+    <title>Kandahar</title>
+</programme>
+<programme start="20250917065300 +0000" stop="20250917082600 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250917082600 +0000" stop="20250917095700 +0000" channel="UNIQUES.mncvision">
+    <title>End Of Sentence</title>
+</programme>
+<programme start="20250917095700 +0000" stop="20250917114300 +0000" channel="UNIQUES.mncvision">
+    <title>Crawl To Me Darling</title>
+</programme>
+<programme start="20250917114300 +0000" stop="20250917132000 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250917132000 +0000" stop="20250917145900 +0000" channel="UNIQUES.mncvision">
+    <title>The Bling Ring</title>
+</programme>
+<programme start="20250917145900 +0000" stop="20250917152900 +0000" channel="UNIQUES.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250916175900 +0000" stop="20250916195600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250916195600 +0000" stop="20250916212900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Don&#039;t Come Back From Moon</title>
+</programme>
+<programme start="20250916212900 +0000" stop="20250916232000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250916232000 +0000" stop="20250917003300 +0000" channel="UNIQUES HD.mncvision">
+    <title>On Fire</title>
+</programme>
+<programme start="20250917003300 +0000" stop="20250917024100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Broadcast Signal Intrusion</title>
+</programme>
+<programme start="20250917024100 +0000" stop="20250917044500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250917044500 +0000" stop="20250917065300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Kandahar</title>
+</programme>
+<programme start="20250917065300 +0000" stop="20250917082600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250917082600 +0000" stop="20250917095700 +0000" channel="UNIQUES HD.mncvision">
+    <title>End Of Sentence</title>
+</programme>
+<programme start="20250917095700 +0000" stop="20250917114300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Crawl To Me Darling</title>
+</programme>
+<programme start="20250917114300 +0000" stop="20250917132000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20250917132000 +0000" stop="20250917145900 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Bling Ring</title>
+</programme>
+<programme start="20250917145900 +0000" stop="20250917152900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
 Error: Unable to fetch data. HTTP Status Code: 500
 Error: Unable to fetch data. HTTP Status Code: 500
