@@ -2833,30 +2833,6 @@
 <programme start="20250917200000 +0000" stop="20250917220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Klassiker der Woche: RBL - KOE (2017/18)</title>
 </programme>
-<programme start="20250917063000 +0000" stop="20250917083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: Hannover 96 - Hertha BSC, tipico Topspiel der Woche, 5. Spieltag</title>
-</programme>
-<programme start="20250917083000 +0000" stop="20250917103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Bayer Leverkusen - Eintracht Frankfurt, Flutlicht-Freitag, 3. Spieltag</title>
-</programme>
-<programme start="20250917103000 +0000" stop="20250917123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: 1. FC Heidenheim - Borussia Dortmund, 3. Spieltag</title>
-</programme>
-<programme start="20250917123000 +0000" stop="20250917143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - Hamburger SV, tipico Topspiel der Woche, 3. Spieltag</title>
-</programme>
-<programme start="20250917143000 +0000" stop="20250917163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: 1. FC Heidenheim - Borussia Dortmund, 3. Spieltag</title>
-</programme>
-<programme start="20250917163000 +0000" stop="20250917183000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - Hamburger SV, tipico Topspiel der Woche, 3. Spieltag</title>
-</programme>
-<programme start="20250917183000 +0000" stop="20250917203000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: Hannover 96 - Hertha BSC, tipico Topspiel der Woche, 5. Spieltag</title>
-</programme>
-<programme start="20250917203000 +0000" stop="20250917223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Bayer Leverkusen - Eintracht Frankfurt, Flutlicht-Freitag, 3. Spieltag</title>
-</programme>
 <programme start="20250916220000 +0000" stop="20250917000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Italien</title>
 </programme>
@@ -3276,24 +3252,6 @@
 </programme>
 <programme start="20250917210000 +0000" stop="20250917230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: Topspiel, 1. Tag</title>
-</programme>
-<programme start="20250916231500 +0000" stop="20250917001500 +0000" channel="Sky Sport UHD.skyde">
-    <title>PMSC: Rennen - GP Italien</title>
-</programme>
-<programme start="20250917001500 +0000" stop="20250917011500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F2: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20250917011500 +0000" stop="20250917021500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F3: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20250917021500 +0000" stop="20250917040000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Mondo Duplantis: Immer höher</title>
-</programme>
-<programme start="20250917040000 +0000" stop="20250917060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
-</programme>
-<programme start="20250917060000 +0000" stop="20250917061500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Info: UHD</title>
 </programme>
 <programme start="20250917044000 +0000" stop="20250917050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
