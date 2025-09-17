@@ -7972,14 +7972,23 @@
     <programme start="20250916163000 +0000" stop="20250916220000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250916220000 +0000" stop="20250917040000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250916230000 +0000" stop="20250917013000 +0000" channel="Asianet Movies.starhub">
+        <title>Poomaram</title>
     </programme>
-    <programme start="20250917040000 +0000" stop="20250917100000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250917013000 +0000" stop="20250917043000 +0000" channel="Asianet Movies.starhub">
+        <title>Porinju Mariam Jose</title>
     </programme>
-    <programme start="20250917100000 +0000" stop="20250917163000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250917043000 +0000" stop="20250917073000 +0000" channel="Asianet Movies.starhub">
+        <title>Pulimurugan</title>
+    </programme>
+    <programme start="20250917073000 +0000" stop="20250917102500 +0000" channel="Asianet Movies.starhub">
+        <title>Hello Mummy</title>
+    </programme>
+    <programme start="20250917102500 +0000" stop="20250917133000 +0000" channel="Asianet Movies.starhub">
+        <title>Bangalore Days</title>
+    </programme>
+    <programme start="20250917133000 +0000" stop="20250917163000 +0000" channel="Asianet Movies.starhub">
+        <title>Lucifer</title>
     </programme>
     <programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="Astro Warna HD.starhub">
         <title>Hantu Hari Ini</title>

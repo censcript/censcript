@@ -3022,55 +3022,49 @@
 <programme start="20250917213000 +0000" stop="20250917223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
 </programme>
-<programme start="20250915220000 +0000" stop="20250916010000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250916220000 +0000" stop="20250916230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250916010000 +0000" stop="20250916020000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+<programme start="20250916230000 +0000" stop="20250916233000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Ivan Rakitic</title>
 </programme>
-<programme start="20250916020000 +0000" stop="20250916040000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250916233000 +0000" stop="20250917040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20250916040000 +0000" stop="20250916070000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917040000 +0000" stop="20250917100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20250916070000 +0000" stop="20250916080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20250916080000 +0000" stop="20250916093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20250916093000 +0000" stop="20250916100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>PL: Darum bin ich hier - Nick Woltemade Exklusiv</title>
-</programme>
-<programme start="20250916100000 +0000" stop="20250916130000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917100000 +0000" stop="20250917130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20250916130000 +0000" stop="20250916150000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917130000 +0000" stop="20250917150000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250916150000 +0000" stop="20250916151500 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917150000 +0000" stop="20250917151500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20250916151500 +0000" stop="20250916153000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917151500 +0000" stop="20250917153000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Leichtathletik-WM 2025 - Die Analyse</title>
 </programme>
-<programme start="20250916153000 +0000" stop="20250916160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
+<programme start="20250917153000 +0000" stop="20250917160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime Spezial - Der Königsklassen-Countdown</title>
-</programme>
-<programme start="20250916163000 +0000" stop="20250916183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917160000 +0000" stop="20250917163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20250916183000 +0000" stop="20250916190000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+<programme start="20250917163000 +0000" stop="20250917170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
-<programme start="20250916190000 +0000" stop="20250916210000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917170000 +0000" stop="20250917183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250917183000 +0000" stop="20250917190000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
+</programme>
+<programme start="20250917190000 +0000" stop="20250917210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Watch Party - Talk, News &amp; Analysen</title>
 </programme>
-<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20250917210000 +0000" stop="20250917220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20250916220000 +0000" stop="20250917000000 +0000" channel="Sky Sport Premier League HD.skyde">
