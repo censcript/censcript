@@ -286,6 +286,9 @@
 <programme start="20250917170000 +0000" stop="20250917173000 +0000" channel="iNews.vision">
 <title>GX</title>
 </programme>
+<programme start="20250917173000 +0000" stop="20250917180000 +0000" channel="iNews.vision">
+<title>Realita</title>
+</programme>
 <programme start="20250917180000 +0000" stop="20250917184500 +0000" channel="iNews.vision">
 <title>iNews Room</title>
 </programme>
@@ -310,10 +313,10 @@
 <programme start="20250917230200 +0000" stop="20250917233000 +0000" channel="iNews.vision">
 <title>iNews Sport Pagi (L)</title>
 </programme>
-<programme start="20250918000000 +0000" stop="20250918003000 +0000" channel="iNews.vision">
+<programme start="20250917233000 +0000" stop="20250918000000 +0000" channel="iNews.vision">
 <title>AFC Qatar 2023: JOR Vs KOR (L)</title>
 </programme>
-<programme start="20250918003000 +0000" stop="20250918010000 +0000" channel="iNews.vision">
+<programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20250918010000 +0000" stop="20250918021500 +0000" channel="iNews.vision">
@@ -324,6 +327,9 @@
 </programme>
 <programme start="20250918040000 +0000" stop="20250918060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
+</programme>
+<programme start="20250918060000 +0000" stop="20250918063000 +0000" channel="iNews.vision">
+<title>Speak After Lunch: Polri (L)</title>
 </programme>
 <programme start="20250918063000 +0000" stop="20250918080000 +0000" channel="iNews.vision">
 <title>Intens Reborn</title>

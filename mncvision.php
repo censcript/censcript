@@ -9433,5 +9433,165 @@
 <programme start="20250917145900 +0000" stop="20250917152900 +0000" channel="UNIQUES HD.mncvision">
     <title>Platinum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250916170000 +0000" stop="20250916180000 +0000" channel="Vision Prime.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250916180000 +0000" stop="20250916190000 +0000" channel="Vision Prime.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20250916190000 +0000" stop="20250916200000 +0000" channel="Vision Prime.mncvision">
+    <title>Benci Jadi Bucin</title>
+</programme>
+<programme start="20250916200000 +0000" stop="20250916210000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250916220000 +0000" stop="20250916230000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250916230000 +0000" stop="20250916233000 +0000" channel="Vision Prime.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250916233000 +0000" stop="20250917000000 +0000" channel="Vision Prime.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250917000000 +0000" stop="20250917003000 +0000" channel="Vision Prime.mncvision">
+    <title>Bumbu Rahasia</title>
+</programme>
+<programme start="20250917003000 +0000" stop="20250917010000 +0000" channel="Vision Prime.mncvision">
+    <title>Pedes Endeus</title>
+</programme>
+<programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="Vision Prime.mncvision">
+    <title>Supermarket Sweep</title>
+</programme>
+<programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="Vision Prime.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20250917030000 +0000" stop="20250917040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250917040000 +0000" stop="20250917050000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250917050000 +0000" stop="20250917053000 +0000" channel="Vision Prime.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250917053000 +0000" stop="20250917063000 +0000" channel="Vision Prime.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250917063000 +0000" stop="20250917073000 +0000" channel="Vision Prime.mncvision">
+    <title>Mantan IPA &amp; IPS</title>
+</programme>
+<programme start="20250917073000 +0000" stop="20250917083000 +0000" channel="Vision Prime.mncvision">
+    <title>Ada Dua Cinta</title>
+</programme>
+<programme start="20250917083000 +0000" stop="20250917084500 +0000" channel="Vision Prime.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250917084500 +0000" stop="20250917094500 +0000" channel="Vision Prime.mncvision">
+    <title>Benci Jadi Bucin</title>
+</programme>
+<programme start="20250917094500 +0000" stop="20250917110000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250917110000 +0000" stop="20250917120000 +0000" channel="Vision Prime.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250917120000 +0000" stop="20250917130000 +0000" channel="Vision Prime.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250917130000 +0000" stop="20250917140000 +0000" channel="Vision Prime.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20250917140000 +0000" stop="20250917143000 +0000" channel="Vision Prime.mncvision">
+    <title>Culture Shock</title>
+</programme>
+<programme start="20250917143000 +0000" stop="20250917150000 +0000" channel="Vision Prime.mncvision">
+    <title>Beyond Creator Indonesian...</title>
+</programme>
+<programme start="20250917150000 +0000" stop="20250917153000 +0000" channel="Vision Prime.mncvision">
+    <title>Bhoot Returns</title>
+</programme>
+<programme start="20250916170000 +0000" stop="20250916180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250916180000 +0000" stop="20250916190000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20250916190000 +0000" stop="20250916200000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Benci Jadi Bucin</title>
+</programme>
+<programme start="20250916200000 +0000" stop="20250916210000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250916210000 +0000" stop="20250916220000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250916220000 +0000" stop="20250916230000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250916230000 +0000" stop="20250916233000 +0000" channel="Vision Prime HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250916233000 +0000" stop="20250917000000 +0000" channel="Vision Prime HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250917000000 +0000" stop="20250917003000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Bumbu Rahasia</title>
+</programme>
+<programme start="20250917003000 +0000" stop="20250917010000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Pedes Endeus</title>
+</programme>
+<programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Supermarket Sweep</title>
+</programme>
+<programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20250917030000 +0000" stop="20250917040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20250917040000 +0000" stop="20250917050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250917050000 +0000" stop="20250917053000 +0000" channel="Vision Prime HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20250917053000 +0000" stop="20250917063000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Teka-Teki Kata</title>
+</programme>
+<programme start="20250917063000 +0000" stop="20250917073000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mantan IPA &amp; IPS</title>
+</programme>
+<programme start="20250917073000 +0000" stop="20250917083000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ada Dua Cinta</title>
+</programme>
+<programme start="20250917083000 +0000" stop="20250917084500 +0000" channel="Vision Prime HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20250917084500 +0000" stop="20250917094500 +0000" channel="Vision Prime HD.mncvision">
+    <title>Benci Jadi Bucin</title>
+</programme>
+<programme start="20250917094500 +0000" stop="20250917110000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20250917110000 +0000" stop="20250917120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20250917120000 +0000" stop="20250917130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20250917130000 +0000" stop="20250917140000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20250917140000 +0000" stop="20250917143000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Culture Shock</title>
+</programme>
+<programme start="20250917143000 +0000" stop="20250917150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Beyond Creator Indonesian...</title>
+</programme>
+<programme start="20250917150000 +0000" stop="20250917153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Bhoot Returns</title>
+</programme>
