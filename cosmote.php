@@ -262,10 +262,6 @@
     <title>Basketball: AEK - Bertram Derthona Tortona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917234000 +0700" stop="20250918004500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250918004500 +0700" stop="20250918020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -422,8 +418,8 @@
     <title>Football: Club Brugge - AS Monaco FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250918000000 +0700" stop="20250918010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250919015000 +0700" stop="20250919023500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918010000 +0700" stop="20250918013000 +0700" channel="COSMOTE Sport 7 HD">
@@ -501,6 +497,10 @@
 <programme start="20250918234500 +0700" stop="20250919014500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: FC Copenhagen - Bayer 04 Leverkusen (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250919014500 +0700" stop="20250919020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918000000 +0700" stop="20250918020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -637,5 +637,9 @@
 <programme start="20250919003000 +0700" stop="20250919010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919010000 +0700" stop="20250919030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: Neom - Al-Okhdood Club (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
