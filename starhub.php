@@ -8239,7 +8239,7 @@
     <programme start="20250917141900 +0000" stop="20250917144400 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20250917144400 +0000" stop="20250917170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20250917144400 +0000" stop="20250917170500 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20250916160000 +0000" stop="20250916163000 +0000" channel="Travelxp HD.starhub">

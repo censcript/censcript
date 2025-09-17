@@ -664,6 +664,9 @@
 <programme start="20250918114500 +0000" stop="20250918121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250916233000 +0000" stop="20250917013000 +0000" channel="ANTV.vision">
+<title>Macan Kampus</title>
+</programme>
 <programme start="20250917013000 +0000" stop="20250917050000 +0000" channel="ANTV.vision">
 <title>Waqt: The Race Against Time</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250918060000 +0000" stop="20250918063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
-</programme>
-<programme start="20250918063000 +0000" stop="20250918080000 +0000" channel="BTV.vision">
-<title>Spot On</title>
 </programme>
