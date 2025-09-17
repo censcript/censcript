@@ -5668,11 +5668,11 @@
 <programme start="20250917134000 +0000" stop="20250917145000 +0000" channel="MDTV.mncvision">
     <title>Gajah Mada</title>
 </programme>
-<programme start="20250917145000 +0000" stop="20250917154500 +0000" channel="MDTV.mncvision">
-    <title>Janda Kembang</title>
-</programme>
-<programme start="20250917154500 +0000" stop="20250917161500 +0000" channel="MDTV.mncvision">
+<programme start="20250917145000 +0000" stop="20250917160000 +0000" channel="MDTV.mncvision">
     <title>Top Spot</title>
+</programme>
+<programme start="20250917160000 +0000" stop="20250917163000 +0000" channel="MDTV.mncvision">
+    <title>Potret Selebriti</title>
 </programme>
 <programme start="20250916170000 +0000" stop="20250916170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
