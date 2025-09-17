@@ -2030,7 +2030,7 @@
         <title>UEFA Champions League 2025/26 PSV vs Union Saint-Gilloise - MD1 (Live)</title>
     </programme>
     <programme start="20250916185500 +0000" stop="20250916210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26 Tottenham vs Villarreal - MD1 (Live)</title>
+        <title>Tottenham vs Villarreal - MD1 (Live)</title>
     </programme>
     <programme start="20250916210000 +0000" stop="20250916213000 +0000" channel="beIN Sports 3.starhub">
         <title>PSG TV Specials 2025/26</title>
@@ -7969,8 +7969,17 @@
     <programme start="20250916100000 +0000" stop="20250916163000 +0000" channel="Asianet Movies.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250916163000 +0000" stop="20250916220000 +0000" channel="Asianet Movies.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250916163000 +0000" stop="20250916192000 +0000" channel="Asianet Movies.starhub">
+        <title>Bhramaram</title>
+    </programme>
+    <programme start="20250916192000 +0000" stop="20250916220500 +0000" channel="Asianet Movies.starhub">
+        <title>Ulsaha Committee</title>
+    </programme>
+    <programme start="20250916220500 +0000" stop="20250916223000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20250916223000 +0000" stop="20250916230000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
     </programme>
     <programme start="20250916230000 +0000" stop="20250917013000 +0000" channel="Asianet Movies.starhub">
         <title>Poomaram</title>
