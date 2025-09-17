@@ -1,7 +1,3 @@
-<programme start="20250917150000 +0700" stop="20250917170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Athletic Club - Arsenal</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250917170000 +0700" stop="20250917190000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - Olympique de Marseille</title>
     <desc>Live: Tidak</desc>
@@ -56,6 +52,10 @@
 </programme>
 <programme start="20250918150000 +0700" stop="20250918170000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Bayern Munchen - Chelsea FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918170000 +0700" stop="20250918190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Liverpool FC - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917151000 +0700" stop="20250917171000 +0700" channel="COSMOTE Sport 2 HD">
@@ -142,6 +142,10 @@
     <title>Football: Panetolikos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250918171000 +0700" stop="20250918191500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Levadiakos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250917152500 +0700" stop="20250917172500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lanus - Fluminense</title>
     <desc>Live: Tidak</desc>
@@ -194,8 +198,8 @@
     <title>Football: Velez Sarsfield - Racing Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917150000 +0700" stop="20250917170000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Seattle Storm - Las Vegas Aces</title>
+<programme start="20250918174500 +0700" stop="20250918194500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Arouca - Casa Pia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917170000 +0700" stop="20250917190500 +0700" channel="COSMOTE Sport 4 HD">
@@ -262,12 +266,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917151000 +0700" stop="20250917161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20250918172500 +0700" stop="20250918175500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250917161000 +0700" stop="20250917164000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250918175500 +0700" stop="20250918195500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Seattle Storm - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917164000 +0700" stop="20250917181000 +0700" channel="COSMOTE Sport 5 HD">
@@ -364,6 +368,10 @@
 </programme>
 <programme start="20250918163500 +0700" stop="20250918175500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250918175500 +0700" stop="20250918191500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250917153000 +0700" stop="20250917180000 +0700" channel="COSMOTE Sport 6 HD">
