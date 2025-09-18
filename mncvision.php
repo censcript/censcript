@@ -3439,6 +3439,120 @@
 <programme start="20250918160000 +0000" stop="20250918163000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Makan Bareng Luna</title>
 </programme>
+<programme start="20250917170000 +0000" stop="20250917173000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20250917173000 +0000" stop="20250917183000 +0000" channel="Food Travel HD.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20250917183000 +0000" stop="20250917193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250917193000 +0000" stop="20250917203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20250917203000 +0000" stop="20250917210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250917210000 +0000" stop="20250917213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20250917213000 +0000" stop="20250917220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250917220000 +0000" stop="20250917223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20250917223000 +0000" stop="20250917230000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250917230000 +0000" stop="20250917233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Trip</title>
+</programme>
+<programme start="20250917233000 +0000" stop="20250918000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250918000000 +0000" stop="20250918003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250918003000 +0000" stop="20250918010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250918010000 +0000" stop="20250918013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250918013000 +0000" stop="20250918020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kung Fu Chef</title>
+</programme>
+<programme start="20250918020000 +0000" stop="20250918023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250918023000 +0000" stop="20250918030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Food Hunter</title>
+</programme>
+<programme start="20250918030000 +0000" stop="20250918033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20250918033000 +0000" stop="20250918040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Siti Tour</title>
+</programme>
+<programme start="20250918040000 +0000" stop="20250918050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250918050000 +0000" stop="20250918060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20250918060000 +0000" stop="20250918063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250918063000 +0000" stop="20250918070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250918070000 +0000" stop="20250918080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="Food Travel HD.mncvision">
+    <title>+62 Fo.Mo (Food &amp; Moving)</title>
+</programme>
+<programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Untung Ada Rudy</title>
+</programme>
+<programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
+<programme start="20250918110000 +0000" stop="20250918113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250918113000 +0000" stop="20250918120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20250918120000 +0000" stop="20250918123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20250918123000 +0000" stop="20250918130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Food Hunter</title>
+</programme>
+<programme start="20250918130000 +0000" stop="20250918133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Celebs Food</title>
+</programme>
+<programme start="20250918133000 +0000" stop="20250918140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Extreme Kuliner</title>
+</programme>
+<programme start="20250918140000 +0000" stop="20250918143000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20250918143000 +0000" stop="20250918150000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20250918150000 +0000" stop="20250918153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20250918153000 +0000" stop="20250918160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20250918160000 +0000" stop="20250918163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Makan Bareng Luna</title>
+</programme>
 <programme start="20250917170000 +0000" stop="20250917180000 +0000" channel="FOX News.mncvision">
     <title>America Reports</title>
 </programme>
