@@ -904,21 +904,6 @@
 <programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Siang</title>
 </programme>
-<programme start="20250918070000 +0000" stop="20250918073000 +0000" channel="Kompas TV.vision">
-<title>Sasaran</title>
-</programme>
-<programme start="20250918073000 +0000" stop="20250918080000 +0000" channel="Kompas TV.vision">
-<title>Jurnal Merah Putih</title>
-</programme>
-<programme start="20250918080000 +0000" stop="20250918083000 +0000" channel="Kompas TV.vision">
-<title>Indonesia Update</title>
-</programme>
-<programme start="20250918083000 +0000" stop="20250918090000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
-</programme>
-<programme start="20250918090000 +0000" stop="20250918103000 +0000" channel="Kompas TV.vision">
-<title>Kompas Petang</title>
-</programme>
 <programme start="20250918103000 +0000" stop="20250918123000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Malam</title>
 </programme>
@@ -927,9 +912,6 @@
 </programme>
 <programme start="20250918133000 +0000" stop="20250918143000 +0000" channel="Kompas TV.vision">
 <title>Rosi</title>
-</programme>
-<programme start="20250918143000 +0000" stop="20250918153000 +0000" channel="Kompas TV.vision">
-<title>Kompas Malam</title>
 </programme>
 <programme start="20250918153000 +0000" stop="20250918160000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama</title>
@@ -960,9 +942,6 @@
 </programme>
 <programme start="20250919000000 +0000" stop="20250919023000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
-</programme>
-<programme start="20250919023000 +0000" stop="20250919030000 +0000" channel="Kompas TV.vision">
-<title>Sasaran</title>
 </programme>
 <programme start="20250919030000 +0000" stop="20250919033000 +0000" channel="Kompas TV.vision">
 <title>Sasaran</title>

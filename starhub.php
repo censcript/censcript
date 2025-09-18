@@ -3754,6 +3754,12 @@
     <programme start="20250917183000 +0000" stop="20250917184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 123 (R)</title>
     </programme>
+    <programme start="20250917184500 +0000" stop="20250917190200 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20250917190200 +0000" stop="20250917191200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natural Grandeur of the East Mini</title>
+    </programme>
     <programme start="20250917191200 +0000" stop="20250917191500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>

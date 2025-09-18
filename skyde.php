@@ -1599,6 +1599,69 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250918213500 +0000" stop="20250918220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20250917221000 +0000" stop="20250917234000 +0000" channel="Romance TV HD.skyde">
+    <title>Venus im vierten Haus</title>
+</programme>
+<programme start="20250917234000 +0000" stop="20250918011000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Bundschuh - Unter Verschluss</title>
+</programme>
+<programme start="20250918011000 +0000" stop="20250918020000 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250918020000 +0000" stop="20250918020500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250918020500 +0000" stop="20250918021000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250918021000 +0000" stop="20250918021500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250918021500 +0000" stop="20250918022000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250918022000 +0000" stop="20250918035000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Tansania</title>
+</programme>
+<programme start="20250918035000 +0000" stop="20250918052500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die Elster und der Kapitän</title>
+</programme>
+<programme start="20250918052500 +0000" stop="20250918070000 +0000" channel="Romance TV HD.skyde">
+    <title>Lilly Schönauer: Die Hochzeit meiner Schwester</title>
+</programme>
+<programme start="20250918070000 +0000" stop="20250918083500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Das Vermächtnis unseres Vaters</title>
+</programme>
+<programme start="20250918083500 +0000" stop="20250918093000 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250918093000 +0000" stop="20250918110000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Perth</title>
+</programme>
+<programme start="20250918110000 +0000" stop="20250918123500 +0000" channel="Romance TV HD.skyde">
+    <title>Venus im vierten Haus</title>
+</programme>
+<programme start="20250918123500 +0000" stop="20250918141000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Bundschuh - Unter Verschluss</title>
+</programme>
+<programme start="20250918141000 +0000" stop="20250918154500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumhotel: Überraschung in Mexiko</title>
+</programme>
+<programme start="20250918154500 +0000" stop="20250918172000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Liebe ist unberechenbar</title>
+</programme>
+<programme start="20250918172000 +0000" stop="20250918181500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250918181500 +0000" stop="20250918194500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Fliehende Pferde in Sörmland</title>
+</programme>
+<programme start="20250918194500 +0000" stop="20250918212000 +0000" channel="Romance TV HD.skyde">
+    <title>Weingut Wader: Nur zusammen sind wir stark</title>
+</programme>
+<programme start="20250918212000 +0000" stop="20250918221500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
 <programme start="20250917220500 +0000" stop="20250917225500 +0000" channel="Sky Atlantic HD.skyde">
     <title>And Just Like That...</title>
 </programme>
