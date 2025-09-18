@@ -2243,7 +2243,7 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250918153000 +0000" stop="20250918170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hangzhou Day 2 Match 1</title>
+        <title>Hangzhou Day 2 Etcheverry v Dzumhur</title>
     </programme>
     <programme start="20250917160000 +0000" stop="20250917170000 +0000" channel="TVB Xing He.starhub">
         <title>Road To Eternity</title>
