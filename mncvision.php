@@ -4103,10 +4103,10 @@
     <title>Kera Sakti</title>
 </programme>
 <programme start="20250918100000 +0000" stop="20250918114000 +0000" channel="GTV.mncvision">
-    <title>Bumblebee</title>
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250918114000 +0000" stop="20250918141000 +0000" channel="GTV.mncvision">
-    <title>Qual. AFC Champions League</title>
+    <title>AFC: Persib Vs Lion City</title>
 </programme>
 <programme start="20250918141000 +0000" stop="20250918160000 +0000" channel="GTV.mncvision">
     <title>The Taichi Master</title>
@@ -4148,10 +4148,10 @@
     <title>Kera Sakti</title>
 </programme>
 <programme start="20250918100000 +0000" stop="20250918114000 +0000" channel="GTV HD.mncvision">
-    <title>Bumblebee</title>
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20250918114000 +0000" stop="20250918141000 +0000" channel="GTV HD.mncvision">
-    <title>Qual. AFC Champions League</title>
+    <title>AFC: Persib Vs Lion City</title>
 </programme>
 <programme start="20250918141000 +0000" stop="20250918160000 +0000" channel="GTV HD.mncvision">
     <title>The Taichi Master</title>
