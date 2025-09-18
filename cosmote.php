@@ -1,7 +1,3 @@
-<programme start="20250918220000 +0700" stop="20250918230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250918230000 +0700" stop="20250918234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -56,6 +52,10 @@
 </programme>
 <programme start="20250919223000 +0700" stop="20250919230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919230000 +0700" stop="20250920000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918213500 +0700" stop="20250918234500 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20250919225500 +0700" stop="20250919230500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919230500 +0700" stop="20250920010500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918214500 +0700" stop="20250918234500 +0700" channel="COSMOTE Sport 3 HD">
@@ -326,8 +330,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250918204000 +0700" stop="20250918230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexander Shevchenko - Gael Monfils</title>
+<programme start="20250919233000 +0700" stop="20250920010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918230000 +0700" stop="20250918234500 +0700" channel="COSMOTE Sport 6 HD">
@@ -350,8 +354,12 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919035500 +0700" stop="20250919063000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250919035500 +0700" stop="20250919055500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Shevchenko - Gael Monfils</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919055500 +0700" stop="20250919063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919063000 +0700" stop="20250919100000 +0700" channel="COSMOTE Sport 6 HD">
@@ -375,7 +383,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919153000 +0700" stop="20250919180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025 (L)</title>
+    <title>Tennis: Juncheng Shang - Brandon Nakashima (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250919180000 +0700" stop="20250919200500 +0700" channel="COSMOTE Sport 6 HD">
@@ -394,8 +402,12 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250918220000 +0700" stop="20250918230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250919230000 +0700" stop="20250919233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919233000 +0700" stop="20250920010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918230000 +0700" stop="20250918233000 +0700" channel="COSMOTE Sport 7 HD">
