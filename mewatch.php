@@ -980,16 +980,16 @@
         <title>FIBA Intercontinental Cup 2025: Alahli SC vs Unicaja</title>
     </programme>
     <programme start="20250918133000 +0000" stop="20250918160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th September, Friday 4pm. FIBA Intercontinental Cup 2025</title>
+        <title>No Programme available now. Next Broadcast on 19th September, Friday 5pm. FIBA Intercontinental Cup 2025</title>
     </programme>
-    <programme start="20250918160000 +0000" stop="20250919080000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th September, Friday 4pm. FIBA Intercontinental Cup 2025</title>
+    <programme start="20250918160000 +0000" stop="20250919090000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th September, Friday 5pm. FIBA Intercontinental Cup 2025</title>
     </programme>
     <programme start="20250917160000 +0000" stop="20250918095000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 18th September, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20250918095000 +0000" stop="20250918120000 +0000" channel="Live 6.mewatch">
-        <title>AFC Champions League Two 2025/26: Kaya FC-Iloilo vs Tampines Rovers FC</title>
+        <title>AFC Champions League Two 2025/26: Kaya FC-Iloilo vs Kaya FC-Iloilo vs BG Tampines Rovers FC</title>
     </programme>
     <programme start="20250918120000 +0000" stop="20250918160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 21st September, Sunday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
