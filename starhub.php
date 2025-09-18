@@ -7957,7 +7957,7 @@
     <programme start="20250918103000 +0000" stop="20250918133000 +0000" channel="Asianet Movies.starhub">
         <title>Puthiyamugham</title>
     </programme>
-    <programme start="20250918133000 +0000" stop="20250918163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250918133000 +0000" stop="20250918192000 +0000" channel="Asianet Movies.starhub">
         <title>Bahubali-2</title>
     </programme>
     <programme start="20250917160000 +0000" stop="20250917163000 +0000" channel="Astro Warna HD.starhub">
