@@ -1,7 +1,3 @@
-<programme start="20250918150000 +0700" stop="20250918170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Bayern Munchen - Chelsea FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250918170000 +0700" stop="20250918190000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Liverpool FC - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: Cagliari - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250919171000 +0700" stop="20250919192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Panserraikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250918154500 +0700" stop="20250918174500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Velez Sarsfield - Racing Club</title>
     <desc>Live: Tidak</desc>
@@ -176,14 +176,6 @@
 </programme>
 <programme start="20250919160000 +0700" stop="20250919180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: River Plate - Palmeiras</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250918142500 +0700" stop="20250918162500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Golden State Valkyries - Minnesota Lynx</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250918162500 +0700" stop="20250918165500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918165500 +0700" stop="20250918172500 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,8 +234,8 @@
     <title>Basketball: Las Vegas Aces - Seattle Storm</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250918153500 +0700" stop="20250918163500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20250919173000 +0700" stop="20250919193000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Golden State Valkyries - Minnesota Lynx</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918163500 +0700" stop="20250918175500 +0700" channel="COSMOTE Sport 5 HD">
@@ -331,6 +323,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919161000 +0700" stop="20250919170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919170500 +0700" stop="20250919175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250919175500 +0700" stop="20250919190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

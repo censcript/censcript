@@ -3754,9 +3754,6 @@
     <programme start="20250917183000 +0000" stop="20250917184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 123 (R)</title>
     </programme>
-    <programme start="20250917184500 +0000" stop="20250917191200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
-    </programme>
     <programme start="20250917191200 +0000" stop="20250917191500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
@@ -3829,7 +3826,13 @@
     <programme start="20250918040000 +0000" stop="20250918040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250918040500 +0000" stop="20250918055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250918040500 +0000" stop="20250918050000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Around Japan</title>
+    </programme>
+    <programme start="20250918050000 +0000" stop="20250918051700 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20250918051700 +0000" stop="20250918055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250918055000 +0000" stop="20250918055500 +0000" channel="NHK World Premium HD.starhub">
