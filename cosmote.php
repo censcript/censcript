@@ -66,6 +66,14 @@
     <title>Game R1 S6</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920030000 +0700" stop="20250920033000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920033000 +0700" stop="20250920043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Greek Cup Time</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250919020000 +0700" stop="20250919040500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Manchester City FC - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
@@ -129,6 +137,10 @@
 <programme start="20250920014500 +0700" stop="20250920034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Cagliari (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250920034500 +0700" stop="20250920060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Panserraikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919020000 +0700" stop="20250919040500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Newcastle United - FC Barcelona (L)</title>
@@ -334,8 +346,8 @@
     <title>Basketball: PAOK - SC Derby (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250919015000 +0700" stop="20250919023500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+<programme start="20250920030500 +0700" stop="20250920040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>eSports: 2025 MotoGP eChampionship Global Series</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919023500 +0700" stop="20250919032500 +0700" channel="COSMOTE Sport 6 HD">
@@ -410,6 +422,14 @@
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920031500 +0700" stop="20250920034500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920034500 +0700" stop="20250920041500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250919020000 +0700" stop="20250919040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -474,6 +494,10 @@
     <title>Football: Al Ahli - Al Hilal (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250920030000 +0700" stop="20250920040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250919020000 +0700" stop="20250919040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -536,10 +560,6 @@
 </programme>
 <programme start="20250920021500 +0700" stop="20250920041500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Rio Ave - FC Porto (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250919010000 +0700" stop="20250919030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Neom - Al-Okhdood Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250919030000 +0700" stop="20250919033000 +0700" channel="COSMOTE Sport 9 HD">

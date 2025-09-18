@@ -889,24 +889,6 @@
 <programme start="20250919110000 +0000" stop="20250919130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20250918000000 +0000" stop="20250918023000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Pagi</title>
-</programme>
-<programme start="20250918023000 +0000" stop="20250918033000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
-</programme>
-<programme start="20250918033000 +0000" stop="20250918040000 +0000" channel="Kompas TV.vision">
-<title>Borgol</title>
-</programme>
-<programme start="20250918040000 +0000" stop="20250918060000 +0000" channel="Kompas TV.vision">
-<title>Kompas Siang</title>
-</programme>
-<programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Siang</title>
-</programme>
-<programme start="20250918103000 +0000" stop="20250918123000 +0000" channel="Kompas TV.vision">
-<title>Sapa Indonesia Malam</title>
-</programme>
 <programme start="20250918123000 +0000" stop="20250918133000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama</title>
 </programme>
