@@ -691,104 +691,98 @@
     <programme start="20250917150000 +0000" stop="20250917163000 +0000" channel="now-80s.mewatch">
         <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
     </programme>
-    <programme start="20250917163000 +0000" stop="20250917170000 +0000" channel="now-80s.mewatch">
-        <title>Night Moves! - EP1</title>
+    <programme start="20250917160000 +0000" stop="20250917170000 +0000" channel="now-80s.mewatch">
+        <title>Mark Goodier&#039;s No.2s of 1982 - EP1</title>
     </programme>
-    <programme start="20250917170000 +0000" stop="20250917190000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1983 - EP1</title>
-    </programme>
-    <programme start="20250917190000 +0000" stop="20250917194500 +0000" channel="now-80s.mewatch">
-        <title>1983&#039;s One-Hit-Wonders! Top 10 - EP1</title>
-    </programme>
-    <programme start="20250917194500 +0000" stop="20250917200000 +0000" channel="now-80s.mewatch">
-        <title>1983 Unleashed! - EP1</title>
+    <programme start="20250917170000 +0000" stop="20250917200000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1981 - EP1</title>
     </programme>
     <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
+        <title>All Day - It&#039;s 1981! - EP1</title>
     </programme>
-    <programme start="20250917210000 +0000" stop="20250917220000 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
+    <programme start="20250917210000 +0000" stop="20250917214000 +0000" channel="now-80s.mewatch">
+        <title>1981&#039;s One-Hit-Wonders! Top 10 - EP1</title>
     </programme>
-    <programme start="20250917220000 +0000" stop="20250918011500 +0000" channel="now-80s.mewatch">
-        <title>Bruno Brookes UK Top 40 Of The 80s - EP1</title>
+    <programme start="20250917214000 +0000" stop="20250917220000 +0000" channel="now-80s.mewatch">
+        <title>All Day - It&#039;s 1981! - EP1</title>
     </programme>
-    <programme start="20250918011500 +0000" stop="20250918020000 +0000" channel="now-80s.mewatch">
-        <title>Easter In The 80s! - EP1</title>
+    <programme start="20250917220000 +0000" stop="20250918023500 +0000" channel="now-80s.mewatch">
+        <title>Lessons in Love! 70s v 80s - EP1</title>
     </programme>
-    <programme start="20250918020000 +0000" stop="20250918042500 +0000" channel="now-80s.mewatch">
-        <title>Easter&#039;s Biggest Hits: 1980-1989 - EP1</title>
-    </programme>
-    <programme start="20250918042500 +0000" stop="20250918050000 +0000" channel="now-80s.mewatch">
-        <title>Easter In The 80s! - EP1</title>
-    </programme>
-    <programme start="20250918050000 +0000" stop="20250918090500 +0000" channel="now-80s.mewatch">
-        <title>50 Bank Holiday Club Classics! - EP1</title>
-    </programme>
-    <programme start="20250918090500 +0000" stop="20250918093000 +0000" channel="now-80s.mewatch">
+    <programme start="20250918023500 +0000" stop="20250918030000 +0000" channel="now-80s.mewatch">
         <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20250918093000 +0000" stop="20250918103000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1983 - EP1</title>
+    <programme start="20250918030000 +0000" stop="20250918070000 +0000" channel="now-80s.mewatch">
+        <title>80s v 70s Mixtape! - EP1</title>
     </programme>
-    <programme start="20250918103000 +0000" stop="20250918130000 +0000" channel="now-80s.mewatch">
-        <title>The Now Yearbook 1984 - EP1</title>
+    <programme start="20250918070000 +0000" stop="20250918093500 +0000" channel="now-80s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="now-80s.mewatch">
-        <title>The Big Easter No.1s Weekender! - EP1</title>
+    <programme start="20250918093500 +0000" stop="20250918100000 +0000" channel="now-80s.mewatch">
+        <title>Monster Movie Soundtracks! - EP1</title>
     </programme>
-    <programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1988 - EP1</title>
+    <programme start="20250918100000 +0000" stop="20250918114500 +0000" channel="now-80s.mewatch">
+        <title>Paul McCartney 1970-1989 - EP1</title>
     </programme>
-    <programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1985 - EP1</title>
+    <programme start="20250918114500 +0000" stop="20250918120000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="now-80s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of 1981 - EP1</title>
+    <programme start="20250918120000 +0000" stop="20250918142000 +0000" channel="now-80s.mewatch">
+        <title>Rustie Lee&#039;s Eat To The Beat! - EP1</title>
     </programme>
-    <programme start="20250917160000 +0000" stop="20250917202500 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of The 70s! - EP1</title>
+    <programme start="20250918142000 +0000" stop="20250918150000 +0000" channel="now-80s.mewatch">
+        <title>Turbo Trax! - EP1</title>
     </programme>
-    <programme start="20250917202500 +0000" stop="20250917210000 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of The 70s! - EP1</title>
+    <programme start="20250918150000 +0000" stop="20250918170000 +0000" channel="now-80s.mewatch">
+        <title>Genesis &amp; Phil Collins: 1978-1989 - EP1</title>
+    </programme>
+    <programme start="20250917160000 +0000" stop="20250917210000 +0000" channel="now-70s.mewatch">
+        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
     </programme>
     <programme start="20250917210000 +0000" stop="20250917230000 +0000" channel="now-70s.mewatch">
-        <title>Silly Songs Of The 70s! - EP1</title>
+        <title>The Best 1973 Party...Ever! - EP1</title>
     </programme>
     <programme start="20250917230000 +0000" stop="20250918000000 +0000" channel="now-70s.mewatch">
-        <title>Novelty Number 1s! 1970-1979 - EP1</title>
+        <title>1973 Unleashed! - EP1</title>
     </programme>
-    <programme start="20250918000000 +0000" stop="20250918033500 +0000" channel="now-70s.mewatch">
-        <title>Feelgood Friday! Top 50 - EP1</title>
+    <programme start="20250918000000 +0000" stop="20250918020000 +0000" channel="now-70s.mewatch">
+        <title>Where Did THAT Come From?! 70-79 - EP1</title>
     </programme>
-    <programme start="20250918033500 +0000" stop="20250918040000 +0000" channel="now-70s.mewatch">
-        <title>Easter Holiday School Disco! - EP1</title>
+    <programme start="20250918020000 +0000" stop="20250918042500 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Disco Explosion! - EP1</title>
     </programme>
-    <programme start="20250918040000 +0000" stop="20250918072500 +0000" channel="now-70s.mewatch">
-        <title>Simon Bates 70s Pop! Top 50 - EP1</title>
+    <programme start="20250918042500 +0000" stop="20250918050000 +0000" channel="now-70s.mewatch">
+        <title>All Day - We&#039;re Down at The Disco! - EP1</title>
     </programme>
-    <programme start="20250918072500 +0000" stop="20250918080000 +0000" channel="now-70s.mewatch">
-        <title>Easter Holiday School Disco! - EP1</title>
+    <programme start="20250918050000 +0000" stop="20250918054000 +0000" channel="now-70s.mewatch">
+        <title>Earth Wind &amp; Fire v Sunshine Band! - EP1</title>
     </programme>
-    <programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="now-70s.mewatch">
-        <title>Hold On Tight: It&#039;s Elo! - EP1</title>
+    <programme start="20250918054000 +0000" stop="20250918060000 +0000" channel="now-70s.mewatch">
+        <title>All Day - We&#039;re Down at The Disco! - EP1</title>
     </programme>
-    <programme start="20250918090000 +0000" stop="20250918093000 +0000" channel="now-70s.mewatch">
-        <title>Easter&#039;s Biggest Hits: 1970-1979 - EP1</title>
+    <programme start="20250918060000 +0000" stop="20250918082000 +0000" channel="now-70s.mewatch">
+        <title>The 30 Cool Dudes of Disco! - EP1</title>
     </programme>
-    <programme start="20250918093000 +0000" stop="20250918103000 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s Of The 70s! - EP1</title>
+    <programme start="20250918082000 +0000" stop="20250918090000 +0000" channel="now-70s.mewatch">
+        <title>All Day - We&#039;re Down at The Disco! - EP1</title>
     </programme>
-    <programme start="20250918103000 +0000" stop="20250918110500 +0000" channel="now-70s.mewatch">
-        <title>Easter&#039;s Biggest Hits: 1970-1979 - EP1</title>
+    <programme start="20250918090000 +0000" stop="20250918114000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1976 - EP1</title>
     </programme>
-    <programme start="20250918110500 +0000" stop="20250918120000 +0000" channel="now-70s.mewatch">
-        <title>70s Rock Anthems Night! - EP1</title>
+    <programme start="20250918114000 +0000" stop="20250918120000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
     </programme>
-    <programme start="20250918120000 +0000" stop="20250918160000 +0000" channel="now-70s.mewatch">
-        <title>We Will Rock You! 1970-1979 - EP1</title>
+    <programme start="20250918120000 +0000" stop="20250918140500 +0000" channel="now-70s.mewatch">
+        <title>Kiki Dee&#039;s Duos &amp; Duets! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20250918160000 +0000" stop="20250918163000 +0000" channel="now-70s.mewatch">
-        <title>Easter&#039;s Biggest Hits: 1970-1979 - EP1</title>
+    <programme start="20250918140500 +0000" stop="20250918150000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
+    </programme>
+    <programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s of 1976 - EP1</title>
+    </programme>
+    <programme start="20250918160000 +0000" stop="20250918164000 +0000" channel="now-70s.mewatch">
+        <title>Earth Wind &amp; Fire v Sunshine Band! - EP1</title>
     </programme>
     <programme start="20250917160000 +0000" stop="20250917220000 +0000" channel="trace-urban.mewatch">
         <title>Sounds Of Trace</title>

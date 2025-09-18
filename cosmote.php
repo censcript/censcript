@@ -1,11 +1,3 @@
-<programme start="20250918103000 +0700" stop="20250918123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SK Slavia Praha - FK Bodo/Glimt</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250918123000 +0700" stop="20250918130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250918130000 +0700" stop="20250918150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -130,6 +122,10 @@
     <title>Football: Kifisia - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250919131000 +0700" stop="20250919151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250918114000 +0700" stop="20250918134000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Famalicao - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -180,10 +176,6 @@
 </programme>
 <programme start="20250919120000 +0700" stop="20250919140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - Apollon Limassol</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250918120000 +0700" stop="20250918121500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Classics: Worldies E10</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918121500 +0700" stop="20250918142500 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,8 +238,8 @@
     <title>Basketball: NBA G League United - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250918115500 +0700" stop="20250918122500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E8</title>
+<programme start="20250919131500 +0700" stop="20250919153000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Al Ahli - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918122500 +0700" stop="20250918133000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +330,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250918100000 +0700" stop="20250918124000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Greece - Brazil</title>
+<programme start="20250919130000 +0700" stop="20250919143000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250918124000 +0700" stop="20250918131000 +0700" channel="COSMOTE Sport 6 HD">
