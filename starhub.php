@@ -2033,7 +2033,7 @@
         <title>UEFA Champions League 2025/26 Slavia Prague vs Bodo/Glimt - MD1 (Live)</title>
     </programme>
     <programme start="20250917185500 +0000" stop="20250917210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26 Liverpool vs Atletico Madrid - MD1 (Live)</title>
+        <title>Liverpool vs Atletico Madrid - MD1 (Live)</title>
     </programme>
     <programme start="20250917210000 +0000" stop="20250917213000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV Highlights 2025/26 Grimsby vs Man United - Carabao Cup</title>
@@ -2204,7 +2204,7 @@
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250917185500 +0000" stop="20250917210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Champions League 2025/26: Bayern vs Chelsea - MD1 (Live)</title>
+        <title>Bayern vs Chelsea - MD1 (Live)</title>
     </programme>
     <programme start="20250917210000 +0000" stop="20250917220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Toronto</title>
