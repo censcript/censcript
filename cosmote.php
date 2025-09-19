@@ -1,11 +1,3 @@
-<programme start="20250919203000 +0700" stop="20250919223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Newcastle United - FC Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250919223000 +0700" stop="20250919230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919230000 +0700" stop="20250920000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -98,10 +90,6 @@
     <title>Football: Kifisia - Aris (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250919205500 +0700" stop="20250919225500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919225500 +0700" stop="20250919230500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
@@ -170,6 +158,14 @@
     <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920230000 +0700" stop="20250920233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920233000 +0700" stop="20250921000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250919220000 +0700" stop="20250920000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Southampton - Portsmouth</title>
     <desc>Live: Tidak</desc>
@@ -230,6 +226,10 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920230000 +0700" stop="20250921010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Hellas Verona - Juventus Football Club (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250919220000 +0700" stop="20250920001500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Crvena Zvezda (L)</title>
     <desc>Live: Ya</desc>
@@ -286,8 +286,8 @@
     <title>Basketball: Olympiacos BC - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919213000 +0700" stop="20250919223000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+<programme start="20250920234500 +0700" stop="20250921015000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Las Vegas Aces - Seattle Storm</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919223000 +0700" stop="20250919233000 +0700" channel="COSMOTE Sport 5 HD">
@@ -382,8 +382,8 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919220000 +0700" stop="20250919230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20250920233500 +0700" stop="20250921005500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919230000 +0700" stop="20250919233000 +0700" channel="COSMOTE Sport 6 HD">
@@ -461,6 +461,10 @@
 <programme start="20250920210000 +0700" stop="20250920230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Sheffield United - Charlton Athletic  (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250920230000 +0700" stop="20250921013000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alexander Shevchenko - Giovanni Mpetshi Perricard</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919220000 +0700" stop="20250920000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -594,6 +598,14 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920230000 +0700" stop="20250920234500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920234500 +0700" stop="20250921014500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Football: Rangers FC - Hibernian (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250919220000 +0700" stop="20250920000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -663,6 +675,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250920220000 +0700" stop="20250920230000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920230000 +0700" stop="20250920233000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920233000 +0700" stop="20250921000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
