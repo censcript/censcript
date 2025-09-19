@@ -100,41 +100,38 @@
 <programme start="20250919215500 +0000" stop="20250919224000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20250908221500 +0000" stop="20250908224000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex Video Privat mit Harry S. Morgan</title>
+<programme start="20250918221000 +0000" stop="20250918223500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Patchwork Love</title>
 </programme>
-<programme start="20250908224000 +0000" stop="20250908231000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Voll üppig!</title>
+<programme start="20250918223500 +0000" stop="20250918230500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Geile Pärchen</title>
 </programme>
-<programme start="20250908231000 +0000" stop="20250908233000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Aussteigerinnen</title>
+<programme start="20250918230500 +0000" stop="20250918233000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Straßenflirts</title>
 </programme>
-<programme start="20250908233000 +0000" stop="20250908235500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Aussteigerinnen</title>
+<programme start="20250918233000 +0000" stop="20250918235000 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
 </programme>
-<programme start="20250908235500 +0000" stop="20250909002000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Lesbenträume</title>
+<programme start="20250918235000 +0000" stop="20250919011500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Die Schwesternschaft</title>
 </programme>
-<programme start="20250909002000 +0000" stop="20250909015500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Stylistin</title>
+<programme start="20250919011500 +0000" stop="20250919023500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Vivante</title>
 </programme>
-<programme start="20250909015500 +0000" stop="20250909021500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Naked Reaction</title>
+<programme start="20250919023500 +0000" stop="20250919034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Dicke Freundinnen</title>
 </programme>
-<programme start="20250909021500 +0000" stop="20250909034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex &amp; Lügen</title>
-</programme>
-<programme start="20250909034500 +0000" stop="20250909181500 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20250919034500 +0000" stop="20250919181500 +0000" channel="Beate Uhse HD.skyde">
     <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
 </programme>
-<programme start="20250909181500 +0000" stop="20250909194500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Cherry Blossom Camp</title>
+<programme start="20250919181500 +0000" stop="20250919194500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sex &amp; Lügen</title>
 </programme>
-<programme start="20250909194500 +0000" stop="20250909213000 +0000" channel="Beate Uhse HD.skyde">
-    <title>What is Love</title>
+<programme start="20250919194500 +0000" stop="20250919211000 +0000" channel="Beate Uhse HD.skyde">
+    <title>The Confessional</title>
 </programme>
-<programme start="20250909213000 +0000" stop="20250909220000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Geile Pärchen</title>
+<programme start="20250919211000 +0000" stop="20250919223500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Cinderella XXX</title>
 </programme>
 <programme start="20250918220500 +0000" stop="20250918221500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe: Future</title>

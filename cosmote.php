@@ -1,7 +1,3 @@
-<programme start="20250919103000 +0700" stop="20250919123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Manchester City FC - SSC Napoli</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919123000 +0700" stop="20250919143000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Brugge - AS Monaco FC</title>
     <desc>Live: Tidak</desc>
@@ -146,6 +142,10 @@
     <title>Football: Panetolikos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920130500 +0700" stop="20250920151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Egaleo - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250919120000 +0700" stop="20250919140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - Apollon Limassol</title>
     <desc>Live: Tidak</desc>
@@ -262,10 +262,6 @@
     <title>Basketball: Utsunomiya Brex - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919113000 +0700" stop="20250919130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919130000 +0700" stop="20250919143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -362,10 +358,6 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919110500 +0700" stop="20250919123500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919123500 +0700" stop="20250919153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +428,10 @@
 </programme>
 <programme start="20250920120000 +0700" stop="20250920130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920130000 +0700" stop="20250920153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919120000 +0700" stop="20250919140000 +0700" channel="COSMOTE Sport 7 HD">
