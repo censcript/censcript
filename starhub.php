@@ -7981,16 +7981,16 @@
     <programme start="20250919013000 +0000" stop="20250919043000 +0000" channel="Asianet Movies.starhub">
         <title>Pulival Kalyanam</title>
     </programme>
-    <programme start="20250919043000 +0000" stop="20250919073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250919043000 +0000" stop="20250919072500 +0000" channel="Asianet Movies.starhub">
         <title>Classmates</title>
     </programme>
-    <programme start="20250919073000 +0000" stop="20250919103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250919072500 +0000" stop="20250919103000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20250919103000 +0000" stop="20250919133000 +0000" channel="Asianet Movies.starhub">
         <title>Amaran</title>
     </programme>
-    <programme start="20250919133000 +0000" stop="20250919163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250919133000 +0000" stop="20250919164500 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
     <programme start="20250918160000 +0000" stop="20250918163000 +0000" channel="Astro Warna HD.starhub">
