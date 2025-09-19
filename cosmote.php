@@ -1,7 +1,3 @@
-<programme start="20250919183000 +0700" stop="20250919203000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Sporting CP - FC Kairat Almaty</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919203000 +0700" stop="20250919223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Newcastle United - FC Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -90,9 +86,13 @@
     <title>UEFA Champions League Magazine 2025-26 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919192000 +0700" stop="20250919205500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Documentary</title>
+<programme start="20250920210000 +0700" stop="20250920213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E1</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920213000 +0700" stop="20250920220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250919205500 +0700" stop="20250919225500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Bologna</title>
@@ -152,6 +152,10 @@
 </programme>
 <programme start="20250920192000 +0700" stop="20250920214500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Levadiakos - PAOK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920214500 +0700" stop="20250920220000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919200000 +0700" stop="20250919220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,8 +270,8 @@
     <title>Basketball: PAOK - SC Derby</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919195000 +0700" stop="20250919205500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250920213000 +0700" stop="20250920234500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Olympiacos BC - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919205500 +0700" stop="20250919213000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,12 +366,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919180000 +0700" stop="20250919200500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250919200500 +0700" stop="20250919210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Jet Ski World Series 2025</title>
+<programme start="20250920210000 +0700" stop="20250920223500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919210000 +0700" stop="20250919220000 +0700" channel="COSMOTE Sport 6 HD">
@@ -449,6 +449,10 @@
 <programme start="20250920203000 +0700" stop="20250920210000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Sports Rundown E5</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920210000 +0700" stop="20250920230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Football: Sheffield United - Charlton Athletic  (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250919200000 +0700" stop="20250919220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -582,10 +586,6 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919190000 +0700" stop="20250919210000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Basketball: Utsunomiya Brex - Unicaja (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250919210000 +0700" stop="20250919213000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -653,5 +653,13 @@
 <programme start="20250920190000 +0700" stop="20250920210000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Basketball: Al Ahli - Utsunomiya Brex (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250920210000 +0700" stop="20250920213000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920213000 +0700" stop="20250920220000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
