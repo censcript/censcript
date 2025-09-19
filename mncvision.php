@@ -155,7 +155,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250919083000 +0000" stop="20250919090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+    <title>101 East: Asbestos</title>
 </programme>
 <programme start="20250919090000 +0000" stop="20250919093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -5852,7 +5852,7 @@
     <title>Kiko</title>
 </programme>
 <programme start="20250919001500 +0000" stop="20250919010000 +0000" channel="MNCTV.mncvision">
-    <title>Pada Zaman Dahulu</title>
+    <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
 <programme start="20250919010000 +0000" stop="20250919031500 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -5863,19 +5863,13 @@
 <programme start="20250919034500 +0000" stop="20250919044500 +0000" channel="MNCTV.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250919044500 +0000" stop="20250919053000 +0000" channel="MNCTV.mncvision">
-    <title>Kung Fu Panda Sang Pendekar</title>
-</programme>
-<programme start="20250919053000 +0000" stop="20250919060000 +0000" channel="MNCTV.mncvision">
+<programme start="20250919044500 +0000" stop="20250919063000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250919060000 +0000" stop="20250919090000 +0000" channel="MNCTV.mncvision">
+<programme start="20250919063000 +0000" stop="20250919093000 +0000" channel="MNCTV.mncvision">
     <title>WONDR Indonesia Masters (L)</title>
 </programme>
-<programme start="20250919090000 +0000" stop="20250919100000 +0000" channel="MNCTV.mncvision">
-    <title>Bedah Rumah</title>
-</programme>
-<programme start="20250919100000 +0000" stop="20250919113000 +0000" channel="MNCTV.mncvision">
+<programme start="20250919093000 +0000" stop="20250919113000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250919113000 +0000" stop="20250919123000 +0000" channel="MNCTV.mncvision">
@@ -5906,7 +5900,7 @@
     <title>Kiko</title>
 </programme>
 <programme start="20250919001500 +0000" stop="20250919010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Pada Zaman Dahulu</title>
+    <title>Kung Fu Panda Sang Pendekar</title>
 </programme>
 <programme start="20250919010000 +0000" stop="20250919031500 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -5917,19 +5911,13 @@
 <programme start="20250919034500 +0000" stop="20250919044500 +0000" channel="MNCTV HD.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20250919044500 +0000" stop="20250919053000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kung Fu Panda Sang Pendekar</title>
-</programme>
-<programme start="20250919053000 +0000" stop="20250919060000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250919044500 +0000" stop="20250919063000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20250919060000 +0000" stop="20250919090000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250919063000 +0000" stop="20250919093000 +0000" channel="MNCTV HD.mncvision">
     <title>WONDR Indonesia Masters (L)</title>
 </programme>
-<programme start="20250919090000 +0000" stop="20250919100000 +0000" channel="MNCTV HD.mncvision">
-    <title>Bedah Rumah</title>
-</programme>
-<programme start="20250919100000 +0000" stop="20250919113000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20250919093000 +0000" stop="20250919113000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250919113000 +0000" stop="20250919123000 +0000" channel="MNCTV HD.mncvision">

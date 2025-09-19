@@ -1873,6 +1873,48 @@
 <programme start="20250919212500 +0000" stop="20250919225000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Erkan &amp; Stefan gegen die Mächte der Finsternis</title>
 </programme>
+<programme start="20250918221000 +0000" stop="20250918235000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Maggie Moore(s)</title>
+</programme>
+<programme start="20250918235000 +0000" stop="20250919015500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Gia - Der Preis der Schönheit</title>
+</programme>
+<programme start="20250919015500 +0000" stop="20250919033500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Schwestern - Eine Familiengeschichte</title>
+</programme>
+<programme start="20250919033500 +0000" stop="20250919050500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Blaze - Flucht aus den Flammen</title>
+</programme>
+<programme start="20250919050500 +0000" stop="20250919065500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Colombiana</title>
+</programme>
+<programme start="20250919065500 +0000" stop="20250919084500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Wanted</title>
+</programme>
+<programme start="20250919084500 +0000" stop="20250919102500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>The Kill Room</title>
+</programme>
+<programme start="20250919102500 +0000" stop="20250919122000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>A Killer Romance</title>
+</programme>
+<programme start="20250919122000 +0000" stop="20250919141500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Memory - Sein letzter Auftrag</title>
+</programme>
+<programme start="20250919141500 +0000" stop="20250919161500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Collateral</title>
+</programme>
+<programme start="20250919161500 +0000" stop="20250919181500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Gunpowder Milkshake</title>
+</programme>
+<programme start="20250919181500 +0000" stop="20250919200500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Colombiana</title>
+</programme>
+<programme start="20250919200500 +0000" stop="20250919215500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Wanted</title>
+</programme>
+<programme start="20250919215500 +0000" stop="20250920002500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Inception</title>
+</programme>
 <programme start="20250918234500 +0000" stop="20250919013500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Das Beste kommt noch!</title>
 </programme>
