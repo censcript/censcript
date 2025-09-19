@@ -826,8 +826,14 @@
 <programme start="20250918233000 +0000" stop="20250919013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20250919013000 +0000" stop="20250919020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
+</programme>
 <programme start="20250919020000 +0000" stop="20250919023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
+</programme>
+<programme start="20250919023000 +0000" stop="20250919033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru (L)</title>
 </programme>
 <programme start="20250919033000 +0000" stop="20250919040000 +0000" channel="TVOne.vision">
 <title>Metropolitan (L)</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250920030000 +0000" stop="20250920040000 +0000" channel="BTV.vision">
 <title>Masak Seru Gaes</title>
-</programme>
-<programme start="20250920040000 +0000" stop="20250920050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20250920050000 +0000" stop="20250920060000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>

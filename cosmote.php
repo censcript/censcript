@@ -1,7 +1,3 @@
-<programme start="20250919143000 +0700" stop="20250919163000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Copenhagen - Bayer 04 Leverkusen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250919163000 +0700" stop="20250919183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Eintracht Frankfurt - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
@@ -86,6 +82,10 @@
     <title>Football: Olympiacos - Pafos FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920173000 +0700" stop="20250920183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Greek Cup Time</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250919151000 +0700" stop="20250919171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Parma</title>
     <desc>Live: Tidak</desc>
@@ -150,6 +150,10 @@
     <title>Football: Panathinaikos - Athens Kallithea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250920172000 +0700" stop="20250920192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250919160000 +0700" stop="20250919180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: River Plate - Palmeiras</title>
     <desc>Live: Tidak</desc>
@@ -196,6 +200,10 @@
 </programme>
 <programme start="20250920153000 +0700" stop="20250920173000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Middlesbrough - West Bromwich Albion</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250920173000 +0700" stop="20250920193000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ahli - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919153000 +0700" stop="20250919173000 +0700" channel="COSMOTE Sport 4 HD">
@@ -258,8 +266,8 @@
     <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250919152000 +0700" stop="20250919161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250920171500 +0700" stop="20250920193000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Olympiacos BC - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250919161000 +0700" stop="20250919170500 +0700" channel="COSMOTE Sport 5 HD">

@@ -7130,7 +7130,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250919023000 +0000" stop="20250919030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250919030000 +0000" stop="20250919033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7163,7 +7163,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20250919073000 +0000" stop="20250919080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250919080000 +0000" stop="20250919083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7208,7 +7208,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20250919133000 +0000" stop="20250919140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Trailblazers</title>
     </programme>
     <programme start="20250919140000 +0000" stop="20250919143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
