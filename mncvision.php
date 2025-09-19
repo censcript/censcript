@@ -1225,17 +1225,11 @@
 <programme start="20250919003000 +0000" stop="20250919020000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Chengdu</title>
 </programme>
-<programme start="20250919020000 +0000" stop="20250919021500 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Classic Shorts: 2013</title>
-</programme>
-<programme start="20250919021500 +0000" stop="20250919034500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20250919020000 +0000" stop="20250919033000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Hangzhou</title>
 </programme>
-<programme start="20250919034500 +0000" stop="20250919051500 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Hangzhou</title>
-</programme>
-<programme start="20250919051500 +0000" stop="20250919053000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Laver Cup 2025: Line Up Show</title>
+<programme start="20250919033000 +0000" stop="20250919053000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Hangzhou (L)</title>
 </programme>
 <programme start="20250919053000 +0000" stop="20250919073000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Hangzhou (L)</title>
@@ -1285,17 +1279,11 @@
 <programme start="20250919003000 +0000" stop="20250919020000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Chengdu</title>
 </programme>
-<programme start="20250919020000 +0000" stop="20250919021500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Classic Shorts: 2013</title>
-</programme>
-<programme start="20250919021500 +0000" stop="20250919034500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20250919020000 +0000" stop="20250919033000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Hangzhou</title>
 </programme>
-<programme start="20250919034500 +0000" stop="20250919051500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Hangzhou</title>
-</programme>
-<programme start="20250919051500 +0000" stop="20250919053000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Laver Cup 2025: Line Up Show</title>
+<programme start="20250919033000 +0000" stop="20250919053000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Hangzhou (L)</title>
 </programme>
 <programme start="20250919053000 +0000" stop="20250919073000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Hangzhou (L)</title>
