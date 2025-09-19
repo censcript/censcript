@@ -158,7 +158,7 @@
         <title>The Heartland Hero - EP 128</title>
     </programme>
     <programme start="20250919000000 +0000" stop="20250919010000 +0000" channel="Channel 8.mewatch">
-        <title>CellPhone Swap - EP 1</title>
+        <title>The Cellphone Swap - EP 1</title>
     </programme>
     <programme start="20250919010000 +0000" stop="20250919013000 +0000" channel="Channel 8.mewatch">
         <title>Talk of the Town - EP 45</title>
@@ -233,7 +233,7 @@
         <title>Frontline - EP 21</title>
     </programme>
     <programme start="20250919130000 +0000" stop="20250919140000 +0000" channel="Channel 8.mewatch">
-        <title>CellPhone Swap - EP 2</title>
+        <title>The Cellphone Swap - EP 2</title>
     </programme>
     <programme start="20250919140000 +0000" stop="20250919143000 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
@@ -548,7 +548,7 @@
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20250919130000 +0000" stop="20250919140000 +0000" channel="CNA.mewatch">
-        <title>Japan Hour [English Subtitles] - EP 37</title>
+        <title>Japan Hour - EP 37</title>
     </programme>
     <programme start="20250919140000 +0000" stop="20250919150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
@@ -919,23 +919,23 @@
     <programme start="20250919123000 +0000" stop="20250919163000 +0000" channel="Live 2.mewatch">
         <title>ONE Friday Fights 125</title>
     </programme>
-    <programme start="20250918160000 +0000" stop="20250919090000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th September, Friday 5pm. FIBA Intercontinental Cup 2025</title>
+    <programme start="20250918160000 +0000" stop="20250919084000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th September, Friday 4.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
-    <programme start="20250919090000 +0000" stop="20250919103000 +0000" channel="Live 5.mewatch">
+    <programme start="20250919084000 +0000" stop="20250919103000 +0000" channel="Live 5.mewatch">
         <title>FIBA Intercontinental Cup 2025: Illawarra Hawks vs Flamengo</title>
     </programme>
-    <programme start="20250919103000 +0000" stop="20250919120000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19th September, Friday 8pm. FIBA Intercontinental Cup 2025</title>
+    <programme start="20250919103000 +0000" stop="20250919114000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th September, Friday 7.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
-    <programme start="20250919120000 +0000" stop="20250919133000 +0000" channel="Live 5.mewatch">
+    <programme start="20250919114000 +0000" stop="20250919133000 +0000" channel="Live 5.mewatch">
         <title>FIBA Intercontinental Cup 2025: Utsunomiya Brex vs Unicaja</title>
     </programme>
     <programme start="20250919133000 +0000" stop="20250919160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 20th September, Saturday 5pm. FIBA Intercontinental Cup 2025</title>
+        <title>No Programme available now. Next Broadcast on 20th September, Saturday 4.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
-    <programme start="20250919160000 +0000" stop="20250920090000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 20th September, Saturday 5pm. FIBA Intercontinental Cup 2025</title>
+    <programme start="20250919160000 +0000" stop="20250920084000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 20th September, Saturday 4.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
     <programme start="20250918160000 +0000" stop="20250919160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 21st September, Sunday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
