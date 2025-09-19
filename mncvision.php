@@ -6365,7 +6365,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20250919073000 +0000" stop="20250919080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20250919080000 +0000" stop="20250919083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6410,7 +6410,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20250919133000 +0000" stop="20250919140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20250918171000 +0000" stop="20250918174000 +0000" channel="NHK World Premium.mncvision">
     <title>Koyuki &amp; Fermenting Master</title>
