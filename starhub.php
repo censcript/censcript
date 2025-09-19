@@ -3835,11 +3835,8 @@
     <programme start="20250918230000 +0000" stop="20250918231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Anpan&quot; Eps. 125</title>
     </programme>
-    <programme start="20250918231500 +0000" stop="20250919005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250918231500 +0000" stop="20250919005500 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
-    </programme>
-    <programme start="20250919005400 +0000" stop="20250919005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20250919005500 +0000" stop="20250919010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Exercise for Everyone</title>
@@ -3883,7 +3880,13 @@
     <programme start="20250919040000 +0000" stop="20250919040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250919040500 +0000" stop="20250919055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20250919040500 +0000" stop="20250919053000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Around Japan</title>
+    </programme>
+    <programme start="20250919053000 +0000" stop="20250919054300 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20250919054300 +0000" stop="20250919055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20250919055000 +0000" stop="20250919055500 +0000" channel="NHK World Premium HD.starhub">

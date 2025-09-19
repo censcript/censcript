@@ -7459,11 +7459,11 @@
 <programme start="20250919134500 +0000" stop="20250919150000 +0000" channel="RCTI.mncvision">
     <title>Mencintaimu Sekali Lagi</title>
 </programme>
-<programme start="20250919150000 +0000" stop="20250919160000 +0000" channel="RCTI.mncvision">
+<programme start="20250919150000 +0000" stop="20250919161500 +0000" channel="RCTI.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20250919160000 +0000" stop="20250919163000 +0000" channel="RCTI.mncvision">
-    <title>Pain &amp; Gain</title>
+<programme start="20250919161500 +0000" stop="20250919164500 +0000" channel="RCTI.mncvision">
+    <title>Amanah Wali S4</title>
 </programme>
 <programme start="20250918181500 +0000" stop="20250918190000 +0000" channel="RCTI HD.mncvision">
     <title>Top Tukang Ojek Preman</title>
@@ -7510,11 +7510,11 @@
 <programme start="20250919134500 +0000" stop="20250919150000 +0000" channel="RCTI HD.mncvision">
     <title>Mencintaimu Sekali Lagi</title>
 </programme>
-<programme start="20250919150000 +0000" stop="20250919160000 +0000" channel="RCTI HD.mncvision">
+<programme start="20250919150000 +0000" stop="20250919161500 +0000" channel="RCTI HD.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20250919160000 +0000" stop="20250919163000 +0000" channel="RCTI HD.mncvision">
-    <title>Pain &amp; Gain</title>
+<programme start="20250919161500 +0000" stop="20250919164500 +0000" channel="RCTI HD.mncvision">
+    <title>Amanah Wali S4</title>
 </programme>
 <programme start="20250918181500 +0000" stop="20250918200000 +0000" channel="Rock Action.mncvision">
     <title>Pompeii</title>
