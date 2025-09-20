@@ -1,15 +1,3 @@
-<programme start="20250920220000 +0700" stop="20250921001500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Kifisia - Aris (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250921001500 +0700" stop="20250921003000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250921003000 +0700" stop="20250921010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250921010000 +0700" stop="20250921030000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Liverpool FC - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
@@ -74,6 +62,10 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250922010000 +0700" stop="20250922031500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250921000000 +0700" stop="20250921021500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Asteras Aktor (L)</title>
     <desc>Live: Ya</desc>
@@ -134,8 +126,12 @@
     <title>Football: ACF Fiorentina - Como (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250920230000 +0700" stop="20250921010000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Hellas Verona - Juventus Football Club (L)</title>
+<programme start="20250922010000 +0700" stop="20250922014500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250922014500 +0700" stop="20250922034500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250921010000 +0700" stop="20250921012500 +0700" channel="COSMOTE Sport 3 HD">
@@ -214,6 +210,10 @@
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250922010000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: AVS Futebol - SL Benfica</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250920234500 +0700" stop="20250921015000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Las Vegas Aces - Seattle Storm</title>
     <desc>Live: Tidak</desc>
@@ -273,10 +273,6 @@
 <programme start="20250922003000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: 2025 Crete International Basketball Tournament (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250920233500 +0700" stop="20250921005500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921005500 +0700" stop="20250921021500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
@@ -434,14 +430,6 @@
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921000000 +0700" stop="20250921003000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250921003000 +0700" stop="20250921010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250921010000 +0700" stop="20250921030000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Al Nassr - Al-Riyadh (L)</title>
     <desc>Live: Ya</desc>
@@ -573,6 +561,10 @@
 <programme start="20250922003000 +0700" stop="20250922010000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250922010000 +0700" stop="20250922020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250921000000 +0700" stop="20250921020000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: AVS Futebol - SL Benfica (L)</title>
