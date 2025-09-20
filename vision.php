@@ -478,12 +478,6 @@
 <programme start="20250920080000 +0000" stop="20250920091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20250920091500 +0000" stop="20250920100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
-<programme start="20250920100000 +0000" stop="20250920103000 +0000" channel="Trans TV.vision">
-<title>Termangu-Mangu</title>
-</programme>
 <programme start="20250920103000 +0000" stop="20250920114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -684,9 +678,6 @@
 </programme>
 <programme start="20250920090000 +0000" stop="20250920110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
-</programme>
-<programme start="20250920110000 +0000" stop="20250920123000 +0000" channel="ANTV.vision">
-<title>Sundel Bolong</title>
 </programme>
 <programme start="20250920123000 +0000" stop="20250920143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
+</programme>
+<programme start="20250920160000 +0000" stop="20250920163000 +0000" channel="BTV.vision">
+<title>Dari Nol</title>
+</programme>
+<programme start="20250920163000 +0000" stop="20250920173000 +0000" channel="BTV.vision">
+<title>Supercar Championship 2025</title>
+</programme>
+<programme start="20250920173000 +0000" stop="20250920182700 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
