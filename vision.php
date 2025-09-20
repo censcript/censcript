@@ -478,9 +478,6 @@
 <programme start="20250920080000 +0000" stop="20250920091500 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20250920091500 +0000" stop="20250920100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
 <programme start="20250920100000 +0000" stop="20250920103000 +0000" channel="Trans TV.vision">
 <title>Termangu-Mangu</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
+</programme>
+<programme start="20250920160000 +0000" stop="20250920163000 +0000" channel="BTV.vision">
+<title>Dari Nol</title>
 </programme>

@@ -134,14 +134,6 @@
     <title>Football: FC Internazionale Milano - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250921010000 +0700" stop="20250921012500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250921012500 +0700" stop="20250921014500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250921014500 +0700" stop="20250921034500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Udinese - AC Milan (L)</title>
     <desc>Live: Ya</desc>
@@ -212,10 +204,6 @@
 </programme>
 <programme start="20250922010000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AVS Futebol - SL Benfica</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250920234500 +0700" stop="20250921015000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Las Vegas Aces - Seattle Storm</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921015000 +0700" stop="20250921040500 +0700" channel="COSMOTE Sport 4 HD">
@@ -362,13 +350,9 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250920230000 +0700" stop="20250921013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexander Shevchenko - Giovanni Mpetshi Perricard</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250921013000 +0700" stop="20250921020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E5</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250922020000 +0700" stop="20250922043500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Las Vegas Aces - Indiana Fever (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250921020000 +0700" stop="20250921050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2025 (L)</title>
@@ -490,13 +474,13 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250920234500 +0700" stop="20250921014500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: Rangers FC - Hibernian (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250921014500 +0700" stop="20250921020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250922020000 +0700" stop="20250922023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250922023000 +0700" stop="20250922043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Casa Pia - Famalicao (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250921020000 +0700" stop="20250921040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -566,8 +550,8 @@
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250921000000 +0700" stop="20250921020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: AVS Futebol - SL Benfica (L)</title>
+<programme start="20250922020000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250921020000 +0700" stop="20250921023000 +0700" channel="COSMOTE Sport 9 HD">
