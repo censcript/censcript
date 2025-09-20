@@ -973,6 +973,42 @@
 <programme start="20250920214000 +0000" stop="20250920220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
+<programme start="20250919220000 +0000" stop="20250920060000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20250920060000 +0000" stop="20250920075000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga: VFB Stuttgart - FC St. Pauli</title>
+</programme>
+<programme start="20250920075000 +0000" stop="20250920084500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 1</title>
+</programme>
+<programme start="20250920084500 +0000" stop="20250920093000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 2</title>
+</programme>
+<programme start="20250920093000 +0000" stop="20250920094500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250920094500 +0000" stop="20250920115500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Frauen Bundesliga 25/26: 1. FC Union Berlin - SGS Essen</title>
+</programme>
+<programme start="20250920115500 +0000" stop="20250920141000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Frauen Bundesliga 25/26: FC Bayern München - Carl Zeiss Jena</title>
+</programme>
+<programme start="20250920141000 +0000" stop="20250920162500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Real Madrid - Espanyol Barcelona</title>
+</programme>
+<programme start="20250920162500 +0000" stop="20250920184000 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Deportivo Alavés - FC Sevilla</title>
+</programme>
+<programme start="20250920184000 +0000" stop="20250920205000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Serie A 25/26: Udinese Calcio - AC Mailand</title>
+</programme>
+<programme start="20250920205000 +0000" stop="20250920211000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250920211000 +0000" stop="20250920220000 +0000" channel="DAZN 2 HD.skyde">
+    <title>VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+</programme>
 <programme start="20250919220500 +0000" stop="20250919223500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
