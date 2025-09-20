@@ -70,6 +70,14 @@
     <title>Football: Liverpool FC - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250921170000 +0700" stop="20250921173000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250921173000 +0700" stop="20250921180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250920151000 +0700" stop="20250920172000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Athens Kallithea FC</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +144,10 @@
 </programme>
 <programme start="20250921150000 +0700" stop="20250921171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250921171000 +0700" stop="20250921192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250920153000 +0700" stop="20250920173000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,6 +230,10 @@
     <title>Football: Al Nassr - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250921173000 +0700" stop="20250921193000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SS Lazio - AS Roma (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250920144500 +0700" stop="20250920171500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - N.Y. Liberty</title>
     <desc>Live: Tidak</desc>
@@ -270,8 +286,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250920153000 +0700" stop="20250920163000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+<programme start="20250921171500 +0700" stop="20250921173000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Classics: Worldies E10</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250921173000 +0700" stop="20250921194500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250920163000 +0700" stop="20250920180000 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +376,10 @@
 </programme>
 <programme start="20250921160000 +0700" stop="20250921173000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250921173000 +0700" stop="20250921183000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250920153000 +0700" stop="20250920180000 +0700" channel="COSMOTE Sport 6 HD">
@@ -645,5 +669,9 @@
 <programme start="20250921150000 +0700" stop="20250921170000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Basketball: FIBA Intercontinental Cup Singapore 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250921170000 +0700" stop="20250921180000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
