@@ -2210,7 +2210,7 @@
         <title>Andrey Rublev - Breaking Back</title>
     </programme>
     <programme start="20250920141000 +0000" stop="20250920164000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Women&#039;s Rugby World Cup 2025: SF2 (Live)</title>
+        <title>France vs England</title>
     </programme>
     <programme start="20250919160000 +0000" stop="20250919170000 +0000" channel="TVB Xing He.starhub">
         <title>Road To Eternity</title>
