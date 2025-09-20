@@ -1,11 +1,3 @@
-<programme start="20250920183000 +0700" stop="20250920203000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Leicester City FC - Coventry City (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250920203000 +0700" stop="20250920210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250920210000 +0700" stop="20250920213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E1</title>
     <desc>Live: Tidak</desc>
@@ -80,6 +72,10 @@
 </programme>
 <programme start="20250921203000 +0700" stop="20250921213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250921213000 +0700" stop="20250921233500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEL Novibet - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250920192000 +0700" stop="20250920214500 +0700" channel="COSMOTE Sport 2 HD">
@@ -290,10 +286,6 @@
     <title>Basketball: Olympiacos BC - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250920200000 +0700" stop="20250920210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250920210000 +0700" stop="20250920223500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -378,12 +370,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250920200000 +0700" stop="20250920203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250920203000 +0700" stop="20250920210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E5</title>
+<programme start="20250921213000 +0700" stop="20250921223000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250920210000 +0700" stop="20250920230000 +0700" channel="COSMOTE Sport 6 HD">
@@ -586,9 +574,9 @@
     <title>Handball: Fuchse Berlin - MT Melsungen (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250920190000 +0700" stop="20250920210000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Basketball: Al Ahli - Utsunomiya Brex (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250921214500 +0700" stop="20250921220000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250920210000 +0700" stop="20250920213000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -669,5 +657,13 @@
 <programme start="20250921203000 +0700" stop="20250921210000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250921210000 +0700" stop="20250921213000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250921213000 +0700" stop="20250921233000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: Partick Thistle F.C - Celtic FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
