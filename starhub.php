@@ -8008,19 +8008,19 @@
     <programme start="20250919225500 +0000" stop="20250920013000 +0000" channel="Asianet Movies.starhub">
         <title>Sreekrishnapurathe Nakshathrathilakkam</title>
     </programme>
-    <programme start="20250920013000 +0000" stop="20250920043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250920013000 +0000" stop="20250920044000 +0000" channel="Asianet Movies.starhub">
         <title>Kilichundan Mambazham</title>
     </programme>
-    <programme start="20250920043000 +0000" stop="20250920073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250920044000 +0000" stop="20250920074000 +0000" channel="Asianet Movies.starhub">
         <title>Johny Johny Yes Appa</title>
     </programme>
-    <programme start="20250920073000 +0000" stop="20250920103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250920074000 +0000" stop="20250920105000 +0000" channel="Asianet Movies.starhub">
         <title>Neymar</title>
     </programme>
-    <programme start="20250920103000 +0000" stop="20250920133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250920105000 +0000" stop="20250920133000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
-    <programme start="20250920133000 +0000" stop="20250920163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250920133000 +0000" stop="20250920162500 +0000" channel="Asianet Movies.starhub">
         <title>A.R.M</title>
     </programme>
     <programme start="20250919160000 +0000" stop="20250919163000 +0000" channel="Astro Warna HD.starhub">
