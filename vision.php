@@ -658,6 +658,9 @@
 <programme start="20250921090000 +0000" stop="20250921110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
 </programme>
+<programme start="20250921110000 +0000" stop="20250921123000 +0000" channel="ANTV.vision">
+<title>Nyi Blorong</title>
+</programme>
 <programme start="20250921123000 +0000" stop="20250921143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20250922093000 +0000" stop="20250922103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20250922103000 +0000" stop="20250922123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
