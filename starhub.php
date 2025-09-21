@@ -7756,11 +7756,17 @@
     <programme start="20250921040000 +0000" stop="20250921091500 +0000" channel="SPOTV2.starhub">
         <title>Men&#039;s &amp; Women&#039;s Race</title>
     </programme>
-    <programme start="20250921091500 +0000" stop="20250921133000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250921091500 +0000" stop="20250921120000 +0000" channel="SPOTV2.starhub">
         <title>Race 26</title>
     </programme>
-    <programme start="20250921133000 +0000" stop="20250921150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250921120000 +0000" stop="20250921133000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
+    </programme>
+    <programme start="20250921133000 +0000" stop="20250921141500 +0000" channel="SPOTV2.starhub">
+        <title>Race 1</title>
+    </programme>
+    <programme start="20250921141500 +0000" stop="20250921150000 +0000" channel="SPOTV2.starhub">
+        <title>Race 2</title>
     </programme>
     <programme start="20250921150000 +0000" stop="20250921173000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025: Regular Season Los Angeles Dodgers vs San Francisco Giants</title>
