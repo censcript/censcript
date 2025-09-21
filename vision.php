@@ -577,9 +577,6 @@
 <programme start="20250921154500 +0000" stop="20250921163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20250921163000 +0000" stop="20250921181500 +0000" channel="Trans 7.vision">
-<title>A: Aku, Benci &amp; Cinta</title>
-</programme>
 <programme start="20250921181500 +0000" stop="20250921193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -658,17 +655,8 @@
 <programme start="20250921090000 +0000" stop="20250921110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
 </programme>
-<programme start="20250921110000 +0000" stop="20250921123000 +0000" channel="ANTV.vision">
-<title>Nyi Blorong</title>
-</programme>
 <programme start="20250921123000 +0000" stop="20250921143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20250921143000 +0000" stop="20250921163000 +0000" channel="ANTV.vision">
-<title>Pendekar Lembah Kuning</title>
-</programme>
-<programme start="20250921163000 +0000" stop="20250921183000 +0000" channel="ANTV.vision">
-<title>Black Cat 2</title>
 </programme>
 <programme start="20250921183000 +0000" stop="20250921200000 +0000" channel="ANTV.vision">
 <title>Sword Man</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20250922093000 +0000" stop="20250922103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20250922103000 +0000" stop="20250922123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20250921000000 +0000" stop="20250921010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250921010000 +0000" stop="20250921020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250921020000 +0000" stop="20250921020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
