@@ -54,6 +54,10 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250923055000 +0700" stop="20250923060500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250922034500 +0700" stop="20250922060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -230,9 +234,13 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250922020000 +0700" stop="20250922043500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Las Vegas Aces - Indiana Fever (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250923050500 +0700" stop="20250923052500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250923052500 +0700" stop="20250923073000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Trapani</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922043500 +0700" stop="20250922052500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -334,6 +342,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250923053500 +0700" stop="20250923063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250922040000 +0700" stop="20250922080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
@@ -384,14 +396,6 @@
 </programme>
 <programme start="20250923043000 +0700" stop="20250923060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250922023000 +0700" stop="20250922043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Casa Pia - Famalicao (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250922043000 +0700" stop="20250922050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922050000 +0700" stop="20250922080000 +0700" channel="COSMOTE Sport 7 HD">
@@ -453,6 +457,10 @@
 <programme start="20250923043000 +0700" stop="20250923050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250923050000 +0700" stop="20250923080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>NBA TV 2024-25 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250922040000 +0700" stop="20250922053000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
