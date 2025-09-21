@@ -890,19 +890,19 @@
         <title>No Programme available now. Next Broadcast on 21st September, Sunday 12.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
     <programme start="20250921044000 +0000" stop="20250921063000 +0000" channel="Live 5.mewatch">
-        <title>FIBA Intercontinental Cup 2025: 5th &amp; 6th Place</title>
+        <title>FIBA Intercontinental Cup 2025: 5th &amp; 6th Place - Utsunomiya Brex vs Illawarra Hawks</title>
     </programme>
     <programme start="20250921063000 +0000" stop="20250921074000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 21st September, Sunday 3.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
     <programme start="20250921074000 +0000" stop="20250921093000 +0000" channel="Live 5.mewatch">
-        <title>FIBA Intercontinental Cup 2025: 3rd &amp; 4th Place</title>
+        <title>FIBA Intercontinental Cup 2025: 3rd Place - Alahli SC vs Flamengo</title>
     </programme>
     <programme start="20250921093000 +0000" stop="20250921104000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 21st September, Sunday 6.40pm. FIBA Intercontinental Cup 2025</title>
     </programme>
     <programme start="20250921104000 +0000" stop="20250921123000 +0000" channel="Live 5.mewatch">
-        <title>FIBA Intercontinental Cup 2025: Final</title>
+        <title>FIBA Intercontinental Cup 2025: Final - Unicaja vs NBA G League United</title>
     </programme>
     <programme start="20250921123000 +0000" stop="20250921160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>

@@ -526,9 +526,6 @@
 <programme start="20250921000000 +0000" stop="20250921010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250921010000 +0000" stop="20250921013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20250921013000 +0000" stop="20250921023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250922080000 +0000" stop="20250922083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20250922083000 +0000" stop="20250922093000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
 </programme>

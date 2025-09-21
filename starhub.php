@@ -3986,7 +3986,7 @@
         <title>Nationwide Children&#039;s Hospital Championship Round 3</title>
     </programme>
     <programme start="20250921073000 +0000" stop="20250921103000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Walmart NW Arkansas Championship presented by P&amp;G Round 2</title>
+        <title>FedEx Open de France Day 3</title>
     </programme>
     <programme start="20250921103000 +0000" stop="20250921153000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>FedEx Open de France Day 4</title>
@@ -7618,7 +7618,10 @@
     <programme start="20250920224000 +0000" stop="20250921013000 +0000" channel="Asianet Movies.starhub">
         <title>Poomaram</title>
     </programme>
-    <programme start="20250921013000 +0000" stop="20250921043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250921013000 +0000" stop="20250921015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20250921015000 +0000" stop="20250921043000 +0000" channel="Asianet Movies.starhub">
         <title>Falimy</title>
     </programme>
     <programme start="20250921043000 +0000" stop="20250921073000 +0000" channel="Asianet Movies.starhub">
@@ -7630,7 +7633,7 @@
     <programme start="20250921103000 +0000" stop="20250921133000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20250921133000 +0000" stop="20250921163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250921133000 +0000" stop="20250921162000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
     <programme start="20250920150000 +0000" stop="20250920163000 +0000" channel="Astro Warna HD.starhub">
