@@ -130,10 +130,6 @@
     <title>Football: ACF Fiorentina - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921120000 +0700" stop="20250921140000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Leicester City FC - Coventry City</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250921140000 +0700" stop="20250921143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Temples of Sport</title>
     <desc>Live: Tidak</desc>
@@ -266,8 +262,12 @@
     <title>Basketball: Olympiacos BC - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921120000 +0700" stop="20250921133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20250922140000 +0700" stop="20250922142000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250922142000 +0700" stop="20250922164000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Las Vegas Aces - Indiana Fever</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921133000 +0700" stop="20250921143000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,9 +358,9 @@
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921120000 +0700" stop="20250921140000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Christopher O&#039;Connell - Alejandro Tabilo (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250922145000 +0700" stop="20250922155000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921140000 +0700" stop="20250921160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Marcos Giron - Brandon Nakashima (L)</title>
@@ -404,10 +404,6 @@
 </programme>
 <programme start="20250922120500 +0700" stop="20250922160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250921120000 +0700" stop="20250921140000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921140000 +0700" stop="20250921160000 +0700" channel="COSMOTE Sport 7 HD">
@@ -466,8 +462,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921120000 +0700" stop="20250921140000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250922140000 +0700" stop="20250922160000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921140000 +0700" stop="20250921160000 +0700" channel="COSMOTE Sport 8 HD">
@@ -546,9 +542,9 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921120000 +0700" stop="20250921140000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Basketball: Utsunomiya Brex - Illawarra Hawks (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250922140000 +0700" stop="20250922160000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921140000 +0700" stop="20250921143000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
@@ -615,6 +611,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922120000 +0700" stop="20250922140000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250922140000 +0700" stop="20250922160000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
