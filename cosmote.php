@@ -1,7 +1,3 @@
-<programme start="20250921150000 +0700" stop="20250921170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Liverpool FC - Club Atletico de Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250921170000 +0700" stop="20250921173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -60,6 +56,10 @@
 </programme>
 <programme start="20250922152500 +0700" stop="20250922172500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Copenhagen - Bayer 04 Leverkusen</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250922172500 +0700" stop="20250922195000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921150000 +0700" stop="20250921171000 +0700" channel="COSMOTE Sport 2 HD">
@@ -130,6 +130,10 @@
     <title>Football: Cremonese - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250922171000 +0700" stop="20250922192500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250921152000 +0700" stop="20250921173000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Nassr - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
@@ -194,8 +198,8 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250921144000 +0700" stop="20250921164500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: PAOK - SC Derby</title>
+<programme start="20250922170000 +0700" stop="20250922190000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Casa Pia - Famalicao</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250921164500 +0700" stop="20250921171500 +0700" channel="COSMOTE Sport 4 HD">
@@ -541,10 +545,6 @@
 <programme start="20250922160000 +0700" stop="20250922180000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250921150000 +0700" stop="20250921170000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Basketball: Al Ahli - Flamengo (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250921170000 +0700" stop="20250921180000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
