@@ -110,8 +110,8 @@
     <title>Football: SSC Napoli - Pisa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250922010000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: AVS Futebol - SL Benfica</title>
+<programme start="20250923034500 +0700" stop="20250923060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922030000 +0700" stop="20250922050500 +0700" channel="COSMOTE Sport 3 HD">
@@ -172,10 +172,6 @@
 </programme>
 <programme start="20250923020000 +0700" stop="20250923040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Millwall - Watford (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250922003000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Crvena Zvezda - Olympiacos BC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250922030000 +0700" stop="20250922051500 +0700" channel="COSMOTE Sport 4 HD">
@@ -326,6 +322,10 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250923033500 +0700" stop="20250923040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250922000000 +0700" stop="20250922040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
@@ -376,10 +376,6 @@
 </programme>
 <programme start="20250923003000 +0700" stop="20250923043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250922020000 +0700" stop="20250922023000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922023000 +0700" stop="20250922043000 +0700" channel="COSMOTE Sport 7 HD">
@@ -440,10 +436,6 @@
 </programme>
 <programme start="20250923021500 +0700" stop="20250923041500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Sporting CP - Moreirense (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250922020000 +0700" stop="20250922030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250922030000 +0700" stop="20250922040000 +0700" channel="COSMOTE Sport 8 HD">
