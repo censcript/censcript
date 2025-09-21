@@ -7607,7 +7607,7 @@
         <title>Love Action Drama</title>
     </programme>
     <programme start="20250920190500 +0000" stop="20250920215000 +0000" channel="Asianet Movies.starhub">
-        <title>&#039;August 15</title>
+        <title>August 15</title>
     </programme>
     <programme start="20250920215000 +0000" stop="20250920222000 +0000" channel="Asianet Movies.starhub">
         <title>Chirikkum Thalika</title>
