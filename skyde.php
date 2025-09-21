@@ -1501,6 +1501,69 @@
 <programme start="20250921214000 +0000" stop="20250921220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20250920230000 +0000" stop="20250921003000 +0000" channel="Romance TV HD.skyde">
+    <title>Donna Leon: Schöner Schein</title>
+</programme>
+<programme start="20250921003000 +0000" stop="20250921020000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Haustausch mit Hindernissen</title>
+</programme>
+<programme start="20250921020000 +0000" stop="20250921020500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250921020500 +0000" stop="20250921021000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250921021000 +0000" stop="20250921022000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250921022000 +0000" stop="20250921035000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: In deinem Leben</title>
+</programme>
+<programme start="20250921035000 +0000" stop="20250921052500 +0000" channel="Romance TV HD.skyde">
+    <title>Freunde sind mehr - Zur Feier des Tages</title>
+</programme>
+<programme start="20250921052500 +0000" stop="20250921065500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Anders - Willkommen im Nest</title>
+</programme>
+<programme start="20250921065500 +0000" stop="20250921074500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250921074500 +0000" stop="20250921084000 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250921084000 +0000" stop="20250921093000 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250921093000 +0000" stop="20250921101500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250921101500 +0000" stop="20250921110500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250921110500 +0000" stop="20250921120000 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20250921120000 +0000" stop="20250921133000 +0000" channel="Romance TV HD.skyde">
+    <title>Meine Mutter... im siebten Himmel</title>
+</programme>
+<programme start="20250921133000 +0000" stop="20250921150500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Haustausch mit Hindernissen</title>
+</programme>
+<programme start="20250921150500 +0000" stop="20250921164000 +0000" channel="Romance TV HD.skyde">
+    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Ligurien</title>
+</programme>
+<programme start="20250921164000 +0000" stop="20250921181500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Glück der Anderen</title>
+</programme>
+<programme start="20250921181500 +0000" stop="20250921195000 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
+</programme>
+<programme start="20250921195000 +0000" stop="20250921212500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Wohin du auch gehst</title>
+</programme>
+<programme start="20250921212500 +0000" stop="20250921230000 +0000" channel="Romance TV HD.skyde">
+    <title>Ein Sommer am Gardasee</title>
+</programme>
 <programme start="20250920220500 +0000" stop="20250920230500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Watchmen</title>
 </programme>
@@ -2032,6 +2095,114 @@
 <programme start="20250921215500 +0000" stop="20250921224000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
+<programme start="20250920224000 +0000" stop="20250920232500 +0000" channel="Sky Nature HD.skyde">
+    <title>Wild World mit Patrick Aryee</title>
+</programme>
+<programme start="20250920232500 +0000" stop="20250920235000 +0000" channel="Sky Nature HD.skyde">
+    <title>Wild Heroes: Die Zoo-Helden von Auckland</title>
+</programme>
+<programme start="20250920235000 +0000" stop="20250921001000 +0000" channel="Sky Nature HD.skyde">
+    <title>Wild Heroes: Die Zoo-Helden von Auckland</title>
+</programme>
+<programme start="20250921001000 +0000" stop="20250921010500 +0000" channel="Sky Nature HD.skyde">
+    <title>Wale - mit Steve Backshall</title>
+</programme>
+<programme start="20250921010500 +0000" stop="20250921015500 +0000" channel="Sky Nature HD.skyde">
+    <title>Evolve - Unsere Zukunft ist tierisch</title>
+</programme>
+<programme start="20250921015500 +0000" stop="20250921024000 +0000" channel="Sky Nature HD.skyde">
+    <title>Terra X: Unsere Wälder</title>
+</programme>
+<programme start="20250921024000 +0000" stop="20250921034000 +0000" channel="Sky Nature HD.skyde">
+    <title>Monkey Life</title>
+</programme>
+<programme start="20250921034000 +0000" stop="20250921042500 +0000" channel="Sky Nature HD.skyde">
+    <title>Terra X: Unsere Wälder</title>
+</programme>
+<programme start="20250921042500 +0000" stop="20250921051500 +0000" channel="Sky Nature HD.skyde">
+    <title>Terra X: Unsere Wälder</title>
+</programme>
+<programme start="20250921051500 +0000" stop="20250921060500 +0000" channel="Sky Nature HD.skyde">
+    <title>Terra X: Abenteuer Namibia</title>
+</programme>
+<programme start="20250921060500 +0000" stop="20250921063000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921063000 +0000" stop="20250921065500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921065500 +0000" stop="20250921072500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921072500 +0000" stop="20250921075000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921075000 +0000" stop="20250921082000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921082000 +0000" stop="20250921084500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921084500 +0000" stop="20250921091000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921091000 +0000" stop="20250921094000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921094000 +0000" stop="20250921100500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921100500 +0000" stop="20250921103500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921103500 +0000" stop="20250921110000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921110000 +0000" stop="20250921112500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921112500 +0000" stop="20250921115500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921115500 +0000" stop="20250921122000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921122000 +0000" stop="20250921125000 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenboroughs Wunder der Natur</title>
+</programme>
+<programme start="20250921125000 +0000" stop="20250921134500 +0000" channel="Sky Nature HD.skyde">
+    <title>Das Wunder Ei</title>
+</programme>
+<programme start="20250921134500 +0000" stop="20250921144500 +0000" channel="Sky Nature HD.skyde">
+    <title>David Attenborough: Der Klang der Natur</title>
+</programme>
+<programme start="20250921144500 +0000" stop="20250921154000 +0000" channel="Sky Nature HD.skyde">
+    <title>Schimpansen im Kongo mit Jane Goodall</title>
+</programme>
+<programme start="20250921154000 +0000" stop="20250921163500 +0000" channel="Sky Nature HD.skyde">
+    <title>Schimpansen im Kongo mit Jane Goodall</title>
+</programme>
+<programme start="20250921163500 +0000" stop="20250921172500 +0000" channel="Sky Nature HD.skyde">
+    <title>Wild World mit Patrick Aryee</title>
+</programme>
+<programme start="20250921172500 +0000" stop="20250921181500 +0000" channel="Sky Nature HD.skyde">
+    <title>Wild World mit Patrick Aryee</title>
+</programme>
+<programme start="20250921181500 +0000" stop="20250921191000 +0000" channel="Sky Nature HD.skyde">
+    <title>Helden der Evolution</title>
+</programme>
+<programme start="20250921191000 +0000" stop="20250921200500 +0000" channel="Sky Nature HD.skyde">
+    <title>Helden der Evolution</title>
+</programme>
+<programme start="20250921200500 +0000" stop="20250921205000 +0000" channel="Sky Nature HD.skyde">
+    <title>Tierische Überflieger</title>
+</programme>
+<programme start="20250921205000 +0000" stop="20250921214000 +0000" channel="Sky Nature HD.skyde">
+    <title>Life Below Zero - Überleben in Alaska</title>
+</programme>
+<programme start="20250921214000 +0000" stop="20250921222500 +0000" channel="Sky Nature HD.skyde">
+    <title>Life Below Zero - Überleben in Alaska</title>
+</programme>
 <programme start="20250920224500 +0000" stop="20250920232500 +0000" channel="Sky One HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
@@ -2526,12 +2697,6 @@
 </programme>
 <programme start="20250921193000 +0000" stop="20250921213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - VfL Wolfsburg, 4. Spieltag</title>
-</programme>
-<programme start="20250921104000 +0000" stop="20250921110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20250921110000 +0000" stop="20250921133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
-    <title>Live 2. BL: Fortuna Düsseldorf - SV Darmstadt 98, 6. Spieltag</title>
 </programme>
 <programme start="20250921104000 +0000" stop="20250921110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -3427,105 +3592,90 @@
 <programme start="20250921204500 +0000" stop="20250921233000 +0000" channel="Warner TV Film HD.skyde">
     <title>The Dark Knight Rises</title>
 </programme>
-<programme start="20250920220500 +0000" stop="20250920225500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20250908234500 +0000" stop="20250909003000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
 </programme>
-<programme start="20250920225500 +0000" stop="20250920234000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909003000 +0000" stop="20250909011000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250909011000 +0000" stop="20250909015500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rescue: HI-Surf</title>
 </programme>
-<programme start="20250920234000 +0000" stop="20250921002500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909015500 +0000" stop="20250909024000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rescue: HI-Surf</title>
 </programme>
-<programme start="20250921002500 +0000" stop="20250921010500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20250921010500 +0000" stop="20250921014500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20250921014500 +0000" stop="20250921023000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20250921023000 +0000" stop="20250921031000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20250921031000 +0000" stop="20250921032000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909024000 +0000" stop="20250909025000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250921032000 +0000" stop="20250921033000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909025000 +0000" stop="20250909030000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20250921033000 +0000" stop="20250921034500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NTSF:SD:SUV::</title>
+<programme start="20250909030000 +0000" stop="20250909035000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
 </programme>
-<programme start="20250921034500 +0000" stop="20250921043500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909035000 +0000" stop="20250909043500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250921043500 +0000" stop="20250921052500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909043500 +0000" stop="20250909053500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250909053500 +0000" stop="20250909062500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250909062500 +0000" stop="20250909071500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250909071500 +0000" stop="20250909080500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250909080500 +0000" stop="20250909085500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20250909085500 +0000" stop="20250909095000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250909095000 +0000" stop="20250909104000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250909104000 +0000" stop="20250909113000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250909113000 +0000" stop="20250909124500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250909124500 +0000" stop="20250909134000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Unsere kleine Farm</title>
+</programme>
+<programme start="20250909134000 +0000" stop="20250909142500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20250909142500 +0000" stop="20250909151000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20250909151000 +0000" stop="20250909155500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250909155500 +0000" stop="20250909164000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20250909164000 +0000" stop="20250909172500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20250909172500 +0000" stop="20250909181500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rescue: HI-Surf</title>
+</programme>
+<programme start="20250909181500 +0000" stop="20250909190000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20250909190000 +0000" stop="20250909194500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20250909194500 +0000" stop="20250909203000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Blindspot</title>
+</programme>
+<programme start="20250909203000 +0000" stop="20250909212000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20250921052500 +0000" stop="20250921061000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250909212000 +0000" stop="20250909220500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20250921061000 +0000" stop="20250921065500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20250921065500 +0000" stop="20250921074000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921074000 +0000" stop="20250921082500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921082500 +0000" stop="20250921091500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921091500 +0000" stop="20250921100000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921100000 +0000" stop="20250921104500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921104500 +0000" stop="20250921113000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921113000 +0000" stop="20250921121500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921121500 +0000" stop="20250921130000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921130000 +0000" stop="20250921134500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921134500 +0000" stop="20250921143000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20250921143000 +0000" stop="20250921151500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921151500 +0000" stop="20250921160000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921160000 +0000" stop="20250921164500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921164500 +0000" stop="20250921173000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921173000 +0000" stop="20250921181500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921181500 +0000" stop="20250921190000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921190000 +0000" stop="20250921194500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921194500 +0000" stop="20250921203000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921203000 +0000" stop="20250921212000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20250921212000 +0000" stop="20250921221000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
 </programme>
