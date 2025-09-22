@@ -2134,14 +2134,77 @@
     <programme start="20250921160000 +0000" stop="20250921220000 +0000" channel="CNN HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20250921220000 +0000" stop="20250922040000 +0000" channel="CNN HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250921230000 +0000" stop="20250922000000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
     </programme>
-    <programme start="20250922040000 +0000" stop="20250922100000 +0000" channel="CNN HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250922000000 +0000" stop="20250922003000 +0000" channel="CNN HD.starhub">
+        <title>Chimamanda Ngozi Adichi</title>
     </programme>
-    <programme start="20250922100000 +0000" stop="20250922160000 +0000" channel="CNN HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250922003000 +0000" stop="20250922004500 +0000" channel="CNN HD.starhub">
+        <title>Marketplace Europe September 2025</title>
+    </programme>
+    <programme start="20250922004500 +0000" stop="20250922010000 +0000" channel="CNN HD.starhub">
+        <title>Marketplace Asia October 2025</title>
+    </programme>
+    <programme start="20250922010000 +0000" stop="20250922020000 +0000" channel="CNN HD.starhub">
+        <title>Fareed Zakaria GPS</title>
+    </programme>
+    <programme start="20250922020000 +0000" stop="20250922030000 +0000" channel="CNN HD.starhub">
+        <title>The Simril(l)s: A Family in Black and White</title>
+    </programme>
+    <programme start="20250922030000 +0000" stop="20250922033000 +0000" channel="CNN HD.starhub">
+        <title>CNN Special</title>
+    </programme>
+    <programme start="20250922033000 +0000" stop="20250922040000 +0000" channel="CNN HD.starhub">
+        <title>Inside Africa LIAFR708</title>
+    </programme>
+    <programme start="20250922040000 +0000" stop="20250922044500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20250922044500 +0000" stop="20250922050000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250922050000 +0000" stop="20250922060000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20250922060000 +0000" stop="20250922064500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20250922064500 +0000" stop="20250922070000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250922070000 +0000" stop="20250922080000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20250922080000 +0000" stop="20250922090000 +0000" channel="CNN HD.starhub">
+        <title>Amanpour Hour, The</title>
+    </programme>
+    <programme start="20250922090000 +0000" stop="20250922100000 +0000" channel="CNN HD.starhub">
+        <title>Early Start with Rahel Solomon</title>
+    </programme>
+    <programme start="20250922100000 +0000" stop="20250922110000 +0000" channel="CNN HD.starhub">
+        <title>CNN This Morning</title>
+    </programme>
+    <programme start="20250922110000 +0000" stop="20250922120000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20250922120000 +0000" stop="20250922123000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20250922123000 +0000" stop="20250922130000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250922130000 +0000" stop="20250922134500 +0000" channel="CNN HD.starhub">
+        <title>Connect the World</title>
+    </programme>
+    <programme start="20250922134500 +0000" stop="20250922140000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250922140000 +0000" stop="20250922150000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World</title>
+    </programme>
+    <programme start="20250922150000 +0000" stop="20250922160000 +0000" channel="CNN HD.starhub">
+        <title>One World</title>
     </programme>
     <programme start="20250921133000 +0000" stop="20250921170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Paapanasam</title>

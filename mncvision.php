@@ -424,7 +424,156 @@
 <programme start="20250922163000 +0000" stop="20250921170000 +0000" channel="ANTV.mncvision">
     <title>Three Wishes</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250921170000 +0000" stop="20250921173000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250921173000 +0000" stop="20250921180000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250921180000 +0000" stop="20250921183000 +0000" channel="Arirang.mncvision">
+    <title>Extreme Job</title>
+</programme>
+<programme start="20250921183000 +0000" stop="20250921185000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20250921185000 +0000" stop="20250921190000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: Attraction</title>
+</programme>
+<programme start="20250921190000 +0000" stop="20250921193000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gangwon</title>
+</programme>
+<programme start="20250921193000 +0000" stop="20250921200000 +0000" channel="Arirang.mncvision">
+    <title>K-Stage Pan</title>
+</programme>
+<programme start="20250921200000 +0000" stop="20250921203000 +0000" channel="Arirang.mncvision">
+    <title>The Globalists</title>
+</programme>
+<programme start="20250921203000 +0000" stop="20250921204500 +0000" channel="Arirang.mncvision">
+    <title>Arirang Land</title>
+</programme>
+<programme start="20250921204500 +0000" stop="20250921210000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature C</title>
+</programme>
+<programme start="20250921210000 +0000" stop="20250921213000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20250921213000 +0000" stop="20250921215000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20250921215000 +0000" stop="20250921220000 +0000" channel="Arirang.mncvision">
+    <title>Discovering Korea: Attraction</title>
+</programme>
+<programme start="20250921220000 +0000" stop="20250921222000 +0000" channel="Arirang.mncvision">
+    <title>The Grand Heritage: Gyeongju</title>
+</programme>
+<programme start="20250921222000 +0000" stop="20250921223000 +0000" channel="Arirang.mncvision">
+    <title>Hanok Scene</title>
+</programme>
+<programme start="20250921223000 +0000" stop="20250921230000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250921230000 +0000" stop="20250921233000 +0000" channel="Arirang.mncvision">
+    <title>Home To Table</title>
+</programme>
+<programme start="20250921233000 +0000" stop="20250921235000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20250921235000 +0000" stop="20250922000000 +0000" channel="Arirang.mncvision">
+    <title>K-Sports Unlocked</title>
+</programme>
+<programme start="20250922000000 +0000" stop="20250922001000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Conversing In Korean</title>
+</programme>
+<programme start="20250922001000 +0000" stop="20250922002000 +0000" channel="Arirang.mncvision">
+    <title>K-Chat: Travel In Korea</title>
+</programme>
+<programme start="20250922002000 +0000" stop="20250922003000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250922003000 +0000" stop="20250922010000 +0000" channel="Arirang.mncvision">
+    <title>Travel Diary</title>
+</programme>
+<programme start="20250922010000 +0000" stop="20250922013000 +0000" channel="Arirang.mncvision">
+    <title>New Day At Arirang</title>
+</programme>
+<programme start="20250922013000 +0000" stop="20250922020000 +0000" channel="Arirang.mncvision">
+    <title>News Generation (L)</title>
+</programme>
+<programme start="20250922020000 +0000" stop="20250922030000 +0000" channel="Arirang.mncvision">
+    <title>Culture Crunch (L)</title>
+</programme>
+<programme start="20250922030000 +0000" stop="20250922033000 +0000" channel="Arirang.mncvision">
+    <title>Arirang News</title>
+</programme>
+<programme start="20250922033000 +0000" stop="20250922040000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gyeonggi</title>
+</programme>
+<programme start="20250922040000 +0000" stop="20250922050000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20250922050000 +0000" stop="20250922053000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave (L)</title>
+</programme>
+<programme start="20250922053000 +0000" stop="20250922060000 +0000" channel="Arirang.mncvision">
+    <title>News Generation</title>
+</programme>
+<programme start="20250922060000 +0000" stop="20250922063000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20250922063000 +0000" stop="20250922065000 +0000" channel="Arirang.mncvision">
+    <title>K-Arts Artists</title>
+</programme>
+<programme start="20250922065000 +0000" stop="20250922070000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
+<programme start="20250922070000 +0000" stop="20250922073000 +0000" channel="Arirang.mncvision">
+    <title>Travel Diary</title>
+</programme>
+<programme start="20250922073000 +0000" stop="20250922075000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20250922075000 +0000" stop="20250922080000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature A</title>
+</programme>
+<programme start="20250922080000 +0000" stop="20250922083000 +0000" channel="Arirang.mncvision">
+    <title>The Daily Report</title>
+</programme>
+<programme start="20250922083000 +0000" stop="20250922090000 +0000" channel="Arirang.mncvision">
+    <title>Press Perspective (L)</title>
+</programme>
+<programme start="20250922090000 +0000" stop="20250922100000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20250922100000 +0000" stop="20250922103000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20250922103000 +0000" stop="20250922110000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20250922110000 +0000" stop="20250922113000 +0000" channel="Arirang.mncvision">
+    <title>NewsCenter</title>
+</programme>
+<programme start="20250922113000 +0000" stop="20250922120000 +0000" channel="Arirang.mncvision">
+    <title>Within The Frame (L)</title>
+</programme>
+<programme start="20250922120000 +0000" stop="20250922123000 +0000" channel="Arirang.mncvision">
+    <title>The Kulture Wave</title>
+</programme>
+<programme start="20250922123000 +0000" stop="20250922125000 +0000" channel="Arirang.mncvision">
+    <title>1Day 1K-Culture: K-Trend</title>
+</programme>
+<programme start="20250922125000 +0000" stop="20250922130000 +0000" channel="Arirang.mncvision">
+    <title>K-Sports Unlocked</title>
+</programme>
+<programme start="20250922130000 +0000" stop="20250922133000 +0000" channel="Arirang.mncvision">
+    <title>Travel Diary</title>
+</programme>
+<programme start="20250922133000 +0000" stop="20250922135000 +0000" channel="Arirang.mncvision">
+    <title>Korea Travelogue 5</title>
+</programme>
+<programme start="20250922135000 +0000" stop="20250922142000 +0000" channel="Arirang.mncvision">
+    <title>Exploring Korean Literature B</title>
+</programme>
 <programme start="20250921183500 +0000" stop="20250921190500 +0000" channel="AXN.mncvision">
     <title>Twisted Metal S2, Ep 5</title>
 </programme>
@@ -899,8 +1048,120 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="BBC World News.mncvision">
     <title>Business Today</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250921184000 +0000" stop="20250921185500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Match HL: RSO Vs RAY</title>
+</programme>
+<programme start="20250921185500 +0000" stop="20250921210000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: BAR Vs GET (L)</title>
+</programme>
+<programme start="20250921210000 +0000" stop="20250921225000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: RAY Vs CEL</title>
+</programme>
+<programme start="20250921225000 +0000" stop="20250922004500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: MLL Vs ATM</title>
+</programme>
+<programme start="20250922004500 +0000" stop="20250922015000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA Formula 2 2025: Baku</title>
+</programme>
+<programme start="20250922015000 +0000" stop="20250922025000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922025000 +0000" stop="20250922035000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922035000 +0000" stop="20250922045000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922045000 +0000" stop="20250922055000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922055000 +0000" stop="20250922072000 +0000" channel="beIN Sports 1.mncvision">
+    <title>SailGP S5: Geneva Day 2</title>
+</programme>
+<programme start="20250922072000 +0000" stop="20250922092000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: BAR Vs GET</title>
+</programme>
+<programme start="20250922092000 +0000" stop="20250922095500 +0000" channel="beIN Sports 1.mncvision">
+    <title>F1 HL 2025: Azerbaijan GP</title>
+</programme>
+<programme start="20250922095500 +0000" stop="20250922105500 +0000" channel="beIN Sports 1.mncvision">
+    <title>Silverstone Festival HL 2025</title>
+</programme>
+<programme start="20250922105500 +0000" stop="20250922125500 +0000" channel="beIN Sports 1.mncvision">
+    <title>F1 Main Race 2025: Azerbaijan</title>
+</programme>
+<programme start="20250922125500 +0000" stop="20250922133000 +0000" channel="beIN Sports 1.mncvision">
+    <title>F1 HL 2025: Azerbaijan GP</title>
+</programme>
+<programme start="20250922133000 +0000" stop="20250922153000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV 2025/26: LIV Vs EVE</title>
+</programme>
+<programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFC Trending 2025/26, Ep 7</title>
+</programme>
+<programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV HL 2025/26: LIV Vs ATM</title>
+</programme>
+<programme start="20250922163000 +0000" stop="20250921170000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: GIR Vs LEV</title>
+</programme>
+<programme start="20250921184000 +0000" stop="20250921185500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Match HL: RSO Vs RAY</title>
+</programme>
+<programme start="20250921185500 +0000" stop="20250921210000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BAR Vs GET (L)</title>
+</programme>
+<programme start="20250921210000 +0000" stop="20250921225000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RAY Vs CEL</title>
+</programme>
+<programme start="20250921225000 +0000" stop="20250922004500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: MLL Vs ATM</title>
+</programme>
+<programme start="20250922004500 +0000" stop="20250922015000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA Formula 2 2025: Baku</title>
+</programme>
+<programme start="20250922015000 +0000" stop="20250922025000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922025000 +0000" stop="20250922035000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922035000 +0000" stop="20250922045000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922045000 +0000" stop="20250922055000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA European Truck Racing 2025</title>
+</programme>
+<programme start="20250922055000 +0000" stop="20250922072000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>SailGP S5: Geneva Day 2</title>
+</programme>
+<programme start="20250922072000 +0000" stop="20250922092000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BAR Vs GET</title>
+</programme>
+<programme start="20250922092000 +0000" stop="20250922095500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 HL 2025: Azerbaijan GP</title>
+</programme>
+<programme start="20250922095500 +0000" stop="20250922105500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Silverstone Festival HL 2025</title>
+</programme>
+<programme start="20250922105500 +0000" stop="20250922125500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Main Race 2025: Azerbaijan</title>
+</programme>
+<programme start="20250922125500 +0000" stop="20250922133000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 HL 2025: Azerbaijan GP</title>
+</programme>
+<programme start="20250922133000 +0000" stop="20250922153000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: LIV Vs EVE</title>
+</programme>
+<programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 7</title>
+</programme>
+<programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV HL 2025/26: LIV Vs ATM</title>
+</programme>
+<programme start="20250922163000 +0000" stop="20250921170000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: GIR Vs LEV</title>
+</programme>
 <programme start="20250921180000 +0000" stop="20250921182500 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Doco Shorts</title>
 </programme>
