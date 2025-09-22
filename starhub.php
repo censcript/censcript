@@ -2131,8 +2131,32 @@
     <programme start="20250922153000 +0000" stop="20250922163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
     </programme>
-    <programme start="20250921160000 +0000" stop="20250921220000 +0000" channel="CNN HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250921160000 +0000" stop="20250921163000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250921163000 +0000" stop="20250921170000 +0000" channel="CNN HD.starhub">
+        <title>Inside Africa LIAFR708</title>
+    </programme>
+    <programme start="20250921170000 +0000" stop="20250921173000 +0000" channel="CNN HD.starhub">
+        <title>Chimamanda Ngozi Adichi</title>
+    </programme>
+    <programme start="20250921173000 +0000" stop="20250921180000 +0000" channel="CNN HD.starhub">
+        <title>Mongolia</title>
+    </programme>
+    <programme start="20250921180000 +0000" stop="20250921190000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
+    </programme>
+    <programme start="20250921190000 +0000" stop="20250921200000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
+    </programme>
+    <programme start="20250921200000 +0000" stop="20250921210000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
+    </programme>
+    <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20250921230000 +0000" stop="20250922000000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
