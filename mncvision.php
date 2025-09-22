@@ -8428,13 +8428,13 @@
 <programme start="20250922020000 +0000" stop="20250922050000 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
-<programme start="20250922050000 +0000" stop="20250922080000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250922050000 +0000" stop="20250922074500 +0000" channel="SPOTV 2.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
-<programme start="20250922080000 +0000" stop="20250922093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250922074500 +0000" stop="20250922091500 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP S5: Switzerland</title>
 </programme>
-<programme start="20250922093000 +0000" stop="20250922110000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250922091500 +0000" stop="20250922110000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP S5: Switzerland</title>
 </programme>
 <programme start="20250922110000 +0000" stop="20250922120000 +0000" channel="SPOTV 2.mncvision">
@@ -8473,13 +8473,13 @@
 <programme start="20250922020000 +0000" stop="20250922050000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
-<programme start="20250922050000 +0000" stop="20250922080000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250922050000 +0000" stop="20250922074500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025 US Open Tennis C&#039;ships</title>
 </programme>
-<programme start="20250922080000 +0000" stop="20250922093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250922074500 +0000" stop="20250922091500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SailGP S5: Switzerland</title>
 </programme>
-<programme start="20250922093000 +0000" stop="20250922110000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250922091500 +0000" stop="20250922110000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SailGP S5: Switzerland</title>
 </programme>
 <programme start="20250922110000 +0000" stop="20250922120000 +0000" channel="SPOTV 2 HD.mncvision">
