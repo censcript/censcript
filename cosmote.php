@@ -58,6 +58,10 @@
     <title>Gala</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250923154500 +0700" stop="20250923174500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Eintracht Frankfurt - Galatasaray AS</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250922131000 +0700" stop="20250922151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Como</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +122,10 @@
     <title>Football: Lecce - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250923151000 +0700" stop="20250923171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250922120000 +0700" stop="20250922152500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: San Francisco 49ers - Arizona Cardinals</title>
     <desc>Live: Tidak</desc>
@@ -174,8 +182,8 @@
     <title>American Football: New York Giants - Kansas City Chiefs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250922140000 +0700" stop="20250922142000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+<programme start="20250923153000 +0700" stop="20250923160000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922142000 +0700" stop="20250922164000 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,8 +238,8 @@
     <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250922135500 +0700" stop="20250922145000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Moto-E World Championship 2025</title>
+<programme start="20250923154500 +0700" stop="20250923160500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922145000 +0700" stop="20250922155000 +0700" channel="COSMOTE Sport 5 HD">
@@ -324,6 +332,10 @@
 </programme>
 <programme start="20250923142500 +0700" stop="20250923152500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250923152500 +0700" stop="20250923163000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250922120500 +0700" stop="20250922160000 +0700" channel="COSMOTE Sport 6 HD">
