@@ -1205,7 +1205,7 @@
     <title>Laver Cup 2025: Singles Day 3</title>
 </programme>
 <programme start="20250922163000 +0000" stop="20250921170000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Laver Cup 2025: Doubles Day 3</title>
+    <title>ATP Tour: This Week 2025, Ep 36</title>
 </programme>
 <programme start="20250921180000 +0000" stop="20250921182500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Doco Shorts</title>
@@ -1250,7 +1250,7 @@
     <title>Laver Cup 2025: Singles Day 3</title>
 </programme>
 <programme start="20250922163000 +0000" stop="20250921170000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Laver Cup 2025: Doubles Day 3</title>
+    <title>ATP Tour: This Week 2025, Ep 36</title>
 </programme>
 <programme start="20250921170000 +0000" stop="20250921180000 +0000" channel="beIN Sports 3.mncvision">
     <title>Ferrari Challenge Europe Race</title>
