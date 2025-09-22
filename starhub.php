@@ -8107,13 +8107,13 @@
     <programme start="20250921203000 +0000" stop="20250922020000 +0000" channel="SPOTV2.starhub">
         <title>Men&#039;s &amp; Women&#039;s Race</title>
     </programme>
-    <programme start="20250922020000 +0000" stop="20250922080000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250922020000 +0000" stop="20250922074500 +0000" channel="SPOTV2.starhub">
         <title>DAY 5 Day Session 2nd Round (Louis Armstrong)</title>
     </programme>
-    <programme start="20250922080000 +0000" stop="20250922093000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250922074500 +0000" stop="20250922091500 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20250922093000 +0000" stop="20250922110000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250922091500 +0000" stop="20250922110000 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
     <programme start="20250922110000 +0000" stop="20250922120000 +0000" channel="SPOTV2.starhub">
