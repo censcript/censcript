@@ -485,7 +485,7 @@
         <title>3D Nation - EP 2</title>
     </programme>
     <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="CNA.mewatch">
-        <title>Undercover Asia S12: Inside the Illegal &#039;Dunki&#039; Route - EP 1</title>
+        <title>Undercover Asia S12 - EP 1</title>
     </programme>
     <programme start="20250921220000 +0000" stop="20250921223000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
@@ -497,13 +497,13 @@
         <title>(Live) Asia First</title>
     </programme>
     <programme start="20250922020000 +0000" stop="20250922030000 +0000" channel="CNA.mewatch">
-        <title>Undercover Asia S12: Inside the Illegal &#039;Dunki&#039; Route - EP 1</title>
+        <title>Undercover Asia S12 - EP 1</title>
     </programme>
     <programme start="20250922030000 +0000" stop="20250922050000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
     </programme>
     <programme start="20250922050000 +0000" stop="20250922060000 +0000" channel="CNA.mewatch">
-        <title>Undercover Asia S12: In the Grip Of The Game - EP 1</title>
+        <title>Undercover Asia S12 - EP 1</title>
     </programme>
     <programme start="20250922060000 +0000" stop="20250922080000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
@@ -530,13 +530,13 @@
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20250922130000 +0000" stop="20250922140000 +0000" channel="CNA.mewatch">
-        <title>Undercover Asia S12: Heartbeats - Mothers of the Black Sea - EP 1</title>
+        <title>Undercover Asia S12 - EP 1</title>
     </programme>
     <programme start="20250922140000 +0000" stop="20250922150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
     </programme>
     <programme start="20250922150000 +0000" stop="20250922160000 +0000" channel="CNA.mewatch">
-        <title>Undercover Asia S12: Inside the Illegal &#039;Dunki&#039; Route - EP 1</title>
+        <title>Undercover Asia S12 - EP 1</title>
     </programme>
     <programme start="20250922160000 +0000" stop="20250922160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
