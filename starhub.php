@@ -2818,9 +2818,6 @@
     <programme start="20250921220000 +0000" stop="20250921223000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
-    <programme start="20250921223000 +0000" stop="20250921230000 +0000" channel="Zee Tamil.starhub">
-        <title>Mounam Pesiyathey</title>
-    </programme>
     <programme start="20250921230000 +0000" stop="20250921233000 +0000" channel="Zee Tamil.starhub">
         <title>Naane Varuvean</title>
     </programme>
@@ -2851,8 +2848,23 @@
     <programme start="20250922053000 +0000" stop="20250922060000 +0000" channel="Zee Tamil.starhub">
         <title>Manasellam</title>
     </programme>
-    <programme start="20250922060000 +0000" stop="20250922090000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+    <programme start="20250922060000 +0000" stop="20250922063000 +0000" channel="Zee Tamil.starhub">
+        <title>KCKC - Murder</title>
+    </programme>
+    <programme start="20250922063000 +0000" stop="20250922070000 +0000" channel="Zee Tamil.starhub">
+        <title>Gettimelam</title>
+    </programme>
+    <programme start="20250922070000 +0000" stop="20250922073000 +0000" channel="Zee Tamil.starhub">
+        <title>Special Gettimelam</title>
+    </programme>
+    <programme start="20250922073000 +0000" stop="20250922080000 +0000" channel="Zee Tamil.starhub">
+        <title>Special Gettimelam</title>
+    </programme>
+    <programme start="20250922080000 +0000" stop="20250922083000 +0000" channel="Zee Tamil.starhub">
+        <title>Special Gettimelam</title>
+    </programme>
+    <programme start="20250922083000 +0000" stop="20250922090000 +0000" channel="Zee Tamil.starhub">
+        <title>Special Gettimelam</title>
     </programme>
     <programme start="20250922090000 +0000" stop="20250922093000 +0000" channel="Zee Tamil.starhub">
         <title>Maari</title>
@@ -2864,7 +2876,7 @@
         <title>Varisu</title>
     </programme>
     <programme start="20250922103000 +0000" stop="20250922110000 +0000" channel="Zee Tamil.starhub">
-        <title>Gettimelam</title>
+        <title>Special Gettimelam</title>
     </programme>
     <programme start="20250922110000 +0000" stop="20250922113000 +0000" channel="Zee Tamil.starhub">
         <title>Chinnanjiru Kiliye</title>
@@ -2878,29 +2890,29 @@
     <programme start="20250922123000 +0000" stop="20250922130000 +0000" channel="Zee Tamil.starhub">
         <title>Ayali</title>
     </programme>
-    <programme start="20250922130000 +0000" stop="20250922132000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250922130000 +0000" stop="20250922133000 +0000" channel="Zee Tamil.starhub">
         <title>Karthigai Deepam</title>
     </programme>
-    <programme start="20250922132000 +0000" stop="20250922134500 +0000" channel="Zee Tamil.starhub">
-        <title>Karthigai Deepam</title>
+    <programme start="20250922133000 +0000" stop="20250922134500 +0000" channel="Zee Tamil.starhub">
+        <title>Parijatham</title>
     </programme>
     <programme start="20250922134500 +0000" stop="20250922140000 +0000" channel="Zee Tamil.starhub">
-        <title>Sandhya Raagam</title>
+        <title>Parijatham</title>
     </programme>
     <programme start="20250922140000 +0000" stop="20250922143000 +0000" channel="Zee Tamil.starhub">
         <title>Sandhya Raagam</title>
     </programme>
-    <programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250922143000 +0000" stop="20250922144500 +0000" channel="Zee Tamil.starhub">
         <title>Idhayam</title>
     </programme>
-    <programme start="20250922150000 +0000" stop="20250922151500 +0000" channel="Zee Tamil.starhub">
-        <title>Ninaithale Inikkum</title>
+    <programme start="20250922144500 +0000" stop="20250922150000 +0000" channel="Zee Tamil.starhub">
+        <title>Idhayam</title>
     </programme>
-    <programme start="20250922151500 +0000" stop="20250922153000 +0000" channel="Zee Tamil.starhub">
+    <programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="Zee Tamil.starhub">
         <title>Ninaithale Inikkum</title>
     </programme>
     <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="Zee Tamil.starhub">
-        <title>Chinnanjiru Kiliye</title>
+        <title>Ninaithale Inikkum</title>
     </programme>
     <programme start="20250921160000 +0000" stop="20250921163000 +0000" channel="ANC.starhub">
         <title>Insights: Israel And Middle East</title>
@@ -4205,7 +4217,7 @@
         <title>Nationwide Children&#039;s Hospital Championship Round 4</title>
     </programme>
     <programme start="20250922130000 +0000" stop="20250922160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Walmart NW Arkansas Championship presented by P&amp;G Final Round</title>
+        <title>FedEx Open de France Day 4</title>
     </programme>
     <programme start="20250921160000 +0000" stop="20250921161500 +0000" channel="France24.starhub">
         <title>News</title>

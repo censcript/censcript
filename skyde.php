@@ -1885,51 +1885,6 @@
 <programme start="20250922204000 +0000" stop="20250922222500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Salt</title>
 </programme>
-<programme start="20250921220000 +0000" stop="20250921235500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Ghostbusters: Frozen Empire</title>
-</programme>
-<programme start="20250921235500 +0000" stop="20250922013000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Breathe</title>
-</programme>
-<programme start="20250922013000 +0000" stop="20250922030000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Sisu</title>
-</programme>
-<programme start="20250922030000 +0000" stop="20250922043500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Strangers: Chapter 1</title>
-</programme>
-<programme start="20250922043500 +0000" stop="20250922060500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Get Away</title>
-</programme>
-<programme start="20250922060500 +0000" stop="20250922074500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Ein Minecraft Film</title>
-</programme>
-<programme start="20250922074500 +0000" stop="20250922094500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Ghostbusters: Frozen Empire</title>
-</programme>
-<programme start="20250922094500 +0000" stop="20250922112000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>200% Wolf</title>
-</programme>
-<programme start="20250922112000 +0000" stop="20250922132500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>The Alto Knights</title>
-</programme>
-<programme start="20250922132500 +0000" stop="20250922150000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>I.S.S.</title>
-</programme>
-<programme start="20250922150000 +0000" stop="20250922164500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Ein Minecraft Film</title>
-</programme>
-<programme start="20250922164500 +0000" stop="20250922181500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Get Away</title>
-</programme>
-<programme start="20250922181500 +0000" stop="20250922195500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Wolf Man</title>
-</programme>
-<programme start="20250922195500 +0000" stop="20250922215000 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>Heretic</title>
-</programme>
-<programme start="20250922215000 +0000" stop="20250922235500 +0000" channel="Sky Cinema Premiere HD.skyde">
-    <title>City of Darkness</title>
-</programme>
 <programme start="20250921224500 +0000" stop="20250921233000 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
