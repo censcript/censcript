@@ -126,6 +126,10 @@
     <title>Football: Aris - Marco</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250924172000 +0700" stop="20250924192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250923160000 +0700" stop="20250923180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Millwall - Watford</title>
     <desc>Live: Tidak</desc>
@@ -174,8 +178,8 @@
     <title>Football: SL Benfica - Rio Ave</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923154500 +0700" stop="20250923160500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+<programme start="20250924173000 +0700" stop="20250924180000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923160500 +0700" stop="20250923180500 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,8 +246,8 @@
     <title>Basketball: Minnesota Lynx - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923152500 +0700" stop="20250923163000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250924171000 +0700" stop="20250924191000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923163000 +0700" stop="20250923172000 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,8 +346,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923145000 +0700" stop="20250923164000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Brandon Nakashima - Alejandro Tabilo</title>
+<programme start="20250924170500 +0700" stop="20250924183500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923164000 +0700" stop="20250923180000 +0700" channel="COSMOTE Sport 6 HD">
