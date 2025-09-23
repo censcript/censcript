@@ -58,6 +58,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250924190000 +0700" stop="20250924211500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Athens Kallithea FC - OFI (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250923171500 +0700" stop="20250923192500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +130,14 @@
     <title>Football: ACF Fiorentina - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250924192000 +0700" stop="20250924195000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924195000 +0700" stop="20250924201000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250923180000 +0700" stop="20250923200000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Neom - Al-Okhdood Club</title>
     <desc>Live: Tidak</desc>
@@ -182,9 +194,9 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923160500 +0700" stop="20250923180500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Besiktas</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250924190000 +0700" stop="20250924211500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Volos - Atromitos Athens (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250923180500 +0700" stop="20250923203000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Las Vegas Aces - Indiana Fever</title>
@@ -250,12 +262,8 @@
     <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923172000 +0700" stop="20250923182500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250923182500 +0700" stop="20250923185500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20250924191000 +0700" stop="20250924210000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Al Ahli - Utsunomiya Brex</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923185500 +0700" stop="20250923195500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +358,10 @@
     <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250924190500 +0700" stop="20250924201000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250923180000 +0700" stop="20250923203000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Lorenzo Musetti - Alejandro Tabilo (L)</title>
     <desc>Live: Ya</desc>
@@ -426,8 +438,8 @@
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923180000 +0700" stop="20250923183000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250924190000 +0700" stop="20250924230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923183000 +0700" stop="20250923210000 +0700" channel="COSMOTE Sport 7 HD">
