@@ -392,7 +392,7 @@
 <title>iNews Sport</title>
 </programme>
 <programme start="20250923173000 +0000" stop="20250923180000 +0000" channel="SindoNews.vision">
-<title>New Top Files (SINDONews)</title>
+<title>New Top Files</title>
 </programme>
 <programme start="20250923180000 +0000" stop="20250923190000 +0000" channel="SindoNews.vision">
 <title>iNews Malam</title>
@@ -550,9 +550,6 @@
 <programme start="20250923050000 +0000" stop="20250923054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250923054500 +0000" stop="20250923063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20250923063000 +0000" stop="20250923071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -660,9 +657,6 @@
 </programme>
 <programme start="20250923063000 +0000" stop="20250923110000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
-</programme>
-<programme start="20250923110000 +0000" stop="20250923123000 +0000" channel="ANTV.vision">
-<title>Santet 1: Pelebur Nyawa</title>
 </programme>
 <programme start="20250923123000 +0000" stop="20250923143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250923020000 +0000" stop="20250923020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250923020300 +0000" stop="20250923023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250923023000 +0000" stop="20250923030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
