@@ -54,6 +54,10 @@
     <title>Football: SK Slavia Praha - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250924134500 +0700" stop="20250924154500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Tottenham Hotspur - Villarreal CF</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250923110000 +0700" stop="20250923131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Aris</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +124,10 @@
 </programme>
 <programme start="20250924110000 +0700" stop="20250924131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924131000 +0700" stop="20250924151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923120000 +0700" stop="20250923150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -344,6 +352,14 @@
 </programme>
 <programme start="20250924115500 +0700" stop="20250924130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924130000 +0700" stop="20250924133000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924133000 +0700" stop="20250924143000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923113000 +0700" stop="20250923133000 +0700" channel="COSMOTE Sport 6 HD">
