@@ -226,14 +226,17 @@
     <programme start="20250923130000 +0000" stop="20250923140000 +0000" channel="Channel 8.mewatch">
         <title>The Cellphone Swap - EP 4</title>
     </programme>
-    <programme start="20250923140000 +0000" stop="20250923144500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250923140000 +0000" stop="20250923143000 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250923144500 +0000" stop="20250923151500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="Channel 8.mewatch">
         <title>Health 2.0 - EP 11</title>
     </programme>
-    <programme start="20250923151500 +0000" stop="20250923161500 +0000" channel="Channel 8.mewatch">
+    <programme start="20250923150000 +0000" stop="20250923160000 +0000" channel="Channel 8.mewatch">
         <title>The Legend of Heroes - Hot Blooded - EP 15</title>
+    </programme>
+    <programme start="20250923160000 +0000" stop="20250923170000 +0000" channel="Channel 8.mewatch">
+        <title>Destined - EP 31</title>
     </programme>
     <programme start="20250922154500 +0000" stop="20250922164000 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - East West Battle S5 - EP 5</title>

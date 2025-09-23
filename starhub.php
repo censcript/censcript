@@ -2242,11 +2242,8 @@
     <programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20250923130000 +0000" stop="20250923134500 +0000" channel="CNN HD.starhub">
+    <programme start="20250923130000 +0000" stop="20250923140000 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
-    </programme>
-    <programme start="20250923134500 +0000" stop="20250923140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
     </programme>
     <programme start="20250923140000 +0000" stop="20250923150000 +0000" channel="CNN HD.starhub">
         <title>Connect the World</title>
