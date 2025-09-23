@@ -806,7 +806,7 @@
         <title>NEW</title>
     </programme>
     <programme start="20250924160000 +0000" stop="20250924220000 +0000" channel="trace-urban.mewatch">
-        <title>Sounds Of Trace</title>
+        <title>SOUNDS OF TRACE</title>
     </programme>
     <programme start="20250923160000 +0000" stop="20250924160000 +0000" channel="Animax.mewatch">
         <title>No programme available now.</title>

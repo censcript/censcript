@@ -655,6 +655,9 @@
 <programme start="20250924114500 +0000" stop="20250924121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250923013000 +0000" stop="20250923050000 +0000" channel="ANTV.vision">
+<title>Fanaa</title>
+</programme>
 <programme start="20250923050000 +0000" stop="20250923063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250923010000 +0000" stop="20250923020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250923020000 +0000" stop="20250923020300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
