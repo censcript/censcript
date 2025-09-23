@@ -3001,6 +3001,111 @@
 <programme start="20250923210000 +0000" stop="20250923220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
+<programme start="20250922223000 +0000" stop="20250923003000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: FC Liverpool - FC Everton, 5. Spieltag</title>
+</programme>
+<programme start="20250923003000 +0000" stop="20250923010000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 9. Spieltag</title>
+</programme>
+<programme start="20250923010000 +0000" stop="20250923030000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Manchester United - FC Chelsea, 5. Spieltag</title>
+</programme>
+<programme start="20250923030000 +0000" stop="20250923040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (Wayne Rooney)</title>
+</programme>
+<programme start="20250923040000 +0000" stop="20250923043000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 9. Spieltag</title>
+</programme>
+<programme start="20250923043000 +0000" stop="20250923050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 9. Spieltag</title>
+</programme>
+<programme start="20250923050000 +0000" stop="20250923060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 5. Spieltag</title>
+</programme>
+<programme start="20250923060000 +0000" stop="20250923063000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
+</programme>
+<programme start="20250923063000 +0000" stop="20250923070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BRE - CHE, 4. Spieltag</title>
+</programme>
+<programme start="20250923070000 +0000" stop="20250923073000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Petr Cech)</title>
+</programme>
+<programme start="20250923073000 +0000" stop="20250923074500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Norwich City - AFC Wrexham, 6. Spieltag</title>
+</programme>
+<programme start="20250923074500 +0000" stop="20250923080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Birmingham City - Swansea City, 6. Spieltag</title>
+</programme>
+<programme start="20250923080000 +0000" stop="20250923083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Ruben Dias)</title>
+</programme>
+<programme start="20250923083000 +0000" stop="20250923090000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: WHU - TOT, 4. Spieltag</title>
+</programme>
+<programme start="20250923090000 +0000" stop="20250923093000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Djibril Cisse)</title>
+</programme>
+<programme start="20250923093000 +0000" stop="20250923094500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Blackburn Rovers - Ipswich Town, 6. Spieltag</title>
+</programme>
+<programme start="20250923094500 +0000" stop="20250923100000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: FC Middlesbrough - West Bromwich Albion, 6. Spieltag</title>
+</programme>
+<programme start="20250923100000 +0000" stop="20250923103000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: ARS - NFO, 4. Spieltag</title>
+</programme>
+<programme start="20250923103000 +0000" stop="20250923110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: All Goals: Die Highlight-Show, 5. Spieltag</title>
+</programme>
+<programme start="20250923110000 +0000" stop="20250923113000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BUR - LIV, 4. Spieltag</title>
+</programme>
+<programme start="20250923113000 +0000" stop="20250923123000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 5. Spieltag</title>
+</programme>
+<programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (John Terry)</title>
+</programme>
+<programme start="20250923130000 +0000" stop="20250923131500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: The Special One</title>
+</programme>
+<programme start="20250923131500 +0000" stop="20250923133000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Bergkamp: Genius of Space</title>
+</programme>
+<programme start="20250923133000 +0000" stop="20250923140000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MCI - MUN, 4. Spieltag</title>
+</programme>
+<programme start="20250923140000 +0000" stop="20250923141500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Norwich City - AFC Wrexham, 6. Spieltag</title>
+</programme>
+<programme start="20250923141500 +0000" stop="20250923143000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Birmingham City - Swansea City, 6. Spieltag</title>
+</programme>
+<programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Nottingham Forest)</title>
+</programme>
+<programme start="20250923150000 +0000" stop="20250923160000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Generation xG</title>
+</programme>
+<programme start="20250923160000 +0000" stop="20250923162000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Freekicks</title>
+</programme>
+<programme start="20250923162000 +0000" stop="20250923165000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MCI - MUN, 4. Spieltag</title>
+</programme>
+<programme start="20250923165000 +0000" stop="20250923185000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: Grimsby Town - Manchester United, 2. Runde</title>
+</programme>
+<programme start="20250923185000 +0000" stop="20250923210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live Carabao Cup: FC Liverpool - FC Southampton, 3. Runde</title>
+</programme>
+<programme start="20250923210000 +0000" stop="20250923213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MCI - MUN, 4. Spieltag</title>
+</programme>
+<programme start="20250923213000 +0000" stop="20250923233000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: FC Liverpool - FC Southampton, 3. Runde</title>
+</programme>
 <programme start="20250922223000 +0000" stop="20250923010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: K. Khachanov - B. Shelton (USA), National Bank Open Presented By Rogers in Toronto (CAN), Finale</title>
 </programme>

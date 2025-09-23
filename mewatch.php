@@ -893,10 +893,10 @@
         <title>No programme available now. Next broadcast on 26th September, Friday 8.30pm. ONE Friday Fights 126</title>
     </programme>
     <programme start="20250922160000 +0000" stop="20250923160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 24th September, Wednesday 8.35pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
-    <programme start="20250923160000 +0000" stop="20250924130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
+    <programme start="20250923160000 +0000" stop="20250924123500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 24th September, Wednesday 8.35pm. ASEAN Shopee Cup 2025/2026</title>
     </programme>
     <programme start="20250922160000 +0000" stop="20250923005500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd September, Tuesday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>

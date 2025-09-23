@@ -58,6 +58,14 @@
     <title>Football: Athens Kallithea FC - OFI (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250924211500 +0700" stop="20250924213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924213000 +0700" stop="20250924220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250923192500 +0700" stop="20250923212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -194,8 +202,12 @@
     <title>Football: Volos - Atromitos Athens (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250923180500 +0700" stop="20250923203000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Las Vegas Aces - Indiana Fever</title>
+<programme start="20250924211500 +0700" stop="20250924213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924213000 +0700" stop="20250924220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923203000 +0700" stop="20250923221500 +0700" channel="COSMOTE Sport 4 HD">
@@ -261,6 +273,10 @@
 <programme start="20250924191000 +0700" stop="20250924210000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Al Ahli - Utsunomiya Brex</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924210000 +0700" stop="20250924231500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: Asteras Aktor - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250923195500 +0700" stop="20250923213000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
@@ -358,12 +374,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923180000 +0700" stop="20250923203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Lorenzo Musetti - Alejandro Tabilo (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250923203000 +0700" stop="20250923210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
+<programme start="20250924213000 +0700" stop="20250924230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923210000 +0700" stop="20250923221000 +0700" channel="COSMOTE Sport 6 HD">
@@ -437,10 +449,6 @@
 <programme start="20250924190000 +0700" stop="20250924230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2025</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250923183000 +0700" stop="20250923210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Valentin Royer - Alexander Bublik (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250923210000 +0700" stop="20250923213000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
