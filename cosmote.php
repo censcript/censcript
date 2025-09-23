@@ -54,6 +54,10 @@
     <title>Football: Tottenham Hotspur - Villarreal CF</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250924154500 +0700" stop="20250924160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250923131000 +0700" stop="20250923151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +126,8 @@
     <title>Football: Torino - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923120000 +0700" stop="20250923150000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: New York Giants - Kansas City Chiefs</title>
+<programme start="20250924151000 +0700" stop="20250924172000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Aris - Marco</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923150000 +0700" stop="20250923153000 +0700" channel="COSMOTE Sport 3 HD">
@@ -176,6 +180,10 @@
 </programme>
 <programme start="20250924121500 +0700" stop="20250924153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Baltimore Ravens - Detroit Lions</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250924153000 +0700" stop="20250924173000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SL Benfica - Rio Ave</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923134500 +0700" stop="20250923154500 +0700" channel="COSMOTE Sport 4 HD">
@@ -250,10 +258,6 @@
     <title>Basketball: Minnesota Lynx - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923133000 +0700" stop="20250923142500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250923142500 +0700" stop="20250923152500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
@@ -286,12 +290,12 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923223000 +0700" stop="20250924000000 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20250923223000 +0700" stop="20250923234000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924000000 +0700" stop="20250924010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20250923234000 +0700" stop="20250924010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924010000 +0700" stop="20250924023000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,14 +358,6 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923140000 +0700" stop="20250923142000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E21</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250923142000 +0700" stop="20250923145000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Sports Rundown E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250923145000 +0700" stop="20250923164000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Brandon Nakashima - Alejandro Tabilo</title>
     <desc>Live: Tidak</desc>
@@ -378,8 +374,12 @@
     <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250923210000 +0700" stop="20250923223000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250923210000 +0700" stop="20250923221000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250923221000 +0700" stop="20250923223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E24</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250923223000 +0700" stop="20250924010000 +0700" channel="COSMOTE Sport 6 HD">
