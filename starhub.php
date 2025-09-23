@@ -2285,52 +2285,49 @@
         <title>Movie - Meendum Amman</title>
     </programme>
     <programme start="20250922150000 +0000" stop="20250922163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Singles Day 3 Match 12</title>
+        <title>Laver Cup 2025: Singles Day 3 Zverev v Fritz</title>
     </programme>
-    <programme start="20250922163000 +0000" stop="20250922180000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Doubles Day 3 Match 13</title>
+    <programme start="20250922163000 +0000" stop="20250922170000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour: This Week 2025</title>
     </programme>
-    <programme start="20250922180000 +0000" stop="20250922193000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Los Cabos Day 2 McCabe v Alvarez</title>
+    <programme start="20250922170000 +0000" stop="20250922190000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Red Carpet</title>
     </programme>
-    <programme start="20250922193000 +0000" stop="20250922195000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Agassi&#039;s Miami 3-peat</title>
+    <programme start="20250922190000 +0000" stop="20250922211500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Award Ceremony</title>
     </programme>
-    <programme start="20250922195000 +0000" stop="20250922201000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Champions of Miami 2012-2014</title>
+    <programme start="20250922211500 +0000" stop="20250922213000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Doco Shorts (CC): Sinner Feature</title>
     </programme>
-    <programme start="20250922201000 +0000" stop="20250922203000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Doco Shorts (CC): Champions of Miami 2015-2017</title>
-    </programme>
-    <programme start="20250922203000 +0000" stop="20250922220000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Halle SF 2 Khachanov v Bublik</title>
+    <programme start="20250922213000 +0000" stop="20250922220000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20250922220000 +0000" stop="20250922233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Chengdu SF 1</title>
+        <title>ATP Tour 250 2025: Chengdu SF 1 Nakashima v Tabilo</title>
     </programme>
     <programme start="20250922233000 +0000" stop="20250923010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Chengdu SF 2</title>
+        <title>ATP Tour 250 2025: Chengdu SF 2 Musetti v Shevchenko</title>
     </programme>
     <programme start="20250923010000 +0000" stop="20250923023000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hangzhou SF 1</title>
+        <title>ATP Tour 250 2025: Hangzhou SF 1 Moutet v Royer</title>
     </programme>
     <programme start="20250923023000 +0000" stop="20250923040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Hangzhou SF 2</title>
+        <title>ATP Tour 250 2025: Hangzhou SF 2 Wu v Bublik</title>
     </programme>
     <programme start="20250923040000 +0000" stop="20250923053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Doubles Day 3 Match 9</title>
+        <title>Laver Cup 2025: Doubles Day 3 Alcaraz/Ruud v Michelsen/Opelka</title>
     </programme>
     <programme start="20250923053000 +0000" stop="20250923070000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Singles Day 3 Match 10</title>
+        <title>Laver Cup 2025: Singles Day 3 De Minaur v Mensik</title>
     </programme>
     <programme start="20250923070000 +0000" stop="20250923083000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Singles Day 3 Match 11</title>
+        <title>Laver Cup 2025: Singles Day 3 Alcaraz v Cerundolo</title>
     </programme>
     <programme start="20250923083000 +0000" stop="20250923100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Singles Day 3 Match 12</title>
+        <title>Laver Cup 2025: Singles Day 3 Zverev v Fritz</title>
     </programme>
     <programme start="20250923100000 +0000" stop="20250923113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Laver Cup 2025: Doubles Day 3 Match 13</title>
+        <title>ATP Tour 250 2025: Hangzhou SF 2 Wu v Bublik</title>
     </programme>
     <programme start="20250923113000 +0000" stop="20250923133000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 250 2025: Hangzhou Final (Live)</title>
@@ -3187,17 +3184,71 @@
     <programme start="20250923153000 +0000" stop="20250923164500 +0000" channel="Karisma.starhub">
         <title>Bodyguard Cantik Bikin Hati Nggak Kuat</title>
     </programme>
-    <programme start="20250922160000 +0000" stop="20250922220000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250922160000 +0000" stop="20250922180000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Balance of Power</title>
     </programme>
-    <programme start="20250922220000 +0000" stop="20250923040000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250922180000 +0000" stop="20250922210000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg BusinessWeek</title>
     </programme>
-    <programme start="20250923040000 +0000" stop="20250923100000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250922210000 +0000" stop="20250922213000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Alexander Stubb, President of Finland</title>
     </programme>
-    <programme start="20250923100000 +0000" stop="20250923160000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Information Not Available</title>
+    <programme start="20250922213000 +0000" stop="20250922220000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Sex-for-Work Claims in West Africa&#039;s Rubber Industry</title>
+    </programme>
+    <programme start="20250922220000 +0000" stop="20250922230000 +0000" channel="Bloomberg Originals.starhub">
+        <title>David Blitzer&#039;s Sports Investment Playbook</title>
+    </programme>
+    <programme start="20250922230000 +0000" stop="20250923000000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Principles With Bill Belichick and Ray Dalio</title>
+    </programme>
+    <programme start="20250923000000 +0000" stop="20250923010000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Commanders DC Deal with Josh Harris</title>
+    </programme>
+    <programme start="20250923010000 +0000" stop="20250923020000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Future of Racing with F1 Academy&#039;s Susie Wolff</title>
+    </programme>
+    <programme start="20250923020000 +0000" stop="20250923023000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Robots: The Aliens We Made</title>
+    </programme>
+    <programme start="20250923023000 +0000" stop="20250923030000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Love in the Age of Machines</title>
+    </programme>
+    <programme start="20250923030000 +0000" stop="20250923033000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Your Brain Is the Next Tech Frontier</title>
+    </programme>
+    <programme start="20250923033000 +0000" stop="20250923040000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Tech Is Breaking the Rules of Biology</title>
+    </programme>
+    <programme start="20250923040000 +0000" stop="20250923050000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The College Sports Buzz With Georgia Tech&#039;s J Batt</title>
+    </programme>
+    <programme start="20250923050000 +0000" stop="20250923060000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Investing in Women&#039;s Sports With Mellody Hobson</title>
+    </programme>
+    <programme start="20250923060000 +0000" stop="20250923070000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Commanders DC Deal with Josh Harris</title>
+    </programme>
+    <programme start="20250923070000 +0000" stop="20250923080000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Future of Racing with F1 Academy&#039;s Susie Wolff</title>
+    </programme>
+    <programme start="20250923080000 +0000" stop="20250923083000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Magic Johnson Built a Business Empire</title>
+    </programme>
+    <programme start="20250923083000 +0000" stop="20250923093000 +0000" channel="Bloomberg Originals.starhub">
+        <title>David Blitzer&#039;s Sports Investment Playbook</title>
+    </programme>
+    <programme start="20250923093000 +0000" stop="20250923103000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Principles With Bill Belichick and Ray Dalio</title>
+    </programme>
+    <programme start="20250923103000 +0000" stop="20250923110000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Alexander Stubb, President of Finland</title>
+    </programme>
+    <programme start="20250923110000 +0000" stop="20250923140000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg Surveillance Radio</title>
+    </programme>
+    <programme start="20250923140000 +0000" stop="20250923160000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg Intelligence</title>
     </programme>
     <programme start="20250922133000 +0000" stop="20250922170000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>The Hundred Men 2025: M16 - OI vs WF</title>
@@ -3829,9 +3880,6 @@
     <programme start="20250922205600 +0000" stop="20250922210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20250922210000 +0000" stop="20250922211000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20250922211000 +0000" stop="20250922215300 +0000" channel="NHK World Premium HD.starhub">
         <title>Fan Meeting of Drama Serial &quot;Anpan&quot;</title>
     </programme>
@@ -3871,20 +3919,11 @@
     <programme start="20250923005500 +0000" stop="20250923010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Natural Grandeur of the East Mini</title>
     </programme>
-    <programme start="20250923010000 +0000" stop="20250923010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+    <programme start="20250923010000 +0000" stop="20250923023500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Breaking News （End time subject to change.）</title>
     </programme>
-    <programme start="20250923010500 +0000" stop="20250923015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Great Tracking of Global History Part 5 (R)</title>
-    </programme>
-    <programme start="20250923015000 +0000" stop="20250923021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20250923021700 +0000" stop="20250923022000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20250923022000 +0000" stop="20250923025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The Winning Meals of Great Historical Figures (Final) (R)</title>
+    <programme start="20250923023500 +0000" stop="20250923025000 +0000" channel="NHK World Premium HD.starhub">
+        <title>RAMEN JAPAN 15min.</title>
     </programme>
     <programme start="20250923025000 +0000" stop="20250923025600 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
