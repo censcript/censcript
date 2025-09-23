@@ -103,13 +103,13 @@
     <programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 137</title>
     </programme>
-    <programme start="20250923130000 +0000" stop="20250923133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250923130000 +0000" stop="20250923134500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250923133000 +0000" stop="20250923140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250923134500 +0000" stop="20250923141500 +0000" channel="Channel 5.mewatch">
         <title>Every Body Knows S2 - EP 2</title>
     </programme>
-    <programme start="20250923140000 +0000" stop="20250923160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250923141500 +0000" stop="20250923160000 +0000" channel="Channel 5.mewatch">
         <title>A Year of No Significance</title>
     </programme>
     <programme start="20250923160000 +0000" stop="20250923163000 +0000" channel="Channel 5.mewatch">
@@ -226,17 +226,14 @@
     <programme start="20250923130000 +0000" stop="20250923140000 +0000" channel="Channel 8.mewatch">
         <title>The Cellphone Swap - EP 4</title>
     </programme>
-    <programme start="20250923140000 +0000" stop="20250923143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250923140000 +0000" stop="20250923144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250923144500 +0000" stop="20250923151500 +0000" channel="Channel 8.mewatch">
         <title>Health 2.0 - EP 11</title>
     </programme>
-    <programme start="20250923150000 +0000" stop="20250923160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250923151500 +0000" stop="20250923161500 +0000" channel="Channel 8.mewatch">
         <title>The Legend of Heroes - Hot Blooded - EP 15</title>
-    </programme>
-    <programme start="20250923160000 +0000" stop="20250923170000 +0000" channel="Channel 8.mewatch">
-        <title>Destined - EP 31</title>
     </programme>
     <programme start="20250922154500 +0000" stop="20250922164000 +0000" channel="Channel U.mewatch">
         <title>We Are Big Eaters - East West Battle S5 - EP 5</title>
@@ -343,10 +340,10 @@
     <programme start="20250923140000 +0000" stop="20250923150000 +0000" channel="Channel U.mewatch">
         <title>Good Partner - EP 1</title>
     </programme>
-    <programme start="20250923150000 +0000" stop="20250923153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250923150000 +0000" stop="20250923154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250923153000 +0000" stop="20250923163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250923154500 +0000" stop="20250923164000 +0000" channel="Channel U.mewatch">
         <title>Have A Nice Dream - Drifting Through Asia - EP 9</title>
     </programme>
     <programme start="20250922160000 +0000" stop="20250923010000 +0000" channel="Suria.mewatch">
@@ -904,10 +901,10 @@
     <programme start="20250922160000 +0000" stop="20250923005500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd September, Tuesday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
     </programme>
-    <programme start="20250923005500 +0000" stop="20250923040000 +0000" channel="Live 6.mewatch">
+    <programme start="20250923005500 +0000" stop="20250923032600 +0000" channel="Live 6.mewatch">
         <title>Toyota World Para Swimming Championships – Singapore 2025: Heats</title>
     </programme>
-    <programme start="20250923040000 +0000" stop="20250923092500 +0000" channel="Live 6.mewatch">
+    <programme start="20250923032600 +0000" stop="20250923092500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd September, Tuesday 5.25pm. Toyota World Para Swimming Championships – Singapore 2025</title>
     </programme>
     <programme start="20250923092500 +0000" stop="20250923130000 +0000" channel="Live 6.mewatch">

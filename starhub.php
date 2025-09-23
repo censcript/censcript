@@ -3869,7 +3869,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20250922191500 +0000" stop="20250922200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Great Tracking of Global History Part 5 (R)</title>
+        <title>Great Tracking of Global History (R)</title>
     </programme>
     <programme start="20250922200000 +0000" stop="20250922202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2025 September Tournament Highlights</title>
@@ -3879,6 +3879,9 @@
     </programme>
     <programme start="20250922205600 +0000" stop="20250922210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
+    </programme>
+    <programme start="20250922210000 +0000" stop="20250922211000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20250922211000 +0000" stop="20250922215300 +0000" channel="NHK World Premium HD.starhub">
         <title>Fan Meeting of Drama Serial &quot;Anpan&quot;</title>

@@ -7631,7 +7631,7 @@
     <title>Twilight Saga: Eclipse</title>
 </programme>
 <programme start="20250923163500 +0000" stop="20250922170500 +0000" channel="Rock Entertainment.mncvision">
-    <title>The Tonight Show S13, Ep 1</title>
+    <title>The Tonight Show S12, Ep 163</title>
 </programme>
 <programme start="20250922174500 +0000" stop="20250922190800 +0000" channel="SCTV.mncvision">
     <title>Seblak Cinta Mantul, Mantap...</title>
