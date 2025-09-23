@@ -7988,7 +7988,7 @@
     <title>Copa del Rey: LEG Vs RMA</title>
 </programme>
 <programme start="20250922170000 +0000" stop="20250922200000 +0000" channel="Sportstars.mncvision">
-    <title>Wondr By BNI Indonesia Masters</title>
+    <title>WONDR By BNI Indonesia Masters</title>
 </programme>
 <programme start="20250922200000 +0000" stop="20250922203000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8018,13 +8018,13 @@
     <title>iNews Sport</title>
 </programme>
 <programme start="20250923053000 +0000" stop="20250923063000 +0000" channel="Sportstars.mncvision">
-    <title>Wondr By BNI Indonesia Masters</title>
+    <title>WONDR By BNI Indonesia Masters</title>
 </programme>
 <programme start="20250923063000 +0000" stop="20250923083000 +0000" channel="Sportstars.mncvision">
     <title>Yeosu NH Nonghyup Cup (L)</title>
 </programme>
 <programme start="20250923083000 +0000" stop="20250923100000 +0000" channel="Sportstars.mncvision">
-    <title>Wondr By BNI Indonesia Masters</title>
+    <title>WONDR By BNI Indonesia Masters</title>
 </programme>
 <programme start="20250923100000 +0000" stop="20250923120000 +0000" channel="Sportstars.mncvision">
     <title>Yeosu NH Nonghyup Cup (L)</title>
@@ -8273,7 +8273,7 @@
     <title>Liga 2: PKU Vs DTS</title>
 </programme>
 <programme start="20250922170000 +0000" stop="20250922200000 +0000" channel="Sportstars HD.mncvision">
-    <title>Wondr By BNI Indonesia Masters</title>
+    <title>WONDR By BNI Indonesia Masters</title>
 </programme>
 <programme start="20250922200000 +0000" stop="20250922203000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
@@ -8303,13 +8303,13 @@
     <title>iNews Sport</title>
 </programme>
 <programme start="20250923053000 +0000" stop="20250923063000 +0000" channel="Sportstars HD.mncvision">
-    <title>Wondr By BNI Indonesia Masters</title>
+    <title>WONDR By BNI Indonesia Masters</title>
 </programme>
 <programme start="20250923063000 +0000" stop="20250923083000 +0000" channel="Sportstars HD.mncvision">
     <title>Yeosu NH Nonghyup Cup (L)</title>
 </programme>
 <programme start="20250923083000 +0000" stop="20250923100000 +0000" channel="Sportstars HD.mncvision">
-    <title>Wondr By BNI Indonesia Masters</title>
+    <title>WONDR By BNI Indonesia Masters</title>
 </programme>
 <programme start="20250923100000 +0000" stop="20250923120000 +0000" channel="Sportstars HD.mncvision">
     <title>Yeosu NH Nonghyup Cup (L)</title>
