@@ -6995,7 +6995,7 @@
         <title>Matchday 5</title>
     </programme>
     <programme start="20250923150000 +0000" stop="20250923163000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2025: Germany P2 Day 2 Match 5 (Live)</title>
+        <title>Germany P2 Day 2 Match 5</title>
     </programme>
     <programme start="20250922152000 +0000" stop="20250922161500 +0000" channel="TestChannel2.starhub">
         <title>You&#039;re Just Not Her</title>

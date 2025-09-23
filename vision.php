@@ -550,9 +550,6 @@
 <programme start="20250923050000 +0000" stop="20250923054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20250923054500 +0000" stop="20250923063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20250923063000 +0000" stop="20250923071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250923020000 +0000" stop="20250923020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250923020300 +0000" stop="20250923023000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
