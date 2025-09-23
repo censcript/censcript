@@ -26,7 +26,7 @@ urls = [
     #"https://cindo.mra.my.id/epg/vid.php",
     "https://manusiabiasa.serv00.net/cen/epg/optus.php",
     "https://manusiabiasa.serv00.net/cen/epg/astro.php",
-    #"https://manusiabiasa.serv00.net/cen/epg/antik.php",
+    "https://manusiabiasa.serv00.net/cen/epg/antik_sk.php",
     #"https://www.bevy.be/bevyfiles/malaysiapremium2.xml",
     #"https://www.bevy.be/bevyfiles/germanypremium3.xml",
     #"https://www.bevy.be/bevyfiles/unitedstates1.xml",
