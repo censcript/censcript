@@ -3499,34 +3499,31 @@
   <programme start="20250926214000 +0000" stop="20250926231100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisařka Florence VIII (4/4)</title>
   </programme>
-  <programme start="20250925213500 +0000" stop="20250925222100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250925213500 +0000" stop="20250925222000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Mýtus Blitzkrieg (1/3)</title>
   </programme>
-  <programme start="20250925222100 +0000" stop="20250925230000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250925222000 +0000" stop="20250925230600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Yellowstone (7/9)</title>
   </programme>
-  <programme start="20250925230000 +0000" stop="20250925235300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250925230600 +0000" stop="20250926000000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Láska a sex v Mexiku</title>
   </programme>
-  <programme start="20250925235300 +0000" stop="20250926003000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926000000 +0000" stop="20250926003600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na moll aneb Písničky od Bolka</title>
   </programme>
-  <programme start="20250926003000 +0000" stop="20250926005700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926003600 +0000" stop="20250926010400 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ženy muklů</title>
   </programme>
-  <programme start="20250926005700 +0000" stop="20250926015000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926010400 +0000" stop="20250926015600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Historie.cs</title>
   </programme>
-  <programme start="20250926015000 +0000" stop="20250926021700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926015600 +0000" stop="20250926022500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ďáblova bible</title>
   </programme>
-  <programme start="20250926021700 +0000" stop="20250926022500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Česko jedna báseň: Tomáš Přidal</title>
-  </programme>
-  <programme start="20250926022500 +0000" stop="20250926025300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926022500 +0000" stop="20250926025200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20250926025300 +0000" stop="20250926032000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926025200 +0000" stop="20250926032000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Babylon</title>
   </programme>
   <programme start="20250926032000 +0000" stop="20250926034600 +0000" channel="ČT2.webtv.sk">
