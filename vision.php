@@ -514,7 +514,7 @@
 <programme start="20250925013000 +0000" stop="20250925033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
 </programme>
-<programme start="20250925033000 +0000" stop="20250925053000 +0000" channel="Trans TV.vision">
+<programme start="20250928033000 +0000" stop="20250928043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
 <programme start="20250925053000 +0000" stop="20250925070000 +0000" channel="Trans TV.vision">

@@ -1,7 +1,3 @@
-<programme start="20250924080500 +0700" stop="20250924101500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEK - Anderlecht</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250924101500 +0700" stop="20250924111500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -68,10 +64,6 @@
 </programme>
 <programme start="20250925100000 +0700" stop="20250925120000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: GNK Dinamo - Fenerbahce SK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250924085500 +0700" stop="20250924110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924110000 +0700" stop="20250924131000 +0700" channel="COSMOTE Sport 2 HD">
@@ -162,8 +154,8 @@
     <title>Football: Lecce - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924081500 +0700" stop="20250924101500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Falkirk - Hibernian</title>
+<programme start="20250925110000 +0700" stop="20250925130500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924101500 +0700" stop="20250924121500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +234,12 @@
     <title>Emirates FA Cup 2024-25 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924100000 +0700" stop="20250924110000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20250925110500 +0700" stop="20250925113000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250925113000 +0700" stop="20250925133000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ahli - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924110000 +0700" stop="20250924125000 +0700" channel="COSMOTE Sport 4 HD">
@@ -402,6 +398,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250925111000 +0700" stop="20250925124500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250924100000 +0700" stop="20250924122000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -466,10 +466,6 @@
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924080000 +0700" stop="20250924110000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>NBA TV 2024-25 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250924110000 +0700" stop="20250924113000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -529,6 +525,14 @@
 <programme start="20250925080000 +0700" stop="20250925110000 +0700" channel="COSMOTE Sport 7 HD">
     <title>NBA TV 2024-25 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250925110000 +0700" stop="20250925113000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250925113000 +0700" stop="20250925120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924100000 +0700" stop="20250924120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
