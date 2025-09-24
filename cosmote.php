@@ -50,18 +50,6 @@
     <title>Europa League Minute by Minute 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250925015000 +0700" stop="20250925023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Europa League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250925023000 +0700" stop="20250925024500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250925024500 +0700" stop="20250925030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250925030000 +0700" stop="20250925032000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Worldies E2</title>
     <desc>Live: Tidak</desc>
@@ -597,5 +585,13 @@
 <programme start="20250926010000 +0700" stop="20250926030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Hilal - Al-Okhdood Club (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250926030000 +0700" stop="20250926033000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250926033000 +0700" stop="20250926040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
