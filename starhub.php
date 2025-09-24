@@ -8116,19 +8116,19 @@
     <programme start="20250923225500 +0000" stop="20250924013000 +0000" channel="Asianet Movies.starhub">
         <title>Nadiya Kollappetta Rathri</title>
     </programme>
-    <programme start="20250924013000 +0000" stop="20250924043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250924013000 +0000" stop="20250924042500 +0000" channel="Asianet Movies.starhub">
         <title>Sherlock Toms</title>
     </programme>
-    <programme start="20250924043000 +0000" stop="20250924073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250924042500 +0000" stop="20250924073000 +0000" channel="Asianet Movies.starhub">
         <title>Sallapam</title>
     </programme>
-    <programme start="20250924073000 +0000" stop="20250924103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250924073000 +0000" stop="20250924104000 +0000" channel="Asianet Movies.starhub">
         <title>Vakkalathu Narayanankutty</title>
     </programme>
-    <programme start="20250924103000 +0000" stop="20250924133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250924104000 +0000" stop="20250924133000 +0000" channel="Asianet Movies.starhub">
         <title>Kilichundan Mambazham</title>
     </programme>
-    <programme start="20250924133000 +0000" stop="20250924163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250924133000 +0000" stop="20250924162500 +0000" channel="Asianet Movies.starhub">
         <title>Jaya Jaya Jaya Jaya Hey</title>
     </programme>
     <programme start="20250923160000 +0000" stop="20250923163000 +0000" channel="Astro Warna HD.starhub">

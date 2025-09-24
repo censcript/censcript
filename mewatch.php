@@ -121,17 +121,17 @@
     <programme start="20250924123000 +0000" stop="20250924130000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 138</title>
     </programme>
-    <programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250924130000 +0000" stop="20250924134500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250924133000 +0000" stop="20250924143000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250924134500 +0000" stop="20250924144500 +0000" channel="Channel 5.mewatch">
         <title>Black Thursday - EP 2</title>
     </programme>
-    <programme start="20250924143000 +0000" stop="20250924153000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250924144500 +0000" stop="20250924154500 +0000" channel="Channel 5.mewatch">
         <title>World&#039;s Most Secret Hotels - Series 1 - EP 6</title>
     </programme>
-    <programme start="20250924153000 +0000" stop="20250924160000 +0000" channel="Channel 5.mewatch">
-        <title>History Mysteries - EP 9</title>
+    <programme start="20250924154500 +0000" stop="20250924160000 +0000" channel="Channel 5.mewatch">
+        <title>Just For Laughs Gags S24 - EP 8</title>
     </programme>
     <programme start="20250924160000 +0000" stop="20250924163000 +0000" channel="Channel 5.mewatch">
         <title>Provocative - EP 138</title>
