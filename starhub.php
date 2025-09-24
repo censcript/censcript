@@ -3332,7 +3332,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20250923233000 +0000" stop="20250924000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Wildfires - When mismanagement is the real enemy</title>
     </programme>
     <programme start="20250924000000 +0000" stop="20250924000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250924003000 +0000" stop="20250924010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tariffs, watches, diamonds - global upheavals</title>
     </programme>
     <programme start="20250924010000 +0000" stop="20250924011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3356,16 +3356,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250924023000 +0000" stop="20250924030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Wildfires - When mismanagement is the real enemy</title>
     </programme>
     <programme start="20250924030000 +0000" stop="20250924031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250924031500 +0000" stop="20250924033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>General Assembly President Baerbock: UN &#039;cannot give up&#039;</title>
     </programme>
     <programme start="20250924033000 +0000" stop="20250924040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Small steps, big impact: Climate action stories</title>
     </programme>
     <programme start="20250924040000 +0000" stop="20250924041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3380,13 +3380,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250924053000 +0000" stop="20250924060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tariffs, watches, diamonds - global upheavals</title>
     </programme>
     <programme start="20250924060000 +0000" stop="20250924061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250924061500 +0000" stop="20250924063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>General Assembly President Baerbock: UN &#039;cannot give up&#039;</title>
     </programme>
     <programme start="20250924063000 +0000" stop="20250924070000 +0000" channel="DW English HD.starhub">
         <title>When the immune system goes rogue</title>
@@ -3395,13 +3395,13 @@
         <title>News</title>
     </programme>
     <programme start="20250924073000 +0000" stop="20250924080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dilemma - Moldova&#039;s Society at a Crossroads</title>
     </programme>
     <programme start="20250924080000 +0000" stop="20250924083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250924083000 +0000" stop="20250924090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How farming can empower women</title>
     </programme>
     <programme start="20250924090000 +0000" stop="20250924091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3413,13 +3413,13 @@
         <title>News</title>
     </programme>
     <programme start="20250924103000 +0000" stop="20250924110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dilemma - Moldova&#039;s Society at a Crossroads</title>
     </programme>
     <programme start="20250924110000 +0000" stop="20250924113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250924113000 +0000" stop="20250924120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tariffs, watches, diamonds - global upheavals</title>
     </programme>
     <programme start="20250924120000 +0000" stop="20250924121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3431,22 +3431,22 @@
         <title>News</title>
     </programme>
     <programme start="20250924131500 +0000" stop="20250924133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>What Bauhaus would do today</title>
     </programme>
     <programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Small steps, big impact: Climate action stories</title>
     </programme>
     <programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Tariffs, watches, diamonds - global upheavals</title>
     </programme>
     <programme start="20250924150000 +0000" stop="20250924153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250924153000 +0000" stop="20250924160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How farming can empower women</title>
     </programme>
     <programme start="20250923160000 +0000" stop="20250923220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

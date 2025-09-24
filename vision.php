@@ -664,6 +664,12 @@
 <programme start="20250925114500 +0000" stop="20250925121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250923233000 +0000" stop="20250924013000 +0000" channel="ANTV.vision">
+<title>Ita, Si Anak Pungut</title>
+</programme>
+<programme start="20250924013000 +0000" stop="20250924050000 +0000" channel="ANTV.vision">
+<title>Kabhi Alvida Naa Kehna</title>
+</programme>
 <programme start="20250924050000 +0000" stop="20250924063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20250925093000 +0000" stop="20250925103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20250925103000 +0000" stop="20250925123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20250924000000 +0000" stop="20250924010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

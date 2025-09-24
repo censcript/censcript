@@ -3072,6 +3072,54 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250924213500 +0000" stop="20250924220500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
+<programme start="20250923220000 +0000" stop="20250923230000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250923230000 +0000" stop="20250923233000 +0000" channel="Sky Sport News HD.skyde">
+    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
+</programme>
+<programme start="20250923233000 +0000" stop="20250924040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20250924040000 +0000" stop="20250924070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250924070000 +0000" stop="20250924073000 +0000" channel="Sky Sport News HD.skyde">
+    <title>#GameCHANGERINNEN: Dein Frauensport-Magazin</title>
+</programme>
+<programme start="20250924073000 +0000" stop="20250924100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20250924100000 +0000" stop="20250924130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20250924130000 +0000" stop="20250924153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20250924153000 +0000" stop="20250924160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250924160000 +0000" stop="20250924163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250924163000 +0000" stop="20250924170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
+</programme>
+<programme start="20250924170000 +0000" stop="20250924183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20250924183000 +0000" stop="20250924200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20250924200000 +0000" stop="20250924203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
+</programme>
+<programme start="20250924203000 +0000" stop="20250924210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250924210000 +0000" stop="20250924220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Late Night News</title>
+</programme>
 <programme start="20250923233000 +0000" stop="20250924003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Robert Pires</title>
 </programme>
@@ -3192,38 +3240,68 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250924213000 +0000" stop="20250925000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Finale, Hangzhou Open in Hangzhou (CHN), Finale</title>
 </programme>
-<programme start="20250909040000 +0000" stop="20250909063000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>US Open: G. Dabrowski (CAN) / E. Routliffe (NZL) - K. Siniakova (CZE) / T. Townsend (USA), Doppelfinale Damen</title>
+<programme start="20250923233000 +0000" stop="20250923234500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250909063000 +0000" stop="20250909080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>GTM: Salzburgring - 1. Rennen</title>
+<programme start="20250923234500 +0000" stop="20250924000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Torparade 4. Spieltag</title>
 </programme>
-<programme start="20250909080000 +0000" stop="20250909093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>GTM: Salzburgring - 2. Rennen</title>
+<programme start="20250924000000 +0000" stop="20250924003000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights, 9. Spieltag</title>
 </programme>
-<programme start="20250909093000 +0000" stop="20250909113000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen - GP Italien</title>
+<programme start="20250924003000 +0000" stop="20250924010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights, 9. Spieltag</title>
 </programme>
-<programme start="20250909113000 +0000" stop="20250909143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Golf: Walker Cup, Single Matches, 2. Tag in Pebble Beach, CA (USA)</title>
+<programme start="20250924010000 +0000" stop="20250924015000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>GTWC: Highlights: Valencia (Sprint Cup)</title>
 </programme>
-<programme start="20250909143000 +0000" stop="20250909163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: A. Parks (USA) - D. Vidmanová (CZE), Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 1. Tag</title>
+<programme start="20250924015000 +0000" stop="20250924020000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Greatest Races: J. Alesi / USA 1990</title>
 </programme>
-<programme start="20250909163000 +0000" stop="20250909173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F3: 2. Rennen - GP Italien</title>
+<programme start="20250924020000 +0000" stop="20250924130000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz ATP Tokio &amp; WTA Peking</title>
 </programme>
-<programme start="20250909173000 +0000" stop="20250909183000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F2: 2. Rennen - GP Italien</title>
+<programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20250909183000 +0000" stop="20250909193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Highlights: GP Katalonien</title>
+<programme start="20250924133000 +0000" stop="20250924134500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 4. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250909193000 +0000" stop="20250909200000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Motorsport: ERC - Highlights: JDS Machinery Rali Ceredigion</title>
+<programme start="20250924134500 +0000" stop="20250924154500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: TSG Hoffenheim - FC Bayern München, 4. Spieltag</title>
 </programme>
-<programme start="20250909200000 +0000" stop="20250910050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Guadalajara Open AKRON presented by Santander in Guadalajara (MEX), 2. Tag</title>
+<programme start="20250924154500 +0000" stop="20250924160000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (4)</title>
+</programme>
+<programme start="20250924160000 +0000" stop="20250924161500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (6)</title>
+</programme>
+<programme start="20250924161500 +0000" stop="20250924163000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Norwich City - AFC Wrexham, 6. Spieltag</title>
+</programme>
+<programme start="20250924163000 +0000" stop="20250924170000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
+</programme>
+<programme start="20250924170000 +0000" stop="20250924173000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20250924173000 +0000" stop="20250924180000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20250924180000 +0000" stop="20250924185000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>GTWC: Highlights: Valencia (Sprint Cup)</title>
+</programme>
+<programme start="20250924185000 +0000" stop="20250924210000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Carabao Cup: Port Vale - FC Arsenal, 3. Runde</title>
+</programme>
+<programme start="20250924210000 +0000" stop="20250924211500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Carabao Cup: Highlights XXL: AFC Wrexham - FC Reading, 3. Runde</title>
+</programme>
+<programme start="20250924211500 +0000" stop="20250924213000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Carabao Cup: Highlights XXL: Lincoln City - FC Chelsea, 3. Runde</title>
+</programme>
+<programme start="20250924213000 +0000" stop="20250924220000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 4. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20250923231500 +0000" stop="20250923234500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>
