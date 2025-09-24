@@ -143,7 +143,7 @@
     <title lang="id">Dobrý deň, Patria (maďarsky)</title>
   </programme>
   <programme start="20250926070000 +0000" stop="20250926072500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Kvarteto</title>
+    <title lang="id">Regina</title>
   </programme>
   <programme start="20250926072500 +0000" stop="20250926075500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Kvarteto</title>
