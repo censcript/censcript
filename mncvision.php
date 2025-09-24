@@ -1537,6 +1537,9 @@
 <programme start="20250924160000 +0000" stop="20250924163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Markets</title>
 </programme>
+<programme start="20250924163000 +0000" stop="20250923170000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg ETF IQ</title>
+</programme>
 <programme start="20250923173000 +0000" stop="20250923182700 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
 </programme>
@@ -2924,7 +2927,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250924003000 +0000" stop="20250924010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Tariffs</title>
 </programme>
 <programme start="20250924010000 +0000" stop="20250924011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2939,16 +2942,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250924023000 +0000" stop="20250924030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Wildfires</title>
 </programme>
 <programme start="20250924030000 +0000" stop="20250924031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250924031500 +0000" stop="20250924033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: General Assembly...</title>
 </programme>
 <programme start="20250924033000 +0000" stop="20250924040000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Small Steps</title>
 </programme>
 <programme start="20250924040000 +0000" stop="20250924041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2963,13 +2966,13 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20250924053000 +0000" stop="20250924060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Tariffs</title>
 </programme>
 <programme start="20250924060000 +0000" stop="20250924061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250924061500 +0000" stop="20250924063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: General Assembly...</title>
 </programme>
 <programme start="20250924063000 +0000" stop="20250924070000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: When Immune...</title>
@@ -2978,13 +2981,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20250924073000 +0000" stop="20250924080000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Dilemma</title>
 </programme>
 <programme start="20250924080000 +0000" stop="20250924083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250924083000 +0000" stop="20250924090000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: How Farming Can...</title>
 </programme>
 <programme start="20250924090000 +0000" stop="20250924091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2996,13 +2999,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20250924103000 +0000" stop="20250924110000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Dilemma</title>
 </programme>
 <programme start="20250924110000 +0000" stop="20250924113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20250924113000 +0000" stop="20250924120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Tariffs</title>
 </programme>
 <programme start="20250924120000 +0000" stop="20250924123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>

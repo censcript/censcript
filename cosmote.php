@@ -154,6 +154,10 @@
     <title>Football: Lecce - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250925174000 +0700" stop="20250925181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250924153000 +0700" stop="20250924173000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - Rio Ave</title>
     <desc>Live: Tidak</desc>
@@ -238,6 +242,10 @@
     <title>Football: Hibernian - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250925173000 +0700" stop="20250925193000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al-Riyadh</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250924145500 +0700" stop="20250924171000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Minnesota Lynx - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
@@ -310,8 +318,8 @@
     <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924155000 +0700" stop="20250924165000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20250925170000 +0700" stop="20250925192000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924165000 +0700" stop="20250924172500 +0700" channel="COSMOTE Sport 5 HD">
@@ -523,6 +531,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250925160000 +0700" stop="20250925170000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250925170000 +0700" stop="20250925173000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250925173000 +0700" stop="20250925180000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>

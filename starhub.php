@@ -3269,16 +3269,16 @@
         <title>News</title>
     </programme>
     <programme start="20250923161500 +0000" stop="20250923164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dilemma - Moldova&#039;s Society at a Crossroads</title>
     </programme>
     <programme start="20250923164500 +0000" stop="20250923170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Femicide in Brazil</title>
     </programme>
     <programme start="20250923170000 +0000" stop="20250923171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250923171500 +0000" stop="20250923173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>General Assembly President Baerbock: UN &#039;cannot give up&#039;</title>
     </programme>
     <programme start="20250923173000 +0000" stop="20250923180000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -3287,16 +3287,16 @@
         <title>News</title>
     </programme>
     <programme start="20250923183000 +0000" stop="20250923190000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Small steps, big impact: Climate action stories</title>
     </programme>
     <programme start="20250923190000 +0000" stop="20250923190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250923190200 +0000" stop="20250923193000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How farming can empower women</title>
     </programme>
     <programme start="20250923193000 +0000" stop="20250923200000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Women in science - female researcher numbers on the rise</title>
     </programme>
     <programme start="20250923200000 +0000" stop="20250923203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,13 +3308,13 @@
         <title>News</title>
     </programme>
     <programme start="20250923210200 +0000" stop="20250923211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>General Assembly President Baerbock: UN &#039;cannot give up&#039;</title>
     </programme>
     <programme start="20250923211500 +0000" stop="20250923214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Dilemma - Moldova&#039;s Society at a Crossroads</title>
     </programme>
     <programme start="20250923214500 +0000" stop="20250923220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Virtual people: Why you can’t always trust what you see</title>
     </programme>
     <programme start="20250923220000 +0000" stop="20250923220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3323,13 +3323,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20250923223000 +0000" stop="20250923230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Are men lesser without money?</title>
     </programme>
     <programme start="20250923230000 +0000" stop="20250923231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20250923231500 +0000" stop="20250923233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>General Assembly President Baerbock: UN &#039;cannot give up&#039;</title>
     </programme>
     <programme start="20250923233000 +0000" stop="20250924000000 +0000" channel="DW English HD.starhub">
         <title>Wildfires - When mismanagement is the real enemy</title>
