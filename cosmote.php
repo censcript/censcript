@@ -1,7 +1,3 @@
-<programme start="20250924180000 +0700" stop="20250924190000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250924190000 +0700" stop="20250924211500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Athens Kallithea FC - OFI (L)</title>
     <desc>Live: Ya</desc>
@@ -158,14 +154,6 @@
     <title>Football: Asteras Aktor - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924180000 +0700" stop="20250924183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250924183000 +0700" stop="20250924190000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250924190000 +0700" stop="20250924211500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Volos - Atromitos Athens (L)</title>
     <desc>Live: Ya</desc>
@@ -238,8 +226,8 @@
     <title>Football: Al Nassr - Al-Riyadh</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924171000 +0700" stop="20250924190000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Al Ahli - Utsunomiya Brex</title>
+<programme start="20250925193000 +0700" stop="20250925213000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sheffield United - Charlton Athletic </title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924190000 +0700" stop="20250924193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -310,8 +298,8 @@
     <title>Basketball: Besiktas - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924172500 +0700" stop="20250924183500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20250925192000 +0700" stop="20250925212000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Minnesota Lynx - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924183500 +0700" stop="20250924190500 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,12 +386,8 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250924160000 +0700" stop="20250924183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Marton Fucsovics - Frances Tiafoe (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250924183000 +0700" stop="20250924190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250925193000 +0700" stop="20250925205000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924190000 +0700" stop="20250924231500 +0700" channel="COSMOTE Sport 6 HD">
@@ -460,6 +444,10 @@
 </programme>
 <programme start="20250925183000 +0700" stop="20250925190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250925190000 +0700" stop="20250925230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250924180000 +0700" stop="20250924200000 +0700" channel="COSMOTE Sport 7 HD">
