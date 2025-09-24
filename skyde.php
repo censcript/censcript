@@ -3330,6 +3330,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250924030000 +0000" stop="20250924130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 1. Tag</title>
 </programme>
+<programme start="20250927024000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20250927030000 +0000" stop="20250927130000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
+</programme>
 <programme start="20250923220000 +0000" stop="20250923224500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
 </programme>
@@ -3432,101 +3438,101 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250924211000 +0000" stop="20250924220000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
 </programme>
-<programme start="20250923220000 +0000" stop="20250923224500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250924220000 +0000" stop="20250924224500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250923224500 +0000" stop="20250923233000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250924224500 +0000" stop="20250924233000 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250923233000 +0000" stop="20250924001000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250924233000 +0000" stop="20250925001500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250924001000 +0000" stop="20250924005500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925001500 +0000" stop="20250925010000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924005500 +0000" stop="20250924014000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925010000 +0000" stop="20250925014000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924014000 +0000" stop="20250924022500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925014000 +0000" stop="20250925022500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924022500 +0000" stop="20250924031000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925022500 +0000" stop="20250925031000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924031000 +0000" stop="20250924034000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925031000 +0000" stop="20250925033500 +0000" channel="Universal TV HD.skyde">
     <title>Men in Kilts - Die Schotten kommen</title>
 </programme>
-<programme start="20250924034000 +0000" stop="20250924042500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925033500 +0000" stop="20250925042500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250924042500 +0000" stop="20250924051500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925042500 +0000" stop="20250925051000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924051500 +0000" stop="20250924060000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925051000 +0000" stop="20250925055500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924060000 +0000" stop="20250924064500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925055500 +0000" stop="20250925064500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924064500 +0000" stop="20250924073000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925064500 +0000" stop="20250925073000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924073000 +0000" stop="20250924081500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925073000 +0000" stop="20250925082000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924081500 +0000" stop="20250924090500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925082000 +0000" stop="20250925090500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924090500 +0000" stop="20250924095000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925090500 +0000" stop="20250925095000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924095000 +0000" stop="20250924103500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925095000 +0000" stop="20250925103500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924103500 +0000" stop="20250924112000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925103500 +0000" stop="20250925112000 +0000" channel="Universal TV HD.skyde">
     <title>Matlock</title>
 </programme>
-<programme start="20250924112000 +0000" stop="20250924120500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925112000 +0000" stop="20250925120500 +0000" channel="Universal TV HD.skyde">
     <title>Matlock</title>
 </programme>
-<programme start="20250924120500 +0000" stop="20250924125000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925120500 +0000" stop="20250925125000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924125000 +0000" stop="20250924134000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925125000 +0000" stop="20250925134000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924134000 +0000" stop="20250924142500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925134000 +0000" stop="20250925142500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924142500 +0000" stop="20250924151000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925142500 +0000" stop="20250925151000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250924151000 +0000" stop="20250924155500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925151000 +0000" stop="20250925155500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20250924155500 +0000" stop="20250924164000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925155500 +0000" stop="20250925164000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924164000 +0000" stop="20250924172500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925164000 +0000" stop="20250925172500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924172500 +0000" stop="20250924181500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925172500 +0000" stop="20250925181500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250924181500 +0000" stop="20250924190000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925181500 +0000" stop="20250925190000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924190000 +0000" stop="20250924194500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925190000 +0000" stop="20250925194500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924194500 +0000" stop="20250924203000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250925194500 +0000" stop="20250925203000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924203000 +0000" stop="20250924211500 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
+<programme start="20250925203000 +0000" stop="20250925211500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250924211500 +0000" stop="20250924220000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago P.D.</title>
+<programme start="20250925211500 +0000" stop="20250925220000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20250923221500 +0000" stop="20250923223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
