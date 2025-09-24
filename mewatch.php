@@ -244,17 +244,14 @@
     <programme start="20250924130000 +0000" stop="20250924140000 +0000" channel="Channel 8.mewatch">
         <title>The Cellphone Swap - EP 5</title>
     </programme>
-    <programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250924140000 +0000" stop="20250924144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250924144500 +0000" stop="20250924151500 +0000" channel="Channel 8.mewatch">
         <title>Kampung Foodsteps - EP 5</title>
     </programme>
-    <programme start="20250924150000 +0000" stop="20250924160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250924151500 +0000" stop="20250924161500 +0000" channel="Channel 8.mewatch">
         <title>The Legend of Heroes - Hot Blooded - EP 16</title>
-    </programme>
-    <programme start="20250924160000 +0000" stop="20250924170000 +0000" channel="Channel 8.mewatch">
-        <title>Destined - EP 32</title>
     </programme>
     <programme start="20250923154500 +0000" stop="20250923164000 +0000" channel="Channel U.mewatch">
         <title>Have A Nice Dream - Drifting Through Asia - EP 9</title>
@@ -364,10 +361,10 @@
     <programme start="20250924140000 +0000" stop="20250924150000 +0000" channel="Channel U.mewatch">
         <title>Good Partner - EP 2</title>
     </programme>
-    <programme start="20250924150000 +0000" stop="20250924153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250924150000 +0000" stop="20250924154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250924153000 +0000" stop="20250924163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250924154500 +0000" stop="20250924164000 +0000" channel="Channel U.mewatch">
         <title>The Glorious Pediatricians S1 - EP 3</title>
     </programme>
     <programme start="20250923160000 +0000" stop="20250924010000 +0000" channel="Suria.mewatch">

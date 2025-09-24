@@ -182,7 +182,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250924093000 +0000" stop="20250924100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Occupied West Bank</title>
 </programme>
 <programme start="20250924100000 +0000" stop="20250924110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -7445,7 +7445,7 @@
     <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20250923203000 +0000" stop="20250923230000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S4</title>
+    <title>Preman Pensiun S5</title>
 </programme>
 <programme start="20250923230000 +0000" stop="20250923234500 +0000" channel="RCTI.mncvision">
     <title>Go Spot</title>
@@ -7496,7 +7496,7 @@
     <title>Top Tukang Ojek Preman</title>
 </programme>
 <programme start="20250923203000 +0000" stop="20250923230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S4</title>
+    <title>Preman Pensiun S5</title>
 </programme>
 <programme start="20250923230000 +0000" stop="20250923234500 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot</title>
