@@ -3397,16 +3397,16 @@
   <programme start="20250925224500 +0000" stop="20250925231000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20250925231000 +0000" stop="20250925235000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250925231000 +0000" stop="20250925235100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na forbíně TM</title>
   </programme>
-  <programme start="20250925235000 +0000" stop="20250926001500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250925235100 +0000" stop="20250926001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ruční dojení</title>
   </programme>
-  <programme start="20250926001500 +0000" stop="20250926024500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926001500 +0000" stop="20250926024600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20250926024500 +0000" stop="20250926031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926024600 +0000" stop="20250926031500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
   <programme start="20250926031500 +0000" stop="20250926033000 +0000" channel="ČT1.webtv.sk">
@@ -3484,19 +3484,19 @@
   <programme start="20250926180600 +0000" stop="20250926181000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Losování Sportky a Šance</title>
   </programme>
-  <programme start="20250926181000 +0000" stop="20250926190600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926181000 +0000" stop="20250926190700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Příliš mnoho lásky (4/8)</title>
   </programme>
-  <programme start="20250926190600 +0000" stop="20250926200400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926190700 +0000" stop="20250926200400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechnopárty</title>
   </programme>
-  <programme start="20250926200400 +0000" stop="20250926200600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926200400 +0000" stop="20250926200500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20250926200600 +0000" stop="20250926214000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926200500 +0000" stop="20250926214000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot IX (2)</title>
   </programme>
-  <programme start="20250926214000 +0000" stop="20250926231000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250926214000 +0000" stop="20250926231100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisařka Florence VIII (4/4)</title>
   </programme>
   <programme start="20250925213500 +0000" stop="20250925222100 +0000" channel="ČT2.webtv.sk">
