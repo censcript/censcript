@@ -1,7 +1,3 @@
-<programme start="20250925234500 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Europa League Minute by Minute 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Europa League Minute by Minute 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -54,9 +50,13 @@
     <title>Greek Cup Time (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250926010000 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Europa League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250927021500 +0700" stop="20250927023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250927023000 +0700" stop="20250927030000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E5</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: BSC Young Boys - Panathinaikos (L)</title>
@@ -126,10 +126,6 @@
     <title>Football: SS Lazio - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250925234500 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Go Ahead Eagles - Fotbal Club FCSB (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Aston Villa - Bologna (L)</title>
     <desc>Live: Ya</desc>
@@ -178,9 +174,9 @@
     <title>Football: Palmeiras - River Plate</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250925234500 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - NBA G League United</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250927020000 +0700" stop="20250927040000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: West Bromwich Albion - Leicester City FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250926020000 +0700" stop="20250926040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: FC Salzburg - FC Porto (L)</title>
@@ -237,10 +233,6 @@
 <programme start="20250927011000 +0700" stop="20250927032000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250925234500 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: Lille OSC - SK Brann (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Utrecht - Olympique Lyonnais (L)</title>
@@ -346,12 +338,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250925233000 +0700" stop="20250926013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jannik Sinner - Marin Cilic</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250926013000 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
+<programme start="20250927022500 +0700" stop="20250927032000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 6 HD">
@@ -426,14 +414,6 @@
     <title>Tennis: Lorenzo Sonego - Alexander Zverev</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250926010000 +0700" stop="20250926013000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250926013000 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: VfB Stuttgart - Celta (L)</title>
     <desc>Live: Ya</desc>
@@ -498,13 +478,13 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250926010000 +0700" stop="20250926013000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250927020000 +0700" stop="20250927021500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250926013000 +0700" stop="20250926020000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250927021500 +0700" stop="20250927041500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: SL Benfica - Gil Vicente (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250926020000 +0700" stop="20250926040500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Ferencvarosi TC - Viktoria Plzen (L)</title>
@@ -657,5 +637,9 @@
 <programme start="20250927010000 +0700" stop="20250927024500 +0700" channel="COSMOTE Sport 9 HD">
     <title>Handball: MT Melsungen - HSV Hamburg (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250927024500 +0700" stop="20250927031000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
