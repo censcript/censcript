@@ -522,10 +522,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250925233000 +0000" stop="20250925234500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250925234500 +0000" stop="20250925235500 +0000" channel="Cartoonito.skyde">
+<programme start="20250925234500 +0000" stop="20250926000000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20250925235500 +0000" stop="20250926001500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926000000 +0000" stop="20250926001500 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20250926001500 +0000" stop="20250926002500 +0000" channel="Cartoonito.skyde">
@@ -549,13 +549,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926013000 +0000" stop="20250926014500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250926014500 +0000" stop="20250926015500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926014500 +0000" stop="20250926020000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250926015500 +0000" stop="20250926020500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926020000 +0000" stop="20250926021000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20250926020500 +0000" stop="20250926022500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926021000 +0000" stop="20250926022500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20250926022500 +0000" stop="20250926023500 +0000" channel="Cartoonito.skyde">
@@ -633,10 +633,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926074000 +0000" stop="20250926080000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20250926080000 +0000" stop="20250926080400 +0000" channel="Cartoonito.skyde">
+<programme start="20250926080000 +0000" stop="20250926080500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20250926080400 +0000" stop="20250926081000 +0000" channel="Cartoonito.skyde">
+<programme start="20250926080500 +0000" stop="20250926081000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20250926081000 +0000" stop="20250926082500 +0000" channel="Cartoonito.skyde">
@@ -807,10 +807,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926191500 +0000" stop="20250926193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250926193000 +0000" stop="20250926193500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926193000 +0000" stop="20250926194000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20250926193500 +0000" stop="20250926194500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926194000 +0000" stop="20250926194500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20250926194500 +0000" stop="20250926200000 +0000" channel="Cartoonito.skyde">
@@ -825,10 +825,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926202500 +0000" stop="20250926203500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250926203500 +0000" stop="20250926205000 +0000" channel="Cartoonito.skyde">
+<programme start="20250926203500 +0000" stop="20250926205500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20250926205000 +0000" stop="20250926210500 +0000" channel="Cartoonito.skyde">
+<programme start="20250926205500 +0000" stop="20250926210500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20250926210500 +0000" stop="20250926212000 +0000" channel="Cartoonito.skyde">
@@ -943,7 +943,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250926063000 +0000" stop="20250926070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Serie A Highlightshow 2025/26: 4. Spieltag</title>
+    <title>Serie A Highlightshow: 4. Spieltag</title>
 </programme>
 <programme start="20250926070000 +0000" stop="20250926073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 5. Spieltag</title>
@@ -1018,7 +1018,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20250926201000 +0000" stop="20250926204000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A Highlightshow: 4. Spieltag</title>
+    <title>Serie A Highlightshow 2025/26: 4. Spieltag</title>
 </programme>
 <programme start="20250926204000 +0000" stop="20250926211000 +0000" channel="DAZN 2 HD.skyde">
     <title>Ligue 1 Highlightshow 2025/26: 5. Spieltag</title>
@@ -1926,40 +1926,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926200500 +0000" stop="20250926222000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Mickey 17</title>
 </programme>
-<programme start="20250925223000 +0000" stop="20250925232000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250925222500 +0000" stop="20250925232000 +0000" channel="Sky Crime HD.skyde">
     <title>Con Girl: Die vielen Leben einer Betrügerin</title>
 </programme>
-<programme start="20250925232000 +0000" stop="20250926000500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250925232000 +0000" stop="20250926000000 +0000" channel="Sky Crime HD.skyde">
     <title>Twisted Killers</title>
 </programme>
-<programme start="20250926000500 +0000" stop="20250926005000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926000000 +0000" stop="20250926004500 +0000" channel="Sky Crime HD.skyde">
     <title>Twisted Killers</title>
 </programme>
-<programme start="20250926005000 +0000" stop="20250926013500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926004500 +0000" stop="20250926013500 +0000" channel="Sky Crime HD.skyde">
     <title>My Deadly Relation - Mörder in der Familie</title>
 </programme>
 <programme start="20250926013500 +0000" stop="20250926022000 +0000" channel="Sky Crime HD.skyde">
     <title>My Deadly Relation - Mörder in der Familie</title>
 </programme>
-<programme start="20250926022000 +0000" stop="20250926032000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926022000 +0000" stop="20250926031500 +0000" channel="Sky Crime HD.skyde">
     <title>Confronting a Serial Killer</title>
 </programme>
-<programme start="20250926032000 +0000" stop="20250926042000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926031500 +0000" stop="20250926042000 +0000" channel="Sky Crime HD.skyde">
     <title>Confronting a Serial Killer</title>
 </programme>
-<programme start="20250926042000 +0000" stop="20250926045000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926042000 +0000" stop="20250926044500 +0000" channel="Sky Crime HD.skyde">
     <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
-<programme start="20250926045000 +0000" stop="20250926051500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926044500 +0000" stop="20250926051500 +0000" channel="Sky Crime HD.skyde">
     <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
 <programme start="20250926051500 +0000" stop="20250926054500 +0000" channel="Sky Crime HD.skyde">
     <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
-<programme start="20250926054500 +0000" stop="20250926063000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926054500 +0000" stop="20250926062500 +0000" channel="Sky Crime HD.skyde">
     <title>Zum Töten gern</title>
 </programme>
-<programme start="20250926063000 +0000" stop="20250926071000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926062500 +0000" stop="20250926071000 +0000" channel="Sky Crime HD.skyde">
     <title>Zum Töten gern</title>
 </programme>
 <programme start="20250926071000 +0000" stop="20250926080000 +0000" channel="Sky Crime HD.skyde">
@@ -2013,31 +2013,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926200000 +0000" stop="20250926205000 +0000" channel="Sky Crime HD.skyde">
     <title>Twisted Killers</title>
 </programme>
-<programme start="20250926205000 +0000" stop="20250926214000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926205000 +0000" stop="20250926213500 +0000" channel="Sky Crime HD.skyde">
     <title>Twisted Killers</title>
 </programme>
-<programme start="20250926214000 +0000" stop="20250926222500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20250926213500 +0000" stop="20250926222500 +0000" channel="Sky Crime HD.skyde">
     <title>Killer USA</title>
 </programme>
-<programme start="20250925223000 +0000" stop="20250925232500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250925223000 +0000" stop="20250925232000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Wetterwahnsinn weltweit</title>
 </programme>
-<programme start="20250925232500 +0000" stop="20250926001000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250925232000 +0000" stop="20250926000500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Wetterwahnsinn weltweit</title>
 </programme>
-<programme start="20250926001000 +0000" stop="20250926005500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926000500 +0000" stop="20250926005000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
 </programme>
-<programme start="20250926005500 +0000" stop="20250926014000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926005000 +0000" stop="20250926013500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
 </programme>
-<programme start="20250926014000 +0000" stop="20250926021000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926013500 +0000" stop="20250926020500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
-<programme start="20250926021000 +0000" stop="20250926024000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926020500 +0000" stop="20250926023500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
-<programme start="20250926024000 +0000" stop="20250926030500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926023500 +0000" stop="20250926030500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
 <programme start="20250926030500 +0000" stop="20250926035000 +0000" channel="Sky Documentaries HD.skyde">
@@ -2100,10 +2100,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926190000 +0000" stop="20250926195500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Für die Freiheit: Die US-Bürgerrechtsbewegung</title>
 </programme>
-<programme start="20250926195500 +0000" stop="20250926205500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926195500 +0000" stop="20250926210000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Für die Freiheit: Die US-Bürgerrechtsbewegung</title>
 </programme>
-<programme start="20250926205500 +0000" stop="20250926220000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250926210000 +0000" stop="20250926220000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Für die Freiheit: Die US-Bürgerrechtsbewegung</title>
 </programme>
 <programme start="20250925221000 +0000" stop="20250925230000 +0000" channel="Sky Krimi HD.skyde">
@@ -2133,10 +2133,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926041500 +0000" stop="20250926050500 +0000" channel="Sky Krimi HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20250926050500 +0000" stop="20250926055500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250926050500 +0000" stop="20250926060000 +0000" channel="Sky Krimi HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20250926055500 +0000" stop="20250926064500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20250926060000 +0000" stop="20250926064500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
 <programme start="20250926064500 +0000" stop="20250926073500 +0000" channel="Sky Krimi HD.skyde">
@@ -2563,7 +2563,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Die UEFA Europa League am Donnerstag: Analyse</title>
 </programme>
 <programme start="20250926030000 +0000" stop="20250926050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Go Ahead Eagles - FCSB, Ligaphase, 1. Spieltag, Donnerstag</title>
+    <title>UEFA EL: VfB Stuttgart - Celta Vigo, Ligaphase, 1. Spieltag, Donnerstag</title>
 </programme>
 <programme start="20250926050000 +0000" stop="20250926053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: RBS - STU, 7. Runde</title>
@@ -2571,35 +2571,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926053000 +0000" stop="20250926060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Marcos Nader)</title>
 </programme>
-<programme start="20250926060000 +0000" stop="20250926061000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Pitchside: ASK - BWL, 7. Runde</title>
-</programme>
-<programme start="20250926061000 +0000" stop="20250926064000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926060000 +0000" stop="20250926063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 7. Runde</title>
 </programme>
-<programme start="20250926064000 +0000" stop="20250926071000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926063000 +0000" stop="20250926070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
 </programme>
-<programme start="20250926071000 +0000" stop="20250926091000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926070000 +0000" stop="20250926090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - SV Oberbank Ried, 7. Runde</title>
 </programme>
-<programme start="20250926091000 +0000" stop="20250926094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926090000 +0000" stop="20250926093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
-<programme start="20250926094000 +0000" stop="20250926095000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Pitchside: ASK - BWL, 7. Runde</title>
-</programme>
-<programme start="20250926095000 +0000" stop="20250926102000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926093000 +0000" stop="20250926100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: RBS - STU, 7. Runde</title>
 </programme>
-<programme start="20250926102000 +0000" stop="20250926122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926100000 +0000" stop="20250926120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: LASK - FC Blau-Weiß Linz, 7. Runde</title>
 </programme>
-<programme start="20250926122000 +0000" stop="20250926125000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20250926120000 +0000" stop="20250926123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Bundesliga Classic: Wr. Neustadt - Sturm (2014/2015)</title>
 </programme>
-<programme start="20250926125000 +0000" stop="20250926130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Pitchside: ASK - BWL, 7. Runde</title>
+<programme start="20250926123000 +0000" stop="20250926130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
 </programme>
 <programme start="20250926130000 +0000" stop="20250926150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - SK Puntigamer Sturm Graz, 7. Runde</title>
@@ -2611,7 +2605,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 7. Runde</title>
 </programme>
 <programme start="20250926160000 +0000" stop="20250926174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: SCR - FAK (2007/08)</title>
 </programme>
 <programme start="20250926174500 +0000" stop="20250926181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: RBS - STU, 7. Runde</title>
@@ -2623,7 +2617,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 7. Runde</title>
 </programme>
 <programme start="20250926191500 +0000" stop="20250926210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: SCR - FAK (2007/08)</title>
 </programme>
 <programme start="20250926210000 +0000" stop="20250926213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2647,7 +2641,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL Kompakt: 6. Spieltag</title>
 </programme>
 <programme start="20250926040000 +0000" stop="20250926043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Shkodran Mustafi</title>
+    <title>Meine Geschichte: Das Leben von ...</title>
 </programme>
 <programme start="20250926043000 +0000" stop="20250926050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -2676,8 +2670,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926133000 +0000" stop="20250926140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Fernando Carro)</title>
 </programme>
-<programme start="20250926144500 +0000" stop="20250926150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
+<programme start="20250926140000 +0000" stop="20250926150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 4. Spieltag</title>
 </programme>
 <programme start="20250926150000 +0000" stop="20250926151500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (6)</title>
@@ -2701,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live BL: FC Bayern München - Werder Bremen, Flutlicht-Freitag, 5. Spieltag</title>
 </programme>
 <programme start="20250926211500 +0000" stop="20250926214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Oscar da Silva</title>
+    <title>Meine Geschichte: Das Leben von ...</title>
 </programme>
 <programme start="20250926214500 +0000" stop="20250926223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 7. Spieltag, Freitag</title>
@@ -2919,8 +2913,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926013500 +0000" stop="20250926024500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Japan</title>
 </programme>
-<programme start="20250926024500 +0000" stop="20250926041000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Marc Marquez - Unlimited</title>
+<programme start="20250926024500 +0000" stop="20250926034500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: Highlights: Rally Chile Bio Bío</title>
+</programme>
+<programme start="20250926034500 +0000" stop="20250926041000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Stories: The resurrection of Ducati</title>
 </programme>
 <programme start="20250926041000 +0000" stop="20250926045500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: Training - GP Japan</title>
@@ -2950,7 +2947,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Training - GP Japan</title>
 </programme>
 <programme start="20250926154500 +0000" stop="20250926174500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA EL: Dinamo Zagreb - Fenerbahce Istanbul, Ligaphase, 1. Spieltag</title>
+    <title>UEFA EL: Dinamo Zagreb -  Fenerbahce Istanbul, Ligaphase, 1. Spieltag</title>
 </programme>
 <programme start="20250926174500 +0000" stop="20250926180000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: Eintracht Braunschweig - VfB Stuttgart, 1. Runde</title>
@@ -3052,7 +3049,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 1 to 11 (Emile Heskey)</title>
 </programme>
 <programme start="20250926013000 +0000" stop="20250926033000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: AFC Sunderland - Aston Villa, 5. Spieltag</title>
+    <title>PL: FC Sunderland - Aston Villa, 5. Spieltag</title>
 </programme>
 <programme start="20250926033000 +0000" stop="20250926040000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: David James</title>
@@ -3067,7 +3064,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: BUR - LIV, 4. Spieltag</title>
 </programme>
 <programme start="20250926053000 +0000" stop="20250926060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Ich bleibe cool - Florian Wirtz Exklusiv</title>
+    <title>PL: 90in30: BOU - NEW, 5. Spieltag</title>
 </programme>
 <programme start="20250926060000 +0000" stop="20250926070000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
@@ -3091,7 +3088,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Greatest Games: Newcastle United - FC Arsenal (2011)</title>
 </programme>
 <programme start="20250926103000 +0000" stop="20250926110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Ich bleibe cool - Florian Wirtz Exklusiv</title>
+    <title>PL: The Big Interview</title>
 </programme>
 <programme start="20250926110000 +0000" stop="20250926113000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: WHU - CRY, 5. Spieltag</title>
@@ -3118,7 +3115,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: BRE - CHE, 4. Spieltag</title>
 </programme>
 <programme start="20250926160000 +0000" stop="20250926163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: West Ham (2025/26)</title>
+    <title>PL: Under the Skin (Nottingham Forest)</title>
 </programme>
 <programme start="20250926163000 +0000" stop="20250926164500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Ultimates: Thierry Henry&#039;s Best PL Goal</title>
@@ -3127,7 +3124,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Greatest Games: Newcastle United - FC Arsenal (2011)</title>
 </programme>
 <programme start="20250926170000 +0000" stop="20250926173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Ich bleibe cool - Florian Wirtz Exklusiv</title>
+    <title>PL: Netbusters, 5. Spieltag</title>
 </programme>
 <programme start="20250926173000 +0000" stop="20250926180000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Preview, 6. Spieltag</title>
@@ -3249,10 +3246,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926070000 +0000" stop="20250926071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20250926024000 +0000" stop="20250926030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250925223000 +0000" stop="20250926030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20250926030000 +0000" stop="20250926130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20250926030000 +0000" stop="20250926150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 3. Tag</title>
 </programme>
 <programme start="20250925220000 +0000" stop="20250925224500 +0000" channel="SYFY HD.skyde">
@@ -3285,10 +3282,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926041500 +0000" stop="20250926043000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Origins</title>
 </programme>
-<programme start="20250926043000 +0000" stop="20250926051500 +0000" channel="SYFY HD.skyde">
+<programme start="20250926043000 +0000" stop="20250926052000 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
-<programme start="20250926051500 +0000" stop="20250926060500 +0000" channel="SYFY HD.skyde">
+<programme start="20250926052000 +0000" stop="20250926060500 +0000" channel="SYFY HD.skyde">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
 </programme>
 <programme start="20250926060500 +0000" stop="20250926065500 +0000" channel="SYFY HD.skyde">
@@ -3354,10 +3351,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250925233000 +0000" stop="20250926001500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250926001500 +0000" stop="20250926005500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250926001500 +0000" stop="20250926010000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250926005500 +0000" stop="20250926014000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250926010000 +0000" stop="20250926014000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20250926014000 +0000" stop="20250926022500 +0000" channel="Universal TV HD.skyde">
@@ -3372,10 +3369,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926034000 +0000" stop="20250926042500 +0000" channel="Universal TV HD.skyde">
     <title>Dr. House</title>
 </programme>
-<programme start="20250926042500 +0000" stop="20250926051000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250926042500 +0000" stop="20250926051500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20250926051000 +0000" stop="20250926060000 +0000" channel="Universal TV HD.skyde">
+<programme start="20250926051500 +0000" stop="20250926060000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20250926060000 +0000" stop="20250926064500 +0000" channel="Universal TV HD.skyde">
@@ -3420,10 +3417,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926155500 +0000" stop="20250926164000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250926164000 +0000" stop="20250926172500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250926164000 +0000" stop="20250926173000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20250926172500 +0000" stop="20250926181500 +0000" channel="Universal TV HD.skyde">
+<programme start="20250926173000 +0000" stop="20250926181500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
 <programme start="20250926181500 +0000" stop="20250926190000 +0000" channel="Universal TV HD.skyde">
@@ -3663,13 +3660,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926202000 +0000" stop="20250926223000 +0000" channel="Warner TV Film.skyde">
     <title>Gods of Egypt</title>
 </programme>
-<programme start="20250925222000 +0000" stop="20250926002500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250925221500 +0000" stop="20250926002000 +0000" channel="Warner TV Film HD.skyde">
     <title>Stirb Langsam 4.0</title>
 </programme>
-<programme start="20250926002500 +0000" stop="20250926015000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926002000 +0000" stop="20250926015500 +0000" channel="Warner TV Film HD.skyde">
     <title>Red Dawn</title>
 </programme>
-<programme start="20250926015000 +0000" stop="20250926040000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926015500 +0000" stop="20250926040000 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Sturm</title>
 </programme>
 <programme start="20250926040000 +0000" stop="20250926053000 +0000" channel="Warner TV Film HD.skyde">
@@ -3681,22 +3678,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926072500 +0000" stop="20250926094000 +0000" channel="Warner TV Film HD.skyde">
     <title>Space Cowboys</title>
 </programme>
-<programme start="20250926094000 +0000" stop="20250926120000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926094000 +0000" stop="20250926115500 +0000" channel="Warner TV Film HD.skyde">
     <title>Mystic River</title>
 </programme>
-<programme start="20250926120000 +0000" stop="20250926141000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926115500 +0000" stop="20250926140500 +0000" channel="Warner TV Film HD.skyde">
     <title>Stirb Langsam 4.0</title>
 </programme>
-<programme start="20250926141000 +0000" stop="20250926162000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926140500 +0000" stop="20250926162000 +0000" channel="Warner TV Film HD.skyde">
     <title>Jack Reacher</title>
 </programme>
 <programme start="20250926162000 +0000" stop="20250926181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Top Gun</title>
 </programme>
-<programme start="20250926181500 +0000" stop="20250926202000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926181500 +0000" stop="20250926201500 +0000" channel="Warner TV Film HD.skyde">
     <title>Mad Max: Fury Road</title>
 </programme>
-<programme start="20250926202000 +0000" stop="20250926223000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250926201500 +0000" stop="20250926222500 +0000" channel="Warner TV Film HD.skyde">
     <title>Gods of Egypt</title>
 </programme>
 <programme start="20250925221000 +0000" stop="20250925225000 +0000" channel="Warner TV Serie HD.skyde">

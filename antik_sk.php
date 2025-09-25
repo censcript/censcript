@@ -5275,11 +5275,8 @@
   <programme start="20250927213000 +0000" stop="20250927233000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Lední hokej</title>
   </programme>
-  <programme start="20250926210000 +0000" stop="20250926224500 +0000" channel="Sport 2.webtv.sk">
-    <title lang="id">Házená</title>
-  </programme>
-  <programme start="20250926224500 +0000" stop="20250926231500 +0000" channel="Sport 2.webtv.sk">
-    <title lang="id">Secrets of Calcio (Tajemství fotbalu), Massimo Allegri</title>
+  <programme start="20250926210000 +0000" stop="20250926231500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
   </programme>
   <programme start="20250926231500 +0000" stop="20250926233000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Fotbal, Made in Italy, Mattia Zaccagni</title>
