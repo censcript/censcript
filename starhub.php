@@ -3271,6 +3271,9 @@
     <programme start="20250924170000 +0000" stop="20250924171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20250924171500 +0000" stop="20250924173000 +0000" channel="DW English HD.starhub">
+        <title>&quot;President Trump trusts President Zelenskyy&quot;</title>
+    </programme>
     <programme start="20250924173000 +0000" stop="20250924180000 +0000" channel="DW English HD.starhub">
         <title>Dilemma - Moldova&#039;s Society at a Crossroads</title>
     </programme>
@@ -3299,7 +3302,7 @@
         <title>News</title>
     </programme>
     <programme start="20250924210200 +0000" stop="20250924211500 +0000" channel="DW English HD.starhub">
-        <title>What Bauhaus would do today</title>
+        <title>&quot;President Trump trusts President Zelenskyy&quot;</title>
     </programme>
     <programme start="20250924211500 +0000" stop="20250924220000 +0000" channel="DW English HD.starhub">
         <title>Confronting Climate Change - How Families Are Grappling with Heat and Floods</title>
@@ -3317,7 +3320,7 @@
         <title>News</title>
     </programme>
     <programme start="20250924231500 +0000" stop="20250924233000 +0000" channel="DW English HD.starhub">
-        <title>What Bauhaus would do today</title>
+        <title>&quot;President Trump trusts President Zelenskyy&quot;</title>
     </programme>
     <programme start="20250924233000 +0000" stop="20250925000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>

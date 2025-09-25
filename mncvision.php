@@ -7505,7 +7505,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250925161500 +0000" stop="20250925164500 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali S4</title>
+    <title>Amanah Wali S5</title>
 </programme>
 <programme start="20250924181500 +0000" stop="20250924190000 +0000" channel="RCTI HD.mncvision">
     <title>Top Tukang Ojek Preman</title>
@@ -7556,7 +7556,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20250925161500 +0000" stop="20250925164500 +0000" channel="RCTI HD.mncvision">
-    <title>Amanah Wali S4</title>
+    <title>Amanah Wali S5</title>
 </programme>
 <programme start="20250924175500 +0000" stop="20250924194000 +0000" channel="Rock Action.mncvision">
     <title>Hard Target</title>
