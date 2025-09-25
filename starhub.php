@@ -7355,7 +7355,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20250925043000 +0000" stop="20250925050000 +0000" channel="COLORS.starhub">
-        <title>Bindii</title>
+        <title>Binddii</title>
     </programme>
     <programme start="20250925050000 +0000" stop="20250925053000 +0000" channel="COLORS.starhub">
         <title>Dhaakad Beera</title>
@@ -7367,7 +7367,7 @@
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250925063000 +0000" stop="20250925070000 +0000" channel="COLORS.starhub">
-        <title>Bindii</title>
+        <title>Binddii</title>
     </programme>
     <programme start="20250925070000 +0000" stop="20250925080000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -7397,7 +7397,7 @@
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250925123000 +0000" stop="20250925130000 +0000" channel="COLORS.starhub">
-        <title>Bindii</title>
+        <title>Binddii</title>
     </programme>
     <programme start="20250925130000 +0000" stop="20250925143000 +0000" channel="COLORS.starhub">
         <title>Bigg Boss</title>
@@ -8035,10 +8035,10 @@
     <programme start="20250925073000 +0000" stop="20250925103000 +0000" channel="Asianet Movies.starhub">
         <title>Karyasthan</title>
     </programme>
-    <programme start="20250925103000 +0000" stop="20250925133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250925103000 +0000" stop="20250925133500 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
-    <programme start="20250925133000 +0000" stop="20250925163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250925133500 +0000" stop="20250925163000 +0000" channel="Asianet Movies.starhub">
         <title>Anand Sreebala</title>
     </programme>
     <programme start="20250924160000 +0000" stop="20250924163000 +0000" channel="Astro Warna HD.starhub">
