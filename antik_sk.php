@@ -14641,10 +14641,10 @@
   <programme start="20250927210000 +0000" stop="20250928031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20250926205600 +0000" stop="20250926224500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250926205700 +0000" stop="20250926224600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK / / 23.6.2025</title>
   </programme>
-  <programme start="20250926224500 +0000" stop="20250927030000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250926224600 +0000" stop="20250927030000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK / 25.8.2025</title>
   </programme>
   <programme start="20250927030000 +0000" stop="20250927030500 +0000" channel="TV Zemplín.webtv.sk">
@@ -14659,16 +14659,16 @@
   <programme start="20250927033500 +0000" stop="20250927034200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20250927034200 +0000" stop="20250927035200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927034200 +0000" stop="20250927035400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky</title>
   </programme>
-  <programme start="20250927035200 +0000" stop="20250927041500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927035400 +0000" stop="20250927041500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime I bisidujeme - Bežovce</title>
   </programme>
-  <programme start="20250927041500 +0000" stop="20250927042600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927041500 +0000" stop="20250927042300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20250927042600 +0000" stop="20250927043000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927042300 +0000" stop="20250927043000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Varenie v lese - Steak na horách</title>
   </programme>
   <programme start="20250927043000 +0000" stop="20250927045500 +0000" channel="TV Zemplín.webtv.sk">
@@ -14683,11 +14683,14 @@
   <programme start="20250927061000 +0000" stop="20250927061500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20250927061500 +0000" stop="20250927062900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927061500 +0000" stop="20250927062600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20250927062900 +0000" stop="20250927065000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927062600 +0000" stop="20250927064500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime I bisidujeme - Bežovce</title>
+  </programme>
+  <programme start="20250927064500 +0000" stop="20250927065000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
   </programme>
   <programme start="20250927065000 +0000" stop="20250927070200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
@@ -14707,100 +14710,106 @@
   <programme start="20250927083000 +0000" stop="20250927101500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
   </programme>
-  <programme start="20250927101500 +0000" stop="20250927103000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927101500 +0000" stop="20250927102700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20250927103000 +0000" stop="20250927105700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927102700 +0000" stop="20250927105300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dnes bez lopty - Matej Čurma</title>
   </programme>
-  <programme start="20250927105700 +0000" stop="20250927110000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927105300 +0000" stop="20250927105500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
   </programme>
-  <programme start="20250927110000 +0000" stop="20250927110500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927105500 +0000" stop="20250927110100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20250927110500 +0000" stop="20250927111000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927110100 +0000" stop="20250927110500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">VARENIE V LESE - Tradície Veľkej noci</title>
   </programme>
-  <programme start="20250927111000 +0000" stop="20250927120200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927110500 +0000" stop="20250927115800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dvojo z Mihaľovec</title>
   </programme>
-  <programme start="20250927120200 +0000" stop="20250927121800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927115800 +0000" stop="20250927121400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime I bisidujeme - Bežovce</title>
   </programme>
-  <programme start="20250927121800 +0000" stop="20250927123000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927121400 +0000" stop="20250927122500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Prečo sa modliť ruženec?</title>
   </programme>
-  <programme start="20250927123000 +0000" stop="20250927124000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927122500 +0000" stop="20250927123500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20250927124000 +0000" stop="20250927125000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927123500 +0000" stop="20250927124100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
+  </programme>
+  <programme start="20250927124100 +0000" stop="20250927125100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
   </programme>
-  <programme start="20250927125000 +0000" stop="20250927130000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927125100 +0000" stop="20250927130000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Z čoho pramení naša neistota, strach a nepokoj?</title>
   </programme>
-  <programme start="20250927130000 +0000" stop="20250927133200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927130000 +0000" stop="20250927133100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20250927133200 +0000" stop="20250927134000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927133100 +0000" stop="20250927134000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
   </programme>
   <programme start="20250927134000 +0000" stop="20250927140900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 18.9.2025</title>
   </programme>
-  <programme start="20250927140900 +0000" stop="20250927141200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927140900 +0000" stop="20250927141100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Varenie v lese - Steak na horách</title>
   </programme>
-  <programme start="20250927141200 +0000" stop="20250927141500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927141100 +0000" stop="20250927141500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
   </programme>
   <programme start="20250927141500 +0000" stop="20250927142000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20250927142000 +0000" stop="20250927143300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927142000 +0000" stop="20250927143200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20250927143300 +0000" stop="20250927144200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927143200 +0000" stop="20250927144400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Varenie v lese - Steak na horách</title>
   </programme>
-  <programme start="20250927144200 +0000" stop="20250927144800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927144400 +0000" stop="20250927145000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Z čoho pramení naša neistota, strach a nepokoj?</title>
   </programme>
-  <programme start="20250927144800 +0000" stop="20250927151200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927145000 +0000" stop="20250927151400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
   </programme>
-  <programme start="20250927151200 +0000" stop="20250927153000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927151400 +0000" stop="20250927153000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime I bisidujeme - Bežovce</title>
   </programme>
-  <programme start="20250927153000 +0000" stop="20250927154600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927153000 +0000" stop="20250927153800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20250927154600 +0000" stop="20250927163900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927153800 +0000" stop="20250927163000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Na slovíčko – Ako zákony menia náš každodenný život</title>
   </programme>
-  <programme start="20250927163900 +0000" stop="20250927164400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927163000 +0000" stop="20250927163600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Z čoho pramení naša neistota, strach a nepokoj?</title>
   </programme>
-  <programme start="20250927164400 +0000" stop="20250927170000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927163600 +0000" stop="20250927165500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
   </programme>
-  <programme start="20250927170000 +0000" stop="20250927175500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927165500 +0000" stop="20250927175000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dvojo z Mihaľovec</title>
   </programme>
-  <programme start="20250927175500 +0000" stop="20250927185900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927175000 +0000" stop="20250927183800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Na slovíčko – Ako zákony menia náš každodenný život</title>
   </programme>
-  <programme start="20250927185900 +0000" stop="20250927192300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927183800 +0000" stop="20250927190400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime I bisidujeme - Bežovce</title>
+  </programme>
+  <programme start="20250927190400 +0000" stop="20250927192800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dnes bez lopty - Matej Čurma</title>
   </programme>
-  <programme start="20250927192300 +0000" stop="20250927192600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927192800 +0000" stop="20250927193100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Varenie v lese - Steak na horách</title>
   </programme>
-  <programme start="20250927192600 +0000" stop="20250927211500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927193100 +0000" stop="20250927212000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK / / 23.6.2025</title>
   </programme>
-  <programme start="20250927211500 +0000" stop="20250928023700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20250927212000 +0000" stop="20250928024200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK / 25.8.2025</title>
   </programme>
   <programme start="20250926220000 +0000" stop="20250926230000 +0000" channel="TV Poprad.webtv.sk">
@@ -16145,7 +16154,7 @@
     <title lang="id">Sport Info</title>
   </programme>
   <programme start="20250927013600 +0000" stop="20250927015500 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Reportaz TVP INFO</title>
+    <title lang="id">Z bliska (9)</title>
   </programme>
   <programme start="20250927015500 +0000" stop="20250927025200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (1)</title>
@@ -16232,15 +16241,15 @@
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20250927073000 +0000" stop="20250927083000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Stan wyborczy (15)</title>
-  </programme>
-  <programme start="20250927083000 +0000" stop="20250927092500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kolegium (41)</title>
   </programme>
-  <programme start="20250927092500 +0000" stop="20250927092800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20250927083000 +0000" stop="20250927090000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20250927092800 +0000" stop="20250927093000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20250927090000 +0000" stop="20250927092200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20250927092200 +0000" stop="20250927093000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20250927093000 +0000" stop="20250927102400 +0000" channel="TVP Info.webtv.sk">
@@ -16343,7 +16352,7 @@
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20250927211700 +0000" stop="20250927221600 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Stan wyborczy (15)</title>
+    <title lang="id">Kolegium (41)</title>
   </programme>
   <programme start="20250926213000 +0000" stop="20250926223000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Mazurska Noc Kabaretowa (3)</title>
