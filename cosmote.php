@@ -50,6 +50,10 @@
     <title>Football: PAOK - Maccabi Tel-Aviv FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250926150000 +0700" stop="20250926170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: VfB Stuttgart - Celta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250925130500 +0700" stop="20250925151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Athens Kallithea FC - OFI</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +122,10 @@
     <title>Football: Bologna - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250926151500 +0700" stop="20250926171500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250925133000 +0700" stop="20250925153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Racing Club - Velez Sarsfield</title>
     <desc>Live: Tidak</desc>
@@ -170,14 +178,6 @@
     <title>Football: Rio Ave - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250925120500 +0700" stop="20250925140500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250925140500 +0700" stop="20250925142500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250925142500 +0700" stop="20250925164000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Crvena Zvezda - Olympiacos BC</title>
     <desc>Live: Tidak</desc>
@@ -226,8 +226,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250925134500 +0700" stop="20250925145500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20250926152000 +0700" stop="20250926155000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250926155000 +0700" stop="20250926181000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250925145500 +0700" stop="20250925151000 +0700" channel="COSMOTE Sport 5 HD">
@@ -320,6 +324,10 @@
 </programme>
 <programme start="20250926143000 +0700" stop="20250926154500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250926154500 +0700" stop="20250926164000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250925140000 +0700" stop="20250925160000 +0700" channel="COSMOTE Sport 6 HD">
@@ -541,6 +549,10 @@
 <programme start="20250926143000 +0700" stop="20250926150000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250926150000 +0700" stop="20250926170000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250925140000 +0700" stop="20250925160000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

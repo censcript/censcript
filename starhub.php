@@ -3271,9 +3271,6 @@
     <programme start="20250924170000 +0000" stop="20250924171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20250924171500 +0000" stop="20250924173000 +0000" channel="DW English HD.starhub">
-        <title>What Bauhaus would do today</title>
-    </programme>
     <programme start="20250924173000 +0000" stop="20250924180000 +0000" channel="DW English HD.starhub">
         <title>Dilemma - Moldova&#039;s Society at a Crossroads</title>
     </programme>
@@ -3353,7 +3350,7 @@
         <title>News</title>
     </programme>
     <programme start="20250925031500 +0000" stop="20250925033000 +0000" channel="DW English HD.starhub">
-        <title>What Bauhaus would do today</title>
+        <title>&quot;President Trump trusts President Zelenskyy&quot;</title>
     </programme>
     <programme start="20250925033000 +0000" stop="20250925040000 +0000" channel="DW English HD.starhub">
         <title>How farming can empower women</title>
@@ -3377,7 +3374,7 @@
         <title>News</title>
     </programme>
     <programme start="20250925061500 +0000" stop="20250925063000 +0000" channel="DW English HD.starhub">
-        <title>What Bauhaus would do today</title>
+        <title>&quot;President Trump trusts President Zelenskyy&quot;</title>
     </programme>
     <programme start="20250925063000 +0000" stop="20250925070000 +0000" channel="DW English HD.starhub">
         <title>Tariffs, watches, diamonds - global upheavals</title>
