@@ -1168,19 +1168,19 @@
   <programme start="20250927205500 +0000" stop="20250927232500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Nebezpečná láskavosť</title>
   </programme>
-  <programme start="20250926214000 +0000" stop="20250926233000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20250926213500 +0000" stop="20250926233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20250926233000 +0000" stop="20250927045500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20250926233000 +0000" stop="20250927045000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">LIV Golf Tour</title>
   </programme>
-  <programme start="20250927045500 +0000" stop="20250927064500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20250927045000 +0000" stop="20250927064000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbalová Zlatá Európska liga ženy</title>
   </programme>
-  <programme start="20250927064500 +0000" stop="20250927090000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20250927064000 +0000" stop="20250927091000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20250927090000 +0000" stop="20250927105500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20250927091000 +0000" stop="20250927105500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hádzaná Liga Asobal</title>
   </programme>
   <programme start="20250927105500 +0000" stop="20250927133000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1201,10 +1201,10 @@
   <programme start="20250927200000 +0000" stop="20250927225000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20250926212500 +0000" stop="20250926222000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20250926212500 +0000" stop="20250926221500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">EHF Beach Handball EURO 2025</title>
   </programme>
-  <programme start="20250926222000 +0000" stop="20250927030500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20250926221500 +0000" stop="20250927030500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bojové športy</title>
   </programme>
   <programme start="20250927030500 +0000" stop="20250927040500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1724,7 +1724,7 @@
     <title lang="id">PAOLO VILLAGGIO: Zrodenie pána učtovníka</title>
   </programme>
   <programme start="20250926234000 +0000" stop="20250927002000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Jaroslav Naď</title>
   </programme>
   <programme start="20250927002000 +0000" stop="20250927011000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Smrteľný Boeing: Čo sa pokazilo?</title>
@@ -2785,8 +2785,11 @@
   <programme start="20250927143000 +0000" stop="20250927160000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Čaj kolem páté</title>
   </programme>
-  <programme start="20250927160000 +0000" stop="20250927182000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20250927160000 +0000" stop="20250927173500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
+  <programme start="20250927173500 +0000" stop="20250927182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">ČERVENÁ JEDE</title>
   </programme>
   <programme start="20250927182000 +0000" stop="20250927220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -3406,17 +3409,14 @@
   <programme start="20250927215000 +0000" stop="20250927224000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sraz (4/6)</title>
   </programme>
-  <programme start="20250926213000 +0000" stop="20250927000300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250926215000 +0000" stop="20250927002200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hatari!</title>
   </programme>
-  <programme start="20250927000300 +0000" stop="20250927003000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927002200 +0000" stop="20250927005000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Televizní klub neslyšících</title>
   </programme>
-  <programme start="20250927003000 +0000" stop="20250927010800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927005000 +0000" stop="20250927013500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na moll aneb Písničky od Bolka</title>
-  </programme>
-  <programme start="20250927010800 +0000" stop="20250927013500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Kdo zpívá, dvakrát se modlí</title>
   </programme>
   <programme start="20250927013500 +0000" stop="20250927021000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zveme vás... na výlov rybníka</title>
@@ -3424,13 +3424,13 @@
   <programme start="20250927021000 +0000" stop="20250927024000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Legendy záchranářství</title>
   </programme>
-  <programme start="20250927024000 +0000" stop="20250927030800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927024000 +0000" stop="20250927030700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Evropa dnes</title>
   </programme>
-  <programme start="20250927030800 +0000" stop="20250927033200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927030700 +0000" stop="20250927033100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Auto moto svět</title>
   </programme>
-  <programme start="20250927033200 +0000" stop="20250927034500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927033100 +0000" stop="20250927034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Auto moto test</title>
   </programme>
   <programme start="20250927034500 +0000" stop="20250927040000 +0000" channel="ČT2.webtv.sk">
@@ -3634,10 +3634,10 @@
   <programme start="20250927213200 +0000" stop="20250927220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Interview ČT24</title>
   </programme>
-  <programme start="20250926212200 +0000" stop="20250926221500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250926212200 +0000" stop="20250926221600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Fenomén Underground</title>
   </programme>
-  <programme start="20250926221500 +0000" stop="20250926224000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250926221600 +0000" stop="20250926224000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kanadská soda IV (5/14)</title>
   </programme>
   <programme start="20250926224000 +0000" stop="20250926230400 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3647,7 +3647,7 @@
     <title lang="id">Kominského metoda I (4/8)</title>
   </programme>
   <programme start="20250926232600 +0000" stop="20250927002000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Nicole Kidmanová: oči dokořán</title>
+    <title lang="id">Claudia Cardinalová - tajemná kráska</title>
   </programme>
   <programme start="20250927002000 +0000" stop="20250927011500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Nejslavnější umělecké dvojice (2/5)</title>
@@ -3655,10 +3655,10 @@
   <programme start="20250927011500 +0000" stop="20250927012700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Designtrend</title>
   </programme>
-  <programme start="20250927012700 +0000" stop="20250927022100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250927012700 +0000" stop="20250927022000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">ArtZóna</title>
   </programme>
-  <programme start="20250927022100 +0000" stop="20250927031000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250927022000 +0000" stop="20250927031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Česká reklama: Úsvit kapitalismu</title>
   </programme>
   <programme start="20250927031000 +0000" stop="20250927040000 +0000" channel="ČT :D - ČT art.webtv.sk">

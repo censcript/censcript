@@ -559,9 +559,6 @@
 <programme start="20250925091500 +0000" stop="20250925101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20250925101500 +0000" stop="20250925110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
-</programme>
 <programme start="20250925110000 +0000" stop="20250925114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -652,9 +649,6 @@
 <programme start="20250924233000 +0000" stop="20250925013000 +0000" channel="ANTV.vision">
 <title>Arie Hanggara</title>
 </programme>
-<programme start="20250925013000 +0000" stop="20250925050000 +0000" channel="ANTV.vision">
-<title>Jab Tak Hai Jaan</title>
-</programme>
 <programme start="20250925050000 +0000" stop="20250925063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -663,9 +657,6 @@
 </programme>
 <programme start="20250925090000 +0000" stop="20250925110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
-</programme>
-<programme start="20250925110000 +0000" stop="20250925123000 +0000" channel="ANTV.vision">
-<title>Telaga Angker</title>
 </programme>
 <programme start="20250925123000 +0000" stop="20250925143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250925020000 +0000" stop="20250925020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250925020300 +0000" stop="20250925023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250925023000 +0000" stop="20250925030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250925030000 +0000" stop="20250925030300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
