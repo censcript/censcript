@@ -238,17 +238,14 @@
     <programme start="20250925130000 +0000" stop="20250925140000 +0000" channel="Channel 8.mewatch">
         <title>The Cellphone Swap - EP 6</title>
     </programme>
-    <programme start="20250925140000 +0000" stop="20250925143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250925140000 +0000" stop="20250925144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20250925143000 +0000" stop="20250925150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250925144500 +0000" stop="20250925151500 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 18</title>
     </programme>
-    <programme start="20250925150000 +0000" stop="20250925160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20250925151500 +0000" stop="20250925161500 +0000" channel="Channel 8.mewatch">
         <title>The Legend of Heroes - Hot Blooded - EP 17</title>
-    </programme>
-    <programme start="20250925160000 +0000" stop="20250925170000 +0000" channel="Channel 8.mewatch">
-        <title>Destined - EP 33</title>
     </programme>
     <programme start="20250924154500 +0000" stop="20250924164000 +0000" channel="Channel U.mewatch">
         <title>The Glorious Pediatricians S1 - EP 3</title>
@@ -358,10 +355,10 @@
     <programme start="20250925140000 +0000" stop="20250925150000 +0000" channel="Channel U.mewatch">
         <title>Good Partner - EP 3</title>
     </programme>
-    <programme start="20250925150000 +0000" stop="20250925153000 +0000" channel="Channel U.mewatch">
+    <programme start="20250925150000 +0000" stop="20250925154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20250925153000 +0000" stop="20250925163000 +0000" channel="Channel U.mewatch">
+    <programme start="20250925154500 +0000" stop="20250925164000 +0000" channel="Channel U.mewatch">
         <title>Tiny Cuties, Great Events - EP 2</title>
     </programme>
     <programme start="20250924160000 +0000" stop="20250925010000 +0000" channel="Suria.mewatch">
