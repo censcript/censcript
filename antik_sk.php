@@ -19,22 +19,22 @@
   <programme start="20250927011500 +0000" stop="20250927021000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Candice Renoirová IX</title>
   </programme>
-  <programme start="20250927021000 +0000" stop="20250927030000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927021000 +0000" stop="20250927030500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20250927030000 +0000" stop="20250927032000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927030500 +0000" stop="20250927032000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20250927032000 +0000" stop="20250927032500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927032000 +0000" stop="20250927033000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Mláďatá</title>
   </programme>
-  <programme start="20250927032500 +0000" stop="20250927034000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927033000 +0000" stop="20250927034000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Meduška</title>
   </programme>
-  <programme start="20250927034000 +0000" stop="20250927034500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927034000 +0000" stop="20250927035000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Vodník Rybka a figliar Šupka</title>
   </programme>
-  <programme start="20250927034500 +0000" stop="20250927041500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927035000 +0000" stop="20250927041500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Zázračný ateliér</title>
   </programme>
   <programme start="20250927041500 +0000" stop="20250927042000 +0000" channel="Jednotka.webtv.sk">
@@ -85,10 +85,10 @@
   <programme start="20250927071000 +0000" stop="20250927074000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Hélium (11/13)</title>
   </programme>
-  <programme start="20250927074000 +0000" stop="20250927081500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927074000 +0000" stop="20250927081000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Nebíčko v papuľke</title>
   </programme>
-  <programme start="20250927081500 +0000" stop="20250927085500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927081000 +0000" stop="20250927085500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Veľkou lyžicou</title>
   </programme>
   <programme start="20250927085500 +0000" stop="20250927092500 +0000" channel="Jednotka.webtv.sk">
@@ -130,13 +130,13 @@
   <programme start="20250927182000 +0000" stop="20250927183000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20250927183000 +0000" stop="20250927193500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927183000 +0000" stop="20250927194000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Záhady tela</title>
   </programme>
-  <programme start="20250927193500 +0000" stop="20250927203500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927194000 +0000" stop="20250927204000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Neskoro večer</title>
   </programme>
-  <programme start="20250927203500 +0000" stop="20250927220000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20250927204000 +0000" stop="20250927220000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Sieň slávy</title>
   </programme>
   <programme start="20250926210000 +0000" stop="20250926220600 +0000" channel="Dvojka.webtv.sk">
