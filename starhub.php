@@ -2198,7 +2198,7 @@
         <title>Anderson Cooper 360</title>
     </programme>
     <programme start="20250925010000 +0000" stop="20250925020000 +0000" channel="CNN HD.starhub">
-        <title>Source with Kaitlan Collins, The</title>
+        <title>The Source with Kaitlan Collins</title>
     </programme>
     <programme start="20250925020000 +0000" stop="20250925030000 +0000" channel="CNN HD.starhub">
         <title>CNN NewsNight</title>
