@@ -559,6 +559,9 @@
 <programme start="20250925091500 +0000" stop="20250925101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20250925101500 +0000" stop="20250925110000 +0000" channel="Trans 7.vision">
+<title>Xpose Uncensored</title>
+</programme>
 <programme start="20250925110000 +0000" stop="20250925114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -658,8 +661,17 @@
 <programme start="20250925090000 +0000" stop="20250925110000 +0000" channel="ANTV.vision">
 <title>Nath</title>
 </programme>
+<programme start="20250925110000 +0000" stop="20250925123000 +0000" channel="ANTV.vision">
+<title>Telaga Angker</title>
+</programme>
 <programme start="20250925123000 +0000" stop="20250925143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20250925143000 +0000" stop="20250925163000 +0000" channel="ANTV.vision">
+<title>Misteri 8 Pendekar</title>
+</programme>
+<programme start="20250925163000 +0000" stop="20250925183000 +0000" channel="ANTV.vision">
+<title>Aces Go Places 2</title>
 </programme>
 <programme start="20250925183000 +0000" stop="20250925203000 +0000" channel="ANTV.vision">
 <title>The Wesley&#039;s Mysterious File</title>
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250925020300 +0000" stop="20250925023000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250925023000 +0000" stop="20250925030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250925030000 +0000" stop="20250925030300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250925030300 +0000" stop="20250925033000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250925033000 +0000" stop="20250925040000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
