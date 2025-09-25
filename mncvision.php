@@ -5852,7 +5852,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250925061500 +0000" stop="20250925080000 +0000" channel="MNCTV.mncvision">
-    <title>Fatih Di Kampung Jawara</title>
+    <title>Kuasa Ilahi</title>
 </programme>
 <programme start="20250925080000 +0000" stop="20250925100000 +0000" channel="MNCTV.mncvision">
     <title>Bedah Rumah</title>
@@ -5906,7 +5906,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20250925061500 +0000" stop="20250925080000 +0000" channel="MNCTV HD.mncvision">
-    <title>Fatih Di Kampung Jawara</title>
+    <title>Kuasa Ilahi</title>
 </programme>
 <programme start="20250925080000 +0000" stop="20250925100000 +0000" channel="MNCTV HD.mncvision">
     <title>Bedah Rumah</title>

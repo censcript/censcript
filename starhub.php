@@ -7301,7 +7301,7 @@
         <title>Dhaakad Beera</title>
     </programme>
     <programme start="20250924173000 +0000" stop="20250924180000 +0000" channel="COLORS.starhub">
-        <title>Bindii</title>
+        <title>Binddii</title>
     </programme>
     <programme start="20250924180000 +0000" stop="20250924183000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7322,7 +7322,7 @@
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20250924213000 +0000" stop="20250924220000 +0000" channel="COLORS.starhub">
-        <title>Bindii</title>
+        <title>Binddii</title>
     </programme>
     <programme start="20250924220000 +0000" stop="20250924223000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
