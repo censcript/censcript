@@ -652,6 +652,9 @@
 <programme start="20250924233000 +0000" stop="20250925013000 +0000" channel="ANTV.vision">
 <title>Arie Hanggara</title>
 </programme>
+<programme start="20250925013000 +0000" stop="20250925050000 +0000" channel="ANTV.vision">
+<title>Jab Tak Hai Jaan</title>
+</programme>
 <programme start="20250925050000 +0000" stop="20250925063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250925020000 +0000" stop="20250925020300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250925020300 +0000" stop="20250925023000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
