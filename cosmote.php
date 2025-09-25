@@ -50,6 +50,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250926130000 +0700" stop="20250926150000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: PAOK - Maccabi Tel-Aviv FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250925110000 +0700" stop="20250925130500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -118,6 +122,10 @@
     <title>Football: Aris - Marko</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250926131500 +0700" stop="20250926151500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250925113000 +0700" stop="20250925133000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al Hilal</title>
     <desc>Live: Tidak</desc>
@@ -170,10 +178,6 @@
     <title>Football: Hibernian - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250925101000 +0700" stop="20250925120500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Galatasaray</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250925120500 +0700" stop="20250925140500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +228,6 @@
 </programme>
 <programme start="20250926123500 +0700" stop="20250926145000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250925111000 +0700" stop="20250925124500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250925124500 +0700" stop="20250925134500 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,10 +322,6 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250925100000 +0700" stop="20250925125000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250925125000 +0700" stop="20250925140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -380,6 +376,10 @@
 </programme>
 <programme start="20250926123000 +0700" stop="20250926130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250926130000 +0700" stop="20250926140000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250925120000 +0700" stop="20250925140000 +0700" channel="COSMOTE Sport 7 HD">
