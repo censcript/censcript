@@ -3808,9 +3808,6 @@
     <programme start="20250924153000 +0000" stop="20250924161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Choices on How to Deal with Illness</title>
     </programme>
-    <programme start="20250924161500 +0000" stop="20250924164000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Cooking</title>
-    </programme>
     <programme start="20250924164000 +0000" stop="20250924170500 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
