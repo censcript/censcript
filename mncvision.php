@@ -4829,7 +4829,7 @@
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20250926140000 +0000" stop="20250926160000 +0000" channel="iNews.mncvision">
-    <title>Cahaya Hati Cahaya IDN (L)</title>
+    <title>Cahaya Hati Cahaya Indonesia</title>
 </programme>
 <programme start="20250926160000 +0000" stop="20250926163000 +0000" channel="iNews.mncvision">
     <title>iNews Sport (L)</title>
@@ -4898,7 +4898,7 @@
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20250926140000 +0000" stop="20250926160000 +0000" channel="iNews HD.mncvision">
-    <title>Cahaya Hati Cahaya IDN (L)</title>
+    <title>Cahaya Hati Cahaya Indonesia</title>
 </programme>
 <programme start="20250926160000 +0000" stop="20250926163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport (L)</title>
