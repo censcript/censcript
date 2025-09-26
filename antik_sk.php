@@ -2707,8 +2707,11 @@
   <programme start="20250928184500 +0000" stop="20250928190000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">TELESHOPPING</title>
   </programme>
-  <programme start="20250928190000 +0000" stop="20250928204500 +0000" channel="PREMIUM.webtv.sk">
+  <programme start="20250928190000 +0000" stop="20250928203500 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">PREMIUM KLUB - PARÁDA 21</title>
+  </programme>
+  <programme start="20250928203500 +0000" stop="20250928204500 +0000" channel="PREMIUM.webtv.sk">
+    <title lang="id">CHVILKA S...</title>
   </programme>
   <programme start="20250928204500 +0000" stop="20250928210000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">TELESHOPPING</title>
