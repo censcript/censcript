@@ -161,7 +161,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20250926113000 +0000" stop="20250926120000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
+    <title>Talk To Al Jazeera: Dick Schoof</title>
 </programme>
 <programme start="20250926120000 +0000" stop="20250926123000 +0000" channel="Al Jazeera English.mncvision">
     <title>The Bottom Line</title>
@@ -8314,11 +8314,14 @@
 <programme start="20250926053000 +0000" stop="20250926090000 +0000" channel="SPOTV.mncvision">
     <title>WTT Champions Macao 2025</title>
 </programme>
-<programme start="20250926090000 +0000" stop="20250926100000 +0000" channel="SPOTV.mncvision">
-    <title>2025 ASBK Championship HL</title>
+<programme start="20250926090000 +0000" stop="20250926093000 +0000" channel="SPOTV.mncvision">
+    <title>2025 MLMC Silverstone HL</title>
 </programme>
-<programme start="20250926100000 +0000" stop="20250926110000 +0000" channel="SPOTV.mncvision">
-    <title>Golf: 2025 Ryder Cup Ceremony</title>
+<programme start="20250926093000 +0000" stop="20250926101600 +0000" channel="SPOTV.mncvision">
+    <title>Golf: 2025 Ryder Cup Opening</title>
+</programme>
+<programme start="20250926101600 +0000" stop="20250926110000 +0000" channel="SPOTV.mncvision">
+    <title>Golf: 2025 Ryder Cup</title>
 </programme>
 <programme start="20250926110000 +0000" stop="20250926140000 +0000" channel="SPOTV.mncvision">
     <title>Golf: 2025 Ryder Cup Day 1 (L)</title>
@@ -8464,11 +8467,14 @@
 <programme start="20250926053000 +0000" stop="20250926090000 +0000" channel="SPOTV HD.mncvision">
     <title>WTT Champions Macao 2025</title>
 </programme>
-<programme start="20250926090000 +0000" stop="20250926100000 +0000" channel="SPOTV HD.mncvision">
-    <title>2025 ASBK Championship HL</title>
+<programme start="20250926090000 +0000" stop="20250926093000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025 MLMC Silverstone HL</title>
 </programme>
-<programme start="20250926100000 +0000" stop="20250926110000 +0000" channel="SPOTV HD.mncvision">
-    <title>Golf: 2025 Ryder Cup Ceremony</title>
+<programme start="20250926093000 +0000" stop="20250926101600 +0000" channel="SPOTV HD.mncvision">
+    <title>Golf: 2025 Ryder Cup Opening</title>
+</programme>
+<programme start="20250926101600 +0000" stop="20250926110000 +0000" channel="SPOTV HD.mncvision">
+    <title>Golf: 2025 Ryder Cup</title>
 </programme>
 <programme start="20250926110000 +0000" stop="20250926140000 +0000" channel="SPOTV HD.mncvision">
     <title>Golf: 2025 Ryder Cup Day 1 (L)</title>

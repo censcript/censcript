@@ -5236,10 +5236,10 @@
     <programme start="20250926090000 +0000" stop="20250926093000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20250926093000 +0000" stop="20250926103000 +0000" channel="SPOTV.starhub">
+    <programme start="20250926093000 +0000" stop="20250926101600 +0000" channel="SPOTV.starhub">
         <title>Opening Ceremony</title>
     </programme>
-    <programme start="20250926103000 +0000" stop="20250926110000 +0000" channel="SPOTV.starhub">
+    <programme start="20250926101600 +0000" stop="20250926110000 +0000" channel="SPOTV.starhub">
         <title>Pairings Announcement</title>
     </programme>
     <programme start="20250926110000 +0000" stop="20250926220000 +0000" channel="SPOTV.starhub">
