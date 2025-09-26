@@ -6392,7 +6392,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20250926133000 +0000" stop="20250926140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Catch Japan</title>
 </programme>
 <programme start="20250925171000 +0000" stop="20250925174000 +0000" channel="NHK World Premium.mncvision">
     <title>Asaichi On ETV</title>
