@@ -3265,25 +3265,25 @@
   <programme start="20250928210000 +0000" stop="20250928225000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Benefiční koncert</title>
   </programme>
-  <programme start="20250927215000 +0000" stop="20250927224000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250927215100 +0000" stop="20250927224000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sraz (4/6)</title>
   </programme>
   <programme start="20250927224000 +0000" stop="20250927233000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gomora V (5/10)</title>
   </programme>
-  <programme start="20250927233000 +0000" stop="20250927235300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250927233000 +0000" stop="20250927235400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Prasečí orba</title>
   </programme>
-  <programme start="20250927235300 +0000" stop="20250928012500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250927235400 +0000" stop="20250928012500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20250928012500 +0000" stop="20250928023500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928012500 +0000" stop="20250928023600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20250928023500 +0000" stop="20250928030100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928023600 +0000" stop="20250928030200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jak vaří myslivci</title>
   </programme>
-  <programme start="20250928030100 +0000" stop="20250928033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928030200 +0000" stop="20250928033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Krotitelé dluhů</title>
   </programme>
   <programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="ČT1.webtv.sk">
