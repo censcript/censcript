@@ -1684,35 +1684,29 @@
   <programme start="20250928211500 +0000" stop="20250928220000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
-  <programme start="20250927202000 +0000" stop="20250927222000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">ZUZANA FIALOVÁ: Lidice</title>
-  </programme>
-  <programme start="20250927222000 +0000" stop="20250927235500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20250927215500 +0000" stop="20250927233000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">PAOLO VILLAGGIO: Škola zlodejov</title>
   </programme>
-  <programme start="20250927235500 +0000" stop="20250928004500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Hitlerove tajné misie (1)</title>
+  <programme start="20250927233000 +0000" stop="20250928010500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">JP BELMONDO: Manželia z roku II</title>
   </programme>
-  <programme start="20250928004500 +0000" stop="20250928014500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Kubánska revolúcia a svet (1)</title>
+  <programme start="20250928010500 +0000" stop="20250928015500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vraždy v raji (10)</title>
   </programme>
-  <programme start="20250928014500 +0000" stop="20250928024000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Svetová lodná doprava (3)</title>
+  <programme start="20250928015500 +0000" stop="20250928024500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vraždy v raji (11)</title>
   </programme>
-  <programme start="20250928024000 +0000" stop="20250928033500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20250928024500 +0000" stop="20250928034000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Vojenskí velikáni (1)</title>
   </programme>
-  <programme start="20250928033500 +0000" stop="20250928040000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Objavujeme - Calvin Klein (5)</title>
+  <programme start="20250928034000 +0000" stop="20250928035500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Kuchár v prírode (7)</title>
   </programme>
-  <programme start="20250928040000 +0000" stop="20250928045500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Veľký korálový útes (1)</title>
-  </programme>
-  <programme start="20250928045500 +0000" stop="20250928063000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20250928035500 +0000" stop="20250928053000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Hurá na futbal</title>
   </programme>
-  <programme start="20250928063000 +0000" stop="20250928070000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Dobrodružstvá Bolka a Lolka</title>
+  <programme start="20250928053000 +0000" stop="20250928070000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">HILARY DUFF: Princezné z Beverly Hills</title>
   </programme>
   <programme start="20250928070000 +0000" stop="20250928083000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">RUDOLF HRUŠINSKÝ: Diagnóza smrti</title>
@@ -1723,11 +1717,8 @@
   <programme start="20250928093500 +0000" stop="20250928103000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Inspektor Taggart: Vražda na začátku sezóny (1) I (1)</title>
   </programme>
-  <programme start="20250928103000 +0000" stop="20250928111000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bláznivá skrytá kamera</title>
-  </programme>
-  <programme start="20250928111000 +0000" stop="20250928115000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Doslova</title>
+  <programme start="20250928103000 +0000" stop="20250928115000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">MILOŠ KOPECKÝ: Křtiny</title>
   </programme>
   <programme start="20250928115000 +0000" stop="20250928123000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
@@ -1745,7 +1736,7 @@
     <title lang="id">Lekári a lekárky (52)</title>
   </programme>
   <programme start="20250928164000 +0000" stop="20250928174000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bitky Coco Chanel</title>
+    <title lang="id">Mafia a Banky (1)</title>
   </programme>
   <programme start="20250928174000 +0000" stop="20250928182000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">V tieni zločinu - Mária Kolíková</title>
@@ -1753,11 +1744,8 @@
   <programme start="20250928182000 +0000" stop="20250928201500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">KAREL RODEN: Masaryk</title>
   </programme>
-  <programme start="20250928201500 +0000" stop="20250928211500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">SERIÁL MESIACA: Toto je Anglicko (4)</title>
-  </programme>
-  <programme start="20250928211500 +0000" stop="20250928231500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Dedičstvo alebo Kurvahošigutntag</title>
+  <programme start="20250928201500 +0000" stop="20250928220000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">JULIANNE MOORE: Skrytá Identita</title>
   </programme>
   <programme start="20250927214500 +0000" stop="20250927221000 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Fidlivareška (1)</title>
@@ -2761,16 +2749,19 @@
   <programme start="20250928050000 +0000" stop="20250928083000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">DOPOLEDNÍ DECHOVKA</title>
   </programme>
-  <programme start="20250928083000 +0000" stop="20250928130000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20250928083000 +0000" stop="20250928110000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">DOPOLEDNÍ ZÁBAVA</title>
+  </programme>
+  <programme start="20250928110000 +0000" stop="20250928130000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
   </programme>
   <programme start="20250928130000 +0000" stop="20250928160000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
   </programme>
-  <programme start="20250928160000 +0000" stop="20250928203000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20250928160000 +0000" stop="20250928200000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20250928203000 +0000" stop="20250928220000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20250928200000 +0000" stop="20250928220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20250927220000 +0000" stop="20250927221000 +0000" channel="Skvelé TV.webtv.sk">
@@ -3364,10 +3355,10 @@
   <programme start="20250928214700 +0000" stop="20250928223000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVI (23)</title>
   </programme>
-  <programme start="20250927212700 +0000" stop="20250927231100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927212500 +0000" stop="20250927231000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Sbal prachy a vypadni</title>
   </programme>
-  <programme start="20250927231100 +0000" stop="20250927233000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250927231000 +0000" stop="20250927233000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Bohové a mýty staré Evropy</title>
   </programme>
   <programme start="20250927233000 +0000" stop="20250927235600 +0000" channel="ČT2.webtv.sk">
@@ -3376,28 +3367,28 @@
   <programme start="20250927235600 +0000" stop="20250928001500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Příběhy domů</title>
   </programme>
-  <programme start="20250928001500 +0000" stop="20250928002300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928001500 +0000" stop="20250928002200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krásy evropského pobřeží</title>
   </programme>
-  <programme start="20250928002300 +0000" stop="20250928011600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928002200 +0000" stop="20250928011500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Historie.cs</title>
   </programme>
-  <programme start="20250928011600 +0000" stop="20250928015300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928011500 +0000" stop="20250928015200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na moll aneb Písničky od Bolka</title>
   </programme>
-  <programme start="20250928015300 +0000" stop="20250928022000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928015200 +0000" stop="20250928022000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Město Praha</title>
   </programme>
-  <programme start="20250928022000 +0000" stop="20250928024700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928022000 +0000" stop="20250928024600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ozvěny ticha</title>
   </programme>
-  <programme start="20250928024700 +0000" stop="20250928025300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928024600 +0000" stop="20250928025200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divnopis</title>
   </programme>
-  <programme start="20250928025300 +0000" stop="20250928034600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928025200 +0000" stop="20250928034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dávní stavitelé</title>
   </programme>
-  <programme start="20250928034600 +0000" stop="20250928040000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928034500 +0000" stop="20250928040000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20250928040000 +0000" stop="20250928045200 +0000" channel="ČT2.webtv.sk">
@@ -3460,7 +3451,7 @@
   <programme start="20250928195000 +0000" stop="20250928213500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Špinavý prachy</title>
   </programme>
-  <programme start="20250928213500 +0000" stop="20250928223700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20250928213500 +0000" stop="20250928223800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Laogai: Národ vězňů (2/2)</title>
   </programme>
   <programme start="20250927220000 +0000" stop="20250927221000 +0000" channel="ČT24.webtv.sk">
@@ -3628,13 +3619,13 @@
   <programme start="20250928011000 +0000" stop="20250928013700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Valtice - znovuzrozené baroko</title>
   </programme>
-  <programme start="20250928013700 +0000" stop="20250928015100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928013700 +0000" stop="20250928015200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Designtrend</title>
   </programme>
-  <programme start="20250928015100 +0000" stop="20250928021800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928015200 +0000" stop="20250928021900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tunel pod dějinami</title>
   </programme>
-  <programme start="20250928021800 +0000" stop="20250928031000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928021900 +0000" stop="20250928031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">ArtZóna</title>
   </programme>
   <programme start="20250928031000 +0000" stop="20250928040000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3664,10 +3655,10 @@
   <programme start="20250928050700 +0000" stop="20250928053000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Rubble a jeho parta</title>
   </programme>
-  <programme start="20250928053000 +0000" stop="20250928070100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928053000 +0000" stop="20250928070200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Studio Kamarád</title>
   </programme>
-  <programme start="20250928070100 +0000" stop="20250928072400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928070200 +0000" stop="20250928072400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Draci v hrnci</title>
   </programme>
   <programme start="20250928072400 +0000" stop="20250928072700 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3712,10 +3703,10 @@
   <programme start="20250928130700 +0000" stop="20250928132000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Nefertine na Nilu</title>
   </programme>
-  <programme start="20250928132000 +0000" stop="20250928133200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928132000 +0000" stop="20250928133100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Nefertine na Nilu</title>
   </programme>
-  <programme start="20250928133200 +0000" stop="20250928135500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928133100 +0000" stop="20250928135500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Friends: Nová kapitola</title>
   </programme>
   <programme start="20250928135500 +0000" stop="20250928141600 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3739,10 +3730,10 @@
   <programme start="20250928155200 +0000" stop="20250928161500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Dobrodružství Kocoura v botách III</title>
   </programme>
-  <programme start="20250928161500 +0000" stop="20250928162700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928161500 +0000" stop="20250928162600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Esa z pralesa</title>
   </programme>
-  <programme start="20250928162700 +0000" stop="20250928164000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20250928162600 +0000" stop="20250928164000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Esa z pralesa</title>
   </programme>
   <programme start="20250928164000 +0000" stop="20250928164500 +0000" channel="ČT :D - ČT art.webtv.sk">
