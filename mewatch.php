@@ -46,17 +46,20 @@
     <programme start="20250926000000 +0000" stop="20250926003000 +0000" channel="Channel 5.mewatch">
         <title>Ollie &amp; Friends - EP 15</title>
     </programme>
-    <programme start="20250926003000 +0000" stop="20250926010000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250926003000 +0000" stop="20250926005500 +0000" channel="Channel 5.mewatch">
         <title>Pinkfong Songs &amp; Stories - EP 70</title>
     </programme>
-    <programme start="20250926010000 +0000" stop="20250926012500 +0000" channel="Channel 5.mewatch">
-        <title>Sesame Street S54 - EP 6</title>
+    <programme start="20250926005500 +0000" stop="20250926032500 +0000" channel="Channel 5.mewatch">
+        <title>(Live) Toyota World Para Swimming Championships Singapore 2025 - EP 11</title>
     </programme>
-    <programme start="20250926012500 +0000" stop="20250926035500 +0000" channel="Channel 5.mewatch">
-        <title>Toyota World Para Swimming Championships Singapore 2025 - EP 11</title>
-    </programme>
-    <programme start="20250926035500 +0000" stop="20250926043000 +0000" channel="Channel 5.mewatch">
+    <programme start="20250926032500 +0000" stop="20250926040000 +0000" channel="Channel 5.mewatch">
         <title>Toyota World Para Swimming Championships Singapore 2025 : Daily Highlight - EP 5</title>
+    </programme>
+    <programme start="20250926040000 +0000" stop="20250926041500 +0000" channel="Channel 5.mewatch">
+        <title>Alvinnn!!! &amp; The Chipmunks S4 - EP 15</title>
+    </programme>
+    <programme start="20250926041500 +0000" stop="20250926043000 +0000" channel="Channel 5.mewatch">
+        <title>Alvinnn!!! &amp; The Chipmunks S4 - EP 16</title>
     </programme>
     <programme start="20250926043000 +0000" stop="20250926050000 +0000" channel="Channel 5.mewatch">
         <title>Molang S5 - EP 25</title>
@@ -86,7 +89,7 @@
         <title>Hungry For It - EP 2</title>
     </programme>
     <programme start="20250926092500 +0000" stop="20250926110000 +0000" channel="Channel 5.mewatch">
-        <title>Toyota World Para Swimming Championships Singapore 2025 - EP 12</title>
+        <title>(Live) Toyota World Para Swimming Championships Singapore 2025 - EP 12</title>
     </programme>
     <programme start="20250926110000 +0000" stop="20250926130000 +0000" channel="Channel 5.mewatch">
         <title>Barnyard</title>
@@ -611,10 +614,10 @@
         <title>X,Y,&amp; Zain/Ultraman Omega/Alfie&#039;s &quot;World of Wow!&quot;</title>
     </programme>
     <programme start="20250925160000 +0000" stop="20250926160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 2nd October, Thursday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250926160000 +0000" stop="20250927160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 4th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+        <title>No Programme available now. Next Broadcast on 2nd October, Thursday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20250925160000 +0000" stop="20250926160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>

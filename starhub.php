@@ -8074,10 +8074,10 @@
     <programme start="20250925231000 +0000" stop="20250926013000 +0000" channel="Asianet Movies.starhub">
         <title>Kudumbasree Travels</title>
     </programme>
-    <programme start="20250926013000 +0000" stop="20250926043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250926013000 +0000" stop="20250926044000 +0000" channel="Asianet Movies.starhub">
         <title>Kuberan</title>
     </programme>
-    <programme start="20250926043000 +0000" stop="20250926073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250926044000 +0000" stop="20250926073000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr...</title>
     </programme>
     <programme start="20250926073000 +0000" stop="20250926103000 +0000" channel="Asianet Movies.starhub">

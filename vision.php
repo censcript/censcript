@@ -643,9 +643,6 @@
 <programme start="20250927114500 +0000" stop="20250927121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250925233000 +0000" stop="20250926013000 +0000" channel="ANTV.vision">
-<title>Lembah Duka</title>
-</programme>
 <programme start="20250926013000 +0000" stop="20250926050000 +0000" channel="ANTV.vision">
 <title>Dilwale</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20250927080000 +0000" stop="20250927083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20250927083000 +0000" stop="20250927093000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
 </programme>
