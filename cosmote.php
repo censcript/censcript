@@ -86,14 +86,6 @@
     <title>Football: Olympiacos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927003500 +0700" stop="20250927010500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250927010500 +0700" stop="20250927014500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250927014500 +0700" stop="20250927034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -166,10 +158,6 @@
     <title>Football: Cagliari - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250927000000 +0700" stop="20250927020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Palmeiras - River Plate</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250927020000 +0700" stop="20250927040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Bromwich Albion - Leicester City FC (L)</title>
     <desc>Live: Ya</desc>
@@ -222,9 +210,9 @@
     <title>Football: Al Ittihad - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927005000 +0700" stop="20250927011000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250928023000 +0700" stop="20250928043000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Estoril - Sporting CP (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250927011000 +0700" stop="20250927032000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
@@ -294,9 +282,9 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927002000 +0700" stop="20250927012000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250928020000 +0700" stop="20250928040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Tenerife (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250927012000 +0700" stop="20250927022500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -402,8 +390,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927010000 +0700" stop="20250927013000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250928024500 +0700" stop="20250928034500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927013000 +0700" stop="20250927040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -474,8 +462,8 @@
     <title>Jet Ski World Series 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927000000 +0700" stop="20250927020000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250928020000 +0700" stop="20250928043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Arthur Cazaux - Jakub Mensik</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927020000 +0700" stop="20250927021500 +0700" channel="COSMOTE Sport 7 HD">
