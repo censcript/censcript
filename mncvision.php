@@ -4073,10 +4073,10 @@
     <title>Anak Jalanan</title>
 </programme>
 <programme start="20250926123000 +0000" stop="20250926143000 +0000" channel="GTV.mncvision">
-    <title>13 Hours: The Secret Soldiers</title>
+    <title>Rambo</title>
 </programme>
 <programme start="20250926143000 +0000" stop="20250926160000 +0000" channel="GTV.mncvision">
-    <title>Master So Dragon Subduing Palms</title>
+    <title>The Tuxedo</title>
 </programme>
 <programme start="20250926160000 +0000" stop="20250926163000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4121,10 +4121,10 @@
     <title>Anak Jalanan</title>
 </programme>
 <programme start="20250926123000 +0000" stop="20250926143000 +0000" channel="GTV HD.mncvision">
-    <title>13 Hours: The Secret Soldiers</title>
+    <title>Rambo</title>
 </programme>
 <programme start="20250926143000 +0000" stop="20250926160000 +0000" channel="GTV HD.mncvision">
-    <title>Master So Dragon Subduing Palms</title>
+    <title>The Tuxedo</title>
 </programme>
 <programme start="20250926160000 +0000" stop="20250926163000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -8911,20 +8911,17 @@
 <programme start="20250926080000 +0000" stop="20250926090000 +0000" channel="Trans TV.mncvision">
     <title>Insert Today</title>
 </programme>
-<programme start="20250926090000 +0000" stop="20250926093000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20250926093000 +0000" stop="20250926103000 +0000" channel="Trans TV.mncvision">
+<programme start="20250926090000 +0000" stop="20250926100000 +0000" channel="Trans TV.mncvision">
     <title>Dream Box Indonesia</title>
 </programme>
-<programme start="20250926103000 +0000" stop="20250926114500 +0000" channel="Trans TV.mncvision">
+<programme start="20250926100000 +0000" stop="20250926110000 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20250926114500 +0000" stop="20250926130000 +0000" channel="Trans TV.mncvision">
+<programme start="20250926110000 +0000" stop="20250926120000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20250926130000 +0000" stop="20250926140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
+<programme start="20250926120000 +0000" stop="20250926140000 +0000" channel="Trans TV.mncvision">
+    <title>Malam Final Abang None JKT &#039;25</title>
 </programme>
 <programme start="20250926140000 +0000" stop="20250926160000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>

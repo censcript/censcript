@@ -3630,6 +3630,42 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20250926215500 +0000" stop="20250926221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
+<programme start="20250925222000 +0000" stop="20250926002500 +0000" channel="Warner TV Film.skyde">
+    <title>Stirb Langsam 4.0</title>
+</programme>
+<programme start="20250926002500 +0000" stop="20250926015000 +0000" channel="Warner TV Film.skyde">
+    <title>Red Dawn</title>
+</programme>
+<programme start="20250926015000 +0000" stop="20250926040000 +0000" channel="Warner TV Film.skyde">
+    <title>Der Sturm</title>
+</programme>
+<programme start="20250926040000 +0000" stop="20250926053000 +0000" channel="Warner TV Film.skyde">
+    <title>Kugeln sind sein Autogramm</title>
+</programme>
+<programme start="20250926053000 +0000" stop="20250926072500 +0000" channel="Warner TV Film.skyde">
+    <title>Mission to Mars</title>
+</programme>
+<programme start="20250926072500 +0000" stop="20250926094000 +0000" channel="Warner TV Film.skyde">
+    <title>Space Cowboys</title>
+</programme>
+<programme start="20250926094000 +0000" stop="20250926120000 +0000" channel="Warner TV Film.skyde">
+    <title>Mystic River</title>
+</programme>
+<programme start="20250926120000 +0000" stop="20250926141000 +0000" channel="Warner TV Film.skyde">
+    <title>Stirb Langsam 4.0</title>
+</programme>
+<programme start="20250926141000 +0000" stop="20250926162000 +0000" channel="Warner TV Film.skyde">
+    <title>Jack Reacher</title>
+</programme>
+<programme start="20250926162000 +0000" stop="20250926181500 +0000" channel="Warner TV Film.skyde">
+    <title>Top Gun</title>
+</programme>
+<programme start="20250926181500 +0000" stop="20250926202000 +0000" channel="Warner TV Film.skyde">
+    <title>Mad Max: Fury Road</title>
+</programme>
+<programme start="20250926202000 +0000" stop="20250926223000 +0000" channel="Warner TV Film.skyde">
+    <title>Gods of Egypt</title>
+</programme>
 <programme start="20250925222000 +0000" stop="20250926002500 +0000" channel="Warner TV Film HD.skyde">
     <title>Stirb Langsam 4.0</title>
 </programme>

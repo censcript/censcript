@@ -535,6 +535,9 @@
 <programme start="20250926063000 +0000" stop="20250926071500 +0000" channel="Trans 7.vision">
 <title>Kepo</title>
 </programme>
+<programme start="20250926071500 +0000" stop="20250926081500 +0000" channel="Trans 7.vision">
+<title>Redaksi</title>
+</programme>
 <programme start="20250926081500 +0000" stop="20250926091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -639,6 +642,12 @@
 </programme>
 <programme start="20250927114500 +0000" stop="20250927121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250925233000 +0000" stop="20250926013000 +0000" channel="ANTV.vision">
+<title>Lembah Duka</title>
+</programme>
+<programme start="20250926013000 +0000" stop="20250926050000 +0000" channel="ANTV.vision">
+<title>Dilwale</title>
 </programme>
 <programme start="20250926050000 +0000" stop="20250926063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -804,6 +813,9 @@
 </programme>
 <programme start="20250925233000 +0000" stop="20250926013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20250926013000 +0000" stop="20250926020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
 </programme>
 <programme start="20250926020000 +0000" stop="20250926023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20250927080000 +0000" stop="20250927083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20250927083000 +0000" stop="20250927093000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
-</programme>
-<programme start="20250927093000 +0000" stop="20250927103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20250927103000 +0000" stop="20250927110000 +0000" channel="BTV.vision">
-<title>Dari Nol</title>
-</programme>
-<programme start="20250927110000 +0000" stop="20250927120000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
 </programme>
