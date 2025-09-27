@@ -2770,7 +2770,7 @@
 <programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Borussia Dortmund, 5. Spieltag</title>
 </programme>
-<programme start="20250927154500 +0000" stop="20250927191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250927154500 +0000" stop="20250927194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2812,7 +2812,7 @@
 <programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - RB Leipzig, 5. Spieltag</title>
 </programme>
-<programme start="20250927154500 +0000" stop="20250927191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250927154500 +0000" stop="20250927194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BMG - SGE, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2833,7 +2833,7 @@
 <programme start="20250927103000 +0000" stop="20250927130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Holstein Kiel, 7. Spieltag</title>
 </programme>
-<programme start="20250927130000 +0000" stop="20250927153000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250927130000 +0000" stop="20250927160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
