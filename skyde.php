@@ -2656,7 +2656,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - Grazer AK 1902, 8. Runde</title>
 </programme>
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2800,7 +2800,7 @@
 <programme start="20250927180000 +0000" stop="20250927210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: VfL Bochum - Fortuna Düsseldorf, tipico Topspiel der Woche, 7. Spieltag</title>
 </programme>
-<programme start="20250927210000 +0000" stop="20250927220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20250927210000 +0000" stop="20250927223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 7. Spieltag, Samstag  komplett</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2908,17 +2908,14 @@
 <programme start="20250927214500 +0000" stop="20250927220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: Die Herausforderung von Baku</title>
 </programme>
-<programme start="20250926220000 +0000" stop="20250926230000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250926223000 +0000" stop="20250926233000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Korn Ferry Tour: Highlights Nationwide Children&#039;s Hospital Championship</title>
 </programme>
-<programme start="20250926230000 +0000" stop="20250927100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250926233000 +0000" stop="20250927100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: 1. Tag in Farmingdale, NY (USA)</title>
 </programme>
-<programme start="20250927100000 +0000" stop="20250927102500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250927103000 +0000" stop="20250927105500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Learning Center (21)</title>
-</programme>
-<programme start="20250927102500 +0000" stop="20250927105500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Italian Challenge Open</title>
 </programme>
 <programme start="20250927105500 +0000" stop="20250927220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
@@ -3236,7 +3233,7 @@
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20250926223000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+    <title>Es folgt: ab 05:00: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250927030000 +0000" stop="20250927150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
