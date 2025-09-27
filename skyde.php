@@ -2653,7 +2653,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - Grazer AK 1902, 8. Runde</title>
 </programme>
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3227,7 +3227,7 @@
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20250926223000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+    <title>Es folgt: ab 05:00: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250927030000 +0000" stop="20250927150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
@@ -3235,7 +3235,7 @@
 <programme start="20250927133000 +0000" stop="20250927135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250927135000 +0000" stop="20250927160000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250927135000 +0000" stop="20250927163000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Chelsea - Brighton &amp; Hove Albion, 6. Spieltag</title>
 </programme>
 <programme start="20250926220000 +0000" stop="20250926224500 +0000" channel="SYFY HD.skyde">
