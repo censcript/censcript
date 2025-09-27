@@ -952,32 +952,35 @@
 <programme start="20250927060000 +0000" stop="20250927065000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
-<programme start="20250927065000 +0000" stop="20250927073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927065000 +0000" stop="20250927072000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250927073000 +0000" stop="20250927093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927072000 +0000" stop="20250927091000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Madrid - Espanyol Barcelona</title>
 </programme>
-<programme start="20250927093000 +0000" stop="20250927113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927091000 +0000" stop="20250927094000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20250927094000 +0000" stop="20250927113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - SV Werder Bremen</title>
 </programme>
 <programme start="20250927113000 +0000" stop="20250927120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Warm Up: Bundesliga Highlights</title>
 </programme>
 <programme start="20250927120000 +0000" stop="20250927153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Konferenz: 5. Spieltag</title>
+    <title>DAZN ONLY - Bundesliga Conference: 5. Spieltag</title>
 </programme>
-<programme start="20250927153000 +0000" stop="20250927165500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
+<programme start="20250927153000 +0000" stop="20250927164500 +0000" channel="DAZN 1 HD.skyde">
+    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 5. Spieltag</title>
 </programme>
-<programme start="20250927165500 +0000" stop="20250927191500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927164500 +0000" stop="20250927183500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FSV Mainz 05 - Borussia Dortmund</title>
 </programme>
-<programme start="20250927191500 +0000" stop="20250927213000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927183500 +0000" stop="20250927203000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - Eintracht Frankfurt</title>
 </programme>
-<programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
+<programme start="20250927203000 +0000" stop="20250927220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 5. Spieltag</title>
 </programme>
 <programme start="20250926220000 +0000" stop="20250927060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -2647,7 +2650,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - LASK, 8. Runde</title>
 </programme>
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2659,7 +2662,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - SCR Altach, 8. Runde</title>
 </programme>
 <programme start="20250926223000 +0000" stop="20250927003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2770,7 +2773,7 @@
 <programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Borussia Dortmund, 5. Spieltag</title>
 </programme>
-<programme start="20250927154500 +0000" stop="20250927191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250927154500 +0000" stop="20250927194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2812,7 +2815,7 @@
 <programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - RB Leipzig, 5. Spieltag</title>
 </programme>
-<programme start="20250927154500 +0000" stop="20250927194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250927154500 +0000" stop="20250927191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BMG - SGE, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2824,7 +2827,7 @@
 <programme start="20250927130000 +0000" stop="20250927131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCH - FCA: tipico Countdown, 5. Spieltag</title>
 </programme>
-<programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20250927131500 +0000" stop="20250927161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - FC Augsburg, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2833,7 +2836,7 @@
 <programme start="20250927103000 +0000" stop="20250927130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Holstein Kiel, 7. Spieltag</title>
 </programme>
-<programme start="20250927130000 +0000" stop="20250927160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250927130000 +0000" stop="20250927153000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2905,17 +2908,14 @@
 <programme start="20250927214500 +0000" stop="20250927220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: Die Herausforderung von Baku</title>
 </programme>
-<programme start="20250926220000 +0000" stop="20250926230000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250926223000 +0000" stop="20250926233000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Korn Ferry Tour: Highlights Nationwide Children&#039;s Hospital Championship</title>
 </programme>
-<programme start="20250926230000 +0000" stop="20250927100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250926233000 +0000" stop="20250927100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: 1. Tag in Farmingdale, NY (USA)</title>
 </programme>
-<programme start="20250927100000 +0000" stop="20250927102500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250927103000 +0000" stop="20250927105500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Learning Center (21)</title>
-</programme>
-<programme start="20250927102500 +0000" stop="20250927105500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>HotelPlaner Tour: Highlights Italian Challenge Open</title>
 </programme>
 <programme start="20250927105500 +0000" stop="20250927220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
@@ -3151,20 +3151,20 @@
 <programme start="20250927213000 +0000" stop="20250927233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Crystal Palace - FC Liverpool, 6. Spieltag</title>
 </programme>
-<programme start="20250926220000 +0000" stop="20250927000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Lys (GER) - I. Jovic (USA), China Open in Peking (China), 3. Tag</title>
+<programme start="20250926234500 +0000" stop="20250927002000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250927000000 +0000" stop="20250927020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250927002000 +0000" stop="20250927020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - L. Sonego (ITA), China Open in Peking (China), 3. Tag</title>
 </programme>
 <programme start="20250927020000 +0000" stop="20250927150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20250927150000 +0000" stop="20250927170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, China Open in Peking (China), 4. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - M. Kostyuk (UKR), China Open in Peking (China), 4. Tag</title>
 </programme>
 <programme start="20250927170000 +0000" stop="20250927190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel</title>
+    <title>ATP 500: C. Alcaraz (ESP) - Z. Bergs (BEL), Kinoshita Group Japan Open in Tokio (JPN), 4. Tag</title>
 </programme>
 <programme start="20250927190000 +0000" stop="20250927213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: V. Royer (FRA) - A. Bublik (KAZ), Hangzhou Open in Hangzhou (CHN), Finale</title>
@@ -3172,11 +3172,8 @@
 <programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
-<programme start="20250926220000 +0000" stop="20250926223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 6. Spieltag</title>
-</programme>
 <programme start="20250926223000 +0000" stop="20250926230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Meine Geschichte: Das Leben von Oscar da Silva</title>
+    <title>PL: Preview, 6. Spieltag</title>
 </programme>
 <programme start="20250926230000 +0000" stop="20250926231500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Chasing the Dream: Die Herausforderung von Baku</title>
@@ -3233,7 +3230,7 @@
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20250926223000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+    <title>Es folgt: ab 05:00: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250927030000 +0000" stop="20250927150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
@@ -3241,7 +3238,7 @@
 <programme start="20250927133000 +0000" stop="20250927135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250927135000 +0000" stop="20250927160000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250927135000 +0000" stop="20250927163000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Chelsea - Brighton &amp; Hove Albion, 6. Spieltag</title>
 </programme>
 <programme start="20250926220000 +0000" stop="20250926224500 +0000" channel="SYFY HD.skyde">

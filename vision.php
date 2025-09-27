@@ -520,9 +520,6 @@
 <programme start="20250927013000 +0000" stop="20250927023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
-<programme start="20250927033000 +0000" stop="20250927041500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
 <programme start="20250927041500 +0000" stop="20250927050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
@@ -828,9 +825,6 @@
 </programme>
 <programme start="20250927023000 +0000" stop="20250927030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20250927033000 +0000" stop="20250927040000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
 </programme>
 <programme start="20250927040000 +0000" stop="20250927053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20250928050000 +0000" stop="20250928060000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20250928060000 +0000" stop="20250928070000 +0000" channel="BTV.vision">
+<title>Dunia RANS</title>
+</programme>
+<programme start="20250928070000 +0000" stop="20250928080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>

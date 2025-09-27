@@ -868,10 +868,10 @@
     <programme start="20250926160000 +0000" stop="20250927005500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 27th September, Saturday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
     </programme>
-    <programme start="20250927005500 +0000" stop="20250927040000 +0000" channel="Live 6.mewatch">
+    <programme start="20250927005500 +0000" stop="20250927032000 +0000" channel="Live 6.mewatch">
         <title>Toyota World Para Swimming Championships – Singapore 2025: Heats</title>
     </programme>
-    <programme start="20250927040000 +0000" stop="20250927092500 +0000" channel="Live 6.mewatch">
+    <programme start="20250927032000 +0000" stop="20250927092500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 27th September, Saturday 5.25pm. Toyota World Para Swimming Championships – Singapore 2025</title>
     </programme>
     <programme start="20250927092500 +0000" stop="20250927131000 +0000" channel="Live 6.mewatch">
