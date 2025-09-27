@@ -952,35 +952,32 @@
 <programme start="20250927060000 +0000" stop="20250927065000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
-<programme start="20250927065000 +0000" stop="20250927072000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927065000 +0000" stop="20250927073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250927072000 +0000" stop="20250927091000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927073000 +0000" stop="20250927093000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Madrid - Espanyol Barcelona</title>
 </programme>
-<programme start="20250927091000 +0000" stop="20250927094000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250927094000 +0000" stop="20250927113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927093000 +0000" stop="20250927113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - SV Werder Bremen</title>
 </programme>
 <programme start="20250927113000 +0000" stop="20250927120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Warm Up: Bundesliga Highlights</title>
 </programme>
 <programme start="20250927120000 +0000" stop="20250927153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Conference: 5. Spieltag</title>
+    <title>Bundesliga Konferenz: 5. Spieltag</title>
 </programme>
-<programme start="20250927153000 +0000" stop="20250927164500 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 5. Spieltag</title>
+<programme start="20250927153000 +0000" stop="20250927165500 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
 </programme>
-<programme start="20250927164500 +0000" stop="20250927183500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927165500 +0000" stop="20250927191500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FSV Mainz 05 - Borussia Dortmund</title>
 </programme>
-<programme start="20250927183500 +0000" stop="20250927203000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927191500 +0000" stop="20250927213000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - Eintracht Frankfurt</title>
 </programme>
-<programme start="20250927203000 +0000" stop="20250927220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 5. Spieltag</title>
+<programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
 </programme>
 <programme start="20250926220000 +0000" stop="20250927060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -2650,7 +2647,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - LASK, 8. Runde</title>
 </programme>
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2773,7 +2770,7 @@
 <programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Borussia Dortmund, 5. Spieltag</title>
 </programme>
-<programme start="20250927154500 +0000" stop="20250927194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20250927154500 +0000" stop="20250927191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2848,7 +2845,7 @@
 <programme start="20250927130000 +0000" stop="20250927133000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 7. Spieltag, Samstag</title>
 </programme>
-<programme start="20250927133000 +0000" stop="20250927153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20250927133000 +0000" stop="20250927160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Watch Party - Talk, News &amp; Analysen</title>
 </programme>
 <programme start="20250926221500 +0000" stop="20250926230000 +0000" channel="Sky Sport F1 HD.skyde">
