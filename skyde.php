@@ -952,35 +952,32 @@
 <programme start="20250927060000 +0000" stop="20250927065000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
-<programme start="20250927065000 +0000" stop="20250927072000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927065000 +0000" stop="20250927073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250927072000 +0000" stop="20250927091000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927073000 +0000" stop="20250927093000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Real Madrid - Espanyol Barcelona</title>
 </programme>
-<programme start="20250927091000 +0000" stop="20250927094000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20250927094000 +0000" stop="20250927113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927093000 +0000" stop="20250927113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - SV Werder Bremen</title>
 </programme>
 <programme start="20250927113000 +0000" stop="20250927120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Warm Up: Bundesliga Highlights</title>
 </programme>
 <programme start="20250927120000 +0000" stop="20250927153000 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Conference: 5. Spieltag</title>
+    <title>Bundesliga Konferenz: 5. Spieltag</title>
 </programme>
-<programme start="20250927153000 +0000" stop="20250927164500 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 5. Spieltag</title>
+<programme start="20250927153000 +0000" stop="20250927165500 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
 </programme>
-<programme start="20250927164500 +0000" stop="20250927183500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927165500 +0000" stop="20250927191500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FSV Mainz 05 - Borussia Dortmund</title>
 </programme>
-<programme start="20250927183500 +0000" stop="20250927203000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250927191500 +0000" stop="20250927213000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - Eintracht Frankfurt</title>
 </programme>
-<programme start="20250927203000 +0000" stop="20250927220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>DAZN ONLY - Bundesliga Highlights: All In: die Bundesliga Highlight Show - 5. Spieltag</title>
+<programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
 </programme>
 <programme start="20250926220000 +0000" stop="20250927060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -1411,34 +1408,34 @@
 <programme start="20250927043000 +0000" stop="20250927045000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250927045000 +0000" stop="20250927050000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927045000 +0000" stop="20250927050500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250927050000 +0000" stop="20250927052500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927050500 +0000" stop="20250927053000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250927052500 +0000" stop="20250927054500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927053000 +0000" stop="20250927055000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250927054500 +0000" stop="20250927061000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927055000 +0000" stop="20250927061500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927061000 +0000" stop="20250927063000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927061500 +0000" stop="20250927063500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927063000 +0000" stop="20250927064500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927063500 +0000" stop="20250927065000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927064500 +0000" stop="20250927070500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927065000 +0000" stop="20250927071000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250927070500 +0000" stop="20250927073000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927071000 +0000" stop="20250927072500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250927073000 +0000" stop="20250927075000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927072500 +0000" stop="20250927074500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250927075000 +0000" stop="20250927081500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927074500 +0000" stop="20250927081500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
 <programme start="20250927081500 +0000" stop="20250927083500 +0000" channel="Nick Jr..skyde">
@@ -1483,10 +1480,10 @@
 <programme start="20250927104500 +0000" stop="20250927111000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927111000 +0000" stop="20250927113000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927111000 +0000" stop="20250927113500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927113000 +0000" stop="20250927115500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927113500 +0000" stop="20250927115500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20250927115500 +0000" stop="20250927122000 +0000" channel="Nick Jr..skyde">
@@ -1495,61 +1492,61 @@
 <programme start="20250927122000 +0000" stop="20250927124000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250927124000 +0000" stop="20250927130000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927124000 +0000" stop="20250927130500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250927130000 +0000" stop="20250927132500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927130500 +0000" stop="20250927132500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250927132500 +0000" stop="20250927134500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927132500 +0000" stop="20250927135000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250927134500 +0000" stop="20250927140500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927135000 +0000" stop="20250927141000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250927140500 +0000" stop="20250927143000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927141000 +0000" stop="20250927143500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927143500 +0000" stop="20250927145500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927150000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927145500 +0000" stop="20250927150500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20250927150000 +0000" stop="20250927152500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927150500 +0000" stop="20250927153000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927152500 +0000" stop="20250927153500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927153000 +0000" stop="20250927154000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927153500 +0000" stop="20250927160000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927154000 +0000" stop="20250927160000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20250927160000 +0000" stop="20250927162000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927160000 +0000" stop="20250927162500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20250927162000 +0000" stop="20250927164000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927162500 +0000" stop="20250927164500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250927164000 +0000" stop="20250927170000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927164500 +0000" stop="20250927170500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250927170000 +0000" stop="20250927172500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927170500 +0000" stop="20250927173000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250927172500 +0000" stop="20250927174500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927173000 +0000" stop="20250927175500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20250927174500 +0000" stop="20250927181000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927175500 +0000" stop="20250927181500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927181000 +0000" stop="20250927183000 +0000" channel="Nick Jr..skyde">
+<programme start="20250927181500 +0000" stop="20250927183500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927183000 +0000" stop="20250927184500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927183500 +0000" stop="20250927185000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20250927184500 +0000" stop="20250927190500 +0000" channel="Nick Jr..skyde">
+<programme start="20250927185000 +0000" stop="20250927190500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20250927190500 +0000" stop="20250927193000 +0000" channel="Nick Jr..skyde">
@@ -2650,7 +2647,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - LASK, 8. Runde</title>
 </programme>
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2815,7 +2812,7 @@
 <programme start="20250927131500 +0000" stop="20250927154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - RB Leipzig, 5. Spieltag</title>
 </programme>
-<programme start="20250927154500 +0000" stop="20250927191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20250927154500 +0000" stop="20250927194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BMG - SGE, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2836,7 +2833,7 @@
 <programme start="20250927103000 +0000" stop="20250927130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Holstein Kiel, 7. Spieltag</title>
 </programme>
-<programme start="20250927130000 +0000" stop="20250927153000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20250927130000 +0000" stop="20250927160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 5. Spieltag</title>
 </programme>
 <programme start="20250927101000 +0000" stop="20250927103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2908,14 +2905,17 @@
 <programme start="20250927214500 +0000" stop="20250927220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: Die Herausforderung von Baku</title>
 </programme>
-<programme start="20250926223000 +0000" stop="20250926233000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250926220000 +0000" stop="20250926230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Korn Ferry Tour: Highlights Nationwide Children&#039;s Hospital Championship</title>
 </programme>
-<programme start="20250926233000 +0000" stop="20250927100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250926230000 +0000" stop="20250927100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Ryder Cup: 1. Tag in Farmingdale, NY (USA)</title>
 </programme>
-<programme start="20250927103000 +0000" stop="20250927105500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20250927100000 +0000" stop="20250927102500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Learning Center (21)</title>
+</programme>
+<programme start="20250927102500 +0000" stop="20250927105500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>HotelPlaner Tour: Highlights Italian Challenge Open</title>
 </programme>
 <programme start="20250927105500 +0000" stop="20250927220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
@@ -3233,7 +3233,7 @@
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20250926223000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: ab 05:00: Live Tennis WTA Tour</title>
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250927030000 +0000" stop="20250927150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
