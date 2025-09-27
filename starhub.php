@@ -2759,13 +2759,13 @@
         <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20250927060000 +0000" stop="20250927080000 +0000" channel="Sun TV.starhub">
-        <title>Movie -</title>
+        <title>Movie - DEVARATTAM</title>
     </programme>
     <programme start="20250927080000 +0000" stop="20250927083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20250927083000 +0000" stop="20250927090000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd -</title>
+        <title>Movie Contd - DEVARATTAM</title>
     </programme>
     <programme start="20250927090000 +0000" stop="20250927093000 +0000" channel="Sun TV.starhub">
         <title>ANANDA RAGAM</title>
@@ -3977,7 +3977,7 @@
         <title>Somewhere Street Special &quot;Los Angeles&quot;</title>
     </programme>
     <programme start="20250927065000 +0000" stop="20250927070000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20250927070000 +0000" stop="20250927090000 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2025 September Tournament at Ryogoku (B)</title>
@@ -7984,10 +7984,10 @@
     <programme start="20250927043000 +0000" stop="20250927073000 +0000" channel="Asianet Movies.starhub">
         <title>Udayananu Tharam</title>
     </programme>
-    <programme start="20250927073000 +0000" stop="20250927103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250927073000 +0000" stop="20250927103500 +0000" channel="Asianet Movies.starhub">
         <title>Bahubali-2</title>
     </programme>
-    <programme start="20250927103000 +0000" stop="20250927133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250927103500 +0000" stop="20250927133000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
     <programme start="20250927133000 +0000" stop="20250927163000 +0000" channel="Asianet Movies.starhub">

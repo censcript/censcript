@@ -3235,6 +3235,12 @@
 <programme start="20250927210000 +0000" stop="20250927220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
 </programme>
+<programme start="20250926223000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20250927030000 +0000" stop="20250927150000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
+</programme>
 <programme start="20250927133000 +0000" stop="20250927135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
