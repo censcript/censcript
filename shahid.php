@@ -958,6 +958,267 @@
     <programme start="20250927000000 +0000" stop="20250928235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20250927000000 +0000" stop="20250927002012 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 24</title>
+    </programme>
+    <programme start="20250927002012 +0000" stop="20250927005122 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 25</title>
+    </programme>
+    <programme start="20250927005122 +0000" stop="20250927012054 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 26</title>
+    </programme>
+    <programme start="20250927012054 +0000" stop="20250927015047 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 27</title>
+    </programme>
+    <programme start="20250927015047 +0000" stop="20250927022046 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 28</title>
+    </programme>
+    <programme start="20250927022046 +0000" stop="20250927025110 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 29</title>
+    </programme>
+    <programme start="20250927025110 +0000" stop="20250927032303 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 30</title>
+    </programme>
+    <programme start="20250927032303 +0000" stop="20250927035418 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 21</title>
+    </programme>
+    <programme start="20250927035418 +0000" stop="20250927042724 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 22</title>
+    </programme>
+    <programme start="20250927042724 +0000" stop="20250927050020 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 23</title>
+    </programme>
+    <programme start="20250927050020 +0000" stop="20250927053004 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 24</title>
+    </programme>
+    <programme start="20250927053004 +0000" stop="20250927060141 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 25</title>
+    </programme>
+    <programme start="20250927060141 +0000" stop="20250927063053 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 26</title>
+    </programme>
+    <programme start="20250927063053 +0000" stop="20250927070057 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 27</title>
+    </programme>
+    <programme start="20250927070057 +0000" stop="20250927073121 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 28</title>
+    </programme>
+    <programme start="20250927073121 +0000" stop="20250927080145 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 29</title>
+    </programme>
+    <programme start="20250927080145 +0000" stop="20250927083339 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 30</title>
+    </programme>
+    <programme start="20250927083339 +0000" stop="20250927090322 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 24</title>
+    </programme>
+    <programme start="20250927090322 +0000" stop="20250927093458 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 25</title>
+    </programme>
+    <programme start="20250927093458 +0000" stop="20250927100426 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 26</title>
+    </programme>
+    <programme start="20250927100426 +0000" stop="20250927103436 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 27</title>
+    </programme>
+    <programme start="20250927103436 +0000" stop="20250927110459 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 28</title>
+    </programme>
+    <programme start="20250927110459 +0000" stop="20250927113530 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 29</title>
+    </programme>
+    <programme start="20250927113530 +0000" stop="20250927120737 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba Season 1 Episode 30</title>
+    </programme>
+    <programme start="20250927120737 +0000" stop="20250927124807 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
+    </programme>
+    <programme start="20250927124807 +0000" stop="20250927132309 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
+    </programme>
+    <programme start="20250927132309 +0000" stop="20250927135817 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
+    </programme>
+    <programme start="20250927135817 +0000" stop="20250927143107 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
+    </programme>
+    <programme start="20250927143107 +0000" stop="20250927150243 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
+    </programme>
+    <programme start="20250927150243 +0000" stop="20250927153331 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
+    </programme>
+    <programme start="20250927153331 +0000" stop="20250927160441 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
+    </programme>
+    <programme start="20250927160441 +0000" stop="20250927164222 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
+    </programme>
+    <programme start="20250927164222 +0000" stop="20250927171837 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
+    </programme>
+    <programme start="20250927171837 +0000" stop="20250927175355 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
+    </programme>
+    <programme start="20250927175355 +0000" stop="20250927183507 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
+    </programme>
+    <programme start="20250927183507 +0000" stop="20250927190941 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
+    </programme>
+    <programme start="20250927190941 +0000" stop="20250927194521 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
+    </programme>
+    <programme start="20250927194521 +0000" stop="20250927201811 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
+    </programme>
+    <programme start="20250927201811 +0000" stop="20250927204950 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
+    </programme>
+    <programme start="20250927204950 +0000" stop="20250927212031 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
+    </programme>
+    <programme start="20250927212031 +0000" stop="20250927215145 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
+    </programme>
+    <programme start="20250927215145 +0000" stop="20250927222914 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
+    </programme>
+    <programme start="20250927222914 +0000" stop="20250927230551 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
+    </programme>
+    <programme start="20250927230551 +0000" stop="20250927234129 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
+    </programme>
+    <programme start="20250927234129 +0000" stop="20250928002212 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
+    </programme>
+    <programme start="20250928002212 +0000" stop="20250928005646 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
+    </programme>
+    <programme start="20250928005646 +0000" stop="20250928013205 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
+    </programme>
+    <programme start="20250928013205 +0000" stop="20250928020402 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
+    </programme>
+    <programme start="20250928020402 +0000" stop="20250928023559 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
+    </programme>
+    <programme start="20250928023559 +0000" stop="20250928030723 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
+    </programme>
+    <programme start="20250928030723 +0000" stop="20250928033830 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
+    </programme>
+    <programme start="20250928033830 +0000" stop="20250928041645 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
+    </programme>
+    <programme start="20250928041645 +0000" stop="20250928045349 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
+    </programme>
+    <programme start="20250928045349 +0000" stop="20250928052912 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
+    </programme>
+    <programme start="20250928052912 +0000" stop="20250928060937 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
+    </programme>
+    <programme start="20250928060937 +0000" stop="20250928064400 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
+    </programme>
+    <programme start="20250928064400 +0000" stop="20250928071909 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
+    </programme>
+    <programme start="20250928071909 +0000" stop="20250928075143 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
+    </programme>
+    <programme start="20250928075143 +0000" stop="20250928082339 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
+    </programme>
+    <programme start="20250928082339 +0000" stop="20250928085437 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
+    </programme>
+    <programme start="20250928085437 +0000" stop="20250928092541 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
+    </programme>
+    <programme start="20250928092541 +0000" stop="20250928100312 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
+    </programme>
+    <programme start="20250928100312 +0000" stop="20250928103958 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
+    </programme>
+    <programme start="20250928103958 +0000" stop="20250928111532 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
+    </programme>
+    <programme start="20250928111532 +0000" stop="20250928114751 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 11</title>
+    </programme>
+    <programme start="20250928114751 +0000" stop="20250928122752 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 12</title>
+    </programme>
+    <programme start="20250928122752 +0000" stop="20250928130308 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 13</title>
+    </programme>
+    <programme start="20250928130308 +0000" stop="20250928133114 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 14</title>
+    </programme>
+    <programme start="20250928133114 +0000" stop="20250928140719 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 15</title>
+    </programme>
+    <programme start="20250928140719 +0000" stop="20250928144202 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 16</title>
+    </programme>
+    <programme start="20250928144202 +0000" stop="20250928151355 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
+    </programme>
+    <programme start="20250928151355 +0000" stop="20250928155021 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
+    </programme>
+    <programme start="20250928155021 +0000" stop="20250928162340 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
+    </programme>
+    <programme start="20250928162340 +0000" stop="20250928165437 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
+    </programme>
+    <programme start="20250928165437 +0000" stop="20250928172644 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 11</title>
+    </programme>
+    <programme start="20250928172644 +0000" stop="20250928180627 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 12</title>
+    </programme>
+    <programme start="20250928180627 +0000" stop="20250928184154 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 13</title>
+    </programme>
+    <programme start="20250928184154 +0000" stop="20250928190951 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 14</title>
+    </programme>
+    <programme start="20250928190951 +0000" stop="20250928194539 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 15</title>
+    </programme>
+    <programme start="20250928194539 +0000" stop="20250928202042 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 16</title>
+    </programme>
+    <programme start="20250928202042 +0000" stop="20250928205230 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
+    </programme>
+    <programme start="20250928205230 +0000" stop="20250928212908 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
+    </programme>
+    <programme start="20250928212908 +0000" stop="20250928220227 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
+    </programme>
+    <programme start="20250928220227 +0000" stop="20250928223302 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
+    </programme>
+    <programme start="20250928223302 +0000" stop="20250928230521 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 11</title>
+    </programme>
+    <programme start="20250928230521 +0000" stop="20250928234427 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 12</title>
+    </programme>
+    <programme start="20250928234427 +0000" stop="20250928235959 +0000" channel="992538.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20250927000000 +0000" stop="20250927001240 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 2 Episode 25</title>
     </programme>
@@ -1273,273 +1534,6 @@
     <programme start="20250928235111 +0000" stop="20250928235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250927000000 +0000" stop="20250927002012 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 24</title>
-    </programme>
-    <programme start="20250927002012 +0000" stop="20250927005122 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 25</title>
-    </programme>
-    <programme start="20250927005122 +0000" stop="20250927012054 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 26</title>
-    </programme>
-    <programme start="20250927012054 +0000" stop="20250927015047 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 27</title>
-    </programme>
-    <programme start="20250927015047 +0000" stop="20250927022046 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 28</title>
-    </programme>
-    <programme start="20250927022046 +0000" stop="20250927025110 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 29</title>
-    </programme>
-    <programme start="20250927025110 +0000" stop="20250927032303 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 30</title>
-    </programme>
-    <programme start="20250927032303 +0000" stop="20250927035418 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 21</title>
-    </programme>
-    <programme start="20250927035418 +0000" stop="20250927042724 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 22</title>
-    </programme>
-    <programme start="20250927042724 +0000" stop="20250927050020 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 23</title>
-    </programme>
-    <programme start="20250927050020 +0000" stop="20250927053004 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 24</title>
-    </programme>
-    <programme start="20250927053004 +0000" stop="20250927060141 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 25</title>
-    </programme>
-    <programme start="20250927060141 +0000" stop="20250927063053 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 26</title>
-    </programme>
-    <programme start="20250927063053 +0000" stop="20250927070057 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 27</title>
-    </programme>
-    <programme start="20250927070057 +0000" stop="20250927073121 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 28</title>
-    </programme>
-    <programme start="20250927073121 +0000" stop="20250927080145 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 29</title>
-    </programme>
-    <programme start="20250927080145 +0000" stop="20250927083339 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 30</title>
-    </programme>
-    <programme start="20250927083339 +0000" stop="20250927090322 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 24</title>
-    </programme>
-    <programme start="20250927090322 +0000" stop="20250927093458 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 25</title>
-    </programme>
-    <programme start="20250927093458 +0000" stop="20250927100426 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 26</title>
-    </programme>
-    <programme start="20250927100426 +0000" stop="20250927103436 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 27</title>
-    </programme>
-    <programme start="20250927103436 +0000" stop="20250927110459 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 28</title>
-    </programme>
-    <programme start="20250927110459 +0000" stop="20250927113530 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 29</title>
-    </programme>
-    <programme start="20250927113530 +0000" stop="20250927120737 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba Season 1 Episode 30</title>
-    </programme>
-    <programme start="20250927120737 +0000" stop="20250927124807 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
-    </programme>
-    <programme start="20250927124807 +0000" stop="20250927132309 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
-    </programme>
-    <programme start="20250927132309 +0000" stop="20250927135817 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
-    </programme>
-    <programme start="20250927135817 +0000" stop="20250927143107 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
-    </programme>
-    <programme start="20250927143107 +0000" stop="20250927150243 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
-    </programme>
-    <programme start="20250927150243 +0000" stop="20250927153331 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
-    </programme>
-    <programme start="20250927153331 +0000" stop="20250927160441 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
-    </programme>
-    <programme start="20250927160441 +0000" stop="20250927164222 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
-    </programme>
-    <programme start="20250927164222 +0000" stop="20250927171837 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
-    </programme>
-    <programme start="20250927171837 +0000" stop="20250927175355 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
-    </programme>
-    <programme start="20250927175355 +0000" stop="20250927183507 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
-    </programme>
-    <programme start="20250927183507 +0000" stop="20250927190941 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
-    </programme>
-    <programme start="20250927190941 +0000" stop="20250927194521 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
-    </programme>
-    <programme start="20250927194521 +0000" stop="20250927201811 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
-    </programme>
-    <programme start="20250927201811 +0000" stop="20250927204950 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
-    </programme>
-    <programme start="20250927204950 +0000" stop="20250927212031 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
-    </programme>
-    <programme start="20250927212031 +0000" stop="20250927215145 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
-    </programme>
-    <programme start="20250927215145 +0000" stop="20250927222914 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
-    </programme>
-    <programme start="20250927222914 +0000" stop="20250927230551 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
-    </programme>
-    <programme start="20250927230551 +0000" stop="20250927234129 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
-    </programme>
-    <programme start="20250927234129 +0000" stop="20250928002212 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
-    </programme>
-    <programme start="20250928002212 +0000" stop="20250928005646 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
-    </programme>
-    <programme start="20250928005646 +0000" stop="20250928013205 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
-    </programme>
-    <programme start="20250928013205 +0000" stop="20250928020402 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
-    </programme>
-    <programme start="20250928020402 +0000" stop="20250928023559 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
-    </programme>
-    <programme start="20250928023559 +0000" stop="20250928030723 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
-    </programme>
-    <programme start="20250928030723 +0000" stop="20250928033830 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
-    </programme>
-    <programme start="20250928033830 +0000" stop="20250928041645 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
-    </programme>
-    <programme start="20250928041645 +0000" stop="20250928045349 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
-    </programme>
-    <programme start="20250928045349 +0000" stop="20250928052912 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
-    </programme>
-    <programme start="20250928052912 +0000" stop="20250928060937 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 1</title>
-    </programme>
-    <programme start="20250928060937 +0000" stop="20250928064400 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 2</title>
-    </programme>
-    <programme start="20250928064400 +0000" stop="20250928071909 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 3</title>
-    </programme>
-    <programme start="20250928071909 +0000" stop="20250928075143 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 4</title>
-    </programme>
-    <programme start="20250928075143 +0000" stop="20250928082339 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 5</title>
-    </programme>
-    <programme start="20250928082339 +0000" stop="20250928085437 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 6</title>
-    </programme>
-    <programme start="20250928085437 +0000" stop="20250928092541 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 7</title>
-    </programme>
-    <programme start="20250928092541 +0000" stop="20250928100312 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 8</title>
-    </programme>
-    <programme start="20250928100312 +0000" stop="20250928103958 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 9</title>
-    </programme>
-    <programme start="20250928103958 +0000" stop="20250928111532 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 10</title>
-    </programme>
-    <programme start="20250928111532 +0000" stop="20250928114751 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 11</title>
-    </programme>
-    <programme start="20250928114751 +0000" stop="20250928122752 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 12</title>
-    </programme>
-    <programme start="20250928122752 +0000" stop="20250928130308 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 13</title>
-    </programme>
-    <programme start="20250928130308 +0000" stop="20250928133114 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 14</title>
-    </programme>
-    <programme start="20250928133114 +0000" stop="20250928140719 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 15</title>
-    </programme>
-    <programme start="20250928140719 +0000" stop="20250928144202 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 16</title>
-    </programme>
-    <programme start="20250928144202 +0000" stop="20250928151355 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
-    </programme>
-    <programme start="20250928151355 +0000" stop="20250928155021 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
-    </programme>
-    <programme start="20250928155021 +0000" stop="20250928162340 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
-    </programme>
-    <programme start="20250928162340 +0000" stop="20250928165437 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
-    </programme>
-    <programme start="20250928165437 +0000" stop="20250928172644 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 11</title>
-    </programme>
-    <programme start="20250928172644 +0000" stop="20250928180627 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 12</title>
-    </programme>
-    <programme start="20250928180627 +0000" stop="20250928184154 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 13</title>
-    </programme>
-    <programme start="20250928184154 +0000" stop="20250928190951 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 14</title>
-    </programme>
-    <programme start="20250928190951 +0000" stop="20250928194539 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 15</title>
-    </programme>
-    <programme start="20250928194539 +0000" stop="20250928202042 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 16</title>
-    </programme>
-    <programme start="20250928202042 +0000" stop="20250928205230 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
-    </programme>
-    <programme start="20250928205230 +0000" stop="20250928212908 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
-    </programme>
-    <programme start="20250928212908 +0000" stop="20250928220227 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
-    </programme>
-    <programme start="20250928220227 +0000" stop="20250928223302 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
-    </programme>
-    <programme start="20250928223302 +0000" stop="20250928230521 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 11</title>
-    </programme>
-    <programme start="20250928230521 +0000" stop="20250928234427 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 12</title>
-    </programme>
-    <programme start="20250928234427 +0000" stop="20250928235959 +0000" channel="992538.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250927000000 +0000" stop="20250928235959 +0000" channel="1029746.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250927000000 +0000" stop="20250928235959 +0000" channel="986346.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250927000000 +0000" stop="20250927000347 +0000" channel="976272.shahid">
         <title>El Kebeer Awi Season 7 Episode 18</title>
     </programme>
@@ -1826,6 +1820,120 @@
         <title>Al Kabeer Season 4 Episode 22</title>
     </programme>
     <programme start="20250928233639 +0000" stop="20250928235959 +0000" channel="976272.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250927000000 +0000" stop="20250928235959 +0000" channel="1029746.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250927000000 +0000" stop="20250928235959 +0000" channel="986346.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250927000000 +0000" stop="20250927000100 +0000" channel="387251.shahid">
+        <title>Saraya Abdeen  </title>
+    </programme>
+    <programme start="20250927000100 +0000" stop="20250927010100 +0000" channel="387251.shahid">
+        <title>Um 44  </title>
+    </programme>
+    <programme start="20250927010100 +0000" stop="20250927020100 +0000" channel="387251.shahid">
+        <title>Dahab Ghali Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250927020100 +0000" stop="20250927030100 +0000" channel="387251.shahid">
+        <title>Dof&#039;at Al Qahera  </title>
+    </programme>
+    <programme start="20250927030100 +0000" stop="20250927035600 +0000" channel="387251.shahid">
+        <title>Raisinghani Vs Raisinghani Season 1 Episode 50</title>
+    </programme>
+    <programme start="20250927035600 +0000" stop="20250927045500 +0000" channel="387251.shahid">
+        <title>Abu Al Banat  </title>
+    </programme>
+    <programme start="20250927045500 +0000" stop="20250927053100 +0000" channel="387251.shahid">
+        <title>Holm Esref Season 1 Episode 39</title>
+    </programme>
+    <programme start="20250927053100 +0000" stop="20250927060100 +0000" channel="387251.shahid">
+        <title>Asrar Al Boyout Season 1 Episode 18</title>
+    </programme>
+    <programme start="20250927060100 +0000" stop="20250927070000 +0000" channel="387251.shahid">
+        <title>Fareed  </title>
+    </programme>
+    <programme start="20250927070000 +0000" stop="20250927075100 +0000" channel="387251.shahid">
+        <title>Saraya Abdeen  </title>
+    </programme>
+    <programme start="20250927075100 +0000" stop="20250927082500 +0000" channel="387251.shahid">
+        <title>Holm Esref Season 1 Episode 39</title>
+    </programme>
+    <programme start="20250927082500 +0000" stop="20250927090000 +0000" channel="387251.shahid">
+        <title>Asrar Al Boyout Season 1 Episode 18</title>
+    </programme>
+    <programme start="20250927090000 +0000" stop="20250927100000 +0000" channel="387251.shahid">
+        <title>Um 44  </title>
+    </programme>
+    <programme start="20250927100000 +0000" stop="20250927110000 +0000" channel="387251.shahid">
+        <title>Dof&#039;at Al Qahera  </title>
+    </programme>
+    <programme start="20250927110000 +0000" stop="20250927120200 +0000" channel="387251.shahid">
+        <title>Raisinghani Vs Raisinghani Season 1 Episode 50</title>
+    </programme>
+    <programme start="20250927120200 +0000" stop="20250927130500 +0000" channel="387251.shahid">
+        <title>Abu Al Banat  </title>
+    </programme>
+    <programme start="20250927130500 +0000" stop="20250927135500 +0000" channel="387251.shahid">
+        <title>Dahab Ghali Season 1 Episode 15</title>
+    </programme>
+    <programme start="20250927135500 +0000" stop="20250927150000 +0000" channel="387251.shahid">
+        <title>Fareed  </title>
+    </programme>
+    <programme start="20250927150000 +0000" stop="20250927155500 +0000" channel="387251.shahid">
+        <title>Saraya Abdeen  </title>
+    </programme>
+    <programme start="20250927155500 +0000" stop="20250927170000 +0000" channel="387251.shahid">
+        <title>Um 44  </title>
+    </programme>
+    <programme start="20250927170000 +0000" stop="20250927173200 +0000" channel="387251.shahid">
+        <title>Holm Esref Season 1 Episode 40</title>
+    </programme>
+    <programme start="20250927173200 +0000" stop="20250927180600 +0000" channel="387251.shahid">
+        <title>Asrar Al Boyout Season 1 Episode 19</title>
+    </programme>
+    <programme start="20250927180600 +0000" stop="20250927190500 +0000" channel="387251.shahid">
+        <title>Dof&#039;at Al Qahera  </title>
+    </programme>
+    <programme start="20250927190500 +0000" stop="20250927200500 +0000" channel="387251.shahid">
+        <title>Raisinghani Vs Raisinghani Season 1 Episode 51</title>
+    </programme>
+    <programme start="20250927200500 +0000" stop="20250927210000 +0000" channel="387251.shahid">
+        <title>Abu Al Banat  </title>
+    </programme>
+    <programme start="20250927210000 +0000" stop="20250927220000 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20250927220000 +0000" stop="20250927230000 +0000" channel="387251.shahid">
+        <title>Fareed  </title>
+    </programme>
+    <programme start="20250927230000 +0000" stop="20250928000000 +0000" channel="387251.shahid">
+        <title>Saraya Abdeen  </title>
+    </programme>
+    <programme start="20250928000000 +0000" stop="20250928010000 +0000" channel="387251.shahid">
+        <title>Um 44  </title>
+    </programme>
+    <programme start="20250928010000 +0000" stop="20250928020500 +0000" channel="387251.shahid">
+        <title>Lo&#039;bat Hob  </title>
+    </programme>
+    <programme start="20250928020500 +0000" stop="20250928030000 +0000" channel="387251.shahid">
+        <title>Dof&#039;at Al Qahera  </title>
+    </programme>
+    <programme start="20250928030000 +0000" stop="20250928040000 +0000" channel="387251.shahid">
+        <title>Raisinghani Vs Raisinghani Season 1 Episode 51</title>
+    </programme>
+    <programme start="20250928040000 +0000" stop="20250928050000 +0000" channel="387251.shahid">
+        <title>Abu Al Banat  </title>
+    </programme>
+    <programme start="20250928050000 +0000" stop="20250928053000 +0000" channel="387251.shahid">
+        <title>Holm Esref Season 1 Episode 40</title>
+    </programme>
+    <programme start="20250928053000 +0000" stop="20250928055900 +0000" channel="387251.shahid">
+        <title>Asrar Al Boyout Season 1 Episode 19</title>
+    </programme>
+    <programme start="20250928055900 +0000" stop="20250928235959 +0000" channel="387251.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250927000000 +0000" stop="20250927000013 +0000" channel="49923172215352.shahid">
@@ -3913,114 +4021,6 @@
     <programme start="20250928235000 +0000" stop="20250928235959 +0000" channel="49923172215352.shahid">
         <title>Sa&#039;altak Habibi</title>
     </programme>
-    <programme start="20250927000000 +0000" stop="20250927000100 +0000" channel="387251.shahid">
-        <title>Saraya Abdeen  </title>
-    </programme>
-    <programme start="20250927000100 +0000" stop="20250927010100 +0000" channel="387251.shahid">
-        <title>Um 44  </title>
-    </programme>
-    <programme start="20250927010100 +0000" stop="20250927020100 +0000" channel="387251.shahid">
-        <title>Dahab Ghali Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250927020100 +0000" stop="20250927030100 +0000" channel="387251.shahid">
-        <title>Dof&#039;at Al Qahera  </title>
-    </programme>
-    <programme start="20250927030100 +0000" stop="20250927035600 +0000" channel="387251.shahid">
-        <title>Raisinghani Vs Raisinghani Season 1 Episode 50</title>
-    </programme>
-    <programme start="20250927035600 +0000" stop="20250927045500 +0000" channel="387251.shahid">
-        <title>Abu Al Banat  </title>
-    </programme>
-    <programme start="20250927045500 +0000" stop="20250927053100 +0000" channel="387251.shahid">
-        <title>Holm Esref Season 1 Episode 39</title>
-    </programme>
-    <programme start="20250927053100 +0000" stop="20250927060100 +0000" channel="387251.shahid">
-        <title>Asrar Al Boyout Season 1 Episode 18</title>
-    </programme>
-    <programme start="20250927060100 +0000" stop="20250927070000 +0000" channel="387251.shahid">
-        <title>Fareed  </title>
-    </programme>
-    <programme start="20250927070000 +0000" stop="20250927075100 +0000" channel="387251.shahid">
-        <title>Saraya Abdeen  </title>
-    </programme>
-    <programme start="20250927075100 +0000" stop="20250927082500 +0000" channel="387251.shahid">
-        <title>Holm Esref Season 1 Episode 39</title>
-    </programme>
-    <programme start="20250927082500 +0000" stop="20250927090000 +0000" channel="387251.shahid">
-        <title>Asrar Al Boyout Season 1 Episode 18</title>
-    </programme>
-    <programme start="20250927090000 +0000" stop="20250927100000 +0000" channel="387251.shahid">
-        <title>Um 44  </title>
-    </programme>
-    <programme start="20250927100000 +0000" stop="20250927110000 +0000" channel="387251.shahid">
-        <title>Dof&#039;at Al Qahera  </title>
-    </programme>
-    <programme start="20250927110000 +0000" stop="20250927120200 +0000" channel="387251.shahid">
-        <title>Raisinghani Vs Raisinghani Season 1 Episode 50</title>
-    </programme>
-    <programme start="20250927120200 +0000" stop="20250927130500 +0000" channel="387251.shahid">
-        <title>Abu Al Banat  </title>
-    </programme>
-    <programme start="20250927130500 +0000" stop="20250927135500 +0000" channel="387251.shahid">
-        <title>Dahab Ghali Season 1 Episode 15</title>
-    </programme>
-    <programme start="20250927135500 +0000" stop="20250927150000 +0000" channel="387251.shahid">
-        <title>Fareed  </title>
-    </programme>
-    <programme start="20250927150000 +0000" stop="20250927155500 +0000" channel="387251.shahid">
-        <title>Saraya Abdeen  </title>
-    </programme>
-    <programme start="20250927155500 +0000" stop="20250927170000 +0000" channel="387251.shahid">
-        <title>Um 44  </title>
-    </programme>
-    <programme start="20250927170000 +0000" stop="20250927173200 +0000" channel="387251.shahid">
-        <title>Holm Esref Season 1 Episode 40</title>
-    </programme>
-    <programme start="20250927173200 +0000" stop="20250927180600 +0000" channel="387251.shahid">
-        <title>Asrar Al Boyout Season 1 Episode 19</title>
-    </programme>
-    <programme start="20250927180600 +0000" stop="20250927190500 +0000" channel="387251.shahid">
-        <title>Dof&#039;at Al Qahera  </title>
-    </programme>
-    <programme start="20250927190500 +0000" stop="20250927200500 +0000" channel="387251.shahid">
-        <title>Raisinghani Vs Raisinghani Season 1 Episode 51</title>
-    </programme>
-    <programme start="20250927200500 +0000" stop="20250927210000 +0000" channel="387251.shahid">
-        <title>Abu Al Banat  </title>
-    </programme>
-    <programme start="20250927210000 +0000" stop="20250927220000 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20250927220000 +0000" stop="20250927230000 +0000" channel="387251.shahid">
-        <title>Fareed  </title>
-    </programme>
-    <programme start="20250927230000 +0000" stop="20250928000000 +0000" channel="387251.shahid">
-        <title>Saraya Abdeen  </title>
-    </programme>
-    <programme start="20250928000000 +0000" stop="20250928010000 +0000" channel="387251.shahid">
-        <title>Um 44  </title>
-    </programme>
-    <programme start="20250928010000 +0000" stop="20250928020500 +0000" channel="387251.shahid">
-        <title>Lo&#039;bat Hob  </title>
-    </programme>
-    <programme start="20250928020500 +0000" stop="20250928030000 +0000" channel="387251.shahid">
-        <title>Dof&#039;at Al Qahera  </title>
-    </programme>
-    <programme start="20250928030000 +0000" stop="20250928040000 +0000" channel="387251.shahid">
-        <title>Raisinghani Vs Raisinghani Season 1 Episode 51</title>
-    </programme>
-    <programme start="20250928040000 +0000" stop="20250928050000 +0000" channel="387251.shahid">
-        <title>Abu Al Banat  </title>
-    </programme>
-    <programme start="20250928050000 +0000" stop="20250928053000 +0000" channel="387251.shahid">
-        <title>Holm Esref Season 1 Episode 40</title>
-    </programme>
-    <programme start="20250928053000 +0000" stop="20250928055900 +0000" channel="387251.shahid">
-        <title>Asrar Al Boyout Season 1 Episode 19</title>
-    </programme>
-    <programme start="20250928055900 +0000" stop="20250928235959 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250927000000 +0000" stop="20250927002230 +0000" channel="988045.shahid">
         <title>Maraya 2003 Episode 12</title>
     </programme>
@@ -4459,102 +4459,6 @@
     <programme start="20250928055900 +0000" stop="20250928235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20250927000000 +0000" stop="20250927002400 +0000" channel="387238.shahid">
-        <title>Wifi Season 3 Episode 21</title>
-    </programme>
-    <programme start="20250927002400 +0000" stop="20250927015900 +0000" channel="387238.shahid">
-        <title>Majid Sawt Al Hob - First Part</title>
-    </programme>
-    <programme start="20250927015900 +0000" stop="20250927025000 +0000" channel="387238.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 2</title>
-    </programme>
-    <programme start="20250927025000 +0000" stop="20250927042000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20250927042000 +0000" stop="20250927051500 +0000" channel="387238.shahid">
-        <title>Min Ela</title>
-    </programme>
-    <programme start="20250927051500 +0000" stop="20250927060000 +0000" channel="387238.shahid">
-        <title>Spotlight Season 1 Episode 11</title>
-    </programme>
-    <programme start="20250927060000 +0000" stop="20250927081300 +0000" channel="387238.shahid">
-        <title>Al Theeb Fi Al Gleeb</title>
-    </programme>
-    <programme start="20250927081300 +0000" stop="20250927085500 +0000" channel="387238.shahid">
-        <title>Wifi Season 3 Episode 21</title>
-    </programme>
-    <programme start="20250927085500 +0000" stop="20250927093000 +0000" channel="387238.shahid">
-        <title>Eish Safari: Year Of Handicrafts Season 11 Episode 3</title>
-    </programme>
-    <programme start="20250927093000 +0000" stop="20250927110000 +0000" channel="387238.shahid">
-        <title>Kalam Nawa&#039;em Season 23 Episode 11</title>
-    </programme>
-    <programme start="20250927110000 +0000" stop="20250927130000 +0000" channel="387238.shahid">
-        <title>MBC Fi Osbou&#039;</title>
-    </programme>
-    <programme start="20250927130000 +0000" stop="20250927144500 +0000" channel="387238.shahid">
-        <title>Banat Thanawi</title>
-    </programme>
-    <programme start="20250927144500 +0000" stop="20250927150000 +0000" channel="387238.shahid">
-        <title>Min Deera Li Deera: Best Of  </title>
-    </programme>
-    <programme start="20250927150000 +0000" stop="20250927160000 +0000" channel="387238.shahid">
-        <title>Laish Laa?</title>
-    </programme>
-    <programme start="20250927160000 +0000" stop="20250927164500 +0000" channel="387238.shahid">
-        <title>Spotlight Season 1 Episode 11</title>
-    </programme>
-    <programme start="20250927164500 +0000" stop="20250927165500 +0000" channel="387238.shahid">
-        <title>Ard Al Million TV Extra</title>
-    </programme>
-    <programme start="20250927165500 +0000" stop="20250927173400 +0000" channel="387238.shahid">
-        <title>Eish Safari: Year Of Handicrafts Season 11 Episode 3</title>
-    </programme>
-    <programme start="20250927173400 +0000" stop="20250927174800 +0000" channel="387238.shahid">
-        <title>Malek Bel Taweela Season 7 Episode 3</title>
-    </programme>
-    <programme start="20250927174800 +0000" stop="20250927180000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="387238.shahid">
-        <title>Studio 22 Season 2 Episode 9</title>
-    </programme>
-    <programme start="20250927190000 +0000" stop="20250927200000 +0000" channel="387238.shahid">
-        <title>Takeshi&#039;s Castle Season 3 Episode 3</title>
-    </programme>
-    <programme start="20250927200000 +0000" stop="20250927213000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20250927213000 +0000" stop="20250927233000 +0000" channel="387238.shahid">
-        <title>Saheb El Maqam</title>
-    </programme>
-    <programme start="20250927233000 +0000" stop="20250928003000 +0000" channel="387238.shahid">
-        <title>Min Ela Season 3 Episode 3</title>
-    </programme>
-    <programme start="20250928003000 +0000" stop="20250928011400 +0000" channel="387238.shahid">
-        <title>Spotlight Season 1 Episode 11</title>
-    </programme>
-    <programme start="20250928011400 +0000" stop="20250928012000 +0000" channel="387238.shahid">
-        <title>Ard Al Million TV Extra</title>
-    </programme>
-    <programme start="20250928012000 +0000" stop="20250928024400 +0000" channel="387238.shahid">
-        <title>Kalam Nawa&#039;em Season 23 Episode 11</title>
-    </programme>
-    <programme start="20250928024400 +0000" stop="20250928041200 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20250928041200 +0000" stop="20250928051200 +0000" channel="387238.shahid">
-        <title>Laish Laa?</title>
-    </programme>
-    <programme start="20250928051200 +0000" stop="20250928055900 +0000" channel="387238.shahid">
-        <title>Mona&#039;s Table Podcast Season 1 Episode 2</title>
-    </programme>
-    <programme start="20250928055900 +0000" stop="20250928235959 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20250927000000 +0000" stop="20250927001352 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 5 Episode 19</title>
     </programme>
@@ -4730,6 +4634,102 @@
         <title>Bab Al Hara Season 7 Episode 16</title>
     </programme>
     <programme start="20250928234951 +0000" stop="20250928235959 +0000" channel="975435.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250927000000 +0000" stop="20250927002400 +0000" channel="387238.shahid">
+        <title>Wifi Season 3 Episode 21</title>
+    </programme>
+    <programme start="20250927002400 +0000" stop="20250927015900 +0000" channel="387238.shahid">
+        <title>Majid Sawt Al Hob - First Part</title>
+    </programme>
+    <programme start="20250927015900 +0000" stop="20250927025000 +0000" channel="387238.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 2</title>
+    </programme>
+    <programme start="20250927025000 +0000" stop="20250927042000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20250927042000 +0000" stop="20250927051500 +0000" channel="387238.shahid">
+        <title>Min Ela</title>
+    </programme>
+    <programme start="20250927051500 +0000" stop="20250927060000 +0000" channel="387238.shahid">
+        <title>Spotlight Season 1 Episode 11</title>
+    </programme>
+    <programme start="20250927060000 +0000" stop="20250927081300 +0000" channel="387238.shahid">
+        <title>Al Theeb Fi Al Gleeb</title>
+    </programme>
+    <programme start="20250927081300 +0000" stop="20250927085500 +0000" channel="387238.shahid">
+        <title>Wifi Season 3 Episode 21</title>
+    </programme>
+    <programme start="20250927085500 +0000" stop="20250927093000 +0000" channel="387238.shahid">
+        <title>Eish Safari: Year Of Handicrafts Season 11 Episode 3</title>
+    </programme>
+    <programme start="20250927093000 +0000" stop="20250927110000 +0000" channel="387238.shahid">
+        <title>Kalam Nawa&#039;em Season 23 Episode 11</title>
+    </programme>
+    <programme start="20250927110000 +0000" stop="20250927130000 +0000" channel="387238.shahid">
+        <title>MBC Fi Osbou&#039;</title>
+    </programme>
+    <programme start="20250927130000 +0000" stop="20250927144500 +0000" channel="387238.shahid">
+        <title>Banat Thanawi</title>
+    </programme>
+    <programme start="20250927144500 +0000" stop="20250927150000 +0000" channel="387238.shahid">
+        <title>Min Deera Li Deera: Best Of  </title>
+    </programme>
+    <programme start="20250927150000 +0000" stop="20250927160000 +0000" channel="387238.shahid">
+        <title>Laish Laa?</title>
+    </programme>
+    <programme start="20250927160000 +0000" stop="20250927164500 +0000" channel="387238.shahid">
+        <title>Spotlight Season 1 Episode 11</title>
+    </programme>
+    <programme start="20250927164500 +0000" stop="20250927165500 +0000" channel="387238.shahid">
+        <title>Ard Al Million TV Extra</title>
+    </programme>
+    <programme start="20250927165500 +0000" stop="20250927173400 +0000" channel="387238.shahid">
+        <title>Eish Safari: Year Of Handicrafts Season 11 Episode 3</title>
+    </programme>
+    <programme start="20250927173400 +0000" stop="20250927174800 +0000" channel="387238.shahid">
+        <title>Malek Bel Taweela Season 7 Episode 3</title>
+    </programme>
+    <programme start="20250927174800 +0000" stop="20250927180000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="387238.shahid">
+        <title>Studio 22 Season 2 Episode 9</title>
+    </programme>
+    <programme start="20250927190000 +0000" stop="20250927200000 +0000" channel="387238.shahid">
+        <title>Takeshi&#039;s Castle Season 3 Episode 3</title>
+    </programme>
+    <programme start="20250927200000 +0000" stop="20250927213000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20250927213000 +0000" stop="20250927233000 +0000" channel="387238.shahid">
+        <title>Saheb El Maqam</title>
+    </programme>
+    <programme start="20250927233000 +0000" stop="20250928003000 +0000" channel="387238.shahid">
+        <title>Min Ela Season 3 Episode 3</title>
+    </programme>
+    <programme start="20250928003000 +0000" stop="20250928011400 +0000" channel="387238.shahid">
+        <title>Spotlight Season 1 Episode 11</title>
+    </programme>
+    <programme start="20250928011400 +0000" stop="20250928012000 +0000" channel="387238.shahid">
+        <title>Ard Al Million TV Extra</title>
+    </programme>
+    <programme start="20250928012000 +0000" stop="20250928024400 +0000" channel="387238.shahid">
+        <title>Kalam Nawa&#039;em Season 23 Episode 11</title>
+    </programme>
+    <programme start="20250928024400 +0000" stop="20250928041200 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20250928041200 +0000" stop="20250928051200 +0000" channel="387238.shahid">
+        <title>Laish Laa?</title>
+    </programme>
+    <programme start="20250928051200 +0000" stop="20250928055900 +0000" channel="387238.shahid">
+        <title>Mona&#039;s Table Podcast Season 1 Episode 2</title>
+    </programme>
+    <programme start="20250928055900 +0000" stop="20250928235959 +0000" channel="387238.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20250927000000 +0000" stop="20250927000500 +0000" channel="946938.shahid">
