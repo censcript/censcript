@@ -523,6 +523,12 @@
 <programme start="20250927041500 +0000" stop="20250927050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
+<programme start="20250927050000 +0000" stop="20250927054500 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20250927054500 +0000" stop="20250927063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
 <programme start="20250927063000 +0000" stop="20250927071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
@@ -645,6 +651,9 @@
 </programme>
 <programme start="20250927093000 +0000" stop="20250927110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20250927110000 +0000" stop="20250927123000 +0000" channel="ANTV.vision">
+<title>Malam Satu Syuro</title>
 </programme>
 <programme start="20250927123000 +0000" stop="20250927143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20250928070000 +0000" stop="20250928080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20250928080000 +0000" stop="20250928083000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20250928083000 +0000" stop="20250928093000 +0000" channel="BTV.vision">
-<title>Cetar: Celeb On Target</title>
-</programme>
-<programme start="20250928093000 +0000" stop="20250928103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
 </programme>

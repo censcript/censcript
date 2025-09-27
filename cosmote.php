@@ -74,6 +74,10 @@
     <title>Football: Panetolikos - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250929031000 +0700" stop="20250929060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250928014500 +0700" stop="20250928034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
@@ -149,10 +153,6 @@
 <programme start="20250929023000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Famalicao - Rio Ave (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250928003000 +0700" stop="20250928023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Ittihad - Al Nassr</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928023000 +0700" stop="20250928043000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estoril - Sporting CP (L)</title>
@@ -234,6 +234,10 @@
     <title>Football: AC Milan - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250929034500 +0700" stop="20250929055000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: AEK - Volos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250928020000 +0700" stop="20250928040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Tenerife (L)</title>
     <desc>Live: Ya</desc>
@@ -306,8 +310,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928014500 +0700" stop="20250928024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20250929030000 +0700" stop="20250929033000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929033000 +0700" stop="20250929060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Lega Basket Supercoppa 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928024500 +0700" stop="20250928034500 +0700" channel="COSMOTE Sport 5 HD">
@@ -395,6 +403,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929021500 +0700" stop="20250929030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929030500 +0700" stop="20250929041000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -634,8 +646,8 @@
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250928010000 +0700" stop="20250928030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Al Fateh - Al-Qadsiah (L)</title>
+<programme start="20250929030000 +0700" stop="20250929040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250928030000 +0700" stop="20250928033000 +0700" channel="COSMOTE Sport 9 HD">
@@ -688,6 +700,10 @@
 </programme>
 <programme start="20250929000000 +0700" stop="20250929032500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Atlanta Falcons - Washington Commanders (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250929032500 +0700" stop="20250929065500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Kansas City Chiefs - Baltimore Ravens (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
