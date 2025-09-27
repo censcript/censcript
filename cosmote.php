@@ -74,14 +74,6 @@
     <title>Football: Panetolikos - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250928010000 +0700" stop="20250928011500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928011500 +0700" stop="20250928014500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928014500 +0700" stop="20250928034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
@@ -149,6 +141,14 @@
 <programme start="20250929011500 +0700" stop="20250929021000 +0700" channel="COSMOTE Sport 2 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E2</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929021000 +0700" stop="20250929023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929023000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Famalicao - Rio Ave (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250928003000 +0700" stop="20250928023000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Nassr</title>
@@ -234,14 +234,6 @@
     <title>Football: AC Milan - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250928010000 +0700" stop="20250928013000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928013000 +0700" stop="20250928020000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928020000 +0700" stop="20250928040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Tenerife (L)</title>
     <desc>Live: Ya</desc>
@@ -310,9 +302,9 @@
     <title>Basketball: ACB Supercopa Endesa 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250927234500 +0700" stop="20250928014500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: Motherwell - Aberdeen (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250929023000 +0700" stop="20250929030000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928014500 +0700" stop="20250928024500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -402,8 +394,8 @@
     <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928010000 +0700" stop="20250928020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Jet Ski World Series 2025</title>
+<programme start="20250929021500 +0700" stop="20250929030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928020000 +0700" stop="20250928040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -470,8 +462,12 @@
     <title>Football: SC Braga - Nacional (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250928010000 +0700" stop="20250928014500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20250929020000 +0700" stop="20250929023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929023000 +0700" stop="20250929053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928014500 +0700" stop="20250928034500 +0700" channel="COSMOTE Sport 7 HD">
@@ -550,6 +546,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250929020000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Basketball: Indiana Fever - Las Vegas Aces (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250928010000 +0700" stop="20250928033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -627,6 +627,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929010000 +0700" stop="20250929020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250929020000 +0700" stop="20250929030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
