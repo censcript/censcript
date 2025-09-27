@@ -1591,66 +1591,6 @@
 <programme start="20250927214000 +0000" stop="20250927220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250926225500 +0000" stop="20250927002500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Mexiko</title>
-</programme>
-<programme start="20250927002500 +0000" stop="20250927020000 +0000" channel="Romance TV HD.skyde">
-    <title>Barbara Wood - Das Haus der Harmonie Teil 1</title>
-</programme>
-<programme start="20250927020000 +0000" stop="20250927020500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250927020500 +0000" stop="20250927021000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250927021000 +0000" stop="20250927021500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250927021500 +0000" stop="20250927022000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250927022000 +0000" stop="20250927022500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
-</programme>
-<programme start="20250927022500 +0000" stop="20250927035500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Das Postboot in den Schären</title>
-</programme>
-<programme start="20250927035500 +0000" stop="20250927053000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
-</programme>
-<programme start="20250927053000 +0000" stop="20250927070500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Gespenst von Cassley</title>
-</programme>
-<programme start="20250927070500 +0000" stop="20250927084000 +0000" channel="Romance TV HD.skyde">
-    <title>Ihr seid natürlich eingeladen</title>
-</programme>
-<programme start="20250927084000 +0000" stop="20250927101500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wo dein Herz wohnt</title>
-</programme>
-<programme start="20250927101500 +0000" stop="20250927115500 +0000" channel="Romance TV HD.skyde">
-    <title>Zweimal frisch verliebt</title>
-</programme>
-<programme start="20250927115500 +0000" stop="20250927133000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Mexiko</title>
-</programme>
-<programme start="20250927133000 +0000" stop="20250927150500 +0000" channel="Romance TV HD.skyde">
-    <title>Barbara Wood - Das Haus der Harmonie Teil 1</title>
-</programme>
-<programme start="20250927150500 +0000" stop="20250927164000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Sommer der Erinnerung</title>
-</programme>
-<programme start="20250927164000 +0000" stop="20250927181500 +0000" channel="Romance TV HD.skyde">
-    <title>Katie Fforde: Mama allein zu Haus</title>
-</programme>
-<programme start="20250927181500 +0000" stop="20250927194500 +0000" channel="Romance TV HD.skyde">
-    <title>Donna Leon: Endlich mein</title>
-</programme>
-<programme start="20250927194500 +0000" stop="20250927212000 +0000" channel="Romance TV HD.skyde">
-    <title>Geheimnis der Karibik</title>
-</programme>
-<programme start="20250927212000 +0000" stop="20250927225000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Das Geheimnis der Nordquists</title>
-</programme>
 <programme start="20250926220500 +0000" stop="20250926225000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Last of Us</title>
 </programme>
