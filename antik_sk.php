@@ -3301,28 +3301,28 @@
   <programme start="20250929213000 +0000" stop="20250929220000 +0000" channel="NOE.webtv.sk">
     <title lang="id">V souvislostech</title>
   </programme>
-  <programme start="20250928214700 +0000" stop="20250928223000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928214900 +0000" stop="20250928223200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVI (23)</title>
   </programme>
-  <programme start="20250928223000 +0000" stop="20250928230500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928223200 +0000" stop="20250928230500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Legendy kriminalistiky IV</title>
   </programme>
-  <programme start="20250928230500 +0000" stop="20250928233500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928230500 +0000" stop="20250928233600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20250928233500 +0000" stop="20250929002500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250928233600 +0000" stop="20250929002600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gomora V (6/10)</title>
   </programme>
-  <programme start="20250929002500 +0000" stop="20250929012500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929002600 +0000" stop="20250929012500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
   <programme start="20250929012500 +0000" stop="20250929025000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zpívá celá rodina</title>
   </programme>
-  <programme start="20250929025000 +0000" stop="20250929030100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929025000 +0000" stop="20250929030300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">English is English</title>
   </programme>
-  <programme start="20250929030100 +0000" stop="20250929033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929030300 +0000" stop="20250929033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři +</title>
   </programme>
   <programme start="20250929033000 +0000" stop="20250929035900 +0000" channel="ČT1.webtv.sk">
@@ -3388,25 +3388,25 @@
   <programme start="20250929175600 +0000" stop="20250929181000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Branky, body, vteřiny</title>
   </programme>
-  <programme start="20250929181000 +0000" stop="20250929191500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929181000 +0000" stop="20250929191600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Oktopus II (4/12)</title>
   </programme>
-  <programme start="20250929191500 +0000" stop="20250929195500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929191600 +0000" stop="20250929195800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři ČT</title>
   </programme>
-  <programme start="20250929195500 +0000" stop="20250929202400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929195800 +0000" stop="20250929202600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Galerie Selfie: Klára Mrázková a Jiří Prskavec</title>
   </programme>
-  <programme start="20250929202400 +0000" stop="20250929202500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929202600 +0000" stop="20250929202900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20250929202500 +0000" stop="20250929210000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929202900 +0000" stop="20250929210000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Legendy kriminalistiky IV</title>
   </programme>
-  <programme start="20250929210000 +0000" stop="20250929214500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929210000 +0000" stop="20250929214700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sraz (5/6)</title>
   </programme>
-  <programme start="20250929214500 +0000" stop="20250929224500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20250929214700 +0000" stop="20250929224500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gomora V (7/10)</title>
   </programme>
   <programme start="20250928213500 +0000" stop="20250928223700 +0000" channel="ČT2.webtv.sk">

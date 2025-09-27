@@ -1,7 +1,3 @@
-<programme start="20250927210000 +0700" stop="20250927220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250927220000 +0700" stop="20250928000500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Levadiakos (L)</title>
     <desc>Live: Ya</desc>
@@ -78,10 +74,6 @@
     <title>Football: AEK - Volos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250927200000 +0700" stop="20250927220000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Como - Cremonese (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250927220000 +0700" stop="20250927223000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Worldies E3</title>
     <desc>Live: Tidak</desc>
@@ -152,6 +144,14 @@
 </programme>
 <programme start="20250928200000 +0700" stop="20250928220000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Hellas Verona (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250928220000 +0700" stop="20250928223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928223000 +0700" stop="20250928230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250927203000 +0700" stop="20250927223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,6 +226,14 @@
     <title>Football: Pisa - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20250928220000 +0700" stop="20250928221500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928221500 +0700" stop="20250928230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Football Countdowns E8</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250927205000 +0700" stop="20250927230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Olympiacos BC - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -296,10 +304,6 @@
 </programme>
 <programme start="20250928210000 +0700" stop="20250928230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250927203000 +0700" stop="20250927213500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927213500 +0700" stop="20250927224500 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,8 +394,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927190000 +0700" stop="20250927230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025</title>
+<programme start="20250927220000 +0700" stop="20250927230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927230000 +0700" stop="20250928004000 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,12 +410,20 @@
     <title>Jet Ski World Series 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928020000 +0700" stop="20250928043000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250928020000 +0700" stop="20250928040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Arthur Cazaux - Jakub Mensik</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928043000 +0700" stop="20250928083000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025</title>
+<programme start="20250928040000 +0700" stop="20250928055500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Ethan Quinn - Holger Rune</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928055500 +0700" stop="20250928073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Carlos Alcaraz - Zizou Bergs</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928073000 +0700" stop="20250928083000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928083000 +0700" stop="20250928090000 +0700" channel="COSMOTE Sport 6 HD">
@@ -419,11 +431,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928090000 +0700" stop="20250928110000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Sebastian Korda - Taylor Fritz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250928110000 +0700" stop="20250928133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Jenson Brooksby - Holger Rune (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250928133000 +0700" stop="20250928140000 +0700" channel="COSMOTE Sport 6 HD">
@@ -431,11 +443,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928140000 +0700" stop="20250928160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Casper Ruud - Aleksandar Vukic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250928160000 +0700" stop="20250928183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Carlos Alcaraz - Brandon Nakashima (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250928183000 +0700" stop="20250928190000 +0700" channel="COSMOTE Sport 6 HD">
@@ -448,10 +460,6 @@
 </programme>
 <programme start="20250928210000 +0700" stop="20250928230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: Livingston - Rangers FC (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250927193000 +0700" stop="20250927220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Arthur Cazaux - Jakub Mensik (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250927220000 +0700" stop="20250927223000 +0700" channel="COSMOTE Sport 7 HD">
@@ -530,8 +538,12 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927200000 +0700" stop="20250927220000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20250928220000 +0700" stop="20250928223000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928223000 +0700" stop="20250928230000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927220000 +0700" stop="20250927223000 +0700" channel="COSMOTE Sport 8 HD">

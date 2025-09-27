@@ -1591,65 +1591,59 @@
 <programme start="20250927214000 +0000" stop="20250927220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250926225500 +0000" stop="20250927002500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Mexiko</title>
+<programme start="20250927225000 +0000" stop="20250928002500 +0000" channel="Romance TV HD.skyde">
+    <title>Donna Leon: Tod zwischen den Zeilen</title>
 </programme>
-<programme start="20250927002500 +0000" stop="20250927020000 +0000" channel="Romance TV HD.skyde">
-    <title>Barbara Wood - Das Haus der Harmonie Teil 1</title>
+<programme start="20250928002500 +0000" stop="20250928004000 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
 </programme>
-<programme start="20250927020000 +0000" stop="20250927020500 +0000" channel="Romance TV HD.skyde">
+<programme start="20250928004000 +0000" stop="20250928021000 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Der Zauber von Neuseeland</title>
+</programme>
+<programme start="20250928021000 +0000" stop="20250928022500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20250928022500 +0000" stop="20250928023000 +0000" channel="Romance TV HD.skyde">
     <title>Paare</title>
 </programme>
-<programme start="20250927020500 +0000" stop="20250927021000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20250928023000 +0000" stop="20250928040500 +0000" channel="Romance TV HD.skyde">
+    <title>Barbara Wood - Sturmjahre</title>
 </programme>
-<programme start="20250927021000 +0000" stop="20250927021500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20250928040500 +0000" stop="20250928054000 +0000" channel="Romance TV HD.skyde">
+    <title>Uferlos!</title>
 </programme>
-<programme start="20250927021500 +0000" stop="20250927022000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20250928054000 +0000" stop="20250928071500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Anders - Zwei sind einer zu viel</title>
 </programme>
-<programme start="20250927022000 +0000" stop="20250927022500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20250928071500 +0000" stop="20250928085000 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Eine Handvoll Zeit</title>
 </programme>
-<programme start="20250927022500 +0000" stop="20250927035500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Das Postboot in den Schären</title>
+<programme start="20250928085000 +0000" stop="20250928102500 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Kleiner Engel, kleiner Teufel</title>
 </programme>
-<programme start="20250927035500 +0000" stop="20250927053000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
+<programme start="20250928102500 +0000" stop="20250928115500 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Das Geheimnis vom Rabenkopf</title>
 </programme>
-<programme start="20250927053000 +0000" stop="20250927070500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Gespenst von Cassley</title>
+<programme start="20250928115500 +0000" stop="20250928133000 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz: Lügenbaby</title>
 </programme>
-<programme start="20250927070500 +0000" stop="20250927084000 +0000" channel="Romance TV HD.skyde">
-    <title>Ihr seid natürlich eingeladen</title>
+<programme start="20250928133000 +0000" stop="20250928150500 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Der Zauber von Neuseeland</title>
 </programme>
-<programme start="20250927084000 +0000" stop="20250927101500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wo dein Herz wohnt</title>
+<programme start="20250928150500 +0000" stop="20250928164000 +0000" channel="Romance TV HD.skyde">
+    <title>Auf der anderen Seite des Bettes</title>
 </programme>
-<programme start="20250927101500 +0000" stop="20250927115500 +0000" channel="Romance TV HD.skyde">
-    <title>Zweimal frisch verliebt</title>
+<programme start="20250928164000 +0000" stop="20250928181500 +0000" channel="Romance TV HD.skyde">
+    <title>Lehrer kann jeder!</title>
 </programme>
-<programme start="20250927115500 +0000" stop="20250927133000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Mexiko</title>
+<programme start="20250928181500 +0000" stop="20250928195000 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
 </programme>
-<programme start="20250927133000 +0000" stop="20250927150500 +0000" channel="Romance TV HD.skyde">
-    <title>Barbara Wood - Das Haus der Harmonie Teil 1</title>
+<programme start="20250928195000 +0000" stop="20250928212500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die versprochene Braut</title>
 </programme>
-<programme start="20250927150500 +0000" stop="20250927164000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Sommer der Erinnerung</title>
-</programme>
-<programme start="20250927164000 +0000" stop="20250927181500 +0000" channel="Romance TV HD.skyde">
-    <title>Katie Fforde: Mama allein zu Haus</title>
-</programme>
-<programme start="20250927181500 +0000" stop="20250927194500 +0000" channel="Romance TV HD.skyde">
-    <title>Donna Leon: Endlich mein</title>
-</programme>
-<programme start="20250927194500 +0000" stop="20250927212000 +0000" channel="Romance TV HD.skyde">
-    <title>Geheimnis der Karibik</title>
-</programme>
-<programme start="20250927212000 +0000" stop="20250927225000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Das Geheimnis der Nordquists</title>
+<programme start="20250928212500 +0000" stop="20250928230000 +0000" channel="Romance TV HD.skyde">
+    <title>Romantik à la Carte</title>
 </programme>
 <programme start="20250926220500 +0000" stop="20250926225000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Last of Us</title>
