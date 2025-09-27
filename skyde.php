@@ -1591,6 +1591,66 @@
 <programme start="20250927214000 +0000" stop="20250927220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20250926225500 +0000" stop="20250927002500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Mexiko</title>
+</programme>
+<programme start="20250927002500 +0000" stop="20250927020000 +0000" channel="Romance TV HD.skyde">
+    <title>Barbara Wood - Das Haus der Harmonie Teil 1</title>
+</programme>
+<programme start="20250927020000 +0000" stop="20250927020500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250927020500 +0000" stop="20250927021000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250927021000 +0000" stop="20250927021500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250927021500 +0000" stop="20250927022000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250927022000 +0000" stop="20250927022500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20250927022500 +0000" stop="20250927035500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Das Postboot in den Schären</title>
+</programme>
+<programme start="20250927035500 +0000" stop="20250927053000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
+</programme>
+<programme start="20250927053000 +0000" stop="20250927070500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Das Gespenst von Cassley</title>
+</programme>
+<programme start="20250927070500 +0000" stop="20250927084000 +0000" channel="Romance TV HD.skyde">
+    <title>Ihr seid natürlich eingeladen</title>
+</programme>
+<programme start="20250927084000 +0000" stop="20250927101500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Wo dein Herz wohnt</title>
+</programme>
+<programme start="20250927101500 +0000" stop="20250927115500 +0000" channel="Romance TV HD.skyde">
+    <title>Zweimal frisch verliebt</title>
+</programme>
+<programme start="20250927115500 +0000" stop="20250927133000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Mexiko</title>
+</programme>
+<programme start="20250927133000 +0000" stop="20250927150500 +0000" channel="Romance TV HD.skyde">
+    <title>Barbara Wood - Das Haus der Harmonie Teil 1</title>
+</programme>
+<programme start="20250927150500 +0000" stop="20250927164000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Sommer der Erinnerung</title>
+</programme>
+<programme start="20250927164000 +0000" stop="20250927181500 +0000" channel="Romance TV HD.skyde">
+    <title>Katie Fforde: Mama allein zu Haus</title>
+</programme>
+<programme start="20250927181500 +0000" stop="20250927194500 +0000" channel="Romance TV HD.skyde">
+    <title>Donna Leon: Endlich mein</title>
+</programme>
+<programme start="20250927194500 +0000" stop="20250927212000 +0000" channel="Romance TV HD.skyde">
+    <title>Geheimnis der Karibik</title>
+</programme>
+<programme start="20250927212000 +0000" stop="20250927225000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Das Geheimnis der Nordquists</title>
+</programme>
 <programme start="20250926220500 +0000" stop="20250926225000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Last of Us</title>
 </programme>
@@ -2593,7 +2653,7 @@
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20250927145000 +0000" stop="20250927173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250927145000 +0000" stop="20250927170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - Grazer AK 1902, 8. Runde</title>
 </programme>
 <programme start="20250927143000 +0000" stop="20250927145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3167,7 +3227,7 @@
     <title>Live Ryder Cup: 2. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20250926223000 +0000" stop="20250927030000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: ab 05:00: Live Tennis WTA Tour</title>
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250927030000 +0000" stop="20250927150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 4. Tag</title>
@@ -3175,7 +3235,7 @@
 <programme start="20250927133000 +0000" stop="20250927135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20250927135000 +0000" stop="20250927163000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20250927135000 +0000" stop="20250927160000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Chelsea - Brighton &amp; Hove Albion, 6. Spieltag</title>
 </programme>
 <programme start="20250926220000 +0000" stop="20250926224500 +0000" channel="SYFY HD.skyde">
