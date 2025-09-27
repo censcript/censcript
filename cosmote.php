@@ -310,9 +310,9 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927224500 +0700" stop="20250927234500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20250929000000 +0700" stop="20250929023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: ACB Supercopa Endesa 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250927234500 +0700" stop="20250928014500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Motherwell - Aberdeen (L)</title>
@@ -470,6 +470,10 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250929000000 +0700" stop="20250929020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Football: SC Braga - Nacional (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20250927230000 +0700" stop="20250928010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Trentino - Brescia (L)</title>
     <desc>Live: Ya</desc>
@@ -622,8 +626,12 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927230000 +0700" stop="20250927233000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250929000000 +0700" stop="20250929003000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929003000 +0700" stop="20250929010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927233000 +0700" stop="20250928003000 +0700" channel="COSMOTE Sport 9 HD">
@@ -684,6 +692,10 @@
 </programme>
 <programme start="20250928203000 +0700" stop="20250929000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Pittsburgh Steelers - Minnesota Vikings (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20250929000000 +0700" stop="20250929032500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Atlanta Falcons - Washington Commanders (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
