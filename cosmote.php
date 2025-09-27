@@ -1,7 +1,3 @@
-<programme start="20250927130500 +0700" stop="20250927150000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: BSC Young Boys - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250927150000 +0700" stop="20250927153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E5</title>
     <desc>Live: Tidak</desc>
@@ -76,6 +72,10 @@
 </programme>
 <programme start="20250928130000 +0700" stop="20250928150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928150000 +0700" stop="20250928170000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Bayern Munchen - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927130500 +0700" stop="20250927150500 +0700" channel="COSMOTE Sport 2 HD">
@@ -154,6 +154,14 @@
     <title>Football: Juventus Football Club - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250928151500 +0700" stop="20250928154500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250928154500 +0700" stop="20250928174500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250927120000 +0700" stop="20250927153000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Arizona Cardinals - Seattle Seahawks</title>
     <desc>Live: Tidak</desc>
@@ -230,6 +238,10 @@
     <title>Football: Sheffield Wednesday - QPR</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250928152000 +0700" stop="20250928173000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Estoril - Sporting CP</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250927140000 +0700" stop="20250927161500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Indiana Fever - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
@@ -302,8 +314,8 @@
     <title>Basketball: Unicaja - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250927140000 +0700" stop="20250927150000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+<programme start="20250928150000 +0700" stop="20250928170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250927150000 +0700" stop="20250927160000 +0700" channel="COSMOTE Sport 5 HD">

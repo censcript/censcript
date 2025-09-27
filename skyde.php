@@ -1819,45 +1819,6 @@
 <programme start="20250927201000 +0000" stop="20250927221500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Die Seewölfe kommen</title>
 </programme>
-<programme start="20250926231500 +0000" stop="20250927011500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Hitch - Der Date Doktor</title>
-</programme>
-<programme start="20250927011500 +0000" stop="20250927032500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Stasikomödie</title>
-</programme>
-<programme start="20250927032500 +0000" stop="20250927051000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>My Penguin Friend</title>
-</programme>
-<programme start="20250927051000 +0000" stop="20250927065000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Paws of Fury - Die Legende von Hank</title>
-</programme>
-<programme start="20250927065000 +0000" stop="20250927082500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Ich - Einfach unverbesserlich 4</title>
-</programme>
-<programme start="20250927082500 +0000" stop="20250927101500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Adèle und das Geheimnis des Pharaos</title>
-</programme>
-<programme start="20250927101500 +0000" stop="20250927115500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Die Hüter des Lichts</title>
-</programme>
-<programme start="20250927115500 +0000" stop="20250927133500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>StreetDance 3D</title>
-</programme>
-<programme start="20250927133500 +0000" stop="20250927151000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kung Fu Panda</title>
-</programme>
-<programme start="20250927151000 +0000" stop="20250927164000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kung Fu Panda 2</title>
-</programme>
-<programme start="20250927164000 +0000" stop="20250927181500 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kung Fu Panda 4</title>
-</programme>
-<programme start="20250927181500 +0000" stop="20250927202000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Ghostbusters: Legacy</title>
-</programme>
-<programme start="20250927202000 +0000" stop="20250927221000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Kill the Boss 2</title>
-</programme>
 <programme start="20250926221500 +0000" stop="20250927001500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Eine verhängnisvolle Affäre</title>
 </programme>
