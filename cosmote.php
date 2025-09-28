@@ -1,11 +1,3 @@
-<programme start="20250928113500 +0700" stop="20250928123000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928123000 +0700" stop="20250928130000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Documentary</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928130000 +0700" stop="20250928150000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -134,8 +126,8 @@
     <title>Football: Olympiacos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928105000 +0700" stop="20250928125000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Coventry City - Birmingham City</title>
+<programme start="20250929131000 +0700" stop="20250929151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928125000 +0700" stop="20250928132000 +0700" channel="COSMOTE Sport 3 HD">
@@ -208,14 +200,6 @@
 </programme>
 <programme start="20250929110000 +0700" stop="20250929143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Atlanta Falcons - Washington Commanders</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928103000 +0700" stop="20250928123000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Virtus Bologna - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928123000 +0700" stop="20250928130000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928130000 +0700" stop="20250928150000 +0700" channel="COSMOTE Sport 4 HD">
@@ -382,6 +366,10 @@
     <title>ERC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250929131000 +0700" stop="20250929140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250928110000 +0700" stop="20250928133000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jenson Brooksby - Holger Rune (L)</title>
     <desc>Live: Ya</desc>
@@ -529,14 +517,6 @@
 <programme start="20250929120000 +0700" stop="20250929140000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250928120000 +0700" stop="20250928123000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928123000 +0700" stop="20250928130000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928130000 +0700" stop="20250928140000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
