@@ -523,24 +523,6 @@
 <programme start="20250928000000 +0000" stop="20250928010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
-<programme start="20250928013000 +0000" stop="20250928023000 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20250928023000 +0000" stop="20250928030000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20250928030000 +0000" stop="20250928063000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025 Japan</title>
-</programme>
-<programme start="20250928063000 +0000" stop="20250928071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20250928071500 +0000" stop="20250928081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20250928081500 +0000" stop="20250928090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -813,9 +795,6 @@
 </programme>
 <programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20250928013000 +0000" stop="20250928020000 +0000" channel="TVOne.vision">
-<title>Oase Indonesia</title>
 </programme>
 <programme start="20250928020000 +0000" stop="20250928023000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20250929073000 +0000" stop="20250929081500 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20250929081500 +0000" stop="20250929091500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250929091500 +0000" stop="20250929100000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250929100000 +0000" stop="20250929110000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250929110000 +0000" stop="20250929120000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20250928000000 +0000" stop="20250928010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250928010000 +0000" stop="20250928020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250928020000 +0000" stop="20250928020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
