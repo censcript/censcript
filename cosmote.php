@@ -1,7 +1,3 @@
-<programme start="20250928184500 +0700" stop="20250928200000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Greek Cup Time</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928200000 +0700" stop="20250928210000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
@@ -52,10 +48,6 @@
 </programme>
 <programme start="20250929183000 +0700" stop="20250929212000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928174500 +0700" stop="20250928200000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928200000 +0700" stop="20250928220000 +0700" channel="COSMOTE Sport 2 HD">
@@ -122,14 +114,6 @@
     <title>Football: AS Roma - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928173000 +0700" stop="20250928193000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sassuolo - Udinese (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250928193000 +0700" stop="20250928200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928200000 +0700" stop="20250928220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pisa - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
@@ -194,8 +178,8 @@
     <title>Football: SC Braga - Nacional</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928170000 +0700" stop="20250928191000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Trentino - Brescia</title>
+<programme start="20250929203000 +0700" stop="20250929235000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Kansas City Chiefs - Baltimore Ravens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928191000 +0700" stop="20250928214500 +0700" channel="COSMOTE Sport 4 HD">
@@ -252,10 +236,6 @@
 </programme>
 <programme start="20250929183000 +0700" stop="20250929210000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Lega Basket Supercoppa 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928184000 +0700" stop="20250928200000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928200000 +0700" stop="20250928212000 +0700" channel="COSMOTE Sport 5 HD">
@@ -352,6 +332,10 @@
 </programme>
 <programme start="20250929194000 +0700" stop="20250929204000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929204000 +0700" stop="20250929220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928190000 +0700" stop="20250928210000 +0700" channel="COSMOTE Sport 6 HD">
@@ -582,8 +566,8 @@
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250928180000 +0700" stop="20250928200000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20250929203000 +0700" stop="20250929210000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928200000 +0700" stop="20250928203000 +0700" channel="COSMOTE Sport 9 HD">
@@ -635,6 +619,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929180000 +0700" stop="20250929200000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929200000 +0700" stop="20250929220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
