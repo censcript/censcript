@@ -817,9 +817,6 @@
 <programme start="20250928110000 +0000" stop="20250928130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20250928130000 +0000" stop="20250928143000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa: Melepas Diri...</title>
-</programme>
 <programme start="20250928143000 +0000" stop="20250928153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250928030300 +0000" stop="20250928033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
