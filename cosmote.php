@@ -50,12 +50,8 @@
     <title>Football: Manchester City FC - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929011500 +0700" stop="20250929021000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250929021000 +0700" stop="20250929023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E5</title>
+<programme start="20250930033000 +0700" stop="20250930053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Bayern Munchen - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929023000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 2 HD">
@@ -109,6 +105,10 @@
 <programme start="20250930014500 +0700" stop="20250930034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250930034500 +0700" stop="20250930060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929014500 +0700" stop="20250929034500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AC Milan - SSC Napoli (L)</title>
@@ -166,14 +166,6 @@
     <title>Football: Arouca - FC Porto (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250929000000 +0700" stop="20250929023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Valencia Basket Club (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250929023000 +0700" stop="20250929030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250929030000 +0700" stop="20250929033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -226,8 +218,8 @@
     <title>Basketball: ACB Supercopa Endesa 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929014500 +0700" stop="20250929021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E8</title>
+<programme start="20250930033000 +0700" stop="20250930060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Indiana Fever - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929021500 +0700" stop="20250929030500 +0700" channel="COSMOTE Sport 5 HD">
@@ -326,20 +318,20 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929020000 +0700" stop="20250929023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
+<programme start="20250930033500 +0700" stop="20250930040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E8</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929023000 +0700" stop="20250929053000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250929020000 +0700" stop="20250929043500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929053000 +0700" stop="20250929080000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20250929043500 +0700" stop="20250929073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Corentin Moutet - Alexander Zverev</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929080000 +0700" stop="20250929100000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025</title>
+<programme start="20250929073000 +0700" stop="20250929100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Sebastian Korda - Taylor Fritz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929100000 +0700" stop="20250929103000 +0700" channel="COSMOTE Sport 6 HD">
@@ -359,11 +351,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929140000 +0700" stop="20250929160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Jenson Brooksby - Taylor Fritz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929160000 +0700" stop="20250929183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Carlos Alcaraz - Casper Ruud (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929183000 +0700" stop="20250929190000 +0700" channel="COSMOTE Sport 6 HD">
@@ -384,6 +376,10 @@
 </programme>
 <programme start="20250930020500 +0700" stop="20250930033500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250930033500 +0700" stop="20250930060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929020000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 7 HD">
@@ -411,11 +407,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929120000 +0700" stop="20250929140000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Alex de Minaur - Jakub Mensik (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929140000 +0700" stop="20250929163000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Jannik Sinner - Fabian Marozsan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929163000 +0700" stop="20250929170000 +0700" channel="COSMOTE Sport 7 HD">
@@ -439,7 +435,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929193000 +0700" stop="20250929220000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Daniil Medvedev - Alexander Zverev (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929220000 +0700" stop="20250929223000 +0700" channel="COSMOTE Sport 7 HD">
@@ -461,10 +457,6 @@
 <programme start="20250930020000 +0700" stop="20250930040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250929020000 +0700" stop="20250929030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929030000 +0700" stop="20250929040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
@@ -511,7 +503,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929180000 +0700" stop="20250929203000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Learner Tien - Lorenzo Musetti (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250929203000 +0700" stop="20250929210000 +0700" channel="COSMOTE Sport 8 HD">
