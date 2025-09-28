@@ -1,7 +1,3 @@
-<programme start="20250928130000 +0700" stop="20250928150000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928150000 +0700" stop="20250928170000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Bayern Munchen - Chelsea FC</title>
     <desc>Live: Tidak</desc>
@@ -60,6 +56,10 @@
 </programme>
 <programme start="20250929145500 +0700" stop="20250929153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929153000 +0700" stop="20250929163000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928131500 +0700" stop="20250928151500 +0700" channel="COSMOTE Sport 2 HD">
@@ -128,6 +128,10 @@
 </programme>
 <programme start="20250929131000 +0700" stop="20250929151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929151000 +0700" stop="20250929171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928132000 +0700" stop="20250928152000 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,10 +206,6 @@
     <title>Football: Famalicao - Rio Ave</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250928130000 +0700" stop="20250928150000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250928150000 +0700" stop="20250928170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Tenerife</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +268,6 @@
 </programme>
 <programme start="20250929143000 +0700" stop="20250929163000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Trentino - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250928135000 +0700" stop="20250928145000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250928145000 +0700" stop="20250928162500 +0700" channel="COSMOTE Sport 5 HD">
@@ -367,6 +363,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929140000 +0700" stop="20250929153000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20250929153000 +0700" stop="20250929170500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
