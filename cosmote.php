@@ -50,9 +50,9 @@
     <title>Football: FC Bayern Munchen - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929023000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Famalicao - Rio Ave (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20250930053000 +0700" stop="20250930073000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Juventus Football Club - Borussia Dortmund</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929043000 +0700" stop="20250929064500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Panathinaikos</title>
@@ -218,14 +218,6 @@
     <title>Basketball: Indiana Fever - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929030500 +0700" stop="20250929041000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250929041000 +0700" stop="20250929044000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250929044000 +0700" stop="20250929053000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
@@ -318,8 +310,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929020000 +0700" stop="20250929043500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
+<programme start="20250930053500 +0700" stop="20250930063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929043500 +0700" stop="20250929073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -376,14 +368,6 @@
 </programme>
 <programme start="20250930033500 +0700" stop="20250930060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250929020000 +0700" stop="20250929043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Indiana Fever - Las Vegas Aces (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250929043000 +0700" stop="20250929050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929050000 +0700" stop="20250929080000 +0700" channel="COSMOTE Sport 7 HD">
