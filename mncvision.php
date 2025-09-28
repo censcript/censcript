@@ -3916,7 +3916,87 @@
 <programme start="20250928162000 +0000" stop="20250928165000 +0000" channel="Global Trekker.mncvision">
     <title>Jaguarland</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250927174500 +0000" stop="20250927185000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 2</title>
+</programme>
+<programme start="20250927185000 +0000" stop="20250927194500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination China: Yunnan, Ep 2</title>
+</programme>
+<programme start="20250927194500 +0000" stop="20250927203500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Myanmar</title>
+</programme>
+<programme start="20250927203500 +0000" stop="20250927213000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Jaguarland</title>
+</programme>
+<programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wild Warrior Encounters, Ep 1</title>
+</programme>
+<programme start="20250927220000 +0000" stop="20250927231000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 1</title>
+</programme>
+<programme start="20250927231000 +0000" stop="20250928001500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Attenborough&#039;s Life In..., Ep 2</title>
+</programme>
+<programme start="20250928001500 +0000" stop="20250928011000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Black In Space: Color Barrier</title>
+</programme>
+<programme start="20250928011000 +0000" stop="20250928020000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 4</title>
+</programme>
+<programme start="20250928020000 +0000" stop="20250928025000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 5</title>
+</programme>
+<programme start="20250928025000 +0000" stop="20250928034000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 6</title>
+</programme>
+<programme start="20250928034000 +0000" stop="20250928043000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 7</title>
+</programme>
+<programme start="20250928043000 +0000" stop="20250928052000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 8</title>
+</programme>
+<programme start="20250928052000 +0000" stop="20250928061000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 9</title>
+</programme>
+<programme start="20250928061000 +0000" stop="20250928070500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Jaguarland</title>
+</programme>
+<programme start="20250928070500 +0000" stop="20250928080000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Black In Space: Color Barrier</title>
+</programme>
+<programme start="20250928080000 +0000" stop="20250928085000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 4</title>
+</programme>
+<programme start="20250928085000 +0000" stop="20250928094000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 5</title>
+</programme>
+<programme start="20250928094000 +0000" stop="20250928103000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 6</title>
+</programme>
+<programme start="20250928103000 +0000" stop="20250928112000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 7</title>
+</programme>
+<programme start="20250928112000 +0000" stop="20250928121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S11, Ep 8</title>
+</programme>
+<programme start="20250928121000 +0000" stop="20250928130000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Canada: Year In The Wild, Ep 1</title>
+</programme>
+<programme start="20250928130000 +0000" stop="20250928135000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Canada: Year In The Wild, Ep 2</title>
+</programme>
+<programme start="20250928135000 +0000" stop="20250928144000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Canada: Year In The Wild, Ep 3</title>
+</programme>
+<programme start="20250928144000 +0000" stop="20250928153000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination China: Yunnan, Ep 2</title>
+</programme>
+<programme start="20250928153000 +0000" stop="20250928162000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Destination Myanmar</title>
+</programme>
+<programme start="20250928162000 +0000" stop="20250928165000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Jaguarland</title>
+</programme>
 <programme start="20250927170000 +0000" stop="20250927180000 +0000" channel="GTV.mncvision">
     <title>Untold Story</title>
 </programme>
@@ -7811,8 +7891,102 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20250928153000 +0000" stop="20250928160000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga: KOE Vs VFB (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250927183000 +0000" stop="20250927203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Euro 2024: NED Vs AUT</title>
+</programme>
+<programme start="20250927203000 +0000" stop="20250927210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250927210000 +0000" stop="20250927213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Footballs</title>
+</programme>
+<programme start="20250927213000 +0000" stop="20250927233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs MYA</title>
+</programme>
+<programme start="20250927233000 +0000" stop="20250928013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: LVA Vs SRB</title>
+</programme>
+<programme start="20250928013000 +0000" stop="20250928033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: RBL Vs KOE</title>
+</programme>
+<programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20250928040000 +0000" stop="20250928060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Euro 2024: FRA Vs POL</title>
+</programme>
+<programme start="20250928060000 +0000" stop="20250928080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Copa Del Rey : Real Madrid Vs Barcelona</title>
+</programme>
+<programme start="20250928080000 +0000" stop="20250928100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: SGE Vs FCU</title>
+</programme>
+<programme start="20250928100000 +0000" stop="20250928103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Footballs</title>
+</programme>
+<programme start="20250928103000 +0000" stop="20250928123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: ENG Vs AND</title>
+</programme>
+<programme start="20250928123000 +0000" stop="20250928130000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20250928130000 +0000" stop="20250928133000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Weekly</title>
+</programme>
+<programme start="20250928133000 +0000" stop="20250928153000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: SCF Vs TSG (L)</title>
+</programme>
+<programme start="20250928153000 +0000" stop="20250928160000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga: KOE Vs VFB (L)</title>
+</programme>
+<programme start="20250927173000 +0000" stop="20250927200000 +0000" channel="Sportstars.mncvision">
+    <title>WONDR By BNI Indonesia Masters</title>
+</programme>
+<programme start="20250927200000 +0000" stop="20250927203000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250927203000 +0000" stop="20250927210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20250927210000 +0000" stop="20250927230000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250927230000 +0000" stop="20250927233000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250927233000 +0000" stop="20250928000000 +0000" channel="Sportstars.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20250928000000 +0000" stop="20250928003000 +0000" channel="Sportstars.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20250928003000 +0000" stop="20250928023000 +0000" channel="Sportstars.mncvision">
+    <title>Yeosu NH Nonghyup Cup</title>
+</programme>
+<programme start="20250928023000 +0000" stop="20250928043000 +0000" channel="Sportstars.mncvision">
+    <title>Yeosu NH Nonghyup Cup</title>
+</programme>
+<programme start="20250928043000 +0000" stop="20250928063000 +0000" channel="Sportstars.mncvision">
+    <title>Yeosu NH Nonghyup Cup (L)</title>
+</programme>
+<programme start="20250928063000 +0000" stop="20250928090000 +0000" channel="Sportstars.mncvision">
+    <title>WONDR By BNI Indonesia Masters</title>
+</programme>
+<programme start="20250928090000 +0000" stop="20250928110000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20250928110000 +0000" stop="20250928130000 +0000" channel="Sportstars.mncvision">
+    <title>Yeosu NH Nonghyup Cup</title>
+</programme>
+<programme start="20250928130000 +0000" stop="20250928133000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20250928133000 +0000" stop="20250928153000 +0000" channel="Sportstars.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20250928153000 +0000" stop="20250928160000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
 <programme start="20250927170000 +0000" stop="20250927190000 +0000" channel="Sportstars 2.mncvision">
     <title>2025 Yeosu-NH Nonghyup Cup</title>
 </programme>

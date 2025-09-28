@@ -4654,11 +4654,14 @@
     <programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
     </programme>
-    <programme start="20250928013000 +0000" stop="20250928030000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250928013000 +0000" stop="20250928024500 +0000" channel="Vijay TV HD.starhub">
         <title>Cooku With Comali</title>
     </programme>
-    <programme start="20250928030000 +0000" stop="20250928043000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20250928024500 +0000" stop="20250928040000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer</title>
+    </programme>
+    <programme start="20250928040000 +0000" stop="20250928043000 +0000" channel="Vijay TV HD.starhub">
+        <title>Soll Yutham</title>
     </programme>
     <programme start="20250928043000 +0000" stop="20250928060000 +0000" channel="Vijay TV HD.starhub">
         <title>Neeya Naana</title>
