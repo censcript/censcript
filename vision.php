@@ -628,9 +628,6 @@
 <programme start="20250928063000 +0000" stop="20250928080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250928110000 +0000" stop="20250928123000 +0000" channel="ANTV.vision">
-<title>Nyi Ageng Ratu Pemikat</title>
-</programme>
 <programme start="20250928123000 +0000" stop="20250928143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250928030000 +0000" stop="20250928030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20250928030300 +0000" stop="20250928033000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

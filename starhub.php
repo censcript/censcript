@@ -2320,13 +2320,10 @@
     <programme start="20250928013000 +0000" stop="20250928020000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 10: Cadiz</title>
     </programme>
-    <programme start="20250928020000 +0000" stop="20250928070000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250928020000 +0000" stop="20250928080000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Suwon VICTOR Korea Open (Super 500): Finals</title>
     </programme>
-    <programme start="20250928070000 +0000" stop="20250928073000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#555</title>
-    </programme>
-    <programme start="20250928073000 +0000" stop="20250928103000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20250928080000 +0000" stop="20250928103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC Fight Night 2025 EFN 199: Prelims: Ulberg vs Reyes</title>
     </programme>
     <programme start="20250928103000 +0000" stop="20250928133000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -6226,13 +6223,10 @@
     <programme start="20250928013000 +0000" stop="20250928020000 +0000" channel="TestChannel 995.starhub">
         <title>Episode 10: Cadiz</title>
     </programme>
-    <programme start="20250928020000 +0000" stop="20250928070000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250928020000 +0000" stop="20250928080000 +0000" channel="TestChannel 995.starhub">
         <title>Suwon VICTOR Korea Open (Super 500): Finals</title>
     </programme>
-    <programme start="20250928070000 +0000" stop="20250928073000 +0000" channel="TestChannel 995.starhub">
-        <title>#555</title>
-    </programme>
-    <programme start="20250928073000 +0000" stop="20250928103000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20250928080000 +0000" stop="20250928103000 +0000" channel="TestChannel 995.starhub">
         <title>UFC Fight Night 2025 EFN 199: Prelims: Ulberg vs Reyes</title>
     </programme>
     <programme start="20250928103000 +0000" stop="20250928133000 +0000" channel="TestChannel 995.starhub">
