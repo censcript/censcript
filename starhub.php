@@ -2126,27 +2126,21 @@
         <title>No Laughing Matter: When Trump Attacks</title>
     </programme>
     <programme start="20250929010000 +0000" stop="20250929020000 +0000" channel="CNN HD.starhub">
-        <title>The United States vs Harvard</title>
+        <title>Fareed Zakaria GPS</title>
     </programme>
     <programme start="20250929020000 +0000" stop="20250929030000 +0000" channel="CNN HD.starhub">
         <title>African Voices Changemakers LAVCM214</title>
     </programme>
     <programme start="20250929030000 +0000" stop="20250929033000 +0000" channel="CNN HD.starhub">
-        <title>Angola</title>
+        <title>Next Big Trip: Angola</title>
     </programme>
-    <programme start="20250929033000 +0000" stop="20250929040000 +0000" channel="CNN HD.starhub">
-        <title>Inside Africa LIAFR709</title>
-    </programme>
-    <programme start="20250929040000 +0000" stop="20250929044500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
+    <programme start="20250929033000 +0000" stop="20250929044500 +0000" channel="CNN HD.starhub">
+        <title>Inside Africa: Uganda&#039;s Performing Arts Scene</title>
     </programme>
     <programme start="20250929044500 +0000" stop="20250929050000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20250929050000 +0000" stop="20250929060000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI)</title>
-    </programme>
-    <programme start="20250929060000 +0000" stop="20250929064500 +0000" channel="CNN HD.starhub">
+    <programme start="20250929050000 +0000" stop="20250929064500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20250929064500 +0000" stop="20250929070000 +0000" channel="CNN HD.starhub">
@@ -2168,13 +2162,10 @@
         <title>CNN News Central</title>
     </programme>
     <programme start="20250929120000 +0000" stop="20250929123000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
+        <title>CNN News Central - Monday, September 29, 2025 8am ET</title>
     </programme>
-    <programme start="20250929123000 +0000" stop="20250929130000 +0000" channel="CNN HD.starhub">
+    <programme start="20250929123000 +0000" stop="20250929134500 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
-    </programme>
-    <programme start="20250929130000 +0000" stop="20250929134500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World</title>
     </programme>
     <programme start="20250929134500 +0000" stop="20250929140000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
