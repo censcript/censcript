@@ -8257,8 +8257,11 @@
     <programme start="20250929035000 +0000" stop="20250929045000 +0000" channel="SPOTV2.starhub">
         <title>WorldSSP Race 2</title>
     </programme>
-    <programme start="20250929045000 +0000" stop="20250929063000 +0000" channel="SPOTV2.starhub">
+    <programme start="20250929045000 +0000" stop="20250929060500 +0000" channel="SPOTV2.starhub">
         <title>WorldSBK Race 2</title>
+    </programme>
+    <programme start="20250929060500 +0000" stop="20250929063000 +0000" channel="SPOTV2.starhub">
+        <title>2025 MotoGP Spotlight: Marc Marquez Comeback</title>
     </programme>
     <programme start="20250929063000 +0000" stop="20250929075500 +0000" channel="SPOTV2.starhub">
         <title>Moto3 Race</title>

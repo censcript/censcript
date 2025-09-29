@@ -3151,14 +3151,14 @@
 <programme start="20250929030000 +0000" stop="20250929170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 6. Tag</title>
 </programme>
-<programme start="20250929064000 +0000" stop="20250929070000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live ATP World Tour</title>
+<programme start="20250928220000 +0000" stop="20250929070000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 09:00: Live ATP World Tour</title>
 </programme>
 <programme start="20250929070000 +0000" stop="20250929090000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: HF1, Kinoshita Group Japan Open in Tokio (JPN), Halbfinale</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - C. Ruud (NOR), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 1</title>
 </programme>
-<programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: HF2, Kinoshita Group Japan Open in Tokio (JPN), Halbfinale</title>
+<programme start="20250929090000 +0000" stop="20250929130000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 500: T. Fritz (USA) - J. Brooksby (USA), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 2</title>
 </programme>
 <programme start="20250928220500 +0000" stop="20250928225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>

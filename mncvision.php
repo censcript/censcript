@@ -8449,8 +8449,11 @@
 <programme start="20250929035000 +0000" stop="20250929045000 +0000" channel="SPOTV 2.mncvision">
     <title>WorldSBK: Tissot Aragon</title>
 </programme>
-<programme start="20250929045000 +0000" stop="20250929063000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20250929045000 +0000" stop="20250929060500 +0000" channel="SPOTV 2.mncvision">
     <title>WorldSBK: Tissot Aragon</title>
+</programme>
+<programme start="20250929060500 +0000" stop="20250929063000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Spotlight: Marc Marquez</title>
 </programme>
 <programme start="20250929063000 +0000" stop="20250929075500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP: GP Of Japan</title>
@@ -8503,8 +8506,11 @@
 <programme start="20250929035000 +0000" stop="20250929045000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WorldSBK: Tissot Aragon</title>
 </programme>
-<programme start="20250929045000 +0000" stop="20250929063000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20250929045000 +0000" stop="20250929060500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WorldSBK: Tissot Aragon</title>
+</programme>
+<programme start="20250929060500 +0000" stop="20250929063000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Spotlight: Marc Marquez</title>
 </programme>
 <programme start="20250929063000 +0000" stop="20250929075500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP: GP Of Japan</title>
