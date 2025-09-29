@@ -1477,7 +1477,7 @@
   <programme start="20251001181500 +0000" stop="20251001201000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Hot Dog</title>
   </programme>
-  <programme start="20251001201000 +0000" stop="20251001221500 +0000" channel="JOJ Cinema.webtv.sk">
+  <programme start="20251001201000 +0000" stop="20251001220500 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Vreskot</title>
   </programme>
   <programme start="20250930213000 +0000" stop="20250930233000 +0000" channel="JOJ Cinema +1.webtv.sk">
@@ -1522,7 +1522,7 @@
   <programme start="20251001191500 +0000" stop="20251001211000 +0000" channel="JOJ Cinema +1.webtv.sk">
     <title lang="id">Hot Dog</title>
   </programme>
-  <programme start="20251001211000 +0000" stop="20251001231500 +0000" channel="JOJ Cinema +1.webtv.sk">
+  <programme start="20251001211000 +0000" stop="20251001230500 +0000" channel="JOJ Cinema +1.webtv.sk">
     <title lang="id">Vreskot</title>
   </programme>
   <programme start="20250930220000 +0000" stop="20250930223000 +0000" channel="TA3.webtv.sk">
