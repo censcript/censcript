@@ -3049,20 +3049,23 @@
 <programme start="20250928220000 +0000" stop="20250929000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - E. Rybakina (KAZ), China Open in Peking (China), 5. Tag</title>
 </programme>
-<programme start="20250929000000 +0000" stop="20250929020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250929000000 +0000" stop="20250929010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Cincinnati</title>
+</programme>
+<programme start="20250929010000 +0000" stop="20250929030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - C. Moutet (FRA), China Open in Peking (China), 5. Tag</title>
 </programme>
-<programme start="20250929020000 +0000" stop="20250929150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250929030000 +0000" stop="20250929150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20250929150000 +0000" stop="20250929170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, China Open in Peking (China), 6. Tag</title>
+    <title>WTA 1000: E. Raducanu (GBR) - J. Pegula (USA), China Open in Peking (China), 6. Tag</title>
 </programme>
 <programme start="20250929170000 +0000" stop="20250929173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250929173000 +0000" stop="20250929193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, China Open in Peking (China), Viertelfinale</title>
+    <title>ATP 500: A. Zverev (GER) - D. Medvedev, China Open in Peking (China), Viertelfinale</title>
 </programme>
 <programme start="20250929193000 +0000" stop="20250929200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3071,7 +3074,7 @@
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250929203000 +0000" stop="20250929223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, Kinoshita Group Japan Open in Tokio (JPN), Halbfinale</title>
+    <title>ATP 500: C. Alcaraz (ESP) - C. Ruud (NOR), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 1</title>
 </programme>
 <programme start="20250928223000 +0000" stop="20250928230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Dein Spieltags-Sprint (5)</title>

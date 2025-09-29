@@ -8104,13 +8104,13 @@
     <programme start="20250929150000 +0000" stop="20250929160000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
     </programme>
-    <programme start="20250928133000 +0000" stop="20250928163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250928133000 +0000" stop="20250928162000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
-    <programme start="20250928163000 +0000" stop="20250928193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250928162000 +0000" stop="20250928194000 +0000" channel="Asianet Movies.starhub">
         <title>Srungaravelan</title>
     </programme>
-    <programme start="20250928193000 +0000" stop="20250928220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250928194000 +0000" stop="20250928231500 +0000" channel="Asianet Movies.starhub">
         <title>The King &amp; The Commissioner</title>
     </programme>
     <programme start="20250928231500 +0000" stop="20250929013000 +0000" channel="Asianet Movies.starhub">
