@@ -242,9 +242,9 @@
     <title>Basketball: Virtus Bologna - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930010000 +0700" stop="20250930023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251001030500 +0700" stop="20251001050500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Brescia - Armani Milano</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930023000 +0700" stop="20250930033500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -337,10 +337,6 @@
 <programme start="20251001020000 +0700" stop="20251001040500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Club Atletico de Madrid - Eintracht Frankfurt (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250930003000 +0700" stop="20250930022000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: MT Melsungen - HSV Hamburg</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930022000 +0700" stop="20250930035000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
