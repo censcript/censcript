@@ -3155,10 +3155,10 @@
     <title>Es folgt: ab 09:00: Live ATP World Tour</title>
 </programme>
 <programme start="20250929070000 +0000" stop="20250929090000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: T. Fritz (USA) - J. Brooksby (USA), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 1</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - C. Ruud (NOR), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 1</title>
 </programme>
 <programme start="20250929090000 +0000" stop="20250929130000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: C. Alcaraz (ESP) - C. Ruud (NOR), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 2</title>
+    <title>Live ATP 500: T. Fritz (USA) - J. Brooksby (USA), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 2</title>
 </programme>
 <programme start="20250928220500 +0000" stop="20250928225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
