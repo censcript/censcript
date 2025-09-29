@@ -1,7 +1,3 @@
-<programme start="20250929120500 +0700" stop="20250929145500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250929145500 +0700" stop="20250929153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Football: Parma - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250929110000 +0700" stop="20250929143000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Atlanta Falcons - Washington Commanders</title>
+<programme start="20250930151000 +0700" stop="20250930171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929143000 +0700" stop="20250929163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -180,10 +176,6 @@
 </programme>
 <programme start="20250930143000 +0700" stop="20250930163000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Arouca - FC Porto</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250929120000 +0700" stop="20250929143000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Indiana Fever - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929143000 +0700" stop="20250929163000 +0700" channel="COSMOTE Sport 4 HD">
@@ -370,6 +362,10 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20250930153000 +0700" stop="20250930160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250929140000 +0700" stop="20250929163000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: Jannik Sinner - Fabian Marozsan (L)</title>
     <desc>Live: Ya</desc>
@@ -445,6 +441,10 @@
 <programme start="20250930130000 +0700" stop="20250930153000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20250930153000 +0700" stop="20250930160000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250929140000 +0700" stop="20250929160000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

@@ -7493,7 +7493,7 @@
     <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20250929080000 +0000" stop="20250929090000 +0000" channel="RCTI.mncvision">
-    <title>Sugar Daddy</title>
+    <title>Cinta Di Balik Awan</title>
 </programme>
 <programme start="20250929090000 +0000" stop="20250929100000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S9</title>
@@ -7547,7 +7547,7 @@
     <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20250929080000 +0000" stop="20250929090000 +0000" channel="RCTI HD.mncvision">
-    <title>Sugar Daddy</title>
+    <title>Cinta Di Balik Awan</title>
 </programme>
 <programme start="20250929090000 +0000" stop="20250929100000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S9</title>
@@ -8057,7 +8057,7 @@
     <title>Bloopers</title>
 </programme>
 <programme start="20250929003000 +0000" stop="20250929023000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup</title>
+    <title>KOVO Cup: Red Sparks Vs Korea</title>
 </programme>
 <programme start="20250929023000 +0000" stop="20250929043000 +0000" channel="Sportstars.mncvision">
     <title>The Championship Wimbledon</title>
@@ -8078,10 +8078,10 @@
     <title>Bloopers</title>
 </programme>
 <programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup</title>
+    <title>KOVO Cup: Semi Final</title>
 </programme>
 <programme start="20250929110000 +0000" stop="20250929130000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup: Semi Final</title>
+    <title>KOVO Cup: Bluefangs Vs KB Stars</title>
 </programme>
 <programme start="20250929130000 +0000" stop="20250929133000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8351,7 +8351,7 @@
     <title>Bloopers</title>
 </programme>
 <programme start="20250929003000 +0000" stop="20250929023000 +0000" channel="Sportstars HD.mncvision">
-    <title>KOVO Cup</title>
+    <title>KOVO Cup: Red Sparks Vs Korea</title>
 </programme>
 <programme start="20250929023000 +0000" stop="20250929043000 +0000" channel="Sportstars HD.mncvision">
     <title>The Championship Wimbledon</title>
@@ -8372,10 +8372,10 @@
     <title>Bloopers</title>
 </programme>
 <programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="Sportstars HD.mncvision">
-    <title>KOVO Cup</title>
+    <title>KOVO Cup: Semi Final</title>
 </programme>
 <programme start="20250929110000 +0000" stop="20250929130000 +0000" channel="Sportstars HD.mncvision">
-    <title>KOVO Cup: Semi Final</title>
+    <title>KOVO Cup: Bluefangs Vs KB Stars</title>
 </programme>
 <programme start="20250929130000 +0000" stop="20250929133000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>

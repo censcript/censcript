@@ -538,6 +538,9 @@
 <programme start="20250929050000 +0000" stop="20250929054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20250929054500 +0000" stop="20250929063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20250929063000 +0000" stop="20250929071500 +0000" channel="Trans 7.vision">
 <title>Ujung-Ujungnya Damkar</title>
 </programme>
@@ -634,16 +637,16 @@
 <programme start="20250929010000 +0000" stop="20250929023000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20251006230000 +0000" stop="20251007000000 +0000" channel="ANTV.vision">
+<programme start="20250929023000 +0000" stop="20250929060000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20251007000000 +0000" stop="20251007033000 +0000" channel="ANTV.vision">
+<programme start="20250929060000 +0000" stop="20250929084500 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20251007033000 +0000" stop="20251007050000 +0000" channel="ANTV.vision">
+<programme start="20250929084500 +0000" stop="20250929103000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20251007050000 +0000" stop="20251007060000 +0000" channel="ANTV.vision">
+<programme start="20250929103000 +0000" stop="20250929123000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
 <programme start="20250929123000 +0000" stop="20250929143000 +0000" channel="ANTV.vision">
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20250929020000 +0000" stop="20250929020300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250929020300 +0000" stop="20250929023000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
