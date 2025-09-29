@@ -577,7 +577,81 @@
 <programme start="20250929140000 +0000" stop="20250929143000 +0000" channel="Arirang.mncvision">
     <title>Press Perspective</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20250928181000 +0000" stop="20250928184000 +0000" channel="AXN.mncvision">
+    <title>Twisted Metal S2, Ep 7</title>
+</programme>
+<programme start="20250928184000 +0000" stop="20250928191500 +0000" channel="AXN.mncvision">
+    <title>Twisted Metal S2, Ep 8</title>
+</programme>
+<programme start="20250928191500 +0000" stop="20250928201000 +0000" channel="AXN.mncvision">
+    <title>Coroner S4, Ep 12</title>
+</programme>
+<programme start="20250928201000 +0000" stop="20250928210500 +0000" channel="AXN.mncvision">
+    <title>The Rookie: Feds S1, Ep 13</title>
+</programme>
+<programme start="20250928210500 +0000" stop="20250928220000 +0000" channel="AXN.mncvision">
+    <title>The Rookie: Feds S1, Ep 14</title>
+</programme>
+<programme start="20250928220000 +0000" stop="20250928225000 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 9</title>
+</programme>
+<programme start="20250928225000 +0000" stop="20250928234000 +0000" channel="AXN.mncvision">
+    <title>Coroner S1, Ep 7</title>
+</programme>
+<programme start="20250928234000 +0000" stop="20250929003000 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S1, Ep 2</title>
+</programme>
+<programme start="20250929003000 +0000" stop="20250929012500 +0000" channel="AXN.mncvision">
+    <title>Wipeout S9, Ep 10</title>
+</programme>
+<programme start="20250929012500 +0000" stop="20250929022000 +0000" channel="AXN.mncvision">
+    <title>The Rookie: Feds S1, Ep 14</title>
+</programme>
+<programme start="20250929022000 +0000" stop="20250929031500 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S15, Ep 7</title>
+</programme>
+<programme start="20250929031500 +0000" stop="20250929053500 +0000" channel="AXN.mncvision">
+    <title>Jumanji: The Next Level</title>
+</programme>
+<programme start="20250929053500 +0000" stop="20250929063000 +0000" channel="AXN.mncvision">
+    <title>Wipeout S9, Ep 10</title>
+</programme>
+<programme start="20250929063000 +0000" stop="20250929072500 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S15, Ep 7</title>
+</programme>
+<programme start="20250929072500 +0000" stop="20250929082000 +0000" channel="AXN.mncvision">
+    <title>Elsbeth S1, Ep 2</title>
+</programme>
+<programme start="20250929082000 +0000" stop="20250929091000 +0000" channel="AXN.mncvision">
+    <title>The Blacklist S10, Ep 13</title>
+</programme>
+<programme start="20250929091000 +0000" stop="20250929100500 +0000" channel="AXN.mncvision">
+    <title>The Rookie: Feds S1, Ep 15</title>
+</programme>
+<programme start="20250929100500 +0000" stop="20250929110000 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S7, Ep 5</title>
+</programme>
+<programme start="20250929110000 +0000" stop="20250929115500 +0000" channel="AXN.mncvision">
+    <title>Rookie Blue S5, Ep 10</title>
+</programme>
+<programme start="20250929115500 +0000" stop="20250929125000 +0000" channel="AXN.mncvision">
+    <title>American Ninja... S15, Ep 8</title>
+</programme>
+<programme start="20250929125000 +0000" stop="20250929134500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S7, Ep 6</title>
+</programme>
+<programme start="20250929134500 +0000" stop="20250929144000 +0000" channel="AXN.mncvision">
+    <title>FBI: Most Wanted S6, Ep 19</title>
+</programme>
+<programme start="20250929144000 +0000" stop="20250929153500 +0000" channel="AXN.mncvision">
+    <title>Hudson &amp; Rex S7, Ep 6</title>
+</programme>
+<programme start="20250929153500 +0000" stop="20250929163000 +0000" channel="AXN.mncvision">
+    <title>FBI: Most Wanted S6, Ep 19</title>
+</programme>
+<programme start="20250929163000 +0000" stop="20250928170000 +0000" channel="AXN.mncvision">
+    <title>Coroner S1, Ep 7</title>
+</programme>
 <programme start="20250928181000 +0000" stop="20250928184000 +0000" channel="AXN HD.mncvision">
     <title>Twisted Metal S2, Ep 7</title>
 </programme>
