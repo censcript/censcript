@@ -2096,10 +2096,13 @@
         <title>World Sport</title>
     </programme>
     <programme start="20250928163000 +0000" stop="20250928170000 +0000" channel="CNN HD.starhub">
-        <title>Inside Africa LIAFR709</title>
+        <title>Inside Africa: Uganda&#039;s Performing Arts Scene</title>
     </programme>
-    <programme start="20250928170000 +0000" stop="20250928180000 +0000" channel="CNN HD.starhub">
+    <programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="CNN HD.starhub">
         <title>African Voices Changemakers LAVCM214</title>
+    </programme>
+    <programme start="20250928173000 +0000" stop="20250928180000 +0000" channel="CNN HD.starhub">
+        <title>Blueprint: Mongolia</title>
     </programme>
     <programme start="20250928180000 +0000" stop="20250928190000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
@@ -2114,7 +2117,7 @@
         <title>World Sport</title>
     </programme>
     <programme start="20250928213000 +0000" stop="20250928220000 +0000" channel="CNN HD.starhub">
-        <title>Quest&#039;s World of Wonder LQWW072</title>
+        <title>Quest&#039;s World of Wonder: Bordeaux, France</title>
     </programme>
     <programme start="20250928220000 +0000" stop="20250928230000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>
