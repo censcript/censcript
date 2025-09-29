@@ -4691,46 +4691,43 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250928213000 +0000" stop="20250928230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250928230000 +0000" stop="20250929000000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250929000000 +0000" stop="20250929013000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250929013000 +0000" stop="20250929030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250929030000 +0000" stop="20250929040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250929040000 +0000" stop="20250929043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250929043000 +0000" stop="20250929050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250929050000 +0000" stop="20250929063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250929063000 +0000" stop="20250929080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250929080000 +0000" stop="20250929103000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929080000 +0000" stop="20250929100000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250929103000 +0000" stop="20250929113000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929100000 +0000" stop="20250929120000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250929113000 +0000" stop="20250929140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929120000 +0000" stop="20250929160000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250929140000 +0000" stop="20250929163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20250929163000 +0000" stop="20250928170000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250928183000 +0000" stop="20250928200000 +0000" channel="Indosiar HD.mncvision">
     <title>The Shaolin 2</title>
@@ -4739,46 +4736,43 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20250928213000 +0000" stop="20250928230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20250928230000 +0000" stop="20250929000000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20250929000000 +0000" stop="20250929013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250929013000 +0000" stop="20250929030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20250929030000 +0000" stop="20250929040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20250929040000 +0000" stop="20250929043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20250929043000 +0000" stop="20250929050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20250929050000 +0000" stop="20250929063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20250929063000 +0000" stop="20250929080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250929080000 +0000" stop="20250929103000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929080000 +0000" stop="20250929100000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20250929103000 +0000" stop="20250929113000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929100000 +0000" stop="20250929120000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20250929113000 +0000" stop="20250929140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929120000 +0000" stop="20250929160000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
 </programme>
-<programme start="20250929140000 +0000" stop="20250929163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20250929163000 +0000" stop="20250928170000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="iNews.mncvision">
     <title>Realita</title>
@@ -8411,7 +8405,7 @@
     <title>WTT China Smash 2025 (L)</title>
 </programme>
 <programme start="20250929070000 +0000" stop="20250929080000 +0000" channel="SPOTV.mncvision">
-    <title>WSL Replay: Ericeira Pro HL</title>
+    <title>WSL Inside Pro Surfing 2025 HL</title>
 </programme>
 <programme start="20250929080000 +0000" stop="20250929100000 +0000" channel="SPOTV.mncvision">
     <title>Roshn Saudi League 2025/26</title>
@@ -8552,7 +8546,7 @@
     <title>WTT China Smash 2025 (L)</title>
 </programme>
 <programme start="20250929070000 +0000" stop="20250929080000 +0000" channel="SPOTV HD.mncvision">
-    <title>WSL Replay: Ericeira Pro HL</title>
+    <title>WSL Inside Pro Surfing 2025 HL</title>
 </programme>
 <programme start="20250929080000 +0000" stop="20250929100000 +0000" channel="SPOTV HD.mncvision">
     <title>Roshn Saudi League 2025/26</title>

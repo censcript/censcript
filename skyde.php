@@ -3052,20 +3052,23 @@
 <programme start="20250928220000 +0000" stop="20250929000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - E. Rybakina (KAZ), China Open in Peking (China), 5. Tag</title>
 </programme>
-<programme start="20250929000000 +0000" stop="20250929020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250929000000 +0000" stop="20250929010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Cincinnati</title>
+</programme>
+<programme start="20250929010000 +0000" stop="20250929030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - C. Moutet (FRA), China Open in Peking (China), 5. Tag</title>
 </programme>
-<programme start="20250929020000 +0000" stop="20250929150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20250929030000 +0000" stop="20250929150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20250929150000 +0000" stop="20250929170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, China Open in Peking (China), 6. Tag</title>
+    <title>WTA 1000: E. Raducanu (GBR) - J. Pegula (USA), China Open in Peking (China), 6. Tag</title>
 </programme>
 <programme start="20250929170000 +0000" stop="20250929173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20250929173000 +0000" stop="20250929193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, China Open in Peking (China), Viertelfinale</title>
+    <title>ATP 500: A. Zverev (GER) - D. Medvedev, China Open in Peking (China), Viertelfinale</title>
 </programme>
 <programme start="20250929193000 +0000" stop="20250929200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3074,7 +3077,7 @@
     <title>WTA 1000: Review Cincinnati</title>
 </programme>
 <programme start="20250929203000 +0000" stop="20250929223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, Kinoshita Group Japan Open in Tokio (JPN), Halbfinale</title>
+    <title>ATP 500: C. Alcaraz (ESP) - C. Ruud (NOR), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 1</title>
 </programme>
 <programme start="20250928220000 +0000" stop="20250928223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 6. Spieltag</title>
@@ -3149,19 +3152,19 @@
     <title>Info: UHD</title>
 </programme>
 <programme start="20250928220000 +0000" stop="20250929030000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+    <title>Es folgt: ab 05:00: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20250929030000 +0000" stop="20250929170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 6. Tag</title>
 </programme>
-<programme start="20250929064000 +0000" stop="20250929070000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live ATP World Tour</title>
+<programme start="20250928220000 +0000" stop="20250929070000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 09:00: Live ATP World Tour</title>
 </programme>
 <programme start="20250929070000 +0000" stop="20250929090000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: HF1, Kinoshita Group Japan Open in Tokio (JPN), Halbfinale</title>
+    <title>Live ATP 500: C. Alcaraz (ESP) - C. Ruud (NOR), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 1</title>
 </programme>
-<programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: HF2, Kinoshita Group Japan Open in Tokio (JPN), Halbfinale</title>
+<programme start="20250929090000 +0000" stop="20250929130000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 500: T. Fritz (USA) - J. Brooksby (USA), Kinoshita Group Japan Open in Tokio (JPN), Halbfinale 2</title>
 </programme>
 <programme start="20250928220500 +0000" stop="20250928225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
