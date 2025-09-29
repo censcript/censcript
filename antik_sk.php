@@ -4438,7 +4438,7 @@
   <programme start="20251001193000 +0000" stop="20251001211000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Hasičárna Telecí</title>
   </programme>
-  <programme start="20251001211000 +0000" stop="20251002000500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251001211000 +0000" stop="20251002001000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Malý velký muž</title>
   </programme>
   <programme start="20250930215500 +0000" stop="20250930225000 +0000" channel="Barrandov.webtv.sk">
