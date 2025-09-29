@@ -17,7 +17,7 @@
 <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20250929080000 +0000" stop="20250929090000 +0000" channel="RCTI.vision">
-<title>Sugar Daddy</title>
+<title>Cinta Di Balik Awan</title>
 </programme>
 <programme start="20250929090000 +0000" stop="20250929100000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S9 (RCTI)</title>
@@ -475,6 +475,9 @@
 <programme start="20250929053000 +0000" stop="20250929070000 +0000" channel="Trans TV.vision">
 <title>Brownis (Obrowlan Manis)</title>
 </programme>
+<programme start="20250929070000 +0000" stop="20250929080000 +0000" channel="Trans TV.vision">
+<title>Rumpi: No Secret</title>
+</programme>
 <programme start="20250929080000 +0000" stop="20250929090000 +0000" channel="Trans TV.vision">
 <title>Insert Today</title>
 </programme>
@@ -484,17 +487,38 @@
 <programme start="20250929093000 +0000" stop="20250929103000 +0000" channel="Trans TV.vision">
 <title>Dream Box Indonesia</title>
 </programme>
+<programme start="20250929103000 +0000" stop="20250929114500 +0000" channel="Trans TV.vision">
+<title>Bikin Laper</title>
+</programme>
+<programme start="20250929114500 +0000" stop="20250929130000 +0000" channel="Trans TV.vision">
+<title>Insert Story</title>
+</programme>
 <programme start="20250929130000 +0000" stop="20250929140000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
+<programme start="20250929140000 +0000" stop="20250929160000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
+<programme start="20250929160000 +0000" stop="20250929180000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
 <programme start="20250929180000 +0000" stop="20250929220000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Connected</title>
+</programme>
+<programme start="20250929220000 +0000" stop="20250929233000 +0000" channel="Trans TV.vision">
+<title>Islam Itu Indah</title>
+</programme>
+<programme start="20250929233000 +0000" stop="20250930003000 +0000" channel="Trans TV.vision">
+<title>Blockbuster Sahur Movie</title>
 </programme>
 <programme start="20250930003000 +0000" stop="20250930013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
 </programme>
 <programme start="20250930013000 +0000" stop="20250930033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20250930033000 +0000" stop="20250930053000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
 </programme>
 <programme start="20250930053000 +0000" stop="20250930070000 +0000" channel="Trans TV.vision">
 <title>Brownis (Obrowlan Manis)</title>
@@ -631,65 +655,62 @@
 <programme start="20250930114500 +0000" stop="20250930121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20250928230000 +0000" stop="20250929010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250928233000 +0000" stop="20250929013000 +0000" channel="ANTV.vision">
+<title>Angkara Membara</title>
 </programme>
-<programme start="20250929010000 +0000" stop="20250929023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929013000 +0000" stop="20250929050000 +0000" channel="ANTV.vision">
+<title>Koi Mil Gaya</title>
 </programme>
-<programme start="20250929023000 +0000" stop="20250929060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929050000 +0000" stop="20250929063000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20250929060000 +0000" stop="20250929084500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929063000 +0000" stop="20250929080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250929084500 +0000" stop="20250929103000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929080000 +0000" stop="20250929093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20250929103000 +0000" stop="20250929123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929093000 +0000" stop="20250929110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20250929123000 +0000" stop="20250929143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20250929143000 +0000" stop="20250929163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20250929163000 +0000" stop="20250929183000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>The Prodigal Son</title>
 </programme>
-<programme start="20250929183000 +0000" stop="20250929200000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929183000 +0000" stop="20250929203000 +0000" channel="ANTV.vision">
+<title>The Happy Ghost</title>
 </programme>
-<programme start="20250929200000 +0000" stop="20250929213000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20250929213000 +0000" stop="20250929220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929203000 +0000" stop="20250929220000 +0000" channel="ANTV.vision">
+<title>Menumpas Petualangan Cinta</title>
 </programme>
 <programme start="20250929220000 +0000" stop="20250929223000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Nath</title>
 </programme>
-<programme start="20250929223000 +0000" stop="20250929230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929223000 +0000" stop="20250929233000 +0000" channel="ANTV.vision">
+<title>Petualangan Superblox</title>
 </programme>
-<programme start="20250929230000 +0000" stop="20250930010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250929233000 +0000" stop="20250930013000 +0000" channel="ANTV.vision">
+<title>Jawara Sok Kota</title>
 </programme>
-<programme start="20250930010000 +0000" stop="20250930023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250930013000 +0000" stop="20250930050000 +0000" channel="ANTV.vision">
+<title>Krrish</title>
 </programme>
-<programme start="20250930023000 +0000" stop="20250930060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250930050000 +0000" stop="20250930063000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20250930060000 +0000" stop="20250930084500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250930063000 +0000" stop="20250930080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20250930084500 +0000" stop="20250930103000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250930080000 +0000" stop="20250930093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20250930103000 +0000" stop="20250930123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20250930093000 +0000" stop="20250930110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20250930110000 +0000" stop="20250930123000 +0000" channel="ANTV.vision">
+<title>Perjanjian Di Malam Keramat</title>
 </programme>
 <programme start="20250928230000 +0000" stop="20250929010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1364,137 +1385,116 @@
 <title>Primetime News</title>
 </programme>
 <programme start="20250928230300 +0000" stop="20250929003000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Jalan Dakwah</title>
 </programme>
-<programme start="20250929003000 +0000" stop="20250929011500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929003000 +0000" stop="20250929010000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
-<programme start="20250929011500 +0000" stop="20250929021500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929010000 +0000" stop="20250929013000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250929013000 +0000" stop="20250929021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250929021500 +0000" stop="20250929030000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Selera Rasa</title>
 </programme>
 <programme start="20250929030000 +0000" stop="20250929040000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250929040000 +0000" stop="20250929050000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Satu Siang</title>
 </programme>
 <programme start="20250929050000 +0000" stop="20250929060000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Investor Market Today</title>
 </programme>
-<programme start="20250929060000 +0000" stop="20250929064500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929060000 +0000" stop="20250929063000 +0000" channel="BTV.vision">
+<title>Investor Daily Talk</title>
 </programme>
-<programme start="20250929064500 +0000" stop="20250929073000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929063000 +0000" stop="20250929080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
-<programme start="20250929073000 +0000" stop="20250929081500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929080000 +0000" stop="20250929083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>
-<programme start="20250929081500 +0000" stop="20250929091500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929083000 +0000" stop="20250929093000 +0000" channel="BTV.vision">
+<title>Cetar: Celeb On Target</title>
 </programme>
-<programme start="20250929091500 +0000" stop="20250929100000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929093000 +0000" stop="20250929103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
-<programme start="20250929100000 +0000" stop="20250929110000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929103000 +0000" stop="20250929123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
-<programme start="20250929110000 +0000" stop="20250929120000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250929120000 +0000" stop="20250929130000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929123000 +0000" stop="20250929130000 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>
 <programme start="20250929130000 +0000" stop="20250929140000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Viral</title>
 </programme>
 <programme start="20250929140000 +0000" stop="20250929150000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Spot On</title>
 </programme>
 <programme start="20250929150000 +0000" stop="20250929160000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Satu Malam</title>
 </programme>
-<programme start="20250929160000 +0000" stop="20250929170000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="BTV.vision">
+<title>Mitos Tengah Malam</title>
 </programme>
-<programme start="20250929170000 +0000" stop="20250929180000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929163000 +0000" stop="20250929173000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
 </programme>
-<programme start="20250929180000 +0000" stop="20250929180300 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929173000 +0000" stop="20250929182700 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>
-<programme start="20250929180300 +0000" stop="20250929190000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929182700 +0000" stop="20250929183000 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
 </programme>
-<programme start="20250929190000 +0000" stop="20250929200000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929183000 +0000" stop="20250929193000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
-<programme start="20250929200000 +0000" stop="20250929210000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929193000 +0000" stop="20250929203000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
 </programme>
-<programme start="20250929210000 +0000" stop="20250929213000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250929203000 +0000" stop="20250929213000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
 <programme start="20250929213000 +0000" stop="20250929223000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Satu Pagi</title>
 </programme>
 <programme start="20250929223000 +0000" stop="20250929230000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Jendela Dunia</title>
 </programme>
 <programme start="20250929230000 +0000" stop="20250929230300 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20250929230300 +0000" stop="20250930003000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Jalan Dakwah</title>
 </programme>
-<programme start="20250930003000 +0000" stop="20250930011500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250930003000 +0000" stop="20250930010000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
-<programme start="20250930011500 +0000" stop="20250930021500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250930010000 +0000" stop="20250930013000 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20250930013000 +0000" stop="20250930021500 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20250930021500 +0000" stop="20250930030000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Selera Rasa</title>
 </programme>
 <programme start="20250930030000 +0000" stop="20250930040000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Masak Seru Gaes</title>
 </programme>
 <programme start="20250930040000 +0000" stop="20250930050000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Berita Satu Siang</title>
 </programme>
 <programme start="20250930050000 +0000" stop="20250930060000 +0000" channel="BTV.vision">
-<title>BTV</title>
+<title>Investor Market Today</title>
 </programme>
-<programme start="20250930060000 +0000" stop="20250930064500 +0000" channel="BTV.vision">
-<title>BTV</title>
+<programme start="20250930060000 +0000" stop="20250930063000 +0000" channel="BTV.vision">
+<title>Investor Daily Talk</title>
 </programme>
-<programme start="20250930064500 +0000" stop="20250930073000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250930073000 +0000" stop="20250930081500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250930081500 +0000" stop="20250930091500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250930091500 +0000" stop="20250930100000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250930100000 +0000" stop="20250930110000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250930110000 +0000" stop="20250930120000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20250929000000 +0000" stop="20250929010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250929010000 +0000" stop="20250929020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20250929020000 +0000" stop="20250929020300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20250930063000 +0000" stop="20250930080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
