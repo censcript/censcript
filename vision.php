@@ -640,6 +640,24 @@
 <programme start="20251001114500 +0000" stop="20251001121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250930050000 +0000" stop="20250930063000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
+</programme>
+<programme start="20250930063000 +0000" stop="20250930080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
+</programme>
+<programme start="20250930080000 +0000" stop="20250930093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
+</programme>
+<programme start="20250930093000 +0000" stop="20250930110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20250930110000 +0000" stop="20250930123000 +0000" channel="ANTV.vision">
+<title>Perjanjian Di Malam Keramat</title>
+</programme>
+<programme start="20250930123000 +0000" stop="20250930143000 +0000" channel="ANTV.vision">
+<title>Rindu Tak Berujung</title>
+</programme>
 <programme start="20250930143000 +0000" stop="20250930163000 +0000" channel="ANTV.vision">
 <title>Pertarungan</title>
 </programme>
@@ -652,29 +670,11 @@
 <programme start="20250930203000 +0000" stop="20250930220000 +0000" channel="ANTV.vision">
 <title>Sang Pembela</title>
 </programme>
-<programme start="20250930220000 +0000" stop="20250930223000 +0000" channel="ANTV.vision">
-<title>Nath</title>
-</programme>
-<programme start="20250930223000 +0000" stop="20250930233000 +0000" channel="ANTV.vision">
-<title>Petualangan Superblox</title>
-</programme>
 <programme start="20250930233000 +0000" stop="20251001013000 +0000" channel="ANTV.vision">
 <title>Singa Lodaya</title>
 </programme>
 <programme start="20251001013000 +0000" stop="20251001050000 +0000" channel="ANTV.vision">
-<title>Mujhse Dosti Karoge</title>
-</programme>
-<programme start="20251001050000 +0000" stop="20251001063000 +0000" channel="ANTV.vision">
-<title>Mangal Lakshmi</title>
-</programme>
-<programme start="20251001063000 +0000" stop="20251001080000 +0000" channel="ANTV.vision">
-<title>Cinta Keluarga Pandya</title>
-</programme>
-<programme start="20251001080000 +0000" stop="20251001093000 +0000" channel="ANTV.vision">
-<title>Zeynep</title>
-</programme>
-<programme start="20251001093000 +0000" stop="20251001110000 +0000" channel="ANTV.vision">
-<title>Takdir Cinta Layla</title>
+<title>Swades</title>
 </programme>
 <programme start="20251001110000 +0000" stop="20251001123000 +0000" channel="ANTV.vision">
 <title>Titisan Dewi Ular</title>
