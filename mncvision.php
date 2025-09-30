@@ -1364,7 +1364,7 @@
     <title>UCL Classic Matches: BAR Vs LYO</title>
 </programme>
 <programme start="20250930164000 +0000" stop="20250929171000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL 2025/26 (L)</title>
+    <title>UCL 2025/26: ATA Vs CLU (L)</title>
 </programme>
 <programme start="20250929180000 +0000" stop="20250929182200 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Match HL 2024</title>
@@ -1436,7 +1436,7 @@
     <title>UCL Classic Matches: BAR Vs LYO</title>
 </programme>
 <programme start="20250930164000 +0000" stop="20250929171000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL 2025/26 (L)</title>
+    <title>UCL 2025/26: ATA Vs CLU (L)</title>
 </programme>
 <programme start="20250929170000 +0000" stop="20250929200000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
