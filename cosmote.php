@@ -62,6 +62,10 @@
     <title>Football: Galatasaray AS - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251001193000 +0700" stop="20251001213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Chelsea FC - SL Benfica</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250930171000 +0700" stop="20250930192000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -118,8 +122,8 @@
     <title>Football: Panetolikos - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930163000 +0700" stop="20250930183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Anorthosis Famagusta - Omonoia FC</title>
+<programme start="20251001192000 +0700" stop="20251001212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930183000 +0700" stop="20250930203000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,6 +238,10 @@
     <title>Basketball: Al Ahli - Flamengo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251001191500 +0700" stop="20251001213000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - NBA G League United</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20250930175500 +0700" stop="20250930193000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,10 +346,6 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930160000 +0700" stop="20250930183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Taylor Fritz (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250930183000 +0700" stop="20250930220500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
@@ -394,13 +398,9 @@
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20250930160000 +0700" stop="20250930183000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Learner Tien - Daniil Medvedev (L)</title>
+<programme start="20251001190000 +0700" stop="20251001220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250930183000 +0700" stop="20250930190000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930190000 +0700" stop="20250930200000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
