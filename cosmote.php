@@ -234,6 +234,10 @@
     <title>Basketball: Utsunomiya Brex - Illawarra Hawks</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251002033000 +0700" stop="20251002053500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Al Ahli - Flamengo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251001020000 +0700" stop="20251001040500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Club Atletico de Madrid - Eintracht Frankfurt (L)</title>
     <desc>Live: Ya</desc>

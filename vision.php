@@ -640,6 +640,12 @@
 <programme start="20251001114500 +0000" stop="20251001121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250930143000 +0000" stop="20250930163000 +0000" channel="ANTV.vision">
+<title>Pertarungan</title>
+</programme>
+<programme start="20250930163000 +0000" stop="20250930183000 +0000" channel="ANTV.vision">
+<title>The Mangnificent Butcher</title>
+</programme>
 <programme start="20250930183000 +0000" stop="20250930203000 +0000" channel="ANTV.vision">
 <title>The Happy Ghost 2</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251001093500 +0000" stop="20251001102500 +0000" channel="MDTV.vision">
 <title>Marimar</title>
-</programme>
-<programme start="20251001102500 +0000" stop="20251001111500 +0000" channel="MDTV.vision">
-<title>Rosalinda</title>
-</programme>
-<programme start="20251001111500 +0000" stop="20251001123500 +0000" channel="MDTV.vision">
-<title>Terlanjur Indah</title>
 </programme>
