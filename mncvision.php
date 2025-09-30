@@ -1,93 +1,4 @@
-<programme start="20250929173000 +0000" stop="20250929183000 +0000" channel="ABC Australia.mncvision">
-    <title>Grand Designs Australia</title>
-</programme>
-<programme start="20250929183000 +0000" stop="20250929190000 +0000" channel="ABC Australia.mncvision">
-    <title>Foreign Correspondent</title>
-</programme>
-<programme start="20250929190000 +0000" stop="20250929200000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20250929200000 +0000" stop="20250929230000 +0000" channel="ABC Australia.mncvision">
-    <title>News Breakfast</title>
-</programme>
-<programme start="20250929230000 +0000" stop="20250930020000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News Mornings</title>
-</programme>
-<programme start="20250930020000 +0000" stop="20250930030000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News At Noon</title>
-</programme>
-<programme start="20250930030000 +0000" stop="20250930033000 +0000" channel="ABC Australia.mncvision">
-    <title>A Bite To Eat With Alice</title>
-</programme>
-<programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="ABC Australia.mncvision">
-    <title>Australian Story</title>
-</programme>
-<programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="ABC Australia.mncvision">
-    <title>Secret Science</title>
-</programme>
-<programme start="20250930043000 +0000" stop="20250930050000 +0000" channel="ABC Australia.mncvision">
-    <title>Extraordinary Animals</title>
-</programme>
-<programme start="20250930050000 +0000" stop="20250930060000 +0000" channel="ABC Australia.mncvision">
-    <title>Australia Remastered: Parrot</title>
-</programme>
-<programme start="20250930060000 +0000" stop="20250930070000 +0000" channel="ABC Australia.mncvision">
-    <title>Afternoon Briefing</title>
-</programme>
-<programme start="20250930070000 +0000" stop="20250930080000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News With Joe O&#039;Brien</title>
-</programme>
-<programme start="20250930080000 +0000" stop="20250930083000 +0000" channel="ABC Australia.mncvision">
-    <title>A Bite To Eat With Alice</title>
-</programme>
-<programme start="20250930083000 +0000" stop="20250930090000 +0000" channel="ABC Australia.mncvision">
-    <title>Australian Story</title>
-</programme>
-<programme start="20250930090000 +0000" stop="20250930093000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC National News</title>
-</programme>
-<programme start="20250930093000 +0000" stop="20250930100000 +0000" channel="ABC Australia.mncvision">
-    <title>7.30</title>
-</programme>
-<programme start="20250930100000 +0000" stop="20250930103000 +0000" channel="ABC Australia.mncvision">
-    <title>Secret Science</title>
-</programme>
-<programme start="20250930103000 +0000" stop="20250930110000 +0000" channel="ABC Australia.mncvision">
-    <title>Extraordinary Animals</title>
-</programme>
-<programme start="20250930110000 +0000" stop="20250930120000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20250930120000 +0000" stop="20250930130000 +0000" channel="ABC Australia.mncvision">
-    <title>Australia Remastered: Parrot</title>
-</programme>
-<programme start="20250930130000 +0000" stop="20250930133000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20250930133000 +0000" stop="20250930140000 +0000" channel="ABC Australia.mncvision">
-    <title>Australian Story</title>
-</programme>
-<programme start="20250930140000 +0000" stop="20250930141500 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20250930141500 +0000" stop="20250930143000 +0000" channel="ABC Australia.mncvision">
-    <title>The Business</title>
-</programme>
-<programme start="20250930143000 +0000" stop="20250930150000 +0000" channel="ABC Australia.mncvision">
-    <title>7.30</title>
-</programme>
-<programme start="20250930150000 +0000" stop="20250930160000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20250930160000 +0000" stop="20250930161500 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20250930161500 +0000" stop="20250930163000 +0000" channel="ABC Australia.mncvision">
-    <title>The Business</title>
-</programme>
-<programme start="20250930163000 +0000" stop="20250929170000 +0000" channel="ABC Australia.mncvision">
-    <title>Secret Science</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20250929170000 +0000" stop="20250929173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -2282,7 +2193,7 @@
     <title>China&#039;s Industrial Chains</title>
 </programme>
 <programme start="20250930160000 +0000" stop="20250930163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Me And My Corps</title>
 </programme>
 <programme start="20250929170000 +0000" stop="20250929180000 +0000" channel="Channel News Asia.mncvision">
     <title>Singapore Hour, Ep 13</title>
