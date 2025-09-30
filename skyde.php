@@ -2542,66 +2542,6 @@
 <programme start="20250930212000 +0000" stop="20250930221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Expedition am Limit: Behind the Scenes</title>
 </programme>
-<programme start="20250929223000 +0000" stop="20250930003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SK Puntigamer Sturm Graz - TSV Egger Glas Hartberg, 8. Runde</title>
-</programme>
-<programme start="20250930003000 +0000" stop="20250930004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
-</programme>
-<programme start="20250930004500 +0000" stop="20250930020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Talk &amp; Tore: Fußball-Talk</title>
-</programme>
-<programme start="20250930020000 +0000" stop="20250930030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20250930030000 +0000" stop="20250930033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Marcos Nader)</title>
-</programme>
-<programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Manuela Zinsberger)</title>
-</programme>
-<programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20250930043000 +0000" stop="20250930063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Juventus Turin - Borussia Dortmund, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250930063000 +0000" stop="20250930083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Athletic Bilbao - FC Arsenal, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250930083000 +0000" stop="20250930090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20250930090000 +0000" stop="20250930110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Real Madrid - Olympique Marseille, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250930110000 +0000" stop="20250930130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: PSV Eindhoven - Union Saint-Gilloise, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250930130000 +0000" stop="20250930133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20250930133000 +0000" stop="20250930153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Juventus Turin - Borussia Dortmund, Ligaphase, 1. Spieltag, Dienstag</title>
-</programme>
-<programme start="20250930153000 +0000" stop="20250930160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20250930160000 +0000" stop="20250930163500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
-</programme>
-<programme start="20250930163500 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA CL: Dienstags-Konferenz I, Ligaphase, 2. Spieltag</title>
-</programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA CL: Dienstags-Konferenz II, Ligaphase, 2. Spieltag</title>
-</programme>
-<programme start="20250930210000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 2. Spieltag</title>
-</programme>
-<programme start="20250930213000 +0000" stop="20250930220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Ligaphase, 2. Spieltag</title>
-</programme>
 <programme start="20250930174000 +0000" stop="20250930180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
