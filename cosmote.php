@@ -62,10 +62,6 @@
     <title>Football: Pafos FC - FC Bayern Munchen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930131000 +0700" stop="20250930151000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250930151000 +0700" stop="20250930171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -176,6 +172,10 @@
 </programme>
 <programme start="20251001144500 +0700" stop="20251001164500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Nacional</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001164500 +0700" stop="20251001184500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Motherwell - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930145000 +0700" stop="20250930170000 +0700" channel="COSMOTE Sport 4 HD">
@@ -330,12 +330,8 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930140000 +0700" stop="20250930153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20250930153000 +0700" stop="20250930160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251001162000 +0700" stop="20251001170500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930160000 +0700" stop="20250930183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -393,14 +389,6 @@
 <programme start="20251001150000 +0700" stop="20251001190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20250930130000 +0700" stop="20250930153000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Jannik Sinner - Alex de Minaur (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20250930153000 +0700" stop="20250930160000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930160000 +0700" stop="20250930183000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: Learner Tien - Daniil Medvedev (L)</title>
@@ -478,8 +466,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930140000 +0700" stop="20250930160000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251001160000 +0700" stop="20251001180000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930160000 +0700" stop="20250930180000 +0700" channel="COSMOTE Sport 8 HD">
@@ -546,8 +534,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930140000 +0700" stop="20250930160000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251001160000 +0700" stop="20251001180000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930160000 +0700" stop="20250930180000 +0700" channel="COSMOTE Sport 9 HD">
@@ -611,6 +599,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251001140000 +0700" stop="20251001160000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001160000 +0700" stop="20251001180000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
