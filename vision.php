@@ -457,11 +457,17 @@
 <programme start="20251001110000 +0000" stop="20251001120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
+<programme start="20250929233000 +0000" stop="20250930003000 +0000" channel="Trans TV.vision">
+<title>Blockbuster Sahur Movie</title>
+</programme>
 <programme start="20250930003000 +0000" stop="20250930013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
 </programme>
 <programme start="20250930013000 +0000" stop="20250930033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20250930033000 +0000" stop="20250930053000 +0000" channel="Trans TV.vision">
+<title>Insert Siang</title>
 </programme>
 <programme start="20250930053000 +0000" stop="20250930070000 +0000" channel="Trans TV.vision">
 <title>Brownis (Obrowlan Manis)</title>
@@ -490,44 +496,11 @@
 <programme start="20250930140000 +0000" stop="20250930160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
+<programme start="20250930160000 +0000" stop="20250930180000 +0000" channel="Trans TV.vision">
+<title>Bioskop Trans TV</title>
+</programme>
 <programme start="20250930180000 +0000" stop="20250930220000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Connected</title>
-</programme>
-<programme start="20250930220000 +0000" stop="20250930233000 +0000" channel="Trans TV.vision">
-<title>Islam Itu Indah</title>
-</programme>
-<programme start="20250930233000 +0000" stop="20251001003000 +0000" channel="Trans TV.vision">
-<title>Blockbuster Sahur Movie</title>
-</programme>
-<programme start="20251001003000 +0000" stop="20251001013000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Good Morning</title>
-</programme>
-<programme start="20251001013000 +0000" stop="20251001033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
-</programme>
-<programme start="20251001033000 +0000" stop="20251001053000 +0000" channel="Trans TV.vision">
-<title>Insert Siang</title>
-</programme>
-<programme start="20251001053000 +0000" stop="20251001070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
-</programme>
-<programme start="20251001070000 +0000" stop="20251001080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
-</programme>
-<programme start="20251001080000 +0000" stop="20251001090000 +0000" channel="Trans TV.vision">
-<title>Insert Today</title>
-</programme>
-<programme start="20251001090000 +0000" stop="20251001093000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20251001093000 +0000" stop="20251001103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20251001103000 +0000" stop="20251001114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
-</programme>
-<programme start="20251001114500 +0000" stop="20251001130000 +0000" channel="Trans TV.vision">
-<title>Insert Story</title>
 </programme>
 <programme start="20250929233000 +0000" stop="20250930003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
@@ -543,6 +516,9 @@
 </programme>
 <programme start="20250930031500 +0000" stop="20250930041500 +0000" channel="Trans 7.vision">
 <title>Big-Bang!</title>
+</programme>
+<programme start="20250930041500 +0000" stop="20250930081500 +0000" channel="Trans 7.vision">
+<title>Penumpasan Pengkhianatan G30SPKI</title>
 </programme>
 <programme start="20250930081500 +0000" stop="20250930091500 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
@@ -639,6 +615,9 @@
 </programme>
 <programme start="20251001114500 +0000" stop="20251001121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20250930013000 +0000" stop="20250930050000 +0000" channel="ANTV.vision">
+<title>Krrish</title>
 </programme>
 <programme start="20250930050000 +0000" stop="20250930063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20251001093500 +0000" stop="20251001102500 +0000" channel="MDTV.vision">
 <title>Marimar</title>
+</programme>
+<programme start="20251001102500 +0000" stop="20251001111500 +0000" channel="MDTV.vision">
+<title>Rosalinda</title>
+</programme>
+<programme start="20251001111500 +0000" stop="20251001123500 +0000" channel="MDTV.vision">
+<title>Terlanjur Indah</title>
+</programme>
+<programme start="20250929230000 +0000" stop="20250930010000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20250930010000 +0000" stop="20250930023000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20250930023000 +0000" stop="20250930042000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20250930042000 +0000" stop="20250930060000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20250930060000 +0000" stop="20250930073500 +0000" channel="JTV.vision">
+<title>JTV</title>
 </programme>
