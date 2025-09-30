@@ -4931,7 +4931,7 @@
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
     <programme start="20250930113000 +0000" stop="20250930121500 +0000" channel="Vijay TV HD.starhub">
-        <title>To Be Announced</title>
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250930121500 +0000" stop="20250930130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4951,8 +4951,8 @@
     <programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahanadhi Sagodharigalin Kadhai</title>
     </programme>
-    <programme start="20250930153000 +0000" stop="20250930161500 +0000" channel="Vijay TV HD.starhub">
-        <title>To Be Announced</title>
+    <programme start="20250930153000 +0000" stop="20250930160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -7076,7 +7076,7 @@
         <title>Ultimate Pool 2025: Group A Pairs Cup Last 16</title>
     </programme>
     <programme start="20250930051000 +0000" stop="20250930070000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Valencia vs Real Oviedo</title>
+        <title>LaLiga 2025/26: Girona vs Espanyol</title>
     </programme>
     <programme start="20250930070000 +0000" stop="20250930090000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Atletico Madrid vs Real Madrid</title>
@@ -8266,10 +8266,10 @@
     <programme start="20250930073000 +0000" stop="20250930103000 +0000" channel="Asianet Movies.starhub">
         <title>Pachakuthira</title>
     </programme>
-    <programme start="20250930103000 +0000" stop="20250930133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250930103000 +0000" stop="20250930133500 +0000" channel="Asianet Movies.starhub">
         <title>2018: Everyone Is a Hero</title>
     </programme>
-    <programme start="20250930133000 +0000" stop="20250930163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20250930133500 +0000" stop="20250930164500 +0000" channel="Asianet Movies.starhub">
         <title>Thrissur Pooram</title>
     </programme>
     <programme start="20250929160000 +0000" stop="20250929170000 +0000" channel="Astro Warna HD.starhub">

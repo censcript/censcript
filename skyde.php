@@ -127,52 +127,52 @@
 <programme start="20250930213500 +0000" stop="20250930233000 +0000" channel="Beate Uhse HD.skyde">
     <title>Die Erbinnen</title>
 </programme>
-<programme start="20250929221000 +0000" stop="20250929222000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929220500 +0000" stop="20250929221500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20250929222000 +0000" stop="20250929223000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929221500 +0000" stop="20250929222500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20250929223000 +0000" stop="20250929224000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929222500 +0000" stop="20250929223500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20250929224000 +0000" stop="20250929225000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929223500 +0000" stop="20250929225000 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
 <programme start="20250929225000 +0000" stop="20250929230000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250929230000 +0000" stop="20250929231500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929230000 +0000" stop="20250929231000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250929231500 +0000" stop="20250929232500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929231000 +0000" stop="20250929232000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250929232500 +0000" stop="20250929233500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929232000 +0000" stop="20250929233500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250929233500 +0000" stop="20250930000000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929233500 +0000" stop="20250929235500 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250930000000 +0000" stop="20250930001000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250929235500 +0000" stop="20250930001000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
-<programme start="20250930001000 +0000" stop="20250930002500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930001000 +0000" stop="20250930002000 +0000" channel="Cartoon Network.skyde">
     <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
 </programme>
-<programme start="20250930002500 +0000" stop="20250930003500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930002000 +0000" stop="20250930003000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930003500 +0000" stop="20250930004500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930003000 +0000" stop="20250930004500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930004500 +0000" stop="20250930005500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930005500 +0000" stop="20250930011000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930005500 +0000" stop="20250930010500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930011000 +0000" stop="20250930013000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930010500 +0000" stop="20250930013000 +0000" channel="Cartoon Network.skyde">
     <title>Jade Armor</title>
 </programme>
 <programme start="20250930013000 +0000" stop="20250930014000 +0000" channel="Cartoon Network.skyde">
@@ -187,10 +187,10 @@
 <programme start="20250930020500 +0000" stop="20250930021500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930021500 +0000" stop="20250930023000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930021500 +0000" stop="20250930022500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930023000 +0000" stop="20250930024000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930022500 +0000" stop="20250930024000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930024000 +0000" stop="20250930030500 +0000" channel="Cartoon Network.skyde">
@@ -223,10 +223,10 @@
 <programme start="20250930043000 +0000" stop="20250930044000 +0000" channel="Cartoon Network.skyde">
     <title>We Bare Bears - Bären wie wir</title>
 </programme>
-<programme start="20250930044000 +0000" stop="20250930045000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930044000 +0000" stop="20250930045500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930045000 +0000" stop="20250930050500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930045500 +0000" stop="20250930050500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930050500 +0000" stop="20250930051500 +0000" channel="Cartoon Network.skyde">
@@ -235,46 +235,46 @@
 <programme start="20250930051500 +0000" stop="20250930052500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930052500 +0000" stop="20250930053500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930052500 +0000" stop="20250930054000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930053500 +0000" stop="20250930055000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930054000 +0000" stop="20250930055000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930055000 +0000" stop="20250930060000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930060000 +0000" stop="20250930061000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930060000 +0000" stop="20250930061500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930061000 +0000" stop="20250930062000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930061500 +0000" stop="20250930062500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930062000 +0000" stop="20250930063500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930062500 +0000" stop="20250930063500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930063500 +0000" stop="20250930064500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930064500 +0000" stop="20250930065500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930064500 +0000" stop="20250930070000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930065500 +0000" stop="20250930071000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930070000 +0000" stop="20250930071000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
 <programme start="20250930071000 +0000" stop="20250930072000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930072000 +0000" stop="20250930073000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930072000 +0000" stop="20250930073500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930073000 +0000" stop="20250930074500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930073500 +0000" stop="20250930074500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930074500 +0000" stop="20250930080500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930074500 +0000" stop="20250930081000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20250930080500 +0000" stop="20250930083000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930081000 +0000" stop="20250930083000 +0000" channel="Cartoon Network.skyde">
     <title>Jade Armor</title>
 </programme>
 <programme start="20250930083000 +0000" stop="20250930084500 +0000" channel="Cartoon Network.skyde">
@@ -286,10 +286,10 @@
 <programme start="20250930085500 +0000" stop="20250930090500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930090500 +0000" stop="20250930091500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930090500 +0000" stop="20250930092000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930091500 +0000" stop="20250930093000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930092000 +0000" stop="20250930093000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250930093000 +0000" stop="20250930094000 +0000" channel="Cartoon Network.skyde">
@@ -307,154 +307,154 @@
 <programme start="20250930104000 +0000" stop="20250930105000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250930105000 +0000" stop="20250930110500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930105000 +0000" stop="20250930110000 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250930110500 +0000" stop="20250930111500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930110000 +0000" stop="20250930111500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
 <programme start="20250930111500 +0000" stop="20250930112500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250930112500 +0000" stop="20250930114000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930112500 +0000" stop="20250930113500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250930114000 +0000" stop="20250930115000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930113500 +0000" stop="20250930115000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250930115000 +0000" stop="20250930120000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930120000 +0000" stop="20250930121500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930120000 +0000" stop="20250930121000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930121500 +0000" stop="20250930122500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930121000 +0000" stop="20250930122500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250930122500 +0000" stop="20250930123500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930123500 +0000" stop="20250930125000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930123500 +0000" stop="20250930124500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930125000 +0000" stop="20250930130000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930124500 +0000" stop="20250930125500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930130000 +0000" stop="20250930131000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930125500 +0000" stop="20250930131000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930131000 +0000" stop="20250930132500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930132500 +0000" stop="20250930134000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930132500 +0000" stop="20250930133500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930134000 +0000" stop="20250930135000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930133500 +0000" stop="20250930134500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930135000 +0000" stop="20250930140000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930134500 +0000" stop="20250930140000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250930140000 +0000" stop="20250930141500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930140000 +0000" stop="20250930141000 +0000" channel="Cartoon Network.skyde">
     <title>Craig of the Creek - Im Wald der Abenteuer</title>
 </programme>
-<programme start="20250930141500 +0000" stop="20250930142500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930141000 +0000" stop="20250930142500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250930142500 +0000" stop="20250930143500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930143500 +0000" stop="20250930145000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930143500 +0000" stop="20250930144500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930145000 +0000" stop="20250930150000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930144500 +0000" stop="20250930145500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930150000 +0000" stop="20250930152500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930145500 +0000" stop="20250930152000 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20250930152500 +0000" stop="20250930153500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930152000 +0000" stop="20250930153500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930153500 +0000" stop="20250930155000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930153500 +0000" stop="20250930154500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930155000 +0000" stop="20250930160000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930154500 +0000" stop="20250930155500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930160000 +0000" stop="20250930161000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930155500 +0000" stop="20250930161000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930161000 +0000" stop="20250930162500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930161000 +0000" stop="20250930162000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930162500 +0000" stop="20250930163000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930162000 +0000" stop="20250930163000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930163000 +0000" stop="20250930164500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930163000 +0000" stop="20250930164000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930164500 +0000" stop="20250930165500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930164000 +0000" stop="20250930165500 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
 <programme start="20250930165500 +0000" stop="20250930170500 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
-<programme start="20250930170500 +0000" stop="20250930172000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930170500 +0000" stop="20250930171500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930172000 +0000" stop="20250930172500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930171500 +0000" stop="20250930172000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930172500 +0000" stop="20250930173500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930172000 +0000" stop="20250930173500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20250930173500 +0000" stop="20250930175000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930173500 +0000" stop="20250930174500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250930175000 +0000" stop="20250930180000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930174500 +0000" stop="20250930175500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20250930180000 +0000" stop="20250930181500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930175500 +0000" stop="20250930181000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930181500 +0000" stop="20250930182500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930181000 +0000" stop="20250930182000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930182500 +0000" stop="20250930183500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930182000 +0000" stop="20250930183000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930183500 +0000" stop="20250930184500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930183000 +0000" stop="20250930184500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930184500 +0000" stop="20250930190000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930184500 +0000" stop="20250930185500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930190000 +0000" stop="20250930191000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930185500 +0000" stop="20250930190500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930191000 +0000" stop="20250930192000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930190500 +0000" stop="20250930191500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930192000 +0000" stop="20250930193000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930191500 +0000" stop="20250930193000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20250930193000 +0000" stop="20250930194000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20250930194000 +0000" stop="20250930195500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930194000 +0000" stop="20250930195000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930195500 +0000" stop="20250930200500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930195000 +0000" stop="20250930200500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20250930200500 +0000" stop="20250930201500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930201500 +0000" stop="20250930203000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930201500 +0000" stop="20250930202500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20250930203000 +0000" stop="20250930204000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930202500 +0000" stop="20250930204000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
 <programme start="20250930204000 +0000" stop="20250930205000 +0000" channel="Cartoon Network.skyde">
@@ -463,22 +463,22 @@
 <programme start="20250930205000 +0000" stop="20250930210000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20250930210000 +0000" stop="20250930211500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930210000 +0000" stop="20250930211000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20250930211500 +0000" stop="20250930212500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930211000 +0000" stop="20250930212000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20250930212500 +0000" stop="20250930213500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930212000 +0000" stop="20250930213000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20250930213500 +0000" stop="20250930214500 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930213000 +0000" stop="20250930214500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20250930214500 +0000" stop="20250930215500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20250930215500 +0000" stop="20250930221000 +0000" channel="Cartoon Network.skyde">
+<programme start="20250930215500 +0000" stop="20250930220500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20250929221500 +0000" stop="20250929222500 +0000" channel="Cartoonito.skyde">
@@ -910,43 +910,40 @@
 <programme start="20250929220000 +0000" stop="20250930060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20250930060000 +0000" stop="20250930062000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930060000 +0000" stop="20250930063000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250930062000 +0000" stop="20250930073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930063000 +0000" stop="20250930075000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
 </programme>
-<programme start="20250930073000 +0000" stop="20250930093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930075000 +0000" stop="20250930094000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Atlético Madrid - Real Madrid</title>
 </programme>
-<programme start="20250930093000 +0000" stop="20250930113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930094000 +0000" stop="20250930114000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FSV Mainz 05 - Borussia Dortmund</title>
 </programme>
-<programme start="20250930113000 +0000" stop="20250930120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930114000 +0000" stop="20250930122000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250930120000 +0000" stop="20250930140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930122000 +0000" stop="20250930142000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - SV Werder Bremen</title>
 </programme>
-<programme start="20250930140000 +0000" stop="20250930145500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930142000 +0000" stop="20250930151500 +0000" channel="DAZN 1 HD.skyde">
     <title>Get Wild: Lange Version</title>
 </programme>
-<programme start="20250930145500 +0000" stop="20250930152500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 1</title>
+<programme start="20250930151500 +0000" stop="20250930154000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20250930152500 +0000" stop="20250930155000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Features 2024/25: Das Herz des deutschen Fußballs - Episode 2</title>
-</programme>
-<programme start="20250930155000 +0000" stop="20250930161500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930154000 +0000" stop="20250930161500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250930161500 +0000" stop="20250930163000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930161500 +0000" stop="20250930162500 +0000" channel="DAZN 1 HD.skyde">
     <title>UCL Warm Up: UEFA Champions League Highlights</title>
 </programme>
-<programme start="20250930163000 +0000" stop="20250930185000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930162500 +0000" stop="20250930185500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: Kairat Almaty - Real Madrid</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930220000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20250930185500 +0000" stop="20250930220000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League 25/26: Atlético Madrid - Eintracht Frankfurt</title>
 </programme>
 <programme start="20250929220000 +0000" stop="20250930060000 +0000" channel="DAZN 2 HD.skyde">
@@ -985,14 +982,17 @@
 <programme start="20250930160000 +0000" stop="20250930161500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20250930161500 +0000" stop="20250930163000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250930161500 +0000" stop="20250930162500 +0000" channel="DAZN 2 HD.skyde">
     <title>UCL Warm Up: UEFA Champions League Highlights</title>
 </programme>
-<programme start="20250930163000 +0000" stop="20250930185000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250930162500 +0000" stop="20250930185500 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Champions League 25/26: Konferenz</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20250930185500 +0000" stop="20250930210500 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Champions League 25/26: Konferenz</title>
+</programme>
+<programme start="20250930210500 +0000" stop="20251001060000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Sendepause</title>
 </programme>
 <programme start="20250929223000 +0000" stop="20250929231500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
@@ -2074,7 +2074,7 @@
 <programme start="20250930204000 +0000" stop="20250930213000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hitlers Schatzjäger</title>
 </programme>
-<programme start="20250930213000 +0000" stop="20250930222000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20250930213000 +0000" stop="20250930221500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hitlers Schatzjäger</title>
 </programme>
 <programme start="20250929221000 +0000" stop="20250929234000 +0000" channel="Sky Krimi HD.skyde">
@@ -2611,7 +2611,7 @@
 <programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Eintracht Frankfurt, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250930210000 +0000" stop="20250930220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20250930210000 +0000" stop="20250930221500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20250930154000 +0000" stop="20250930160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2623,7 +2623,7 @@
 <programme start="20250930163500 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Kairat Almaty - Real Madrid, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20250930185000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Pafos - FC Bayern München, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250930154000 +0000" stop="20250930160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2635,31 +2635,31 @@
 <programme start="20250930163500 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Atalanta Bergamo - Club Brügge, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20250930185000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Galatasaray Istanbul - FC Liverpool, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250930183000 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20250930185000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - Tottenham Hotspur, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250930183000 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20250930185000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - Benfica Lissabon, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250930183000 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20250930185000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA CL: Olympique Marseille - Ajax Amsterdam, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250930183000 +0000" stop="20250930185000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20250930185000 +0000" stop="20250930210000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20250930185000 +0000" stop="20250930213000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: Inter Mailand - Slavia Prag, Ligaphase, 2. Spieltag, Dienstag</title>
 </programme>
 <programme start="20250929220000 +0000" stop="20250929223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3137,16 +3137,16 @@
     <title>Live WTA 1000: China Open in Peking (China), 7. Tag</title>
 </programme>
 <programme start="20250930150000 +0000" stop="20250930170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, China Open in Peking (China), Halbfinale</title>
+    <title>ATP 500: J. Sinner (ITA) - A. de Minaur (AUS), HF1, China Open in Peking (China), Halbfinale 1</title>
 </programme>
 <programme start="20250930170000 +0000" stop="20250930193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
+    <title>ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
 </programme>
 <programme start="20250930193000 +0000" stop="20250930213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, China Open in Peking (China), 7. Tag</title>
+    <title>WTA 1000: E. Lys (GER) - M. Kessler (USA) China Open in Peking (China), 7. Tag</title>
 </programme>
 <programme start="20250930213000 +0000" stop="20250930233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF2, China Open in Peking (China), Halbfinale</title>
+    <title>ATP 500: L. Tien (USA) - D. Medvedev, China Open in Peking (China), Halbfinale 2</title>
 </programme>
 <programme start="20250929220000 +0000" stop="20250929230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
@@ -3160,17 +3160,11 @@
 <programme start="20250930000000 +0000" stop="20250930030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ryder Cup: 3. Tag in Farmingdale, NY (USA)</title>
 </programme>
-<programme start="20250930030000 +0000" stop="20250930060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20250930030000 +0000" stop="20250930090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 7. Tag</title>
 </programme>
-<programme start="20250930060000 +0000" stop="20250930080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: Halbfinale, China Open in Peking (China), Halbfinale</title>
-</programme>
-<programme start="20250930080000 +0000" stop="20250930090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>US Open: Tournament Review Show 2025</title>
-</programme>
 <programme start="20250930090000 +0000" stop="20250930113000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: Konferenz ATP Peking Halbfinale, Tokio Finale</title>
+    <title>Live ATP 500: Konferenz ATP Peking Halbfinale &amp; Tokio Finale</title>
 </programme>
 <programme start="20250930113000 +0000" stop="20250930150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: China Open in Peking (China), 7. Tag</title>
@@ -3185,7 +3179,7 @@
     <title>MotoGP: Rennen - GP Japan</title>
 </programme>
 <programme start="20250930180000 +0000" stop="20250930203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: Finale, Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
+    <title>ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
 </programme>
 <programme start="20250930203000 +0000" stop="20250930210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
@@ -3233,7 +3227,7 @@
     <title>Mondo Duplantis: Immer höher</title>
 </programme>
 <programme start="20250929220000 +0000" stop="20250930060000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>ATP World Tour: Es folgt</title>
+    <title>Es folgt: ab 08:00: LIVE ATP World Tour</title>
 </programme>
 <programme start="20250930060000 +0000" stop="20250930090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 500: J. Sinner (ITA) - A. de Minaur (AUS), HF1, China Open in Peking (China), Halbfinale 1</title>
@@ -3247,8 +3241,8 @@
 <programme start="20250930084000 +0000" stop="20250930090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20250930090000 +0000" stop="20250930113000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: Finale, Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
+<programme start="20250930090000 +0000" stop="20250930133000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
 </programme>
 <programme start="20250929222500 +0000" stop="20250929231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
@@ -3493,85 +3487,85 @@
 <programme start="20250930033500 +0000" stop="20250930040000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930040000 +0000" stop="20250930042500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930040000 +0000" stop="20250930042000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930042500 +0000" stop="20250930045000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930042000 +0000" stop="20250930044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930045000 +0000" stop="20250930051500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930044500 +0000" stop="20250930051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250930051500 +0000" stop="20250930054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930051000 +0000" stop="20250930053500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250930054000 +0000" stop="20250930060500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930053500 +0000" stop="20250930060000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250930060500 +0000" stop="20250930063000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930060000 +0000" stop="20250930062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20250930063000 +0000" stop="20250930065500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930062500 +0000" stop="20250930065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20250930065500 +0000" stop="20250930072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930065000 +0000" stop="20250930071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20250930072000 +0000" stop="20250930074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930071500 +0000" stop="20250930074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20250930074500 +0000" stop="20250930081000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930074000 +0000" stop="20250930080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20250930081000 +0000" stop="20250930083500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930080500 +0000" stop="20250930083000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930083500 +0000" stop="20250930090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930083000 +0000" stop="20250930085500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930090000 +0000" stop="20250930092500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930085500 +0000" stop="20250930092000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930092500 +0000" stop="20250930095000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930092000 +0000" stop="20250930094500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20250930095000 +0000" stop="20250930101500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930094500 +0000" stop="20250930100500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20250930101500 +0000" stop="20250930103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930100500 +0000" stop="20250930103000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20250930103500 +0000" stop="20250930110000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930103000 +0000" stop="20250930105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20250930110000 +0000" stop="20250930112000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930105000 +0000" stop="20250930111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20250930112000 +0000" stop="20250930114500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930111500 +0000" stop="20250930114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930114500 +0000" stop="20250930121000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930114000 +0000" stop="20250930120500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930121000 +0000" stop="20250930123500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930120500 +0000" stop="20250930123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930123500 +0000" stop="20250930130000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930123000 +0000" stop="20250930125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930130000 +0000" stop="20250930132500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930125500 +0000" stop="20250930132000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930132500 +0000" stop="20250930135000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930132000 +0000" stop="20250930134500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930135000 +0000" stop="20250930141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930134500 +0000" stop="20250930141000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930141500 +0000" stop="20250930144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930141000 +0000" stop="20250930143500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20250930144000 +0000" stop="20250930150000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930143500 +0000" stop="20250930150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20250930150000 +0000" stop="20250930152500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3589,10 +3583,10 @@
 <programme start="20250930164000 +0000" stop="20250930170500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20250930170500 +0000" stop="20250930173000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930170500 +0000" stop="20250930172500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20250930173000 +0000" stop="20250930175000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930172500 +0000" stop="20250930175000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20250930175000 +0000" stop="20250930181500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3601,31 +3595,31 @@
 <programme start="20250930181500 +0000" stop="20250930184000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250930184000 +0000" stop="20250930190000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930184000 +0000" stop="20250930190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250930190000 +0000" stop="20250930192500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930190500 +0000" stop="20250930193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20250930192500 +0000" stop="20250930195000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930193000 +0000" stop="20250930195500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250930195000 +0000" stop="20250930201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930195500 +0000" stop="20250930202000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20250930201500 +0000" stop="20250930204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930202000 +0000" stop="20250930204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20250930204000 +0000" stop="20250930210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930204500 +0000" stop="20250930211000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
-<programme start="20250930210500 +0000" stop="20250930213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930211000 +0000" stop="20250930213500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Royal Crackers</title>
 </programme>
-<programme start="20250930213000 +0000" stop="20250930215000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930213500 +0000" stop="20250930215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Royal Crackers</title>
 </programme>
-<programme start="20250930215000 +0000" stop="20250930221500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20250930215500 +0000" stop="20250930222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20250929222500 +0000" stop="20250930001000 +0000" channel="Warner TV Film.skyde">
@@ -3643,10 +3637,10 @@
 <programme start="20250930052000 +0000" stop="20250930070500 +0000" channel="Warner TV Film.skyde">
     <title>Meteor</title>
 </programme>
-<programme start="20250930070500 +0000" stop="20250930084000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250930070500 +0000" stop="20250930083500 +0000" channel="Warner TV Film.skyde">
     <title>The Cold Light of Day</title>
 </programme>
-<programme start="20250930084000 +0000" stop="20250930101000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250930083500 +0000" stop="20250930101000 +0000" channel="Warner TV Film.skyde">
     <title>Red Dawn</title>
 </programme>
 <programme start="20250930101000 +0000" stop="20250930115500 +0000" channel="Warner TV Film.skyde">
@@ -3655,10 +3649,10 @@
 <programme start="20250930115500 +0000" stop="20250930135500 +0000" channel="Warner TV Film.skyde">
     <title>Planet der Affen</title>
 </programme>
-<programme start="20250930135500 +0000" stop="20250930160000 +0000" channel="Warner TV Film.skyde">
+<programme start="20250930135500 +0000" stop="20250930160500 +0000" channel="Warner TV Film.skyde">
     <title>Jurassic World</title>
 </programme>
-<programme start="20250930160000 +0000" stop="20250930181500 +0000" channel="Warner TV Film.skyde">
+<programme start="20250930160500 +0000" stop="20250930181500 +0000" channel="Warner TV Film.skyde">
     <title>Jurassic World: Das gefallene Königreich</title>
 </programme>
 <programme start="20250930181500 +0000" stop="20250930202500 +0000" channel="Warner TV Film.skyde">
@@ -3682,10 +3676,10 @@
 <programme start="20250930052000 +0000" stop="20250930070500 +0000" channel="Warner TV Film HD.skyde">
     <title>Meteor</title>
 </programme>
-<programme start="20250930070500 +0000" stop="20250930084000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250930070500 +0000" stop="20250930083500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Cold Light of Day</title>
 </programme>
-<programme start="20250930084000 +0000" stop="20250930101000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250930083500 +0000" stop="20250930101000 +0000" channel="Warner TV Film HD.skyde">
     <title>Red Dawn</title>
 </programme>
 <programme start="20250930101000 +0000" stop="20250930115500 +0000" channel="Warner TV Film HD.skyde">
@@ -3694,10 +3688,10 @@
 <programme start="20250930115500 +0000" stop="20250930135500 +0000" channel="Warner TV Film HD.skyde">
     <title>Planet der Affen</title>
 </programme>
-<programme start="20250930135500 +0000" stop="20250930160000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250930135500 +0000" stop="20250930160500 +0000" channel="Warner TV Film HD.skyde">
     <title>Jurassic World</title>
 </programme>
-<programme start="20250930160000 +0000" stop="20250930181500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20250930160500 +0000" stop="20250930181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Jurassic World: Das gefallene Königreich</title>
 </programme>
 <programme start="20250930181500 +0000" stop="20250930202500 +0000" channel="Warner TV Film HD.skyde">
@@ -3724,46 +3718,46 @@
 <programme start="20250930030500 +0000" stop="20250930040000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20250930040000 +0000" stop="20250930045000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930040000 +0000" stop="20250930044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250930045000 +0000" stop="20250930054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930044000 +0000" stop="20250930053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250930054000 +0000" stop="20250930063000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930053500 +0000" stop="20250930062500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250930063000 +0000" stop="20250930072000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930062500 +0000" stop="20250930071500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250930072000 +0000" stop="20250930081000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930071500 +0000" stop="20250930080500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250930081000 +0000" stop="20250930085500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930080500 +0000" stop="20250930085500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20250930085500 +0000" stop="20250930095000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930085500 +0000" stop="20250930094500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250930095000 +0000" stop="20250930110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930094500 +0000" stop="20250930110000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250930110500 +0000" stop="20250930115500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930110000 +0000" stop="20250930115000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250930115500 +0000" stop="20250930124500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930115000 +0000" stop="20250930124500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20250930124500 +0000" stop="20250930133500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20250930133500 +0000" stop="20250930142500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930133500 +0000" stop="20250930142000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20250930142500 +0000" stop="20250930151000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930142000 +0000" stop="20250930150500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20250930151000 +0000" stop="20250930155500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20250930150500 +0000" stop="20250930155500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20250930155500 +0000" stop="20250930164000 +0000" channel="Warner TV Serie HD.skyde">
