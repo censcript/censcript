@@ -1,7 +1,3 @@
-<programme start="20250930210000 +0700" stop="20250930230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Olympiacos - Pafos FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250930230000 +0700" stop="20250930234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -60,6 +56,10 @@
 </programme>
 <programme start="20251001223000 +0700" stop="20251001234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251001234500 +0700" stop="20251002020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20250930212000 +0700" stop="20250930234500 +0700" channel="COSMOTE Sport 2 HD">
@@ -122,10 +122,6 @@
     <title>Football: Olympiacos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930210000 +0700" stop="20250930230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Chelsea FC - SL Benfica (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20250930230000 +0700" stop="20250930234500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -178,9 +174,13 @@
     <title>Football: Anorthosis Famagusta - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930215000 +0700" stop="20250930220500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
+<programme start="20251001231500 +0700" stop="20251001234500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001234500 +0700" stop="20251002020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Union Saint-Gilloise - Newcastle United (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250930220500 +0700" stop="20251001003500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Indiana Fever - Las Vegas Aces</title>
@@ -234,9 +234,9 @@
     <title>Basketball: Las Vegas Aces - Indiana Fever</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930213500 +0700" stop="20250930224000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251001234500 +0700" stop="20251002015000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: Qarabag FK - FC Copenhagen (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20250930224000 +0700" stop="20250930231000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC</title>
@@ -334,8 +334,8 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930183000 +0700" stop="20250930220500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20251001234000 +0700" stop="20251002004500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930220500 +0700" stop="20251001001000 +0700" channel="COSMOTE Sport 6 HD">
@@ -354,12 +354,16 @@
     <title>Football: Pafos FC - FC Bayern Munchen (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251001040500 +0700" stop="20251001054000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251001040500 +0700" stop="20251001055500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - HSV Hamburg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251001054000 +0700" stop="20251001082500 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20251001055500 +0700" stop="20251001080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Taylor Fritz</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001080000 +0700" stop="20251001082500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251001082500 +0700" stop="20251001085500 +0700" channel="COSMOTE Sport 6 HD">
@@ -399,6 +403,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251001225000 +0700" stop="20251001234500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001234500 +0700" stop="20251002011500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -455,7 +463,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251001130000 +0700" stop="20251001153000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
+    <title>Tennis: Jannik Sinner - Learner Tien (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251001153000 +0700" stop="20251001160000 +0700" channel="COSMOTE Sport 7 HD">
