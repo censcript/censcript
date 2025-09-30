@@ -1112,7 +1112,7 @@
     <title>Ultimate Pool 2025: Group A</title>
 </programme>
 <programme start="20250930051000 +0000" stop="20250930070000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: VAL Vs OVI</title>
+    <title>LaLiga 2025/26: GIR Vs ESP</title>
 </programme>
 <programme start="20250930070000 +0000" stop="20250930090000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: ATM Vs RMA</title>
@@ -1169,7 +1169,7 @@
     <title>Ultimate Pool 2025: Group A</title>
 </programme>
 <programme start="20250930051000 +0000" stop="20250930070000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: VAL Vs OVI</title>
+    <title>LaLiga 2025/26: GIR Vs ESP</title>
 </programme>
 <programme start="20250930070000 +0000" stop="20250930090000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: ATM Vs RMA</title>
