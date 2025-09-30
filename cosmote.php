@@ -1,7 +1,3 @@
-<programme start="20250930200000 +0700" stop="20250930210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20250930210000 +0700" stop="20250930230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Pafos FC</title>
     <desc>Live: Tidak</desc>
@@ -56,6 +52,10 @@
 </programme>
 <programme start="20251001193000 +0700" stop="20251001213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Chelsea FC - SL Benfica</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001213000 +0700" stop="20251001223000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930192000 +0700" stop="20250930212000 +0700" channel="COSMOTE Sport 2 HD">
@@ -114,12 +114,12 @@
     <title>Football: Cagliari - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930183000 +0700" stop="20250930203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: West Bromwich Albion - Leicester City FC</title>
+<programme start="20251001212000 +0700" stop="20251001215000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E2</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930203000 +0700" stop="20250930210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251001215000 +0700" stop="20251002002500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930210000 +0700" stop="20250930230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -172,6 +172,10 @@
 </programme>
 <programme start="20251001204500 +0700" stop="20251001211500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Sudamericana 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001211500 +0700" stop="20251001231500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930190500 +0700" stop="20250930215000 +0700" channel="COSMOTE Sport 4 HD">
@@ -230,8 +234,8 @@
     <title>Basketball: Unicaja - NBA G League United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20250930200000 +0700" stop="20250930205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251001213000 +0700" stop="20251001234500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Las Vegas Aces - Indiana Fever</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930205000 +0700" stop="20250930213500 +0700" channel="COSMOTE Sport 5 HD">
@@ -328,6 +332,10 @@
 </programme>
 <programme start="20251001201000 +0700" stop="20251001214000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251001214000 +0700" stop="20251001224000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20250930183000 +0700" stop="20250930220500 +0700" channel="COSMOTE Sport 6 HD">
