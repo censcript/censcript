@@ -1018,6 +1018,72 @@
 <programme start="20251002103000 +0000" stop="20251002123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
+<programme start="20250930233500 +0000" stop="20251001011500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001011500 +0000" stop="20251001030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001030000 +0000" stop="20251001044000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001044000 +0000" stop="20251001061000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001061000 +0000" stop="20251001074000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001074000 +0000" stop="20251001092000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001092000 +0000" stop="20251001110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001110000 +0000" stop="20251001123500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001123500 +0000" stop="20251001140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001140000 +0000" stop="20251001153500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001153500 +0000" stop="20251001171000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001171000 +0000" stop="20251001190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001190000 +0000" stop="20251001203000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001203000 +0000" stop="20251001221000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001221000 +0000" stop="20251001233500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251001233500 +0000" stop="20251002012500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251002012500 +0000" stop="20251002030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251002030000 +0000" stop="20251002045000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251002045000 +0000" stop="20251002064000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251002064000 +0000" stop="20251002082000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251002082000 +0000" stop="20251002101500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251002101500 +0000" stop="20251002121500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
 <programme start="20251001000000 +0000" stop="20251001003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
 </programme>
@@ -1431,70 +1497,4 @@
 </programme>
 <programme start="20251002003000 +0000" stop="20251002010000 +0000" channel="JAK TV.vision">
 <title>Cooking Time</title>
-</programme>
-<programme start="20251002010000 +0000" stop="20251002020000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20251002020000 +0000" stop="20251002030000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20251002030000 +0000" stop="20251002033000 +0000" channel="JAK TV.vision">
-<title>Creative Talk</title>
-</programme>
-<programme start="20251002033000 +0000" stop="20251002040000 +0000" channel="JAK TV.vision">
-<title>Animal Action</title>
-</programme>
-<programme start="20251002040000 +0000" stop="20251002043000 +0000" channel="JAK TV.vision">
-<title>Above And Beyond</title>
-</programme>
-<programme start="20251002043000 +0000" stop="20251002050000 +0000" channel="JAK TV.vision">
-<title>Aroma Puncak Borneo</title>
-</programme>
-<programme start="20251002050000 +0000" stop="20251002060000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20251002060000 +0000" stop="20251002070000 +0000" channel="JAK TV.vision">
-<title>Berkah Shop</title>
-</programme>
-<programme start="20251002070000 +0000" stop="20251002073000 +0000" channel="JAK TV.vision">
-<title>The Cloth Story</title>
-</programme>
-<programme start="20251002073000 +0000" stop="20251002080000 +0000" channel="JAK TV.vision">
-<title>Cooking Time</title>
-</programme>
-<programme start="20251002080000 +0000" stop="20251002090000 +0000" channel="JAK TV.vision">
-<title>Berkah Shop</title>
-</programme>
-<programme start="20251002090000 +0000" stop="20251002100000 +0000" channel="JAK TV.vision">
-<title>Berdoa Yuk</title>
-</programme>
-<programme start="20251002100000 +0000" stop="20251002103000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
-</programme>
-<programme start="20251002103000 +0000" stop="20251002110000 +0000" channel="JAK TV.vision">
-<title>Kubah Borneo</title>
-</programme>
-<programme start="20251002110000 +0000" stop="20251002113000 +0000" channel="JAK TV.vision">
-<title>Madu Sae</title>
-</programme>
-<programme start="20251002113000 +0000" stop="20251002120000 +0000" channel="JAK TV.vision">
-<title>Madu Sae</title>
-</programme>
-<programme start="20251001000000 +0000" stop="20251001010000 +0000" channel="TV 9.vision">
-<title>Shollu Alan Nabi Putri</title>
-</programme>
-<programme start="20251001010000 +0000" stop="20251001020000 +0000" channel="TV 9.vision">
-<title>Sahabat Ning Nafa</title>
-</programme>
-<programme start="20251001020000 +0000" stop="20251001030000 +0000" channel="TV 9.vision">
-<title>Sinema Religi: Nabi Yusuf</title>
-</programme>
-<programme start="20251001030000 +0000" stop="20251001033000 +0000" channel="TV 9.vision">
-<title>DRAMA INDONESIA</title>
-</programme>
-<programme start="20251001033000 +0000" stop="20251001040000 +0000" channel="TV 9.vision">
-<title>DOKUMENTER INDONESIA</title>
-</programme>
-<programme start="20251001040000 +0000" stop="20251001043000 +0000" channel="TV 9.vision">
-<title>QUR&#039;AN TAZKIYAH</title>
 </programme>
