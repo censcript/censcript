@@ -3338,7 +3338,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251001003000 +0000" stop="20251001010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Gambian designer makes circular fashion from recycled fibers</title>
     </programme>
     <programme start="20251001010000 +0000" stop="20251001011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3353,16 +3353,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251001023000 +0000" stop="20251001030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Between tradition and new beginnings</title>
     </programme>
     <programme start="20251001030000 +0000" stop="20251001031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251001031500 +0000" stop="20251001033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>The automotive industry without rare earths?</title>
     </programme>
     <programme start="20251001033000 +0000" stop="20251001040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Ennedi in Chad: Rock art shows Sahara&#039;s green past</title>
     </programme>
     <programme start="20251001040000 +0000" stop="20251001041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3377,13 +3377,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251001053000 +0000" stop="20251001060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Gambian designer makes circular fashion from recycled fibers</title>
     </programme>
     <programme start="20251001060000 +0000" stop="20251001061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251001061500 +0000" stop="20251001063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>The automotive industry without rare earths?</title>
     </programme>
     <programme start="20251001063000 +0000" stop="20251001070000 +0000" channel="DW English HD.starhub">
         <title>Sugar substitutes &amp; sweeteners: How healthy are they really?</title>
@@ -3392,13 +3392,13 @@
         <title>News</title>
     </programme>
     <programme start="20251001073000 +0000" stop="20251001080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Once poor, always poor?</title>
     </programme>
     <programme start="20251001080000 +0000" stop="20251001083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251001083000 +0000" stop="20251001090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Building better: Climate-smart homes for improved lives</title>
     </programme>
     <programme start="20251001090000 +0000" stop="20251001091500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3410,13 +3410,13 @@
         <title>News</title>
     </programme>
     <programme start="20251001103000 +0000" stop="20251001110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Once poor, always poor?</title>
     </programme>
     <programme start="20251001110000 +0000" stop="20251001113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251001113000 +0000" stop="20251001120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Gambian designer makes circular fashion from recycled fibers</title>
     </programme>
     <programme start="20251001120000 +0000" stop="20251001121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3428,22 +3428,22 @@
         <title>News</title>
     </programme>
     <programme start="20251001131500 +0000" stop="20251001133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251001133000 +0000" stop="20251001140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Ennedi in Chad: Rock art shows Sahara&#039;s green past</title>
     </programme>
     <programme start="20251001140000 +0000" stop="20251001143000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251001143000 +0000" stop="20251001150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Gambian designer makes circular fashion from recycled fibers</title>
     </programme>
     <programme start="20251001150000 +0000" stop="20251001153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251001153000 +0000" stop="20251001160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Building better: Climate-smart homes for improved lives</title>
     </programme>
     <programme start="20250930160000 +0000" stop="20250930220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -4786,8 +4786,23 @@
     <programme start="20251001013000 +0000" stop="20251001020000 +0000" channel="Vijay TV HD.starhub">
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
-    <programme start="20251001020000 +0000" stop="20251001123000 +0000" channel="Vijay TV HD.starhub">
-        <title>To Be Announced</title>
+    <programme start="20251001020000 +0000" stop="20251001023000 +0000" channel="Vijay TV HD.starhub">
+        <title>Sindhu Bairavi Kacheri Arambam</title>
+    </programme>
+    <programme start="20251001023000 +0000" stop="20251001040000 +0000" channel="Vijay TV HD.starhub">
+        <title>Ayudha Pooja Pattimandram 2024</title>
+    </programme>
+    <programme start="20251001040000 +0000" stop="20251001070000 +0000" channel="Vijay TV HD.starhub">
+        <title>DNA</title>
+    </programme>
+    <programme start="20251001070000 +0000" stop="20251001090000 +0000" channel="Vijay TV HD.starhub">
+        <title>Navarathiri Nayagigal-kalviya Selvama Veerama</title>
+    </programme>
+    <programme start="20251001090000 +0000" stop="20251001120000 +0000" channel="Vijay TV HD.starhub">
+        <title>Tourist Family</title>
+    </programme>
+    <programme start="20251001120000 +0000" stop="20251001123000 +0000" channel="Vijay TV HD.starhub">
+        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
     </programme>
     <programme start="20251001123000 +0000" stop="20251001130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4802,7 +4817,7 @@
         <title>Sindhu Bairavi Kacheri Arambam</title>
     </programme>
     <programme start="20251001143000 +0000" stop="20251001160000 +0000" channel="Vijay TV HD.starhub">
-        <title>To Be Announced</title>
+        <title>Ayudha Pooja Pattimandram 2024</title>
     </programme>
     <programme start="20250930160000 +0000" stop="20250930163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
