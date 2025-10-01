@@ -5054,7 +5054,7 @@
     <title>Thomas &amp; Friends</title>
 </programme>
 <programme start="20251001120000 +0000" stop="20251001130000 +0000" channel="Kids TV.mncvision">
-    <title>Blaze &amp; The Monster Machines</title>
+    <title>CoComelon</title>
 </programme>
 <programme start="20251001130000 +0000" stop="20251001133000 +0000" channel="Kids TV.mncvision">
     <title>Kung Fu Panda</title>
@@ -5063,16 +5063,16 @@
     <title>Penguins Of Madagascar</title>
 </programme>
 <programme start="20251001140000 +0000" stop="20251001143000 +0000" channel="Kids TV.mncvision">
-    <title>Cat &amp; Keet</title>
-</programme>
-<programme start="20251001143000 +0000" stop="20251001150000 +0000" channel="Kids TV.mncvision">
     <title>Rat A Tat</title>
 </programme>
+<programme start="20251001143000 +0000" stop="20251001150000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S3</title>
+</programme>
 <programme start="20251001150000 +0000" stop="20251001160000 +0000" channel="Kids TV.mncvision">
-    <title>Emak Gue Jawara</title>
+    <title>CoComelon</title>
 </programme>
 <programme start="20251001160000 +0000" stop="20251001163000 +0000" channel="Kids TV.mncvision">
-    <title>CoComelon</title>
+    <title>Emak Gue Jawara</title>
 </programme>
 <programme start="20250930170000 +0000" stop="20250930180000 +0000" channel="Kids TV HD.mncvision">
     <title>Emak Gue Jawara</title>
@@ -5141,7 +5141,7 @@
     <title>Thomas &amp; Friends</title>
 </programme>
 <programme start="20251001120000 +0000" stop="20251001130000 +0000" channel="Kids TV HD.mncvision">
-    <title>Blaze &amp; The Monster Machines</title>
+    <title>CoComelon</title>
 </programme>
 <programme start="20251001130000 +0000" stop="20251001133000 +0000" channel="Kids TV HD.mncvision">
     <title>Kung Fu Panda</title>
@@ -5150,16 +5150,16 @@
     <title>Penguins Of Madagascar</title>
 </programme>
 <programme start="20251001140000 +0000" stop="20251001143000 +0000" channel="Kids TV HD.mncvision">
-    <title>Cat &amp; Keet</title>
-</programme>
-<programme start="20251001143000 +0000" stop="20251001150000 +0000" channel="Kids TV HD.mncvision">
     <title>Rat A Tat</title>
 </programme>
+<programme start="20251001143000 +0000" stop="20251001150000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S3</title>
+</programme>
 <programme start="20251001150000 +0000" stop="20251001160000 +0000" channel="Kids TV HD.mncvision">
-    <title>Emak Gue Jawara</title>
+    <title>CoComelon</title>
 </programme>
 <programme start="20251001160000 +0000" stop="20251001163000 +0000" channel="Kids TV HD.mncvision">
-    <title>CoComelon</title>
+    <title>Emak Gue Jawara</title>
 </programme>
 <programme start="20250930175000 +0000" stop="20250930184000 +0000" channel="KIX.mncvision">
     <title>The Ultimate BROcation, Ep 5</title>
