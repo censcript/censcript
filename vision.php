@@ -655,6 +655,9 @@
 <programme start="20251002114500 +0000" stop="20251002121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20250930233000 +0000" stop="20251001013000 +0000" channel="ANTV.vision">
+<title>Singa Lodaya</title>
+</programme>
 <programme start="20251001013000 +0000" stop="20251001050000 +0000" channel="ANTV.vision">
 <title>Mujhse Dosti Karoge</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251002003000 +0000" stop="20251002010000 +0000" channel="JAK TV.vision">
 <title>Cooking Time</title>
-</programme>
-<programme start="20251002010000 +0000" stop="20251002020000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
 </programme>
