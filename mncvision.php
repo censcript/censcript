@@ -2924,7 +2924,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251001003000 +0000" stop="20251001010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Gambian</title>
 </programme>
 <programme start="20251001010000 +0000" stop="20251001011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2939,16 +2939,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251001023000 +0000" stop="20251001030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Between Tradition</title>
 </programme>
 <programme start="20251001030000 +0000" stop="20251001031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251001031500 +0000" stop="20251001033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Transforming Business</title>
 </programme>
 <programme start="20251001033000 +0000" stop="20251001040000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: Environment</title>
+    <title>Eco Africa: Ennedi In Chad</title>
 </programme>
 <programme start="20251001040000 +0000" stop="20251001041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2963,13 +2963,13 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251001053000 +0000" stop="20251001060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Gambian</title>
 </programme>
 <programme start="20251001060000 +0000" stop="20251001061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251001061500 +0000" stop="20251001063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Transforming Business</title>
 </programme>
 <programme start="20251001063000 +0000" stop="20251001070000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: Sweeteners</title>
@@ -2978,13 +2978,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251001073000 +0000" stop="20251001080000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Once Poor, Always...</title>
 </programme>
 <programme start="20251001080000 +0000" stop="20251001083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251001083000 +0000" stop="20251001090000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Environment</title>
+    <title>Eco India: Building Better</title>
 </programme>
 <programme start="20251001090000 +0000" stop="20251001091500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2996,13 +2996,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251001103000 +0000" stop="20251001110000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Once Poor, Always...</title>
 </programme>
 <programme start="20251001110000 +0000" stop="20251001113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251001113000 +0000" stop="20251001120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Gambian</title>
 </programme>
 <programme start="20251001120000 +0000" stop="20251001123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -5699,154 +5699,154 @@
     <title>Potret Selebriti</title>
 </programme>
 <programme start="20250930170000 +0000" stop="20250930170500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20250930170500 +0000" stop="20250930173000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20250930173000 +0000" stop="20250930180000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20250930180000 +0000" stop="20250930180500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20250930180500 +0000" stop="20250930183000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20250930183000 +0000" stop="20250930184500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20250930184500 +0000" stop="20250930190000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20250930190000 +0000" stop="20250930190500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20250930190500 +0000" stop="20250930193000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Meet Night Live (L)</title>
 </programme>
 <programme start="20250930193000 +0000" stop="20250930200000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Meet Night Live (L)</title>
 </programme>
 <programme start="20250930200000 +0000" stop="20250930200500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20250930200500 +0000" stop="20250930203000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Top News</title>
 </programme>
 <programme start="20250930203000 +0000" stop="20250930210000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Top News</title>
 </programme>
 <programme start="20250930210000 +0000" stop="20250930210500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20250930210500 +0000" stop="20250930213000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Top News</title>
 </programme>
 <programme start="20250930213000 +0000" stop="20250930220000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Top News</title>
 </programme>
 <programme start="20250930220000 +0000" stop="20250930220500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20250930220500 +0000" stop="20250930223000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20250930223000 +0000" stop="20250930230000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20250930230000 +0000" stop="20250930230500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20250930230500 +0000" stop="20250930233000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20250930233000 +0000" stop="20251001000000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Go Healthy</title>
 </programme>
 <programme start="20251001000000 +0000" stop="20251001000500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20251001000500 +0000" stop="20251001003000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Editorial Media Indonesia</title>
 </programme>
 <programme start="20251001003000 +0000" stop="20251001010000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Sport</title>
 </programme>
 <programme start="20251001010000 +0000" stop="20251001010500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20251001010500 +0000" stop="20251001013000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20251001013000 +0000" stop="20251001015500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20251001015500 +0000" stop="20251001020000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20251001020000 +0000" stop="20251001020500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20251001020500 +0000" stop="20251001023000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20251001023000 +0000" stop="20251001030000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Zona Bisnis</title>
 </programme>
 <programme start="20251001030000 +0000" stop="20251001030500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20251001030500 +0000" stop="20251001033000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Zona Bisnis</title>
 </programme>
 <programme start="20251001033000 +0000" stop="20251001040000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Go Healthy</title>
 </programme>
 <programme start="20251001040000 +0000" stop="20251001040500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20251001040500 +0000" stop="20251001043000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Sport</title>
 </programme>
 <programme start="20251001043000 +0000" stop="20251001050000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20251001050000 +0000" stop="20251001053000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20251001053000 +0000" stop="20251001055500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20251001055500 +0000" stop="20251001060000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20251001060000 +0000" stop="20251001062500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20251001062500 +0000" stop="20251001063000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20251001063000 +0000" stop="20251001065500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Prioritas Indonesia</title>
 </programme>
 <programme start="20251001065500 +0000" stop="20251001070000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Prioritas Indonesia</title>
 </programme>
 <programme start="20251001070000 +0000" stop="20251001070500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20251001070500 +0000" stop="20251001072500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20251001072500 +0000" stop="20251001073000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20251001073000 +0000" stop="20251001075500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20251001075500 +0000" stop="20251001082500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20250930170000 +0000" stop="20250930190000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
@@ -6103,9 +6103,6 @@
 <programme start="20251001164300 +0000" stop="20250930171300 +0000" channel="Moonbug.mncvision">
     <title>Digley &amp; Dazey</title>
 </programme>
-<programme start="20250930180000 +0000" stop="20250930190000 +0000" channel="Music TV.mncvision">
-    <title>Godain</title>
-</programme>
 <programme start="20250930190000 +0000" stop="20250930203000 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
@@ -6115,23 +6112,23 @@
 <programme start="20250930213000 +0000" stop="20250930223000 +0000" channel="Music TV.mncvision">
     <title>K-Hits</title>
 </programme>
-<programme start="20250930223000 +0000" stop="20250930233000 +0000" channel="Music TV.mncvision">
+<programme start="20250930223000 +0000" stop="20251001001500 +0000" channel="Music TV.mncvision">
     <title>One Hour With Local</title>
 </programme>
-<programme start="20250930233000 +0000" stop="20251001010000 +0000" channel="Music TV.mncvision">
+<programme start="20251001001500 +0000" stop="20251001020000 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20251001010000 +0000" stop="20251001013000 +0000" channel="Music TV.mncvision">
+<programme start="20251001020000 +0000" stop="20251001023000 +0000" channel="Music TV.mncvision">
     <title>XOXO</title>
 </programme>
-<programme start="20251001013000 +0000" stop="20251001023000 +0000" channel="Music TV.mncvision">
-    <title>#ThrowbackTime</title>
+<programme start="20251001023000 +0000" stop="20251001031500 +0000" channel="Music TV.mncvision">
+    <title>Movie Track</title>
 </programme>
-<programme start="20251001023000 +0000" stop="20251001033000 +0000" channel="Music TV.mncvision">
-    <title>K-Hits Ultimate Bias</title>
+<programme start="20251001031500 +0000" stop="20251001034500 +0000" channel="Music TV.mncvision">
+    <title>Legenda Indonesia</title>
 </programme>
-<programme start="20251001033000 +0000" stop="20251001041500 +0000" channel="Music TV.mncvision">
-    <title>One Hour With Local</title>
+<programme start="20251001034500 +0000" stop="20251001041500 +0000" channel="Music TV.mncvision">
+    <title>Terbaik</title>
 </programme>
 <programme start="20251001041500 +0000" stop="20251001054500 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
@@ -6140,10 +6137,10 @@
     <title>Godain</title>
 </programme>
 <programme start="20251001063000 +0000" stop="20251001073000 +0000" channel="Music TV.mncvision">
-    <title>Hidden Talent</title>
+    <title>Musik Asyik</title>
 </programme>
 <programme start="20251001073000 +0000" stop="20251001100000 +0000" channel="Music TV.mncvision">
-    <title>Indonesian Idol 2022</title>
+    <title>Indonesian Idol X</title>
 </programme>
 <programme start="20251001100000 +0000" stop="20251001110000 +0000" channel="Music TV.mncvision">
     <title>Seoultrack</title>
@@ -6157,14 +6154,14 @@
 <programme start="20251001130000 +0000" stop="20251001140000 +0000" channel="Music TV.mncvision">
     <title>Musik Asyik</title>
 </programme>
-<programme start="20251001140000 +0000" stop="20251001163000 +0000" channel="Music TV.mncvision">
-    <title>RCTI 36 Selebrasi Spektakuler</title>
+<programme start="20251001140000 +0000" stop="20251001153000 +0000" channel="Music TV.mncvision">
+    <title>Mega Konser: Cerita Cinta</title>
+</programme>
+<programme start="20251001153000 +0000" stop="20251001163000 +0000" channel="Music TV.mncvision">
+    <title>Ayu Anak Depok City</title>
 </programme>
 <programme start="20251001163000 +0000" stop="20250930170000 +0000" channel="Music TV.mncvision">
-    <title>Indonesian Idol 2022</title>
-</programme>
-<programme start="20250930180000 +0000" stop="20250930190000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
+    <title>Indonesian Idol X</title>
 </programme>
 <programme start="20250930190000 +0000" stop="20250930203000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
@@ -6175,23 +6172,23 @@
 <programme start="20250930213000 +0000" stop="20250930223000 +0000" channel="Music TV HD.mncvision">
     <title>K-Hits</title>
 </programme>
-<programme start="20250930223000 +0000" stop="20250930233000 +0000" channel="Music TV HD.mncvision">
+<programme start="20250930223000 +0000" stop="20251001001500 +0000" channel="Music TV HD.mncvision">
     <title>One Hour With Local</title>
 </programme>
-<programme start="20250930233000 +0000" stop="20251001010000 +0000" channel="Music TV HD.mncvision">
+<programme start="20251001001500 +0000" stop="20251001020000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20251001010000 +0000" stop="20251001013000 +0000" channel="Music TV HD.mncvision">
+<programme start="20251001020000 +0000" stop="20251001023000 +0000" channel="Music TV HD.mncvision">
     <title>XOXO</title>
 </programme>
-<programme start="20251001013000 +0000" stop="20251001023000 +0000" channel="Music TV HD.mncvision">
-    <title>#ThrowbackTime</title>
+<programme start="20251001023000 +0000" stop="20251001031500 +0000" channel="Music TV HD.mncvision">
+    <title>Movie Track</title>
 </programme>
-<programme start="20251001023000 +0000" stop="20251001033000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits Ultimate Bias</title>
+<programme start="20251001031500 +0000" stop="20251001034500 +0000" channel="Music TV HD.mncvision">
+    <title>Legenda Indonesia</title>
 </programme>
-<programme start="20251001033000 +0000" stop="20251001041500 +0000" channel="Music TV HD.mncvision">
-    <title>One Hour With Local</title>
+<programme start="20251001034500 +0000" stop="20251001041500 +0000" channel="Music TV HD.mncvision">
+    <title>Terbaik</title>
 </programme>
 <programme start="20251001041500 +0000" stop="20251001054500 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
@@ -6200,10 +6197,10 @@
     <title>Godain</title>
 </programme>
 <programme start="20251001063000 +0000" stop="20251001073000 +0000" channel="Music TV HD.mncvision">
-    <title>Hidden Talent</title>
+    <title>Musik Asyik</title>
 </programme>
 <programme start="20251001073000 +0000" stop="20251001100000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol 2022</title>
+    <title>Indonesian Idol X</title>
 </programme>
 <programme start="20251001100000 +0000" stop="20251001110000 +0000" channel="Music TV HD.mncvision">
     <title>Seoultrack</title>
@@ -6217,11 +6214,14 @@
 <programme start="20251001130000 +0000" stop="20251001140000 +0000" channel="Music TV HD.mncvision">
     <title>Musik Asyik</title>
 </programme>
-<programme start="20251001140000 +0000" stop="20251001163000 +0000" channel="Music TV HD.mncvision">
-    <title>RCTI 36 Selebrasi Spektakuler</title>
+<programme start="20251001140000 +0000" stop="20251001153000 +0000" channel="Music TV HD.mncvision">
+    <title>Mega Konser: Cerita Cinta</title>
+</programme>
+<programme start="20251001153000 +0000" stop="20251001163000 +0000" channel="Music TV HD.mncvision">
+    <title>Ayu Anak Depok City</title>
 </programme>
 <programme start="20251001163000 +0000" stop="20250930170000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol 2022</title>
+    <title>Indonesian Idol X</title>
 </programme>
 <programme start="20250930171500 +0000" stop="20250930174500 +0000" channel="Muslim TV.mncvision">
     <title>Jejak Kebesaran-Mu 3</title>
