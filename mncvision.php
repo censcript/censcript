@@ -9313,77 +9313,71 @@
 <programme start="20251001160000 +0000" stop="20251001163000 +0000" channel="tvN Movies HD.mncvision">
     <title>The Hot-Blooded</title>
 </programme>
-<programme start="20250930170000 +0000" stop="20250930173000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20250930173000 +0000" stop="20250930190000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
 <programme start="20250930190000 +0000" stop="20250930200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20250930200000 +0000" stop="20250930203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama</title>
 </programme>
 <programme start="20250930203000 +0000" stop="20250930210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20250930210000 +0000" stop="20250930213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi</title>
 </programme>
 <programme start="20250930213000 +0000" stop="20250930230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi (L)</title>
 </programme>
 <programme start="20250930230000 +0000" stop="20250930233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi (L)</title>
 </programme>
-<programme start="20250930233000 +0000" stop="20251001013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20250930233000 +0000" stop="20251001010000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20251001013000 +0000" stop="20251001020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20251001010000 +0000" stop="20251001020000 +0000" channel="tvOne.mncvision">
+    <title>Hari Kesaktian Pancasila (L)</title>
 </programme>
 <programme start="20251001020000 +0000" stop="20251001023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Hidup Sehat (L)</title>
 </programme>
 <programme start="20251001023000 +0000" stop="20251001033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Pagi-Pagi Seru (L)</title>
 </programme>
 <programme start="20251001033000 +0000" stop="20251001040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan (L)</title>
 </programme>
 <programme start="20251001040000 +0000" stop="20251001060000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang (L)</title>
 </programme>
 <programme start="20251001060000 +0000" stop="20251001073000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Siang (L)</title>
 </programme>
 <programme start="20251001073000 +0000" stop="20251001083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Merah Putih (L)</title>
 </programme>
 <programme start="20251001083000 +0000" stop="20251001090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal (L)</title>
 </programme>
 <programme start="20251001090000 +0000" stop="20251001110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang (L)</title>
 </programme>
 <programme start="20251001110000 +0000" stop="20251001130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
 <programme start="20251001130000 +0000" stop="20251001140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Indonesia Business Forum (L)</title>
 </programme>
 <programme start="20251001140000 +0000" stop="20251001150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama (L)</title>
 </programme>
 <programme start="20251001150000 +0000" stop="20251001160000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini (L)</title>
 </programme>
 <programme start="20251001160000 +0000" stop="20251001163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Malam (L)</title>
 </programme>
 <programme start="20251001163000 +0000" stop="20250930170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama</title>
 </programme>
 <programme start="20250930170000 +0000" stop="20250930173000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
