@@ -889,10 +889,10 @@
     <programme start="20250930160000 +0000" stop="20251001095000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 1st October, Wednesday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
-    <programme start="20251001095000 +0000" stop="20251001120000 +0000" channel="Live 5.mewatch">
+    <programme start="20251001095000 +0000" stop="20251001130000 +0000" channel="Live 5.mewatch">
         <title>AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC</title>
     </programme>
-    <programme start="20251001120000 +0000" stop="20251001160000 +0000" channel="Live 5.mewatch">
+    <programme start="20251001130000 +0000" stop="20251001160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251001160000 +0000" stop="20251002095000 +0000" channel="Live 5.mewatch">
