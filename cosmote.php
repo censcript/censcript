@@ -54,6 +54,10 @@
     <title>Football: FC Barcelona - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251002175000 +0700" stop="20251002184500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251001151000 +0700" stop="20251001171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - Cremonese</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +126,8 @@
     <title>Football: Parma - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251001144500 +0700" stop="20251001164500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SC Braga - Nacional</title>
+<programme start="20251002171500 +0700" stop="20251002193000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251001164500 +0700" stop="20251001184500 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,10 +250,6 @@
     <title>Basketball: Las Vegas Aces - Indiana Fever</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251001153000 +0700" stop="20251001162000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251001162000 +0700" stop="20251001170500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -339,6 +339,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002162000 +0700" stop="20251002175500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251002175500 +0700" stop="20251002185500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
