@@ -2374,6 +2374,96 @@
 <programme start="20251001213500 +0000" stop="20251001222000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20250930224000 +0000" stop="20250930232500 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20250930232500 +0000" stop="20251001010000 +0000" channel="Sky Replay HD.skyde">
+    <title>Gangs of London</title>
+</programme>
+<programme start="20251001010000 +0000" stop="20251001021000 +0000" channel="Sky Replay HD.skyde">
+    <title>Gangs of London</title>
+</programme>
+<programme start="20251001021000 +0000" stop="20251001024500 +0000" channel="Sky Replay HD.skyde">
+    <title>Run</title>
+</programme>
+<programme start="20251001024500 +0000" stop="20251001031000 +0000" channel="Sky Replay HD.skyde">
+    <title>Run</title>
+</programme>
+<programme start="20251001031000 +0000" stop="20251001034500 +0000" channel="Sky Replay HD.skyde">
+    <title>Run</title>
+</programme>
+<programme start="20251001034500 +0000" stop="20251001052000 +0000" channel="Sky Replay HD.skyde">
+    <title>Gangs of London</title>
+</programme>
+<programme start="20251001052000 +0000" stop="20251001062000 +0000" channel="Sky Replay HD.skyde">
+    <title>Gangs of London</title>
+</programme>
+<programme start="20251001062000 +0000" stop="20251001070500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251001070500 +0000" stop="20251001075000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251001075000 +0000" stop="20251001083000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251001083000 +0000" stop="20251001091500 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001091500 +0000" stop="20251001100000 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001100000 +0000" stop="20251001104500 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001104500 +0000" stop="20251001113000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251001113000 +0000" stop="20251001121500 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251001121500 +0000" stop="20251001130000 +0000" channel="Sky Replay HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251001130000 +0000" stop="20251001134500 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001134500 +0000" stop="20251001143000 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001143000 +0000" stop="20251001151500 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001151500 +0000" stop="20251001155500 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001155500 +0000" stop="20251001164000 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001164000 +0000" stop="20251001173000 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001173000 +0000" stop="20251001181500 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001181500 +0000" stop="20251001185500 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001185500 +0000" stop="20251001194000 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001194000 +0000" stop="20251001202500 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001202500 +0000" stop="20251001211000 +0000" channel="Sky Replay HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251001211000 +0000" stop="20251001215500 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251001215500 +0000" stop="20251001224000 +0000" channel="Sky Replay HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
 <programme start="20250930221000 +0000" stop="20250930230000 +0000" channel="Sky Showcase HD.skyde">
     <title>Expedition am Limit: Behind the Scenes</title>
 </programme>
@@ -3138,6 +3228,18 @@
 </programme>
 <programme start="20251001063000 +0000" stop="20251001064500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20250930223000 +0000" stop="20251001060000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 08:00: Live ATP World Tour</title>
+</programme>
+<programme start="20251001060000 +0000" stop="20251001103000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 500: J. Sinner (ITA) - L. Tien (USA), China Open in Peking (China), Finale</title>
+</programme>
+<programme start="20250930223000 +0000" stop="20251001063000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 08:30: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20251001063000 +0000" stop="20251001170000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live WTA 1000: China Open in Peking (China), 8. Tag</title>
 </programme>
 <programme start="20250930222500 +0000" stop="20250930231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
