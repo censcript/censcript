@@ -4142,7 +4142,7 @@
     <title>Misteri Gunung Merapi</title>
 </programme>
 <programme start="20250930200000 +0000" stop="20250930210000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
+    <title>Konco Ngaso Star: Yeni Inka</title>
 </programme>
 <programme start="20250930210000 +0000" stop="20250930213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Jan Enak Tenan</title>
@@ -4175,7 +4175,7 @@
     <title>Misteri Gunung Merapi</title>
 </programme>
 <programme start="20251001053000 +0000" stop="20251001063000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Konco Ngaso</title>
+    <title>Konco Ngaso Star: Yeni Inka</title>
 </programme>
 <programme start="20251001063000 +0000" stop="20251001070000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Pagelaran Budaya Jawi</title>
