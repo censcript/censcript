@@ -6953,7 +6953,7 @@
         <title>LaLiga 2025/26: Real Betis vs Osasuna</title>
     </programme>
     <programme start="20251001005000 +0000" stop="20251001024000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Girona vs Espanyol</title>
+        <title>LaLiga 2025/26: Elche vs Celta Vigo</title>
     </programme>
     <programme start="20251001024000 +0000" stop="20251001034000 +0000" channel="beIN Sports HD.starhub">
         <title>Revival</title>
@@ -6979,11 +6979,11 @@
     <programme start="20251001083000 +0000" stop="20251001090000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>
     </programme>
-    <programme start="20251001090000 +0000" stop="20251001110000 +0000" channel="beIN Sports HD.starhub">
-        <title>F1 Singapore Airlines Singapore Grand Prix: F1 SINGAPORE AIRLINES SINGAPORE GRAN</title>
+    <programme start="20251001090000 +0000" stop="20251001105000 +0000" channel="beIN Sports HD.starhub">
+        <title>LaLiga 2025/26: Valencia vs Real Oviedo</title>
     </programme>
-    <programme start="20251001110000 +0000" stop="20251001112000 +0000" channel="beIN Sports HD.starhub">
-        <title>Robert Lewandowski</title>
+    <programme start="20251001105000 +0000" stop="20251001112000 +0000" channel="beIN Sports HD.starhub">
+        <title>October</title>
     </programme>
     <programme start="20251001112000 +0000" stop="20251001115500 +0000" channel="beIN Sports HD.starhub">
         <title>Matchday 7</title>
@@ -7508,7 +7508,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251001003000 +0000" stop="20251001010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Cloud Seeding and Conspiracies</title>
     </programme>
     <programme start="20251001010000 +0000" stop="20251001013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
