@@ -1,7 +1,3 @@
-<programme start="20251002184500 +0700" stop="20251002204500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AS Monaco FC - Manchester City FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251002204500 +0700" stop="20251002224500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Arsenal - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -130,14 +126,6 @@
     <title>Football: FC Porto - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251002183000 +0700" stop="20251002203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sheffield Wednesday - QPR</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251002203000 +0700" stop="20251002210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251002210000 +0700" stop="20251002213000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Sudamericana 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -194,8 +182,8 @@
     <title>Football: Fenerbahce SK - Nice</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251002184500 +0700" stop="20251002205500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Valencia Basket Club</title>
+<programme start="20251003210000 +0700" stop="20251003230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: PFC Ludogorets 1945 - Real Betis Balompie</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002205500 +0700" stop="20251002230000 +0700" channel="COSMOTE Sport 4 HD">
@@ -256,10 +244,6 @@
 </programme>
 <programme start="20251003203500 +0700" stop="20251003223000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Al Ahli - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251002185500 +0700" stop="20251002201500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002201500 +0700" stop="20251002213500 +0700" channel="COSMOTE Sport 5 HD">
@@ -352,6 +336,10 @@
 </programme>
 <programme start="20251003203000 +0700" stop="20251003214000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251003214000 +0700" stop="20251003223500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002190000 +0700" stop="20251002220000 +0700" channel="COSMOTE Sport 6 HD">
