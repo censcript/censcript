@@ -994,7 +994,7 @@
 <programme start="20251002194000 +0000" stop="20251002220000 +0000" channel="DAZN 2 HD.skyde">
     <title>World Darts Championship: Finale</title>
 </programme>
-<programme start="20251001220500 +0000" stop="20251001223500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251001221000 +0000" stop="20251001223500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
 <programme start="20251001223500 +0000" stop="20251001232500 +0000" channel="Heimatkanal.skyde">
@@ -1054,13 +1054,13 @@
 <programme start="20251002181500 +0000" stop="20251002192000 +0000" channel="Heimatkanal.skyde">
     <title>Der Kommissar</title>
 </programme>
-<programme start="20251002192000 +0000" stop="20251002202000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251002192000 +0000" stop="20251002202500 +0000" channel="Heimatkanal.skyde">
     <title>Derrick</title>
 </programme>
-<programme start="20251002202000 +0000" stop="20251002214500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251002202500 +0000" stop="20251002215000 +0000" channel="Heimatkanal.skyde">
     <title>Dr. Crippen lebt</title>
 </programme>
-<programme start="20251002214500 +0000" stop="20251002223500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251002215000 +0000" stop="20251002223500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
 <programme start="20251001222500 +0000" stop="20251001231000 +0000" channel="HISTORY Channel HD.skyde">
@@ -2611,7 +2611,7 @@
 <programme start="20251002163500 +0000" stop="20251002185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 1. Spieltag</title>
 </programme>
-<programme start="20251002185000 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251002185000 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Olympique Lyon - FC Salzburg, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2638,7 +2638,7 @@
 <programme start="20251002163500 +0000" stop="20251002185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Celtic Glasgow - SC Braga, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251002185000 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251002185000 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Feyenoord Rotterdam - Aston Villa, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3715,10 +3715,10 @@
 <programme start="20251002044500 +0000" stop="20251002060000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251002060000 +0000" stop="20251002065000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002060000 +0000" stop="20251002065500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251002065000 +0000" stop="20251002074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002065500 +0000" stop="20251002074000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251002074000 +0000" stop="20251002083000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3727,10 +3727,10 @@
 <programme start="20251002083000 +0000" stop="20251002092000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251002092000 +0000" stop="20251002101500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002092000 +0000" stop="20251002101000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251002101500 +0000" stop="20251002110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002101000 +0000" stop="20251002110500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20251002110500 +0000" stop="20251002115500 +0000" channel="Warner TV Serie HD.skyde">

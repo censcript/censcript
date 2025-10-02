@@ -6941,7 +6941,7 @@
         <title>LaLiga 2025/26: Getafe vs Levante</title>
     </programme>
     <programme start="20251002053000 +0000" stop="20251002072500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Elche vs Celta Vigo</title>
+        <title>LaLiga 2025/26: Valencia vs Real Oviedo</title>
     </programme>
     <programme start="20251002072500 +0000" stop="20251002080000 +0000" channel="beIN Sports HD.starhub">
         <title>Matchday 7</title>
@@ -6959,7 +6959,7 @@
         <title>Spa</title>
     </programme>
     <programme start="20251002110000 +0000" stop="20251002125000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Barcelona vs Real Sociedad</title>
+        <title>LaLiga 2025/26: Real Betis vs Osasuna</title>
     </programme>
     <programme start="20251002125000 +0000" stop="20251002143500 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Atletico Madrid vs Real Madrid</title>

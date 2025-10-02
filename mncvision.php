@@ -185,7 +185,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20251002120000 +0000" stop="20251002130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>To Be Announced</title>
+    <title>Gaza: A Forever War</title>
 </programme>
 <programme start="20251002130000 +0000" stop="20251002140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -1118,7 +1118,7 @@
     <title>LaLiga 2025/26: GET Vs LEV</title>
 </programme>
 <programme start="20251002053000 +0000" stop="20251002072500 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: ELC Vs CEL</title>
+    <title>LaLiga 2025/26: VAL Vs OVI</title>
 </programme>
 <programme start="20251002072500 +0000" stop="20251002080000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga Highlights 2025/26</title>
@@ -1136,7 +1136,7 @@
     <title>Ferrari Challenge Europe HL &#039;25</title>
 </programme>
 <programme start="20251002110000 +0000" stop="20251002125000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: BAR Vs RSO</title>
+    <title>LaLiga 2025/26: BET Vs OSA</title>
 </programme>
 <programme start="20251002125000 +0000" stop="20251002143500 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: ATM Vs RMA</title>
@@ -1184,7 +1184,7 @@
     <title>LaLiga 2025/26: GET Vs LEV</title>
 </programme>
 <programme start="20251002053000 +0000" stop="20251002072500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: ELC Vs CEL</title>
+    <title>LaLiga 2025/26: VAL Vs OVI</title>
 </programme>
 <programme start="20251002072500 +0000" stop="20251002080000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga Highlights 2025/26</title>
@@ -1202,7 +1202,7 @@
     <title>Ferrari Challenge Europe HL &#039;25</title>
 </programme>
 <programme start="20251002110000 +0000" stop="20251002125000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: BAR Vs RSO</title>
+    <title>LaLiga 2025/26: BET Vs OSA</title>
 </programme>
 <programme start="20251002125000 +0000" stop="20251002143500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: ATM Vs RMA</title>
@@ -6313,62 +6313,65 @@
 <programme start="20251002011500 +0000" stop="20251002013000 +0000" channel="Muslim TV.mncvision">
     <title>Rahmatan Lil &#039;Alamin</title>
 </programme>
-<programme start="20251002013000 +0000" stop="20251002023000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002013000 +0000" stop="20251002020000 +0000" channel="Muslim TV.mncvision">
     <title>Kun Anta</title>
 </programme>
-<programme start="20251002023000 +0000" stop="20251002034500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002020000 +0000" stop="20251002031500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S6</title>
 </programme>
-<programme start="20251002034500 +0000" stop="20251002044500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002031500 +0000" stop="20251002041500 +0000" channel="Muslim TV.mncvision">
     <title>Sampeyan Muslim??</title>
 </programme>
-<programme start="20251002044500 +0000" stop="20251002054500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002041500 +0000" stop="20251002051500 +0000" channel="Muslim TV.mncvision">
     <title>Ketika Cinta Bertasbih</title>
 </programme>
-<programme start="20251002054500 +0000" stop="20251002060000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002051500 +0000" stop="20251002053000 +0000" channel="Muslim TV.mncvision">
     <title>Rahmatan Lil &#039;Alamin</title>
 </programme>
-<programme start="20251002060000 +0000" stop="20251002070000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002053000 +0000" stop="20251002063000 +0000" channel="Muslim TV.mncvision">
     <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20251002070000 +0000" stop="20251002080000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002063000 +0000" stop="20251002073000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
-<programme start="20251002080000 +0000" stop="20251002083000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002073000 +0000" stop="20251002080000 +0000" channel="Muslim TV.mncvision">
     <title>KSNS The Journey</title>
 </programme>
-<programme start="20251002083000 +0000" stop="20251002090000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002080000 +0000" stop="20251002083000 +0000" channel="Muslim TV.mncvision">
     <title>Jejak Kebesaran-Mu 3</title>
 </programme>
-<programme start="20251002090000 +0000" stop="20251002100000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002083000 +0000" stop="20251002093000 +0000" channel="Muslim TV.mncvision">
     <title>Satu</title>
 </programme>
-<programme start="20251002100000 +0000" stop="20251002103000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002093000 +0000" stop="20251002100000 +0000" channel="Muslim TV.mncvision">
     <title>Kajian Bioskop</title>
 </programme>
-<programme start="20251002103000 +0000" stop="20251002114500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002100000 +0000" stop="20251002111500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S6</title>
 </programme>
-<programme start="20251002114500 +0000" stop="20251002121500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002111500 +0000" stop="20251002114500 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
 </programme>
-<programme start="20251002121500 +0000" stop="20251002122500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002114500 +0000" stop="20251002115500 +0000" channel="Muslim TV.mncvision">
     <title>Rahmatan Lil &#039;Alamin</title>
 </programme>
-<programme start="20251002122500 +0000" stop="20251002133000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002115500 +0000" stop="20251002130000 +0000" channel="Muslim TV.mncvision">
     <title>Ketika Cinta Bertasbih</title>
 </programme>
-<programme start="20251002133000 +0000" stop="20251002143000 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002130000 +0000" stop="20251002140000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
-<programme start="20251002143000 +0000" stop="20251002151500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002140000 +0000" stop="20251002144500 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu</title>
 </programme>
-<programme start="20251002151500 +0000" stop="20251002161500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002144500 +0000" stop="20251002154500 +0000" channel="Muslim TV.mncvision">
     <title>Catatan Hati Seorang Istri</title>
 </programme>
-<programme start="20251002161500 +0000" stop="20251002164500 +0000" channel="Muslim TV.mncvision">
+<programme start="20251002154500 +0000" stop="20251002164500 +0000" channel="Muslim TV.mncvision">
     <title>Kuasa Ilahi</title>
+</programme>
+<programme start="20251002164500 +0000" stop="20251001171500 +0000" channel="Muslim TV.mncvision">
+    <title>Jejak Kebesaran-Mu 3</title>
 </programme>
 <programme start="20251001170000 +0000" stop="20251001173000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
