@@ -887,7 +887,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20251002030000 +0000" stop="20251002040000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX News @Night</title>
+        <title>Fox News @Night</title>
     </programme>
     <programme start="20251002040000 +0000" stop="20251002050000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>
@@ -905,22 +905,22 @@
         <title>The Ingraham Angle</title>
     </programme>
     <programme start="20251002090000 +0000" stop="20251002100000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends First</title>
+        <title>Fox &amp; Friends First</title>
     </programme>
     <programme start="20251002100000 +0000" stop="20251002110000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20251002110000 +0000" stop="20251002120000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20251002120000 +0000" stop="20251002130000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20251002130000 +0000" stop="20251002140000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom FOX News Live</title>
+        <title>America&#039;s Newsroom Fox News Live</title>
     </programme>
     <programme start="20251002140000 +0000" stop="20251002150000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom FOX News Live</title>
+        <title>America&#039;s Newsroom Fox News Live</title>
     </programme>
     <programme start="20251002150000 +0000" stop="20251002160000 +0000" channel="Fox News Channel.starhub">
         <title>The Faulkner Focus</title>
@@ -8005,8 +8005,8 @@
     <programme start="20251001193000 +0000" stop="20251001220000 +0000" channel="Asianet Movies.starhub">
         <title>3 Dots</title>
     </programme>
-    <programme start="20251001220000 +0000" stop="20251002013000 +0000" channel="Asianet Movies.starhub">
-        <title>Aamayum Muyalum</title>
+    <programme start="20251001224500 +0000" stop="20251002013000 +0000" channel="Asianet Movies.starhub">
+        <title>Utharaswayamvaram</title>
     </programme>
     <programme start="20251002013000 +0000" stop="20251002043000 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
