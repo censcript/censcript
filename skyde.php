@@ -1177,28 +1177,28 @@
 <programme start="20251002200000 +0000" stop="20251002220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX GROOVE</title>
 </programme>
-<programme start="20251001221000 +0000" stop="20251001230000 +0000" channel="Motorvision+.skyde">
+<programme start="20251001221500 +0000" stop="20251001230000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20251001230000 +0000" stop="20251001232000 +0000" channel="Motorvision+.skyde">
-    <title>Rally 2023</title>
+<programme start="20251001230000 +0000" stop="20251001233000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
 </programme>
-<programme start="20251001232000 +0000" stop="20251001235000 +0000" channel="Motorvision+.skyde">
-    <title>Biker Lifestyle</title>
+<programme start="20251001233000 +0000" stop="20251002000000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
 </programme>
-<programme start="20251001235000 +0000" stop="20251002002000 +0000" channel="Motorvision+.skyde">
-    <title>Cars + Life</title>
+<programme start="20251002000000 +0000" stop="20251002003000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
 </programme>
-<programme start="20251002002000 +0000" stop="20251002005000 +0000" channel="Motorvision+.skyde">
-    <title>Grüne Welle</title>
+<programme start="20251002003000 +0000" stop="20251002010000 +0000" channel="Motorvision+.skyde">
+    <title>Infomercial</title>
 </programme>
-<programme start="20251002005000 +0000" stop="20251002011500 +0000" channel="Motorvision+.skyde">
-    <title>Abenteuer Allrad</title>
+<programme start="20251002010000 +0000" stop="20251002012000 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
 </programme>
-<programme start="20251002011500 +0000" stop="20251002014000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002012000 +0000" stop="20251002014500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20251002014000 +0000" stop="20251002021000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002014500 +0000" stop="20251002021000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
 <programme start="20251002021000 +0000" stop="20251002023500 +0000" channel="Motorvision+.skyde">
@@ -1216,16 +1216,19 @@
 <programme start="20251002040000 +0000" stop="20251002044500 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 6</title>
 </programme>
-<programme start="20251002044500 +0000" stop="20251002051500 +0000" channel="Motorvision+.skyde">
+<programme start="20251002044500 +0000" stop="20251002045500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
+<programme start="20251002045500 +0000" stop="20251002052000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20251002051500 +0000" stop="20251002054000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002052000 +0000" stop="20251002054500 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20251002054000 +0000" stop="20251002063000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002054500 +0000" stop="20251002063500 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20251002063000 +0000" stop="20251002070000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002063500 +0000" stop="20251002070000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
 <programme start="20251002070000 +0000" stop="20251002072500 +0000" channel="Motorvision+.skyde">
@@ -1237,49 +1240,52 @@
 <programme start="20251002075500 +0000" stop="20251002082000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20251002082000 +0000" stop="20251002085000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002082000 +0000" stop="20251002084500 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20251002085000 +0000" stop="20251002092000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002084500 +0000" stop="20251002091000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20251002092000 +0000" stop="20251002095000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002091000 +0000" stop="20251002094000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20251002095000 +0000" stop="20251002102000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002094000 +0000" stop="20251002101500 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20251002102000 +0000" stop="20251002105000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002101500 +0000" stop="20251002104500 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2023</title>
 </programme>
-<programme start="20251002105000 +0000" stop="20251002112000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002104500 +0000" stop="20251002111500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20251002112000 +0000" stop="20251002115000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002111500 +0000" stop="20251002114000 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20251002115000 +0000" stop="20251002122000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002114000 +0000" stop="20251002121500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20251002122000 +0000" stop="20251002125000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002121500 +0000" stop="20251002124000 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20251002125000 +0000" stop="20251002132000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002124000 +0000" stop="20251002131000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20251002132000 +0000" stop="20251002141000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002131000 +0000" stop="20251002133500 +0000" channel="Motorvision+.skyde">
+    <title>Classic</title>
+</programme>
+<programme start="20251002133500 +0000" stop="20251002142000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2023</title>
 </programme>
-<programme start="20251002141000 +0000" stop="20251002143500 +0000" channel="Motorvision+.skyde">
+<programme start="20251002142000 +0000" stop="20251002145000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2024</title>
 </programme>
-<programme start="20251002143500 +0000" stop="20251002153000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002145000 +0000" stop="20251002153500 +0000" channel="Motorvision+.skyde">
     <title>Australian Boat Racing 2025</title>
 </programme>
-<programme start="20251002153000 +0000" stop="20251002162000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002153500 +0000" stop="20251002162500 +0000" channel="Motorvision+.skyde">
     <title>Australian Circuit Boat Racing 2024</title>
 </programme>
-<programme start="20251002162000 +0000" stop="20251002171000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002162500 +0000" stop="20251002171000 +0000" channel="Motorvision+.skyde">
     <title>P1 Offshore Championship 2024</title>
 </programme>
 <programme start="20251002171000 +0000" stop="20251002180000 +0000" channel="Motorvision+.skyde">
@@ -1288,16 +1294,16 @@
 <programme start="20251002180000 +0000" stop="20251002184500 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20251002184500 +0000" stop="20251002191500 +0000" channel="Motorvision+.skyde">
+<programme start="20251002184500 +0000" stop="20251002191000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20251002191500 +0000" stop="20251002194000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002191000 +0000" stop="20251002194000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20251002194000 +0000" stop="20251002201000 +0000" channel="Motorvision+.skyde">
+<programme start="20251002194000 +0000" stop="20251002200500 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20251002201000 +0000" stop="20251002203500 +0000" channel="Motorvision+.skyde">
+<programme start="20251002200500 +0000" stop="20251002203500 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
 <programme start="20251002203500 +0000" stop="20251002210500 +0000" channel="Motorvision+.skyde">
@@ -2593,16 +2599,16 @@
 <programme start="20251002210000 +0000" stop="20251002220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Analyse</title>
 </programme>
-<programme start="20251002041000 +0000" stop="20251002043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251001220000 +0000" stop="20251002043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251002043000 +0000" stop="20251002143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251002043000 +0000" stop="20251002163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
 </programme>
-<programme start="20251002175500 +0000" stop="20251002181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251002163000 +0000" stop="20251002181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE UEFA Europa League</title>
 </programme>
-<programme start="20251002181500 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251002181500 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SK Sturm Graz - Rangers FC, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2611,7 +2617,7 @@
 <programme start="20251002163500 +0000" stop="20251002185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 1. Spieltag</title>
 </programme>
-<programme start="20251002185000 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251002185000 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Olympique Lyon - FC Salzburg, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2629,7 +2635,7 @@
 <programme start="20251002163500 +0000" stop="20251002185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: FC Bologna - SC Freiburg, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251002185000 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251002185000 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: KRC Genk - Ferencvaros Budapest, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2638,7 +2644,7 @@
 <programme start="20251002163500 +0000" stop="20251002185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Celtic Glasgow - SC Braga, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251002185000 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251002185000 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: Feyenoord Rotterdam - Aston Villa, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2647,7 +2653,7 @@
 <programme start="20251002163500 +0000" stop="20251002185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Fenerbahce Istanbul - OGC Nizza, Ligaphase, 2. Spieltag</title>
 </programme>
-<programme start="20251002185000 +0000" stop="20251002210000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20251002185000 +0000" stop="20251002213000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: FC Basel - VfB Stuttgart, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251002161500 +0000" stop="20251002163500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2903,7 +2909,7 @@
     <title>Fußball: scooore Portugal! Alle Tore</title>
 </programme>
 <programme start="20251002150000 +0000" stop="20251002153000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
 <programme start="20251002153000 +0000" stop="20251002163500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Japan</title>
@@ -3103,17 +3109,17 @@
 <programme start="20251002210000 +0000" stop="20251002220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
-<programme start="20251001223000 +0000" stop="20251002010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251001220000 +0000" stop="20251002003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
 </programme>
-<programme start="20251002010000 +0000" stop="20251002020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Tokio</title>
+<programme start="20251002003000 +0000" stop="20251002023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: J. Sinner (ITA) - L. Tien (USA), China Open in Peking (China), Finale</title>
 </programme>
-<programme start="20251002020000 +0000" stop="20251002023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251002023000 +0000" stop="20251002030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251002023000 +0000" stop="20251002043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 1. Tag</title>
+<programme start="20251002030000 +0000" stop="20251002043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: D. Altmaier (GER) - T. Schoolkate (AUS), Rolex Shanghai Masters in Shanghai (China), 1. Tag</title>
 </programme>
 <programme start="20251002043000 +0000" stop="20251002143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
@@ -3125,10 +3131,10 @@
     <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
 </programme>
 <programme start="20251002173000 +0000" stop="20251002193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF1, China Open in Peking (China), Viertelfinale 1</title>
+    <title>WTA 1000: E. Lys (GER) - C. Gauff (USA), China Open in Peking (China), Viertelfinale 1</title>
 </programme>
 <programme start="20251002193000 +0000" stop="20251002213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF2, China Open in Peking (China), Viertelfinale 2</title>
+    <title>WTA 1000: J. Paolini (ITA) - A. Anisimova (USA), China Open in Peking (China), Viertelfinale 2</title>
 </programme>
 <programme start="20251002213000 +0000" stop="20251002233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
@@ -3217,17 +3223,23 @@
 <programme start="20251002214500 +0000" stop="20251002234500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Aserbaidschan</title>
 </programme>
-<programme start="20251002064000 +0000" stop="20251002070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251001220000 +0000" stop="20251002070000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251002070000 +0000" stop="20251002090000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: VF1, China Open in Peking (China), Viertelfinale 1</title>
+<programme start="20251002070000 +0000" stop="20251002093000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: E. Lys (GER) - C. Gauff (USA), China Open in Peking (China), Viertelfinale 1</title>
 </programme>
-<programme start="20251002094000 +0000" stop="20251002100000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251002093000 +0000" stop="20251002100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251002100000 +0000" stop="20251002120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: VF2, China Open in Peking (China), Viertelfinale 2</title>
+<programme start="20251002100000 +0000" stop="20251002130000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: J. Paolini (ITA) - A. Anisimova (USA), China Open in Peking (China), Viertelfinale 2</title>
+</programme>
+<programme start="20251002130000 +0000" stop="20251002160000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Basketball NBA</title>
+</programme>
+<programme start="20251002160000 +0000" stop="20251002200000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Game</title>
 </programme>
 <programme start="20251001222500 +0000" stop="20251001231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
@@ -3727,10 +3739,10 @@
 <programme start="20251002044500 +0000" stop="20251002060000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251002060000 +0000" stop="20251002065000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002060000 +0000" stop="20251002065500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251002065000 +0000" stop="20251002074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002065500 +0000" stop="20251002074000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251002074000 +0000" stop="20251002083000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3739,10 +3751,10 @@
 <programme start="20251002083000 +0000" stop="20251002092000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20251002092000 +0000" stop="20251002101500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002092000 +0000" stop="20251002101000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
-<programme start="20251002101500 +0000" stop="20251002110500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251002101000 +0000" stop="20251002110500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unsere kleine Farm</title>
 </programme>
 <programme start="20251002110500 +0000" stop="20251002115500 +0000" channel="Warner TV Serie HD.skyde">

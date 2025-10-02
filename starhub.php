@@ -2209,13 +2209,19 @@
     <programme start="20251002020000 +0000" stop="20251002030000 +0000" channel="CNN HD.starhub">
         <title>CNN NewsNight</title>
     </programme>
-    <programme start="20251002030000 +0000" stop="20251002044500 +0000" channel="CNN HD.starhub">
+    <programme start="20251002030000 +0000" stop="20251002040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
+    </programme>
+    <programme start="20251002040000 +0000" stop="20251002044500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20251002044500 +0000" stop="20251002050000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20251002050000 +0000" stop="20251002064500 +0000" channel="CNN HD.starhub">
+    <programme start="20251002050000 +0000" stop="20251002060000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom (CNNI)</title>
+    </programme>
+    <programme start="20251002060000 +0000" stop="20251002064500 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
     </programme>
     <programme start="20251002064500 +0000" stop="20251002070000 +0000" channel="CNN HD.starhub">
@@ -2239,8 +2245,11 @@
     <programme start="20251002120000 +0000" stop="20251002123000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central - Thursday, October 2, 2025 8am ET</title>
     </programme>
-    <programme start="20251002123000 +0000" stop="20251002134500 +0000" channel="CNN HD.starhub">
+    <programme start="20251002123000 +0000" stop="20251002130000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
+    </programme>
+    <programme start="20251002130000 +0000" stop="20251002134500 +0000" channel="CNN HD.starhub">
+        <title>Connect the World</title>
     </programme>
     <programme start="20251002134500 +0000" stop="20251002140000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
