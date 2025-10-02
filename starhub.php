@@ -857,10 +857,10 @@
         <title>Outnumbered</title>
     </programme>
     <programme start="20251001170000 +0000" stop="20251001180000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20251001180000 +0000" stop="20251001190000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports FOX News Live</title>
+        <title>America Reports Fox News Live</title>
     </programme>
     <programme start="20251001190000 +0000" stop="20251001200000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>
@@ -8008,11 +8008,11 @@
     <programme start="20251001133000 +0000" stop="20251001162500 +0000" channel="Asianet Movies.starhub">
         <title>Aavesham</title>
     </programme>
-    <programme start="20251001162500 +0000" stop="20251001193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251001162500 +0000" stop="20251001194500 +0000" channel="Asianet Movies.starhub">
         <title>Thanneermathan Dinangal</title>
     </programme>
-    <programme start="20251001193000 +0000" stop="20251001220000 +0000" channel="Asianet Movies.starhub">
-        <title>3 Dots</title>
+    <programme start="20251001194500 +0000" stop="20251001224500 +0000" channel="Asianet Movies.starhub">
+        <title>Doctor Love</title>
     </programme>
     <programme start="20251001224500 +0000" stop="20251002013000 +0000" channel="Asianet Movies.starhub">
         <title>Utharaswayamvaram</title>

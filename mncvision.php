@@ -25,8 +25,11 @@
 <programme start="20251002033000 +0000" stop="20251002043000 +0000" channel="ABC Australia.mncvision">
     <title>Keep On Dancing: Catalyst</title>
 </programme>
-<programme start="20251002043000 +0000" stop="20251002053000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251002043000 +0000" stop="20251002052000 +0000" channel="ABC Australia.mncvision">
     <title>Ambulance Australia</title>
+</programme>
+<programme start="20251002052000 +0000" stop="20251002053000 +0000" channel="ABC Australia.mncvision">
+    <title>Pasin Wantok</title>
 </programme>
 <programme start="20251002053000 +0000" stop="20251002060000 +0000" channel="ABC Australia.mncvision">
     <title>Landline</title>
@@ -49,8 +52,11 @@
 <programme start="20251002093000 +0000" stop="20251002100000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20251002100000 +0000" stop="20251002110000 +0000" channel="ABC Australia.mncvision">
+<programme start="20251002100000 +0000" stop="20251002105000 +0000" channel="ABC Australia.mncvision">
     <title>Ambulance Australia</title>
+</programme>
+<programme start="20251002105000 +0000" stop="20251002110000 +0000" channel="ABC Australia.mncvision">
+    <title>Pasin Wantok</title>
 </programme>
 <programme start="20251002110000 +0000" stop="20251002120000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
