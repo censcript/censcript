@@ -1141,14 +1141,14 @@
 <programme start="20251002100000 +0000" stop="20251002110000 +0000" channel="beIN Sports 1.mncvision">
     <title>Ferrari Challenge Europe HL &#039;25</title>
 </programme>
-<programme start="20251002110000 +0000" stop="20251002125000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: BET Vs OSA</title>
+<programme start="20251002110000 +0000" stop="20251002130000 +0000" channel="beIN Sports 1.mncvision">
+    <title>F1 Singapore Grand Prix 2023</title>
 </programme>
-<programme start="20251002125000 +0000" stop="20251002143500 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2025/26: ATM Vs RMA</title>
+<programme start="20251002130000 +0000" stop="20251002150000 +0000" channel="beIN Sports 1.mncvision">
+    <title>F1 Singapore Grand Prix 2024</title>
 </programme>
-<programme start="20251002143500 +0000" stop="20251002151000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
+<programme start="20251002150000 +0000" stop="20251002151000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20251002151000 +0000" stop="20251002154000 +0000" channel="beIN Sports 1.mncvision">
     <title>FastZone 2025, Ep 25</title>
@@ -1207,14 +1207,14 @@
 <programme start="20251002100000 +0000" stop="20251002110000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Ferrari Challenge Europe HL &#039;25</title>
 </programme>
-<programme start="20251002110000 +0000" stop="20251002125000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: BET Vs OSA</title>
+<programme start="20251002110000 +0000" stop="20251002130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Singapore Grand Prix 2023</title>
 </programme>
-<programme start="20251002125000 +0000" stop="20251002143500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2025/26: ATM Vs RMA</title>
+<programme start="20251002130000 +0000" stop="20251002150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Singapore Grand Prix 2024</title>
 </programme>
-<programme start="20251002143500 +0000" stop="20251002151000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga Highlights 2025/26</title>
+<programme start="20251002150000 +0000" stop="20251002151000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20251002151000 +0000" stop="20251002154000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FastZone 2025, Ep 25</title>
@@ -8311,11 +8311,8 @@
 <programme start="20251002063000 +0000" stop="20251002070000 +0000" channel="Sportstars 2.mncvision">
     <title>Bloopers</title>
 </programme>
-<programme start="20251002070000 +0000" stop="20251002073000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251002073000 +0000" stop="20251002080000 +0000" channel="Sportstars 2.mncvision">
-    <title>iNews Sport</title>
+<programme start="20251002070000 +0000" stop="20251002080000 +0000" channel="Sportstars 2.mncvision">
+    <title>AFC U23 Asian Cup Drawing (L)</title>
 </programme>
 <programme start="20251002080000 +0000" stop="20251002100000 +0000" channel="Sportstars 2.mncvision">
     <title>Timnas Special</title>
@@ -8368,11 +8365,8 @@
 <programme start="20251002063000 +0000" stop="20251002070000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Bloopers</title>
 </programme>
-<programme start="20251002070000 +0000" stop="20251002073000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251002073000 +0000" stop="20251002080000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>iNews Sport</title>
+<programme start="20251002070000 +0000" stop="20251002080000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>AFC U23 Asian Cup Drawing (L)</title>
 </programme>
 <programme start="20251002080000 +0000" stop="20251002100000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Timnas Special</title>

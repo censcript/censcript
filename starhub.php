@@ -6967,14 +6967,14 @@
     <programme start="20251002100000 +0000" stop="20251002110000 +0000" channel="beIN Sports HD.starhub">
         <title>Spa</title>
     </programme>
-    <programme start="20251002110000 +0000" stop="20251002125000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Real Betis vs Osasuna</title>
+    <programme start="20251002110000 +0000" stop="20251002130000 +0000" channel="beIN Sports HD.starhub">
+        <title>FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023</title>
     </programme>
-    <programme start="20251002125000 +0000" stop="20251002143500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Atletico Madrid vs Real Madrid</title>
+    <programme start="20251002130000 +0000" stop="20251002150000 +0000" channel="beIN Sports HD.starhub">
+        <title>FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024</title>
     </programme>
-    <programme start="20251002143500 +0000" stop="20251002151000 +0000" channel="beIN Sports HD.starhub">
-        <title>Matchday 7</title>
+    <programme start="20251002150000 +0000" stop="20251002151000 +0000" channel="beIN Sports HD.starhub">
+        <title>Vini Jr</title>
     </programme>
     <programme start="20251002151000 +0000" stop="20251002154000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2025</title>

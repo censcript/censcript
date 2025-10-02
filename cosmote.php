@@ -118,6 +118,14 @@
     <title>Sports Classics: Football&#039;s Greatest IV E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251003131500 +0700" stop="20251003134500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251003134500 +0700" stop="20251003141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251002105000 +0700" stop="20251002141000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Miami Dolphins - New York Jets</title>
     <desc>Live: Tidak</desc>
@@ -182,8 +190,8 @@
     <title>Football: Livingston - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251002100000 +0700" stop="20251002121500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Olympiacos BC - Paris Basketball</title>
+<programme start="20251003130000 +0700" stop="20251003150000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SL Benfica - Gil Vicente</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002121500 +0700" stop="20251002142000 +0700" channel="COSMOTE Sport 4 HD">
@@ -240,6 +248,10 @@
 </programme>
 <programme start="20251003120000 +0700" stop="20251003134500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Utsunomiya Brex - Unicaja</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251003134500 +0700" stop="20251003160500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: New York Knicks - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002113500 +0700" stop="20251002131000 +0700" channel="COSMOTE Sport 5 HD">
@@ -328,6 +340,14 @@
 </programme>
 <programme start="20251003121000 +0700" stop="20251003130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251003130000 +0700" stop="20251003135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251003135500 +0700" stop="20251003151500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251002113000 +0700" stop="20251002150000 +0700" channel="COSMOTE Sport 6 HD">
