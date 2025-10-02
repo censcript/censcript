@@ -3869,7 +3869,7 @@
         <title>Drama Serial &quot;Anpan&quot; Spin-Off Part 2 (R)</title>
     </programme>
     <programme start="20251002023500 +0000" stop="20251002024500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Special Program (R)</title>
+        <title>Drama Serial &quot;Anpan&quot; Talk Show Part 1 (R)</title>
     </programme>
     <programme start="20251002024500 +0000" stop="20251002025000 +0000" channel="NHK World Premium HD.starhub">
         <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
@@ -3890,7 +3890,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20251002033000 +0000" stop="20251002034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 106</title>
+        <title>Drama Serial Encore &quot;Toto Nee-Chan: Fatherly Sister&quot; Eps. 105</title>
     </programme>
     <programme start="20251002034500 +0000" stop="20251002040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 4 (R)</title>
@@ -3905,7 +3905,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20251002055500 +0000" stop="20251002060000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Music Album</title>
+        <title>Camera-eyed Japan</title>
     </programme>
     <programme start="20251002060000 +0000" stop="20251002061000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
@@ -3967,8 +3967,11 @@
     <programme start="20251002120000 +0000" stop="20251002130000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20251002130000 +0000" stop="20251002134500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251002130000 +0000" stop="20251002134200 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs of Our Generation</title>
+    </programme>
+    <programme start="20251002134200 +0000" stop="20251002134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20251002134500 +0000" stop="20251002140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Serial Drama &quot;Someday, in the Weightless Sky&quot; Eps. 16</title>
@@ -3977,7 +3980,7 @@
         <title>Drama Serial &quot;Anpan&quot; Spin-Off Part 3</title>
     </programme>
     <programme start="20251002141500 +0000" stop="20251002142500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Special Program</title>
+        <title>Drama Serial &quot;Anpan&quot; Talk Show Part 2</title>
     </programme>
     <programme start="20251002142500 +0000" stop="20251002143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Koh Kentetsu&#039;s Food Travelogue in Japan mini</title>
@@ -7918,17 +7921,17 @@
     <programme start="20251002153000 +0000" stop="20251002160000 +0000" channel="Sony Entertainment Television.starhub">
         <title>Chakravarti Samrat Prithviraj Chauhan</title>
     </programme>
-    <programme start="20251001160000 +0000" stop="20251001161500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251001160000 +0000" stop="20251001161000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2025)</title>
     </programme>
-    <programme start="20251001161500 +0000" stop="20251001163000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251001161000 +0000" stop="20251001163000 +0000" channel="ABC Australia HD.starhub">
         <title>The Business (2025)</title>
     </programme>
-    <programme start="20251001163000 +0000" stop="20251001173000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251001163000 +0000" stop="20251001172500 +0000" channel="ABC Australia HD.starhub">
         <title>Round 2 Women&#039;s: Brisbane v Melbourne Highlights</title>
     </programme>
-    <programme start="20251001173000 +0000" stop="20251001181500 +0000" channel="ABC Australia HD.starhub">
-        <title>Four Corners (2025)</title>
+    <programme start="20251001172500 +0000" stop="20251001181500 +0000" channel="ABC Australia HD.starhub">
+        <title>Submerged</title>
     </programme>
     <programme start="20251001181500 +0000" stop="20251001183500 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2025)</title>

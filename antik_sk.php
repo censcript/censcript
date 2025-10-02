@@ -3142,10 +3142,10 @@
   <programme start="20251004070500 +0000" stop="20251004074600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Jiřího Hrzána</title>
   </programme>
-  <programme start="20251004074600 +0000" stop="20251004081700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251004074600 +0000" stop="20251004081600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20251004081700 +0000" stop="20251004090500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251004081600 +0000" stop="20251004090500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechny velké a malé bytosti IV (3)</title>
   </programme>
   <programme start="20251004090500 +0000" stop="20251004100000 +0000" channel="ČT1.webtv.sk">
