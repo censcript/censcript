@@ -2730,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003173000 +0000" stop="20251003181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: TSG - KOE: tipico Countdown, Flutlicht-Freitag, 6. Spieltag</title>
 </programme>
-<programme start="20251003181500 +0000" stop="20251003211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251003181500 +0000" stop="20251003214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: TSG Hoffenheim - 1. FC Köln, Flutlicht-Freitag, 6. Spieltag</title>
 </programme>
 <programme start="20251003154000 +0000" stop="20251003160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2739,7 +2739,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003160000 +0000" stop="20251003183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 8. Spieltag</title>
 </programme>
-<programme start="20251003183000 +0000" stop="20251003194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251003183000 +0000" stop="20251003191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 8. Spieltag, Freitag</title>
 </programme>
 <programme start="20251003154000 +0000" stop="20251003160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2754,7 +2754,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003154000 +0000" stop="20251003160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251003160000 +0000" stop="20251003183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251003160000 +0000" stop="20251003190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - SC Paderborn 07, 8. Spieltag</title>
 </programme>
 <programme start="20251002230000 +0000" stop="20251003010000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2908,10 +2908,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live MotoGP: Training - GP Indonesien</title>
 </programme>
 <programme start="20251003081500 +0000" stop="20251003100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Game</title>
+    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Games 2025</title>
 </programme>
 <programme start="20251003100000 +0000" stop="20251003120000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 2. Spieltag</title>
+    <title>UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 1. Spieltag</title>
 </programme>
 <programme start="20251003120000 +0000" stop="20251003123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
@@ -2923,7 +2923,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Training - GP Indonesien</title>
 </programme>
 <programme start="20251003150000 +0000" stop="20251003164500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Game</title>
+    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Games 2025</title>
 </programme>
 <programme start="20251003164500 +0000" stop="20251003170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Best Comebacks 2024</title>
@@ -2958,7 +2958,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003050000 +0000" stop="20251003060000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Matchplan: SGE - FCB, 6. Spieltag</title>
 </programme>
-<programme start="20251003060000 +0000" stop="20251003083000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251003060000 +0000" stop="20251003080000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251003083000 +0000" stop="20251003084500 +0000" channel="Sky Sport News HD.skyde">
@@ -3252,17 +3252,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003070000 +0000" stop="20251003071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251003064000 +0000" stop="20251003070000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+<programme start="20251002220000 +0000" stop="20251003070000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>WTA: Es folgt</title>
 </programme>
-<programme start="20251003070000 +0000" stop="20251003090000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: VF3, China Open in Peking (China), Viertelfinale 3</title>
+<programme start="20251003070000 +0000" stop="20251003094000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: S. Kartal (GBR) - L. Noskova (CZE), China Open in Peking (China), Viertelfinale 3</title>
 </programme>
 <programme start="20251003094000 +0000" stop="20251003100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251003100000 +0000" stop="20251003120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: VF4, China Open in Peking (China), Viertelfinale 4</title>
+<programme start="20251003100000 +0000" stop="20251003140000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: E. Navarro (USA) - J. Pegula (USA), China Open in Peking (China), Viertelfinale 4</title>
 </programme>
 <programme start="20251002222500 +0000" stop="20251002231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
