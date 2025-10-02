@@ -640,50 +640,44 @@
     <programme start="20251001140000 +0000" stop="20251001162000 +0000" channel="now-80s.mewatch">
         <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
     </programme>
-    <programme start="20251001162000 +0000" stop="20251001170000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20251001170000 +0000" stop="20251001210000 +0000" channel="now-80s.mewatch">
+        <title>They Packed a Punch! 1980-1989 - EP1</title>
     </programme>
-    <programme start="20251001170000 +0000" stop="20251001200000 +0000" channel="now-80s.mewatch">
-        <title>That&#039;s NOT My Name! 1980-1989 - EP1</title>
+    <programme start="20251001210000 +0000" stop="20251001220000 +0000" channel="now-80s.mewatch">
+        <title>Say I&#039;m Your Number 1! - EP1</title>
     </programme>
-    <programme start="20251001200000 +0000" stop="20251001220000 +0000" channel="now-80s.mewatch">
-        <title>Clare Grogan&#039;s Teenage Kicks! - EP1</title>
+    <programme start="20251001220000 +0000" stop="20251002011000 +0000" channel="now-80s.mewatch">
+        <title>Jenny Powell: Such A Good Feeling! - EP1</title>
     </programme>
-    <programme start="20251001220000 +0000" stop="20251002002500 +0000" channel="now-80s.mewatch">
-        <title>The Heat Is On! Top 30 - EP1</title>
+    <programme start="20251002011000 +0000" stop="20251002020000 +0000" channel="now-80s.mewatch">
+        <title>Retro Rewind! 80s Edition - EP1</title>
     </programme>
-    <programme start="20251002002500 +0000" stop="20251002010000 +0000" channel="now-80s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251002020000 +0000" stop="20251002033500 +0000" channel="now-80s.mewatch">
+        <title>Poster Girls of the 80s! - EP1</title>
     </programme>
-    <programme start="20251002010000 +0000" stop="20251002033000 +0000" channel="now-80s.mewatch">
-        <title>Limahl&#039;s Frocky Horror Show! - EP1</title>
+    <programme start="20251002033500 +0000" stop="20251002040000 +0000" channel="now-80s.mewatch">
+        <title>Retro Rewind! 80s Edition - EP1</title>
     </programme>
-    <programme start="20251002033000 +0000" stop="20251002040000 +0000" channel="now-80s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251002040000 +0000" stop="20251002063000 +0000" channel="now-80s.mewatch">
+        <title>Sonia&#039;s 30 Great Girls! - EP1</title>
     </programme>
-    <programme start="20251002040000 +0000" stop="20251002050000 +0000" channel="now-80s.mewatch">
-        <title>Mamma Mia! Abba&#039;s 80s Hits! - EP1</title>
+    <programme start="20251002063000 +0000" stop="20251002070000 +0000" channel="now-80s.mewatch">
+        <title>1988 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251002050000 +0000" stop="20251002093000 +0000" channel="now-80s.mewatch">
-        <title>The Best BBQ Karaoke Party Ever! - EP1</title>
+    <programme start="20251002070000 +0000" stop="20251002090000 +0000" channel="now-80s.mewatch">
+        <title>ALMOST Top of the Pops! 1988 - EP1</title>
     </programme>
-    <programme start="20251002093000 +0000" stop="20251002103000 +0000" channel="now-80s.mewatch">
-        <title>That&#039;s NOT My Name! 1980-1989 - EP1</title>
+    <programme start="20251002090000 +0000" stop="20251002100000 +0000" channel="now-80s.mewatch">
+        <title>The 1988 Video Hall of Fame - EP1</title>
     </programme>
-    <programme start="20251002103000 +0000" stop="20251002113500 +0000" channel="now-80s.mewatch">
-        <title>The Best BBQ Karaoke Party Ever! - EP1</title>
+    <programme start="20251002100000 +0000" stop="20251002131500 +0000" channel="now-80s.mewatch">
+        <title>Never Even A Top 10! - EP1</title>
     </programme>
-    <programme start="20251002113500 +0000" stop="20251002120000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20251002131500 +0000" stop="20251002140000 +0000" channel="now-80s.mewatch">
+        <title>1984 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251002120000 +0000" stop="20251002155000 +0000" channel="now-80s.mewatch">
-        <title>Pat Sharp&#039;s 80s Wicked Weekender! - EP1</title>
-    </programme>
-    <programme start="20251002155000 +0000" stop="20251002160000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
-    </programme>
-    <programme start="20251002160000 +0000" stop="20251002170000 +0000" channel="now-80s.mewatch">
-        <title>Way Back When! 1981 - EP1</title>
+    <programme start="20251002140000 +0000" stop="20251002170000 +0000" channel="now-80s.mewatch">
+        <title>The NOW Yearbook 1984 - EP1</title>
     </programme>
     <programme start="20251001160000 +0000" stop="20251001162500 +0000" channel="now-70s.mewatch">
         <title>70s Heatwave Hits! - EP1</title>
