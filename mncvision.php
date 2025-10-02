@@ -4109,7 +4109,7 @@
     <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251002063000 +0000" stop="20251002073000 +0000" channel="GTV.mncvision">
-    <title>Bernard Bear</title>
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251002073000 +0000" stop="20251002083000 +0000" channel="GTV.mncvision">
     <title>Lets Get Wet</title>
@@ -4160,7 +4160,7 @@
     <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251002063000 +0000" stop="20251002073000 +0000" channel="GTV HD.mncvision">
-    <title>Bernard Bear</title>
+    <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251002073000 +0000" stop="20251002083000 +0000" channel="GTV HD.mncvision">
     <title>Lets Get Wet</title>
