@@ -3424,13 +3424,13 @@
   <programme start="20251004031000 +0000" stop="20251004040000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Události v kultuře</title>
   </programme>
-  <programme start="20251004040000 +0000" stop="20251004041000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251004040000 +0000" stop="20251004040700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Raníček</title>
   </programme>
-  <programme start="20251004041000 +0000" stop="20251004041300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251004040700 +0000" stop="20251004041000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa II</title>
   </programme>
-  <programme start="20251004041300 +0000" stop="20251004042000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251004041000 +0000" stop="20251004042000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa II</title>
   </programme>
   <programme start="20251004042000 +0000" stop="20251004044200 +0000" channel="ČT :D - ČT art.webtv.sk">
