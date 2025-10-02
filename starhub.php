@@ -7954,8 +7954,11 @@
     <programme start="20251002033000 +0000" stop="20251002043000 +0000" channel="ABC Australia HD.starhub">
         <title>Keep On Dancing: A Catalyst Special S1</title>
     </programme>
-    <programme start="20251002043000 +0000" stop="20251002053000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251002043000 +0000" stop="20251002052000 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S4</title>
+    </programme>
+    <programme start="20251002052000 +0000" stop="20251002053000 +0000" channel="ABC Australia HD.starhub">
+        <title>Queen Alexandra&#039;s Birdwing Butterfly</title>
     </programme>
     <programme start="20251002053000 +0000" stop="20251002060000 +0000" channel="ABC Australia HD.starhub">
         <title>Landline (2025)</title>
@@ -7978,8 +7981,11 @@
     <programme start="20251002093000 +0000" stop="20251002100000 +0000" channel="ABC Australia HD.starhub">
         <title>7.30 (2025)</title>
     </programme>
-    <programme start="20251002100000 +0000" stop="20251002110000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20251002100000 +0000" stop="20251002105000 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S4</title>
+    </programme>
+    <programme start="20251002105000 +0000" stop="20251002110000 +0000" channel="ABC Australia HD.starhub">
+        <title>Lagatoi</title>
     </programme>
     <programme start="20251002110000 +0000" stop="20251002120000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2025)</title>
@@ -7988,7 +7994,7 @@
         <title>Roads Unknown India S1</title>
     </programme>
     <programme start="20251002122500 +0000" stop="20251002130000 +0000" channel="ABC Australia HD.starhub">
-        <title>Harvest</title>
+        <title>The Season - Harvest</title>
     </programme>
     <programme start="20251002130000 +0000" stop="20251002140000 +0000" channel="ABC Australia HD.starhub">
         <title>Keep On Dancing: A Catalyst Special S1</title>
