@@ -664,6 +664,9 @@
 <programme start="20251003114500 +0000" stop="20251003121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20251001233000 +0000" stop="20251002013000 +0000" channel="ANTV.vision">
+<title>Tak Ingin Sendiri</title>
+</programme>
 <programme start="20251002013000 +0000" stop="20251002050000 +0000" channel="ANTV.vision">
 <title>Sangdil Sanam</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251002045000 +0000" stop="20251002064000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251002064000 +0000" stop="20251002082000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
