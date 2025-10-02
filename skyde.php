@@ -3109,6 +3109,36 @@
 <programme start="20251002210000 +0000" stop="20251002220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
+<programme start="20251001220000 +0000" stop="20251002003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
+</programme>
+<programme start="20251002003000 +0000" stop="20251002023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: J. Sinner (ITA) - L. Tien (USA), China Open in Peking (China), Finale</title>
+</programme>
+<programme start="20251002023000 +0000" stop="20251002030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20251002030000 +0000" stop="20251002043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: D. Altmaier (GER) - T. Schoolkate (AUS), Rolex Shanghai Masters in Shanghai (China), 1. Tag</title>
+</programme>
+<programme start="20251002043000 +0000" stop="20251002143000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
+</programme>
+<programme start="20251002143000 +0000" stop="20251002153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Peking</title>
+</programme>
+<programme start="20251002153000 +0000" stop="20251002173000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
+</programme>
+<programme start="20251002173000 +0000" stop="20251002193000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Lys (GER) - C. Gauff (USA), China Open in Peking (China), Viertelfinale 1</title>
+</programme>
+<programme start="20251002193000 +0000" stop="20251002213000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Paolini (ITA) - A. Anisimova (USA), China Open in Peking (China), Viertelfinale 2</title>
+</programme>
+<programme start="20251002213000 +0000" stop="20251002233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 2. Tag</title>
+</programme>
 <programme start="20251001220000 +0000" stop="20251001223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
 </programme>
