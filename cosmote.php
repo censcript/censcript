@@ -122,6 +122,14 @@
     <title>Serie A Full Impact 2025-26 E5</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251004011000 +0700" stop="20251004014500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004014500 +0700" stop="20251004034500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Sassuolo (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251002234500 +0700" stop="20251003020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panathinaikos - Go Ahead Eagles (L)</title>
     <desc>Live: Ya</desc>
@@ -250,8 +258,8 @@
     <title>Basketball: Galatasaray - Tofas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251002231500 +0700" stop="20251003001500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
+<programme start="20251004010000 +0700" stop="20251004033000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: New York Knicks - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003001500 +0700" stop="20251003020000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +358,10 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251004013500 +0700" stop="20251004021500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251002234500 +0700" stop="20251003020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Football: AS Roma - Lille OSC (L)</title>
     <desc>Live: Ya</desc>
@@ -392,6 +404,10 @@
 </programme>
 <programme start="20251004000000 +0700" stop="20251004010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004010000 +0700" stop="20251004070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251002234500 +0700" stop="20251003020000 +0700" channel="COSMOTE Sport 7 HD">
