@@ -18367,11 +18367,14 @@
   <programme start="20251004182000 +0000" stop="20251004192000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">La Confessione IV (4)</title>
   </programme>
-  <programme start="20251004192000 +0000" stop="20251004215500 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20251004192000 +0000" stop="20251004215000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Sapiens - Un solo pianeta</title>
   </programme>
-  <programme start="20251004215500 +0000" stop="20251004220000 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20251004215000 +0000" stop="20251004215500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Le sentinelle della biodiversita (3)</title>
+  </programme>
+  <programme start="20251004215500 +0000" stop="20251004222000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 Mondo</title>
   </programme>
   <programme start="20251003220000 +0000" stop="20251003230000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Americas Now</title>
