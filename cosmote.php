@@ -54,6 +54,14 @@
     <title>Game R1 S6 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251004030000 +0700" stop="20251004033000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004033000 +0700" stop="20251004043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251003020000 +0700" stop="20251003040500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Greek Edition (L)</title>
     <desc>Live: Ya</desc>
@@ -125,6 +133,10 @@
 <programme start="20251004014500 +0700" stop="20251004034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251004034500 +0700" stop="20251004054500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Aberdeen - FC Shakhtar Donetsk</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003020000 +0700" stop="20251003040500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - FK Crvena Zvezda (L)</title>
@@ -252,6 +264,10 @@
 </programme>
 <programme start="20251004010000 +0700" stop="20251004033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Philadelphia 76ers</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004033000 +0700" stop="20251004040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003020000 +0700" stop="20251003040500 +0700" channel="COSMOTE Sport 5 HD">
