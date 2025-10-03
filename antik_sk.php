@@ -3166,10 +3166,10 @@
   <programme start="20251005205000 +0000" stop="20251005220500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Blahoslavená rodina Ulmova</title>
   </programme>
-  <programme start="20251004202500 +0000" stop="20251004220100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251004202700 +0000" stop="20251004220200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nenapravitelný</title>
   </programme>
-  <programme start="20251004220100 +0000" stop="20251004225000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251004220200 +0000" stop="20251004225000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sraz (5/6)</title>
   </programme>
   <programme start="20251004225000 +0000" stop="20251004234100 +0000" channel="ČT1.webtv.sk">
@@ -3181,10 +3181,10 @@
   <programme start="20251005003800 +0000" stop="20251005021000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20251005021000 +0000" stop="20251005022600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005021000 +0000" stop="20251005022700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Češi v Řecku</title>
   </programme>
-  <programme start="20251005022600 +0000" stop="20251005033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005022700 +0000" stop="20251005033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
   <programme start="20251005033000 +0000" stop="20251005040000 +0000" channel="ČT1.webtv.sk">
@@ -3202,13 +3202,13 @@
   <programme start="20251005061500 +0000" stop="20251005065500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pečení na neděli</title>
   </programme>
-  <programme start="20251005065500 +0000" stop="20251005074700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005065500 +0000" stop="20251005074600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20251005074700 +0000" stop="20251005080200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005074600 +0000" stop="20251005080100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kalendárium</title>
   </programme>
-  <programme start="20251005080200 +0000" stop="20251005083500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005080100 +0000" stop="20251005083500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
   <programme start="20251005083500 +0000" stop="20251005090500 +0000" channel="ČT1.webtv.sk">
@@ -3256,19 +3256,19 @@
   <programme start="20251005181000 +0000" stop="20251005192000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ratolesti I (1/10)</title>
   </programme>
-  <programme start="20251005192000 +0000" stop="20251005200500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005192000 +0000" stop="20251005200600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výborná SHOW</title>
   </programme>
-  <programme start="20251005200500 +0000" stop="20251005210400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005200600 +0000" stop="20251005210600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Osada (5/13)</title>
   </programme>
-  <programme start="20251005210400 +0000" stop="20251005210500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005210600 +0000" stop="20251005210900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20251005210500 +0000" stop="20251005215000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005210900 +0000" stop="20251005215200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVI (24)</title>
   </programme>
-  <programme start="20251005215000 +0000" stop="20251005222500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251005215200 +0000" stop="20251005222500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Legendy kriminalistiky IV</title>
   </programme>
   <programme start="20251004214500 +0000" stop="20251004232700 +0000" channel="ČT2.webtv.sk">
