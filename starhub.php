@@ -7313,7 +7313,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20251003114300 +0000" stop="20251003115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Impacts: Climates Change the World</title>
+        <title>The Forefront of Carbon Recycling</title>
     </programme>
     <programme start="20251003115500 +0000" stop="20251003120000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Chatroom Japan</title>
