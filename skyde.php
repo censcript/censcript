@@ -936,34 +936,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003073000 +0000" stop="20251003093000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Borussia M&#039;gladbach - Eintracht Frankfurt</title>
 </programme>
-<programme start="20251003093000 +0000" stop="20251003113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003093000 +0000" stop="20251003112000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: Atlético Madrid - Real Madrid</title>
 </programme>
-<programme start="20251003113000 +0000" stop="20251003120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003112000 +0000" stop="20251003120000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251003120000 +0000" stop="20251003135500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: 1. FSV Mainz 05 - Borussia Dortmund</title>
 </programme>
-<programme start="20251003135500 +0000" stop="20251003143500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003135500 +0000" stop="20251003141500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251003143500 +0000" stop="20251003162500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003141500 +0000" stop="20251003162500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - SV Werder Bremen</title>
 </programme>
-<programme start="20251003162500 +0000" stop="20251003174000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003162500 +0000" stop="20251003173000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 5. Spieltag</title>
 </programme>
-<programme start="20251003174000 +0000" stop="20251003181000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003173000 +0000" stop="20251003181000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
 <programme start="20251003181000 +0000" stop="20251003184000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
-<programme start="20251003184000 +0000" stop="20251003210000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003184000 +0000" stop="20251003205000 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A 25/26: Hellas Verona - Sassuolo Calcio</title>
 </programme>
-<programme start="20251003210000 +0000" stop="20251003225500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251003205000 +0000" stop="20251003225500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: TSG 1899 Hoffenheim - 1. FC Köln</title>
 </programme>
 <programme start="20251002220000 +0000" stop="20251003060000 +0000" channel="DAZN 2 HD.skyde">
@@ -2730,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003173000 +0000" stop="20251003181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: TSG - KOE: tipico Countdown, Flutlicht-Freitag, 6. Spieltag</title>
 </programme>
-<programme start="20251003181500 +0000" stop="20251003214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251003181500 +0000" stop="20251003211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: TSG Hoffenheim - 1. FC Köln, Flutlicht-Freitag, 6. Spieltag</title>
 </programme>
 <programme start="20251003154000 +0000" stop="20251003160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2748,7 +2748,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003160000 +0000" stop="20251003183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - 1. FC Nürnberg, 8. Spieltag</title>
 </programme>
-<programme start="20251003183000 +0000" stop="20251003210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251003183000 +0000" stop="20251003203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: TSG - KOE, 6. Spieltag</title>
 </programme>
 <programme start="20251003154000 +0000" stop="20251003160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2908,10 +2908,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live MotoGP: Training - GP Indonesien</title>
 </programme>
 <programme start="20251003081500 +0000" stop="20251003100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Games 2025</title>
+    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Game</title>
 </programme>
 <programme start="20251003100000 +0000" stop="20251003120000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 1. Spieltag</title>
+    <title>UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 2. Spieltag</title>
 </programme>
 <programme start="20251003120000 +0000" stop="20251003123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
@@ -2923,7 +2923,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Training - GP Indonesien</title>
 </programme>
 <programme start="20251003150000 +0000" stop="20251003164500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Games 2025</title>
+    <title>NBA: Philadelphia 76ers @ New York Knicks, Abu Dhabi Game</title>
 </programme>
 <programme start="20251003164500 +0000" stop="20251003170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Best Comebacks 2024</title>
@@ -2958,7 +2958,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003050000 +0000" stop="20251003060000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Matchplan: SGE - FCB, 6. Spieltag</title>
 </programme>
-<programme start="20251003060000 +0000" stop="20251003080000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20251003060000 +0000" stop="20251003083000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251003083000 +0000" stop="20251003084500 +0000" channel="Sky Sport News HD.skyde">
@@ -3252,13 +3252,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003070000 +0000" stop="20251003071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251002220000 +0000" stop="20251003070000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>WTA: Es folgt</title>
+<programme start="20251003064000 +0000" stop="20251003070000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251003070000 +0000" stop="20251003094000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251003070000 +0000" stop="20251003090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: S. Kartal (GBR) - L. Noskova (CZE), China Open in Peking (China), Viertelfinale 3</title>
 </programme>
-<programme start="20251003094000 +0000" stop="20251003100000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251003090000 +0000" stop="20251003100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20251003100000 +0000" stop="20251003140000 +0000" channel="Sky Sport 1 HD.skyde">

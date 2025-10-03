@@ -7555,12 +7555,6 @@
     <programme start="20251002193000 +0000" stop="20251002200000 +0000" channel="BBC World News HD.starhub">
         <title>The Context</title>
     </programme>
-    <programme start="20251002200000 +0000" stop="20251002203000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context USA</title>
-    </programme>
-    <programme start="20251002203000 +0000" stop="20251002210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context USA</title>
-    </programme>
     <programme start="20251002210000 +0000" stop="20251002213000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
     </programme>
@@ -8170,20 +8164,11 @@
     <programme start="20251002233000 +0000" stop="20251003013000 +0000" channel="Asianet Movies.starhub">
         <title>Vairam</title>
     </programme>
-    <programme start="20251003013000 +0000" stop="20251003043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251003013000 +0000" stop="20251003072000 +0000" channel="Asianet Movies.starhub">
         <title>Puthan Panam</title>
     </programme>
-    <programme start="20251003043000 +0000" stop="20251003073000 +0000" channel="Asianet Movies.starhub">
-        <title>Pulimurugan</title>
-    </programme>
-    <programme start="20251003073000 +0000" stop="20251003103000 +0000" channel="Asianet Movies.starhub">
-        <title>Manjummel Boys</title>
-    </programme>
-    <programme start="20251003103000 +0000" stop="20251003133000 +0000" channel="Asianet Movies.starhub">
-        <title>Pushpa: The Rise - Part 1</title>
-    </programme>
-    <programme start="20251003133000 +0000" stop="20251003163000 +0000" channel="Asianet Movies.starhub">
-        <title>Neru</title>
+    <programme start="20251003072000 +0000" stop="20251003192000 +0000" channel="Asianet Movies.starhub">
+        <title>Loud Speaker</title>
     </programme>
     <programme start="20251002160000 +0000" stop="20251002170000 +0000" channel="Astro Warna HD.starhub">
         <title>Dia Bukan Manusia</title>
