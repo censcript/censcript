@@ -7555,6 +7555,12 @@
     <programme start="20251002193000 +0000" stop="20251002200000 +0000" channel="BBC World News HD.starhub">
         <title>The Context</title>
     </programme>
+    <programme start="20251002200000 +0000" stop="20251002203000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
+    <programme start="20251002203000 +0000" stop="20251002210000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
+    </programme>
     <programme start="20251002210000 +0000" stop="20251002213000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
     </programme>
