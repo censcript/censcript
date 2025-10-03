@@ -850,9 +850,6 @@
 <programme start="20251002233000 +0000" stop="20251003013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20251003013000 +0000" stop="20251003020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20251003020000 +0000" stop="20251003023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251003230300 +0000" stop="20251004003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20251004003000 +0000" stop="20251004011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
