@@ -1,11 +1,3 @@
-<programme start="20251004003000 +0700" stop="20251004023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Panathinaikos - Go Ahead Eagles</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251004023000 +0700" stop="20251004030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251004030000 +0700" stop="20251004033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E5</title>
     <desc>Live: Tidak</desc>
@@ -90,6 +82,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251005033500 +0700" stop="20251005040500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251004014500 +0700" stop="20251004034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Sassuolo (L)</title>
     <desc>Live: Ya</desc>
@@ -161,6 +157,10 @@
 <programme start="20251005014500 +0700" stop="20251005034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Como (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251005034500 +0700" stop="20251005060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Volos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251004020000 +0700" stop="20251004040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Wrexham  - Birmingham City (L)</title>
@@ -290,8 +290,12 @@
     <title>Basketball: Las Vegas Aces - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251004013500 +0700" stop="20251004021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E9</title>
+<programme start="20251005030000 +0700" stop="20251005032000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251005032000 +0700" stop="20251005050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Utsunomiya Brex - Illawarra Hawks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251004021500 +0700" stop="20251004041500 +0700" channel="COSMOTE Sport 5 HD">
@@ -396,6 +400,10 @@
 </programme>
 <programme start="20251005024500 +0700" stop="20251005034500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251005034500 +0700" stop="20251005045000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251004010000 +0700" stop="20251004070000 +0700" channel="COSMOTE Sport 6 HD">
@@ -601,6 +609,10 @@
 <programme start="20251005010000 +0700" stop="20251005033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251005033000 +0700" stop="20251005040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251004020000 +0700" stop="20251004040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
