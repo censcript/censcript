@@ -4097,7 +4097,7 @@
     <title>Mission: Impossible Ghost...</title>
 </programme>
 <programme start="20251003143000 +0000" stop="20251003160000 +0000" channel="GTV.mncvision">
-    <title>Hidden Sword Of Sang Sang</title>
+    <title>The River Monster</title>
 </programme>
 <programme start="20251003160000 +0000" stop="20251003163000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4145,7 +4145,7 @@
     <title>Mission: Impossible Ghost...</title>
 </programme>
 <programme start="20251003143000 +0000" stop="20251003160000 +0000" channel="GTV HD.mncvision">
-    <title>Hidden Sword Of Sang Sang</title>
+    <title>The River Monster</title>
 </programme>
 <programme start="20251003160000 +0000" stop="20251003163000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
@@ -6353,7 +6353,7 @@
     <title>Direct Talk</title>
 </programme>
 <programme start="20251002184300 +0000" stop="20251002185500 +0000" channel="NHK World.mncvision">
-    <title>NHK World Selection</title>
+    <title>Herbal Symphony: Autumn</title>
 </programme>
 <programme start="20251002185500 +0000" stop="20251002190000 +0000" channel="NHK World.mncvision">
     <title>Ukiyoe Edo-Life: Delicacy</title>
@@ -6407,7 +6407,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20251003023000 +0000" stop="20251003030000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Gunmachan</title>
 </programme>
 <programme start="20251003030000 +0000" stop="20251003033000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6437,7 +6437,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20251003073000 +0000" stop="20251003080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Gunmachan</title>
 </programme>
 <programme start="20251003080000 +0000" stop="20251003083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6464,7 +6464,7 @@
     <title>Direct Talk</title>
 </programme>
 <programme start="20251003114300 +0000" stop="20251003115500 +0000" channel="NHK World.mncvision">
-    <title>Impacts: Climates Change...</title>
+    <title>Forefront Of Carbon Recycling</title>
 </programme>
 <programme start="20251003115500 +0000" stop="20251003120000 +0000" channel="NHK World.mncvision">
     <title>Chatroom Japan</title>
@@ -6479,7 +6479,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20251003133000 +0000" stop="20251003140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Gunmachan</title>
 </programme>
 <programme start="20251003140000 +0000" stop="20251003143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
