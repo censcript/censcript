@@ -2883,10 +2883,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003005500 +0000" stop="20251003014000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251003014000 +0000" stop="20251003023500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251003014000 +0000" stop="20251003024000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251003023500 +0000" stop="20251003034500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251003024000 +0000" stop="20251003034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Indonesien</title>
 </programme>
 <programme start="20251003034500 +0000" stop="20251003043000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3183,10 +3183,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251003005500 +0000" stop="20251003014000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251003014000 +0000" stop="20251003023500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251003014000 +0000" stop="20251003024000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251003023500 +0000" stop="20251003034500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251003024000 +0000" stop="20251003034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Indonesien</title>
 </programme>
 <programme start="20251003034500 +0000" stop="20251003043000 +0000" channel="Sky Sport Top Event HD.skyde">

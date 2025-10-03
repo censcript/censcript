@@ -1,7 +1,3 @@
-<programme start="20251003203000 +0700" stop="20251003223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: NK Celje - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251003223000 +0700" stop="20251004003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Celta - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -78,8 +74,12 @@
     <title>Football: Watford - Oxford United F.C. (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251003205000 +0700" stop="20251003224500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: FC Porto - FK Crvena Zvezda</title>
+<programme start="20251004230000 +0700" stop="20251004233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004233000 +0700" stop="20251005000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Football&#039;s Greatest IV E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003224500 +0700" stop="20251004004000 +0700" channel="COSMOTE Sport 2 HD">
@@ -150,10 +150,6 @@
     <title>Football: OFI - Aris (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251003210000 +0700" stop="20251003230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: PFC Ludogorets 1945 - Real Betis Balompie</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251003230000 +0700" stop="20251003233000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Copa Libertadores 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -214,13 +210,9 @@
     <title>Sports Classics: Worldies E22</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251003203500 +0700" stop="20251003223000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Al Ahli - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251003223000 +0700" stop="20251003230000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E36</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251004230000 +0700" stop="20251005010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Internazionale Milano - Cremonese (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251003230000 +0700" stop="20251004010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Tofas (L)</title>
@@ -281,10 +273,6 @@
 <programme start="20251004220000 +0700" stop="20251005010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Philadelphia 76ers - New York Knicks (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251003214000 +0700" stop="20251003223500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003223500 +0700" stop="20251003233000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
@@ -394,9 +382,9 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251003220000 +0700" stop="20251003223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251004234500 +0700" stop="20251005014500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: Heart of Midlothian - Hibernian (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251003223000 +0700" stop="20251004000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
@@ -448,6 +436,10 @@
 </programme>
 <programme start="20251004220000 +0700" stop="20251004230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004230000 +0700" stop="20251005013000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Nuno Borges - Stefanos Tsitsipas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003220000 +0700" stop="20251004000000 +0700" channel="COSMOTE Sport 7 HD">
@@ -522,6 +514,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251004230000 +0700" stop="20251005004500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Handball: SC DHfK Leipzig - SG Flensburg-Handewitt (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251003220000 +0700" stop="20251004000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -585,6 +581,10 @@
 <programme start="20251004223000 +0700" stop="20251004230000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251004230000 +0700" stop="20251005010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251003220000 +0700" stop="20251004000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
