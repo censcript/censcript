@@ -3271,14 +3271,8 @@
     <programme start="20251003173000 +0000" stop="20251003220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251003220000 +0000" stop="20251003230000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20251003220000 +0000" stop="20251004003000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
-    </programme>
-    <programme start="20251003230000 +0000" stop="20251004000000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>ICC Women&#039;s Cricket World Cup 2025: M02 - Australia vs New Zealand HLs</title>
-    </programme>
-    <programme start="20251004000000 +0000" stop="20251004080000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>ICC Women&#039;s Cricket World Cup 2025: M03 - Bangladesh vs Pakistan</title>
     </programme>
     <programme start="20251004080000 +0000" stop="20251004090000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Women&#039;s Cricket World Cup 2025: M03 - Bangladesh vs Pakistan HLs</title>
