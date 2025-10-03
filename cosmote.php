@@ -70,10 +70,6 @@
     <title>Football: Celta - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251003103000 +0700" stop="20251003124500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Levadiakos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251003124500 +0700" stop="20251003131500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Football&#039;s Greatest IV E2</title>
     <desc>Live: Tidak</desc>
@@ -148,10 +144,6 @@
 </programme>
 <programme start="20251004123500 +0700" stop="20251004145000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Levadiakos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251003110000 +0700" stop="20251003130000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Livingston - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251003130000 +0700" stop="20251003150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -274,14 +266,6 @@
     <title>Basketball: Unicaja - NBA G League United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251003111500 +0700" stop="20251003121000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251003121000 +0700" stop="20251003130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251003130000 +0700" stop="20251003135500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -388,6 +372,10 @@
 </programme>
 <programme start="20251004124000 +0700" stop="20251004134500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251004134500 +0700" stop="20251004150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251003113000 +0700" stop="20251003150000 +0700" channel="COSMOTE Sport 6 HD">

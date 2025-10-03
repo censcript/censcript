@@ -631,38 +631,59 @@
     <programme start="20251003150000 +0000" stop="20251003164000 +0000" channel="now-80s.mewatch">
         <title>I&#039;ve Had Enough! I&#039;m Going Solo! - EP1</title>
     </programme>
-    <programme start="20251002160000 +0000" stop="20251002210000 +0000" channel="now-70s.mewatch">
-        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
+    <programme start="20251002160000 +0000" stop="20251002170000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1975 - EP1</title>
     </programme>
-    <programme start="20251002210000 +0000" stop="20251002232500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Disco Explosion! - EP1</title>
+    <programme start="20251002170000 +0000" stop="20251002180000 +0000" channel="now-70s.mewatch">
+        <title>The USA&#039;s Best Sellers of the 70s! - EP1</title>
     </programme>
-    <programme start="20251002232500 +0000" stop="20251003000000 +0000" channel="now-70s.mewatch">
-        <title>Disco Fever! - EP1</title>
+    <programme start="20251002180000 +0000" stop="20251002190000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
     </programme>
-    <programme start="20251003000000 +0000" stop="20251003020000 +0000" channel="now-70s.mewatch">
-        <title>Gone...But Not Forgotten Top 25 - EP1</title>
+    <programme start="20251002190000 +0000" stop="20251002210000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Surely Not A Cover?! - EP1</title>
     </programme>
-    <programme start="20251003020000 +0000" stop="20251003064500 +0000" channel="now-70s.mewatch">
-        <title>70s v 80s Mixtape! - EP1</title>
+    <programme start="20251002210000 +0000" stop="20251002230000 +0000" channel="now-70s.mewatch">
+        <title>That&#039;s Not My Name! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251003064500 +0000" stop="20251003070000 +0000" channel="now-70s.mewatch">
-        <title>Spring Has Sprung! - EP1</title>
+    <programme start="20251002230000 +0000" stop="20251003010000 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s 25 Biggest Pop Groups! - EP1</title>
     </programme>
-    <programme start="20251003070000 +0000" stop="20251003093000 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20251003010000 +0000" stop="20251003020000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1974 - EP1</title>
     </programme>
-    <programme start="20251003093000 +0000" stop="20251003103000 +0000" channel="now-70s.mewatch">
-        <title>Bam&#039;s Power Hours! 1970-1979 - EP1</title>
+    <programme start="20251003020000 +0000" stop="20251003030000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1973 - EP1</title>
     </programme>
-    <programme start="20251003103000 +0000" stop="20251003151000 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20251003030000 +0000" stop="20251003040000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1972 - EP1</title>
     </programme>
-    <programme start="20251003151000 +0000" stop="20251003160000 +0000" channel="now-70s.mewatch">
-        <title>Saturday Night&#039;s Alright! - EP1</title>
+    <programme start="20251003040000 +0000" stop="20251003045000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1971 - EP1</title>
     </programme>
-    <programme start="20251003160000 +0000" stop="20251003203500 +0000" channel="now-70s.mewatch">
-        <title>The NOW 100 of the 70s - EP1</title>
+    <programme start="20251003045000 +0000" stop="20251003050000 +0000" channel="now-70s.mewatch">
+        <title>1971 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251003050000 +0000" stop="20251003060000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1970 - EP1</title>
+    </programme>
+    <programme start="20251003060000 +0000" stop="20251003070000 +0000" channel="now-70s.mewatch">
+        <title>1970 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251003070000 +0000" stop="20251003100000 +0000" channel="now-70s.mewatch">
+        <title>Love Is In The Air! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20251003100000 +0000" stop="20251003131000 +0000" channel="now-70s.mewatch">
+        <title>Pat Sharp&#039;s Karaoke Party! - EP1</title>
+    </programme>
+    <programme start="20251003131000 +0000" stop="20251003140000 +0000" channel="now-70s.mewatch">
+        <title>It&#039;s A MASSIVE 70s Party Night! - EP1</title>
+    </programme>
+    <programme start="20251003140000 +0000" stop="20251003160000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1978 Party...Ever! - EP1</title>
+    </programme>
+    <programme start="20251003160000 +0000" stop="20251003170000 +0000" channel="now-70s.mewatch">
+        <title>American No.1s of 1970 - EP1</title>
     </programme>
     <programme start="20251002160000 +0000" stop="20251003160000 +0000" channel="trace-urban.mewatch">
         <title>No Programme Available</title>
