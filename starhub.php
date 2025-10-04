@@ -2243,7 +2243,7 @@
         <title>Movie - Sathriyan</title>
     </programme>
     <programme start="20251004073000 +0000" stop="20251004103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Idhaya thirudan</title>
+        <title>Movie - Idhaya Thirudan</title>
     </programme>
     <programme start="20251004103000 +0000" stop="20251004133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Osthe</title>

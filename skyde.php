@@ -2596,19 +2596,19 @@
 <programme start="20251004143000 +0000" stop="20251004145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251004145000 +0000" stop="20251004170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251004145000 +0000" stop="20251004180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - RZ Pellets WAC, 9. Runde</title>
 </programme>
 <programme start="20251004143000 +0000" stop="20251004145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251004145000 +0000" stop="20251004170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251004145000 +0000" stop="20251004180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - WSG Tirol, 9. Runde</title>
 </programme>
 <programme start="20251003220000 +0000" stop="20251004043000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Es folgt: Live ATP World Tour</title>
+    <title>Es folgt: ab 06:30 Live ATP World Tour</title>
 </programme>
-<programme start="20251004043000 +0000" stop="20251004143000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251004043000 +0000" stop="20251004170000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 4. Tag</title>
 </programme>
 <programme start="20251003230000 +0000" stop="20251003234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2752,7 +2752,7 @@
 <programme start="20251004180000 +0000" stop="20251004210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Karlsruher SC, tipico Topspiel der Woche, 8. Spieltag</title>
 </programme>
-<programme start="20251004210000 +0000" stop="20251004223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251004210000 +0000" stop="20251004220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 8. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2779,7 +2779,7 @@
 <programme start="20251004130000 +0000" stop="20251004131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCA - WOB: tipico Countdown, 6. Spieltag</title>
 </programme>
-<programme start="20251004131500 +0000" stop="20251004160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251004131500 +0000" stop="20251004154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FC Augsburg - VfL Wolfsburg, 6. Spieltag</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2914,19 +2914,19 @@
 <programme start="20251004002500 +0000" stop="20251004003500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Best Starts 2024</title>
 </programme>
-<programme start="20251004003500 +0000" stop="20251004011500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251004003500 +0000" stop="20251004012000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251004011500 +0000" stop="20251004020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251004012000 +0000" stop="20251004020500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 2. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251004020000 +0000" stop="20251004024500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251004020500 +0000" stop="20251004025000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 2. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251004024500 +0000" stop="20251004040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251004025000 +0000" stop="20251004040500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Qualifying - GP Indonesien</title>
 </programme>
-<programme start="20251004040000 +0000" stop="20251004042000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251004040500 +0000" stop="20251004042000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Tales of Valentino - The Rivalry</title>
 </programme>
 <programme start="20251004042000 +0000" stop="20251004044000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3204,6 +3204,18 @@
 </programme>
 <programme start="20251004150000 +0000" stop="20251004190000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live NBA: New York Knicks @ Philadelphia 76ers, Abu Dhabi Games 2025</title>
+</programme>
+<programme start="20251003220000 +0000" stop="20251004070000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: ab 09:00:  Live Tennis WTA Tour</title>
+</programme>
+<programme start="20251004070000 +0000" stop="20251004090000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 1000: C. Gauff (USA) - A. Anisimova (USA), China Open in Peking (China), Halbfinale 1</title>
+</programme>
+<programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: ab 12:00: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20251004100000 +0000" stop="20251004140000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 1000: J. Pegula (USA) - L. Noskova (CZE), China Open in Peking (China), Halbfinale 2</title>
 </programme>
 <programme start="20251003222500 +0000" stop="20251003231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
