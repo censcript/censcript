@@ -4312,11 +4312,8 @@
     <programme start="20251003160000 +0000" stop="20251003200000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Compliance Solutions Championship Round 2</title>
     </programme>
-    <programme start="20251003200000 +0000" stop="20251003230000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Sanderson Farms Championship Round 2</title>
-    </programme>
     <programme start="20251003230000 +0000" stop="20251004020000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Lotte Championship Round 3</title>
+        <title>Lotte Championship presented by Hoakalei Round 3</title>
     </programme>
     <programme start="20251004020000 +0000" stop="20251004040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
