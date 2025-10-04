@@ -526,15 +526,6 @@
 <programme start="20251004013000 +0000" stop="20251004023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
-<programme start="20251004023000 +0000" stop="20251004040000 +0000" channel="Trans 7.vision">
-<title>Kualifikasi MotoGP Mandalika</title>
-</programme>
-<programme start="20251004043000 +0000" stop="20251004064500 +0000" channel="Trans 7.vision">
-<title>Kualifikasi MotoGP Mandalika</title>
-</programme>
-<programme start="20251004064500 +0000" stop="20251004080000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race Mandalika</title>
-</programme>
 <programme start="20251004080000 +0000" stop="20251004090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -636,9 +627,6 @@
 </programme>
 <programme start="20251004093000 +0000" stop="20251004110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251004110000 +0000" stop="20251004123000 +0000" channel="ANTV.vision">
-<title>Perkawinan Nyi Blorong</title>
 </programme>
 <programme start="20251004123000 +0000" stop="20251004143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20251005083000 +0000" stop="20251005093000 +0000" channel="BTV.vision">
 <title>Cocoklogi</title>
+</programme>
+<programme start="20251005093000 +0000" stop="20251005103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251005103000 +0000" stop="20251005110000 +0000" channel="BTV.vision">
+<title>Ekspos</title>
+</programme>
+<programme start="20251005110000 +0000" stop="20251005120000 +0000" channel="BTV.vision">
+<title>Jendela Dunia</title>
+</programme>
+<programme start="20251003232000 +0000" stop="20251004005000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
