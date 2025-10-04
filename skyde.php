@@ -1045,87 +1045,6 @@
 <programme start="20251004211500 +0000" stop="20251004224500 +0000" channel="Heimatkanal.skyde">
     <title>Meine Tochter und ich</title>
 </programme>
-<programme start="20251003224500 +0000" stop="20251003233000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Schlaue Schwärme</title>
-</programme>
-<programme start="20251003233000 +0000" stop="20251004002000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Britanniens Agentinnen im Zweiten Weltkrieg</title>
-</programme>
-<programme start="20251004002000 +0000" stop="20251004011000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Britanniens Agentinnen im Zweiten Weltkrieg</title>
-</programme>
-<programme start="20251004011000 +0000" stop="20251004020000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>War Gamers - Heldinnen der Royal Navy</title>
-</programme>
-<programme start="20251004020000 +0000" stop="20251004025500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>War Gamers - Heldinnen der Royal Navy</title>
-</programme>
-<programme start="20251004025500 +0000" stop="20251004034000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Oak Island - Fluch und Legende</title>
-</programme>
-<programme start="20251004034000 +0000" stop="20251004043000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Oak Island - Fluch und Legende</title>
-</programme>
-<programme start="20251004043000 +0000" stop="20251004051500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251004051500 +0000" stop="20251004060000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20251004060000 +0000" stop="20251004064500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Vom Kind zum Krieger</title>
-</programme>
-<programme start="20251004064500 +0000" stop="20251004073500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Vom Kind zum Krieger</title>
-</programme>
-<programme start="20251004073500 +0000" stop="20251004082500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Vom Kind zum Krieger</title>
-</programme>
-<programme start="20251004082500 +0000" stop="20251004091500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Vom Kind zum Krieger</title>
-</programme>
-<programme start="20251004091500 +0000" stop="20251004100500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Vom Kind zum Krieger</title>
-</programme>
-<programme start="20251004100500 +0000" stop="20251004105500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Vom Kind zum Krieger</title>
-</programme>
-<programme start="20251004105500 +0000" stop="20251004115000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004115000 +0000" stop="20251004124500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004124500 +0000" stop="20251004134000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004134000 +0000" stop="20251004143500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004143500 +0000" stop="20251004153000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004153000 +0000" stop="20251004162500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004162500 +0000" stop="20251004172000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004172000 +0000" stop="20251004181500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
-<programme start="20251004181500 +0000" stop="20251004193000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ein Tag im Oktober</title>
-</programme>
-<programme start="20251004193000 +0000" stop="20251004203000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Expedition Santorini</title>
-</programme>
-<programme start="20251004203000 +0000" stop="20251004214500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Idris Elba auf den Spuren des Goldes</title>
-</programme>
-<programme start="20251004214500 +0000" stop="20251004224000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ägypten - Welt der Pharaonen</title>
-</programme>
 <programme start="20251003220000 +0000" stop="20251004000000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX DANCE</title>
 </programme>
@@ -2865,51 +2784,6 @@
 </programme>
 <programme start="20251004211500 +0000" stop="20251004224500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Singapur</title>
-</programme>
-<programme start="20251003223000 +0000" stop="20251003224500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights DGL Final Four</title>
-</programme>
-<programme start="20251003224500 +0000" stop="20251003230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Follow the Pros (4)</title>
-</programme>
-<programme start="20251003230000 +0000" stop="20251004020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Alfred Dunhill Links Championship, 2. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
-</programme>
-<programme start="20251004020000 +0000" stop="20251004040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Sanderson Farms Championship, 2. Tag in Jackson, MS (USA)</title>
-</programme>
-<programme start="20251004043000 +0000" stop="20251004063000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Ryder Cup: 40th Anniversary Match (1985 - 2025)</title>
-</programme>
-<programme start="20251004063000 +0000" stop="20251004093000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Alfred Dunhill Links Championship, 2. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
-</programme>
-<programme start="20251004093000 +0000" stop="20251004094500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights DGL Final Four</title>
-</programme>
-<programme start="20251004094500 +0000" stop="20251004100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Follow the Pros (4)</title>
-</programme>
-<programme start="20251004100000 +0000" stop="20251004101500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Projekt 0 (4)</title>
-</programme>
-<programme start="20251004101500 +0000" stop="20251004110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tiger 2000</title>
-</programme>
-<programme start="20251004110000 +0000" stop="20251004160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: Alfred Dunhill Links Championship, 3. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
-</programme>
-<programme start="20251004160000 +0000" stop="20251004183000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Sanderson Farms Championship, 2. Tag in Jackson, MS (USA)</title>
-</programme>
-<programme start="20251004183000 +0000" stop="20251004191500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
-</programme>
-<programme start="20251004191500 +0000" stop="20251004200000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Legend of Bernhard Langer</title>
-</programme>
-<programme start="20251004200000 +0000" stop="20251004230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live Golf: Sanderson Farms Championship, 3. Tag in Jackson, MS (USA)</title>
 </programme>
 <programme start="20251003225500 +0000" stop="20251004001500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP Indonesien</title>
