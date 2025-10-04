@@ -8134,14 +8134,17 @@
     <programme start="20251004152500 +0000" stop="20251004161500 +0000" channel="ABC Australia HD.starhub">
         <title>World Series Cricket S1</title>
     </programme>
-    <programme start="20251003072000 +0000" stop="20251003192000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251003072000 +0000" stop="20251003163000 +0000" channel="Asianet Movies.starhub">
         <title>Loud Speaker</title>
     </programme>
-    <programme start="20251003192000 +0000" stop="20251003213000 +0000" channel="Asianet Movies.starhub">
-        <title>Loud Speaker</title>
+    <programme start="20251003163000 +0000" stop="20251003192000 +0000" channel="Asianet Movies.starhub">
+        <title>Forensic</title>
     </programme>
-    <programme start="20251003213000 +0000" stop="20251003233000 +0000" channel="Asianet Movies.starhub">
-        <title>Vallikkudilile Vellakkaran</title>
+    <programme start="20251003192000 +0000" stop="20251003211500 +0000" channel="Asianet Movies.starhub">
+        <title>Njandukalude Nattil Oridavela</title>
+    </programme>
+    <programme start="20251003211500 +0000" stop="20251003230000 +0000" channel="Asianet Movies.starhub">
+        <title>Thaskara Lahala</title>
     </programme>
     <programme start="20251003230000 +0000" stop="20251004013000 +0000" channel="Asianet Movies.starhub">
         <title>Koode</title>

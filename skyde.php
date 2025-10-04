@@ -2590,7 +2590,7 @@
 <programme start="20251004143000 +0000" stop="20251004145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251004145000 +0000" stop="20251004170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251004145000 +0000" stop="20251004180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
 <programme start="20251004143000 +0000" stop="20251004145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3208,23 +3208,23 @@
 <programme start="20251004210000 +0000" stop="20251004230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Sanderson Farms Championship, 3. Tag in Jackson, MS (USA)</title>
 </programme>
-<programme start="20251003220000 +0000" stop="20251004070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251004144000 +0000" stop="20251004150000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Es folgt: Basketball NBA</title>
+</programme>
+<programme start="20251004150000 +0000" stop="20251004190000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live NBA: New York Knicks @ Philadelphia 76ers, Abu Dhabi Games 2025</title>
+</programme>
+<programme start="20251003220000 +0000" stop="20251004070000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: ab 09:00:  Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251004070000 +0000" stop="20251004090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251004070000 +0000" stop="20251004090000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Anisimova (USA), China Open in Peking (China), Halbfinale 1</title>
 </programme>
-<programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: ab 12:00: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251004100000 +0000" stop="20251004120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: tba - L. Noskova (CZE), China Open in Peking (China), Halbfinale 2</title>
-</programme>
-<programme start="20251004144000 +0000" stop="20251004150000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
-</programme>
-<programme start="20251004150000 +0000" stop="20251004173000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Live NBA: New York Knicks @ Philadelphia 76ers, Abu Dhabi Games 2025</title>
+<programme start="20251004100000 +0000" stop="20251004140000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 1000: J. Pegula (USA) - L. Noskova (CZE), China Open in Peking (China), Halbfinale 2</title>
 </programme>
 <programme start="20251003222500 +0000" stop="20251003231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
