@@ -4129,14 +4129,17 @@
     <programme start="20251004230000 +0000" stop="20251005020000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Lotte Championship presented by Hoakalei Round 4</title>
     </programme>
-    <programme start="20251005020000 +0000" stop="20251005040000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20251005020000 +0000" stop="20251005030000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251005040000 +0000" stop="20251005080000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20251005030000 +0000" stop="20251005070000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Jakarta International Championship Round 4</title>
     </programme>
-    <programme start="20251005080000 +0000" stop="20251005103000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20251005070000 +0000" stop="20251005100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Sanderson Farms Championship Round 3</title>
+    </programme>
+    <programme start="20251005100000 +0000" stop="20251005103000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Keegan</title>
     </programme>
     <programme start="20251005103000 +0000" stop="20251005160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Alfred Dunhill Links Championship Day 4</title>
