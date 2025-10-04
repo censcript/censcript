@@ -835,9 +835,6 @@
 <programme start="20251004140000 +0000" stop="20251004150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
 </programme>
-<programme start="20251004150000 +0000" stop="20251004160000 +0000" channel="TVOne.vision">
-<title>One Pride MMA</title>
-</programme>
 <programme start="20251004160000 +0000" stop="20251004163000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Jendela Dunia</title>
 </programme>
 <programme start="20251003232000 +0000" stop="20251004005000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251004005000 +0000" stop="20251004022000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
