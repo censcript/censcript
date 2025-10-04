@@ -526,6 +526,18 @@
 <programme start="20251004013000 +0000" stop="20251004023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
+<programme start="20251004023000 +0000" stop="20251004040000 +0000" channel="Trans 7.vision">
+<title>Kualifikasi MotoGP Mandalika</title>
+</programme>
+<programme start="20251004040000 +0000" stop="20251004043000 +0000" channel="Trans 7.vision">
+<title>Mandalika Breaking Zone 2025</title>
+</programme>
+<programme start="20251004043000 +0000" stop="20251004064500 +0000" channel="Trans 7.vision">
+<title>Kualifikasi MotoGP Mandalika</title>
+</programme>
+<programme start="20251004064500 +0000" stop="20251004080000 +0000" channel="Trans 7.vision">
+<title>MotoGP Sprint Race Mandalika</title>
+</programme>
 <programme start="20251004080000 +0000" stop="20251004090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -613,6 +625,9 @@
 <programme start="20251004000000 +0000" stop="20251004010000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
 </programme>
+<programme start="20251004010000 +0000" stop="20251004033000 +0000" channel="ANTV.vision">
+<title>Raja Dangdut</title>
+</programme>
 <programme start="20251004033000 +0000" stop="20251004050000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
@@ -627,6 +642,9 @@
 </programme>
 <programme start="20251004093000 +0000" stop="20251004110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251004110000 +0000" stop="20251004123000 +0000" channel="ANTV.vision">
+<title>Perkawinan Nyi Blorong</title>
 </programme>
 <programme start="20251004123000 +0000" stop="20251004143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -834,6 +852,9 @@
 </programme>
 <programme start="20251004140000 +0000" stop="20251004150000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20251004150000 +0000" stop="20251004160000 +0000" channel="TVOne.vision">
+<title>One Pride MMA</title>
 </programme>
 <programme start="20251004160000 +0000" stop="20251004163000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
@@ -1476,25 +1497,4 @@
 </programme>
 <programme start="20251005070000 +0000" stop="20251005080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20251005080000 +0000" stop="20251005083000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20251005083000 +0000" stop="20251005093000 +0000" channel="BTV.vision">
-<title>Cocoklogi</title>
-</programme>
-<programme start="20251005093000 +0000" stop="20251005103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20251005103000 +0000" stop="20251005110000 +0000" channel="BTV.vision">
-<title>Ekspos</title>
-</programme>
-<programme start="20251005110000 +0000" stop="20251005120000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
-</programme>
-<programme start="20251003232000 +0000" stop="20251004005000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251004005000 +0000" stop="20251004022000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
