@@ -1216,37 +1216,37 @@
   <programme start="20251005222000 +0000" stop="20251006002500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Footgolf</title>
   </programme>
-  <programme start="20251006002500 +0000" stop="20251006012000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006002500 +0000" stop="20251006010500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Beach Volleyball</title>
   </programme>
-  <programme start="20251006012000 +0000" stop="20251006042500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006010500 +0000" stop="20251006041000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">ME 2025 v plávaní juniori</title>
   </programme>
-  <programme start="20251006042500 +0000" stop="20251006064500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006041000 +0000" stop="20251006062500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251006064500 +0000" stop="20251006085000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006062500 +0000" stop="20251006083000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G muži</title>
   </programme>
-  <programme start="20251006085000 +0000" stop="20251006102000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006083000 +0000" stop="20251006095500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20251006102000 +0000" stop="20251006112500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006095500 +0000" stop="20251006111500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20251006112500 +0000" stop="20251006132000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006111500 +0000" stop="20251006132000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd ženy</title>
   </programme>
-  <programme start="20251006132000 +0000" stop="20251006154500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006132000 +0000" stop="20251006153500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Hokej - Tipsport liga</title>
+  </programme>
+  <programme start="20251006153500 +0000" stop="20251006180500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20251006154500 +0000" stop="20251006182500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Squash - PSA World Tour</title>
+  <programme start="20251006180500 +0000" stop="20251006204000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - ENBL</title>
   </programme>
-  <programme start="20251006182500 +0000" stop="20251006204500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Futbal - Konferenčná liga</title>
-  </programme>
-  <programme start="20251006204500 +0000" stop="20251006222000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251006204000 +0000" stop="20251006221000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
   <programme start="20251005213000 +0000" stop="20251005223000 +0000" channel="WAU.webtv.sk">
@@ -3706,13 +3706,13 @@
   <programme start="20251005212600 +0000" stop="20251005222100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">MODERNA, AVANTGARDA: Příběh umění 1. poloviny 20. století (2/7)</title>
   </programme>
-  <programme start="20251005222100 +0000" stop="20251005230700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251005222100 +0000" stop="20251005230800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Elizabeth Taylorová: vzpurná superhvězda (2/3)</title>
   </programme>
-  <programme start="20251005230700 +0000" stop="20251005232200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251005230800 +0000" stop="20251005232300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hudební toulky se Zdeňkem Mahlerem</title>
   </programme>
-  <programme start="20251005232200 +0000" stop="20251006001200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251005232300 +0000" stop="20251006001200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Super Diva - Sedlák kavalír (4/13)</title>
   </programme>
   <programme start="20251006001200 +0000" stop="20251006004000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -4339,10 +4339,10 @@
   <programme start="20251006211000 +0000" stop="20251006221500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear XV (3)</title>
   </programme>
-  <programme start="20251005213000 +0000" stop="20251005222500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251005213000 +0000" stop="20251005222000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (11)</title>
   </programme>
-  <programme start="20251005222500 +0000" stop="20251005230500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251005222000 +0000" stop="20251005230500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (12)</title>
   </programme>
   <programme start="20251005230500 +0000" stop="20251005235500 +0000" channel="Prima Love SK.webtv.sk">
@@ -4351,10 +4351,10 @@
   <programme start="20251005235500 +0000" stop="20251006004500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">V hre je láska I (59)</title>
   </programme>
-  <programme start="20251006004500 +0000" stop="20251006013000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006004500 +0000" stop="20251006012500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy X (7)</title>
   </programme>
-  <programme start="20251006013000 +0000" stop="20251006021000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006012500 +0000" stop="20251006021000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy X (8)</title>
   </programme>
   <programme start="20251006021000 +0000" stop="20251006034500 +0000" channel="Prima Love SK.webtv.sk">
@@ -4363,37 +4363,37 @@
   <programme start="20251006034500 +0000" stop="20251006040000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20251006040000 +0000" stop="20251006041000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006040000 +0000" stop="20251006041500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Relaxační podívaná</title>
   </programme>
-  <programme start="20251006041000 +0000" stop="20251006044500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006041500 +0000" stop="20251006044500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Šéfem za pár minut</title>
   </programme>
-  <programme start="20251006044500 +0000" stop="20251006051500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006044500 +0000" stop="20251006052000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Šéfem za pár minut</title>
   </programme>
-  <programme start="20251006051500 +0000" stop="20251006055000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006052000 +0000" stop="20251006055500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Šéfem za pár minut</title>
   </programme>
-  <programme start="20251006055000 +0000" stop="20251006070500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006055500 +0000" stop="20251006071000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfová!</title>
   </programme>
-  <programme start="20251006070500 +0000" stop="20251006081000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006071000 +0000" stop="20251006081000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (11)</title>
   </programme>
-  <programme start="20251006081000 +0000" stop="20251006090500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006081000 +0000" stop="20251006091000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (12)</title>
   </programme>
-  <programme start="20251006090500 +0000" stop="20251006101000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006091000 +0000" stop="20251006101500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">V hre je láska I (58)</title>
   </programme>
-  <programme start="20251006101000 +0000" stop="20251006111500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006101500 +0000" stop="20251006111500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">V hre je láska I (59)</title>
   </programme>
-  <programme start="20251006111500 +0000" stop="20251006121000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006111500 +0000" stop="20251006121500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy X (7)</title>
   </programme>
-  <programme start="20251006121000 +0000" stop="20251006131000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006121500 +0000" stop="20251006131000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy X (8)</title>
   </programme>
   <programme start="20251006131000 +0000" stop="20251006141000 +0000" channel="Prima Love SK.webtv.sk">
@@ -4402,10 +4402,10 @@
   <programme start="20251006141000 +0000" stop="20251006151000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (14)</title>
   </programme>
-  <programme start="20251006151000 +0000" stop="20251006161500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006151000 +0000" stop="20251006162000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfová!</title>
   </programme>
-  <programme start="20251006161500 +0000" stop="20251006171500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20251006162000 +0000" stop="20251006171500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">V hre je láska I (60)</title>
   </programme>
   <programme start="20251006171500 +0000" stop="20251006181500 +0000" channel="Prima Love SK.webtv.sk">
@@ -6124,8 +6124,11 @@
   <programme start="20251006010000 +0000" stop="20251006020000 +0000" channel="Travel Channel.webtv.sk">
     <title lang="id">Brány do pekla I (2)</title>
   </programme>
-  <programme start="20251006020000 +0000" stop="20251006040000 +0000" channel="Travel Channel.webtv.sk">
-    <title lang="id">Nalezení Amelie</title>
+  <programme start="20251006020000 +0000" stop="20251006030000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Pátrání po monstrech I (1)</title>
+  </programme>
+  <programme start="20251006030000 +0000" stop="20251006040000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Pátrání po monstrech I (2)</title>
   </programme>
   <programme start="20251006040000 +0000" stop="20251006050000 +0000" channel="Travel Channel.webtv.sk">
     <title lang="id">Zlatokopové Aljašky I (5)</title>

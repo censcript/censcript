@@ -3084,7 +3084,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251005125000 +0000" stop="20251005150000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251005125000 +0000" stop="20251005160000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: FC Everton - Crystal Palace, 7. Spieltag</title>
 </programme>
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport 7 HD.skyde">
