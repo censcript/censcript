@@ -2224,11 +2224,11 @@
     <programme start="20251003133000 +0000" stop="20251003170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Spyder</title>
     </programme>
-    <programme start="20251003170000 +0000" stop="20251003183000 +0000" channel="KTV HD.starhub">
+    <programme start="20251003170000 +0000" stop="20251003200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Settai</title>
     </programme>
-    <programme start="20251003183000 +0000" stop="20251003220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251003200000 +0000" stop="20251003223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Andha Naal</title>
     </programme>
     <programme start="20251003223000 +0000" stop="20251004010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Siragugal</title>
