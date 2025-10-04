@@ -2590,7 +2590,7 @@
 <programme start="20251004143000 +0000" stop="20251004145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251004145000 +0000" stop="20251004180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251004145000 +0000" stop="20251004170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
 <programme start="20251004143000 +0000" stop="20251004145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2725,7 +2725,7 @@
 <programme start="20251004154500 +0000" stop="20251004190000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - FC Bayern München, tipico Topspiel der Woche, 6. Spieltag</title>
 </programme>
-<programme start="20251004190000 +0000" stop="20251004203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251004190000 +0000" stop="20251004223000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 Extra - Die Fußballdebatte</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2752,7 +2752,7 @@
 <programme start="20251004180000 +0000" stop="20251004210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Karlsruher SC, tipico Topspiel der Woche, 8. Spieltag</title>
 </programme>
-<programme start="20251004210000 +0000" stop="20251004220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251004210000 +0000" stop="20251004223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 8. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2767,7 +2767,7 @@
 <programme start="20251004131500 +0000" stop="20251004154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Werder Bremen - FC St. Pauli, 6. Spieltag</title>
 </programme>
-<programme start="20251004154500 +0000" stop="20251004183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251004154500 +0000" stop="20251004210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: SGE - FCB, 6. Spieltag</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2779,7 +2779,7 @@
 <programme start="20251004130000 +0000" stop="20251004131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCA - WOB: tipico Countdown, 6. Spieltag</title>
 </programme>
-<programme start="20251004131500 +0000" stop="20251004154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251004131500 +0000" stop="20251004160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FC Augsburg - VfL Wolfsburg, 6. Spieltag</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2788,7 +2788,7 @@
 <programme start="20251004103000 +0000" stop="20251004130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - SV Darmstadt 98, 8. Spieltag</title>
 </programme>
-<programme start="20251004130000 +0000" stop="20251004153000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251004130000 +0000" stop="20251004160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Multiview, 6. Spieltag</title>
 </programme>
 <programme start="20251004101000 +0000" stop="20251004103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2800,7 +2800,7 @@
 <programme start="20251004130000 +0000" stop="20251004133000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 8. Spieltag, Samstag</title>
 </programme>
-<programme start="20251004133000 +0000" stop="20251004153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251004133000 +0000" stop="20251004160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Watch Party - Talk, News &amp; Analysen</title>
 </programme>
 <programme start="20251003230000 +0000" stop="20251004003000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2866,10 +2866,16 @@
 <programme start="20251004211500 +0000" stop="20251004224500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Singapur</title>
 </programme>
+<programme start="20251003223000 +0000" stop="20251003224500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights DGL Final Four</title>
+</programme>
+<programme start="20251003224500 +0000" stop="20251003230000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Follow the Pros (4)</title>
+</programme>
 <programme start="20251003230000 +0000" stop="20251004020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Alfred Dunhill Links Championship, 2. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
 </programme>
-<programme start="20251004020000 +0000" stop="20251004043000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251004020000 +0000" stop="20251004040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 2. Tag in Jackson, MS (USA)</title>
 </programme>
 <programme start="20251004043000 +0000" stop="20251004063000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3115,13 +3121,13 @@
 <programme start="20251004211000 +0000" stop="20251004231000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Manchester United - AFC Sunderland, 7. Spieltag</title>
 </programme>
-<programme start="20251003233000 +0000" stop="20251004020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251003220000 +0000" stop="20251004000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Y. Hanfmann (GER) - F. Tiafoe (USA), Rolex Shanghai Masters in Shanghai (China), 3. Tag</title>
+</programme>
+<programme start="20251004000000 +0000" stop="20251004022500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
 </programme>
-<programme start="20251004020000 +0000" stop="20251004023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20251004023000 +0000" stop="20251004043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251004022500 +0000" stop="20251004043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - F. Tiafoe (USA), Rolex Shanghai Masters in Shanghai (China), 3. Tag</title>
 </programme>
 <programme start="20251004043000 +0000" stop="20251004143000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3131,16 +3137,19 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251004150000 +0000" stop="20251004170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 4. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - V. Royer (FRA), Rolex Shanghai Masters in Shanghai (China), 4. Tag</title>
 </programme>
 <programme start="20251004170000 +0000" stop="20251004190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Anisimova (USA), China Open in Peking (China), Halbfinale 1</title>
 </programme>
 <programme start="20251004190000 +0000" stop="20251004210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: HF2, China Open in Peking (China), Halbfinale 2</title>
+    <title>WTA 1000: J. Pegula (USA) - L. Noskova (CZE), China Open in Peking (China), Halbfinale 2</title>
 </programme>
 <programme start="20251004210000 +0000" stop="20251004220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Tokio</title>
+</programme>
+<programme start="20251003223000 +0000" stop="20251003230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Meine Geschichte: Das Leben von Ralf Moeller</title>
 </programme>
 <programme start="20251003230000 +0000" stop="20251003233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Preview, 7. Spieltag (Freitag)</title>
@@ -3154,19 +3163,19 @@
 <programme start="20251004000000 +0000" stop="20251004003500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Meine Geschichte: Das Leben von Ralf Moeller</title>
 </programme>
-<programme start="20251004003500 +0000" stop="20251004011500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251004003500 +0000" stop="20251004012000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251004011500 +0000" stop="20251004020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251004012000 +0000" stop="20251004020500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: 2. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251004020000 +0000" stop="20251004024500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251004020500 +0000" stop="20251004025000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: 2. Freies Training - GP Indonesien</title>
 </programme>
-<programme start="20251004024500 +0000" stop="20251004040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251004025000 +0000" stop="20251004040500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Qualifying - GP Indonesien</title>
 </programme>
-<programme start="20251004040000 +0000" stop="20251004043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251004040500 +0000" stop="20251004043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Preview, 7. Spieltag (Freitag)</title>
 </programme>
 <programme start="20251004043000 +0000" stop="20251004063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3199,23 +3208,23 @@
 <programme start="20251004210000 +0000" stop="20251004230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Sanderson Farms Championship, 3. Tag in Jackson, MS (USA)</title>
 </programme>
-<programme start="20251004144000 +0000" stop="20251004150000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
-</programme>
-<programme start="20251004150000 +0000" stop="20251004190000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Live NBA: New York Knicks @ Philadelphia 76ers, Abu Dhabi Games 2025</title>
-</programme>
-<programme start="20251003220000 +0000" stop="20251004070000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251003220000 +0000" stop="20251004070000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 09:00:  Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251004070000 +0000" stop="20251004090000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251004070000 +0000" stop="20251004090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Anisimova (USA), China Open in Peking (China), Halbfinale 1</title>
 </programme>
-<programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20251004090000 +0000" stop="20251004100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 12:00: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251004100000 +0000" stop="20251004140000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live WTA 1000: J. Pegula (USA) - L. Noskova (CZE), China Open in Peking (China), Halbfinale 2</title>
+<programme start="20251004100000 +0000" stop="20251004120000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: tba - L. Noskova (CZE), China Open in Peking (China), Halbfinale 2</title>
+</programme>
+<programme start="20251004144000 +0000" stop="20251004150000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Es folgt: LIVE Basketball NBA</title>
+</programme>
+<programme start="20251004150000 +0000" stop="20251004173000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live NBA: New York Knicks @ Philadelphia 76ers, Abu Dhabi Games 2025</title>
 </programme>
 <programme start="20251003222500 +0000" stop="20251003231000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>

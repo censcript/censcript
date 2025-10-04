@@ -74,8 +74,8 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251004083000 +0700" stop="20251004103000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Hellas Verona - Sassuolo</title>
+<programme start="20251005110000 +0700" stop="20251005130000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AS Monaco FC - Manchester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251004103000 +0700" stop="20251004123500 +0700" channel="COSMOTE Sport 2 HD">
@@ -146,8 +146,8 @@
     <title>Football: Atalanta - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251004100000 +0700" stop="20251004103000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251005110000 +0700" stop="20251005130000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251004103000 +0700" stop="20251004140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -277,10 +277,6 @@
 <programme start="20251005100000 +0700" stop="20251005120000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Tofas</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251004094500 +0700" stop="20251004110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251004110000 +0700" stop="20251004111500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
@@ -437,6 +433,10 @@
 <programme start="20251005103000 +0700" stop="20251005113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251005113000 +0700" stop="20251005150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251004100000 +0700" stop="20251004120000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
