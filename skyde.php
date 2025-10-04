@@ -3061,6 +3061,60 @@
 <programme start="20251004213000 +0000" stop="20251004220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
+<programme start="20251003233000 +0000" stop="20251004000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: David James</title>
+</programme>
+<programme start="20251004000000 +0000" stop="20251004020000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: AFC Bournemouth - FC Fulham, 7. Spieltag</title>
+</programme>
+<programme start="20251004020000 +0000" stop="20251004040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Tottenham Hotspur - Wolverhampton Wanderers, 6. Spieltag</title>
+</programme>
+<programme start="20251004040000 +0000" stop="20251004050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Volleys</title>
+</programme>
+<programme start="20251004050000 +0000" stop="20251004053000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Icons: Dennis Bergkamp</title>
+</programme>
+<programme start="20251004053000 +0000" stop="20251004060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Liverpool - The Succession Story)</title>
+</programme>
+<programme start="20251004060000 +0000" stop="20251004080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: AFC Bournemouth - FC Fulham, 7. Spieltag</title>
+</programme>
+<programme start="20251004080000 +0000" stop="20251004083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Wayne Rooney</title>
+</programme>
+<programme start="20251004083000 +0000" stop="20251004085000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Ultimates: Frank Lampard&#039;s Best PL Goal</title>
+</programme>
+<programme start="20251004085000 +0000" stop="20251004105000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: AFC Bournemouth - FC Fulham, 7. Spieltag</title>
+</programme>
+<programme start="20251004105000 +0000" stop="20251004112000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Preview, 7. Spieltag</title>
+</programme>
+<programme start="20251004112000 +0000" stop="20251004135000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: Leeds United - Tottenham Hotspur, 7. Spieltag</title>
+</programme>
+<programme start="20251004135000 +0000" stop="20251004162000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Arsenal - West Ham United, 7. Spieltag</title>
+</programme>
+<programme start="20251004162000 +0000" stop="20251004183000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Chelsea - FC Liverpool, 7. Spieltag</title>
+</programme>
+<programme start="20251004183000 +0000" stop="20251004185000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 7. Spieltag</title>
+</programme>
+<programme start="20251004185000 +0000" stop="20251004205000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Leeds United - Tottenham Hotspur, 7. Spieltag</title>
+</programme>
+<programme start="20251004205000 +0000" stop="20251004211000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 7. Spieltag</title>
+</programme>
+<programme start="20251004211000 +0000" stop="20251004231000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Manchester United - AFC Sunderland, 7. Spieltag</title>
+</programme>
 <programme start="20251003233000 +0000" stop="20251004020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: C. Alcaraz (ESP) - T. Fritz (USA), Kinoshita Group Japan Open in Tokio (JPN), Finale</title>
 </programme>
@@ -3158,7 +3212,7 @@
     <title>Live WTA 1000: HF2, China Open in Peking (China), Halbfinale 2</title>
 </programme>
 <programme start="20251004144000 +0000" stop="20251004150000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: Basketball NBA</title>
+    <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
 <programme start="20251004150000 +0000" stop="20251004173000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live NBA: New York Knicks @ Philadelphia 76ers, Abu Dhabi Games 2025</title>

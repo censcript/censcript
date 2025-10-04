@@ -2230,14 +2230,26 @@
     <programme start="20251003183000 +0000" stop="20251003220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20251003220000 +0000" stop="20251004040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251003223000 +0000" stop="20251004010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Siragugal</title>
     </programme>
-    <programme start="20251004040000 +0000" stop="20251004100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251004010000 +0000" stop="20251004013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20251004100000 +0000" stop="20251004160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251004013000 +0000" stop="20251004043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Chennaieil Oru Naal</title>
+    </programme>
+    <programme start="20251004043000 +0000" stop="20251004073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sathriyan</title>
+    </programme>
+    <programme start="20251004073000 +0000" stop="20251004103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Idhaya thirudan</title>
+    </programme>
+    <programme start="20251004103000 +0000" stop="20251004133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Osthe</title>
+    </programme>
+    <programme start="20251004133000 +0000" stop="20251004170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Petta</title>
     </programme>
     <programme start="20251003160000 +0000" stop="20251003173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour 1000 2025: Shanghai Day 3 Match 1</title>
@@ -8131,26 +8143,23 @@
     <programme start="20251003213000 +0000" stop="20251003233000 +0000" channel="Asianet Movies.starhub">
         <title>Vallikkudilile Vellakkaran</title>
     </programme>
-    <programme start="20251003233000 +0000" stop="20251004013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251003230000 +0000" stop="20251004013000 +0000" channel="Asianet Movies.starhub">
         <title>Koode</title>
     </programme>
-    <programme start="20251004013000 +0000" stop="20251004043000 +0000" channel="Asianet Movies.starhub">
-        <title>Puthan Panam</title>
+    <programme start="20251004013000 +0000" stop="20251004043500 +0000" channel="Asianet Movies.starhub">
+        <title>Kochi Rajavu</title>
     </programme>
-    <programme start="20251004043000 +0000" stop="20251004072000 +0000" channel="Asianet Movies.starhub">
-        <title>Pulimurugan</title>
-    </programme>
-    <programme start="20251004072000 +0000" stop="20251004073000 +0000" channel="Asianet Movies.starhub">
-        <title>Njandukalude Nattil Oridavela</title>
+    <programme start="20251004043500 +0000" stop="20251004073000 +0000" channel="Asianet Movies.starhub">
+        <title>Janatha Garage</title>
     </programme>
     <programme start="20251004073000 +0000" stop="20251004103000 +0000" channel="Asianet Movies.starhub">
-        <title>Manjummel Boys</title>
+        <title>Sookshma Darshini</title>
     </programme>
     <programme start="20251004103000 +0000" stop="20251004133000 +0000" channel="Asianet Movies.starhub">
-        <title>Pushpa: The Rise - Part 1</title>
+        <title>Neymar</title>
     </programme>
-    <programme start="20251004133000 +0000" stop="20251004163000 +0000" channel="Asianet Movies.starhub">
-        <title>Neru</title>
+    <programme start="20251004133000 +0000" stop="20251004163500 +0000" channel="Asianet Movies.starhub">
+        <title>Minnal Murali</title>
     </programme>
     <programme start="20251003160000 +0000" stop="20251003170000 +0000" channel="Astro Warna HD.starhub">
         <title>Dia Bukan Manusia</title>
