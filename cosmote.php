@@ -114,8 +114,8 @@
     <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006013000 +0700" stop="20251006023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2024-25 - Highlights</title>
+<programme start="20251007034000 +0700" stop="20251007041000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006023000 +0700" stop="20251006031500 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,6 +246,10 @@
     <title>Basketball: Virtus Bologna - Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251007030000 +0700" stop="20251007050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Galatasaray - Tofas</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251006020000 +0700" stop="20251006043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Las Vegas Aces - Phoenix Mercury (L)</title>
     <desc>Live: Ya</desc>
@@ -338,9 +342,9 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006003000 +0700" stop="20251006023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Basketball: Bursaspor - Anadolu Efes (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251007032000 +0700" stop="20251007042500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006023000 +0700" stop="20251006070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025</title>
@@ -388,6 +392,10 @@
 </programme>
 <programme start="20251007013000 +0700" stop="20251007030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251007030000 +0700" stop="20251007043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006011500 +0700" stop="20251006031500 +0700" channel="COSMOTE Sport 7 HD">
