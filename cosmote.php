@@ -1,7 +1,3 @@
-<programme start="20251005150000 +0700" stop="20251005170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Chelsea FC - SL Benfica</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251005170000 +0700" stop="20251005173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E6</title>
     <desc>Live: Tidak</desc>
@@ -138,8 +134,8 @@
     <title>Football: Bologna - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251005150000 +0700" stop="20251005170000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Watford - Oxford United F.C.</title>
+<programme start="20251006171000 +0700" stop="20251006192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251005170000 +0700" stop="20251005190000 +0700" channel="COSMOTE Sport 3 HD">
@@ -282,8 +278,8 @@
     <title>Basketball: Las Vegas Aces - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251005152000 +0700" stop="20251005165500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251006175000 +0700" stop="20251006195000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Valencia Basket Club - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251005165500 +0700" stop="20251005183000 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,6 +370,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251006171000 +0700" stop="20251006184000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251005150000 +0700" stop="20251005190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -424,10 +424,6 @@
 </programme>
 <programme start="20251006150000 +0700" stop="20251006190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251005150000 +0700" stop="20251005161500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>ERC 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251005161500 +0700" stop="20251005170500 +0700" channel="COSMOTE Sport 7 HD">
