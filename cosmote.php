@@ -190,10 +190,6 @@
     <title>Football: Sporting CP - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006020000 +0700" stop="20251006043000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Philadelphia 76ers - New York Knicks</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006043000 +0700" stop="20251006063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Gran Canaria</title>
     <desc>Live: Tidak</desc>
@@ -250,9 +246,9 @@
     <title>Basketball: Galatasaray - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006020000 +0700" stop="20251006043000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Las Vegas Aces - Phoenix Mercury (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251007050000 +0700" stop="20251007064000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Utsunomiya Brex - Illawarra Hawks</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006043000 +0700" stop="20251006053500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -403,6 +399,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007043000 +0700" stop="20251007053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251007053000 +0700" stop="20251007063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
