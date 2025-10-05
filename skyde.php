@@ -948,33 +948,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005214500 +0000" stop="20251005220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251004220000 +0000" stop="20251005060000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20251005060000 +0000" stop="20251005080000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: Borussia Dortmund - RB Leipzig</title>
-</programme>
-<programme start="20251005080000 +0000" stop="20251005095500 +0000" channel="DAZN 2 HD.skyde">
-    <title>LaLiga 25/26: Real Madrid - FC Villarreal</title>
-</programme>
-<programme start="20251005095500 +0000" stop="20251005102500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251005102500 +0000" stop="20251005124000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Serie A 25/26: Udinese Calcio - Cagliari Calcio</title>
-</programme>
-<programme start="20251005124000 +0000" stop="20251005124500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Warm Up: Bundesliga Highlights</title>
-</programme>
-<programme start="20251005124500 +0000" stop="20251005160000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga: VFB Stuttgart - 1. FC Heidenheim</title>
-</programme>
-<programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251005163000 +0000" stop="20251005230500 +0000" channel="DAZN 2 HD.skyde">
-    <title>NFL Domestic: NFL ENDZN - Woche 5</title>
-</programme>
 <programme start="20251004224500 +0000" stop="20251004233000 +0000" channel="Heimatkanal.skyde">
     <title>Ich heirate eine Familie...</title>
 </programme>
