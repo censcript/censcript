@@ -1204,7 +1204,51 @@
 <programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 1000 2025: Shanghai</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251004173000 +0000" stop="20251004190000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Kitzbuhel</title>
+</programme>
+<programme start="20251004190000 +0000" stop="20251004203000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Kitzbuhel</title>
+</programme>
+<programme start="20251004203000 +0000" stop="20251004220000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Kitzbuhel</title>
+</programme>
+<programme start="20251004220000 +0000" stop="20251004233000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251004233000 +0000" stop="20251005010000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251005010000 +0000" stop="20251005023000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251005023000 +0000" stop="20251005030000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Off The Grid 2025, Ep 2</title>
+</programme>
+<programme start="20251005030000 +0000" stop="20251005043000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251005043000 +0000" stop="20251005063000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251005063000 +0000" stop="20251005083000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251005083000 +0000" stop="20251005103000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251005103000 +0000" stop="20251005123000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251005123000 +0000" stop="20251005143000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251005143000 +0000" stop="20251005160000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
 <programme start="20251004181000 +0000" stop="20251004200000 +0000" channel="beIN Sports 3.mncvision">
     <title>UEL 2025/26: PLZ Vs MFF</title>
 </programme>
@@ -2381,7 +2425,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251005163000 +0000" stop="20251004170000 +0000" channel="Channel News Asia.mncvision">
     <title>CNA Correspondent, Ep 22</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251004170000 +0000" stop="20251004190700 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251004190700 +0000" stop="20251004203900 +0000" channel="CINEEDGE.mncvision">
+    <title>Rampage</title>
+</programme>
+<programme start="20251004203900 +0000" stop="20251004224100 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251004224100 +0000" stop="20251005002000 +0000" channel="CINEEDGE.mncvision">
+    <title>Waist Deep</title>
+</programme>
+<programme start="20251005002000 +0000" stop="20251005022000 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251005022000 +0000" stop="20251005040300 +0000" channel="CINEEDGE.mncvision">
+    <title>Bridge Of Dragons</title>
+</programme>
+<programme start="20251005040300 +0000" stop="20251005060100 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251005060100 +0000" stop="20251005074400 +0000" channel="CINEEDGE.mncvision">
+    <title>One Shot</title>
+</programme>
+<programme start="20251005074400 +0000" stop="20251005093400 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251005093400 +0000" stop="20251005111200 +0000" channel="CINEEDGE.mncvision">
+    <title>Good People</title>
+</programme>
+<programme start="20251005111200 +0000" stop="20251005130400 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251005130400 +0000" stop="20251005144200 +0000" channel="CINEEDGE.mncvision">
+    <title>One Way</title>
+</programme>
+<programme start="20251005144200 +0000" stop="20251005163500 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20251005163500 +0000" stop="20251004170500 +0000" channel="CINEEDGE.mncvision">
+    <title>The Silencing</title>
+</programme>
 <programme start="20251004170000 +0000" stop="20251004190700 +0000" channel="CINEEDGE HD.mncvision">
     <title>Platinum</title>
 </programme>
@@ -7647,9 +7732,129 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="SCTV.mncvision">
     <title>Yowis Ben Finale</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251004183000 +0000" stop="20251004200000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Dua Romeo</title>
+</programme>
+<programme start="20251004200000 +0000" stop="20251004213000 +0000" channel="SCTV HD.mncvision">
+    <title>Because Of You</title>
+</programme>
+<programme start="20251004213000 +0000" stop="20251004220000 +0000" channel="SCTV HD.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20251004220000 +0000" stop="20251004231500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20251004231500 +0000" stop="20251004233000 +0000" channel="SCTV HD.mncvision">
+    <title>Point Of View</title>
+</programme>
+<programme start="20251004233000 +0000" stop="20251005000000 +0000" channel="SCTV HD.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20251005000000 +0000" stop="20251005013000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20251005013000 +0000" stop="20251005030000 +0000" channel="SCTV HD.mncvision">
+    <title>Sandiwara Cinta Pangeran...</title>
+</programme>
+<programme start="20251005030000 +0000" stop="20251005050000 +0000" channel="SCTV HD.mncvision">
+    <title>FTV Pagi</title>
+</programme>
+<programme start="20251005050000 +0000" stop="20251005053000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20251005053000 +0000" stop="20251005071500 +0000" channel="SCTV HD.mncvision">
+    <title>Super Sale Indonesia</title>
+</programme>
+<programme start="20251005071500 +0000" stop="20251005083000 +0000" channel="SCTV HD.mncvision">
+    <title>Diam Memperhatikan...</title>
+</programme>
+<programme start="20251005083000 +0000" stop="20251005100000 +0000" channel="SCTV HD.mncvision">
+    <title>Konser Rangga &amp; Cinta</title>
+</programme>
+<programme start="20251005100000 +0000" stop="20251005114500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20251005114500 +0000" stop="20251005131500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
+</programme>
+<programme start="20251005131500 +0000" stop="20251005144500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Di Bawah Tangan</title>
+</programme>
+<programme start="20251005144500 +0000" stop="20251005160000 +0000" channel="SCTV HD.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20251005160000 +0000" stop="20251005163000 +0000" channel="SCTV HD.mncvision">
+    <title>Yowis Ben Finale</title>
+</programme>
+<programme start="20251004170000 +0000" stop="20251004173000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20251004173000 +0000" stop="20251004180000 +0000" channel="Sindo News TV.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20251004180000 +0000" stop="20251004190000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20251004190000 +0000" stop="20251004200000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files Weekend</title>
+</programme>
+<programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20251004210000 +0000" stop="20251004220000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20251004220000 +0000" stop="20251004223000 +0000" channel="Sindo News TV.mncvision">
+    <title>Ayat-Ayat Langit</title>
+</programme>
+<programme start="20251004223000 +0000" stop="20251004233000 +0000" channel="Sindo News TV.mncvision">
+    <title>Lintas iNews Pagi</title>
+</programme>
+<programme start="20251004233000 +0000" stop="20251005003000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Files</title>
+</programme>
+<programme start="20251005003000 +0000" stop="20251005050000 +0000" channel="Sindo News TV.mncvision">
+    <title>HUT TNI Ke-80 (L)</title>
+</programme>
+<programme start="20251005050000 +0000" stop="20251005053000 +0000" channel="Sindo News TV.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20251005053000 +0000" stop="20251005060000 +0000" channel="Sindo News TV.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20251005060000 +0000" stop="20251005070000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20251005070000 +0000" stop="20251005083000 +0000" channel="Sindo News TV.mncvision">
+    <title>Breaking News</title>
+</programme>
+<programme start="20251005083000 +0000" stop="20251005093000 +0000" channel="Sindo News TV.mncvision">
+    <title>Top Issue</title>
+</programme>
+<programme start="20251005093000 +0000" stop="20251005110000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20251005110000 +0000" stop="20251005120000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files Weekend</title>
+</programme>
+<programme start="20251005120000 +0000" stop="20251005130000 +0000" channel="Sindo News TV.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20251005130000 +0000" stop="20251005133000 +0000" channel="Sindo News TV.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20251005133000 +0000" stop="20251005143000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20251005143000 +0000" stop="20251005153000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Room Weekend</title>
+</programme>
+<programme start="20251005153000 +0000" stop="20251005163000 +0000" channel="Sindo News TV.mncvision">
+    <title>Top Issue</title>
+</programme>
+<programme start="20251005163000 +0000" stop="20251004170000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
 <programme start="20251004170000 +0000" stop="20251004173000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8391,7 +8596,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251005163000 +0000" stop="20251004170000 +0000" channel="SPOTV HD.mncvision">
     <title>Wimbledon Official Film 2025</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251004174500 +0000" stop="20251004195000 +0000" channel="Studio Universal.mncvision">
+    <title>Couples Retreat</title>
+</programme>
+<programme start="20251004195000 +0000" stop="20251004230000 +0000" channel="Studio Universal.mncvision">
+    <title>Casino</title>
+</programme>
+<programme start="20251004230000 +0000" stop="20251005005500 +0000" channel="Studio Universal.mncvision">
+    <title>American Graffiti</title>
+</programme>
+<programme start="20251005005500 +0000" stop="20251005030000 +0000" channel="Studio Universal.mncvision">
+    <title>E.T. The Extra-Terrestrial</title>
+</programme>
+<programme start="20251005030000 +0000" stop="20251005050000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future</title>
+</programme>
+<programme start="20251005050000 +0000" stop="20251005070000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future, Pt 2</title>
+</programme>
+<programme start="20251005070000 +0000" stop="20251005090500 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future, Pt 3</title>
+</programme>
+<programme start="20251005090500 +0000" stop="20251005103500 +0000" channel="Studio Universal.mncvision">
+    <title>The Grinch</title>
+</programme>
+<programme start="20251005103500 +0000" stop="20251005121000 +0000" channel="Studio Universal.mncvision">
+    <title>The Lorax</title>
+</programme>
+<programme start="20251005121000 +0000" stop="20251005142500 +0000" channel="Studio Universal.mncvision">
+    <title>Miami Vice</title>
+</programme>
+<programme start="20251005142500 +0000" stop="20251005163500 +0000" channel="Studio Universal.mncvision">
+    <title>Oblivion</title>
+</programme>
+<programme start="20251005163500 +0000" stop="20251004170500 +0000" channel="Studio Universal.mncvision">
+    <title>Lucy</title>
+</programme>
 <programme start="20251004174500 +0000" stop="20251004195000 +0000" channel="Studio Universal HD.mncvision">
     <title>Couples Retreat</title>
 </programme>
@@ -9268,4 +9508,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251005150000 +0000" stop="20251005153000 +0000" channel="Vision Prime.mncvision">
     <title>Mission: Impossible Rouge...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251004170000 +0000" stop="20251004180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Intan</title>
+</programme>
+<programme start="20251004180000 +0000" stop="20251004190000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251004190000 +0000" stop="20251004200000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251004200000 +0000" stop="20251004210000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251004210000 +0000" stop="20251004215000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251004215000 +0000" stop="20251004224000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20251004224000 +0000" stop="20251004233000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251004233000 +0000" stop="20251005040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Acara Puncak HUT TNI Ke-80 (L)</title>
+</programme>
+<programme start="20251005040000 +0000" stop="20251005050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251005050000 +0000" stop="20251005070000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mission: Impossible Rouge...</title>
+</programme>
+<programme start="20251005070000 +0000" stop="20251005080000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ada Dua Cinta</title>
+</programme>
+<programme start="20251005080000 +0000" stop="20251005090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251005090000 +0000" stop="20251005100000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20251005100000 +0000" stop="20251005110000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terbelenggu Rindu</title>
+</programme>
+<programme start="20251005110000 +0000" stop="20251005120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Sepenuh Jiwa</title>
+</programme>
+<programme start="20251005120000 +0000" stop="20251005130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20251005130000 +0000" stop="20251005140000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dusta Di Balik Cinta</title>
+</programme>
+<programme start="20251005140000 +0000" stop="20251005143000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Roy &amp; Marten: Sahabat...</title>
+</programme>
+<programme start="20251005143000 +0000" stop="20251005150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Hindmata</title>
+</programme>
+<programme start="20251005150000 +0000" stop="20251005153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Mission: Impossible Rouge...</title>
+</programme>

@@ -2463,7 +2463,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005120000 +0000" stop="20251005122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251005122000 +0000" stop="20251005144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251005122000 +0000" stop="20251005160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: LASK - TSV Egger Glas Hartberg, 9. Runde</title>
 </programme>
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2472,13 +2472,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005125000 +0000" stop="20251005150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: Goal Rush, NEW - NFO, Premier League Konferenz, 7. Spieltag</title>
 </programme>
-<programme start="20251005150000 +0000" stop="20251005173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251005150000 +0000" stop="20251005180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Brentford - Manchester City, Match of the Week, 7. Spieltag</title>
 </programme>
-<programme start="20251005041000 +0000" stop="20251005043000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251004223000 +0000" stop="20251005043000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251005043000 +0000" stop="20251005143000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251005043000 +0000" stop="20251005160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 5. Tag</title>
 </programme>
 <programme start="20251004220000 +0000" stop="20251004221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2589,7 +2589,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005160000 +0000" stop="20251005173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251005173000 +0000" stop="20251005181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251005173000 +0000" stop="20251005190000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: HSV - M05, 6. Spieltag</title>
 </programme>
 <programme start="20251005104000 +0000" stop="20251005110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2598,7 +2598,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005110000 +0000" stop="20251005133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - FC Schalke 04, 8. Spieltag</title>
 </programme>
-<programme start="20251005151000 +0000" stop="20251005153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251005133000 +0000" stop="20251005153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Es folgt</title>
 </programme>
 <programme start="20251005153000 +0000" stop="20251005173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2607,19 +2607,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005173000 +0000" stop="20251005193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Hamburger SV - 1. FSV Mainz 05, 6. Spieltag</title>
 </programme>
-<programme start="20251005193000 +0000" stop="20251005213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251005193000 +0000" stop="20251005220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia M&#039;gladbach - SC Freiburg, 6. Spieltag</title>
 </programme>
 <programme start="20251005104000 +0000" stop="20251005110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251005110000 +0000" stop="20251005133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251005110000 +0000" stop="20251005140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - SV Elversberg, 8. Spieltag</title>
 </programme>
 <programme start="20251005104000 +0000" stop="20251005110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251005110000 +0000" stop="20251005133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251005110000 +0000" stop="20251005140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Hannover 96, 8. Spieltag</title>
 </programme>
 <programme start="20251004224500 +0000" stop="20251004234500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2707,7 +2707,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Rennen - GP Singapur</title>
 </programme>
 <programme start="20251004230000 +0000" stop="20251005020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Alfred Dunhill Links Championship, 3. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
+    <title>Golf: Alfred Dunhill Links Championship, 2. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
 </programme>
 <programme start="20251005020000 +0000" stop="20251005043000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 3. Tag in Jackson, MS (USA)</title>
@@ -2716,7 +2716,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Ryder Cup: 3. Tag in Farmingdale, NY (USA)</title>
 </programme>
 <programme start="20251005073000 +0000" stop="20251005103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Alfred Dunhill Links Championship, 3. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
+    <title>Golf: Alfred Dunhill Links Championship, 2. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
 </programme>
 <programme start="20251005103000 +0000" stop="20251005160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Alfred Dunhill Links Championship, 4. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
@@ -2724,10 +2724,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005160000 +0000" stop="20251005183000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 3. Tag in Jackson, MS (USA)</title>
 </programme>
-<programme start="20251005183000 +0000" stop="20251005193000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Underdogs</title>
-</programme>
-<programme start="20251005193000 +0000" stop="20251005223000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251005183000 +0000" stop="20251005223000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Sanderson Farms Championship, 4. Tag in Jackson, MS (USA)</title>
 </programme>
 <programme start="20251004231500 +0000" stop="20251005001500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2965,10 +2962,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 5. Tag</title>
 </programme>
 <programme start="20251005143000 +0000" stop="20251005170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Finale, China Open in Peking (China), Finale</title>
+    <title>WTA 1000: L. Nosková (CZE) - A. Anisimova (USA), China Open in Peking (China), Finale</title>
 </programme>
 <programme start="20251005170000 +0000" stop="20251005190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 5. Tag</title>
+    <title>ATP 1000: Y. Hanfmann (GER) - N. Djokovic (SRB), Rolex Shanghai Masters in Shanghai (China), 5. Tag</title>
 </programme>
 <programme start="20251005190000 +0000" stop="20251005193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -2977,7 +2974,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: J. Sinner (ITA) - L. Tien (USA), China Open in Peking (China), Finale</title>
 </programme>
 <programme start="20251005213000 +0000" stop="20251005233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 5. Tag</title>
+    <title>ATP 1000: Y. Hanfmann (GER) - N. Djokovic (SRB), Rolex Shanghai Masters in Shanghai (China), 5. Tag</title>
 </programme>
 <programme start="20251004230000 +0000" stop="20251004233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Highlights Samstag, 7. Spieltag</title>
@@ -3018,10 +3015,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005150000 +0000" stop="20251005173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: FC Brentford - Manchester City, Match of the Week, 7. Spieltag</title>
 </programme>
-<programme start="20251005173000 +0000" stop="20251005193000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen - GP Singapur</title>
+<programme start="20251005173000 +0000" stop="20251005183000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1 Academy: 1. Rennen - GP Singapur</title>
 </programme>
-<programme start="20251005193000 +0000" stop="20251005223000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251005183000 +0000" stop="20251005223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Sanderson Farms Championship, 4. Tag in Jackson, MS (USA)</title>
 </programme>
 <programme start="20251005053000 +0000" stop="20251005072000 +0000" channel="Sky Sport UHD.skyde">
@@ -3084,13 +3081,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251005125000 +0000" stop="20251005150000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251005125000 +0000" stop="20251005160000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: FC Everton - Crystal Palace, 7. Spieltag</title>
 </programme>
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251005125000 +0000" stop="20251005150000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251005125000 +0000" stop="20251005160000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Wolverhampton Wanderers - Brighton &amp; Hove Albion, 7. Spieltag</title>
 </programme>
 <programme start="20251004220500 +0000" stop="20251004225000 +0000" channel="SYFY HD.skyde">
