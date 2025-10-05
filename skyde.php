@@ -2457,7 +2457,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005120000 +0000" stop="20251005122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20251005122000 +0000" stop="20251005144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251005122000 +0000" stop="20251005160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SK Puntigamer Sturm Graz, 9. Runde</title>
 </programme>
 <programme start="20251005120000 +0000" stop="20251005122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3078,13 +3078,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251005104000 +0000" stop="20251005110000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251005110000 +0000" stop="20251005133000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live WTA 1000: Finale, China Open in Peking (China), Finale</title>
+<programme start="20251005110000 +0000" stop="20251005160000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live WTA 1000: L. Nosková (CZE) - A. Anisimova (USA), China Open in Peking (China), Finale</title>
 </programme>
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20251005125000 +0000" stop="20251005160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251005125000 +0000" stop="20251005150000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: FC Everton - Crystal Palace, 7. Spieltag</title>
 </programme>
 <programme start="20251005123000 +0000" stop="20251005125000 +0000" channel="Sky Sport 7 HD.skyde">
