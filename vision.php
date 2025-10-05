@@ -634,9 +634,6 @@
 <programme start="20251005000000 +0000" stop="20251005010000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
 </programme>
-<programme start="20251005010000 +0000" stop="20251005033000 +0000" channel="ANTV.vision">
-<title>Tabir Biru</title>
-</programme>
 <programme start="20251005033000 +0000" stop="20251005050000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
@@ -813,9 +810,6 @@
 </programme>
 <programme start="20251006113000 +0000" stop="20251006120000 +0000" channel="RTV.vision">
 <title>Armor Rangers</title>
-</programme>
-<programme start="20251004233000 +0000" stop="20251005040000 +0000" channel="TVOne.vision">
-<title>Kabar Khusus</title>
 </programme>
 <programme start="20251005040000 +0000" stop="20251005053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251005033000 +0000" stop="20251005050500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251005050500 +0000" stop="20251005064000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251005064000 +0000" stop="20251005082000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
