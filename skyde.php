@@ -1564,62 +1564,59 @@
 <programme start="20251006214000 +0000" stop="20251006220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250930225500 +0000" stop="20251001002500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wie von einem anderen Stern</title>
+<programme start="20251005225500 +0000" stop="20251006003000 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
 </programme>
-<programme start="20251001002500 +0000" stop="20251001004000 +0000" channel="Romance TV HD.skyde">
+<programme start="20251006003000 +0000" stop="20251006004500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20251001004000 +0000" stop="20251001020500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die Liebe ihres Lebens</title>
+<programme start="20251006004500 +0000" stop="20251006021500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die versprochene Braut</title>
 </programme>
-<programme start="20251001020500 +0000" stop="20251001022000 +0000" channel="Romance TV HD.skyde">
+<programme start="20251006021500 +0000" stop="20251006022000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251006022000 +0000" stop="20251006023500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20251001022000 +0000" stop="20251001022500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20251006023500 +0000" stop="20251006041000 +0000" channel="Romance TV HD.skyde">
+    <title>Zimmer mit Stall: Das Blaue vom Himmel</title>
 </programme>
-<programme start="20251001022500 +0000" stop="20251001023000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20251006041000 +0000" stop="20251006053500 +0000" channel="Romance TV HD.skyde">
+    <title>Der Duft von Apfelblüten</title>
 </programme>
-<programme start="20251001023000 +0000" stop="20251001040500 +0000" channel="Romance TV HD.skyde">
-    <title>Zimmer mit Stall: Schwein gehabt</title>
+<programme start="20251006053500 +0000" stop="20251006071000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Walvis Bay</title>
 </programme>
-<programme start="20251001040500 +0000" stop="20251001053500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Botswana</title>
+<programme start="20251006071000 +0000" stop="20251006084500 +0000" channel="Romance TV HD.skyde">
+    <title>Liebe, Babys und ein großes Herz - Neue Wege</title>
 </programme>
-<programme start="20251001053500 +0000" stop="20251001071000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Sommer auf Langeoog</title>
+<programme start="20251006084500 +0000" stop="20251006102000 +0000" channel="Romance TV HD.skyde">
+    <title>Käthe und ich: Im Schatten des Vaters</title>
 </programme>
-<programme start="20251001071000 +0000" stop="20251001084500 +0000" channel="Romance TV HD.skyde">
-    <title>Utta Danella: Eine Liebe im September</title>
+<programme start="20251006102000 +0000" stop="20251006115500 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
 </programme>
-<programme start="20251001084500 +0000" stop="20251001102000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumhotel: Dubai - Abu Dhabi</title>
+<programme start="20251006115500 +0000" stop="20251006133000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die versprochene Braut</title>
 </programme>
-<programme start="20251001102000 +0000" stop="20251001115500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wie von einem anderen Stern</title>
+<programme start="20251006133000 +0000" stop="20251006150500 +0000" channel="Romance TV HD.skyde">
+    <title>Die Nonne und der Kommissar: Der gefallene Engel</title>
 </programme>
-<programme start="20251001115500 +0000" stop="20251001132500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die Liebe ihres Lebens</title>
+<programme start="20251006150500 +0000" stop="20251006164000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Hanna und das gute Leben</title>
 </programme>
-<programme start="20251001132500 +0000" stop="20251001150000 +0000" channel="Romance TV HD.skyde">
-    <title>Käthe und ich: Der kleine Ritter</title>
+<programme start="20251006164000 +0000" stop="20251006181500 +0000" channel="Romance TV HD.skyde">
+    <title>Zimmer mit Stall: Kuhhandel</title>
 </programme>
-<programme start="20251001150000 +0000" stop="20251001164000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Shanghai</title>
+<programme start="20251006181500 +0000" stop="20251006194500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Kindermädchen: Mission Mauritius</title>
 </programme>
-<programme start="20251001164000 +0000" stop="20251001181500 +0000" channel="Romance TV HD.skyde">
-    <title>Zimmer mit Stall: Über alle Berge</title>
+<programme start="20251006194500 +0000" stop="20251006212000 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Spuren der Vergangenheit</title>
 </programme>
-<programme start="20251001181500 +0000" stop="20251001195000 +0000" channel="Romance TV HD.skyde">
-    <title>Kleine Eheverbrechen</title>
-</programme>
-<programme start="20251001195000 +0000" stop="20251001212000 +0000" channel="Romance TV HD.skyde">
-    <title>Woanders ist es auch nicht ruhiger</title>
-</programme>
-<programme start="20251001212000 +0000" stop="20251001225500 +0000" channel="Romance TV HD.skyde">
-    <title>Zimmer mit Stall: Über alle Berge</title>
+<programme start="20251006212000 +0000" stop="20251006225500 +0000" channel="Romance TV HD.skyde">
+    <title>Zimmer mit Stall: Kuhhandel</title>
 </programme>
 <programme start="20251005222500 +0000" stop="20251005233500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Mildred Pierce</title>
@@ -2563,17 +2560,11 @@
 <programme start="20251006213000 +0000" stop="20251006220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
 </programme>
-<programme start="20251005220000 +0000" stop="20251006043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251006041000 +0000" stop="20251006043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251006043000 +0000" stop="20251006170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251006043000 +0000" stop="20251006143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 6. Tag</title>
-</programme>
-<programme start="20251001183000 +0000" stop="20251001185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Es folgt: Live UEFA Champions League</title>
-</programme>
-<programme start="20251001185000 +0000" stop="20251001212000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Live UEFA CL: FC Arsenal - Olympiakos Piräus, Ligaphase, 2. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251005220000 +0000" stop="20251005230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 6. Spieltag</title>
@@ -2686,8 +2677,8 @@
 <programme start="20251006203000 +0000" stop="20251006223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - FC Bayern München, tipico Topspiel der Woche, 6. Spieltag</title>
 </programme>
-<programme start="20251005220000 +0000" stop="20251006000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Singapur</title>
+<programme start="20251005233000 +0000" stop="20251006000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: FIA Karting - Highlights: Cremona (ITA)</title>
 </programme>
 <programme start="20251006000000 +0000" stop="20251006003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Singapur</title>
@@ -3029,16 +3020,16 @@
     <title>WTA 1000: Review Peking</title>
 </programme>
 <programme start="20251006150000 +0000" stop="20251006170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), 6. Tag</title>
+    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 6. Tag</title>
 </programme>
 <programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Tokio</title>
 </programme>
 <programme start="20251006180000 +0000" stop="20251006200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: K. Siniakova (CZE) - D. Shnaider, Wuhan Open in Wuhan (CHN), 1. Tag</title>
+    <title>WTA 1000: Topspiel, Wuhan Open in Wuhan (CHN), 1. Tag</title>
 </programme>
 <programme start="20251006200000 +0000" stop="20251006220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), 6. Tag</title>
+    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 6. Tag</title>
 </programme>
 <programme start="20251005223000 +0000" stop="20251005233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Indonesien</title>
@@ -3124,7 +3115,7 @@
 <programme start="20251005220000 +0000" stop="20251006030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251006030000 +0000" stop="20251006170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251006030000 +0000" stop="20251006153000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 1. Tag</title>
 </programme>
 <programme start="20251005220500 +0000" stop="20251005225000 +0000" channel="SYFY HD.skyde">
