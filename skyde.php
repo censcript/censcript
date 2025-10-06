@@ -2839,60 +2839,6 @@
 <programme start="20251006210000 +0000" stop="20251006233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
 </programme>
-<programme start="20251005220000 +0000" stop="20251005233000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20251005233000 +0000" stop="20251006000000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20251006000000 +0000" stop="20251006010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL Kompakt: 6. Spieltag</title>
-</programme>
-<programme start="20251006010000 +0000" stop="20251006040000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20251006040000 +0000" stop="20251006060000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251006060000 +0000" stop="20251006070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL Kompakt: 6. Spieltag</title>
-</programme>
-<programme start="20251006070000 +0000" stop="20251006083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20251006083000 +0000" stop="20251006090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20251006090000 +0000" stop="20251006100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL Kompakt: 8. Spieltag</title>
-</programme>
-<programme start="20251006100000 +0000" stop="20251006130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20251006130000 +0000" stop="20251006160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20251006160000 +0000" stop="20251006170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Transfer Update: Die Show</title>
-</programme>
-<programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20251006180000 +0000" stop="20251006183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20251006183000 +0000" stop="20251006200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
-</programme>
-<programme start="20251006200000 +0000" stop="20251006203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20251006203000 +0000" stop="20251006213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show</title>
-</programme>
-<programme start="20251006213000 +0000" stop="20251006220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Late Night News</title>
-</programme>
 <programme start="20251005220500 +0000" stop="20251005223500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 7. Spieltag</title>
 </programme>
