@@ -274,7 +274,7 @@
     <programme start="20251006150000 +0000" stop="20251006153000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
-    <programme start="20251006153000 +0000" stop="20251006163000 +0000" channel="Zee Thirai.starhub">
+    <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="Zee Thirai.starhub">
         <title>Free Ticket</title>
     </programme>
     <programme start="20251005140000 +0000" stop="20251005170000 +0000" channel="Zee TV.starhub">
@@ -8062,19 +8062,19 @@
     <programme start="20251005193000 +0000" stop="20251005220000 +0000" channel="Asianet Movies.starhub">
         <title>Kammatti Paadam</title>
     </programme>
-    <programme start="20251005220000 +0000" stop="20251006013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251005230500 +0000" stop="20251006013000 +0000" channel="Asianet Movies.starhub">
         <title>Swarna Kaduva</title>
     </programme>
-    <programme start="20251006013000 +0000" stop="20251006043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006013000 +0000" stop="20251006042000 +0000" channel="Asianet Movies.starhub">
         <title>Best Actor</title>
     </programme>
-    <programme start="20251006043000 +0000" stop="20251006073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006042000 +0000" stop="20251006073000 +0000" channel="Asianet Movies.starhub">
         <title>Mambazhakkalam</title>
     </programme>
-    <programme start="20251006073000 +0000" stop="20251006103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006073000 +0000" stop="20251006104500 +0000" channel="Asianet Movies.starhub">
         <title>Bangalore Days</title>
     </programme>
-    <programme start="20251006103000 +0000" stop="20251006133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006104500 +0000" stop="20251006133000 +0000" channel="Asianet Movies.starhub">
         <title>Vellimoonga</title>
     </programme>
     <programme start="20251006133000 +0000" stop="20251006163000 +0000" channel="Asianet Movies.starhub">
