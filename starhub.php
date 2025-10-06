@@ -1990,14 +1990,20 @@
     <programme start="20251006100000 +0000" stop="20251006113000 +0000" channel="beIN Sports 3.starhub">
         <title>Milan P1 Day 1 Match 3</title>
     </programme>
-    <programme start="20251006113000 +0000" stop="20251006130000 +0000" channel="beIN Sports 3.starhub">
-        <title>Milan P1 Day 1 Match 4</title>
+    <programme start="20251006113000 +0000" stop="20251006120000 +0000" channel="beIN Sports 3.starhub">
+        <title>MD2 Review</title>
     </programme>
-    <programme start="20251006130000 +0000" stop="20251006143000 +0000" channel="beIN Sports 3.starhub">
-        <title>Milan P1 Day 1 Match 1</title>
+    <programme start="20251006120000 +0000" stop="20251006123000 +0000" channel="beIN Sports 3.starhub">
+        <title>RIDE FEI Originals 2025</title>
     </programme>
-    <programme start="20251006143000 +0000" stop="20251006153000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20251006123000 +0000" stop="20251006130000 +0000" channel="beIN Sports 3.starhub">
+        <title>July</title>
+    </programme>
+    <programme start="20251006130000 +0000" stop="20251006140000 +0000" channel="beIN Sports 3.starhub">
         <title>Matchday 6</title>
+    </programme>
+    <programme start="20251006140000 +0000" stop="20251006153000 +0000" channel="beIN Sports 3.starhub">
+        <title>Milan P1 Day 1 Match 4</title>
     </programme>
     <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="beIN Sports 3.starhub">
         <title>Riyadh P1</title>

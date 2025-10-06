@@ -481,11 +481,8 @@
     <programme start="20251006150000 +0000" stop="20251006153000 +0000" channel="Vasantham.mewatch">
         <title>Mellisai Hits S3 - EP 24</title>
     </programme>
-    <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20251006153000 +0000" stop="20251006161500 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20251006160000 +0000" stop="20251007010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20251005160000 +0000" stop="20251005160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
