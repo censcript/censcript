@@ -1,7 +1,3 @@
-<programme start="20251006183000 +0700" stop="20251006203000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FC Porto - FK Crvena Zvezda</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006203000 +0700" stop="20251006230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -114,12 +110,8 @@
     <title>Football: SSC Napoli - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006183000 +0700" stop="20251006203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - SL Benfica</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251006203000 +0700" stop="20251006210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2024-25 - Highlights</title>
+<programme start="20251007212000 +0700" stop="20251007233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006210000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +234,6 @@
     <title>Basketball: Las Vegas Aces - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006184000 +0700" stop="20251006201000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006201000 +0700" stop="20251006213000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
@@ -336,6 +324,10 @@
 </programme>
 <programme start="20251007205000 +0700" stop="20251007212000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251007212000 +0700" stop="20251007230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006190000 +0700" stop="20251006220000 +0700" channel="COSMOTE Sport 6 HD">
