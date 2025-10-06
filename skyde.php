@@ -136,10 +136,10 @@
 <programme start="20251005221500 +0000" stop="20251005222500 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20251005222500 +0000" stop="20251005223500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251005222500 +0000" stop="20251005224000 +0000" channel="Cartoon Network.skyde">
     <title>Steven Universe</title>
 </programme>
-<programme start="20251005223500 +0000" stop="20251005225000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251005224000 +0000" stop="20251005225000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251005225000 +0000" stop="20251005230000 +0000" channel="Cartoon Network.skyde">
@@ -148,13 +148,13 @@
 <programme start="20251005230000 +0000" stop="20251005231000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251005231000 +0000" stop="20251005232000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251005231000 +0000" stop="20251005232500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251005232000 +0000" stop="20251005233000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251005232500 +0000" stop="20251005233500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251005233000 +0000" stop="20251005234500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251005233500 +0000" stop="20251005234500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251005234500 +0000" stop="20251006001000 +0000" channel="Cartoon Network.skyde">
@@ -175,10 +175,10 @@
 <programme start="20251006005500 +0000" stop="20251006010500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006010500 +0000" stop="20251006011500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006010500 +0000" stop="20251006012000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006011500 +0000" stop="20251006014000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006012000 +0000" stop="20251006014000 +0000" channel="Cartoon Network.skyde">
     <title>Jade Armor</title>
 </programme>
 <programme start="20251006014000 +0000" stop="20251006015000 +0000" channel="Cartoon Network.skyde">
@@ -199,13 +199,13 @@
 <programme start="20251006023500 +0000" stop="20251006025000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006025000 +0000" stop="20251006031000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006025000 +0000" stop="20251006031500 +0000" channel="Cartoon Network.skyde">
     <title>Totally Spies!</title>
 </programme>
-<programme start="20251006031000 +0000" stop="20251006032000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006031500 +0000" stop="20251006032500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006032000 +0000" stop="20251006033500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006032500 +0000" stop="20251006033500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251006033500 +0000" stop="20251006034500 +0000" channel="Cartoon Network.skyde">
@@ -220,43 +220,43 @@
 <programme start="20251006041000 +0000" stop="20251006042000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006042000 +0000" stop="20251006043000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006042000 +0000" stop="20251006043500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006043000 +0000" stop="20251006044000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006043500 +0000" stop="20251006044500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006044000 +0000" stop="20251006045500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006044500 +0000" stop="20251006045500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251006045500 +0000" stop="20251006050500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006050500 +0000" stop="20251006051500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006050500 +0000" stop="20251006052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006051500 +0000" stop="20251006053000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006052000 +0000" stop="20251006053000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006053000 +0000" stop="20251006054000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006053000 +0000" stop="20251006054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006054000 +0000" stop="20251006055500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006054500 +0000" stop="20251006055500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006055500 +0000" stop="20251006060500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006055500 +0000" stop="20251006061000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006060500 +0000" stop="20251006061500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006061000 +0000" stop="20251006062000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006061500 +0000" stop="20251006063000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006062000 +0000" stop="20251006063500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006063000 +0000" stop="20251006064000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006063500 +0000" stop="20251006064500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006064000 +0000" stop="20251006065500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006064500 +0000" stop="20251006065500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251006065500 +0000" stop="20251006071000 +0000" channel="Cartoon Network.skyde">
@@ -286,19 +286,19 @@
 <programme start="20251006090500 +0000" stop="20251006092000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006092000 +0000" stop="20251006093000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006092000 +0000" stop="20251006093500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006093000 +0000" stop="20251006094500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006093500 +0000" stop="20251006095000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251006094500 +0000" stop="20251006095500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006095000 +0000" stop="20251006095500 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251006095500 +0000" stop="20251006100500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006095500 +0000" stop="20251006101000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20251006100500 +0000" stop="20251006102000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006101000 +0000" stop="20251006102000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20251006102000 +0000" stop="20251006103500 +0000" channel="Cartoon Network.skyde">
@@ -382,10 +382,10 @@
 <programme start="20251006155000 +0000" stop="20251006160000 +0000" channel="Cartoon Network.skyde">
     <title>Bunnicula</title>
 </programme>
-<programme start="20251006160000 +0000" stop="20251006161500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006160000 +0000" stop="20251006161000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20251006161500 +0000" stop="20251006162500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006161000 +0000" stop="20251006162500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
 <programme start="20251006162500 +0000" stop="20251006163500 +0000" channel="Cartoon Network.skyde">
@@ -403,10 +403,10 @@
 <programme start="20251006172500 +0000" stop="20251006174000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251006174000 +0000" stop="20251006175000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006174000 +0000" stop="20251006175500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251006175000 +0000" stop="20251006180500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006175500 +0000" stop="20251006180500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20251006180500 +0000" stop="20251006181500 +0000" channel="Cartoon Network.skyde">
@@ -433,19 +433,19 @@
 <programme start="20251006194000 +0000" stop="20251006195500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251006195500 +0000" stop="20251006200500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006195500 +0000" stop="20251006201000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20251006200500 +0000" stop="20251006202000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006201000 +0000" stop="20251006202000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20251006202000 +0000" stop="20251006203000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006203000 +0000" stop="20251006204000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006203000 +0000" stop="20251006204500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20251006204000 +0000" stop="20251006205500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006204500 +0000" stop="20251006205500 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
 <programme start="20251006205500 +0000" stop="20251006210500 +0000" channel="Cartoon Network.skyde">
@@ -457,10 +457,10 @@
 <programme start="20251006211500 +0000" stop="20251006213000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20251006213000 +0000" stop="20251006215000 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006213000 +0000" stop="20251006215500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20251006215000 +0000" stop="20251006220500 +0000" channel="Cartoon Network.skyde">
+<programme start="20251006215500 +0000" stop="20251006220500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20251005221500 +0000" stop="20251005222500 +0000" channel="Cartoonito.skyde">
@@ -1564,62 +1564,59 @@
 <programme start="20251006214000 +0000" stop="20251006220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20250930225500 +0000" stop="20251001002500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wie von einem anderen Stern</title>
+<programme start="20251005225500 +0000" stop="20251006003000 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
 </programme>
-<programme start="20251001002500 +0000" stop="20251001004000 +0000" channel="Romance TV HD.skyde">
+<programme start="20251006003000 +0000" stop="20251006004500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20251001004000 +0000" stop="20251001020500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die Liebe ihres Lebens</title>
+<programme start="20251006004500 +0000" stop="20251006021500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die versprochene Braut</title>
 </programme>
-<programme start="20251001020500 +0000" stop="20251001022000 +0000" channel="Romance TV HD.skyde">
+<programme start="20251006021500 +0000" stop="20251006022000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251006022000 +0000" stop="20251006023500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20251001022000 +0000" stop="20251001022500 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20251006023500 +0000" stop="20251006041000 +0000" channel="Romance TV HD.skyde">
+    <title>Zimmer mit Stall: Das Blaue vom Himmel</title>
 </programme>
-<programme start="20251001022500 +0000" stop="20251001023000 +0000" channel="Romance TV HD.skyde">
-    <title>Paare</title>
+<programme start="20251006041000 +0000" stop="20251006053500 +0000" channel="Romance TV HD.skyde">
+    <title>Der Duft von Apfelblüten</title>
 </programme>
-<programme start="20251001023000 +0000" stop="20251001040500 +0000" channel="Romance TV HD.skyde">
-    <title>Zimmer mit Stall: Schwein gehabt</title>
+<programme start="20251006053500 +0000" stop="20251006071000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Walvis Bay</title>
 </programme>
-<programme start="20251001040500 +0000" stop="20251001053500 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Botswana</title>
+<programme start="20251006071000 +0000" stop="20251006084500 +0000" channel="Romance TV HD.skyde">
+    <title>Liebe, Babys und ein großes Herz - Neue Wege</title>
 </programme>
-<programme start="20251001053500 +0000" stop="20251001071000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Sommer auf Langeoog</title>
+<programme start="20251006084500 +0000" stop="20251006102000 +0000" channel="Romance TV HD.skyde">
+    <title>Käthe und ich: Im Schatten des Vaters</title>
 </programme>
-<programme start="20251001071000 +0000" stop="20251001084500 +0000" channel="Romance TV HD.skyde">
-    <title>Utta Danella: Eine Liebe im September</title>
+<programme start="20251006102000 +0000" stop="20251006115500 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
 </programme>
-<programme start="20251001084500 +0000" stop="20251001102000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumhotel: Dubai - Abu Dhabi</title>
+<programme start="20251006115500 +0000" stop="20251006133000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die versprochene Braut</title>
 </programme>
-<programme start="20251001102000 +0000" stop="20251001115500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Wie von einem anderen Stern</title>
+<programme start="20251006133000 +0000" stop="20251006150500 +0000" channel="Romance TV HD.skyde">
+    <title>Die Nonne und der Kommissar: Der gefallene Engel</title>
 </programme>
-<programme start="20251001115500 +0000" stop="20251001132500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die Liebe ihres Lebens</title>
+<programme start="20251006150500 +0000" stop="20251006164000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Hanna und das gute Leben</title>
 </programme>
-<programme start="20251001132500 +0000" stop="20251001150000 +0000" channel="Romance TV HD.skyde">
-    <title>Käthe und ich: Der kleine Ritter</title>
+<programme start="20251006164000 +0000" stop="20251006181500 +0000" channel="Romance TV HD.skyde">
+    <title>Zimmer mit Stall: Kuhhandel</title>
 </programme>
-<programme start="20251001150000 +0000" stop="20251001164000 +0000" channel="Romance TV HD.skyde">
-    <title>Das Traumschiff - Shanghai</title>
+<programme start="20251006181500 +0000" stop="20251006194500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Kindermädchen: Mission Mauritius</title>
 </programme>
-<programme start="20251001164000 +0000" stop="20251001181500 +0000" channel="Romance TV HD.skyde">
-    <title>Zimmer mit Stall: Über alle Berge</title>
+<programme start="20251006194500 +0000" stop="20251006212000 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Spuren der Vergangenheit</title>
 </programme>
-<programme start="20251001181500 +0000" stop="20251001195000 +0000" channel="Romance TV HD.skyde">
-    <title>Kleine Eheverbrechen</title>
-</programme>
-<programme start="20251001195000 +0000" stop="20251001212000 +0000" channel="Romance TV HD.skyde">
-    <title>Woanders ist es auch nicht ruhiger</title>
-</programme>
-<programme start="20251001212000 +0000" stop="20251001225500 +0000" channel="Romance TV HD.skyde">
-    <title>Zimmer mit Stall: Über alle Berge</title>
+<programme start="20251006212000 +0000" stop="20251006225500 +0000" channel="Romance TV HD.skyde">
+    <title>Zimmer mit Stall: Kuhhandel</title>
 </programme>
 <programme start="20251005222500 +0000" stop="20251005233500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Mildred Pierce</title>
@@ -2568,12 +2565,6 @@
 </programme>
 <programme start="20251006043000 +0000" stop="20251006170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 6. Tag</title>
-</programme>
-<programme start="20251001183000 +0000" stop="20251001185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Es folgt: Live UEFA Champions League</title>
-</programme>
-<programme start="20251001185000 +0000" stop="20251001212000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Live UEFA CL: FC Arsenal - Olympiakos Piräus, Ligaphase, 2. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251005220000 +0000" stop="20251005230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 6. Spieltag</title>
