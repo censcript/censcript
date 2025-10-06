@@ -4045,11 +4045,11 @@
 <programme start="20251006040000 +0000" stop="20251006073000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251006073000 +0000" stop="20251006083000 +0000" channel="GTV.mncvision">
+<programme start="20251006073000 +0000" stop="20251006090000 +0000" channel="GTV.mncvision">
     <title>Lets Get Wet</title>
 </programme>
-<programme start="20251006083000 +0000" stop="20251006100000 +0000" channel="GTV.mncvision">
-    <title>Kera Sakti</title>
+<programme start="20251006090000 +0000" stop="20251006100000 +0000" channel="GTV.mncvision">
+    <title>Baper</title>
 </programme>
 <programme start="20251006100000 +0000" stop="20251006110000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
@@ -4096,11 +4096,11 @@
 <programme start="20251006040000 +0000" stop="20251006073000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251006073000 +0000" stop="20251006083000 +0000" channel="GTV HD.mncvision">
+<programme start="20251006073000 +0000" stop="20251006090000 +0000" channel="GTV HD.mncvision">
     <title>Lets Get Wet</title>
 </programme>
-<programme start="20251006083000 +0000" stop="20251006100000 +0000" channel="GTV HD.mncvision">
-    <title>Kera Sakti</title>
+<programme start="20251006090000 +0000" stop="20251006100000 +0000" channel="GTV HD.mncvision">
+    <title>Baper</title>
 </programme>
 <programme start="20251006100000 +0000" stop="20251006110000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
