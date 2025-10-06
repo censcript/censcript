@@ -2417,7 +2417,7 @@
         <title>Week 4</title>
     </programme>
     <programme start="20251006002000 +0000" stop="20251006033000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26 New England Patriots vs Buffalo Bills (Live)</title>
+        <title>NFL 2025/26 New England Patriots vs Buffalo Bills</title>
     </programme>
     <programme start="20251006033000 +0000" stop="20251006040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#556</title>
@@ -3248,7 +3248,7 @@
         <title>ICC Women&#039;s Cricket World Cup 2025: M01 - India vs Sri Lanka</title>
     </programme>
     <programme start="20251006090000 +0000" stop="20251006173000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>ICC Women&#039;s Cricket World Cup 2025: M07 - New Zealand vs South Africa (Live)</title>
+        <title>ICC Women&#039;s Cricket World Cup 2025: M07 - New Zealand vs South Africa</title>
     </programme>
     <programme start="20251005160000 +0000" stop="20251005161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6398,7 +6398,7 @@
         <title>Week 4</title>
     </programme>
     <programme start="20251006002000 +0000" stop="20251006033000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 New England Patriots vs Buffalo Bills (Live)</title>
+        <title>NFL 2025/26 New England Patriots vs Buffalo Bills</title>
     </programme>
     <programme start="20251006033000 +0000" stop="20251006040000 +0000" channel="TestChannel 995.starhub">
         <title>#556</title>
@@ -8062,11 +8062,14 @@
     <programme start="20251005133000 +0000" stop="20251005163000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
     </programme>
-    <programme start="20251005163000 +0000" stop="20251005193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251005163000 +0000" stop="20251005192000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20251005193000 +0000" stop="20251005220000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251005192000 +0000" stop="20251005222000 +0000" channel="Asianet Movies.starhub">
         <title>Kammatti Paadam</title>
+    </programme>
+    <programme start="20251005222000 +0000" stop="20251005230500 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
     </programme>
     <programme start="20251005230500 +0000" stop="20251006013000 +0000" channel="Asianet Movies.starhub">
         <title>Swarna Kaduva</title>
@@ -8204,10 +8207,10 @@
         <title>Day 1</title>
     </programme>
     <programme start="20251006000300 +0000" stop="20251006030000 +0000" channel="SPOTV2.starhub">
-        <title>MLB 2025 Postseason - ALDS Game 2 Seattle Mariners vs Detroit Tigers</title>
+        <title>Seattle Mariners vs Detroit Tigers</title>
     </programme>
     <programme start="20251006030000 +0000" stop="20251006033000 +0000" channel="SPOTV2.starhub">
-        <title>Season 5</title>
+        <title>Season 5 Episode 10</title>
     </programme>
     <programme start="20251006033000 +0000" stop="20251006042500 +0000" channel="SPOTV2.starhub">
         <title>WorldSSP300 Race 1</title>

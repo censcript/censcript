@@ -110,6 +110,10 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251007131000 +0700" stop="20251007151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251006110000 +0700" stop="20251006143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Cleveland Browns - Minnesota Vikings</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Virtus Bologna - Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006112000 +0700" stop="20251006122000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006122000 +0700" stop="20251006132000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -326,6 +326,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251007133500 +0700" stop="20251007144000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251006113000 +0700" stop="20251006150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -391,6 +395,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007113000 +0700" stop="20251007133000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251007133000 +0700" stop="20251007160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
