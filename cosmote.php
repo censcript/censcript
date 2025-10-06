@@ -1,7 +1,3 @@
-<programme start="20251006203000 +0700" stop="20251006230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006230000 +0700" stop="20251007000000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20251007212000 +0700" stop="20251007233000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Atromitos Athens</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251007233000 +0700" stop="20251008013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006210000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -238,10 +238,6 @@
     <title>Basketball: Galatasaray - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006213000 +0700" stop="20251006225000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006225000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,13 +326,9 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006220000 +0700" stop="20251006223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251006223000 +0700" stop="20251006230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2025 E9</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251007230000 +0700" stop="20251008011000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Promitheas - Heidelberg (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251006230000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin (L)</title>
