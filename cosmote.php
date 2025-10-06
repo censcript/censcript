@@ -1,7 +1,3 @@
-<programme start="20251006163000 +0700" stop="20251006183000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Omonoia FC - FSV Mainz 05</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006183000 +0700" stop="20251006203000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Porto - FK Crvena Zvezda</title>
     <desc>Live: Tidak</desc>
@@ -114,8 +110,8 @@
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006163000 +0700" stop="20251006183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Casa Pia - Estoril</title>
+<programme start="20251007192000 +0700" stop="20251007212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006183000 +0700" stop="20251006203000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +238,6 @@
     <title>Basketball: Armani Milano - Bertram Derthona Tortona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006171000 +0700" stop="20251006184000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251006184000 +0700" stop="20251006201000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -334,9 +326,9 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006150000 +0700" stop="20251006190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251007194500 +0700" stop="20251007205000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251006190000 +0700" stop="20251006220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
@@ -411,6 +403,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007173000 +0700" stop="20251007193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251007193000 +0700" stop="20251007220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

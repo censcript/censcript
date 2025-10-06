@@ -2405,10 +2405,10 @@
         <title>Lausanne</title>
     </programme>
     <programme start="20251005170000 +0000" stop="20251005202500 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26 Denver Broncos vs Philadelphia Eagles (Live)</title>
+        <title>NFL 2025/26 Denver Broncos vs Philadelphia Eagles</title>
     </programme>
     <programme start="20251005202500 +0000" stop="20251005233000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26 Washington Commanders vs Los Angeles Chargers (Live)</title>
+        <title>NFL 2025/26 Washington Commanders vs Los Angeles Chargers</title>
     </programme>
     <programme start="20251005233000 +0000" stop="20251006000000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1294</title>
@@ -6386,10 +6386,10 @@
         <title>Lausanne</title>
     </programme>
     <programme start="20251005170000 +0000" stop="20251005202500 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 Denver Broncos vs Philadelphia Eagles (Live)</title>
+        <title>NFL 2025/26 Denver Broncos vs Philadelphia Eagles</title>
     </programme>
     <programme start="20251005202500 +0000" stop="20251005233000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 Washington Commanders vs Los Angeles Chargers (Live)</title>
+        <title>NFL 2025/26 Washington Commanders vs Los Angeles Chargers</title>
     </programme>
     <programme start="20251005233000 +0000" stop="20251006000000 +0000" channel="TestChannel 995.starhub">
         <title>#1294</title>
@@ -8198,10 +8198,10 @@
         <title>Highlights</title>
     </programme>
     <programme start="20251005180000 +0000" stop="20251005200800 +0000" channel="SPOTV2.starhub">
-        <title>ROSHN Saudi League 25/26 MW4 Al Fateh vs Al Qadsiah</title>
+        <title>Al Fateh vs Al Qadsiah</title>
     </programme>
     <programme start="20251005200800 +0000" stop="20251005230000 +0000" channel="SPOTV2.starhub">
-        <title>MLB 2025 Postseason - ALDS Game 2 Toronto Blue Jays vs New York Yankees</title>
+        <title>Toronto Blue Jays vs New York Yankees</title>
     </programme>
     <programme start="20251005230000 +0000" stop="20251006000300 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
