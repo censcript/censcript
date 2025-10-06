@@ -1321,14 +1321,20 @@
 <programme start="20251006100000 +0000" stop="20251006113000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2025: Milan (L)</title>
 </programme>
-<programme start="20251006113000 +0000" stop="20251006130000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel 2025: Milan (L)</title>
+<programme start="20251006113000 +0000" stop="20251006120000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Magazine Show 2025/26</title>
 </programme>
-<programme start="20251006130000 +0000" stop="20251006143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Premier Padel 2025: Milan</title>
+<programme start="20251006120000 +0000" stop="20251006123000 +0000" channel="beIN Sports 3.mncvision">
+    <title>RIDE FEI Originals 2025, Ep 6</title>
 </programme>
-<programme start="20251006143000 +0000" stop="20251006153000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20251006123000 +0000" stop="20251006130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Sailing To The Games: LA 2025</title>
+</programme>
+<programme start="20251006130000 +0000" stop="20251006140000 +0000" channel="beIN Sports 3.mncvision">
     <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20251006140000 +0000" stop="20251006153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2025: Milan (L)</title>
 </programme>
 <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel Highlights 2025</title>
@@ -1387,14 +1393,20 @@
 <programme start="20251006100000 +0000" stop="20251006113000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2025: Milan (L)</title>
 </programme>
-<programme start="20251006113000 +0000" stop="20251006130000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel 2025: Milan (L)</title>
+<programme start="20251006113000 +0000" stop="20251006120000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Magazine Show 2025/26</title>
 </programme>
-<programme start="20251006130000 +0000" stop="20251006143000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Premier Padel 2025: Milan</title>
+<programme start="20251006120000 +0000" stop="20251006123000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>RIDE FEI Originals 2025, Ep 6</title>
 </programme>
-<programme start="20251006143000 +0000" stop="20251006153000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20251006123000 +0000" stop="20251006130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Sailing To The Games: LA 2025</title>
+</programme>
+<programme start="20251006130000 +0000" stop="20251006140000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20251006140000 +0000" stop="20251006153000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2025: Milan (L)</title>
 </programme>
 <programme start="20251006153000 +0000" stop="20251006160000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel Highlights 2025</title>
@@ -3266,7 +3278,7 @@
     <title>FS Grand Sumo S11, Ep 5</title>
 </programme>
 <programme start="20251006030000 +0000" stop="20251006040000 +0000" channel="Fight Sports.mncvision">
-    <title>American Ninja... S6, Ep 8</title>
+    <title>American Ninja... S6, Ep 9</title>
 </programme>
 <programme start="20251006040000 +0000" stop="20251006050000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Bahati Vs Du Plessis</title>
@@ -3287,7 +3299,7 @@
     <title>FS Grand Sumo S11, Ep 5</title>
 </programme>
 <programme start="20251006090000 +0000" stop="20251006100000 +0000" channel="Fight Sports.mncvision">
-    <title>American Ninja... S6, Ep 8</title>
+    <title>American Ninja... S6, Ep 9</title>
 </programme>
 <programme start="20251006100000 +0000" stop="20251006110000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Bahati Vs Du Plessis</title>
