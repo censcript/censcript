@@ -110,12 +110,8 @@
     <title>Football: ACF Fiorentina - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006210000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Los Angeles Chargers - Washington Commanders</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251007003000 +0700" stop="20251007010000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251008013000 +0700" stop="20251008034000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007010000 +0700" stop="20251007013000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,10 +174,6 @@
     <title>Football: Fluminense - Lanus</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251007000000 +0700" stop="20251007010000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251007010000 +0700" stop="20251007030000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Napoli (L)</title>
     <desc>Live: Ya</desc>
@@ -238,13 +230,9 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251006225000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251007003000 +0700" stop="20251007010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251008010000 +0700" stop="20251008031000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: VEF Riga - AEK (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251007010000 +0700" stop="20251007023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025 (L)</title>
@@ -330,9 +318,13 @@
     <title>Basketball: Promitheas - Heidelberg (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251006230000 +0700" stop="20251007003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251008011000 +0700" stop="20251008015500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251008015500 +0700" stop="20251008040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Promitheas - Heidelberg</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007003000 +0700" stop="20251007013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
