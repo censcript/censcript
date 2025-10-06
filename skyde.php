@@ -3508,10 +3508,10 @@
 <programme start="20251006031500 +0000" stop="20251006040000 +0000" channel="Warner TV Film.skyde">
     <title>Lutz van der Horst - Der Filmtalker</title>
 </programme>
-<programme start="20251006040000 +0000" stop="20251006061000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251006040000 +0000" stop="20251006061500 +0000" channel="Warner TV Film.skyde">
     <title>Der endlose Horizont</title>
 </programme>
-<programme start="20251006061000 +0000" stop="20251006075500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251006061500 +0000" stop="20251006075500 +0000" channel="Warner TV Film.skyde">
     <title>Charro!</title>
 </programme>
 <programme start="20251006075500 +0000" stop="20251006082500 +0000" channel="Warner TV Film.skyde">
