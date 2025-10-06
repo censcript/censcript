@@ -2656,26 +2656,29 @@
 <programme start="20251006213000 +0000" stop="20251006223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20251006083000 +0000" stop="20251006103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: TSG Hoffenheim - 1. FC Köln, Flutlicht-Freitag, 6. Spieltag</title>
-</programme>
-<programme start="20251006103000 +0000" stop="20251006123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20251010073000 +0000" stop="20251010093000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - RB Leipzig, 6. Spieltag</title>
 </programme>
-<programme start="20251006123000 +0000" stop="20251006143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20251010093000 +0000" stop="20251010113000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - FC Bayern München, tipico Topspiel der Woche, 6. Spieltag</title>
 </programme>
-<programme start="20251006143000 +0000" stop="20251006163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20251010113000 +0000" stop="20251010133000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Dynamo Dresden - Karlsruher SC, tipico Topspiel der Woche, 8. Spieltag</title>
 </programme>
-<programme start="20251006163000 +0000" stop="20251006183000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20251010133000 +0000" stop="20251010153000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: TSG Hoffenheim - 1. FC Köln, Flutlicht-Freitag, 6. Spieltag</title>
 </programme>
-<programme start="20251006183000 +0000" stop="20251006203000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20251010153000 +0000" stop="20251010173000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - RB Leipzig, 6. Spieltag</title>
 </programme>
-<programme start="20251006203000 +0000" stop="20251006223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20251010173000 +0000" stop="20251010193000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - FC Bayern München, tipico Topspiel der Woche, 6. Spieltag</title>
+</programme>
+<programme start="20251010193000 +0000" stop="20251010213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: Dynamo Dresden - Karlsruher SC, tipico Topspiel der Woche, 8. Spieltag</title>
+</programme>
+<programme start="20251010213000 +0000" stop="20251010233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: TSG Hoffenheim - 1. FC Köln, Flutlicht-Freitag, 6. Spieltag</title>
 </programme>
 <programme start="20251005220000 +0000" stop="20251006000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Singapur</title>
@@ -2838,6 +2841,60 @@
 </programme>
 <programme start="20251006210000 +0000" stop="20251006233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers - Edmonton Oilers, Stanley Cup Final 2025, Spiel 6</title>
+</programme>
+<programme start="20251005220000 +0000" stop="20251005233000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20251005233000 +0000" stop="20251006000000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251006000000 +0000" stop="20251006010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL Kompakt: 6. Spieltag</title>
+</programme>
+<programme start="20251006010000 +0000" stop="20251006040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251006040000 +0000" stop="20251006060000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251006060000 +0000" stop="20251006070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL Kompakt: 6. Spieltag</title>
+</programme>
+<programme start="20251006070000 +0000" stop="20251006083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20251006083000 +0000" stop="20251006090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251006090000 +0000" stop="20251006100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL Kompakt: 8. Spieltag</title>
+</programme>
+<programme start="20251006100000 +0000" stop="20251006130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20251006130000 +0000" stop="20251006160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20251006160000 +0000" stop="20251006170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Transfer Update: Die Show</title>
+</programme>
+<programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251006180000 +0000" stop="20251006183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20251006183000 +0000" stop="20251006200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
+</programme>
+<programme start="20251006200000 +0000" stop="20251006203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
+</programme>
+<programme start="20251006203000 +0000" stop="20251006213000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show</title>
+</programme>
+<programme start="20251006213000 +0000" stop="20251006220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20251005220500 +0000" stop="20251005223500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 7. Spieltag</title>
@@ -3061,7 +3118,7 @@
 <programme start="20251005220000 +0000" stop="20251006030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251006030000 +0000" stop="20251006153000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251006030000 +0000" stop="20251006170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 1. Tag</title>
 </programme>
 <programme start="20251005220500 +0000" stop="20251005225000 +0000" channel="SYFY HD.skyde">
