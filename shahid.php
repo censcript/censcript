@@ -121,126 +121,6 @@
     <programme start="20251007000000 +0000" stop="20251008235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251007010000 +0000" stop="20251007015500 +0000" channel="387294.shahid">
-        <title>Sone&#039;a Fil Iraq</title>
-    </programme>
-    <programme start="20251007015500 +0000" stop="20251007024500 +0000" channel="387294.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
-    </programme>
-    <programme start="20251007024500 +0000" stop="20251007032500 +0000" channel="387294.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251007032500 +0000" stop="20251007040000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 445</title>
-    </programme>
-    <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 80</title>
-    </programme>
-    <programme start="20251007043000 +0000" stop="20251007052000 +0000" channel="387294.shahid">
-        <title>Melh Wa Samra Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251007052000 +0000" stop="20251007061600 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251007061600 +0000" stop="20251007070500 +0000" channel="387294.shahid">
-        <title>Sone&#039;a Fil Iraq Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251007070500 +0000" stop="20251007080500 +0000" channel="387294.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
-    </programme>
-    <programme start="20251007080500 +0000" stop="20251007085600 +0000" channel="387294.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 7</title>
-    </programme>
-    <programme start="20251007085600 +0000" stop="20251007093000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 445</title>
-    </programme>
-    <programme start="20251007093000 +0000" stop="20251007100500 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 80</title>
-    </programme>
-    <programme start="20251007100500 +0000" stop="20251007110500 +0000" channel="387294.shahid">
-        <title>Melh Wa Samra Season 1 Episode 23</title>
-    </programme>
-    <programme start="20251007110500 +0000" stop="20251007120000 +0000" channel="387294.shahid">
-        <title>Sone&#039;a Fil Iraq Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251007120000 +0000" stop="20251007130000 +0000" channel="387294.shahid">
-        <title>Dahab: Bint Al Hotel Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="387294.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
-    </programme>
-    <programme start="20251007140000 +0000" stop="20251007145500 +0000" channel="387294.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251007145500 +0000" stop="20251007155500 +0000" channel="387294.shahid">
-        <title>Melh Wa Samra Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251007155500 +0000" stop="20251007163000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 446</title>
-    </programme>
-    <programme start="20251007163000 +0000" stop="20251007170000 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 81</title>
-    </programme>
-    <programme start="20251007170000 +0000" stop="20251007180000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah Season 4 Episode 72</title>
-    </programme>
-    <programme start="20251007180000 +0000" stop="20251007190000 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251007190000 +0000" stop="20251007194300 +0000" channel="387294.shahid">
-        <title>Spotlight Season 1 Episode 13</title>
-    </programme>
-    <programme start="20251007194300 +0000" stop="20251007200000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251007200000 +0000" stop="20251007210000 +0000" channel="387294.shahid">
-        <title>Sone&#039;a Fil Iraq</title>
-    </programme>
-    <programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="387294.shahid">
-        <title>Dakkat Al Abeed Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251007220000 +0000" stop="20251007224600 +0000" channel="387294.shahid">
-        <title>Zay Al Qamar Season 1 Episode 33</title>
-    </programme>
-    <programme start="20251007224600 +0000" stop="20251007230000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251007230000 +0000" stop="20251007235300 +0000" channel="387294.shahid">
-        <title>Sondos Season 1 Episode 3</title>
-    </programme>
-    <programme start="20251007235300 +0000" stop="20251008000000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251008000000 +0000" stop="20251008010000 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251008010000 +0000" stop="20251008020000 +0000" channel="387294.shahid">
-        <title>Sone&#039;a Fil Iraq</title>
-    </programme>
-    <programme start="20251008020000 +0000" stop="20251008024500 +0000" channel="387294.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
-    </programme>
-    <programme start="20251008024500 +0000" stop="20251008033000 +0000" channel="387294.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251008033000 +0000" stop="20251008040000 +0000" channel="387294.shahid">
-        <title>Fareed Season 3 Episode 446</title>
-    </programme>
-    <programme start="20251008040000 +0000" stop="20251008043000 +0000" channel="387294.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 81</title>
-    </programme>
-    <programme start="20251008043000 +0000" stop="20251008051500 +0000" channel="387294.shahid">
-        <title>Melh Wa Samra Season 1 Episode 24</title>
-    </programme>
-    <programme start="20251008051500 +0000" stop="20251008062000 +0000" channel="387294.shahid">
-        <title>Heera  </title>
-    </programme>
-    <programme start="20251008062000 +0000" stop="20251008235959 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="946940.shahid">
         <title>Teer Bena Ya Qalbi</title>
     </programme>
@@ -979,6 +859,126 @@
     <programme start="20251007000000 +0000" stop="20251008235959 +0000" channel="986014.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251007010000 +0000" stop="20251007015500 +0000" channel="387294.shahid">
+        <title>Sone&#039;a Fil Iraq</title>
+    </programme>
+    <programme start="20251007015500 +0000" stop="20251007024500 +0000" channel="387294.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
+    </programme>
+    <programme start="20251007024500 +0000" stop="20251007032500 +0000" channel="387294.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251007032500 +0000" stop="20251007040000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 445</title>
+    </programme>
+    <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 80</title>
+    </programme>
+    <programme start="20251007043000 +0000" stop="20251007052000 +0000" channel="387294.shahid">
+        <title>Melh Wa Samra Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251007052000 +0000" stop="20251007061600 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251007061600 +0000" stop="20251007070500 +0000" channel="387294.shahid">
+        <title>Sone&#039;a Fil Iraq Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251007070500 +0000" stop="20251007080500 +0000" channel="387294.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
+    </programme>
+    <programme start="20251007080500 +0000" stop="20251007085600 +0000" channel="387294.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 7</title>
+    </programme>
+    <programme start="20251007085600 +0000" stop="20251007093000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 445</title>
+    </programme>
+    <programme start="20251007093000 +0000" stop="20251007100500 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 80</title>
+    </programme>
+    <programme start="20251007100500 +0000" stop="20251007110500 +0000" channel="387294.shahid">
+        <title>Melh Wa Samra Season 1 Episode 23</title>
+    </programme>
+    <programme start="20251007110500 +0000" stop="20251007120000 +0000" channel="387294.shahid">
+        <title>Sone&#039;a Fil Iraq Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251007120000 +0000" stop="20251007130000 +0000" channel="387294.shahid">
+        <title>Dahab: Bint Al Hotel Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="387294.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
+    </programme>
+    <programme start="20251007140000 +0000" stop="20251007145500 +0000" channel="387294.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251007145500 +0000" stop="20251007155500 +0000" channel="387294.shahid">
+        <title>Melh Wa Samra Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251007155500 +0000" stop="20251007163000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 446</title>
+    </programme>
+    <programme start="20251007163000 +0000" stop="20251007170000 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 81</title>
+    </programme>
+    <programme start="20251007170000 +0000" stop="20251007180000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah Season 4 Episode 72</title>
+    </programme>
+    <programme start="20251007180000 +0000" stop="20251007190000 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251007190000 +0000" stop="20251007194300 +0000" channel="387294.shahid">
+        <title>Spotlight Season 1 Episode 13</title>
+    </programme>
+    <programme start="20251007194300 +0000" stop="20251007200000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251007200000 +0000" stop="20251007210000 +0000" channel="387294.shahid">
+        <title>Sone&#039;a Fil Iraq</title>
+    </programme>
+    <programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="387294.shahid">
+        <title>Dakkat Al Abeed Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251007220000 +0000" stop="20251007224600 +0000" channel="387294.shahid">
+        <title>Zay Al Qamar Season 1 Episode 33</title>
+    </programme>
+    <programme start="20251007224600 +0000" stop="20251007230000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251007230000 +0000" stop="20251007235300 +0000" channel="387294.shahid">
+        <title>Sondos Season 1 Episode 3</title>
+    </programme>
+    <programme start="20251007235300 +0000" stop="20251008000000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251008000000 +0000" stop="20251008010000 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251008010000 +0000" stop="20251008020000 +0000" channel="387294.shahid">
+        <title>Sone&#039;a Fil Iraq</title>
+    </programme>
+    <programme start="20251008020000 +0000" stop="20251008024500 +0000" channel="387294.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
+    </programme>
+    <programme start="20251008024500 +0000" stop="20251008033000 +0000" channel="387294.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251008033000 +0000" stop="20251008040000 +0000" channel="387294.shahid">
+        <title>Fareed Season 3 Episode 446</title>
+    </programme>
+    <programme start="20251008040000 +0000" stop="20251008043000 +0000" channel="387294.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 1 Episode 81</title>
+    </programme>
+    <programme start="20251008043000 +0000" stop="20251008051500 +0000" channel="387294.shahid">
+        <title>Melh Wa Samra Season 1 Episode 24</title>
+    </programme>
+    <programme start="20251008051500 +0000" stop="20251008062000 +0000" channel="387294.shahid">
+        <title>Heera  </title>
+    </programme>
+    <programme start="20251008062000 +0000" stop="20251008235959 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20251007000000 +0000" stop="20251007003000 +0000" channel="387288.shahid">
         <title>Al Hadath News</title>
     </programme>
@@ -1093,9 +1093,6 @@
     <programme start="20251008010100 +0000" stop="20251008235959 +0000" channel="387288.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251007000000 +0000" stop="20251008235959 +0000" channel="986024.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251007000000 +0000" stop="20251007000500 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
     </programme>
@@ -1205,6 +1202,9 @@
         <title>Sijal</title>
     </programme>
     <programme start="20251008000900 +0000" stop="20251008235959 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251007000000 +0000" stop="20251008235959 +0000" channel="986024.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251007000000 +0000" stop="20251007000501 +0000" channel="49923172215352.shahid">
@@ -4756,129 +4756,6 @@
     <programme start="20251008230803 +0000" stop="20251008235959 +0000" channel="988045.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20251007000000 +0000" stop="20251007002100 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
-    </programme>
-    <programme start="20251007002100 +0000" stop="20251007010500 +0000" channel="387238.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251007010500 +0000" stop="20251007015500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 36</title>
-    </programme>
-    <programme start="20251007015500 +0000" stop="20251007023000 +0000" channel="387238.shahid">
-        <title>Tash: Al Awda Season 19 Episode 2</title>
-    </programme>
-    <programme start="20251007023000 +0000" stop="20251007030100 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 11</title>
-    </programme>
-    <programme start="20251007030100 +0000" stop="20251007042000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251007042000 +0000" stop="20251007050900 +0000" channel="387238.shahid">
-        <title>Sayf 99 Season 1 Episode 16</title>
-    </programme>
-    <programme start="20251007050900 +0000" stop="20251007054800 +0000" channel="387238.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 6</title>
-    </programme>
-    <programme start="20251007054800 +0000" stop="20251007061800 +0000" channel="387238.shahid">
-        <title>Safar Barlik Season 1 Episode 20</title>
-    </programme>
-    <programme start="20251007061800 +0000" stop="20251007070400 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
-    </programme>
-    <programme start="20251007070400 +0000" stop="20251007080000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 36</title>
-    </programme>
-    <programme start="20251007080000 +0000" stop="20251007100000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20251007100000 +0000" stop="20251007103500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 11</title>
-    </programme>
-    <programme start="20251007103500 +0000" stop="20251007113000 +0000" channel="387238.shahid">
-        <title>Sayf 99 Season 1 Episode 16</title>
-    </programme>
-    <programme start="20251007113000 +0000" stop="20251007121500 +0000" channel="387238.shahid">
-        <title>Safar Barlik Season 1 Episode 20</title>
-    </programme>
-    <programme start="20251007121500 +0000" stop="20251007130500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 36</title>
-    </programme>
-    <programme start="20251007130500 +0000" stop="20251007140000 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
-    </programme>
-    <programme start="20251007140000 +0000" stop="20251007145500 +0000" channel="387238.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251007145500 +0000" stop="20251007155500 +0000" channel="387238.shahid">
-        <title>Sayf 99  Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251007155500 +0000" stop="20251007163500 +0000" channel="387238.shahid">
-        <title>Tash: Al Awda Season 19 Episode 3</title>
-    </programme>
-    <programme start="20251007163500 +0000" stop="20251007170500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 12</title>
-    </programme>
-    <programme start="20251007170500 +0000" stop="20251007180000 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 37</title>
-    </programme>
-    <programme start="20251007180000 +0000" stop="20251007183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20251007183000 +0000" stop="20251007190500 +0000" channel="387238.shahid">
-        <title>Studio 22 Season 2 Episode 16</title>
-    </programme>
-    <programme start="20251007190500 +0000" stop="20251007194900 +0000" channel="387238.shahid">
-        <title>Spotlight Season 1 Episode 13</title>
-    </programme>
-    <programme start="20251007194900 +0000" stop="20251007200000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251007200000 +0000" stop="20251007213000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251007213000 +0000" stop="20251007221900 +0000" channel="387238.shahid">
-        <title>Awdat Khalti Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251007221900 +0000" stop="20251007223000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20251007223000 +0000" stop="20251007225500 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 12</title>
-    </programme>
-    <programme start="20251007225500 +0000" stop="20251007233100 +0000" channel="387238.shahid">
-        <title>Tash: Al Awda Season 19 Episode 3</title>
-    </programme>
-    <programme start="20251007233100 +0000" stop="20251008001500 +0000" channel="387238.shahid">
-        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
-    </programme>
-    <programme start="20251008001500 +0000" stop="20251008010000 +0000" channel="387238.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251008010000 +0000" stop="20251008014500 +0000" channel="387238.shahid">
-        <title>Salma Season 1 Episode 37</title>
-    </programme>
-    <programme start="20251008014500 +0000" stop="20251008022500 +0000" channel="387238.shahid">
-        <title>Tash: Al Awda Season 19 Episode 3</title>
-    </programme>
-    <programme start="20251008022500 +0000" stop="20251008025000 +0000" channel="387238.shahid">
-        <title>Meyra Wa Selim Season 1 Episode 12</title>
-    </programme>
-    <programme start="20251008025000 +0000" stop="20251008041000 +0000" channel="387238.shahid">
-        <title>Nadina</title>
-    </programme>
-    <programme start="20251008041000 +0000" stop="20251008050000 +0000" channel="387238.shahid">
-        <title>Sayf 99  Season 1 Episode 17</title>
-    </programme>
-    <programme start="20251008050000 +0000" stop="20251008054500 +0000" channel="387238.shahid">
-        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
-    </programme>
-    <programme start="20251008054500 +0000" stop="20251008063400 +0000" channel="387238.shahid">
-        <title>Awdat Khalti Season 1 Episode 1</title>
-    </programme>
-    <programme start="20251008063400 +0000" stop="20251008235959 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20251007000000 +0000" stop="20251007002020 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 3 Episode 7</title>
     </programme>
@@ -7505,6 +7382,129 @@
         <title>Masrah Masr Season 2 Episode 7</title>
     </programme>
     <programme start="20251008225833 +0000" stop="20251008235959 +0000" channel="983124.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251007000000 +0000" stop="20251007002100 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
+    </programme>
+    <programme start="20251007002100 +0000" stop="20251007010500 +0000" channel="387238.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251007010500 +0000" stop="20251007015500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 36</title>
+    </programme>
+    <programme start="20251007015500 +0000" stop="20251007023000 +0000" channel="387238.shahid">
+        <title>Tash: Al Awda Season 19 Episode 2</title>
+    </programme>
+    <programme start="20251007023000 +0000" stop="20251007030100 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 11</title>
+    </programme>
+    <programme start="20251007030100 +0000" stop="20251007042000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251007042000 +0000" stop="20251007050900 +0000" channel="387238.shahid">
+        <title>Sayf 99 Season 1 Episode 16</title>
+    </programme>
+    <programme start="20251007050900 +0000" stop="20251007054800 +0000" channel="387238.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 6</title>
+    </programme>
+    <programme start="20251007054800 +0000" stop="20251007061800 +0000" channel="387238.shahid">
+        <title>Safar Barlik Season 1 Episode 20</title>
+    </programme>
+    <programme start="20251007061800 +0000" stop="20251007070400 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 25</title>
+    </programme>
+    <programme start="20251007070400 +0000" stop="20251007080000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 36</title>
+    </programme>
+    <programme start="20251007080000 +0000" stop="20251007100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20251007100000 +0000" stop="20251007103500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 11</title>
+    </programme>
+    <programme start="20251007103500 +0000" stop="20251007113000 +0000" channel="387238.shahid">
+        <title>Sayf 99 Season 1 Episode 16</title>
+    </programme>
+    <programme start="20251007113000 +0000" stop="20251007121500 +0000" channel="387238.shahid">
+        <title>Safar Barlik Season 1 Episode 20</title>
+    </programme>
+    <programme start="20251007121500 +0000" stop="20251007130500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 36</title>
+    </programme>
+    <programme start="20251007130500 +0000" stop="20251007140000 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
+    </programme>
+    <programme start="20251007140000 +0000" stop="20251007145500 +0000" channel="387238.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251007145500 +0000" stop="20251007155500 +0000" channel="387238.shahid">
+        <title>Sayf 99 Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251007155500 +0000" stop="20251007163500 +0000" channel="387238.shahid">
+        <title>Tash: Al Awda Season 19 Episode 3</title>
+    </programme>
+    <programme start="20251007163500 +0000" stop="20251007170500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 12</title>
+    </programme>
+    <programme start="20251007170500 +0000" stop="20251007180000 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 37</title>
+    </programme>
+    <programme start="20251007180000 +0000" stop="20251007183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20251007183000 +0000" stop="20251007190500 +0000" channel="387238.shahid">
+        <title>Studio 22 Season 2 Episode 16</title>
+    </programme>
+    <programme start="20251007190500 +0000" stop="20251007194900 +0000" channel="387238.shahid">
+        <title>Spotlight Season 1 Episode 13</title>
+    </programme>
+    <programme start="20251007194900 +0000" stop="20251007200000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251007200000 +0000" stop="20251007213000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251007213000 +0000" stop="20251007221900 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251007221900 +0000" stop="20251007223000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20251007223000 +0000" stop="20251007225500 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 12</title>
+    </programme>
+    <programme start="20251007225500 +0000" stop="20251007233100 +0000" channel="387238.shahid">
+        <title>Tash: Al Awda Season 19 Episode 3</title>
+    </programme>
+    <programme start="20251007233100 +0000" stop="20251008001500 +0000" channel="387238.shahid">
+        <title>Taht Sabe&#039; Ard Season 1 Episode 26</title>
+    </programme>
+    <programme start="20251008001500 +0000" stop="20251008010000 +0000" channel="387238.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251008010000 +0000" stop="20251008014500 +0000" channel="387238.shahid">
+        <title>Salma Season 1 Episode 37</title>
+    </programme>
+    <programme start="20251008014500 +0000" stop="20251008022500 +0000" channel="387238.shahid">
+        <title>Tash: Al Awda Season 19 Episode 3</title>
+    </programme>
+    <programme start="20251008022500 +0000" stop="20251008025000 +0000" channel="387238.shahid">
+        <title>Meyra Wa Selim Season 1 Episode 12</title>
+    </programme>
+    <programme start="20251008025000 +0000" stop="20251008041000 +0000" channel="387238.shahid">
+        <title>Nadina</title>
+    </programme>
+    <programme start="20251008041000 +0000" stop="20251008050000 +0000" channel="387238.shahid">
+        <title>Sayf 99 Season 1 Episode 17</title>
+    </programme>
+    <programme start="20251008050000 +0000" stop="20251008054500 +0000" channel="387238.shahid">
+        <title>Wa Tqabil Habeeb Season 1 Episode 8</title>
+    </programme>
+    <programme start="20251008054500 +0000" stop="20251008063400 +0000" channel="387238.shahid">
+        <title>Awdat Khalati Season 1 Episode 1</title>
+    </programme>
+    <programme start="20251008063400 +0000" stop="20251008235959 +0000" channel="387238.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20251007000000 +0000" stop="20251007000500 +0000" channel="862837.shahid">

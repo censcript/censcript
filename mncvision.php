@@ -4949,10 +4949,10 @@
     <title>Berkah Shop</title>
 </programme>
 <programme start="20251007070000 +0000" stop="20251007073000 +0000" channel="JAKTV.mncvision">
-    <title>The Cloth Story</title>
+    <title>Everyday Chinese</title>
 </programme>
 <programme start="20251007073000 +0000" stop="20251007080000 +0000" channel="JAKTV.mncvision">
-    <title>Cooking Time</title>
+    <title>Everyday Chinese</title>
 </programme>
 <programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="JAKTV.mncvision">
     <title>Berkah Shop</title>
@@ -4979,7 +4979,7 @@
     <title>Rezeki Api</title>
 </programme>
 <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="JAKTV.mncvision">
-    <title>Kata Dokter</title>
+    <title>Galeri Publik</title>
 </programme>
 <programme start="20251007140000 +0000" stop="20251007150000 +0000" channel="JAKTV.mncvision">
     <title>Medika Natura</title>

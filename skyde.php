@@ -2857,16 +2857,13 @@
 <programme start="20251007063000 +0000" stop="20251007093000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Alfred Dunhill Links Championship, 4. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
 </programme>
-<programme start="20251007093000 +0000" stop="20251007120000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251007093000 +0000" stop="20251007123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Lotte Championship, Finaltag in Oahu, HI (USA)</title>
 </programme>
-<programme start="20251007120000 +0000" stop="20251007123000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Highlights Alfred Dunhill Links Championship</title>
-</programme>
-<programme start="20251007123000 +0000" stop="20251007153000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251007123000 +0000" stop="20251007150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 1. Tag in Jackson, MS (USA)</title>
 </programme>
-<programme start="20251007153000 +0000" stop="20251007173000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251007150000 +0000" stop="20251007173000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 2. Tag in Jackson, MS (USA)</title>
 </programme>
 <programme start="20251007173000 +0000" stop="20251007200000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2899,8 +2896,20 @@
 <programme start="20251007073000 +0000" stop="20251007080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 5. Spieltag komplett</title>
 </programme>
+<programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Indonesien</title>
+</programme>
 <programme start="20251007090000 +0000" stop="20251007110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>UEFA ECL: Dynamo Kiew - Crystal Palace, Ligaphase, 1. Spieltag</title>
+</programme>
+<programme start="20251007110000 +0000" stop="20251007120000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 10. Spieltag komplett</title>
+</programme>
+<programme start="20251007120000 +0000" stop="20251007130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tonight - Eastern Conference Preview</title>
+</programme>
+<programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tonight - Western Conference Preview</title>
 </programme>
 <programme start="20251007140000 +0000" stop="20251007150000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Series Rewind FLA-EDM (Stanley Cup Final 2025)</title>
@@ -2916,6 +2925,12 @@
 </programme>
 <programme start="20251007170000 +0000" stop="20251007173000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20251007173000 +0000" stop="20251007183000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tonight - Eastern Conference Preview</title>
+</programme>
+<programme start="20251007183000 +0000" stop="20251007193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tonight - Western Conference Preview</title>
 </programme>
 <programme start="20251007193000 +0000" stop="20251007203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Stanley Cup 2025 - Championship Film</title>
@@ -2948,10 +2963,10 @@
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
+    <title>Transfer Update: Die Show XXL</title>
 </programme>
 <programme start="20251007090000 +0000" stop="20251007100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show XXL</title>
+    <title>Live Sky Sport News: DFB-Training</title>
 </programme>
 <programme start="20251007100000 +0000" stop="20251007130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3122,16 +3137,16 @@
     <title>ATP 500: Review Peking</title>
 </programme>
 <programme start="20251007153000 +0000" stop="20251007173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
+    <title>ATP 1000: N. Djokovic (SRB) - J. Munar (ESP), Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
 <programme start="20251007173000 +0000" stop="20251007193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Wuhan Open in Wuhan (CHN), 2. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - M. Andreeva, Wuhan Open in Wuhan (CHN), 2. Tag</title>
 </programme>
 <programme start="20251007193000 +0000" stop="20251007200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Peking</title>
 </programme>
 <programme start="20251007200000 +0000" stop="20251007220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
+    <title>ATP 1000: N. Djokovic (SRB) - J. Munar (ESP), Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
 <programme start="20251006220000 +0000" stop="20251006223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 5. Spieltag komplett</title>
@@ -3241,10 +3256,10 @@
 <programme start="20251007200000 +0000" stop="20251007220000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Singapur</title>
 </programme>
-<programme start="20251007024000 +0000" stop="20251007030000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
+<programme start="20251006220000 +0000" stop="20251007030000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20251007030000 +0000" stop="20251007150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251007030000 +0000" stop="20251007170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 2. Tag</title>
 </programme>
 <programme start="20251006220000 +0000" stop="20251006224500 +0000" channel="SYFY HD.skyde">
@@ -3496,13 +3511,13 @@
 <programme start="20251007032500 +0000" stop="20251007034500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007034500 +0000" stop="20251007041500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007034500 +0000" stop="20251007041000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007041500 +0000" stop="20251007044000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007041000 +0000" stop="20251007043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007044000 +0000" stop="20251007050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007043500 +0000" stop="20251007050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251007050500 +0000" stop="20251007053000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3511,46 +3526,46 @@
 <programme start="20251007053000 +0000" stop="20251007060000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251007060000 +0000" stop="20251007063000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007060000 +0000" stop="20251007062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251007063000 +0000" stop="20251007065500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007062500 +0000" stop="20251007065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007065500 +0000" stop="20251007072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007065000 +0000" stop="20251007071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007072000 +0000" stop="20251007074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007071500 +0000" stop="20251007074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007074500 +0000" stop="20251007081000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007074000 +0000" stop="20251007080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007081000 +0000" stop="20251007083500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007080500 +0000" stop="20251007083000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007083500 +0000" stop="20251007090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007083000 +0000" stop="20251007085500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007090000 +0000" stop="20251007092500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007085500 +0000" stop="20251007092000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007092500 +0000" stop="20251007095000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007092000 +0000" stop="20251007094500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007095000 +0000" stop="20251007101500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007094500 +0000" stop="20251007101000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007101500 +0000" stop="20251007103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007101000 +0000" stop="20251007103000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007103500 +0000" stop="20251007105500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007103000 +0000" stop="20251007105500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007105500 +0000" stop="20251007112000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007105500 +0000" stop="20251007111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007112000 +0000" stop="20251007114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007111500 +0000" stop="20251007114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251007114000 +0000" stop="20251007120500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3559,28 +3574,28 @@
 <programme start="20251007120500 +0000" stop="20251007123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007123000 +0000" stop="20251007130000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007123000 +0000" stop="20251007125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007130000 +0000" stop="20251007132500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007125500 +0000" stop="20251007132000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007132500 +0000" stop="20251007135000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007132000 +0000" stop="20251007134500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007135000 +0000" stop="20251007141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007134500 +0000" stop="20251007141500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007141500 +0000" stop="20251007144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007141500 +0000" stop="20251007143500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007144000 +0000" stop="20251007150000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007143500 +0000" stop="20251007150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007150000 +0000" stop="20251007152500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007150000 +0000" stop="20251007152000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007152500 +0000" stop="20251007155000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007152000 +0000" stop="20251007155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20251007155000 +0000" stop="20251007161500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3607,13 +3622,13 @@
 <programme start="20251007184000 +0000" stop="20251007190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007190500 +0000" stop="20251007193000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007190500 +0000" stop="20251007192500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007193000 +0000" stop="20251007195500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007192500 +0000" stop="20251007195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251007195500 +0000" stop="20251007201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007195000 +0000" stop="20251007201500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20251007201500 +0000" stop="20251007204500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3625,13 +3640,13 @@
 <programme start="20251007211000 +0000" stop="20251007212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251007212000 +0000" stop="20251007213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007212000 +0000" stop="20251007213500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251007213000 +0000" stop="20251007214000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007213500 +0000" stop="20251007214500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251007214000 +0000" stop="20251007215500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007214500 +0000" stop="20251007215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251007215500 +0000" stop="20251007222000 +0000" channel="Warner TV Comedy HD.skyde">

@@ -2564,7 +2564,7 @@
         <title>#556</title>
     </programme>
     <programme start="20251007001500 +0000" stop="20251007033000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars</title>
+        <title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars (Live)</title>
     </programme>
     <programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>EASL 2024/25 Season Recap</title>
@@ -2573,7 +2573,7 @@
         <title>NFL 2025/26 Minnesota Vikings vs Cleveland Browns</title>
     </programme>
     <programme start="20251007070000 +0000" stop="20251007093000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC 320: Ankalaev vs Pereira 2</title>
+        <title>UFC 2025 UFC 320: Ankalaev vs Pereira 2</title>
     </programme>
     <programme start="20251007093000 +0000" stop="20251007100000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#556</title>
@@ -6473,7 +6473,7 @@
         <title>#556</title>
     </programme>
     <programme start="20251007001500 +0000" stop="20251007033000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars</title>
+        <title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars (Live)</title>
     </programme>
     <programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="TestChannel 995.starhub">
         <title>EASL 2024/25 Season Recap</title>
@@ -6482,7 +6482,7 @@
         <title>NFL 2025/26 Minnesota Vikings vs Cleveland Browns</title>
     </programme>
     <programme start="20251007070000 +0000" stop="20251007093000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC 320: Ankalaev vs Pereira 2</title>
+        <title>UFC 2025 UFC 320: Ankalaev vs Pereira 2</title>
     </programme>
     <programme start="20251007093000 +0000" stop="20251007100000 +0000" channel="TestChannel 995.starhub">
         <title>#556</title>
