@@ -547,6 +547,9 @@
 <programme start="20251007050000 +0000" stop="20251007054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20251007054500 +0000" stop="20251007063000 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20251007063000 +0000" stop="20251007071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251008063000 +0000" stop="20251008080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20251008080000 +0000" stop="20251008083000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
 </programme>
