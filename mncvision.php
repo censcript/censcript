@@ -7564,11 +7564,8 @@
 <programme start="20251007044500 +0000" stop="20251007053000 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251007053000 +0000" stop="20251007071500 +0000" channel="RCTI.mncvision">
+<programme start="20251007053000 +0000" stop="20251007080000 +0000" channel="RCTI.mncvision">
     <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20251007071500 +0000" stop="20251007080000 +0000" channel="RCTI.mncvision">
-    <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="RCTI.mncvision">
     <title>Cinta Di Balik Awan</title>
@@ -7592,7 +7589,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251007161500 +0000" stop="20251007164500 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali S5</title>
+    <title>Kebahagiaan Yang Membingungkan</title>
 </programme>
 <programme start="20251006181500 +0000" stop="20251006190000 +0000" channel="RCTI HD.mncvision">
     <title>Stephen Cau I Love U</title>
@@ -7618,11 +7615,8 @@
 <programme start="20251007044500 +0000" stop="20251007053000 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251007053000 +0000" stop="20251007071500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251007053000 +0000" stop="20251007080000 +0000" channel="RCTI HD.mncvision">
     <title>Take Me Out Indonesia</title>
-</programme>
-<programme start="20251007071500 +0000" stop="20251007080000 +0000" channel="RCTI HD.mncvision">
-    <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="RCTI HD.mncvision">
     <title>Cinta Di Balik Awan</title>
@@ -7646,7 +7640,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251007161500 +0000" stop="20251007164500 +0000" channel="RCTI HD.mncvision">
-    <title>Amanah Wali S5</title>
+    <title>Kebahagiaan Yang Membingungkan</title>
 </programme>
 <programme start="20251006174000 +0000" stop="20251006192500 +0000" channel="Rock Action.mncvision">
     <title>Collide</title>
