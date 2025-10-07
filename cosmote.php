@@ -110,8 +110,8 @@
     <title>Football: ACF Fiorentina - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251007183000 +0700" stop="20251007203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Harrogate Town FC - Crewe Alexandra</title>
+<programme start="20251008212000 +0700" stop="20251008233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007203000 +0700" stop="20251007223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,10 +178,6 @@
     <title>Football: Al Ittihad - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251007181000 +0700" stop="20251007201000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Bertram Derthona Tortona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251007201000 +0700" stop="20251007221000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Las Vegas Aces - Phoenix Mercury</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +240,6 @@
 </programme>
 <programme start="20251008201000 +0700" stop="20251008222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Heidelberg</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251007194500 +0700" stop="20251007205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007205000 +0700" stop="20251007212000 +0700" channel="COSMOTE Sport 5 HD">
@@ -336,6 +328,10 @@
 </programme>
 <programme start="20251008195000 +0700" stop="20251008211500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251008211500 +0700" stop="20251008230000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007193000 +0700" stop="20251007220000 +0700" channel="COSMOTE Sport 6 HD">

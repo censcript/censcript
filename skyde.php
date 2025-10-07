@@ -2662,10 +2662,10 @@
 <programme start="20251007043000 +0000" stop="20251007093000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
-<programme start="20251007093000 +0000" stop="20251007110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007093000 +0000" stop="20251007103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251007110000 +0000" stop="20251007163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007103000 +0000" stop="20251007163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
 <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
