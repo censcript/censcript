@@ -200,7 +200,7 @@
 <title>Transformers: Dark Of The Moon</title>
 </programme>
 <programme start="20251007143000 +0000" stop="20251007160000 +0000" channel="GTV.vision">
-<title>The Expendables 3</title>
+<title>Sword Dynasty: Messy Inn</title>
 </programme>
 <programme start="20251007160000 +0000" stop="20251007170000 +0000" channel="GTV.vision">
 <title>Buletin iNews Malam</title>
@@ -652,11 +652,8 @@
 <programme start="20251008114500 +0000" stop="20251008121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251006233000 +0000" stop="20251007013000 +0000" channel="ANTV.vision">
-<title>Benyamin Koboy Ngungsi</title>
-</programme>
 <programme start="20251007013000 +0000" stop="20251007050000 +0000" channel="ANTV.vision">
-<title>Sultan</title>
+<title>Raees</title>
 </programme>
 <programme start="20251007050000 +0000" stop="20251007063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -675,6 +672,12 @@
 </programme>
 <programme start="20251007123000 +0000" stop="20251007143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251007143000 +0000" stop="20251007163000 +0000" channel="ANTV.vision">
+<title>Lenyapnya Dendam Si Buta</title>
+</programme>
+<programme start="20251007163000 +0000" stop="20251007183000 +0000" channel="ANTV.vision">
+<title>Yes Madam I</title>
 </programme>
 <programme start="20251007183000 +0000" stop="20251007203000 +0000" channel="ANTV.vision">
 <title>A Chinese Ghost Story</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251008060000 +0000" stop="20251008063000 +0000" channel="BTV.vision">
 <title>Investor Daily Talk</title>
-</programme>
-<programme start="20251008063000 +0000" stop="20251008080000 +0000" channel="BTV.vision">
-<title>Spot On</title>
 </programme>

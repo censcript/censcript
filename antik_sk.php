@@ -3514,28 +3514,28 @@
   <programme start="20251009205500 +0000" stop="20251009220000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Příliš mnoho lásky (5/8)</title>
   </programme>
-  <programme start="20251008213200 +0000" stop="20251008222300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251008213100 +0000" stop="20251008222200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Luštitelé záhad</title>
   </programme>
-  <programme start="20251008222300 +0000" stop="20251008231700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251008222200 +0000" stop="20251008231600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Supernova: Masakr na festivalu</title>
   </programme>
-  <programme start="20251008231700 +0000" stop="20251008234300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251008231600 +0000" stop="20251008234300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Evropa dnes - kvarteto</title>
   </programme>
-  <programme start="20251008234300 +0000" stop="20251009001100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251008234300 +0000" stop="20251009001000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20251009001100 +0000" stop="20251009003700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009001000 +0000" stop="20251009003600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tichý kovář</title>
   </programme>
-  <programme start="20251009003700 +0000" stop="20251009013800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009003600 +0000" stop="20251009013800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Žijeme s vírou</title>
   </programme>
-  <programme start="20251009013800 +0000" stop="20251009015600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009013800 +0000" stop="20251009015500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Číslo</title>
   </programme>
-  <programme start="20251009015600 +0000" stop="20251009022500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009015500 +0000" stop="20251009022500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ústecký kraj</title>
   </programme>
   <programme start="20251009022500 +0000" stop="20251009025300 +0000" channel="ČT2.webtv.sk">
@@ -3547,10 +3547,10 @@
   <programme start="20251009031200 +0000" stop="20251009032000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Nedej se: Občanské noviny</title>
   </programme>
-  <programme start="20251009032000 +0000" stop="20251009034600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009032000 +0000" stop="20251009034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Přiložte na ohně!</title>
   </programme>
-  <programme start="20251009034600 +0000" stop="20251009035900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009034500 +0000" stop="20251009035900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20251009035900 +0000" stop="20251009063000 +0000" channel="ČT2.webtv.sk">
@@ -3616,10 +3616,10 @@
   <programme start="20251009190000 +0000" stop="20251009193000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Manu a Matěj na cestě po střední Itálii (1/10)</title>
   </programme>
-  <programme start="20251009193000 +0000" stop="20251009195500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009193000 +0000" stop="20251009195600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Klenoty s vůní benzínu II (6/9)</title>
   </programme>
-  <programme start="20251009195500 +0000" stop="20251009210700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251009195600 +0000" stop="20251009210700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dakar Sistaz</title>
   </programme>
   <programme start="20251009210700 +0000" stop="20251009215100 +0000" channel="ČT2.webtv.sk">
