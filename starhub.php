@@ -313,8 +313,11 @@
     <programme start="20251006163000 +0000" stop="20251006170000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
     </programme>
-    <programme start="20251006170000 +0000" stop="20251006180000 +0000" channel="Zee TV.starhub">
-        <title>Chhoriyan Chali Gaon</title>
+    <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="Zee TV.starhub">
+        <title>Saru</title>
+    </programme>
+    <programme start="20251006173000 +0000" stop="20251006180000 +0000" channel="Zee TV.starhub">
+        <title>Vasudha</title>
     </programme>
     <programme start="20251006180000 +0000" stop="20251006183000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>
@@ -5356,38 +5359,38 @@
     <programme start="20251007153500 +0000" stop="20251007165000 +0000" channel="KBS World HD.starhub">
         <title>The Merchant : Gaekju 2015</title>
     </programme>
-    <programme start="20251006160000 +0000" stop="20251006163000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251006160000 +0000" stop="20251006161500 +0000" channel="TestChannel 996.starhub">
         <title>Big Boys Club</title>
     </programme>
-    <programme start="20251006163000 +0000" stop="20251006173000 +0000" channel="TestChannel 996.starhub">
-        <title>My Commissioned Lover</title>
+    <programme start="20251006161500 +0000" stop="20251006165000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
+    </programme>
+    <programme start="20251006165000 +0000" stop="20251006173000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
     </programme>
     <programme start="20251006173000 +0000" stop="20251006183000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen Of Castle &amp; What&#039;s On Today</title>
+        <title>Serendipity</title>
     </programme>
     <programme start="20251006183000 +0000" stop="20251006190000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251006190000 +0000" stop="20251006193000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251006193000 +0000" stop="20251006200000 +0000" channel="TestChannel 996.starhub">
-        <title>Gourmet Express</title>
+    <programme start="20251006190000 +0000" stop="20251006200000 +0000" channel="TestChannel 996.starhub">
+        <title>D.I.D. 12</title>
     </programme>
     <programme start="20251006200000 +0000" stop="20251006210000 +0000" channel="TestChannel 996.starhub">
-        <title>Legend of Two Sisters in the Chaos</title>
+        <title>Coroner&#039;s Diary</title>
     </programme>
-    <programme start="20251006210000 +0000" stop="20251006214500 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
+    <programme start="20251006210000 +0000" stop="20251006213000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
     </programme>
-    <programme start="20251006214500 +0000" stop="20251006220000 +0000" channel="TestChannel 996.starhub">
-        <title>Happy Old Buddies</title>
+    <programme start="20251006213000 +0000" stop="20251006222000 +0000" channel="TestChannel 996.starhub">
+        <title>The Airport Diary</title>
     </programme>
-    <programme start="20251006220000 +0000" stop="20251006223000 +0000" channel="TestChannel 996.starhub">
-        <title>News Treasury 2024</title>
+    <programme start="20251006222000 +0000" stop="20251006231500 +0000" channel="TestChannel 996.starhub">
+        <title>A Fallen Xian</title>
     </programme>
-    <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
+    <programme start="20251006231500 +0000" stop="20251006235000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
     </programme>
     <programme start="20251006235000 +0000" stop="20251007003000 +0000" channel="TestChannel 996.starhub">
         <title>Vengeance of the Bride</title>
@@ -7441,10 +7444,10 @@
     <programme start="20251006163000 +0000" stop="20251006170000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20251006173000 +0000" stop="20251006180000 +0000" channel="COLORS.starhub">
+    <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="COLORS.starhub">
         <title>Binddii</title>
     </programme>
-    <programme start="20251006180000 +0000" stop="20251006183000 +0000" channel="COLORS.starhub">
+    <programme start="20251006173000 +0000" stop="20251006183000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
     <programme start="20251006183000 +0000" stop="20251006190000 +0000" channel="COLORS.starhub">
@@ -7456,16 +7459,19 @@
     <programme start="20251006200000 +0000" stop="20251006203000 +0000" channel="COLORS.starhub">
         <title>Manpasand Ki Shaadi</title>
     </programme>
+    <programme start="20251006203000 +0000" stop="20251006210000 +0000" channel="COLORS.starhub">
+        <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
+    </programme>
     <programme start="20251006210000 +0000" stop="20251006213000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20251006213000 +0000" stop="20251006220000 +0000" channel="COLORS.starhub">
         <title>Binddii</title>
     </programme>
-    <programme start="20251006220000 +0000" stop="20251006223000 +0000" channel="COLORS.starhub">
+    <programme start="20251006220000 +0000" stop="20251006230000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
     </programme>
-    <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="COLORS.starhub">
+    <programme start="20251006230000 +0000" stop="20251006233000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20251006233000 +0000" stop="20251007000000 +0000" channel="COLORS.starhub">
@@ -8218,10 +8224,10 @@
     <programme start="20251006133000 +0000" stop="20251006163000 +0000" channel="Asianet Movies.starhub">
         <title>Ring Master</title>
     </programme>
-    <programme start="20251006163000 +0000" stop="20251006194000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006163000 +0000" stop="20251006193000 +0000" channel="Asianet Movies.starhub">
         <title>Evidam Swargamanu</title>
     </programme>
-    <programme start="20251006194000 +0000" stop="20251006223000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006193000 +0000" stop="20251006233000 +0000" channel="Asianet Movies.starhub">
         <title>Kannum Kannum Kollaiyadithaal</title>
     </programme>
     <programme start="20251006233000 +0000" stop="20251007013000 +0000" channel="Asianet Movies.starhub">
