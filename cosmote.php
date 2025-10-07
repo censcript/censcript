@@ -110,6 +110,10 @@
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251008131000 +0700" stop="20251008151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251007110000 +0700" stop="20251007143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Philadelphia Eagles - Denver Broncos</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: VEF Riga - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251007110000 +0700" stop="20251007120500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251007120500 +0700" stop="20251007133500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,6 +338,10 @@
     <title>Sports Classics: Gearing Up 2025 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251008131500 +0700" stop="20251008143500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251007113000 +0700" stop="20251007133000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Gabriel Diallo - Zizou Bergs (L)</title>
     <desc>Live: Ya</desc>
@@ -391,6 +395,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008113000 +0700" stop="20251008133000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251008133000 +0700" stop="20251008160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
