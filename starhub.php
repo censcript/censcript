@@ -5389,89 +5389,68 @@
     <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="TestChannel 996.starhub">
         <title>Scoop 2025</title>
     </programme>
-    <programme start="20251006230000 +0000" stop="20251007000000 +0000" channel="TestChannel 996.starhub">
-        <title>Good Morning Hong Kong and Global View</title>
+    <programme start="20251006235000 +0000" stop="20251007003000 +0000" channel="TestChannel 996.starhub">
+        <title>Vengeance of the Bride</title>
     </programme>
-    <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="TestChannel 996.starhub">
-        <title>My Commissioned Lover</title>
-    </programme>
-    <programme start="20251007010000 +0000" stop="20251007013000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20251007003000 +0000" stop="20251007013000 +0000" channel="TestChannel 996.starhub">
+        <title>Serendipity</title>
     </programme>
     <programme start="20251007013000 +0000" stop="20251007020000 +0000" channel="TestChannel 996.starhub">
-        <title>Hands Up</title>
-    </programme>
-    <programme start="20251007020000 +0000" stop="20251007023000 +0000" channel="TestChannel 996.starhub">
-        <title>Hong Kong Food Artisans &amp; What&#039;s On Today</title>
-    </programme>
-    <programme start="20251007023000 +0000" stop="20251007030000 +0000" channel="TestChannel 996.starhub">
-        <title>Gourmet Express</title>
-    </programme>
-    <programme start="20251007030000 +0000" stop="20251007040000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen Of Castle</title>
-    </programme>
-    <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251007043000 +0000" stop="20251007045500 +0000" channel="TestChannel 996.starhub">
-        <title>Big Boys Club</title>
-    </programme>
-    <programme start="20251007045500 +0000" stop="20251007052000 +0000" channel="TestChannel 996.starhub">
-        <title>Hands Up</title>
-    </programme>
-    <programme start="20251007052000 +0000" stop="20251007060500 +0000" channel="TestChannel 996.starhub">
-        <title>Big City Shop 2024</title>
-    </programme>
-    <programme start="20251007060500 +0000" stop="20251007063000 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251007063000 +0000" stop="20251007073000 +0000" channel="TestChannel 996.starhub">
-        <title>Under The Moonlight &amp; What&#039;s On Today</title>
+    <programme start="20251007020000 +0000" stop="20251007025500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 701-750) VVD Mandarin</title>
     </programme>
-    <programme start="20251007073000 +0000" stop="20251007080000 +0000" channel="TestChannel 996.starhub">
-        <title>Hong Kong Food Artisans</title>
+    <programme start="20251007025500 +0000" stop="20251007035500 +0000" channel="TestChannel 996.starhub">
+        <title>D.I.D. 12</title>
     </programme>
-    <programme start="20251007080000 +0000" stop="20251007083000 +0000" channel="TestChannel 996.starhub">
-        <title>Funny Funny Home</title>
+    <programme start="20251007035500 +0000" stop="20251007044500 +0000" channel="TestChannel 996.starhub">
+        <title>Coroner&#039;s Diary</title>
     </programme>
-    <programme start="20251007083000 +0000" stop="20251007090000 +0000" channel="TestChannel 996.starhub">
-        <title>Partners&#039; Kitchen</title>
-    </programme>
-    <programme start="20251007090000 +0000" stop="20251007093000 +0000" channel="TestChannel 996.starhub">
-        <title>Big Boys Club</title>
-    </programme>
-    <programme start="20251007093000 +0000" stop="20251007103000 +0000" channel="TestChannel 996.starhub">
-        <title>Legend of Two Sisters in the Chaos</title>
-    </programme>
-    <programme start="20251007103000 +0000" stop="20251007110000 +0000" channel="TestChannel 996.starhub">
-        <title>News At 18:30</title>
-    </programme>
-    <programme start="20251007110000 +0000" stop="20251007113500 +0000" channel="TestChannel 996.starhub">
-        <title>Gourmet Express &amp; What&#039;s On Today</title>
-    </programme>
-    <programme start="20251007113500 +0000" stop="20251007120000 +0000" channel="TestChannel 996.starhub">
-        <title>Scoop 2025</title>
-    </programme>
-    <programme start="20251007120000 +0000" stop="20251007123000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20251007044500 +0000" stop="20251007051500 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20251007123000 +0000" stop="20251007133000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen Of Castle</title>
+    <programme start="20251007051500 +0000" stop="20251007060000 +0000" channel="TestChannel 996.starhub">
+        <title>The Airport Diary</title>
     </programme>
-    <programme start="20251007133000 +0000" stop="20251007143000 +0000" channel="TestChannel 996.starhub">
-        <title>Under The Moonlight</title>
+    <programme start="20251007060000 +0000" stop="20251007064500 +0000" channel="TestChannel 996.starhub">
+        <title>A Fallen Xian</title>
     </programme>
-    <programme start="20251007143000 +0000" stop="20251007150000 +0000" channel="TestChannel 996.starhub">
-        <title>Hong Kong Food Artisans</title>
+    <programme start="20251007064500 +0000" stop="20251007073000 +0000" channel="TestChannel 996.starhub">
+        <title>As Beautiful As You</title>
     </programme>
-    <programme start="20251007150000 +0000" stop="20251007151500 +0000" channel="TestChannel 996.starhub">
-        <title>EXTRA</title>
+    <programme start="20251007073000 +0000" stop="20251007081500 +0000" channel="TestChannel 996.starhub">
+        <title>As Beautiful As You</title>
     </programme>
-    <programme start="20251007151500 +0000" stop="20251007155000 +0000" channel="TestChannel 996.starhub">
-        <title>News Roundup</title>
+    <programme start="20251007081500 +0000" stop="20251007090000 +0000" channel="TestChannel 996.starhub">
+        <title>Serendipity</title>
     </programme>
-    <programme start="20251007155000 +0000" stop="20251007160000 +0000" channel="TestChannel 996.starhub">
-        <title>Global View</title>
+    <programme start="20251007090000 +0000" stop="20251007094500 +0000" channel="TestChannel 996.starhub">
+        <title>Broken Trust</title>
+    </programme>
+    <programme start="20251007094500 +0000" stop="20251007103500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 701-750) VVD Mandarin</title>
+    </programme>
+    <programme start="20251007103500 +0000" stop="20251007110000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251007110000 +0000" stop="20251007120000 +0000" channel="TestChannel 996.starhub">
+        <title>Serendipity</title>
+    </programme>
+    <programme start="20251007120000 +0000" stop="20251007130000 +0000" channel="TestChannel 996.starhub">
+        <title>D.I.D. 12</title>
+    </programme>
+    <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="TestChannel 996.starhub">
+        <title>Coroner&#039;s Diary</title>
+    </programme>
+    <programme start="20251007140000 +0000" stop="20251007143000 +0000" channel="TestChannel 996.starhub">
+        <title>Lo And Behold</title>
+    </programme>
+    <programme start="20251007143000 +0000" stop="20251007152000 +0000" channel="TestChannel 996.starhub">
+        <title>A Fallen Xian</title>
+    </programme>
+    <programme start="20251007152000 +0000" stop="20251007161500 +0000" channel="TestChannel 996.starhub">
+        <title>A Fallen Xian</title>
     </programme>
     <programme start="20251006160000 +0000" stop="20251006161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>

@@ -50,10 +50,6 @@
     <title>Football: AEK Larnaca - AZ Alkmaar</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251007090500 +0700" stop="20251007110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251007110000 +0700" stop="20251007131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
@@ -110,12 +106,8 @@
     <title>Football: Udinese - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251007100000 +0700" stop="20251007103000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251007103000 +0700" stop="20251007110000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251008110000 +0700" stop="20251008131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007110000 +0700" stop="20251007143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -176,6 +168,10 @@
 </programme>
 <programme start="20251008103000 +0700" stop="20251008110000 +0700" channel="COSMOTE Sport 3 HD">
     <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251008110000 +0700" stop="20251008143000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Buffalo Bills - New England Patriots</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007100000 +0700" stop="20251007120000 +0700" channel="COSMOTE Sport 4 HD">
@@ -240,10 +236,6 @@
 </programme>
 <programme start="20251008100000 +0700" stop="20251008120000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Gran Canaria</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251007100000 +0700" stop="20251007110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007110000 +0700" stop="20251007120500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +326,10 @@
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251008110000 +0700" stop="20251008120000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251007100000 +0700" stop="20251007113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
@@ -389,6 +385,10 @@
 <programme start="20251008100000 +0700" stop="20251008113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251008113000 +0700" stop="20251008133000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251007100000 +0700" stop="20251007120000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -492,14 +492,6 @@
 </programme>
 <programme start="20251008100000 +0700" stop="20251008120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251007071500 +0700" stop="20251007104500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Jacksonville Jaguars - Kansas City Chiefs (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251007104500 +0700" stop="20251007110000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251007110000 +0700" stop="20251007113000 +0700" channel="COSMOTE Sport 9 HD">
