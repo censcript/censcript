@@ -1654,96 +1654,6 @@
 <programme start="20251007212000 +0000" stop="20251007221000 +0000" channel="Romance TV HD.skyde">
     <title>Familie Dr. Kleist</title>
 </programme>
-<programme start="20251006222500 +0000" stop="20251006231500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251006231500 +0000" stop="20251007001000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251007001000 +0000" stop="20251007011000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251007011000 +0000" stop="20251007014000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Thronecast</title>
-</programme>
-<programme start="20251007014000 +0000" stop="20251007014500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Featurette: Who is the Hangman? Portrait of Sofia Falcone</title>
-</programme>
-<programme start="20251007014500 +0000" stop="20251007023000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Winning Time: Aufstieg der Lakers-Dynastie</title>
-</programme>
-<programme start="20251007023000 +0000" stop="20251007030000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Silicon Valley</title>
-</programme>
-<programme start="20251007030000 +0000" stop="20251007033000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Silicon Valley</title>
-</programme>
-<programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Silicon Valley</title>
-</programme>
-<programme start="20251007040000 +0000" stop="20251007043500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Silicon Valley</title>
-</programme>
-<programme start="20251007043500 +0000" stop="20251007053500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Six Feet Under - Gestorben wird immer</title>
-</programme>
-<programme start="20251007053500 +0000" stop="20251007063000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Six Feet Under - Gestorben wird immer</title>
-</programme>
-<programme start="20251007063000 +0000" stop="20251007070500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251007070500 +0000" stop="20251007073500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251007073500 +0000" stop="20251007081000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251007081000 +0000" stop="20251007084000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Sex and the City</title>
-</programme>
-<programme start="20251007084000 +0000" stop="20251007093000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>True Blood</title>
-</programme>
-<programme start="20251007093000 +0000" stop="20251007102500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>True Blood</title>
-</programme>
-<programme start="20251007102500 +0000" stop="20251007112500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>True Blood</title>
-</programme>
-<programme start="20251007112500 +0000" stop="20251007122000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>True Blood</title>
-</programme>
-<programme start="20251007122000 +0000" stop="20251007132000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
-</programme>
-<programme start="20251007132000 +0000" stop="20251007141500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Die Sopranos</title>
-</programme>
-<programme start="20251007141500 +0000" stop="20251007151500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251007151500 +0000" stop="20251007161000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251007161000 +0000" stop="20251007171000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251007171000 +0000" stop="20251007181500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
-<programme start="20251007181500 +0000" stop="20251007192000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chernobyl</title>
-</programme>
-<programme start="20251007192000 +0000" stop="20251007202500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chernobyl</title>
-</programme>
-<programme start="20251007202500 +0000" stop="20251007214000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chernobyl</title>
-</programme>
-<programme start="20251007214000 +0000" stop="20251007224000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Game of Thrones - Das Lied von Eis und Feuer</title>
-</programme>
 <programme start="20251006220000 +0000" stop="20251007013500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Watchmen: Die Wächter - Ultimate Cut</title>
 </programme>
@@ -2656,16 +2566,16 @@
 <programme start="20251007200000 +0000" stop="20251007220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - WSG Tirol, 9. Runde</title>
 </programme>
-<programme start="20251007041000 +0000" stop="20251007043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: LIVE ATP World Tour</title>
+<programme start="20251006220000 +0000" stop="20251007043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: ab 06:30: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251007043000 +0000" stop="20251007083000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007043000 +0000" stop="20251007093000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
-<programme start="20251007101000 +0000" stop="20251007103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007093000 +0000" stop="20251007103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251007103000 +0000" stop="20251007143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007103000 +0000" stop="20251007163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
 <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2857,13 +2767,16 @@
 <programme start="20251007063000 +0000" stop="20251007093000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Alfred Dunhill Links Championship, 4. Tag in Carnoustie &amp; Kingsbarns (Schottland)</title>
 </programme>
-<programme start="20251007093000 +0000" stop="20251007123000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251007093000 +0000" stop="20251007120000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Lotte Championship, Finaltag in Oahu, HI (USA)</title>
 </programme>
-<programme start="20251007123000 +0000" stop="20251007150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251007120000 +0000" stop="20251007123000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Highlights Alfred Dunhill Links Championship</title>
+</programme>
+<programme start="20251007123000 +0000" stop="20251007153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 1. Tag in Jackson, MS (USA)</title>
 </programme>
-<programme start="20251007150000 +0000" stop="20251007173000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251007153000 +0000" stop="20251007173000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Sanderson Farms Championship, 2. Tag in Jackson, MS (USA)</title>
 </programme>
 <programme start="20251007173000 +0000" stop="20251007200000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2963,10 +2876,10 @@
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show XXL</title>
+    <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20251007090000 +0000" stop="20251007100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: DFB-Training</title>
+    <title>Transfer Update: Die Show XXL</title>
 </programme>
 <programme start="20251007100000 +0000" stop="20251007130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3511,13 +3424,13 @@
 <programme start="20251007032500 +0000" stop="20251007034500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007034500 +0000" stop="20251007041000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007034500 +0000" stop="20251007041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007041000 +0000" stop="20251007043500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007041500 +0000" stop="20251007044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007043500 +0000" stop="20251007050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007044000 +0000" stop="20251007050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251007050500 +0000" stop="20251007053000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3526,46 +3439,46 @@
 <programme start="20251007053000 +0000" stop="20251007060000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251007060000 +0000" stop="20251007062500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007060000 +0000" stop="20251007063000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20251007062500 +0000" stop="20251007065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007063000 +0000" stop="20251007065500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007065000 +0000" stop="20251007071500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007065500 +0000" stop="20251007072000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007071500 +0000" stop="20251007074000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007072000 +0000" stop="20251007074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007074000 +0000" stop="20251007080500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007074500 +0000" stop="20251007081000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251007080500 +0000" stop="20251007083000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007081000 +0000" stop="20251007083500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007083000 +0000" stop="20251007085500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007083500 +0000" stop="20251007090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007085500 +0000" stop="20251007092000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007090000 +0000" stop="20251007092500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007092000 +0000" stop="20251007094500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007092500 +0000" stop="20251007095000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251007094500 +0000" stop="20251007101000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007095000 +0000" stop="20251007101500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007101000 +0000" stop="20251007103000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007101500 +0000" stop="20251007103500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007103000 +0000" stop="20251007105500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007103500 +0000" stop="20251007105500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007105500 +0000" stop="20251007111500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007105500 +0000" stop="20251007112000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>
 </programme>
-<programme start="20251007111500 +0000" stop="20251007114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007112000 +0000" stop="20251007114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251007114000 +0000" stop="20251007120500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3574,28 +3487,28 @@
 <programme start="20251007120500 +0000" stop="20251007123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007123000 +0000" stop="20251007125500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007123000 +0000" stop="20251007130000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007125500 +0000" stop="20251007132000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007130000 +0000" stop="20251007132500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007132000 +0000" stop="20251007134500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007132500 +0000" stop="20251007135000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007134500 +0000" stop="20251007141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007135000 +0000" stop="20251007141500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007141500 +0000" stop="20251007143500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007141500 +0000" stop="20251007144000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251007143500 +0000" stop="20251007150000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007144000 +0000" stop="20251007150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007150000 +0000" stop="20251007152000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007150000 +0000" stop="20251007152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007152000 +0000" stop="20251007155000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007152500 +0000" stop="20251007155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20251007155000 +0000" stop="20251007161500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3622,13 +3535,13 @@
 <programme start="20251007184000 +0000" stop="20251007190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007190500 +0000" stop="20251007192500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007190500 +0000" stop="20251007193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251007192500 +0000" stop="20251007195000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007193000 +0000" stop="20251007195500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251007195000 +0000" stop="20251007201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007195500 +0000" stop="20251007201500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20251007201500 +0000" stop="20251007204500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3640,13 +3553,13 @@
 <programme start="20251007211000 +0000" stop="20251007212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251007212000 +0000" stop="20251007213500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007212000 +0000" stop="20251007213000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251007213500 +0000" stop="20251007214500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007213000 +0000" stop="20251007214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251007214500 +0000" stop="20251007215500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251007214000 +0000" stop="20251007215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251007215500 +0000" stop="20251007222000 +0000" channel="Warner TV Comedy HD.skyde">

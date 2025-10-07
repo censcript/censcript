@@ -4265,7 +4265,7 @@
         <title>Trend Game / This Bird Has Flown</title>
     </programme>
     <programme start="20251007050000 +0000" stop="20251007052500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>V.I.Peeved / Senor Class</title>
+        <title>V.I.Peeved / Señor Class</title>
     </programme>
     <programme start="20251007052500 +0000" stop="20251007055000 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>Skaters Gonna Hate / Born to Be Mild</title>
@@ -4349,7 +4349,7 @@
         <title>Guilt Trip / Short cut</title>
     </programme>
     <programme start="20251007150000 +0000" stop="20251007152500 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>SpongeBob LongPants / Larry&#039;s Gym</title>
+        <title>SpongeBob LongPants / Larry’s Gym</title>
     </programme>
     <programme start="20251007152500 +0000" stop="20251007154500 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>Flabber Gassed</title>

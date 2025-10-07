@@ -4097,7 +4097,7 @@
     <title>Transformers: Dark Of The Moon</title>
 </programme>
 <programme start="20251007143000 +0000" stop="20251007160000 +0000" channel="GTV.mncvision">
-    <title>Eagle Eye</title>
+    <title>The Expendables 3</title>
 </programme>
 <programme start="20251007160000 +0000" stop="20251007163000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Malam</title>
@@ -4148,7 +4148,7 @@
     <title>Transformers: Dark Of The Moon</title>
 </programme>
 <programme start="20251007143000 +0000" stop="20251007160000 +0000" channel="GTV HD.mncvision">
-    <title>Eagle Eye</title>
+    <title>The Expendables 3</title>
 </programme>
 <programme start="20251007160000 +0000" stop="20251007163000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
