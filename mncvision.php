@@ -413,7 +413,7 @@
     <title>Benyamin Koboy Ngungsi</title>
 </programme>
 <programme start="20251007013000 +0000" stop="20251007050000 +0000" channel="ANTV.mncvision">
-    <title>Raees</title>
+    <title>Sultan</title>
 </programme>
 <programme start="20251007050000 +0000" stop="20251007063000 +0000" channel="ANTV.mncvision">
     <title>Mangal Lakshmi</title>
