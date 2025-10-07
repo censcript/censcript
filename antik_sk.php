@@ -979,86 +979,14 @@
   <programme start="20251009210000 +0000" stop="20251009224000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Sniper 2</title>
   </programme>
-  <programme start="20251008215500 +0000" stop="20251008225000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Chicago Fire IX (5)</title>
+  <programme start="20251007222149 +0000" stop="20251007222149 +0000" channel="Doma.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008225000 +0000" stop="20251008234000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Zradená (62)</title>
+  <programme start="20251007222149 +0000" stop="20251007222149 +0000" channel="Doma.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008234000 +0000" stop="20251009001500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Zradená (63)</title>
-  </programme>
-  <programme start="20251009001500 +0000" stop="20251009012000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Smotánka</title>
-  </programme>
-  <programme start="20251009012000 +0000" stop="20251009030000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Adela show</title>
-  </programme>
-  <programme start="20251009030000 +0000" stop="20251009035000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Oteckovia III (15)</title>
-  </programme>
-  <programme start="20251009035000 +0000" stop="20251009044500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Búrlivé víno III (30)</title>
-  </programme>
-  <programme start="20251009044500 +0000" stop="20251009053000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Neskrotné srdce (25)</title>
-  </programme>
-  <programme start="20251009053000 +0000" stop="20251009063500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Neskrotné srdce (26)</title>
-  </programme>
-  <programme start="20251009063500 +0000" stop="20251009072000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Frasier IX (5)</title>
-  </programme>
-  <programme start="20251009072000 +0000" stop="20251009075000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Frasier IX (6)</title>
-  </programme>
-  <programme start="20251009075000 +0000" stop="20251009085000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Chicago Fire IX (6)</title>
-  </programme>
-  <programme start="20251009085000 +0000" stop="20251009094500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Zradená (62)</title>
-  </programme>
-  <programme start="20251009094500 +0000" stop="20251009105000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Zradená (63)</title>
-  </programme>
-  <programme start="20251009105000 +0000" stop="20251009120500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Oteckovia III (16)</title>
-  </programme>
-  <programme start="20251009120500 +0000" stop="20251009130000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Divoký anjel (229)</title>
-  </programme>
-  <programme start="20251009130000 +0000" stop="20251009140000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Divoký anjel (230)</title>
-  </programme>
-  <programme start="20251009140000 +0000" stop="20251009151000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Neskrotné srdce (27)</title>
-  </programme>
-  <programme start="20251009151000 +0000" stop="20251009160000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Neskrotné srdce (28)</title>
-  </programme>
-  <programme start="20251009160000 +0000" stop="20251009170000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Chicago Fire IX (7)</title>
-  </programme>
-  <programme start="20251009170000 +0000" stop="20251009180500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Zradená (64)</title>
-  </programme>
-  <programme start="20251009180500 +0000" stop="20251009185500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Zradená (65)</title>
-  </programme>
-  <programme start="20251009185500 +0000" stop="20251009192500 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Frasier IX (7)</title>
-  </programme>
-  <programme start="20251009192500 +0000" stop="20251009200000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Frasier IX (8)</title>
-  </programme>
-  <programme start="20251009200000 +0000" stop="20251009203000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Priatelia IX (3)</title>
-  </programme>
-  <programme start="20251009203000 +0000" stop="20251009210000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Priatelia IX (4)</title>
-  </programme>
-  <programme start="20251009210000 +0000" stop="20251009220000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Chicago Med VII (9)</title>
+  <programme start="20251007222149 +0000" stop="20251007222149 +0000" channel="Doma.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
   <programme start="20251008211000 +0000" stop="20251008220500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Sherlock a Watsonová V (16)</title>
@@ -4042,122 +3970,14 @@
   <programme start="20251009214500 +0000" stop="20251009224100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Francouzská nová vlna - filmová revoluce</title>
   </programme>
-  <programme start="20251008213000 +0000" stop="20251008221500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ulice (3438)</title>
+  <programme start="20251007222155 +0000" stop="20251007222155 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008221500 +0000" stop="20251008231500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ordinace v růžové zahradě II (61)</title>
+  <programme start="20251007222155 +0000" stop="20251007222155 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008231500 +0000" stop="20251009001500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ordinace v růžové zahradě II (62)</title>
-  </programme>
-  <programme start="20251009001500 +0000" stop="20251009005500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Televizní noviny</title>
-  </programme>
-  <programme start="20251009005500 +0000" stop="20251009010000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20251009010000 +0000" stop="20251009010100 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Počasí</title>
-  </programme>
-  <programme start="20251009010100 +0000" stop="20251009020500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Snídaně s Novou</title>
-  </programme>
-  <programme start="20251009020500 +0000" stop="20251009025500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Riskuj!</title>
-  </programme>
-  <programme start="20251009025500 +0000" stop="20251009033000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Áčko</title>
-  </programme>
-  <programme start="20251009033000 +0000" stop="20251009040000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Kolotoč</title>
-  </programme>
-  <programme start="20251009040000 +0000" stop="20251009063500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Snídaně s Novou</title>
-  </programme>
-  <programme start="20251009063500 +0000" stop="20251009065000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Babicovy dobroty</title>
-  </programme>
-  <programme start="20251009065000 +0000" stop="20251009074000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ulice (4986)</title>
-  </programme>
-  <programme start="20251009074000 +0000" stop="20251009084500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">MasterChef Česko VII (6)</title>
-  </programme>
-  <programme start="20251009084500 +0000" stop="20251009093000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Na lovu V</title>
-  </programme>
-  <programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Riskuj!</title>
-  </programme>
-  <programme start="20251009100000 +0000" stop="20251009102000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Polední Televizní noviny</title>
-  </programme>
-  <programme start="20251009102000 +0000" stop="20251009102400 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Polední Sportovní noviny</title>
-  </programme>
-  <programme start="20251009102400 +0000" stop="20251009103500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Polední Počasí</title>
-  </programme>
-  <programme start="20251009103500 +0000" stop="20251009110000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Riskuj!</title>
-  </programme>
-  <programme start="20251009110000 +0000" stop="20251009111000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Tescoma s chutí</title>
-  </programme>
-  <programme start="20251009111000 +0000" stop="20251009120500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Specialisté (107)</title>
-  </programme>
-  <programme start="20251009120500 +0000" stop="20251009125000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ulice (3439)</title>
-  </programme>
-  <programme start="20251009125000 +0000" stop="20251009135500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ordinace v růžové zahradě II (62)</title>
-  </programme>
-  <programme start="20251009135500 +0000" stop="20251009145700 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ordinace v růžové zahradě II (63)</title>
-  </programme>
-  <programme start="20251009145700 +0000" stop="20251009150000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Odpolední Počasí</title>
-  </programme>
-  <programme start="20251009150000 +0000" stop="20251009152000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Odpolední Televizní noviny</title>
-  </programme>
-  <programme start="20251009152000 +0000" stop="20251009153000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Odpolední Sportovní noviny</title>
-  </programme>
-  <programme start="20251009153000 +0000" stop="20251009162500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Na lovu V</title>
-  </programme>
-  <programme start="20251009162500 +0000" stop="20251009163500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Tescoma s chutí</title>
-  </programme>
-  <programme start="20251009163500 +0000" stop="20251009173000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ulice (4987)</title>
-  </programme>
-  <programme start="20251009173000 +0000" stop="20251009181300 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Televizní noviny</title>
-  </programme>
-  <programme start="20251009181300 +0000" stop="20251009181800 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20251009181800 +0000" stop="20251009182000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Počasí</title>
-  </programme>
-  <programme start="20251009182000 +0000" stop="20251009194000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Bratři a sestry (13)</title>
-  </programme>
-  <programme start="20251009194000 +0000" stop="20251009202000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Comeback I (13)</title>
-  </programme>
-  <programme start="20251009202000 +0000" stop="20251009205500 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Comeback I (14)</title>
-  </programme>
-  <programme start="20251009205500 +0000" stop="20251009212000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Střepiny</title>
-  </programme>
-  <programme start="20251009212000 +0000" stop="20251009221000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ulice (3439)</title>
+  <programme start="20251007222155 +0000" stop="20251007222155 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
   <programme start="20251008212500 +0000" stop="20251008220500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
@@ -5239,86 +5059,14 @@
   <programme start="20251009203000 +0000" stop="20251009221500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Sporting CP - SC Braga</title>
   </programme>
-  <programme start="20251008210500 +0000" stop="20251008230000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">New York Rangers - Pittsburgh Penguins</title>
+  <programme start="20251007222158 +0000" stop="20251007222158 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008230000 +0000" stop="20251008233500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">SpadePoker Show 2025 (25)</title>
+  <programme start="20251007222158 +0000" stop="20251007222158 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008233500 +0000" stop="20251009021500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Washington Capitals - Boston Bruins</title>
-  </programme>
-  <programme start="20251009021500 +0000" stop="20251009041500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Leicester Tigers - Harlequins</title>
-  </programme>
-  <programme start="20251009041500 +0000" stop="20251009050000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Noční program</title>
-  </programme>
-  <programme start="20251009050000 +0000" stop="20251009050500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20251009050500 +0000" stop="20251009064500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Unicaja - Mersin Sports Club</title>
-  </programme>
-  <programme start="20251009064500 +0000" stop="20251009071500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Red Bull Romaniacs 2025</title>
-  </programme>
-  <programme start="20251009071500 +0000" stop="20251009090000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Toronto Maple Leafs - Montreal Canadiens</title>
-  </programme>
-  <programme start="20251009090000 +0000" stop="20251009104500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Washington Capitals - Boston Bruins</title>
-  </programme>
-  <programme start="20251009104500 +0000" stop="20251009110000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Běhej lesy - Železná Ruda</title>
-  </programme>
-  <programme start="20251009110000 +0000" stop="20251009110500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Polední Sportovní noviny</title>
-  </programme>
-  <programme start="20251009110500 +0000" stop="20251009130000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHSZ-Szolnoki Olajbanyasz - Patrioti Levice</title>
-  </programme>
-  <programme start="20251009130000 +0000" stop="20251009144500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Saracens - Bristol Bears</title>
-  </programme>
-  <programme start="20251009144500 +0000" stop="20251009163500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Toronto Maple Leafs - Montreal Canadiens</title>
-  </programme>
-  <programme start="20251009163500 +0000" stop="20251009165000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL News</title>
-  </programme>
-  <programme start="20251009165000 +0000" stop="20251009165500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Odpolední Sportovní noviny</title>
-  </programme>
-  <programme start="20251009165500 +0000" stop="20251009184500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Rhein-Neckar Löwen - FRISCH AUF! Göppingen</title>
-  </programme>
-  <programme start="20251009184500 +0000" stop="20251009190000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Czech Enduro GP 2025 - Enduro Trutnov</title>
-  </programme>
-  <programme start="20251009190000 +0000" stop="20251009190500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20251009190500 +0000" stop="20251009193000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">SpadePoker Show 2025 (26)</title>
-  </programme>
-  <programme start="20251009193000 +0000" stop="20251009200000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NFL Gameday (5)</title>
-  </programme>
-  <programme start="20251009200000 +0000" stop="20251009203000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Ligue 1 Highlights (7)</title>
-  </programme>
-  <programme start="20251009203000 +0000" stop="20251009204500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Den NHL v Miláně</title>
-  </programme>
-  <programme start="20251009204500 +0000" stop="20251009210000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL News</title>
-  </programme>
-  <programme start="20251009210000 +0000" stop="20251009210500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20251009210500 +0000" stop="20251009230000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Washington Capitals - Boston Bruins</title>
+  <programme start="20251007222158 +0000" stop="20251007222158 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
   <programme start="20251008220000 +0000" stop="20251008223000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">World Downhill Skateboarding Championship 2025 - Isle of Man</title>
@@ -6529,104 +6277,14 @@
   <programme start="20251009210000 +0000" stop="20251009220000 +0000" channel="Animal Planet.webtv.sk">
     <title lang="id">Pátrání po monstrech I (3)</title>
   </programme>
-  <programme start="20251008220000 +0000" stop="20251008224500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
+  <programme start="20251007222200 +0000" stop="20251007222200 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008224500 +0000" stop="20251008233000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
+  <programme start="20251007222200 +0000" stop="20251007222200 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008233000 +0000" stop="20251009001500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009001500 +0000" stop="20251009010000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009010000 +0000" stop="20251009014500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Západ Kevina Costnera</title>
-  </programme>
-  <programme start="20251009014500 +0000" stop="20251009023000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20251009023000 +0000" stop="20251009031500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Neuvěřitelné s Danem Aykroydem</title>
-  </programme>
-  <programme start="20251009031500 +0000" stop="20251009040000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009040000 +0000" stop="20251009044000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Ranč mimozemšťanů</title>
-  </programme>
-  <programme start="20251009044000 +0000" stop="20251009052500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20251009052500 +0000" stop="20251009060500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20251009060500 +0000" stop="20251009065000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009065000 +0000" stop="20251009073000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009073000 +0000" stop="20251009081500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20251009081500 +0000" stop="20251009090000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Západ Kevina Costnera</title>
-  </programme>
-  <programme start="20251009090000 +0000" stop="20251009094500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Největší záhady historie</title>
-  </programme>
-  <programme start="20251009094500 +0000" stop="20251009103000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Neuvěřitelné s Danem Aykroydem</title>
-  </programme>
-  <programme start="20251009103000 +0000" stop="20251009111000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009111000 +0000" stop="20251009115000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Ranč mimozemšťanů</title>
-  </programme>
-  <programme start="20251009115000 +0000" stop="20251009123500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20251009123500 +0000" stop="20251009131500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20251009131500 +0000" stop="20251009140000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Západ Kevina Costnera</title>
-  </programme>
-  <programme start="20251009140000 +0000" stop="20251009144500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Jak se tohle dá vysvětlit? Edice mimozemšťan</title>
-  </programme>
-  <programme start="20251009144500 +0000" stop="20251009152500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Ranč mimozemšťanů</title>
-  </programme>
-  <programme start="20251009152500 +0000" stop="20251009161000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20251009161000 +0000" stop="20251009165000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20251009165000 +0000" stop="20251009173500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009173500 +0000" stop="20251009181500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20251009181500 +0000" stop="20251009190000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20251009190000 +0000" stop="20251009194500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Ranč mimozemšťanů</title>
-  </programme>
-  <programme start="20251009194500 +0000" stop="20251009203000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Jak se tohle dá vysvětlit?</title>
-  </programme>
-  <programme start="20251009203000 +0000" stop="20251009211500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20251009211500 +0000" stop="20251009220000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
+  <programme start="20251007222200 +0000" stop="20251007222200 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
   <programme start="20251008220000 +0000" stop="20251008224500 +0000" channel="History 2.webtv.sk">
     <title lang="id">MonsterQuest</title>
@@ -9316,50 +8974,14 @@
   <programme start="20251009195000 +0000" stop="20251009221000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Ničitelka</title>
   </programme>
-  <programme start="20251008200000 +0000" stop="20251008222000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Fakjů pane učiteli</title>
+  <programme start="20251007222204 +0000" stop="20251007222204 +0000" channel="FilmBox.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008222000 +0000" stop="20251009000000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Bojovník: hrdost a čest</title>
+  <programme start="20251007222204 +0000" stop="20251007222204 +0000" channel="FilmBox.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251009000000 +0000" stop="20251009020500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Pokrevní pouto</title>
-  </programme>
-  <programme start="20251009020500 +0000" stop="20251009032000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20251009032000 +0000" stop="20251009044000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Šťastná</title>
-  </programme>
-  <programme start="20251009044000 +0000" stop="20251009064500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Sniff válečný hrdina</title>
-  </programme>
-  <programme start="20251009064500 +0000" stop="20251009074000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Tajemství Pravdy I (1)</title>
-  </programme>
-  <programme start="20251009074000 +0000" stop="20251009083500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Tajemství Pravdy I (2)</title>
-  </programme>
-  <programme start="20251009083500 +0000" stop="20251009101500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Slasti otce vlasti</title>
-  </programme>
-  <programme start="20251009101500 +0000" stop="20251009135000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Králové hor</title>
-  </programme>
-  <programme start="20251009135000 +0000" stop="20251009161000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Prvok, šampón, tečka a Karel</title>
-  </programme>
-  <programme start="20251009161000 +0000" stop="20251009170500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Tajemství Pravdy I (3)</title>
-  </programme>
-  <programme start="20251009170500 +0000" stop="20251009180000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Tajemství Pravdy I (4)</title>
-  </programme>
-  <programme start="20251009180000 +0000" stop="20251009201500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Cena hříchu</title>
-  </programme>
-  <programme start="20251009201500 +0000" stop="20251009221000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Vesmírný lov</title>
+  <programme start="20251007222204 +0000" stop="20251007222204 +0000" channel="FilmBox.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
   <programme start="20251008205000 +0000" stop="20251008222000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Z temnoty</title>
@@ -9412,50 +9034,14 @@
   <programme start="20251009205500 +0000" stop="20251009223000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Vpich</title>
   </programme>
-  <programme start="20251008215500 +0000" stop="20251008233000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Lovci a štvanci</title>
+  <programme start="20251007222205 +0000" stop="20251007222205 +0000" channel="FilmBox Premium.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008233000 +0000" stop="20251009010000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Zúčtování v Grandu</title>
+  <programme start="20251007222205 +0000" stop="20251007222205 +0000" channel="FilmBox Premium.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
-  <programme start="20251009010000 +0000" stop="20251009033500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Za úsvitu</title>
-  </programme>
-  <programme start="20251009033500 +0000" stop="20251009051500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Bradův život</title>
-  </programme>
-  <programme start="20251009051500 +0000" stop="20251009065500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Poslední štvanice</title>
-  </programme>
-  <programme start="20251009065500 +0000" stop="20251009082500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Upírky</title>
-  </programme>
-  <programme start="20251009082500 +0000" stop="20251009100500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Bel Canto</title>
-  </programme>
-  <programme start="20251009100500 +0000" stop="20251009115000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Hrdinové</title>
-  </programme>
-  <programme start="20251009115000 +0000" stop="20251009132000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Madam služebná</title>
-  </programme>
-  <programme start="20251009132000 +0000" stop="20251009150000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">The Program: Pád legendy</title>
-  </programme>
-  <programme start="20251009150000 +0000" stop="20251009162000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Bůh masakru</title>
-  </programme>
-  <programme start="20251009162000 +0000" stop="20251009180000 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Místo pro život</title>
-  </programme>
-  <programme start="20251009180000 +0000" stop="20251009200500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Pokrevní pouto</title>
-  </programme>
-  <programme start="20251009200500 +0000" stop="20251009213500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Školní masakr</title>
-  </programme>
-  <programme start="20251009213500 +0000" stop="20251009231500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Běž, králíčku, běž</title>
+  <programme start="20251007222205 +0000" stop="20251007222205 +0000" channel="FilmBox Premium.webtv.sk">
+    <title lang="id">N/A</title>
   </programme>
   <programme start="20251008220000 +0000" stop="20251009030000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Noční tabule</title>

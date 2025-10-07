@@ -50,14 +50,6 @@
     <title>Football: Panathinaikos - Go Ahead Eagles</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008034000 +0700" stop="20251008041000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008041000 +0700" stop="20251008044000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251008044000 +0700" stop="20251008065000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
@@ -116,10 +108,6 @@
 </programme>
 <programme start="20251009042000 +0700" stop="20251009063000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008030000 +0700" stop="20251008050000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rangers FC - Hibernian</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008050000 +0700" stop="20251008070000 +0700" channel="COSMOTE Sport 3 HD">
@@ -182,12 +170,8 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008031000 +0700" stop="20251008040500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008040500 +0700" stop="20251008043500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20251009050000 +0700" stop="20251009070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Porto - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008043500 +0700" stop="20251008065000 +0700" channel="COSMOTE Sport 4 HD">
@@ -256,14 +240,6 @@
 </programme>
 <programme start="20251009045000 +0700" stop="20251009070000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oostende - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008015500 +0700" stop="20251008040500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Promitheas - Heidelberg</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008040500 +0700" stop="20251008043500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008043500 +0700" stop="20251008060000 +0700" channel="COSMOTE Sport 5 HD">
@@ -347,6 +323,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009033500 +0700" stop="20251009050500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251009050500 +0700" stop="20251009060000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
