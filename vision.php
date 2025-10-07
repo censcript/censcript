@@ -652,9 +652,6 @@
 <programme start="20251008114500 +0000" stop="20251008121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251006233000 +0000" stop="20251007013000 +0000" channel="ANTV.vision">
-<title>Benyamin Koboy Ngungsi</title>
-</programme>
 <programme start="20251007013000 +0000" stop="20251007050000 +0000" channel="ANTV.vision">
 <title>Raees</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251008050000 +0000" stop="20251008060000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
+</programme>
+<programme start="20251008060000 +0000" stop="20251008063000 +0000" channel="BTV.vision">
+<title>Investor Daily Talk</title>
 </programme>

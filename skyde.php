@@ -1321,25 +1321,25 @@
 <programme start="20251006220500 +0000" stop="20251006223000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251006223000 +0000" stop="20251006225000 +0000" channel="Nick Jr..skyde">
+<programme start="20251006223000 +0000" stop="20251006225500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251006225000 +0000" stop="20251006231500 +0000" channel="Nick Jr..skyde">
+<programme start="20251006225500 +0000" stop="20251006231500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251006231500 +0000" stop="20251006232500 +0000" channel="Nick Jr..skyde">
+<programme start="20251006231500 +0000" stop="20251006233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251006232500 +0000" stop="20251006235000 +0000" channel="Nick Jr..skyde">
+<programme start="20251006233000 +0000" stop="20251006235000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251006235000 +0000" stop="20251007000500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251007000500 +0000" stop="20251007001000 +0000" channel="Nick Jr..skyde">
+<programme start="20251007000500 +0000" stop="20251007001500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251007001000 +0000" stop="20251007002000 +0000" channel="Nick Jr..skyde">
+<programme start="20251007001500 +0000" stop="20251007002000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251007002000 +0000" stop="20251007003000 +0000" channel="Nick Jr..skyde">
@@ -1348,10 +1348,10 @@
 <programme start="20251007003000 +0000" stop="20251007005000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251007005000 +0000" stop="20251007010000 +0000" channel="Nick Jr..skyde">
+<programme start="20251007005000 +0000" stop="20251007010500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251007010000 +0000" stop="20251007012500 +0000" channel="Nick Jr..skyde">
+<programme start="20251007010500 +0000" stop="20251007012500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20251007012500 +0000" stop="20251007014500 +0000" channel="Nick Jr..skyde">
@@ -1372,10 +1372,10 @@
 <programme start="20251007024500 +0000" stop="20251007025500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251007025500 +0000" stop="20251007031500 +0000" channel="Nick Jr..skyde">
+<programme start="20251007025500 +0000" stop="20251007032000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251007031500 +0000" stop="20251007033000 +0000" channel="Nick Jr..skyde">
+<programme start="20251007032000 +0000" stop="20251007033000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251007033000 +0000" stop="20251007035500 +0000" channel="Nick Jr..skyde">
@@ -2110,13 +2110,13 @@
 <programme start="20251007181000 +0000" stop="20251007190000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
 </programme>
-<programme start="20251007190000 +0000" stop="20251007195000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251007190000 +0000" stop="20251007194500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hitlers Schatzjäger</title>
 </programme>
-<programme start="20251007195000 +0000" stop="20251007204000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251007194500 +0000" stop="20251007203500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hitlers Schatzjäger</title>
 </programme>
-<programme start="20251007204000 +0000" stop="20251007213000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20251007203500 +0000" stop="20251007213000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Mächte des Altertums</title>
 </programme>
 <programme start="20251007213000 +0000" stop="20251007222500 +0000" channel="Sky Documentaries HD.skyde">
@@ -2656,86 +2656,92 @@
 <programme start="20251007200000 +0000" stop="20251007220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - WSG Tirol, 9. Runde</title>
 </programme>
-<programme start="20251007041000 +0000" stop="20251007043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: LIVE ATP World Tour</title>
+<programme start="20251006220000 +0000" stop="20251007043000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: ab 06:30: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251007043000 +0000" stop="20251007083000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007043000 +0000" stop="20251007093000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
-<programme start="20251007101000 +0000" stop="20251007103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007093000 +0000" stop="20251007103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251007103000 +0000" stop="20251007143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007103000 +0000" stop="20251007163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
-<programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+<programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 5. Spieltag komplett</title>
 </programme>
-<programme start="20251009223000 +0000" stop="20251010003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Sonntags-Konferenz, 8. Spieltag</title>
+<programme start="20251006230000 +0000" stop="20251007010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Holstein Kiel - SV Darmstadt 98, 8. Spieltag</title>
 </programme>
-<programme start="20251010003000 +0000" stop="20251010010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: SGD - KSC. 8. Spieltag</title>
-</programme>
-<programme start="20251010010000 +0000" stop="20251010030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 1. FC Magdeburg - SV Elversberg, 8. Spieltag</title>
-</programme>
-<programme start="20251010030000 +0000" stop="20251010040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251007010000 +0000" stop="20251007020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 8. Spieltag</title>
 </programme>
-<programme start="20251010040000 +0000" stop="20251010043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Ralf Moeller</title>
-</programme>
-<programme start="20251010043000 +0000" stop="20251010050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: SGD - KSC. 8. Spieltag</title>
-</programme>
-<programme start="20251010050000 +0000" stop="20251010070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: TSG Hoffenheim - 1. FC Köln, Flutlicht-Freitag, 6. Spieltag</title>
-</programme>
-<programme start="20251010070000 +0000" stop="20251010080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251007020000 +0000" stop="20251007030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 6. Spieltag</title>
 </programme>
-<programme start="20251010080000 +0000" stop="20251010100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: FC Augsburg - VfL Wolfsburg, 6. Spieltag</title>
+<programme start="20251007030000 +0000" stop="20251007031500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 8. Spieltag</title>
 </programme>
-<programme start="20251010100000 +0000" stop="20251010103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20251010103000 +0000" stop="20251010113000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 8. Spieltag</title>
-</programme>
-<programme start="20251010113000 +0000" stop="20251010133000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dynamo Dresden - Karlsruher SC, tipico Topspiel der Woche, 8. Spieltag</title>
-</programme>
-<programme start="20251010133000 +0000" stop="20251010140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Dr. Marc Lenz)</title>
-</programme>
-<programme start="20251010140000 +0000" stop="20251010150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 6. Spieltag</title>
-</programme>
-<programme start="20251010150000 +0000" stop="20251010151500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (6)</title>
-</programme>
-<programme start="20251010151500 +0000" stop="20251010170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Rudi Völler - Es gibt nur einen</title>
-</programme>
-<programme start="20251010170000 +0000" stop="20251010180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 6. Spieltag</title>
-</programme>
-<programme start="20251010180000 +0000" stop="20251010183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Dr. Marc Lenz)</title>
-</programme>
-<programme start="20251010183000 +0000" stop="20251010203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Eintracht Frankfurt - FC Bayern München, tipico Topspiel der Woche, 6. Spieltag</title>
-</programme>
-<programme start="20251010203000 +0000" stop="20251010213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
-</programme>
-<programme start="20251010213000 +0000" stop="20251010214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20251007031500 +0000" stop="20251007033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Torparade 6. Spieltag</title>
 </programme>
-<programme start="20251010214500 +0000" stop="20251010234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfB Stuttgart - 1. FC Heidenheim, 6. Spieltag</title>
+<programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: SGE - FCB. 6. Spieltag</title>
+</programme>
+<programme start="20251007040000 +0000" stop="20251007041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 6. Spieltag</title>
+</programme>
+<programme start="20251007041500 +0000" stop="20251007043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 8. Spieltag</title>
+</programme>
+<programme start="20251007043000 +0000" stop="20251007050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Ralf Moeller</title>
+</programme>
+<programme start="20251007050000 +0000" stop="20251007070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Fortuna Düsseldorf - 1. FC Nürnberg, 8. Spieltag</title>
+</programme>
+<programme start="20251007070000 +0000" stop="20251007080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 6. Spieltag</title>
+</programme>
+<programme start="20251007090000 +0000" stop="20251007100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Alle Spiele, alle Stimmen, 8. Spieltag</title>
+</programme>
+<programme start="20251007100000 +0000" stop="20251007120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Borussia Dortmund - RB Leipzig, 6. Spieltag</title>
+</programme>
+<programme start="20251007120000 +0000" stop="20251007140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>DFB-Nachwuchsliga: FC Schalke 04 U17 - Borussia Dortmund U17, 6. Spieltag</title>
+</programme>
+<programme start="20251007140000 +0000" stop="20251007141500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: VFB - FCH, 6. Spieltag</title>
+</programme>
+<programme start="20251007141500 +0000" stop="20251007143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: HSV - M05, 6. Spieltag</title>
+</programme>
+<programme start="20251007143000 +0000" stop="20251007144500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (8)</title>
+</programme>
+<programme start="20251007144500 +0000" stop="20251007150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (6)</title>
+</programme>
+<programme start="20251007150000 +0000" stop="20251007164500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Rudi Völler - Es gibt nur einen</title>
+</programme>
+<programme start="20251007164500 +0000" stop="20251007170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (8)</title>
+</programme>
+<programme start="20251007170000 +0000" stop="20251007190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Tactical Feed: SGE - FCB, 6. Spieltag</title>
+</programme>
+<programme start="20251007190000 +0000" stop="20251007210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Sky Sport Fantasy: TSG - KOE, 6. Spieltag</title>
+</programme>
+<programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
 </programme>
 <programme start="20251006223000 +0000" stop="20251007003000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Dynamo Dresden - Karlsruher SC, tipico Topspiel der Woche, 8. Spieltag</title>
@@ -3250,10 +3256,10 @@
 <programme start="20251007200000 +0000" stop="20251007220000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Singapur</title>
 </programme>
-<programme start="20251007024000 +0000" stop="20251007030000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
+<programme start="20251006220000 +0000" stop="20251007030000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20251007030000 +0000" stop="20251007150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251007030000 +0000" stop="20251007170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 2. Tag</title>
 </programme>
 <programme start="20251006220000 +0000" stop="20251006224500 +0000" channel="SYFY HD.skyde">
@@ -3724,19 +3730,19 @@
 <programme start="20251007202000 +0000" stop="20251007221000 +0000" channel="Warner TV Film HD.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20251006234500 +0000" stop="20251007002500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251006234500 +0000" stop="20251007003000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251007002500 +0000" stop="20251007011000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251007003000 +0000" stop="20251007011000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20251007011000 +0000" stop="20251007015500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251007015500 +0000" stop="20251007023500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251007015500 +0000" stop="20251007024000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251007023500 +0000" stop="20251007032000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251007024000 +0000" stop="20251007032000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20251007032000 +0000" stop="20251007033000 +0000" channel="Warner TV Serie HD.skyde">

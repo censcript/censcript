@@ -364,8 +364,11 @@
     <programme start="20251007020000 +0000" stop="20251007030000 +0000" channel="Zee TV.starhub">
         <title>Kahani Har Ghar Ki</title>
     </programme>
-    <programme start="20251007030000 +0000" stop="20251007040000 +0000" channel="Zee TV.starhub">
-        <title>Chhoriyan Chali Gaon</title>
+    <programme start="20251007030000 +0000" stop="20251007033000 +0000" channel="Zee TV.starhub">
+        <title>Tum Se Tum Tak</title>
+    </programme>
+    <programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="Zee TV.starhub">
+        <title>Ganga Mai Ki Betiyaan</title>
     </programme>
     <programme start="20251007040000 +0000" stop="20251007070000 +0000" channel="Zee TV.starhub">
         <title>Half Girlfriend</title>
@@ -373,8 +376,11 @@
     <programme start="20251007070000 +0000" stop="20251007080000 +0000" channel="Zee TV.starhub">
         <title>Kahani Har Ghar Ki</title>
     </programme>
-    <programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="Zee TV.starhub">
-        <title>Chhoriyan Chali Gaon</title>
+    <programme start="20251007080000 +0000" stop="20251007083000 +0000" channel="Zee TV.starhub">
+        <title>Ganga Mai Ki Betiyaan</title>
+    </programme>
+    <programme start="20251007083000 +0000" stop="20251007090000 +0000" channel="Zee TV.starhub">
+        <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20251007090000 +0000" stop="20251007093000 +0000" channel="Zee TV.starhub">
         <title>Bhabi Ji Ghar Par Hai!</title>
@@ -382,11 +388,8 @@
     <programme start="20251007093000 +0000" stop="20251007100000 +0000" channel="Zee TV.starhub">
         <title>Tum Se Tum Tak</title>
     </programme>
-    <programme start="20251007100000 +0000" stop="20251007103000 +0000" channel="Zee TV.starhub">
+    <programme start="20251007100000 +0000" stop="20251007110000 +0000" channel="Zee TV.starhub">
         <title>Jagriti</title>
-    </programme>
-    <programme start="20251007103000 +0000" stop="20251007110000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
     </programme>
     <programme start="20251007110000 +0000" stop="20251007113000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>
@@ -400,8 +403,11 @@
     <programme start="20251007123000 +0000" stop="20251007130000 +0000" channel="Zee TV.starhub">
         <title>Tum Se Tum Tak</title>
     </programme>
-    <programme start="20251007130000 +0000" stop="20251007140000 +0000" channel="Zee TV.starhub">
-        <title>Chhoriyan Chali Gaon</title>
+    <programme start="20251007130000 +0000" stop="20251007133000 +0000" channel="Zee TV.starhub">
+        <title>Vasudha</title>
+    </programme>
+    <programme start="20251007133000 +0000" stop="20251007140000 +0000" channel="Zee TV.starhub">
+        <title>Ganga Mai Ki Betiyaan</title>
     </programme>
     <programme start="20251007140000 +0000" stop="20251007150000 +0000" channel="Zee TV.starhub">
         <title>Kahani Har Ghar Ki</title>
@@ -4082,7 +4088,7 @@
         <title>Drama 10 &quot;Shiba Inu&#039;s Rule&quot; Eps. 2</title>
     </programme>
     <programme start="20251007134500 +0000" stop="20251007140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Serial Drama &quot;Someday, in the Weightless Sky&quot;</title>
+        <title>Night Serial Drama &quot;Someday, in the Weightless Sky&quot; Eps. 18</title>
     </programme>
     <programme start="20251007140000 +0000" stop="20251007143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Sleepless Night Talk with the Singer AI (New)</title>
@@ -7456,9 +7462,6 @@
     <programme start="20251006163000 +0000" stop="20251006170000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20251006170000 +0000" stop="20251006173000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
-    </programme>
     <programme start="20251006173000 +0000" stop="20251006180000 +0000" channel="COLORS.starhub">
         <title>Binddii</title>
     </programme>
@@ -7474,9 +7477,6 @@
     <programme start="20251006200000 +0000" stop="20251006203000 +0000" channel="COLORS.starhub">
         <title>Manpasand Ki Shaadi</title>
     </programme>
-    <programme start="20251006203000 +0000" stop="20251006210000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
-    </programme>
     <programme start="20251006210000 +0000" stop="20251006213000 +0000" channel="COLORS.starhub">
         <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
@@ -7489,20 +7489,14 @@
     <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20251006230000 +0000" stop="20251006233000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
-    </programme>
     <programme start="20251006233000 +0000" stop="20251007000000 +0000" channel="COLORS.starhub">
         <title>Manpasand Ki Shaadi</title>
     </programme>
     <programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20251007010000 +0000" stop="20251007013000 +0000" channel="COLORS.starhub">
+    <programme start="20251007010000 +0000" stop="20251007020000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
-    </programme>
-    <programme start="20251007013000 +0000" stop="20251007020000 +0000" channel="COLORS.starhub">
-        <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20251007020000 +0000" stop="20251007040000 +0000" channel="COLORS.starhub">
         <title>Bigg Boss</title>
@@ -7628,13 +7622,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20251007023000 +0000" stop="20251007030000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>AI and Robotics</title>
     </programme>
     <programme start="20251007030000 +0000" stop="20251007033000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20251007033000 +0000" stop="20251007040000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Is Larry Ellison the new Rupert Murdoch?</title>
     </programme>
     <programme start="20251007040000 +0000" stop="20251007043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -8251,7 +8245,7 @@
     <programme start="20251006194000 +0000" stop="20251006223000 +0000" channel="Asianet Movies.starhub">
         <title>Kannum Kannum Kollaiyadithaal</title>
     </programme>
-    <programme start="20251006223000 +0000" stop="20251007013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251006233000 +0000" stop="20251007013000 +0000" channel="Asianet Movies.starhub">
         <title>Ivar Vivahitharayal...?</title>
     </programme>
     <programme start="20251007013000 +0000" stop="20251007043000 +0000" channel="Asianet Movies.starhub">
@@ -8657,10 +8651,13 @@
         <title>Yogam Rajayogam</title>
     </programme>
     <programme start="20251007020000 +0000" stop="20251007023000 +0000" channel="ADITHYA TV.starhub">
-        <title>Good Morning Adithyans</title>
+        <title>Aanantha Sirippu</title>
     </programme>
-    <programme start="20251007023000 +0000" stop="20251007033000 +0000" channel="ADITHYA TV.starhub">
+    <programme start="20251007023000 +0000" stop="20251007030000 +0000" channel="ADITHYA TV.starhub">
         <title>Adithya Paarunga Aarokyama Irunga</title>
+    </programme>
+    <programme start="20251007030000 +0000" stop="20251007033000 +0000" channel="ADITHYA TV.starhub">
+        <title>Good Morning Adithyans</title>
     </programme>
     <programme start="20251007033000 +0000" stop="20251007043000 +0000" channel="ADITHYA TV.starhub">
         <title>Anbudan Adithya</title>
