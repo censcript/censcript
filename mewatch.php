@@ -863,10 +863,10 @@
         <title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251006160000 +0000" stop="20251007160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 23rd October, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251007160000 +0000" stop="20251008160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 23rd October, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251006160000 +0000" stop="20251007160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
