@@ -4214,7 +4214,7 @@
         <title>Trend Game / This Bird Has Flown</title>
     </programme>
     <programme start="20251006230500 +0000" stop="20251006233000 +0000" channel="Nickelodeon Asia HD.starhub">
-        <title>V.I.Peeved / Senor Class</title>
+        <title>V.I.Peeved / Señor Class</title>
     </programme>
     <programme start="20251006233000 +0000" stop="20251006235000 +0000" channel="Nickelodeon Asia HD.starhub">
         <title>The Fun Bucket / The Patrick Show After Dark</title>

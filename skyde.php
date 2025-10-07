@@ -2662,10 +2662,10 @@
 <programme start="20251007043000 +0000" stop="20251007093000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
-<programme start="20251007093000 +0000" stop="20251007103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007093000 +0000" stop="20251007110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251007103000 +0000" stop="20251007163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251007110000 +0000" stop="20251007163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: Rolex Shanghai Masters in Shanghai (China), 7. Tag</title>
 </programme>
 <programme start="20251006223000 +0000" stop="20251006230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2944,6 +2944,63 @@
 <programme start="20251007210000 +0000" stop="20251008000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Chicago Blackhawks @ Florida Panthers</title>
 </programme>
+<programme start="20251006220000 +0000" stop="20251006230000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251006230000 +0000" stop="20251007000000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
+</programme>
+<programme start="20251007000000 +0000" stop="20251007010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251007010000 +0000" stop="20251007020000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251007020000 +0000" stop="20251007040000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Nightline</title>
+</programme>
+<programme start="20251007040000 +0000" stop="20251007070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20251007070000 +0000" stop="20251007080000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251007080000 +0000" stop="20251007090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
+</programme>
+<programme start="20251007090000 +0000" stop="20251007100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: DFB-Training</title>
+</programme>
+<programme start="20251007100000 +0000" stop="20251007130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20251007130000 +0000" stop="20251007160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20251007160000 +0000" stop="20251007170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20251007170000 +0000" stop="20251007173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live NHL: Primetime Spezial: NHL is back</title>
+</programme>
+<programme start="20251007173000 +0000" stop="20251007183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20251007183000 +0000" stop="20251007190000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20251007190000 +0000" stop="20251007200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
+</programme>
+<programme start="20251007200000 +0000" stop="20251007203000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Top News</title>
+</programme>
+<programme start="20251007203000 +0000" stop="20251007210000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Meine Geschichte: Das Leben von Ralf Moeller</title>
+</programme>
+<programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Late Night News</title>
+</programme>
 <programme start="20251006220000 +0000" stop="20251006223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: EVE - CRY, 7. Spieltag</title>
 </programme>
@@ -3203,7 +3260,7 @@
     <title>F1: Rennen - GP Singapur</title>
 </programme>
 <programme start="20251006220000 +0000" stop="20251007030000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
+    <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
 </programme>
 <programme start="20251007030000 +0000" stop="20251007170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 2. Tag</title>
