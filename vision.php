@@ -631,6 +631,9 @@
 <programme start="20251009114500 +0000" stop="20251009121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20251008013000 +0000" stop="20251008050000 +0000" channel="ANTV.vision">
+<title>Singham</title>
+</programme>
 <programme start="20251008050000 +0000" stop="20251008063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251008062000 +0000" stop="20251008080500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251008080500 +0000" stop="20251008092500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
