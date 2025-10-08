@@ -2314,14 +2314,29 @@
     <programme start="20251007170000 +0000" stop="20251007200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Drohi</title>
     </programme>
-    <programme start="20251007200000 +0000" stop="20251008040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251007200000 +0000" stop="20251007223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pattikattu Thambi</title>
     </programme>
-    <programme start="20251008040000 +0000" stop="20251008100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251007223000 +0000" stop="20251008010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Crime File</title>
     </programme>
-    <programme start="20251008100000 +0000" stop="20251008160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20251008010000 +0000" stop="20251008013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
+    </programme>
+    <programme start="20251008013000 +0000" stop="20251008043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Billa (Old)</title>
+    </programme>
+    <programme start="20251008043000 +0000" stop="20251008073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kadal Meengal</title>
+    </programme>
+    <programme start="20251008073000 +0000" stop="20251008103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kanni Raasi</title>
+    </programme>
+    <programme start="20251008103000 +0000" stop="20251008133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Good Luck</title>
+    </programme>
+    <programme start="20251008133000 +0000" stop="20251008170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Sudhesi</title>
     </programme>
     <programme start="20251007160000 +0000" stop="20251007170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Beijing</title>
@@ -3398,7 +3413,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20251007233000 +0000" stop="20251008000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Mongolia&#039;s nomad doctor fighting to save tradition</title>
     </programme>
     <programme start="20251008000000 +0000" stop="20251008000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3407,13 +3422,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251008003000 +0000" stop="20251008010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Global Visions: Power, Markets, Media and Manicures</title>
     </programme>
     <programme start="20251008010000 +0000" stop="20251008011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008011500 +0000" stop="20251008020000 +0000" channel="DW English HD.starhub">
-        <title>Love, Like, Lost - Inside the Cyber Mafia</title>
+        <title>When Night Falls in Rio de Janeiro</title>
     </programme>
     <programme start="20251008020000 +0000" stop="20251008020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3422,13 +3437,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251008023000 +0000" stop="20251008030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Mongolia&#039;s nomad doctor fighting to save tradition</title>
     </programme>
     <programme start="20251008030000 +0000" stop="20251008031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008031500 +0000" stop="20251008033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Brazil&#039;s Minister of Environment and Climate Change, Marina Silva in Conversation with DW</title>
     </programme>
     <programme start="20251008033000 +0000" stop="20251008040000 +0000" channel="DW English HD.starhub">
         <title>Healing a toxic legacy: A Senegal town reclaims its future</title>
@@ -3437,7 +3452,7 @@
         <title>News</title>
     </programme>
     <programme start="20251008041500 +0000" stop="20251008050000 +0000" channel="DW English HD.starhub">
-        <title>Love, Like, Lost - Inside the Cyber Mafia</title>
+        <title>When Night Falls in Rio de Janeiro</title>
     </programme>
     <programme start="20251008050000 +0000" stop="20251008050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3446,22 +3461,22 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251008053000 +0000" stop="20251008060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Global Visions: Power, Markets, Media and Manicures</title>
     </programme>
     <programme start="20251008060000 +0000" stop="20251008061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008061500 +0000" stop="20251008063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Brazil&#039;s Minister of Environment and Climate Change, Marina Silva in Conversation with DW</title>
     </programme>
     <programme start="20251008063000 +0000" stop="20251008070000 +0000" channel="DW English HD.starhub">
-        <title>A stroke at 31 - are silent blood fats like LDL to blame?</title>
+        <title>A stroke in your 30s: Are hidden health threats lurking in your blood?</title>
     </programme>
     <programme start="20251008070000 +0000" stop="20251008073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008073000 +0000" stop="20251008080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Saffron Century - RSS&#039;s Rise From the Shadows</title>
     </programme>
     <programme start="20251008080000 +0000" stop="20251008083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3479,13 +3494,13 @@
         <title>News</title>
     </programme>
     <programme start="20251008103000 +0000" stop="20251008110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Saffron Century - RSS&#039;s Rise From the Shadows</title>
     </programme>
     <programme start="20251008110000 +0000" stop="20251008113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008113000 +0000" stop="20251008120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Global Visions: Power, Markets, Media and Manicures</title>
     </programme>
     <programme start="20251008120000 +0000" stop="20251008121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3497,7 +3512,7 @@
         <title>News</title>
     </programme>
     <programme start="20251008131500 +0000" stop="20251008133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251008133000 +0000" stop="20251008140000 +0000" channel="DW English HD.starhub">
         <title>Healing a toxic legacy: A Senegal town reclaims its future</title>
@@ -3506,7 +3521,7 @@
         <title>News</title>
     </programme>
     <programme start="20251008143000 +0000" stop="20251008150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Global Visions: Power, Markets, Media and Manicures</title>
     </programme>
     <programme start="20251008150000 +0000" stop="20251008153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6850,23 +6865,29 @@
     <programme start="20251007183500 +0000" stop="20251007211200 +0000" channel="SONY MAX.starhub">
         <title>Jaan Se Pyaara</title>
     </programme>
-    <programme start="20251007211200 +0000" stop="20251007214300 +0000" channel="SONY MAX.starhub">
-        <title>Extraa Shots- Befikre</title>
-    </programme>
     <programme start="20251007214300 +0000" stop="20251007221500 +0000" channel="SONY MAX.starhub">
         <title>Extraaa Storiez: Bhool Bhulaiyaa 2</title>
     </programme>
-    <programme start="20251007221500 +0000" stop="20251008000000 +0000" channel="SONY MAX.starhub">
-        <title>Arjun Patiala</title>
+    <programme start="20251007235100 +0000" stop="20251008005300 +0000" channel="SONY MAX.starhub">
+        <title>NCL Chicago Vs. Houston Generals (Live)</title>
     </programme>
-    <programme start="20251008000000 +0000" stop="20251008000800 +0000" channel="SONY MAX.starhub">
-        <title>Extraa Shots Kabir Singh</title>
+    <programme start="20251008005300 +0000" stop="20251008015300 +0000" channel="SONY MAX.starhub">
+        <title>NCL NY Lions Vs. Dallas Lonestars (Live)</title>
     </programme>
-    <programme start="20251008000800 +0000" stop="20251008015400 +0000" channel="SONY MAX.starhub">
-        <title>Kahan Shuru Kahan Khatam</title>
+    <programme start="20251008015300 +0000" stop="20251008025400 +0000" channel="SONY MAX.starhub">
+        <title>NCL NY Lions Vs. Dallas Lonestars (Live)</title>
     </programme>
-    <programme start="20251008015400 +0000" stop="20251008044800 +0000" channel="SONY MAX.starhub">
-        <title>Kuch Naa Kaho</title>
+    <programme start="20251008025400 +0000" stop="20251008031200 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: 12th Fail</title>
+    </programme>
+    <programme start="20251008031200 +0000" stop="20251008032400 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots Malang</title>
+    </programme>
+    <programme start="20251008032400 +0000" stop="20251008041900 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots Ludo</title>
+    </programme>
+    <programme start="20251008041900 +0000" stop="20251008044800 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez Kgf: Chapter 2</title>
     </programme>
     <programme start="20251008044800 +0000" stop="20251008070300 +0000" channel="SONY MAX.starhub">
         <title>Soorma</title>
@@ -8149,13 +8170,16 @@
     <programme start="20251007133000 +0000" stop="20251007163000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20251007163000 +0000" stop="20251007193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251007163000 +0000" stop="20251007191000 +0000" channel="Asianet Movies.starhub">
         <title>Puthiyamugham</title>
     </programme>
-    <programme start="20251007193000 +0000" stop="20251007233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251007191000 +0000" stop="20251007215000 +0000" channel="Asianet Movies.starhub">
         <title>Bharya Athra Pora</title>
     </programme>
-    <programme start="20251007233000 +0000" stop="20251008013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251007215000 +0000" stop="20251007234000 +0000" channel="Asianet Movies.starhub">
+        <title>By the People</title>
+    </programme>
+    <programme start="20251007234000 +0000" stop="20251008013000 +0000" channel="Asianet Movies.starhub">
         <title>Janamaithri</title>
     </programme>
     <programme start="20251008013000 +0000" stop="20251008043000 +0000" channel="Asianet Movies.starhub">
