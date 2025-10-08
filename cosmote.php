@@ -110,8 +110,8 @@
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008163000 +0700" stop="20251008183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rio Ave - Tondela</title>
+<programme start="20251009192000 +0700" stop="20251009212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008183000 +0700" stop="20251008203000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,10 +174,6 @@
     <title>Football: Wrexham  - Birmingham City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008161000 +0700" stop="20251008181000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bursaspor - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251008181000 +0700" stop="20251008201000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Napoli</title>
     <desc>Live: Tidak</desc>
@@ -238,8 +234,8 @@
     <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008173500 +0700" stop="20251008183500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251009190000 +0700" stop="20251009210000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Valencia Basket Club - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008183500 +0700" stop="20251008195000 +0700" channel="COSMOTE Sport 5 HD">

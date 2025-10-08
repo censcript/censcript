@@ -640,9 +640,6 @@
 <programme start="20251008093000 +0000" stop="20251008110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251008110000 +0000" stop="20251008123000 +0000" channel="ANTV.vision">
-<title>Pusaka Penyebar Maut</title>
-</programme>
 <programme start="20251008123000 +0000" stop="20251008143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251008092500 +0000" stop="20251008105000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251008105000 +0000" stop="20251008123000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

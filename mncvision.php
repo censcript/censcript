@@ -3973,9 +3973,162 @@
 <programme start="20251008163000 +0000" stop="20251007170000 +0000" channel="Global Trekker.mncvision">
     <title>Beyonce &amp; Jay-Z: Power Love</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251007173000 +0000" stop="20251007190500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Asteroid: Final Impact</title>
+</programme>
+<programme start="20251007190500 +0000" stop="20251007200000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Canada: Year In The Wild, Ep 4</title>
+</programme>
+<programme start="20251007200000 +0000" stop="20251007210000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Oceans Africa, Ep 1</title>
+</programme>
+<programme start="20251007210000 +0000" stop="20251007220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Oceans Africa, Ep 2</title>
+</programme>
+<programme start="20251007220000 +0000" stop="20251007230000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Oceans Africa, Ep 3</title>
+</programme>
+<programme start="20251007230000 +0000" stop="20251007235000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aging In The Wild, Ep 1</title>
+</programme>
+<programme start="20251007235000 +0000" stop="20251008004000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aging In The Wild, Ep 2</title>
+</programme>
+<programme start="20251008004000 +0000" stop="20251008013500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Oceans Africa, Ep 3</title>
+</programme>
+<programme start="20251008013500 +0000" stop="20251008022500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Yorkshire: A Year In..., Ep 2</title>
+</programme>
+<programme start="20251008022500 +0000" stop="20251008031500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Yorkshire: A Year In..., Ep 3</title>
+</programme>
+<programme start="20251008031500 +0000" stop="20251008040500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Yorkshire: A Year In..., Ep 4</title>
+</programme>
+<programme start="20251008040500 +0000" stop="20251008053500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Asteroid: Final Impact</title>
+</programme>
+<programme start="20251008053500 +0000" stop="20251008063000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Black In Space: Color Barrier</title>
+</programme>
+<programme start="20251008063000 +0000" stop="20251008070000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S2, Ep 2</title>
+</programme>
+<programme start="20251008070000 +0000" stop="20251008075000 +0000" channel="Global Trekker HD.mncvision">
+    <title>American Princesses S2, Ep 4</title>
+</programme>
+<programme start="20251008075000 +0000" stop="20251008084000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Kate Winslet: Leading Lady</title>
+</programme>
+<programme start="20251008084000 +0000" stop="20251008093000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Michael J. Fox: Actor...</title>
+</programme>
+<programme start="20251008093000 +0000" stop="20251008102500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Robert Downey Jr: High Altitude</title>
+</programme>
+<programme start="20251008102500 +0000" stop="20251008111500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Tom Hanks: The Nomad</title>
+</programme>
+<programme start="20251008111500 +0000" stop="20251008121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Brad Pitt: Breaking Hollywood</title>
+</programme>
+<programme start="20251008121000 +0000" stop="20251008130500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Harrison Ford: Hollywood Hero</title>
+</programme>
+<programme start="20251008130500 +0000" stop="20251008140500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Bruce Willis: All American Hero</title>
+</programme>
+<programme start="20251008140500 +0000" stop="20251008145000 +0000" channel="Global Trekker HD.mncvision">
+    <title>The Rock: Moving Mountains</title>
+</programme>
+<programme start="20251008145000 +0000" stop="20251008154000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Michael J. Fox: Actor...</title>
+</programme>
+<programme start="20251008154000 +0000" stop="20251008163000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Ryan Reynolds: Funny Business</title>
+</programme>
+<programme start="20251008163000 +0000" stop="20251007170000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Beyonce &amp; Jay-Z: Power Love</title>
+</programme>
+<programme start="20251007170000 +0000" stop="20251007180000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20251007180000 +0000" stop="20251007203000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20251007203000 +0000" stop="20251007213000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20251007213000 +0000" stop="20251007223000 +0000" channel="GTV.mncvision">
+    <title>Warbiasak</title>
+</programme>
+<programme start="20251007223000 +0000" stop="20251007233000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20251007233000 +0000" stop="20251008003000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20251008003000 +0000" stop="20251008013000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebritis</title>
+</programme>
+<programme start="20251008013000 +0000" stop="20251008040000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20251008040000 +0000" stop="20251008080000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20251008080000 +0000" stop="20251008100000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20251008100000 +0000" stop="20251008120000 +0000" channel="GTV.mncvision">
+    <title>TMNT: Out Of The Shadows</title>
+</programme>
+<programme start="20251008120000 +0000" stop="20251008160000 +0000" channel="GTV.mncvision">
+    <title>Amazing 23</title>
+</programme>
+<programme start="20251008160000 +0000" stop="20251008163000 +0000" channel="GTV.mncvision">
+    <title>Asian Cup Qual.: IDN Vs KSA</title>
+</programme>
+<programme start="20251007170000 +0000" stop="20251007180000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20251007180000 +0000" stop="20251007203000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20251007203000 +0000" stop="20251007213000 +0000" channel="GTV HD.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20251007213000 +0000" stop="20251007223000 +0000" channel="GTV HD.mncvision">
+    <title>Warbiasak</title>
+</programme>
+<programme start="20251007223000 +0000" stop="20251007233000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20251007233000 +0000" stop="20251008003000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20251008003000 +0000" stop="20251008013000 +0000" channel="GTV HD.mncvision">
+    <title>Obrolan Seputar Selebritis</title>
+</programme>
+<programme start="20251008013000 +0000" stop="20251008040000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20251008040000 +0000" stop="20251008080000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20251008080000 +0000" stop="20251008100000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20251008100000 +0000" stop="20251008120000 +0000" channel="GTV HD.mncvision">
+    <title>TMNT: Out Of The Shadows</title>
+</programme>
+<programme start="20251008120000 +0000" stop="20251008160000 +0000" channel="GTV HD.mncvision">
+    <title>Amazing 23</title>
+</programme>
+<programme start="20251008160000 +0000" stop="20251008163000 +0000" channel="GTV HD.mncvision">
+    <title>Asian Cup Qual.: IDN Vs KSA</title>
+</programme>
 <programme start="20251007180000 +0000" stop="20251007183000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
 </programme>
