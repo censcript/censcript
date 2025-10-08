@@ -2549,31 +2549,31 @@
         <title>#1296</title>
     </programme>
     <programme start="20251008000000 +0000" stop="20251008030000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26 Minnesota Vikings vs Cleveland Browns</title>
+        <title>Minnesota Vikings vs Cleveland Browns</title>
     </programme>
     <programme start="20251008030000 +0000" stop="20251008040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Belmont Park, NY</title>
     </programme>
     <programme start="20251008040000 +0000" stop="20251008070000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>NFL 2025/26 New England Patriots vs Buffalo Bills</title>
+        <title>New England Patriots vs Buffalo Bills</title>
     </programme>
     <programme start="20251008070000 +0000" stop="20251008100000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC Reloaded UFC 317: Topuria vs Oliveira</title>
+        <title>UFC 317: Topuria vs Oliveira</title>
     </programme>
     <programme start="20251008100000 +0000" stop="20251008103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>EASL 2024/25 Season Recap</title>
     </programme>
     <programme start="20251008103000 +0000" stop="20251008123000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>East Asia Super League 2025/26 Taipei Fubon Braves vs Utsunomiya Brex (Live)</title>
+        <title>Taipei Fubon Braves vs Utsunomiya Brex</title>
     </programme>
     <programme start="20251008123000 +0000" stop="20251008143000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>East Asia Super League 2025/26 Taoyuan Pauian Pilots vs Ryukyu Golden Kings (Liv</title>
+        <title>Taoyuan Pauian Pilots vs Ryukyu Golden Kings</title>
     </programme>
     <programme start="20251008143000 +0000" stop="20251008150000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Season 5, Episode 1 - Basketballers</title>
     </programme>
     <programme start="20251008150000 +0000" stop="20251008160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC Main Event 2025 UFC 302: Makhachev vs Poirier</title>
+        <title>UFC 302: Makhachev vs Poirier</title>
     </programme>
     <programme start="20251007141500 +0000" stop="20251007161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -6515,31 +6515,31 @@
         <title>#1296</title>
     </programme>
     <programme start="20251008000000 +0000" stop="20251008030000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 Minnesota Vikings vs Cleveland Browns</title>
+        <title>Minnesota Vikings vs Cleveland Browns</title>
     </programme>
     <programme start="20251008030000 +0000" stop="20251008040000 +0000" channel="TestChannel 995.starhub">
         <title>Belmont Park, NY</title>
     </programme>
     <programme start="20251008040000 +0000" stop="20251008070000 +0000" channel="TestChannel 995.starhub">
-        <title>NFL 2025/26 New England Patriots vs Buffalo Bills</title>
+        <title>New England Patriots vs Buffalo Bills</title>
     </programme>
     <programme start="20251008070000 +0000" stop="20251008100000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC Reloaded UFC 317: Topuria vs Oliveira</title>
+        <title>UFC 317: Topuria vs Oliveira</title>
     </programme>
     <programme start="20251008100000 +0000" stop="20251008103000 +0000" channel="TestChannel 995.starhub">
         <title>EASL 2024/25 Season Recap</title>
     </programme>
     <programme start="20251008103000 +0000" stop="20251008123000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2025/26 Taipei Fubon Braves vs Utsunomiya Brex (Live)</title>
+        <title>Taipei Fubon Braves vs Utsunomiya Brex</title>
     </programme>
     <programme start="20251008123000 +0000" stop="20251008143000 +0000" channel="TestChannel 995.starhub">
-        <title>East Asia Super League 2025/26 Taoyuan Pauian Pilots vs Ryukyu Golden Kings (Liv</title>
+        <title>Taoyuan Pauian Pilots vs Ryukyu Golden Kings</title>
     </programme>
     <programme start="20251008143000 +0000" stop="20251008150000 +0000" channel="TestChannel 995.starhub">
         <title>Season 5, Episode 1 - Basketballers</title>
     </programme>
     <programme start="20251008150000 +0000" stop="20251008160000 +0000" channel="TestChannel 995.starhub">
-        <title>UFC Main Event 2025 UFC 302: Makhachev vs Poirier</title>
+        <title>UFC 302: Makhachev vs Poirier</title>
     </programme>
     <programme start="20251007160000 +0000" stop="20251007163000 +0000" channel="CNBC HD.starhub">
         <title>Halftime Report</title>

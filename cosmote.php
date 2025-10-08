@@ -50,10 +50,6 @@
     <title>Football: Aberdeen - FC Shakhtar Donetsk</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008090500 +0700" stop="20251008110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251008110000 +0700" stop="20251008131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
@@ -110,12 +106,8 @@
     <title>Football: Hellas Verona - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008100000 +0700" stop="20251008103000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008103000 +0700" stop="20251008110000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251009110000 +0700" stop="20251009131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008110000 +0700" stop="20251008143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -172,6 +164,10 @@
 </programme>
 <programme start="20251009100000 +0700" stop="20251009110000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2024-25 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251009110000 +0700" stop="20251009143000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Jacksonville Jaguars - Kansas City Chiefs</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008100000 +0700" stop="20251008120000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,10 +232,6 @@
 </programme>
 <programme start="20251009100000 +0700" stop="20251009121000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Tofas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251008100000 +0700" stop="20251008105500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008105500 +0700" stop="20251008115000 +0700" channel="COSMOTE Sport 5 HD">
@@ -320,6 +312,18 @@
 </programme>
 <programme start="20251009100000 +0700" stop="20251009110500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251009110500 +0700" stop="20251009113500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251009113500 +0700" stop="20251009115000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251009115000 +0700" stop="20251009124500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008100000 +0700" stop="20251008113000 +0700" channel="COSMOTE Sport 6 HD">
