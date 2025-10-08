@@ -529,6 +529,9 @@
 <programme start="20251008054500 +0000" stop="20251008063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
 </programme>
+<programme start="20251008063000 +0000" stop="20251008071500 +0000" channel="Trans 7.vision">
+<title>Speak Up!</title>
+</programme>
 <programme start="20251008071500 +0000" stop="20251008081500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251008080500 +0000" stop="20251008092500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251008092500 +0000" stop="20251008105000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
