@@ -559,6 +559,9 @@
 <programme start="20251008154500 +0000" stop="20251008163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20251008163000 +0000" stop="20251008171500 +0000" channel="Trans 7.vision">
+<title>Newstainment</title>
+</programme>
 <programme start="20251008171500 +0000" stop="20251008174500 +0000" channel="Trans 7.vision">
 <title>Redaksi Malam</title>
 </programme>
@@ -639,6 +642,12 @@
 </programme>
 <programme start="20251008123000 +0000" stop="20251008143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251008143000 +0000" stop="20251008163000 +0000" channel="ANTV.vision">
+<title>Duel Di Kawah Bromo</title>
+</programme>
+<programme start="20251008163000 +0000" stop="20251008183000 +0000" channel="ANTV.vision">
+<title>The Inspector Wear Skirts</title>
 </programme>
 <programme start="20251008183000 +0000" stop="20251008203000 +0000" channel="ANTV.vision">
 <title>A Chinese Ghost Story 2</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251008105000 +0000" stop="20251008123000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251008123000 +0000" stop="20251008140000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251008140000 +0000" stop="20251008153500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251008153500 +0000" stop="20251008170500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

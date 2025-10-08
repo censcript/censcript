@@ -110,10 +110,6 @@
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009003000 +0700" stop="20251009023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Racing Club - Velez Sarsfield</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251009023000 +0700" stop="20251009043000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Partick Thistle F.C - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -327,6 +323,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010014000 +0700" stop="20251010030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251010030500 +0700" stop="20251010045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
