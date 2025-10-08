@@ -2963,7 +2963,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251008003000 +0000" stop="20251008010000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Visions</title>
 </programme>
 <programme start="20251008010000 +0000" stop="20251008011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2978,13 +2978,13 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251008023000 +0000" stop="20251008030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Mongolia&#039;s Nomad...</title>
 </programme>
 <programme start="20251008030000 +0000" stop="20251008031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251008031500 +0000" stop="20251008033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: Brazil At A...</title>
 </programme>
 <programme start="20251008033000 +0000" stop="20251008040000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: Healing A Toxic...</title>
@@ -3002,13 +3002,13 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251008053000 +0000" stop="20251008060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Visions</title>
 </programme>
 <programme start="20251008060000 +0000" stop="20251008061500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251008061500 +0000" stop="20251008063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Interview: Brazil At A...</title>
 </programme>
 <programme start="20251008063000 +0000" stop="20251008070000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: A Stroke At 31</title>
@@ -3017,7 +3017,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251008073000 +0000" stop="20251008080000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Saffron Century</title>
 </programme>
 <programme start="20251008080000 +0000" stop="20251008083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3035,13 +3035,13 @@
     <title>DW News</title>
 </programme>
 <programme start="20251008103000 +0000" stop="20251008110000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Saffron Century</title>
 </programme>
 <programme start="20251008110000 +0000" stop="20251008113000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
 <programme start="20251008113000 +0000" stop="20251008120000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Visions</title>
 </programme>
 <programme start="20251008120000 +0000" stop="20251008123000 +0000" channel="DW English.mncvision">
     <title>DW News</title>

@@ -985,73 +985,67 @@
 <programme start="20251008213000 +0000" stop="20251008220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251008221500 +0000" stop="20251008224500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251007221000 +0000" stop="20251007224000 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251008224500 +0000" stop="20251008233000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251007224000 +0000" stop="20251007232500 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
-<programme start="20251008233000 +0000" stop="20251009011500 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
+<programme start="20251007232500 +0000" stop="20251008005000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Mädels vom Immenhof</title>
 </programme>
-<programme start="20251009011500 +0000" stop="20251009013000 +0000" channel="Heimatkanal.skyde">
-    <title>Hans-Jürgen Bäumler im Interview</title>
+<programme start="20251008005000 +0000" stop="20251008022500 +0000" channel="Heimatkanal.skyde">
+    <title>König für eine Nacht</title>
 </programme>
-<programme start="20251009013000 +0000" stop="20251009031000 +0000" channel="Heimatkanal.skyde">
-    <title>Rosen im Herbst</title>
+<programme start="20251008022500 +0000" stop="20251008035000 +0000" channel="Heimatkanal.skyde">
+    <title>Heimat unter heißer Sonne</title>
 </programme>
-<programme start="20251009031000 +0000" stop="20251009051000 +0000" channel="Heimatkanal.skyde">
-    <title>Des Teufels General</title>
+<programme start="20251008035000 +0000" stop="20251008052000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Hauptmann von Köpenick</title>
 </programme>
-<programme start="20251009051000 +0000" stop="20251009065500 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
+<programme start="20251008052000 +0000" stop="20251008065500 +0000" channel="Heimatkanal.skyde">
+    <title>Hochzeit auf Immenhof</title>
 </programme>
-<programme start="20251009065500 +0000" stop="20251009074500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008065500 +0000" stop="20251008074500 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20251009074500 +0000" stop="20251009083500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008074500 +0000" stop="20251008083500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251009083500 +0000" stop="20251009093000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008083500 +0000" stop="20251008093000 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
-<programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008093000 +0000" stop="20251008100000 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251009100000 +0000" stop="20251009105500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008100000 +0000" stop="20251008105500 +0000" channel="Heimatkanal.skyde">
     <title>Musikparade</title>
 </programme>
-<programme start="20251009105500 +0000" stop="20251009115500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
+<programme start="20251008105500 +0000" stop="20251008124500 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
 </programme>
-<programme start="20251009115500 +0000" stop="20251009130000 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
+<programme start="20251008124500 +0000" stop="20251008142500 +0000" channel="Heimatkanal.skyde">
+    <title>Hoch drob&#039;n auf dem Berg</title>
 </programme>
-<programme start="20251009130000 +0000" stop="20251009144000 +0000" channel="Heimatkanal.skyde">
-    <title>Schick deine Frau nicht nach Italien</title>
+<programme start="20251008142500 +0000" stop="20251008160500 +0000" channel="Heimatkanal.skyde">
+    <title>Dort in der Wachau</title>
 </programme>
-<programme start="20251009144000 +0000" stop="20251009160500 +0000" channel="Heimatkanal.skyde">
-    <title>Libero</title>
-</programme>
-<programme start="20251009160500 +0000" stop="20251009165500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008160500 +0000" stop="20251008165500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251009165500 +0000" stop="20251009172500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008165500 +0000" stop="20251008172500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251009172500 +0000" stop="20251009181500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008172500 +0000" stop="20251008181500 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20251009181500 +0000" stop="20251009192000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kommissar</title>
+<programme start="20251008181500 +0000" stop="20251008195000 +0000" channel="Heimatkanal.skyde">
+    <title>Das haut hin</title>
 </programme>
-<programme start="20251009192000 +0000" stop="20251009202000 +0000" channel="Heimatkanal.skyde">
-    <title>Derrick</title>
+<programme start="20251008195000 +0000" stop="20251008212500 +0000" channel="Heimatkanal.skyde">
+    <title>Meine Kinder und ich</title>
 </programme>
-<programme start="20251009202000 +0000" stop="20251009215000 +0000" channel="Heimatkanal.skyde">
-    <title>Salem Aleikum</title>
-</programme>
-<programme start="20251009215000 +0000" stop="20251009224000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008212500 +0000" stop="20251008221500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
 <programme start="20251007220000 +0000" stop="20251007225000 +0000" channel="HISTORY Channel HD.skyde">
