@@ -553,14 +553,86 @@
   <programme start="20251010203500 +0000" stop="20251010231500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Utečenec</title>
   </programme>
-  <programme start="20251008212110 +0000" stop="20251008212110 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009210500 +0000" stop="20251009221500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Polda II (4)</title>
   </programme>
-  <programme start="20251008212110 +0000" stop="20251008212110 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009221500 +0000" stop="20251009232000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Vtierka Castle V (3)</title>
   </programme>
-  <programme start="20251008212110 +0000" stop="20251008212110 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009232000 +0000" stop="20251010000000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20251010000000 +0000" stop="20251010003000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Prvé oddelenie</title>
+  </programme>
+  <programme start="20251010003000 +0000" stop="20251010012500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Inkognito</title>
+  </programme>
+  <programme start="20251010012500 +0000" stop="20251010022000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Bez servítky</title>
+  </programme>
+  <programme start="20251010022000 +0000" stop="20251010025500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Riskuj</title>
+  </programme>
+  <programme start="20251010025500 +0000" stop="20251010034500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20251010034500 +0000" stop="20251010041500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Krimi</title>
+  </programme>
+  <programme start="20251010041500 +0000" stop="20251010063500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Ranné noviny</title>
+  </programme>
+  <programme start="20251010063500 +0000" stop="20251010075000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Dobre vedieť (6)</title>
+  </programme>
+  <programme start="20251010075000 +0000" stop="20251010100000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Súdna sieň</title>
+  </programme>
+  <programme start="20251010100000 +0000" stop="20251010104000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Noviny o 12:00</title>
+  </programme>
+  <programme start="20251010104000 +0000" stop="20251010110500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Top Star</title>
+  </programme>
+  <programme start="20251010110500 +0000" stop="20251010123000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Nákupné maniačky</title>
+  </programme>
+  <programme start="20251010123000 +0000" stop="20251010134000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Bez servítky</title>
+  </programme>
+  <programme start="20251010134000 +0000" stop="20251010151000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Inkognito</title>
+  </programme>
+  <programme start="20251010151000 +0000" stop="20251010155000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Riskuj</title>
+  </programme>
+  <programme start="20251010155000 +0000" stop="20251010170000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Bez servítky</title>
+  </programme>
+  <programme start="20251010170000 +0000" stop="20251010173000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Krimi</title>
+  </programme>
+  <programme start="20251010173000 +0000" stop="20251010181500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20251010181500 +0000" stop="20251010182000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Informácie pre tipujúcich</title>
+  </programme>
+  <programme start="20251010182000 +0000" stop="20251010183000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20251010183000 +0000" stop="20251010184000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Najlepšie počasie</title>
+  </programme>
+  <programme start="20251010184000 +0000" stop="20251010195000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Nemocnica</title>
+  </programme>
+  <programme start="20251010195000 +0000" stop="20251010213000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Vtip za stovku</title>
+  </programme>
+  <programme start="20251010213000 +0000" stop="20251010233000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Všetko čo mám rád</title>
   </programme>
   <programme start="20251009205500 +0000" stop="20251009221000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Farma XVII</title>
@@ -2587,31 +2659,31 @@
   <programme start="20251010193500 +0000" stop="20251010220000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Hitparáda pre rodičov</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="HaHa TV.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="HaHa TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="HaHa TV.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="HaHa TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="HaHa TV.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="HaHa TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="Antik Info TV.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="Antik Info TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="Antik Info TV.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="Antik Info TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="Antik Info TV.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="Antik Info TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="Tanečné súťaže.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="Tanečné súťaže.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="Tanečné súťaže.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="Tanečné súťaže.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212114 +0000" stop="20251008212114 +0000" channel="Tanečné súťaže.webtv.sk">
+  <programme start="20251008222235 +0000" stop="20251008222235 +0000" channel="Tanečné súťaže.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009230000 +0000" channel="Senzi.webtv.sk">
@@ -3127,13 +3199,13 @@
   <programme start="20251010211900 +0000" stop="20251010214400 +0000" channel="Chilli TV.webtv.sk">
     <title lang="id">Priamočiaro v Ukrajine</title>
   </programme>
-  <programme start="20251008212115 +0000" stop="20251008212115 +0000" channel="tv NRSR.webtv.sk">
+  <programme start="20251008222236 +0000" stop="20251008222236 +0000" channel="tv NRSR.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212115 +0000" stop="20251008212115 +0000" channel="tv NRSR.webtv.sk">
+  <programme start="20251008222236 +0000" stop="20251008222236 +0000" channel="tv NRSR.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212115 +0000" stop="20251008212115 +0000" channel="tv NRSR.webtv.sk">
+  <programme start="20251008222236 +0000" stop="20251008222236 +0000" channel="tv NRSR.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009214500 +0000" stop="20251009220500 +0000" channel="TV LUX.webtv.sk">
@@ -4123,14 +4195,74 @@
   <programme start="20251010214500 +0000" stop="20251010223000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3440)</title>
   </programme>
-  <programme start="20251008212116 +0000" stop="20251008212116 +0000" channel="Prima SK.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009213500 +0000" stop="20251009221000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
-  <programme start="20251008212116 +0000" stop="20251008212116 +0000" channel="Prima SK.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009221000 +0000" stop="20251009230000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Show Jana Krause</title>
   </programme>
-  <programme start="20251008212116 +0000" stop="20251008212116 +0000" channel="Prima SK.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009230000 +0000" stop="20251010002000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Máme rádi Česko</title>
+  </programme>
+  <programme start="20251010002000 +0000" stop="20251010012000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Slnečná I (23)</title>
+  </programme>
+  <programme start="20251010012000 +0000" stop="20251010022000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Cesty domů III (30)</title>
+  </programme>
+  <programme start="20251010022000 +0000" stop="20251010031000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Nikdo není dokonalý</title>
+  </programme>
+  <programme start="20251010031000 +0000" stop="20251010040000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Vodní kolo</title>
+  </programme>
+  <programme start="20251010040000 +0000" stop="20251010041500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Vodní kolo</title>
+  </programme>
+  <programme start="20251010041500 +0000" stop="20251010051000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Receptář prima nápadů</title>
+  </programme>
+  <programme start="20251010051000 +0000" stop="20251010054500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Vychytávky Ládi Hrušky</title>
+  </programme>
+  <programme start="20251010054500 +0000" stop="20251010064000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Zoo Nové začátky (164)</title>
+  </programme>
+  <programme start="20251010064000 +0000" stop="20251010080500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Slnečná I (24)</title>
+  </programme>
+  <programme start="20251010080500 +0000" stop="20251010092500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Cesty domů III (31)</title>
+  </programme>
+  <programme start="20251010092500 +0000" stop="20251010103500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20251010103500 +0000" stop="20251010120000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Slnečná I (25)</title>
+  </programme>
+  <programme start="20251010120000 +0000" stop="20251010131000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Cesty domů III (32)</title>
+  </programme>
+  <programme start="20251010131000 +0000" stop="20251010150000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Máme rádi Česko</title>
+  </programme>
+  <programme start="20251010150000 +0000" stop="20251010160000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Prostřeno!</title>
+  </programme>
+  <programme start="20251010160000 +0000" stop="20251010165500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Zoo Nové začátky (165)</title>
+  </programme>
+  <programme start="20251010165500 +0000" stop="20251010181500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Polabí (14)</title>
+  </programme>
+  <programme start="20251010181500 +0000" stop="20251010195500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Máme rádi Česko</title>
+  </programme>
+  <programme start="20251010195500 +0000" stop="20251010214500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Máme rádi Česko</title>
+  </programme>
+  <programme start="20251010214500 +0000" stop="20251010222000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Receptář prima nápadů</title>
   </programme>
   <programme start="20251009215000 +0000" stop="20251009222000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
@@ -4510,14 +4642,80 @@
   <programme start="20251010215500 +0000" stop="20251010224000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu V (11)</title>
   </programme>
-  <programme start="20251008212117 +0000" stop="20251008212117 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009213000 +0000" stop="20251009225000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Labyrint I (2)</title>
   </programme>
-  <programme start="20251008212117 +0000" stop="20251008212117 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009225000 +0000" stop="20251009235000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">JAG V (2)</title>
   </programme>
-  <programme start="20251008212117 +0000" stop="20251008212117 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">N/A</title>
+  <programme start="20251009235000 +0000" stop="20251010004000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">JAG V (3)</title>
+  </programme>
+  <programme start="20251010004000 +0000" stop="20251010011500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Moje místa: Pavel Nečas</title>
+  </programme>
+  <programme start="20251010011500 +0000" stop="20251010012000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Výleťák (132)</title>
+  </programme>
+  <programme start="20251010012000 +0000" stop="20251010021500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Divoký boj o přežití II (6)</title>
+  </programme>
+  <programme start="20251010021500 +0000" stop="20251010031500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Zahradní proměny X (36)</title>
+  </programme>
+  <programme start="20251010031500 +0000" stop="20251010040000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Proměny víkendových domů V (7)</title>
+  </programme>
+  <programme start="20251010040000 +0000" stop="20251010041000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Výleťák (228, 229)</title>
+  </programme>
+  <programme start="20251010040000 +0000" stop="20251010041000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Výleťák (228, 229)</title>
+  </programme>
+  <programme start="20251010041000 +0000" stop="20251010045000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Moje místa: Osmany Laffita</title>
+  </programme>
+  <programme start="20251010045000 +0000" stop="20251010060000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Zahradní proměny X (36)</title>
+  </programme>
+  <programme start="20251010060000 +0000" stop="20251010070000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Proměny víkendových domů V (8)</title>
+  </programme>
+  <programme start="20251010070000 +0000" stop="20251010080000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Vražedná čísla III (12)</title>
+  </programme>
+  <programme start="20251010080000 +0000" stop="20251010090000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">JAG V (2)</title>
+  </programme>
+  <programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">JAG V (3)</title>
+  </programme>
+  <programme start="20251010100000 +0000" stop="20251010120500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Poslední mohykán</title>
+  </programme>
+  <programme start="20251010120500 +0000" stop="20251010130000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Vražedná čísla III (13)</title>
+  </programme>
+  <programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">JAG V (4)</title>
+  </programme>
+  <programme start="20251010140000 +0000" stop="20251010150000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">JAG V (5)</title>
+  </programme>
+  <programme start="20251010150000 +0000" stop="20251010155000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Proměny víkendových domů VI (1)</title>
+  </programme>
+  <programme start="20251010155000 +0000" stop="20251010171000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Zahradní proměny X (37)</title>
+  </programme>
+  <programme start="20251010171000 +0000" stop="20251010181000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Vražedná čísla III (14)</title>
+  </programme>
+  <programme start="20251010181000 +0000" stop="20251010203500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Malý unavený Joe</title>
+  </programme>
+  <programme start="20251010203500 +0000" stop="20251010223500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Peklo</title>
   </programme>
   <programme start="20251009211000 +0000" stop="20251009221000 +0000" channel="Barrandov.webtv.sk">
     <title lang="id">Policie Delta</title>
@@ -4927,13 +5125,13 @@
   <programme start="20251010213000 +0000" stop="20251010220000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
     <title lang="id">Top Models</title>
   </programme>
-  <programme start="20251008212118 +0000" stop="20251008212118 +0000" channel="TV Piánko.webtv.sk">
+  <programme start="20251008222239 +0000" stop="20251008222239 +0000" channel="TV Piánko.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212118 +0000" stop="20251008212118 +0000" channel="TV Piánko.webtv.sk">
+  <programme start="20251008222239 +0000" stop="20251008222239 +0000" channel="TV Piánko.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212118 +0000" stop="20251008212118 +0000" channel="TV Piánko.webtv.sk">
+  <programme start="20251008222239 +0000" stop="20251008222239 +0000" channel="TV Piánko.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009230000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -5641,13 +5839,13 @@
   <programme start="20251010170000 +0000" stop="20251010220000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Acciona Open de Espana presented by Madrid</title>
   </programme>
-  <programme start="20251008212119 +0000" stop="20251008212119 +0000" channel="SuperYacht TV.webtv.sk">
+  <programme start="20251008222241 +0000" stop="20251008222241 +0000" channel="SuperYacht TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212119 +0000" stop="20251008212119 +0000" channel="SuperYacht TV.webtv.sk">
+  <programme start="20251008222241 +0000" stop="20251008222241 +0000" channel="SuperYacht TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212119 +0000" stop="20251008212119 +0000" channel="SuperYacht TV.webtv.sk">
+  <programme start="20251008222241 +0000" stop="20251008222241 +0000" channel="SuperYacht TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009224500 +0000" channel="National Geographic Channel.webtv.sk">
@@ -6976,13 +7174,13 @@
   <programme start="20251010213000 +0000" stop="20251010220000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Doktor online</title>
   </programme>
-  <programme start="20251008212122 +0000" stop="20251008212122 +0000" channel="Kitchen TV.webtv.sk">
+  <programme start="20251008222243 +0000" stop="20251008222243 +0000" channel="Kitchen TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212122 +0000" stop="20251008212122 +0000" channel="Kitchen TV.webtv.sk">
+  <programme start="20251008222243 +0000" stop="20251008222243 +0000" channel="Kitchen TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212122 +0000" stop="20251008212122 +0000" channel="Kitchen TV.webtv.sk">
+  <programme start="20251008222243 +0000" stop="20251008222243 +0000" channel="Kitchen TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009230000 +0000" channel="PARK TV.webtv.sk">
@@ -9898,13 +10096,13 @@
   <programme start="20251010215500 +0000" stop="20251010225000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">The Polar School of Nomad Children</title>
   </programme>
-  <programme start="20251008212126 +0000" stop="20251008212126 +0000" channel="360 TuneBox.webtv.sk">
+  <programme start="20251008222247 +0000" stop="20251008222247 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212126 +0000" stop="20251008212126 +0000" channel="360 TuneBox.webtv.sk">
+  <programme start="20251008222247 +0000" stop="20251008222247 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212126 +0000" stop="20251008212126 +0000" channel="360 TuneBox.webtv.sk">
+  <programme start="20251008222247 +0000" stop="20251008222247 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009221000 +0000" channel="Disney Channel.webtv.sk">
@@ -14848,139 +15046,139 @@
   <programme start="20251010215700 +0000" stop="20251010220000 +0000" channel="Duck TV Plus.webtv.sk">
     <title lang="id">Náučný kútik</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Mestská Tv Košice.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="Mestská Tv Košice.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Mestská Tv Košice.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="Mestská Tv Košice.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Mestská Tv Košice.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="Mestská Tv Košice.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="RVTV.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="RVTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="RVTV.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="RVTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="RVTV.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="RVTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Mestská TV Vranov.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="Mestská TV Vranov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Mestská TV Vranov.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="Mestská TV Vranov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Mestská TV Vranov.webtv.sk">
+  <programme start="20251008222249 +0000" stop="20251008222249 +0000" channel="Mestská TV Vranov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Miestna TV Trebišov.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="Miestna TV Trebišov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Miestna TV Trebišov.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="Miestna TV Trebišov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Miestna TV Trebišov.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="Miestna TV Trebišov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="HN TV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="HN TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="HN TV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="HN TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="HN TV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="HN TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="BTV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="BTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="BTV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="BTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="BTV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="BTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Moldava TV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="Moldava TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Moldava TV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="Moldava TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212128 +0000" stop="20251008212128 +0000" channel="Moldava TV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="Moldava TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV 9.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV 9.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV 9.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV 9.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV 9.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV 9.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV7.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV7.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV7.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV7.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV7.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV7.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="ČSRTV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="ČSRTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="ČSRTV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="ČSRTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="ČSRTV.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="ČSRTV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV SEN.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV SEN.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV SEN.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV SEN.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV SEN.webtv.sk">
+  <programme start="20251008222250 +0000" stop="20251008222250 +0000" channel="TV SEN.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Ružinov.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Ružinov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Ružinov.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Ružinov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Ružinov.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Ružinov.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Kežmarok.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Kežmarok.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Kežmarok.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Kežmarok.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Kežmarok.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Kežmarok.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Romana.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Romana.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Romana.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Romana.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Romana.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Romana.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Bratislava.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Bratislava.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Bratislava.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Bratislava.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212129 +0000" stop="20251008212129 +0000" channel="TV Bratislava.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Bratislava.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009210000 +0000" stop="20251010031000 +0000" channel="Life TV.webtv.sk">
@@ -15055,40 +15253,40 @@
   <programme start="20251010210000 +0000" stop="20251011031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV RAJ.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV RAJ.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV RAJ.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV RAJ.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV RAJ.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV RAJ.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="Tv Vega.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="Tv Vega.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="Tv Vega.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="Tv Vega.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="Tv Vega.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="Tv Vega.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV Panoráma.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Panoráma.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV Panoráma.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Panoráma.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV Panoráma.webtv.sk">
+  <programme start="20251008222251 +0000" stop="20251008222251 +0000" channel="TV Panoráma.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="ATV Žiar.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="ATV Žiar.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="ATV Žiar.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="ATV Žiar.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="ATV Žiar.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="ATV Žiar.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009202300 +0000" stop="20251010014400 +0000" channel="TV Zemplín.webtv.sk">
@@ -15304,22 +15502,22 @@
   <programme start="20251010210000 +0000" stop="20251010220000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">Aktuality regiónu</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV Reduta.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="TV Reduta.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV Reduta.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="TV Reduta.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212130 +0000" stop="20251008212130 +0000" channel="TV Reduta.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="TV Reduta.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="Mestská Televízia Partizánske.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="Mestská Televízia Partizánske.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="Mestská Televízia Partizánske.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="Mestská Televízia Partizánske.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="Mestská Televízia Partizánske.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="Mestská Televízia Partizánske.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="TV Považie.webtv.sk">
@@ -15547,13 +15745,13 @@
   <programme start="20251010200000 +0000" stop="20251010220000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Záznam</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="Mestská Televízia Trnava.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="Mestská Televízia Trnava.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="Mestská Televízia Trnava.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="Mestská Televízia Trnava.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="Mestská Televízia Trnava.webtv.sk">
+  <programme start="20251008222252 +0000" stop="20251008222252 +0000" channel="Mestská Televízia Trnava.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009224500 +0000" channel="CETV.webtv.sk">
@@ -15700,49 +15898,49 @@
   <programme start="20251010214500 +0000" stop="20251010220000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Mistral.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Mistral.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Mistral.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Mistral.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Mistral.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Mistral.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Nitrička.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Nitrička.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Nitrička.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Nitrička.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Nitrička.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Nitrička.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Nové Zámky.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Nové Zámky.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Nové Zámky.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Nové Zámky.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212131 +0000" stop="20251008212131 +0000" channel="TV Nové Zámky.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Nové Zámky.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="Televízia Slovensko.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="Televízia Slovensko.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="Televízia Slovensko.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="Televízia Slovensko.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="Televízia Slovensko.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="Televízia Slovensko.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="TV Vita.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Vita.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="TV Vita.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Vita.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="TV Vita.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="TV Vita.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251010030000 +0000" channel="TV8.webtv.sk">
@@ -15787,22 +15985,22 @@
   <programme start="20251010180000 +0000" stop="20251010220000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Televeštiareň s Marciou</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="Régió TV.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="Régió TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="Régió TV.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="Régió TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="Régió TV.webtv.sk">
+  <programme start="20251008222253 +0000" stop="20251008222253 +0000" channel="Régió TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="TV LocAll.webtv.sk">
+  <programme start="20251008222254 +0000" stop="20251008222254 +0000" channel="TV LocAll.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="TV LocAll.webtv.sk">
+  <programme start="20251008222254 +0000" stop="20251008222254 +0000" channel="TV LocAll.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008212132 +0000" stop="20251008212132 +0000" channel="TV LocAll.webtv.sk">
+  <programme start="20251008222254 +0000" stop="20251008222254 +0000" channel="TV LocAll.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009220000 +0000" stop="20251009221000 +0000" channel="Polar TV.webtv.sk">
