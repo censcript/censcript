@@ -56,7 +56,7 @@
 <title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20251009033000 +0000" stop="20251009043000 +0000" channel="RCTI.vision">
-<title>Emang Boleh</title>
+<title>Emang Boleh (New) RCTI</title>
 </programme>
 <programme start="20251009043000 +0000" stop="20251009051500 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
