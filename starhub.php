@@ -884,10 +884,10 @@
         <title>Outnumbered</title>
     </programme>
     <programme start="20251007170000 +0000" stop="20251007180000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports Fox News Live</title>
+        <title>America Reports FOX News Live</title>
     </programme>
     <programme start="20251007180000 +0000" stop="20251007190000 +0000" channel="Fox News Channel.starhub">
-        <title>America Reports Fox News Live</title>
+        <title>America Reports FOX News Live</title>
     </programme>
     <programme start="20251007190000 +0000" stop="20251007200000 +0000" channel="Fox News Channel.starhub">
         <title>The Story</title>
@@ -2540,7 +2540,7 @@
         <title>Belmont Park, NY</title>
     </programme>
     <programme start="20251007210000 +0000" stop="20251007230000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Singapore Premier League 2025/26 BG Tampines Rovers FC vs Geylang International</title>
+        <title>BG Tampines Rovers FC vs Geylang International FC</title>
     </programme>
     <programme start="20251007230000 +0000" stop="20251007233000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>EASL 2024/25 Season Recap</title>
@@ -3350,16 +3350,16 @@
         <title>News</title>
     </programme>
     <programme start="20251007161500 +0000" stop="20251007164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Saffron Century - RSS&#039;s Rise From the Shadows</title>
     </programme>
     <programme start="20251007164500 +0000" stop="20251007170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Wolf Children in Lithuania - The Forgotten Orphans of World War Two</title>
     </programme>
     <programme start="20251007170000 +0000" stop="20251007171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251007171500 +0000" stop="20251007173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Brazil&#039;s Minister of Environment and Climate Change, Marina Silva in Conversation with DW</title>
     </programme>
     <programme start="20251007173000 +0000" stop="20251007180000 +0000" channel="DW English HD.starhub">
         <title>How passengers can calm nerves or cause chaos</title>
@@ -3389,13 +3389,13 @@
         <title>News</title>
     </programme>
     <programme start="20251007210200 +0000" stop="20251007211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Brazil&#039;s Minister of Environment and Climate Change, Marina Silva in Conversation with DW</title>
     </programme>
     <programme start="20251007211500 +0000" stop="20251007214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Saffron Century - RSS&#039;s Rise From the Shadows</title>
     </programme>
     <programme start="20251007214500 +0000" stop="20251007220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>VR and Empathy</title>
     </programme>
     <programme start="20251007220000 +0000" stop="20251007220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3410,7 +3410,7 @@
         <title>News</title>
     </programme>
     <programme start="20251007231500 +0000" stop="20251007233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Brazil&#039;s Minister of Environment and Climate Change, Marina Silva in Conversation with DW</title>
     </programme>
     <programme start="20251007233000 +0000" stop="20251008000000 +0000" channel="DW English HD.starhub">
         <title>Mongolia&#039;s nomad doctor fighting to save tradition</title>
@@ -6506,7 +6506,7 @@
         <title>Belmont Park, NY</title>
     </programme>
     <programme start="20251007210000 +0000" stop="20251007230000 +0000" channel="TestChannel 995.starhub">
-        <title>Singapore Premier League 2025/26 BG Tampines Rovers FC vs Geylang International</title>
+        <title>BG Tampines Rovers FC vs Geylang International FC</title>
     </programme>
     <programme start="20251007230000 +0000" stop="20251007233000 +0000" channel="TestChannel 995.starhub">
         <title>EASL 2024/25 Season Recap</title>
@@ -6856,17 +6856,23 @@
     <programme start="20251008153000 +0000" stop="20251008160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 5</title>
     </programme>
-    <programme start="20251007140200 +0000" stop="20251007160700 +0000" channel="SONY MAX.starhub">
-        <title>Sadma</title>
-    </programme>
-    <programme start="20251007160700 +0000" stop="20251007183500 +0000" channel="SONY MAX.starhub">
+    <programme start="20251007160000 +0000" stop="20251007182100 +0000" channel="SONY MAX.starhub">
         <title>Ludo</title>
     </programme>
-    <programme start="20251007183500 +0000" stop="20251007211200 +0000" channel="SONY MAX.starhub">
-        <title>Jaan Se Pyaara</title>
+    <programme start="20251007182100 +0000" stop="20251007194700 +0000" channel="SONY MAX.starhub">
+        <title>Dashing Hero</title>
     </programme>
-    <programme start="20251007214300 +0000" stop="20251007221500 +0000" channel="SONY MAX.starhub">
-        <title>Extraaa Storiez: Bhool Bhulaiyaa 2</title>
+    <programme start="20251007194700 +0000" stop="20251007221700 +0000" channel="SONY MAX.starhub">
+        <title>Raju Ban Gaya Gentleman</title>
+    </programme>
+    <programme start="20251007221700 +0000" stop="20251007223600 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: 12th Fail</title>
+    </programme>
+    <programme start="20251007223600 +0000" stop="20251007224700 +0000" channel="SONY MAX.starhub">
+        <title>Extraaa Storiez: Kantara</title>
+    </programme>
+    <programme start="20251007224700 +0000" stop="20251007235100 +0000" channel="SONY MAX.starhub">
+        <title>NCL Chicago Vs. Houston Generals (Live)</title>
     </programme>
     <programme start="20251007235100 +0000" stop="20251008005300 +0000" channel="SONY MAX.starhub">
         <title>NCL Chicago Vs. Houston Generals (Live)</title>
@@ -8309,16 +8315,16 @@
         <title>Day 2</title>
     </programme>
     <programme start="20251007200800 +0000" stop="20251007230000 +0000" channel="SPOTV2.starhub">
-        <title>Detroit Tigers vs Seattle Mariners</title>
+        <title>MLB 2025 Postseason - ALDS Game 3 Detroit Tigers vs Seattle Mariners</title>
     </programme>
     <programme start="20251007230000 +0000" stop="20251008000800 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20251008000800 +0000" stop="20251008030000 +0000" channel="SPOTV2.starhub">
-        <title>New York Yankees vs Toronto Blue Jays</title>
+        <title>MLB 2025 Postseason - ALDS Game 3 New York Yankees vs Toronto Blue Jays</title>
     </programme>
     <programme start="20251008030000 +0000" stop="20251008033000 +0000" channel="SPOTV2.starhub">
-        <title>Season 5 Episode 10</title>
+        <title>Season 5</title>
     </programme>
     <programme start="20251008033000 +0000" stop="20251008043000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -8353,7 +8359,7 @@
     <programme start="20251008131500 +0000" stop="20251008143000 +0000" channel="SPOTV2.starhub">
         <title>Sprint - MotoGP</title>
     </programme>
-    <programme start="20251008143000 +0000" stop="20251008180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251008143000 +0000" stop="20251008170000 +0000" channel="SPOTV2.starhub">
         <title>MLB 2025 Postseason - ALDS Game 3 Detroit Tigers vs Seattle Mariners</title>
     </programme>
     <programme start="20251007150000 +0000" stop="20251007170000 +0000" channel="Dragon TV.starhub">
