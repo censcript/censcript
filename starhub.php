@@ -8353,11 +8353,8 @@
     <programme start="20251008131500 +0000" stop="20251008143000 +0000" channel="SPOTV2.starhub">
         <title>Sprint - MotoGP</title>
     </programme>
-    <programme start="20251008143000 +0000" stop="20251008153000 +0000" channel="SPOTV2.starhub">
-        <title>Round 1</title>
-    </programme>
-    <programme start="20251008153000 +0000" stop="20251008170000 +0000" channel="SPOTV2.starhub">
-        <title>Day 1</title>
+    <programme start="20251008143000 +0000" stop="20251008180000 +0000" channel="SPOTV2.starhub">
+        <title>MLB 2025 Postseason - ALDS Game 3 Detroit Tigers vs Seattle Mariners</title>
     </programme>
     <programme start="20251007150000 +0000" stop="20251007170000 +0000" channel="Dragon TV.starhub">
         <title>the city of musicals</title>

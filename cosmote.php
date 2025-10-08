@@ -110,6 +110,10 @@
     <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251009131000 +0700" stop="20251009151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251008110000 +0700" stop="20251008143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Buffalo Bills - New England Patriots</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Oostende - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008115000 +0700" stop="20251008124500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251008124500 +0700" stop="20251008131500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Gearing Up 2025 E9</title>
     <desc>Live: Tidak</desc>
@@ -324,6 +324,10 @@
 </programme>
 <programme start="20251009124500 +0700" stop="20251009134500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251009134500 +0700" stop="20251009144000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251008113000 +0700" stop="20251008133000 +0700" channel="COSMOTE Sport 6 HD">
