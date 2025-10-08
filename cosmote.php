@@ -106,8 +106,8 @@
     <title>Football: FC Internazionale Milano - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008223000 +0700" stop="20251009003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sporting CP - SC Braga</title>
+<programme start="20251010013000 +0700" stop="20251010020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009003000 +0700" stop="20251009023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -170,14 +170,6 @@
     <title>Football: Palmeiras - River Plate</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251008223000 +0700" stop="20251009003000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: VEF Riga - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251009003000 +0700" stop="20251009010000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251009010000 +0700" stop="20251009013000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E1</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +226,8 @@
     <title>Basketball: Promitheas - Heidelberg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009000000 +0700" stop="20251009010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
+<programme start="20251010013000 +0700" stop="20251010040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009010000 +0700" stop="20251009030500 +0700" channel="COSMOTE Sport 5 HD">
@@ -328,6 +320,14 @@
 </programme>
 <programme start="20251010000000 +0700" stop="20251010010000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251010010000 +0700" stop="20251010014000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251010014000 +0700" stop="20251010030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009000000 +0700" stop="20251009040000 +0700" channel="COSMOTE Sport 6 HD">

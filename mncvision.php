@@ -934,7 +934,156 @@
 <programme start="20251009164000 +0000" stop="20251008171000 +0000" channel="BBC Earth HD.mncvision">
     <title>Extreme Treks S2, Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 0
+<programme start="20251008170000 +0000" stop="20251008173000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20251008173000 +0000" stop="20251008180000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20251008180000 +0000" stop="20251008183000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20251008183000 +0000" stop="20251008190000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20251008190000 +0000" stop="20251008193000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20251008193000 +0000" stop="20251008200000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20251008200000 +0000" stop="20251008203000 +0000" channel="BBC World News.mncvision">
+    <title>The Context USA</title>
+</programme>
+<programme start="20251008203000 +0000" stop="20251008210000 +0000" channel="BBC World News.mncvision">
+    <title>The Context USA</title>
+</programme>
+<programme start="20251008210000 +0000" stop="20251008213000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20251008213000 +0000" stop="20251008220000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20251008220000 +0000" stop="20251008230000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20251008230000 +0000" stop="20251008233000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251008233000 +0000" stop="20251009000000 +0000" channel="BBC World News.mncvision">
+    <title>Newscast</title>
+</programme>
+<programme start="20251009000000 +0000" stop="20251009003000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009003000 +0000" stop="20251009010000 +0000" channel="BBC World News.mncvision">
+    <title>Afghanistan&#039;s Hidden...</title>
+</programme>
+<programme start="20251009010000 +0000" stop="20251009013000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009013000 +0000" stop="20251009020000 +0000" channel="BBC World News.mncvision">
+    <title>The Media Show</title>
+</programme>
+<programme start="20251009020000 +0000" stop="20251009023000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009023000 +0000" stop="20251009030000 +0000" channel="BBC World News.mncvision">
+    <title>The Botox Black Market</title>
+</programme>
+<programme start="20251009030000 +0000" stop="20251009033000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009033000 +0000" stop="20251009040000 +0000" channel="BBC World News.mncvision">
+    <title>Tech Now</title>
+</programme>
+<programme start="20251009040000 +0000" stop="20251009043000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009043000 +0000" stop="20251009050000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20251009050000 +0000" stop="20251009053000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009053000 +0000" stop="20251009060000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20251009060000 +0000" stop="20251009063000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009063000 +0000" stop="20251009070000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20251009070000 +0000" stop="20251009073000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009073000 +0000" stop="20251009080000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009080000 +0000" stop="20251009083000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009083000 +0000" stop="20251009090000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009090000 +0000" stop="20251009093000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009103000 +0000" stop="20251009104500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20251009104500 +0000" stop="20251009110000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20251009110000 +0000" stop="20251009113000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20251009113000 +0000" stop="20251009120000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20251009120000 +0000" stop="20251009123000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20251009123000 +0000" stop="20251009130000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20251009130000 +0000" stop="20251009133000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20251009133000 +0000" stop="20251009134500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today: NYSE</title>
+</programme>
+<programme start="20251009134500 +0000" stop="20251009140000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20251009140000 +0000" stop="20251009143000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20251009143000 +0000" stop="20251009150000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20251009150000 +0000" stop="20251009153000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20251009153000 +0000" stop="20251009154500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20251009154500 +0000" stop="20251009160000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20251009160000 +0000" stop="20251009163000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20251009163000 +0000" stop="20251008170000 +0000" channel="BBC World News.mncvision">
+    <title>Focus On Africa</title>
+</programme>
 <programme start="20251008185500 +0000" stop="20251008210000 +0000" channel="beIN Sports 1.mncvision">
     <title>UWCL 2025/26: WOB Vs PSG (L)</title>
 </programme>
@@ -1049,7 +1198,57 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20251009160000 +0000" stop="20251009163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: RSO Vs RAY</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 0
+<programme start="20251008170000 +0000" stop="20251008183000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Umag Day 2</title>
+</programme>
+<programme start="20251008183000 +0000" stop="20251008185500 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Doco Shorts</title>
+</programme>
+<programme start="20251008185500 +0000" stop="20251008210000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UWCL 2025/26: SKN Vs ATM (L)</title>
+</programme>
+<programme start="20251008210000 +0000" stop="20251008223000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Umag Day 3</title>
+</programme>
+<programme start="20251008223000 +0000" stop="20251009000000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009000000 +0000" stop="20251009010000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour Review Show 2025</title>
+</programme>
+<programme start="20251009010000 +0000" stop="20251009023000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009023000 +0000" stop="20251009040000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009040000 +0000" stop="20251009053000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009053000 +0000" stop="20251009070000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009070000 +0000" stop="20251009090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251009090000 +0000" stop="20251009103000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Toronto</title>
+</programme>
+<programme start="20251009103000 +0000" stop="20251009123000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 &#039;25: Shanghai (L)</title>
+</programme>
+<programme start="20251009123000 +0000" stop="20251009130000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour: This Week 2025, Ep 39</title>
+</programme>
+<programme start="20251009130000 +0000" stop="20251009143000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009143000 +0000" stop="20251009160000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 1000 2025: Shanghai</title>
+</programme>
+<programme start="20251009160000 +0000" stop="20251009163000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Umag Day 3</title>
+</programme>
 <programme start="20251008170000 +0000" stop="20251008183000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Umag Day 2</title>
 </programme>
