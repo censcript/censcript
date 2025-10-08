@@ -914,7 +914,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20251008030000 +0000" stop="20251008040000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox News @Night</title>
+        <title>FOX News @Night</title>
     </programme>
     <programme start="20251008040000 +0000" stop="20251008050000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>
@@ -932,22 +932,22 @@
         <title>The Ingraham Angle</title>
     </programme>
     <programme start="20251008090000 +0000" stop="20251008100000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends First</title>
+        <title>FOX &amp; Friends First</title>
     </programme>
     <programme start="20251008100000 +0000" stop="20251008110000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20251008110000 +0000" stop="20251008120000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20251008120000 +0000" stop="20251008130000 +0000" channel="Fox News Channel.starhub">
-        <title>Fox &amp; Friends</title>
+        <title>FOX &amp; Friends</title>
     </programme>
     <programme start="20251008130000 +0000" stop="20251008140000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom Fox News Live</title>
+        <title>America&#039;s Newsroom FOX News Live</title>
     </programme>
     <programme start="20251008140000 +0000" stop="20251008150000 +0000" channel="Fox News Channel.starhub">
-        <title>America&#039;s Newsroom Fox News Live</title>
+        <title>America&#039;s Newsroom FOX News Live</title>
     </programme>
     <programme start="20251008150000 +0000" stop="20251008160000 +0000" channel="Fox News Channel.starhub">
         <title>The Faulkner Focus</title>

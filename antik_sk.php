@@ -553,13 +553,13 @@
   <programme start="20251010203500 +0000" stop="20251010231500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Utečenec</title>
   </programme>
-  <programme start="20251008014810 +0000" stop="20251008014810 +0000" channel="JOJ.webtv.sk">
+  <programme start="20251008030115 +0000" stop="20251008030115 +0000" channel="JOJ.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008014810 +0000" stop="20251008014810 +0000" channel="JOJ.webtv.sk">
+  <programme start="20251008030115 +0000" stop="20251008030115 +0000" channel="JOJ.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008014810 +0000" stop="20251008014810 +0000" channel="JOJ.webtv.sk">
+  <programme start="20251008030115 +0000" stop="20251008030115 +0000" channel="JOJ.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009205500 +0000" stop="20251009221000 +0000" channel="Markíza +1.webtv.sk">
@@ -4087,13 +4087,13 @@
   <programme start="20251010214500 +0000" stop="20251010223000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3440)</title>
   </programme>
-  <programme start="20251008014816 +0000" stop="20251008014816 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251008030121 +0000" stop="20251008030121 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008014816 +0000" stop="20251008014816 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251008030121 +0000" stop="20251008030121 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008014816 +0000" stop="20251008014816 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20251008030121 +0000" stop="20251008030121 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009215000 +0000" stop="20251009222000 +0000" channel="CNN Prima News.webtv.sk">
@@ -4474,13 +4474,13 @@
   <programme start="20251010215500 +0000" stop="20251010224000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu V (11)</title>
   </programme>
-  <programme start="20251008014817 +0000" stop="20251008014817 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251008030122 +0000" stop="20251008030122 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008014817 +0000" stop="20251008014817 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251008030122 +0000" stop="20251008030122 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
-  <programme start="20251008014817 +0000" stop="20251008014817 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20251008030122 +0000" stop="20251008030122 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">N/A</title>
   </programme>
   <programme start="20251009211000 +0000" stop="20251009221000 +0000" channel="Barrandov.webtv.sk">
