@@ -437,7 +437,7 @@
 <title>SINDO Files</title>
 </programme>
 <programme start="20251008233000 +0000" stop="20251009003000 +0000" channel="Trans TV.vision">
-<title>Blockbuster Sahur Movie</title>
+<title>Insert Pagi (L)</title>
 </programme>
 <programme start="20251009003000 +0000" stop="20251009013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
@@ -479,13 +479,13 @@
 <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20251009180000 +0000" stop="20251009220000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Connected</title>
+<title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20251009220000 +0000" stop="20251009233000 +0000" channel="Trans TV.vision">
 <title>Islam Itu Indah</title>
 </programme>
 <programme start="20251009233000 +0000" stop="20251010003000 +0000" channel="Trans TV.vision">
-<title>Blockbuster Sahur Movie</title>
+<title>Insert Pagi (L)</title>
 </programme>
 <programme start="20251010003000 +0000" stop="20251010013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
@@ -642,9 +642,6 @@
 </programme>
 <programme start="20251010114500 +0000" stop="20251010121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20251009013000 +0000" stop="20251009050000 +0000" channel="ANTV.vision">
-<title>Raees</title>
 </programme>
 <programme start="20251009050000 +0000" stop="20251009063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -1496,5 +1493,8 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251008233000 +0000" stop="20251009010500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251009010500 +0000" stop="20251009025500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
