@@ -110,8 +110,8 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009163000 +0700" stop="20251009183000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sporting CP - SC Braga</title>
+<programme start="20251010192000 +0700" stop="20251010212000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009183000 +0700" stop="20251009203000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,10 +178,6 @@
     <title>Football: Hull City - Sheffield United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009163000 +0700" stop="20251009190000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251009190000 +0700" stop="20251009210000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +230,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E1</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009171500 +0700" stop="20251009183500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
+<programme start="20251010191500 +0700" stop="20251010211500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Galatasaray - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009183500 +0700" stop="20251009200000 +0700" channel="COSMOTE Sport 5 HD">
