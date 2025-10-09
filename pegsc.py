@@ -41,6 +41,7 @@ urls = [
     "https://manusiabiasa.serv00.net/cen/epg/shahid.php",
     "https://manusiabiasa.serv00.net/cen/epg/mytv.php",
     "https://manusiabiasa.serv00.net/cen/epg/cosmote.php",
+    "https://manusiabiasa.serv00.net/cen/epg/cgates.php",
     #"https://cindo.mra.my.id/epg/sky.php",
     #"https://cindo.mra.my.id/epg/mytv.php",
 ]
