@@ -3292,9 +3292,6 @@
     <programme start="20251008160000 +0000" stop="20251008161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251008161500 +0000" stop="20251008170000 +0000" channel="DW English HD.starhub">
-        <title>The Imported Caregiver - From South America to Germany’s Jungle of Red Tape</title>
-    </programme>
     <programme start="20251008170000 +0000" stop="20251008171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3306,9 +3303,6 @@
     </programme>
     <programme start="20251008180000 +0000" stop="20251008183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20251008183000 +0000" stop="20251008190000 +0000" channel="DW English HD.starhub">
-        <title>Decoding Conflicts - Mexico - War of the Drug Cartels</title>
     </programme>
     <programme start="20251008190000 +0000" stop="20251008190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3331,17 +3325,11 @@
     <programme start="20251008210200 +0000" stop="20251008211500 +0000" channel="DW English HD.starhub">
         <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
-    <programme start="20251008211500 +0000" stop="20251008220000 +0000" channel="DW English HD.starhub">
-        <title>The Imported Caregiver - From South America to Germany’s Jungle of Red Tape</title>
-    </programme>
     <programme start="20251008220000 +0000" stop="20251008220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008220200 +0000" stop="20251008223000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
-    </programme>
-    <programme start="20251008223000 +0000" stop="20251008230000 +0000" channel="DW English HD.starhub">
-        <title>Global Visions: Power, Markets, Media and Manicures</title>
     </programme>
     <programme start="20251008230000 +0000" stop="20251008231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3365,7 +3353,7 @@
         <title>News</title>
     </programme>
     <programme start="20251009011500 +0000" stop="20251009020000 +0000" channel="DW English HD.starhub">
-        <title>Food for Thought - The Hidden Realities of Farming (Part 1)</title>
+        <title>The Hidden Realities of Farming (Part 1)</title>
     </programme>
     <programme start="20251009020000 +0000" stop="20251009020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3383,13 +3371,13 @@
         <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251009033000 +0000" stop="20251009040000 +0000" channel="DW English HD.starhub">
-        <title>Green or greedy? How AI and tech impacts our planet</title>
+        <title>Georgia is a testing ground for Russia’s strategies</title>
     </programme>
     <programme start="20251009040000 +0000" stop="20251009041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251009041500 +0000" stop="20251009050000 +0000" channel="DW English HD.starhub">
-        <title>Food for Thought - The Hidden Realities of Farming (Part 1)</title>
+        <title>The Hidden Realities of Farming (Part 1)</title>
     </programme>
     <programme start="20251009050000 +0000" stop="20251009050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3407,7 +3395,7 @@
         <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251009063000 +0000" stop="20251009070000 +0000" channel="DW English HD.starhub">
-        <title>Global Visions: Power, Markets, Media and Manicures</title>
+        <title>Georgia is a testing ground for Russia’s strategies</title>
     </programme>
     <programme start="20251009070000 +0000" stop="20251009073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3443,7 +3431,7 @@
         <title>News</title>
     </programme>
     <programme start="20251009121500 +0000" stop="20251009130000 +0000" channel="DW English HD.starhub">
-        <title>The Imported Caregiver - From South America to Germany’s Jungle of Red Tape</title>
+        <title>From South America to Germany’s Jungle of Red Tape</title>
     </programme>
     <programme start="20251009130000 +0000" stop="20251009131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3464,7 +3452,7 @@
         <title>News</title>
     </programme>
     <programme start="20251009153000 +0000" stop="20251009160000 +0000" channel="DW English HD.starhub">
-        <title>A stroke in your 30s: Are hidden health threats lurking in your blood?</title>
+        <title>Are hidden health threats lurking in your blood?</title>
     </programme>
     <programme start="20251008160000 +0000" stop="20251008220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

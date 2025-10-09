@@ -5336,7 +5336,7 @@
     <title>This Is My Song</title>
 </programme>
 <programme start="20251009070000 +0000" stop="20251009073000 +0000" channel="LIFE.mncvision">
-    <title>Inexplicable</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20251009073000 +0000" stop="20251009080000 +0000" channel="LIFE.mncvision">
     <title>Mujizat Itu Nyata</title>
@@ -5372,7 +5372,7 @@
     <title>This Is My Song</title>
 </programme>
 <programme start="20251009153000 +0000" stop="20251009160000 +0000" channel="LIFE.mncvision">
-    <title>Inexplicable</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20251009160000 +0000" stop="20251009163000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>
@@ -8018,7 +8018,7 @@
     <title>European Qual.: GER Vs NIR</title>
 </programme>
 <programme start="20251009123000 +0000" stop="20251009143000 +0000" channel="Soccer Channel.mncvision">
-    <title>Timnas Special: IDN Vs IRQ</title>
+    <title>Timnas Special: IDN Vs KSA</title>
 </programme>
 <programme start="20251009143000 +0000" stop="20251009150000 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -8066,7 +8066,7 @@
     <title>European Qual.: GER Vs NIR</title>
 </programme>
 <programme start="20251009123000 +0000" stop="20251009143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Timnas Special: IDN Vs IRQ</title>
+    <title>Timnas Special: IDN Vs KSA</title>
 </programme>
 <programme start="20251009143000 +0000" stop="20251009150000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
