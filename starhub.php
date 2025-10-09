@@ -6161,13 +6161,13 @@
         <title>Early Morning News</title>
     </programme>
     <programme start="20251009010000 +0000" stop="20251009020000 +0000" channel="TVBS-NEWS.starhub">
-        <title>0900 Morning News</title>
+        <title>The Double Tenth National Day Celebrations</title>
     </programme>
     <programme start="20251009020000 +0000" stop="20251009030000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1000 Morning News</title>
+        <title>The Double Tenth National Day Celebrations</title>
     </programme>
     <programme start="20251009030000 +0000" stop="20251009040000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1100 Morning News</title>
+        <title>The Double Tenth National Day Celebrations</title>
     </programme>
     <programme start="20251009040000 +0000" stop="20251009050000 +0000" channel="TVBS-NEWS.starhub">
         <title>1200/1300 Noon News</title>
@@ -6188,7 +6188,7 @@
         <title>1700 Afternoon News</title>
     </programme>
     <programme start="20251009100000 +0000" stop="20251009110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>45911</title>
+        <title>1800/1900 Evening News</title>
     </programme>
     <programme start="20251009110000 +0000" stop="20251009120000 +0000" channel="TVBS-NEWS.starhub">
         <title>1800/1900 Evening News</title>
@@ -6197,7 +6197,7 @@
         <title>News Frontline</title>
     </programme>
     <programme start="20251009130000 +0000" stop="20251009140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>Tvbs Entertainment Headlines</title>
     </programme>
     <programme start="20251009140000 +0000" stop="20251009150000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
