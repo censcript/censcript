@@ -1726,79 +1726,76 @@
   <programme start="20251011211500 +0000" stop="20251011220000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
-  <programme start="20251010211000 +0000" stop="20251010231000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251010200500 +0000" stop="20251010220500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">BOLEK POLÍVKA: Dedičstvo alebo Kurvahošigutntag</title>
   </programme>
-  <programme start="20251010231000 +0000" stop="20251011000000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251010220500 +0000" stop="20251010230000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Inspektor Taggart: Záhada Dallmalské ulice</title>
+  </programme>
+  <programme start="20251010230000 +0000" stop="20251010235000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Veľká vojna v číslach (2)</title>
   </programme>
-  <programme start="20251011000000 +0000" stop="20251011004000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+  <programme start="20251010235000 +0000" stop="20251011003000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Téma - Roman Michelko a Boris Zala</title>
   </programme>
-  <programme start="20251011004000 +0000" stop="20251011010500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011003000 +0000" stop="20251011010000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Objavujeme - Ralph Laurent (12)</title>
   </programme>
-  <programme start="20251011010500 +0000" stop="20251011015500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011010000 +0000" stop="20251011015000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Po lesných požiaroch</title>
   </programme>
-  <programme start="20251011015500 +0000" stop="20251011032500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011015000 +0000" stop="20251011032000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Uhlík: Neautorizovaný životopis</title>
   </programme>
-  <programme start="20251011032500 +0000" stop="20251011045500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011032000 +0000" stop="20251011045000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Najväčšie neznáme</title>
   </programme>
-  <programme start="20251011045500 +0000" stop="20251011070000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011045000 +0000" stop="20251011065500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">BOLEK POLÍVKA: Pupendo</title>
   </programme>
-  <programme start="20251011070000 +0000" stop="20251011074000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+  <programme start="20251011065500 +0000" stop="20251011073500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Téma - Viliam Karas a Judita Laššáková</title>
   </programme>
-  <programme start="20251011074000 +0000" stop="20251011091500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Hurá na futbal</title>
+  <programme start="20251011073500 +0000" stop="20251011092500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Babovresky 2</title>
   </programme>
-  <programme start="20251011091500 +0000" stop="20251011092500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bláznivá skrytá kamera</title>
+  <programme start="20251011092500 +0000" stop="20251011102000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Pravdivý príbeh o Madone</title>
   </programme>
-  <programme start="20251011092500 +0000" stop="20251011095000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Výstavba Bratislavy-Petržalky</title>
+  <programme start="20251011102000 +0000" stop="20251011110500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vojna vo Vietname (1)</title>
   </programme>
-  <programme start="20251011095000 +0000" stop="20251011104000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Horúce peklo (3)</title>
+  <programme start="20251011110500 +0000" stop="20251011115000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vojna vo Vietname (2)</title>
   </programme>
-  <programme start="20251011104000 +0000" stop="20251011111000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Svet z vtáčej perspektívy (9)</title>
+  <programme start="20251011115000 +0000" stop="20251011123500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vojna vo Vietname (3)</title>
   </programme>
-  <programme start="20251011111000 +0000" stop="20251011121500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011123500 +0000" stop="20251011131000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Lekári a lekárky (10)</title>
   </programme>
-  <programme start="20251011121500 +0000" stop="20251011131000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Mel Gibson: Šialený a vášnivý</title>
+  <programme start="20251011131000 +0000" stop="20251011135000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">V tieni zločinu - Peter Šloser</title>
   </programme>
-  <programme start="20251011131000 +0000" stop="20251011140500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Johnny Depp, divoké dieťa</title>
+  <programme start="20251011135000 +0000" stop="20251011153000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">JEAN ROCHEFORT: Florida</title>
   </programme>
-  <programme start="20251011140500 +0000" stop="20251011153500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">KRYŠTOF HÁDEK: Bobule</title>
-  </programme>
-  <programme start="20251011153500 +0000" stop="20251011155500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bláznivá skrytá kamera</title>
-  </programme>
-  <programme start="20251011155500 +0000" stop="20251011164000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Melrose Place I (1)</title>
-  </programme>
-  <programme start="20251011164000 +0000" stop="20251011173500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011153000 +0000" stop="20251011162500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Inspektor Taggart: Záhada Dallmalské ulice (1) I (1)</title>
   </programme>
-  <programme start="20251011173500 +0000" stop="20251011183000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011162500 +0000" stop="20251011172000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Inspektor Taggart: Záhada Dallmalské ulice (2) I (2)</title>
   </programme>
-  <programme start="20251011183000 +0000" stop="20251011200500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011172000 +0000" stop="20251011182000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Melrose Place I (1)</title>
+  </programme>
+  <programme start="20251011182000 +0000" stop="20251011195500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">MIROSLAV DONUTIL: Román pre mužov</title>
   </programme>
-  <programme start="20251011200500 +0000" stop="20251011213000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">JEAN-CLAUDE VAN DAMME: Kontraband</title>
+  <programme start="20251011195500 +0000" stop="20251011214500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">GÉRARD DEPARDIEU: Vatel</title>
   </programme>
-  <programme start="20251011213000 +0000" stop="20251011230000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251011214500 +0000" stop="20251011231500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">PIERRE RICHARD: Snívať môžeme vždy</title>
   </programme>
   <programme start="20251010220000 +0000" stop="20251010220500 +0000" channel="Jojko.webtv.sk">

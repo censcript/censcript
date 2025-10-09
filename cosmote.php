@@ -206,12 +206,12 @@
     <title>Basketball: Bursaspor - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010115500 +0700" stop="20251010142500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251010115500 +0700" stop="20251010141500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Heidelberg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010142500 +0700" stop="20251010144000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
+<programme start="20251010141500 +0700" stop="20251010144000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010144000 +0700" stop="20251010164000 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,7 +234,7 @@
     <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010234500 +0700" stop="20251011015500 +0700" channel="COSMOTE Sport 4 HD">
+<programme start="20251010234500 +0700" stop="20251011020500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oostende - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -355,7 +355,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010140000 +0700" stop="20251010163000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Arthur Rinderknech - Felix Auger-Aliassime (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251010163000 +0700" stop="20251010173000 +0700" channel="COSMOTE Sport 6 HD">
@@ -363,7 +363,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010173000 +0700" stop="20251010200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Daniil Medvedev - Alex de Minaur (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251010200000 +0700" stop="20251010203000 +0700" channel="COSMOTE Sport 6 HD">
