@@ -658,9 +658,6 @@
 <programme start="20251009123000 +0000" stop="20251009143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251009183000 +0000" stop="20251009203000 +0000" channel="ANTV.vision">
-<title>A Chinese Ghost Story 3</title>
-</programme>
 <programme start="20251009203000 +0000" stop="20251009220000 +0000" channel="ANTV.vision">
 <title>Bisa Kelabang</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251009060000 +0000" stop="20251009073000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251009073000 +0000" stop="20251009091000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

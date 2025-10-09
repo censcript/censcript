@@ -3298,10 +3298,10 @@
   <programme start="20251010230100 +0000" stop="20251010233500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Koptashow</title>
   </programme>
-  <programme start="20251010233500 +0000" stop="20251011000200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251010233500 +0000" stop="20251011000100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jak vaří rybáři</title>
   </programme>
-  <programme start="20251011000200 +0000" stop="20251011001800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011000100 +0000" stop="20251011001800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vinařský Babylon</title>
   </programme>
   <programme start="20251011001800 +0000" stop="20251011025000 +0000" channel="ČT1.webtv.sk">
@@ -3313,25 +3313,25 @@
   <programme start="20251011033000 +0000" stop="20251011040000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Události v regionech</title>
   </programme>
-  <programme start="20251011040000 +0000" stop="20251011042500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011040000 +0000" stop="20251011042600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Co naše babičky uměly a na co my jsme zapomněli</title>
   </programme>
-  <programme start="20251011042500 +0000" stop="20251011051100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011042600 +0000" stop="20251011051000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Agentura Pepa</title>
   </programme>
-  <programme start="20251011051100 +0000" stop="20251011060400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011051000 +0000" stop="20251011060300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20251011060400 +0000" stop="20251011070500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011060300 +0000" stop="20251011070500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sedmero krkavců</title>
   </programme>
   <programme start="20251011070500 +0000" stop="20251011074500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Niny Popelíkové</title>
   </programme>
-  <programme start="20251011074500 +0000" stop="20251011081700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011074500 +0000" stop="20251011081500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20251011081700 +0000" stop="20251011090500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011081500 +0000" stop="20251011090500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechny velké a malé bytosti IV (4)</title>
   </programme>
   <programme start="20251011090500 +0000" stop="20251011100000 +0000" channel="ČT1.webtv.sk">
@@ -3340,19 +3340,19 @@
   <programme start="20251011100000 +0000" stop="20251011102600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Z metropole</title>
   </programme>
-  <programme start="20251011102600 +0000" stop="20251011105300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011102600 +0000" stop="20251011105200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20251011105300 +0000" stop="20251011110000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011105200 +0000" stop="20251011110000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
   </programme>
   <programme start="20251011110000 +0000" stop="20251011110500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20251011110500 +0000" stop="20251011115200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011110500 +0000" stop="20251011115100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Princezna za dukát</title>
   </programme>
-  <programme start="20251011115200 +0000" stop="20251011124500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251011115100 +0000" stop="20251011124500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bílá kočička</title>
   </programme>
   <programme start="20251011124500 +0000" stop="20251011142000 +0000" channel="ČT1.webtv.sk">
