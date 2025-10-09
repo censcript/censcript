@@ -1777,42 +1777,6 @@
 <programme start="20251009211500 +0000" stop="20251009230000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Boss Level</title>
 </programme>
-<programme start="20251008233000 +0000" stop="20251009013500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Pancho Villa reitet</title>
-</programme>
-<programme start="20251009013500 +0000" stop="20251009033500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der schwarze Falke</title>
-</programme>
-<programme start="20251009033500 +0000" stop="20251009052500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Am fernen Horizont</title>
-</programme>
-<programme start="20251009052500 +0000" stop="20251009071000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Catlow - Leben ums Verrecken</title>
-</programme>
-<programme start="20251009071000 +0000" stop="20251009091000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Mein großer Freund Shane</title>
-</programme>
-<programme start="20251009091000 +0000" stop="20251009111000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die gefürchteten Vier</title>
-</programme>
-<programme start="20251009111000 +0000" stop="20251009125500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Ein Fremder ohne Namen</title>
-</programme>
-<programme start="20251009125500 +0000" stop="20251009142500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Sinola</title>
-</programme>
-<programme start="20251009142500 +0000" stop="20251009161500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>El Diablo - Der mit dem Teufel tanzt</title>
-</programme>
-<programme start="20251009161500 +0000" stop="20251009181500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Old Shatterhand</title>
-</programme>
-<programme start="20251009181500 +0000" stop="20251009200500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Am fernen Horizont</title>
-</programme>
-<programme start="20251009200500 +0000" stop="20251009220500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der schwarze Falke</title>
-</programme>
 <programme start="20251008221500 +0000" stop="20251009001500 +0000" channel="Sky Cinema Family HD.skyde">
     <title>The Portable Door</title>
 </programme>
@@ -3653,42 +3617,6 @@
     <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
 </programme>
 <programme start="20251009200000 +0000" stop="20251009221000 +0000" channel="Warner TV Film.skyde">
-    <title>King Arthur</title>
-</programme>
-<programme start="20251009000500 +0000" stop="20251009020000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Callahan</title>
-</programme>
-<programme start="20251009020000 +0000" stop="20251009040000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Getaway</title>
-</programme>
-<programme start="20251009040000 +0000" stop="20251009042000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Hinter den Kulissen - Peter Fonda</title>
-</programme>
-<programme start="20251009042000 +0000" stop="20251009062500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Batman</title>
-</programme>
-<programme start="20251009062500 +0000" stop="20251009083500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Batmans Rückkehr</title>
-</programme>
-<programme start="20251009083500 +0000" stop="20251009102500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Mars Attacks!</title>
-</programme>
-<programme start="20251009102500 +0000" stop="20251009122500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Goonies</title>
-</programme>
-<programme start="20251009122500 +0000" stop="20251009143500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Sternwanderer</title>
-</programme>
-<programme start="20251009143500 +0000" stop="20251009162000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Edward mit den Scherenhänden</title>
-</programme>
-<programme start="20251009162000 +0000" stop="20251009181500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Liga der außergewöhnlichen Gentlemen</title>
-</programme>
-<programme start="20251009181500 +0000" stop="20251009200000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
-</programme>
-<programme start="20251009200000 +0000" stop="20251009221000 +0000" channel="Warner TV Film HD.skyde">
     <title>King Arthur</title>
 </programme>
 <programme start="20251008221000 +0000" stop="20251008225500 +0000" channel="Warner TV Serie HD.skyde">
