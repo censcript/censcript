@@ -43,38 +43,38 @@
   <programme start="20251011043000 +0000" stop="20251011044000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Pettson a Findus III</title>
   </programme>
-  <programme start="20251011044000 +0000" stop="20251011045500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011044000 +0000" stop="20251011045000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Pettson a Findus III</title>
   </programme>
-  <programme start="20251011045500 +0000" stop="20251011050500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011045000 +0000" stop="20251011050000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Lilin ostrov pokladov</title>
   </programme>
-  <programme start="20251011050500 +0000" stop="20251011051000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011050000 +0000" stop="20251011050500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Lilin ostrov pokladov</title>
   </programme>
-  <programme start="20251011051000 +0000" stop="20251011052000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011050500 +0000" stop="20251011052000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Garfield I (26)</title>
   </programme>
-  <programme start="20251011052000 +0000" stop="20251011053500 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Garfield II</title>
-  </programme>
-  <programme start="20251011053500 +0000" stop="20251011060000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011052000 +0000" stop="20251011054000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Belfort a Lupin I (5)</title>
   </programme>
-  <programme start="20251011060000 +0000" stop="20251011061000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011054000 +0000" stop="20251011055500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Čo budeme robiť</title>
   </programme>
-  <programme start="20251011061000 +0000" stop="20251011062000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011055500 +0000" stop="20251011060500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Superveda</title>
   </programme>
-  <programme start="20251011062000 +0000" stop="20251011065000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011060500 +0000" stop="20251011063000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Duel junior</title>
   </programme>
-  <programme start="20251011065000 +0000" stop="20251011065500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011063000 +0000" stop="20251011063500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Eko to je</title>
   </programme>
-  <programme start="20251011065500 +0000" stop="20251011070000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251011063500 +0000" stop="20251011064500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Zvládnem to!</title>
+  </programme>
+  <programme start="20251011064500 +0000" stop="20251011070000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Hélium (13/13)</title>
   </programme>
   <programme start="20251011070000 +0000" stop="20251011074000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">60 zabijakov divočiny III</title>
