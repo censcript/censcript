@@ -2650,8 +2650,11 @@
 <programme start="20251009200000 +0000" stop="20251009220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
-<programme start="20251009070000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251009070000 +0000" stop="20251009100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: H. Rune (DEN) - V. Vacherot (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
+</programme>
+<programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251009103000 +0000" stop="20251009143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: N. Djokovic (SRB) - Z. Bergs (BEL), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
@@ -3232,7 +3235,7 @@
 <programme start="20251009203000 +0000" stop="20251009223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251009030000 +0000" stop="20251009151500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251009030000 +0000" stop="20251009170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 4. Tag</title>
 </programme>
 <programme start="20251008220000 +0000" stop="20251008224500 +0000" channel="SYFY HD.skyde">

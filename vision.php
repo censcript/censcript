@@ -437,7 +437,7 @@
 <title>SINDO Files</title>
 </programme>
 <programme start="20251008233000 +0000" stop="20251009003000 +0000" channel="Trans TV.vision">
-<title>Blockbuster Sahur Movie</title>
+<title>Insert Pagi (L)</title>
 </programme>
 <programme start="20251009003000 +0000" stop="20251009013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
@@ -479,13 +479,13 @@
 <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20251009180000 +0000" stop="20251009220000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Connected</title>
+<title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20251009220000 +0000" stop="20251009233000 +0000" channel="Trans TV.vision">
 <title>Islam Itu Indah</title>
 </programme>
 <programme start="20251009233000 +0000" stop="20251010003000 +0000" channel="Trans TV.vision">
-<title>Blockbuster Sahur Movie</title>
+<title>Insert Pagi (L)</title>
 </programme>
 <programme start="20251010003000 +0000" stop="20251010013000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
@@ -552,9 +552,6 @@
 </programme>
 <programme start="20251009091500 +0000" stop="20251009101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20251009101500 +0000" stop="20251009110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
 </programme>
 <programme start="20251009110000 +0000" stop="20251009114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
@@ -660,12 +657,6 @@
 </programme>
 <programme start="20251009123000 +0000" stop="20251009143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251009143000 +0000" stop="20251009163000 +0000" channel="ANTV.vision">
-<title>Durjana Pemetik Bunga</title>
-</programme>
-<programme start="20251009163000 +0000" stop="20251009183000 +0000" channel="ANTV.vision">
-<title>Point Of No Return</title>
 </programme>
 <programme start="20251009183000 +0000" stop="20251009203000 +0000" channel="ANTV.vision">
 <title>A Chinese Ghost Story 3</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251009010500 +0000" stop="20251009025500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251009025500 +0000" stop="20251009043500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251009043500 +0000" stop="20251009060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251009060000 +0000" stop="20251009073000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
