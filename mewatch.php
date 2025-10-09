@@ -619,38 +619,56 @@
     <programme start="20251008130000 +0000" stop="20251008170000 +0000" channel="now-80s.mewatch">
         <title>80s School Disco Top 50 - EP1</title>
     </programme>
-    <programme start="20251008170000 +0000" stop="20251008184500 +0000" channel="now-80s.mewatch">
-        <title>Duncan James&#039; Eurovision Top 25 - EP1</title>
+    <programme start="20251008160000 +0000" stop="20251008170000 +0000" channel="now-80s.mewatch">
+        <title>The Complete Queen! 1973-1996 - EP1</title>
     </programme>
-    <programme start="20251008184500 +0000" stop="20251008190000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20251008170000 +0000" stop="20251008220000 +0000" channel="now-80s.mewatch">
+        <title>NOW 100 Hits: Love Songs! - EP1</title>
     </programme>
-    <programme start="20251008190000 +0000" stop="20251008220000 +0000" channel="now-80s.mewatch">
-        <title>80s School Disco Top 50 - EP1</title>
+    <programme start="20251008220000 +0000" stop="20251008231500 +0000" channel="now-80s.mewatch">
+        <title>Every Video- Queen&#039;s Greatest Hits - EP1</title>
     </programme>
-    <programme start="20251008220000 +0000" stop="20251009023500 +0000" channel="now-80s.mewatch">
-        <title>Dirty Dancing! Top 60 - EP1</title>
+    <programme start="20251008231500 +0000" stop="20251009000000 +0000" channel="now-80s.mewatch">
+        <title>How Rock SHOOK The World! - EP1</title>
     </programme>
-    <programme start="20251009023500 +0000" stop="20251009030000 +0000" channel="now-80s.mewatch">
-        <title>Magic Moments! The 80s - EP1</title>
+    <programme start="20251009000000 +0000" stop="20251009023000 +0000" channel="now-80s.mewatch">
+        <title>Carol Decker&#039;s 30 Rock Chicks! - EP1</title>
     </programme>
-    <programme start="20251009030000 +0000" stop="20251009050000 +0000" channel="now-80s.mewatch">
-        <title>80s Stars - Then &amp; Now! - EP1</title>
+    <programme start="20251009023000 +0000" stop="20251009030000 +0000" channel="now-80s.mewatch">
+        <title>Best Played at 45 RPM! - EP1</title>
     </programme>
-    <programme start="20251009050000 +0000" stop="20251009093000 +0000" channel="now-80s.mewatch">
-        <title>The NOW 100 of the 80s! - EP1</title>
+    <programme start="20251009030000 +0000" stop="20251009040000 +0000" channel="now-80s.mewatch">
+        <title>Spandau Ballet Gold! 1980-1986 - EP1</title>
     </programme>
-    <programme start="20251009093000 +0000" stop="20251009103000 +0000" channel="now-80s.mewatch">
-        <title>Duncan James&#039; Eurovision Top 25 - EP1</title>
+    <programme start="20251009040000 +0000" stop="20251009062000 +0000" channel="now-80s.mewatch">
+        <title>Gary Kemp&#039;s 25 Coolest Stars! - EP1</title>
     </programme>
-    <programme start="20251009103000 +0000" stop="20251009134500 +0000" channel="now-80s.mewatch">
-        <title>The NOW 100 of the 80s! - EP1</title>
+    <programme start="20251009062000 +0000" stop="20251009070000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251009134500 +0000" stop="20251009140000 +0000" channel="now-80s.mewatch">
-        <title>WOW! What A Party! - EP1</title>
+    <programme start="20251009070000 +0000" stop="20251009083000 +0000" channel="now-80s.mewatch">
+        <title>ALMOST Top of the Pops! 1981 - EP1</title>
     </programme>
-    <programme start="20251009140000 +0000" stop="20251009160500 +0000" channel="now-80s.mewatch">
-        <title>Jason Donovan&#039;s 80s Pop Pin-Ups! - EP1</title>
+    <programme start="20251009083000 +0000" stop="20251009090000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251009090000 +0000" stop="20251009100000 +0000" channel="now-80s.mewatch">
+        <title>The 1981 Video Hall of Fame - EP1</title>
+    </programme>
+    <programme start="20251009100000 +0000" stop="20251009121000 +0000" channel="now-80s.mewatch">
+        <title>NOW Electronic! Top 30 - EP1</title>
+    </programme>
+    <programme start="20251009121000 +0000" stop="20251009130000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251009130000 +0000" stop="20251009153500 +0000" channel="now-80s.mewatch">
+        <title>Toyah&#039;s Sack The Stylist?! Top 30 - EP1</title>
+    </programme>
+    <programme start="20251009153500 +0000" stop="20251009160000 +0000" channel="now-80s.mewatch">
+        <title>1981 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20251009160000 +0000" stop="20251009170000 +0000" channel="now-80s.mewatch">
+        <title>80s Stars - But Who Is The Oldest? - EP1</title>
     </programme>
     <programme start="20251008160000 +0000" stop="20251008172500 +0000" channel="now-70s.mewatch">
         <title>Gone...But Not Forgotten Top 25 - EP1</title>
