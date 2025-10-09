@@ -3688,10 +3688,10 @@
   <programme start="20251011053000 +0000" stop="20251011070000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Studio Kamarád</title>
   </programme>
-  <programme start="20251011070000 +0000" stop="20251011072300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011070000 +0000" stop="20251011072200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tamtam</title>
   </programme>
-  <programme start="20251011072300 +0000" stop="20251011074500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011072200 +0000" stop="20251011074500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tajemství pana M. - Cesta časem (4/6)</title>
   </programme>
   <programme start="20251011074500 +0000" stop="20251011091800 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3700,10 +3700,10 @@
   <programme start="20251011091800 +0000" stop="20251011092600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Mlsné medvědí příběhy</title>
   </programme>
-  <programme start="20251011092600 +0000" stop="20251011095500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011092600 +0000" stop="20251011095600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Lvíčata</title>
   </programme>
-  <programme start="20251011095500 +0000" stop="20251011101000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011095600 +0000" stop="20251011101000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Websterovi</title>
   </programme>
   <programme start="20251011101000 +0000" stop="20251011104000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3730,19 +3730,19 @@
   <programme start="20251011141000 +0000" stop="20251011142100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Esa z pralesa</title>
   </programme>
-  <programme start="20251011142100 +0000" stop="20251011143300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011142100 +0000" stop="20251011143200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Esa z pralesa</title>
   </programme>
-  <programme start="20251011143300 +0000" stop="20251011145700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011143200 +0000" stop="20251011145600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Rubble a jeho parta</title>
   </programme>
-  <programme start="20251011145700 +0000" stop="20251011150500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011145600 +0000" stop="20251011150500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ovečka Shaun</title>
   </programme>
-  <programme start="20251011150500 +0000" stop="20251011155100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011150500 +0000" stop="20251011155000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Peče celá Británie Junior IX</title>
   </programme>
-  <programme start="20251011155100 +0000" stop="20251011161500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011155000 +0000" stop="20251011161500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kung Fu Panda: Dračí rytíř</title>
   </programme>
   <programme start="20251011161500 +0000" stop="20251011162700 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3757,13 +3757,13 @@
   <programme start="20251011164500 +0000" stop="20251011165500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Večerníček</title>
   </programme>
-  <programme start="20251011165500 +0000" stop="20251011171700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011165500 +0000" stop="20251011171800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Sofie První (6/25)</title>
   </programme>
-  <programme start="20251011171700 +0000" stop="20251011173100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011171800 +0000" stop="20251011173000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Idefix a smečka Nepoddajných (23/52)</title>
   </programme>
-  <programme start="20251011173100 +0000" stop="20251011174200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251011173000 +0000" stop="20251011174200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Idefix a smečka Nepoddajných (24/52)</title>
   </programme>
   <programme start="20251011174200 +0000" stop="20251011175000 +0000" channel="ČT :D - ČT art.webtv.sk">
