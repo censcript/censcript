@@ -127,10 +127,10 @@
     <programme start="20251009100000 +0000" stop="20251009110000 +0000" channel="Channel 5.mewatch">
         <title>Lingo UK S3 - EP 48</title>
     </programme>
-    <programme start="20251009110000 +0000" stop="20251009112500 +0000" channel="Channel 5.mewatch">
+    <programme start="20251009110000 +0000" stop="20251009112300 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S42 - EP 27</title>
     </programme>
-    <programme start="20251009112500 +0000" stop="20251009133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20251009112300 +0000" stop="20251009133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 2</title>
     </programme>
     <programme start="20251009133000 +0000" stop="20251009140000 +0000" channel="Channel 5.mewatch">

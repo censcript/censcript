@@ -994,10 +994,10 @@
 <programme start="20251008221500 +0000" stop="20251008224500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251008224500 +0000" stop="20251008233500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008224500 +0000" stop="20251008233000 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
-<programme start="20251008233500 +0000" stop="20251009011500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008233000 +0000" stop="20251009011500 +0000" channel="Heimatkanal.skyde">
     <title>Peter Steiners Theaterstadl</title>
 </programme>
 <programme start="20251009011500 +0000" stop="20251009013000 +0000" channel="Heimatkanal.skyde">
@@ -1051,10 +1051,10 @@
 <programme start="20251009181500 +0000" stop="20251009192000 +0000" channel="Heimatkanal.skyde">
     <title>Der Kommissar</title>
 </programme>
-<programme start="20251009192000 +0000" stop="20251009202500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251009192000 +0000" stop="20251009202000 +0000" channel="Heimatkanal.skyde">
     <title>Derrick</title>
 </programme>
-<programme start="20251009202500 +0000" stop="20251009215000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251009202000 +0000" stop="20251009215000 +0000" channel="Heimatkanal.skyde">
     <title>Salem Aleikum</title>
 </programme>
 <programme start="20251009215000 +0000" stop="20251009224000 +0000" channel="Heimatkanal.skyde">
@@ -2650,17 +2650,14 @@
 <programme start="20251009200000 +0000" stop="20251009220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
-<programme start="20251009064000 +0000" stop="20251009070000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: ab 09:00: LIVE ATP World Tour</title>
+<programme start="20251009070000 +0000" stop="20251009100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: H. Rune (DEN) - V. Vacherot (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
 </programme>
-<programme start="20251009070000 +0000" stop="20251009090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF 1, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
-</programme>
-<programme start="20251009101000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251009103000 +0000" stop="20251009123000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF 2, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
+<programme start="20251009103000 +0000" stop="20251009143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: N. Djokovic (SRB) - Z. Bergs (BEL), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
 </programme>
 <programme start="20251008220000 +0000" stop="20251008221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Dein Spieltags-Sprint (6)</title>
@@ -3643,10 +3640,10 @@
 <programme start="20251009102500 +0000" stop="20251009122500 +0000" channel="Warner TV Film.skyde">
     <title>Die Goonies</title>
 </programme>
-<programme start="20251009122500 +0000" stop="20251009143000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251009122500 +0000" stop="20251009143500 +0000" channel="Warner TV Film.skyde">
     <title>Der Sternwanderer</title>
 </programme>
-<programme start="20251009143000 +0000" stop="20251009162000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251009143500 +0000" stop="20251009162000 +0000" channel="Warner TV Film.skyde">
     <title>Edward mit den Scherenhänden</title>
 </programme>
 <programme start="20251009162000 +0000" stop="20251009181500 +0000" channel="Warner TV Film.skyde">
@@ -3655,7 +3652,7 @@
 <programme start="20251009181500 +0000" stop="20251009200000 +0000" channel="Warner TV Film.skyde">
     <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
 </programme>
-<programme start="20251009200000 +0000" stop="20251009220500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251009200000 +0000" stop="20251009221000 +0000" channel="Warner TV Film.skyde">
     <title>King Arthur</title>
 </programme>
 <programme start="20251009000500 +0000" stop="20251009020000 +0000" channel="Warner TV Film HD.skyde">
@@ -3679,10 +3676,10 @@
 <programme start="20251009102500 +0000" stop="20251009122500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Goonies</title>
 </programme>
-<programme start="20251009122500 +0000" stop="20251009143000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251009122500 +0000" stop="20251009143500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der Sternwanderer</title>
 </programme>
-<programme start="20251009143000 +0000" stop="20251009162000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251009143500 +0000" stop="20251009162000 +0000" channel="Warner TV Film HD.skyde">
     <title>Edward mit den Scherenhänden</title>
 </programme>
 <programme start="20251009162000 +0000" stop="20251009181500 +0000" channel="Warner TV Film HD.skyde">
@@ -3691,7 +3688,7 @@
 <programme start="20251009181500 +0000" stop="20251009200000 +0000" channel="Warner TV Film HD.skyde">
     <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
 </programme>
-<programme start="20251009200000 +0000" stop="20251009220500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251009200000 +0000" stop="20251009221000 +0000" channel="Warner TV Film HD.skyde">
     <title>King Arthur</title>
 </programme>
 <programme start="20251008221000 +0000" stop="20251008225500 +0000" channel="Warner TV Serie HD.skyde">

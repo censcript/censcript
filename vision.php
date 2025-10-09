@@ -643,9 +643,6 @@
 <programme start="20251010114500 +0000" stop="20251010121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251009013000 +0000" stop="20251009050000 +0000" channel="ANTV.vision">
-<title>Raees</title>
-</programme>
 <programme start="20251009050000 +0000" stop="20251009063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251008233000 +0000" stop="20251009010500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251009010500 +0000" stop="20251009025500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
