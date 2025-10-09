@@ -2963,7 +2963,7 @@
     <title>Mapped Out: Chokepoints</title>
 </programme>
 <programme start="20251009033000 +0000" stop="20251009040000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Green Or Greedy?</title>
+    <title>Interview: Fifth Georgian...</title>
 </programme>
 <programme start="20251009040000 +0000" stop="20251009041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2987,7 +2987,7 @@
     <title>Mapped Out: Chokepoints</title>
 </programme>
 <programme start="20251009063000 +0000" stop="20251009070000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Visions</title>
+    <title>Interview: Fifth Georgian...</title>
 </programme>
 <programme start="20251009070000 +0000" stop="20251009073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -7493,7 +7493,7 @@
     <title>AFC Asian Qualifiers Road To 26</title>
 </programme>
 <programme start="20251008193000 +0000" stop="20251008203000 +0000" channel="RCTI.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Dadang Dudung</title>
 </programme>
 <programme start="20251008203000 +0000" stop="20251008230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S6</title>
@@ -7547,7 +7547,7 @@
     <title>AFC Asian Qualifiers Road To 26</title>
 </programme>
 <programme start="20251008193000 +0000" stop="20251008203000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Dadang Dudung</title>
 </programme>
 <programme start="20251008203000 +0000" stop="20251008230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S6</title>

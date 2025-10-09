@@ -643,9 +643,6 @@
 <programme start="20251010114500 +0000" stop="20251010121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251008233000 +0000" stop="20251009013000 +0000" channel="ANTV.vision">
-<title>Samson Betawi</title>
-</programme>
 <programme start="20251009013000 +0000" stop="20251009050000 +0000" channel="ANTV.vision">
 <title>Raees</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251010103000 +0000" stop="20251010123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20251008233000 +0000" stop="20251009010500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
