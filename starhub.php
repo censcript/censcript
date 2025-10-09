@@ -3293,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20251008161500 +0000" stop="20251008170000 +0000" channel="DW English HD.starhub">
-        <title>From South America to Germany’s Jungle of Red Tape</title>
+        <title>The Imported Caregiver - From South America to Germany’s Jungle of Red Tape</title>
     </programme>
     <programme start="20251008170000 +0000" stop="20251008171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,16 +3308,16 @@
         <title>News</title>
     </programme>
     <programme start="20251008183000 +0000" stop="20251008190000 +0000" channel="DW English HD.starhub">
-        <title>Mexico - War of the Drug Cartels</title>
+        <title>Decoding Conflicts - Mexico - War of the Drug Cartels</title>
     </programme>
     <programme start="20251008190000 +0000" stop="20251008190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251008190200 +0000" stop="20251008193000 +0000" channel="DW English HD.starhub">
-        <title>Are hidden health threats lurking in your blood?</title>
+        <title>A stroke in your 30s: Are hidden health threats lurking in your blood?</title>
     </programme>
     <programme start="20251008193000 +0000" stop="20251008200000 +0000" channel="DW English HD.starhub">
-        <title>Georgia is a testing ground for Russia’s strategies</title>
+        <title>Fifth Georgian President: Georgia is a testing ground for Russia’s strategies</title>
     </programme>
     <programme start="20251008200000 +0000" stop="20251008203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3332,7 +3332,7 @@
         <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251008211500 +0000" stop="20251008220000 +0000" channel="DW English HD.starhub">
-        <title>From South America to Germany’s Jungle of Red Tape</title>
+        <title>The Imported Caregiver - From South America to Germany’s Jungle of Red Tape</title>
     </programme>
     <programme start="20251008220000 +0000" stop="20251008220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251008223000 +0000" stop="20251008230000 +0000" channel="DW English HD.starhub">
-        <title>Georgia is a testing ground for Russia’s strategies</title>
+        <title>Fifth Georgian President: Georgia is a testing ground for Russia’s strategies</title>
     </programme>
     <programme start="20251008230000 +0000" stop="20251008231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3847,14 +3847,11 @@
     <programme start="20251008153000 +0000" stop="20251008161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Choices on How to Deal with Illness</title>
     </programme>
-    <programme start="20251008161500 +0000" stop="20251008164000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251008162000 +0000" stop="20251008164500 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
-    <programme start="20251008164000 +0000" stop="20251008170500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251008164500 +0000" stop="20251008171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
-    </programme>
-    <programme start="20251008170500 +0000" stop="20251008171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cooking for Beginners</title>
     </programme>
     <programme start="20251008171000 +0000" stop="20251008173000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
@@ -3872,7 +3869,7 @@
         <title>With Mother (R)</title>
     </programme>
     <programme start="20251008182500 +0000" stop="20251008183000 +0000" channel="NHK World Premium HD.starhub">
-        <title>100 Beautiful Mountains of Japan Mini</title>
+        <title>Cooking for Beginners</title>
     </programme>
     <programme start="20251008183000 +0000" stop="20251008184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 8 (R)</title>
@@ -3906,6 +3903,12 @@
     </programme>
     <programme start="20251008230000 +0000" stop="20251008231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 9</title>
+    </programme>
+    <programme start="20251008231500 +0000" stop="20251008231600 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
+    <programme start="20251008231600 +0000" stop="20251008233000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20251008233000 +0000" stop="20251009000000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
@@ -8087,7 +8090,7 @@
         <title>Happy Husbands</title>
     </programme>
     <programme start="20251008193000 +0000" stop="20251008223000 +0000" channel="Asianet Movies.starhub">
-        <title>Mayoogham</title>
+        <title>Mayookham</title>
     </programme>
     <programme start="20251008223000 +0000" stop="20251008230000 +0000" channel="Asianet Movies.starhub">
         <title>Chirikkum Thalika</title>
