@@ -1777,6 +1777,42 @@
 <programme start="20251009211500 +0000" stop="20251009230000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Boss Level</title>
 </programme>
+<programme start="20251008233000 +0000" stop="20251009013500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Pancho Villa reitet</title>
+</programme>
+<programme start="20251009013500 +0000" stop="20251009033500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der schwarze Falke</title>
+</programme>
+<programme start="20251009033500 +0000" stop="20251009052500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Am fernen Horizont</title>
+</programme>
+<programme start="20251009052500 +0000" stop="20251009071000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Catlow - Leben ums Verrecken</title>
+</programme>
+<programme start="20251009071000 +0000" stop="20251009091000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Mein großer Freund Shane</title>
+</programme>
+<programme start="20251009091000 +0000" stop="20251009111000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Die gefürchteten Vier</title>
+</programme>
+<programme start="20251009111000 +0000" stop="20251009125500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Ein Fremder ohne Namen</title>
+</programme>
+<programme start="20251009125500 +0000" stop="20251009142500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Sinola</title>
+</programme>
+<programme start="20251009142500 +0000" stop="20251009161500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>El Diablo - Der mit dem Teufel tanzt</title>
+</programme>
+<programme start="20251009161500 +0000" stop="20251009181500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Old Shatterhand</title>
+</programme>
+<programme start="20251009181500 +0000" stop="20251009200500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Am fernen Horizont</title>
+</programme>
+<programme start="20251009200500 +0000" stop="20251009220500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der schwarze Falke</title>
+</programme>
 <programme start="20251008221500 +0000" stop="20251009001500 +0000" channel="Sky Cinema Family HD.skyde">
     <title>The Portable Door</title>
 </programme>
@@ -2614,14 +2650,17 @@
 <programme start="20251009200000 +0000" stop="20251009220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
-<programme start="20251009070000 +0000" stop="20251009100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: H. Rune (DEN) - V. Vacherot (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
+<programme start="20251009064000 +0000" stop="20251009070000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: ab 09:00: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251009070000 +0000" stop="20251009090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: VF 1, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
+</programme>
+<programme start="20251009101000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251009103000 +0000" stop="20251009143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: N. Djokovic (SRB) - Z. Bergs (BEL), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
+<programme start="20251009103000 +0000" stop="20251009123000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: VF 2, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
 </programme>
 <programme start="20251008220000 +0000" stop="20251008221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Dein Spieltags-Sprint (6)</title>
@@ -3199,7 +3238,10 @@
 <programme start="20251009203000 +0000" stop="20251009223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251009030000 +0000" stop="20251009170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251008220000 +0000" stop="20251009030000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
+</programme>
+<programme start="20251009030000 +0000" stop="20251009150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 4. Tag</title>
 </programme>
 <programme start="20251008220000 +0000" stop="20251008224500 +0000" channel="SYFY HD.skyde">
@@ -3617,6 +3659,42 @@
     <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
 </programme>
 <programme start="20251009200000 +0000" stop="20251009221000 +0000" channel="Warner TV Film.skyde">
+    <title>King Arthur</title>
+</programme>
+<programme start="20251009000500 +0000" stop="20251009020000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Callahan</title>
+</programme>
+<programme start="20251009020000 +0000" stop="20251009040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Getaway</title>
+</programme>
+<programme start="20251009040000 +0000" stop="20251009042000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Peter Fonda</title>
+</programme>
+<programme start="20251009042000 +0000" stop="20251009062500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Batman</title>
+</programme>
+<programme start="20251009062500 +0000" stop="20251009083500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Batmans Rückkehr</title>
+</programme>
+<programme start="20251009083500 +0000" stop="20251009102500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mars Attacks!</title>
+</programme>
+<programme start="20251009102500 +0000" stop="20251009122500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Goonies</title>
+</programme>
+<programme start="20251009122500 +0000" stop="20251009143500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Sternwanderer</title>
+</programme>
+<programme start="20251009143500 +0000" stop="20251009162000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Edward mit den Scherenhänden</title>
+</programme>
+<programme start="20251009162000 +0000" stop="20251009181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Liga der außergewöhnlichen Gentlemen</title>
+</programme>
+<programme start="20251009181500 +0000" stop="20251009200000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Robin Hood - Ein Leben für Richard Löwenherz</title>
+</programme>
+<programme start="20251009200000 +0000" stop="20251009221000 +0000" channel="Warner TV Film HD.skyde">
     <title>King Arthur</title>
 </programme>
 <programme start="20251008221000 +0000" stop="20251008225500 +0000" channel="Warner TV Serie HD.skyde">

@@ -3005,7 +3005,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251009091500 +0000" stop="20251009100000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+    <title>Made In Germany: Visions</title>
 </programme>
 <programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -9115,54 +9115,7 @@
 <programme start="20251009154500 +0000" stop="20251009161500 +0000" channel="tvN.mncvision">
     <title>Shin&#039;s Project, Ep 7</title>
 </programme>
-<programme start="20251008170000 +0000" stop="20251008181000 +0000" channel="tvN HD.mncvision">
-    <title>Sky Castle, Ep 3</title>
-</programme>
-<programme start="20251008181000 +0000" stop="20251008192500 +0000" channel="tvN HD.mncvision">
-    <title>Sky Castle, Ep 4</title>
-</programme>
-<programme start="20251008192500 +0000" stop="20251008204000 +0000" channel="tvN HD.mncvision">
-    <title>Shin&#039;s Project, Ep 8</title>
-</programme>
-<programme start="20251008204000 +0000" stop="20251008220000 +0000" channel="tvN HD.mncvision">
-    <title>Date My Friend, Ep 5</title>
-</programme>
-<programme start="20251008220000 +0000" stop="20251009003500 +0000" channel="tvN HD.mncvision">
-    <title>Iron Girls 2, Ep 12</title>
-</programme>
-<programme start="20251009003500 +0000" stop="20251009020000 +0000" channel="tvN HD.mncvision">
-    <title>A Hundred Memories, Ep 7</title>
-</programme>
-<programme start="20251009020000 +0000" stop="20251009032500 +0000" channel="tvN HD.mncvision">
-    <title>A Hundred Memories, Ep 8</title>
-</programme>
-<programme start="20251009032500 +0000" stop="20251009044000 +0000" channel="tvN HD.mncvision">
-    <title>Shin&#039;s Project, Ep 8</title>
-</programme>
-<programme start="20251009044000 +0000" stop="20251009055000 +0000" channel="tvN HD.mncvision">
-    <title>Sky Castle, Ep 3</title>
-</programme>
-<programme start="20251009055000 +0000" stop="20251009070500 +0000" channel="tvN HD.mncvision">
-    <title>Sky Castle, Ep 4</title>
-</programme>
-<programme start="20251009070500 +0000" stop="20251009084500 +0000" channel="tvN HD.mncvision">
-    <title>E. Lee&#039;s Country Cook, Ep 4</title>
-</programme>
-<programme start="20251009084500 +0000" stop="20251009103500 +0000" channel="tvN HD.mncvision">
-    <title>EXchange S3, Ep 13</title>
-</programme>
-<programme start="20251009103500 +0000" stop="20251009131000 +0000" channel="tvN HD.mncvision">
-    <title>Iron Girls S2, Ep 12</title>
-</programme>
-<programme start="20251009131000 +0000" stop="20251009143000 +0000" channel="tvN HD.mncvision">
-    <title>Sky Castle, Ep 5</title>
-</programme>
-<programme start="20251009143000 +0000" stop="20251009154500 +0000" channel="tvN HD.mncvision">
-    <title>Date My Friend, Ep 6</title>
-</programme>
-<programme start="20251009154500 +0000" stop="20251009161500 +0000" channel="tvN HD.mncvision">
-    <title>Shin&#039;s Project, Ep 7</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251008173000 +0000" stop="20251008192500 +0000" channel="tvN Movies.mncvision">
     <title>Firefighters</title>
 </programme>

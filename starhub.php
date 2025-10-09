@@ -3365,7 +3365,7 @@
         <title>News</title>
     </programme>
     <programme start="20251009011500 +0000" stop="20251009020000 +0000" channel="DW English HD.starhub">
-        <title>The Hidden Realities of Farming (Part 1)</title>
+        <title>Food for Thought - The Hidden Realities of Farming (Part 1)</title>
     </programme>
     <programme start="20251009020000 +0000" stop="20251009020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3383,13 +3383,13 @@
         <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251009033000 +0000" stop="20251009040000 +0000" channel="DW English HD.starhub">
-        <title>Georgia is a testing ground for Russia’s strategies</title>
+        <title>Fifth Georgian President: Georgia is a testing ground for Russia’s strategies</title>
     </programme>
     <programme start="20251009040000 +0000" stop="20251009041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251009041500 +0000" stop="20251009050000 +0000" channel="DW English HD.starhub">
-        <title>The Hidden Realities of Farming (Part 1)</title>
+        <title>Food for Thought - The Hidden Realities of Farming (Part 1)</title>
     </programme>
     <programme start="20251009050000 +0000" stop="20251009050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3407,7 +3407,7 @@
         <title>Chokepoints: How small waterways make big powers vulnerable</title>
     </programme>
     <programme start="20251009063000 +0000" stop="20251009070000 +0000" channel="DW English HD.starhub">
-        <title>Georgia is a testing ground for Russia’s strategies</title>
+        <title>Fifth Georgian President: Georgia is a testing ground for Russia’s strategies</title>
     </programme>
     <programme start="20251009070000 +0000" stop="20251009073000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3421,11 +3421,11 @@
     <programme start="20251009083000 +0000" stop="20251009090000 +0000" channel="DW English HD.starhub">
         <title>Scientists hunt for a mystery coral eater</title>
     </programme>
-    <programme start="20251009090000 +0000" stop="20251009091500 +0000" channel="DW English HD.starhub">
+    <programme start="20251009090000 +0000" stop="20251009093000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251009091500 +0000" stop="20251009100000 +0000" channel="DW English HD.starhub">
-        <title>When Night Falls in Rio de Janeiro</title>
+    <programme start="20251009093000 +0000" stop="20251009100000 +0000" channel="DW English HD.starhub">
+        <title>Global Visions: Power, Markets, Media and Manicures</title>
     </programme>
     <programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3443,7 +3443,7 @@
         <title>News</title>
     </programme>
     <programme start="20251009121500 +0000" stop="20251009130000 +0000" channel="DW English HD.starhub">
-        <title>From South America to Germany’s Jungle of Red Tape</title>
+        <title>The Imported Caregiver - From South America to Germany’s Jungle of Red Tape</title>
     </programme>
     <programme start="20251009130000 +0000" stop="20251009131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3464,7 +3464,7 @@
         <title>News</title>
     </programme>
     <programme start="20251009153000 +0000" stop="20251009160000 +0000" channel="DW English HD.starhub">
-        <title>Are hidden health threats lurking in your blood?</title>
+        <title>A stroke in your 30s: Are hidden health threats lurking in your blood?</title>
     </programme>
     <programme start="20251008160000 +0000" stop="20251008220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3907,14 +3907,17 @@
     <programme start="20251008230000 +0000" stop="20251008231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 9</title>
     </programme>
-    <programme start="20251008231500 +0000" stop="20251009004000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251008233000 +0000" stop="20251009000000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20251009004000 +0000" stop="20251009005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Magnificent Sight!--Mountain Lodges in Europe</title>
-    </programme>
-    <programme start="20251009005500 +0000" stop="20251009010000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251009000000 +0000" stop="20251009001500 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20251009001500 +0000" stop="20251009004500 +0000" channel="NHK World Premium HD.starhub">
+        <title>asaichi</title>
+    </programme>
+    <programme start="20251009004500 +0000" stop="20251009010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20251009010000 +0000" stop="20251009010500 +0000" channel="NHK World Premium HD.starhub">
         <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
@@ -3940,13 +3943,10 @@
     <programme start="20251009025600 +0000" stop="20251009030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20251009030000 +0000" stop="20251009032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251009030000 +0000" stop="20251009032300 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251009032000 +0000" stop="20251009032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Train Driver&#039;s Cab View Mini</title>
-    </programme>
-    <programme start="20251009032800 +0000" stop="20251009033000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251009032300 +0000" stop="20251009033000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
     <programme start="20251009033000 +0000" stop="20251009034500 +0000" channel="NHK World Premium HD.starhub">
@@ -3955,10 +3955,10 @@
     <programme start="20251009034500 +0000" stop="20251009040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Eps. 9 (R)</title>
     </programme>
-    <programme start="20251009040000 +0000" stop="20251009040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251009040000 +0000" stop="20251009041500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251009040500 +0000" stop="20251009055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20251009041500 +0000" stop="20251009055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20251009055000 +0000" stop="20251009055500 +0000" channel="NHK World Premium HD.starhub">

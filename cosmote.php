@@ -110,8 +110,8 @@
     <title>Football: Parma - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009143000 +0700" stop="20251009163000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rangers FC - Hibernian</title>
+<programme start="20251010171000 +0700" stop="20251010192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009163000 +0700" stop="20251009183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,10 +178,6 @@
     <title>Football: FC Porto - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009142000 +0700" stop="20251009163000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: VEF Riga - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251009163000 +0700" stop="20251009190000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
@@ -232,10 +228,6 @@
 </programme>
 <programme start="20251010164000 +0700" stop="20251010185000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: VEF Riga - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251009155000 +0700" stop="20251009161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009161000 +0700" stop="20251009171500 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,14 +322,6 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009140000 +0700" stop="20251009163000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Holger Rune - Valentin Vacherot (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251009163000 +0700" stop="20251009170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251009170000 +0700" stop="20251009173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E9</title>
     <desc>Live: Tidak</desc>
@@ -385,6 +369,10 @@
 <programme start="20251010163000 +0700" stop="20251010173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Jet Ski World Series 2025</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251010173000 +0700" stop="20251010200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251009160000 +0700" stop="20251009180000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

@@ -847,10 +847,10 @@
     <programme start="20251009160000 +0000" stop="20251010110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 10th October, Friday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20251008160000 +0000" stop="20251009111330 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 9th October, Thursday 7.20pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
+    <programme start="20251008160000 +0000" stop="20251009111230 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 9th October, Thursday 7.12pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
     </programme>
-    <programme start="20251009111330 +0000" stop="20251009133000 +0000" channel="Live 2.mewatch">
+    <programme start="20251009111230 +0000" stop="20251009133000 +0000" channel="Live 2.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs India</title>
     </programme>
     <programme start="20251009133000 +0000" stop="20251009160000 +0000" channel="Live 2.mewatch">
