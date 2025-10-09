@@ -658,6 +658,9 @@
 <programme start="20251009123000 +0000" stop="20251009143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
+<programme start="20251009143000 +0000" stop="20251009163000 +0000" channel="ANTV.vision">
+<title>Durjana Pemetik Bunga</title>
+</programme>
 <programme start="20251009163000 +0000" stop="20251009183000 +0000" channel="ANTV.vision">
 <title>Point Of No Return</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251009025500 +0000" stop="20251009043500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251009043500 +0000" stop="20251009060000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
