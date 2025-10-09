@@ -2650,17 +2650,14 @@
 <programme start="20251009200000 +0000" stop="20251009220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
-<programme start="20251009064000 +0000" stop="20251009070000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: ab 09:00: LIVE ATP World Tour</title>
+<programme start="20251009070000 +0000" stop="20251009100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: H. Rune (DEN) - V. Vacherot (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
 </programme>
-<programme start="20251009070000 +0000" stop="20251009090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF 1, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 1</title>
-</programme>
-<programme start="20251009101000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251009100000 +0000" stop="20251009103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251009103000 +0000" stop="20251009123000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF 2, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
+<programme start="20251009103000 +0000" stop="20251009143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: N. Djokovic (SRB) - Z. Bergs (BEL), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 2</title>
 </programme>
 <programme start="20251008220000 +0000" stop="20251008221500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Dein Spieltags-Sprint (6)</title>
@@ -3238,10 +3235,7 @@
 <programme start="20251009203000 +0000" stop="20251009223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251008220000 +0000" stop="20251009030000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
-</programme>
-<programme start="20251009030000 +0000" stop="20251009150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251009030000 +0000" stop="20251009170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 4. Tag</title>
 </programme>
 <programme start="20251008220000 +0000" stop="20251008224500 +0000" channel="SYFY HD.skyde">
