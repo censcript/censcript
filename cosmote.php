@@ -110,6 +110,10 @@
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251010131000 +0700" stop="20251010151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251009110000 +0700" stop="20251009143000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Jacksonville Jaguars - Kansas City Chiefs</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +178,6 @@
     <title>Football: Chelsea FC - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251009100000 +0700" stop="20251009121000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Galatasaray - Tofas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251009121000 +0700" stop="20251009142000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oostende - Karditsa</title>
     <desc>Live: Tidak</desc>
@@ -224,10 +224,6 @@
 </programme>
 <programme start="20251010115500 +0700" stop="20251010142500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Heidelberg</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251009115000 +0700" stop="20251009124500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251009124500 +0700" stop="20251009134500 +0700" channel="COSMOTE Sport 5 HD">

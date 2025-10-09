@@ -994,10 +994,10 @@
 <programme start="20251008221500 +0000" stop="20251008224500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251008224500 +0000" stop="20251008233000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008224500 +0000" stop="20251008233500 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
-<programme start="20251008233000 +0000" stop="20251009011500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251008233500 +0000" stop="20251009011500 +0000" channel="Heimatkanal.skyde">
     <title>Peter Steiners Theaterstadl</title>
 </programme>
 <programme start="20251009011500 +0000" stop="20251009013000 +0000" channel="Heimatkanal.skyde">
@@ -1051,10 +1051,10 @@
 <programme start="20251009181500 +0000" stop="20251009192000 +0000" channel="Heimatkanal.skyde">
     <title>Der Kommissar</title>
 </programme>
-<programme start="20251009192000 +0000" stop="20251009202000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251009192000 +0000" stop="20251009202500 +0000" channel="Heimatkanal.skyde">
     <title>Derrick</title>
 </programme>
-<programme start="20251009202000 +0000" stop="20251009215000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251009202500 +0000" stop="20251009215000 +0000" channel="Heimatkanal.skyde">
     <title>Salem Aleikum</title>
 </programme>
 <programme start="20251009215000 +0000" stop="20251009224000 +0000" channel="Heimatkanal.skyde">

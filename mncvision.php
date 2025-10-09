@@ -8626,42 +8626,7 @@
 <programme start="20251009140000 +0000" stop="20251009143000 +0000" channel="SPOTV HD.mncvision">
     <title>BDMNTN-XL Jakarta 2025</title>
 </programme>
-<programme start="20251008171500 +0000" stop="20251008185500 +0000" channel="Studio Universal.mncvision">
-    <title>Sgt. Bilko</title>
-</programme>
-<programme start="20251008185500 +0000" stop="20251008210000 +0000" channel="Studio Universal.mncvision">
-    <title>Forgetting Sarah Marshall</title>
-</programme>
-<programme start="20251008210000 +0000" stop="20251008230000 +0000" channel="Studio Universal.mncvision">
-    <title>Mamma Mia!</title>
-</programme>
-<programme start="20251008230000 +0000" stop="20251009011000 +0000" channel="Studio Universal.mncvision">
-    <title>Trainwreck</title>
-</programme>
-<programme start="20251009011000 +0000" stop="20251009025000 +0000" channel="Studio Universal.mncvision">
-    <title>Sgt. Bilko</title>
-</programme>
-<programme start="20251009025000 +0000" stop="20251009045000 +0000" channel="Studio Universal.mncvision">
-    <title>Forgetting Sarah Marshall</title>
-</programme>
-<programme start="20251009045000 +0000" stop="20251009064500 +0000" channel="Studio Universal.mncvision">
-    <title>Mamma Mia!</title>
-</programme>
-<programme start="20251009064500 +0000" stop="20251009090000 +0000" channel="Studio Universal.mncvision">
-    <title>Trainwreck</title>
-</programme>
-<programme start="20251009090000 +0000" stop="20251009104000 +0000" channel="Studio Universal.mncvision">
-    <title>Evan Almighty</title>
-</programme>
-<programme start="20251009104000 +0000" stop="20251009124500 +0000" channel="Studio Universal.mncvision">
-    <title>The Chronicles Of Riddick</title>
-</programme>
-<programme start="20251009124500 +0000" stop="20251009144000 +0000" channel="Studio Universal.mncvision">
-    <title>Wanted</title>
-</programme>
-<programme start="20251009144000 +0000" stop="20251009151000 +0000" channel="Studio Universal.mncvision">
-    <title>Ray</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251008171500 +0000" stop="20251008185500 +0000" channel="Studio Universal HD.mncvision">
     <title>Sgt. Bilko</title>
 </programme>
@@ -8734,42 +8699,7 @@
 <programme start="20251009163900 +0000" stop="20251008170900 +0000" channel="Superrix.mncvision">
     <title>Gold</title>
 </programme>
-<programme start="20251008183700 +0000" stop="20251008203700 +0000" channel="Superrix HD.mncvision">
-    <title>Alone Together</title>
-</programme>
-<programme start="20251008203700 +0000" stop="20251008224300 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251008224300 +0000" stop="20251009004100 +0000" channel="Superrix HD.mncvision">
-    <title>The Lost Girls</title>
-</programme>
-<programme start="20251009004100 +0000" stop="20251009023100 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20251009023100 +0000" stop="20251009042400 +0000" channel="Superrix HD.mncvision">
-    <title>Alone Together</title>
-</programme>
-<programme start="20251009042400 +0000" stop="20251009061700 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251009061700 +0000" stop="20251009080000 +0000" channel="Superrix HD.mncvision">
-    <title>Horizon Line</title>
-</programme>
-<programme start="20251009080000 +0000" stop="20251009100500 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20251009100500 +0000" stop="20251009120300 +0000" channel="Superrix HD.mncvision">
-    <title>From The Dark</title>
-</programme>
-<programme start="20251009120300 +0000" stop="20251009143500 +0000" channel="Superrix HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20251009143500 +0000" stop="20251009163900 +0000" channel="Superrix HD.mncvision">
-    <title>Masterminds</title>
-</programme>
-<programme start="20251009163900 +0000" stop="20251008170900 +0000" channel="Superrix HD.mncvision">
-    <title>Gold</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251008170000 +0000" stop="20251008173000 +0000" channel="Tawaf TV.mncvision">
     <title>Tawaf TV</title>
 </programme>
