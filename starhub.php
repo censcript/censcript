@@ -8071,14 +8071,17 @@
     <programme start="20251010153000 +0000" stop="20251010163000 +0000" channel="ABC Australia HD.starhub">
         <title>Biscuit Week</title>
     </programme>
-    <programme start="20251009133000 +0000" stop="20251009163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251009133000 +0000" stop="20251009162500 +0000" channel="Asianet Movies.starhub">
         <title>Bahubali-2</title>
     </programme>
-    <programme start="20251009163000 +0000" stop="20251009193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251009162500 +0000" stop="20251009193000 +0000" channel="Asianet Movies.starhub">
         <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
-    <programme start="20251009193000 +0000" stop="20251009233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251009193000 +0000" stop="20251009213000 +0000" channel="Asianet Movies.starhub">
         <title>Kadha, Samvidhanam Kunchakko</title>
+    </programme>
+    <programme start="20251009213000 +0000" stop="20251009232000 +0000" channel="Asianet Movies.starhub">
+        <title>Bhoothakkannadi</title>
     </programme>
     <programme start="20251009232000 +0000" stop="20251010013000 +0000" channel="Asianet Movies.starhub">
         <title>Junior Senior</title>
