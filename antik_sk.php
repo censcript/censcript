@@ -9106,25 +9106,22 @@
   <programme start="20251012203500 +0000" stop="20251012220000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Rande na dvě noci</title>
   </programme>
-  <programme start="20251011201000 +0000" stop="20251011220500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vstaň a padni</title>
-  </programme>
-  <programme start="20251011220500 +0000" stop="20251011232500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20251011220000 +0000" stop="20251011232000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Pomsta hospodyně</title>
   </programme>
-  <programme start="20251011232500 +0000" stop="20251012011500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20251011232000 +0000" stop="20251012011000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Smrt černého krále</title>
   </programme>
-  <programme start="20251012011500 +0000" stop="20251012040500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20251012011000 +0000" stop="20251012040500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Vrah z Instagramu</title>
   </programme>
   <programme start="20251012040500 +0000" stop="20251012055500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Smrt za oponou</title>
   </programme>
-  <programme start="20251012055500 +0000" stop="20251012080500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20251012055500 +0000" stop="20251012080000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Martin a Venuše</title>
   </programme>
-  <programme start="20251012080500 +0000" stop="20251012100000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20251012080000 +0000" stop="20251012100000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Vraždy v Oxfordu VIII (2)</title>
   </programme>
   <programme start="20251012100000 +0000" stop="20251012120000 +0000" channel="FilmBox Stars.webtv.sk">
