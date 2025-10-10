@@ -559,7 +559,7 @@
     <programme start="20251010150000 +0000" stop="20251010160000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 23</title>
     </programme>
-    <programme start="20251010160000 +0000" stop="20251010220000 +0000" channel="CNA.mewatch">
+    <programme start="20251010160000 +0000" stop="20251010160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20251009160000 +0000" stop="20251010160000 +0000" channel="Oktolidays.mewatch">

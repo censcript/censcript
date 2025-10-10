@@ -3917,7 +3917,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20251010010500 +0000" stop="20251010015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Unsolved Cases &quot;Hachioji Supermarket Triple Murder Case&quot; Part 1 (New) (R)</title>
+        <title>Unsolved Cases &quot;File. 01, Hachioji Supermarket Triple Murder Case&quot; Part 1 (New)</title>
     </programme>
     <programme start="20251010015500 +0000" stop="20251010022300 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals &quot;Tarsier&quot; (R)</title>
