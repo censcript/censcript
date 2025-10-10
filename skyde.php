@@ -976,11 +976,11 @@
 <programme start="20251010162000 +0000" stop="20251010165500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
-<programme start="20251010165500 +0000" stop="20251010173000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20251010165500 +0000" stop="20251010173500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 3</title>
 </programme>
-<programme start="20251010173000 +0000" stop="20251010180000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Ligue 1 Highlightshow 2025/26: 7. Spieltag</title>
+<programme start="20251010173500 +0000" stop="20251010180000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
 </programme>
 <programme start="20251010180000 +0000" stop="20251010213000 +0000" channel="DAZN 2 HD.skyde">
     <title>World Grand Prix: Viertelfinale</title>
@@ -2672,13 +2672,13 @@
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251010070000 +0000" stop="20251010090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF 3, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
+    <title>Live ATP 1000: F. Auger-Aliassime (CAN) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
 </programme>
-<programme start="20251010101000 +0000" stop="20251010103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251010090000 +0000" stop="20251010103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251010103000 +0000" stop="20251010123000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: VF 4, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
+<programme start="20251010103000 +0000" stop="20251010143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: A. de Minaur (AUS) - D. Medvedev, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
 </programme>
 <programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -3170,16 +3170,16 @@
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 5. Tag</title>
 </programme>
 <programme start="20251010070000 +0000" stop="20251010090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF 3, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
+    <title>Live ATP 1000: F. Auger-Aliassime (CAN) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
 </programme>
 <programme start="20251010090000 +0000" stop="20251010103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 5. Tag</title>
 </programme>
 <programme start="20251010103000 +0000" stop="20251010123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF 4, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
+    <title>Live ATP 1000: A. de Minaur (AUS) - D. Medvedev, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
 </programme>
 <programme start="20251010123000 +0000" stop="20251010143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF 3, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
+    <title>ATP 1000: F. Auger-Aliassime (CAN) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
 </programme>
 <programme start="20251010143000 +0000" stop="20251010153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Peking</title>
@@ -3197,7 +3197,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251010203000 +0000" stop="20251010223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF 4, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
+    <title>ATP 1000: A. de Minaur (AUS) - D. Medvedev, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
 </programme>
 <programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Singapur</title>
@@ -3221,13 +3221,13 @@
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 5. Tag</title>
 </programme>
 <programme start="20251010070000 +0000" stop="20251010090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF 3, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
+    <title>Live ATP 1000: F. Auger-Aliassime (CAN) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
 </programme>
 <programme start="20251010090000 +0000" stop="20251010103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 5. Tag</title>
 </programme>
 <programme start="20251010103000 +0000" stop="20251010123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF 4, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
+    <title>Live ATP 1000: A. de Minaur (AUS) - D. Medvedev, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
 </programme>
 <programme start="20251010123000 +0000" stop="20251010155500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: acciona Spanish Open presented by Madrid, 2. Tag in Madrid (Spanien)</title>
@@ -3259,10 +3259,10 @@
 <programme start="20251010070000 +0000" stop="20251010071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251010024000 +0000" stop="20251010030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251009220000 +0000" stop="20251010030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20251010030000 +0000" stop="20251010130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251010030000 +0000" stop="20251010150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 5. Tag</title>
 </programme>
 <programme start="20251009220000 +0000" stop="20251009224500 +0000" channel="SYFY HD.skyde">
@@ -3464,10 +3464,10 @@
     <title>Friends</title>
 </programme>
 <programme start="20251009233000 +0000" stop="20251009235500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick and Morty</title>
+    <title>Rick And Morty</title>
 </programme>
 <programme start="20251009235500 +0000" stop="20251010001500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick and Morty</title>
+    <title>Rick And Morty</title>
 </programme>
 <programme start="20251010001500 +0000" stop="20251010002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
@@ -3626,10 +3626,10 @@
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20251010201500 +0000" stop="20251010204000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick and Morty</title>
+    <title>Rick And Morty</title>
 </programme>
 <programme start="20251010204000 +0000" stop="20251010210500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick and Morty</title>
+    <title>Rick And Morty</title>
 </programme>
 <programme start="20251010210500 +0000" stop="20251010211500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>

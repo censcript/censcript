@@ -3328,246 +3328,6 @@
 <programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Zac Vs Read</title>
 </programme>
-<programme start="20251009170000 +0000" stop="20251009173000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Extreme Kuliner</title>
-</programme>
-<programme start="20251009173000 +0000" stop="20251009180000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Siti Tour</title>
-</programme>
-<programme start="20251009180000 +0000" stop="20251009183000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>+62 Fo.Mo (Food &amp; Moving)</title>
-</programme>
-<programme start="20251009183000 +0000" stop="20251009193000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20251009193000 +0000" stop="20251009203000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20251009203000 +0000" stop="20251009210000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20251009210000 +0000" stop="20251009213000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Travel Addict</title>
-</programme>
-<programme start="20251009213000 +0000" stop="20251009220000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Ada Tamu Gokil</title>
-</programme>
-<programme start="20251009223000 +0000" stop="20251009230000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Celebs Food</title>
-</programme>
-<programme start="20251009230000 +0000" stop="20251009233000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Celebs Trip</title>
-</programme>
-<programme start="20251009233000 +0000" stop="20251010000000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20251010000000 +0000" stop="20251010003000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20251010003000 +0000" stop="20251010010000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20251010010000 +0000" stop="20251010013000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner Review</title>
-</programme>
-<programme start="20251010013000 +0000" stop="20251010020000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Cobek</title>
-</programme>
-<programme start="20251010020000 +0000" stop="20251010023000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20251010023000 +0000" stop="20251010030000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Food Hunter</title>
-</programme>
-<programme start="20251010030000 +0000" stop="20251010033000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Extreme Kuliner</title>
-</programme>
-<programme start="20251010033000 +0000" stop="20251010040000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Siti Tour</title>
-</programme>
-<programme start="20251010040000 +0000" stop="20251010050000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20251010050000 +0000" stop="20251010060000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Makan Bareng Luna</title>
-</programme>
-<programme start="20251010060000 +0000" stop="20251010063000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20251010063000 +0000" stop="20251010070000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner Review</title>
-</programme>
-<programme start="20251010070000 +0000" stop="20251010080000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20251010080000 +0000" stop="20251010083000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20251010083000 +0000" stop="20251010090000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>+62 Fo.Mo (Food &amp; Moving)</title>
-</programme>
-<programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20251010100000 +0000" stop="20251010110000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Makan Bareng Luna</title>
-</programme>
-<programme start="20251010110000 +0000" stop="20251010113000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner Review</title>
-</programme>
-<programme start="20251010113000 +0000" stop="20251010120000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20251010120000 +0000" stop="20251010123000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20251010123000 +0000" stop="20251010130000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Food Hunter</title>
-</programme>
-<programme start="20251010130000 +0000" stop="20251010133000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Celebs Food</title>
-</programme>
-<programme start="20251010133000 +0000" stop="20251010140000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Extreme Kuliner</title>
-</programme>
-<programme start="20251010140000 +0000" stop="20251010143000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20251010143000 +0000" stop="20251010150000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20251010150000 +0000" stop="20251010153000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Ada Tamu Gokil</title>
-</programme>
-<programme start="20251010153000 +0000" stop="20251010160000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Travel Addict</title>
-</programme>
-<programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Makan Bareng Luna</title>
-</programme>
-<programme start="20251009170000 +0000" stop="20251009173000 +0000" channel="Food Travel HD.mncvision">
-    <title>Extreme Kuliner</title>
-</programme>
-<programme start="20251009173000 +0000" stop="20251009180000 +0000" channel="Food Travel HD.mncvision">
-    <title>Siti Tour</title>
-</programme>
-<programme start="20251009180000 +0000" stop="20251009183000 +0000" channel="Food Travel HD.mncvision">
-    <title>+62 Fo.Mo (Food &amp; Moving)</title>
-</programme>
-<programme start="20251009183000 +0000" stop="20251009193000 +0000" channel="Food Travel HD.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20251009193000 +0000" stop="20251009203000 +0000" channel="Food Travel HD.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20251009203000 +0000" stop="20251009210000 +0000" channel="Food Travel HD.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20251009210000 +0000" stop="20251009213000 +0000" channel="Food Travel HD.mncvision">
-    <title>Travel Addict</title>
-</programme>
-<programme start="20251009213000 +0000" stop="20251009220000 +0000" channel="Food Travel HD.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20251009220000 +0000" stop="20251009223000 +0000" channel="Food Travel HD.mncvision">
-    <title>Ada Tamu Gokil</title>
-</programme>
-<programme start="20251009223000 +0000" stop="20251009230000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Food</title>
-</programme>
-<programme start="20251009230000 +0000" stop="20251009233000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Trip</title>
-</programme>
-<programme start="20251009233000 +0000" stop="20251010000000 +0000" channel="Food Travel HD.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20251010000000 +0000" stop="20251010003000 +0000" channel="Food Travel HD.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20251010003000 +0000" stop="20251010010000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20251010010000 +0000" stop="20251010013000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner Review</title>
-</programme>
-<programme start="20251010013000 +0000" stop="20251010020000 +0000" channel="Food Travel HD.mncvision">
-    <title>Dapur Cobek</title>
-</programme>
-<programme start="20251010020000 +0000" stop="20251010023000 +0000" channel="Food Travel HD.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20251010023000 +0000" stop="20251010030000 +0000" channel="Food Travel HD.mncvision">
-    <title>Food Hunter</title>
-</programme>
-<programme start="20251010030000 +0000" stop="20251010033000 +0000" channel="Food Travel HD.mncvision">
-    <title>Extreme Kuliner</title>
-</programme>
-<programme start="20251010033000 +0000" stop="20251010040000 +0000" channel="Food Travel HD.mncvision">
-    <title>Siti Tour</title>
-</programme>
-<programme start="20251010040000 +0000" stop="20251010050000 +0000" channel="Food Travel HD.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20251010050000 +0000" stop="20251010060000 +0000" channel="Food Travel HD.mncvision">
-    <title>Makan Bareng Luna</title>
-</programme>
-<programme start="20251010060000 +0000" stop="20251010063000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20251010063000 +0000" stop="20251010070000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner Review</title>
-</programme>
-<programme start="20251010070000 +0000" stop="20251010080000 +0000" channel="Food Travel HD.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20251010080000 +0000" stop="20251010083000 +0000" channel="Food Travel HD.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20251010083000 +0000" stop="20251010090000 +0000" channel="Food Travel HD.mncvision">
-    <title>+62 Fo.Mo (Food &amp; Moving)</title>
-</programme>
-<programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="Food Travel HD.mncvision">
-    <title>Untung Ada Rudy</title>
-</programme>
-<programme start="20251010100000 +0000" stop="20251010110000 +0000" channel="Food Travel HD.mncvision">
-    <title>Makan Bareng Luna</title>
-</programme>
-<programme start="20251010110000 +0000" stop="20251010113000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner Review</title>
-</programme>
-<programme start="20251010113000 +0000" stop="20251010120000 +0000" channel="Food Travel HD.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20251010120000 +0000" stop="20251010123000 +0000" channel="Food Travel HD.mncvision">
-    <title>Rating 5</title>
-</programme>
-<programme start="20251010123000 +0000" stop="20251010130000 +0000" channel="Food Travel HD.mncvision">
-    <title>Food Hunter</title>
-</programme>
-<programme start="20251010130000 +0000" stop="20251010133000 +0000" channel="Food Travel HD.mncvision">
-    <title>Celebs Food</title>
-</programme>
-<programme start="20251010133000 +0000" stop="20251010140000 +0000" channel="Food Travel HD.mncvision">
-    <title>Extreme Kuliner</title>
-</programme>
-<programme start="20251010140000 +0000" stop="20251010143000 +0000" channel="Food Travel HD.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20251010143000 +0000" stop="20251010150000 +0000" channel="Food Travel HD.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20251010150000 +0000" stop="20251010153000 +0000" channel="Food Travel HD.mncvision">
-    <title>Ada Tamu Gokil</title>
-</programme>
-<programme start="20251010153000 +0000" stop="20251010160000 +0000" channel="Food Travel HD.mncvision">
-    <title>Travel Addict</title>
-</programme>
-<programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="Food Travel HD.mncvision">
-    <title>Makan Bareng Luna</title>
-</programme>
 <programme start="20251009170000 +0000" stop="20251009180000 +0000" channel="FOX News.mncvision">
     <title>America Reports</title>
 </programme>
@@ -9655,23 +9415,11 @@
 <programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="Vision Prime.mncvision">
     <title>Mencintaimu Sekali Lagi</title>
 </programme>
-<programme start="20251010100000 +0000" stop="20251010110000 +0000" channel="Vision Prime.mncvision">
+<programme start="20251010100000 +0000" stop="20251010113000 +0000" channel="Vision Prime.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20251010110000 +0000" stop="20251010120000 +0000" channel="Vision Prime.mncvision">
-    <title>Cinta Sepenuh Jiwa</title>
-</programme>
-<programme start="20251010120000 +0000" stop="20251010130000 +0000" channel="Vision Prime.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="Vision Prime.mncvision">
-    <title>Dusta Di Balik Cinta</title>
-</programme>
-<programme start="20251010140000 +0000" stop="20251010143000 +0000" channel="Vision Prime.mncvision">
-    <title>Roy &amp; Marten: Sahabat...</title>
-</programme>
-<programme start="20251010143000 +0000" stop="20251010150000 +0000" channel="Vision Prime.mncvision">
-    <title>Hindmata</title>
+<programme start="20251010113000 +0000" stop="20251010150000 +0000" channel="Vision Prime.mncvision">
+    <title>Cerita Cinta Kenny &amp; Amanda (L)</title>
 </programme>
 <programme start="20251010150000 +0000" stop="20251010153000 +0000" channel="Vision Prime.mncvision">
     <title>Haathi Mere Saathi</title>
@@ -9724,23 +9472,11 @@
 <programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="Vision Prime HD.mncvision">
     <title>Mencintaimu Sekali Lagi</title>
 </programme>
-<programme start="20251010100000 +0000" stop="20251010110000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20251010100000 +0000" stop="20251010113000 +0000" channel="Vision Prime HD.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20251010110000 +0000" stop="20251010120000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Cinta Sepenuh Jiwa</title>
-</programme>
-<programme start="20251010120000 +0000" stop="20251010130000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Kau Ditakdirkan Untukku</title>
-</programme>
-<programme start="20251010130000 +0000" stop="20251010140000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Dusta Di Balik Cinta</title>
-</programme>
-<programme start="20251010140000 +0000" stop="20251010143000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Roy &amp; Marten: Sahabat...</title>
-</programme>
-<programme start="20251010143000 +0000" stop="20251010150000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Hindmata</title>
+<programme start="20251010113000 +0000" stop="20251010150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cerita Cinta Kenny &amp; Amanda (L)</title>
 </programme>
 <programme start="20251010150000 +0000" stop="20251010153000 +0000" channel="Vision Prime HD.mncvision">
     <title>Haathi Mere Saathi</title>
