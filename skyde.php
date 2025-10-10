@@ -3259,10 +3259,10 @@
 <programme start="20251010070000 +0000" stop="20251010071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251009220000 +0000" stop="20251010030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251010024000 +0000" stop="20251010030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 05:00: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20251010030000 +0000" stop="20251010150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251010030000 +0000" stop="20251010130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Wuhan Open in Wuhan (CHN), 5. Tag</title>
 </programme>
 <programme start="20251009220000 +0000" stop="20251009224500 +0000" channel="SYFY HD.skyde">
@@ -3464,10 +3464,10 @@
     <title>Friends</title>
 </programme>
 <programme start="20251009233000 +0000" stop="20251009235500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251009235500 +0000" stop="20251010001500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251010001500 +0000" stop="20251010002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
@@ -3626,10 +3626,10 @@
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20251010201500 +0000" stop="20251010204000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251010204000 +0000" stop="20251010210500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251010210500 +0000" stop="20251010211500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
