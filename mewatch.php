@@ -836,8 +836,8 @@
         <title>No Programme available now. Next Broadcast on 23rd October, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251009160000 +0000" stop="20251010160000 +0000" channel="Live 7.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
     </programme>
     <programme start="20251010160000 +0000" stop="20251011160000 +0000" channel="Live 7.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
     </programme>
