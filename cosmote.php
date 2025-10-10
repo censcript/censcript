@@ -1,11 +1,3 @@
-<programme start="20251011013000 +0700" stop="20251011023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011023000 +0700" stop="20251011030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251011030000 +0700" stop="20251011033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E6</title>
     <desc>Live: Tidak</desc>
@@ -150,14 +142,6 @@
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011003000 +0700" stop="20251011023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Estudiantes - Flamengo</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011023000 +0700" stop="20251011030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251011030000 +0700" stop="20251011050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -226,14 +210,6 @@
     <title>Football: Oldham - Barrow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010234500 +0700" stop="20251011020500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Oostende - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011020500 +0700" stop="20251011022500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251011022500 +0700" stop="20251011042000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Bursaspor - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
@@ -290,8 +266,8 @@
     <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011013500 +0700" stop="20251011024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
+<programme start="20251012034000 +0700" stop="20251012040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011024500 +0700" stop="20251011030500 +0700" channel="COSMOTE Sport 5 HD">
@@ -401,6 +377,10 @@
 <programme start="20251012010000 +0700" stop="20251012030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Gran Canaria - Unicaja (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251012030000 +0700" stop="20251012042500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011012000 +0700" stop="20251011033500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Daniil Medvedev - Alex de Minaur</title>
@@ -517,10 +497,6 @@
 <programme start="20251012020000 +0700" stop="20251012040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011010000 +0700" stop="20251011030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251011030000 +0700" stop="20251011053000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2025 (L)</title>
@@ -653,5 +629,9 @@
 <programme start="20251012023000 +0700" stop="20251012030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251012030000 +0700" stop="20251012040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

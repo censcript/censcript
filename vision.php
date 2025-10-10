@@ -664,6 +664,9 @@
 <programme start="20251010130000 +0000" stop="20251010150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
+<programme start="20251010150000 +0000" stop="20251010170000 +0000" channel="ANTV.vision">
+<title>Rumah Kentang</title>
+</programme>
 <programme start="20251010170000 +0000" stop="20251010183000 +0000" channel="ANTV.vision">
 <title>Ghost</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251011050000 +0000" stop="20251011060000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251011060000 +0000" stop="20251011070000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
 </programme>
