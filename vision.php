@@ -643,9 +643,6 @@
 <programme start="20251011114500 +0000" stop="20251011121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251010013000 +0000" stop="20251010050000 +0000" channel="ANTV.vision">
-<title>Prem Ratan Dhan Payo</title>
-</programme>
 <programme start="20251010050000 +0000" stop="20251010063000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251011093000 +0000" stop="20251011103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20251011103000 +0000" stop="20251011110000 +0000" channel="BTV.vision">
+<title>Dari Nol</title>
 </programme>
