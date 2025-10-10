@@ -78,10 +78,6 @@
     <title>Football: FC Dynamo Kyiv - Crystal Palace</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010090000 +0700" stop="20251010110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251010110000 +0700" stop="20251010131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20251011090500 +0700" stop="20251011110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251011110000 +0700" stop="20251011131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010100000 +0700" stop="20251010120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,10 +266,6 @@
     <title>Basketball: Virtus Bologna - Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010100000 +0700" stop="20251010110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251010110000 +0700" stop="20251010123000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -375,6 +371,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011104500 +0700" stop="20251011113500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251011113500 +0700" stop="20251011124000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -548,14 +548,6 @@
 </programme>
 <programme start="20251011100000 +0700" stop="20251011120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251010071500 +0700" stop="20251010104500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: New York Giants - Philadelphia Eagles (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251010104500 +0700" stop="20251010110000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010110000 +0700" stop="20251010113000 +0700" channel="COSMOTE Sport 9 HD">

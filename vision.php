@@ -8,7 +8,7 @@
 <title>Doraemon (RCTI)</title>
 </programme>
 <programme start="20251010033000 +0000" stop="20251010043000 +0000" channel="RCTI.vision">
-<title>Emang Boleh</title>
+<title>Emang Boleh (New) RCTI</title>
 </programme>
 <programme start="20251010043000 +0000" stop="20251010051500 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -22,17 +22,11 @@
 <programme start="20251010090000 +0000" stop="20251010100000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S9 (RCTI)</title>
 </programme>
-<programme start="20251010100000 +0000" stop="20251010111500 +0000" channel="RCTI.vision">
+<programme start="20251010100000 +0000" stop="20251010113000 +0000" channel="RCTI.vision">
 <title>Dusta Dibalik Cinta (RCTI)</title>
 </programme>
-<programme start="20251010111500 +0000" stop="20251010123000 +0000" channel="RCTI.vision">
-<title>Terbelenggu Rindu (RCTI)</title>
-</programme>
-<programme start="20251010123000 +0000" stop="20251010134500 +0000" channel="RCTI.vision">
-<title>Cinta Sepenuh Jiwa (RCTI)</title>
-</programme>
-<programme start="20251010134500 +0000" stop="20251010150000 +0000" channel="RCTI.vision">
-<title>Mencintaimu Sekali Lagi (RCTI)</title>
+<programme start="20251010113000 +0000" stop="20251010150000 +0000" channel="RCTI.vision">
+<title>Cerita Cinta KitA: Kenny &amp; Amanda</title>
 </programme>
 <programme start="20251010150000 +0000" stop="20251010160000 +0000" channel="RCTI.vision">
 <title>Kau Ditakdirkan Untukku (RCTI)</title>
@@ -46,32 +40,32 @@
 <programme start="20251010190000 +0000" stop="20251010204500 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20251010204500 +0000" stop="20251010234500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251010204500 +0000" stop="20251010224500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S6</title>
 </programme>
-<programme start="20251010234500 +0000" stop="20251011003000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251010224500 +0000" stop="20251011000000 +0000" channel="RCTI.vision">
+<title>Go Spot Spc. Cerita Cinta Kita</title>
+</programme>
+<programme start="20251011000000 +0000" stop="20251011003000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
 </programme>
 <programme start="20251011003000 +0000" stop="20251011023000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Kiko In The Deep Sea</title>
 </programme>
-<programme start="20251011023000 +0000" stop="20251011051500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251011023000 +0000" stop="20251011063000 +0000" channel="RCTI.vision">
+<title>Doraemon (RCTI)</title>
 </programme>
-<programme start="20251011051500 +0000" stop="20251011070000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251011063000 +0000" stop="20251011083000 +0000" channel="RCTI.vision">
+<title>Wonder Park</title>
 </programme>
-<programme start="20251011070000 +0000" stop="20251011090000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251011083000 +0000" stop="20251011100000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S9 (RCTI)</title>
 </programme>
-<programme start="20251011090000 +0000" stop="20251011100000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251011100000 +0000" stop="20251011113000 +0000" channel="RCTI.vision">
+<title>Terbelenggu Rindu (RCTI)</title>
 </programme>
-<programme start="20251011100000 +0000" stop="20251011111500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20251011111500 +0000" stop="20251011123000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20251011113000 +0000" stop="20251011130000 +0000" channel="RCTI.vision">
+<title>Cinta Sepenuh Jiwa (RCTI)</title>
 </programme>
 <programme start="20251009231500 +0000" stop="20251010001500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -649,9 +643,6 @@
 <programme start="20251011114500 +0000" stop="20251011121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251009233000 +0000" stop="20251010013000 +0000" channel="ANTV.vision">
-<title>Intan Berduri</title>
-</programme>
 <programme start="20251010013000 +0000" stop="20251010050000 +0000" channel="ANTV.vision">
 <title>Prem Ratan Dhan Payo</title>
 </programme>
@@ -831,9 +822,6 @@
 </programme>
 <programme start="20251009233000 +0000" stop="20251010013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
-</programme>
-<programme start="20251010013000 +0000" stop="20251010020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
 </programme>
 <programme start="20251010020000 +0000" stop="20251010023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20251011060000 +0000" stop="20251011070000 +0000" channel="BTV.vision">
 <title>Dunia RANS</title>
+</programme>
+<programme start="20251011070000 +0000" stop="20251011080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20251011080000 +0000" stop="20251011083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251011083000 +0000" stop="20251011093000 +0000" channel="BTV.vision">
+<title>Cocoklogi</title>
+</programme>
+<programme start="20251011093000 +0000" stop="20251011103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
