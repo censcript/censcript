@@ -1945,6 +1945,99 @@
 <programme start="20251010215500 +0000" stop="20251011001000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Nosferatu - Der Untote</title>
 </programme>
+<programme start="20251009231000 +0000" stop="20251009235500 +0000" channel="Sky Crime HD.skyde">
+    <title>Twisted Killers</title>
+</programme>
+<programme start="20251009235500 +0000" stop="20251010004000 +0000" channel="Sky Crime HD.skyde">
+    <title>Twisted Killers</title>
+</programme>
+<programme start="20251010004000 +0000" stop="20251010013000 +0000" channel="Sky Crime HD.skyde">
+    <title>Mörder und ihre Mütter</title>
+</programme>
+<programme start="20251010013000 +0000" stop="20251010021500 +0000" channel="Sky Crime HD.skyde">
+    <title>Mörder und ihre Mütter</title>
+</programme>
+<programme start="20251010021500 +0000" stop="20251010030500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20251010030500 +0000" stop="20251010032500 +0000" channel="Sky Crime HD.skyde">
+    <title>Indefensible</title>
+</programme>
+<programme start="20251010032500 +0000" stop="20251010041500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20251010041500 +0000" stop="20251010044000 +0000" channel="Sky Crime HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251010044000 +0000" stop="20251010051000 +0000" channel="Sky Crime HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251010051000 +0000" stop="20251010053500 +0000" channel="Sky Crime HD.skyde">
+    <title>Police Ten 7 - Auf Streife in Down Under</title>
+</programme>
+<programme start="20251010053500 +0000" stop="20251010062500 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped - Wenn Frauen töten</title>
+</programme>
+<programme start="20251010062500 +0000" stop="20251010071500 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped - Wenn Frauen töten</title>
+</programme>
+<programme start="20251010071500 +0000" stop="20251010080000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killing Mum &amp; Dad</title>
+</programme>
+<programme start="20251010080000 +0000" stop="20251010084500 +0000" channel="Sky Crime HD.skyde">
+    <title>Death Row Stories: Geschichten aus dem Todestrakt</title>
+</programme>
+<programme start="20251010084500 +0000" stop="20251010093000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20251010093000 +0000" stop="20251010101500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20251010101500 +0000" stop="20251010110500 +0000" channel="Sky Crime HD.skyde">
+    <title>Mörder und ihre Mütter</title>
+</programme>
+<programme start="20251010110500 +0000" stop="20251010115500 +0000" channel="Sky Crime HD.skyde">
+    <title>Mörder und ihre Mütter</title>
+</programme>
+<programme start="20251010115500 +0000" stop="20251010124000 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped - Wenn Frauen töten</title>
+</programme>
+<programme start="20251010124000 +0000" stop="20251010133000 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped - Wenn Frauen töten</title>
+</programme>
+<programme start="20251010133000 +0000" stop="20251010142000 +0000" channel="Sky Crime HD.skyde">
+    <title>Twisted Killers</title>
+</programme>
+<programme start="20251010142000 +0000" stop="20251010151000 +0000" channel="Sky Crime HD.skyde">
+    <title>Twisted Killers</title>
+</programme>
+<programme start="20251010151000 +0000" stop="20251010155000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20251010155000 +0000" stop="20251010163500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20251010163500 +0000" stop="20251010172500 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped - Wenn Frauen töten</title>
+</programme>
+<programme start="20251010172500 +0000" stop="20251010181500 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped - Wenn Frauen töten</title>
+</programme>
+<programme start="20251010181500 +0000" stop="20251010190000 +0000" channel="Sky Crime HD.skyde">
+    <title>John Carpenter&#039;s Suburban Screams</title>
+</programme>
+<programme start="20251010190000 +0000" stop="20251010194500 +0000" channel="Sky Crime HD.skyde">
+    <title>John Carpenter&#039;s Suburban Screams</title>
+</programme>
+<programme start="20251010194500 +0000" stop="20251010203500 +0000" channel="Sky Crime HD.skyde">
+    <title>Twisted Killers</title>
+</programme>
+<programme start="20251010203500 +0000" stop="20251010212500 +0000" channel="Sky Crime HD.skyde">
+    <title>Twisted Killers</title>
+</programme>
+<programme start="20251010212500 +0000" stop="20251010221000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer USA</title>
+</programme>
 <programme start="20251009222000 +0000" stop="20251009230500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Wetterwahnsinn weltweit</title>
 </programme>

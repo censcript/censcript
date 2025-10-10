@@ -86,6 +86,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251011173000 +0700" stop="20251011193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Arsenal - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251010151000 +0700" stop="20251010171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -146,8 +150,8 @@
     <title>Football: Bologna - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010143000 +0700" stop="20251010163000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Partick Thistle F.C - Celtic FC</title>
+<programme start="20251011171000 +0700" stop="20251011192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010163000 +0700" stop="20251010183000 +0700" channel="COSMOTE Sport 3 HD">
@@ -208,10 +212,6 @@
 </programme>
 <programme start="20251011150000 +0700" stop="20251011183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New York Giants - Philadelphia Eagles</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251010144000 +0700" stop="20251010164000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Gran Canaria</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010164000 +0700" stop="20251010185000 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,14 +276,6 @@
 </programme>
 <programme start="20251011160000 +0700" stop="20251011183500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251010152000 +0700" stop="20251010161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251010161000 +0700" stop="20251010165500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010165500 +0700" stop="20251010180000 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,9 +390,9 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251010140000 +0700" stop="20251010163000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Arthur Rinderknech - Felix Auger-Aliassime (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251011172000 +0700" stop="20251011183000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251010163000 +0700" stop="20251010173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Jet Ski World Series 2025</title>
@@ -515,6 +507,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011150000 +0700" stop="20251011170000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: ATP Challenger 50 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251011170000 +0700" stop="20251011190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP Challenger 50 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
