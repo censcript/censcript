@@ -49,13 +49,10 @@
   <programme start="20251013102500 +0000" stop="20251013120000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Dámsky klub</title>
   </programme>
-  <programme start="20251013120000 +0000" stop="20251013124500 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251013120000 +0000" stop="20251013125500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Tajomstvo mojej kuchyne</title>
   </programme>
-  <programme start="20251013124500 +0000" stop="20251013131000 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Zdravá maškrta</title>
-  </programme>
-  <programme start="20251013131000 +0000" stop="20251013140000 +0000" channel="Jednotka.webtv.sk">
+  <programme start="20251013125500 +0000" stop="20251013140000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Mníšky v akcii I (1)</title>
   </programme>
   <programme start="20251013140000 +0000" stop="20251013143500 +0000" channel="Jednotka.webtv.sk">
