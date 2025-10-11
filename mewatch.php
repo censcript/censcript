@@ -625,50 +625,59 @@
     <programme start="20251011080000 +0000" stop="20251011170000 +0000" channel="now-80s.mewatch">
         <title>Every Number 1 of the 80s! - EP1</title>
     </programme>
-    <programme start="20251010160000 +0000" stop="20251010163000 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Pop Party! 70-75 - EP1</title>
+    <programme start="20251010160000 +0000" stop="20251010170000 +0000" channel="now-70s.mewatch">
+        <title>Bruno&#039;s Can You Believe It?! - EP1</title>
     </programme>
-    <programme start="20251010163000 +0000" stop="20251010172500 +0000" channel="now-70s.mewatch">
-        <title>Saturday Night&#039;s Alright! - EP1</title>
+    <programme start="20251010170000 +0000" stop="20251010190000 +0000" channel="now-70s.mewatch">
+        <title>That&#039;s Not My Name! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251010172500 +0000" stop="20251010192500 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s 25 Silly Songs! - EP1</title>
+    <programme start="20251010190000 +0000" stop="20251010210000 +0000" channel="now-70s.mewatch">
+        <title>Jack, Jill &amp; 50 Other Dudes! - EP1</title>
     </programme>
-    <programme start="20251010192500 +0000" stop="20251010210000 +0000" channel="now-70s.mewatch">
-        <title>25 Forgotten Favourites! - EP1</title>
+    <programme start="20251010210000 +0000" stop="20251010234000 +0000" channel="now-70s.mewatch">
+        <title>Total Legends! 1970-1979 - EP1</title>
     </programme>
-    <programme start="20251010210000 +0000" stop="20251011000000 +0000" channel="now-70s.mewatch">
-        <title>What The Heck Kept This Off No.1? - EP1</title>
+    <programme start="20251010234000 +0000" stop="20251011000000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20251011000000 +0000" stop="20251011064000 +0000" channel="now-70s.mewatch">
-        <title>Mark Goodier&#039;s No.1s of the 70s! - EP1</title>
+    <programme start="20251011000000 +0000" stop="20251011023500 +0000" channel="now-70s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20251011064000 +0000" stop="20251011070000 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
+    <programme start="20251011023500 +0000" stop="20251011030000 +0000" channel="now-70s.mewatch">
+        <title>Don&#039;t Take Away The Music! - EP1</title>
     </programme>
-    <programme start="20251011070000 +0000" stop="20251011080000 +0000" channel="now-70s.mewatch">
-        <title>Rock Number 1s! 1970-1979 - EP1</title>
+    <programme start="20251011030000 +0000" stop="20251011052000 +0000" channel="now-70s.mewatch">
+        <title>Thirty-Three Times a Lady! - EP1</title>
     </programme>
-    <programme start="20251011080000 +0000" stop="20251011093000 +0000" channel="now-70s.mewatch">
-        <title>Pat Sharp&#039;s Forgotten No.1s - EP1</title>
+    <programme start="20251011052000 +0000" stop="20251011060000 +0000" channel="now-70s.mewatch">
+        <title>Don&#039;t Take Away The Music! - EP1</title>
     </programme>
-    <programme start="20251011093000 +0000" stop="20251011100000 +0000" channel="now-70s.mewatch">
-        <title>Tony Blackburn&#039;s Pop Party! 70-75 - EP1</title>
+    <programme start="20251011060000 +0000" stop="20251011074500 +0000" channel="now-70s.mewatch">
+        <title>25 Girls In Love - In The 70s! - EP1</title>
     </programme>
-    <programme start="20251011100000 +0000" stop="20251011103000 +0000" channel="now-70s.mewatch">
-        <title>Saturday Night&#039;s Alright! - EP1</title>
+    <programme start="20251011074500 +0000" stop="20251011080000 +0000" channel="now-70s.mewatch">
+        <title>Don&#039;t Take Away The Music! - EP1</title>
     </programme>
-    <programme start="20251011103000 +0000" stop="20251011110000 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
+    <programme start="20251011080000 +0000" stop="20251011095000 +0000" channel="now-70s.mewatch">
+        <title>Tony&#039;s Take On 70s Fashion! - EP1</title>
     </programme>
-    <programme start="20251011110000 +0000" stop="20251011150000 +0000" channel="now-70s.mewatch">
-        <title>Every Party No.1 of the 70s! - EP1</title>
+    <programme start="20251011095000 +0000" stop="20251011100000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
+    </programme>
+    <programme start="20251011100000 +0000" stop="20251011124500 +0000" channel="now-70s.mewatch">
+        <title>Shake Your Groove Thing! Top 40 - EP1</title>
+    </programme>
+    <programme start="20251011124500 +0000" stop="20251011130000 +0000" channel="now-70s.mewatch">
+        <title>Boogie Nights! - EP1</title>
+    </programme>
+    <programme start="20251011130000 +0000" stop="20251011150000 +0000" channel="now-70s.mewatch">
+        <title>The Best 1979 Party...Ever! - EP1</title>
     </programme>
     <programme start="20251011150000 +0000" stop="20251011160000 +0000" channel="now-70s.mewatch">
-        <title>Every Party No.1 of the 70s! - EP1</title>
+        <title>The NOW Yearbook 1979 - EP1</title>
     </programme>
-    <programme start="20251011160000 +0000" stop="20251011162500 +0000" channel="now-70s.mewatch">
-        <title>All Day - They Hit The Top Spot! - EP1</title>
+    <programme start="20251011160000 +0000" stop="20251011162000 +0000" channel="now-70s.mewatch">
+        <title>Thirty-Three Times a Lady! - EP1</title>
     </programme>
     <programme start="20251010160000 +0000" stop="20251011160000 +0000" channel="trace-urban.mewatch">
         <title>No Programme Available</title>

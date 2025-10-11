@@ -655,6 +655,9 @@
 <programme start="20251011003000 +0000" stop="20251011013000 +0000" channel="ANTV.vision">
 <title>Super Viral</title>
 </programme>
+<programme start="20251011013000 +0000" stop="20251011033000 +0000" channel="ANTV.vision">
+<title>Satria Kapak Tutur Sepuh</title>
+</programme>
 <programme start="20251011033000 +0000" stop="20251011050000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251011183000 +0000" stop="20251011193000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251011193000 +0000" stop="20251011203000 +0000" channel="BTV.vision">
-<title>Berita Satu Malam</title>
 </programme>
