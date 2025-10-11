@@ -2984,20 +2984,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011040000 +0000" stop="20251011060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Auger-Aliassime (CAN) - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Viertelfinale 3</title>
 </programme>
-<programme start="20251011060000 +0000" stop="20251011062500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
-</programme>
-<programme start="20251011062500 +0000" stop="20251011082500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. de Minaur (AUS) - D. Medvedev, Rolex Shanghai Masters in Shanghai (China), Viertelfinale 4</title>
+<programme start="20251011060000 +0000" stop="20251011082500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Pütz (GER) - G. Andreozzi (ARG) / M. Guinard (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011082500 +0000" stop="20251011103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+    <title>Live ATP 1000: N. Djokovic (SRB) - V. Vacherot (POL), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011103000 +0000" stop="20251011105500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251011105500 +0000" stop="20251011130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+    <title>Live ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011130000 +0000" stop="20251011133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Peking</title>
@@ -3006,16 +3003,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Tennis: HF1, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+    <title>Live Tennis: A. Kontaveit (EST) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
 <programme start="20251011160000 +0000" stop="20251011180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Tennis: HF2, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+    <title>Live Tennis: A. Kerber (GER) - B. Strycova (CZE), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
 <programme start="20251011180000 +0000" stop="20251011200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+    <title>ATP 1000: N. Djokovic (SRB) - V. Vacherot (POL), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011200000 +0000" stop="20251011220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+    <title>ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251010220000 +0000" stop="20251010230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL Kompakt: 6. Spieltag</title>
@@ -3032,32 +3029,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Indonesien</title>
 </programme>
-<programme start="20251011030000 +0000" stop="20251011070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251011030000 +0000" stop="20251011060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Baycurrent Classic, 3. Tag in Yokohama (Japan)</title>
 </programme>
-<programme start="20251011070000 +0000" stop="20251011075500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20251011075500 +0000" stop="20251011082500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
+<programme start="20251011060000 +0000" stop="20251011082500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Pütz (GER) - G. Andreozzi (ARG) / M. Guinard (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011082500 +0000" stop="20251011103000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+    <title>Live ATP 1000: N. Djokovic (SRB) - V. Vacherot (POL), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011103000 +0000" stop="20251011105500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20251011105500 +0000" stop="20251011130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+    <title>Live ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251011130000 +0000" stop="20251011140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: acciona Spanish Open presented by Madrid, 3. Tag in Madrid (Spanien)</title>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Tennis: HF1, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+    <title>Live Tennis: A. Kontaveit (EST) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
 <programme start="20251011160000 +0000" stop="20251011165500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Tennis: HF2, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+    <title>Live Tennis: A. Kerber (GER) - B. Strycova (CZE), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
 <programme start="20251011165500 +0000" stop="20251011190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Junioren: Deutschland U19 - Kosovo U19, EM-Qualifikation in Skien, Norwegen</title>
@@ -3116,7 +3110,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011110000 +0000" stop="20251011130000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: HF2, Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Halbfinale</title>
 </programme>
-<programme start="20251011130000 +0000" stop="20251011153000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251011130000 +0000" stop="20251011173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: N. Noha Akugue / M. Thamm (GER) - J. Maleckova / M. Skoch (CZE), Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Doppelfinale</title>
 </programme>
 <programme start="20251010220000 +0000" stop="20251010224500 +0000" channel="SYFY HD.skyde">
@@ -3476,7 +3470,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011214000 +0000" stop="20251011233000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251010221500 +0000" stop="20251011004000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251010222500 +0000" stop="20251011004000 +0000" channel="Warner TV Film.skyde">
     <title>Nightmare Alley</title>
 </programme>
 <programme start="20251011004000 +0000" stop="20251011023000 +0000" channel="Warner TV Film.skyde">
