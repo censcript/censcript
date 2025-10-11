@@ -126,12 +126,8 @@
     <title>Football: SSC Napoli - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011223000 +0700" stop="20251012003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Vitoria Guimaraes - Santa Clara</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012003000 +0700" stop="20251012010000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251013013000 +0700" stop="20251013034000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012010000 +0700" stop="20251012013000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,14 +262,6 @@
     <title>Basketball: Anadolu Efes - Merkezefendi</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011225000 +0700" stop="20251012001000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012001000 +0700" stop="20251012010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251012010000 +0700" stop="20251012030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Gran Canaria - Unicaja (L)</title>
     <desc>Live: Ya</desc>
@@ -362,10 +350,6 @@
     <title>Basketball: Baskonia - Real Madrid (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251011210000 +0700" stop="20251012010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251012010000 +0700" stop="20251012050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
@@ -428,6 +412,10 @@
 </programme>
 <programme start="20251013004500 +0700" stop="20251013015000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2025 ISSF World Championship Shotgun Athens</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251013015000 +0700" stop="20251013050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012000000 +0700" stop="20251012020000 +0700" channel="COSMOTE Sport 7 HD">

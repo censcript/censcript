@@ -391,11 +391,8 @@
   <programme start="20251012235500 +0000" stop="20251013004500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251013004500 +0000" stop="20251013005500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013004500 +0000" stop="20251013010000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20251013005500 +0000" stop="20251013010000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Tipos Iná liga</title>
   </programme>
   <programme start="20251013010000 +0000" stop="20251013015000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
@@ -418,41 +415,38 @@
   <programme start="20251013040000 +0000" stop="20251013045000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251013045000 +0000" stop="20251013050500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013045000 +0000" stop="20251013050000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20251013050500 +0000" stop="20251013053000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Šport :24</title>
+  <programme start="20251013050000 +0000" stop="20251013055000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Správy</title>
   </programme>
-  <programme start="20251013053000 +0000" stop="20251013063500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013055000 +0000" stop="20251013065500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Plavecké športy - MS 2025</title>
   </programme>
-  <programme start="20251013063500 +0000" stop="20251013080500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013065500 +0000" stop="20251013082500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Plavecké športy - MS 2025</title>
   </programme>
-  <programme start="20251013080500 +0000" stop="20251013091000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013082500 +0000" stop="20251013093000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Plavecké športy - MS 2025</title>
   </programme>
-  <programme start="20251013091000 +0000" stop="20251013104000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Cyklistika - Okolo Slovenska 2025 - Okolo Slovenska 2025 (1. etapa): okolo Bardejova (140 km)</title>
+  <programme start="20251013093000 +0000" stop="20251013110000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Cyklistika - Okolo Slovenska 2025</title>
   </programme>
-  <programme start="20251013104000 +0000" stop="20251013121000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013110000 +0000" stop="20251013123000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - MOL liga - MOL liga 2025/26 (5. kolo): HC DAC Dunajská Streda - DHK Baník Most</title>
   </programme>
-  <programme start="20251013121000 +0000" stop="20251013122000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Návraty 2025</title>
-  </programme>
-  <programme start="20251013122000 +0000" stop="20251013142000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013123000 +0000" stop="20251013143000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Motorizmus - Plochá dráha Tipos Extraliga (Žarnovica)</title>
   </programme>
-  <programme start="20251013142000 +0000" stop="20251013155500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013143000 +0000" stop="20251013145000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Téma :24</title>
+  </programme>
+  <programme start="20251013145000 +0000" stop="20251013162000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Plávanie - Svetový pohár 2025</title>
   </programme>
-  <programme start="20251013155500 +0000" stop="20251013165500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013162000 +0000" stop="20251013172500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Džudo - World Tour 2025 - World Tour 2025: Lima (2. deň)</title>
-  </programme>
-  <programme start="20251013165500 +0000" stop="20251013172500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Tichý hlas velikánov</title>
   </programme>
   <programme start="20251013172500 +0000" stop="20251013183000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Malý futbal - Niké Superliga - Niké Superliga 2025 (3. kolo; skupina Západ): Engerau Boys Bratislava - MFC Lavore Trenčín</title>
@@ -463,20 +457,23 @@
   <programme start="20251013184000 +0000" stop="20251013194500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Malý futbal - Niké Superliga - Niké Superliga 2025 (3. kolo; skupina Západ): AK Real Coholics Bratislava - Papalalulu Bratislava</title>
   </programme>
-  <programme start="20251013194500 +0000" stop="20251013203000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">FutbalSK (magazín o futbale)</title>
-  </programme>
-  <programme start="20251013203000 +0000" stop="20251013211000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013194500 +0000" stop="20251013202500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Športové ozveny</title>
   </programme>
-  <programme start="20251013211000 +0000" stop="20251013212000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013202500 +0000" stop="20251013203500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20251013212000 +0000" stop="20251013215000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013203500 +0000" stop="20251013210500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Tipos Iná liga</title>
   </programme>
-  <programme start="20251013215000 +0000" stop="20251013234500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20251013210500 +0000" stop="20251013213000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Tichý hlas velikánov</title>
+  </programme>
+  <programme start="20251013213000 +0000" stop="20251013213500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20251013213500 +0000" stop="20251013233000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Futbal - Reprezentačné zápasy 2025</title>
   </programme>
   <programme start="20251012211000 +0000" stop="20251012221000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Love Island V</title>
