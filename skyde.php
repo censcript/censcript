@@ -1,5 +1,7 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20251010220000 +0000" stop="20251010224500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Hawaii</title>
 </programme>
@@ -2223,6 +2225,117 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011215000 +0000" stop="20251011224500 +0000" channel="Sky Nature HD.skyde">
     <title>Die Zeit der großen Katzen</title>
 </programme>
+<programme start="20251010220000 +0000" stop="20251010224500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251010224500 +0000" stop="20251010232500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251010232500 +0000" stop="20251011000500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251011000500 +0000" stop="20251011003000 +0000" channel="Sky One HD.skyde">
+    <title>Die Wespe</title>
+</programme>
+<programme start="20251011003000 +0000" stop="20251011010000 +0000" channel="Sky One HD.skyde">
+    <title>Die Wespe</title>
+</programme>
+<programme start="20251011010000 +0000" stop="20251011012500 +0000" channel="Sky One HD.skyde">
+    <title>Die Wespe</title>
+</programme>
+<programme start="20251011012500 +0000" stop="20251011015500 +0000" channel="Sky One HD.skyde">
+    <title>Die Wespe</title>
+</programme>
+<programme start="20251011015500 +0000" stop="20251011022000 +0000" channel="Sky One HD.skyde">
+    <title>Diese Ochsenknechts 4: Jimis Ausstieg</title>
+</programme>
+<programme start="20251011021623 +0000" stop="20251011021802 +0000" channel="Sky One HD.skyde">
+    <title></title>
+</programme>
+<programme start="20251011022000 +0000" stop="20251011025000 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20251011025000 +0000" stop="20251011031500 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20251011031500 +0000" stop="20251011034000 +0000" channel="Sky One HD.skyde">
+    <title>Ballers</title>
+</programme>
+<programme start="20251011034000 +0000" stop="20251011042500 +0000" channel="Sky One HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251011042500 +0000" stop="20251011051000 +0000" channel="Sky One HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251011051000 +0000" stop="20251011055500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011055500 +0000" stop="20251011064000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011064000 +0000" stop="20251011072500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011072500 +0000" stop="20251011081000 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251011081000 +0000" stop="20251011085500 +0000" channel="Sky One HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20251011085500 +0000" stop="20251011094500 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20251011094500 +0000" stop="20251011103000 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20251011103000 +0000" stop="20251011111500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20251011111500 +0000" stop="20251011114000 +0000" channel="Sky One HD.skyde">
+    <title>Ghosts</title>
+</programme>
+<programme start="20251011114000 +0000" stop="20251011120500 +0000" channel="Sky One HD.skyde">
+    <title>Ghosts</title>
+</programme>
+<programme start="20251011120500 +0000" stop="20251011125000 +0000" channel="Sky One HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251011125000 +0000" stop="20251011133500 +0000" channel="Sky One HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251011133500 +0000" stop="20251011142500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011142500 +0000" stop="20251011151000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011151000 +0000" stop="20251011155500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011155500 +0000" stop="20251011164000 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20251011164000 +0000" stop="20251011172500 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20251011172500 +0000" stop="20251011181500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20251011181500 +0000" stop="20251011190000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20251011190000 +0000" stop="20251011194500 +0000" channel="Sky One HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251011194500 +0000" stop="20251011203000 +0000" channel="Sky One HD.skyde">
+    <title>La Brea</title>
+</programme>
+<programme start="20251011203000 +0000" stop="20251011211500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251011211500 +0000" stop="20251011220000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20251010223500 +0000" stop="20251010232000 +0000" channel="Sky Replay HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
@@ -2487,10 +2600,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011080500 +0000" stop="20251011082500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251011082500 +0000" stop="20251011103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251011082500 +0000" stop="20251011105500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: N. Djokovic (SRB) - V. Vacherot (POL), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
-<programme start="20251011105500 +0000" stop="20251011130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251011105500 +0000" stop="20251011150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251010234500 +0000" stop="20251011004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3000,7 +3113,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011110000 +0000" stop="20251011130000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: HF2, Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Halbfinale</title>
 </programme>
-<programme start="20251011130000 +0000" stop="20251011153000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251011130000 +0000" stop="20251011173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: N. Noha Akugue / M. Thamm (GER) - J. Maleckova / M. Skoch (CZE), Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Doppelfinale</title>
 </programme>
 <programme start="20251010220000 +0000" stop="20251010224500 +0000" channel="SYFY HD.skyde">
@@ -3196,10 +3309,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Friends</title>
 </programme>
 <programme start="20251010232500 +0000" stop="20251010235000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251010235000 +0000" stop="20251011001000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251011001000 +0000" stop="20251011002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
@@ -3342,10 +3455,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011175000 +0000" stop="20251011181500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251011181500 +0000" stop="20251011200500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251011181500 +0000" stop="20251011200000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251011200500 +0000" stop="20251011203000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251011200000 +0000" stop="20251011203000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251011203000 +0000" stop="20251011205500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3357,10 +3470,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011211500 +0000" stop="20251011214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251011214000 +0000" stop="20251011233000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251011214000 +0000" stop="20251011232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251010221500 +0000" stop="20251011004000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251010222500 +0000" stop="20251011004000 +0000" channel="Warner TV Film.skyde">
     <title>Nightmare Alley</title>
 </programme>
 <programme start="20251011004000 +0000" stop="20251011023000 +0000" channel="Warner TV Film.skyde">
