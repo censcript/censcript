@@ -466,6 +466,9 @@
 <programme start="20251011104500 +0000" stop="20251011120000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20251011120000 +0000" stop="20251011143000 +0000" channel="Trans TV.vision">
+<title>Konser Musiknya Trans TV</title>
+</programme>
 <programme start="20251011143000 +0000" stop="20251011163000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251011203000 +0000" stop="20251011213000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20251011213000 +0000" stop="20251011223000 +0000" channel="BTV.vision">
-<title>Berita Satu Pagi</title>
 </programme>
