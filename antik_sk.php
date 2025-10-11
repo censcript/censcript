@@ -244,23 +244,11 @@
   <programme start="20251013002500 +0000" stop="20251013003500 +0000" channel=":24.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20251013003500 +0000" stop="20251013013000 +0000" channel=":24.webtv.sk">
+  <programme start="20251013003500 +0000" stop="20251013025500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251013013000 +0000" stop="20251013015000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20251013015000 +0000" stop="20251013015500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20251013015500 +0000" stop="20251013022500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Občan za dverami</title>
-  </programme>
-  <programme start="20251013022500 +0000" stop="20251013025500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Cez lupu</title>
-  </programme>
   <programme start="20251013025500 +0000" stop="20251013032500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Kultúra SK</title>
+    <title lang="id">Kultúra sk</title>
   </programme>
   <programme start="20251013032500 +0000" stop="20251013035000 +0000" channel=":24.webtv.sk">
     <title lang="id">Peniaze</title>
@@ -367,14 +355,11 @@
   <programme start="20251013205500 +0000" stop="20251013212000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet :24</title>
   </programme>
-  <programme start="20251013212000 +0000" stop="20251013214500 +0000" channel=":24.webtv.sk">
+  <programme start="20251013212000 +0000" stop="20251013214000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy :24</title>
   </programme>
-  <programme start="20251013214500 +0000" stop="20251013215200 +0000" channel=":24.webtv.sk">
+  <programme start="20251013214000 +0000" stop="20251013223000 +0000" channel=":24.webtv.sk">
     <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20251013215200 +0000" stop="20251013223500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
   </programme>
   <programme start="20251012220000 +0000" stop="20251012233500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Plávanie - Svetový pohár 2025</title>
@@ -3409,10 +3394,10 @@
   <programme start="20251012223500 +0000" stop="20251012224700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
-  <programme start="20251012224700 +0000" stop="20251012231400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251012224700 +0000" stop="20251012231300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
-  <programme start="20251012231400 +0000" stop="20251013002200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251012231300 +0000" stop="20251013002200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dakar Sistaz</title>
   </programme>
   <programme start="20251013002200 +0000" stop="20251013011100 +0000" channel="ČT2.webtv.sk">
@@ -5248,16 +5233,16 @@
   <programme start="20251013060000 +0000" stop="20251013090000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Snooker: Xi’an Grand Prix</title>
   </programme>
-  <programme start="20251013090000 +0000" stop="20251013110000 +0000" channel="Eurosport 1.webtv.sk">
+  <programme start="20251013090000 +0000" stop="20251013103000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Atletika: Maraton v Chicagu</title>
   </programme>
-  <programme start="20251013110000 +0000" stop="20251013140000 +0000" channel="Eurosport 1.webtv.sk">
+  <programme start="20251013103000 +0000" stop="20251013113000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Horská kola: SP v Mont-Sainte-Anne</title>
+  </programme>
+  <programme start="20251013113000 +0000" stop="20251013143000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Snooker: Xi’an Grand Prix</title>
   </programme>
-  <programme start="20251013140000 +0000" stop="20251013150000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Atletika: Maraton v Chicagu</title>
-  </programme>
-  <programme start="20251013150000 +0000" stop="20251013163000 +0000" channel="Eurosport 1.webtv.sk">
+  <programme start="20251013143000 +0000" stop="20251013163000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Okolo Lombardie</title>
   </programme>
   <programme start="20251013163000 +0000" stop="20251013180000 +0000" channel="Eurosport 1.webtv.sk">
