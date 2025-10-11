@@ -178,14 +178,23 @@
     <programme start="20251011000000 +0000" stop="20251011010000 +0000" channel="CCTV-4.starhub">
         <title>Global News</title>
     </programme>
-    <programme start="20251011010000 +0000" stop="20251011013000 +0000" channel="CCTV-4.starhub">
-        <title>Asia Today</title>
+    <programme start="20251011010000 +0000" stop="20251011014500 +0000" channel="CCTV-4.starhub">
+        <title>Hui Cui Jie Mu-Taiwan 1945</title>
     </programme>
-    <programme start="20251011013000 +0000" stop="20251011023000 +0000" channel="CCTV-4.starhub">
-        <title>China Showbiz</title>
+    <programme start="20251011014500 +0000" stop="20251011023000 +0000" channel="CCTV-4.starhub">
+        <title>Hui Cui Jie Mu-Taiwan 1945</title>
     </programme>
-    <programme start="20251011023000 +0000" stop="20251011033000 +0000" channel="CCTV-4.starhub">
-        <title>Universal Show</title>
+    <programme start="20251011023000 +0000" stop="20251011023500 +0000" channel="CCTV-4.starhub">
+        <title>Advertisements</title>
+    </programme>
+    <programme start="20251011023500 +0000" stop="20251011032000 +0000" channel="CCTV-4.starhub">
+        <title>Hui Cui Jie Mu-Taiwan 1945</title>
+    </programme>
+    <programme start="20251011032000 +0000" stop="20251011032500 +0000" channel="CCTV-4.starhub">
+        <title>Advertisements</title>
+    </programme>
+    <programme start="20251011032500 +0000" stop="20251011033000 +0000" channel="CCTV-4.starhub">
+        <title>TV Guide</title>
     </programme>
     <programme start="20251011033000 +0000" stop="20251011040000 +0000" channel="CCTV-4.starhub">
         <title>Across The Strait</title>
@@ -212,7 +221,7 @@
         <title>Po Xiao Dong Fang</title>
     </programme>
     <programme start="20251011090000 +0000" stop="20251011093000 +0000" channel="CCTV-4.starhub">
-        <title>Bond With China</title>
+        <title>Bai Cheng Tou Pai Cai</title>
     </programme>
     <programme start="20251011093000 +0000" stop="20251011094500 +0000" channel="CCTV-4.starhub">
         <title>Dreamchaser</title>

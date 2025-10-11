@@ -66,10 +66,6 @@
     <title>Football: Omonoia FC - FSV Mainz 05</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011090500 +0700" stop="20251011110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251011110000 +0700" stop="20251011131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20251012090500 +0700" stop="20251012110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251012110000 +0700" stop="20251012131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011100000 +0700" stop="20251011120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,10 +254,6 @@
     <title>Basketball: Promitheas - Heidelberg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011100000 +0700" stop="20251011104500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251011104500 +0700" stop="20251011113500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -354,6 +350,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251012110000 +0700" stop="20251012121000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251011100000 +0700" stop="20251011120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Arthur Rinderknech - Felix Auger-Aliassime</title>
     <desc>Live: Tidak</desc>
@@ -408,6 +408,10 @@
 </programme>
 <programme start="20251012103000 +0700" stop="20251012110000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251012110000 +0700" stop="20251012130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011100000 +0700" stop="20251011120000 +0700" channel="COSMOTE Sport 7 HD">

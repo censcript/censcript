@@ -2600,11 +2600,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011080500 +0000" stop="20251011082500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251011082500 +0000" stop="20251011103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+<programme start="20251011082500 +0000" stop="20251011105500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: N. Djokovic (SRB) - V. Vacherot (POL), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
-<programme start="20251011105500 +0000" stop="20251011130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+<programme start="20251011105500 +0000" stop="20251011150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251010234500 +0000" stop="20251011004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 8. Spieltag</title>
@@ -3090,10 +3090,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Es folgt</title>
 </programme>
 <programme start="20251011090000 +0000" stop="20251011110000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: C. Gauff (USA) - J. Paolini (ITA), Wuhan Open in Wuhan (CHN), Halbfinale</title>
+    <title>Live WTA 1000: HF1, Wuhan Open in Wuhan (CHN), Halbfinale</title>
 </programme>
-<programme start="20251011110000 +0000" stop="20251011150000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: A. Sabalenka - J. Pegula (USA), Wuhan Open in Wuhan (CHN), Halbfinale</title>
+<programme start="20251011110000 +0000" stop="20251011130000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: HF2, Wuhan Open in Wuhan (CHN), Halbfinale</title>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis</title>
@@ -3113,7 +3113,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011110000 +0000" stop="20251011130000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: HF2, Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Halbfinale</title>
 </programme>
-<programme start="20251011130000 +0000" stop="20251011173000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251011130000 +0000" stop="20251011153000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: N. Noha Akugue / M. Thamm (GER) - J. Maleckova / M. Skoch (CZE), Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Doppelfinale</title>
 </programme>
 <programme start="20251010220000 +0000" stop="20251010224500 +0000" channel="SYFY HD.skyde">
@@ -3309,10 +3309,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Friends</title>
 </programme>
 <programme start="20251010232500 +0000" stop="20251010235000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251010235000 +0000" stop="20251011001000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Rick And Morty</title>
+    <title>Rick and Morty</title>
 </programme>
 <programme start="20251011001000 +0000" stop="20251011002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
@@ -3455,10 +3455,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011175000 +0000" stop="20251011181500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251011181500 +0000" stop="20251011200500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251011181500 +0000" stop="20251011200000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Free Guy</title>
 </programme>
-<programme start="20251011200500 +0000" stop="20251011203000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251011200000 +0000" stop="20251011203000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251011203000 +0000" stop="20251011205500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3470,7 +3470,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011211500 +0000" stop="20251011214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251011214000 +0000" stop="20251011233000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251011214000 +0000" stop="20251011232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Free Guy</title>
 </programme>
 <programme start="20251010222500 +0000" stop="20251011004000 +0000" channel="Warner TV Film.skyde">
