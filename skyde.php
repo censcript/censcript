@@ -3115,8 +3115,8 @@
 <programme start="20251012094000 +0000" stop="20251012100000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Tennis: Es folgt</title>
 </programme>
-<programme start="20251012100000 +0000" stop="20251012123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live WTA: Finale, Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
+<programme start="20251012100000 +0000" stop="20251012143000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live WTA: tba - L. Radivojevic (SRB), Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20251011220500 +0000" stop="20251011225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>

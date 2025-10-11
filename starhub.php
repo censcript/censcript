@@ -8041,6 +8041,156 @@
     <programme start="20251012153000 +0000" stop="20251012163000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
+    <programme start="20251011160000 +0000" stop="20251011163000 +0000" channel="Travelxp HD.starhub">
+        <title>Hyderabad</title>
+    </programme>
+    <programme start="20251011163000 +0000" stop="20251011170000 +0000" channel="Travelxp HD.starhub">
+        <title>Mauritius 2</title>
+    </programme>
+    <programme start="20251011170000 +0000" stop="20251011173000 +0000" channel="Travelxp HD.starhub">
+        <title>Ziller Valley, Austria</title>
+    </programme>
+    <programme start="20251011173000 +0000" stop="20251011181500 +0000" channel="Travelxp HD.starhub">
+        <title>Cappadocia, Turkey</title>
+    </programme>
+    <programme start="20251011181500 +0000" stop="20251011183000 +0000" channel="Travelxp HD.starhub">
+        <title>Maltese Experiences</title>
+    </programme>
+    <programme start="20251011183000 +0000" stop="20251011190000 +0000" channel="Travelxp HD.starhub">
+        <title>Goa</title>
+    </programme>
+    <programme start="20251011190000 +0000" stop="20251011193000 +0000" channel="Travelxp HD.starhub">
+        <title>Alexandria, Egypt</title>
+    </programme>
+    <programme start="20251011193000 +0000" stop="20251011200000 +0000" channel="Travelxp HD.starhub">
+        <title>Mandu, India</title>
+    </programme>
+    <programme start="20251011200000 +0000" stop="20251011203000 +0000" channel="Travelxp HD.starhub">
+        <title>Perth</title>
+    </programme>
+    <programme start="20251011203000 +0000" stop="20251011210000 +0000" channel="Travelxp HD.starhub">
+        <title>Prague</title>
+    </programme>
+    <programme start="20251011210000 +0000" stop="20251011213000 +0000" channel="Travelxp HD.starhub">
+        <title>Chhattisgarh 2</title>
+    </programme>
+    <programme start="20251011213000 +0000" stop="20251011220000 +0000" channel="Travelxp HD.starhub">
+        <title>Mumbai</title>
+    </programme>
+    <programme start="20251011220000 +0000" stop="20251011223000 +0000" channel="Travelxp HD.starhub">
+        <title>Hong Kong</title>
+    </programme>
+    <programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="Travelxp HD.starhub">
+        <title>Hyderabad</title>
+    </programme>
+    <programme start="20251011230000 +0000" stop="20251011233000 +0000" channel="Travelxp HD.starhub">
+        <title>Mauritius 2</title>
+    </programme>
+    <programme start="20251011233000 +0000" stop="20251012000000 +0000" channel="Travelxp HD.starhub">
+        <title>Ziller Valley, Austria</title>
+    </programme>
+    <programme start="20251012000000 +0000" stop="20251012004500 +0000" channel="Travelxp HD.starhub">
+        <title>Cappadocia, Turkey</title>
+    </programme>
+    <programme start="20251012004500 +0000" stop="20251012010000 +0000" channel="Travelxp HD.starhub">
+        <title>Maltese Experiences</title>
+    </programme>
+    <programme start="20251012010000 +0000" stop="20251012013000 +0000" channel="Travelxp HD.starhub">
+        <title>Episode 1</title>
+    </programme>
+    <programme start="20251012013000 +0000" stop="20251012020000 +0000" channel="Travelxp HD.starhub">
+        <title>Hanumantiya, India</title>
+    </programme>
+    <programme start="20251012020000 +0000" stop="20251012023000 +0000" channel="Travelxp HD.starhub">
+        <title>Aberdeenshire</title>
+    </programme>
+    <programme start="20251012023000 +0000" stop="20251012030000 +0000" channel="Travelxp HD.starhub">
+        <title>Singapore</title>
+    </programme>
+    <programme start="20251012030000 +0000" stop="20251012033000 +0000" channel="Travelxp HD.starhub">
+        <title>Nagaland, Kohima</title>
+    </programme>
+    <programme start="20251012033000 +0000" stop="20251012040000 +0000" channel="Travelxp HD.starhub">
+        <title>Indian</title>
+    </programme>
+    <programme start="20251012040000 +0000" stop="20251012043000 +0000" channel="Travelxp HD.starhub">
+        <title>Episode 2</title>
+    </programme>
+    <programme start="20251012043000 +0000" stop="20251012050000 +0000" channel="Travelxp HD.starhub">
+        <title>Tawa, India</title>
+    </programme>
+    <programme start="20251012050000 +0000" stop="20251012053000 +0000" channel="Travelxp HD.starhub">
+        <title>Inverness</title>
+    </programme>
+    <programme start="20251012053000 +0000" stop="20251012060000 +0000" channel="Travelxp HD.starhub">
+        <title>Gaya Island Resort, Malaysia</title>
+    </programme>
+    <programme start="20251012060000 +0000" stop="20251012063000 +0000" channel="Travelxp HD.starhub">
+        <title>Nagaland, Kohnoma &amp; Wokha</title>
+    </programme>
+    <programme start="20251012063000 +0000" stop="20251012070000 +0000" channel="Travelxp HD.starhub">
+        <title>Malay</title>
+    </programme>
+    <programme start="20251012070000 +0000" stop="20251012071500 +0000" channel="Travelxp HD.starhub">
+        <title>Sigiriya</title>
+    </programme>
+    <programme start="20251012071500 +0000" stop="20251012073000 +0000" channel="Travelxp HD.starhub">
+        <title>Gal Vihara</title>
+    </programme>
+    <programme start="20251012073000 +0000" stop="20251012080000 +0000" channel="Travelxp HD.starhub">
+        <title>Panchmarhi, India</title>
+    </programme>
+    <programme start="20251012080000 +0000" stop="20251012083000 +0000" channel="Travelxp HD.starhub">
+        <title>Isle Of Skye</title>
+    </programme>
+    <programme start="20251012083000 +0000" stop="20251012090000 +0000" channel="Travelxp HD.starhub">
+        <title>Kempinski, Jordan</title>
+    </programme>
+    <programme start="20251012090000 +0000" stop="20251012093000 +0000" channel="Travelxp HD.starhub">
+        <title>Nagaland, Mokokchung</title>
+    </programme>
+    <programme start="20251012093000 +0000" stop="20251012100000 +0000" channel="Travelxp HD.starhub">
+        <title>Salzburg</title>
+    </programme>
+    <programme start="20251012100000 +0000" stop="20251012101500 +0000" channel="Travelxp HD.starhub">
+        <title>St. Xavier Church</title>
+    </programme>
+    <programme start="20251012101500 +0000" stop="20251012103000 +0000" channel="Travelxp HD.starhub">
+        <title>Killing Fields Cambodia</title>
+    </programme>
+    <programme start="20251012103000 +0000" stop="20251012110000 +0000" channel="Travelxp HD.starhub">
+        <title>Reechgarh, India</title>
+    </programme>
+    <programme start="20251012110000 +0000" stop="20251012113000 +0000" channel="Travelxp HD.starhub">
+        <title>Seychelles</title>
+    </programme>
+    <programme start="20251012113000 +0000" stop="20251012120000 +0000" channel="Travelxp HD.starhub">
+        <title>Shangri La, Malaysia</title>
+    </programme>
+    <programme start="20251012120000 +0000" stop="20251012123000 +0000" channel="Travelxp HD.starhub">
+        <title>Nagaland, Mon</title>
+    </programme>
+    <programme start="20251012123000 +0000" stop="20251012130000 +0000" channel="Travelxp HD.starhub">
+        <title>Chhattisgarh 1</title>
+    </programme>
+    <programme start="20251012130000 +0000" stop="20251012133000 +0000" channel="Travelxp HD.starhub">
+        <title>Chennai</title>
+    </programme>
+    <programme start="20251012133000 +0000" stop="20251012140000 +0000" channel="Travelxp HD.starhub">
+        <title>Edinburgh</title>
+    </programme>
+    <programme start="20251012140000 +0000" stop="20251012143000 +0000" channel="Travelxp HD.starhub">
+        <title>Innsbruck, Austria</title>
+    </programme>
+    <programme start="20251012143000 +0000" stop="20251012150000 +0000" channel="Travelxp HD.starhub">
+        <title>London</title>
+    </programme>
+    <programme start="20251012150000 +0000" stop="20251012153000 +0000" channel="Travelxp HD.starhub">
+        <title>Cairo, Egypt</title>
+    </programme>
+    <programme start="20251012153000 +0000" stop="20251012160000 +0000" channel="Travelxp HD.starhub">
+        <title>Chhattisgarh 1</title>
+    </programme>
     <programme start="20251011153000 +0000" stop="20251011163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
     </programme>
