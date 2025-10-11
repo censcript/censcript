@@ -3113,7 +3113,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011110000 +0000" stop="20251011130000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: HF2, Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Halbfinale</title>
 </programme>
-<programme start="20251011130000 +0000" stop="20251011173000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20251011130000 +0000" stop="20251011153000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live WTA: N. Noha Akugue / M. Thamm (GER) - J. Maleckova / M. Skoch (CZE), Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Doppelfinale</title>
 </programme>
 <programme start="20251010220000 +0000" stop="20251010224500 +0000" channel="SYFY HD.skyde">
