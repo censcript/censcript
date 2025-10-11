@@ -2600,11 +2600,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011080500 +0000" stop="20251011082500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251011082500 +0000" stop="20251011103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+<programme start="20251011082500 +0000" stop="20251011105500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: N. Djokovic (SRB) - V. Vacherot (POL), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
-<programme start="20251011105500 +0000" stop="20251011130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Halbfinale, Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
+<programme start="20251011105500 +0000" stop="20251011150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251010234500 +0000" stop="20251011004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 8. Spieltag</title>
@@ -3099,10 +3099,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE Tennis</title>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011160000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live Tennis: HF1, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+    <title>Live Tennis: A. Kontaveit (EST) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
-<programme start="20251011160000 +0000" stop="20251011180000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live Tennis: HF2, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+<programme start="20251011160000 +0000" stop="20251011200000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live Tennis: A. Kerber (GER) - B. Strycova (CZE), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
 <programme start="20251011084000 +0000" stop="20251011090000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Tennis: Es folgt</title>
