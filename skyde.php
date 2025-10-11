@@ -2744,7 +2744,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011193000 +0000" stop="20251011223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 109th Indianapolis 500</title>
 </programme>
-<programme start="20251010230000 +0000" stop="20251011020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251010223000 +0000" stop="20251010232500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Tour Champions: Highlights Constellation Furyk &amp; Friends</title>
+</programme>
+<programme start="20251010232500 +0000" stop="20251011020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Baycurrent Classic, 2. Tag in Yokohama (Japan)</title>
 </programme>
 <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3087,19 +3090,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Es folgt</title>
 </programme>
 <programme start="20251011090000 +0000" stop="20251011110000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: HF1, Wuhan Open in Wuhan (CHN), Halbfinale</title>
+    <title>Live WTA 1000: C. Gauff (USA) - J. Paolini (ITA), Wuhan Open in Wuhan (CHN), Halbfinale</title>
 </programme>
-<programme start="20251011110000 +0000" stop="20251011130000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: HF2, Wuhan Open in Wuhan (CHN), Halbfinale</title>
+<programme start="20251011110000 +0000" stop="20251011150000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: A. Sabalenka - J. Pegula (USA), Wuhan Open in Wuhan (CHN), Halbfinale</title>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis</title>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011160000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live Tennis: HF1, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+    <title>Live Tennis: A. Kontaveit (EST) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
-<programme start="20251011160000 +0000" stop="20251011180000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live Tennis: HF2, Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
+<programme start="20251011160000 +0000" stop="20251011200000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live Tennis: A. Kerber (GER) - B. Strycova (CZE), Luxembourg Ladies Tennis Masters 2025, Halbfinale</title>
 </programme>
 <programme start="20251011084000 +0000" stop="20251011090000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Tennis: Es folgt</title>
@@ -3506,7 +3509,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251011215500 +0000" stop="20251011235500 +0000" channel="Warner TV Film.skyde">
     <title>Das erstaunliche Leben des Walter Mitty</title>
 </programme>
-<programme start="20251010221500 +0000" stop="20251011004000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251010222500 +0000" stop="20251011004000 +0000" channel="Warner TV Film HD.skyde">
     <title>Nightmare Alley</title>
 </programme>
 <programme start="20251011004000 +0000" stop="20251011023000 +0000" channel="Warner TV Film HD.skyde">
