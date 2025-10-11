@@ -126,8 +126,8 @@
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251011203000 +0700" stop="20251011223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Falkirk - Rangers FC</title>
+<programme start="20251012233000 +0700" stop="20251013013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011223000 +0700" stop="20251012003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -264,14 +264,6 @@
 </programme>
 <programme start="20251012213000 +0700" stop="20251013000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Mercury - Las Vegas Aces</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011214000 +0700" stop="20251011221500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011221500 +0700" stop="20251011225000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011225000 +0700" stop="20251012001000 +0700" channel="COSMOTE Sport 5 HD">
@@ -426,6 +418,10 @@
     <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251012233000 +0700" stop="20251013004500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2025 ISSF World Championship Shotgun Athens</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251011220000 +0700" stop="20251012000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -506,6 +502,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251012230000 +0700" stop="20251013000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251011210000 +0700" stop="20251011233000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -582,17 +582,9 @@
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251011204000 +0700" stop="20251011222500 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Handball: SG Flensburg-Handewitt - THW Kiel (L)</title>
+<programme start="20251012233000 +0700" stop="20251013020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251011222500 +0700" stop="20251011224000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251011224000 +0700" stop="20251011230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251011230000 +0700" stop="20251012000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
