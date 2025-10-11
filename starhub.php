@@ -8155,7 +8155,7 @@
     <programme start="20251011103000 +0000" stop="20251011133000 +0000" channel="Asianet Movies.starhub">
         <title>RDX</title>
     </programme>
-    <programme start="20251011133000 +0000" stop="20251011160000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251011133000 +0000" stop="20251011161000 +0000" channel="Asianet Movies.starhub">
         <title>Moonwalk</title>
     </programme>
     <programme start="20251010160000 +0000" stop="20251010170000 +0000" channel="Astro Warna HD.starhub">
