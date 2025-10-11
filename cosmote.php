@@ -122,8 +122,8 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012020000 +0700" stop="20251012023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
+<programme start="20251013034000 +0700" stop="20251013041000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012023000 +0700" stop="20251012043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +250,6 @@
     <title>Basketball: Cantu - Bon Reggio Emilia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012010000 +0700" stop="20251012030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Gran Canaria - Unicaja (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251012030000 +0700" stop="20251012042500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
@@ -342,6 +338,10 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251013034000 +0700" stop="20251013044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251012010000 +0700" stop="20251012050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
@@ -375,11 +375,11 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012130000 +0700" stop="20251012153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Andre Goransson/Alex Michelsen - Kevin Krawietz/Tim Puetz (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251012153000 +0700" stop="20251012180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025 (L)</title>
+    <title>Tennis: Arthur Rinderknech - Valentin Vacherot (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251012180000 +0700" stop="20251012183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -391,7 +391,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012190000 +0700" stop="20251012213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2025</title>
+    <title>Tennis: Andre Goransson/Alex Michelsen - Kevin Krawietz/Tim Puetz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012213000 +0700" stop="20251012233000 +0700" channel="COSMOTE Sport 6 HD">
@@ -438,17 +438,13 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012140000 +0700" stop="20251012163000 +0700" channel="COSMOTE Sport 7 HD">
+<programme start="20251012140000 +0700" stop="20251012150000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251012150000 +0700" stop="20251012173000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP Challenger 50 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251012163000 +0700" stop="20251012170000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012170000 +0700" stop="20251012173000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012173000 +0700" stop="20251012183000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -493,10 +489,6 @@
 <programme start="20251013020000 +0700" stop="20251013040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012003000 +0700" stop="20251012030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251012030000 +0700" stop="20251012033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -578,12 +570,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012020000 +0700" stop="20251012023000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012023000 +0700" stop="20251012030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251013030000 +0700" stop="20251013040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012030000 +0700" stop="20251012040000 +0700" channel="COSMOTE Sport 9 HD">
@@ -640,6 +628,10 @@
 </programme>
 <programme start="20251013000000 +0700" stop="20251013032500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Miami Dolphins - Los Angeles Chargers (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251013032500 +0700" stop="20251013065500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Tampa Bay Buccaneers - San Francisco 49ers (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

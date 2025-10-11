@@ -571,12 +571,6 @@
 <programme start="20251011154500 +0000" stop="20251011163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251011163000 +0000" stop="20251011174500 +0000" channel="Trans 7.vision">
-<title>Komedia Moderen Gokil</title>
-</programme>
-<programme start="20251011174500 +0000" stop="20251011181500 +0000" channel="Trans 7.vision">
-<title>Superbike 2025 Portugal</title>
-</programme>
 <programme start="20251011181500 +0000" stop="20251011190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -669,9 +663,6 @@
 </programme>
 <programme start="20251011130000 +0000" stop="20251011150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251011150000 +0000" stop="20251011170000 +0000" channel="ANTV.vision">
-<title>Pedang Ulung</title>
 </programme>
 <programme start="20251011170000 +0000" stop="20251011183000 +0000" channel="ANTV.vision">
 <title>Dreadnaught</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251011213000 +0000" stop="20251011223000 +0000" channel="BTV.vision">
 <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
+</programme>
+<programme start="20251011230000 +0000" stop="20251011230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20251011230300 +0000" stop="20251011233000 +0000" channel="BTV.vision">
+<title>Saat Teduh Bersama GMS</title>
 </programme>
