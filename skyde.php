@@ -2551,14 +2551,14 @@
 <programme start="20251012210000 +0000" stop="20251012230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SCR Altach - SK Puntigamer Sturm Graz, 9. Runde</title>
 </programme>
-<programme start="20251012054000 +0000" stop="20251012060000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: LIVE ATP World Tour</title>
+<programme start="20251011220000 +0000" stop="20251012060000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: ab 08:00: LIVE ATP World Tour</title>
 </programme>
 <programme start="20251012060000 +0000" stop="20251012082000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - A. Goransson (SWE) / A. Michelsen (USA), Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
 </programme>
-<programme start="20251012082000 +0000" stop="20251012110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Shanghai Masters in Shanghai (China), Finale</title>
+<programme start="20251012082000 +0000" stop="20251012130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live ATP 1000: A. Rinderknech (FRA) - V. Vacherot (MON), Rolex Shanghai Masters in Shanghai (China), Finale</title>
 </programme>
 <programme start="20251011220000 +0000" stop="20251011223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Best of September</title>
@@ -3103,8 +3103,8 @@
 <programme start="20251012101000 +0000" stop="20251012103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Tennis: Es folgt</title>
 </programme>
-<programme start="20251012103000 +0000" stop="20251012130000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: Finale, Wuhan Open in Wuhan (CHN), Finale</title>
+<programme start="20251012103000 +0000" stop="20251012150000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: J. Pegula (USA) - C. Gauff (USA), Wuhan Open in Wuhan (CHN), Finale</title>
 </programme>
 <programme start="20251012131000 +0000" stop="20251012133000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis</title>
@@ -3115,8 +3115,8 @@
 <programme start="20251012094000 +0000" stop="20251012100000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Tennis: Es folgt</title>
 </programme>
-<programme start="20251012100000 +0000" stop="20251012143000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live WTA: tba - L. Radivojevic (SRB), Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
+<programme start="20251012100000 +0000" stop="20251012123000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live WTA: Finale, Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20251011220500 +0000" stop="20251011225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
