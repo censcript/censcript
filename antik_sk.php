@@ -94,16 +94,13 @@
   <programme start="20251014211500 +0000" stop="20251014230000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Storočný starček, ktorý vyliezol z okna a zmizol</title>
   </programme>
-  <programme start="20251013200500 +0000" stop="20251013224200 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Ty si tiež nič nevidel</title>
-  </programme>
-  <programme start="20251013224200 +0000" stop="20251013224400 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251013215900 +0000" stop="20251013220100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20251013224400 +0000" stop="20251013233500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251013220100 +0000" stop="20251013225000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20251013233500 +0000" stop="20251013234100 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251013225000 +0000" stop="20251013234100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hírek</title>
   </programme>
   <programme start="20251014041000 +0000" stop="20251014042000 +0000" channel="Dvojka.webtv.sk">

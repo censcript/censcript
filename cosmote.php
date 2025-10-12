@@ -54,14 +54,6 @@
     <title>Football: FC Kairat Almaty - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013034000 +0700" stop="20251013041000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251013041000 +0700" stop="20251013044000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Football Countdowns E10</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251013044000 +0700" stop="20251013065000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
@@ -118,10 +110,6 @@
     <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013023000 +0700" stop="20251013043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Hilal - Al-Okhdood Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251013043000 +0700" stop="20251013063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Falkirk - Rangers FC</title>
     <desc>Live: Tidak</desc>
@@ -176,14 +164,6 @@
 </programme>
 <programme start="20251014040000 +0700" stop="20251014060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Racing Club - Velez Sarsfield</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251013040000 +0700" stop="20251013043000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251013043000 +0700" stop="20251013050000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013050000 +0700" stop="20251013070000 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,8 +226,8 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013034000 +0700" stop="20251013044000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20251014054000 +0700" stop="20251014080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Promitheas - Heidelberg</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013044000 +0700" stop="20251013053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,8 +334,8 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013015000 +0700" stop="20251013050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
+<programme start="20251014054000 +0700" stop="20251014061000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013050000 +0700" stop="20251013073000 +0700" channel="COSMOTE Sport 6 HD">
