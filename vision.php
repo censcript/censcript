@@ -580,9 +580,6 @@
 <programme start="20251012154500 +0000" stop="20251012163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20251012163000 +0000" stop="20251012174500 +0000" channel="Trans 7.vision">
-<title>Komedi Gokil 2</title>
-</programme>
 <programme start="20251012174500 +0000" stop="20251012183000 +0000" channel="Trans 7.vision">
 <title>Superbike 2025: Portugal</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20251013083000 +0000" stop="20251013093000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251013093000 +0000" stop="20251013103000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
