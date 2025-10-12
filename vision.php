@@ -667,15 +667,6 @@
 <programme start="20251012093000 +0000" stop="20251012110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251012110000 +0000" stop="20251012130000 +0000" channel="ANTV.vision">
-<title>Naga Seribu</title>
-</programme>
-<programme start="20251012130000 +0000" stop="20251012150000 +0000" channel="ANTV.vision">
-<title>Rindu Tak Berujung</title>
-</programme>
-<programme start="20251012150000 +0000" stop="20251012170000 +0000" channel="ANTV.vision">
-<title>Pendekar Naga Mas</title>
-</programme>
 <programme start="20251012170000 +0000" stop="20251012183000 +0000" channel="ANTV.vision">
 <title>Story Of Ricky</title>
 </programme>
@@ -837,9 +828,6 @@
 </programme>
 <programme start="20251012040000 +0000" stop="20251012053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20251012053000 +0000" stop="20251012070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku</title>
 </programme>
 <programme start="20251012070000 +0000" stop="20251012073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
@@ -1496,5 +1484,17 @@
 <title>BTV</title>
 </programme>
 <programme start="20251013060000 +0000" stop="20251013063000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251013063000 +0000" stop="20251013070000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251013070000 +0000" stop="20251013080000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251013080000 +0000" stop="20251013083000 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20251013083000 +0000" stop="20251013093000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
