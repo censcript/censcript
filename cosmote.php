@@ -1,7 +1,3 @@
-<programme start="20251012130000 +0700" stop="20251012150000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Celta - PAOK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251012150000 +0700" stop="20251012170000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Panathinaikos - Go Ahead Eagles</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Football: Parma - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012123000 +0700" stop="20251012143000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Racing Club - Velez Sarsfield</title>
+<programme start="20251013151000 +0700" stop="20251013171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012143000 +0700" stop="20251012163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,10 +182,6 @@
     <title>Football: Casa Pia - Estoril</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012125500 +0700" stop="20251012145500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Varese - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251012145500 +0700" stop="20251012170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Gran Canaria - Unicaja</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +240,6 @@
 </programme>
 <programme start="20251013140000 +0700" stop="20251013161500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oostende - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012123000 +0700" stop="20251012144000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012144000 +0700" stop="20251012153000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,6 +342,14 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251013151500 +0700" stop="20251013154500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251013154500 +0700" stop="20251013164000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251012130000 +0700" stop="20251012153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Andre Goransson/Alex Michelsen - Kevin Krawietz/Tim Puetz (L)</title>
     <desc>Live: Ya</desc>
@@ -416,10 +412,6 @@
 </programme>
 <programme start="20251013140000 +0700" stop="20251013160000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012140000 +0700" stop="20251012150000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012150000 +0700" stop="20251012173000 +0700" channel="COSMOTE Sport 7 HD">

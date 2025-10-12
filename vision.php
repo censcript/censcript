@@ -838,6 +838,9 @@
 <programme start="20251012040000 +0000" stop="20251012053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
+<programme start="20251012053000 +0000" stop="20251012070000 +0000" channel="TVOne.vision">
+<title>Damai Indonesiaku</title>
+</programme>
 <programme start="20251012070000 +0000" stop="20251012073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251013060000 +0000" stop="20251013063000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251013063000 +0000" stop="20251013070000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
