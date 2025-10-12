@@ -667,6 +667,12 @@
 <programme start="20251012093000 +0000" stop="20251012110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251012110000 +0000" stop="20251012130000 +0000" channel="ANTV.vision">
+<title>Naga Seribu</title>
+</programme>
+<programme start="20251012130000 +0000" stop="20251012150000 +0000" channel="ANTV.vision">
+<title>Rindu Tak Berujung</title>
+</programme>
 <programme start="20251012150000 +0000" stop="20251012170000 +0000" channel="ANTV.vision">
 <title>Pendekar Naga Mas</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>BTV</title>
 </programme>
 <programme start="20251013063000 +0000" stop="20251013070000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251013070000 +0000" stop="20251013080000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20251013080000 +0000" stop="20251013083000 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>

@@ -114,8 +114,8 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012203000 +0700" stop="20251012223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Chelsea FC - SL Benfica</title>
+<programme start="20251013233000 +0700" stop="20251014000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012223000 +0700" stop="20251013003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -236,6 +236,10 @@
 </programme>
 <programme start="20251013224500 +0700" stop="20251013234000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251013234000 +0700" stop="20251014014000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cantu - Bon Reggio Emilia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251012215000 +0700" stop="20251013000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -394,13 +398,9 @@
     <title>Tennis: Arthur Rinderknech - Valentin Vacherot</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251012220000 +0700" stop="20251012223000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251012223000 +0700" stop="20251012230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251013230000 +0700" stop="20251014003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251012230000 +0700" stop="20251013000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
