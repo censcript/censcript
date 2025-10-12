@@ -2716,13 +2716,13 @@
 <programme start="20251012030000 +0000" stop="20251012070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Baycurrent Classic, 4. Tag in Yokohama (Japan)</title>
 </programme>
-<programme start="20251012070000 +0000" stop="20251012100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251012070000 +0000" stop="20251012103000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: 4. Tag in Portrush (Nordirland)</title>
 </programme>
-<programme start="20251012100000 +0000" stop="20251012150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251012103000 +0000" stop="20251012153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: acciona Spanish Open presented by Madrid, 4. Tag in Madrid (Spanien)</title>
 </programme>
-<programme start="20251012150000 +0000" stop="20251012180000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251012153000 +0000" stop="20251012180000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Baycurrent Classic, 4. Tag in Yokohama (Japan)</title>
 </programme>
 <programme start="20251012180000 +0000" stop="20251012210000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2969,31 +2969,31 @@
     <title>ATP 1000: D. Medvedev - A. Rinderknech (FRA), Rolex Shanghai Masters in Shanghai (China), Halbfinale</title>
 </programme>
 <programme start="20251012060000 +0000" stop="20251012082000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - A. Goransson (SWE) / A. Michelsen (USA), Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
 </programme>
 <programme start="20251012082000 +0000" stop="20251012110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Shanghai Masters in Shanghai (China), Finale</title>
+    <title>Live ATP 1000: A. Rinderknech (FRA) - V. Vacherot (MON), Rolex Shanghai Masters in Shanghai (China), Finale</title>
 </programme>
 <programme start="20251012110000 +0000" stop="20251012130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: Finale, Wuhan Open in Wuhan (CHN), Finale</title>
+    <title>Live WTA 1000: J. Pegula (USA) - C. Gauff (USA), Wuhan Open in Wuhan (CHN), Finale</title>
 </programme>
 <programme start="20251012130000 +0000" stop="20251012133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Peking</title>
 </programme>
 <programme start="20251012133000 +0000" stop="20251012160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live Tennis: Finale, Luxembourg Ladies Tennis Masters 2025, Finale</title>
+    <title>Live Tennis: A. Kerber (GER) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Finale</title>
 </programme>
 <programme start="20251012160000 +0000" stop="20251012183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Finale, Rolex Shanghai Masters in Shanghai (China), Finale</title>
+    <title>ATP 1000: A. Rinderknech (FRA) - V. Vacherot (MON), Rolex Shanghai Masters in Shanghai (China), Finale</title>
 </programme>
 <programme start="20251012183000 +0000" stop="20251012210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Finale, Wuhan Open in Wuhan (CHN), Finale</title>
+    <title>WTA 1000: J. Pegula (USA) - C. Gauff (USA), Wuhan Open in Wuhan (CHN), Finale</title>
 </programme>
 <programme start="20251012210000 +0000" stop="20251012213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251012213000 +0000" stop="20251013000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Doppelfinale, Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
+    <title>ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - A. Goransson (SWE) / A. Michelsen (USA), Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
 </programme>
 <programme start="20251011230000 +0000" stop="20251012010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - J. Paolini (ITA), Wuhan Open in Wuhan (CHN), Halbfinale</title>
@@ -3011,19 +3011,19 @@
     <title>Live Golf: Baycurrent Classic, 4. Tag in Yokohama (Japan)</title>
 </programme>
 <programme start="20251012070000 +0000" stop="20251012082000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - A. Goransson (SWE) / A. Michelsen (USA), Rolex Shanghai Masters in Shanghai (China), Doppelfinale</title>
 </programme>
 <programme start="20251012082000 +0000" stop="20251012110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Shanghai Masters in Shanghai (China), Finale</title>
+    <title>Live ATP 1000: A. Rinderknech (FRA) - V. Vacherot (MON), Rolex Shanghai Masters in Shanghai (China), Finale</title>
 </programme>
 <programme start="20251012110000 +0000" stop="20251012130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: Finale, Wuhan Open in Wuhan (CHN), Finale</title>
+    <title>Live WTA 1000: J. Pegula (USA) - C. Gauff (USA), Wuhan Open in Wuhan (CHN), Finale</title>
 </programme>
 <programme start="20251012130000 +0000" stop="20251012133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Peking</title>
 </programme>
 <programme start="20251012133000 +0000" stop="20251012160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Tennis: Finale, Luxembourg Ladies Tennis Masters 2025, Finale</title>
+    <title>Live Tennis: A. Kerber (GER) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Finale</title>
 </programme>
 <programme start="20251012160000 +0000" stop="20251012161500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Maranello - Auf den Spuren von Michael Schumacher</title>
@@ -3035,7 +3035,7 @@
     <title>DFB-Nachwuchsliga: Borussia Dortmund U17 - VfL Bochum U17, 7. Spieltag</title>
 </programme>
 <programme start="20251012183000 +0000" stop="20251012210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Finale, Rolex Shanghai Masters in Shanghai (China), Finale</title>
+    <title>ATP 1000: A. Rinderknech (FRA) - V. Vacherot (MON), Rolex Shanghai Masters in Shanghai (China), Finale</title>
 </programme>
 <programme start="20251012210000 +0000" stop="20251012213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag, Sonntag</title>
@@ -3109,14 +3109,14 @@
 <programme start="20251012131000 +0000" stop="20251012133000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis</title>
 </programme>
-<programme start="20251012133000 +0000" stop="20251012160000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live Tennis: Finale, Luxembourg Ladies Tennis Masters 2025, Finale</title>
+<programme start="20251012133000 +0000" stop="20251012180000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live Tennis: A. Kerber (GER) - A. Cornet (FRA), Luxembourg Ladies Tennis Masters 2025, Finale</title>
 </programme>
 <programme start="20251012094000 +0000" stop="20251012100000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Tennis: Es folgt</title>
 </programme>
-<programme start="20251012100000 +0000" stop="20251012123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live WTA: Finale, Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
+<programme start="20251012100000 +0000" stop="20251012143000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live WTA: S. Sierra (ARG) - L. Radivojevic (SRB), Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20251011220500 +0000" stop="20251011225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>

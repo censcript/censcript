@@ -7795,19 +7795,19 @@
     <programme start="20251011231000 +0000" stop="20251012013000 +0000" channel="Asianet Movies.starhub">
         <title>Loud Speaker</title>
     </programme>
-    <programme start="20251012013000 +0000" stop="20251012043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012013000 +0000" stop="20251012043500 +0000" channel="Asianet Movies.starhub">
         <title>Nadodimannan</title>
     </programme>
-    <programme start="20251012043000 +0000" stop="20251012073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012043500 +0000" stop="20251012073500 +0000" channel="Asianet Movies.starhub">
         <title>Neru</title>
     </programme>
-    <programme start="20251012073000 +0000" stop="20251012103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012073500 +0000" stop="20251012103500 +0000" channel="Asianet Movies.starhub">
         <title>Anand Sreebala</title>
     </programme>
-    <programme start="20251012103000 +0000" stop="20251012133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012103500 +0000" stop="20251012133000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr...</title>
     </programme>
-    <programme start="20251012133000 +0000" stop="20251012163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012133000 +0000" stop="20251012162000 +0000" channel="Asianet Movies.starhub">
         <title>Premalu</title>
     </programme>
     <programme start="20251011153000 +0000" stop="20251011163000 +0000" channel="Astro Warna HD.starhub">
