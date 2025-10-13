@@ -68,15 +68,9 @@
         <title> Thể thao : Giờ vàng thể thao </title>
     </programme>
     <programme start="20251013100000 +0000" stop="20251013102500 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu : Đường tới tương lai </title>
+        <title> Đại hội Đảng bộ Chính phủ lần thứ nhất </title>
     </programme>
-    <programme start="20251013102500 +0000" stop="20251013105500 +0000" channel="VTV1 HD.mytv">
-        <title> Nét đẹp dân gian </title>
-    </programme>
-    <programme start="20251013105500 +0000" stop="20251013110000 +0000" channel="VTV1 HD.mytv">
-        <title> Góc nhìn văn hóa </title>
-    </programme>
-    <programme start="20251013110000 +0000" stop="20251013111500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20251013102500 +0000" stop="20251013111500 +0000" channel="VTV1 HD.mytv">
         <title> Chuyển động 24h </title>
     </programme>
     <programme start="20251013111500 +0000" stop="20251013120000 +0000" channel="VTV1 HD.mytv">
