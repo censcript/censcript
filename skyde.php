@@ -93,38 +93,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251013212000 +0000" stop="20251013220500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Hawaii</title>
 </programme>
-<programme start="20251012223000 +0000" stop="20251012230000 +0000" channel="Beate Uhse HD.skyde">
-    <title>G-Punkt</title>
-</programme>
-<programme start="20251012230000 +0000" stop="20251012233000 +0000" channel="Beate Uhse HD.skyde">
-    <title>G-Punkt</title>
-</programme>
-<programme start="20251012233000 +0000" stop="20251013013000 +0000" channel="Beate Uhse HD.skyde">
-    <title>À l&#039;arrêt - Stillstand</title>
-</programme>
-<programme start="20251013013000 +0000" stop="20251013015000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Milfy MILFs</title>
-</programme>
-<programme start="20251013015000 +0000" stop="20251013033000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Wenn es Nacht wird</title>
-</programme>
-<programme start="20251013033000 +0000" stop="20251013034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>The White Boxxx</title>
-</programme>
-<programme start="20251013034500 +0000" stop="20251013181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20251013181500 +0000" stop="20251013184000 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20251009220000 +0000" stop="20251009222500 +0000" channel="Beate Uhse HD.skyde">
     <title>Girlfriends</title>
 </programme>
-<programme start="20251013184000 +0000" stop="20251013195000 +0000" channel="Beate Uhse HD.skyde">
+<programme start="20251009222500 +0000" stop="20251009225500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Auto, Motor, Sex</title>
+</programme>
+<programme start="20251009225500 +0000" stop="20251009232500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Auto, Motor, Sex</title>
+</programme>
+<programme start="20251009232500 +0000" stop="20251009233000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Inside</title>
+</programme>
+<programme start="20251009233000 +0000" stop="20251009235000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Urban Smut</title>
+</programme>
+<programme start="20251009235000 +0000" stop="20251010010500 +0000" channel="Beate Uhse HD.skyde">
     <title>Blind verführt</title>
 </programme>
-<programme start="20251013195000 +0000" stop="20251013210500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Love Sex and Robots</title>
+<programme start="20251010010500 +0000" stop="20251010012500 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
 </programme>
-<programme start="20251013210500 +0000" stop="20251013222500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Blonde Heat</title>
+<programme start="20251010012500 +0000" stop="20251010013500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Feel Naked</title>
+</programme>
+<programme start="20251010013500 +0000" stop="20251010034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Pretty Lovely Lies</title>
+</programme>
+<programme start="20251010034500 +0000" stop="20251010181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20251010181500 +0000" stop="20251010192500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sweet Sexy Slips</title>
+</programme>
+<programme start="20251010192500 +0000" stop="20251010205000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Big Titty Teens</title>
+</programme>
+<programme start="20251010205000 +0000" stop="20251010210500 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
+</programme>
+<programme start="20251010210500 +0000" stop="20251010223000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Ich schnapp mir deinen Daddy</title>
 </programme>
 <programme start="20251012220000 +0000" stop="20251012221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
