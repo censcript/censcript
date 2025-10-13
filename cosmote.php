@@ -50,10 +50,6 @@
     <title>Football: Galatasaray AS - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014020000 +0700" stop="20251014041000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Kifisia - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251014041000 +0700" stop="20251014062000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -170,10 +166,6 @@
     <title>Football: Palmeiras - River Plate</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014034000 +0700" stop="20251014041000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251014041000 +0700" stop="20251014054000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +220,6 @@
 </programme>
 <programme start="20251015041000 +0700" stop="20251015062000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014030000 +0700" stop="20251014041000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014041000 +0700" stop="20251014054000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +326,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014030000 +0700" stop="20251014043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20251015050000 +0700" stop="20251015060500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014043000 +0700" stop="20251014083000 +0700" channel="COSMOTE Sport 6 HD">

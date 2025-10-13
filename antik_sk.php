@@ -3421,10 +3421,10 @@
   <programme start="20251015211500 +0000" stop="20251015220000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Expedice Rembaranka: Do hlubin časů</title>
   </programme>
-  <programme start="20251014215500 +0000" stop="20251014224700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251014215500 +0000" stop="20251014224600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Fauda III (2/12)</title>
   </programme>
-  <programme start="20251014224700 +0000" stop="20251014231500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251014224600 +0000" stop="20251014231500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
   <programme start="20251014231500 +0000" stop="20251014232200 +0000" channel="ČT1.webtv.sk">
@@ -3451,16 +3451,16 @@
   <programme start="20251015035900 +0000" stop="20251015070000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Studio 6</title>
   </programme>
-  <programme start="20251015070000 +0000" stop="20251015074700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015070000 +0000" stop="20251015074600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Magnum VI (19)</title>
   </programme>
-  <programme start="20251015074700 +0000" stop="20251015081500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015074600 +0000" stop="20251015081500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Co naše babičky uměly a na co my jsme zapomněli</title>
   </programme>
-  <programme start="20251015081500 +0000" stop="20251015083600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015081500 +0000" stop="20251015083500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Písničky z obrazovky</title>
   </programme>
-  <programme start="20251015083600 +0000" stop="20251015093000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015083500 +0000" stop="20251015093000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (7)</title>
   </programme>
   <programme start="20251015093000 +0000" stop="20251015100000 +0000" channel="ČT1.webtv.sk">
@@ -3478,13 +3478,13 @@
   <programme start="20251015120000 +0000" stop="20251015125500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Cirkus Humberto (6/12)</title>
   </programme>
-  <programme start="20251015125500 +0000" stop="20251015135100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015125500 +0000" stop="20251015135000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">55 minut s Miroslavem Donutilem</title>
   </programme>
-  <programme start="20251015135100 +0000" stop="20251015144600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015135000 +0000" stop="20251015144500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zavolejte porodní sestřičky XIII (8/8)</title>
   </programme>
-  <programme start="20251015144600 +0000" stop="20251015151500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015144500 +0000" stop="20251015151500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po Mandalaji</title>
   </programme>
   <programme start="20251015151500 +0000" stop="20251015154000 +0000" channel="ČT1.webtv.sk">
@@ -3517,16 +3517,16 @@
   <programme start="20251015181100 +0000" stop="20251015191000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zločin na dobré cestě (6/12)</title>
   </programme>
-  <programme start="20251015191000 +0000" stop="20251015201600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015191000 +0000" stop="20251015201500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Panoptikum Města pražského (7/10)</title>
   </programme>
-  <programme start="20251015201600 +0000" stop="20251015204400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015201500 +0000" stop="20251015204400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">13. komnata Tomáše Šebka</title>
   </programme>
-  <programme start="20251015204400 +0000" stop="20251015204600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015204400 +0000" stop="20251015204500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20251015204600 +0000" stop="20251015214000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251015204500 +0000" stop="20251015214000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zpátky se Sobotou</title>
   </programme>
   <programme start="20251015214000 +0000" stop="20251015223600 +0000" channel="ČT1.webtv.sk">
