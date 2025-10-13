@@ -2589,8 +2589,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251013170000 +0000" stop="20251013200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live NHL: Tampa Bay Lightning @ Boston Bruins</title>
 </programme>
-<programme start="20251013200000 +0000" stop="20251013230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live NHL: Detroit Red Wings @ Toronto Maple Leafs</title>
+<programme start="20251013200000 +0000" stop="20251013203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 9. Runde</title>
+</programme>
+<programme start="20251013203000 +0000" stop="20251013210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
+</programme>
+<programme start="20251013210000 +0000" stop="20251013213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251013213000 +0000" stop="20251013220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: RBS - SCR, 9. Runde</title>
 </programme>
 <programme start="20251013104000 +0000" stop="20251013110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
