@@ -8104,10 +8104,10 @@
     <programme start="20251012133000 +0000" stop="20251012162000 +0000" channel="Asianet Movies.starhub">
         <title>Premalu</title>
     </programme>
-    <programme start="20251012162000 +0000" stop="20251012190000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012162000 +0000" stop="20251012185000 +0000" channel="Asianet Movies.starhub">
         <title>Ohm Shanthi Oshaana</title>
     </programme>
-    <programme start="20251012190000 +0000" stop="20251012210500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251012185000 +0000" stop="20251012210500 +0000" channel="Asianet Movies.starhub">
         <title>Street Lights</title>
     </programme>
     <programme start="20251012210500 +0000" stop="20251012230500 +0000" channel="Asianet Movies.starhub">

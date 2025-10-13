@@ -114,8 +114,8 @@
     <title>Football: Bologna - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013110000 +0700" stop="20251013143000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Miami Dolphins - Los Angeles Chargers</title>
+<programme start="20251014151000 +0700" stop="20251014171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013143000 +0700" stop="20251013163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -226,10 +226,6 @@
     <title>Basketball: Promitheas - Heidelberg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013133000 +0700" stop="20251013143000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251013143000 +0700" stop="20251013151500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -336,6 +332,10 @@
 </programme>
 <programme start="20251014145500 +0700" stop="20251014151500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251014151500 +0700" stop="20251014161500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013140000 +0700" stop="20251013160000 +0700" channel="COSMOTE Sport 6 HD">
