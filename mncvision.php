@@ -1601,7 +1601,7 @@
     <title>Dunia Binatang</title>
 </programme>
 <programme start="20251013130000 +0000" stop="20251013140000 +0000" channel="BTV.mncvision">
-    <title>Berita Viral</title>
+    <title>Investor Daily Summit 2025</title>
 </programme>
 <programme start="20251013140000 +0000" stop="20251013150000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>
@@ -1615,7 +1615,48 @@
 <programme start="20251013163000 +0000" stop="20251012170000 +0000" channel="BTV.mncvision">
     <title>ONE Vault</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251012180400 +0000" stop="20251012194500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Erik Stoneheart</title>
+</programme>
+<programme start="20251012194500 +0000" stop="20251012202800 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Brave Heart Of Leo</title>
+</programme>
+<programme start="20251012202800 +0000" stop="20251012215700 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251012215700 +0000" stop="20251012235500 +0000" channel="BUDDY STARS.mncvision">
+    <title>Boonie Bears: The Wild Life</title>
+</programme>
+<programme start="20251012235500 +0000" stop="20251013014900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251013014900 +0000" stop="20251013032800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Fireheart</title>
+</programme>
+<programme start="20251013032800 +0000" stop="20251013050800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251013050800 +0000" stop="20251013065200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Pokemon: The Rise Of Darkrai</title>
+</programme>
+<programme start="20251013065200 +0000" stop="20251013084800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251013084800 +0000" stop="20251013103200 +0000" channel="BUDDY STARS.mncvision">
+    <title>First Dog</title>
+</programme>
+<programme start="20251013103200 +0000" stop="20251013120900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251013120900 +0000" stop="20251013134700 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dragon Rider</title>
+</programme>
+<programme start="20251013134700 +0000" stop="20251013153400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20251013153400 +0000" stop="20251013160400 +0000" channel="BUDDY STARS.mncvision">
+    <title>The Little Ghost</title>
+</programme>
 <programme start="20251012180400 +0000" stop="20251012194500 +0000" channel="BUDDY STARS HD.mncvision">
     <title>Erik Stoneheart</title>
 </programme>
@@ -3701,7 +3742,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251013030000 +0000" stop="20251013033000 +0000" channel="France 24 English.mncvision">
     <title>News (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251012180500 +0000" stop="20251012200500 +0000" channel="Galaxy.mncvision">
+    <title>The Last Champion</title>
+</programme>
+<programme start="20251012200500 +0000" stop="20251012214000 +0000" channel="Galaxy.mncvision">
+    <title>A Cry From Within</title>
+</programme>
+<programme start="20251012214000 +0000" stop="20251012230500 +0000" channel="Galaxy.mncvision">
+    <title>In Isolation</title>
+</programme>
+<programme start="20251012230500 +0000" stop="20251013004000 +0000" channel="Galaxy.mncvision">
+    <title>Faster</title>
+</programme>
+<programme start="20251013004000 +0000" stop="20251013021500 +0000" channel="Galaxy.mncvision">
+    <title>Sacrifice</title>
+</programme>
+<programme start="20251013021500 +0000" stop="20251013040000 +0000" channel="Galaxy.mncvision">
+    <title>Radioflash</title>
+</programme>
+<programme start="20251013040000 +0000" stop="20251013053000 +0000" channel="Galaxy.mncvision">
+    <title>Witches In The Woods</title>
+</programme>
+<programme start="20251013053000 +0000" stop="20251013072500 +0000" channel="Galaxy.mncvision">
+    <title>No Man&#039;s Land</title>
+</programme>
+<programme start="20251013072500 +0000" stop="20251013085500 +0000" channel="Galaxy.mncvision">
+    <title>Clean</title>
+</programme>
+<programme start="20251013085500 +0000" stop="20251013103000 +0000" channel="Galaxy.mncvision">
+    <title>Never Back Down: No Surrender</title>
+</programme>
+<programme start="20251013103000 +0000" stop="20251013120000 +0000" channel="Galaxy.mncvision">
+    <title>Missionary</title>
+</programme>
+<programme start="20251013120000 +0000" stop="20251013134000 +0000" channel="Galaxy.mncvision">
+    <title>Kill Craft</title>
+</programme>
+<programme start="20251013134000 +0000" stop="20251013154000 +0000" channel="Galaxy.mncvision">
+    <title>Crisis</title>
+</programme>
+<programme start="20251013154000 +0000" stop="20251013161000 +0000" channel="Galaxy.mncvision">
+    <title>The Curse Of Sleeping Beauty</title>
+</programme>
 <programme start="20251012170500 +0000" stop="20251012185000 +0000" channel="Galaxy Premium.mncvision">
     <title>28 Days Later</title>
 </programme>
@@ -4092,8 +4174,177 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251013160000 +0000" stop="20251013163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ketoprak Humor S7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251012173500 +0000" stop="20251012183000 +0000" channel="History.mncvision">
+    <title>The Death Coast, Ep 6</title>
+</programme>
+<programme start="20251012183000 +0000" stop="20251012192500 +0000" channel="History.mncvision">
+    <title>Alone S10, Ep 6</title>
+</programme>
+<programme start="20251012192500 +0000" stop="20251012202000 +0000" channel="History.mncvision">
+    <title>Food That Built World S3, Ep 12</title>
+</programme>
+<programme start="20251012202000 +0000" stop="20251012211500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 17</title>
+</programme>
+<programme start="20251012211500 +0000" stop="20251012221000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S1, Ep 3</title>
+</programme>
+<programme start="20251012221000 +0000" stop="20251012230500 +0000" channel="History.mncvision">
+    <title>Dark Marvels, Ep 7</title>
+</programme>
+<programme start="20251012230500 +0000" stop="20251013000000 +0000" channel="History.mncvision">
+    <title>Food That Built World S3, Ep 12</title>
+</programme>
+<programme start="20251013000000 +0000" stop="20251013005500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 17</title>
+</programme>
+<programme start="20251013005500 +0000" stop="20251013015500 +0000" channel="History.mncvision">
+    <title>Hazardous History S1, Ep 1</title>
+</programme>
+<programme start="20251013015500 +0000" stop="20251013025000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S1, Ep 3</title>
+</programme>
+<programme start="20251013025000 +0000" stop="20251013034500 +0000" channel="History.mncvision">
+    <title>The Death Coast, Ep 6</title>
+</programme>
+<programme start="20251013034500 +0000" stop="20251013044000 +0000" channel="History.mncvision">
+    <title>Alone S10, Ep 6</title>
+</programme>
+<programme start="20251013044000 +0000" stop="20251013053500 +0000" channel="History.mncvision">
+    <title>Dark Marvels, Ep 7</title>
+</programme>
+<programme start="20251013053500 +0000" stop="20251013063000 +0000" channel="History.mncvision">
+    <title>Food That Built World S3, Ep 12</title>
+</programme>
+<programme start="20251013063000 +0000" stop="20251013072500 +0000" channel="History.mncvision">
+    <title>The UnBelievable S1, Ep 3</title>
+</programme>
+<programme start="20251013072500 +0000" stop="20251013082000 +0000" channel="History.mncvision">
+    <title>Alone S10, Ep 6</title>
+</programme>
+<programme start="20251013082000 +0000" stop="20251013092000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 17</title>
+</programme>
+<programme start="20251013092000 +0000" stop="20251013101500 +0000" channel="History.mncvision">
+    <title>Hazardous History S1, Ep 1</title>
+</programme>
+<programme start="20251013101500 +0000" stop="20251013111000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S24, Ep 624</title>
+</programme>
+<programme start="20251013111000 +0000" stop="20251013120500 +0000" channel="History.mncvision">
+    <title>Pawn Stars S24, Ep 625</title>
+</programme>
+<programme start="20251013120500 +0000" stop="20251013130000 +0000" channel="History.mncvision">
+    <title>Forged In Fire S9, Ep 15</title>
+</programme>
+<programme start="20251013130000 +0000" stop="20251013135500 +0000" channel="History.mncvision">
+    <title>Food That Built World S5, Ep 3</title>
+</programme>
+<programme start="20251013135500 +0000" stop="20251013145000 +0000" channel="History.mncvision">
+    <title>Food That Built World S5, Ep 4</title>
+</programme>
+<programme start="20251013145000 +0000" stop="20251013154500 +0000" channel="History.mncvision">
+    <title>The Pickers S17, Ep 103</title>
+</programme>
+<programme start="20251013154500 +0000" stop="20251013164000 +0000" channel="History.mncvision">
+    <title>Alone S11, Ep 5</title>
+</programme>
+<programme start="20251013164000 +0000" stop="20251012171000 +0000" channel="History.mncvision">
+    <title>Forged In Fire S9, Ep 15</title>
+</programme>
+<programme start="20251012170000 +0000" stop="20251012180000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior Princess S1, Ep 3</title>
+</programme>
+<programme start="20251012180000 +0000" stop="20251012190000 +0000" channel="HITS.mncvision">
+    <title>T. J. Hooker S2, Ep 7</title>
+</programme>
+<programme start="20251012190000 +0000" stop="20251012200000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 19</title>
+</programme>
+<programme start="20251012200000 +0000" stop="20251012210000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S6, Ep 7</title>
+</programme>
+<programme start="20251012210000 +0000" stop="20251012220000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior Princess S1, Ep 3</title>
+</programme>
+<programme start="20251012220000 +0000" stop="20251012230000 +0000" channel="HITS.mncvision">
+    <title>T. J. Hooker S2, Ep 7</title>
+</programme>
+<programme start="20251012230000 +0000" stop="20251013000000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S6, Ep 7</title>
+</programme>
+<programme start="20251013000000 +0000" stop="20251013010000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior Princess S1, Ep 3</title>
+</programme>
+<programme start="20251013010000 +0000" stop="20251013013000 +0000" channel="HITS.mncvision">
+    <title>ALF S2, Ep 24</title>
+</programme>
+<programme start="20251013013000 +0000" stop="20251013023000 +0000" channel="HITS.mncvision">
+    <title>Quantum Leap S1, Ep 5</title>
+</programme>
+<programme start="20251013023000 +0000" stop="20251013030000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S4, Ep 10</title>
+</programme>
+<programme start="20251013030000 +0000" stop="20251013033000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S4, Ep 11</title>
+</programme>
+<programme start="20251013033000 +0000" stop="20251013040000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 16</title>
+</programme>
+<programme start="20251013040000 +0000" stop="20251013043000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S6, Ep 15</title>
+</programme>
+<programme start="20251013043000 +0000" stop="20251013053000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior Princess S1, Ep 3</title>
+</programme>
+<programme start="20251013053000 +0000" stop="20251013063000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 19</title>
+</programme>
+<programme start="20251013063000 +0000" stop="20251013070000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S3, Ep 1</title>
+</programme>
+<programme start="20251013070000 +0000" stop="20251013080000 +0000" channel="HITS.mncvision">
+    <title>Quantum Leap S1, Ep 6</title>
+</programme>
+<programme start="20251013080000 +0000" stop="20251013083000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S4, Ep 12</title>
+</programme>
+<programme start="20251013083000 +0000" stop="20251013090000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S4, Ep 13</title>
+</programme>
+<programme start="20251013090000 +0000" stop="20251013100000 +0000" channel="HITS.mncvision">
+    <title>T. J. Hooker S2, Ep 7</title>
+</programme>
+<programme start="20251013100000 +0000" stop="20251013103000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 16</title>
+</programme>
+<programme start="20251013103000 +0000" stop="20251013110000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S6, Ep 15</title>
+</programme>
+<programme start="20251013110000 +0000" stop="20251013120000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Poirot S6, Ep 8</title>
+</programme>
+<programme start="20251013120000 +0000" stop="20251013123000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 17</title>
+</programme>
+<programme start="20251013123000 +0000" stop="20251013130000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S6, Ep 16</title>
+</programme>
+<programme start="20251013130000 +0000" stop="20251013140000 +0000" channel="HITS.mncvision">
+    <title>T. J. Hooker S2, Ep 8</title>
+</programme>
+<programme start="20251013140000 +0000" stop="20251013150000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior Princess S1, Ep 4</title>
+</programme>
+<programme start="20251013150000 +0000" stop="20251013160000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S10, Ep 20</title>
+</programme>
+<programme start="20251013160000 +0000" stop="20251013163000 +0000" channel="HITS.mncvision">
+    <title>Frasier S6, Ep 17</title>
+</programme>
+<programme start="20251013163000 +0000" stop="20251012170000 +0000" channel="HITS.mncvision">
+    <title>The Jeffersons S6, Ep 16</title>
+</programme>
 <programme start="20251012193000 +0000" stop="20251012213000 +0000" channel="HITS MOVIES.mncvision">
     <title>Deck The Halls</title>
 </programme>
@@ -7487,7 +7738,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251013160300 +0000" stop="20251013163300 +0000" channel="SCTV HD.mncvision">
     <title>Pembokat Unyu Panjat Sosial</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251012170000 +0000" stop="20251012173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>

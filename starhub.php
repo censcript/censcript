@@ -2182,11 +2182,8 @@
     <programme start="20251013064500 +0000" stop="20251013070000 +0000" channel="CNN HD.starhub">
         <title>World Sport</title>
     </programme>
-    <programme start="20251013070000 +0000" stop="20251013080000 +0000" channel="CNN HD.starhub">
+    <programme start="20251013070000 +0000" stop="20251013090000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI)</title>
-    </programme>
-    <programme start="20251013080000 +0000" stop="20251013090000 +0000" channel="CNN HD.starhub">
-        <title>The Amanpour Hour</title>
     </programme>
     <programme start="20251013090000 +0000" stop="20251013100000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
@@ -8275,10 +8272,10 @@
     <programme start="20251013100000 +0000" stop="20251013110000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20251013110000 +0000" stop="20251013120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251013110000 +0000" stop="20251013115500 +0000" channel="SPOTV2.starhub">
         <title>WorldSBK Tissot Superpole Race</title>
     </programme>
-    <programme start="20251013120000 +0000" stop="20251013131000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251013115500 +0000" stop="20251013131000 +0000" channel="SPOTV2.starhub">
         <title>WorldSSP300 Race 2</title>
     </programme>
     <programme start="20251013131000 +0000" stop="20251013141000 +0000" channel="SPOTV2.starhub">
