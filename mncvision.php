@@ -422,7 +422,7 @@
     <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251013143000 +0000" stop="20251013163000 +0000" channel="ANTV.mncvision">
-    <title>Si Jalu</title>
+    <title>Warriors 2</title>
 </programme>
 <programme start="20251013163000 +0000" stop="20251012170000 +0000" channel="ANTV.mncvision">
     <title>The Haunted Cop Shop</title>
@@ -7442,7 +7442,7 @@
     <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20251013080000 +0000" stop="20251013090000 +0000" channel="RCTI.mncvision">
-    <title>Sugar Daddy</title>
+    <title>Candy Caddy</title>
 </programme>
 <programme start="20251013090000 +0000" stop="20251013100000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S8</title>
@@ -7496,7 +7496,7 @@
     <title>Take Me Out Indonesia</title>
 </programme>
 <programme start="20251013080000 +0000" stop="20251013090000 +0000" channel="RCTI HD.mncvision">
-    <title>Sugar Daddy</title>
+    <title>Candy Caddy</title>
 </programme>
 <programme start="20251013090000 +0000" stop="20251013100000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S8</title>

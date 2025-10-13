@@ -7609,47 +7609,8 @@
     <programme start="20251013073000 +0000" stop="20251013080000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20251013080000 +0000" stop="20251013083000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20251013083000 +0000" stop="20251013090000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20251013090000 +0000" stop="20251013093000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20251013093000 +0000" stop="20251013100000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20251013100000 +0000" stop="20251013103000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20251013103000 +0000" stop="20251013104500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today</title>
-    </programme>
-    <programme start="20251013104500 +0000" stop="20251013110000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
-    </programme>
-    <programme start="20251013110000 +0000" stop="20251013113000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20251013113000 +0000" stop="20251013120000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20251013120000 +0000" stop="20251013123000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20251013123000 +0000" stop="20251013130000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20251013130000 +0000" stop="20251013133000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
-    </programme>
-    <programme start="20251013133000 +0000" stop="20251013134500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today - NYSE Opening Bell</title>
-    </programme>
-    <programme start="20251013134500 +0000" stop="20251013140000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+    <programme start="20251013080000 +0000" stop="20251013140000 +0000" channel="BBC World News HD.starhub">
+        <title>Israel-Gaza Deal: Trump in Israel</title>
     </programme>
     <programme start="20251013140000 +0000" stop="20251013143000 +0000" channel="BBC World News HD.starhub">
         <title>Verified Live</title>
