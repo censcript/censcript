@@ -2595,7 +2595,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251013104000 +0000" stop="20251013110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251013110000 +0000" stop="20251013190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251013110000 +0000" stop="20251013210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 1. Tag</title>
 </programme>
 <programme start="20251012220000 +0000" stop="20251012223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
