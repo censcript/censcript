@@ -106,6 +106,10 @@
     <title>Football: FC Internazionale Milano - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251015013000 +0700" stop="20251015034000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Atromitos Athens</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251014000000 +0700" stop="20251014020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Vitoria Guimaraes - Santa Clara</title>
     <desc>Live: Tidak</desc>
@@ -222,10 +226,6 @@
     <title>Basketball: Karditsa - Unicaja (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251014000000 +0700" stop="20251014010000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251014010000 +0700" stop="20251014023000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -330,9 +330,13 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013230000 +0700" stop="20251014003000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251015010500 +0700" stop="20251015015000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251015015000 +0700" stop="20251015031500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014003000 +0700" stop="20251014013000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
@@ -398,8 +402,8 @@
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251013223000 +0700" stop="20251014010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Reilly Opelka - Benjamin Bonzi (L)</title>
+<programme start="20251015010000 +0700" stop="20251015033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251014010000 +0700" stop="20251014030000 +0700" channel="COSMOTE Sport 7 HD">
