@@ -836,10 +836,10 @@
         <title>No programme available now. Next broadcast on 14th October, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20251012160000 +0000" stop="20251013160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 14th October, Tuesday 7.50pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
+        <title>No programme available now. Next broadcast on 14th October, Tuesday 9.45pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
     </programme>
-    <programme start="20251013160000 +0000" stop="20251014115000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now. Next broadcast on 14th October, Tuesday 7.50pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
+    <programme start="20251013160000 +0000" stop="20251014134500 +0000" channel="Live 2.mewatch">
+        <title>No programme available now. Next broadcast on 14th October, Tuesday 9.45pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
     </programme>
     <programme start="20251012160000 +0000" stop="20251013160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
