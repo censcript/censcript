@@ -1402,34 +1402,34 @@
 <programme start="20251014041500 +0000" stop="20251014042000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014042000 +0000" stop="20251014042500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014042000 +0000" stop="20251014043000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014042500 +0000" stop="20251014044500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014043000 +0000" stop="20251014045000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014044500 +0000" stop="20251014050000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014045000 +0000" stop="20251014050000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014050000 +0000" stop="20251014050500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014050000 +0000" stop="20251014051000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014050500 +0000" stop="20251014051500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014051000 +0000" stop="20251014051500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251014051500 +0000" stop="20251014052500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014052500 +0000" stop="20251014054500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014052500 +0000" stop="20251014055000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251014054500 +0000" stop="20251014061000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014055000 +0000" stop="20251014061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014061000 +0000" stop="20251014063000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014061000 +0000" stop="20251014063500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014063000 +0000" stop="20251014064500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014063500 +0000" stop="20251014064500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251014064500 +0000" stop="20251014065500 +0000" channel="Nick Jr..skyde">
@@ -1459,16 +1459,16 @@
 <programme start="20251014085000 +0000" stop="20251014085500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014085500 +0000" stop="20251014090000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251014090000 +0000" stop="20251014090500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014085500 +0000" stop="20251014090500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251014090500 +0000" stop="20251014091000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014091000 +0000" stop="20251014092000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014091000 +0000" stop="20251014091100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251014091100 +0000" stop="20251014092000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251014092000 +0000" stop="20251014094000 +0000" channel="Nick Jr..skyde">
@@ -1498,10 +1498,10 @@
 <programme start="20251014115000 +0000" stop="20251014120500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014120500 +0000" stop="20251014121000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014120500 +0000" stop="20251014121500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014121000 +0000" stop="20251014122000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014121500 +0000" stop="20251014122000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251014122000 +0000" stop="20251014123000 +0000" channel="Nick Jr..skyde">
@@ -1513,16 +1513,16 @@
 <programme start="20251014124000 +0000" stop="20251014125000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251014125000 +0000" stop="20251014130000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014125000 +0000" stop="20251014130500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251014130000 +0000" stop="20251014132500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014130500 +0000" stop="20251014132500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251014132500 +0000" stop="20251014134500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014132500 +0000" stop="20251014135000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251014134500 +0000" stop="20251014141000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014135000 +0000" stop="20251014141000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251014141000 +0000" stop="20251014143000 +0000" channel="Nick Jr..skyde">
@@ -1531,52 +1531,52 @@
 <programme start="20251014143000 +0000" stop="20251014144000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014144000 +0000" stop="20251014144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014144000 +0000" stop="20251014145000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014144500 +0000" stop="20251014145500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014145000 +0000" stop="20251014145500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014145500 +0000" stop="20251014151500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014145500 +0000" stop="20251014152000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014151500 +0000" stop="20251014153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014152000 +0000" stop="20251014153000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014153000 +0000" stop="20251014154000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014153000 +0000" stop="20251014154500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251014154000 +0000" stop="20251014155500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014154500 +0000" stop="20251014155500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20251014155500 +0000" stop="20251014162000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251014162000 +0000" stop="20251014164500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014162000 +0000" stop="20251014165000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014164500 +0000" stop="20251014170000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014165000 +0000" stop="20251014170000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014170000 +0000" stop="20251014170500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014170000 +0000" stop="20251014171000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014170500 +0000" stop="20251014171500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014171000 +0000" stop="20251014171500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251014171500 +0000" stop="20251014172500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014172500 +0000" stop="20251014174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014172500 +0000" stop="20251014175000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251014174500 +0000" stop="20251014181000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014175000 +0000" stop="20251014181000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014181000 +0000" stop="20251014183000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014181000 +0000" stop="20251014183500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014183000 +0000" stop="20251014184500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014183500 +0000" stop="20251014184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251014184500 +0000" stop="20251014185500 +0000" channel="Nick Jr..skyde">
@@ -1606,13 +1606,13 @@
 <programme start="20251014205000 +0000" stop="20251014205500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014205500 +0000" stop="20251014210000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014205500 +0000" stop="20251014210500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014210000 +0000" stop="20251014210500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014210500 +0000" stop="20251014210600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014210500 +0000" stop="20251014211000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014210600 +0000" stop="20251014211000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251014211000 +0000" stop="20251014212000 +0000" channel="Nick Jr..skyde">
@@ -3415,10 +3415,10 @@
 <programme start="20251013224000 +0000" stop="20251013230500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251013230500 +0000" stop="20251013233000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251013230500 +0000" stop="20251013232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251013233000 +0000" stop="20251013235000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251013232500 +0000" stop="20251013235000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Samurai Jack</title>
 </programme>
 <programme start="20251013235000 +0000" stop="20251014001500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3433,10 +3433,10 @@
 <programme start="20251014003500 +0000" stop="20251014004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251014004500 +0000" stop="20251014010000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014004500 +0000" stop="20251014005500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251014010000 +0000" stop="20251014011000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014005500 +0000" stop="20251014011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251014011000 +0000" stop="20251014012500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3460,10 +3460,10 @@
 <programme start="20251014032000 +0000" stop="20251014034000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251014034000 +0000" stop="20251014040000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014034000 +0000" stop="20251014040500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251014040000 +0000" stop="20251014043000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014040500 +0000" stop="20251014043000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251014043000 +0000" stop="20251014050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3577,10 +3577,10 @@
 <programme start="20251014192500 +0000" stop="20251014195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251014195000 +0000" stop="20251014201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014195000 +0000" stop="20251014201000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251014201500 +0000" stop="20251014204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014201000 +0000" stop="20251014204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
 <programme start="20251014204000 +0000" stop="20251014210000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3604,10 +3604,10 @@
 <programme start="20251013233000 +0000" stop="20251014011500 +0000" channel="Warner TV Film.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20251014011500 +0000" stop="20251014034000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014011500 +0000" stop="20251014033500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
-<programme start="20251014034000 +0000" stop="20251014040000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014033500 +0000" stop="20251014040000 +0000" channel="Warner TV Film.skyde">
     <title>New York on Set - Teil 2</title>
 </programme>
 <programme start="20251014040000 +0000" stop="20251014061000 +0000" channel="Warner TV Film.skyde">
@@ -3622,10 +3622,10 @@
 <programme start="20251014094500 +0000" stop="20251014114000 +0000" channel="Warner TV Film.skyde">
     <title>Dumm und Dümmer</title>
 </programme>
-<programme start="20251014114000 +0000" stop="20251014133000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014114000 +0000" stop="20251014133500 +0000" channel="Warner TV Film.skyde">
     <title>Sweet Home Alabama - Liebe auf Umwegen</title>
 </programme>
-<programme start="20251014133000 +0000" stop="20251014160500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014133500 +0000" stop="20251014160500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
 <programme start="20251014160500 +0000" stop="20251014181500 +0000" channel="Warner TV Film.skyde">
