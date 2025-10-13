@@ -389,46 +389,43 @@
     <title>Bioskop Asia</title>
 </programme>
 <programme start="20251012203000 +0000" stop="20251012220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Rajawali Sakti</title>
 </programme>
-<programme start="20251012220000 +0000" stop="20251012230000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251012220000 +0000" stop="20251012223000 +0000" channel="ANTV.mncvision">
+    <title>Nath</title>
 </programme>
-<programme start="20251012230000 +0000" stop="20251013000000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251012223000 +0000" stop="20251012233000 +0000" channel="ANTV.mncvision">
+    <title>Petualangan Superblox</title>
 </programme>
-<programme start="20251013000000 +0000" stop="20251013010000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251012233000 +0000" stop="20251013013000 +0000" channel="ANTV.mncvision">
+    <title>Antri Dong</title>
 </programme>
-<programme start="20251013010000 +0000" stop="20251013033000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251013013000 +0000" stop="20251013030000 +0000" channel="ANTV.mncvision">
+    <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251013033000 +0000" stop="20251013050000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251013030000 +0000" stop="20251013063000 +0000" channel="ANTV.mncvision">
+    <title>Hanu Man</title>
 </programme>
-<programme start="20251013050000 +0000" stop="20251013060000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251013063000 +0000" stop="20251013080000 +0000" channel="ANTV.mncvision">
+    <title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251013060000 +0000" stop="20251013080000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251013080000 +0000" stop="20251013093000 +0000" channel="ANTV.mncvision">
+    <title>Zeynep</title>
 </programme>
-<programme start="20251013080000 +0000" stop="20251013100000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
-</programme>
-<programme start="20251013100000 +0000" stop="20251013110000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20251013093000 +0000" stop="20251013110000 +0000" channel="ANTV.mncvision">
+    <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251013110000 +0000" stop="20251013123000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Ratu Ilmu Hitam</title>
 </programme>
 <programme start="20251013123000 +0000" stop="20251013143000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251013143000 +0000" stop="20251013163000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Si Jalu</title>
 </programme>
 <programme start="20251013163000 +0000" stop="20251012170000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>The Haunted Cop Shop</title>
 </programme>
 <programme start="20251012170000 +0000" stop="20251012173000 +0000" channel="Arirang.mncvision">
     <title>Arirang Special</title>
@@ -1102,19 +1099,19 @@
 <programme start="20251013083000 +0000" stop="20251013090000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA European Truck Racing HL</title>
 </programme>
-<programme start="20251013090000 +0000" stop="20251013093000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FIA European Rally C&#039;ship HL</title>
+<programme start="20251013090000 +0000" stop="20251013091000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
-<programme start="20251013093000 +0000" stop="20251013103000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251013091000 +0000" stop="20251013101000 +0000" channel="beIN Sports 1.mncvision">
     <title>DTM HL 2025: Hockenheimring</title>
 </programme>
-<programme start="20251013103000 +0000" stop="20251013120000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251013101000 +0000" stop="20251013115500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Classic: LIV Vs MUN</title>
 </programme>
-<programme start="20251013120000 +0000" stop="20251013130000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251013115500 +0000" stop="20251013125500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Specials 2025/26</title>
 </programme>
-<programme start="20251013130000 +0000" stop="20251013133000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251013125500 +0000" stop="20251013133000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 10</title>
 </programme>
 <programme start="20251013133000 +0000" stop="20251013153000 +0000" channel="beIN Sports 1.mncvision">
@@ -1159,19 +1156,19 @@
 <programme start="20251013083000 +0000" stop="20251013090000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA European Truck Racing HL</title>
 </programme>
-<programme start="20251013090000 +0000" stop="20251013093000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FIA European Rally C&#039;ship HL</title>
+<programme start="20251013090000 +0000" stop="20251013091000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
-<programme start="20251013093000 +0000" stop="20251013103000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251013091000 +0000" stop="20251013101000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>DTM HL 2025: Hockenheimring</title>
 </programme>
-<programme start="20251013103000 +0000" stop="20251013120000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251013101000 +0000" stop="20251013115500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Classic: LIV Vs MUN</title>
 </programme>
-<programme start="20251013120000 +0000" stop="20251013130000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251013115500 +0000" stop="20251013125500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Specials 2025/26</title>
 </programme>
-<programme start="20251013130000 +0000" stop="20251013133000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251013125500 +0000" stop="20251013133000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 10</title>
 </programme>
 <programme start="20251013133000 +0000" stop="20251013153000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -7448,21 +7445,24 @@
     <title>Sugar Daddy</title>
 </programme>
 <programme start="20251013090000 +0000" stop="20251013100000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun S8</title>
 </programme>
 <programme start="20251013100000 +0000" stop="20251013111500 +0000" channel="RCTI.mncvision">
     <title>Dusta Dibalik Cinta</title>
 </programme>
-<programme start="20251013111500 +0000" stop="20251013124500 +0000" channel="RCTI.mncvision">
+<programme start="20251013111500 +0000" stop="20251013123000 +0000" channel="RCTI.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20251013124500 +0000" stop="20251013143000 +0000" channel="RCTI.mncvision">
+<programme start="20251013123000 +0000" stop="20251013134500 +0000" channel="RCTI.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20251013143000 +0000" stop="20251013154500 +0000" channel="RCTI.mncvision">
+<programme start="20251013134500 +0000" stop="20251013150000 +0000" channel="RCTI.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20251013150000 +0000" stop="20251013161500 +0000" channel="RCTI.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20251013154500 +0000" stop="20251013161500 +0000" channel="RCTI.mncvision">
+<programme start="20251013161500 +0000" stop="20251013164500 +0000" channel="RCTI.mncvision">
     <title>Amanah Wali S5</title>
 </programme>
 <programme start="20251012181500 +0000" stop="20251012190000 +0000" channel="RCTI HD.mncvision">
@@ -7499,21 +7499,24 @@
     <title>Sugar Daddy</title>
 </programme>
 <programme start="20251013090000 +0000" stop="20251013100000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun S8</title>
 </programme>
 <programme start="20251013100000 +0000" stop="20251013111500 +0000" channel="RCTI HD.mncvision">
     <title>Dusta Dibalik Cinta</title>
 </programme>
-<programme start="20251013111500 +0000" stop="20251013124500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251013111500 +0000" stop="20251013123000 +0000" channel="RCTI HD.mncvision">
     <title>Terbelenggu Rindu</title>
 </programme>
-<programme start="20251013124500 +0000" stop="20251013143000 +0000" channel="RCTI HD.mncvision">
+<programme start="20251013123000 +0000" stop="20251013134500 +0000" channel="RCTI HD.mncvision">
     <title>Cinta Sepenuh Jiwa</title>
 </programme>
-<programme start="20251013143000 +0000" stop="20251013154500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251013134500 +0000" stop="20251013150000 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintaimu Sekali Lagi</title>
+</programme>
+<programme start="20251013150000 +0000" stop="20251013161500 +0000" channel="RCTI HD.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
-<programme start="20251013154500 +0000" stop="20251013161500 +0000" channel="RCTI HD.mncvision">
+<programme start="20251013161500 +0000" stop="20251013164500 +0000" channel="RCTI HD.mncvision">
     <title>Amanah Wali S5</title>
 </programme>
 <programme start="20251012184500 +0000" stop="20251012211000 +0000" channel="Rock Action.mncvision">
@@ -8075,25 +8078,28 @@
     <title>KOVO Cup</title>
 </programme>
 <programme start="20251013050000 +0000" stop="20251013070000 +0000" channel="Sportstars 2.mncvision">
-    <title>Wimbledon</title>
+    <title>Padel Hexagon Cup</title>
 </programme>
 <programme start="20251013070000 +0000" stop="20251013083000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
 </programme>
 <programme start="20251013083000 +0000" stop="20251013103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC Asian Qualifiers</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20251013103000 +0000" stop="20251013130000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Badminton</title>
 </programme>
 <programme start="20251013130000 +0000" stop="20251013150000 +0000" channel="Sportstars 2.mncvision">
-    <title>FIBA</title>
+    <title>KOVO Cup</title>
 </programme>
 <programme start="20251013150000 +0000" stop="20251013153000 +0000" channel="Sportstars 2.mncvision">
     <title>Top Goals</title>
 </programme>
-<programme start="20251013153000 +0000" stop="20251013160000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251013153000 +0000" stop="20251013163000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
+</programme>
+<programme start="20251013163000 +0000" stop="20251012170000 +0000" channel="Sportstars 2.mncvision">
+    <title>European Qualifiers</title>
 </programme>
 <programme start="20251012183000 +0000" stop="20251012204500 +0000" channel="Sportstars 2 HD.mncvision">
     <title>European Qual.: LTU Vs POL (L)</title>
@@ -8120,25 +8126,28 @@
     <title>KOVO Cup</title>
 </programme>
 <programme start="20251013050000 +0000" stop="20251013070000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Wimbledon</title>
+    <title>Padel Hexagon Cup</title>
 </programme>
 <programme start="20251013070000 +0000" stop="20251013083000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
 </programme>
 <programme start="20251013083000 +0000" stop="20251013103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC Asian Qualifiers</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20251013103000 +0000" stop="20251013130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Best Of Badminton</title>
 </programme>
 <programme start="20251013130000 +0000" stop="20251013150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>FIBA</title>
+    <title>KOVO Cup</title>
 </programme>
 <programme start="20251013150000 +0000" stop="20251013153000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Top Goals</title>
 </programme>
-<programme start="20251013153000 +0000" stop="20251013160000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251013153000 +0000" stop="20251013163000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
+</programme>
+<programme start="20251013163000 +0000" stop="20251012170000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>European Qualifiers</title>
 </programme>
 <programme start="20251012190000 +0000" stop="20251012210000 +0000" channel="Sportstars 3.mncvision">
     <title>BRI Liga 1: BRT Vs PSJ</title>
@@ -8422,10 +8431,10 @@
 <programme start="20251013100000 +0000" stop="20251013110000 +0000" channel="SPOTV 2.mncvision">
     <title>Jakarta International C&#039;ship HL</title>
 </programme>
-<programme start="20251013110000 +0000" stop="20251013120000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251013110000 +0000" stop="20251013115500 +0000" channel="SPOTV 2.mncvision">
     <title>WorldSBK: Estoril Round</title>
 </programme>
-<programme start="20251013120000 +0000" stop="20251013131000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251013115500 +0000" stop="20251013131000 +0000" channel="SPOTV 2.mncvision">
     <title>WorldSBK: Estoril Round</title>
 </programme>
 <programme start="20251013131000 +0000" stop="20251013141000 +0000" channel="SPOTV 2.mncvision">
@@ -8470,10 +8479,10 @@
 <programme start="20251013100000 +0000" stop="20251013110000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Jakarta International C&#039;ship HL</title>
 </programme>
-<programme start="20251013110000 +0000" stop="20251013120000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251013110000 +0000" stop="20251013115500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WorldSBK: Estoril Round</title>
 </programme>
-<programme start="20251013120000 +0000" stop="20251013131000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251013115500 +0000" stop="20251013131000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WorldSBK: Estoril Round</title>
 </programme>
 <programme start="20251013131000 +0000" stop="20251013141000 +0000" channel="SPOTV 2 HD.mncvision">

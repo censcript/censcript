@@ -54,10 +54,6 @@
     <title>Football: NK Celje - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013090500 +0700" stop="20251013110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Udinese - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251013110000 +0700" stop="20251013131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
@@ -114,12 +110,8 @@
     <title>Football: Hellas Verona - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251013100000 +0700" stop="20251013103000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251013103000 +0700" stop="20251013110000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251014110000 +0700" stop="20251014131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013110000 +0700" stop="20251013143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -164,6 +156,10 @@
 </programme>
 <programme start="20251014100000 +0700" stop="20251014110000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2024-25 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251014110000 +0700" stop="20251014143000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Kansas City Chiefs - Detroit Lions</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013100000 +0700" stop="20251013120000 +0700" channel="COSMOTE Sport 4 HD">
@@ -328,6 +324,10 @@
 </programme>
 <programme start="20251014100000 +0700" stop="20251014113000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Grand Prix Show 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251014113000 +0700" stop="20251014123000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251013100000 +0700" stop="20251013114000 +0700" channel="COSMOTE Sport 6 HD">
@@ -509,10 +509,6 @@
 <programme start="20251014100000 +0700" stop="20251014120000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251013072000 +0700" stop="20251013105000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>American Football: Kansas City Chiefs - Detroit Lions (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251013105000 +0700" stop="20251013120000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
