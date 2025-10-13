@@ -664,8 +664,17 @@
 <programme start="20251013093000 +0000" stop="20251013110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251013110000 +0000" stop="20251013123000 +0000" channel="ANTV.vision">
+<title>Ratu Ilmu Hitam</title>
+</programme>
 <programme start="20251013123000 +0000" stop="20251013143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251013143000 +0000" stop="20251013163000 +0000" channel="ANTV.vision">
+<title>Si Jalu</title>
+</programme>
+<programme start="20251013163000 +0000" stop="20251013183000 +0000" channel="ANTV.vision">
+<title>The Haunted Cop Shop</title>
 </programme>
 <programme start="20251013183000 +0000" stop="20251013203000 +0000" channel="ANTV.vision">
 <title>Mutation On Mars</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20251014103000 +0000" stop="20251014123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20251012232000 +0000" stop="20251013005000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251013005000 +0000" stop="20251013023000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251013023000 +0000" stop="20251013040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
