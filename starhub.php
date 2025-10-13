@@ -2446,7 +2446,7 @@
     <programme start="20251013140000 +0000" stop="20251013160000 +0000" channel="Cinema One Global.starhub">
         <title>Sagot Ko Ang Buhay Mo</title>
     </programme>
-    <programme start="20251012133000 +0000" stop="20251012170000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20251012140000 +0000" stop="20251012170000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Denver Broncos vs New York Jets</title>
     </programme>
     <programme start="20251012170000 +0000" stop="20251012202500 +0000" channel="Hub Sports 2 HD.starhub">
@@ -6403,7 +6403,7 @@
     <programme start="20251013153000 +0000" stop="20251013162500 +0000" channel="HBO Signature HD.starhub">
         <title>Ii - We&#039;re Not Surfers</title>
     </programme>
-    <programme start="20251012133000 +0000" stop="20251012170000 +0000" channel="TestChannel 995.starhub">
+    <programme start="20251012140000 +0000" stop="20251012170000 +0000" channel="TestChannel 995.starhub">
         <title>Denver Broncos vs New York Jets</title>
     </programme>
     <programme start="20251012170000 +0000" stop="20251012202500 +0000" channel="TestChannel 995.starhub">
