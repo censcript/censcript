@@ -149,7 +149,7 @@
         <title> Việt Nam vui khỏe </title>
     </programme>
     <programme start="20251013200500 +0000" stop="20251013201000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim tài liệu </title>
+        <title> Phim tài liệu : Đảng bộ Chính phủ - Kiến tạo và phát triển </title>
     </programme>
     <programme start="20251013201000 +0000" stop="20251013204000 +0000" channel="VTV1 HD.mytv">
         <title> Quốc hội với cử tri </title>

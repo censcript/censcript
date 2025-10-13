@@ -3581,15 +3581,18 @@
         <title>Chief Editor&#039;s Time (13/10/25)</title>
     </programme>
     <programme start="20251012133000 +0000" stop="20251012170000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - INDIAN 2 (U/A)</title>
+        <title>PREMIERE MOVIE - KUDUMBASTAN (U)</title>
     </programme>
-    <programme start="20251012170000 +0000" stop="20251012203000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - SEVAL (U)</title>
+    <programme start="20251012170000 +0000" stop="20251012193000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - JIIVI (U)</title>
     </programme>
-    <programme start="20251012203000 +0000" stop="20251012223000 +0000" channel="Kalaignar TV.starhub">
-        <title>BREAKFREE MOVIE - CHENNAI KADHAL (U)</title>
+    <programme start="20251012193000 +0000" stop="20251012203000 +0000" channel="Kalaignar TV.starhub">
+        <title>Inthavaara kalakalappu</title>
     </programme>
-    <programme start="20251012223000 +0000" stop="20251013000000 +0000" channel="Kalaignar TV.starhub">
+    <programme start="20251012203000 +0000" stop="20251012230000 +0000" channel="Kalaignar TV.starhub">
+        <title>BREAKFREE MOVIE - ANBE AARUYIREA (V/U)</title>
+    </programme>
+    <programme start="20251012230000 +0000" stop="20251013000000 +0000" channel="Kalaignar TV.starhub">
         <title>Songs</title>
     </programme>
     <programme start="20251013000000 +0000" stop="20251013003000 +0000" channel="Kalaignar TV.starhub">
@@ -3634,11 +3637,8 @@
     <programme start="20251013073000 +0000" stop="20251013080000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
     </programme>
-    <programme start="20251013080000 +0000" stop="20251013113000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - MALAIKOTTAI (U)</title>
-    </programme>
-    <programme start="20251013113000 +0000" stop="20251013120000 +0000" channel="Kalaignar TV.starhub">
-        <title>Inthavaara kalakalappu</title>
+    <programme start="20251013080000 +0000" stop="20251013120000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - DASAVATHARAM (U)</title>
     </programme>
     <programme start="20251013120000 +0000" stop="20251013123000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
@@ -6940,19 +6940,19 @@
     <programme start="20251013083000 +0000" stop="20251013090000 +0000" channel="beIN Sports HD.starhub">
         <title>Jarama</title>
     </programme>
-    <programme start="20251013090000 +0000" stop="20251013093000 +0000" channel="beIN Sports HD.starhub">
-        <title>Croatia Rally</title>
+    <programme start="20251013090000 +0000" stop="20251013091000 +0000" channel="beIN Sports HD.starhub">
+        <title>Javi Puado</title>
     </programme>
-    <programme start="20251013093000 +0000" stop="20251013103000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251013091000 +0000" stop="20251013101000 +0000" channel="beIN Sports HD.starhub">
         <title>Hockenheimring</title>
     </programme>
-    <programme start="20251013103000 +0000" stop="20251013120000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251013101000 +0000" stop="20251013115500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Liverpool vs Man United PL 2022/23</title>
     </programme>
-    <programme start="20251013120000 +0000" stop="20251013130000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251013115500 +0000" stop="20251013125500 +0000" channel="beIN Sports HD.starhub">
         <title>Press Box</title>
     </programme>
-    <programme start="20251013130000 +0000" stop="20251013133000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251013125500 +0000" stop="20251013133000 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
     <programme start="20251013133000 +0000" stop="20251013153000 +0000" channel="beIN Sports HD.starhub">
@@ -8255,7 +8255,7 @@
         <title>Round 1</title>
     </programme>
     <programme start="20251013000300 +0000" stop="20251013030000 +0000" channel="SPOTV2.starhub">
-        <title>MLB 2025 Postseason - ALCS Game 1 Toronto Blue Jays vs SEA/DET</title>
+        <title>MLB 2025 Postseason - ALCS Game 1 Toronto Blue Jays vs Seattle Mariners</title>
     </programme>
     <programme start="20251013030000 +0000" stop="20251013033000 +0000" channel="SPOTV2.starhub">
         <title>2025 MotoGP Spotlight: Marc Marquez Comeback</title>
