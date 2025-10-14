@@ -110,8 +110,8 @@
     <title>Football: Juventus Football Club - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014223000 +0700" stop="20251015003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Oldham - Barrow</title>
+<programme start="20251016013000 +0700" stop="20251016020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015003000 +0700" stop="20251015023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -238,6 +238,10 @@
     <title>Basketball: AEK - Szolnoki Olaj (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251016014000 +0700" stop="20251016020500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251014233500 +0700" stop="20251015011000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
@@ -342,8 +346,8 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014230000 +0700" stop="20251015010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Zizou Bergs - Raphael Collignon (L)</title>
+<programme start="20251016010000 +0700" stop="20251016031000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Legia Warszawa - Promitheas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251015010000 +0700" stop="20251015033000 +0700" channel="COSMOTE Sport 6 HD">
@@ -383,6 +387,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251015230000 +0700" stop="20251016010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251016010000 +0700" stop="20251016033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
