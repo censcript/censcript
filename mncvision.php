@@ -1100,7 +1100,7 @@
     <title>Women&#039;s Rugby &#039;25: NZL Vs CAN</title>
 </programme>
 <programme start="20251014071000 +0000" stop="20251014090000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2 2025/26: COR Vs CDL</title>
+    <title>LaLiga 2 2025/26: SPO Vs RAC</title>
 </programme>
 <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="beIN Sports 1.mncvision">
     <title>ATP Tour 250 2025: Brussels (L)</title>
@@ -1157,7 +1157,7 @@
     <title>Women&#039;s Rugby &#039;25: NZL Vs CAN</title>
 </programme>
 <programme start="20251014071000 +0000" stop="20251014090000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2 2025/26: COR Vs CDL</title>
+    <title>LaLiga 2 2025/26: SPO Vs RAC</title>
 </programme>
 <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>ATP Tour 250 2025: Brussels (L)</title>

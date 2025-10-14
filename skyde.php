@@ -2602,12 +2602,6 @@
 <programme start="20251014212000 +0000" stop="20251014221500 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251013220000 +0000" stop="20251013223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Union Gurten</title>
-</programme>
-<programme start="20251013223000 +0000" stop="20251013230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28</title>
-</programme>
 <programme start="20251013230000 +0000" stop="20251014010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
@@ -2862,6 +2856,78 @@
 </programme>
 <programme start="20251014190000 +0000" stop="20251014220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Baycurrent Classic, 4. Tag in Yokohama (Japan)</title>
+</programme>
+<programme start="20251013220000 +0000" stop="20251013230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Indonesien</title>
+</programme>
+<programme start="20251013230000 +0000" stop="20251013233000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
+</programme>
+<programme start="20251013233000 +0000" stop="20251014003000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 10. Spieltag komplett</title>
+</programme>
+<programme start="20251014003000 +0000" stop="20251014023000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tampa Bay Lightning @ Boston Bruins</title>
+</programme>
+<programme start="20251014023000 +0000" stop="20251014033000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Moto3: Rennen - GP Indonesien</title>
+</programme>
+<programme start="20251014033000 +0000" stop="20251014043000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Moto2: Rennen - GP Indonesien</title>
+</programme>
+<programme start="20251014043000 +0000" stop="20251014050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
+</programme>
+<programme start="20251014050000 +0000" stop="20251014070000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tampa Bay Lightning @ Boston Bruins</title>
+</programme>
+<programme start="20251014070000 +0000" stop="20251014090000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Junioren: Portugal U20 - Deutschland U20, Testspiel in Viseu, Portugal</title>
+</programme>
+<programme start="20251014090000 +0000" stop="20251014091500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DET@TOR</title>
+</programme>
+<programme start="20251014091500 +0000" stop="20251014093000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights NSH@OTT</title>
+</programme>
+<programme start="20251014093000 +0000" stop="20251014094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights TBL@BOS</title>
+</programme>
+<programme start="20251014094500 +0000" stop="20251014100000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: Eintracht Braunschweig - VfB Stuttgart, 1. Runde</title>
+</programme>
+<programme start="20251014100000 +0000" stop="20251014120000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tampa Bay Lightning @ Boston Bruins</title>
+</programme>
+<programme start="20251014120000 +0000" stop="20251014125500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20251014125500 +0000" stop="20251014145500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Junioren: Portugal U20 - Deutschland U20, Testspiel in Viseu, Portugal</title>
+</programme>
+<programme start="20251014145500 +0000" stop="20251014170000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live Junioren: Deutschland U19 - Norwegen U19, EM-Qualifikation in Skien, Norwegen</title>
+</programme>
+<programme start="20251014170000 +0000" stop="20251014171500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DET@TOR</title>
+</programme>
+<programme start="20251014171500 +0000" stop="20251014173000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights TBL@BOS</title>
+</programme>
+<programme start="20251014173000 +0000" stop="20251014180000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Motorsport: ERC - Highlights: Croatia Rally</title>
+</programme>
+<programme start="20251014180000 +0000" stop="20251014183000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
+</programme>
+<programme start="20251014183000 +0000" stop="20251014190000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Highlights Maxi Yacht Rolex Cup</title>
+</programme>
+<programme start="20251014190000 +0000" stop="20251014200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Indonesien</title>
+</programme>
+<programme start="20251014200000 +0000" stop="20251014220000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Junioren: Deutschland U19 - Norwegen U19, EM-Qualifikation in Skien, Norwegen</title>
 </programme>
 <programme start="20251013220000 +0000" stop="20251013230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3148,10 +3214,10 @@
 <programme start="20251014203000 +0000" stop="20251014223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251014044000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251013223000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA TourEs folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251014050000 +0000" stop="20251014130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251014050000 +0000" stop="20251014150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 2. Tag</title>
 </programme>
 <programme start="20251013221500 +0000" stop="20251013230000 +0000" channel="SYFY HD.skyde">
@@ -3352,10 +3418,10 @@
 <programme start="20251013224000 +0000" stop="20251013230500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251013230500 +0000" stop="20251013233000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251013230500 +0000" stop="20251013232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251013233000 +0000" stop="20251013235000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251013232500 +0000" stop="20251013235000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Samurai Jack</title>
 </programme>
 <programme start="20251013235000 +0000" stop="20251014001500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3370,10 +3436,10 @@
 <programme start="20251014003500 +0000" stop="20251014004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251014004500 +0000" stop="20251014010000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014004500 +0000" stop="20251014005500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251014010000 +0000" stop="20251014011000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014005500 +0000" stop="20251014011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251014011000 +0000" stop="20251014012500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3397,10 +3463,10 @@
 <programme start="20251014032000 +0000" stop="20251014034000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251014034000 +0000" stop="20251014040000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014034000 +0000" stop="20251014040500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251014040000 +0000" stop="20251014043000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014040500 +0000" stop="20251014043000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251014043000 +0000" stop="20251014050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3514,10 +3580,10 @@
 <programme start="20251014192500 +0000" stop="20251014195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251014195000 +0000" stop="20251014201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014195000 +0000" stop="20251014201000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251014201500 +0000" stop="20251014204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014201000 +0000" stop="20251014204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
 <programme start="20251014204000 +0000" stop="20251014210000 +0000" channel="Warner TV Comedy HD.skyde">
