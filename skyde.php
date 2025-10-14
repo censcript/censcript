@@ -811,96 +811,6 @@
 <programme start="20251014215500 +0000" stop="20251014220000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251013223000 +0000" stop="20251013232000 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
-<programme start="20251013232000 +0000" stop="20251014000500 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014000500 +0000" stop="20251014005000 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014005000 +0000" stop="20251014011500 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20251014011500 +0000" stop="20251014020500 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20251014020500 +0000" stop="20251014025000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251014025000 +0000" stop="20251014033500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014033500 +0000" stop="20251014042500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014042500 +0000" stop="20251014051000 +0000" channel="Crime + Investigation.skyde">
-    <title>Murder in the 21st - Digitale Spurensuche</title>
-</programme>
-<programme start="20251014051000 +0000" stop="20251014060000 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
-<programme start="20251014060000 +0000" stop="20251014065000 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
-<programme start="20251014065000 +0000" stop="20251014074000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20251014074000 +0000" stop="20251014083000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251014083000 +0000" stop="20251014092000 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014092000 +0000" stop="20251014101500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014101500 +0000" stop="20251014110500 +0000" channel="Crime + Investigation.skyde">
-    <title>Murder in the 21st - Digitale Spurensuche</title>
-</programme>
-<programme start="20251014110500 +0000" stop="20251014115500 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
-<programme start="20251014115500 +0000" stop="20251014122000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20251014122000 +0000" stop="20251014131000 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014131000 +0000" stop="20251014140000 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014140000 +0000" stop="20251014145000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20251014145000 +0000" stop="20251014154000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20251014154000 +0000" stop="20251014163000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251014163000 +0000" stop="20251014172000 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014172000 +0000" stop="20251014181500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014181500 +0000" stop="20251014190500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20251014190500 +0000" stop="20251014195500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20251014195500 +0000" stop="20251014204500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20251014204500 +0000" stop="20251014213500 +0000" channel="Crime + Investigation.skyde">
-    <title>City Confidential - Verbrechen nebenan</title>
-</programme>
-<programme start="20251014213500 +0000" stop="20251014223000 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
 <programme start="20251013220000 +0000" stop="20251014060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -3424,10 +3334,10 @@
 <programme start="20251013224000 +0000" stop="20251013230500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251013230500 +0000" stop="20251013232500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251013230500 +0000" stop="20251013233000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251013232500 +0000" stop="20251013235000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251013233000 +0000" stop="20251013235000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Samurai Jack</title>
 </programme>
 <programme start="20251013235000 +0000" stop="20251014001500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3442,10 +3352,10 @@
 <programme start="20251014003500 +0000" stop="20251014004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251014004500 +0000" stop="20251014005500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014004500 +0000" stop="20251014010000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251014005500 +0000" stop="20251014011000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014010000 +0000" stop="20251014011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251014011000 +0000" stop="20251014012500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3469,10 +3379,10 @@
 <programme start="20251014032000 +0000" stop="20251014034000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251014034000 +0000" stop="20251014040500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014034000 +0000" stop="20251014040000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20251014040500 +0000" stop="20251014043000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014040000 +0000" stop="20251014043000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20251014043000 +0000" stop="20251014050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3586,10 +3496,10 @@
 <programme start="20251014192500 +0000" stop="20251014195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251014195000 +0000" stop="20251014201000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014195000 +0000" stop="20251014201500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20251014201000 +0000" stop="20251014204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251014201500 +0000" stop="20251014204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Rick and Morty</title>
 </programme>
 <programme start="20251014204000 +0000" stop="20251014210000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3706,10 +3616,10 @@
 <programme start="20251014025500 +0000" stop="20251014034000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251014034000 +0000" stop="20251014042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251014034000 +0000" stop="20251014043000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251014042500 +0000" stop="20251014052000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251014043000 +0000" stop="20251014052000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251014052000 +0000" stop="20251014061000 +0000" channel="Warner TV Serie HD.skyde">

@@ -110,8 +110,8 @@
     <title>Football: SS Lazio - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014140000 +0700" stop="20251014143000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251015151000 +0700" stop="20251015171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014143000 +0700" stop="20251014163000 +0700" channel="COSMOTE Sport 3 HD">
@@ -172,10 +172,6 @@
 </programme>
 <programme start="20251015140000 +0700" stop="20251015160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - Tondela</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014120000 +0700" stop="20251014142000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Oostende - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014142000 +0700" stop="20251014164000 +0700" channel="COSMOTE Sport 4 HD">
@@ -240,14 +236,6 @@
 </programme>
 <programme start="20251015140000 +0700" stop="20251015161000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: VEF Riga - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014135500 +0700" stop="20251014142500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2025 E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014142500 +0700" stop="20251014145500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014145500 +0700" stop="20251014151500 +0700" channel="COSMOTE Sport 5 HD">
@@ -348,6 +336,14 @@
 </programme>
 <programme start="20251015142500 +0700" stop="20251015150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251015150500 +0700" stop="20251015155000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Moto-E World Championship 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251015155000 +0700" stop="20251015172000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014130000 +0700" stop="20251014170000 +0700" channel="COSMOTE Sport 6 HD">

@@ -6809,7 +6809,7 @@
         <title>The desire to love</title>
     </programme>
     <programme start="20251013160000 +0000" stop="20251013163000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Ultra World Championship Highlights</title>
+        <title>Spartan Ultra World Championship H/Ls</title>
     </programme>
     <programme start="20251013163000 +0000" stop="20251013190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Abierto GNP Seguros (500) Final</title>
