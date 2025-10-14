@@ -50,10 +50,6 @@
     <title>Football: SSC Napoli - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015034000 +0700" stop="20251015041000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E6</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015041000 +0700" stop="20251015062000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
@@ -118,10 +114,6 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015023000 +0700" stop="20251015043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Ittihad - Al Nassr</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015043000 +0700" stop="20251015063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Palmeiras - River Plate</title>
     <desc>Live: Tidak</desc>
@@ -180,10 +172,6 @@
 </programme>
 <programme start="20251016040000 +0700" stop="20251016060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estudiantes - Flamengo</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251015021000 +0700" stop="20251015041000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Varese - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015041000 +0700" stop="20251015062000 +0700" channel="COSMOTE Sport 4 HD">
@@ -256,10 +244,6 @@
 </programme>
 <programme start="20251016042500 +0700" stop="20251016063500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Szolnoki Olaj</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251015031500 +0700" stop="20251015050000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015050000 +0700" stop="20251015060500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +342,8 @@
     <title>Basketball: Legia Warszawa - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015033000 +0700" stop="20251015042000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251016052000 +0700" stop="20251016061500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015042000 +0700" stop="20251015081500 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +388,10 @@
 </programme>
 <programme start="20251016043000 +0700" stop="20251016050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Watersports: Inside Sailing 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251016050000 +0700" stop="20251016090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015040000 +0700" stop="20251015060000 +0700" channel="COSMOTE Sport 7 HD">
