@@ -17,7 +17,7 @@
 <title>Take Me Out Indonesia (RCTI)</title>
 </programme>
 <programme start="20251014080000 +0000" stop="20251014090000 +0000" channel="RCTI.vision">
-<title>Sugar Daddy</title>
+<title>Candy Caddy</title>
 </programme>
 <programme start="20251014090000 +0000" stop="20251014100000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S8</title>
@@ -344,7 +344,7 @@
 <title>SINDO Today</title>
 </programme>
 <programme start="20251014020000 +0000" stop="20251014030000 +0000" channel="SindoNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>Special Report</title>
 </programme>
 <programme start="20251014030000 +0000" stop="20251014033000 +0000" channel="SindoNews.vision">
 <title>iNews Sport Pagi</title>
@@ -365,7 +365,7 @@
 <title>SINDO Siang</title>
 </programme>
 <programme start="20251014090000 +0000" stop="20251014093000 +0000" channel="SindoNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>Special Report</title>
 </programme>
 <programme start="20251014093000 +0000" stop="20251014110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
@@ -416,7 +416,7 @@
 <title>SINDO Today</title>
 </programme>
 <programme start="20251015020000 +0000" stop="20251015030000 +0000" channel="SindoNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>Special Report</title>
 </programme>
 <programme start="20251015030000 +0000" stop="20251015033000 +0000" channel="SindoNews.vision">
 <title>iNews Sport Pagi</title>
@@ -437,7 +437,7 @@
 <title>SINDO Siang</title>
 </programme>
 <programme start="20251015090000 +0000" stop="20251015093000 +0000" channel="SindoNews.vision">
-<title>AFC Qatar 2023: JOR Vs KOR (L)</title>
+<title>Special Report</title>
 </programme>
 <programme start="20251015093000 +0000" stop="20251015110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
@@ -547,9 +547,6 @@
 <programme start="20251014050000 +0000" stop="20251014054500 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20251014054500 +0000" stop="20251014063000 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20251014063000 +0000" stop="20251014071500 +0000" channel="Trans 7.vision">
 <title>Speak Up!</title>
 </programme>
@@ -651,9 +648,6 @@
 </programme>
 <programme start="20251015114500 +0000" stop="20251015121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20251013233000 +0000" stop="20251014013000 +0000" channel="ANTV.vision">
-<title>Boleh Dong Untung Terus</title>
 </programme>
 <programme start="20251014013000 +0000" stop="20251014030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20251015080000 +0000" stop="20251015083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251015083000 +0000" stop="20251015091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20251015091500 +0000" stop="20251015093000 +0000" channel="BTV.vision">
+<title>Info Seleb</title>
 </programme>

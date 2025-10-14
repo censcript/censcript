@@ -110,6 +110,10 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251015131000 +0700" stop="20251015151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251014110000 +0700" stop="20251014140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Kansas City Chiefs - Detroit Lions</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: Anadolu Efes - Merkezefendi</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014113000 +0700" stop="20251014123000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251014123000 +0700" stop="20251014132500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
@@ -350,12 +350,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014120000 +0700" stop="20251014123000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014123000 +0700" stop="20251014130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E9</title>
+<programme start="20251015133000 +0700" stop="20251015142500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014130000 +0700" stop="20251014170000 +0700" channel="COSMOTE Sport 6 HD">
@@ -395,6 +391,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015100000 +0700" stop="20251015130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251015130000 +0700" stop="20251015161000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -7070,7 +7070,7 @@
         <title>Women&#039;s Rugby World Cup 2025: New Zealand vs Canada</title>
     </programme>
     <programme start="20251014071000 +0000" stop="20251014090000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2 2025/26: Cordoba vs Cultural Leonesa</title>
+        <title>LaLiga 2 2025/26: Sporting Gijon vs Racing de Santander</title>
     </programme>
     <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="beIN Sports HD.starhub">
         <title>ATP Tour 250 2025 Brussels Day 2 Altmaier v Bailly (Live)</title>
