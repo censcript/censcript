@@ -7066,32 +7066,26 @@
     <programme start="20251014021000 +0000" stop="20251014052000 +0000" channel="beIN Sports HD.starhub">
         <title>Ultimate Pool 2025: Group C Pairs Cup Last 16</title>
     </programme>
-    <programme start="20251014052000 +0000" stop="20251014055000 +0000" channel="beIN Sports HD.starhub">
-        <title>Rally Central Europe</title>
-    </programme>
-    <programme start="20251014055000 +0000" stop="20251014074000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251014052000 +0000" stop="20251014071000 +0000" channel="beIN Sports HD.starhub">
         <title>Women&#039;s Rugby World Cup 2025: New Zealand vs Canada</title>
     </programme>
-    <programme start="20251014074000 +0000" stop="20251014093000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251014071000 +0000" stop="20251014090000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2 2025/26: Cordoba vs Cultural Leonesa</title>
     </programme>
-    <programme start="20251014093000 +0000" stop="20251014100000 +0000" channel="beIN Sports HD.starhub">
-        <title>Hockenheimring</title>
+    <programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="beIN Sports HD.starhub">
+        <title>ATP Tour 250 2025 Brussels Day 2 Altmaier v Bailly (Live)</title>
     </programme>
-    <programme start="20251014100000 +0000" stop="20251014103000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251014110000 +0000" stop="20251014113000 +0000" channel="beIN Sports HD.starhub">
         <title>October</title>
     </programme>
-    <programme start="20251014103000 +0000" stop="20251014113000 +0000" channel="beIN Sports HD.starhub">
-        <title>Hockenheimring</title>
-    </programme>
     <programme start="20251014113000 +0000" stop="20251014133000 +0000" channel="beIN Sports HD.starhub">
-        <title>ATP Tour 250 2025: Brussels Day 2 Match 1 (Live)</title>
+        <title>ATP Tour 250 2025 Brussels Day 2 Baez v Royer (Live)</title>
     </programme>
-    <programme start="20251014133000 +0000" stop="20251014153000 +0000" channel="beIN Sports HD.starhub">
-        <title>ATP Tour 250 2025: Brussels Day 2 Match 2 (Live)</title>
-    </programme>
-    <programme start="20251014153000 +0000" stop="20251014160000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20251014133000 +0000" stop="20251014140000 +0000" channel="beIN Sports HD.starhub">
         <title>The Valentino Rossi Story</title>
+    </programme>
+    <programme start="20251014140000 +0000" stop="20251014160000 +0000" channel="beIN Sports HD.starhub">
+        <title>ATP Tour 250 2025 Brussels Day 2 Goffin v Comesana (Live)</title>
     </programme>
     <programme start="20251013152000 +0000" stop="20251013161500 +0000" channel="TestChannel2.starhub">
         <title>A Fallen Xian</title>

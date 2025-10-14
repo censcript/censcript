@@ -1096,32 +1096,26 @@
 <programme start="20251014021000 +0000" stop="20251014052000 +0000" channel="beIN Sports 1.mncvision">
     <title>Ultimate Pool 2025: Group C</title>
 </programme>
-<programme start="20251014052000 +0000" stop="20251014055000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FIA World Rally Magazine Show</title>
-</programme>
-<programme start="20251014055000 +0000" stop="20251014074000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251014052000 +0000" stop="20251014071000 +0000" channel="beIN Sports 1.mncvision">
     <title>Women&#039;s Rugby &#039;25: NZL Vs CAN</title>
 </programme>
-<programme start="20251014074000 +0000" stop="20251014093000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251014071000 +0000" stop="20251014090000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2 2025/26: COR Vs CDL</title>
 </programme>
-<programme start="20251014093000 +0000" stop="20251014100000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Formula Regional European HL</title>
+<programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="beIN Sports 1.mncvision">
+    <title>ATP Tour 250 2025: Brussels (L)</title>
 </programme>
-<programme start="20251014100000 +0000" stop="20251014103000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251014110000 +0000" stop="20251014113000 +0000" channel="beIN Sports 1.mncvision">
     <title>Gearing Up 2025: October</title>
-</programme>
-<programme start="20251014103000 +0000" stop="20251014113000 +0000" channel="beIN Sports 1.mncvision">
-    <title>DTM HL 2025: Hockenheimring</title>
 </programme>
 <programme start="20251014113000 +0000" stop="20251014133000 +0000" channel="beIN Sports 1.mncvision">
     <title>ATP Tour 250 2025: Brussels (L)</title>
 </programme>
-<programme start="20251014133000 +0000" stop="20251014153000 +0000" channel="beIN Sports 1.mncvision">
-    <title>ATP Tour 250 2025: Brussels (L)</title>
-</programme>
-<programme start="20251014153000 +0000" stop="20251014160000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20251014133000 +0000" stop="20251014140000 +0000" channel="beIN Sports 1.mncvision">
     <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20251014140000 +0000" stop="20251014160000 +0000" channel="beIN Sports 1.mncvision">
+    <title>ATP Tour 250 2025: Brussels (L)</title>
 </programme>
 <programme start="20251014160000 +0000" stop="20251014163000 +0000" channel="beIN Sports 1.mncvision">
     <title>ATP Tour 250 2025: Brussels (L)</title>
@@ -1159,32 +1153,26 @@
 <programme start="20251014021000 +0000" stop="20251014052000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Ultimate Pool 2025: Group C</title>
 </programme>
-<programme start="20251014052000 +0000" stop="20251014055000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FIA World Rally Magazine Show</title>
-</programme>
-<programme start="20251014055000 +0000" stop="20251014074000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251014052000 +0000" stop="20251014071000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Women&#039;s Rugby &#039;25: NZL Vs CAN</title>
 </programme>
-<programme start="20251014074000 +0000" stop="20251014093000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251014071000 +0000" stop="20251014090000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2 2025/26: COR Vs CDL</title>
 </programme>
-<programme start="20251014093000 +0000" stop="20251014100000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Formula Regional European HL</title>
+<programme start="20251014090000 +0000" stop="20251014110000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>ATP Tour 250 2025: Brussels (L)</title>
 </programme>
-<programme start="20251014100000 +0000" stop="20251014103000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251014110000 +0000" stop="20251014113000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Gearing Up 2025: October</title>
-</programme>
-<programme start="20251014103000 +0000" stop="20251014113000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>DTM HL 2025: Hockenheimring</title>
 </programme>
 <programme start="20251014113000 +0000" stop="20251014133000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>ATP Tour 250 2025: Brussels (L)</title>
 </programme>
-<programme start="20251014133000 +0000" stop="20251014153000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>ATP Tour 250 2025: Brussels (L)</title>
-</programme>
-<programme start="20251014153000 +0000" stop="20251014160000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20251014133000 +0000" stop="20251014140000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Motorsport Events HL 2025</title>
+</programme>
+<programme start="20251014140000 +0000" stop="20251014160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>ATP Tour 250 2025: Brussels (L)</title>
 </programme>
 <programme start="20251014160000 +0000" stop="20251014163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>ATP Tour 250 2025: Brussels (L)</title>
