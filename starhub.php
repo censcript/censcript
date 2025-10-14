@@ -8311,7 +8311,7 @@
     <programme start="20251014103000 +0000" stop="20251014133000 +0000" channel="Asianet Movies.starhub">
         <title>Irupathiyonnam noottandu</title>
     </programme>
-    <programme start="20251014133000 +0000" stop="20251014163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251014133000 +0000" stop="20251014162000 +0000" channel="Asianet Movies.starhub">
         <title>Aavesham</title>
     </programme>
     <programme start="20251013160000 +0000" stop="20251013170000 +0000" channel="Astro Warna HD.starhub">

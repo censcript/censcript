@@ -2857,6 +2857,9 @@
 <programme start="20251014190000 +0000" stop="20251014220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Baycurrent Classic, 4. Tag in Yokohama (Japan)</title>
 </programme>
+<programme start="20251013220000 +0000" stop="20251013230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Indonesien</title>
+</programme>
 <programme start="20251013230000 +0000" stop="20251013233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
 </programme>
@@ -2876,7 +2879,7 @@
     <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
 </programme>
 <programme start="20251014050000 +0000" stop="20251014070000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Detroit Red Wings @ Toronto Maple Leafs</title>
+    <title>NHL: Tampa Bay Lightning @ Boston Bruins</title>
 </programme>
 <programme start="20251014070000 +0000" stop="20251014090000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Junioren: Portugal U20 - Deutschland U20, Testspiel in Viseu, Portugal</title>
@@ -3604,10 +3607,10 @@
 <programme start="20251013233000 +0000" stop="20251014011500 +0000" channel="Warner TV Film.skyde">
     <title>G.I. Joe: Geheimauftrag Cobra</title>
 </programme>
-<programme start="20251014011500 +0000" stop="20251014033500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014011500 +0000" stop="20251014034000 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
-<programme start="20251014033500 +0000" stop="20251014040000 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014034000 +0000" stop="20251014040000 +0000" channel="Warner TV Film.skyde">
     <title>New York on Set - Teil 2</title>
 </programme>
 <programme start="20251014040000 +0000" stop="20251014061000 +0000" channel="Warner TV Film.skyde">
@@ -3622,10 +3625,10 @@
 <programme start="20251014094500 +0000" stop="20251014114000 +0000" channel="Warner TV Film.skyde">
     <title>Dumm und Dümmer</title>
 </programme>
-<programme start="20251014114000 +0000" stop="20251014133500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014114000 +0000" stop="20251014133000 +0000" channel="Warner TV Film.skyde">
     <title>Sweet Home Alabama - Liebe auf Umwegen</title>
 </programme>
-<programme start="20251014133500 +0000" stop="20251014160500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251014133000 +0000" stop="20251014160500 +0000" channel="Warner TV Film.skyde">
     <title>Batman v Superman: Dawn Of Justice</title>
 </programme>
 <programme start="20251014160500 +0000" stop="20251014181500 +0000" channel="Warner TV Film.skyde">

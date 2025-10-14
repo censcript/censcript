@@ -652,9 +652,6 @@
 <programme start="20251015114500 +0000" stop="20251015121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251013233000 +0000" stop="20251014013000 +0000" channel="ANTV.vision">
-<title>Boleh Dong Untung Terus</title>
-</programme>
 <programme start="20251014013000 +0000" stop="20251014030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251015080000 +0000" stop="20251015083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251015083000 +0000" stop="20251015091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
