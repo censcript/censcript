@@ -3220,10 +3220,10 @@
 <programme start="20251014203000 +0000" stop="20251014223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251013223000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251014044000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA TourEs folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251014050000 +0000" stop="20251014150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251014050000 +0000" stop="20251014130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 2. Tag</title>
 </programme>
 <programme start="20251013221500 +0000" stop="20251013230000 +0000" channel="SYFY HD.skyde">
