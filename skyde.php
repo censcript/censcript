@@ -811,96 +811,6 @@
 <programme start="20251014215500 +0000" stop="20251014220000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251013223000 +0000" stop="20251013232000 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
-<programme start="20251013232000 +0000" stop="20251014000500 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014000500 +0000" stop="20251014005000 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014005000 +0000" stop="20251014011500 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20251014011500 +0000" stop="20251014020500 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20251014020500 +0000" stop="20251014025000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251014025000 +0000" stop="20251014033500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014033500 +0000" stop="20251014042500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014042500 +0000" stop="20251014051000 +0000" channel="Crime + Investigation.skyde">
-    <title>Murder in the 21st - Digitale Spurensuche</title>
-</programme>
-<programme start="20251014051000 +0000" stop="20251014060000 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
-<programme start="20251014060000 +0000" stop="20251014065000 +0000" channel="Crime + Investigation.skyde">
-    <title>Meet, Marry, Murder - Tödliche Ehe</title>
-</programme>
-<programme start="20251014065000 +0000" stop="20251014074000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20251014074000 +0000" stop="20251014083000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251014083000 +0000" stop="20251014092000 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014092000 +0000" stop="20251014101500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014101500 +0000" stop="20251014110500 +0000" channel="Crime + Investigation.skyde">
-    <title>Murder in the 21st - Digitale Spurensuche</title>
-</programme>
-<programme start="20251014110500 +0000" stop="20251014115500 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
-<programme start="20251014115500 +0000" stop="20251014122000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
-</programme>
-<programme start="20251014122000 +0000" stop="20251014131000 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014131000 +0000" stop="20251014140000 +0000" channel="Crime + Investigation.skyde">
-    <title>David Fuller - Das Monster in der Leichenhalle</title>
-</programme>
-<programme start="20251014140000 +0000" stop="20251014145000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20251014145000 +0000" stop="20251014154000 +0000" channel="Crime + Investigation.skyde">
-    <title>Bloodline Detectives - Die DNA der Täter</title>
-</programme>
-<programme start="20251014154000 +0000" stop="20251014163000 +0000" channel="Crime + Investigation.skyde">
-    <title>Am Ort des Verbrechens</title>
-</programme>
-<programme start="20251014163000 +0000" stop="20251014172000 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014172000 +0000" stop="20251014181500 +0000" channel="Crime + Investigation.skyde">
-    <title>First Blood - Die Geburt eines Serienmörders</title>
-</programme>
-<programme start="20251014181500 +0000" stop="20251014190500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20251014190500 +0000" stop="20251014195500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20251014195500 +0000" stop="20251014204500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20251014204500 +0000" stop="20251014213500 +0000" channel="Crime + Investigation.skyde">
-    <title>City Confidential - Verbrechen nebenan</title>
-</programme>
-<programme start="20251014213500 +0000" stop="20251014223000 +0000" channel="Crime + Investigation.skyde">
-    <title>Ursprung des Grauens - Profil eines Serienmörders</title>
-</programme>
 <programme start="20251013220000 +0000" stop="20251014060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -1402,34 +1312,34 @@
 <programme start="20251014041500 +0000" stop="20251014042000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014042000 +0000" stop="20251014042500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014042000 +0000" stop="20251014043000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014042500 +0000" stop="20251014044500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014043000 +0000" stop="20251014045000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014044500 +0000" stop="20251014050000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014045000 +0000" stop="20251014050000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014050000 +0000" stop="20251014050500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014050000 +0000" stop="20251014051000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014050500 +0000" stop="20251014051500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014051000 +0000" stop="20251014051500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251014051500 +0000" stop="20251014052500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014052500 +0000" stop="20251014054500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014052500 +0000" stop="20251014055000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251014054500 +0000" stop="20251014061000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014055000 +0000" stop="20251014061000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014061000 +0000" stop="20251014063000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014061000 +0000" stop="20251014063500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014063000 +0000" stop="20251014064500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014063500 +0000" stop="20251014064500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251014064500 +0000" stop="20251014065500 +0000" channel="Nick Jr..skyde">
@@ -1459,16 +1369,16 @@
 <programme start="20251014085000 +0000" stop="20251014085500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014085500 +0000" stop="20251014090000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251014090000 +0000" stop="20251014090500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014085500 +0000" stop="20251014090500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251014090500 +0000" stop="20251014091000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014091000 +0000" stop="20251014092000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014091000 +0000" stop="20251014091100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251014091100 +0000" stop="20251014092000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251014092000 +0000" stop="20251014094000 +0000" channel="Nick Jr..skyde">
@@ -1498,10 +1408,10 @@
 <programme start="20251014115000 +0000" stop="20251014120500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014120500 +0000" stop="20251014121000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014120500 +0000" stop="20251014121500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014121000 +0000" stop="20251014122000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014121500 +0000" stop="20251014122000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251014122000 +0000" stop="20251014123000 +0000" channel="Nick Jr..skyde">
@@ -1513,16 +1423,16 @@
 <programme start="20251014124000 +0000" stop="20251014125000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251014125000 +0000" stop="20251014130000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014125000 +0000" stop="20251014130500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251014130000 +0000" stop="20251014132500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014130500 +0000" stop="20251014132500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251014132500 +0000" stop="20251014134500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014132500 +0000" stop="20251014135000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251014134500 +0000" stop="20251014141000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014135000 +0000" stop="20251014141000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251014141000 +0000" stop="20251014143000 +0000" channel="Nick Jr..skyde">
@@ -1531,52 +1441,52 @@
 <programme start="20251014143000 +0000" stop="20251014144000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014144000 +0000" stop="20251014144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014144000 +0000" stop="20251014145000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014144500 +0000" stop="20251014145500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014145000 +0000" stop="20251014145500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014145500 +0000" stop="20251014151500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014145500 +0000" stop="20251014152000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014151500 +0000" stop="20251014153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014152000 +0000" stop="20251014153000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014153000 +0000" stop="20251014154000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014153000 +0000" stop="20251014154500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251014154000 +0000" stop="20251014155500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014154500 +0000" stop="20251014155500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20251014155500 +0000" stop="20251014162000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251014162000 +0000" stop="20251014164500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014162000 +0000" stop="20251014165000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014164500 +0000" stop="20251014170000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014165000 +0000" stop="20251014170000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251014170000 +0000" stop="20251014170500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014170000 +0000" stop="20251014171000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014170500 +0000" stop="20251014171500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014171000 +0000" stop="20251014171500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251014171500 +0000" stop="20251014172500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251014172500 +0000" stop="20251014174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014172500 +0000" stop="20251014175000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251014174500 +0000" stop="20251014181000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014175000 +0000" stop="20251014181000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014181000 +0000" stop="20251014183000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014181000 +0000" stop="20251014183500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251014183000 +0000" stop="20251014184500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014183500 +0000" stop="20251014184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251014184500 +0000" stop="20251014185500 +0000" channel="Nick Jr..skyde">
@@ -1606,13 +1516,13 @@
 <programme start="20251014205000 +0000" stop="20251014205500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014205500 +0000" stop="20251014210000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014205500 +0000" stop="20251014210500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014210000 +0000" stop="20251014210500 +0000" channel="Nick Jr..skyde">
+<programme start="20251014210500 +0000" stop="20251014210600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251014210500 +0000" stop="20251014211000 +0000" channel="Nick Jr..skyde">
+<programme start="20251014210600 +0000" stop="20251014211000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251014211000 +0000" stop="20251014212000 +0000" channel="Nick Jr..skyde">
@@ -3220,10 +3130,10 @@
 <programme start="20251014203000 +0000" stop="20251014223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251014044000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251013223000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA TourEs folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251014050000 +0000" stop="20251014130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251014050000 +0000" stop="20251014150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 2. Tag</title>
 </programme>
 <programme start="20251013221500 +0000" stop="20251013230000 +0000" channel="SYFY HD.skyde">

@@ -4093,7 +4093,96 @@
 <programme start="20251014160000 +0000" stop="20251014163000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Malam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20251013180000 +0000" stop="20251013183000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20251013183000 +0000" stop="20251013190000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20251013190000 +0000" stop="20251013200000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20251013200000 +0000" stop="20251013210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20251013210000 +0000" stop="20251013213000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20251013213000 +0000" stop="20251013220000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20251013220000 +0000" stop="20251013230000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kampung Sebelah</title>
+</programme>
+<programme start="20251013230000 +0000" stop="20251014000000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20251014000000 +0000" stop="20251014003000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20251014003000 +0000" stop="20251014010000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wira-Wiri</title>
+</programme>
+<programme start="20251014010000 +0000" stop="20251014030000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ketoprak Humor S7</title>
+</programme>
+<programme start="20251014030000 +0000" stop="20251014040000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kampung Sebelah</title>
+</programme>
+<programme start="20251014040000 +0000" stop="20251014043000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Mahkota Mayangkara</title>
+</programme>
+<programme start="20251014043000 +0000" stop="20251014053000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20251014053000 +0000" stop="20251014063000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20251014063000 +0000" stop="20251014070000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pagelaran Budaya Jawi</title>
+</programme>
+<programme start="20251014070000 +0000" stop="20251014073000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wira-Wiri</title>
+</programme>
+<programme start="20251014073000 +0000" stop="20251014083000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20251014083000 +0000" stop="20251014090000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Lawak Jowo</title>
+</programme>
+<programme start="20251014090000 +0000" stop="20251014100000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kampung Sebelah</title>
+</programme>
+<programme start="20251014100000 +0000" stop="20251014103000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Mahkota Mayangkara</title>
+</programme>
+<programme start="20251014103000 +0000" stop="20251014110000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Jan Enak Tenan</title>
+</programme>
+<programme start="20251014110000 +0000" stop="20251014120000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso Star</title>
+</programme>
+<programme start="20251014120000 +0000" stop="20251014123000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pawartos Jawi</title>
+</programme>
+<programme start="20251014123000 +0000" stop="20251014130000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Pagelaran Budaya Jawi</title>
+</programme>
+<programme start="20251014130000 +0000" stop="20251014133000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Jowo New</title>
+</programme>
+<programme start="20251014133000 +0000" stop="20251014140000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20251014140000 +0000" stop="20251014150000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Misteri Gunung Merapi</title>
+</programme>
+<programme start="20251014150000 +0000" stop="20251014160000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20251014160000 +0000" stop="20251014163000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ketoprak Humor S7</title>
+</programme>
 <programme start="20251013173500 +0000" stop="20251013183000 +0000" channel="History.mncvision">
     <title>Food That Built World S5, Ep 4</title>
 </programme>
