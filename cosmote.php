@@ -114,10 +114,6 @@
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015003000 +0700" stop="20251015023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rio Ave - Tondela</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015023000 +0700" stop="20251015043000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ittihad - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -177,10 +173,6 @@
 <programme start="20251016020000 +0700" stop="20251016040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Hilal - Al-Okhdood Club</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251015000000 +0700" stop="20251015021000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - Unicaja (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251015021000 +0700" stop="20251015041000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Varese - Armani Milano</title>
@@ -350,6 +342,10 @@
     <title>Basketball: Legia Warszawa - Promitheas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251016031000 +0700" stop="20251016052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Legia Warszawa - Promitheas</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251015010000 +0700" stop="20251015033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Joao Fonseca - Botic van de Zandschulp (L)</title>
     <desc>Live: Ya</desc>
@@ -393,6 +389,10 @@
 <programme start="20251016010000 +0700" stop="20251016033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251016033000 +0700" stop="20251016043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015020000 +0700" stop="20251015040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

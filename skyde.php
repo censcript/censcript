@@ -3134,7 +3134,7 @@
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20251014200000 +0000" stop="20251014223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: S. Sierra (ARG) - L. Radivojevic (SRB), Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
+    <title>WTA: S. Sierra (ARG) - L. Radivojevic (SRB), Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20251013230000 +0000" stop="20251013233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
