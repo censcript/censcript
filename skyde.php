@@ -1099,6 +1099,99 @@
 <programme start="20251015212500 +0000" stop="20251015221000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
+<programme start="20251014222500 +0000" stop="20251014231500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Expedition Deutschland - Das Vermächtnis der Steine</title>
+</programme>
+<programme start="20251014231500 +0000" stop="20251014235500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251014235500 +0000" stop="20251015004000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Ungelöste Fälle der Archäologie</title>
+</programme>
+<programme start="20251015004000 +0000" stop="20251015012500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Ungelöste Fälle der Archäologie</title>
+</programme>
+<programme start="20251015012500 +0000" stop="20251015021000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Ungelöste Fälle der Archäologie</title>
+</programme>
+<programme start="20251015021000 +0000" stop="20251015025500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251015025500 +0000" stop="20251015034000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Oak Island - Fluch und Legende</title>
+</programme>
+<programme start="20251015034000 +0000" stop="20251015043000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Oak Island - Fluch und Legende</title>
+</programme>
+<programme start="20251015043000 +0000" stop="20251015051500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015051500 +0000" stop="20251015060000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015060000 +0000" stop="20251015064500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015064500 +0000" stop="20251015073000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015073000 +0000" stop="20251015081500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251015081500 +0000" stop="20251015090000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251015090000 +0000" stop="20251015095000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Welten-Saga</title>
+</programme>
+<programme start="20251015095000 +0000" stop="20251015104000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Welten-Saga</title>
+</programme>
+<programme start="20251015104000 +0000" stop="20251015112500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20251015112500 +0000" stop="20251015120500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20251015120500 +0000" stop="20251015125500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251015125500 +0000" stop="20251015133500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20251015133500 +0000" stop="20251015142500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251015142500 +0000" stop="20251015151000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251015151000 +0000" stop="20251015155500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015155500 +0000" stop="20251015164000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015164000 +0000" stop="20251015173000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015173000 +0000" stop="20251015181500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20251015181500 +0000" stop="20251015190500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20251015190500 +0000" stop="20251015195500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Secrets Declassified mit David Duchovny</title>
+</programme>
+<programme start="20251015195500 +0000" stop="20251015204500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251015204500 +0000" stop="20251015213500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20251015213500 +0000" stop="20251015222500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Welten-Saga</title>
+</programme>
 <programme start="20251014220000 +0000" stop="20251015000000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2014</title>
 </programme>
@@ -2668,7 +2761,7 @@
 <programme start="20251015114000 +0000" stop="20251015120000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251015120000 +0000" stop="20251015220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251015120000 +0000" stop="20251015200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 3. Tag</title>
 </programme>
 <programme start="20251014220000 +0000" stop="20251014223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
