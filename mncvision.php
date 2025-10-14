@@ -4025,7 +4025,7 @@
     <title>Lets Get Wet</title>
 </programme>
 <programme start="20251014090000 +0000" stop="20251014100000 +0000" channel="GTV.mncvision">
-    <title>Kisah Viral Specta</title>
+    <title>Baper</title>
 </programme>
 <programme start="20251014100000 +0000" stop="20251014110000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
@@ -4037,7 +4037,7 @@
     <title>Anak Jalanan</title>
 </programme>
 <programme start="20251014123000 +0000" stop="20251014143000 +0000" channel="GTV.mncvision">
-    <title>Jack Ryan: Shadow Recruit</title>
+    <title>Terminator Genisys</title>
 </programme>
 <programme start="20251014143000 +0000" stop="20251014160000 +0000" channel="GTV.mncvision">
     <title>The Mob</title>
@@ -4073,7 +4073,7 @@
     <title>Lets Get Wet</title>
 </programme>
 <programme start="20251014090000 +0000" stop="20251014100000 +0000" channel="GTV HD.mncvision">
-    <title>Kisah Viral Specta</title>
+    <title>Baper</title>
 </programme>
 <programme start="20251014100000 +0000" stop="20251014110000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
@@ -4085,7 +4085,7 @@
     <title>Anak Jalanan</title>
 </programme>
 <programme start="20251014123000 +0000" stop="20251014143000 +0000" channel="GTV HD.mncvision">
-    <title>Jack Ryan: Shadow Recruit</title>
+    <title>Terminator Genisys</title>
 </programme>
 <programme start="20251014143000 +0000" stop="20251014160000 +0000" channel="GTV HD.mncvision">
     <title>The Mob</title>
@@ -7959,6 +7959,114 @@
 </programme>
 <programme start="20251014163000 +0000" stop="20251013170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>OMG</title>
+</programme>
+<programme start="20251013180000 +0000" stop="20251013183000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251013183000 +0000" stop="20251013204500 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: NIR Vs GER (L)</title>
+</programme>
+<programme start="20251013204500 +0000" stop="20251013210000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251013210000 +0000" stop="20251013213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251013213000 +0000" stop="20251013233000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: QAT Vs IDN</title>
+</programme>
+<programme start="20251013233000 +0000" stop="20251014013000 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: BEL Vs KAZ</title>
+</programme>
+<programme start="20251014013000 +0000" stop="20251014033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: SVW Vs STP</title>
+</programme>
+<programme start="20251014033000 +0000" stop="20251014040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251014040000 +0000" stop="20251014060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Euro 2024: POR Vs FRA</title>
+</programme>
+<programme start="20251014060000 +0000" stop="20251014080000 +0000" channel="Soccer Channel.mncvision">
+    <title>Copa del Rey: ELD Vs VAL</title>
+</programme>
+<programme start="20251014080000 +0000" stop="20251014100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: FCA Vs WOB</title>
+</programme>
+<programme start="20251014100000 +0000" stop="20251014103000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251014103000 +0000" stop="20251014123000 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: NIR Vs GER</title>
+</programme>
+<programme start="20251014123000 +0000" stop="20251014143000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs AUS</title>
+</programme>
+<programme start="20251014143000 +0000" stop="20251014150000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251014150000 +0000" stop="20251014153000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251014153000 +0000" stop="20251014154500 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20251014154500 +0000" stop="20251014161500 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: EST Vs MDA (L)</title>
+</programme>
+<programme start="20251013180000 +0000" stop="20251013183000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251013183000 +0000" stop="20251013204500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: NIR Vs GER (L)</title>
+</programme>
+<programme start="20251013204500 +0000" stop="20251013210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251013210000 +0000" stop="20251013213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251013213000 +0000" stop="20251013233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: QAT Vs IDN</title>
+</programme>
+<programme start="20251013233000 +0000" stop="20251014013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: BEL Vs KAZ</title>
+</programme>
+<programme start="20251014013000 +0000" stop="20251014033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: SVW Vs STP</title>
+</programme>
+<programme start="20251014033000 +0000" stop="20251014040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251014040000 +0000" stop="20251014060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Euro 2024: POR Vs FRA</title>
+</programme>
+<programme start="20251014060000 +0000" stop="20251014080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Copa del Rey: ELD Vs VAL</title>
+</programme>
+<programme start="20251014080000 +0000" stop="20251014100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCA Vs WOB</title>
+</programme>
+<programme start="20251014100000 +0000" stop="20251014103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251014103000 +0000" stop="20251014123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: NIR Vs GER</title>
+</programme>
+<programme start="20251014123000 +0000" stop="20251014143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs AUS</title>
+</programme>
+<programme start="20251014143000 +0000" stop="20251014150000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251014150000 +0000" stop="20251014153000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251014153000 +0000" stop="20251014154500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20251014154500 +0000" stop="20251014161500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: EST Vs MDA (L)</title>
 </programme>
 <programme start="20251013173000 +0000" stop="20251013183000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
