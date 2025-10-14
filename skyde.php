@@ -2668,7 +2668,7 @@
 <programme start="20251014104000 +0000" stop="20251014110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251014110000 +0000" stop="20251014200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251014110000 +0000" stop="20251014220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 2. Tag</title>
 </programme>
 <programme start="20251013220000 +0000" stop="20251013223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3134,7 +3134,7 @@
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20251014200000 +0000" stop="20251014223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: S. Sierra (ARG) - L. Radivojevic (SRB), Mallorca Women¿s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
+    <title>WTA: S. Sierra (ARG) - L. Radivojevic (SRB), Mallorca Women&#039;s Championships presented by Ecotrans Group in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20251013230000 +0000" stop="20251013233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -3220,10 +3220,10 @@
 <programme start="20251014203000 +0000" stop="20251014223000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251013223000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251014044000 +0000" stop="20251014050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA TourEs folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251014050000 +0000" stop="20251014150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251014050000 +0000" stop="20251014130000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 2. Tag</title>
 </programme>
 <programme start="20251013221500 +0000" stop="20251013230000 +0000" channel="SYFY HD.skyde">

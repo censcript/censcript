@@ -110,8 +110,8 @@
     <title>Football: FC Internazionale Milano - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014183000 +0700" stop="20251014203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Heart of Midlothian - Hibernian</title>
+<programme start="20251015212000 +0700" stop="20251015233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014203000 +0700" stop="20251014223000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,14 +174,6 @@
     <title>Football: Palmeiras - River Plate</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014184000 +0700" stop="20251014203500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Merkezefendi</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014203500 +0700" stop="20251014210000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251014210000 +0700" stop="20251014230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Gran Canaria - Unicaja</title>
     <desc>Live: Tidak</desc>
@@ -240,14 +232,6 @@
 </programme>
 <programme start="20251015202000 +0700" stop="20251015222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Varese - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014191500 +0700" stop="20251014202000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014202000 +0700" stop="20251014205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014205000 +0700" stop="20251014214500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,9 +334,9 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014183000 +0700" stop="20251014210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Valentin Royer - Sebastian Baez (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251015214500 +0700" stop="20251015222500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Documentary</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014210000 +0700" stop="20251014230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Francisco Comesana - David Goffin (L)</title>

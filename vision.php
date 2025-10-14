@@ -1418,10 +1418,10 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251014123000 +0000" stop="20251014130000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<title>Dunia Binatang</title>
 </programme>
 <programme start="20251014130000 +0000" stop="20251014140000 +0000" channel="BTV.vision">
-<title>Spot On</title>
+<title>Berita Viral</title>
 </programme>
 <programme start="20251014140000 +0000" stop="20251014150000 +0000" channel="BTV.vision">
 <title>Investor Daily Summit 2025</title>
@@ -1462,22 +1462,22 @@
 <programme start="20251014230300 +0000" stop="20251015003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
-<programme start="20251014003000 +0000" stop="20251014011500 +0000" channel="BTV.vision">
+<programme start="20251015003000 +0000" stop="20251015011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
 </programme>
-<programme start="20251014011500 +0000" stop="20251014014500 +0000" channel="BTV.vision">
+<programme start="20251015011500 +0000" stop="20251015014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
 </programme>
-<programme start="20251014014500 +0000" stop="20251014023000 +0000" channel="BTV.vision">
+<programme start="20251015014500 +0000" stop="20251015023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20251014023000 +0000" stop="20251014031500 +0000" channel="BTV.vision">
+<programme start="20251015023000 +0000" stop="20251015031500 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
 </programme>
-<programme start="20251014031500 +0000" stop="20251014040000 +0000" channel="BTV.vision">
+<programme start="20251015031500 +0000" stop="20251015040000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
 </programme>
-<programme start="20251014040000 +0000" stop="20251014050000 +0000" channel="BTV.vision">
+<programme start="20251015040000 +0000" stop="20251015050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20251015050000 +0000" stop="20251015060000 +0000" channel="BTV.vision">
