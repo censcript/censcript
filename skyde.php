@@ -2602,6 +2602,12 @@
 <programme start="20251014212000 +0000" stop="20251014221500 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
+<programme start="20251013220000 +0000" stop="20251013223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20251013223000 +0000" stop="20251013230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28</title>
+</programme>
 <programme start="20251013230000 +0000" stop="20251014010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FK Austria Wien - FC Blau-Weiß Linz, 9. Runde</title>
 </programme>
@@ -2662,7 +2668,7 @@
 <programme start="20251014104000 +0000" stop="20251014110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251014110000 +0000" stop="20251014200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251014110000 +0000" stop="20251014220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 2. Tag</title>
 </programme>
 <programme start="20251013220000 +0000" stop="20251013223000 +0000" channel="Sky Sport Bundesliga HD.skyde">

@@ -6830,13 +6830,13 @@
         <title>UK Challenge</title>
     </programme>
     <programme start="20251014033000 +0000" stop="20251014053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>BWF World Junior Mixed Team Championships 2025 SF 1: Indonesia vs India</title>
+        <title>SF 1: Indonesia vs India</title>
     </programme>
     <programme start="20251014053000 +0000" stop="20251014090000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>BWF World Junior Mixed Team Championships 2025 SF 2: Japan vs China</title>
+        <title>SF 2: Japan vs China</title>
     </programme>
     <programme start="20251014090000 +0000" stop="20251014093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Spartan Trifecta World Championship Highlights</title>
+        <title>Spartan Trifecta World Championship H/Ls</title>
     </programme>
     <programme start="20251014093000 +0000" stop="20251014100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>China Open</title>
