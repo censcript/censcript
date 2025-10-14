@@ -2668,7 +2668,7 @@
 <programme start="20251014104000 +0000" stop="20251014110000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251014110000 +0000" stop="20251014220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251014110000 +0000" stop="20251014200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 2. Tag</title>
 </programme>
 <programme start="20251013220000 +0000" stop="20251013223000 +0000" channel="Sky Sport Bundesliga HD.skyde">

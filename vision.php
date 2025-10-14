@@ -1418,10 +1418,10 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251014123000 +0000" stop="20251014130000 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
+<title>Berita Viral</title>
 </programme>
 <programme start="20251014130000 +0000" stop="20251014140000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
+<title>Spot On</title>
 </programme>
 <programme start="20251014140000 +0000" stop="20251014150000 +0000" channel="BTV.vision">
 <title>Investor Daily Summit 2025</title>
