@@ -110,8 +110,8 @@
     <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014203000 +0700" stop="20251014223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Racing Club - Velez Sarsfield</title>
+<programme start="20251015233000 +0700" stop="20251016013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014223000 +0700" stop="20251015003000 +0700" channel="COSMOTE Sport 3 HD">
@@ -172,10 +172,6 @@
 </programme>
 <programme start="20251015220000 +0700" stop="20251016000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Ipswich Town - Norwich City</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251014210000 +0700" stop="20251014230000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Gran Canaria - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014230000 +0700" stop="20251015000000 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,9 +238,9 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014214500 +0700" stop="20251014224000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251015233000 +0700" stop="20251016014000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Szolnoki Olaj (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251014224000 +0700" stop="20251014233500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
@@ -350,9 +346,9 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251014210000 +0700" stop="20251014230000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Francisco Comesana - David Goffin (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251015235500 +0700" stop="20251016010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251014230000 +0700" stop="20251015010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Zizou Bergs - Raphael Collignon (L)</title>
@@ -391,6 +387,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251015203000 +0700" stop="20251015230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251015230000 +0700" stop="20251016010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
