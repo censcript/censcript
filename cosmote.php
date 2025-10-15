@@ -110,6 +110,10 @@
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251016131000 +0700" stop="20251016151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251015103000 +0700" stop="20251015140000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Atlanta Falcons - Buffalo Bills</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Fenerbahce - Karsiyaka</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015120000 +0700" stop="20251015123000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015123000 +0700" stop="20251015133000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -330,8 +330,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015100000 +0700" stop="20251015130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025</title>
+<programme start="20251016131000 +0700" stop="20251016141500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015130000 +0700" stop="20251015161000 +0700" channel="COSMOTE Sport 6 HD">
@@ -375,6 +375,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016100000 +0700" stop="20251016130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251016130000 +0700" stop="20251016155000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
