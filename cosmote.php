@@ -54,14 +54,6 @@
     <title>Football: Villarreal CF - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016020000 +0700" stop="20251016041000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEL Novibet - Volos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016041000 +0700" stop="20251016044000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251016044000 +0700" stop="20251016065000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
@@ -172,14 +164,6 @@
 </programme>
 <programme start="20251017040000 +0700" stop="20251017060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Falkirk - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016020500 +0700" stop="20251016040500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Gran Canaria - Unicaja</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016040500 +0700" stop="20251016042500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016042500 +0700" stop="20251016063500 +0700" channel="COSMOTE Sport 4 HD">
@@ -354,13 +338,9 @@
     <title>Motorsports: Moto3 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251016033000 +0700" stop="20251016043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016043000 +0700" stop="20251016050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2025 E9</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251017054500 +0700" stop="20251017064000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251016050000 +0700" stop="20251016090000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>

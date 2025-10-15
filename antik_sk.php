@@ -3394,7 +3394,7 @@
   <programme start="20251017212500 +0000" stop="20251017225500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Dejme dětem rodinu</title>
   </programme>
-  <programme start="20251016210100 +0000" stop="20251016220500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251016210300 +0000" stop="20251016220500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Příliš mnoho lásky (6/8)</title>
   </programme>
   <programme start="20251016220500 +0000" stop="20251016225000 +0000" channel="ČT1.webtv.sk">
@@ -3403,19 +3403,19 @@
   <programme start="20251016225000 +0000" stop="20251016231500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20251016231500 +0000" stop="20251016234100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251016231500 +0000" stop="20251016234200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20251016234100 +0000" stop="20251017001500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251016234200 +0000" stop="20251017001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bydlení je hra</title>
   </programme>
-  <programme start="20251017001500 +0000" stop="20251017024500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017001500 +0000" stop="20251017024800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20251017024500 +0000" stop="20251017031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017024800 +0000" stop="20251017031600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20251017031500 +0000" stop="20251017033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017031600 +0000" stop="20251017033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
   <programme start="20251017033000 +0000" stop="20251017035900 +0000" channel="ČT1.webtv.sk">
@@ -3445,10 +3445,10 @@
   <programme start="20251017102000 +0000" stop="20251017103000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Předpověď počasí, sportovní zprávy</title>
   </programme>
-  <programme start="20251017103000 +0000" stop="20251017120000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017103000 +0000" stop="20251017120100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20251017120000 +0000" stop="20251017122500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017120100 +0000" stop="20251017122500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na stopě</title>
   </programme>
   <programme start="20251017122500 +0000" stop="20251017131500 +0000" channel="ČT1.webtv.sk">
@@ -3496,19 +3496,19 @@
   <programme start="20251017181500 +0000" stop="20251017190500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Příliš mnoho lásky (7/8)</title>
   </programme>
-  <programme start="20251017190500 +0000" stop="20251017195900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017190500 +0000" stop="20251017200000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechnopárty</title>
   </programme>
-  <programme start="20251017195900 +0000" stop="20251017200200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017200000 +0000" stop="20251017200400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20251017200200 +0000" stop="20251017214000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017200400 +0000" stop="20251017214000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot X (1)</title>
   </programme>
-  <programme start="20251017214000 +0000" stop="20251017223500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251017214000 +0000" stop="20251017223600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová (8)</title>
   </programme>
-  <programme start="20251016214800 +0000" stop="20251016224100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251016214900 +0000" stop="20251016224100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Apokalypsa: Hitler míří na východ (1/2)</title>
   </programme>
   <programme start="20251016224100 +0000" stop="20251016232800 +0000" channel="ČT2.webtv.sk">
@@ -3529,10 +3529,10 @@
   <programme start="20251017012700 +0000" stop="20251017022000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Spartakiádní vrah</title>
   </programme>
-  <programme start="20251017022000 +0000" stop="20251017024500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251017022000 +0000" stop="20251017024600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tam a zpátky do Písečné</title>
   </programme>
-  <programme start="20251017024500 +0000" stop="20251017025100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251017024600 +0000" stop="20251017025100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Kostel sv. Petra a Pavla v Hněvošicích</title>
   </programme>
   <programme start="20251017025100 +0000" stop="20251017031900 +0000" channel="ČT2.webtv.sk">
