@@ -4093,16 +4093,16 @@
 <programme start="20251015013000 +0000" stop="20251015040000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251015040000 +0000" stop="20251015073000 +0000" channel="GTV.mncvision">
+<programme start="20251015040000 +0000" stop="20251015070000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251015073000 +0000" stop="20251015090000 +0000" channel="GTV.mncvision">
+<programme start="20251015070000 +0000" stop="20251015080000 +0000" channel="GTV.mncvision">
     <title>Lets Get Wet</title>
 </programme>
-<programme start="20251015090000 +0000" stop="20251015100000 +0000" channel="GTV.mncvision">
+<programme start="20251015080000 +0000" stop="20251015090000 +0000" channel="GTV.mncvision">
     <title>Baper</title>
 </programme>
-<programme start="20251015100000 +0000" stop="20251015110000 +0000" channel="GTV.mncvision">
+<programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251015110000 +0000" stop="20251015111500 +0000" channel="GTV.mncvision">
@@ -4141,16 +4141,16 @@
 <programme start="20251015013000 +0000" stop="20251015040000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251015040000 +0000" stop="20251015073000 +0000" channel="GTV HD.mncvision">
+<programme start="20251015040000 +0000" stop="20251015070000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251015073000 +0000" stop="20251015090000 +0000" channel="GTV HD.mncvision">
+<programme start="20251015070000 +0000" stop="20251015080000 +0000" channel="GTV HD.mncvision">
     <title>Lets Get Wet</title>
 </programme>
-<programme start="20251015090000 +0000" stop="20251015100000 +0000" channel="GTV HD.mncvision">
+<programme start="20251015080000 +0000" stop="20251015090000 +0000" channel="GTV HD.mncvision">
     <title>Baper</title>
 </programme>
-<programme start="20251015100000 +0000" stop="20251015110000 +0000" channel="GTV HD.mncvision">
+<programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251015110000 +0000" stop="20251015111500 +0000" channel="GTV HD.mncvision">

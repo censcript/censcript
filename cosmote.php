@@ -110,6 +110,10 @@
     <title>Football: Udinese - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251016151000 +0700" stop="20251016171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251015140000 +0700" stop="20251015160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - Tondela</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Legia Warszawa - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015133000 +0700" stop="20251015142500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015142500 +0700" stop="20251015150500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
@@ -330,6 +330,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251016150500 +0700" stop="20251016161000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251015130000 +0700" stop="20251015161000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
@@ -376,6 +380,10 @@
 </programme>
 <programme start="20251016130000 +0700" stop="20251016155000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251016155000 +0700" stop="20251016183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Challenger 50 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015140000 +0700" stop="20251015160000 +0700" channel="COSMOTE Sport 7 HD">
