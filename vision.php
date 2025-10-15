@@ -142,14 +142,14 @@
 <programme start="20251016010000 +0000" stop="20251016023000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20251016023000 +0000" stop="20251016033000 +0000" channel="MNCTV.vision">
-<title>Seleb On News</title>
-</programme>
-<programme start="20251016033000 +0000" stop="20251016041500 +0000" channel="MNCTV.vision">
+<programme start="20251016023000 +0000" stop="20251016031500 +0000" channel="MNCTV.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20251016041500 +0000" stop="20251016044500 +0000" channel="MNCTV.vision">
+<programme start="20251016031500 +0000" stop="20251016034500 +0000" channel="MNCTV.vision">
 <title>Jurnal Lintas iNews Siang</title>
+</programme>
+<programme start="20251016034500 +0000" stop="20251016044500 +0000" channel="MNCTV.vision">
+<title>Seleb On News</title>
 </programme>
 <programme start="20251016044500 +0000" stop="20251016073000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -175,16 +175,16 @@
 <programme start="20251015013000 +0000" stop="20251015040000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251015040000 +0000" stop="20251015070000 +0000" channel="GTV.vision">
+<programme start="20251015040000 +0000" stop="20251015073000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251015070000 +0000" stop="20251015080000 +0000" channel="GTV.vision">
+<programme start="20251015073000 +0000" stop="20251015090000 +0000" channel="GTV.vision">
 <title>Lets Get Wet</title>
 </programme>
-<programme start="20251015080000 +0000" stop="20251015090000 +0000" channel="GTV.vision">
+<programme start="20251015090000 +0000" stop="20251015100000 +0000" channel="GTV.vision">
 <title>Baper</title>
 </programme>
-<programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="GTV.vision">
+<programme start="20251015100000 +0000" stop="20251015110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251015110000 +0000" stop="20251015111500 +0000" channel="GTV.vision">
@@ -223,16 +223,16 @@
 <programme start="20251016013000 +0000" stop="20251016040000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
-<programme start="20251016040000 +0000" stop="20251016070000 +0000" channel="GTV.vision">
+<programme start="20251016040000 +0000" stop="20251016073000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20251016070000 +0000" stop="20251016080000 +0000" channel="GTV.vision">
+<programme start="20251016073000 +0000" stop="20251016090000 +0000" channel="GTV.vision">
 <title>Lets Get Wet</title>
 </programme>
-<programme start="20251016080000 +0000" stop="20251016090000 +0000" channel="GTV.vision">
+<programme start="20251016090000 +0000" stop="20251016100000 +0000" channel="GTV.vision">
 <title>Baper</title>
 </programme>
-<programme start="20251016090000 +0000" stop="20251016110000 +0000" channel="GTV.vision">
+<programme start="20251016100000 +0000" stop="20251016110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants Movie</title>
 </programme>
 <programme start="20251016110000 +0000" stop="20251016111500 +0000" channel="GTV.vision">
@@ -410,7 +410,7 @@
 <title>Lintas iNews Pagi</title>
 </programme>
 <programme start="20251016000000 +0000" stop="20251016003000 +0000" channel="SindoNews.vision">
-<title>iNews Today</title>
+<title>iNews Files</title>
 </programme>
 <programme start="20251016003000 +0000" stop="20251016020000 +0000" channel="SindoNews.vision">
 <title>SINDO Today</title>
@@ -427,16 +427,16 @@
 <programme start="20251016050000 +0000" stop="20251016053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20251016053000 +0000" stop="20251016063000 +0000" channel="SindoNews.vision">
-<title>iNews Today</title>
+<programme start="20251016053000 +0000" stop="20251016070000 +0000" channel="SindoNews.vision">
+<title>SINDO Today</title>
 </programme>
-<programme start="20251016063000 +0000" stop="20251016070000 +0000" channel="SindoNews.vision">
+<programme start="20251016070000 +0000" stop="20251016073000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20251016070000 +0000" stop="20251016083000 +0000" channel="SindoNews.vision">
-<title>iNews Siang</title>
+<programme start="20251016073000 +0000" stop="20251016090000 +0000" channel="SindoNews.vision">
+<title>SINDO Siang</title>
 </programme>
-<programme start="20251016083000 +0000" stop="20251016093000 +0000" channel="SindoNews.vision">
+<programme start="20251016090000 +0000" stop="20251016093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
 <programme start="20251016093000 +0000" stop="20251016110000 +0000" channel="SindoNews.vision">
@@ -1369,13 +1369,13 @@
 <programme start="20251015003000 +0000" stop="20251015011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
 </programme>
-<programme start="20251014011500 +0000" stop="20251014014500 +0000" channel="BTV.vision">
+<programme start="20251015011500 +0000" stop="20251015014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
 </programme>
 <programme start="20251015014500 +0000" stop="20251015023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20251014023000 +0000" stop="20251014031500 +0000" channel="BTV.vision">
+<programme start="20251015023000 +0000" stop="20251015031500 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
 </programme>
 <programme start="20251015031500 +0000" stop="20251015040000 +0000" channel="BTV.vision">
@@ -1394,7 +1394,7 @@
 <title>Spot On</title>
 </programme>
 <programme start="20251015080000 +0000" stop="20251015083000 +0000" channel="BTV.vision">
-<title>30 Minutes With ESDM</title>
+<title>Dikit-Dikit Damkar</title>
 </programme>
 <programme start="20251015083000 +0000" stop="20251015091500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
@@ -1489,7 +1489,7 @@
 <programme start="20251016091500 +0000" stop="20251016093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
 </programme>
-<programme start="20251015093000 +0000" stop="20251015103000 +0000" channel="BTV.vision">
+<programme start="20251016093000 +0000" stop="20251016103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
 </programme>
 <programme start="20251016103000 +0000" stop="20251016123000 +0000" channel="BTV.vision">
