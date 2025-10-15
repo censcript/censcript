@@ -1192,33 +1192,6 @@
 <programme start="20251015213500 +0000" stop="20251015222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Welten-Saga</title>
 </programme>
-<programme start="20251014220000 +0000" stop="20251015000000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... 2014</title>
-</programme>
-<programme start="20251015000000 +0000" stop="20251015010000 +0000" channel="Jukebox.skyde">
-    <title>RNB &amp; SOUL</title>
-</programme>
-<programme start="20251015010000 +0000" stop="20251015040000 +0000" channel="Jukebox.skyde">
-    <title>NIGHTSHIFT</title>
-</programme>
-<programme start="20251015040000 +0000" stop="20251015100000 +0000" channel="Jukebox.skyde">
-    <title>MORNING GLORY</title>
-</programme>
-<programme start="20251015100000 +0000" stop="20251015120000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
-</programme>
-<programme start="20251015120000 +0000" stop="20251015160000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TRENDS</title>
-</programme>
-<programme start="20251015160000 +0000" stop="20251015180000 +0000" channel="Jukebox.skyde">
-    <title>LOGOUT</title>
-</programme>
-<programme start="20251015180000 +0000" stop="20251015200000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 50 MIX</title>
-</programme>
-<programme start="20251015200000 +0000" stop="20251015220000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
-</programme>
 <programme start="20251014223000 +0000" stop="20251014230000 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
