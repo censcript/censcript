@@ -1369,13 +1369,13 @@
 <programme start="20251015003000 +0000" stop="20251015011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
 </programme>
-<programme start="20251014011500 +0000" stop="20251014014500 +0000" channel="BTV.vision">
+<programme start="20251015011500 +0000" stop="20251015014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
 </programme>
 <programme start="20251015014500 +0000" stop="20251015023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20251014023000 +0000" stop="20251014031500 +0000" channel="BTV.vision">
+<programme start="20251015023000 +0000" stop="20251015031500 +0000" channel="BTV.vision">
 <title>Selera Rasa</title>
 </programme>
 <programme start="20251015031500 +0000" stop="20251015040000 +0000" channel="BTV.vision">
@@ -1489,7 +1489,7 @@
 <programme start="20251016091500 +0000" stop="20251016093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
 </programme>
-<programme start="20251015093000 +0000" stop="20251015103000 +0000" channel="BTV.vision">
+<programme start="20251016093000 +0000" stop="20251016103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
 </programme>
 <programme start="20251016103000 +0000" stop="20251016123000 +0000" channel="BTV.vision">
