@@ -110,6 +110,10 @@
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251017034000 +0700" stop="20251017041000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251016020000 +0700" stop="20251016040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Hilal - Al-Okhdood Club</title>
     <desc>Live: Tidak</desc>
@@ -161,10 +165,6 @@
 <programme start="20251017020000 +0700" stop="20251017040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Huddersfield Town - Bolton Wanderers (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251016014000 +0700" stop="20251016020500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E2</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016020500 +0700" stop="20251016040500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Gran Canaria - Unicaja</title>
@@ -334,6 +334,10 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251017035500 +0700" stop="20251017042500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251016010000 +0700" stop="20251016033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Marcos Giron - Alejandro Davidovich Fokina (L)</title>
     <desc>Live: Ya</desc>
@@ -381,6 +385,14 @@
 <programme start="20251017010000 +0700" stop="20251017033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251017033000 +0700" stop="20251017034500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017034500 +0700" stop="20251017041500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2025 E9</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016020000 +0700" stop="20251016040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
