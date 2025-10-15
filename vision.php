@@ -661,9 +661,6 @@
 <programme start="20251016114500 +0000" stop="20251016121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251014233000 +0000" stop="20251015013000 +0000" channel="ANTV.vision">
-<title>Pintar-Pintaran</title>
-</programme>
 <programme start="20251015013000 +0000" stop="20251015030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251016063000 +0000" stop="20251016080000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20251016080000 +0000" stop="20251016083000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>

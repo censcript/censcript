@@ -2761,7 +2761,7 @@
 <programme start="20251015114000 +0000" stop="20251015120000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251015120000 +0000" stop="20251015200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251015120000 +0000" stop="20251015220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 3. Tag</title>
 </programme>
 <programme start="20251014220000 +0000" stop="20251014223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3218,7 +3218,7 @@
     <title>PL: FC Chelsea - FC Liverpool, 7. Spieltag</title>
 </programme>
 <programme start="20251014223000 +0000" stop="20251015003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: D. Altmaier (GER) - G.-A. Bailly (BEL), BNP Paribas Fortis European Open in Brüssel (BEL), 2. Tag</title>
+    <title>ATP 250: Topspiel, 2. Tag</title>
 </programme>
 <programme start="20251015003000 +0000" stop="20251015010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -3230,7 +3230,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251015023000 +0000" stop="20251015043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Vondrousova (CZE) - K. Muchova (CZE), Ningbo Open in Ningbo (CHN), 2. Tag</title>
+    <title>WTA 500: Topspiel, Ningbo Open in Ningbo (CHN), 2. Tag</title>
 </programme>
 <programme start="20251015043000 +0000" stop="20251015050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3292,16 +3292,13 @@
 <programme start="20251015073000 +0000" stop="20251015074500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20251014234000 +0000" stop="20251015000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
-</programme>
 <programme start="20251015000000 +0000" stop="20251015040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Milwaukee Bucks, Pre-Season-Game</title>
 </programme>
-<programme start="20251015044000 +0000" stop="20251015050000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251015040000 +0000" stop="20251015050000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251015050000 +0000" stop="20251015130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251015050000 +0000" stop="20251015150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 3. Tag</title>
 </programme>
 <programme start="20251014221500 +0000" stop="20251014230000 +0000" channel="SYFY HD.skyde">

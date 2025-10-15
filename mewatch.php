@@ -526,29 +526,8 @@
     <programme start="20251015160000 +0000" stop="20251016010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20251014160000 +0000" stop="20251014160300 +0000" channel="CNA.mewatch">
+    <programme start="20251014160000 +0000" stop="20251014220000 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
-    </programme>
-    <programme start="20251014160300 +0000" stop="20251014170000 +0000" channel="CNA.mewatch">
-        <title>East Asia Tonight</title>
-    </programme>
-    <programme start="20251014170000 +0000" stop="20251014180000 +0000" channel="CNA.mewatch">
-        <title>Addicted - EP 1</title>
-    </programme>
-    <programme start="20251014180000 +0000" stop="20251014190000 +0000" channel="CNA.mewatch">
-        <title>Singapore Tonight</title>
-    </programme>
-    <programme start="20251014190000 +0000" stop="20251014193000 +0000" channel="CNA.mewatch">
-        <title>CNA Correspondent - EP 26</title>
-    </programme>
-    <programme start="20251014193000 +0000" stop="20251014200000 +0000" channel="CNA.mewatch">
-        <title>Zero Waste Kitchen - EP 1</title>
-    </programme>
-    <programme start="20251014200000 +0000" stop="20251014210000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight</title>
-    </programme>
-    <programme start="20251014210000 +0000" stop="20251014220000 +0000" channel="CNA.mewatch">
-        <title>The Peacemakers - EP 2</title>
     </programme>
     <programme start="20251014220000 +0000" stop="20251014230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>

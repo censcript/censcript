@@ -8110,11 +8110,11 @@
     <programme start="20251014230000 +0000" stop="20251015013000 +0000" channel="Asianet Movies.starhub">
         <title>Salala Mobiles</title>
     </programme>
-    <programme start="20251015013000 +0000" stop="20251015043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251015013000 +0000" stop="20251015042000 +0000" channel="Asianet Movies.starhub">
         <title>Classmates</title>
     </programme>
-    <programme start="20251015043000 +0000" stop="20251015073000 +0000" channel="Asianet Movies.starhub">
-        <title>Oru Marubhoomikkadha</title>
+    <programme start="20251015042000 +0000" stop="20251015073000 +0000" channel="Asianet Movies.starhub">
+        <title>Evidam Swargamanu</title>
     </programme>
     <programme start="20251015073000 +0000" stop="20251015103000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
@@ -8122,7 +8122,7 @@
     <programme start="20251015103000 +0000" stop="20251015133000 +0000" channel="Asianet Movies.starhub">
         <title>2018: Everyone Is a Hero</title>
     </programme>
-    <programme start="20251015133000 +0000" stop="20251015163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251015133000 +0000" stop="20251015163500 +0000" channel="Asianet Movies.starhub">
         <title>Drishyam</title>
     </programme>
     <programme start="20251014160000 +0000" stop="20251014170000 +0000" channel="Astro Warna HD.starhub">
@@ -8293,61 +8293,55 @@
     <programme start="20251014223000 +0000" stop="20251014230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251014230000 +0000" stop="20251015000000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251014230000 +0000" stop="20251015010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20251015000000 +0000" stop="20251015023000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015010000 +0000" stop="20251015021000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251015023000 +0000" stop="20251015030000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015021000 +0000" stop="20251015033500 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
-    <programme start="20251015030000 +0000" stop="20251015033000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015033500 +0000" stop="20251015040000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
-    </programme>
-    <programme start="20251015033000 +0000" stop="20251015040000 +0000" channel="Dragon TV.starhub">
-        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251015040000 +0000" stop="20251015043000 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
     </programme>
-    <programme start="20251015043000 +0000" stop="20251015060000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015043000 +0000" stop="20251015061500 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20251015060000 +0000" stop="20251015073000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015061500 +0000" stop="20251015073500 +0000" channel="Dragon TV.starhub">
         <title>Dream Home</title>
     </programme>
-    <programme start="20251015073000 +0000" stop="20251015083000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015073500 +0000" stop="20251015084500 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
-    <programme start="20251015083000 +0000" stop="20251015090000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015084500 +0000" stop="20251015092000 +0000" channel="Dragon TV.starhub">
         <title>I LOVE SHANGHAI</title>
     </programme>
-    <programme start="20251015090000 +0000" stop="20251015093500 +0000" channel="Dragon TV.starhub">
-        <title>New Entertainment</title>
-    </programme>
-    <programme start="20251015093500 +0000" stop="20251015100000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015092000 +0000" stop="20251015100000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251015100000 +0000" stop="20251015110000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20251015110000 +0000" stop="20251015123000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015110000 +0000" stop="20251015121500 +0000" channel="Dragon TV.starhub">
         <title>Dream Home</title>
     </programme>
-    <programme start="20251015123000 +0000" stop="20251015133000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015121500 +0000" stop="20251015131500 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251015133000 +0000" stop="20251015143000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015131500 +0000" stop="20251015141000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20251015143000 +0000" stop="20251015150000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015141000 +0000" stop="20251015143500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20251015150000 +0000" stop="20251015153000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015143500 +0000" stop="20251015150000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251015153000 +0000" stop="20251015170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015150000 +0000" stop="20251015170000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20251014160000 +0000" stop="20251014163000 +0000" channel="Travelxp HD.starhub">
