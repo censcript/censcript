@@ -8344,7 +8344,7 @@
     <programme start="20251015143500 +0000" stop="20251015150000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251015150000 +0000" stop="20251015170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251015150000 +0000" stop="20251015161000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20251014160000 +0000" stop="20251014163000 +0000" channel="Travelxp HD.starhub">
