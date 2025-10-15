@@ -3218,7 +3218,7 @@
     <title>PL: FC Chelsea - FC Liverpool, 7. Spieltag</title>
 </programme>
 <programme start="20251014223000 +0000" stop="20251015003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 2. Tag</title>
+    <title>ATP 250: D. Altmaier (GER) - G.-A. Bailly (BEL), BNP Paribas Fortis European Open in Brüssel (BEL), 2. Tag</title>
 </programme>
 <programme start="20251015003000 +0000" stop="20251015010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
@@ -3230,7 +3230,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251015023000 +0000" stop="20251015043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Ningbo Open in Ningbo (CHN), 2. Tag</title>
+    <title>WTA 500: M. Vondrousova (CZE) - K. Muchova (CZE), Ningbo Open in Ningbo (CHN), 2. Tag</title>
 </programme>
 <programme start="20251015043000 +0000" stop="20251015050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3244,7 +3244,7 @@
 <programme start="20251015203000 +0000" stop="20251015230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - C. Gauff (USA), Wuhan Open in Wuhan (CHN), Finale</title>
 </programme>
-<programme start="20251014224500 +0000" stop="20251014230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251014224000 +0000" stop="20251014230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights DET@TOR</title>
 </programme>
 <programme start="20251014230000 +0000" stop="20251015020000 +0000" channel="Sky Sport Top Event HD.skyde">

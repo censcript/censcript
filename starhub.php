@@ -2315,31 +2315,31 @@
         <title>ATP Tour 250 2025: Brussels Day 2 Match 4</title>
     </programme>
     <programme start="20251015023000 +0000" stop="20251015040000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Almaty Day 2 Match 3</title>
+        <title>Almaty Day 2 Nakashima v Medjedovic</title>
     </programme>
     <programme start="20251015040000 +0000" stop="20251015053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Almaty Day 2 Match 4</title>
+        <title>Almaty Day 2 Djere v Shevchenko</title>
     </programme>
     <programme start="20251015053000 +0000" stop="20251015060000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
     <programme start="20251015060000 +0000" stop="20251015080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Almaty Day 3 Match 1 (Live)</title>
+        <title>Almaty Day 3 Mochizuki v Cazaux</title>
     </programme>
     <programme start="20251015080000 +0000" stop="20251015100000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Almaty Day 3 Match 2 (Live)</title>
+        <title>Almaty Day 3 Michelsen v Zhukayev</title>
     </programme>
-    <programme start="20251015100000 +0000" stop="20251015120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Almaty Day 3 Match 3 (Live)</title>
-    </programme>
-    <programme start="20251015120000 +0000" stop="20251015123000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20251015100000 +0000" stop="20251015103000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>ATP Tour: This Week 2025</title>
     </programme>
+    <programme start="20251015103000 +0000" stop="20251015123000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Almaty Day 3 Moutet v Shevchenko</title>
+    </programme>
     <programme start="20251015123000 +0000" stop="20251015140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 500 2025: Beijing Final Sinner v Tien</title>
+        <title>Beijing Final Sinner v Tien</title>
     </programme>
     <programme start="20251015140000 +0000" stop="20251015160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>ATP Tour 250 2025: Almaty Day 3 Match 4 (Live)</title>
+        <title>Almaty Day 3 Nakashima v Marozsan</title>
     </programme>
     <programme start="20251014160000 +0000" stop="20251014170000 +0000" channel="TVB Xing He.starhub">
         <title>Lady Flower Fist</title>
@@ -8272,25 +8272,28 @@
     <programme start="20251015135500 +0000" stop="20251015180000 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20251014145000 +0000" stop="20251014170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251014145000 +0000" stop="20251014164000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
-    <programme start="20251014170000 +0000" stop="20251014180000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251014164000 +0000" stop="20251014170500 +0000" channel="Dragon TV.starhub">
+        <title>I LOVE SHANGHAI</title>
+    </programme>
+    <programme start="20251014170500 +0000" stop="20251014180500 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20251014180000 +0000" stop="20251014190000 +0000" channel="Dragon TV.starhub">
-        <title>futuer china</title>
+    <programme start="20251014180500 +0000" stop="20251014195000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
     </programme>
-    <programme start="20251014190000 +0000" stop="20251014210000 +0000" channel="Dragon TV.starhub">
-        <title>Overtime no more</title>
+    <programme start="20251014195000 +0000" stop="20251014205000 +0000" channel="Dragon TV.starhub">
+        <title>Overtime No More</title>
     </programme>
-    <programme start="20251014210000 +0000" stop="20251014220000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251014205000 +0000" stop="20251014221000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20251014220000 +0000" stop="20251014223000 +0000" channel="Dragon TV.starhub">
-        <title>CHINA Now</title>
+    <programme start="20251014221000 +0000" stop="20251014223500 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
     </programme>
-    <programme start="20251014223000 +0000" stop="20251014230000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251014223500 +0000" stop="20251014230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20251014230000 +0000" stop="20251015010000 +0000" channel="Dragon TV.starhub">
