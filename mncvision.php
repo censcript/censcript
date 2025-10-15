@@ -586,255 +586,9 @@
 <programme start="20251015130000 +0000" stop="20251015133000 +0000" channel="Arirang.mncvision">
     <title>Arirang Special</title>
 </programme>
-<programme start="20251014172500 +0000" stop="20251014182000 +0000" channel="AXN.mncvision">
-    <title>Blue Bloods S14, Ep 4</title>
-</programme>
-<programme start="20251014182000 +0000" stop="20251014191500 +0000" channel="AXN.mncvision">
-    <title>Rookie Blue S5, Ep 21</title>
-</programme>
-<programme start="20251014191500 +0000" stop="20251014201000 +0000" channel="AXN.mncvision">
-    <title>The Blacklist S10, Ep 1</title>
-</programme>
-<programme start="20251014201000 +0000" stop="20251014210500 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251014210500 +0000" stop="20251014220000 +0000" channel="AXN.mncvision">
-    <title>American Ninja... S15, Ep 19</title>
-</programme>
-<programme start="20251014220000 +0000" stop="20251014225000 +0000" channel="AXN.mncvision">
-    <title>Rookie Blue S5, Ep 21</title>
-</programme>
-<programme start="20251014225000 +0000" stop="20251014233500 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251014233500 +0000" stop="20251015002500 +0000" channel="AXN.mncvision">
-    <title>CSI: Vegas S3, Ep 1</title>
-</programme>
-<programme start="20251015002500 +0000" stop="20251015011500 +0000" channel="AXN.mncvision">
-    <title>The Blacklist S10, Ep 2</title>
-</programme>
-<programme start="20251015011500 +0000" stop="20251015020500 +0000" channel="AXN.mncvision">
-    <title>Blue Bloods S14, Ep 4</title>
-</programme>
-<programme start="20251015020500 +0000" stop="20251015025500 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251015025500 +0000" stop="20251015035000 +0000" channel="AXN.mncvision">
-    <title>American Ninja... S15, Ep 19</title>
-</programme>
-<programme start="20251015035000 +0000" stop="20251015044500 +0000" channel="AXN.mncvision">
-    <title>CSI: Vegas S3, Ep 1</title>
-</programme>
-<programme start="20251015044500 +0000" stop="20251015054000 +0000" channel="AXN.mncvision">
-    <title>Blue Bloods S14, Ep 4</title>
-</programme>
-<programme start="20251015054000 +0000" stop="20251015063000 +0000" channel="AXN.mncvision">
-    <title>The Blacklist S10, Ep 2</title>
-</programme>
-<programme start="20251015063000 +0000" stop="20251015072500 +0000" channel="AXN.mncvision">
-    <title>American Ninja... S15, Ep 19</title>
-</programme>
-<programme start="20251015072500 +0000" stop="20251015082000 +0000" channel="AXN.mncvision">
-    <title>CSI: Vegas S3, Ep 1</title>
-</programme>
-<programme start="20251015082000 +0000" stop="20251015091000 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251015091000 +0000" stop="20251015100500 +0000" channel="AXN.mncvision">
-    <title>Blue Bloods S14, Ep 5</title>
-</programme>
-<programme start="20251015100500 +0000" stop="20251015110000 +0000" channel="AXN.mncvision">
-    <title>The Rainmaker S1, Ep 2</title>
-</programme>
-<programme start="20251015110000 +0000" stop="20251015115500 +0000" channel="AXN.mncvision">
-    <title>Rookie Blue S5, Ep 22</title>
-</programme>
-<programme start="20251015115500 +0000" stop="20251015125000 +0000" channel="AXN.mncvision">
-    <title>American Ninja... S15, Ep 20</title>
-</programme>
-<programme start="20251015125000 +0000" stop="20251015134500 +0000" channel="AXN.mncvision">
-    <title>CSI: Vegas S3, Ep 2</title>
-</programme>
-<programme start="20251015134500 +0000" stop="20251015144000 +0000" channel="AXN.mncvision">
-    <title>FBI: International S4, Ep 22</title>
-</programme>
-<programme start="20251015144000 +0000" stop="20251015153500 +0000" channel="AXN.mncvision">
-    <title>NCIS: Origins S2, Ep 1</title>
-</programme>
-<programme start="20251015153500 +0000" stop="20251015163000 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S4, Ep 2</title>
-</programme>
-<programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="AXN.mncvision">
-    <title>FBI: International S4, Ep 22</title>
-</programme>
-<programme start="20251014172500 +0000" stop="20251014182000 +0000" channel="AXN HD.mncvision">
-    <title>Blue Bloods S14, Ep 4</title>
-</programme>
-<programme start="20251014182000 +0000" stop="20251014191500 +0000" channel="AXN HD.mncvision">
-    <title>Rookie Blue S5, Ep 21</title>
-</programme>
-<programme start="20251014191500 +0000" stop="20251014201000 +0000" channel="AXN HD.mncvision">
-    <title>The Blacklist S10, Ep 1</title>
-</programme>
-<programme start="20251014201000 +0000" stop="20251014210500 +0000" channel="AXN HD.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251014210500 +0000" stop="20251014220000 +0000" channel="AXN HD.mncvision">
-    <title>American Ninja... S15, Ep 19</title>
-</programme>
-<programme start="20251014220000 +0000" stop="20251014225000 +0000" channel="AXN HD.mncvision">
-    <title>Rookie Blue S5, Ep 21</title>
-</programme>
-<programme start="20251014225000 +0000" stop="20251014233500 +0000" channel="AXN HD.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251014233500 +0000" stop="20251015002500 +0000" channel="AXN HD.mncvision">
-    <title>CSI: Vegas S3, Ep 1</title>
-</programme>
-<programme start="20251015002500 +0000" stop="20251015011500 +0000" channel="AXN HD.mncvision">
-    <title>The Blacklist S10, Ep 2</title>
-</programme>
-<programme start="20251015011500 +0000" stop="20251015020500 +0000" channel="AXN HD.mncvision">
-    <title>Blue Bloods S14, Ep 4</title>
-</programme>
-<programme start="20251015020500 +0000" stop="20251015025500 +0000" channel="AXN HD.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251015025500 +0000" stop="20251015035000 +0000" channel="AXN HD.mncvision">
-    <title>American Ninja... S15, Ep 19</title>
-</programme>
-<programme start="20251015035000 +0000" stop="20251015044500 +0000" channel="AXN HD.mncvision">
-    <title>CSI: Vegas S3, Ep 1</title>
-</programme>
-<programme start="20251015044500 +0000" stop="20251015054000 +0000" channel="AXN HD.mncvision">
-    <title>Blue Bloods S14, Ep 4</title>
-</programme>
-<programme start="20251015054000 +0000" stop="20251015063000 +0000" channel="AXN HD.mncvision">
-    <title>The Blacklist S10, Ep 2</title>
-</programme>
-<programme start="20251015063000 +0000" stop="20251015072500 +0000" channel="AXN HD.mncvision">
-    <title>American Ninja... S15, Ep 19</title>
-</programme>
-<programme start="20251015072500 +0000" stop="20251015082000 +0000" channel="AXN HD.mncvision">
-    <title>CSI: Vegas S3, Ep 1</title>
-</programme>
-<programme start="20251015082000 +0000" stop="20251015091000 +0000" channel="AXN HD.mncvision">
-    <title>S.W.A.T. S4, Ep 1</title>
-</programme>
-<programme start="20251015091000 +0000" stop="20251015100500 +0000" channel="AXN HD.mncvision">
-    <title>Blue Bloods S14, Ep 5</title>
-</programme>
-<programme start="20251015100500 +0000" stop="20251015110000 +0000" channel="AXN HD.mncvision">
-    <title>The Rainmaker S1, Ep 2</title>
-</programme>
-<programme start="20251015110000 +0000" stop="20251015115500 +0000" channel="AXN HD.mncvision">
-    <title>Rookie Blue S5, Ep 22</title>
-</programme>
-<programme start="20251015115500 +0000" stop="20251015125000 +0000" channel="AXN HD.mncvision">
-    <title>American Ninja... S15, Ep 20</title>
-</programme>
-<programme start="20251015125000 +0000" stop="20251015134500 +0000" channel="AXN HD.mncvision">
-    <title>CSI: Vegas S3, Ep 2</title>
-</programme>
-<programme start="20251015134500 +0000" stop="20251015144000 +0000" channel="AXN HD.mncvision">
-    <title>FBI: International S4, Ep 22</title>
-</programme>
-<programme start="20251015144000 +0000" stop="20251015153500 +0000" channel="AXN HD.mncvision">
-    <title>NCIS: Origins S2, Ep 1</title>
-</programme>
-<programme start="20251015153500 +0000" stop="20251015163000 +0000" channel="AXN HD.mncvision">
-    <title>S.W.A.T. S4, Ep 2</title>
-</programme>
-<programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="AXN HD.mncvision">
-    <title>FBI: International S4, Ep 22</title>
-</programme>
-<programme start="20251014173500 +0000" stop="20251014182500 +0000" channel="BBC Earth.mncvision">
-    <title>Engineering Repurposed, Ep 9</title>
-</programme>
-<programme start="20251014182500 +0000" stop="20251014191500 +0000" channel="BBC Earth.mncvision">
-    <title>Life Below Zero S11, Ep 13</title>
-</programme>
-<programme start="20251014191500 +0000" stop="20251014201000 +0000" channel="BBC Earth.mncvision">
-    <title>Hidden Caribbean S1, Ep 2</title>
-</programme>
-<programme start="20251014201000 +0000" stop="20251014210000 +0000" channel="BBC Earth.mncvision">
-    <title>Engineering Repurposed, Ep 9</title>
-</programme>
-<programme start="20251014210000 +0000" stop="20251014220000 +0000" channel="BBC Earth.mncvision">
-    <title>Rare Survivors: Wildlife, Ep 1</title>
-</programme>
-<programme start="20251014220000 +0000" stop="20251014225500 +0000" channel="BBC Earth.mncvision">
-    <title>Hidden Caribbean S1, Ep 2</title>
-</programme>
-<programme start="20251014225500 +0000" stop="20251014234500 +0000" channel="BBC Earth.mncvision">
-    <title>Engineering Repurposed, Ep 9</title>
-</programme>
-<programme start="20251014234500 +0000" stop="20251015001500 +0000" channel="BBC Earth.mncvision">
-    <title>Food Factory S4, Ep 11</title>
-</programme>
-<programme start="20251015001500 +0000" stop="20251015004500 +0000" channel="BBC Earth.mncvision">
-    <title>Food Factory S4, Ep 12</title>
-</programme>
-<programme start="20251015004500 +0000" stop="20251015013500 +0000" channel="BBC Earth.mncvision">
-    <title>Europe&#039;s Mightiest River, Ep 3</title>
-</programme>
-<programme start="20251015013500 +0000" stop="20251015023000 +0000" channel="BBC Earth.mncvision">
-    <title>Hidden Caribbean S1, Ep 2</title>
-</programme>
-<programme start="20251015023000 +0000" stop="20251015032500 +0000" channel="BBC Earth.mncvision">
-    <title>Griff&#039;s Great Kiwi Trip, Ep 3</title>
-</programme>
-<programme start="20251015032500 +0000" stop="20251015042000 +0000" channel="BBC Earth.mncvision">
-    <title>Engineering Repurposed, Ep 9</title>
-</programme>
-<programme start="20251015042000 +0000" stop="20251015052000 +0000" channel="BBC Earth.mncvision">
-    <title>Planet Earth S1, Ep 9</title>
-</programme>
-<programme start="20251015052000 +0000" stop="20251015062000 +0000" channel="BBC Earth.mncvision">
-    <title>Rare Survivors: Wildlife, Ep 1</title>
-</programme>
-<programme start="20251015062000 +0000" stop="20251015071500 +0000" channel="BBC Earth.mncvision">
-    <title>Griff&#039;s Great Kiwi Trip, Ep 3</title>
-</programme>
-<programme start="20251015071500 +0000" stop="20251015081000 +0000" channel="BBC Earth.mncvision">
-    <title>Hidden Caribbean S1, Ep 2</title>
-</programme>
-<programme start="20251015081000 +0000" stop="20251015084000 +0000" channel="BBC Earth.mncvision">
-    <title>Food Factory S4, Ep 11</title>
-</programme>
-<programme start="20251015084000 +0000" stop="20251015091000 +0000" channel="BBC Earth.mncvision">
-    <title>Food Factory S4, Ep 12</title>
-</programme>
-<programme start="20251015091000 +0000" stop="20251015101000 +0000" channel="BBC Earth.mncvision">
-    <title>Rare Survivors: Wildlife, Ep 1</title>
-</programme>
-<programme start="20251015101000 +0000" stop="20251015110500 +0000" channel="BBC Earth.mncvision">
-    <title>Engineering Repurposed, Ep 9</title>
-</programme>
-<programme start="20251015110500 +0000" stop="20251015113500 +0000" channel="BBC Earth.mncvision">
-    <title>Food Factory S4, Ep 13</title>
-</programme>
-<programme start="20251015113500 +0000" stop="20251015120500 +0000" channel="BBC Earth.mncvision">
-    <title>Food Factory S4, Ep 14</title>
-</programme>
-<programme start="20251015120500 +0000" stop="20251015130000 +0000" channel="BBC Earth.mncvision">
-    <title>Croc Watch With Steve S1, Ep 1</title>
-</programme>
-<programme start="20251015130000 +0000" stop="20251015135500 +0000" channel="BBC Earth.mncvision">
-    <title>Europe&#039;s Mightiest River, Ep 4</title>
-</programme>
-<programme start="20251015135500 +0000" stop="20251015145000 +0000" channel="BBC Earth.mncvision">
-    <title>Where Wild Men Are S11, Ep 12</title>
-</programme>
-<programme start="20251015145000 +0000" stop="20251015154500 +0000" channel="BBC Earth.mncvision">
-    <title>Life Below Zero S11, Ep 14</title>
-</programme>
-<programme start="20251015154500 +0000" stop="20251015163500 +0000" channel="BBC Earth.mncvision">
-    <title>Croc Watch With Steve S1, Ep 1</title>
-</programme>
-<programme start="20251015163500 +0000" stop="20251014170500 +0000" channel="BBC Earth.mncvision">
-    <title>Europe&#039;s Mightiest River, Ep 4</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251014173500 +0000" stop="20251014182500 +0000" channel="BBC Earth HD.mncvision">
     <title>Engineering Repurposed, Ep 9</title>
 </programme>
@@ -1273,11 +1027,11 @@
 <programme start="20251015080000 +0000" stop="20251015100000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 250 2025: Almaty (L)</title>
 </programme>
-<programme start="20251015100000 +0000" stop="20251015120000 +0000" channel="beIN Sports 2.mncvision">
-    <title>ATP Tour 250 2025: Almaty (L)</title>
-</programme>
-<programme start="20251015120000 +0000" stop="20251015123000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20251015100000 +0000" stop="20251015103000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour: This Week 2025, Ep 40</title>
+</programme>
+<programme start="20251015103000 +0000" stop="20251015123000 +0000" channel="beIN Sports 2.mncvision">
+    <title>ATP Tour 250 2025: Almaty (L)</title>
 </programme>
 <programme start="20251015123000 +0000" stop="20251015140000 +0000" channel="beIN Sports 2.mncvision">
     <title>ATP Tour 500 &#039;25: Beijing Final</title>
@@ -1321,11 +1075,11 @@
 <programme start="20251015080000 +0000" stop="20251015100000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 250 2025: Almaty (L)</title>
 </programme>
-<programme start="20251015100000 +0000" stop="20251015120000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>ATP Tour 250 2025: Almaty (L)</title>
-</programme>
-<programme start="20251015120000 +0000" stop="20251015123000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20251015100000 +0000" stop="20251015103000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour: This Week 2025, Ep 40</title>
+</programme>
+<programme start="20251015103000 +0000" stop="20251015123000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>ATP Tour 250 2025: Almaty (L)</title>
 </programme>
 <programme start="20251015123000 +0000" stop="20251015140000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>ATP Tour 500 &#039;25: Beijing Final</title>
@@ -1945,99 +1699,7 @@
 <programme start="20251015164000 +0000" stop="20251014171000 +0000" channel="CCM.mncvision">
     <title>The Blue And The Black, Pt 2</title>
 </programme>
-<programme start="20251014170000 +0000" stop="20251014180000 +0000" channel="Celebrities TV.mncvision">
-    <title>Hotman Paris Show</title>
-</programme>
-<programme start="20251014180000 +0000" stop="20251014190000 +0000" channel="Celebrities TV.mncvision">
-    <title>Tamu Dadakan</title>
-</programme>
-<programme start="20251014190000 +0000" stop="20251014200000 +0000" channel="Celebrities TV.mncvision">
-    <title>Cinta Yasmin</title>
-</programme>
-<programme start="20251014200000 +0000" stop="20251014210000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20251014210000 +0000" stop="20251014213000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Files</title>
-</programme>
-<programme start="20251014213000 +0000" stop="20251014220000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20251014220000 +0000" stop="20251014230000 +0000" channel="Celebrities TV.mncvision">
-    <title>Hotman Paris Show</title>
-</programme>
-<programme start="20251014230000 +0000" stop="20251014233000 +0000" channel="Celebrities TV.mncvision">
-    <title>Super Papa</title>
-</programme>
-<programme start="20251014233000 +0000" stop="20251015000000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Files</title>
-</programme>
-<programme start="20251015000000 +0000" stop="20251015010000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20251015010000 +0000" stop="20251015020000 +0000" channel="Celebrities TV.mncvision">
-    <title>Kisah Kasih Ciki Rezky</title>
-</programme>
-<programme start="20251015020000 +0000" stop="20251015023000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20251015023000 +0000" stop="20251015030000 +0000" channel="Celebrities TV.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20251015030000 +0000" stop="20251015040000 +0000" channel="Celebrities TV.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20251015040000 +0000" stop="20251015050000 +0000" channel="Celebrities TV.mncvision">
-    <title>Tamu Dadakan</title>
-</programme>
-<programme start="20251015050000 +0000" stop="20251015060000 +0000" channel="Celebrities TV.mncvision">
-    <title>Cinta Yasmin</title>
-</programme>
-<programme start="20251015060000 +0000" stop="20251015070000 +0000" channel="Celebrities TV.mncvision">
-    <title>Hotman Paris Show</title>
-</programme>
-<programme start="20251015070000 +0000" stop="20251015080000 +0000" channel="Celebrities TV.mncvision">
-    <title>Kisah Kasih Ciki Rezky</title>
-</programme>
-<programme start="20251015080000 +0000" stop="20251015083000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Files</title>
-</programme>
-<programme start="20251015083000 +0000" stop="20251015093000 +0000" channel="Celebrities TV.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20251015093000 +0000" stop="20251015100000 +0000" channel="Celebrities TV.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20251015100000 +0000" stop="20251015103000 +0000" channel="Celebrities TV.mncvision">
-    <title>Super Papa</title>
-</programme>
-<programme start="20251015103000 +0000" stop="20251015110000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20251015110000 +0000" stop="20251015120000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20251015120000 +0000" stop="20251015123000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Top 10</title>
-</programme>
-<programme start="20251015123000 +0000" stop="20251015130000 +0000" channel="Celebrities TV.mncvision">
-    <title>Go Spot</title>
-</programme>
-<programme start="20251015130000 +0000" stop="20251015140000 +0000" channel="Celebrities TV.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20251015140000 +0000" stop="20251015150000 +0000" channel="Celebrities TV.mncvision">
-    <title>Kisah Kasih Ciki Rezky</title>
-</programme>
-<programme start="20251015150000 +0000" stop="20251015160000 +0000" channel="Celebrities TV.mncvision">
-    <title>iSeleb</title>
-</programme>
-<programme start="20251015160000 +0000" stop="20251015163000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Top 10</title>
-</programme>
-<programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="Celebrities TV.mncvision">
-    <title>Seleb On News</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251014175700 +0000" stop="20251014200300 +0000" channel="Celestial Movies.mncvision">
     <title>Operation Mekong</title>
 </programme>
@@ -5914,14 +5576,14 @@
 <programme start="20251015034500 +0000" stop="20251015044500 +0000" channel="MNCTV.mncvision">
     <title>Seleb On News</title>
 </programme>
-<programme start="20251015044500 +0000" stop="20251015061500 +0000" channel="MNCTV.mncvision">
+<programme start="20251015044500 +0000" stop="20251015073000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20251015061500 +0000" stop="20251015080000 +0000" channel="MNCTV.mncvision">
+<programme start="20251015073000 +0000" stop="20251015090000 +0000" channel="MNCTV.mncvision">
     <title>Kuasa Ilahi</title>
 </programme>
-<programme start="20251015080000 +0000" stop="20251015100000 +0000" channel="MNCTV.mncvision">
-    <title>Bedah Rumah</title>
+<programme start="20251015090000 +0000" stop="20251015100000 +0000" channel="MNCTV.mncvision">
+    <title>Kilau Uang Kaget &amp; Bedah Rumah</title>
 </programme>
 <programme start="20251015100000 +0000" stop="20251015113000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
@@ -5935,201 +5597,8 @@
 <programme start="20251015160000 +0000" stop="20251015163000 +0000" channel="MNCTV.mncvision">
     <title>Lingkar Takdir</title>
 </programme>
-<programme start="20251014170000 +0000" stop="20251014190000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20251014190000 +0000" stop="20251014210000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20251014210000 +0000" stop="20251014220000 +0000" channel="MNCTV HD.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20251014220000 +0000" stop="20251014230000 +0000" channel="MNCTV HD.mncvision">
-    <title>Siraman Qolbu</title>
-</programme>
-<programme start="20251014230000 +0000" stop="20251014231500 +0000" channel="MNCTV HD.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251014231500 +0000" stop="20251015001500 +0000" channel="MNCTV HD.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20251015001500 +0000" stop="20251015010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kung Fu Panda Sang Pendekar</title>
-</programme>
-<programme start="20251015010000 +0000" stop="20251015023000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251015023000 +0000" stop="20251015031500 +0000" channel="MNCTV HD.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20251015031500 +0000" stop="20251015034500 +0000" channel="MNCTV HD.mncvision">
-    <title>Jurnal Lintas iNews Siang</title>
-</programme>
-<programme start="20251015034500 +0000" stop="20251015044500 +0000" channel="MNCTV HD.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20251015044500 +0000" stop="20251015061500 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251015061500 +0000" stop="20251015080000 +0000" channel="MNCTV HD.mncvision">
-    <title>Kuasa Ilahi</title>
-</programme>
-<programme start="20251015080000 +0000" stop="20251015100000 +0000" channel="MNCTV HD.mncvision">
-    <title>Bedah Rumah</title>
-</programme>
-<programme start="20251015100000 +0000" stop="20251015113000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20251015113000 +0000" stop="20251015123000 +0000" channel="MNCTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20251015123000 +0000" stop="20251015160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki (L)</title>
-</programme>
-<programme start="20251015160000 +0000" stop="20251015163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Lingkar Takdir</title>
-</programme>
-<programme start="20251014172500 +0000" stop="20251014174400 +0000" channel="Moonbug.mncvision">
-    <title>Little World</title>
-</programme>
-<programme start="20251014174400 +0000" stop="20251014180100 +0000" channel="Moonbug.mncvision">
-    <title>Little World</title>
-</programme>
-<programme start="20251014180100 +0000" stop="20251014183300 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251014183300 +0000" stop="20251014185500 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20251014185500 +0000" stop="20251014205500 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum: Lullabies</title>
-</programme>
-<programme start="20251014205500 +0000" stop="20251014225200 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum: Lullabies</title>
-</programme>
-<programme start="20251014225200 +0000" stop="20251014230000 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods: Short</title>
-</programme>
-<programme start="20251014230000 +0000" stop="20251014232200 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251014232200 +0000" stop="20251014235900 +0000" channel="Moonbug.mncvision">
-    <title>Dance Party</title>
-</programme>
-<programme start="20251014235900 +0000" stop="20251015002700 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251015002700 +0000" stop="20251015005000 +0000" channel="Moonbug.mncvision">
-    <title>Blippi &amp; Meekah&#039;s Game Show</title>
-</programme>
-<programme start="20251015005000 +0000" stop="20251015011200 +0000" channel="Moonbug.mncvision">
-    <title>Blippi &amp; Meekah&#039;s Game Show</title>
-</programme>
-<programme start="20251015011200 +0000" stop="20251015013700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi &amp; Meekah&#039;s Game Show</title>
-</programme>
-<programme start="20251015013700 +0000" stop="20251015020600 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20251015020600 +0000" stop="20251015023100 +0000" channel="Moonbug.mncvision">
-    <title>Little Angel</title>
-</programme>
-<programme start="20251015023100 +0000" stop="20251015030700 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251015030700 +0000" stop="20251015032500 +0000" channel="Moonbug.mncvision">
-    <title>Cody Time</title>
-</programme>
-<programme start="20251015032500 +0000" stop="20251015034300 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20251015034300 +0000" stop="20251015040300 +0000" channel="Moonbug.mncvision">
-    <title>Little Baby Bum</title>
-</programme>
-<programme start="20251015040300 +0000" stop="20251015044400 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015044400 +0000" stop="20251015051000 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015051000 +0000" stop="20251015053100 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015053100 +0000" stop="20251015060600 +0000" channel="Moonbug.mncvision">
-    <title>ARPO</title>
-</programme>
-<programme start="20251015060600 +0000" stop="20251015062600 +0000" channel="Moonbug.mncvision">
-    <title>ARPO</title>
-</programme>
-<programme start="20251015062600 +0000" stop="20251015070200 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20251015070200 +0000" stop="20251015073000 +0000" channel="Moonbug.mncvision">
-    <title>Oddbods</title>
-</programme>
-<programme start="20251015073000 +0000" stop="20251015080100 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015080100 +0000" stop="20251015083400 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015083400 +0000" stop="20251015090500 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015090500 +0000" stop="20251015093900 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251015093900 +0000" stop="20251015100900 +0000" channel="Moonbug.mncvision">
-    <title>Cody Time</title>
-</programme>
-<programme start="20251015100900 +0000" stop="20251015102600 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251015102600 +0000" stop="20251015110000 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20251015110000 +0000" stop="20251015112400 +0000" channel="Moonbug.mncvision">
-    <title>Rob The Robot</title>
-</programme>
-<programme start="20251015112400 +0000" stop="20251015115400 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015115400 +0000" stop="20251015122800 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015122800 +0000" stop="20251015125700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015125700 +0000" stop="20251015133200 +0000" channel="Moonbug.mncvision">
-    <title>JJ&#039;s Animal Time</title>
-</programme>
-<programme start="20251015133200 +0000" stop="20251015135500 +0000" channel="Moonbug.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20251015135500 +0000" stop="20251015142100 +0000" channel="Moonbug.mncvision">
-    <title>Blippi &amp; Meekah&#039;s Game Show</title>
-</programme>
-<programme start="20251015142100 +0000" stop="20251015144500 +0000" channel="Moonbug.mncvision">
-    <title>Blippi &amp; Meekah&#039;s Game Show</title>
-</programme>
-<programme start="20251015144500 +0000" stop="20251015150700 +0000" channel="Moonbug.mncvision">
-    <title>Blippi &amp; Meekah&#039;s Game Show</title>
-</programme>
-<programme start="20251015150700 +0000" stop="20251015154200 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015154200 +0000" stop="20251015160600 +0000" channel="Moonbug.mncvision">
-    <title>Blippi</title>
-</programme>
-<programme start="20251015160600 +0000" stop="20251015163000 +0000" channel="Moonbug.mncvision">
-    <title>KiiYii</title>
-</programme>
-<programme start="20251015163000 +0000" stop="20251015165500 +0000" channel="Moonbug.mncvision">
-    <title>KiiYii</title>
-</programme>
-<programme start="20251015165500 +0000" stop="20251014172500 +0000" channel="Moonbug.mncvision">
-    <title>Little World</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251014190000 +0000" stop="20251014203000 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
@@ -7924,75 +7393,8 @@
 <programme start="20251015160000 +0000" stop="20251015163000 +0000" channel="SCTV HD.mncvision">
     <title>Inem Pelayan Selfie</title>
 </programme>
-<programme start="20251014170000 +0000" stop="20251014173000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251014173000 +0000" stop="20251014180000 +0000" channel="Sindo News TV.mncvision">
-    <title>New Top Files</title>
-</programme>
-<programme start="20251014180000 +0000" stop="20251014183500 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Malam</title>
-</programme>
-<programme start="20251014183500 +0000" stop="20251014210000 +0000" channel="Sindo News TV.mncvision">
-    <title>European Qual.: AND Vs SRB (L)</title>
-</programme>
-<programme start="20251014210000 +0000" stop="20251014220000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20251014220000 +0000" stop="20251014230000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20251014230000 +0000" stop="20251015000000 +0000" channel="Sindo News TV.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20251015000000 +0000" stop="20251015003000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Today</title>
-</programme>
-<programme start="20251015003000 +0000" stop="20251015020000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Today</title>
-</programme>
-<programme start="20251015020000 +0000" stop="20251015030000 +0000" channel="Sindo News TV.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20251015030000 +0000" stop="20251015033000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Sport Pagi</title>
-</programme>
-<programme start="20251015033000 +0000" stop="20251015050000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Siang</title>
-</programme>
-<programme start="20251015050000 +0000" stop="20251015053000 +0000" channel="Sindo News TV.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20251015053000 +0000" stop="20251015070000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Today</title>
-</programme>
-<programme start="20251015070000 +0000" stop="20251015073000 +0000" channel="Sindo News TV.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20251015073000 +0000" stop="20251015090000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Siang</title>
-</programme>
-<programme start="20251015090000 +0000" stop="20251015093000 +0000" channel="Sindo News TV.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20251015093000 +0000" stop="20251015110000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20251015110000 +0000" stop="20251015120000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20251015120000 +0000" stop="20251015133000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20251015133000 +0000" stop="20251015153000 +0000" channel="Sindo News TV.mncvision">
-    <title>Rakyat Bersuara</title>
-</programme>
-<programme start="20251015153000 +0000" stop="20251015163000 +0000" channel="Sindo News TV.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="Sindo News TV.mncvision">
-    <title>OMG</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251014170000 +0000" stop="20251014173000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sport</title>
 </programme>
@@ -8158,63 +7560,7 @@
 <programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Copa del Rey: OUR Vs VAL</title>
 </programme>
-<programme start="20251014180000 +0000" stop="20251014183000 +0000" channel="Sportstars.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251014183000 +0000" stop="20251014204500 +0000" channel="Sportstars.mncvision">
-    <title>European Qual.: POR Vs HUN (L)</title>
-</programme>
-<programme start="20251014204500 +0000" stop="20251014210000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251014210000 +0000" stop="20251014230000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup Women</title>
-</programme>
-<programme start="20251014230000 +0000" stop="20251014233000 +0000" channel="Sportstars.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251014233000 +0000" stop="20251015000000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251015000000 +0000" stop="20251015003000 +0000" channel="Sportstars.mncvision">
-    <title>Adrenaline Rush</title>
-</programme>
-<programme start="20251015003000 +0000" stop="20251015023000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup Men</title>
-</programme>
-<programme start="20251015023000 +0000" stop="20251015043000 +0000" channel="Sportstars.mncvision">
-    <title>The Championship Wimbledon</title>
-</programme>
-<programme start="20251015043000 +0000" stop="20251015050000 +0000" channel="Sportstars.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251015050000 +0000" stop="20251015053000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251015053000 +0000" stop="20251015080000 +0000" channel="Sportstars.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251015080000 +0000" stop="20251015083000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251015083000 +0000" stop="20251015090000 +0000" channel="Sportstars.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251015090000 +0000" stop="20251015110000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup Women</title>
-</programme>
-<programme start="20251015110000 +0000" stop="20251015130000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup Men</title>
-</programme>
-<programme start="20251015130000 +0000" stop="20251015133000 +0000" channel="Sportstars.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251015133000 +0000" stop="20251015153000 +0000" channel="Sportstars.mncvision">
-    <title>The Championship Wimbledon</title>
-</programme>
-<programme start="20251015153000 +0000" stop="20251015160000 +0000" channel="Sportstars.mncvision">
-    <title>KOVO Cup Women</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251014170000 +0000" stop="20251014190000 +0000" channel="Sportstars 2.mncvision">
     <title>AFC Asian Qual.: QAT Vs UAE (L)</title>
 </programme>
@@ -8263,54 +7609,7 @@
 <programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="Sportstars 2.mncvision">
     <title>European Qualifiers</title>
 </programme>
-<programme start="20251014170000 +0000" stop="20251014190000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC Asian Qual.: QAT Vs UAE (L)</title>
-</programme>
-<programme start="20251014190000 +0000" stop="20251014210000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>The Championship Wimbledon</title>
-</programme>
-<programme start="20251014210000 +0000" stop="20251014230000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251014230000 +0000" stop="20251014233000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Adrenaline Rush</title>
-</programme>
-<programme start="20251014233000 +0000" stop="20251015000000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251015000000 +0000" stop="20251015020000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20251015020000 +0000" stop="20251015023000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251015023000 +0000" stop="20251015043000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>KOVO Cup</title>
-</programme>
-<programme start="20251015043000 +0000" stop="20251015063000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>The Championship Wimbledon</title>
-</programme>
-<programme start="20251015063000 +0000" stop="20251015080000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Tinju</title>
-</programme>
-<programme start="20251015080000 +0000" stop="20251015100000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20251015100000 +0000" stop="20251015123000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251015123000 +0000" stop="20251015143000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>KOVO Cup</title>
-</programme>
-<programme start="20251015143000 +0000" stop="20251015150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20251015150000 +0000" stop="20251015163000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Tinju</title>
-</programme>
-<programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>European Qualifiers</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251014170000 +0000" stop="20251014173000 +0000" channel="Sportstars 3.mncvision">
     <title>Top Goals</title>
 </programme>

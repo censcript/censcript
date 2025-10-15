@@ -50,10 +50,6 @@
     <title>Football: Omonoia FC - FSV Mainz 05</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015090500 +0700" stop="20251015110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Lecce</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015110000 +0700" stop="20251015131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
@@ -110,8 +106,8 @@
     <title>Football: Bologna - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015100000 +0700" stop="20251015103000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20251016110000 +0700" stop="20251016131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251015103000 +0700" stop="20251015140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -238,10 +234,6 @@
     <title>Basketball: Varese - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251015100000 +0700" stop="20251015110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251015110000 +0700" stop="20251015120000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 FIM Women&#039;s Circuit Racing World Championship</title>
     <desc>Live: Tidak</desc>
@@ -335,6 +327,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016100000 +0700" stop="20251016112500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251016112500 +0700" stop="20251016131000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
