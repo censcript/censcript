@@ -431,10 +431,10 @@
     <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251015143000 +0000" stop="20251015163000 +0000" channel="ANTV.mncvision">
-    <title>A Hearty Response</title>
+    <title>The Man From Hongkong</title>
 </programme>
 <programme start="20251015163000 +0000" stop="20251014170000 +0000" channel="ANTV.mncvision">
-    <title>The Man From Hongkong</title>
+    <title>A Hearty Response</title>
 </programme>
 <programme start="20251014170000 +0000" stop="20251014173000 +0000" channel="Arirang.mncvision">
     <title>The Kulture Wave</title>
@@ -1637,7 +1637,7 @@
     <title>Spot On</title>
 </programme>
 <programme start="20251015080000 +0000" stop="20251015083000 +0000" channel="BTV.mncvision">
-    <title>Dikit-Dikit Damkar</title>
+    <title>30 Minutes With ESDM</title>
 </programme>
 <programme start="20251015083000 +0000" stop="20251015091500 +0000" channel="BTV.mncvision">
     <title>Figur Publik</title>
