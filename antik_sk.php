@@ -1201,40 +1201,40 @@
   <programme start="20251016234000 +0000" stop="20251017005000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251017005000 +0000" stop="20251017020000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017005000 +0000" stop="20251017015000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251017020000 +0000" stop="20251017040000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017015000 +0000" stop="20251017035000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20251017040000 +0000" stop="20251017061000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017035000 +0000" stop="20251017060000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár freestyle</title>
   </programme>
-  <programme start="20251017061000 +0000" stop="20251017074500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017060000 +0000" stop="20251017074000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v alpskom lyžovaní 2025</title>
   </programme>
-  <programme start="20251017074500 +0000" stop="20251017091500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017074000 +0000" stop="20251017092000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v alpskom lyžovaní 2025</title>
   </programme>
-  <programme start="20251017091500 +0000" stop="20251017114500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017092000 +0000" stop="20251017115500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20251017114500 +0000" stop="20251017141000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017115500 +0000" stop="20251017141500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20251017141000 +0000" stop="20251017150000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017141500 +0000" stop="20251017150000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Zostrihy Tipsport ligy</title>
   </programme>
   <programme start="20251017150000 +0000" stop="20251017152500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio Hokej</title>
   </programme>
-  <programme start="20251017152500 +0000" stop="20251017184000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017152500 +0000" stop="20251017183500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20251017184000 +0000" stop="20251017205500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017183500 +0000" stop="20251017203500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Euro Cup</title>
   </programme>
-  <programme start="20251017205500 +0000" stop="20251017222000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251017203500 +0000" stop="20251017220500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
   <programme start="20251016203500 +0000" stop="20251016221500 +0000" channel="JOJ Šport 2.webtv.sk">

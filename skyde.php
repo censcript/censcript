@@ -3709,47 +3709,44 @@
 <programme start="20251016214500 +0000" stop="20251017001000 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight</title>
 </programme>
-<programme start="20251015223000 +0000" stop="20251016002500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Scream 2</title>
+<programme start="20251014234500 +0000" stop="20251015011000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Red Dawn</title>
 </programme>
-<programme start="20251016002500 +0000" stop="20251016022000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Scream 3</title>
+<programme start="20251015011000 +0000" stop="20251015024500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Last Platoon</title>
 </programme>
-<programme start="20251016022000 +0000" stop="20251016040000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Immer Ärger mit den Mädchen</title>
+<programme start="20251015024500 +0000" stop="20251015040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Lassie in Not</title>
 </programme>
-<programme start="20251016040000 +0000" stop="20251016044000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Ein Abend mit... Joseph Vilsmaier</title>
+<programme start="20251015040000 +0000" stop="20251015043500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Ein Abend Mit... Uschi Glas</title>
 </programme>
-<programme start="20251016044000 +0000" stop="20251016063500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Prinz und die Tänzerin</title>
+<programme start="20251015043500 +0000" stop="20251015064000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Pat Garrett jagt Billy the Kid</title>
 </programme>
-<programme start="20251016063500 +0000" stop="20251016083000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Air America</title>
+<programme start="20251015064000 +0000" stop="20251015082000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Geier kennen kein Erbarmen</title>
 </programme>
-<programme start="20251016083000 +0000" stop="20251016101000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Stichtag - Schluss mit gemütlich</title>
+<programme start="20251015082000 +0000" stop="20251015103000 +0000" channel="Warner TV Film HD.skyde">
+    <title>King Arthur</title>
 </programme>
-<programme start="20251016101000 +0000" stop="20251016120000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Teufel trägt Prada</title>
+<programme start="20251015103000 +0000" stop="20251015124000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jurassic Park</title>
 </programme>
-<programme start="20251016120000 +0000" stop="20251016135500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Get Smart</title>
+<programme start="20251015124000 +0000" stop="20251015145000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Vergessene Welt: Jurassic Park</title>
 </programme>
-<programme start="20251016135500 +0000" stop="20251016155000 +0000" channel="Warner TV Film HD.skyde">
-    <title>I, Robot</title>
+<programme start="20251015145000 +0000" stop="20251015161500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jurassic Park 3</title>
 </programme>
-<programme start="20251016155000 +0000" stop="20251016181500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251015161500 +0000" stop="20251015181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Adaptation</title>
+</programme>
+<programme start="20251015181500 +0000" stop="20251015203500 +0000" channel="Warner TV Film HD.skyde">
     <title>Im Körper des Feindes</title>
 </programme>
-<programme start="20251016181500 +0000" stop="20251016194500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Bad Ass 2: Bad Asses</title>
-</programme>
-<programme start="20251016194500 +0000" stop="20251016214500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Brennpunkt L.A. - Lethal Weapon 2</title>
-</programme>
-<programme start="20251016214500 +0000" stop="20251017001000 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Dark Knight</title>
+<programme start="20251015203500 +0000" stop="20251015223000 +0000" channel="Warner TV Film HD.skyde">
+    <title>I, Robot</title>
 </programme>
 <programme start="20251015220000 +0000" stop="20251015224500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
