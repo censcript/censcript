@@ -667,11 +667,17 @@
 <programme start="20251016093000 +0000" stop="20251016110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251016110000 +0000" stop="20251016123000 +0000" channel="ANTV.vision">
+<title>Sundel Bolong</title>
+</programme>
 <programme start="20251016123000 +0000" stop="20251016143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251016143000 +0000" stop="20251016163000 +0000" channel="ANTV.vision">
 <title>In The Line Of Duty 3</title>
+</programme>
+<programme start="20251016163000 +0000" stop="20251016190000 +0000" channel="ANTV.vision">
+<title>China O&#039;Brien</title>
 </programme>
 <programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="ANTV.vision">
 <title>Ninik Towok</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251017093000 +0000" stop="20251017103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251017103000 +0000" stop="20251017123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20251015230000 +0000" stop="20251016004000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
