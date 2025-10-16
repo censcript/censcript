@@ -114,6 +114,10 @@
     <title>Football: Hellas Verona - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251017151000 +0700" stop="20251017171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251016140000 +0700" stop="20251016160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +232,6 @@
 </programme>
 <programme start="20251017140000 +0700" stop="20251017161000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Szolnoki Olaj</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016131000 +0700" stop="20251016141500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016141500 +0700" stop="20251016150500 +0700" channel="COSMOTE Sport 5 HD">
@@ -517,6 +517,14 @@
 <programme start="20251017142000 +0700" stop="20251017151500 +0700" channel="COSMOTE Sport 8 HD">
     <title>WRC 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251017151500 +0700" stop="20251017153500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017153500 +0700" stop="20251017160000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016140000 +0700" stop="20251016160000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
