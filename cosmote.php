@@ -1,7 +1,3 @@
-<programme start="20251016060000 +0700" stop="20251016080000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Nottingham F. - FC Midtjylland</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251016080000 +0700" stop="20251016100000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympique Lyonnais - FC Salzburg</title>
     <desc>Live: Tidak</desc>
@@ -54,8 +50,8 @@
     <title>Football: AS Roma - Lille OSC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016044000 +0700" stop="20251016065000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: OFI - Aris</title>
+<programme start="20251017080000 +0700" stop="20251017100000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Bologna - SC Freiburg</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016065000 +0700" stop="20251016085000 +0700" channel="COSMOTE Sport 2 HD">
@@ -118,8 +114,8 @@
     <title>Football: Hellas Verona - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016060000 +0700" stop="20251016080000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - SL Benfica</title>
+<programme start="20251017085000 +0700" stop="20251017090500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016080000 +0700" stop="20251016100000 +0700" channel="COSMOTE Sport 3 HD">
@@ -170,12 +166,8 @@
     <title>Football: Fluminense - Lanus</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016042500 +0700" stop="20251016063500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Szolnoki Olaj</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016063500 +0700" stop="20251016070000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E2</title>
+<programme start="20251017080000 +0700" stop="20251017100000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Huddersfield Town - Bolton Wanderers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016070000 +0700" stop="20251016090000 +0700" channel="COSMOTE Sport 4 HD">
@@ -242,12 +234,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016052000 +0700" stop="20251016061500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251017070500 +0700" stop="20251017080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016061500 +0700" stop="20251016074500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20251017080000 +0700" stop="20251017100000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Cantu - Bon Reggio Emilia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016074500 +0700" stop="20251016084500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,6 +342,14 @@
     <title>Motorsports: MotoGP 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251017074500 +0700" stop="20251017081500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017081500 +0700" stop="20251017091000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251016050000 +0700" stop="20251016090000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
@@ -398,8 +398,12 @@
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016060000 +0700" stop="20251016080000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251017081500 +0700" stop="20251017084500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Sports Rundown E5</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017084500 +0700" stop="20251017100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016080000 +0700" stop="20251016100000 +0700" channel="COSMOTE Sport 7 HD">
@@ -462,8 +466,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016060000 +0700" stop="20251016080000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251017080000 +0700" stop="20251017100000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016080000 +0700" stop="20251016100000 +0700" channel="COSMOTE Sport 8 HD">
@@ -514,8 +518,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016060000 +0700" stop="20251016080000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251017080000 +0700" stop="20251017100000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016080000 +0700" stop="20251016100000 +0700" channel="COSMOTE Sport 9 HD">
@@ -565,5 +569,13 @@
 <programme start="20251017060000 +0700" stop="20251017070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017070000 +0700" stop="20251017071500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017071500 +0700" stop="20251017104500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Cincinnati Bengals - Pittsburgh Steelers (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
