@@ -161,7 +161,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251016083000 +0000" stop="20251016090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>People &amp; Power: Cuba</title>
+    <title>People &amp; Power: In The Park</title>
 </programme>
 <programme start="20251016090000 +0000" stop="20251016093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>

@@ -3278,7 +3278,7 @@
         <title>Why journalism is under attack</title>
     </programme>
     <programme start="20251015173000 +0000" stop="20251015180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>MAGA and Immigration - In the Shadow of Trump&#039;s Border</title>
     </programme>
     <programme start="20251015180000 +0000" stop="20251015183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3317,7 +3317,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251015223000 +0000" stop="20251015230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Frankfurt turns to AI for aircraft handling</title>
     </programme>
     <programme start="20251015230000 +0000" stop="20251015231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7270,8 +7270,8 @@
     <programme start="20251016143000 +0000" stop="20251016163000 +0000" channel="ONE (Malay).starhub">
         <title>The Half-Star Hotel In Lost Island</title>
     </programme>
-    <programme start="20251015153000 +0000" stop="20251015163000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
+    <programme start="20251015160000 +0000" stop="20251015163000 +0000" channel="COLORS.starhub">
+        <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20251015163000 +0000" stop="20251015170000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -7288,8 +7288,17 @@
     <programme start="20251015183000 +0000" stop="20251015190000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
+    <programme start="20251015190000 +0000" stop="20251015200000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
+    </programme>
+    <programme start="20251015200000 +0000" stop="20251015203000 +0000" channel="COLORS.starhub">
+        <title>Manpasand Ki Shaadi</title>
+    </programme>
     <programme start="20251015203000 +0000" stop="20251015210000 +0000" channel="COLORS.starhub">
         <title>Dhaakad Beera</title>
+    </programme>
+    <programme start="20251015210000 +0000" stop="20251015213000 +0000" channel="COLORS.starhub">
+        <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20251015213000 +0000" stop="20251015220000 +0000" channel="COLORS.starhub">
         <title>Binddii</title>
