@@ -54,10 +54,6 @@
     <title>Football: FC Dynamo Kyiv - Crystal Palace</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016090500 +0700" stop="20251016110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251016110000 +0700" stop="20251016131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - AEK</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +108,10 @@
 </programme>
 <programme start="20251017090500 +0700" stop="20251017110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Torino</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017110000 +0700" stop="20251017131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Atromitos Athens</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016100000 +0700" stop="20251016120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -555,6 +555,14 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251017104500 +0700" stop="20251017110000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017110000 +0700" stop="20251017113000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251017113000 +0700" stop="20251017120000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

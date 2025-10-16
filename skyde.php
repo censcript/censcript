@@ -1360,25 +1360,25 @@
 <programme start="20251015221500 +0000" stop="20251015223000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251015223000 +0000" stop="20251015225000 +0000" channel="Nick Jr..skyde">
+<programme start="20251015223000 +0000" stop="20251015225500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251015225000 +0000" stop="20251015231500 +0000" channel="Nick Jr..skyde">
+<programme start="20251015225500 +0000" stop="20251015231500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251015231500 +0000" stop="20251015232500 +0000" channel="Nick Jr..skyde">
+<programme start="20251015231500 +0000" stop="20251015233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251015232500 +0000" stop="20251015235000 +0000" channel="Nick Jr..skyde">
+<programme start="20251015233000 +0000" stop="20251015235500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251015235000 +0000" stop="20251016000500 +0000" channel="Nick Jr..skyde">
+<programme start="20251015235500 +0000" stop="20251016000500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251016000500 +0000" stop="20251016001000 +0000" channel="Nick Jr..skyde">
+<programme start="20251016000500 +0000" stop="20251016001500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251016001000 +0000" stop="20251016002000 +0000" channel="Nick Jr..skyde">
+<programme start="20251016001500 +0000" stop="20251016002000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251016002000 +0000" stop="20251016003000 +0000" channel="Nick Jr..skyde">
@@ -1390,16 +1390,16 @@
 <programme start="20251016004000 +0000" stop="20251016005000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251016005000 +0000" stop="20251016010000 +0000" channel="Nick Jr..skyde">
+<programme start="20251016005000 +0000" stop="20251016010500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251016010000 +0000" stop="20251016012500 +0000" channel="Nick Jr..skyde">
+<programme start="20251016010500 +0000" stop="20251016012500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251016012500 +0000" stop="20251016014500 +0000" channel="Nick Jr..skyde">
+<programme start="20251016012500 +0000" stop="20251016015000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251016014500 +0000" stop="20251016021000 +0000" channel="Nick Jr..skyde">
+<programme start="20251016015000 +0000" stop="20251016021000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251016021000 +0000" stop="20251016023000 +0000" channel="Nick Jr..skyde">
@@ -1408,16 +1408,16 @@
 <programme start="20251016023000 +0000" stop="20251016024000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251016024000 +0000" stop="20251016024500 +0000" channel="Nick Jr..skyde">
+<programme start="20251016024000 +0000" stop="20251016025000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251016024500 +0000" stop="20251016025500 +0000" channel="Nick Jr..skyde">
+<programme start="20251016025000 +0000" stop="20251016025500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251016025500 +0000" stop="20251016031500 +0000" channel="Nick Jr..skyde">
+<programme start="20251016025500 +0000" stop="20251016032000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251016031500 +0000" stop="20251016033000 +0000" channel="Nick Jr..skyde">
+<programme start="20251016032000 +0000" stop="20251016033000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251016033000 +0000" stop="20251016034000 +0000" channel="Nick Jr..skyde">
@@ -2731,7 +2731,7 @@
 <programme start="20251016114000 +0000" stop="20251016120000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20251016120000 +0000" stop="20251016200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251016120000 +0000" stop="20251016220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), 4. Tag</title>
 </programme>
 <programme start="20251015220000 +0000" stop="20251015223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2998,20 +2998,17 @@
 <programme start="20251016160000 +0000" stop="20251016170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WRC: Central European Rally - SS2 Golf und Therme 2</title>
 </programme>
-<programme start="20251016170000 +0000" stop="20251016173000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
+<programme start="20251016170000 +0000" stop="20251016180000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Indonesien</title>
 </programme>
-<programme start="20251016173000 +0000" stop="20251016180000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251016180000 +0000" stop="20251016183000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251016180000 +0000" stop="20251016190000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>WRC: Central European Rally - SS2 Golf und Therme 2</title>
-</programme>
-<programme start="20251016190000 +0000" stop="20251016193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 6. Spieltag komplett</title>
-</programme>
-<programme start="20251016193000 +0000" stop="20251016200000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251016183000 +0000" stop="20251016190000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
+</programme>
+<programme start="20251016190000 +0000" stop="20251016200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>WRC: Central European Rally - SS2 Golf und Therme 2</title>
 </programme>
 <programme start="20251016200000 +0000" stop="20251016203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Highlights Maxi Yacht Rolex Cup</title>
@@ -3193,17 +3190,17 @@
 <programme start="20251016213000 +0000" stop="20251016220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Big Interview (Emmanuel Adebayor)</title>
 </programme>
-<programme start="20251015230000 +0000" stop="20251016010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 3. Tag</title>
+<programme start="20251015220000 +0000" stop="20251016003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: J. Pegula (USA) - C. Gauff (USA), Wuhan Open in Wuhan (CHN), Finale</title>
 </programme>
-<programme start="20251016010000 +0000" stop="20251016020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
+<programme start="20251016003000 +0000" stop="20251016020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Y. Hanfmann (GER) - M. Arnaldi (ITA), BNP Paribas Fortis European Open in Brüssel (BEL), 3. Tag</title>
 </programme>
 <programme start="20251016020000 +0000" stop="20251016030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Peking</title>
 </programme>
 <programme start="20251016030000 +0000" stop="20251016050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Ningbo Open in Ningbo (CHN), 3. Tag</title>
+    <title>WTA 500: A. Tomljanovic (AUS) - Z. Sonmez (TUR), Ningbo Open in Ningbo (CHN), 3. Tag</title>
 </programme>
 <programme start="20251016050000 +0000" stop="20251016200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3215,7 +3212,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251016213000 +0000" stop="20251016233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 4. Tag</title>
+    <title>ATP 250: Y. Hanfmann (GER) - L. Musetti (ITA), BNP Paribas Fortis European Open in Brüssel (BEL), 4. Tag</title>
 </programme>
 <programme start="20251015220000 +0000" stop="20251015230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3286,10 +3283,10 @@
 <programme start="20251016201500 +0000" stop="20251016220000 +0000" channel="Sky Sport UHD.skyde">
     <title>Mondo Duplantis: Immer höher</title>
 </programme>
-<programme start="20251016044000 +0000" stop="20251016050000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+<programme start="20251015220000 +0000" stop="20251016050000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 07:00: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251016050000 +0000" stop="20251016130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251016050000 +0000" stop="20251016190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 4. Tag</title>
 </programme>
 <programme start="20251015221500 +0000" stop="20251015230000 +0000" channel="SYFY HD.skyde">
