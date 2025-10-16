@@ -896,34 +896,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251016220000 +0000" stop="20251017060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251017060000 +0000" stop="20251017062000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017060000 +0000" stop="20251017064000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251017062000 +0000" stop="20251017073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017064000 +0000" stop="20251017080000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 6. Spieltag</title>
 </programme>
-<programme start="20251017073000 +0000" stop="20251017092000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017080000 +0000" stop="20251017100000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Eintracht Frankfurt - FC Bayern München</title>
 </programme>
-<programme start="20251017092000 +0000" stop="20251017111000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017100000 +0000" stop="20251017115500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Spanien - Bulgarien</title>
 </programme>
-<programme start="20251017111000 +0000" stop="20251017113500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251017113500 +0000" stop="20251017120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017115500 +0000" stop="20251017121000 +0000" channel="DAZN 1 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 1</title>
 </programme>
-<programme start="20251017120000 +0000" stop="20251017135500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017121000 +0000" stop="20251017140500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Deutschland - Luxemburg</title>
 </programme>
-<programme start="20251017135500 +0000" stop="20251017142500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251017142500 +0000" stop="20251017160000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017140500 +0000" stop="20251017154000 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team: Folge 10 - Das Saisonfinale</title>
 </programme>
-<programme start="20251017160000 +0000" stop="20251017161500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017154000 +0000" stop="20251017161500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251017161500 +0000" stop="20251017183000 +0000" channel="DAZN 1 HD.skyde">
