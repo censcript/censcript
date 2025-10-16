@@ -1,7 +1,3 @@
-<programme start="20251017000000 +0700" stop="20251017010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251017010000 +0700" stop="20251017020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -53,6 +49,14 @@
 <programme start="20251017230000 +0700" stop="20251018010000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Pafos FC - Ethnikos Achnas (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251018010000 +0700" stop="20251018013000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E6</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251018013000 +0700" stop="20251018023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016233000 +0700" stop="20251017013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Genoa</title>
@@ -114,6 +118,10 @@
     <title>Football: ACF Fiorentina - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251018012500 +0700" stop="20251018020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251017000000 +0700" stop="20251017020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -171,6 +179,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251018000000 +0700" stop="20251018010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: 2025 Socca Champions League (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251018010000 +0700" stop="20251018020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: 2025 Socca Champions League (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -342,9 +354,13 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016230000 +0700" stop="20251017010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Lorenzo Musetti - Yannick Hanfmann (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251018010000 +0700" stop="20251018013000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251018013000 +0700" stop="20251018022500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251017010000 +0700" stop="20251017033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Botic van de Zandschulp - Eliot Spizzirri (L)</title>
@@ -391,6 +407,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251017233000 +0700" stop="20251018013000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251018013000 +0700" stop="20251018040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
