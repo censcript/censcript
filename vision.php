@@ -35,10 +35,10 @@
 <title>Kau Ditakdirkan Untukku (RCTI)</title>
 </programme>
 <programme start="20251016154500 +0000" stop="20251016181500 +0000" channel="RCTI.vision">
-<title>Amanah Wali S5</title>
+<title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251016181500 +0000" stop="20251016190000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
+<title>Narji Don&#039;t Forget Me</title>
 </programme>
 <programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
@@ -677,13 +677,13 @@
 <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251016143000 +0000" stop="20251016163000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
+<title>In The Line Of Duty 3</title>
 </programme>
-<programme start="20251016163000 +0000" stop="20251016183000 +0000" channel="ANTV.vision">
+<programme start="20251016163000 +0000" stop="20251016190000 +0000" channel="ANTV.vision">
 <title>China O&#039;Brien</title>
 </programme>
-<programme start="20251016183000 +0000" stop="20251016203000 +0000" channel="ANTV.vision">
-<title>Storm City</title>
+<programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="ANTV.vision">
+<title>Ninik Towok</title>
 </programme>
 <programme start="20251016203000 +0000" stop="20251016220000 +0000" channel="ANTV.vision">
 <title>Sunan Kalijaga &amp; Syech Siti...</title>

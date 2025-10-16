@@ -3835,10 +3835,10 @@
 <programme start="20251016190500 +0000" stop="20251016200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Emperor of Ocean Park</title>
 </programme>
-<programme start="20251016200000 +0000" stop="20251016204500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251016200000 +0000" stop="20251016205000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20251016204500 +0000" stop="20251016213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251016205000 +0000" stop="20251016213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20251016213500 +0000" stop="20251016222000 +0000" channel="Warner TV Serie HD.skyde">

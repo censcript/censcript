@@ -2912,7 +2912,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251016003000 +0000" stop="20251016010000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Experiencing...</title>
+    <title>Arts Unveiled: Journalism...</title>
 </programme>
 <programme start="20251016010000 +0000" stop="20251016011500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2927,7 +2927,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20251016023000 +0000" stop="20251016030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Frankfurt...</title>
 </programme>
 <programme start="20251016030000 +0000" stop="20251016031500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2960,7 +2960,7 @@
     <title>Arts Unveiled: Journalism</title>
 </programme>
 <programme start="20251016063000 +0000" stop="20251016070000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Frankfurt...</title>
 </programme>
 <programme start="20251016070000 +0000" stop="20251016073000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -7544,7 +7544,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251016154500 +0000" stop="20251016161500 +0000" channel="RCTI.mncvision">
-    <title>Amanah Wali S5</title>
+    <title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251015181500 +0000" stop="20251015190000 +0000" channel="RCTI HD.mncvision">
     <title>Rahasia Hati Sopir Istri</title>
@@ -7595,7 +7595,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251016154500 +0000" stop="20251016161500 +0000" channel="RCTI HD.mncvision">
-    <title>Amanah Wali S5</title>
+    <title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251015170500 +0000" stop="20251015190000 +0000" channel="Rock Action.mncvision">
     <title>The Mummy</title>
