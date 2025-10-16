@@ -562,6 +562,9 @@
 <programme start="20251016091500 +0000" stop="20251016101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20251016101500 +0000" stop="20251016110000 +0000" channel="Trans 7.vision">
+<title>Xpose Uncensored</title>
+</programme>
 <programme start="20251016110000 +0000" stop="20251016114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -663,9 +666,6 @@
 </programme>
 <programme start="20251016093000 +0000" stop="20251016110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
-</programme>
-<programme start="20251016110000 +0000" stop="20251016123000 +0000" channel="ANTV.vision">
-<title>Sundel Bolong</title>
 </programme>
 <programme start="20251016123000 +0000" stop="20251016143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
