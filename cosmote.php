@@ -54,6 +54,10 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251017210000 +0700" stop="20251017230000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Arsenal - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251016192000 +0700" stop="20251016212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -114,6 +118,10 @@
     <title>Football: SSC Napoli - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251017212000 +0700" stop="20251017232500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251016200000 +0700" stop="20251016220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Estudiantes - Flamengo</title>
     <desc>Live: Tidak</desc>
@@ -164,10 +172,6 @@
 </programme>
 <programme start="20251017200000 +0700" stop="20251017220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Fluminense - Lanus</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016184000 +0700" stop="20251016205000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Szolnoki Olaj</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016205000 +0700" stop="20251016225000 +0700" channel="COSMOTE Sport 4 HD">
@@ -228,10 +232,6 @@
 </programme>
 <programme start="20251017202000 +0700" stop="20251017222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Varese - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251016193500 +0700" stop="20251016201500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016201500 +0700" stop="20251016211500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,9 +342,9 @@
     <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251016183000 +0700" stop="20251016203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Nikoloz Basilashvili - Giovanni Mpetshi Perricard (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251017215000 +0700" stop="20251017225000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251016203000 +0700" stop="20251016230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Damir Dzumhur - Felix Auger-Aliassime (L)</title>
@@ -391,6 +391,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251017190000 +0700" stop="20251017210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251017210000 +0700" stop="20251017233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -467,6 +471,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251017202000 +0700" stop="20251017212500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>2025 ISSF World Championship Shotgun Athens (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251017212500 +0700" stop="20251017220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>2025 ISSF World Championship Shotgun Athens (L)</title>
     <desc>Live: Ya</desc>
 </programme>

@@ -2560,95 +2560,89 @@
 <programme start="20251016215000 +0000" stop="20251016223500 +0000" channel="Sky Replay HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20251015220000 +0000" stop="20251015225500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Afrikas Naturwunder - Ein Tag wie kein anderer</title>
+<programme start="20251009224000 +0000" stop="20251009230500 +0000" channel="Sky Showcase HD.skyde">
+    <title>FARID - Magic Unplugged: Sports Edition</title>
 </programme>
-<programme start="20251015225500 +0000" stop="20251015231000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Diese Ochsenknechts 4: Warten auf Jimi</title>
-</programme>
-<programme start="20251015231000 +0000" stop="20251016000000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251009230500 +0000" stop="20251009235500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20251016000000 +0000" stop="20251016005000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251009235500 +0000" stop="20251010004500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20251016005000 +0000" stop="20251016013500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010004500 +0000" stop="20251010012500 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251016013500 +0000" stop="20251016022000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010012500 +0000" stop="20251010021000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251016022000 +0000" stop="20251016030500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
+<programme start="20251010021000 +0000" stop="20251010030500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Death in Paradise</title>
 </programme>
-<programme start="20251016030500 +0000" stop="20251016040000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Mord mit Aussicht</title>
+<programme start="20251010030500 +0000" stop="20251010040000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Death in Paradise</title>
 </programme>
-<programme start="20251016040000 +0000" stop="20251016042500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010040000 +0000" stop="20251010042500 +0000" channel="Sky Showcase HD.skyde">
     <title>Unsere Helden: Die Tierärzte in der Arktis</title>
 </programme>
-<programme start="20251016042500 +0000" stop="20251016051500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010042500 +0000" stop="20251010051500 +0000" channel="Sky Showcase HD.skyde">
     <title>Zoo und so - Tierisch wild!</title>
 </programme>
-<programme start="20251016051500 +0000" stop="20251016060500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010051500 +0000" stop="20251010060500 +0000" channel="Sky Showcase HD.skyde">
     <title>Zoo und so - Tierisch wild!</title>
 </programme>
-<programme start="20251016060500 +0000" stop="20251016065500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010060500 +0000" stop="20251010065500 +0000" channel="Sky Showcase HD.skyde">
     <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251016065500 +0000" stop="20251016074500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010065500 +0000" stop="20251010074500 +0000" channel="Sky Showcase HD.skyde">
     <title>Mord mit Aussicht</title>
 </programme>
-<programme start="20251016074500 +0000" stop="20251016092000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010074500 +0000" stop="20251010083500 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20251016092000 +0000" stop="20251016100500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010083500 +0000" stop="20251010092500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20251010092500 +0000" stop="20251010101000 +0000" channel="Sky Showcase HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20251016100500 +0000" stop="20251016105000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010101000 +0000" stop="20251010105500 +0000" channel="Sky Showcase HD.skyde">
     <title>Unfall, Selbstmord oder Mord</title>
 </programme>
-<programme start="20251016105000 +0000" stop="20251016114000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010105500 +0000" stop="20251010114000 +0000" channel="Sky Showcase HD.skyde">
     <title>Feuer &amp; Flamme</title>
 </programme>
-<programme start="20251016114000 +0000" stop="20251016123000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010114000 +0000" stop="20251010123000 +0000" channel="Sky Showcase HD.skyde">
     <title>Feuer &amp; Flamme</title>
 </programme>
-<programme start="20251016123000 +0000" stop="20251016132000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010123000 +0000" stop="20251010132500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20251016132000 +0000" stop="20251016141500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010132500 +0000" stop="20251010141500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20251016141500 +0000" stop="20251016150500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010141500 +0000" stop="20251010150500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20251016150500 +0000" stop="20251016155500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010150500 +0000" stop="20251010160000 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20251016155500 +0000" stop="20251016164500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010160000 +0000" stop="20251010164500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251016164500 +0000" stop="20251016173000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010164500 +0000" stop="20251010173000 +0000" channel="Sky Showcase HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20251016173000 +0000" stop="20251016181500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20251010173000 +0000" stop="20251010181500 +0000" channel="Sky Showcase HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20251016181500 +0000" stop="20251016190500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Iris Affair</title>
+<programme start="20251010181500 +0000" stop="20251010195500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Rudi Völler - Es gibt nur einen</title>
 </programme>
-<programme start="20251016190500 +0000" stop="20251016195500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Iris Affair</title>
+<programme start="20251010195500 +0000" stop="20251010213500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Schmeichel</title>
 </programme>
-<programme start="20251016195500 +0000" stop="20251016204500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Iris Affair</title>
-</programme>
-<programme start="20251016204500 +0000" stop="20251016213500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Twisted Killers</title>
-</programme>
-<programme start="20251016213500 +0000" stop="20251016222000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Twisted Killers</title>
+<programme start="20251010213500 +0000" stop="20251010222000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
 <programme start="20251015231500 +0000" stop="20251015234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Reinfried Herbst)</title>
