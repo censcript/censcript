@@ -562,9 +562,6 @@
 <programme start="20251016091500 +0000" stop="20251016101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20251016101500 +0000" stop="20251016110000 +0000" channel="Trans 7.vision">
-<title>Xpose Uncensored</title>
-</programme>
 <programme start="20251016110000 +0000" stop="20251016114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251017093000 +0000" stop="20251017103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20251017103000 +0000" stop="20251017123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
