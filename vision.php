@@ -658,6 +658,9 @@
 <programme start="20251016013000 +0000" stop="20251016030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251016030000 +0000" stop="20251016063000 +0000" channel="ANTV.vision">
+<title>Baahubali: The Beginning</title>
+</programme>
 <programme start="20251016063000 +0000" stop="20251016080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -666,6 +669,9 @@
 </programme>
 <programme start="20251016093000 +0000" stop="20251016110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251016110000 +0000" stop="20251016123000 +0000" channel="ANTV.vision">
+<title>Sundel Bolong</title>
 </programme>
 <programme start="20251016123000 +0000" stop="20251016143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251017091500 +0000" stop="20251017093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
-</programme>
-<programme start="20251017093000 +0000" stop="20251017103000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20251017103000 +0000" stop="20251017123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
