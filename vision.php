@@ -35,10 +35,10 @@
 <title>Kau Ditakdirkan Untukku (RCTI)</title>
 </programme>
 <programme start="20251016154500 +0000" stop="20251016181500 +0000" channel="RCTI.vision">
-<title>Amanah Wali S5</title>
+<title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251016181500 +0000" stop="20251016190000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
+<title>Narji Don&#039;t Forget Me</title>
 </programme>
 <programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
@@ -658,9 +658,6 @@
 <programme start="20251016013000 +0000" stop="20251016030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251016030000 +0000" stop="20251016063000 +0000" channel="ANTV.vision">
-<title>Baahubali: The Beginning</title>
-</programme>
 <programme start="20251016063000 +0000" stop="20251016080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -670,20 +667,14 @@
 <programme start="20251016093000 +0000" stop="20251016110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251016110000 +0000" stop="20251016123000 +0000" channel="ANTV.vision">
-<title>Sundel Bolong</title>
-</programme>
 <programme start="20251016123000 +0000" stop="20251016143000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
 <programme start="20251016143000 +0000" stop="20251016163000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
+<title>In The Line Of Duty 3</title>
 </programme>
-<programme start="20251016163000 +0000" stop="20251016183000 +0000" channel="ANTV.vision">
-<title>China O&#039;Brien</title>
-</programme>
-<programme start="20251016183000 +0000" stop="20251016203000 +0000" channel="ANTV.vision">
-<title>Storm City</title>
+<programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="ANTV.vision">
+<title>Ninik Towok</title>
 </programme>
 <programme start="20251016203000 +0000" stop="20251016220000 +0000" channel="ANTV.vision">
 <title>Sunan Kalijaga &amp; Syech Siti...</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251017091500 +0000" stop="20251017093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
+</programme>
+<programme start="20251017093000 +0000" stop="20251017103000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20251017103000 +0000" stop="20251017123000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20251015230000 +0000" stop="20251016004000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
