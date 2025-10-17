@@ -682,6 +682,9 @@
 <programme start="20251017130000 +0000" stop="20251017150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
+<programme start="20251017150000 +0000" stop="20251017170000 +0000" channel="ANTV.vision">
+<title>Prince Charming</title>
+</programme>
 <programme start="20251017170000 +0000" stop="20251017193000 +0000" channel="ANTV.vision">
 <title>China O&#039;Brien 2</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251018031500 +0000" stop="20251018040000 +0000" channel="BTV.vision">
 <title>Endeus</title>
-</programme>
-<programme start="20251018040000 +0000" stop="20251018050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
 </programme>
