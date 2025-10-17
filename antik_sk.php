@@ -3250,10 +3250,10 @@
   <programme start="20251018234800 +0000" stop="20251019001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Naše tradice</title>
   </programme>
-  <programme start="20251019001500 +0000" stop="20251019014700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019001500 +0000" stop="20251019014600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20251019014700 +0000" stop="20251019023900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019014600 +0000" stop="20251019023900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
   <programme start="20251019023900 +0000" stop="20251019030600 +0000" channel="ČT1.webtv.sk">
@@ -3286,10 +3286,10 @@
   <programme start="20251019080500 +0000" stop="20251019083500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
-  <programme start="20251019083500 +0000" stop="20251019090500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019083500 +0000" stop="20251019090600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Objektiv</title>
   </programme>
-  <programme start="20251019090500 +0000" stop="20251019100000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019090600 +0000" stop="20251019100000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Cirkus Humberto (7/12)</title>
   </programme>
   <programme start="20251019100000 +0000" stop="20251019110000 +0000" channel="ČT1.webtv.sk">
@@ -3337,10 +3337,10 @@
   <programme start="20251019200000 +0000" stop="20251019205900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Osada (6/13)</title>
   </programme>
-  <programme start="20251019205900 +0000" stop="20251019210100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019205900 +0000" stop="20251019210200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20251019210100 +0000" stop="20251019214500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019210200 +0000" stop="20251019214500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVIII (2)</title>
   </programme>
   <programme start="20251019214500 +0000" stop="20251019221600 +0000" channel="ČT1.webtv.sk">
