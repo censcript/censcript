@@ -896,34 +896,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251016220000 +0000" stop="20251017060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20251017060000 +0000" stop="20251017062000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017060000 +0000" stop="20251017064000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251017062000 +0000" stop="20251017073000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017064000 +0000" stop="20251017080000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 6. Spieltag</title>
 </programme>
-<programme start="20251017073000 +0000" stop="20251017092000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017080000 +0000" stop="20251017100000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: Eintracht Frankfurt - FC Bayern München</title>
 </programme>
-<programme start="20251017092000 +0000" stop="20251017111000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017100000 +0000" stop="20251017115500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Spanien - Bulgarien</title>
 </programme>
-<programme start="20251017111000 +0000" stop="20251017113500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251017113500 +0000" stop="20251017120000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017115500 +0000" stop="20251017121000 +0000" channel="DAZN 1 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 1</title>
 </programme>
-<programme start="20251017120000 +0000" stop="20251017135500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017121000 +0000" stop="20251017140500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers 2026 Canada/Mexico/United States: Deutschland - Luxemburg</title>
 </programme>
-<programme start="20251017135500 +0000" stop="20251017142500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20251017142500 +0000" stop="20251017160000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017140500 +0000" stop="20251017154000 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team: Folge 10 - Das Saisonfinale</title>
 </programme>
-<programme start="20251017160000 +0000" stop="20251017161500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251017154000 +0000" stop="20251017161500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251017161500 +0000" stop="20251017183000 +0000" channel="DAZN 1 HD.skyde">
@@ -2759,13 +2753,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251017160000 +0000" stop="20251017183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hannover 96 - FC Schalke 04, 9. Spieltag</title>
 </programme>
-<programme start="20251017183000 +0000" stop="20251017203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251017183000 +0000" stop="20251017210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCU - BMG, 7. Spieltag</title>
 </programme>
 <programme start="20251017154000 +0000" stop="20251017160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251017160000 +0000" stop="20251017183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251017160000 +0000" stop="20251017190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - Eintracht Braunschweig, 9. Spieltag</title>
 </programme>
 <programme start="20251016220000 +0000" stop="20251016223000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3146,16 +3140,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251017213000 +0000" stop="20251017220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Edwin van der Sar)</title>
 </programme>
-<programme start="20251016233000 +0000" stop="20251017000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251016220000 +0000" stop="20251016234500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Y. Hanfmann (GER) - L. Musetti (ITA), BNP Paribas Fortis European Open in Brüssel (BEL), 4. Tag</title>
+</programme>
+<programme start="20251016234500 +0000" stop="20251017001500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251017000000 +0000" stop="20251017003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251017001500 +0000" stop="20251017004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251017003000 +0000" stop="20251017030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251017004500 +0000" stop="20251017031500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Rinderknech (FRA) - V. Vacherot (MON), Rolex Shanghai Masters in Shanghai (China), Finale</title>
 </programme>
-<programme start="20251017030000 +0000" stop="20251017050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251017031500 +0000" stop="20251017050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Paolini (ITA) - V. Kudermetova, Ningbo Open in Ningbo (CHN), 4. Tag</title>
 </programme>
 <programme start="20251017050000 +0000" stop="20251017203000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3233,7 +3230,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251017044000 +0000" stop="20251017050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251017050000 +0000" stop="20251017130000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20251017050000 +0000" stop="20251017150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: Ningbo Open in Ningbo (CHN), 5. Tag</title>
 </programme>
 <programme start="20251016221500 +0000" stop="20251016230000 +0000" channel="SYFY HD.skyde">

@@ -125,7 +125,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251017023000 +0000" stop="20251017030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Risking It All: Peru</title>
+    <title>Talk To Al Jazeera: Machado</title>
 </programme>
 <programme start="20251017030000 +0000" stop="20251017033000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
