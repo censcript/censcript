@@ -5006,7 +5006,7 @@
     <title>Kamp Koral</title>
 </programme>
 <programme start="20251017030000 +0000" stop="20251017033000 +0000" channel="Kids TV.mncvision">
-    <title>Cat &amp; Keet</title>
+    <title>Blippi Wonders</title>
 </programme>
 <programme start="20251017033000 +0000" stop="20251017040000 +0000" channel="Kids TV.mncvision">
     <title>Blippi Wonders</title>
@@ -5099,7 +5099,7 @@
     <title>Kamp Koral</title>
 </programme>
 <programme start="20251017030000 +0000" stop="20251017033000 +0000" channel="Kids TV HD.mncvision">
-    <title>Cat &amp; Keet</title>
+    <title>Blippi Wonders</title>
 </programme>
 <programme start="20251017033000 +0000" stop="20251017040000 +0000" channel="Kids TV HD.mncvision">
     <title>Blippi Wonders</title>

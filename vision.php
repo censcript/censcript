@@ -817,6 +817,9 @@
 <programme start="20251016233000 +0000" stop="20251017013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20251017013000 +0000" stop="20251017020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
+</programme>
 <programme start="20251017020000 +0000" stop="20251017023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251018060000 +0000" stop="20251018070000 +0000" channel="BTV.vision">
 <title>Dunia RANS</title>
-</programme>
-<programme start="20251018070000 +0000" stop="20251018080000 +0000" channel="BTV.vision">
-<title>Spot On</title>
 </programme>
