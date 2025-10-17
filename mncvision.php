@@ -7472,7 +7472,7 @@
     <title>Narji Don&#039;t Forget Me</title>
 </programme>
 <programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="RCTI.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Narji Don&#039;t Forget Me</title>
 </programme>
 <programme start="20251016203000 +0000" stop="20251016230000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun S7</title>
@@ -7517,13 +7517,13 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251017154500 +0000" stop="20251017161500 +0000" channel="RCTI.mncvision">
-    <title>Instant Family</title>
+    <title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251016181500 +0000" stop="20251016190000 +0000" channel="RCTI HD.mncvision">
     <title>Narji Don&#039;t Forget Me</title>
 </programme>
 <programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="RCTI HD.mncvision">
-    <title>Mega Film TV Malam</title>
+    <title>Narji Don&#039;t Forget Me</title>
 </programme>
 <programme start="20251016203000 +0000" stop="20251016230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S7</title>
@@ -7568,7 +7568,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20251017154500 +0000" stop="20251017161500 +0000" channel="RCTI HD.mncvision">
-    <title>Instant Family</title>
+    <title>Ada Dua Cinta</title>
 </programme>
 <programme start="20251016184500 +0000" stop="20251016204500 +0000" channel="Rock Action.mncvision">
     <title>Sudden Death</title>
@@ -8140,83 +8140,50 @@
 <programme start="20251017153000 +0000" stop="20251017160000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20251016170000 +0000" stop="20251016183000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251016170000 +0000" stop="20251016190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>European Qualifiers</title>
 </programme>
-<programme start="20251016183000 +0000" stop="20251016190000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251016190000 +0000" stop="20251016210000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Padel Hexagon Cup</title>
 </programme>
-<programme start="20251016190000 +0000" stop="20251016203000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Padel Hexagon Cup</title>
-</programme>
-<programme start="20251016203000 +0000" stop="20251016210000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251016210000 +0000" stop="20251016233000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Best Of Badminton</title>
-</programme>
-<programme start="20251016210000 +0000" stop="20251016230000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251016230000 +0000" stop="20251016233000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Adrenaline Rush</title>
 </programme>
 <programme start="20251016233000 +0000" stop="20251017000000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>iNews Sport</title>
+    <title>Adrenaline Rush</title>
 </programme>
 <programme start="20251017000000 +0000" stop="20251017003000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Timnas Special</title>
+    <title>iNews Sport</title>
 </programme>
-<programme start="20251017003000 +0000" stop="20251017020000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017003000 +0000" stop="20251017023000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Timnas Special</title>
-</programme>
-<programme start="20251017020000 +0000" stop="20251017023000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sports Today</title>
 </programme>
 <programme start="20251017023000 +0000" stop="20251017030000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20251017030000 +0000" stop="20251017050000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>KOVO Cup</title>
 </programme>
-<programme start="20251017030000 +0000" stop="20251017043000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>KOVO Cup</title>
-</programme>
-<programme start="20251017043000 +0000" stop="20251017050000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017050000 +0000" stop="20251017070000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Padel Hexagon Cup</title>
 </programme>
-<programme start="20251017050000 +0000" stop="20251017063000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Padel Hexagon Cup</title>
-</programme>
-<programme start="20251017063000 +0000" stop="20251017070000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017070000 +0000" stop="20251017083000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20251017070000 +0000" stop="20251017080000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Tinju</title>
-</programme>
-<programme start="20251017080000 +0000" stop="20251017083000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017083000 +0000" stop="20251017103000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20251017083000 +0000" stop="20251017100000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20251017100000 +0000" stop="20251017103000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017103000 +0000" stop="20251017130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20251017103000 +0000" stop="20251017123000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20251017123000 +0000" stop="20251017130000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017130000 +0000" stop="20251017150000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>KOVO Cup</title>
-</programme>
-<programme start="20251017130000 +0000" stop="20251017143000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>KOVO Cup</title>
-</programme>
-<programme start="20251017143000 +0000" stop="20251017150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>The Ultimate Goals</title>
 </programme>
 <programme start="20251017150000 +0000" stop="20251017153000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Tinju</title>
+    <title>The Ultimate Goals</title>
 </programme>
-<programme start="20251017153000 +0000" stop="20251017163000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251017153000 +0000" stop="20251017160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
-</programme>
-<programme start="20251017163000 +0000" stop="20251016170000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>European Qualifiers</title>
 </programme>
 <programme start="20251016170000 +0000" stop="20251016190000 +0000" channel="Sportstars 3.mncvision">
     <title>Bundesliga</title>
