@@ -82,6 +82,10 @@
     <title>UEL &amp; UECL Magazine 2025-26 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251018193000 +0700" stop="20251018200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2025-26 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251017171000 +0700" stop="20251017192000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Volos</title>
     <desc>Live: Tidak</desc>
@@ -246,10 +250,6 @@
     <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251017161000 +0700" stop="20251017182000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Legia Warszawa - Promitheas</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251017182000 +0700" stop="20251017202000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cantu - Bon Reggio Emilia</title>
     <desc>Live: Tidak</desc>
@@ -316,6 +316,10 @@
 </programme>
 <programme start="20251018173000 +0700" stop="20251018193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Gran Canaria - Unicaja</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251018193000 +0700" stop="20251018200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251017175500 +0700" stop="20251017190500 +0700" channel="COSMOTE Sport 5 HD">
@@ -430,8 +434,12 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251017174500 +0700" stop="20251017190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20251018190500 +0700" stop="20251018193500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2025 E9</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251018193500 +0700" stop="20251018203500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251017190000 +0700" stop="20251017210000 +0700" channel="COSMOTE Sport 6 HD">
@@ -490,12 +498,8 @@
     <title>Tennis: ATP 250 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251017180000 +0700" stop="20251017183000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251017183000 +0700" stop="20251017185000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251018193000 +0700" stop="20251018203000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251017185000 +0700" stop="20251017200000 +0700" channel="COSMOTE Sport 7 HD">
@@ -565,6 +569,14 @@
 <programme start="20251018180000 +0700" stop="20251018190000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251018190000 +0700" stop="20251018192000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251018192000 +0700" stop="20251018203000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>2025 ISSF World Championship Shotgun Athens (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251017180000 +0700" stop="20251017200000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -691,6 +703,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251018170000 +0700" stop="20251018190000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Tennis: ATP Challenger 50 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251018190000 +0700" stop="20251018213000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: ATP Challenger 50 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
