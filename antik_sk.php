@@ -4988,7 +4988,7 @@
     <title lang="id">Naša Garáž</title>
   </programme>
   <programme start="20251019180000 +0000" stop="20251019183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">One day with BB - Lukasz Skorupski</title>
   </programme>
   <programme start="20251019183000 +0000" stop="20251019191500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Profíci na konské sily</title>
@@ -9064,10 +9064,10 @@
   <programme start="20251019115000 +0000" stop="20251019135500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Černí Baroni</title>
   </programme>
-  <programme start="20251019135500 +0000" stop="20251019160000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251019135500 +0000" stop="20251019160500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Lízino štěstí</title>
   </programme>
-  <programme start="20251019160000 +0000" stop="20251019180000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20251019160500 +0000" stop="20251019180000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">2Bobule</title>
   </programme>
   <programme start="20251019180000 +0000" stop="20251019205500 +0000" channel="FilmBox.webtv.sk">
