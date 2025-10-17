@@ -1,11 +1,3 @@
-<programme start="20251018013000 +0700" stop="20251018023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018023000 +0700" stop="20251018030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251018030000 +0700" stop="20251018033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2025-26 E7</title>
     <desc>Live: Tidak</desc>
@@ -90,6 +82,10 @@
     <title>Football: AEL Novibet - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251019033500 +0700" stop="20251019043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251018020000 +0700" stop="20251018040000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Middlesbrough - Ipswich Town (L)</title>
     <desc>Live: Ya</desc>
@@ -161,10 +157,6 @@
 <programme start="20251019021000 +0700" stop="20251019042000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018020000 +0700" stop="20251018030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: 2025 Socca Champions League (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251018030000 +0700" stop="20251018050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - Ethnikos Achnas</title>
@@ -254,8 +246,8 @@
     <title>Football: AS Roma - FC Internazionale Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251018005000 +0700" stop="20251018030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karditsa - Unicaja</title>
+<programme start="20251019034500 +0700" stop="20251019054500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Pafos FC - Ethnikos Achnas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018030000 +0700" stop="20251018040000 +0700" channel="COSMOTE Sport 4 HD">
@@ -330,8 +322,12 @@
     <title>Basketball: AEK - Szolnoki Olaj</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018013000 +0700" stop="20251018022500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
+<programme start="20251019033000 +0700" stop="20251019035000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251019035000 +0700" stop="20251019055000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Gran Canaria - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018022500 +0700" stop="20251018032500 +0700" channel="COSMOTE Sport 5 HD">
@@ -448,6 +444,10 @@
 </programme>
 <programme start="20251019023000 +0700" stop="20251019033000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251019033000 +0700" stop="20251019043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018013000 +0700" stop="20251018040000 +0700" channel="COSMOTE Sport 6 HD">
@@ -741,5 +741,13 @@
 <programme start="20251019010000 +0700" stop="20251019030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: Al Nassr - Al Fateh (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251019030000 +0700" stop="20251019033000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251019033000 +0700" stop="20251019040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
