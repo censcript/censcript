@@ -410,7 +410,7 @@
     <title>Takdir Cinta Layla</title>
 </programme>
 <programme start="20251017110000 +0000" stop="20251017130000 +0000" channel="ANTV.mncvision">
-    <title>Pendekar Bukit Tengkorak</title>
+    <title>Mandala Dari Sungai Ular</title>
 </programme>
 <programme start="20251017130000 +0000" stop="20251017150000 +0000" channel="ANTV.mncvision">
     <title>Rindu Tak Berujung</title>

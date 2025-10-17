@@ -3221,6 +3221,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251017050000 +0000" stop="20251017051500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
+<programme start="20251017014000 +0000" stop="20251017020000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live NHL</title>
+</programme>
+<programme start="20251017020000 +0000" stop="20251017080000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NHL: Boston Bruins @ Vegas Golden Knights</title>
+</programme>
 <programme start="20251017044000 +0000" stop="20251017050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
