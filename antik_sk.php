@@ -1117,13 +1117,13 @@
   <programme start="20251019204500 +0000" stop="20251019224000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Štvaná zver</title>
   </programme>
-  <programme start="20251018200000 +0000" stop="20251018223500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251018202000 +0000" stop="20251018224500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - ENBL</title>
   </programme>
-  <programme start="20251018223500 +0000" stop="20251018235500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251018224500 +0000" stop="20251019000500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
-  <programme start="20251018235500 +0000" stop="20251019010500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251019000500 +0000" stop="20251019010500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
   <programme start="20251019010500 +0000" stop="20251019025500 +0000" channel="JOJ Šport.webtv.sk">
@@ -4904,7 +4904,7 @@
     <title lang="id">Naša Garáž</title>
   </programme>
   <programme start="20251019120000 +0000" stop="20251019123000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
+    <title lang="id">One day with BB - Lukasz Skorupski</title>
   </programme>
   <programme start="20251019123000 +0000" stop="20251019143000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">FC Red Bull Salzburg - SCR Altach</title>
