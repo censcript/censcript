@@ -655,9 +655,6 @@
 <programme start="20251017013000 +0000" stop="20251017030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251017030000 +0000" stop="20251017063000 +0000" channel="ANTV.vision">
-<title>Cirkus</title>
-</programme>
 <programme start="20251017063000 +0000" stop="20251017080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251018060000 +0000" stop="20251018070000 +0000" channel="BTV.vision">
 <title>Dunia RANS</title>
+</programme>
+<programme start="20251018070000 +0000" stop="20251018080000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
