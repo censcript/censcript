@@ -652,6 +652,9 @@
 <programme start="20251018114500 +0000" stop="20251018121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20251016233000 +0000" stop="20251017013000 +0000" channel="ANTV.vision">
+<title>Salah Pencet</title>
+</programme>
 <programme start="20251017013000 +0000" stop="20251017030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251018050000 +0000" stop="20251018060000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20251018060000 +0000" stop="20251018070000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
 </programme>
