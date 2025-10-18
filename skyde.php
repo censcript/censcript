@@ -927,22 +927,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018060000 +0000" stop="20251018063500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251018063500 +0000" stop="20251018071000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018063500 +0000" stop="20251018070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20251018071000 +0000" stop="20251018074500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018070000 +0000" stop="20251018073500 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
 </programme>
-<programme start="20251018074500 +0000" stop="20251018082000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018073500 +0000" stop="20251018080000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 3</title>
 </programme>
-<programme start="20251018082000 +0000" stop="20251018085500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018080000 +0000" stop="20251018083500 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 4</title>
 </programme>
-<programme start="20251018085500 +0000" stop="20251018092000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018083500 +0000" stop="20251018090000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 5</title>
 </programme>
-<programme start="20251018092000 +0000" stop="20251018093500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018090000 +0000" stop="20251018093500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251018093500 +0000" stop="20251018113000 +0000" channel="DAZN 1 HD.skyde">
@@ -963,11 +963,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018184000 +0000" stop="20251018203000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga: FC Bayern München - Borussia Dortmund</title>
 </programme>
-<programme start="20251018203000 +0000" stop="20251018214000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20251018203000 +0000" stop="20251018220000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 7. Spieltag</title>
-</programme>
-<programme start="20251018214000 +0000" stop="20251018220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20251017220000 +0000" stop="20251018060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -1008,10 +1005,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018213000 +0000" stop="20251018220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251017221000 +0000" stop="20251017224000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251017221000 +0000" stop="20251017223500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251017224000 +0000" stop="20251017232500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251017223500 +0000" stop="20251017232500 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
 <programme start="20251017232500 +0000" stop="20251018010000 +0000" channel="Heimatkanal.skyde">
@@ -1026,10 +1023,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018023000 +0000" stop="20251018025000 +0000" channel="Heimatkanal.skyde">
     <title>Aus dem Lebenslauf eines Optimisten</title>
 </programme>
-<programme start="20251018025000 +0000" stop="20251018042500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018025000 +0000" stop="20251018042000 +0000" channel="Heimatkanal.skyde">
     <title>Auch ich war nur ein mittelmäßiger Schüler</title>
 </programme>
-<programme start="20251018042500 +0000" stop="20251018050500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018042000 +0000" stop="20251018050500 +0000" channel="Heimatkanal.skyde">
     <title>Der Bergdoktor</title>
 </programme>
 <programme start="20251018050500 +0000" stop="20251018055500 +0000" channel="Heimatkanal.skyde">
@@ -1044,10 +1041,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018073000 +0000" stop="20251018082000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251018082000 +0000" stop="20251018091000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018082000 +0000" stop="20251018090500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251018091000 +0000" stop="20251018100000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018090500 +0000" stop="20251018100000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
 <programme start="20251018100000 +0000" stop="20251018105000 +0000" channel="Heimatkanal.skyde">
@@ -1804,7 +1801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Drachenreiter</title>
 </programme>
 <programme start="20251018130500 +0000" stop="20251018145000 +0000" channel="Sky Cinema Family HD.skyde">
-    <title>Ostwind - Der große Orkan</title>
+    <title>Ostwind - Der große Orkan - Audiodeskription</title>
 </programme>
 <programme start="20251018145000 +0000" stop="20251018163000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>My Penguin Friend</title>
@@ -2616,19 +2613,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018170000 +0000" stop="20251018180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 10. Runde (Samstag)</title>
 </programme>
-<programme start="20251018180000 +0000" stop="20251018183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251018180000 +0000" stop="20251018184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
-<programme start="20251018183000 +0000" stop="20251018193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251018184500 +0000" stop="20251018194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Samstag)</title>
 </programme>
-<programme start="20251018193000 +0000" stop="20251018200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251018194500 +0000" stop="20251018203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
-<programme start="20251018200000 +0000" stop="20251018210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251018203000 +0000" stop="20251018213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Samstag)</title>
 </programme>
-<programme start="20251018210000 +0000" stop="20251018230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251018213000 +0000" stop="20251018233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - FK Austria Wien, 10. Runde</title>
 </programme>
 <programme start="20251018143000 +0000" stop="20251018145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2640,19 +2637,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018170000 +0000" stop="20251018200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Florida Panthers @ Buffalo Sabres</title>
 </programme>
-<programme start="20251018200000 +0000" stop="20251018223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251018200000 +0000" stop="20251019003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ New Jersey Devils</title>
 </programme>
 <programme start="20251018143000 +0000" stop="20251018145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251018145000 +0000" stop="20251018170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251018145000 +0000" stop="20251018171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - SV Oberbank Ried, 10. Runde</title>
 </programme>
 <programme start="20251018143000 +0000" stop="20251018145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251018145000 +0000" stop="20251018170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251018145000 +0000" stop="20251018171500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - TSV Egger Glas Hartberg, 10. Runde</title>
 </programme>
 <programme start="20251018121000 +0000" stop="20251018123000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2661,10 +2658,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018123000 +0000" stop="20251018143000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale 1</title>
 </programme>
-<programme start="20251018154000 +0000" stop="20251018160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251018160000 +0000" stop="20251018180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251018160000 +0000" stop="20251018200000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20251017223000 +0000" stop="20251018003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2772,7 +2769,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018131500 +0000" stop="20251018154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - Hamburger SV, 7. Spieltag</title>
 </programme>
-<programme start="20251018154500 +0000" stop="20251018193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251018154500 +0000" stop="20251018200000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Borussia Dortmund, tipico Topspiel der Woche, 7. Spieltag</title>
 </programme>
 <programme start="20251018101000 +0000" stop="20251018103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2814,7 +2811,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018131500 +0000" stop="20251018154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - Bayer Leverkusen, 7. Spieltag</title>
 </programme>
-<programme start="20251018154500 +0000" stop="20251018191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251018154500 +0000" stop="20251018200000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: FCB - BVB, 7. Spieltag</title>
 </programme>
 <programme start="20251018101000 +0000" stop="20251018103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2838,7 +2835,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018130000 +0000" stop="20251018131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCH - SVW: tipico Countdown, 7. Spieltag</title>
 </programme>
-<programme start="20251018131500 +0000" stop="20251018154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20251018131500 +0000" stop="20251018161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - Werder Bremen, 7. Spieltag</title>
 </programme>
 <programme start="20251018114000 +0000" stop="20251018120000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2847,7 +2844,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018120000 +0000" stop="20251018130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: tipico Countdown, 7. Spieltag</title>
 </programme>
-<programme start="20251018130000 +0000" stop="20251018153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20251018130000 +0000" stop="20251018160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 7. Spieltag</title>
 </programme>
 <programme start="20251018101000 +0000" stop="20251018103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2859,7 +2856,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018130000 +0000" stop="20251018133000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 9. Spieltag, Samstag</title>
 </programme>
-<programme start="20251018133000 +0000" stop="20251018153000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20251018133000 +0000" stop="20251018160000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live BL: Watch Party - Talk, News &amp; Analysen</title>
 </programme>
 <programme start="20251017224500 +0000" stop="20251018001500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2940,16 +2937,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018000000 +0000" stop="20251018010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Highlights Baycurrent Classic</title>
 </programme>
-<programme start="20251018010000 +0000" stop="20251018040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251018010000 +0000" stop="20251018035500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: DP World India Championship, 2. Tag in Neu-Delhi (Indien)</title>
 </programme>
-<programme start="20251018040000 +0000" stop="20251018043000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251018035500 +0000" stop="20251018044000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Learning Center (23)</title>
 </programme>
-<programme start="20251018043000 +0000" stop="20251018053000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251018044000 +0000" stop="20251018053500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Korn Ferry Tour: Highlights Korn Ferry Tour Championship presented by United Leasing &amp; Finance</title>
 </programme>
-<programme start="20251018053000 +0000" stop="20251018063000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20251018053500 +0000" stop="20251018063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Tour Champions: Highlights SAS Championship</title>
 </programme>
 <programme start="20251018063000 +0000" stop="20251018113000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3231,41 +3228,38 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018210000 +0000" stop="20251018230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Crystal Palace - AFC Bournemouth, 8. Spieltag</title>
 </programme>
-<programme start="20251017230000 +0000" stop="20251018010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251017222000 +0000" stop="20251018001500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: J.-L. Struff (GER) - C. Moutet (FRA), Viertelfinale, Almaty Open in Almaty (KAZ)</title>
+</programme>
+<programme start="20251018001500 +0000" stop="20251018021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: B. Bencic (CH) - J. Paolini (ITA), Ningbo Open in Ningbo (CHN), 5. Tag</title>
 </programme>
-<programme start="20251018010000 +0000" stop="20251018020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
-</programme>
-<programme start="20251018020000 +0000" stop="20251018023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20251018023000 +0000" stop="20251018030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251018021500 +0000" stop="20251018025500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251018030000 +0000" stop="20251018050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 5. Tag</title>
+<programme start="20251018025500 +0000" stop="20251018045500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: J.-L. Struff (GER) - C. Moutet (FRA), Viertelfinale, Almaty Open in Almaty (KAZ)</title>
 </programme>
-<programme start="20251018050000 +0000" stop="20251018070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251018045500 +0000" stop="20251018070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: B. Bencic (CH) - J. Paolini (ITA), Ningbo Open in Ningbo (CHN), 5. Tag</title>
 </programme>
 <programme start="20251018070000 +0000" stop="20251018090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF1, Ningbo Open in Ningbo (CHN), Halbfinale</title>
+    <title>Live WTA 500: E. Rybakina (KAZ) - J. Paoline (ITA), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
 <programme start="20251018090000 +0000" stop="20251018093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20251018093000 +0000" stop="20251018113000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, Ningbo Open in Ningbo (CHN), Halbfinale</title>
+    <title>Live WTA 500: D. Shnaider (RUS) - E. Alexandrova (RUS), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
 <programme start="20251018113000 +0000" stop="20251018180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Die Topspiele des Tages</title>
 </programme>
 <programme start="20251018180000 +0000" stop="20251018200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Ningbo Open in Ningbo (CHN), Halbfinale</title>
+    <title>WTA 500: E. Rybakina (KAZ) - J. Paoline (ITA), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
 <programme start="20251018200000 +0000" stop="20251018220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Ningbo Open in Ningbo (CHN), Halbfinale</title>
+    <title>WTA 500: D. Shnaider (RUS) - E. Alexandrova (RUS), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
 <programme start="20251017224500 +0000" stop="20251017230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: 2. Freies Training - GP Australien</title>
@@ -3301,7 +3295,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 9. Spieltag, Freitag</title>
 </programme>
 <programme start="20251018070000 +0000" stop="20251018090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: HF1, Ningbo Open in Ningbo (CHN), Halbfinale</title>
+    <title>Live WTA 500: E. Rybakina (KAZ) - J. Paoline (ITA), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
 <programme start="20251018090000 +0000" stop="20251018103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: DP World India Championship, 3. Tag in Neu-Delhi (Indien)</title>
@@ -3327,7 +3321,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251017224000 +0000" stop="20251017230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live NHL</title>
 </programme>
-<programme start="20251017230000 +0000" stop="20251018080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251017230000 +0000" stop="20251018021500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Minnesota Wild @ Washington Capitals</title>
 </programme>
 <programme start="20251017221500 +0000" stop="20251017230000 +0000" channel="SYFY HD.skyde">
@@ -3822,10 +3816,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018111500 +0000" stop="20251018120000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251018120000 +0000" stop="20251018124500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251018120000 +0000" stop="20251018125000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251018124500 +0000" stop="20251018133500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251018125000 +0000" stop="20251018133500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20251018133500 +0000" stop="20251018142000 +0000" channel="Warner TV Serie HD.skyde">
