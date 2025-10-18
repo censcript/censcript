@@ -1,7 +1,3 @@
-<programme start="20251018060000 +0700" stop="20251018080000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PFC Ludogorets 1945 - Real Betis Balompie</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251018080000 +0700" stop="20251018100000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Celtic FC - SC Braga</title>
     <desc>Live: Tidak</desc>
@@ -82,8 +78,8 @@
     <title>Football: Olympique Lyonnais - FC Salzburg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018043000 +0700" stop="20251018064000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - Atromitos Athens</title>
+<programme start="20251019080000 +0700" stop="20251019100000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Fenerbahce SK - Nice</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018064000 +0700" stop="20251018083500 +0700" channel="COSMOTE Sport 2 HD">
@@ -158,12 +154,8 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018050000 +0700" stop="20251018060500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: 2025 Socca Champions League</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018060500 +0700" stop="20251018071000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: 2025 Socca Champions League</title>
+<programme start="20251019070500 +0700" stop="20251019090500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018071000 +0700" stop="20251018081500 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,12 +242,12 @@
     <title>Football: Kilmarnock - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018040000 +0700" stop="20251018061000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Legia Warszawa - Promitheas</title>
+<programme start="20251019074500 +0700" stop="20251019080000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018061000 +0700" stop="20251018070000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20251019080000 +0700" stop="20251019100000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ettifaq FC - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018070000 +0700" stop="20251018090000 +0700" channel="COSMOTE Sport 4 HD">
@@ -330,17 +322,9 @@
     <title>Basketball: Varese - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018052000 +0700" stop="20251018060500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251018060500 +0700" stop="20251018064500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251018064500 +0700" stop="20251018080000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251019075000 +0700" stop="20251019100000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Unicaja</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018080000 +0700" stop="20251018081500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
@@ -454,9 +438,9 @@
     <title>Motorsports: Moto3 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251018040000 +0700" stop="20251018080000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251019080000 +0700" stop="20251019093000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251018080000 +0700" stop="20251018090000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
@@ -520,10 +504,6 @@
 </programme>
 <programme start="20251019060000 +0700" stop="20251019100000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018060000 +0700" stop="20251018080000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018080000 +0700" stop="20251018100000 +0700" channel="COSMOTE Sport 7 HD">
@@ -606,10 +586,6 @@
     <title>Fight Sports: UFC Fight Night 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251018060000 +0700" stop="20251018080000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251018080000 +0700" stop="20251018100000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -690,8 +666,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018060000 +0700" stop="20251018080000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251019080000 +0700" stop="20251019100000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018080000 +0700" stop="20251018100000 +0700" channel="COSMOTE Sport 9 HD">
@@ -755,6 +731,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019060000 +0700" stop="20251019080000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251019080000 +0700" stop="20251019100000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
