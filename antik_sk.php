@@ -3316,13 +3316,13 @@
   <programme start="20251019221600 +0000" stop="20251019224500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20251019224500 +0000" stop="20251019233700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019224500 +0000" stop="20251019233600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Fauda III (2/12)</title>
   </programme>
-  <programme start="20251019233700 +0000" stop="20251020004800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251019233600 +0000" stop="20251020004700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20251020004800 +0000" stop="20251020011500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020004700 +0000" stop="20251020011500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
   <programme start="20251020011500 +0000" stop="20251020013800 +0000" channel="ČT1.webtv.sk">
@@ -3385,10 +3385,10 @@
   <programme start="20251020144700 +0000" stop="20251020151500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po Atacamě</title>
   </programme>
-  <programme start="20251020151500 +0000" stop="20251020154300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020151500 +0000" stop="20251020154200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20251020154300 +0000" stop="20251020160000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020154200 +0000" stop="20251020160000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
   <programme start="20251020160000 +0000" stop="20251020162500 +0000" channel="ČT1.webtv.sk">
@@ -3412,19 +3412,19 @@
   <programme start="20251020181000 +0000" stop="20251020191500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Oktopus II (7/12)</title>
   </programme>
-  <programme start="20251020191500 +0000" stop="20251020195600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020191500 +0000" stop="20251020195700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři ČT</title>
   </programme>
-  <programme start="20251020195600 +0000" stop="20251020202500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020195700 +0000" stop="20251020202500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři +</title>
   </programme>
   <programme start="20251020202500 +0000" stop="20251020202800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20251020202800 +0000" stop="20251020205800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020202800 +0000" stop="20251020205900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Legendy kriminalistiky IV</title>
   </programme>
-  <programme start="20251020205800 +0000" stop="20251020214500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20251020205900 +0000" stop="20251020214500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dalgliesh III (2)</title>
   </programme>
   <programme start="20251020214500 +0000" stop="20251020223100 +0000" channel="ČT1.webtv.sk">
