@@ -1,7 +1,3 @@
-<programme start="20251018200000 +0700" stop="20251018210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PreGame Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251018210000 +0700" stop="20251018230500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEL Novibet - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
@@ -74,13 +70,13 @@
     <title>UEL &amp; UECL Magazine 2025-26 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018183000 +0700" stop="20251018203000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: QPR - Millwall (L)</title>
+<programme start="20251019210000 +0700" stop="20251019213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251018203000 +0700" stop="20251018210000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251019213000 +0700" stop="20251019233500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Volos - Panserraikos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251018210000 +0700" stop="20251018230000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Charlton Athletic  - Sheffield Wednesday (L)</title>
@@ -290,8 +286,8 @@
     <title>Basketball: Galatasaray - Fenerbahce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251018193500 +0700" stop="20251018203500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251019213000 +0700" stop="20251019220000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018203500 +0700" stop="20251018213000 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,10 +394,6 @@
     <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018193000 +0700" stop="20251018203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251018203000 +0700" stop="20251018223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Giovanni Mpetshi Perricard - Jiri Lehecka (L)</title>
     <desc>Live: Ya</desc>
@@ -458,13 +450,9 @@
     <title>Tennis: Raphael Collignon - Felix Auger-Aliassime</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018192000 +0700" stop="20251018203000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>2025 ISSF World Championship Shotgun Athens (L)</title>
+<programme start="20251019213000 +0700" stop="20251020000000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2025 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251018203000 +0700" stop="20251018210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018210000 +0700" stop="20251018213000 +0700" channel="COSMOTE Sport 7 HD">
     <title>2025 ISSF World Championship Shotgun Athens (L)</title>

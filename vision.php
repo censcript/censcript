@@ -667,6 +667,9 @@
 <programme start="20251018010000 +0000" stop="20251018023000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
 </programme>
+<programme start="20251018023000 +0000" stop="20251018063000 +0000" channel="ANTV.vision">
+<title>Mohabbatein</title>
+</programme>
 <programme start="20251018063000 +0000" stop="20251018080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -675,6 +678,9 @@
 </programme>
 <programme start="20251018093000 +0000" stop="20251018110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251018110000 +0000" stop="20251018130000 +0000" channel="ANTV.vision">
+<title>Mandala Dari Sungai Ular</title>
 </programme>
 <programme start="20251018130000 +0000" stop="20251018150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
-</programme>
-<programme start="20251018203000 +0000" stop="20251018213000 +0000" channel="BTV.vision">
-<title>Spot On</title>
-</programme>
-<programme start="20251018213000 +0000" stop="20251018223000 +0000" channel="BTV.vision">
-<title>Berita Satu Pagi</title>
 </programme>
