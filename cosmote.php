@@ -154,6 +154,10 @@
     <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251019151500 +0700" stop="20251019173000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251018123000 +0700" stop="20251018160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Cincinnati Bengals - Pittsburgh Steelers</title>
     <desc>Live: Tidak</desc>
@@ -298,12 +302,8 @@
     <title>Basketball: Gran Canaria - Unicaja</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018132000 +0700" stop="20251018141000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018141000 +0700" stop="20251018145500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251019150000 +0700" stop="20251019170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Baskonia - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018145500 +0700" stop="20251018160000 +0700" channel="COSMOTE Sport 5 HD">
@@ -410,8 +410,8 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018132500 +0700" stop="20251018141500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20251019150500 +0700" stop="20251019160500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018141500 +0700" stop="20251018153000 +0700" channel="COSMOTE Sport 6 HD">
@@ -468,6 +468,10 @@
 </programme>
 <programme start="20251019144500 +0700" stop="20251019154500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251019154500 +0700" stop="20251019173000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251018140000 +0700" stop="20251018160000 +0700" channel="COSMOTE Sport 7 HD">
@@ -558,18 +562,6 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018131500 +0700" stop="20251018140500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>WRC 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251018140500 +0700" stop="20251018143500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018143500 +0700" stop="20251018150000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251018150000 +0700" stop="20251018153000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -650,13 +642,9 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251018120000 +0700" stop="20251018143000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251018143000 +0700" stop="20251018150000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20251019150000 +0700" stop="20251019161000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>WRC 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251018150000 +0700" stop="20251018170000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: ATP Challenger 50 2025 (L)</title>
@@ -725,5 +713,9 @@
 <programme start="20251019143000 +0700" stop="20251019150000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251019150000 +0700" stop="20251019173000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Tennis: ATP Challenger 50 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
