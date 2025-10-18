@@ -8125,8 +8125,11 @@
     <programme start="20251017213500 +0000" stop="20251017222000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 2- Moto3</title>
     </programme>
-    <programme start="20251017222000 +0000" stop="20251017230000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251017222000 +0000" stop="20251017223000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 2 - Moto2</title>
+    </programme>
+    <programme start="20251017223000 +0000" stop="20251017230000 +0000" channel="SPOTV2.starhub">
+        <title>WSBK Garage Sessions - Titanic Trio</title>
     </programme>
     <programme start="20251017230000 +0000" stop="20251017234000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 2 - MotoGP</title>
