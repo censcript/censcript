@@ -8165,7 +8165,7 @@
         <title>Qualifying</title>
     </programme>
     <programme start="20251018140000 +0000" stop="20251018143000 +0000" channel="SPOTV2.starhub">
-        <title>Season 5</title>
+        <title>Season 5 Episode 10</title>
     </programme>
     <programme start="20251018143000 +0000" stop="20251018164500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 25/26 MW5 Al Ettifaq vs Al Hilal</title>
