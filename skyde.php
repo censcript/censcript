@@ -1008,10 +1008,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018213000 +0000" stop="20251018220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20251017221000 +0000" stop="20251017224000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251017221000 +0000" stop="20251017223500 +0000" channel="Heimatkanal.skyde">
     <title>Königlich Bayerisches Amtsgericht</title>
 </programme>
-<programme start="20251017224000 +0000" stop="20251017232500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251017223500 +0000" stop="20251017232500 +0000" channel="Heimatkanal.skyde">
     <title>Großstadtrevier</title>
 </programme>
 <programme start="20251017232500 +0000" stop="20251018010000 +0000" channel="Heimatkanal.skyde">
@@ -1026,10 +1026,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018023000 +0000" stop="20251018025000 +0000" channel="Heimatkanal.skyde">
     <title>Aus dem Lebenslauf eines Optimisten</title>
 </programme>
-<programme start="20251018025000 +0000" stop="20251018042500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018025000 +0000" stop="20251018042000 +0000" channel="Heimatkanal.skyde">
     <title>Auch ich war nur ein mittelmäßiger Schüler</title>
 </programme>
-<programme start="20251018042500 +0000" stop="20251018050500 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018042000 +0000" stop="20251018050500 +0000" channel="Heimatkanal.skyde">
     <title>Der Bergdoktor</title>
 </programme>
 <programme start="20251018050500 +0000" stop="20251018055500 +0000" channel="Heimatkanal.skyde">
@@ -1044,10 +1044,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018073000 +0000" stop="20251018082000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251018082000 +0000" stop="20251018091000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018082000 +0000" stop="20251018090500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20251018091000 +0000" stop="20251018100000 +0000" channel="Heimatkanal.skyde">
+<programme start="20251018090500 +0000" stop="20251018100000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
 <programme start="20251018100000 +0000" stop="20251018105000 +0000" channel="Heimatkanal.skyde">
@@ -2640,7 +2640,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018170000 +0000" stop="20251018200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Florida Panthers @ Buffalo Sabres</title>
 </programme>
-<programme start="20251018200000 +0000" stop="20251018223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251018200000 +0000" stop="20251019003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ New Jersey Devils</title>
 </programme>
 <programme start="20251018143000 +0000" stop="20251018145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2661,10 +2661,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018123000 +0000" stop="20251018143000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale 1</title>
 </programme>
-<programme start="20251018154000 +0000" stop="20251018160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251018160000 +0000" stop="20251018180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251018160000 +0000" stop="20251018200000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP 250: BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale 2</title>
 </programme>
 <programme start="20251017223000 +0000" stop="20251018003000 +0000" channel="Sky Sport Bundesliga HD.skyde">

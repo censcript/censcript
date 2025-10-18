@@ -7421,7 +7421,7 @@
         <title>Binddii</title>
     </programme>
     <programme start="20251018050000 +0000" stop="20251018053000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
+        <title>Shiv-Shakti Tap..Tyaag..Tandav</title>
     </programme>
     <programme start="20251018053000 +0000" stop="20251018060000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -7435,17 +7435,14 @@
     <programme start="20251018070000 +0000" stop="20251018083000 +0000" channel="COLORS.starhub">
         <title>Dhamaal With Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     </programme>
-    <programme start="20251018083000 +0000" stop="20251018090000 +0000" channel="COLORS.starhub">
+    <programme start="20251018083000 +0000" stop="20251018093000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
-    </programme>
-    <programme start="20251018090000 +0000" stop="20251018093000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
     </programme>
     <programme start="20251018093000 +0000" stop="20251018110000 +0000" channel="COLORS.starhub">
         <title>Dhamaal With Pati Patni Aur Panga - Jodiyon Ka Reality Check</title>
     </programme>
     <programme start="20251018110000 +0000" stop="20251018113000 +0000" channel="COLORS.starhub">
-        <title>Dhaakad Beera</title>
+        <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20251018113000 +0000" stop="20251018120000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
