@@ -70,8 +70,8 @@
     <title>Football: AEK - PAOK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251019000000 +0700" stop="20251019021000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - OFI (L)</title>
+<programme start="20251020031500 +0700" stop="20251020053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251019021000 +0700" stop="20251019042000 +0700" channel="COSMOTE Sport 2 HD">
@@ -141,6 +141,10 @@
 <programme start="20251020014500 +0700" stop="20251020034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251020034500 +0700" stop="20251020060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - PAOK</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019014500 +0700" stop="20251019034500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AS Roma - FC Internazionale Milano (L)</title>
@@ -218,6 +222,10 @@
     <title>Football: Dundee - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251020030000 +0700" stop="20251020051000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Volos - Panserraikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251019012000 +0700" stop="20251019033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Szolnoki Olaj</title>
     <desc>Live: Tidak</desc>
@@ -280,10 +288,6 @@
 </programme>
 <programme start="20251020020000 +0700" stop="20251020040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sassari - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251019012500 +0700" stop="20251019023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019023000 +0700" stop="20251019033000 +0700" channel="COSMOTE Sport 5 HD">
@@ -376,6 +380,10 @@
 </programme>
 <programme start="20251020015500 +0700" stop="20251020033000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251020033000 +0700" stop="20251020040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019020000 +0700" stop="20251019060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -510,6 +518,14 @@
     <title>Football: Neom - Al-Qadsiah (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251020030000 +0700" stop="20251020033000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251020033000 +0700" stop="20251020040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251019020000 +0700" stop="20251019040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -590,10 +606,6 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019010000 +0700" stop="20251019030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Al Nassr - Al Fateh (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251019030000 +0700" stop="20251019033000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -652,6 +664,10 @@
 </programme>
 <programme start="20251020000000 +0700" stop="20251020032500 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Minnesota Vikings - Philadelphia Eagles (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251020032500 +0700" stop="20251020065500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>American Football: Dallas Cowboys - Washington Commanders (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
