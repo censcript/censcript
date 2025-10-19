@@ -1,7 +1,3 @@
-<programme start="20251019200000 +0700" stop="20251019210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251019210000 +0700" stop="20251019213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame Show (L)</title>
     <desc>Live: Ya</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20251020192000 +0700" stop="20251020212500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251020212500 +0700" stop="20251020233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019200000 +0700" stop="20251019220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,8 +254,8 @@
     <title>Basketball: AEK - Szolnoki Olaj</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019190000 +0700" stop="20251019202000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
+<programme start="20251020210000 +0700" stop="20251020230000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Forca Lleida CE - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019202000 +0700" stop="20251019220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -530,10 +530,6 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019200000 +0700" stop="20251019203000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251019203000 +0700" stop="20251020000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>American Football: Jacksonville Jaguars - Los Angeles Rams (L)</title>
     <desc>Live: Ya</desc>
@@ -589,5 +585,9 @@
 <programme start="20251020190000 +0700" stop="20251020213000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251020213000 +0700" stop="20251020220000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

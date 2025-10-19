@@ -808,9 +808,6 @@
 <programme start="20251018233000 +0000" stop="20251019010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20251019010000 +0000" stop="20251019020000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
-</programme>
 <programme start="20251019020000 +0000" stop="20251019023000 +0000" channel="TVOne.vision">
 <title>Dunia Kita Dan Anak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251020080000 +0000" stop="20251020083000 +0000" channel="BTV.vision">
 <title>Dikit-Dikit Damkar</title>
+</programme>
+<programme start="20251020083000 +0000" stop="20251020091500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
 </programme>
