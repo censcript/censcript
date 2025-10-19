@@ -529,9 +529,6 @@
 <programme start="20251019000000 +0000" stop="20251019010000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20251019010000 +0000" stop="20251019040000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2025: Australia (L)</title>
-</programme>
 <programme start="20251019040000 +0000" stop="20251019050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
@@ -645,9 +642,6 @@
 </programme>
 <programme start="20251019010000 +0000" stop="20251019023000 +0000" channel="ANTV.vision">
 <title>Jadi Aku Sebentar Saja</title>
-</programme>
-<programme start="20251019023000 +0000" stop="20251019063000 +0000" channel="ANTV.vision">
-<title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20251019063000 +0000" stop="20251019080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
@@ -810,9 +804,6 @@
 </programme>
 <programme start="20251019023000 +0000" stop="20251019030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20251019033000 +0000" stop="20251019040000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
 </programme>
 <programme start="20251019040000 +0000" stop="20251019053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20251020093000 +0000" stop="20251020123000 +0000" channel="BTV.vision">
 <title>Berita Satu Spesial</title>
+</programme>
+<programme start="20251018230000 +0000" stop="20251019003500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251019003500 +0000" stop="20251019015500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251019015500 +0000" stop="20251019033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
