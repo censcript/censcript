@@ -258,10 +258,6 @@
     <title>Basketball: Unicaja - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251020040000 +0700" stop="20251020050000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251020050000 +0700" stop="20251020051500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
@@ -350,10 +346,6 @@
     <title>Grand Prix Show 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251020013000 +0700" stop="20251020043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251020043000 +0700" stop="20251020070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jiri Lehecka - Felix Auger-Aliassime</title>
     <desc>Live: Tidak</desc>
@@ -412,6 +404,10 @@
 </programme>
 <programme start="20251021034500 +0700" stop="20251021051500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251021051500 +0700" stop="20251021060500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251020040000 +0700" stop="20251020060000 +0700" channel="COSMOTE Sport 7 HD">
@@ -603,6 +599,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021040000 +0700" stop="20251021050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251021050000 +0700" stop="20251021053000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251021053000 +0700" stop="20251021060000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -97,7 +97,10 @@
   <programme start="20251021212700 +0000" stop="20251021230000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Srdečne vás vítame</title>
   </programme>
-  <programme start="20251020220000 +0000" stop="20251020220200 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20251020200000 +0000" stop="20251020220100 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Nechajte rieku tiecť</title>
+  </programme>
+  <programme start="20251020220100 +0000" stop="20251020220200 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
   <programme start="20251020220200 +0000" stop="20251020225000 +0000" channel="Dvojka.webtv.sk">
@@ -1192,31 +1195,31 @@
   <programme start="20251021210500 +0000" stop="20251021232000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Kobry a užovky</title>
   </programme>
-  <programme start="20251020201000 +0000" stop="20251020222000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251020202500 +0000" stop="20251020224000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Euro Cup</title>
   </programme>
-  <programme start="20251020222000 +0000" stop="20251020234000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251020224000 +0000" stop="20251021000500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20251020234000 +0000" stop="20251021004000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021000500 +0000" stop="20251021010000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
-  <programme start="20251021004000 +0000" stop="20251021014500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021010000 +0000" stop="20251021020500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom muži</title>
   </programme>
-  <programme start="20251021014500 +0000" stop="20251021025000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021020500 +0000" stop="20251021030000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom muži</title>
   </programme>
-  <programme start="20251021025000 +0000" stop="20251021042000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021030000 +0000" stop="20251021043000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20251021042000 +0000" stop="20251021061500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021043000 +0000" stop="20251021063000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár freestyle</title>
   </programme>
-  <programme start="20251021061500 +0000" stop="20251021080500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021063000 +0000" stop="20251021081500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v alpskom lyžovaní 2025</title>
   </programme>
-  <programme start="20251021080500 +0000" stop="20251021094500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20251021081500 +0000" stop="20251021094500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v alpskom lyžovaní 2025</title>
   </programme>
   <programme start="20251021094500 +0000" stop="20251021121000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1240,10 +1243,10 @@
   <programme start="20251021211500 +0000" stop="20251021232500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G muži</title>
   </programme>
-  <programme start="20251020201000 +0000" stop="20251020222000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251020200500 +0000" stop="20251020221500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20251020222000 +0000" stop="20251021001000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20251020221500 +0000" stop="20251021001000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár freestyle</title>
   </programme>
   <programme start="20251021001000 +0000" stop="20251021013500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1763,7 +1766,7 @@
     <title lang="id">Tlačová beseda (3)</title>
   </programme>
   <programme start="20251020231500 +0000" stop="20251020235500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Pavol Gašpar</title>
   </programme>
   <programme start="20251020235500 +0000" stop="20251021005000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rekonštrukcia leteckých nešťastí (7)</title>
@@ -1793,7 +1796,7 @@
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251021065000 +0000" stop="20251021073000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Pavol Gašpar</title>
   </programme>
   <programme start="20251021073000 +0000" stop="20251021081500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Len peniaze nestačia - Vladimír Sirotka</title>
@@ -1823,7 +1826,7 @@
     <title lang="id">Vraždy na výletnej lodi (3)</title>
   </programme>
   <programme start="20251021130000 +0000" stop="20251021134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Pavol Gašpar</title>
   </programme>
   <programme start="20251021134000 +0000" stop="20251021144000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Toto je Anglicko (6)</title>
@@ -3592,29 +3595,20 @@
   <programme start="20251021153600 +0000" stop="20251021163000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Markézy, k pramenům Polynésie</title>
   </programme>
-  <programme start="20251021163000 +0000" stop="20251021170200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251021163000 +0000" stop="20251021170000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Manu a Matěj na cestě po střední Itálii (2/10)</title>
   </programme>
-  <programme start="20251021170200 +0000" stop="20251021171500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Cyklotoulky</title>
+  <programme start="20251021170000 +0000" stop="20251021182500 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Galavečer krajů</title>
   </programme>
-  <programme start="20251021171500 +0000" stop="20251021174200 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Křesťanský magazín</title>
-  </programme>
-  <programme start="20251021174200 +0000" stop="20251021175000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Postřehy odjinud</title>
-  </programme>
-  <programme start="20251021175000 +0000" stop="20251021180000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Zprávy v českém znakovém jazyce</title>
-  </programme>
-  <programme start="20251021180000 +0000" stop="20251021185500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251021182500 +0000" stop="20251021192000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Starověké velmoci I (1)</title>
   </programme>
-  <programme start="20251021185500 +0000" stop="20251021195000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251021192000 +0000" stop="20251021201500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ve službě horám</title>
   </programme>
-  <programme start="20251021195000 +0000" stop="20251021203000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Letecké katastrofy</title>
+  <programme start="20251021201500 +0000" stop="20251021203000 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20251021203000 +0000" stop="20251021212500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Přední linie I (1/8)</title>
@@ -3835,14 +3829,14 @@
   <programme start="20251021054700 +0000" stop="20251021055900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Pan Jezevec a paní Liška</title>
   </programme>
-  <programme start="20251021055900 +0000" stop="20251021061000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251021055900 +0000" stop="20251021061500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Biff a Chip</title>
   </programme>
-  <programme start="20251021061000 +0000" stop="20251021061500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Anna a kamarádi</title>
-  </programme>
-  <programme start="20251021061500 +0000" stop="20251021062200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20251021061500 +0000" stop="20251021061700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tish a Tash</title>
+  </programme>
+  <programme start="20251021061700 +0000" stop="20251021062200 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Anna a kamarádi</title>
   </programme>
   <programme start="20251021062200 +0000" stop="20251021063000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Příliv pokladů</title>
@@ -5191,14 +5185,14 @@
   <programme start="20251021063000 +0000" stop="20251021070000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20251021070000 +0000" stop="20251021072000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021070000 +0000" stop="20251021072500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
   </programme>
-  <programme start="20251021072000 +0000" stop="20251021073000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021072500 +0000" stop="20251021073000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251021073000 +0000" stop="20251021080000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
+    <title lang="id">Bez dresu - hostia Milan Lešický a Vladimír Koník - Slovenská reprezentácia v kvalifikácii na MS</title>
   </programme>
   <programme start="20251021080000 +0000" stop="20251021084500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Vytuningované jazdy Fínsko</title>
@@ -5209,10 +5203,10 @@
   <programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
-  <programme start="20251021100000 +0000" stop="20251021102000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021100000 +0000" stop="20251021102500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Švihák testuje</title>
   </programme>
-  <programme start="20251021102000 +0000" stop="20251021103000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021102500 +0000" stop="20251021103000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251021103000 +0000" stop="20251021110000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -5227,10 +5221,10 @@
   <programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
   </programme>
-  <programme start="20251021123000 +0000" stop="20251021125000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021123000 +0000" stop="20251021125500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Švihák testuje</title>
   </programme>
-  <programme start="20251021125000 +0000" stop="20251021130000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021125500 +0000" stop="20251021130000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251021130000 +0000" stop="20251021133000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -5239,11 +5233,11 @@
   <programme start="20251021133000 +0000" stop="20251021141500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Profíci na konské sily</title>
   </programme>
-  <programme start="20251021141500 +0000" stop="20251021150000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20251021141500 +0000" stop="20251021151500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20251021150000 +0000" stop="20251021154500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
+  <programme start="20251021151500 +0000" stop="20251021154500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">One day with BB - Lukasz Skorupski</title>
   </programme>
   <programme start="20251021154500 +0000" stop="20251021163000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
@@ -5255,19 +5249,13 @@
     <title lang="id">Naša Garáž</title>
   </programme>
   <programme start="20251021173000 +0000" stop="20251021180000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
+    <title lang="id">Bez dresu - hostia Milan Lešický a Vladimír Koník - Slovenská reprezentácia v kvalifikácii na MS</title>
   </programme>
-  <programme start="20251021180000 +0000" stop="20251021183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20251021183000 +0000" stop="20251021191500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Profíci na konské sily</title>
-  </programme>
-  <programme start="20251021191500 +0000" stop="20251021200000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
+  <programme start="20251021180000 +0000" stop="20251021200000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Costa do Sauipe Open</title>
   </programme>
   <programme start="20251021200000 +0000" stop="20251021220000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">PSV Eindhoven - Go Ahead Eagles</title>
+    <title lang="id">Costa do Sauipe Open</title>
   </programme>
   <programme start="20251020215500 +0000" stop="20251020233500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Detroit Red Wings - Edmonton Oilers</title>
