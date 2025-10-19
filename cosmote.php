@@ -126,12 +126,8 @@
     <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019180000 +0700" stop="20251019182000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251019182000 +0700" stop="20251019185000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Libertadores 2025 - Highlights</title>
+<programme start="20251020192000 +0700" stop="20251020212500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019185000 +0700" stop="20251019200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,8 +198,8 @@
     <title>Football: 2025 Socca Champions League (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251019170000 +0700" stop="20251019190000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Sassari - Armani Milano (L)</title>
+<programme start="20251020190000 +0700" stop="20251020200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: 2025 Socca Champions League (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251019190000 +0700" stop="20251019193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -264,10 +260,6 @@
 </programme>
 <programme start="20251020185500 +0700" stop="20251020210000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Szolnoki Olaj</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251019174000 +0700" stop="20251019190000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019190000 +0700" stop="20251019202000 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +350,10 @@
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251020190500 +0700" stop="20251020204000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251019173000 +0700" stop="20251019193000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Giovanni Mpetshi Perricard - Jiri Lehecka</title>
     <desc>Live: Tidak</desc>
@@ -416,10 +412,6 @@
 </programme>
 <programme start="20251020180000 +0700" stop="20251020200000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Challenger 50 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251019180000 +0700" stop="20251019190000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019190000 +0700" stop="20251019193000 +0700" channel="COSMOTE Sport 7 HD">
@@ -609,5 +601,9 @@
 <programme start="20251020183000 +0700" stop="20251020190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251020190000 +0700" stop="20251020213000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Tennis: ATP 500 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
