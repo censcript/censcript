@@ -2627,14 +2627,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019125000 +0000" stop="20251019150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Aston Villa, 8. Spieltag</title>
 </programme>
-<programme start="20251019150000 +0000" stop="20251019173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251019150000 +0000" stop="20251019180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live PL: FC Liverpool - Manchester United, Match of the Week, 8. Spieltag</title>
 </programme>
 <programme start="20251019124000 +0000" stop="20251019130000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20251019130000 +0000" stop="20251019153000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live ATP 250: U. Humbert (FRA) - D. Shapovalov (CAN)/C. Ruud (NOR), BNP Paribas Nordic Open in Stockholm (SWE), Finale</title>
+<programme start="20251019130000 +0000" stop="20251019173000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+    <title>Live ATP 250: U. Humbert (FRA) - C. Ruud (NOR), BNP Paribas Nordic Open in Stockholm (SWE), Finale</title>
 </programme>
 <programme start="20251018220000 +0000" stop="20251018230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 7. Spieltag</title>
@@ -2762,7 +2762,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019160000 +0000" stop="20251019173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20251019173000 +0000" stop="20251019181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20251019173000 +0000" stop="20251019184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: STP - TSG; 7. Spieltag</title>
 </programme>
 <programme start="20251019104000 +0000" stop="20251019110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2771,28 +2771,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019110000 +0000" stop="20251019133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - 1. FC Magdeburg, 9. Spieltag</title>
 </programme>
+<programme start="20251019133000 +0000" stop="20251019153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Es folgt: 17:00 Fußball: Bundesliga</title>
+</programme>
 <programme start="20251019153000 +0000" stop="20251019173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: SC Freiburg - Eintracht Frankfurt, 7. Spieltag</title>
 </programme>
-<programme start="20251019173000 +0000" stop="20251019193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20251019173000 +0000" stop="20251019194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC St. Pauli - TSG Hoffenheim, 7. Spieltag</title>
 </programme>
 <programme start="20251019104000 +0000" stop="20251019110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251019110000 +0000" stop="20251019133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20251019110000 +0000" stop="20251019140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - Holstein Kiel, 9. Spieltag</title>
 </programme>
 <programme start="20251019104000 +0000" stop="20251019110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20251019110000 +0000" stop="20251019133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20251019110000 +0000" stop="20251019140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SV Elversberg - SpVgg Greuther Fürth, 9. Spieltag</title>
 </programme>
-<programme start="20251018223000 +0000" stop="20251018230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251018224500 +0000" stop="20251018231500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP USA</title>
 </programme>
-<programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251018231500 +0000" stop="20251019000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP USA</title>
 </programme>
 <programme start="20251019000000 +0000" stop="20251019013000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2898,28 +2901,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: AIG Women&#039;s Open, 4. Tag in Royal Porthcawl (Wales)</title>
 </programme>
 <programme start="20251018223500 +0000" stop="20251018233500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP Australien</title>
+</programme>
+<programme start="20251018233500 +0000" stop="20251019003500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Warm Up - GP Australien</title>
 </programme>
-<programme start="20251018233500 +0000" stop="20251019010000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251019003500 +0000" stop="20251019020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: Rennen - GP Australien</title>
 </programme>
-<programme start="20251019010000 +0000" stop="20251019021500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251019020000 +0000" stop="20251019031500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: Rennen - GP Australien</title>
 </programme>
-<programme start="20251019021500 +0000" stop="20251019043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251019031500 +0000" stop="20251019053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Rennen - GP Australien</title>
 </programme>
-<programme start="20251019043000 +0000" stop="20251019063000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251019053000 +0000" stop="20251019073000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Dallas Stars @ St. Louis Blues</title>
 </programme>
-<programme start="20251019063000 +0000" stop="20251019064500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251019073000 +0000" stop="20251019074500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 7. Spieltag, Samstag</title>
 </programme>
-<programme start="20251019064500 +0000" stop="20251019070000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251019074500 +0000" stop="20251019080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Tales of Valentino - The Victory</title>
-</programme>
-<programme start="20251019070000 +0000" stop="20251019080000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Australien</title>
 </programme>
 <programme start="20251019080000 +0000" stop="20251019090000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WRC: Central Europe Rally - SS16 Mühltal 1</title>
@@ -3107,22 +3110,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019213000 +0000" stop="20251019220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Edwin van der Sar)</title>
 </programme>
-<programme start="20251018220000 +0000" stop="20251019000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: H. Rune (DEN) - U. Umbert (FRA), BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale</title>
-</programme>
-<programme start="20251019000000 +0000" stop="20251019003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251018231500 +0000" stop="20251018234500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20251019003000 +0000" stop="20251019030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251018234500 +0000" stop="20251019021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Nosková (CZE) - A. Anisimova (USA), China Open in Peking (China), Finale</title>
 </programme>
-<programme start="20251019030000 +0000" stop="20251019050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: H. Rune (DEN) - U. Umbert (FRA), BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale</title>
+<programme start="20251019021500 +0000" stop="20251019035000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: D. Shapovalov (CAN) - C. Ruud (NOR), BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale</title>
 </programme>
-<programme start="20251019050000 +0000" stop="20251019070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251019035000 +0000" stop="20251019052500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: D. Shapovalov (CAN) - C. Ruud (NOR), BNP Paribas Nordic Open in Stockholm (SWE), Halbfinale</title>
+</programme>
+<programme start="20251019052500 +0000" stop="20251019071000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - J. Paoline (ITA), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
-<programme start="20251019070000 +0000" stop="20251019090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251019071000 +0000" stop="20251019090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Shnaider (RUS) - E. Alexandrova (RUS), Ningbo Open in Ningbo (CHN), Halbfinale</title>
 </programme>
 <programme start="20251019090000 +0000" stop="20251019130000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3132,31 +3135,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 250: Konferenz ATP Stockholm &amp; Brüssel Finale</title>
 </programme>
 <programme start="20251019170000 +0000" stop="20251019193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Ningbo Open in Ningbo (CHN), Finale</title>
+    <title>WTA 500: E. Alexandrova (RUS) - E. Rybakina (KAZ), Ningbo Open in Ningbo (CHN), Finale</title>
 </programme>
 <programme start="20251019193000 +0000" stop="20251019220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, BNP Paribas Nordic Open in Stockholm (SWE), Finale</title>
+    <title>ATP 250: U. Humbert (FRA) - C. Ruud (NOR), BNP Paribas Nordic Open in Stockholm (SWE), Finale</title>
 </programme>
-<programme start="20251018223000 +0000" stop="20251018230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251018224500 +0000" stop="20251018232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP USA</title>
 </programme>
-<programme start="20251018230000 +0000" stop="20251018233500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251018232500 +0000" stop="20251018233500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Max Verstappen: The DNA of a Champion</title>
+</programme>
+<programme start="20251018233500 +0000" stop="20251019003500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Warm Up - GP Australien</title>
 </programme>
-<programme start="20251018233500 +0000" stop="20251019010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251019003500 +0000" stop="20251019020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: Rennen - GP Australien</title>
 </programme>
-<programme start="20251019010000 +0000" stop="20251019021500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251019020000 +0000" stop="20251019031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: Rennen - GP Australien</title>
 </programme>
-<programme start="20251019021500 +0000" stop="20251019043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251019031500 +0000" stop="20251019053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Rennen - GP Australien</title>
 </programme>
-<programme start="20251019043000 +0000" stop="20251019050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251019053000 +0000" stop="20251019060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Highlights Samstag, 8. Spieltag</title>
-</programme>
-<programme start="20251019050000 +0000" stop="20251019060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 7. Spieltag</title>
 </programme>
 <programme start="20251019060000 +0000" stop="20251019085500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: DP World India Championship, 4. Tag in Neu-Delhi (Indien)</title>
@@ -3212,32 +3215,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018224000 +0000" stop="20251018230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live NHL</title>
 </programme>
-<programme start="20251018230000 +0000" stop="20251019080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251018230000 +0000" stop="20251019015000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Dallas Stars @ St. Louis Blues</title>
 </programme>
 <programme start="20251019084000 +0000" stop="20251019090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20251019090000 +0000" stop="20251019113000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: Finale, Ningbo Open in Ningbo (CHN), Finale</title>
+    <title>Live WTA 500: E. Alexandrova (RUS) - E. Rybakina (KAZ), Ningbo Open in Ningbo (CHN), Finale</title>
 </programme>
-<programme start="20251019124000 +0000" stop="20251019130000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20251019113000 +0000" stop="20251019130000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20251019130000 +0000" stop="20251019153000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: Finale, BNP Paribas Nordic Open in Stockholm (SWE), Finale</title>
+<programme start="20251019130000 +0000" stop="20251019173000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 250: U. Humbert (FRA) - C. Ruud (NOR), BNP Paribas Nordic Open in Stockholm (SWE), Finale</title>
 </programme>
 <programme start="20251019094000 +0000" stop="20251019100000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20251019100000 +0000" stop="20251019123000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Live ATP 250: Finale, Almaty Open in Almaty (KAZ), Finale</title>
+    <title>Live ATP 250: C. Moutet (FRA) - D. Medvedev (RUS), Almaty Open in Almaty (KAZ), Finale</title>
 </programme>
-<programme start="20251019141000 +0000" stop="20251019143000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20251019123000 +0000" stop="20251019143000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20251019143000 +0000" stop="20251019170000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Live ATP 250: Finale, BNP Paribas Fortis European Open in Brüssel (BEL), Finale</title>
+<programme start="20251019143000 +0000" stop="20251019190000 +0000" channel="Sky Sport 7 HD.skyde">
+    <title>Live ATP 250: J. Lehecka (CZE) - F. Auger-Aliassime (CAN), BNP Paribas Fortis European Open in Brüssel (BEL), Finale</title>
 </programme>
 <programme start="20251018220500 +0000" stop="20251018225000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
