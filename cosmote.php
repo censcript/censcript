@@ -54,14 +54,6 @@
     <title>Football: Celta - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019220000 +0700" stop="20251019221500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251019221500 +0700" stop="20251019230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251019230000 +0700" stop="20251020010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
@@ -118,12 +110,8 @@
     <title>Football: Atalanta - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019220000 +0700" stop="20251019223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Football Countdowns E9</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251019223000 +0700" stop="20251019230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E28</title>
+<programme start="20251020233000 +0700" stop="20251021014500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019230000 +0700" stop="20251020010000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,6 +178,10 @@
     <title>American Football: Minnesota Vikings - Philadelphia Eagles</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251020234000 +0700" stop="20251021000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Worldies E17</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251019220000 +0700" stop="20251020000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sassari - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -241,6 +233,10 @@
 <programme start="20251020210000 +0700" stop="20251020230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Forca Lleida CE - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251020230000 +0700" stop="20251021010000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karsiyaka - Anadolu Efes (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251019220000 +0700" stop="20251020000000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Forca Lleida CE - Valencia Basket Club (L)</title>
@@ -334,6 +330,10 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251020232000 +0700" stop="20251021010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251019213000 +0700" stop="20251020000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jiri Lehecka - Felix Auger-Aliassime (L)</title>
     <desc>Live: Ya</desc>
@@ -394,13 +394,9 @@
     <title>Sports Classics: The Outdoor Sports Show 2025 E10</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251019200000 +0700" stop="20251019223000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Ugo Humbert - Casper Ruud (L)</title>
+<programme start="20251020230000 +0700" stop="20251021003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251019223000 +0700" stop="20251019230000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251019230000 +0700" stop="20251020000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
