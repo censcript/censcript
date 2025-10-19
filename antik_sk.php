@@ -5075,7 +5075,7 @@
     <title lang="id">Nočné vysielanie</title>
   </programme>
   <programme start="20251021043000 +0000" stop="20251021050000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
+    <title lang="id">Bez dresu - hostia Milan Lešický a Vladimír Koník - Slovenská reprezentácia v kvalifikácii na MS</title>
   </programme>
   <programme start="20251021050000 +0000" stop="20251021051000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Športové sekundy</title>
@@ -5086,10 +5086,10 @@
   <programme start="20251021053500 +0000" stop="20251021060000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
   </programme>
-  <programme start="20251021060000 +0000" stop="20251021065000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251021060000 +0000" stop="20251021065500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Topspeed</title>
   </programme>
-  <programme start="20251021065000 +0000" stop="20251021070000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251021065500 +0000" stop="20251021070000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251021070000 +0000" stop="20251021073000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -5102,15 +5102,15 @@
     <title lang="id">Autožurnál</title>
   </programme>
   <programme start="20251021083000 +0000" stop="20251021090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
+    <title lang="id">One day with BB - Lukasz Skorupski</title>
   </programme>
   <programme start="20251021090000 +0000" stop="20251021093000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Topspeed</title>
   </programme>
-  <programme start="20251021093000 +0000" stop="20251021095000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251021093000 +0000" stop="20251021095500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20251021095000 +0000" stop="20251021100000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251021095500 +0000" stop="20251021100000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251021100000 +0000" stop="20251021103000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -5128,10 +5128,10 @@
   <programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DominicCars</title>
   </programme>
-  <programme start="20251021123000 +0000" stop="20251021124000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251021123000 +0000" stop="20251021123500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Telenákup</title>
   </programme>
-  <programme start="20251021124000 +0000" stop="20251021131500 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20251021123500 +0000" stop="20251021131500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Topspeed</title>
   </programme>
   <programme start="20251021131500 +0000" stop="20251021140000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -5162,7 +5162,7 @@
     <title lang="id">Autožurnál</title>
   </programme>
   <programme start="20251021193000 +0000" stop="20251021200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
+    <title lang="id">Bez dresu - hostia Milan Lešický a Vladimír Koník - Slovenská reprezentácia v kvalifikácii na MS</title>
   </programme>
   <programme start="20251021200000 +0000" stop="20251021203000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Topspeed</title>
