@@ -3215,7 +3215,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251018224000 +0000" stop="20251018230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live NHL</title>
 </programme>
-<programme start="20251018230000 +0000" stop="20251019034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251018230000 +0000" stop="20251019015000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Dallas Stars @ St. Louis Blues</title>
 </programme>
 <programme start="20251019084000 +0000" stop="20251019090000 +0000" channel="Sky Sport 6 HD.skyde">
