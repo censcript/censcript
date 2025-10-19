@@ -1526,6 +1526,69 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019214000 +0000" stop="20251019220500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20251018225500 +0000" stop="20251019002500 +0000" channel="Romance TV HD.skyde">
+    <title>Donna Leon: Stille Wasser</title>
+</programme>
+<programme start="20251019002500 +0000" stop="20251019015500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Sommer in Norrsunda</title>
+</programme>
+<programme start="20251019015500 +0000" stop="20251019020000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251019020000 +0000" stop="20251019020500 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20251019020500 +0000" stop="20251019022000 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20251019022000 +0000" stop="20251019035000 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz: Gegen den Schmerz</title>
+</programme>
+<programme start="20251019035000 +0000" stop="20251019052500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Zurück ins Morgen</title>
+</programme>
+<programme start="20251019052500 +0000" stop="20251019070000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Marokko</title>
+</programme>
+<programme start="20251019070000 +0000" stop="20251019074500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251019074500 +0000" stop="20251019084000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251019084000 +0000" stop="20251019093000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251019093000 +0000" stop="20251019101500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251019101500 +0000" stop="20251019110500 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251019110500 +0000" stop="20251019120000 +0000" channel="Romance TV HD.skyde">
+    <title>Familie Dr. Kleist</title>
+</programme>
+<programme start="20251019120000 +0000" stop="20251019133000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Geliebter Feind</title>
+</programme>
+<programme start="20251019133000 +0000" stop="20251019150500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Sommer in Norrsunda</title>
+</programme>
+<programme start="20251019150500 +0000" stop="20251019164000 +0000" channel="Romance TV HD.skyde">
+    <title>Unterm Apfelbaum - Einsturzgefährdet</title>
+</programme>
+<programme start="20251019164000 +0000" stop="20251019181500 +0000" channel="Romance TV HD.skyde">
+    <title>Unterm Apfelbaum - Panta Rhei</title>
+</programme>
+<programme start="20251019181500 +0000" stop="20251019195000 +0000" channel="Romance TV HD.skyde">
+    <title>Der Ranger - Paradies Heimat</title>
+</programme>
+<programme start="20251019195000 +0000" stop="20251019212000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Flügel der Liebe</title>
+</programme>
+<programme start="20251019212000 +0000" stop="20251019225500 +0000" channel="Romance TV HD.skyde">
+    <title>Hotel Barcelona, Episode 1</title>
+</programme>
 <programme start="20251018224500 +0000" stop="20251018234000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Outlander</title>
 </programme>

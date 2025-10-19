@@ -652,9 +652,6 @@
 <programme start="20251019093000 +0000" stop="20251019110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251019110000 +0000" stop="20251019130000 +0000" channel="ANTV.vision">
-<title>Pancasona</title>
-</programme>
 <programme start="20251019130000 +0000" stop="20251019150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
@@ -828,9 +825,6 @@
 </programme>
 <programme start="20251019110000 +0000" stop="20251019130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20251019130000 +0000" stop="20251019143000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20251019143000 +0000" stop="20251019153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251019015500 +0000" stop="20251019033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251019033000 +0000" stop="20251019050500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251019050500 +0000" stop="20251019064000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
