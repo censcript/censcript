@@ -2603,7 +2603,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019120000 +0000" stop="20251019122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251019122000 +0000" stop="20251019144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251019122000 +0000" stop="20251019150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - SK Puntigamer Sturm Graz, 10. Runde</title>
 </programme>
 <programme start="20251019161000 +0000" stop="20251019163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2612,13 +2612,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251019163000 +0000" stop="20251019193000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Vancouver Canucks @ Washington Capitals</title>
 </programme>
-<programme start="20251019193000 +0000" stop="20251019220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251019193000 +0000" stop="20251020000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Detroit Red Wings</title>
 </programme>
 <programme start="20251019120000 +0000" stop="20251019122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20251019122000 +0000" stop="20251019144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251019122000 +0000" stop="20251019150000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - SCR Altach, 10. Runde</title>
 </programme>
 <programme start="20251019123000 +0000" stop="20251019125000 +0000" channel="Sky Sport Austria 4 HD.skyde">
