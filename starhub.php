@@ -2099,7 +2099,7 @@
         <title>Saving Malawi&#039;s Mulanje Cedar</title>
     </programme>
     <programme start="20251019170000 +0000" stop="20251019173000 +0000" channel="CNN HD.starhub">
-        <title>African Voices Changemakers LAVCM214</title>
+        <title>Cultural Guardians</title>
     </programme>
     <programme start="20251019173000 +0000" stop="20251019180000 +0000" channel="CNN HD.starhub">
         <title>Blueprint: Mongolia</title>
@@ -6529,7 +6529,10 @@
     <programme start="20251020150100 +0000" stop="20251020163400 +0000" channel="TV5MONDE HD.starhub">
         <title>Juniors</title>
     </programme>
-    <programme start="20251019160000 +0000" stop="20251019183000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20251019100000 +0000" stop="20251019163000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>VICTOR Denmark Open (Super 750) Finals</title>
+    </programme>
+    <programme start="20251019163000 +0000" stop="20251019183000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>MSC Hamburg Ladies Open (250) Final</title>
     </programme>
     <programme start="20251019183000 +0000" stop="20251019190000 +0000" channel="Hub Sports 1  HD.starhub">
