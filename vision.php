@@ -655,8 +655,17 @@
 <programme start="20251020093000 +0000" stop="20251020110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
 </programme>
+<programme start="20251020110000 +0000" stop="20251020130000 +0000" channel="ANTV.vision">
+<title>Si Jalu: 2 Pendekar Putih</title>
+</programme>
 <programme start="20251020130000 +0000" stop="20251020150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
+</programme>
+<programme start="20251020150000 +0000" stop="20251020170000 +0000" channel="ANTV.vision">
+<title>Band Baaja Baaraat</title>
+</programme>
+<programme start="20251020170000 +0000" stop="20251020183000 +0000" channel="ANTV.vision">
+<title>Bioskop Asia</title>
 </programme>
 <programme start="20251020183000 +0000" stop="20251020203000 +0000" channel="ANTV.vision">
 <title>Tongkat Sakti</title>
@@ -828,6 +837,12 @@
 </programme>
 <programme start="20251020110000 +0000" stop="20251020130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20251020130000 +0000" stop="20251020143000 +0000" channel="TVOne.vision">
+<title>Talkshow Spesial</title>
+</programme>
+<programme start="20251020143000 +0000" stop="20251020153000 +0000" channel="TVOne.vision">
+<title>Fakta</title>
 </programme>
 <programme start="20251020153000 +0000" stop="20251020163000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1481,20 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251020090500 +0000" stop="20251020105000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251020105000 +0000" stop="20251020122000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251020122000 +0000" stop="20251020140000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251020140000 +0000" stop="20251020153500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251020153500 +0000" stop="20251020171500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251020171500 +0000" stop="20251020185000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

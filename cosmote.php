@@ -118,14 +118,6 @@
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021020000 +0700" stop="20251021023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Copa Sudamericana 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251021023000 +0700" stop="20251021025500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251021025500 +0700" stop="20251021035500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +260,6 @@
 </programme>
 <programme start="20251022020000 +0700" stop="20251022040500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Arsenal - Club Atletico de Madrid (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251021010000 +0700" stop="20251021022000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Grand Prix Show 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251021022000 +0700" stop="20251021032000 +0700" channel="COSMOTE Sport 5 HD">
@@ -484,10 +472,6 @@
 </programme>
 <programme start="20251022020000 +0700" stop="20251022040500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: PSV Eindhoven - SSC Napoli (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20251021010000 +0700" stop="20251021030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Basketball: Virtus Bologna - Vanoli Cremona (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251021030000 +0700" stop="20251021033000 +0700" channel="COSMOTE Sport 8 HD">

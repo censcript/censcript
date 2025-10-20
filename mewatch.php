@@ -808,8 +808,20 @@
     <programme start="20251021160000 +0000" stop="20251022160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now. Next broadcast on 24th October, Friday 8.30pm. ONE Friday Fights 130</title>
     </programme>
-    <programme start="20251020160000 +0000" stop="20251021160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
+    <programme start="20251020160000 +0000" stop="20251020220000 +0000" channel="Live 5.mewatch">
+        <title>No programme available now. - EP1</title>
+    </programme>
+    <programme start="20251020220000 +0000" stop="20251021040000 +0000" channel="Live 5.mewatch">
+        <title>No programme available now. - EP2</title>
+    </programme>
+    <programme start="20251021040000 +0000" stop="20251021070000 +0000" channel="Live 5.mewatch">
+        <title>No programme available now. - EP3</title>
+    </programme>
+    <programme start="20251021070000 +0000" stop="20251021100000 +0000" channel="Live 5.mewatch">
+        <title>No programme available now. - EP4</title>
+    </programme>
+    <programme start="20251021100000 +0000" stop="20251021160000 +0000" channel="Live 5.mewatch">
+        <title>No programme available now. - EP5</title>
     </programme>
     <programme start="20251021160000 +0000" stop="20251022160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
