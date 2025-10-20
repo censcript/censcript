@@ -8050,14 +8050,11 @@
     <programme start="20251020040000 +0000" stop="20251020060000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 A-League Men Round 1 Brisbane Roar vs Macarthur FC</title>
     </programme>
-    <programme start="20251020060000 +0000" stop="20251020070000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251020060000 +0000" stop="20251020072000 +0000" channel="SPOTV2.starhub">
         <title>Race 14</title>
     </programme>
-    <programme start="20251020070000 +0000" stop="20251020080000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251020072000 +0000" stop="20251020090000 +0000" channel="SPOTV2.starhub">
         <title>Race 15</title>
-    </programme>
-    <programme start="20251020080000 +0000" stop="20251020090000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
     </programme>
     <programme start="20251020090000 +0000" stop="20251020100000 +0000" channel="SPOTV2.starhub">
         <title>Warm up + Rider&#039;s Fan Parade</title>
@@ -8068,10 +8065,10 @@
     <programme start="20251020112500 +0000" stop="20251020124000 +0000" channel="SPOTV2.starhub">
         <title>Moto2 Race</title>
     </programme>
-    <programme start="20251020124000 +0000" stop="20251020150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251020124000 +0000" stop="20251020144500 +0000" channel="SPOTV2.starhub">
         <title>MotoGP Race</title>
     </programme>
-    <programme start="20251020150000 +0000" stop="20251020170000 +0000" channel="SPOTV2.starhub">
+    <programme start="20251020144500 +0000" stop="20251020164500 +0000" channel="SPOTV2.starhub">
         <title>ROSHN Saudi League 25/26 MW5 Al Ettifaq vs Al Hilal</title>
     </programme>
     <programme start="20251019160000 +0000" stop="20251019170500 +0000" channel="Dragon TV.starhub">
