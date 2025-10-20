@@ -2652,6 +2652,111 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251020213000 +0000" stop="20251020223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
+<programme start="20251019220000 +0000" stop="20251019230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 7. Spieltag</title>
+</programme>
+<programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 9. Spieltag</title>
+</programme>
+<programme start="20251020000000 +0000" stop="20251020001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (7)</title>
+</programme>
+<programme start="20251020001500 +0000" stop="20251020003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (9)</title>
+</programme>
+<programme start="20251020003000 +0000" stop="20251020023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 1. FC Nürnberg - Holstein Kiel, 9. Spieltag</title>
+</programme>
+<programme start="20251020023000 +0000" stop="20251020024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (9)</title>
+</programme>
+<programme start="20251020024500 +0000" stop="20251020030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (7)</title>
+</programme>
+<programme start="20251020030000 +0000" stop="20251020040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 9. Spieltag</title>
+</programme>
+<programme start="20251020040000 +0000" stop="20251020041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (7)</title>
+</programme>
+<programme start="20251020041500 +0000" stop="20251020043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (9)</title>
+</programme>
+<programme start="20251020043000 +0000" stop="20251020044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: SCF - SGE, 7. Spieltag</title>
+</programme>
+<programme start="20251020044500 +0000" stop="20251020050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: STP - TSG; 7. Spieltag</title>
+</programme>
+<programme start="20251020050000 +0000" stop="20251020070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: SC Freiburg - Eintracht Frankfurt, 7. Spieltag</title>
+</programme>
+<programme start="20251020070000 +0000" stop="20251020080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Alle Spiele, alle Stimmen, 9. Spieltag</title>
+</programme>
+<programme start="20251020080000 +0000" stop="20251020081500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: SCF - SGE, 7. Spieltag</title>
+</programme>
+<programme start="20251020081500 +0000" stop="20251020083000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: STP - TSG; 7. Spieltag</title>
+</programme>
+<programme start="20251020083000 +0000" stop="20251020100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20251020100000 +0000" stop="20251020100500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Sky Sport Bundesliga Kids Club</title>
+</programme>
+<programme start="20251020100500 +0000" stop="20251020120500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: FC Bayern München - Borussia Dortmund, tipico Topspiel der Woche, 7. Spieltag</title>
+</programme>
+<programme start="20251020120500 +0000" stop="20251020122000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: SCF - SGE, 7. Spieltag</title>
+</programme>
+<programme start="20251020122000 +0000" stop="20251020123500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: STP - TSG; 7. Spieltag</title>
+</programme>
+<programme start="20251020123500 +0000" stop="20251020124000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Sky Sport Bundesliga Kids Club</title>
+</programme>
+<programme start="20251020124000 +0000" stop="20251020125500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (9)</title>
+</programme>
+<programme start="20251020125500 +0000" stop="20251020145500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Karlsruher SC - 1. FC Kaiserslautern, 9. Spieltag</title>
+</programme>
+<programme start="20251020145500 +0000" stop="20251020150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Sky Sport Bundesliga Kids Club</title>
+</programme>
+<programme start="20251020150000 +0000" stop="20251020153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: BOC - BSC, 9. Spieltag</title>
+</programme>
+<programme start="20251020153000 +0000" stop="20251020160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: FCB - BVB, 7. Spieltag</title>
+</programme>
+<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
+</programme>
+<programme start="20251020163000 +0000" stop="20251020173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 7. Spieltag</title>
+</programme>
+<programme start="20251020173000 +0000" stop="20251020174500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Torparade 9. Spieltag</title>
+</programme>
+<programme start="20251020174500 +0000" stop="20251020180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 7. Spieltag</title>
+</programme>
+<programme start="20251020180000 +0000" stop="20251020190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
+</programme>
+<programme start="20251020190000 +0000" stop="20251020200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
+<programme start="20251020200000 +0000" stop="20251020210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
+</programme>
+<programme start="20251020210000 +0000" stop="20251020220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+</programme>
 <programme start="20251020090000 +0000" stop="20251020110000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: 1. FC Union Berlin - Borussia M&#039;gladbach, Flutlicht-Freitag, 7. Spieltag</title>
 </programme>

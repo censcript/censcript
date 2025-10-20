@@ -658,9 +658,6 @@
 <programme start="20251020130000 +0000" stop="20251020150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251020170000 +0000" stop="20251020183000 +0000" channel="ANTV.vision">
-<title>Bioskop Asia</title>
-</programme>
 <programme start="20251020183000 +0000" stop="20251020203000 +0000" channel="ANTV.vision">
 <title>Tongkat Sakti</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251020153500 +0000" stop="20251020171500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251020171500 +0000" stop="20251020185000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
