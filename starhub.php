@@ -2126,13 +2126,13 @@
         <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20251020000000 +0000" stop="20251020010000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom Sunday</title>
+        <title>State of the Union with Jake Tapper and Dana Bash</title>
     </programme>
     <programme start="20251020010000 +0000" stop="20251020020000 +0000" channel="CNN HD.starhub">
         <title>Fareed Zakaria GPS</title>
     </programme>
     <programme start="20251020020000 +0000" stop="20251020023000 +0000" channel="CNN HD.starhub">
-        <title>African Voices Changemakers LAVCM214</title>
+        <title>Cultural Guardians</title>
     </programme>
     <programme start="20251020023000 +0000" stop="20251020024500 +0000" channel="CNN HD.starhub">
         <title>Marketplace Europe: Europe&#039;s Film Industry</title>

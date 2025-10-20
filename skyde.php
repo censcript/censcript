@@ -2577,52 +2577,52 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251020214500 +0000" stop="20251020224000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Zeit der großen Katzen</title>
 </programme>
-<programme start="20251019221500 +0000" stop="20251020001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251019222000 +0000" stop="20251020002000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - LASK, 10. Runde</title>
 </programme>
-<programme start="20251020001500 +0000" stop="20251020003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020002000 +0000" stop="20251020003500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
 </programme>
-<programme start="20251020003000 +0000" stop="20251020023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020003500 +0000" stop="20251020024000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Red Bull Salzburg - SCR Altach, 10. Runde</title>
 </programme>
-<programme start="20251020023000 +0000" stop="20251020043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020024000 +0000" stop="20251020043500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - SK Puntigamer Sturm Graz, 10. Runde</title>
 </programme>
-<programme start="20251020043000 +0000" stop="20251020050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020043500 +0000" stop="20251020050500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
 </programme>
-<programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020050500 +0000" stop="20251020053500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
 </programme>
-<programme start="20251020053000 +0000" stop="20251020060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20251020060000 +0000" stop="20251020063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020053500 +0000" stop="20251020062000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
-<programme start="20251020063000 +0000" stop="20251020070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020062000 +0000" stop="20251020065000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
 </programme>
-<programme start="20251020070000 +0000" stop="20251020080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020065000 +0000" stop="20251020074000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20251020080000 +0000" stop="20251020091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020074000 +0000" stop="20251020085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20251020091500 +0000" stop="20251020094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020085000 +0000" stop="20251020091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20251020094500 +0000" stop="20251020114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020091500 +0000" stop="20251020111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - LASK, 10. Runde</title>
 </programme>
-<programme start="20251020114500 +0000" stop="20251020124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020111500 +0000" stop="20251020114000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251020114000 +0000" stop="20251020124000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
-<programme start="20251020124500 +0000" stop="20251020131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020124000 +0000" stop="20251020131000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
-<programme start="20251020131500 +0000" stop="20251020134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020131000 +0000" stop="20251020134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
 </programme>
 <programme start="20251020134500 +0000" stop="20251020141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2631,16 +2631,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251020141500 +0000" stop="20251020153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20251020153000 +0000" stop="20251020160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020153000 +0000" stop="20251020161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
 </programme>
-<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020161500 +0000" stop="20251020164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
 </programme>
-<programme start="20251020163000 +0000" stop="20251020173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020164500 +0000" stop="20251020173500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20251020173000 +0000" stop="20251020185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20251020173500 +0000" stop="20251020185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
 <programme start="20251020185000 +0000" stop="20251020210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2778,13 +2778,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251020210000 +0000" stop="20251020230000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - Borussia Dortmund, tipico Topspiel der Woche, 7. Spieltag</title>
 </programme>
-<programme start="20251019220000 +0000" stop="20251019223000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251019220500 +0000" stop="20251019223500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP USA</title>
 </programme>
-<programme start="20251019223000 +0000" stop="20251020003000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251019223500 +0000" stop="20251020003500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP USA</title>
 </programme>
-<programme start="20251020003000 +0000" stop="20251020013000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20251020003500 +0000" stop="20251020013000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP USA</title>
 </programme>
 <programme start="20251020013000 +0000" stop="20251020033000 +0000" channel="Sky Sport F1 HD.skyde">

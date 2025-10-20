@@ -8186,7 +8186,7 @@
     <title>Sport Today: Viral</title>
 </programme>
 <programme start="20251020030000 +0000" stop="20251020050000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
+    <title>KOVO Cup</title>
 </programme>
 <programme start="20251020050000 +0000" stop="20251020070000 +0000" channel="Sportstars 2.mncvision">
     <title>Padel Hexagon Cup</title>
@@ -8197,10 +8197,10 @@
 <programme start="20251020083000 +0000" stop="20251020113000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251020113000 +0000" stop="20251020140000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251020113000 +0000" stop="20251020143000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251020140000 +0000" stop="20251020160000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251020143000 +0000" stop="20251020160000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sportstars 2.mncvision">
@@ -8231,7 +8231,7 @@
     <title>Sport Today: Viral</title>
 </programme>
 <programme start="20251020030000 +0000" stop="20251020050000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>V-League</title>
+    <title>KOVO Cup</title>
 </programme>
 <programme start="20251020050000 +0000" stop="20251020070000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Padel Hexagon Cup</title>
@@ -8242,10 +8242,10 @@
 <programme start="20251020083000 +0000" stop="20251020113000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251020113000 +0000" stop="20251020140000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251020113000 +0000" stop="20251020143000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251020140000 +0000" stop="20251020160000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251020143000 +0000" stop="20251020160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
 <programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sportstars 2 HD.mncvision">
