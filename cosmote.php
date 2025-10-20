@@ -110,6 +110,10 @@
     <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251021130500 +0700" stop="20251021150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251020103000 +0700" stop="20251020134000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Jacksonville Jaguars - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
@@ -198,6 +202,10 @@
     <title>American Football: San Francisco 49ers - Atlanta Falcons</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251021131500 +0700" stop="20251021141500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: 2025 Socca Champions League</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251020120000 +0700" stop="20251020140000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -260,10 +268,6 @@
 </programme>
 <programme start="20251021121500 +0700" stop="20251021141500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Sassari - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251020120000 +0700" stop="20251020130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251020130000 +0700" stop="20251020140000 +0700" channel="COSMOTE Sport 5 HD">
@@ -404,6 +408,10 @@
 </programme>
 <programme start="20251021103000 +0700" stop="20251021130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251021130000 +0700" stop="20251021143000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251020120000 +0700" stop="20251020140000 +0700" channel="COSMOTE Sport 7 HD">

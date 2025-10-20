@@ -8503,14 +8503,11 @@
 <programme start="20251020040000 +0000" stop="20251020060000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: BRI Vs MAC</title>
 </programme>
-<programme start="20251020060000 +0000" stop="20251020070000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251020060000 +0000" stop="20251020072000 +0000" channel="SPOTV 2.mncvision">
     <title>FIA TCR World Tour Korea</title>
 </programme>
-<programme start="20251020070000 +0000" stop="20251020080000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251020072000 +0000" stop="20251020090000 +0000" channel="SPOTV 2.mncvision">
     <title>FIA TCR World Tour Korea</title>
-</programme>
-<programme start="20251020080000 +0000" stop="20251020090000 +0000" channel="SPOTV 2.mncvision">
-    <title>SailGP S5: Spain Highlights</title>
 </programme>
 <programme start="20251020090000 +0000" stop="20251020100000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: Australian GP</title>
@@ -8521,11 +8518,14 @@
 <programme start="20251020112500 +0000" stop="20251020124000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: Australian GP</title>
 </programme>
-<programme start="20251020124000 +0000" stop="20251020150000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251020124000 +0000" stop="20251020144500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: Australian GP</title>
 </programme>
-<programme start="20251020150000 +0000" stop="20251020153000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20251020144500 +0000" stop="20251020164500 +0000" channel="SPOTV 2.mncvision">
     <title>Roshn Saudi League 25/26</title>
+</programme>
+<programme start="20251020164500 +0000" stop="20251019171500 +0000" channel="SPOTV 2.mncvision">
+    <title>FIA TCR World Tour Korea</title>
 </programme>
 <programme start="20251019180000 +0000" stop="20251019190000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Jakarta International C&#039;ship HL</title>
@@ -8548,14 +8548,11 @@
 <programme start="20251020040000 +0000" stop="20251020060000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: BRI Vs MAC</title>
 </programme>
-<programme start="20251020060000 +0000" stop="20251020070000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251020060000 +0000" stop="20251020072000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>FIA TCR World Tour Korea</title>
 </programme>
-<programme start="20251020070000 +0000" stop="20251020080000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251020072000 +0000" stop="20251020090000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>FIA TCR World Tour Korea</title>
-</programme>
-<programme start="20251020080000 +0000" stop="20251020090000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SailGP S5: Spain Highlights</title>
 </programme>
 <programme start="20251020090000 +0000" stop="20251020100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: Australian GP</title>
@@ -8566,11 +8563,14 @@
 <programme start="20251020112500 +0000" stop="20251020124000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: Australian GP</title>
 </programme>
-<programme start="20251020124000 +0000" stop="20251020150000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251020124000 +0000" stop="20251020144500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: Australian GP</title>
 </programme>
-<programme start="20251020150000 +0000" stop="20251020153000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20251020144500 +0000" stop="20251020164500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Roshn Saudi League 25/26</title>
+</programme>
+<programme start="20251020164500 +0000" stop="20251019171500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>FIA TCR World Tour Korea</title>
 </programme>
 <programme start="20251019174500 +0000" stop="20251019200000 +0000" channel="SPOTV HD.mncvision">
     <title>Roshn Saudi League 2025/26 (L)</title>
