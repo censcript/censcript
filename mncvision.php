@@ -1597,11 +1597,8 @@
 <programme start="20251020091500 +0000" stop="20251020093000 +0000" channel="BTV.mncvision">
     <title>Info Seleb</title>
 </programme>
-<programme start="20251020093000 +0000" stop="20251020123000 +0000" channel="BTV.mncvision">
+<programme start="20251020093000 +0000" stop="20251020130000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Spesial</title>
-</programme>
-<programme start="20251020123000 +0000" stop="20251020130000 +0000" channel="BTV.mncvision">
-    <title>Berita Viral</title>
 </programme>
 <programme start="20251020130000 +0000" stop="20251020140000 +0000" channel="BTV.mncvision">
     <title>Spot On</title>
@@ -8200,11 +8197,8 @@
 <programme start="20251020113000 +0000" stop="20251020143000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251020143000 +0000" stop="20251020160000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20251020143000 +0000" stop="20251020150000 +0000" channel="Sportstars 2.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
-</programme>
-<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sportstars 2.mncvision">
-    <title>Tinju</title>
 </programme>
 <programme start="20251019170000 +0000" stop="20251019190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>European Qualifiers</title>
@@ -8245,11 +8239,8 @@
 <programme start="20251020113000 +0000" stop="20251020143000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
 </programme>
-<programme start="20251020143000 +0000" stop="20251020160000 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20251020143000 +0000" stop="20251020150000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
-</programme>
-<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Tinju</title>
 </programme>
 <programme start="20251019170000 +0000" stop="20251019190000 +0000" channel="Sportstars 3.mncvision">
     <title>Bundesliga</title>

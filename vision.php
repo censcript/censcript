@@ -104,7 +104,7 @@
 <title>Entong</title>
 </programme>
 <programme start="20251020120000 +0000" stop="20251020163000 +0000" channel="MNCTV.vision">
-<title>Kilau Raya MNCTV 34 (Live)</title>
+<title>Kilau Raya MNCTV 34 (L)</title>
 </programme>
 <programme start="20251020163000 +0000" stop="20251020190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
