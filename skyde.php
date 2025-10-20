@@ -1,146 +1,5 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-<programme start="20251019220000 +0000" stop="20251019224500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20251019224500 +0000" stop="20251019232500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20251019232500 +0000" stop="20251020001000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS</title>
-</programme>
-<programme start="20251020001000 +0000" stop="20251020005500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020005500 +0000" stop="20251020013500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020013500 +0000" stop="20251020022000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020022000 +0000" stop="20251020030000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020030000 +0000" stop="20251020034500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020034500 +0000" stop="20251020043000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251020043000 +0000" stop="20251020051500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251020051500 +0000" stop="20251020060500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251020060500 +0000" stop="20251020065000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020065000 +0000" stop="20251020073000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020073000 +0000" stop="20251020082000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020082000 +0000" stop="20251020090500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020090500 +0000" stop="20251020095000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020095000 +0000" stop="20251020103500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020103500 +0000" stop="20251020112000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020112000 +0000" stop="20251020120500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20251020120500 +0000" stop="20251020125000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251020125000 +0000" stop="20251020134000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251020134000 +0000" stop="20251020142500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
-</programme>
-<programme start="20251020142500 +0000" stop="20251020151000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20251020151000 +0000" stop="20251020155500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Intent - Verbrechen im Visier</title>
-</programme>
-<programme start="20251020155500 +0000" stop="20251020164000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020164000 +0000" stop="20251020172500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020172500 +0000" stop="20251020181500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20251020181500 +0000" stop="20251020190000 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20251020190000 +0000" stop="20251020194500 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20251020194500 +0000" stop="20251020203000 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20251020203000 +0000" stop="20251020211500 +0000" channel="13th Street HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20251020211500 +0000" stop="20251020215500 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: Hawaii</title>
-</programme>
-<programme start="20251020215500 +0000" stop="20251020224000 +0000" channel="13th Street HD.skyde">
-    <title>Navy CIS: Hawaii</title>
-</programme>
-<programme start="20251019222500 +0000" stop="20251019235500 +0000" channel="Beate Uhse HD.skyde">
-    <title>A Sexy Wedding Planner</title>
-</programme>
-<programme start="20251019235500 +0000" stop="20251020001500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Milfy MILFs</title>
-</programme>
-<programme start="20251020001500 +0000" stop="20251020012500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Africa Connection</title>
-</programme>
-<programme start="20251020012500 +0000" stop="20251020013500 +0000" channel="Beate Uhse HD.skyde">
-    <title>The White Boxxx</title>
-</programme>
-<programme start="20251020013500 +0000" stop="20251020030000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Private Flug 6969</title>
-</programme>
-<programme start="20251020030000 +0000" stop="20251020031500 +0000" channel="Beate Uhse HD.skyde">
-    <title>XConfessions</title>
-</programme>
-<programme start="20251020031500 +0000" stop="20251020032500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Feel Naked</title>
-</programme>
-<programme start="20251020032500 +0000" stop="20251020034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Milfy MILFs</title>
-</programme>
-<programme start="20251020034500 +0000" stop="20251020181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20251020181500 +0000" stop="20251020183500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Girlfriends</title>
-</programme>
-<programme start="20251020183500 +0000" stop="20251020200000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Cinderella XXX</title>
-</programme>
-<programme start="20251020200000 +0000" stop="20251020202000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Urban Smut</title>
-</programme>
-<programme start="20251020202000 +0000" stop="20251020204500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex Video Privat mit Harry S. Morgan</title>
-</programme>
-<programme start="20251020204500 +0000" stop="20251020220000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Schwedische Sommerträume</title>
-</programme>
 <programme start="20251019220000 +0000" stop="20251019221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
@@ -2576,6 +2435,81 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20251020214500 +0000" stop="20251020224000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Zeit der großen Katzen</title>
+</programme>
+<programme start="20251019221500 +0000" stop="20251020001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - LASK, 10. Runde</title>
+</programme>
+<programme start="20251020001500 +0000" stop="20251020003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
+</programme>
+<programme start="20251020003000 +0000" stop="20251020023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: FC Red Bull Salzburg - SCR Altach, 10. Runde</title>
+</programme>
+<programme start="20251020023000 +0000" stop="20251020043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: FC Blau-Weiß Linz - SK Puntigamer Sturm Graz, 10. Runde</title>
+</programme>
+<programme start="20251020043000 +0000" stop="20251020050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
+</programme>
+<programme start="20251020053000 +0000" stop="20251020060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251020060000 +0000" stop="20251020063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
+</programme>
+<programme start="20251020063000 +0000" stop="20251020070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
+</programme>
+<programme start="20251020070000 +0000" stop="20251020080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20251020080000 +0000" stop="20251020091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+</programme>
+<programme start="20251020091500 +0000" stop="20251020094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251020094500 +0000" stop="20251020114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - LASK, 10. Runde</title>
+</programme>
+<programme start="20251020114500 +0000" stop="20251020124500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
+</programme>
+<programme start="20251020124500 +0000" stop="20251020131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Austria Salzburg</title>
+</programme>
+<programme start="20251020131500 +0000" stop="20251020134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 10. Runde</title>
+</programme>
+<programme start="20251020134500 +0000" stop="20251020141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20251020141500 +0000" stop="20251020153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+</programme>
+<programme start="20251020153000 +0000" stop="20251020160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
+</programme>
+<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
+</programme>
+<programme start="20251020163000 +0000" stop="20251020173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20251020173000 +0000" stop="20251020185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+</programme>
+<programme start="20251020185000 +0000" stop="20251020210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live PL: West Ham United - FC Brentford, 8. Spieltag</title>
+</programme>
+<programme start="20251020210000 +0000" stop="20251020213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
+</programme>
+<programme start="20251020213000 +0000" stop="20251020223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
 <programme start="20251019220000 +0000" stop="20251019230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 7. Spieltag</title>

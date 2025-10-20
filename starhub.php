@@ -2678,7 +2678,7 @@
         <title>The Circle Game</title>
     </programme>
     <programme start="20251020144000 +0000" stop="20251020153500 +0000" channel="AXN HD.starhub">
-        <title>Pilot</title>
+        <title>Faith And Family</title>
     </programme>
     <programme start="20251020153500 +0000" stop="20251020163000 +0000" channel="AXN HD.starhub">
         <title>The Circle Game</title>
@@ -6562,14 +6562,14 @@
     <programme start="20251019194900 +0000" stop="20251019220000 +0000" channel="SONY MAX.starhub">
         <title>Jodi</title>
     </programme>
-    <programme start="20251019220000 +0000" stop="20251020000000 +0000" channel="SONY MAX.starhub">
+    <programme start="20251019215900 +0000" stop="20251020000000 +0000" channel="SONY MAX.starhub">
         <title>Jalsa</title>
     </programme>
     <programme start="20251020000000 +0000" stop="20251020003800 +0000" channel="SONY MAX.starhub">
         <title>Extraa Shots- Befikre</title>
     </programme>
     <programme start="20251020003800 +0000" stop="20251020025900 +0000" channel="SONY MAX.starhub">
-        <title>Itâs My Life</title>
+        <title>It&#039;s My Life</title>
     </programme>
     <programme start="20251020025900 +0000" stop="20251020051600 +0000" channel="SONY MAX.starhub">
         <title>Toolsidas Junior</title>
@@ -6943,8 +6943,8 @@
     <programme start="20251019230000 +0000" stop="20251019231000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20251019231000 +0000" stop="20251020000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Somewhere Street</title>
+    <programme start="20251019235500 +0000" stop="20251020000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>National Parks of Japan</title>
     </programme>
     <programme start="20251020000000 +0000" stop="20251020001000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6977,7 +6977,7 @@
         <title>Easy Japanese</title>
     </programme>
     <programme start="20251020014500 +0000" stop="20251020015500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Culture Crossroads</title>
+        <title>Bosai: Be Prepared</title>
     </programme>
     <programme start="20251020015500 +0000" stop="20251020020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Hello! NHK World-Japan</title>
@@ -7001,7 +7001,7 @@
         <title>Hometown Stories</title>
     </programme>
     <programme start="20251020045700 +0000" stop="20251020050000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>The Masterpieces of Tsutaju</title>
+        <title>Satoyama Kitchen</title>
     </programme>
     <programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7019,7 +7019,7 @@
         <title>Easy Japanese</title>
     </programme>
     <programme start="20251020064500 +0000" stop="20251020065500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Culture Crossroads</title>
+        <title>Bosai: Be Prepared</title>
     </programme>
     <programme start="20251020065500 +0000" stop="20251020070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Hello! NHK World-Japan</title>
@@ -7037,7 +7037,7 @@
         <title>Hometown Stories</title>
     </programme>
     <programme start="20251020085700 +0000" stop="20251020090000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>The Masterpieces of Tsutaju</title>
+        <title>Satoyama Kitchen</title>
     </programme>
     <programme start="20251020090000 +0000" stop="20251020093000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7058,7 +7058,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20251020114300 +0000" stop="20251020115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Trails to Oishii Tokyo mini</title>
     </programme>
     <programme start="20251020115500 +0000" stop="20251020120000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
@@ -7073,7 +7073,7 @@
         <title>Easy Japanese</title>
     </programme>
     <programme start="20251020124500 +0000" stop="20251020125500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Culture Crossroads</title>
+        <title>Bosai: Be Prepared</title>
     </programme>
     <programme start="20251020125500 +0000" stop="20251020130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Hello! NHK World-Japan</title>
@@ -7894,22 +7894,22 @@
     <programme start="20251019193000 +0000" stop="20251019233000 +0000" channel="Asianet Movies.starhub">
         <title>Ivar Vivahitharayal...?</title>
     </programme>
-    <programme start="20251019233000 +0000" stop="20251020013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251019232000 +0000" stop="20251020013000 +0000" channel="Asianet Movies.starhub">
         <title>Pachuvum Kovalanum</title>
     </programme>
     <programme start="20251020013000 +0000" stop="20251020043000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
-    <programme start="20251020043000 +0000" stop="20251020073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251020043000 +0000" stop="20251020074000 +0000" channel="Asianet Movies.starhub">
         <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
-    <programme start="20251020073000 +0000" stop="20251020110000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251020074000 +0000" stop="20251020110000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
     <programme start="20251020110000 +0000" stop="20251020133000 +0000" channel="Asianet Movies.starhub">
         <title>Moonwalk</title>
     </programme>
-    <programme start="20251020133000 +0000" stop="20251020163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251020133000 +0000" stop="20251020161500 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
     <programme start="20251019160000 +0000" stop="20251019163000 +0000" channel="Astro Warna HD.starhub">
