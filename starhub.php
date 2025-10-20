@@ -6553,14 +6553,17 @@
     <programme start="20251020140000 +0000" stop="20251020160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>AUX Ningbo Open (500) Final</title>
     </programme>
-    <programme start="20251019145500 +0000" stop="20251019175100 +0000" channel="SONY MAX.starhub">
+    <programme start="20251019145500 +0000" stop="20251019171700 +0000" channel="SONY MAX.starhub">
         <title>Jhund</title>
     </programme>
-    <programme start="20251019175100 +0000" stop="20251019194900 +0000" channel="SONY MAX.starhub">
+    <programme start="20251019171700 +0000" stop="20251019191500 +0000" channel="SONY MAX.starhub">
         <title>Adbhut</title>
     </programme>
-    <programme start="20251019194900 +0000" stop="20251019220000 +0000" channel="SONY MAX.starhub">
+    <programme start="20251019191500 +0000" stop="20251019212500 +0000" channel="SONY MAX.starhub">
         <title>Jodi</title>
+    </programme>
+    <programme start="20251019212500 +0000" stop="20251019215900 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots Ludo</title>
     </programme>
     <programme start="20251019215900 +0000" stop="20251020000000 +0000" channel="SONY MAX.starhub">
         <title>Jalsa</title>
@@ -6887,7 +6890,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251019181000 +0000" stop="20251019190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+        <title>One Man&#039;s Quest</title>
     </programme>
     <programme start="20251019190000 +0000" stop="20251019191000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6929,7 +6932,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20251019221000 +0000" stop="20251019222500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Ramen Japan</title>
     </programme>
     <programme start="20251019222500 +0000" stop="20251019223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Core Kyoto Mini</title>
@@ -6942,6 +6945,12 @@
     </programme>
     <programme start="20251019230000 +0000" stop="20251019231000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
+    </programme>
+    <programme start="20251019231000 +0000" stop="20251019235200 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Somewhere Street</title>
+    </programme>
+    <programme start="20251019235200 +0000" stop="20251019235500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Time-Lapse Journey</title>
     </programme>
     <programme start="20251019235500 +0000" stop="20251020000000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>National Parks of Japan</title>
@@ -7885,14 +7894,17 @@
     <programme start="20251020153000 +0000" stop="20251020163000 +0000" channel="ABC Australia HD.starhub">
         <title>Round 5 Men&#039;s: Melbourne v Adelaide Highlights</title>
     </programme>
-    <programme start="20251019133000 +0000" stop="20251019163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251019133000 +0000" stop="20251019162000 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
     </programme>
-    <programme start="20251019163000 +0000" stop="20251019193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251019162000 +0000" stop="20251019185000 +0000" channel="Asianet Movies.starhub">
         <title>Love 24x7</title>
     </programme>
-    <programme start="20251019193000 +0000" stop="20251019233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251019185000 +0000" stop="20251019212000 +0000" channel="Asianet Movies.starhub">
         <title>Ivar Vivahitharayal...?</title>
+    </programme>
+    <programme start="20251019212000 +0000" stop="20251019232000 +0000" channel="Asianet Movies.starhub">
+        <title>Aakasam</title>
     </programme>
     <programme start="20251019232000 +0000" stop="20251020013000 +0000" channel="Asianet Movies.starhub">
         <title>Pachuvum Kovalanum</title>

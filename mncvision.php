@@ -4778,40 +4778,46 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20251019213000 +0000" stop="20251019230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20251019230000 +0000" stop="20251020010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251020010000 +0000" stop="20251020030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020000000 +0000" stop="20251020013000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20251020013000 +0000" stop="20251020030000 +0000" channel="Indosiar.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20251020030000 +0000" stop="20251020040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20251020040000 +0000" stop="20251020043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20251020043000 +0000" stop="20251020050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20251020050000 +0000" stop="20251020063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20251020063000 +0000" stop="20251020080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20251020080000 +0000" stop="20251020100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020080000 +0000" stop="20251020103000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20251020100000 +0000" stop="20251020120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020103000 +0000" stop="20251020113000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251020120000 +0000" stop="20251020150000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020113000 +0000" stop="20251020140000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20251020150000 +0000" stop="20251020153000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020140000 +0000" stop="20251020163000 +0000" channel="Indosiar.mncvision">
+    <title>D&#039;Academy S7</title>
+</programme>
+<programme start="20251020163000 +0000" stop="20251019170000 +0000" channel="Indosiar.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20251019180000 +0000" stop="20251019200000 +0000" channel="Indosiar HD.mncvision">
     <title>Mega Film Asia</title>
@@ -4820,40 +4826,46 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20251019213000 +0000" stop="20251019230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20251019230000 +0000" stop="20251020010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251020010000 +0000" stop="20251020030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020000000 +0000" stop="20251020013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
+</programme>
+<programme start="20251020013000 +0000" stop="20251020030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kisah Nyata Pagi</title>
 </programme>
 <programme start="20251020030000 +0000" stop="20251020040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20251020040000 +0000" stop="20251020043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20251020043000 +0000" stop="20251020050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20251020050000 +0000" stop="20251020063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata Siang</title>
 </programme>
 <programme start="20251020063000 +0000" stop="20251020080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kisah Nyata</title>
 </programme>
-<programme start="20251020080000 +0000" stop="20251020100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020080000 +0000" stop="20251020103000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20251020100000 +0000" stop="20251020120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020103000 +0000" stop="20251020113000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20251020120000 +0000" stop="20251020150000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020113000 +0000" stop="20251020140000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
 </programme>
-<programme start="20251020150000 +0000" stop="20251020153000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20251020140000 +0000" stop="20251020163000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
+</programme>
+<programme start="20251020163000 +0000" stop="20251019170000 +0000" channel="Indosiar HD.mncvision">
+    <title>Mega Film Asia</title>
 </programme>
 <programme start="20251019173000 +0000" stop="20251019183000 +0000" channel="iNews.mncvision">
     <title>Asian Youth Games Bahrain 2025</title>
@@ -7729,47 +7741,50 @@
 <programme start="20251019200000 +0000" stop="20251019210000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20251019210000 +0000" stop="20251019214500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251019210000 +0000" stop="20251019213000 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20251019214500 +0000" stop="20251019230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251019213000 +0000" stop="20251019230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
 <programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Hot Shot</title>
 </programme>
 <programme start="20251020000000 +0000" stop="20251020013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Ganteng-Ganteng Bau Domba...</title>
 </programme>
 <programme start="20251020013000 +0000" stop="20251020030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Asmara Gen Z</title>
 </programme>
 <programme start="20251020030000 +0000" stop="20251020050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>How To Make King Of...</title>
 </programme>
 <programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20251020053000 +0000" stop="20251020071500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020053000 +0000" stop="20251020070000 +0000" channel="SCTV.mncvision">
+    <title>Katanya Hidup Itu Indah</title>
 </programme>
-<programme start="20251020071500 +0000" stop="20251020083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020070000 +0000" stop="20251020083000 +0000" channel="SCTV.mncvision">
+    <title>1 Paket Liburan</title>
 </programme>
-<programme start="20251020083000 +0000" stop="20251020100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020083000 +0000" stop="20251020094500 +0000" channel="SCTV.mncvision">
+    <title>Azizah: Cinta 6 Hati</title>
 </programme>
-<programme start="20251020100000 +0000" stop="20251020113000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020094500 +0000" stop="20251020111500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251020113000 +0000" stop="20251020130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020111500 +0000" stop="20251020131500 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20251020130000 +0000" stop="20251020140000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020131500 +0000" stop="20251020144500 +0000" channel="SCTV.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20251020140000 +0000" stop="20251020143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20251020144500 +0000" stop="20251020160000 +0000" channel="SCTV.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="SCTV.mncvision">
+    <title>Satu Tahun Prabowo-Gibran</title>
 </programme>
 <programme start="20251019173000 +0000" stop="20251019183000 +0000" channel="SCTV HD.mncvision">
     <title>Nasi Jinggo Spesial Pake Cinta</title>
@@ -7780,47 +7795,50 @@
 <programme start="20251019200000 +0000" stop="20251019210000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20251019210000 +0000" stop="20251019214500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251019210000 +0000" stop="20251019213000 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20251019214500 +0000" stop="20251019230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251019213000 +0000" stop="20251019230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
 <programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Hot Shot</title>
 </programme>
 <programme start="20251020000000 +0000" stop="20251020013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Ganteng-Ganteng Bau Domba...</title>
 </programme>
 <programme start="20251020013000 +0000" stop="20251020030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Asmara Gen Z</title>
 </programme>
 <programme start="20251020030000 +0000" stop="20251020050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>How To Make King Of...</title>
 </programme>
 <programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20251020053000 +0000" stop="20251020071500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020053000 +0000" stop="20251020070000 +0000" channel="SCTV HD.mncvision">
+    <title>Katanya Hidup Itu Indah</title>
 </programme>
-<programme start="20251020071500 +0000" stop="20251020083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020070000 +0000" stop="20251020083000 +0000" channel="SCTV HD.mncvision">
+    <title>1 Paket Liburan</title>
 </programme>
-<programme start="20251020083000 +0000" stop="20251020100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020083000 +0000" stop="20251020094500 +0000" channel="SCTV HD.mncvision">
+    <title>Azizah: Cinta 6 Hati</title>
 </programme>
-<programme start="20251020100000 +0000" stop="20251020113000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020094500 +0000" stop="20251020111500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20251020113000 +0000" stop="20251020130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020111500 +0000" stop="20251020131500 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20251020130000 +0000" stop="20251020140000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020131500 +0000" stop="20251020144500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Sedalam Rindu</title>
 </programme>
-<programme start="20251020140000 +0000" stop="20251020143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20251020144500 +0000" stop="20251020160000 +0000" channel="SCTV HD.mncvision">
+    <title>Wanita Istimewa</title>
+</programme>
+<programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="SCTV HD.mncvision">
+    <title>Satu Tahun Prabowo-Gibran</title>
 </programme>
 <programme start="20251019170000 +0000" stop="20251019173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
@@ -8108,25 +8126,19 @@
     <title>Adrenaline Rush</title>
 </programme>
 <programme start="20251020003000 +0000" stop="20251020023000 +0000" channel="Sportstars.mncvision">
-    <title>V-League Women</title>
+    <title>KOVO Cup Women</title>
 </programme>
-<programme start="20251020023000 +0000" stop="20251020040000 +0000" channel="Sportstars.mncvision">
-    <title>Padel Hexagon Cup</title>
-</programme>
-<programme start="20251020040000 +0000" stop="20251020043000 +0000" channel="Sportstars.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251020043000 +0000" stop="20251020050000 +0000" channel="Sportstars.mncvision">
+<programme start="20251020023000 +0000" stop="20251020030000 +0000" channel="Sportstars.mncvision">
     <title>Golden Fit</title>
 </programme>
-<programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="Sportstars.mncvision">
-    <title>iNews Sport</title>
+<programme start="20251020030000 +0000" stop="20251020060000 +0000" channel="Sportstars.mncvision">
+    <title>Artistic Gymnastics World (L)</title>
 </programme>
-<programme start="20251020053000 +0000" stop="20251020080000 +0000" channel="Sportstars.mncvision">
-    <title>Best Of Badminton</title>
+<programme start="20251020060000 +0000" stop="20251020070000 +0000" channel="Sportstars.mncvision">
+    <title>Artistic Gymnastics World (L)</title>
 </programme>
-<programme start="20251020080000 +0000" stop="20251020100000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026</title>
+<programme start="20251020070000 +0000" stop="20251020100000 +0000" channel="Sportstars.mncvision">
+    <title>Asian Youth Games 2025 (L)</title>
 </programme>
 <programme start="20251020100000 +0000" stop="20251020120000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026 Men (L)</title>
@@ -8326,26 +8338,14 @@
 <programme start="20251020010000 +0000" stop="20251020030000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20251020030000 +0000" stop="20251020050000 +0000" channel="Sportstars 4.mncvision">
-    <title>KOVO Cup Women</title>
+<programme start="20251020030000 +0000" stop="20251020060000 +0000" channel="Sportstars 4.mncvision">
+    <title>Artistic Gymnastics C&#039;ships (L)</title>
 </programme>
-<programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="Sportstars 4.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251020053000 +0000" stop="20251020060000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251020060000 +0000" stop="20251020080000 +0000" channel="Sportstars 4.mncvision">
-    <title>KOVO Cup Men</title>
-</programme>
-<programme start="20251020080000 +0000" stop="20251020083000 +0000" channel="Sportstars 4.mncvision">
-    <title>Adrenaline Rush</title>
-</programme>
-<programme start="20251020083000 +0000" stop="20251020090000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
+<programme start="20251020060000 +0000" stop="20251020090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Artistic Gymnastics C&#039;ships (L)</title>
 </programme>
 <programme start="20251020090000 +0000" stop="20251020110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Liga 2</title>
+    <title>Artistic Gymnastics C&#039;ships (L)</title>
 </programme>
 <programme start="20251020110000 +0000" stop="20251020140000 +0000" channel="Sportstars 4.mncvision">
     <title>The 3rd Asian Youth Games (L)</title>
@@ -8368,26 +8368,14 @@
 <programme start="20251020010000 +0000" stop="20251020030000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20251020030000 +0000" stop="20251020050000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>KOVO Cup Women</title>
+<programme start="20251020030000 +0000" stop="20251020060000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Artistic Gymnastics C&#039;ships (L)</title>
 </programme>
-<programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20251020053000 +0000" stop="20251020060000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20251020060000 +0000" stop="20251020080000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>KOVO Cup Men</title>
-</programme>
-<programme start="20251020080000 +0000" stop="20251020083000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Adrenaline Rush</title>
-</programme>
-<programme start="20251020083000 +0000" stop="20251020090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>30 Minutes Extreme</title>
+<programme start="20251020060000 +0000" stop="20251020090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Artistic Gymnastics C&#039;ships (L)</title>
 </programme>
 <programme start="20251020090000 +0000" stop="20251020110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Liga 2</title>
+    <title>Artistic Gymnastics C&#039;ships (L)</title>
 </programme>
 <programme start="20251020110000 +0000" stop="20251020140000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>The 3rd Asian Youth Games (L)</title>
@@ -8417,25 +8405,19 @@
     <title>Adrenaline Rush</title>
 </programme>
 <programme start="20251020003000 +0000" stop="20251020023000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League Women</title>
+    <title>KOVO Cup Women</title>
 </programme>
-<programme start="20251020023000 +0000" stop="20251020040000 +0000" channel="Sportstars HD.mncvision">
-    <title>Padel Hexagon Cup</title>
-</programme>
-<programme start="20251020040000 +0000" stop="20251020043000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20251020043000 +0000" stop="20251020050000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20251020023000 +0000" stop="20251020030000 +0000" channel="Sportstars HD.mncvision">
     <title>Golden Fit</title>
 </programme>
-<programme start="20251020050000 +0000" stop="20251020053000 +0000" channel="Sportstars HD.mncvision">
-    <title>iNews Sport</title>
+<programme start="20251020030000 +0000" stop="20251020060000 +0000" channel="Sportstars HD.mncvision">
+    <title>Artistic Gymnastics World (L)</title>
 </programme>
-<programme start="20251020053000 +0000" stop="20251020080000 +0000" channel="Sportstars HD.mncvision">
-    <title>Best Of Badminton</title>
+<programme start="20251020060000 +0000" stop="20251020070000 +0000" channel="Sportstars HD.mncvision">
+    <title>Artistic Gymnastics World (L)</title>
 </programme>
-<programme start="20251020080000 +0000" stop="20251020100000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026</title>
+<programme start="20251020070000 +0000" stop="20251020100000 +0000" channel="Sportstars HD.mncvision">
+    <title>Asian Youth Games 2025 (L)</title>
 </programme>
 <programme start="20251020100000 +0000" stop="20251020120000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026 Men (L)</title>
@@ -8528,7 +8510,7 @@
     <title>FIA TCR World Tour Korea</title>
 </programme>
 <programme start="20251020080000 +0000" stop="20251020090000 +0000" channel="SPOTV 2.mncvision">
-    <title>SailGP S5: Spain</title>
+    <title>SailGP S5: Spain Highlights</title>
 </programme>
 <programme start="20251020090000 +0000" stop="20251020100000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP 2025: Australian GP</title>
@@ -8573,7 +8555,7 @@
     <title>FIA TCR World Tour Korea</title>
 </programme>
 <programme start="20251020080000 +0000" stop="20251020090000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SailGP S5: Spain</title>
+    <title>SailGP S5: Spain Highlights</title>
 </programme>
 <programme start="20251020090000 +0000" stop="20251020100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP 2025: Australian GP</title>

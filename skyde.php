@@ -1,5 +1,146 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
+<programme start="20251019220000 +0000" stop="20251019224500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251019224500 +0000" stop="20251019232500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251019232500 +0000" stop="20251020001000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20251020001000 +0000" stop="20251020005500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020005500 +0000" stop="20251020013500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020013500 +0000" stop="20251020022000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020022000 +0000" stop="20251020030000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020030000 +0000" stop="20251020034500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020034500 +0000" stop="20251020043000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20251020043000 +0000" stop="20251020051500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20251020051500 +0000" stop="20251020060500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20251020060500 +0000" stop="20251020065000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020065000 +0000" stop="20251020073000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020073000 +0000" stop="20251020082000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020082000 +0000" stop="20251020090500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020090500 +0000" stop="20251020095000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020095000 +0000" stop="20251020103500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020103500 +0000" stop="20251020112000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020112000 +0000" stop="20251020120500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20251020120500 +0000" stop="20251020125000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20251020125000 +0000" stop="20251020134000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20251020134000 +0000" stop="20251020142500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20251020142500 +0000" stop="20251020151000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251020151000 +0000" stop="20251020155500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Intent - Verbrechen im Visier</title>
+</programme>
+<programme start="20251020155500 +0000" stop="20251020164000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020164000 +0000" stop="20251020172500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020172500 +0000" stop="20251020181500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20251020181500 +0000" stop="20251020190000 +0000" channel="13th Street HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251020190000 +0000" stop="20251020194500 +0000" channel="13th Street HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251020194500 +0000" stop="20251020203000 +0000" channel="13th Street HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251020203000 +0000" stop="20251020211500 +0000" channel="13th Street HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20251020211500 +0000" stop="20251020215500 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS: Hawaii</title>
+</programme>
+<programme start="20251020215500 +0000" stop="20251020224000 +0000" channel="13th Street HD.skyde">
+    <title>Navy CIS: Hawaii</title>
+</programme>
+<programme start="20251019222500 +0000" stop="20251019235500 +0000" channel="Beate Uhse HD.skyde">
+    <title>A Sexy Wedding Planner</title>
+</programme>
+<programme start="20251019235500 +0000" stop="20251020001500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Milfy MILFs</title>
+</programme>
+<programme start="20251020001500 +0000" stop="20251020012500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Africa Connection</title>
+</programme>
+<programme start="20251020012500 +0000" stop="20251020013500 +0000" channel="Beate Uhse HD.skyde">
+    <title>The White Boxxx</title>
+</programme>
+<programme start="20251020013500 +0000" stop="20251020030000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Private Flug 6969</title>
+</programme>
+<programme start="20251020030000 +0000" stop="20251020031500 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
+</programme>
+<programme start="20251020031500 +0000" stop="20251020032500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Feel Naked</title>
+</programme>
+<programme start="20251020032500 +0000" stop="20251020034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Milfy MILFs</title>
+</programme>
+<programme start="20251020034500 +0000" stop="20251020181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20251020181500 +0000" stop="20251020183500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Girlfriends</title>
+</programme>
+<programme start="20251020183500 +0000" stop="20251020200000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Cinderella XXX</title>
+</programme>
+<programme start="20251020200000 +0000" stop="20251020202000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Urban Smut</title>
+</programme>
+<programme start="20251020202000 +0000" stop="20251020204500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sex Video Privat mit Harry S. Morgan</title>
+</programme>
+<programme start="20251020204500 +0000" stop="20251020220000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Schwedische Sommerträume</title>
+</programme>
 <programme start="20251019220000 +0000" stop="20251019221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
@@ -2985,13 +3126,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251020213000 +0000" stop="20251020220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 13. Spieltag</title>
 </programme>
-<programme start="20251019220000 +0000" stop="20251019223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20251019223000 +0000" stop="20251019230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251019223500 +0000" stop="20251019230500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Wuhan</title>
 </programme>
-<programme start="20251019230000 +0000" stop="20251020013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251019230500 +0000" stop="20251020013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. Lehecka (CZE) - F. Auger-Aliassime (CAN), BNP Paribas Fortis European Open in Brüssel (BEL), Finale</title>
 </programme>
 <programme start="20251020013000 +0000" stop="20251020100000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3078,10 +3216,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20251020214500 +0000" stop="20251020220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights BOS@UTA</title>
 </programme>
-<programme start="20251019220000 +0000" stop="20251019223000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251019220500 +0000" stop="20251019223500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP USA</title>
 </programme>
-<programme start="20251019223000 +0000" stop="20251019230000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251019223500 +0000" stop="20251019230000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Match of the Week: Die Analyse, LIV - MUN, 8. Spieltag</title>
 </programme>
 <programme start="20251019230000 +0000" stop="20251020010000 +0000" channel="Sky Sport UHD.skyde">
