@@ -637,68 +637,62 @@
 <programme start="20251021114500 +0000" stop="20251021121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251020000000 +0000" stop="20251020010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251019233000 +0000" stop="20251020013000 +0000" channel="ANTV.vision">
+<title>Tarsan Kota</title>
 </programme>
-<programme start="20251020010000 +0000" stop="20251020033000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020013000 +0000" stop="20251020030000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251020033000 +0000" stop="20251020050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020030000 +0000" stop="20251020063000 +0000" channel="ANTV.vision">
+<title>Kaho Naa Pyaar Hai</title>
 </programme>
-<programme start="20251020050000 +0000" stop="20251020060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020063000 +0000" stop="20251020080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251020060000 +0000" stop="20251020083000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020080000 +0000" stop="20251020093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251020083000 +0000" stop="20251020110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020093000 +0000" stop="20251020110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251020110000 +0000" stop="20251020123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020130000 +0000" stop="20251020150000 +0000" channel="ANTV.vision">
+<title>Rindu Tak Berujung</title>
 </programme>
-<programme start="20251020123000 +0000" stop="20251020143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020170000 +0000" stop="20251020183000 +0000" channel="ANTV.vision">
+<title>Bioskop Asia</title>
 </programme>
-<programme start="20251020143000 +0000" stop="20251020163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020183000 +0000" stop="20251020203000 +0000" channel="ANTV.vision">
+<title>Tongkat Sakti</title>
 </programme>
-<programme start="20251020163000 +0000" stop="20251020183000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020203000 +0000" stop="20251020220000 +0000" channel="ANTV.vision">
+<title>Kesan Pertama</title>
 </programme>
-<programme start="20251020183000 +0000" stop="20251020193000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020220000 +0000" stop="20251020223000 +0000" channel="ANTV.vision">
+<title>Nath</title>
 </programme>
-<programme start="20251020193000 +0000" stop="20251020220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020223000 +0000" stop="20251020233000 +0000" channel="ANTV.vision">
+<title>Petualangan Superblox</title>
 </programme>
-<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="ANTV.vision">
+<title>Buaye Gile</title>
 </programme>
-<programme start="20251020230000 +0000" stop="20251021000000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251021013000 +0000" stop="20251021030000 +0000" channel="ANTV.vision">
+<title>Mangal Lakshmi</title>
 </programme>
-<programme start="20251021000000 +0000" stop="20251021010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251021030000 +0000" stop="20251021063000 +0000" channel="ANTV.vision">
+<title>Kabhi Alvida Naa Kehna</title>
 </programme>
-<programme start="20251021010000 +0000" stop="20251021033000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251021063000 +0000" stop="20251021080000 +0000" channel="ANTV.vision">
+<title>Cinta Keluarga Pandya</title>
 </programme>
-<programme start="20251021033000 +0000" stop="20251021050000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251021080000 +0000" stop="20251021093000 +0000" channel="ANTV.vision">
+<title>Zeynep</title>
 </programme>
-<programme start="20251021050000 +0000" stop="20251021060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251021093000 +0000" stop="20251021110000 +0000" channel="ANTV.vision">
+<title>Takdir Cinta Layla</title>
 </programme>
-<programme start="20251021060000 +0000" stop="20251021083000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251021083000 +0000" stop="20251021110000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20251021110000 +0000" stop="20251021123000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20251021110000 +0000" stop="20251021130000 +0000" channel="ANTV.vision">
+<title>Menentang Maut</title>
 </programme>
 <programme start="20251019230000 +0000" stop="20251020010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -837,12 +831,6 @@
 </programme>
 <programme start="20251020110000 +0000" stop="20251020130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20251020130000 +0000" stop="20251020143000 +0000" channel="TVOne.vision">
-<title>Talkshow Spesial</title>
-</programme>
-<programme start="20251020143000 +0000" stop="20251020153000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20251020153000 +0000" stop="20251020163000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1390,11 +1378,8 @@
 <programme start="20251020091500 +0000" stop="20251020093000 +0000" channel="BTV.vision">
 <title>Info Seleb</title>
 </programme>
-<programme start="20251020093000 +0000" stop="20251020123000 +0000" channel="BTV.vision">
+<programme start="20251020093000 +0000" stop="20251020130000 +0000" channel="BTV.vision">
 <title>Berita Satu Spesial</title>
-</programme>
-<programme start="20251020123000 +0000" stop="20251020130000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
 </programme>
 <programme start="20251020130000 +0000" stop="20251020140000 +0000" channel="BTV.vision">
 <title>Spot On</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20251020073000 +0000" stop="20251020090500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251020090500 +0000" stop="20251020105000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251020105000 +0000" stop="20251020122000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251020122000 +0000" stop="20251020140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251020140000 +0000" stop="20251020153500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20251020153500 +0000" stop="20251020171500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
