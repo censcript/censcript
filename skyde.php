@@ -2626,8 +2626,8 @@
 <programme start="20251021210500 +0000" stop="20251021220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
+<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251020231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -2713,7 +2713,7 @@
 <programme start="20251021163500 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Olympiakos Piräus, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021154000 +0000" stop="20251021160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2737,7 +2737,7 @@
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA CL: Newcastle United - Benfica Lissabon, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2749,7 +2749,7 @@
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: PSV Eindhoven - SSC Neapel, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251020223000 +0000" stop="20251021003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3235,8 +3235,11 @@
 <programme start="20251021113000 +0000" stop="20251021203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
-<programme start="20251021203000 +0000" stop="20251021223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Erste Bank Open in Wien (Österreich), 2. Tag</title>
+<programme start="20251021203000 +0000" stop="20251021213000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Shanghai</title>
+</programme>
+<programme start="20251021213000 +0000" stop="20251021233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - J. Fearnley (GBR), Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
@@ -3793,10 +3796,10 @@
 <programme start="20251021162500 +0000" stop="20251021181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Equilibrium</title>
 </programme>
-<programme start="20251021181500 +0000" stop="20251021200000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251021181500 +0000" stop="20251021195500 +0000" channel="Warner TV Film HD.skyde">
     <title>Babylon A.D.</title>
 </programme>
-<programme start="20251021200000 +0000" stop="20251021214500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251021195500 +0000" stop="20251021214500 +0000" channel="Warner TV Film HD.skyde">
     <title>xXx: Die Rückkehr des Xander Cage</title>
 </programme>
 <programme start="20251021214500 +0000" stop="20251021232500 +0000" channel="Warner TV Film HD.skyde">
