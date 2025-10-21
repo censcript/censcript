@@ -152,7 +152,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251021043000 +0000" stop="20251021050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream: Voting At 16</title>
+    <title>The Stream: Choosing Otherhood</title>
 </programme>
 <programme start="20251021050000 +0000" stop="20251021053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -200,7 +200,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20251021143000 +0000" stop="20251021150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream: Voting At 16</title>
+    <title>The Stream: Choosing Otherhood</title>
 </programme>
 <programme start="20251021150000 +0000" stop="20251021160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -8098,17 +8098,17 @@
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Soccer Channel.mncvision">
     <title>European Qual.: ENG Vs WAL</title>
 </programme>
-<programme start="20251021013000 +0000" stop="20251021033000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: MON Vs SCF</title>
+<programme start="20251021013000 +0000" stop="20251021020000 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Football</title>
 </programme>
-<programme start="20251021033000 +0000" stop="20251021040000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20251021020000 +0000" stop="20251021023000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251021023000 +0000" stop="20251021030000 +0000" channel="Soccer Channel.mncvision">
     <title>The Ultimate Goals</title>
 </programme>
-<programme start="20251021040000 +0000" stop="20251021060000 +0000" channel="Soccer Channel.mncvision">
-    <title>Euro 2024: HUN Vs SUI</title>
-</programme>
-<programme start="20251021060000 +0000" stop="20251021074000 +0000" channel="Soccer Channel.mncvision">
-    <title>Copa del Rey: ATM Vs GET</title>
+<programme start="20251021030000 +0000" stop="20251021074000 +0000" channel="Soccer Channel.mncvision">
+    <title>Artistic Gymnastics World (L)</title>
 </programme>
 <programme start="20251021074000 +0000" stop="20251021094500 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Champions League Elite (L)</title>
@@ -8126,7 +8126,7 @@
     <title>AFC Champions League Elite (L)</title>
 </programme>
 <programme start="20251021141500 +0000" stop="20251021155500 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: SGE Vs FCB</title>
+    <title>Bundesliga 2025/26: BMG Vs SCF</title>
 </programme>
 <programme start="20251021155500 +0000" stop="20251021162500 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Champions League Elite (L)</title>
@@ -8152,17 +8152,17 @@
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Soccer Channel HD.mncvision">
     <title>European Qual.: ENG Vs WAL</title>
 </programme>
-<programme start="20251021013000 +0000" stop="20251021033000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2025/26: MON Vs SCF</title>
+<programme start="20251021013000 +0000" stop="20251021020000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Football</title>
 </programme>
-<programme start="20251021033000 +0000" stop="20251021040000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20251021020000 +0000" stop="20251021023000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251021023000 +0000" stop="20251021030000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>
 </programme>
-<programme start="20251021040000 +0000" stop="20251021060000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Euro 2024: HUN Vs SUI</title>
-</programme>
-<programme start="20251021060000 +0000" stop="20251021074000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Copa del Rey: ATM Vs GET</title>
+<programme start="20251021030000 +0000" stop="20251021074000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Artistic Gymnastics World (L)</title>
 </programme>
 <programme start="20251021074000 +0000" stop="20251021094500 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Champions League Elite (L)</title>
@@ -8180,7 +8180,7 @@
     <title>AFC Champions League Elite (L)</title>
 </programme>
 <programme start="20251021141500 +0000" stop="20251021155500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2025/26: SGE Vs FCB</title>
+    <title>Bundesliga 2025/26: BMG Vs SCF</title>
 </programme>
 <programme start="20251021155500 +0000" stop="20251021162500 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Champions League Elite (L)</title>

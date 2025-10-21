@@ -598,10 +598,10 @@
 <programme start="20251021054000 +0000" stop="20251021055500 +0000" channel="Cartoonito.skyde">
     <title>Krypto als Retter in Not</title>
 </programme>
-<programme start="20251021055500 +0000" stop="20251021062500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021055500 +0000" stop="20251021062000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20251021062500 +0000" stop="20251021065000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021062000 +0000" stop="20251021065000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20251021065000 +0000" stop="20251021070000 +0000" channel="Cartoonito.skyde">
@@ -646,10 +646,10 @@
 <programme start="20251021090500 +0000" stop="20251021092000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251021092000 +0000" stop="20251021092500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021092000 +0000" stop="20251021093000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251021092500 +0000" stop="20251021093500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021093000 +0000" stop="20251021093500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20251021093500 +0000" stop="20251021095000 +0000" channel="Cartoonito.skyde">
@@ -664,10 +664,10 @@
 <programme start="20251021100000 +0000" stop="20251021101500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20251021101500 +0000" stop="20251021102500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021101500 +0000" stop="20251021103000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251021102500 +0000" stop="20251021104500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021103000 +0000" stop="20251021104500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20251021104500 +0000" stop="20251021105500 +0000" channel="Cartoonito.skyde">
@@ -694,10 +694,10 @@
 <programme start="20251021121500 +0000" stop="20251021123000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251021123000 +0000" stop="20251021124000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021123000 +0000" stop="20251021124100 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20251021124000 +0000" stop="20251021124500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021124100 +0000" stop="20251021124500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20251021124500 +0000" stop="20251021130000 +0000" channel="Cartoonito.skyde">
@@ -718,10 +718,10 @@
 <programme start="20251021134000 +0000" stop="20251021140000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251021140000 +0000" stop="20251021142500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021140000 +0000" stop="20251021143000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20251021142500 +0000" stop="20251021145500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021143000 +0000" stop="20251021145500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20251021145500 +0000" stop="20251021150500 +0000" channel="Cartoonito.skyde">
@@ -739,10 +739,10 @@
 <programme start="20251021155500 +0000" stop="20251021160000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251021160000 +0000" stop="20251021160500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021160000 +0000" stop="20251021161000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251021160500 +0000" stop="20251021162000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021161000 +0000" stop="20251021162000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251021162000 +0000" stop="20251021163000 +0000" channel="Cartoonito.skyde">
@@ -751,10 +751,10 @@
 <programme start="20251021163000 +0000" stop="20251021163500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251021163500 +0000" stop="20251021164000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021163500 +0000" stop="20251021164500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251021164000 +0000" stop="20251021170000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021164500 +0000" stop="20251021170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20251021170000 +0000" stop="20251021172500 +0000" channel="Cartoonito.skyde">
@@ -772,16 +772,16 @@
 <programme start="20251021181000 +0000" stop="20251021182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251021182500 +0000" stop="20251021183500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021182500 +0000" stop="20251021184000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251021183500 +0000" stop="20251021185500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021184000 +0000" stop="20251021185500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20251021185500 +0000" stop="20251021190000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021185500 +0000" stop="20251021190500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20251021190000 +0000" stop="20251021191000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021190500 +0000" stop="20251021191000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251021191000 +0000" stop="20251021192500 +0000" channel="Cartoonito.skyde">
@@ -811,10 +811,10 @@
 <programme start="20251021203500 +0000" stop="20251021205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20251021205000 +0000" stop="20251021210000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021205000 +0000" stop="20251021210500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20251021210000 +0000" stop="20251021212000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021210500 +0000" stop="20251021212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20251021212000 +0000" stop="20251021213000 +0000" channel="Cartoonito.skyde">
@@ -2626,8 +2626,8 @@
 <programme start="20251021210500 +0000" stop="20251021220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
+<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251020231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -3007,11 +3007,14 @@
 <programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20251021123000 +0000" stop="20251021130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251021123000 +0000" stop="20251021131500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Welcome to the NHL: Class of 2025</title>
+</programme>
+<programme start="20251021131500 +0000" stop="20251021134500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 7. Spieltag komplett</title>
 </programme>
-<programme start="20251021130000 +0000" stop="20251021140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Sprint - GP Australien</title>
+<programme start="20251021134500 +0000" stop="20251021140000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: Eintracht Braunschweig - VfB Stuttgart, 1. Runde</title>
 </programme>
 <programme start="20251021140000 +0000" stop="20251021150000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Australien</title>
@@ -3034,10 +3037,13 @@
 <programme start="20251021190000 +0000" stop="20251021193000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20251021193000 +0000" stop="20251021213000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251021193000 +0000" stop="20251021194500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: SSV Ulm 1846 - SV Elversberg, 1. Runde</title>
+</programme>
+<programme start="20251021194500 +0000" stop="20251021214500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Minnesota Wild @ New York Rangers</title>
 </programme>
-<programme start="20251021213000 +0000" stop="20251021220000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251021214500 +0000" stop="20251021221500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport News HD.skyde">
@@ -3218,7 +3224,7 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Lys (GER) - Katie Boulter (GBR), Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
+    <title>WTA 500: Topspiel, Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
 </programme>
 <programme start="20251021013000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
@@ -3309,9 +3315,6 @@
 </programme>
 <programme start="20251021173000 +0000" stop="20251021193000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: FC Liverpool - Manchester United, Match of the Week, 8. Spieltag</title>
-</programme>
-<programme start="20251021193000 +0000" stop="20251021203000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1 Academy: 2. Rennen - GP Singapur</title>
 </programme>
 <programme start="20251021200000 +0000" stop="20251021203000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Match of the Week: Die Analyse, LIV - MUN, 8. Spieltag</title>
@@ -3742,10 +3745,10 @@
 <programme start="20251021162500 +0000" stop="20251021181500 +0000" channel="Warner TV Film.skyde">
     <title>Equilibrium</title>
 </programme>
-<programme start="20251021181500 +0000" stop="20251021195500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251021181500 +0000" stop="20251021200000 +0000" channel="Warner TV Film.skyde">
     <title>Babylon A.D.</title>
 </programme>
-<programme start="20251021195500 +0000" stop="20251021214500 +0000" channel="Warner TV Film.skyde">
+<programme start="20251021200000 +0000" stop="20251021214500 +0000" channel="Warner TV Film.skyde">
     <title>xXx: Die Rückkehr des Xander Cage</title>
 </programme>
 <programme start="20251021214500 +0000" stop="20251021232500 +0000" channel="Warner TV Film.skyde">
@@ -3787,10 +3790,10 @@
 <programme start="20251021162500 +0000" stop="20251021181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Equilibrium</title>
 </programme>
-<programme start="20251021181500 +0000" stop="20251021195500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251021181500 +0000" stop="20251021200000 +0000" channel="Warner TV Film HD.skyde">
     <title>Babylon A.D.</title>
 </programme>
-<programme start="20251021195500 +0000" stop="20251021214500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20251021200000 +0000" stop="20251021214500 +0000" channel="Warner TV Film HD.skyde">
     <title>xXx: Die Rückkehr des Xander Cage</title>
 </programme>
 <programme start="20251021214500 +0000" stop="20251021232500 +0000" channel="Warner TV Film HD.skyde">
@@ -3802,19 +3805,19 @@
 <programme start="20251021004000 +0000" stop="20251021012500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021012500 +0000" stop="20251021020500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021012500 +0000" stop="20251021021000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021020500 +0000" stop="20251021025000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021021000 +0000" stop="20251021025000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021025000 +0000" stop="20251021033000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021025000 +0000" stop="20251021033500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021033000 +0000" stop="20251021042000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021033500 +0000" stop="20251021042500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251021042000 +0000" stop="20251021051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021042500 +0000" stop="20251021051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251021051500 +0000" stop="20251021060500 +0000" channel="Warner TV Serie HD.skyde">
