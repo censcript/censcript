@@ -3532,7 +3532,7 @@
   <programme start="20251023215000 +0000" stop="20251023223500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVIII (2)</title>
   </programme>
-  <programme start="20251022214700 +0000" stop="20251022223800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251022214800 +0000" stop="20251022223800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Luštitelé záhad</title>
   </programme>
   <programme start="20251022223800 +0000" stop="20251022235700 +0000" channel="ČT2.webtv.sk">
@@ -3544,13 +3544,13 @@
   <programme start="20251023002500 +0000" stop="20251023005200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20251023005200 +0000" stop="20251023011800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251023005200 +0000" stop="20251023011900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Maléru, maléru</title>
   </programme>
-  <programme start="20251023011800 +0000" stop="20251023012700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251023011900 +0000" stop="20251023012800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Evropa jedna báseň: Joan-Elies Adell</title>
   </programme>
-  <programme start="20251023012700 +0000" stop="20251023014500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20251023012800 +0000" stop="20251023014500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Pohyb</title>
   </programme>
   <programme start="20251023014500 +0000" stop="20251023021500 +0000" channel="ČT2.webtv.sk">
