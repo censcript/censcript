@@ -3034,11 +3034,11 @@
 <programme start="20251021190000 +0000" stop="20251021193000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20251021193000 +0000" stop="20251021203000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>WRC: Highlights: Central European Rally</title>
-</programme>
-<programme start="20251021203000 +0000" stop="20251021223000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20251021193000 +0000" stop="20251021213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Minnesota Wild @ New York Rangers</title>
+</programme>
+<programme start="20251021213000 +0000" stop="20251021220000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3218,7 +3218,7 @@
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
+    <title>WTA 500: E. Lys (GER) - Katie Boulter (GBR), Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
 </programme>
 <programme start="20251021013000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
@@ -3286,29 +3286,32 @@
 <programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Match of the Week: Die Analyse, LIV - MUN, 8. Spieltag</title>
 </programme>
-<programme start="20251021100000 +0000" stop="20251021120000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021093000 +0000" stop="20251021113000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP USA</title>
 </programme>
-<programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021113000 +0000" stop="20251021120000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (3)</title>
 </programme>
-<programme start="20251021123000 +0000" stop="20251021130000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (4)</title>
 </programme>
-<programme start="20251021130000 +0000" stop="20251021150000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021123000 +0000" stop="20251021143000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: SV Wehen Wiesbaden - FC Bayern München, Nachholspiel 1. Runde</title>
 </programme>
-<programme start="20251021150000 +0000" stop="20251021170000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021143000 +0000" stop="20251021163000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP USA</title>
 </programme>
-<programme start="20251021170000 +0000" stop="20251021173000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021163000 +0000" stop="20251021170000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>
 </programme>
-<programme start="20251021173000 +0000" stop="20251021180000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021170000 +0000" stop="20251021173000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (6)</title>
 </programme>
-<programme start="20251021180000 +0000" stop="20251021200000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20251021173000 +0000" stop="20251021193000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: FC Liverpool - Manchester United, Match of the Week, 8. Spieltag</title>
+</programme>
+<programme start="20251021193000 +0000" stop="20251021203000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1 Academy: 2. Rennen - GP Singapur</title>
 </programme>
 <programme start="20251021200000 +0000" stop="20251021203000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Match of the Week: Die Analyse, LIV - MUN, 8. Spieltag</title>
@@ -3799,19 +3802,19 @@
 <programme start="20251021004000 +0000" stop="20251021012500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021012500 +0000" stop="20251021021000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021012500 +0000" stop="20251021020500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021021000 +0000" stop="20251021025000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021020500 +0000" stop="20251021025000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021025000 +0000" stop="20251021033500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021025000 +0000" stop="20251021033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021033500 +0000" stop="20251021042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021033000 +0000" stop="20251021042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251021042500 +0000" stop="20251021051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021042000 +0000" stop="20251021051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251021051500 +0000" stop="20251021060500 +0000" channel="Warner TV Serie HD.skyde">
