@@ -242,6 +242,10 @@
     <title>Basketball: Rytas Vilnius - Promitheas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251023014000 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251021230000 +0700" stop="20251022011000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Igokea - Trieste (L)</title>
     <desc>Live: Ya</desc>
@@ -338,10 +342,6 @@
     <title>MotoGP 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021223000 +0700" stop="20251022010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Hamad Madjedovic - Lorenzo Musetti (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251022010000 +0700" stop="20251022020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
@@ -390,8 +390,12 @@
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251022000000 +0700" stop="20251022010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20251023010000 +0700" stop="20251023013000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023013000 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E21</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022010000 +0700" stop="20251022013000 +0700" channel="COSMOTE Sport 7 HD">
@@ -462,8 +466,12 @@
     <title>Volleyball: Olympiacos - Asterix Avo Beveren (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251022000000 +0700" stop="20251022010000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20251023013000 +0700" stop="20251023014500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023014500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022010000 +0700" stop="20251022013000 +0700" channel="COSMOTE Sport 8 HD">
@@ -530,8 +538,12 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251022000000 +0700" stop="20251022010000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20251023010000 +0700" stop="20251023013000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023013000 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022010000 +0700" stop="20251022013000 +0700" channel="COSMOTE Sport 9 HD">
@@ -605,5 +617,9 @@
 <programme start="20251023000000 +0700" stop="20251023010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023010000 +0700" stop="20251023033000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Volleyball: Napredak - Olympiacos (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

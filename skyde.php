@@ -2626,8 +2626,8 @@
 <programme start="20251021210500 +0000" stop="20251021220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
+<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251020231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -3223,8 +3223,11 @@
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - Katie Boulter (GBR), Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
 </programme>
-<programme start="20251021013000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251021013000 +0000" stop="20251021093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
+</programme>
+<programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20251021100000 +0000" stop="20251021110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
