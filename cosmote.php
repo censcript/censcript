@@ -54,10 +54,6 @@
     <title>Football: Arsenal - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021150000 +0700" stop="20251021170000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251021170000 +0700" stop="20251021190000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Barcelona - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
@@ -120,10 +116,6 @@
 </programme>
 <programme start="20251022165500 +0700" stop="20251022190500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - PAOK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251021151500 +0700" stop="20251021164500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: 2025 Socca Champions League</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021164500 +0700" stop="20251021170500 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,12 +182,12 @@
     <title>Football: FC Porto - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021141500 +0700" stop="20251021161500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Karsiyaka - Anadolu Efes</title>
+<programme start="20251022171500 +0700" stop="20251022173000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021161500 +0700" stop="20251021164500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
+<programme start="20251022173000 +0700" stop="20251022193000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al Fateh</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021164500 +0700" stop="20251021171500 +0700" channel="COSMOTE Sport 4 HD">
@@ -256,10 +248,6 @@
 </programme>
 <programme start="20251022155000 +0700" stop="20251022182000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251021152000 +0700" stop="20251021164000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021164000 +0700" stop="20251021182000 +0700" channel="COSMOTE Sport 5 HD">
@@ -347,6 +335,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022162000 +0700" stop="20251022172000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022172000 +0700" stop="20251022181500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

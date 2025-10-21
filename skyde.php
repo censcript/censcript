@@ -2626,8 +2626,8 @@
 <programme start="20251021210500 +0000" stop="20251021220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
+<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251020231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -2713,7 +2713,7 @@
 <programme start="20251021163500 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Olympiakos Piräus, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021154000 +0000" stop="20251021160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2725,7 +2725,7 @@
 <programme start="20251021163500 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Kairat Almaty - FC Pafos, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Arsenal - Atletico Madrid, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2749,92 +2749,8 @@
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA CL: PSV Eindhoven - SSC Neapel, Ligaphase, 3. Spieltag, Dienstag</title>
-</programme>
-<programme start="20251020223000 +0000" stop="20251021003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SC Paderborn 07 - Arminia Bielefeld, 9. Spieltag</title>
-</programme>
-<programme start="20251021003000 +0000" stop="20251021013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 9. Spieltag</title>
-</programme>
-<programme start="20251021013000 +0000" stop="20251021023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 7. Spieltag</title>
-</programme>
-<programme start="20251021023000 +0000" stop="20251021030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: BOC - BSC, 9. Spieltag</title>
-</programme>
-<programme start="20251021030000 +0000" stop="20251021031500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 9. Spieltag</title>
-</programme>
-<programme start="20251021031500 +0000" stop="20251021033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 7. Spieltag</title>
-</programme>
-<programme start="20251021033000 +0000" stop="20251021040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: FCB - BVB, 7. Spieltag</title>
-</programme>
-<programme start="20251021040000 +0000" stop="20251021041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 7. Spieltag</title>
-</programme>
-<programme start="20251021041500 +0000" stop="20251021043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 9. Spieltag</title>
-</programme>
-<programme start="20251021043000 +0000" stop="20251021050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
-</programme>
-<programme start="20251021050000 +0000" stop="20251021070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Hannover 96 - FC Schalke 04, 9. Spieltag</title>
-</programme>
-<programme start="20251021070000 +0000" stop="20251021070500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Sky Sport Bundesliga Kids Club</title>
-</programme>
-<programme start="20251021070500 +0000" stop="20251021080500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20251021080500 +0000" stop="20251021090500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alle Spiele, alle Stimmen, 7. Spieltag</title>
-</programme>
-<programme start="20251021090500 +0000" stop="20251021100500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Alle Spiele, alle Stimmen, 9. Spieltag</title>
-</programme>
-<programme start="20251021100500 +0000" stop="20251021120500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: RB Leipzig - Hamburger SV, 7. Spieltag</title>
-</programme>
-<programme start="20251021120500 +0000" stop="20251021121000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Sky Sport Bundesliga Kids Club</title>
-</programme>
-<programme start="20251021121000 +0000" stop="20251021141000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>DFB-Nachwuchsliga: FC Schalke 04 U19 - Rot-Weiß Oberhausen U19, 9. Spieltag</title>
-</programme>
-<programme start="20251021141000 +0000" stop="20251021142500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: SCF - SGE, 7. Spieltag</title>
-</programme>
-<programme start="20251021142500 +0000" stop="20251021144000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: STP - TSG; 7. Spieltag</title>
-</programme>
-<programme start="20251021144000 +0000" stop="20251021151000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: FCB - BVB, 7. Spieltag</title>
-</programme>
-<programme start="20251021151000 +0000" stop="20251021161000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20251021161000 +0000" stop="20251021161500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Sky Sport Bundesliga Kids Club</title>
-</programme>
-<programme start="20251021161500 +0000" stop="20251021164500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: BOC - BSC, 9. Spieltag</title>
-</programme>
-<programme start="20251021164500 +0000" stop="20251021170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (7)</title>
-</programme>
-<programme start="20251021170000 +0000" stop="20251021190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Tactical Feed: FCB - BVB, 7. Spieltag</title>
-</programme>
-<programme start="20251021190000 +0000" stop="20251021210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Sky Sport Fantasy: FCU - BMG, 7. Spieltag</title>
-</programme>
-<programme start="20251021210000 +0000" stop="20251021220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 7. Spieltag</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251021010000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: VfL Bochum - Hertha BSC, tipico Topspiel der Woche, 9. Spieltag</title>
@@ -3808,19 +3724,19 @@
 <programme start="20251021004000 +0000" stop="20251021012500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021012500 +0000" stop="20251021021000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021012500 +0000" stop="20251021020500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021021000 +0000" stop="20251021025000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021020500 +0000" stop="20251021025000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021025000 +0000" stop="20251021033500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021025000 +0000" stop="20251021033000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20251021033500 +0000" stop="20251021042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021033000 +0000" stop="20251021042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20251021042500 +0000" stop="20251021051500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20251021042000 +0000" stop="20251021051500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20251021051500 +0000" stop="20251021060500 +0000" channel="Warner TV Serie HD.skyde">
