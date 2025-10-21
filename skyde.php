@@ -2701,7 +2701,7 @@
 <programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Bayer Leverkusen - Paris Saint-Germain, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021210000 +0000" stop="20251021220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20251021210000 +0000" stop="20251021223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20251021154000 +0000" stop="20251021160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2731,7 +2731,7 @@
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FC Villareal - Manchester City, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -3223,11 +3223,8 @@
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - Katie Boulter (GBR), Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
 </programme>
-<programme start="20251021013000 +0000" stop="20251021093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251021013000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
-</programme>
-<programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20251021100000 +0000" stop="20251021110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
