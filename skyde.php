@@ -2083,99 +2083,6 @@
 <programme start="20251022214000 +0000" stop="20251022223000 +0000" channel="Sky Crime HD.skyde">
     <title>Twisted Killers</title>
 </programme>
-<programme start="20251021221500 +0000" stop="20251021230000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20251021230000 +0000" stop="20251021234500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20251021234500 +0000" stop="20251022003000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20251022003000 +0000" stop="20251022011500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20251022011500 +0000" stop="20251022014500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20251022014500 +0000" stop="20251022021500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20251022021500 +0000" stop="20251022024000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20251022024000 +0000" stop="20251022032500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
-</programme>
-<programme start="20251022032500 +0000" stop="20251022041500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20251022041500 +0000" stop="20251022050500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die Europa-Saga</title>
-</programme>
-<programme start="20251022050500 +0000" stop="20251022055000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die Europa-Saga</title>
-</programme>
-<programme start="20251022055000 +0000" stop="20251022064000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die Europa-Saga</title>
-</programme>
-<programme start="20251022064000 +0000" stop="20251022073000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die Europa-Saga</title>
-</programme>
-<programme start="20251022073000 +0000" stop="20251022081500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die Europa-Saga</title>
-</programme>
-<programme start="20251022081500 +0000" stop="20251022090500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Die Europa-Saga</title>
-</programme>
-<programme start="20251022090500 +0000" stop="20251022095500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythos - Die größten Rätsel der Geschichte</title>
-</programme>
-<programme start="20251022095500 +0000" stop="20251022104500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythos - Die größten Rätsel der Geschichte</title>
-</programme>
-<programme start="20251022104500 +0000" stop="20251022113500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythos - Die größten Rätsel der Geschichte</title>
-</programme>
-<programme start="20251022113500 +0000" stop="20251022122500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythos - Die größten Rätsel der Geschichte</title>
-</programme>
-<programme start="20251022122500 +0000" stop="20251022131500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20251022131500 +0000" stop="20251022140500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20251022140500 +0000" stop="20251022145000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20251022145000 +0000" stop="20251022154000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20251022154000 +0000" stop="20251022163000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20251022163000 +0000" stop="20251022172000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20251022172000 +0000" stop="20251022181000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20251022181000 +0000" stop="20251022190000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20251022190000 +0000" stop="20251022194500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Vorsicht Abgrund! Die gefährlichsten Straßen der Welt</title>
-</programme>
-<programme start="20251022194500 +0000" stop="20251022203500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Vorsicht Abgrund! Die gefährlichsten Straßen der Welt</title>
-</programme>
-<programme start="20251022203500 +0000" stop="20251022212500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Vorsicht Abgrund! Die gefährlichsten Straßen der Welt</title>
-</programme>
-<programme start="20251022212500 +0000" stop="20251022221000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Vorsicht Abgrund! Die gefährlichsten Straßen der Welt</title>
-</programme>
 <programme start="20251021223000 +0000" stop="20251021231000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Potsdam</title>
 </programme>
@@ -2716,7 +2623,7 @@
 <programme start="20251022163500 +0000" stop="20251022185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Galatasaray Istanbul - FK Bodo/Glimt, Ligaphase, 3. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251022185000 +0000" stop="20251022210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251022185000 +0000" stop="20251022213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Real Madrid - Juventus Turin, Ligaphase, 3. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251022154000 +0000" stop="20251022160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2728,7 +2635,7 @@
 <programme start="20251022163500 +0000" stop="20251022185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Athletic Bilbao - FK Qarabag, Ligaphase, 3. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251022185000 +0000" stop="20251022210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251022185000 +0000" stop="20251022213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: AS Monaco - Tottenham Hotspur, Ligaphase, 3. Spieltag, Mittwoch</title>
 </programme>
 <programme start="20251022183000 +0000" stop="20251022185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -3208,11 +3115,8 @@
 <programme start="20251022213000 +0000" stop="20251022233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Sheffield Wednesday - FC Middlesbrough, 11. Spieltag</title>
 </programme>
-<programme start="20251021223000 +0000" stop="20251021233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
-</programme>
 <programme start="20251021233000 +0000" stop="20251022013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
+    <title>WTA 500: L. Fernandez (CAN) - M. Sakkari (GRE), Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
 </programme>
 <programme start="20251022013000 +0000" stop="20251022100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 3. Tag</title>

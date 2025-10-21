@@ -1751,13 +1751,13 @@
     <title lang="id">Štúdio 24</title>
   </programme>
   <programme start="20251022204000 +0000" stop="20251022222000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Tlačová beseda</title>
+    <title lang="id">Operácia Entebbe</title>
   </programme>
   <programme start="20251022222000 +0000" stop="20251022231000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Tlačová beseda (5)</title>
   </programme>
   <programme start="20251022231000 +0000" stop="20251022235000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Vladimír Baláž a Oskar Dvořák</title>
   </programme>
   <programme start="20251022235000 +0000" stop="20251023003500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Vyšetrovanie (2)</title>
@@ -1784,7 +1784,7 @@
     <title lang="id">Telenákup</title>
   </programme>
   <programme start="20251023070000 +0000" stop="20251023074000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Vladimír Baláž a Oskar Dvořák</title>
   </programme>
   <programme start="20251023074000 +0000" stop="20251023082000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Univerzum - Adam Tomašových</title>
@@ -1814,7 +1814,7 @@
     <title lang="id">Melrose Place (4)</title>
   </programme>
   <programme start="20251023130000 +0000" stop="20251023134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Vladimír Baláž a Oskar Dvořák</title>
   </programme>
   <programme start="20251023134000 +0000" stop="20251023142000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">V tieni zločinu - Dávid Barák</title>
@@ -1837,13 +1837,10 @@
   <programme start="20251023182000 +0000" stop="20251023194000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">GÉRARD DEPARDIEU: Prestrojený účtovník</title>
   </programme>
-  <programme start="20251023194000 +0000" stop="20251023203500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Inspektor Taggart: Na ostří nože (2) I (2)</title>
+  <programme start="20251023194000 +0000" stop="20251023215000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">MELANIE GRIFFITH: Lolita</title>
   </programme>
-  <programme start="20251023203500 +0000" stop="20251023215500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Tlačová beseda (6)</title>
-  </programme>
-  <programme start="20251023215500 +0000" stop="20251023222500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20251023215000 +0000" stop="20251023222500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Tlačová beseda (11)</title>
   </programme>
   <programme start="20251022215500 +0000" stop="20251022221000 +0000" channel="Jojko.webtv.sk">
@@ -5396,7 +5393,7 @@
     <title lang="id">Dallas Mavericks - San Antonio Spurs</title>
   </programme>
   <programme start="20251023110000 +0000" stop="20251023140000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">Reyes Cup 2025</title>
+    <title lang="id">Hanoi Open Pool Championship 2025</title>
   </programme>
   <programme start="20251023140000 +0000" stop="20251023141500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">ČEZ RunTour - Praha</title>
