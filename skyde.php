@@ -2626,8 +2626,8 @@
 <programme start="20251021210500 +0000" stop="20251021220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
+<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251020231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -2713,7 +2713,7 @@
 <programme start="20251021163500 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Olympiakos Piräus, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021154000 +0000" stop="20251021160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2725,13 +2725,13 @@
 <programme start="20251021163500 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Kairat Almaty - FC Pafos, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Arsenal - Atletico Madrid, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FC Villareal - Manchester City, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -3235,11 +3235,8 @@
 <programme start="20251021113000 +0000" stop="20251021203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
-<programme start="20251021203000 +0000" stop="20251021213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
-</programme>
-<programme start="20251021213000 +0000" stop="20251021233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - J. Fearnley (GBR), Erste Bank Open in Wien (Österreich), 2. Tag</title>
+<programme start="20251021203000 +0000" stop="20251021223000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Topspiel, Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
@@ -3520,19 +3517,16 @@
 <programme start="20251021211500 +0000" stop="20251021220000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20251020220000 +0000" stop="20251020222000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251020222000 +0000" stop="20251020224000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251020222000 +0000" stop="20251020224500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251020224000 +0000" stop="20251020230500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251020224500 +0000" stop="20251020230500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251020230500 +0000" stop="20251020232500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20251020230500 +0000" stop="20251020233000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20251020233000 +0000" stop="20251020235000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251020232500 +0000" stop="20251020235000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Samurai Jack</title>
 </programme>
 <programme start="20251020235000 +0000" stop="20251021001500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3541,10 +3535,10 @@
 <programme start="20251021001500 +0000" stop="20251021002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251021002500 +0000" stop="20251021004000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021002500 +0000" stop="20251021003500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251021004000 +0000" stop="20251021005000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021003500 +0000" stop="20251021005000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20251021005000 +0000" stop="20251021010000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3553,10 +3547,10 @@
 <programme start="20251021010000 +0000" stop="20251021011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251021011000 +0000" stop="20251021012500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021011000 +0000" stop="20251021012000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251021012500 +0000" stop="20251021014500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021012000 +0000" stop="20251021014500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20251021014500 +0000" stop="20251021021000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3634,10 +3628,10 @@
 <programme start="20251021113000 +0000" stop="20251021115500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251021115500 +0000" stop="20251021122000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021115500 +0000" stop="20251021122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20251021122000 +0000" stop="20251021125000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021122500 +0000" stop="20251021125000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20251021125000 +0000" stop="20251021131500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3685,10 +3679,10 @@
 <programme start="20251021184000 +0000" stop="20251021190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251021190500 +0000" stop="20251021192500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021190500 +0000" stop="20251021193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20251021192500 +0000" stop="20251021195500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021193000 +0000" stop="20251021195500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20251021195500 +0000" stop="20251021201500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3709,10 +3703,10 @@
 <programme start="20251021212500 +0000" stop="20251021214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251021214000 +0000" stop="20251021215500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021214000 +0000" stop="20251021215000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20251021215500 +0000" stop="20251021221500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20251021215000 +0000" stop="20251021221500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20251020220500 +0000" stop="20251020235500 +0000" channel="Warner TV Film.skyde">
@@ -3758,51 +3752,6 @@
     <title>xXx: Die Rückkehr des Xander Cage</title>
 </programme>
 <programme start="20251021214500 +0000" stop="20251021232500 +0000" channel="Warner TV Film.skyde">
-    <title>A Quiet Place Part II</title>
-</programme>
-<programme start="20251020220500 +0000" stop="20251020235500 +0000" channel="Warner TV Film HD.skyde">
-    <title>I, Robot</title>
-</programme>
-<programme start="20251020235500 +0000" stop="20251021014000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Tag an dem die Erde stillstand</title>
-</programme>
-<programme start="20251021014000 +0000" stop="20251021031000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Judge Dredd</title>
-</programme>
-<programme start="20251021031000 +0000" stop="20251021040000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Lutz van der Horst - Der Filmtalker</title>
-</programme>
-<programme start="20251021040000 +0000" stop="20251021054000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Dan - Mitten Im Leben</title>
-</programme>
-<programme start="20251021054000 +0000" stop="20251021071500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Zoff für Zwei</title>
-</programme>
-<programme start="20251021071500 +0000" stop="20251021085000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Sacramento</title>
-</programme>
-<programme start="20251021085000 +0000" stop="20251021103000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Unerbittliche</title>
-</programme>
-<programme start="20251021103000 +0000" stop="20251021121500 +0000" channel="Warner TV Film HD.skyde">
-    <title>16 Blocks</title>
-</programme>
-<programme start="20251021121500 +0000" stop="20251021142000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Prometheus - Dunkle Zeichen</title>
-</programme>
-<programme start="20251021142000 +0000" stop="20251021162500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Planet der Affen</title>
-</programme>
-<programme start="20251021162500 +0000" stop="20251021181500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Equilibrium</title>
-</programme>
-<programme start="20251021181500 +0000" stop="20251021195500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Babylon A.D.</title>
-</programme>
-<programme start="20251021195500 +0000" stop="20251021214500 +0000" channel="Warner TV Film HD.skyde">
-    <title>xXx: Die Rückkehr des Xander Cage</title>
-</programme>
-<programme start="20251021214500 +0000" stop="20251021232500 +0000" channel="Warner TV Film HD.skyde">
     <title>A Quiet Place Part II</title>
 </programme>
 <programme start="20251020224000 +0000" stop="20251021004000 +0000" channel="Warner TV Serie HD.skyde">
