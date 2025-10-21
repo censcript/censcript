@@ -1534,16 +1534,16 @@
 <programme start="20251021124000 +0000" stop="20251021125000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251021125000 +0000" stop="20251021130000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021125000 +0000" stop="20251021130500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20251021130000 +0000" stop="20251021132500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021130500 +0000" stop="20251021132500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251021132500 +0000" stop="20251021134500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021132500 +0000" stop="20251021135000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251021134500 +0000" stop="20251021141000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021135000 +0000" stop="20251021141000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20251021141000 +0000" stop="20251021143000 +0000" channel="Nick Jr..skyde">
@@ -1552,16 +1552,16 @@
 <programme start="20251021143000 +0000" stop="20251021144000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251021144000 +0000" stop="20251021144500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021144000 +0000" stop="20251021145000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251021144500 +0000" stop="20251021145500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021145000 +0000" stop="20251021145500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251021145500 +0000" stop="20251021151500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021145500 +0000" stop="20251021152000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251021151500 +0000" stop="20251021153000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021152000 +0000" stop="20251021153000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251021153000 +0000" stop="20251021154000 +0000" channel="Nick Jr..skyde">
@@ -1573,31 +1573,31 @@
 <programme start="20251021155500 +0000" stop="20251021162000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20251021162000 +0000" stop="20251021164500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021162000 +0000" stop="20251021165000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251021164500 +0000" stop="20251021170000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021165000 +0000" stop="20251021170000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20251021170000 +0000" stop="20251021170500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021170000 +0000" stop="20251021171000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251021170500 +0000" stop="20251021171500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021171000 +0000" stop="20251021171500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20251021171500 +0000" stop="20251021172500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20251021172500 +0000" stop="20251021174500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021172500 +0000" stop="20251021175000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20251021174500 +0000" stop="20251021181000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021175000 +0000" stop="20251021181000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251021181000 +0000" stop="20251021183000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021181000 +0000" stop="20251021183500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20251021183000 +0000" stop="20251021184500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021183500 +0000" stop="20251021184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20251021184500 +0000" stop="20251021185500 +0000" channel="Nick Jr..skyde">
@@ -1615,28 +1615,28 @@
 <programme start="20251021195500 +0000" stop="20251021202000 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20251021202000 +0000" stop="20251021204000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021202000 +0000" stop="20251021204500 +0000" channel="Nick Jr..skyde">
     <title>Baby Sharks große Show</title>
 </programme>
-<programme start="20251021204000 +0000" stop="20251021204500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021204500 +0000" stop="20251021204600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251021204500 +0000" stop="20251021205000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021204600 +0000" stop="20251021205000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251021205000 +0000" stop="20251021205500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251021205500 +0000" stop="20251021210000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20251021210000 +0000" stop="20251021210500 +0000" channel="Nick Jr..skyde">
+<programme start="20251021205500 +0000" stop="20251021210500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251021210500 +0000" stop="20251021211000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20251021211000 +0000" stop="20251021212000 +0000" channel="Nick Jr..skyde">
+<programme start="20251021211000 +0000" stop="20251021211500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20251021211500 +0000" stop="20251021212000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20251021212000 +0000" stop="20251021214000 +0000" channel="Nick Jr..skyde">
@@ -2626,8 +2626,8 @@
 <programme start="20251021210500 +0000" stop="20251021220000 +0000" channel="Sky Showcase HD.skyde">
     <title>Billy &amp; Dom: Zwei Gefährten auf kulinarischer Mission</title>
 </programme>
-<programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 10. Runde (Sonntag)</title>
+<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: SCR - ASK, 10. Runde</title>
 </programme>
 <programme start="20251020230000 +0000" stop="20251020231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: REFCAM - Die Schiedsrichter-Perspektive</title>
@@ -2713,7 +2713,7 @@
 <programme start="20251021163500 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Olympiakos Piräus, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FC Kopenhagen - Borussia Dortmund, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021154000 +0000" stop="20251021160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2731,7 +2731,7 @@
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
-<programme start="20251021185000 +0000" stop="20251021213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20251021185000 +0000" stop="20251021210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FC Villareal - Manchester City, Ligaphase, 3. Spieltag, Dienstag</title>
 </programme>
 <programme start="20251021183000 +0000" stop="20251021185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2850,84 +2850,6 @@
 </programme>
 <programme start="20251021070000 +0000" stop="20251021071500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20251020220000 +0000" stop="20251020221500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint Kompakt - GP USA</title>
-</programme>
-<programme start="20251020221500 +0000" stop="20251020223000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Qualifying Kompakt - GP USA</title>
-</programme>
-<programme start="20251020223000 +0000" stop="20251020230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen Kompakt - GP USA</title>
-</programme>
-<programme start="20251020230000 +0000" stop="20251021000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Sprint - GP USA</title>
-</programme>
-<programme start="20251021000000 +0000" stop="20251021020000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP USA</title>
-</programme>
-<programme start="20251021020000 +0000" stop="20251021023000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP USA</title>
-</programme>
-<programme start="20251021023000 +0000" stop="20251021030000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Extreme E: Highlights: Desert X Prix - The Final Lap</title>
-</programme>
-<programme start="20251021030000 +0000" stop="20251021040000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA Extreme H - World Cup 2025 (Time Trial)</title>
-</programme>
-<programme start="20251021040000 +0000" stop="20251021043000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA Karting - Highlights: Franciacorta (ITA)</title>
-</programme>
-<programme start="20251021043000 +0000" stop="20251021050000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Singapur</title>
-</programme>
-<programme start="20251021050000 +0000" stop="20251021070000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP USA</title>
-</programme>
-<programme start="20251021070000 +0000" stop="20251021090000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Singapur</title>
-</programme>
-<programme start="20251021090000 +0000" stop="20251021093000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Extreme E: Highlights: Desert X Prix - The Final Lap</title>
-</programme>
-<programme start="20251021093000 +0000" stop="20251021103000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: FIA Extreme H - World Cup 2025 (Time Trial)</title>
-</programme>
-<programme start="20251021103000 +0000" stop="20251021110000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP China</title>
-</programme>
-<programme start="20251021110000 +0000" stop="20251021113000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Saudi-Arabien</title>
-</programme>
-<programme start="20251021113000 +0000" stop="20251021120000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Miami</title>
-</programme>
-<programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Kanada</title>
-</programme>
-<programme start="20251021123000 +0000" stop="20251021130000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Niederlande</title>
-</programme>
-<programme start="20251021130000 +0000" stop="20251021133000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1 Academy: Weekend Wrapped - GP Singapur</title>
-</programme>
-<programme start="20251021133000 +0000" stop="20251021140000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Extreme E: Highlights: Desert X Prix - The Final Lap</title>
-</programme>
-<programme start="20251021140000 +0000" stop="20251021160000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Singapur</title>
-</programme>
-<programme start="20251021160000 +0000" stop="20251021180000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP USA</title>
-</programme>
-<programme start="20251021180000 +0000" stop="20251021190000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 1. Rennen - GP Aserbaidschan</title>
-</programme>
-<programme start="20251021190000 +0000" stop="20251021200000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F2: 2. Rennen - GP Aserbaidschan</title>
-</programme>
-<programme start="20251021200000 +0000" stop="20251021220000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP USA</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251021010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 4. Tag in Augusta, GA (USA)</title>
@@ -3097,126 +3019,6 @@
 <programme start="20251021210000 +0000" stop="20251021220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20251020220000 +0000" stop="20251020223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 13. Spieltag</title>
-</programme>
-<programme start="20251020223000 +0000" stop="20251021003000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: West Ham United - FC Brentford, 8. Spieltag</title>
-</programme>
-<programme start="20251021003000 +0000" stop="20251021004500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Manchester United v Liverpool)</title>
-</programme>
-<programme start="20251021004500 +0000" stop="20251021010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Greatest Games: Manchester United - FC Liverpool (2010)</title>
-</programme>
-<programme start="20251021010000 +0000" stop="20251021030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Brighton &amp; Hove Albion - Newcastle United, 8. Spieltag</title>
-</programme>
-<programme start="20251021030000 +0000" stop="20251021050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: West Ham United - FC Brentford, 8. Spieltag</title>
-</programme>
-<programme start="20251021050000 +0000" stop="20251021051500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Southampton - Swansea City, 10. Spieltag</title>
-</programme>
-<programme start="20251021051500 +0000" stop="20251021053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Stoke City - AFC Wrexham, 10. Spieltag</title>
-</programme>
-<programme start="20251021053000 +0000" stop="20251021054500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Birmingham City - Hull City, 10. Spieltag</title>
-</programme>
-<programme start="20251021054500 +0000" stop="20251021060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Middlesbrough - Ipswich Town, 10. Spieltag</title>
-</programme>
-<programme start="20251021060000 +0000" stop="20251021063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Edwin van der Sar)</title>
-</programme>
-<programme start="20251021063000 +0000" stop="20251021070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 13. Spieltag</title>
-</programme>
-<programme start="20251021070000 +0000" stop="20251021073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 13. Spieltag</title>
-</programme>
-<programme start="20251021073000 +0000" stop="20251021080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRI - NEW, 8. Spieltag</title>
-</programme>
-<programme start="20251021080000 +0000" stop="20251021100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: West Ham United - FC Brentford, 8. Spieltag</title>
-</programme>
-<programme start="20251021100000 +0000" stop="20251021101500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Birmingham City - Hull City, 10. Spieltag</title>
-</programme>
-<programme start="20251021101500 +0000" stop="20251021103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Middlesbrough - Ipswich Town, 10. Spieltag</title>
-</programme>
-<programme start="20251021103000 +0000" stop="20251021110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: Alan Shearer - My Newcastle Story</title>
-</programme>
-<programme start="20251021110000 +0000" stop="20251021113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NFO - CHE, 8. Spieltag</title>
-</programme>
-<programme start="20251021113000 +0000" stop="20251021120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 8. Spieltag</title>
-</programme>
-<programme start="20251021120000 +0000" stop="20251021123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - AVL, 8. Spieltag</title>
-</programme>
-<programme start="20251021123000 +0000" stop="20251021124500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Freekicks</title>
-</programme>
-<programme start="20251021124500 +0000" stop="20251021134500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Review, 8. Spieltag</title>
-</programme>
-<programme start="20251021134500 +0000" stop="20251021140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Rooney - Out of this World</title>
-</programme>
-<programme start="20251021140000 +0000" stop="20251021143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - MUN, 8. Spieltag</title>
-</programme>
-<programme start="20251021143000 +0000" stop="20251021144500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Southampton - Swansea City, 10. Spieltag</title>
-</programme>
-<programme start="20251021144500 +0000" stop="20251021150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Stoke City - AFC Wrexham, 10. Spieltag</title>
-</programme>
-<programme start="20251021150000 +0000" stop="20251021160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Generation xG</title>
-</programme>
-<programme start="20251021160000 +0000" stop="20251021161500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Bergkamp: Genius of Space</title>
-</programme>
-<programme start="20251021161500 +0000" stop="20251021163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Crystal Palace)</title>
-</programme>
-<programme start="20251021163000 +0000" stop="20251021170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - MUN, 8. Spieltag</title>
-</programme>
-<programme start="20251021170000 +0000" stop="20251021173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NFO - CHE, 8. Spieltag</title>
-</programme>
-<programme start="20251021173000 +0000" stop="20251021180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 8. Spieltag</title>
-</programme>
-<programme start="20251021180000 +0000" stop="20251021183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Nottingham Forest)</title>
-</programme>
-<programme start="20251021183000 +0000" stop="20251021190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Edwin van der Sar)</title>
-</programme>
-<programme start="20251021190000 +0000" stop="20251021200000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Generation xG</title>
-</programme>
-<programme start="20251021200000 +0000" stop="20251021203000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 8. Spieltag</title>
-</programme>
-<programme start="20251021203000 +0000" stop="20251021210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: Dwight Yorke</title>
-</programme>
-<programme start="20251021210000 +0000" stop="20251021213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 8. Spieltag</title>
-</programme>
-<programme start="20251021213000 +0000" stop="20251021223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Generation xG</title>
-</programme>
 <programme start="20251020230000 +0000" stop="20251020233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Hologic WTA Tour Magazin 2025</title>
 </programme>
@@ -3235,8 +3037,11 @@
 <programme start="20251021113000 +0000" stop="20251021203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
-<programme start="20251021203000 +0000" stop="20251021223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Erste Bank Open in Wien (Österreich), 2. Tag</title>
+<programme start="20251021203000 +0000" stop="20251021213000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Shanghai</title>
+</programme>
+<programme start="20251021213000 +0000" stop="20251021233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - J. Fearnley (GBR), Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
@@ -3252,6 +3057,9 @@
 </programme>
 <programme start="20251021113000 +0000" stop="20251021123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
+</programme>
+<programme start="20251021123000 +0000" stop="20251021150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 250: J. Lehecka (CZE) - F. Auger-Aliassime (CAN), BNP Paribas Fortis European Open in Brüssel (BEL), Finale</title>
 </programme>
 <programme start="20251021150000 +0000" stop="20251021160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 8. Spieltag</title>
