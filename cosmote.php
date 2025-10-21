@@ -54,10 +54,6 @@
     <title>Football: PSV Eindhoven - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021090000 +0700" stop="20251021110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251021110000 +0700" stop="20251021130500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - OFI</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20251022090000 +0700" stop="20251022110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022110000 +0700" stop="20251022130500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021100000 +0700" stop="20251021131500 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +258,6 @@
     <title>Basketball: Virtus Bologna - Vanoli Cremona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021100000 +0700" stop="20251021110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251021110000 +0700" stop="20251021120000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
@@ -346,10 +342,6 @@
     <title>Basketball: Los Angeles Lakers - Golden State Warriors (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251021100000 +0700" stop="20251021103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251021103000 +0700" stop="20251021120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jenson Brooksby - Alexandre Muller</title>
     <desc>Live: Tidak</desc>
@@ -400,6 +392,10 @@
 </programme>
 <programme start="20251022100000 +0700" stop="20251022113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022113000 +0700" stop="20251022140000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021100000 +0700" stop="20251021120000 +0700" channel="COSMOTE Sport 7 HD">

@@ -5143,13 +5143,10 @@
 <programme start="20251021073000 +0000" stop="20251021093000 +0000" channel="Kids TV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Wonders</title>
-</programme>
-<programme start="20251021100000 +0000" stop="20251021110000 +0000" channel="Kids TV.mncvision">
+<programme start="20251021093000 +0000" stop="20251021103000 +0000" channel="Kids TV.mncvision">
     <title>CoComelon</title>
 </programme>
-<programme start="20251021110000 +0000" stop="20251021113000 +0000" channel="Kids TV.mncvision">
+<programme start="20251021103000 +0000" stop="20251021113000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20251021113000 +0000" stop="20251021120000 +0000" channel="Kids TV.mncvision">
@@ -5245,13 +5242,10 @@
 <programme start="20251021073000 +0000" stop="20251021093000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Kids TV HD.mncvision">
-    <title>Blippi Wonders</title>
-</programme>
-<programme start="20251021100000 +0000" stop="20251021110000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251021093000 +0000" stop="20251021103000 +0000" channel="Kids TV HD.mncvision">
     <title>CoComelon</title>
 </programme>
-<programme start="20251021110000 +0000" stop="20251021113000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20251021103000 +0000" stop="20251021113000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20251021113000 +0000" stop="20251021120000 +0000" channel="Kids TV HD.mncvision">
