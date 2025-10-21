@@ -118,6 +118,10 @@
     <title>Football: Volos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251022130500 +0700" stop="20251022150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Parma</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251021100000 +0700" stop="20251021131500 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: San Francisco 49ers - Atlanta Falcons</title>
     <desc>Live: Tidak</desc>
@@ -190,8 +194,8 @@
     <title>American Football: Detroit Lions - Tampa Bay Buccaneers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021120000 +0700" stop="20251021121500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
+<programme start="20251022131500 +0700" stop="20251022151500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021121500 +0700" stop="20251021141500 +0700" channel="COSMOTE Sport 4 HD">
@@ -342,8 +346,8 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021120000 +0700" stop="20251021130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2025 - Highlights</title>
+<programme start="20251022130000 +0700" stop="20251022150000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021130000 +0700" stop="20251021143000 +0700" channel="COSMOTE Sport 6 HD">
