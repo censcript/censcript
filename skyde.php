@@ -565,10 +565,7 @@
 <programme start="20251021034000 +0000" stop="20251021040000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20251021040000 +0000" stop="20251021040500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20251021040500 +0000" stop="20251021041000 +0000" channel="Cartoonito.skyde">
+<programme start="20251021040000 +0000" stop="20251021041000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251021041000 +0000" stop="20251021042500 +0000" channel="Cartoonito.skyde">
@@ -583,8 +580,11 @@
 <programme start="20251021044000 +0000" stop="20251021045500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20251021045500 +0000" stop="20251021050500 +0000" channel="Cartoonito.skyde">
+<programme start="20251021045500 +0000" stop="20251021050000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251021050000 +0000" stop="20251021050500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20251021050500 +0000" stop="20251021052500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
@@ -3223,11 +3223,8 @@
 <programme start="20251020233000 +0000" stop="20251021013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - Katie Boulter (GBR), Toray Pan Pacific Open Tennis in Tokio (JPN), 1. Tag</title>
 </programme>
-<programme start="20251021013000 +0000" stop="20251021093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20251021013000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 2. Tag</title>
-</programme>
-<programme start="20251021093000 +0000" stop="20251021100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20251021100000 +0000" stop="20251021110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Cincinnati</title>
@@ -3238,11 +3235,8 @@
 <programme start="20251021113000 +0000" stop="20251021203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
-<programme start="20251021203000 +0000" stop="20251021213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Shanghai</title>
-</programme>
-<programme start="20251021213000 +0000" stop="20251021233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - J. Fearnley (GBR), Erste Bank Open in Wien (Österreich), 2. Tag</title>
+<programme start="20251021203000 +0000" stop="20251021223000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Topspiel, Erste Bank Open in Wien (Österreich), 2. Tag</title>
 </programme>
 <programme start="20251020220000 +0000" stop="20251020230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
