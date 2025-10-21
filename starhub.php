@@ -6707,7 +6707,7 @@
         <title>UniCredit Iasi Open (250) Final</title>
     </programme>
     <programme start="20251020180000 +0000" stop="20251020190000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Lidl Deutschland Tour H/Ls</title>
+        <title>UCI Pro Series - Lidl Deutschland Tour Highlights</title>
     </programme>
     <programme start="20251020190000 +0000" stop="20251020233000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 4 Evening Session</title>
@@ -8335,7 +8335,7 @@
     <programme start="20251021142000 +0000" stop="20251021144500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20251021144500 +0000" stop="20251021170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20251021144500 +0000" stop="20251021164000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20251020160000 +0000" stop="20251020163000 +0000" channel="Travelxp HD.starhub">
