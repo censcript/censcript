@@ -3035,10 +3035,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20251021031500 +0000" stop="20251021033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Mapped Out: Drug War Or...</title>
 </programme>
 <programme start="20251021033000 +0000" stop="20251021040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Orca Uprising</title>
 </programme>
 <programme start="20251021040000 +0000" stop="20251021041500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3059,7 +3059,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20251021061500 +0000" stop="20251021063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Online Content</title>
+    <title>Mapped Out: Drug War Or...</title>
 </programme>
 <programme start="20251021063000 +0000" stop="20251021070000 +0000" channel="DW English.mncvision">
     <title>Arts Unveiled: Philippines...</title>
@@ -3080,10 +3080,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20251021091500 +0000" stop="20251021094500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Orca Uprising</title>
 </programme>
 <programme start="20251021094500 +0000" stop="20251021100000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Students Lead...</title>
 </programme>
 <programme start="20251021100000 +0000" stop="20251021103000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
