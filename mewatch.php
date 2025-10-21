@@ -845,7 +845,7 @@
         <title>No programme available now. Next broadcast on 24th October, Friday 8.30pm. ONE Friday Fights 130</title>
     </programme>
     <programme start="20251021160000 +0000" stop="20251022160000 +0000" channel="Live 5.mewatch">
-        <title>No programme available now.</title>
+        <title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
     </programme>
     <programme start="20251022160000 +0000" stop="20251023095000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>

@@ -54,10 +54,6 @@
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251022015000 +0700" stop="20251022023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251022023000 +0700" stop="20251022040500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Documentary</title>
     <desc>Live: Tidak</desc>
@@ -601,5 +597,9 @@
 <programme start="20251023010000 +0700" stop="20251023033000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Volleyball: Napredak - Olympiacos (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251023033000 +0700" stop="20251023040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

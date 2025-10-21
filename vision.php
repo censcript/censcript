@@ -649,6 +649,9 @@
 <programme start="20251021013000 +0000" stop="20251021030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
+<programme start="20251021030000 +0000" stop="20251021063000 +0000" channel="ANTV.vision">
+<title>Kabhi Alvida Naa Kehna</title>
+</programme>
 <programme start="20251021063000 +0000" stop="20251021080000 +0000" channel="ANTV.vision">
 <title>Cinta Keluarga Pandya</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20251022093000 +0000" stop="20251022103000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
-</programme>
-<programme start="20251022103000 +0000" stop="20251022123000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
