@@ -1,7 +1,3 @@
-<programme start="20251021220000 +0700" stop="20251021223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2025-26 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251021223000 +0700" stop="20251021234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -53,6 +49,14 @@
 <programme start="20251022220000 +0700" stop="20251022230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022230000 +0700" stop="20251022234500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20251022234500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251021213000 +0700" stop="20251021234500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - SSC Napoli</title>
@@ -113,6 +117,14 @@
 <programme start="20251022210500 +0700" stop="20251022230500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022230500 +0700" stop="20251022234500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022234500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Athletic Club - Qarabag FK (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251021213000 +0700" stop="20251021234500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Pafos FC - Ethnikos Achnas</title>
@@ -178,6 +190,10 @@
     <title>Football: Kilmarnock - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251022234500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Galatasaray AS - FK Bodo/Glimt (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20251021212500 +0700" stop="20251021232500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Barcelona</title>
     <desc>Live: Tidak</desc>
@@ -238,9 +254,13 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021215500 +0700" stop="20251021230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2025</title>
+<programme start="20251022230000 +0700" stop="20251022233000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E3</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022233000 +0700" stop="20251023014000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Rytas Vilnius - Promitheas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251021230000 +0700" stop="20251022011000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Igokea - Trieste (L)</title>
@@ -326,12 +346,16 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251021203000 +0700" stop="20251021223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Cameron Norrie - Andrey Rublev (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251022230500 +0700" stop="20251022234000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022234000 +0700" stop="20251023004500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251021223000 +0700" stop="20251022010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Lorenzo Musetti (L)</title>
+    <title>Tennis: Hamad Madjedovic - Lorenzo Musetti (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20251022010000 +0700" stop="20251022020000 +0700" channel="COSMOTE Sport 6 HD">
@@ -453,6 +477,10 @@
 <programme start="20251022223000 +0700" stop="20251022230000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251022230000 +0700" stop="20251023013000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Volleyball: Olympiacos - Asterix Avo Beveren (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20251021220000 +0700" stop="20251022000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
