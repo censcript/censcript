@@ -160,9 +160,6 @@
 <programme start="20251021013000 +0000" stop="20251021020000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20251021020000 +0000" stop="20251021040000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants Movie</title>
-</programme>
 <programme start="20251021040000 +0000" stop="20251021070000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20251022103000 +0000" stop="20251022123000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20251020233500 +0000" stop="20251021011000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
