@@ -556,6 +556,9 @@
 <programme start="20251022091500 +0000" stop="20251022101500 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20251022101500 +0000" stop="20251022110000 +0000" channel="Trans 7.vision">
+<title>Speak Up</title>
+</programme>
 <programme start="20251022110000 +0000" stop="20251022114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -643,9 +646,6 @@
 <programme start="20251023114500 +0000" stop="20251023121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20251021233000 +0000" stop="20251022013000 +0000" channel="ANTV.vision">
-<title>Ratu Amplop</title>
-</programme>
 <programme start="20251022013000 +0000" stop="20251022030000 +0000" channel="ANTV.vision">
 <title>Mangal Lakshmi</title>
 </programme>
@@ -660,6 +660,9 @@
 </programme>
 <programme start="20251022093000 +0000" stop="20251022110000 +0000" channel="ANTV.vision">
 <title>Takdir Cinta Layla</title>
+</programme>
+<programme start="20251022110000 +0000" stop="20251022130000 +0000" channel="ANTV.vision">
+<title>7 Manusia Harimau</title>
 </programme>
 <programme start="20251022130000 +0000" stop="20251022150000 +0000" channel="ANTV.vision">
 <title>Rindu Tak Berujung</title>
@@ -1493,8 +1496,5 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251021233500 +0000" stop="20251022005500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20251022005500 +0000" stop="20251022023500 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
