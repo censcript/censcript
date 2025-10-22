@@ -451,6 +451,360 @@
 <programme start="20251022215000 +0000" stop="20251022220500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
+<programme start="20251021220000 +0000" stop="20251021221500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251021221500 +0000" stop="20251021222000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251021222000 +0000" stop="20251021223000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251021223000 +0000" stop="20251021224000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251021224000 +0000" stop="20251021225000 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251021225000 +0000" stop="20251021230000 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251021230000 +0000" stop="20251021232000 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251021232000 +0000" stop="20251021233000 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251021233000 +0000" stop="20251021234500 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251021234500 +0000" stop="20251021235500 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251021235500 +0000" stop="20251022001500 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022001500 +0000" stop="20251022002500 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022002500 +0000" stop="20251022003500 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022003500 +0000" stop="20251022005000 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022005000 +0000" stop="20251022010000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022010000 +0000" stop="20251022012000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022012000 +0000" stop="20251022013000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022013000 +0000" stop="20251022014500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022014500 +0000" stop="20251022015500 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251022015500 +0000" stop="20251022020500 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251022020500 +0000" stop="20251022022000 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251022022000 +0000" stop="20251022023500 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251022023500 +0000" stop="20251022024500 +0000" channel="Cartoonito.skyde">
+    <title>Ella im Weltall</title>
+</programme>
+<programme start="20251022024500 +0000" stop="20251022025500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022025500 +0000" stop="20251022030500 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022030500 +0000" stop="20251022031500 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022031500 +0000" stop="20251022033000 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022033000 +0000" stop="20251022034000 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022034000 +0000" stop="20251022040000 +0000" channel="Cartoonito.skyde">
+    <title>Geschichten von Kröterich &amp; Co.</title>
+</programme>
+<programme start="20251022040000 +0000" stop="20251022040500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022040500 +0000" stop="20251022041000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022041000 +0000" stop="20251022042500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022042500 +0000" stop="20251022043500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022043500 +0000" stop="20251022044000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022044000 +0000" stop="20251022045500 +0000" channel="Cartoonito.skyde">
+    <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
+</programme>
+<programme start="20251022045500 +0000" stop="20251022050500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022050500 +0000" stop="20251022051000 +0000" channel="Cartoonito.skyde">
+    <title>Krypto als Retter in Not</title>
+</programme>
+<programme start="20251022051000 +0000" stop="20251022052500 +0000" channel="Cartoonito.skyde">
+    <title>Krypto als Retter in Not</title>
+</programme>
+<programme start="20251022052500 +0000" stop="20251022053500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022053500 +0000" stop="20251022055500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022055500 +0000" stop="20251022062000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20251022062000 +0000" stop="20251022065000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20251022065000 +0000" stop="20251022070000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022070000 +0000" stop="20251022072000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022072000 +0000" stop="20251022073000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022073000 +0000" stop="20251022074000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022074000 +0000" stop="20251022080000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022080000 +0000" stop="20251022080500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022080500 +0000" stop="20251022081000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022081000 +0000" stop="20251022082500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022082500 +0000" stop="20251022083000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022083000 +0000" stop="20251022084000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022084000 +0000" stop="20251022085000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022085000 +0000" stop="20251022090000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022090000 +0000" stop="20251022090500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022090500 +0000" stop="20251022092000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022092000 +0000" stop="20251022092500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022092500 +0000" stop="20251022093500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022093500 +0000" stop="20251022095000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022095000 +0000" stop="20251022095500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022095500 +0000" stop="20251022100000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022100000 +0000" stop="20251022101500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022101500 +0000" stop="20251022102500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022102500 +0000" stop="20251022104500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022104500 +0000" stop="20251022105500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022105500 +0000" stop="20251022111500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022111500 +0000" stop="20251022112500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022112500 +0000" stop="20251022113500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022113500 +0000" stop="20251022115000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022115000 +0000" stop="20251022120500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022120500 +0000" stop="20251022121500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022121500 +0000" stop="20251022123000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022123000 +0000" stop="20251022124000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022124000 +0000" stop="20251022124500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022124500 +0000" stop="20251022130000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022130000 +0000" stop="20251022131000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022131000 +0000" stop="20251022132000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022132000 +0000" stop="20251022133000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister: Bauhelm-Zeit</title>
+</programme>
+<programme start="20251022133000 +0000" stop="20251022134000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022134000 +0000" stop="20251022140000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022140000 +0000" stop="20251022142500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20251022142500 +0000" stop="20251022145500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20251022145500 +0000" stop="20251022150500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022150500 +0000" stop="20251022152500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022152500 +0000" stop="20251022153500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022153500 +0000" stop="20251022154500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022154500 +0000" stop="20251022155500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022155500 +0000" stop="20251022160000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022160000 +0000" stop="20251022161000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022161000 +0000" stop="20251022162000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022162000 +0000" stop="20251022163000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022163000 +0000" stop="20251022163500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022163500 +0000" stop="20251022164500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022164500 +0000" stop="20251022170000 +0000" channel="Cartoonito.skyde">
+    <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
+</programme>
+<programme start="20251022170000 +0000" stop="20251022172500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20251022172500 +0000" stop="20251022175000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20251022175000 +0000" stop="20251022180000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20251022180000 +0000" stop="20251022181000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022181000 +0000" stop="20251022182500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022182500 +0000" stop="20251022183500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022183500 +0000" stop="20251022185500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20251022185500 +0000" stop="20251022190500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022190500 +0000" stop="20251022191000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022191000 +0000" stop="20251022192500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022192500 +0000" stop="20251022193000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022193000 +0000" stop="20251022193500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022193500 +0000" stop="20251022194500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022194500 +0000" stop="20251022200000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20251022200000 +0000" stop="20251022201000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022201000 +0000" stop="20251022202500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022202500 +0000" stop="20251022203500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022203500 +0000" stop="20251022205000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20251022205000 +0000" stop="20251022210000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022210000 +0000" stop="20251022212000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022212000 +0000" stop="20251022213000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022213000 +0000" stop="20251022214500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20251022214500 +0000" stop="20251022215500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20251022215500 +0000" stop="20251022220000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
 <programme start="20251021223000 +0000" stop="20251021232000 +0000" channel="Crime + Investigation.skyde">
     <title>Dead to me - Der Familie entrissen</title>
 </programme>
@@ -2947,10 +3301,10 @@
 <programme start="20251021221500 +0000" stop="20251021233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: NBA Showtime</title>
 </programme>
-<programme start="20251021233000 +0000" stop="20251022022000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251021233000 +0000" stop="20251022020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251022022000 +0000" stop="20251022053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251022020000 +0000" stop="20251022053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Lakers</title>
 </programme>
 <programme start="20251021220000 +0000" stop="20251021224500 +0000" channel="SYFY HD.skyde">
