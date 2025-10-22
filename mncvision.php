@@ -8071,6 +8071,120 @@
 <programme start="20251022163000 +0000" stop="20251021170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>OMG</title>
 </programme>
+<programme start="20251021180000 +0000" stop="20251021181000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251021181000 +0000" stop="20251021201500 +0000" channel="Soccer Channel.mncvision">
+    <title>AFC Champions League Elite (L)</title>
+</programme>
+<programme start="20251021201500 +0000" stop="20251021203000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251021203000 +0000" stop="20251021210000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251021210000 +0000" stop="20251021213000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251021213000 +0000" stop="20251021233000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special: IDN Vs KSA</title>
+</programme>
+<programme start="20251021233000 +0000" stop="20251022013000 +0000" channel="Soccer Channel.mncvision">
+    <title>European Qual.: KAZ Vs LIE</title>
+</programme>
+<programme start="20251022013000 +0000" stop="20251022033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: MUN Vs DOR</title>
+</programme>
+<programme start="20251022033000 +0000" stop="20251022040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251022040000 +0000" stop="20251022060000 +0000" channel="Soccer Channel.mncvision">
+    <title>Euro 2024: SPA Vs CRO</title>
+</programme>
+<programme start="20251022060000 +0000" stop="20251022080000 +0000" channel="Soccer Channel.mncvision">
+    <title>Copa del Rey: LEG Vs RMA</title>
+</programme>
+<programme start="20251022080000 +0000" stop="20251022095500 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: MUN Vs BVB</title>
+</programme>
+<programme start="20251022095500 +0000" stop="20251022120000 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: GWN Vs VIS (L)</title>
+</programme>
+<programme start="20251022120000 +0000" stop="20251022121000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251022121000 +0000" stop="20251022141500 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: SHS Vs SEO (L)</title>
+</programme>
+<programme start="20251022141500 +0000" stop="20251022151500 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga Highlights</title>
+</programme>
+<programme start="20251022151500 +0000" stop="20251022154500 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251022154500 +0000" stop="20251022155500 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251022155500 +0000" stop="20251022162500 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Two: EST Vs ALW (L)</title>
+</programme>
+<programme start="20251021180000 +0000" stop="20251021181000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251021181000 +0000" stop="20251021201500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>AFC Champions League Elite (L)</title>
+</programme>
+<programme start="20251021201500 +0000" stop="20251021203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251021203000 +0000" stop="20251021210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251021210000 +0000" stop="20251021213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251021213000 +0000" stop="20251021233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Special: IDN Vs KSA</title>
+</programme>
+<programme start="20251021233000 +0000" stop="20251022013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>European Qual.: KAZ Vs LIE</title>
+</programme>
+<programme start="20251022013000 +0000" stop="20251022033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: MUN Vs DOR</title>
+</programme>
+<programme start="20251022033000 +0000" stop="20251022040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251022040000 +0000" stop="20251022060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Euro 2024: SPA Vs CRO</title>
+</programme>
+<programme start="20251022060000 +0000" stop="20251022080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Copa del Rey: LEG Vs RMA</title>
+</programme>
+<programme start="20251022080000 +0000" stop="20251022095500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: MUN Vs BVB</title>
+</programme>
+<programme start="20251022095500 +0000" stop="20251022120000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: GWN Vs VIS (L)</title>
+</programme>
+<programme start="20251022120000 +0000" stop="20251022121000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251022121000 +0000" stop="20251022141500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Elite: SHS Vs SEO (L)</title>
+</programme>
+<programme start="20251022141500 +0000" stop="20251022151500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga Highlights</title>
+</programme>
+<programme start="20251022151500 +0000" stop="20251022154500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20251022154500 +0000" stop="20251022155500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20251022155500 +0000" stop="20251022162500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>ACL Two: EST Vs ALW (L)</title>
+</programme>
 <programme start="20251021174500 +0000" stop="20251021203000 +0000" channel="Sportstars.mncvision">
     <title>WONDR By BNI Indonesia Masters</title>
 </programme>

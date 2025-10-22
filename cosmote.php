@@ -54,8 +54,8 @@
     <title>Football: Galatasaray AS - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251022090000 +0700" stop="20251022110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - Hellas Verona</title>
+<programme start="20251023115500 +0700" stop="20251023135000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AS Monaco FC - Tottenham Hotspur</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022110000 +0700" stop="20251022130500 +0700" channel="COSMOTE Sport 2 HD">
@@ -112,6 +112,10 @@
 </programme>
 <programme start="20251023090500 +0700" stop="20251023110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023110000 +0700" stop="20251023131500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022100000 +0700" stop="20251022131500 +0700" channel="COSMOTE Sport 3 HD">
@@ -320,6 +324,10 @@
 </programme>
 <programme start="20251023100000 +0700" stop="20251023110000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023110000 +0700" stop="20251023120000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022100000 +0700" stop="20251022113000 +0700" channel="COSMOTE Sport 6 HD">
