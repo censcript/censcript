@@ -118,6 +118,10 @@
     <title>Football: Torino - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20251023213000 +0700" stop="20251023220000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251022193000 +0700" stop="20251022213000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Independiente del Valle - Atletico Mineiro</title>
     <desc>Live: Tidak</desc>
@@ -182,8 +186,8 @@
     <title>Football: Flamengo - Racing Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251022182000 +0700" stop="20251022205000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Los Angeles Lakers - Golden State Warriors</title>
+<programme start="20251023213000 +0700" stop="20251023234500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Olympiakos Nicosia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022205000 +0700" stop="20251022211500 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,8 +250,12 @@
     <title>Basketball: Karsiyaka - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251022195000 +0700" stop="20251022203000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2025</title>
+<programme start="20251023210000 +0700" stop="20251023213000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20251023213000 +0700" stop="20251023234500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Rytas Vilnius - Promitheas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022203000 +0700" stop="20251022220500 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,9 +338,9 @@
     <title>Motorsports: Moto2 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20251022183000 +0700" stop="20251022203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20251023210500 +0700" stop="20251023224500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022203000 +0700" stop="20251022223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
@@ -597,5 +605,9 @@
 <programme start="20251023190000 +0700" stop="20251023213000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20251023213000 +0700" stop="20251023220000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

@@ -91,6 +91,39 @@
 <programme start="20251022211500 +0000" stop="20251022220000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Hawaii</title>
 </programme>
+<programme start="20251021230500 +0000" stop="20251021231000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Inside</title>
+</programme>
+<programme start="20251021231000 +0000" stop="20251021234000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Lust Pur</title>
+</programme>
+<programme start="20251021234000 +0000" stop="20251022004500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Slide - wie geschmiert</title>
+</programme>
+<programme start="20251022004500 +0000" stop="20251022015500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Golden Grannys 2</title>
+</programme>
+<programme start="20251022015500 +0000" stop="20251022021500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Tat &amp; Wahrheit</title>
+</programme>
+<programme start="20251022021500 +0000" stop="20251022034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Die Erbinnen: reich und schön</title>
+</programme>
+<programme start="20251022034500 +0000" stop="20251022181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20251022181500 +0000" stop="20251022184500 +0000" channel="Beate Uhse HD.skyde">
+    <title>G-Punkt</title>
+</programme>
+<programme start="20251022184500 +0000" stop="20251022194500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Mein Mann muss zuschauen</title>
+</programme>
+<programme start="20251022194500 +0000" stop="20251022210000 +0000" channel="Beate Uhse HD.skyde">
+    <title>The Affairs of Lidia</title>
+</programme>
+<programme start="20251022210000 +0000" stop="20251022224500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Wenn es Nacht wird</title>
+</programme>
 <programme start="20251021220500 +0000" stop="20251021221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
@@ -3208,10 +3241,10 @@
 <programme start="20251021233000 +0000" stop="20251022030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251022030500 +0000" stop="20251022050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251022030500 +0000" stop="20251022043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Lakers</title>
 </programme>
-<programme start="20251022050000 +0000" stop="20251022100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251022043000 +0000" stop="20251022100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: Toray Pan Pacific Open Tennis in Tokio (JPN), 3. Tag</title>
 </programme>
 <programme start="20251022100000 +0000" stop="20251022103000 +0000" channel="Sky Sport Top Event HD.skyde">
