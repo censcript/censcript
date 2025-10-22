@@ -8237,7 +8237,7 @@
     <title>WONDR By BNI Indonesia Master</title>
 </programme>
 <programme start="20251022003000 +0000" stop="20251022010000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20251022010000 +0000" stop="20251022040000 +0000" channel="Sportstars 2.mncvision">
     <title>WONDR By BNI Indonesia... (L)</title>
@@ -8254,14 +8254,11 @@
 <programme start="20251022113000 +0000" stop="20251022143000 +0000" channel="Sportstars 2.mncvision">
     <title>Artistic Gymnastics C&#039;ship (L)</title>
 </programme>
-<programme start="20251022143000 +0000" stop="20251022150000 +0000" channel="Sportstars 2.mncvision">
-    <title>iNews Sport</title>
+<programme start="20251022143000 +0000" stop="20251022160000 +0000" channel="Sportstars 2.mncvision">
+    <title>WONDR By BNI Indonesia Master</title>
 </programme>
-<programme start="20251022150000 +0000" stop="20251022153000 +0000" channel="Sportstars 2.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20251022153000 +0000" stop="20251022160000 +0000" channel="Sportstars 2.mncvision">
-    <title>Tinju</title>
+<programme start="20251022160000 +0000" stop="20251022163000 +0000" channel="Sportstars 2.mncvision">
+    <title>Opening Ceremony (L)</title>
 </programme>
 <programme start="20251021180000 +0000" stop="20251021190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
@@ -8276,7 +8273,7 @@
     <title>WONDR By BNI Indonesia Master</title>
 </programme>
 <programme start="20251022003000 +0000" stop="20251022010000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Sport Today</title>
+    <title>Sports Today</title>
 </programme>
 <programme start="20251022010000 +0000" stop="20251022040000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>WONDR By BNI Indonesia... (L)</title>
@@ -8293,14 +8290,11 @@
 <programme start="20251022113000 +0000" stop="20251022143000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Artistic Gymnastics C&#039;ship (L)</title>
 </programme>
-<programme start="20251022143000 +0000" stop="20251022150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>iNews Sport</title>
+<programme start="20251022143000 +0000" stop="20251022160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>WONDR By BNI Indonesia Master</title>
 </programme>
-<programme start="20251022150000 +0000" stop="20251022153000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20251022153000 +0000" stop="20251022160000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Tinju</title>
+<programme start="20251022160000 +0000" stop="20251022163000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Opening Ceremony (L)</title>
 </programme>
 <programme start="20251021170000 +0000" stop="20251021180000 +0000" channel="Sportstars 3.mncvision">
     <title>Asian Youth Games Bahrain (L)</title>
