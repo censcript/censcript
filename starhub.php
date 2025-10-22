@@ -3287,7 +3287,7 @@
         <title>ICC Women&#039;s Cricket World Cup 2025: M21 - Sri Lanka vs Bangladesh HLs</title>
     </programme>
     <programme start="20251022090000 +0000" stop="20251022173000 +0000" channel="Hub Sports 4 HD.starhub">
-        <title>ICC Women&#039;s Cricket World Cup 2025: M23 - Australia vs England</title>
+        <title>ICC Women&#039;s Cricket World Cup 2025: M23 - Australia vs England (Live)</title>
     </programme>
     <programme start="20251021160000 +0000" stop="20251021161500 +0000" channel="DW English HD.starhub">
         <title>News</title>
