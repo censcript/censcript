@@ -1,7 +1,3 @@
-<programme start="20251022230000 +0700" stop="20251022234500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20251022234500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
@@ -57,14 +53,6 @@
 <programme start="20251023234500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>European Football Minute by Minute 2025-26 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251022210500 +0700" stop="20251022230500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - ACF Fiorentina</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251022230500 +0700" stop="20251022234500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E7</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022234500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Athletic Club - Qarabag FK (L)</title>
@@ -125,10 +113,6 @@
 <programme start="20251023234500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251022213000 +0700" stop="20251022234500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Kilmarnock - Heart of Midlothian</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022234500 +0700" stop="20251023020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Galatasaray AS - FK Bodo/Glimt (L)</title>
@@ -194,10 +178,6 @@
     <title>Football: Feyenoord - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251022230000 +0700" stop="20251022233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251022233000 +0700" stop="20251023014000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Rytas Vilnius - Promitheas (L)</title>
     <desc>Live: Ya</desc>
@@ -257,14 +237,6 @@
 <programme start="20251023234500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: AEK - Aberdeen (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251022220500 +0700" stop="20251022230500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20251022230500 +0700" stop="20251022234000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251022234000 +0700" stop="20251023004500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2025</title>
@@ -478,10 +450,6 @@
     <title>Football: Fenerbahce SK - VfB Stuttgart (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20251022220000 +0700" stop="20251023000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20251023000000 +0700" stop="20251023010000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -557,10 +525,6 @@
 <programme start="20251023234500 +0700" stop="20251024020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: SK Rapid Wien - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20251022220000 +0700" stop="20251023000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20251023000000 +0700" stop="20251023010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
