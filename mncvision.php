@@ -7999,78 +7999,7 @@
 <programme start="20251022163000 +0000" stop="20251021170000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
 </programme>
-<programme start="20251021170000 +0000" stop="20251021173000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20251021173000 +0000" stop="20251021180000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>New Top Files</title>
-</programme>
-<programme start="20251021180000 +0000" stop="20251021190000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Malam</title>
-</programme>
-<programme start="20251021190000 +0000" stop="20251021200000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20251021200000 +0000" stop="20251021210000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20251021210000 +0000" stop="20251021220000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20251021220000 +0000" stop="20251021230000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20251021230000 +0000" stop="20251022000000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Lintas iNews Pagi</title>
-</programme>
-<programme start="20251022000000 +0000" stop="20251022003000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Today</title>
-</programme>
-<programme start="20251022003000 +0000" stop="20251022020000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Today</title>
-</programme>
-<programme start="20251022020000 +0000" stop="20251022030000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20251022030000 +0000" stop="20251022033000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Sport Pagi</title>
-</programme>
-<programme start="20251022033000 +0000" stop="20251022050000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Siang</title>
-</programme>
-<programme start="20251022050000 +0000" stop="20251022053000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20251022053000 +0000" stop="20251022063000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Today</title>
-</programme>
-<programme start="20251022063000 +0000" stop="20251022070000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20251022070000 +0000" stop="20251022083000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Siang</title>
-</programme>
-<programme start="20251022083000 +0000" stop="20251022093000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20251022093000 +0000" stop="20251022110000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20251022110000 +0000" stop="20251022120000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20251022120000 +0000" stop="20251022133000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20251022133000 +0000" stop="20251022153000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Rakyat Bersuara</title>
-</programme>
-<programme start="20251022153000 +0000" stop="20251022163000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20251022163000 +0000" stop="20251021170000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>OMG</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20251021180000 +0000" stop="20251021181000 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
 </programme>
