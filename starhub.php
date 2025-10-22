@@ -3293,16 +3293,16 @@
         <title>News</title>
     </programme>
     <programme start="20251021161500 +0000" stop="20251021164500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Orca Uprising</title>
     </programme>
     <programme start="20251021164500 +0000" stop="20251021170000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Students lead anti-corruption protests in Serbia</title>
     </programme>
     <programme start="20251021170000 +0000" stop="20251021171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251021171500 +0000" stop="20251021173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Interview</title>
     </programme>
     <programme start="20251021173000 +0000" stop="20251021180000 +0000" channel="DW English HD.starhub">
         <title>Is the German car industry facing collapse?</title>
@@ -3332,13 +3332,13 @@
         <title>News</title>
     </programme>
     <programme start="20251021210200 +0000" stop="20251021211500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Interview</title>
     </programme>
     <programme start="20251021211500 +0000" stop="20251021214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Orca Uprising</title>
     </programme>
     <programme start="20251021214500 +0000" stop="20251021220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Smarter Sports: Greater Success With AI?</title>
     </programme>
     <programme start="20251021220000 +0000" stop="20251021220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3353,7 +3353,7 @@
         <title>News</title>
     </programme>
     <programme start="20251021231500 +0000" stop="20251021233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Interview</title>
     </programme>
     <programme start="20251021233000 +0000" stop="20251022000000 +0000" channel="DW English HD.starhub">
         <title>Marina Silva - Brazil&#039;s voice for the climate</title>
@@ -4827,6 +4827,9 @@
     </programme>
     <programme start="20251021213000 +0000" stop="20251021220000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
+    </programme>
+    <programme start="20251021220000 +0000" stop="20251021223000 +0000" channel="Vijay TV HD.starhub">
+        <title>Chinna Marumagal Panirendaam Vaguppu Sendra Vaaram</title>
     </programme>
     <programme start="20251021223000 +0000" stop="20251022000000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer</title>
