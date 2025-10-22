@@ -3356,7 +3356,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20251021233000 +0000" stop="20251022000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Marina Silva - Brazil&#039;s voice for the climate</title>
     </programme>
     <programme start="20251022000000 +0000" stop="20251022000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3365,7 +3365,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251022003000 +0000" stop="20251022010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Clubs in crisis! Is the party over in Berlin?</title>
     </programme>
     <programme start="20251022010000 +0000" stop="20251022011500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3380,13 +3380,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251022023000 +0000" stop="20251022030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Marina Silva - Brazil&#039;s voice for the climate</title>
     </programme>
     <programme start="20251022030000 +0000" stop="20251022031500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251022031500 +0000" stop="20251022033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Interview</title>
     </programme>
     <programme start="20251022033000 +0000" stop="20251022040000 +0000" channel="DW English HD.starhub">
         <title>Extreme weather: Can we adapt, mitigate, and even thrive?</title>
@@ -3404,13 +3404,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20251022053000 +0000" stop="20251022060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Clubs in crisis! Is the party over in Berlin?</title>
     </programme>
     <programme start="20251022060000 +0000" stop="20251022061500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251022061500 +0000" stop="20251022063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Interview</title>
     </programme>
     <programme start="20251022063000 +0000" stop="20251022070000 +0000" channel="DW English HD.starhub">
         <title>The Health Show</title>
@@ -3419,7 +3419,7 @@
         <title>News</title>
     </programme>
     <programme start="20251022073000 +0000" stop="20251022080000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Orca Uprising</title>
     </programme>
     <programme start="20251022080000 +0000" stop="20251022083000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3437,13 +3437,13 @@
         <title>News</title>
     </programme>
     <programme start="20251022103000 +0000" stop="20251022110000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Orca Uprising</title>
     </programme>
     <programme start="20251022110000 +0000" stop="20251022113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20251022113000 +0000" stop="20251022120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Clubs in crisis! Is the party over in Berlin?</title>
     </programme>
     <programme start="20251022120000 +0000" stop="20251022121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3455,7 +3455,7 @@
         <title>News</title>
     </programme>
     <programme start="20251022131500 +0000" stop="20251022133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Germany´s car industry on the brink?</title>
     </programme>
     <programme start="20251022133000 +0000" stop="20251022140000 +0000" channel="DW English HD.starhub">
         <title>Extreme weather: Can we adapt, mitigate, and even thrive?</title>
@@ -3464,7 +3464,7 @@
         <title>News</title>
     </programme>
     <programme start="20251022143000 +0000" stop="20251022150000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Clubs in crisis! Is the party over in Berlin?</title>
     </programme>
     <programme start="20251022150000 +0000" stop="20251022153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -4828,17 +4828,8 @@
     <programme start="20251021213000 +0000" stop="20251021220000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
     </programme>
-    <programme start="20251021220000 +0000" stop="20251021223000 +0000" channel="Vijay TV HD.starhub">
-        <title>Poongatru Thirumbuma</title>
-    </programme>
-    <programme start="20251021223000 +0000" stop="20251021230000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahanadhi Sagodharigalin Kadhai</title>
-    </programme>
-    <programme start="20251021230000 +0000" stop="20251021233000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20251021233000 +0000" stop="20251022000000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20251021223000 +0000" stop="20251022000000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
     </programme>
     <programme start="20251022000000 +0000" stop="20251022003000 +0000" channel="Vijay TV HD.starhub">
         <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
@@ -4852,71 +4843,35 @@
     <programme start="20251022013000 +0000" stop="20251022024500 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
     </programme>
-    <programme start="20251022024500 +0000" stop="20251022033000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251022024500 +0000" stop="20251022031500 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil Plus</title>
     </programme>
-    <programme start="20251022033000 +0000" stop="20251022050000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251022031500 +0000" stop="20251022043000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
+    </programme>
+    <programme start="20251022043000 +0000" stop="20251022060000 +0000" channel="Vijay TV HD.starhub">
         <title>Neeya Naana</title>
     </programme>
-    <programme start="20251022050000 +0000" stop="20251022053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20251022060000 +0000" stop="20251022073000 +0000" channel="Vijay TV HD.starhub">
+        <title>Athu Ithu Ethu</title>
     </programme>
-    <programme start="20251022053000 +0000" stop="20251022060000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
+    <programme start="20251022073000 +0000" stop="20251022090000 +0000" channel="Vijay TV HD.starhub">
+        <title>Sound Party</title>
     </programme>
-    <programme start="20251022060000 +0000" stop="20251022063000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
+    <programme start="20251022090000 +0000" stop="20251022103000 +0000" channel="Vijay TV HD.starhub">
+        <title>To Be Announced</title>
     </programme>
-    <programme start="20251022063000 +0000" stop="20251022070000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
+    <programme start="20251022103000 +0000" stop="20251022120000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
     </programme>
-    <programme start="20251022070000 +0000" stop="20251022073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sakthivel: Theeyaai Oru Theeraakkaadhal</title>
+    <programme start="20251022120000 +0000" stop="20251022133000 +0000" channel="Vijay TV HD.starhub">
+        <title>Start Music</title>
     </programme>
-    <programme start="20251022073000 +0000" stop="20251022080000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20251022080000 +0000" stop="20251022083000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thendrale Mella Pesu</title>
-    </programme>
-    <programme start="20251022083000 +0000" stop="20251022090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Magale En Marumagale</title>
-    </programme>
-    <programme start="20251022090000 +0000" stop="20251022093000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam - Ungalil Oruthi</title>
-    </programme>
-    <programme start="20251022093000 +0000" stop="20251022100000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20251022100000 +0000" stop="20251022103000 +0000" channel="Vijay TV HD.starhub">
-        <title>Poongatru Thirumbuma</title>
-    </programme>
-    <programme start="20251022103000 +0000" stop="20251022110000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahanadhi Sagodharigalin Kadhai</title>
-    </programme>
-    <programme start="20251022110000 +0000" stop="20251022113000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20251022113000 +0000" stop="20251022120000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
-    <programme start="20251022120000 +0000" stop="20251022123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai</title>
-    </programme>
-    <programme start="20251022123000 +0000" stop="20251022130000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20251022130000 +0000" stop="20251022133000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20251022133000 +0000" stop="20251022144500 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20251022133000 +0000" stop="20251022150000 +0000" channel="Vijay TV HD.starhub">
         <title>Bigg Boss Tamil</title>
     </programme>
-    <programme start="20251022144500 +0000" stop="20251022153000 +0000" channel="Vijay TV HD.starhub">
-        <title>Bigg Boss Tamil Plus</title>
-    </programme>
-    <programme start="20251022153000 +0000" stop="20251022160000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
+    <programme start="20251022150000 +0000" stop="20251022160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Super Singer</title>
     </programme>
     <programme start="20251021160000 +0000" stop="20251021163000 +0000" channel="Asianet.starhub">
         <title>Teacher Amma</title>
@@ -8197,7 +8152,7 @@
     <programme start="20251022103000 +0000" stop="20251022133000 +0000" channel="Asianet Movies.starhub">
         <title>Athisayan</title>
     </programme>
-    <programme start="20251022133000 +0000" stop="20251022180000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20251022133000 +0000" stop="20251022175000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa 2: The Rule</title>
     </programme>
     <programme start="20251021160000 +0000" stop="20251021170000 +0000" channel="Astro Warna HD.starhub">
