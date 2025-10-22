@@ -2737,12 +2737,6 @@
 <programme start="20251022185000 +0000" stop="20251022213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - Ajax Amsterdam, Ligaphase, 3. Spieltag, Mittwoch</title>
 </programme>
-<programme start="20251022183000 +0000" stop="20251022185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Es folgt: LIVE UEFA CL</title>
-</programme>
-<programme start="20251022185000 +0000" stop="20251022213000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Live UEFA CL: Atalanta Bergamo - Slavia Prag, Ligaphase, 3. Spieltag, Mittwoch</title>
-</programme>
 <programme start="20251022183000 +0000" stop="20251022185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Es folgt: LIVE UEFA CL</title>
 </programme>
@@ -3238,10 +3232,10 @@
 <programme start="20251021221500 +0000" stop="20251021233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: NBA Showtime</title>
 </programme>
-<programme start="20251021233000 +0000" stop="20251022022000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251021233000 +0000" stop="20251022030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251022022000 +0000" stop="20251022043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20251022030500 +0000" stop="20251022043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Lakers</title>
 </programme>
 <programme start="20251022043000 +0000" stop="20251022100000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3301,10 +3295,10 @@
 <programme start="20251021221500 +0000" stop="20251021233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: NBA Showtime</title>
 </programme>
-<programme start="20251021233000 +0000" stop="20251022020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251021233000 +0000" stop="20251022030500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251022020000 +0000" stop="20251022053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251022030500 +0000" stop="20251022053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Lakers</title>
 </programme>
 <programme start="20251021220000 +0000" stop="20251021224500 +0000" channel="SYFY HD.skyde">

@@ -366,6 +366,10 @@
     <title>Tennis: ATP 500 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20251024034500 +0700" stop="20251024044500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20251023020000 +0700" stop="20251023040500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: FC Bayern Munchen - Club Brugge (L)</title>
     <desc>Live: Ya</desc>
