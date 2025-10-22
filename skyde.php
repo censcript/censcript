@@ -3301,10 +3301,10 @@
 <programme start="20251021221500 +0000" stop="20251021233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: NBA Showtime</title>
 </programme>
-<programme start="20251021233000 +0000" stop="20251022022000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251021233000 +0000" stop="20251022030500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20251022022000 +0000" stop="20251022053000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20251022030500 +0000" stop="20251022053000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ LA Lakers</title>
 </programme>
 <programme start="20251021220000 +0000" stop="20251021224500 +0000" channel="SYFY HD.skyde">
