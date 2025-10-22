@@ -1601,7 +1601,7 @@
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20251022123000 +0000" stop="20251022130000 +0000" channel="BTV.mncvision">
-    <title>30 Minutes With ESDM</title>
+    <title>Dunia Binatang</title>
 </programme>
 <programme start="20251022130000 +0000" stop="20251022140000 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>

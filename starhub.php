@@ -3455,7 +3455,7 @@
         <title>News</title>
     </programme>
     <programme start="20251022131500 +0000" stop="20251022133000 +0000" channel="DW English HD.starhub">
-        <title>Germany´s car industry on the brink?</title>
+        <title>Germany&#039;s car industry on the brink?</title>
     </programme>
     <programme start="20251022133000 +0000" stop="20251022140000 +0000" channel="DW English HD.starhub">
         <title>Extreme weather: Can we adapt, mitigate, and even thrive?</title>
@@ -3470,7 +3470,7 @@
         <title>News</title>
     </programme>
     <programme start="20251022153000 +0000" stop="20251022160000 +0000" channel="DW English HD.starhub">
-        <title>Build resilience: Climate-conscious cities, homes and coasts</title>
+        <title>Armenian Foreign Minister: Deepening EU ties is our priority</title>
     </programme>
     <programme start="20251021160000 +0000" stop="20251021220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
